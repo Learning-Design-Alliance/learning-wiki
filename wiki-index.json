@@ -39108,13 +39108,14 @@
 "type":"claim"
 },
 {
-"description":"Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes",
+"description":"Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes",
 "evidence_strength":"mixed",
 "id":"blended-simulation-versus-simulation-alone-mixed",
 "newest_evidence":"2026",
 "path":"claims/blended-simulation-versus-simulation-alone-mixed.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes",
+"title":"Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes",
 "type":"claim"
 },
 {
@@ -88452,13 +88453,14 @@
 "type":"claim"
 },
 {
-"description":"Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not",
+"description":"Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant",
 "evidence_strength":"moderate",
 "id":"didactic-education-fails-to-improve-teamwork",
 "newest_evidence":"2017",
 "path":"claims/didactic-education-fails-to-improve-teamwork.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not",
+"title":"Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant",
 "type":"claim"
 },
 {
@@ -169257,6 +169259,7 @@
 "id":"information-skills-elective-task-gains",
 "newest_evidence":"2016",
 "path":"claims/information-skills-elective-task-gains.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)",
 "type":"claim"
@@ -179408,6 +179411,7 @@
 "id":"its-on-demand-features-significant-effects",
 "newest_evidence":"2025",
 "path":"claims/its-on-demand-features-significant-effects.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning",
 "type":"claim"
@@ -224571,13 +224575,14 @@
 "type":"claim"
 },
 {
-"description":"Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted",
+"description":"Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was",
 "evidence_strength":"moderate",
 "id":"multiple-dimensions-needed-for-teamwork-gains",
 "newest_evidence":"2017",
 "path":"claims/multiple-dimensions-needed-for-teamwork-gains.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted",
+"title":"Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was",
 "type":"claim"
 },
 {
@@ -242099,6 +242104,7 @@
 "id":"observational-evidence-may-overestimate-simulation-impact",
 "newest_evidence":"2026",
 "path":"claims/observational-evidence-may-overestimate-simulation-impact.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The review suggests current observational evidence may overestimate simulation's impact, since more rigorous cluster-RCTs showed only time-limited mortality reductions or nonsignificant results",
 "type":"claim"
@@ -254663,6 +254669,7 @@
 "id":"pbl-higher-excellence-rates-chinese-medical-courses",
 "newest_evidence":"2015",
 "path":"claims/pbl-higher-excellence-rates-chinese-medical-courses.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL yields higher course examination excellence rates than LBL in introductory Chinese undergraduate medical courses",
 "type":"claim"
@@ -254714,6 +254721,7 @@
 "id":"pbl-higher-pass-rates-chinese-medical-courses",
 "newest_evidence":"2015",
 "path":"claims/pbl-higher-pass-rates-chinese-medical-courses.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses",
 "type":"claim"
@@ -255064,6 +255072,7 @@
 "id":"pbl-knowledge-five-year-system-subgroup",
 "newest_evidence":"2016",
 "path":"claims/pbl-knowledge-five-year-system-subgroup.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)",
 "type":"claim"
@@ -255084,6 +255093,7 @@
 "id":"pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis",
 "newest_evidence":"2016",
 "path":"claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)",
 "type":"claim"
@@ -255124,6 +255134,7 @@
 "id":"pbl-lbl-combination-not-superior-to-exclusive-pbl",
 "newest_evidence":"2015",
 "path":"claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application",
 "type":"claim"
@@ -255709,6 +255720,7 @@
 "id":"pbl-skill-scores-chinese-physical-diagnostics-meta-analysis",
 "newest_evidence":"2016",
 "path":"claims/pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)",
 "type":"claim"
@@ -347196,6 +347208,7 @@
 "id":"tailoring-utilization-surprisingly-low",
 "newest_evidence":"2011",
 "path":"claims/tailoring-utilization-surprisingly-low.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions",
 "type":"claim"
@@ -373860,6 +373873,7 @@
 "id":"usability-and-control-rated-important-by-93-percent",
 "newest_evidence":"2011",
 "path":"claims/usability-and-control-rated-important-by-93-percent.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"93% of students rated usability and control as important to their learning",
 "type":"claim"

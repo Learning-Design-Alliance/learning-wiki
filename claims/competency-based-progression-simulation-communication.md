@@ -46,6 +46,6 @@ Systematic review of 20 studies of simulation-based training for undergraduate n
 
 
 ## Related Claims
-- [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
+- [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related

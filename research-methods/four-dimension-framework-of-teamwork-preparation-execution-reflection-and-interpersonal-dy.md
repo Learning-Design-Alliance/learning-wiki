@@ -22,7 +22,7 @@ The article organizes teamwork into behaviors that regulate team performance and
 - **Four-dimension framework of teamwork: preparation, execution, reflection, and interpersonal dynamics**: The article organizes teamwork into behaviors that regulate team performance and behaviors that keep the team together, following Lewin's locomotion and maintenance processes. Regulation spans behaviors "before/in preparation for team task performance," during execution (communication, coordination, cooperation), and after task completion (reflection, monitoring, adjustment), while a fourth dimension covers interpersonal dynamics such as conflict management and social support. The meta-analysis used these four dimensions to code targeted and measured dimensions of interventions. (McEwan D. et al. (2017))
 
 ### Claims
-- [Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [+M]
+- [Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [+M]
 
 ## Related Research Methods
 -

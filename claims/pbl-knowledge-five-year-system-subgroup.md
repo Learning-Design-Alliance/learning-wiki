@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: wang-2016
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5093758/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Stratified analysis of 6 five-year-system studies found significantly higher knowledge scores for PBL (SMD = 0.90, 95%CI 0.04–1.76). [→ Wang 2016](#wang-2016)

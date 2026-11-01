@@ -45,7 +45,7 @@ Random-effects meta-analysis of 50 interventions from 32 controlled studies with
 
 
 ## Related Claims
-- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — a narrower finding that bears on this claim
+- [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — a narrower finding that bears on this claim
 - [Teamwork training effects on teamwork are larger for new teams, but effects on team performance are larger for intact teams](team-type-moderates-teamwork-training-effects.md) — related
 - [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](teamwork-training-improves-teamwork-behaviors.md) — related
 - [Third-party measures of teamwork yield significantly larger training effects than self-report measures](third-party-measures-larger-effects-than-self-report.md) — related

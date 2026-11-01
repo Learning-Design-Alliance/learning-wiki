@@ -49,7 +49,7 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](competency-based-progression-simulation-communication.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
-- [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
+- [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](more-vs-less-simulation-mixed.md) — related
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related

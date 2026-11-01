@@ -38,12 +38,12 @@ Based on the moderator findings, the authors recommend that teamwork training in
 
 ## Claims
 
-- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](../claims/didactic-education-fails-to-improve-teamwork.md) [+W]
-- [Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [+W]
+- [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](../claims/didactic-education-fails-to-improve-teamwork.md) [+W]
+- [Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [+W]
 - [Teamwork training interventions produce significant positive effects on team performance in controlled studies](../claims/teamwork-training-improves-team-performance.md) [+W]
 - [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](../claims/teamwork-training-improves-teamwork-behaviors.md) [+W]
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](../claims/interactive-patient-centered-methods-attributed-effectiveness.md) [+W]
-- [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](../claims/blended-simulation-versus-simulation-alone-mixed.md) [+W]
+- [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](../claims/blended-simulation-versus-simulation-alone-mixed.md) [+W]
 
 ## Related Strategies
 - 

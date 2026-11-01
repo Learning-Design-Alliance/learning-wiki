@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: walter-l-leite-2025
     resource: "https://arxiv.org/abs/2511.04997"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ITS providing worked-out examples (g=0.324) and on-demand hints (g=0.316) showed statistically significant effect sizes; just-in-time hints (g=0.337) did not. [→ Walter L. Leite 2025](#walter-l-leite-2025)

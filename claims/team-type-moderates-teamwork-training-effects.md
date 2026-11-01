@@ -50,6 +50,6 @@ Moderator analysis (Table 4) of the team performance pool comparing intact versu
 
 ## Related Claims
 - [Third-party measures of teamwork yield significantly larger training effects than self-report measures](third-party-measures-larger-effects-than-self-report.md) — related
-- [Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted](multiple-dimensions-needed-for-teamwork-gains.md) — related
-- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — related
+- [Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was](multiple-dimensions-needed-for-teamwork-gains.md) — related
+- [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
 - [Teamwork training interventions produce significant positive effects on team performance in controlled studies](teamwork-training-improves-team-performance.md) — related

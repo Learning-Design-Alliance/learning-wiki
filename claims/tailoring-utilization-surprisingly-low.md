@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-01
 sources:
   - id: lehto-tuomas-msc-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222186/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 8 of the 23 reviewed articles described tailoring functionality embedded in the actual interventions, which the authors characterize as surprisingly low. [→ Lehto Tuomas MSc 2011](#lehto-tuomas-msc-2011)

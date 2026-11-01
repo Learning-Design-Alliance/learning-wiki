@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: kyriakoulis-konstantinos-2016
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5066070/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A multifaceted course (exercises, small group discussion, didactic lecture) produced pre-post mean score gains across tasks including defining the topic (3.06 to 3.87), finding evidence-based information (3.03 to 3.87), and assessing reliability/validity of information on the web (2.59 to 3.77). [→ Kyriakoulis Konstantinos 2016](#kyriakoulis-konstantinos-2016)

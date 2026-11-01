@@ -17,7 +17,7 @@ sources:
 # Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 3 studies (2 review, 1 quant-synthesis), `q2` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 review, 1 quant-synthesis), `q2` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that universities and hospitals consider VR as a tool in medical teaching situations, while treating it as a complement rather than a replacement for dissection: "VR could be used as an adjunct to dissection in class with fewer lab hours or resources." It further advises that future research assess satisfaction, cost-effectiveness, and adverse reactions when evaluating VR's teaching effectiveness, and that learning duration be considered and adjusted in practice.
@@ -46,7 +46,7 @@ The article recommends that universities and hospitals consider VR as a tool in 
 
 ## Related Strategies
 
-- [Vr Anatomy Teaching Improves Test Scores](../claims/vr-anatomy-teaching-improves-test-scores.md)
+- [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](../claims/vr-anatomy-teaching-improves-test-scores.md) [+M]
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
