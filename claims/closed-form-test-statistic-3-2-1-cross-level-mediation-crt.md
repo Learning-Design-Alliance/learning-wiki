@@ -47,3 +47,4 @@ Analytical derivation reported in the Purpose section of the abstract. The autho
 ## Related Claims
 - [Group-mean centering allows the within-group (teacher-level) mediation effect to be estimated separately from the between-group (school-level) mediation effect in three-level CRTs](group-mean-centering-separates-within-between-mediation-power.md) — related
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
+- [Teacher-level moderator power depends on whether teachers are the unit of assignment: MDESDTCHR is .37 in two-level CRTs but .21 in three-level CRTs](teacher-moderator-power-depends-on-assignment-level.md) — related

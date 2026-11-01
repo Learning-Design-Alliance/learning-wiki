@@ -61,3 +61,4 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 - [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
+- [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — a narrower finding that bears on this claim

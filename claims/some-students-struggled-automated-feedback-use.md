@@ -74,3 +74,4 @@ Key finding from the brief's synthesis of the Ecree and MI Write studies: "Some 
 - [Students rated MI Write's desirability lower than its usability and usefulness, influenced by perceptions of scoring accuracy](mi-write-desirability-lower-influenced-by-accuracy.md) — related
 - [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](mi-write-usability-moderate-scoring-easier-than-feedback.md) — related
 - [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related
+- [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — a narrower finding that bears on this claim

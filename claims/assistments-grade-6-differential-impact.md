@@ -59,3 +59,4 @@ Grade-level subgroup analysis of the quasi-experimental sample (predominantly 7t
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](wraparound-ses-improves-math-achievement.md) — related
 - [Group differentiation by students' learning strategies raises secondary school student performance by a small but significant margin](differentiation-learning-strategies-raises-performance.md) — related
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](assistments-greater-gains-lower-prior-achievement.md) — related
+- [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](values-affirmation-district-trial-modest-impacts.md) — reports the opposite

@@ -104,3 +104,4 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [Traditional form-focused instruction produces significant gains in production but not in comprehension](traditional-instruction-gains-production-only.md) — related
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — possibly the same claim (merge candidate)
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — related
+- [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](meaning-focused-only-no-accuracy-gain.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Within the same four-wave experiment, an exploratory subgroup finding in wave on
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Preregistered Wave 2 replicated Wave 1's finding of poorer audio-visual associative learning in children with dyslexia](wave2-replication-av-learning-deficit-dyslexia.md) — a narrower finding that bears on this claim
+- [Student and teacher engagement with the values-affirmation exercise declined notably by the fourth administration](engagement-declines-by-fourth-exercise.md) — related

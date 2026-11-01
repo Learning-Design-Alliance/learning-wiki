@@ -49,3 +49,4 @@ Cluster randomized controlled trial of the Pre-K Mathematics intervention scaled
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](prek-mathematics-positive-math-effects.md) — related
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](building-blocks-outperformed-pre-k-mathematics-head-to-head.md) — related
 - [Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019](mathematica-implementation-study-early-math-scale-up-2018-2019.md) — related
+- [The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through](triad-building-blocks-legacy-positive-effects.md) — related

@@ -49,3 +49,4 @@ Comparison of two instructional approaches with 50 middle school students: a cri
 - [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md) — related
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related
 - [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md) — related
+- [Control-group-I students mostly watched teacher demonstrations and reported limited self-confidence in experimenting](cg1-students-watched-demonstrations-limited-confidence.md) — related

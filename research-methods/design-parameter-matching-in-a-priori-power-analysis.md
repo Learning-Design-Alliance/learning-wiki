@@ -26,7 +26,8 @@ This principle holds that a priori power analyses should strive for an ideal mat
 - [Design parameters for preschool outcomes show substantial heterogeneity across populations, as reflected in wide 95% prediction intervals](../claims/preschool-design-parameter-heterogeneity.md) [+M]
 
 ## Related Research Methods
--
+
+- [Power planning for individual-level moderators in cluster-randomized education trials](power-planning-for-individual-level-moderators-in-cluster-randomized-education-trials.md)
 
 ## Key Sources
 - Martin Brunner, Sophie E. Stallasch, Cordula Artelt, Oliver Lüdtke. (2025). An Individual Participant Data Meta-Analysis to Support Power Analyses for Randomized Intervention Studies in Preschool: Cognitive and Socio-Emotional Learning Outcomes. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09981-z

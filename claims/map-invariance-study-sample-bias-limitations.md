@@ -71,3 +71,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
 - [The time model has group invariance, so it captures problem difficulty without the selection bias that biases mean solving times](group-invariance-time-model-difficulty.md) — related
+- [The WATS efficacy estimate is qualified by high instructor attrition, and replication with a second cohort is underway](wats-study-instructor-attrition-limit.md) — related

@@ -50,3 +50,4 @@ Study by Volodarskaia (1972) teaching 50 sixth graders (11-12 year-olds) who per
 ## Related Claims
 - [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](self-explanation-far-transfer-geometry-classroom.md) — related
 - [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related
+- [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](meac-student-work-line-angle-understanding.md) — related

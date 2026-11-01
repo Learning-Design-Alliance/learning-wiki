@@ -132,3 +132,6 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](fractions-tutor-significant-learning-gains.md) — a narrower finding that bears on this claim
 - [Kyrgyzstani EFL students' written English responses increased and non-responses decreased without explicit instruction to answer in English](increased-english-use-adt-responses.md) — related
 - [Effects of text structure instruction are maintained over time (g = 0.57 at delayed posttest)](tsi-maintenance-temporal-transfer.md) — a narrower finding that bears on this claim
+- [Corrective feedback effects on partially acquired structures may emerge only on delayed measures, not immediately](delayed-emergence-of-cf-effects-partially-acquired-structures.md) — a narrower finding that bears on this claim
+- [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](meaning-focused-only-no-accuracy-gain.md) — related
+- [Recasts on simple past tense errors outperform no feedback on oral accuracy in the final session (p = .040)](recasts-outperform-no-feedback-oral-accuracy.md) — a narrower finding that bears on this claim

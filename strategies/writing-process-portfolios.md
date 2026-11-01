@@ -60,9 +60,11 @@ Portfolios operationalize process-oriented writing instruction, which meta-analy
 6. Score with an analytic rubric covering both product quality and documented process; return feedback before final grading ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [5-minute writing conferences](5-minute_writing_conferences.md) — the individual feedback mechanism that keeps a portfolio alive mid-process
 - [Action planning](action_planning.md) — students translate portfolio reflection into next-step writing goals
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the reflection routines the cover letter depends on
+- [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
 
 ## Examples
 - **National Writing Project classrooms** — teachers routinely use working portfolios with revision memos and reflective letters as the core assessment of writing units ([nwp.org](https://www.nwp.org))

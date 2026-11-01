@@ -56,3 +56,4 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
 - [Teachers' design work extends before, while, and after a unit is taught](design-work-extends-before-while-after-unit.md) — related
+- [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related

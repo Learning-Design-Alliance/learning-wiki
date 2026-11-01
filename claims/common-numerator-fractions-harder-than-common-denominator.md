@@ -50,3 +50,4 @@ A mixed-design ANOVA comparing prime RTs (common numerator) and control probe RT
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
 - [Participants required less time to solve common-numerator items containing an improper fraction than items without improper fractions](improper-fraction-facilitation-common-numerator.md) — related
 - [The amplitude of the negative priming effect did not differ between adolescents and adults](negative-priming-amplitude-no-age-difference.md) — related
+- [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](fsi-gains-common-numerator-whole-number-bias-items.md) — related

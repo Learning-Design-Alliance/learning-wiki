@@ -58,3 +58,4 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](certification-equity-gap-reframing.md) — related
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related
+- [Ms Excel can be used to instruct most of the Basic Statistics Course content conceptually with pre-service science teachers](excel-feasible-teaching-basic-statistics-course.md) — related

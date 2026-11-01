@@ -59,3 +59,4 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [Carnegie Learning attributes positive practitioner feedback to connecting research to participants' needs, lowering effort barriers, and compensating participation](carnegie-learning-practitioner-engagement-tactics.md) — related
 - [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — related
 - [Teachers' framework implementation developed into increased mastery with system experience; second-phase teachers were more confident and evaluated outcomes more positively](teacher-mastery-confidence-increased-with-experience.md) — related
+- [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related

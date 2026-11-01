@@ -52,6 +52,7 @@ The article's practical implication is that instructors should "incorporate less
 ## Related Strategies
 
 - [Field Trips](field_trips.md)
+- [Use field trips to promote active engagement, self-motivation, discovery learning and learning by experience in practical subjects](field-trip-active-engagement-strategy.md)
 
 ## Examples
 -

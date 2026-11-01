@@ -48,3 +48,4 @@ Quasi-experimental 2-way ANOVA on post-test scores of 139 8th-grade students (70
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — a narrower finding that bears on this claim
 - [No statistically significant interaction between gender and teaching strategy on acquiring religious concepts](no-gender-strategy-interaction-kwl.md) — a narrower finding that bears on this claim
 - [Experimental and control groups were statistically equivalent on religious-concepts pretest before the intervention](kwl-study-pretest-equivalence.md) — a narrower finding that bears on this claim
+- [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related

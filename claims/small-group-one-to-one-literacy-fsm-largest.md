@@ -50,3 +50,4 @@ Subgroup IPD meta-analysis by intervention type (Table 11; 24 one-to-one, 17 sma
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](cmc-small-group-sizes-largest-effect.md) — related
+- [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related

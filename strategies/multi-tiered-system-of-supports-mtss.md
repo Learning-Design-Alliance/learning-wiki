@@ -98,6 +98,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](two-stage-gated-screening-at-risk-readers.md)
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 - [Investigate limited responders' response to increasingly intensive levels of mathematics intervention within tiered systems of support](intensify-math-intervention-tiered-support-research.md)
+- [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

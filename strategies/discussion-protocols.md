@@ -77,6 +77,7 @@ Protocols work because they convert discussion from a social performance into a 
 5. Debrief both the content and the process — what claims held up, and what made the talk productive — so norms improve over time.
 
 ## Related Strategies
+
 - [Class Discussion](../elements/class-discussion.md) — the unstructured baseline that protocols formalize
 - [Debate](../patterns/debate.md) — an adversarial protocol variant with assigned positions and rebuttal obligations
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader pattern in which protocols are the operating routines
@@ -84,6 +85,7 @@ Protocols work because they convert discussion from a social performance into a 
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the most widely used lightweight protocol
 - [Jigsaw](jigsaw.md) — a protocol that distributes expertise across group members
 - [Cold Calling](cold-call.md) — an alternative participation structure that trades protocol predictability for randomized accountability
+- [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** (Lyman, 1981) — the most widely used protocol; individual think time, pair rehearsal, whole-class share, used across K-12 and higher education.

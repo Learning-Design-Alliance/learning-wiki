@@ -51,3 +51,4 @@ Process evaluation using monthly coordinator ratings on 13 items rated on a 4-po
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)
 - [Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool](swpbis-training-high-fidelity-set.md) — related
 - [NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days](nba-math-hoops-high-implementation-fidelity.md) — related
+- [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](cbc-fidelity-high-rural-trial.md) — related

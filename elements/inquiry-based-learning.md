@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (16 for, 4 mixed, 3 against) · 26 studies (8 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (16 for, 5 mixed, 3 against) · 27 studies (9 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 20 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -72,6 +72,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [The 5E and related instructional models significantly improve pre-K–12 science achievement (g = 0.82)](../claims/5e-model-improves-science-achievement.md) [+W]
 - [The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching](../claims/5e-model-large-effect-science-process-skills.md) [+W]
 - [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](../claims/blended-instruction-teaching-methods-effect-differences.md) [+W]
+- [Self- and peer-assessment showed no big differences between groups except a more intensive inquiry process in the scaffolded group](../claims/self-peer-assessment-inquiry-process-scaffolded-advantage.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

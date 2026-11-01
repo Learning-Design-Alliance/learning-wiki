@@ -72,3 +72,5 @@ Implementation interviews in the Massachusetts study (Sprague et al., 2012) foun
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
 - Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students — related
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
+- [Experimental-group students reported satisfaction with corpus-based lexical teaching while finding some materials too challenging](corpus-lexical-teaching-student-satisfaction.md) — related
+- [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related

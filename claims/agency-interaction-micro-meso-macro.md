@@ -48,3 +48,4 @@ Thematic analysis of the narrative data; the article reports the four agency dim
 - [Digital transformation permeates all levels of the education system as an interdependent structure](digital-transformation-interdependent-multi-level-structure.md) — a broader claim this one bears on
 - [The review identifies human capital development as the leading rationale, operating at micro, meso, and macro levels](human-capital-rationale-scholarships.md) — related
 - [Only one reviewed ITS (Selfit) organizes training in periodized cycles; most systems rely on repetition without structured plans](its-training-organization-selfit-only.md) — related
+- [Institutional (macro) sources currently provide the highest level of SoTL support in CSD, with programs (meso) providing the fewest](macro-level-highest-sotl-support-csd.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Pre-post comparison on the PENCRISAL test (35 open-answer items across five fact
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md)
 - [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](metacognition-ct-bidirectional-relation.md) — related
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
+- [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — related

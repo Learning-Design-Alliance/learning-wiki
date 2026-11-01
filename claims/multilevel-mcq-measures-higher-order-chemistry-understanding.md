@@ -52,3 +52,4 @@ The review reports, citing Bachtiar et al. (2020), Chandrasegaran et al. (2007) 
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](mcq-exclusive-use-retention-risk.md) — related
+- [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](meac-student-work-line-angle-understanding.md) — related

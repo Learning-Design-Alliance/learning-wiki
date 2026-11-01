@@ -49,3 +49,4 @@ The authors' theoretical argument that laboratory studies "provide suggestions a
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — a broader claim this one bears on
 - [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related
 - [A tutoring system can adjust its behaviour in response to a dynamically modelled motivational state, though some motivational rules are not appreciated by learners](more-system-adjusted-behavior-to-motivational-state.md) — related
+- [Laboratory-established learning principles do not automatically translate to learning gains for all students in real classrooms](lab-principles-not-automatic-classroom-gains.md) — related

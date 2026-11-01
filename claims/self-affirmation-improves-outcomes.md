@@ -111,3 +111,5 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — related
 - [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](mooc-intervention-first-wave-findings-failed-to-replicate.md) — related
 - [Self-efficacy motivational feedback messages yielded the best learning gains among three theory-based motivational interventions in Experiment 2](self-efficacy-messages-best-learning-gains.md) — related
+- [Student and teacher engagement with the values-affirmation exercise declined notably by the fourth administration](engagement-declines-by-fourth-exercise.md) — related
+- [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](values-affirmation-district-trial-modest-impacts.md) — related

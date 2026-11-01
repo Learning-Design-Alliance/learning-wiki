@@ -59,8 +59,10 @@ Prediction activates relevant prior knowledge before engagement, giving learners
 5. Debrief in [Class Discussion](../elements/class-discussion.md): which predictions held, which failed, and what textual evidence settled the question. The discrepancy discussion is the payoff — do not skip it.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — prediction is a goal-directed form of activation; the guess gives the activated knowledge a job to do
 - [Advance Organizers](../elements/advance-organizers.md) — a preview structure that can serve as the scaffold from which predictions are generated
+- [Use the Preview and Predict strategy: students preview title and pictures, predict from prior knowledge, then read and verify predictions](preview-and-predict-strategy.md)
 
 ## Examples
 - **Anticipation guides in expository reading** — Learners agree/disagree with 4–6 statements about a topic before reading a science text, then revisit each after reading and cite evidence for changes. Widely used in content-area literacy instruction.

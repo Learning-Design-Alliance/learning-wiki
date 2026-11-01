@@ -48,6 +48,7 @@ The article recommends extending the software concept by allowing learners to pl
 ## Related Strategies
 
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
+- [Have students draw their own cartoons to express concerns and consolidate understanding of an issue](students-draw-own-cartoons.md)
 
 ## Examples
 -

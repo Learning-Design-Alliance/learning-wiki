@@ -61,3 +61,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Virtual-world-based teaching helped lecturers deliver courses more interactively than pure online video-based modes during the pandemic.](vw-more-interactive-than-video-only-mode.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [Working with live, real-world datasets promoted students' perception of real-world authenticity and career transferability in a high school data science curriculum](live-real-world-datasets-real-world-authenticity.md) — a narrower finding that bears on this claim
+- [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — a narrower finding that bears on this claim

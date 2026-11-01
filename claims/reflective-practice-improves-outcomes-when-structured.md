@@ -164,3 +164,5 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 - [Teaching more text structures and including writing each increase the effect of text structure instruction](tsi-moderators-structures-and-writing.md) — related
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
 - [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related
+- [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — a narrower finding that bears on this claim
+- [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](reflective-journal-writing-improves-self-regulation-strategies.md) — a narrower finding that bears on this claim

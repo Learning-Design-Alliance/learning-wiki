@@ -152,3 +152,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](pbl-promotes-sdl-lectures-deter.md) — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
 - [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related
+- [Civic education teaching in Nigerian secondary schools has been dominated by teacher-centered strategies emphasizing transmission of civic information](teacher-centered-civic-education-nigeria.md) — related

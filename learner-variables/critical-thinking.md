@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (78 show a difference, 24 mixed, 9 no difference) · 81 studies (24 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 81 report an effect size · 109 claims rest on one study
+> **Evidence** · 113 claims (80 show a difference, 24 mixed, 9 no difference) · 83 studies (26 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 83 report an effect size · 111 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -151,6 +151,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Instructor feedback on individual CASP-based RCT assignments significantly improved fifth-year pharmacy students' RCT evaluation scores](../claims/feedback-improves-pharmacy-rct-evaluation-scores.md) [+M] — instruction changes it
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](../claims/debate-outperforms-control-ct-and-speaking.md) [+M] — instruction changes it
 - [WSDC debate instruction significantly improved tenth-grade EFL students' critical thinking achievement within the experimental group](../claims/wsdc-debate-improves-efl-critical-thinking.md) [+M] — instruction changes it
+- [A debate model in yellow book learning can increase students' critical thinking skills relative to conventional learning models](../claims/debate-model-increases-critical-thinking-yellow-book.md) [+M] — instruction changes it
+- [Nursing students taught with Think-Pair-Show gained significantly more critical thinking over a 17-week course than students taught without it](../claims/tps-greater-ct-gain-nursing-students.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

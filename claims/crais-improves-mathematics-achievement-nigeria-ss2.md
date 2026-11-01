@@ -52,3 +52,4 @@ Pretest-posttest, control group, quasi-experimental study of 191 SS II students 
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [Gender has no significant main effect on senior secondary students' achievement in mathematics](gender-no-significant-effect-mathematics-achievement.md) — related
 - [Nigerian students' credit-pass rates in WASSCE mathematics remained poor from 1999 to 2011, peaking at about 57.3% in 2008](wassce-mathematics-credit-pass-rates-1999-2011-poor.md)
+- [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — related

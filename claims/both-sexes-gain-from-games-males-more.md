@@ -16,12 +16,14 @@ sources:
     author: Okpube Nnaemeka Michael, Anugwo M. N.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Both male and female students gained from games-based instruction, though the gain was higher for males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Okpube Nnaemeka Michael, Anugwo M. N. (2016). Card Games and Algebra Tic Tacmatics on Achievement of Junior Secondary II Students in Algebraic Expressions. International Journal of Evaluation and Research in Education (IJERE). http://iaesjournal.com/online/index.php/IJERE
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Authors' interpretation in the Discussion section of the quasi-experimental study: "the gain in the mean scores of both sexes" was observed, with the male gain higher. This is an interpretive statement about descriptive gains, not a separately tested effect; no gain statistics are printed for this contrast.
 

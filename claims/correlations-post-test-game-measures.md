@@ -52,3 +52,4 @@ Pearson correlation analysis (Table 2) among the study measures; post-test corre
 - [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — reports the opposite
 - [Motivation is positively related to accuracy and response time during game-based learning](motivation-accuracy-response-time-relation.md) — related
 - [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — possibly the same claim (merge candidate)
+- [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related

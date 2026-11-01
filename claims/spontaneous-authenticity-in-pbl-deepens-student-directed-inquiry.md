@@ -73,3 +73,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Elementary CCS students articulated multiple, varied project purposes, with all students acting toward helping the birds](youth-varied-project-purposes-ccs.md) — related
 - [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
+- [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](qualitative-support-for-intervention-experience.md) — related

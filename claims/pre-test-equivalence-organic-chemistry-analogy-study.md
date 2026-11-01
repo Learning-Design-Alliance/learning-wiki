@@ -50,3 +50,6 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Before treatment, the Logo and control groups showed no statistically significant difference in achievement on two-dimensional shapes](logo-pretest-no-significant-difference.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
+- [The pre-tested experimental group gained more on the Chemistry Achievement Test than the pre-tested control group](cbs-higher-mean-gain-than-rtm.md) — related
+- [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related

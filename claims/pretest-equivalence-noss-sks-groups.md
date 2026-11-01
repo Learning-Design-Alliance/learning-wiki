@@ -66,3 +66,6 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups were statistically equivalent on religious-concepts pretest before the intervention](kwl-study-pretest-equivalence.md) — related
 - [The TIP and educational games groups were equivalent in prior literacy knowledge at pre-test](tip-games-groups-equivalent-pretest-literacy.md) — related
+- [A contextual teaching and learning curriculum produced no statistically significant difference in pre/posttest gain versus a scientific-basis curriculum in a postsecondary agricultural biotechnology course](ctl-no-significant-gain-difference-ag-biotech.md) — related
+- [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related

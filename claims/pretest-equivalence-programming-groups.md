@@ -49,3 +49,7 @@ Three open-ended pretest questions administered to both groups before the 10-wee
 - [Experimental-group students taught with the hybrid CFC-analogy-template approach scored significantly higher than control-group students on the overall posttest (ProKT)](hybrid-approach-improves-introductory-programming-posttest.md) — related
 - [The hybrid approach produced a significant advantage in the problem-solving domain but not in the conceptual-understanding domain](hybrid-approach-problem-solving-domain-advantage.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
+- [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [The two groups did not differ significantly in idiom knowledge at pretest](no-pretest-difference-between-idiom-groups.md) — related
+- [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related

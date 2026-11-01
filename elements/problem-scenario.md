@@ -99,6 +99,7 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - **[CapsimInbox](https://www.capsim.com)** — simulated business scenarios where learners make sequential management decisions and receive performance feedback
 - A realistic case introduction that frames the decisions learners will need to make.
 - [Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported](../strategies/design-tasks-anticipating-uncertainty.md)
+- [Use real-life scenarios requiring learners to produce goal-directed language with target vocabulary](../strategies/real-life-scenario-vocabulary-strategy.md)
 
 ## Key Sources
 - Barrows, H. S. (1986). A taxonomy of problem-based learning methods. *Medical Education, 20*(6), 481–486. [doi:10.1111/j.1365-2923.1986.tb01386.x](https://doi.org/10.1111/j.1365-2923.1986.tb01386.x)

@@ -49,3 +49,5 @@ Second randomized controlled trial extending TAPP to 45 rural schools with 267 K
 - Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior — related
 - [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related
 - TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related
+- [CBC significantly improves directly observed classroom behaviors, including on-task, off-task, appropriate social behaviors, and motor movements, in rural classrooms](cbc-improves-observed-classroom-behaviors-rural.md) — related
+- [CBC improves teacher-reported school problems among rural K-3 students with disruptive behaviors more than business as usual](cbc-improves-teacher-reported-school-problems-rural.md) — related

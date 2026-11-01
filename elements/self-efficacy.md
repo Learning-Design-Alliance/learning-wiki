@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 103 claims (59 for, 38 mixed, 6 against) · 89 studies (37 associational, 23 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 89 report an effect size · 98 claims rest on one study
+> **Evidence** · 104 claims (59 for, 38 mixed, 7 against) · 90 studies (37 associational, 24 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 90 report an effect size · 99 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -151,6 +151,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](../claims/hfps-no-significant-self-efficacy-difference.md) [-W]
 - [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](../claims/nursing-ebp-efficacy-scores-increased.md) [+W]
 - [The study hypothesized that SoS teachers would show higher engineering pedagogical content knowledge and self-efficacy than comparison teachers and significant pre-to-post gains](../claims/sos-hypothesized-teacher-knowledge-efficacy-gains.md) [~W]
+- [Control-group-I students mostly watched teacher demonstrations and reported limited self-confidence in experimenting](../claims/cg1-students-watched-demonstrations-limited-confidence.md) [-W]
 
 ## The evidence by question
 

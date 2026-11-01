@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 197 claims (149 show a difference, 28 mixed, 20 no difference) · 159 studies (58 associational, 31 review, 30 causal, 14 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 159 report an effect size · 193 claims rest on one study
+> **Evidence** · 199 claims (150 show a difference, 28 mixed, 21 no difference) · 161 studies (58 associational, 31 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 161 report an effect size · 195 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -228,6 +228,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](../claims/digital-learning-knowledge-retention-four-months.md) [+M] — instruction changes it
 - [A 6-week NCLEX Coaching Model showed no significant first-time pass-rate improvement but significantly improved confidence/readiness scores (Schlairet & Rubenstein, 2019)](../claims/nclex-coaching-model-confidence-readiness-gains.md) [+M] — instruction changes it
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](../claims/sbar-simulation-divergent-other-outcomes.md) [~M] — instruction changes it
+- [Blackboard-based blended teaching showed no statistically significant effect on self-confidence](../claims/blended-teaching-no-effect-self-confidence.md) [-M] — instruction changes it
+- [Class teachers reported that some pupils' confidence and social skills improved during the programme](../claims/asp-teachers-reported-confidence-social-skills-gains.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -47,3 +47,4 @@ Correlational analysis of survey data from 543 undergraduates relating four ICT-
 ## Related Claims
 - [All four ICT uses correlate positively with expectations of performance and satisfaction, with EPU showing the strongest associations](ict-use-expectations-performance-satisfaction.md) — related
 - [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md) — related
+- [The ICT effect is consistent with prior findings linking ICT use to academic performance of students with hearing impairment](ict-performance-consistent-with-prior-findings.md) — reports the opposite

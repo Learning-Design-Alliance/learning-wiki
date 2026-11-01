@@ -50,3 +50,4 @@ WWC calculations from the same RCT, three 50/50 lotteries at four-year colleges 
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](insidetrack-coaching-potentially-positive-persistence.md) — related
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — related
 - [Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals](coaching-expanded-program-exposure-completion.md) — related
+- [Average effects on community college degree completion are small (0.9–1.7 percentage points) and benchmarking is limited by two outlier interventions with effects of roughly 16 and 18 percentage points](cc-degree-completion-effects-small-with-two-outliers.md) — related

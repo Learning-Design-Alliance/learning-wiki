@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (105 show a difference, 37 mixed, 16 no difference) · 118 studies (42 review, 26 associational, 19 causal, 15 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 32 of 118 report an effect size · 154 claims rest on one study
+> **Evidence** · 164 claims (109 show a difference, 37 mixed, 18 no difference) · 121 studies (42 review, 26 associational, 21 causal, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 33 of 121 report an effect size · 160 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -199,6 +199,12 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+M] — instruction changes it
 - [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](../claims/nm-qualitative-evaluations-competency-impacts.md) [+M] — instruction changes it
 - [PTR-YC increases preschool children's social skills more than business-as-usual, as measured by the SSIS social skills subscale](../claims/ptr-yc-increases-ssis-social-skills-vs-bau.md) [+M] — instruction changes it
+- [Average parent–teacher congruent communication significantly moderates CBC's effect on teacher-reported children's social skills in a randomized trial of children with behavioral concerns](../claims/average-congruence-moderates-cbc-teacher-reported-social-skills.md) [+M] — an instructional effect differs with it
+- [Class teachers reported that some pupils' confidence and social skills improved during the programme](../claims/asp-teachers-reported-confidence-social-skills-gains.md) [+M] — instruction changes it
+- [Congruent communication does not moderate CBC's effect on parent-reported children's social skills](../claims/no-moderation-parent-reported-social-skills.md) [-M] — an instructional effect differs with it
+- [In an RCT, CareerWISE treatment participants showed a statistically better ability to apply interpersonal problem solving knowledge to an open-ended scenario than wait-list controls](../claims/careerwise-rct-scenario-application.md) [+M] — instruction changes it
+- [In an RCT, women STEM doctoral students who used CareerWISE showed greater knowledge of interpersonal problem solving steps than wait-list controls](../claims/careerwise-rct-treatment-steps-knowledge.md) [+M] — instruction changes it
+- [Time-varying (within-dyad) congruent communication does not moderate the CBC effect on teacher-reported social skills](../claims/time-varying-congruence-no-moderation.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

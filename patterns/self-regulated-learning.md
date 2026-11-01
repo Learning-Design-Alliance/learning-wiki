@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 85 claims (32 for, 49 mixed, 4 against) · 71 studies (25 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 71 report an effect size · 78 claims rest on one study
+> **Evidence** · 86 claims (33 for, 49 mixed, 4 against) · 72 studies (26 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 18 of 72 report an effect size · 79 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,7 @@ Re-read against the model on 2026-10-19 (wave 2): the nine claims listed here an
 - [Students use strategies to regulate their own motivation and affect](../claims/students-regulate-motivation-affect-strategies.md) [+W]. Read 2026-10-19: a handbook chapter's description of college students' motivational self-talk and goal-evoking; motivational regulation is a distinct configuration this page scopes out.
 - [Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]. Read 2026-10-19: a correlational null (167 teachers, 2,785 students), equivalence not tested; it does not change the teacher row.
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](../claims/srlt-module-scores-improvement-adam-ben.md) [~W]. Read 2026-10-19: a two-teacher case study of teaching modules; consistent with the teacher row but too local to add a condition.
+- [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](../claims/metacognitive-strategy-literary-books-posttest-reading-comprehension.md) [+W] — attached 2026-11-01 from Erkan Çer (2016), which proposed "Three-phase metacognitive reading instruction: planning before, self-monitoring during, and self-evaluation after reading"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

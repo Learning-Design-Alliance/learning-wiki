@@ -57,3 +57,4 @@ Generalized mixed model with normalized learning gain as response, agency group 
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test](no-agency-effect-sql-tutor-learning.md) — related
 - [Students with low prior knowledge show significantly higher proportional learning gains than students with high prior knowledge when learning with MetaTutor](lpk-higher-proportional-learning-gain-metatutor.md) — related
+- [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](prior-knowledge-moderates-worked-example-benefit.md) — related

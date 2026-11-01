@@ -71,3 +71,4 @@ The review reports, citing Schwartz et al. (2021), that "the percentage of notes
 - [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related
+- [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](structuring-supports-argumentation-decision-making-stage.md) — a narrower finding that bears on this claim

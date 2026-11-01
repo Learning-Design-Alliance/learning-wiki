@@ -47,3 +47,4 @@ Khalid A. Alsoudi. (2017). The Effect of Using K.W.L Strategy upon Acquiring Rel
 ## Related Claims
 - [K.W.L instruction produces significantly higher acquisition of religious concepts than traditional teaching among 8th-grade Jordanian students](kwl-improves-religious-concept-acquisition.md) — a broader claim this one bears on
 - [No statistically significant difference in acquiring religious concepts attributed to students' gender](no-gender-difference-religious-concepts-kwl.md) — related
+- [No significant interaction between teaching method and gender on Arabic oral skills achievement](vtm-method-gender-interaction-null.md) — related

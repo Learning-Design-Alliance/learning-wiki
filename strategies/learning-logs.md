@@ -102,6 +102,7 @@ Learning logs convert review time into generative processing: retrieving and art
 - [Journaling](journaling.md) — longer-form reflective writing across multiple sessions
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the function served by opening logs
 - [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
+- [Teachers read student journals and give regular individual feedback on them](teacher-feedback-on-science-journals.md)
 
 ## Examples
 - A fifth-grade teacher used learning logs to review mean, median, and mode: students wrote definitions and generated their own examples, then drew on these entries during whole-class discussion.

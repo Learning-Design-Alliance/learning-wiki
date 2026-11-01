@@ -48,6 +48,7 @@ PDEODE is a six-step variant of the Predict-Observe-Explain technique proposed b
 
 - [Predict Observe Explain](predict-observe-explain.md)
 - [Prediction Observation Explanation](prediction-observation-explanation.md)
+- [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 
 ## Examples
 -

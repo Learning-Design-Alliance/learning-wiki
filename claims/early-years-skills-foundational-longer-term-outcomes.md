@@ -72,3 +72,4 @@ The brief asserts, citing recent research it summarizes, that early academic and
 - [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md) — a broader claim this one bears on
 - [Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce](critical-thinking-developable-early-primary.md) — related
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a narrower finding that bears on this claim
+- [The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through](triad-building-blocks-legacy-positive-effects.md) — a narrower finding that bears on this claim

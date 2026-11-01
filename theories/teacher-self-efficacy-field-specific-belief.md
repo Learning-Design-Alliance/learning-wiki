@@ -42,7 +42,8 @@ The article frames teacher self-efficacy within Bandura's social learning theory
 - 
 
 ## Examples
--
+
+- [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](../strategies/teacher-training-and-self-efficacy-for-5e-inquiry.md)
 
 ## Key Sources
 - Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2020). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12

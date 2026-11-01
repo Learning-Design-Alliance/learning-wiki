@@ -58,3 +58,4 @@ The only entry here is a policy report's narrative summary of Cohen et al. (2009
 - [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
 - [Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions](centrality-dual-role-discrimination-versus-stereotypes.md) — related
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
+- [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](values-affirmation-district-trial-modest-impacts.md) — related

@@ -95,3 +95,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
+- [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
+- [Laboratory lessons supported by the virtual chemistry laboratory were rated as more constructivist than the same teacher's real-laboratory lessons](vcl-lab-lessons-rated-more-constructivist-than-real-lab.md) — related

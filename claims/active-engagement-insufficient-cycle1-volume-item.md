@@ -52,3 +52,4 @@ Post-lesson diagnostic test in class 4A of the secondary four chemistry learning
 - [Teachers in the chemistry learning study concluded that what counts is not active participation but experiencing a pattern of variation and invariance that allows discernment](teachers-learned-pattern-of-variation-counts.md) — a broader claim this one bears on
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Primary four students taught with a variation-theory-designed lesson were far more likely to give a correct, properly explained answer about 'equal shares' in fractions than comparison-group students](variation-theory-fraction-lesson-outperforms-comparison.md) — related
+- [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — related

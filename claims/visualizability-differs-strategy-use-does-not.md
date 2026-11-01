@@ -74,3 +74,4 @@ Debrief-questionnaire ANOVAs from the same 60 sighted adults; "No significant di
 - [Structured algorithmic mappings (Traditional and Reversed) produce higher first-attempt learning accuracy than an arbitrary single-tone mapping in visual-to-auditory SSD learning](structured-mappings-facilitate-initial-ssd-learning.md) — related
 - [Both the Traditional and Reversed algorithm groups significantly outperform a single-tone Control group in soundscape recognition accuracy, without differing from each other](traditional-and-reversed-outperform-control-accuracy.md) — related
 - [Processing time increases more for novel than familiar stimuli in algorithm-trained groups than in the Control group, while overall processing time does not differ by group](processing-time-novelty-increase-varies-by-group.md) — related
+- [Blackboard-based blended teaching showed no statistically significant effect on self-confidence](blended-teaching-no-effect-self-confidence.md) — related

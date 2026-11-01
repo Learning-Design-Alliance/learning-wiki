@@ -47,3 +47,4 @@ ACCESS scores were available for ELLs in both grades, administered midyear befor
 ## Related Claims
 - [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](a4l-ell-subgroup-impact.md) — related
 - [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
+- [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related

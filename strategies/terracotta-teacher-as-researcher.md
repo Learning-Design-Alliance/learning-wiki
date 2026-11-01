@@ -36,7 +36,8 @@ Terracotta "puts the teacher in the role of researcher": within their own Canvas
 - Testing contextually relevant research questions about teaching and learning interventions
 
 ## Related Strategies
-- 
+
+- [Manipulate instructional group size to vary treatment intensity in intervention research](group-size-instructional-intensity-manipulation.md)
 
 ## Examples
 -

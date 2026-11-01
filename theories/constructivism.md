@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (7 for, 14 mixed, 2 against) · 29 studies (6 quant-synthesis, 6 theoretical, 5 causal, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 29 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (8 for, 14 mixed, 2 against) · 30 studies (6 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 30 report an effect size · 20 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -59,6 +59,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Educational level does not significantly moderate the effect of constructivism on attitudes towards lessons](../claims/education-level-not-significant-moderator-constructivism-attitudes.md) [~W]
 - [Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons](../claims/geographical-region-not-significant-moderator-constructivism-attitudes.md) [~W]
 - [Type of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](../claims/publication-type-not-significant-moderator-constructivism-attitudes.md) [~W]
+- [Teaching reading comprehension with prior knowledge questions improves primary pupils' reading comprehension performance](../claims/prior-knowledge-questions-improve-reading-comprehension.md) [+W] — attached 2026-11-01 from Hanna Onyi Yusuf et al. (2013), which proposed "Learning as conceptual change: prior knowledge actively shapes how learners interpret instruction".
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

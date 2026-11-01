@@ -97,11 +97,13 @@ Personal relevance raises situational interest and engagement, which supports pe
 6. **Fade the bridge.** Progressively move toward abstract, decontextualized representations so understanding transfers beyond the original interest [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the general mechanism this strategy applies to math via strengths and interests
 - [Choice Boards](../elements/choice-boards.md) — a concrete structure for offering interest-matched problem contexts
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — shares the funds-of-knowledge foundation; strength-based math is one domain-specific enactment
 - [Anchored Instruction](anchored-instruction.md) — the task-design pattern most often used to implement the anchor context
 - [Acting-Role-Play](../strategies/acting-role-play.md) — one way learners can inhabit an interest context mathematically
+- [Implement contextual teaching and learning where application of knowledge is the instructional goal, with confidence that basic content mastery is maintained](implement-ctl-when-application-is-goal.md)
 
 ## Examples
 - **[Teaching to Interests with Adaptive Platforms](https://doi.org/10.1037/a0031882)** — Walkington's algebra studies personalized word problems to students' interests (sports, music, gaming) and found improved performance and learning relative to generic contexts.

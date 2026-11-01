@@ -74,9 +74,11 @@ TWPS converts passive question-and-answer routines into structured [active learn
 4. **Share.** Randomly select pairs to report — ideally the *partner's* idea, which keeps both accountable. Record responses visibly and connect them, moving toward synthesis rather than a list of answers.
 
 ## Related Strategies
+
 - [Jigsaw](jigsaw.md) — a complementary cooperative structure; TWPS handles single-question discussion, jigsaw handles distributed content expertise
 - [Cold Calling](cold-call.md) — an alternative participation routine; TWPS achieves similar accountability with lower social risk
 - [Wait Time](wait-time.md) — the silent thinking stage operationalizes extended wait time within a larger routine
+- [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 
 ## Examples
 - **Writing Across the Curriculum (WAC) programs** — many university WAC guides (e.g., [Colorado State's WAC Clearinghouse](https://wac.colostate.edu)) recommend short in-class writes followed by pair exchange as a standard discussion-starter routine.

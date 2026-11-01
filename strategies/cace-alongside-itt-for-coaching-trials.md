@@ -44,7 +44,8 @@ The article recommends supplementing intent-to-treat estimates with complier ave
 - [Observed classroom engagement showed a small ITT effect and a medium CACE effect, neither statistically significant](../claims/observed-engagement-effects-nonsignificant.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Non-equivalent quasi-experiment with 18 pupils per group; independent samples t-
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — a narrower finding that bears on this claim
 - [Pupils reported generally positive perceptions of learning two-dimensional shape properties with Logo](logo-positive-pupil-perceptions-2d-shapes.md) — related
 - [Before treatment, the Logo and control groups showed no statistically significant difference in achievement on two-dimensional shapes](logo-pretest-no-significant-difference.md) — related
+- [Before treatment, the CBI and FII groups showed no significant difference in mathematics achievement](cbi-fii-pretest-equivalence.md) — related

@@ -91,3 +91,4 @@ The commentary reports, citing Pouta et al. in the Special Issue, a mobile eye t
 - [Expert and novice teachers do not differ significantly in overall judgment accuracy of five student characteristic profiles, though experts judge inconsistent profiles more accurately](experts-judge-incoherent-student-profiles-more-accurately.md) — related
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
+- [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related

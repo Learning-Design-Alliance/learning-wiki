@@ -52,3 +52,4 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — a broader claim this one bears on
+- [Secondary school students taught chemistry through computer-based simulations achieve significantly higher post-test scores than students taught through regular teaching methods](cbs-beats-rtm-chemistry-achievement-kenya.md) — related

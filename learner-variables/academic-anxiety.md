@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (118 show a difference, 42 mixed, 23 no difference) · 115 studies (43 associational, 25 review, 24 causal, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 115 report an effect size · 176 claims rest on one study
+> **Evidence** · 184 claims (119 show a difference, 42 mixed, 23 no difference) · 116 studies (43 associational, 25 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 116 report an effect size · 177 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -219,6 +219,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [In-classroom physical activity breaks show no significant effect on children's test anxiety](../claims/icpab-no-effect-test-anxiety.md) [-M] — instruction changes it
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](../claims/negative-academic-emotions-sometimes-improve-learning.md) [~M] — learners who differ on it differ in outcomes
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](../claims/iss-ntos-outcomes-mixed-controlled-comparisons.md) [~M] — instruction changes it
+- [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](../claims/pbl-game-self-evaluation-presentation-anxiety.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

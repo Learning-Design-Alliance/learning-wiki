@@ -25,7 +25,8 @@ A 25-question secondary-school chemistry achievement test with a Payne-prepared 
 - [The Bell Chemistry Test correlates moderately with semester marks and teachers' estimates, and is judged a fairly good measure of class knowledge but unreliable for an individual.](../claims/bell-test-fair-class-measure-unreliable-individual.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Chemistry Achievement Test (CAT) on electrolysis](chemistry-achievement-test-cat-on-electrolysis.md)
 
 ## Key Sources
 - Thomas H. Briggs. (1920). Results of the Bell Chemistry Test. The Journal of Educational Psychology. https://www.jstor.org

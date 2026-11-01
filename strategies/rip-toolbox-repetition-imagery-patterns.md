@@ -61,9 +61,11 @@ The toolbox packages three well-evidenced encoding mechanisms — distributed re
 6. **Review the plan after assessment.** Learners evaluate which strategies worked and revise the plan for the next test, closing the self-regulation loop.
 
 ## Related Strategies
+
 - Mnemonics and keyword methods — the Imagery element in its most codified form
 - Graphic organizer routines — the Patterns element applied to text and lecture content
 - Spaced retrieval routines — the Repetition element implemented at schedule level
+- [Have learners draw their own mental images of idioms to build durable recall](draw-mental-images-of-idioms-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repetition only pays off when it requires retrieval, not passive review

@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (27 for, 10 mixed) · 31 studies (8 review, 7 causal, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (28 for, 10 mixed) · 32 studies (8 causal, 8 review, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](../claims/vsdr-increased-student-talk-proportion.md) [+W]
 - [Talk time and internal behavioral engagement are only weakly correlated, indicating they are separate phenomena](../claims/talk-and-engagement-separate-phenomena.md) [~W]
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
+- [RAISE produced significant positive impacts on student metacognitive conversations (ES = 0.21) and integration of content and literacy activity (ES = 0.18), with other student mediating outcomes positive but not significant](../claims/raise-student-mediating-outcomes-metacognitive-integration.md) [+W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)

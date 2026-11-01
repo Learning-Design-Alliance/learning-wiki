@@ -55,3 +55,4 @@ Each ANOVA was repeated as an ANCOVA with WASI full scale IQ (Grade 3) as a cova
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — related
 - [Fraction division showed large country differences (Chinese 91%, Belgian 71%, U.S. 22% correct), while fraction addition showed a Country × Grade interaction](fraction-division-addition-country-differences.md) — related
 - [Multivariate ANOVAs showed a significant time-of-measurement by condition interaction on fractions scores in both countries](multivariate-interaction-combination-effect.md) — related
+- [FSI produced significant differences on individual fraction outcome measures except fraction comparisons](fsi-significant-individual-measures-except-comparisons.md) — related

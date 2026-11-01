@@ -50,3 +50,4 @@ Group comparison on standardized reading and reading-related measures (Table 2) 
 - [The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit](scd-vocabulary-weakness-developmental-delay-not-deficit.md) — related
 - [Most children with SCD have vocabulary weaknesses, with intact vocabulary being rare](most-scd-children-have-vocabulary-weaknesses.md) — related
 - [Children with specific reading comprehension difficulties show substantially poorer reading comprehension than vocabulary relative to typical readers](scd-reading-comprehension-weakness-more-severe-than-vocabulary.md) — related
+- [Despite an average of 94 well-implemented intervention sessions, students remained about one standard deviation below national norms in reading comprehension with low vocabulary](students-remained-sd-behind-norms-after-94-sessions.md) — related

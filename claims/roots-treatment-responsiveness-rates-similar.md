@@ -47,3 +47,4 @@ Informal exploratory comparison, explicitly "not formally tested," of the percen
 ## Related Claims
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — related
+- [The ROOTS intervention produced greater fall-to-spring kindergarten gains than control instruction on four of five outcome measures for at-risk students](roots-greater-kindergarten-gains-four-of-five-measures.md) — related

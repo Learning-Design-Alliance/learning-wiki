@@ -57,9 +57,11 @@ TPS operationalizes [Active Learning](../principles/active-learning.md) by repla
 3. Facilitate whole-class sharing using pair nomination or random selection, connecting and contrasting pair responses — see [Class Discussion](../elements/class-discussion.md)
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — a more elaborate cooperative structure; TPS is the minimal unit of the same peer-talk logic
 - [Cold Calling](cold-call.md) — pairs with TPS as an accountability mechanism for the Share phase
 - [Wait Time](../strategies/wait-time.md) — the Think step institutionalizes Rowe's wait-time finding; extending pauses after questions improves response quality [~S]
+- [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 
 ## Examples
 - **Open-ended discussion prompts in large lectures** — instructors at the University of Michigan's Center for Research on Learning and Teaching popularized TPS in courses of 200+ students, using pair discussion before whole-class debrief ([crlt.umich.edu](https://crlt.umich.edu))

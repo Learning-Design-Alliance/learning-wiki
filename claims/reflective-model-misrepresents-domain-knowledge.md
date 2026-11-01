@@ -47,3 +47,4 @@ Analytical argument from the article's misrepresentation section. It reasons tha
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
+- [Fidelity measures lacking clearly articulated program theories are at risk of construct underrepresentation and construct-irrelevant variance](fidelity-measures-without-program-theory-risk-construct-threats.md) — related

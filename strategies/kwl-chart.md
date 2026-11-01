@@ -112,6 +112,7 @@ KWL charts function as a lightweight [Advance Organizers](../elements/advance-or
 5. Use the completed chart as a formative assessment: gaps between W and L reveal what needs reteaching.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the K column is a structured instance of this broader strategy
 - [Anticipation Guide](anticipation-guide.md) — a related pre-reading organizer that uses agreement with statements instead of open listing
 - [Concept Mapping](../elements/concept-mapping.md) — a more structurally demanding organizer; KWL is a lower-floor alternative
@@ -122,6 +123,7 @@ KWL charts function as a lightweight [Advance Organizers](../elements/advance-or
 - Question-answering and question-generation routines — the W column is a scaffolded version of self-questioning
 - Exit tickets — a compressed, post-only alternative to the L phase
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
+- [Use the K-W-L strategy (What I know, What I want to learn, What I learned) to activate prior knowledge before reading](kwl-prior-knowledge-activation-strategy.md)
 
 ## Examples
 - Before a unit on rainforests, students fill the K column with facts ("it rains a lot," "there are monkeys") and W questions ("why are there so many species?"), then complete L after the unit — the classic Ogle (1986) classroom implementation.

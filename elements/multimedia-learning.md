@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (20 for, 12 mixed) · 34 studies (16 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 34 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (21 for, 12 mixed) · 35 studies (17 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 35 report an effect size · 29 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -68,6 +68,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](../claims/triple-interaction-visual-style-pacing-visualization.md) [~W]
 - [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](../claims/music-av-use-group-differences.md) [~W]
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Learner-controlled web animation of the electron transport system and ATP synthesis with student-authored animation models"; tests this page's relationship.
+- [The experimental group showed a significant pre-test to post-test gain in communicative skill after using the Interactive Multimedia Package](../claims/multimedia-package-experimental-group-significant-gain.md) [+W] — attached 2026-11-01 from G. Singaravelu (2014), which proposed "Interactive Multimedia Package for learning communicative skill in English".
 
 ## The evidence by question
 

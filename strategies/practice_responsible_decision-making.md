@@ -86,6 +86,7 @@ Scenario-based decision practice converts a social-emotional competency from an 
 - [Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete](consequence-analysis-for-ethical-administrative-choices.md)
 - [Present students with realistic ethical conundrums such as job-search dilemmas earlier in their education](realistic-ethical-conundrums-earlier-education.md)
 - [Design and implement ethics games with attention to facilitation, clarity of instructions, alignment of goals, and social dynamics](ethics-game-design-recommendations-facilitation-goals-social.md)
+- [Use real-life scenarios requiring learners to produce goal-directed language with target vocabulary](real-life-scenario-vocabulary-strategy.md)
 
 ## Examples
 - **Second Step (Committee for Children)** (https://www.committeeforchildren.org) — SEL curriculum built around scenario cards and role-plays in which students analyze social dilemmas, decide on responses, and discuss alternatives as a class.

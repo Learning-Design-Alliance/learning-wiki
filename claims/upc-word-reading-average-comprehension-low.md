@@ -47,3 +47,4 @@ Discussion characterization of the UPC group (n = 216) defined by regressing SRI
 
 ## Related Claims
 - [Children with unexpected poor comprehension show a profound vocabulary deficit despite average-to-above-average word reading](upc-profound-vocabulary-deficit-adequate-decoding.md) — related
+- [Despite an average of 94 well-implemented intervention sessions, students remained about one standard deviation below national norms in reading comprehension with low vocabulary](students-remained-sd-behind-norms-after-94-sessions.md) — related

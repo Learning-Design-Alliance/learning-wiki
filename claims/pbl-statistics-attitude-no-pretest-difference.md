@@ -49,3 +49,5 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [Traditional textbook-based statistics instruction produced no significant change in students' attitudes towards statistics](traditional-instruction-no-attitude-change-statistics.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
+- [Excel-based statistics instruction improved pre-service teachers' attitudes towards statistics more than theoretical instruction on all six SATS-36 factors](excel-instruction-improves-attitudes-towards-statistics.md) — related
+- [Control and experiment groups did not differ significantly in attitudes towards statistics before instruction](pretest-no-attitude-differences-control-experiment.md) — possibly the same claim (merge candidate)

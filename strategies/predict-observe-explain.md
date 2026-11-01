@@ -84,6 +84,7 @@ POE works because committing to a prediction activates prior knowledge and expos
 - [Concept Probing](concept-probing.md) — diagnostic questioning without the observation component
 - [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 - [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](predict-then-simulate-lake-level-tasks.md)
+- [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 
 ## Examples
 - **Physics lecture (Mazur's Peer Instruction lineage)**: Students predict whether a heavy and a light ball dropped together land simultaneously, vote with clickers, discuss, then observe the drop — the same predict-commit-discuss cycle Crouch and Mazur documented at Harvard.

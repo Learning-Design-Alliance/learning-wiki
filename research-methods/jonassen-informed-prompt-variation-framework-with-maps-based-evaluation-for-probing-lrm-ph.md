@@ -28,7 +28,8 @@ The article adapts Jonassen's problem-classification framework to generative-AI 
 - [Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models](../claims/llms-96-percent-text-only-physics-accuracy.md) [~W]
 
 ## Related Research Methods
--
+
+- [Two-dimensional framework classifying digital learning environments by adaptivity and basis in an explicit model of learning](two-dimensional-framework-classifying-digital-learning-environments-by-adaptivity-and-basi.md)
 
 ## Key Sources
 - Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello. (2026). Probing AI-generated physics solutions and preparing students to critique them. https://arxiv.org/abs/2608.12533

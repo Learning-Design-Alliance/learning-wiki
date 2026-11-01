@@ -50,6 +50,8 @@ The article recommends providing metalinguistic explanation online during commun
 ## Related Strategies
 
 - [Use metalinguistic naught CF (rule explanations without error marking) to ease teachers' corrective feedback workload while retaining long-term effectiveness.](mn-cf-teacher-workload-strategy.md)
+- [Provide delayed explicit and metalinguistic feedback after communicative tasks, using board presentation and whole-class explanation](delayed-explicit-metalinguistic-board-feedback-strategy.md)
+- [Use intensive recasts repeatedly focused on a single structure as an implementable alternative to explicit feedback](intensive-recasts-single-structure-strategy.md)
 
 ## Examples
 -

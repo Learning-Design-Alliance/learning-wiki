@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (24 for, 53 mixed, 10 against) · 63 studies (30 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 19 of 63 report an effect size · 80 claims rest on one study
+> **Evidence** · 90 claims (26 for, 53 mixed, 11 against) · 64 studies (31 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 19 of 64 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Provided support does not influence task regulation between conditions](../claims/support-does-not-influence-task-regulation.md) [~W] — read 2026-10-19 (wave 2): in collaborative inquiry, communication support changed team regulation but not task regulation (a null, equivalence not tested); a process measure that does not bear on later learning.
 - [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W] — read 2026-10-19 (wave 2): a neural marker in a preschool attention-training study, no statistic printed; not a learning outcome this model predicts.
 - [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](../claims/analysis-level-scaffolding-outperforms-synthesis-evaluation.md) [~W] — attached 2026-10-22 from Nam Ju Kim et al. (2018), which proposed "Differentiate scaffolding design according to which level of higher-order thinking is addressed in problem-based learning".
+- [Scaffolded student teachers were more effective in searching for information for their presentation, while the unscaffolded group had difficulties finding relevant information](../claims/scaffolding-improves-information-seeking-in-collaborative-inquiry.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
+- [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](../claims/structuring-supports-argumentation-decision-making-stage.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -170,6 +172,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
 - [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
+- [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](../claims/website-reliability-evaluation-similar-across-groups.md) [-W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

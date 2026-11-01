@@ -13,7 +13,7 @@ generated:
 # Self Affirmation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 16 studies (7 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (7 for, 10 mixed) · 17 studies (8 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,9 @@ Grades in the targeted course, overall GPA, persistence, test anxiety and long-t
 ## Claims
 
 - [Timing of a single UV essay is moderated by prior performance: early UV essays help low performers, late UV essays help high performers](../claims/uv-timing-moderated-by-prior-gpa.md) [~W]
+- [Student and teacher engagement with the values-affirmation exercise declined notably by the fourth administration](../claims/engagement-declines-by-fourth-exercise.md) [~W]
+- [Treated students showed high fidelity to the cognitive process of values affirmation, while student engagement varied regardless of condition assignment](../claims/high-fidelity-to-treatment-student-engagement-varies.md) [+W]
+- [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](../claims/values-affirmation-district-trial-modest-impacts.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks

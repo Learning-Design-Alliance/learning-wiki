@@ -90,6 +90,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Four recommendations for deepening mathematics integration in science investigations](four-recommendations-math-in-science.md)
 - [Select K-12 AI topics by whether their prerequisite mathematics is covered in the high school math curriculum](select-ai-topics-by-high-school-math-prerequisites.md)
 - [Teach ratio through varied contextual problem states solved with multiple strategies](teach-ratio-varied-contextual-problems-multiple-strategies.md)
+- [Implement contextual teaching and learning where application of knowledge is the instructional goal, with confidence that basic content mastery is maintained](implement-ctl-when-application-is-goal.md)
 
 ## Examples
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).

@@ -53,3 +53,4 @@ Descriptive qualitative analysis of participant interviews and structured diarie
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
+- [Experimental-group students reported satisfaction with corpus-based lexical teaching while finding some materials too challenging](corpus-lexical-teaching-student-satisfaction.md) — related

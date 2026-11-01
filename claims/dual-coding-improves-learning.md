@@ -182,3 +182,4 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](multimodal-learning-facilitates-storage-retrieval.md) — a broader claim this one bears on
 - [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](relevance-irrelevant-knowledge-hampers.md) — related
 - Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays — related
+- [The authors interpret the graphic-novel advantage as arising from presenting idioms through both verbal and visual modalities within a storyline](graphic-novel-advantage-attributed-dual-modality-storyline.md) — a narrower finding that bears on this claim

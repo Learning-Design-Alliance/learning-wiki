@@ -53,3 +53,4 @@ ANCOVA on oral imitation new-item scores (verbs not receiving feedback) at delay
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — reports the opposite
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — reports the opposite
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
+- [Corrective feedback effects on partially acquired structures may emerge only on delayed measures, not immediately](delayed-emergence-of-cf-effects-partially-acquired-structures.md) — related

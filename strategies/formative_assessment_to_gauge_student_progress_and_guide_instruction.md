@@ -68,6 +68,7 @@ Formative assessment is among the most consistently supported instructional prac
 - [Use the taxonomy to self-evaluate an implemented research experience and level up milestones](ur-taxonomy-self-evaluation-loop.md)
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
 - [Use real-time teacher reports of skill-level strengths and weaknesses to guide whole-class and small-group follow-up](real-time-teacher-reports-skill-weaknesses.md)
+- [Teachers read student journals and give regular individual feedback on them](teacher-feedback-on-science-journals.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

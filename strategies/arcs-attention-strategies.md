@@ -43,10 +43,12 @@ Attention is the first ARCS component, described as strategies "for arousing and
 - [Arcs Strategy Subcomponent Taxonomy](../theories/arcs-strategy-subcomponent-taxonomy.md)
 
 ## Related Strategies
+
 - [Arcs Model](../theories/arcs-model.md)
 - [Novelty_Attention Getters](novelty_attention-getters.md)
 - [Gain Attention](../elements/gain-attention.md)
 - Attention
+- [Use teacher-developed digital stories at introduction, progress, and conclusion stages of mathematics lessons](digital-stories-at-introduction-progress-conclusion-stages.md)
 
 ## Examples
 -

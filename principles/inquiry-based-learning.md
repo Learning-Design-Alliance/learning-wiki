@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (43 for, 24 mixed, 9 against) · 80 studies (22 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 80 report an effect size · 63 claims rest on one study
+> **Evidence** · 77 claims (43 for, 25 mixed, 9 against) · 81 studies (23 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 81 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](../claims/guidance-moderates-digital-inquiry.md) [+W]
 - [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](../claims/blended-instruction-teaching-methods-effect-differences.md) [+W]
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](../claims/pogil-effect-smaller-in-chemistry.md) [~W]
+- [Self- and peer-assessment showed no big differences between groups except a more intensive inquiry process in the scaffolded group](../claims/self-peer-assessment-inquiry-process-scaffolded-advantage.md) [~W]
 
 ## Related Principles
 

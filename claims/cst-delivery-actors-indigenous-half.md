@@ -66,3 +66,4 @@ Frequency analysis of who delivered the training. The review reports university 
 ## Related Claims
 - [Indigenous peoples were commonly involved in developing cultural safety training programs (70% of described programs), but their specific roles were rarely specified](indigenous-involvement-development-roles-unspecified.md) — related
 - [Cultural safety training programs used a wide variety of delivery modalities, with teaching/lectures most common (30%), and only 12% provided follow-up support beyond the primary training period](cst-modality-variety-lectures-most-common.md) — related
+- [The evaluators recommend delivering the intervention during the school day and training deliverers in the Butterfly method so it is implemented as intended](butterfly-phonics-implementation-recommendations.md) — related

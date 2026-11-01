@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 139 claims (47 for, 81 mixed, 11 against) · 76 studies (32 quant-synthesis, 16 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 76 report an effect size · 134 claims rest on one study
+> **Evidence** · 142 claims (50 for, 81 mixed, 11 against) · 78 studies (32 quant-synthesis, 18 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 78 report an effect size · 137 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,9 @@ The twelve claims listed here before that wave were read against the model on 20
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [~W] — attached 2026-10-31 from Ge Wei-Li et al. (2025), which proposed "Introduce organized learning early in the curriculum and gradually expand active, self-directed learning as students master foundational knowledge"; tests this page's relationship.
 - [3D-PBL is the most effective orthopedic teaching method across all measured outcomes in Chinese undergraduate and postgraduate education](../claims/3d-pbl-most-effective-orthopedic-teaching-china.md) [+W] — attached 2026-10-31 from Gu Peng et al. (2026), which proposed "Educational institutions should adopt 3D-PBL and invest in 3D-technology teacher training, practical teaching platforms, and diversified evaluation"; tests this page's relationship.
 - [PBL is more effective for laboratory courses than for theory courses in Chinese undergraduate medical education](../claims/pbl-more-effective-laboratory-than-theory-courses.md) [+W] — attached 2026-11-01 from Zhang Yanqi et al. (2015), which proposed "Apply PBL preferentially in laboratory course settings where small-group work aligns with hands-on assessment".
+- [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](../claims/pbl-process-evaluation-skills-benefits.md) [+W] — attached 2026-11-01 from Menzies et al. (2016), which proposed "REAL Projects structure: essential question, academic content, drafts with critique, student-created product, exhibition and authentic audience"; tests this page's relationship.
+- [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-recall-efl.md) [+W] — attached 2026-11-01 from Fateme Shir Mohammadi (2017), which proposed "Authentic problem-based vocabulary task cycle: scenario, group hypothesis, word search, conversation creation, and peer-teacher evaluation"; tests this page's relationship.
+- [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-retention-efl.md) [+W] — attached 2026-11-01 from Fateme Shir Mohammadi (2017), which proposed "Authentic problem-based vocabulary task cycle: scenario, group hypothesis, word search, conversation creation, and peer-teacher evaluation"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

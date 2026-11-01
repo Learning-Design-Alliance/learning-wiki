@@ -51,3 +51,4 @@ One-way ANOVA on the IMI interest/enjoyment subscale across the three randomly a
 - [360° VR videos can serve as an effective self-directed learning tool, with children learning comparably without an instructor](360-vr-self-directed-learning.md) — related
 - [Children learning water-safety content via 360° VR videos, traditional video, or posters show similar learning gains, with 95% improving knowledge and retaining it at one and eight weeks](360-vr-water-safety-learning-gains-retention.md) — related
 - [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related
+- [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related

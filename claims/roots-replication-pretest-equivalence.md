@@ -50,3 +50,6 @@ Pretest condition-effect tests from the Time × Condition models in the 319-stud
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — related
 - [ROOTS students also had higher covariate-adjusted SESAT posttest scores than control students](roots-replication-sesat-advantage.md)
+- [The ROOTS intervention produced greater fall-to-spring kindergarten gains than control instruction on four of five outcome measures for at-risk students](roots-greater-kindergarten-gains-four-of-five-measures.md) — related
+- [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
+- [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related

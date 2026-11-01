@@ -65,6 +65,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 - [Chunking](../principles/chunking.md) — previews present the chunk structure of a task in advance
 - [Advance organizers](../elements/advance-organizers.md) — the classic, more formalized version of content previewing
 - [Implement a comprehension-test-expectancy intervention by explicitly describing upcoming inference tests and providing sample inference questions](comprehension-test-expectancy-instruction-strategy.md)
+- [Use the Preview and Predict strategy: students preview title and pictures, predict from prior knowledge, then read and verify predictions](preview-and-predict-strategy.md)
 
 ## Related Elements
 - [Gain attention](../elements/gain-attention.md) — the preview's opening function

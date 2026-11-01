@@ -50,3 +50,8 @@ Partially nested RCT in 36 Boston-area kindergarten classrooms; 319 students wit
 - [ROOTS students also had higher covariate-adjusted SESAT posttest scores than control students](roots-replication-sesat-advantage.md) — a narrower finding that bears on this claim
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [Rates of treatment responsiveness on the TEMA-3 were similar across the Oregon and Boston ROOTS studies](roots-treatment-responsiveness-rates-similar.md) — related
+- [The ROOTS intervention produced greater fall-to-spring kindergarten gains than control instruction on four of five outcome measures for at-risk students](roots-greater-kindergarten-gains-four-of-five-measures.md) — related
+- [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
+- [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
+- [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
+- [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related

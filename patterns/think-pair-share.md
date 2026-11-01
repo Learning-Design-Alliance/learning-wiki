@@ -15,7 +15,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (6 for, 12 mixed) · 36 studies (13 causal, 11 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 8 claims rest on one study
+> **Evidence** · 21 claims (9 for, 12 mixed) · 38 studies (15 causal, 11 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 38 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -93,6 +93,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Nursing students taught with Think-Pair-Show gained significantly more critical thinking over a 17-week course than students taught without it](../claims/tps-greater-ct-gain-nursing-students.md) [+W] — attached 2026-11-01 from Mahmoud Kaddoura (2013), which proposed "Educators should incorporate active cooperative strategies such as TPS to foster learners' critical thinking"; tests this page's relationship.
+- [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](../claims/tps-posttest-subscale-significant.md) [+W] — attached 2026-11-01 from Mahmoud Kaddoura (2013), which proposed "Educators should incorporate active cooperative strategies such as TPS to foster learners' critical thinking"; tests this page's relationship.
+- [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](../claims/tps-large-achievement-advantage-third-grade-science.md) [+W] — attached 2026-11-01 from Dr. Ribhi Khaleel Ahmad Hamdan (2017), which proposed "Think–Pair–Share three-step discussion pattern: individual thinking, pair discussion, whole-class sharing".
 
 ## Illustrative design instance and observation record
 

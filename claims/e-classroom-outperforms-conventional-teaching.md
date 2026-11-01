@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: oso-senny-oluwatumbi-2015
     resource: "https://eric.ed.gov/?id=EJ1079755"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students instructed in a technological (e-) classroom achieved significantly higher post-test mean scores than students taught in the conventional classroom. [→ Oso Senny Oluwatumbi 2015](#oso-senny-oluwatumbi-2015)
@@ -51,3 +52,11 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
 - [An information gap exists among secondary school teachers and students despite ICT provision claims](information-gap-teachers-students-ict.md) — related
+- [Secondary school students taught chemistry through computer-based simulations achieve significantly higher post-test scores than students taught through regular teaching methods](cbs-beats-rtm-chemistry-achievement-kenya.md) — related
+- [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Adjusted post-test scores favour the ICT group over the conventional group](ict-group-adjusted-scores-higher-than-conventional.md) — related
+- [Students taught with ICT obtained higher mean Economics Achievement Test scores than control students](ict-higher-mean-scores-than-control-economics.md) — possibly the same claim (merge candidate)
+- [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — a narrower finding that bears on this claim
+- [Post-test percentage scores rose on all eight tested communicative sub-skills under the multimedia package](per-skill-percentage-gains-multimedia-package.md) — a narrower finding that bears on this claim
+- [Percentage scores on all eight tested communicative skills were higher after the Interactive Multimedia Package than after conventional method](skill-wise-percentage-gains-multimedia-package.md) — a narrower finding that bears on this claim
+- [Brain-based learning delivered with technology outperformed conventional teaching on the immediate post-test in application level and overall achievement](technology-brain-based-group-post-test-advantage.md) — a narrower finding that bears on this claim

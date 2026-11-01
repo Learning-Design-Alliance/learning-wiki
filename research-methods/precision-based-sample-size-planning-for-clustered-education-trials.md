@@ -50,6 +50,7 @@ The article recommends that evaluators discuss "appropriate precision standards"
 ## Related Research Methods
 
 - [Power planning for mediator–outcome linkage analyses in clustered education RCTs](power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts.md)
+- [Power planning for individual-level moderators in cluster-randomized education trials](power-planning-for-individual-level-moderators-in-cluster-randomized-education-trials.md)
 
 ## Key Sources
 - Peter Z. Schochet. (2008). Statistical Power for Random Assignment Evaluations of Education Programs. Journal of Educational and Behavioral Statistics, vol. 33, no. 1. https://www.mathematica.org

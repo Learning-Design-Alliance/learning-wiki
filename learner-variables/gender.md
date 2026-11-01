@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 379 claims (218 show a difference, 88 mixed, 73 no difference) · 251 studies (150 associational, 47 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 44 of 251 report an effect size · 371 claims rest on one study
+> **Evidence** · 384 claims (219 show a difference, 88 mixed, 77 no difference) · 254 studies (150 associational, 50 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 254 report an effect size · 376 claims rest on one study
 
 ## How to read this page
 
@@ -418,6 +418,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](../claims/games-favor-male-algebra-achievement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No statistically significant difference in acquiring religious concepts attributed to students' gender](../claims/no-gender-difference-religious-concepts-kwl.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](../claims/method-gender-interaction-algebra-games.md) [+M] — an instructional effect differs by group
+- [Achievement differences favor females over males under both teaching conditions, with a small effect](../claims/tps-gender-difference-favor-females.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Conceptual understanding and motivation gains were similar for male and female students using the software](../claims/no-gender-difference-motion-vector-software-outcomes.md) [-M] — an instructional effect differs by group
+- [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](../claims/vtm-arabic-oral-skills-no-gender-effect.md) [-M] — an instructional effect differs by group
+- [No significant interaction between teaching method and gender on Arabic oral skills achievement](../claims/vtm-method-gender-interaction-null.md) [-M] — an instructional effect differs by group
+- [No statistically significant group-by-gender interaction on science achievement](../claims/tps-no-group-gender-interaction.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

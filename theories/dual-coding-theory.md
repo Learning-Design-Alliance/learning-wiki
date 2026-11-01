@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 8 studies (5 review, 2 causal, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 9 studies (5 review, 3 causal, 1 qualitative), `q1`–`q3` · 0 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -36,6 +36,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Using two modalities per se does not drive the benefit: sequential speech-then-gesture instruction performed no better than speech-only instruction](../claims/multiple-modalities-alone-insufficient.md) [~W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages".
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](../claims/gesture-learning-sustained-l2-retention.md) [~W]
 - [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](../claims/multimedia-learning-review-cites-generative-theory-textbook-design.md) [+W]
+- [Drawing mental images of idioms significantly improves delayed idiom recall among Iranian EFL learners](../claims/drawing-idioms-significant-delayed-recall-gain.md) [+W] — attached 2026-11-01 from Afrouz Aeineh et al. (2014), which proposed "Dual Coding Theory: verbal and nonverbal (imagery) subsystems as the basis for learner-generated illustrations".
 
 ## Related Theories
 

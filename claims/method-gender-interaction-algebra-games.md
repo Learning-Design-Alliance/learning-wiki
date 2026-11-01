@@ -53,3 +53,5 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — a broader claim this one bears on
 - [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — a broader claim this one bears on
 - [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](no-gender-by-analogy-interaction-organic-chemistry.md) — related
+- [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
+- [No significant interaction between teaching method and gender on Arabic oral skills achievement](vtm-method-gender-interaction-null.md) — related

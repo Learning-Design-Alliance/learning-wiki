@@ -53,3 +53,4 @@ Baseline change models on math-intervention students (Group A n = 219, Group B n
 - [The COMPASS intervention significantly increases students' belief in the changeability of abilities immediately and at follow-ups in both groups](compass-increases-temporal-comparison-belief.md) — related
 - [Math self-concept gains from the COMPASS intervention are sustained at three- and six-month follow-ups in Group A, but the three-month gain in waiting-list Group B was not statistically significant](compass-math-self-concept-sustained-follow-ups.md) — related
 - [Changes in math self-concept correlate positively with changes in both comparison-related beliefs after the COMPASS intervention](self-concept-change-correlates-belief-change.md) — related
+- [Wait-list control participants scored significantly higher on both APSS questions after their own exposure to CareerWISE](careerwise-wlc-pre-post-gains.md) — related

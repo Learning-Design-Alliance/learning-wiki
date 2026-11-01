@@ -55,3 +55,5 @@ Critical thinking was measured with the researcher-built [CTTBE: Critical Thinki
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Critical thinking had low significance in most interventions, typically addressed by a single under-specified method](low-significance-critical-thinking-most-interventions.md) — related
+- [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](tps-posttest-subscale-significant.md) — related
+- [TPS students showed significantly larger pretest-to-posttest gains than Non-TPS students on all five CT subscales](tps-subscale-gains-significant.md) — related

@@ -98,6 +98,7 @@ Companion school-level moderator analysis using average percentage of White stud
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
+
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related
 - The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related
@@ -123,3 +124,4 @@ Companion school-level moderator analysis using average percentage of White stud
 - [In the U.S., variance in student achievement is explained more by family economic background than by school-level expenditures](family-economic-background-explains-more-variance-than-school-expenditures.md) — related
 - [EdTech effects for disadvantaged pupils are smaller and inconsistent: no significant impact in disadvantaged-focused subgroups (d = 0.0527) and a smaller significant effect in partial-subset studies (d = 0.1624)](edtech-disadvantaged-pupils-smaller-mixed-effects.md) — reports the opposite
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related
+- [Students with lower initial English proficiency benefited most from their teachers' participation in the DCCS program, while students above the 5th percentile showed no differential benefit](dccs-pd-benefits-lower-proficiency-students.md)

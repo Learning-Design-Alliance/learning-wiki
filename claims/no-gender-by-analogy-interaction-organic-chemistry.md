@@ -47,3 +47,4 @@ ANCOVA interaction term (Group X Gender: sum of squares .445, df 1, F = .413, Si
 ## Related Claims
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
+- [No significant interaction between teaching method and gender on Arabic oral skills achievement](vtm-method-gender-interaction-null.md) — related

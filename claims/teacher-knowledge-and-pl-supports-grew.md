@@ -73,3 +73,4 @@ Post-PL questionnaires, interviews, and written reflections indicated teachers v
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
 - [Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning](m-plans-teacher-knowledge-uptake-gains.md) — related
+- [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related
