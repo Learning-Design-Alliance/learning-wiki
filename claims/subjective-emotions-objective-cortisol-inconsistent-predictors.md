@@ -55,3 +55,4 @@ Behavioral experiment with 96 college students in a game-based situation. The ab
 - [Stress hormones will influence WM during gaming](stress-hormones-influence-wm-gaming.md) — reports the opposite
 - [Stress stimuli influence creativity during gaming through two routes: enhancing creativity via cortisol concentration and WM, and decreasing creativity via promotion-focused negative emotions](stress-two-routes-creativity-gaming.md) — reports the opposite
 - [Working memory has a positive effect on creativity during gaming](wm-positive-effect-creativity-gaming.md) — reports the opposite
+- [Hormone-based stress monitoring showed no statistically significant changes in several reviewed studies despite being the second most used physiological method](hormone-monitoring-null-changes-acute-stress.md) — related

@@ -53,3 +53,4 @@ The review describes a randomized acute experimental study (attributed to Benton
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
+- [On-task behavior increased immediately after a 25-minute recess in a small uncontrolled pre-post study](on-task-behavior-increases-after-recess.md) — related

@@ -47,3 +47,6 @@ Meta-analysis comparing XR training to dry lab training on time to complete. The
 ## Related Claims
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
+- [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
+- [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — related
+- [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related

@@ -129,3 +129,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — reports the opposite
 - [The combined Climate and Preventure (CAP) trial showed no significant difference in cannabis use or cannabis-related harms between groups at any follow-up, despite greater cannabis-knowledge gains](cap-climate-preventure-no-cannabis-use-effect.md) — related
 - [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related
+- [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — related

@@ -69,3 +69,4 @@ Sensitivity analyses restricting to powered studies (total sample size larger th
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related
 - [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](discipline-moderates-flipped-classroom-effect.md) — related
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](test-of-preparation-moderates-flipped-learning.md) — related
+- [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related

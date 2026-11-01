@@ -47,3 +47,4 @@ Meta-analysis of attitude studies reporting Hedges' d by application. The review
 ## Related Claims
 - [For attitude of pre-service teachers, Transformative Learning Theory had the highest effect size (d=1,4760, huge) and Problem Based Learning the lowest (d=-0,3949, classified as negligible)](transformative-learning-highest-attitude-pbl-lowest.md) — related
 - [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](retention-very-large-effect-sizes-meta-analysis.md) — related
+- [Experiential learning interventions show medium effects on children's physical activity attitudes in two of three studies](experiential-learning-child-pa-attitudes.md) — related

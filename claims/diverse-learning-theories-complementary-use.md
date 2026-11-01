@@ -73,3 +73,4 @@ The review's discussion asserts, without new data, that "No theory isolated is s
 - P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
 - A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States — related
 - The most widely adopted theory among the reviewed studies is Experiential Learning Theory — related
+- [Theoretical or pedagogical foundations of research education programs were inconsistently reported, with some programs naming theories such as self-efficacy theory and Roger's Diffusion of Innovation](research-education-pedagogical-theories-inconsistent.md) — related

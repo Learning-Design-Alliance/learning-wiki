@@ -69,3 +69,5 @@ The review synthesizes that "there was an overall weak and negative correlation 
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
+- [Correlations between simulator task performance and intraoperative GEARS domains vary by task, and one study found no correlation between dVSS scores and intraoperative GEARS scores](task-specific-correlations-and-null-mills-study.md) — related
+- [Robotic VR simulator performance is positively correlated with intraoperative performance, with a pooled correlation of r = 0.67 (95% CI 0.22 to 0.88)](vr-simulator-performance-predicts-intraoperative-performance-r067.md) — reports the opposite

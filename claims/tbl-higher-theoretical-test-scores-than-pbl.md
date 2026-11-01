@@ -56,3 +56,5 @@ Meta-analysis of ten randomized controlled trials (944 participants reported for
 - [TBL and PBL show no significant difference in improving learning interest](tbl-pbl-no-difference-learning-interest.md) — related
 - [TBL and PBL show no significant difference in practical skill scores](tbl-pbl-no-difference-practical-skills.md) — related
 - [TBL and PBL show no significant difference in understanding skills, with a point estimate favoring TBL](tbl-pbl-no-difference-understanding-skills.md) — related
+- [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
+- [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related

@@ -85,3 +85,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Reported barriers to simulation effectiveness include insufficient debriefing, lack of repeated exposure, and inadequate faculty development](simulation-barriers-debriefing-faculty.md) — related
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Integrative SDL frameworks combining individual motivation with structured organizational support yielded the best outcomes in fostering lifelong learning among healthcare professionals](integrative-sdl-frameworks-best-outcomes.md) — related
+- [Research education is a mainstay, individual-level strategy within multidimensional research capacity building initiatives in health settings](research-education-mainstay-rcb-strategy.md) — related

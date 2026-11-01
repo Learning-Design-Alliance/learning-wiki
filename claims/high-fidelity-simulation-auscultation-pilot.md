@@ -49,3 +49,4 @@ Quasi-experimental pilot study with 17 nursing students (10 intervention, 7 cont
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Clinical simulation improved overall cardiovascular examination performance compared with traditional lecture in the Brazilian quasi-experimental study (Fernandes et al.)](simulation-vs-lecture-cardiovascular-performance-brazil.md) — related
+- [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related

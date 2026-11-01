@@ -61,6 +61,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Integrate teachable agents as a complement to, not a replacement for, the adopted classroom curriculum](ta-as-curriculum-complement-strategy.md)
 - [Integrate MR training into existing first-responder curricula as a phased supplement, starting with scenarios that are hard to implement in routine training](phased-mr-integration-into-curricula.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 
 ## Examples
 -

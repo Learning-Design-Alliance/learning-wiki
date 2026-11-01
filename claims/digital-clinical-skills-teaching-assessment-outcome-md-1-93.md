@@ -53,3 +53,4 @@ Systematic review with Mantel-Haenszel random-effects meta-analysis in Review Ma
 - [The SCL model improves skill scores compared to LBL in medical education](scl-improves-skill-scores.md) — related
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
+- [For knowledge gain in emergency medicine, 11 of 15 studies showed no statistically significant difference between e-learning and traditional learning, with two favouring each modality](el-tl-knowledge-gain-mostly-no-difference.md) — related

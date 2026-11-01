@@ -45,6 +45,11 @@ Subgroup analysis of examination scores across 3 variables (student major, publi
 
 
 ## Related Claims
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — a narrower finding that bears on this claim
+- [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
+- [In the clinical medicine subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 2.086)](pbl-clinical-medicine-subgroup-scores.md) — related
+- [In the five-year school system subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 1.571)](pbl-five-year-system-subgroup-scores.md) — a narrower finding that bears on this claim
+- [Same-teacher subgroups show no heterogeneity while different-teacher subgroups are highly heterogeneous (I2 = 96.4%)](same-teacher-subgroup-homogeneous-different-teacher-heterogeneous.md) — related
+- [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related

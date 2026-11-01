@@ -53,3 +53,4 @@ Subgroup analysis of theoretical knowledge scores by intervention duration; the 
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
 - [GAI-based teaching improves knowledge scores when learning duration exceeds one week](gai-knowledge-gains-extended-duration.md) — related
 - [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related

@@ -46,3 +46,4 @@ Content analysis of the 26 included studies coded against the ACGME framework. T
 
 ## Related Claims
 - [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related
+- [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related

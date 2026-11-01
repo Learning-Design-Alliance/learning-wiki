@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-01
 sources:
   - id: ayame-tamura-2022
     resource: "https://doi.org/10.1038/s41539-022-00125-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants reported more vigour in exercise lessons than control lessons in linear mixed-effects models. [→ Ayame Tamura 2022](#ayame-tamura-2022)
@@ -37,7 +38,7 @@ Ayame Tamura, Kou Murayama, Ryo Ishii, Michiko Sakaki and Ayumi Tanaka. (2022). 
 
 `q3 · i?` · `causal · r2`
 
-Linear mixed-effects analysis of within-subjects repeated assessments over nine randomly assigned lessons; 445 exercise and 565 control observations from 114 undergraduates. The model showed a "signiﬁcant positive effect on vigour" (B = 0.10, t = 3.85, P < 0.001). No standardised effect size is printed, so impact is null.
+Linear mixed-effects analysis of within-subjects repeated assessments over nine lessons of one class, four exercise and five control, in a fixed alternating order the authors call pseudo-random (the same for every student, not randomly assigned); 445 exercise and 565 control observations from 114 undergraduates. The model showed a "signiﬁcant positive effect on vigour" (B = 0.10, t = 3.85, P < 0.001). No standardised effect size is printed, so the size of the effect is coded unknown (`i?`), not null.
 
 > "The exercise intervention showed a signiﬁcant positive effect on vigour, indicating participants felt more vigorous when they exercised during class than when they did a control activity ( B = 0.10, t = 3.85, P < 0.001)."
 
@@ -55,3 +56,4 @@ Linear mixed-effects analysis of within-subjects repeated assessments over nine 
 - [Classroom physical activity breaks show strong evidence of improving emotional engagement in university students](pa-breaks-emotional-engagement-strong-evidence.md) — related
 - [Evidence on negative academic emotions from classroom physical activity breaks is limited and inconsistent](pa-breaks-negative-emotions-inconsistent.md) — related
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related
+- [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — possibly the same claim (merge candidate)

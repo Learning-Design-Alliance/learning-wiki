@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: wei-h-2025
     resource: "https://doi.org/10.1016/j.identj.2025.100858"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analysis of four RCTs found AI intervention significantly improved knowledge acquisition versus control (95% CIs [0.18-0.73], P = .001) with low heterogeneity (I² = 20%); no pooled point estimate was printed. [→ Wei H 2025](#wei-h-2025)
@@ -52,3 +53,4 @@ Meta-analysis (RevMan 5.4) of four RCTs using objective examinations, with 110 A
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related
+- [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related

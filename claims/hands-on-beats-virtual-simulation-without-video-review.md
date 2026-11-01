@@ -52,3 +52,4 @@ ANCOVA on post-test skill performance with pre-test as covariate in a randomized
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a broader claim this one bears on
 - [Hands-on experiments promote epistemic and value-related situational interest more than computer simulations, while emotional situational interest does not differ](experiments-promote-epistemic-value-interest.md) — related
+- [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](hands-on-booster-fewer-life-supporting-errors.md) — related

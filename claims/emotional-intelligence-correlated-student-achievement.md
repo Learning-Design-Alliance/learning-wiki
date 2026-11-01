@@ -51,3 +51,4 @@ Random-effects meta-analysis pooling correlation coefficients (Fisher z transfor
 - [Spiritual intelligence is positively correlated with student achievement (pooled r = 0.36)](spiritual-intelligence-correlated-student-achievement.md) — related
 - [No significant differences between high school and university students in spiritual intelligence, emotional intelligence, or achievement means](no-school-university-differences-si-ei-achievement.md) — related
 - [Pooled mean scores: achievement 15.91, spiritual intelligence 138.27, emotional intelligence 128.94](pooled-mean-scores-si-ei-achievement.md) — related
+- [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](ei-weakly-predicts-md-academic-success.md) — a narrower finding that bears on this claim

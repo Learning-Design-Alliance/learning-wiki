@@ -53,3 +53,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
 - [Students' active participation in offline group-learning (60.1%) was lower than in online self-learning](offline-participation-lower-than-online.md) — related
 - [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related
+- [About half (51.79%) of medical science students were satisfied with e-learning during the COVID-19 pandemic across 24 cross-sectional studies](medical-students-elearning-satisfaction-51-79-percent-covid.md) — related

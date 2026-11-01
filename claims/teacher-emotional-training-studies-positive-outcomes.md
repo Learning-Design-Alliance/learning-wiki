@@ -63,3 +63,4 @@ The review narrates prior training studies targeting skills such as emotion iden
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — reports the opposite
 - [In RCTs, effects on stress (g=1.79) and professional burnout (g=0.82) increased at short-term follow-up, while effects on anxiety, sleep, and wellbeing were non-significant](teacher-programs-rct-short-term-followup.md) — a narrower finding that bears on this claim
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related
+- [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related

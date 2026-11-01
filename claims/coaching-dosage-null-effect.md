@@ -67,3 +67,4 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — reports the opposite
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
+- [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related

@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (9 for, 11 mixed, 1 against) · 14 studies (8 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 5 of 14 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 15 studies (9 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 6 of 15 report an effect size · 21 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -45,6 +45,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](../claims/flipped-classroom-effect-similar-rct-observational.md) [~W]
+- [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](../claims/flipped-pharmacy-country-subgroup.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

@@ -72,3 +72,5 @@ Narrative synthesis of the review's CR-development studies; the review reports a
 - [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
 - [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](ivr-single-study-affective-outcomes-mixed.md) — related
 - [Negative emotions, most commonly stress, were inversely correlated with clinical performance in some simulated or educational acute care settings](negative-emotions-inversely-correlated-performance-simulated-acute-care.md) — related
+- [Clinical instructors' ratings of students' emotional intelligence correlate with clinical performance while student self-ratings do not](ci-rated-emotional-intelligence-correlates-clinical-performance.md) — related
+- [Stress shows both negative and positive effects on technical and non-technical surgical performance, with no clear collective pattern](stress-effects-on-surgical-performance-mixed.md) — related

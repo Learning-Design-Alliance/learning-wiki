@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (87 show a difference, 26 mixed, 8 no difference) · 65 studies (21 causal, 19 associational, 13 review, 5 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 65 report an effect size · 119 claims rest on one study
+> **Evidence** · 126 claims (89 show a difference, 26 mixed, 11 no difference) · 66 studies (21 causal, 19 associational, 13 review, 6 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 66 report an effect size · 124 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -156,6 +156,11 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](../claims/creative-drama-thematic-outcomes-domains.md) [+M] — instruction changes it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](../claims/pbl-improves-efl-critical-thinking.md) [+M] — instruction changes it
+- [Creativity rating does not associate with effect sizes on fluid intelligence or on-task behaviour](../claims/pa-creativity-no-association-fluid-intelligence-on-task.md) [-W] — an instructional effect differs with it
+- [Creativity rating of physical activity interventions does not associate with effect sizes on academic achievement, mathematics or language](../claims/pa-creativity-no-association-academic-achievement.md) [-W] — an instructional effect differs with it
+- [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](../claims/higher-creativity-pa-negative-cognitive-flexibility.md) [+W] — an instructional effect differs with it
+- [Highly creative physical activity interventions produce a large summary effect on creativity measures in children](../claims/high-creativity-pa-improves-creativity-outcomes.md) [+M] — instruction changes it
+- [The extent to which physical activity interventions foster creativity does not associate with their effect size on executive functions in children](../claims/pa-creativity-rating-no-association-executive-functions.md) [-W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

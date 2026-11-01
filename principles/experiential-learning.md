@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (28 for, 9 mixed) · 43 studies (12 causal, 8 quant-synthesis, 8 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 43 report an effect size · 31 claims rest on one study
+> **Evidence** · 41 claims (30 for, 11 mixed) · 45 studies (12 causal, 9 quant-synthesis, 9 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 45 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,10 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Step 1 (Work on an activity) of the VAS facilitated participants' reflection on both their knowledge and their teaching experiences](../claims/vas-step1-facilitated-reflection-knowledge-teaching.md) [+W]
 - [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](../claims/second-go-feedback-iteration-simulation.md) [+W]
 - [Clinical placement experiences, including early placement and patient interactions, enhance SDL](../claims/clinical-placement-enhances-sdl.md) [+W]
+- [Experiential learning interventions among children under five show small to medium effects on behaviour, with evidence needing strengthening](../claims/experiential-learning-under-five-pa-behaviour.md) [~W]
+- [Experiential learning interventions improve physical activity behaviour in school-aged children, with six of eight studies showing medium to large effects](../claims/experiential-learning-improves-child-pa-behaviour.md) [+W]
+- [Heterogeneity of experiential learning intervention effects is high for behaviour outcomes and low for attitude outcomes, with minimal publication bias](../claims/heterogeneity-publication-bias-experiential-pa.md) [~W]
+- [Half of the reviewed research education programs included a mentoring component and programs were often multifaceted with experiential learning](../claims/research-education-programs-mentoring-experiential.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

@@ -127,3 +127,4 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related
 - [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md) — related
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related
+- [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — related

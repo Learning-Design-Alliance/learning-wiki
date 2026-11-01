@@ -43,7 +43,8 @@ The article recommends that hospitals conduct spiritual care education courses a
 - [Nurses who received spiritual education courses scored higher in spiritual care ability, reported as the biggest influencing factor](../claims/spiritual-education-courses-biggest-factor.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
 
 ## Examples
 -

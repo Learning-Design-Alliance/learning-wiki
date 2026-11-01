@@ -50,3 +50,4 @@ Systematic review of 48 educational studies; the authors coded each HRV-variable
 - [Static HRV devices were associated with high-correlation studies, while wristband and chest belt wearables showed no significant difference in correlation levels](hrv-device-accuracy-static-vs-wearable.md) — related
 - [HRV data show limited predictive validity for academic and performance outcomes in educational contexts](hrv-limited-predictive-validity-performance.md) — related
 - [Educational HRV research is concentrated on stress and on undergraduate, largely health-science, participants](hrv-research-concentrated-stress-undergraduates.md) — related
+- [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related

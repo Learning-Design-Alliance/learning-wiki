@@ -62,3 +62,9 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — a narrower finding that bears on this claim
 - [In 82% of studies on transferability, simulation performance was correlated with better operating room performance](simulation-performance-correlated-better-or-performance.md) — related
 - [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — reports the opposite
+- [Four reviewed studies showed e-learning changed student study behaviour, including increased time invested in studying course subjects](elearning-behaviour-change-kirkpatrick-3.md) — related
+- [Evidence that FB SBT improves bronchoscopy performance in a patient setting (Kirkpatrick level 3) is sparse and conflicting](fb-sbt-patient-setting-evidence-sparse.md) — related
+- [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — related
+- [In-situ simulation is used in healthcare for four mapped purposes: assessment, system readiness and safety culture, clinical skills and patient outcomes, and non-technical skills, knowledge and confidence](iss-four-purpose-mapping-categories.md) — related
+- [VIST endovascular simulator training transferred to real-world performance, with improved technical skill metrics on real patients (LoE 3/5)](vist-training-transfers-to-patients.md) — related
+- [Three of four studies demonstrated transfer of surgical skills from robotic VR simulators to the operating room measured by time and technical surgical performance](vr-simulator-skill-transfer-three-of-four-studies.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 475 claims (223 for, 228 mixed, 24 against) · 247 studies (118 causal, 51 associational, 32 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 247 report an effect size · 468 claims rest on one study
+> **Evidence** · 477 claims (225 for, 228 mixed, 24 against) · 249 studies (118 causal, 52 associational, 33 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 249 report an effect size · 470 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -519,6 +519,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning [+W] — attached 2026-10-31 from Perdrix Yannick et al. (2026), which proposed "Four overarching purposes of metacognitive regulation in PT clinical reasoning: pedagogical, clinical, professional developmental and sociopolitical".
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](../claims/ai-virtual-patient-self-report-performance-discordance.md) [+W]
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](../claims/students-overestimate-clinical-judgment.md) [+W]
+- [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](../claims/structured-pre-briefing-supports-clinical-judgment.md) [+W]
+- [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](../claims/team-engagement-reduces-sa-overconfidence-risk-taking.md) [+W]
 
 ## The evidence by question
 

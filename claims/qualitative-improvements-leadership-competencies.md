@@ -51,3 +51,4 @@ Narrative synthesis of qualitative findings reported in four of the included stu
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance](kauffman-school-qualitative-mechanisms-faithful-implementation.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
+- [Tsaroucha et al. (2013) identified 87 specific skills statements across eight core dementia competencies](tsaroucha-87-skills-statements-eight-core-competencies.md) — related

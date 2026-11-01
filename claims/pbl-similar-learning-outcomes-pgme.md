@@ -46,3 +46,4 @@ Systematic review and random-effects meta-analysis of three controlled studies o
 
 ## Related Claims
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
+- [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](pbl-no-significant-critical-thinking-first-year.md) — related

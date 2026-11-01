@@ -46,6 +46,7 @@ Because learners may equate a pleasant experience with effective learning, the a
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 - [Support school leaders in low-satisfaction schools to develop coaching skills and implement evaluations in ways that encourage instructional improvement](leader-coaching-support-low-satisfaction-schools.md)
+- [Measure proximal, body-movement-based and affective outcomes in future physical activity intervention studies](proximal-body-movement-outcome-measures-future-pa-research.md)
 
 ## Examples
 -

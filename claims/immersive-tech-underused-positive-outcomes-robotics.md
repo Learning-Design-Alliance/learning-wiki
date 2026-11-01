@@ -85,3 +85,7 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related
 - [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related
+- [Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes](enhancing-technologies-effective-knowledge-behavior.md) — related
+- [Scenario-based learning, resource access, and narrated PowerPoint lead the enhancing technologies, with simulation/VR and gamification rare](enhancing-technologies-frequency-scenario-gamification.md) — related
+- [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](gamification-negative-transfer-risk.md) — related
+- [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related

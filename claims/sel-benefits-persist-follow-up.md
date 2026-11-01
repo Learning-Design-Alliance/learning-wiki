@@ -144,3 +144,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [A prior meta-analysis suggested primary school classroom management programs had a small, statistically significant effect on most outcomes, with stronger effects for interventions focused on social-emotional development and teacher development](korpershoek-2016-classroom-management-programs-small-effects.md) — related
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
 - Longitudinal program evaluation strategies were described in only three studies — related
+- [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](academic-emotion-intervention-pooled-effect-emotion.md) — related

@@ -20,6 +20,7 @@ A bedside and community healthcare framework developed by Yoshimatsu Yuki et al.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **JAPEP preliminary competency framework developed by simplified Delphi method**: A preliminary list of nine clinical competencies (diagnosis, treatment, swallow assessment, medication management, nutrition assessment, oral care, rehabilitation, multidisciplinary team, and ethics) developed by members of the Japan Aspiration pneumonia inter-Professional team Educational Program (JAPEP) — six general practitioners, a rehabilitation physician, respiratory physician, psychosomatic physician, dentist and pharmacologist. The article states the members developed the list "using a simplified Delphi method", chosen because it "has been considered superior to more informal methods of expert opinion". This list was then refined by the scoping review into the 12-competency framework. (Yoshimatsu Yuki et al. (2023))
 
 ### Claims
 - [A scoping review of 99 studies identified 12 clinical competencies for managing older adults with aspiration pneumonia](../claims/scoping-review-12-ap-competencies.md) [+M]

@@ -52,3 +52,4 @@ Systematic review (PROSPERO CRD42024611988) searching five databases for January
 - [Skills outcomes mostly showed no between-role differences, with active participant advantages limited to delayed technical skills, non-technical affective outcomes, and role-continuity effects](skills-outcomes-delayed-technical-advantage.md) — a narrower finding that bears on this claim
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - [Video review improves knowledge and skills outcomes (Kirkpatrick level 2), with mixed findings across studies](video-review-kirkpatrick-level-2-knowledge-skills.md) — related
+- [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related

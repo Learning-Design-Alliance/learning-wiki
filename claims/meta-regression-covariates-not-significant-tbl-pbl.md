@@ -48,3 +48,4 @@ Meta-regression analysis across the ten included studies exploring sources of he
 - [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — related
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related

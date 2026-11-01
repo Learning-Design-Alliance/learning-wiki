@@ -50,3 +50,4 @@ The review's synthesis across 34 included studies reports that "integrative fram
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — a narrower finding that bears on this claim
+- [Most SDL activity studies report positive or mixed/neutral outcomes, with negative outcomes rare](sdl-outcomes-mostly-positive-mixed.md) — related

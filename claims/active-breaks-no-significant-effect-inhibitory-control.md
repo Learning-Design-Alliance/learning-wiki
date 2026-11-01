@@ -54,3 +54,4 @@ RVE meta-analysis across 16 inhibitory-control studies (n = 3798): pooled g = 0.
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
 - [Effects of active breaks on mathematical achievement are small and lose significance under Robust Variance Estimation](active-breaks-math-achievement-mixed-significance.md) — related
+- [In-classroom physical activity breaks show no significant effect on children's test anxiety](icpab-no-effect-test-anxiety.md) — related

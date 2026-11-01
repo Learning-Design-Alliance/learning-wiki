@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (23 for, 16 mixed) · 29 studies (11 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 29 report an effect size · 37 claims rest on one study
+> **Evidence** · 40 claims (23 for, 17 mixed) · 30 studies (12 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](../claims/blended-teaching-no-significant-difference-mcq-scores.md) [~W]
 - [Blended learning improved manual skills in preclinical endodontics but showed no significant difference in conceptual knowledge](../claims/blended-learning-manual-skills-not-conceptual-knowledge.md) [~W]
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](../claims/skill-type-moderates-digital-effectiveness-suturing-cpr.md) [~W]
+- [A blended learning program did not differ in effectiveness from face-to-face lessons for nurses' fever management learning, but produced higher satisfaction](../claims/blended-vs-face-to-face-fever-education-no-effectiveness-difference.md) [~W]
 
 ## Examples
 

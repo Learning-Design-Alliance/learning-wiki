@@ -49,3 +49,4 @@ Homogeneity test across the 81 comparisons in the meta-analysis. The article rep
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
 - Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model — related
+- [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related

@@ -75,3 +75,4 @@ Country-level moderator analysis for victimization across 21 countries (Table 2)
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — related
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related
 - [Anti-bullying intervention effects are weak, and RCT designs show even smaller effects than earlier meta-analyses suggested](anti-bullying-intervention-effects-weak.md) — related
+- [The bullying–achievement relationship is moderated by study design, assessment method, country, age and bullying type](moderators-bullying-achievement-design-country-type.md) — related

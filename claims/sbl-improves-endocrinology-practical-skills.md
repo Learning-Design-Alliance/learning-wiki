@@ -49,3 +49,4 @@ Meta-analysis of 14 randomized controlled trials reporting post-intervention ski
 - No significant publication bias was detected for the knowledge and skill outcomes — related
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — related
 - [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](sbl-post-intervention-gains-20-50-percent.md) — a broader claim this one bears on
+- [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — related

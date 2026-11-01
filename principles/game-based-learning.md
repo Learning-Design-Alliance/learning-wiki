@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (43 for, 40 mixed, 1 against) · 64 studies (20 causal, 18 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 64 report an effect size · 78 claims rest on one study
+> **Evidence** · 85 claims (43 for, 41 mixed, 1 against) · 65 studies (20 causal, 18 quant-synthesis, 15 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 65 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -205,6 +205,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](../claims/game-assisted-math-medium-positive-effect-turkey.md) [+W]
 - [Game-based mathematics teaching favored experimental groups in 30 of 31 included effect sizes](../claims/game-math-30-of-31-positive-effect-sizes.md) [+W]
 - [The effect of games on mathematics achievement does not differ significantly by implementation period](../claims/game-math-effect-no-difference-implementation-period.md) [~W]
+- [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](../claims/gamification-negative-transfer-risk.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

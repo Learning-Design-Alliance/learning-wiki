@@ -46,3 +46,5 @@ Narrative synthesis of six accelerometer-based studies of ALCs; the review repor
 
 ## Related Claims
 - [Effects of ALCs on physical activity are mixed, with some studies showing lower PA in ALCs than traditional classrooms](alc-mixed-physical-activity.md) — related
+- [Classroom movement breaks increase physical activity and reduce sedentary behaviour during university classes](cmb-increases-class-physical-activity.md) — related
+- [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related

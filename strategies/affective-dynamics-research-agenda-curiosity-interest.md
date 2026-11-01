@@ -50,6 +50,7 @@ The article recommends three methodological advances: complement self-report wit
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 - [Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies](multisite-representative-longitudinal-samples.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

@@ -71,3 +71,5 @@ The review reports Haidet et al.'s controlled trial comparing PBL with slide-and
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — a broader claim this one bears on
 - Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — related
 - [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related
+- [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
+- [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — related

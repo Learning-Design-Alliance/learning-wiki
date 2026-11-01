@@ -43,7 +43,8 @@ The authors set out a research agenda: validate multiple age-appropriate approac
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](../claims/movement-videos-enjoyment-null-group-difference.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Measure proximal, body-movement-based and affective outcomes in future physical activity intervention studies](proximal-body-movement-outcome-measures-future-pa-research.md)
 
 ## Examples
 -

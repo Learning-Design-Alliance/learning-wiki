@@ -69,3 +69,4 @@ In the same NMA across 42 studies (2921 trainees), PBL + Wechat showed the lowes
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
 - [PBL combined with clinical practice yields the largest improvement in medical record analysis scores versus LBL](pbl-clinical-practice-medical-record-scores.md) — related
 - [Combining teaching methods (PBL + WeChat, CBL + WeChat, PBL + CBL) achieves better academic performance than single methods in Chinese resident training](combined-methods-better-academic-performance-residents.md) — a broader claim this one bears on
+- [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related

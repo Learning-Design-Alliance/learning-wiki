@@ -55,3 +55,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](digital-platforms-enhance-orthodontic-knowledge-retention.md) — related
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
 - [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](vr-higher-engagement-than-powerpoint-orthodontics.md) — related
+- [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related

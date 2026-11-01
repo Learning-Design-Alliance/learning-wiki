@@ -50,3 +50,4 @@ Meta-analysis of 18 RCTs (1,460 participants) using random effect models due to 
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — a broader claim this one bears on
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - Included RCTs of flipped classrooms in Chinese clinical practice show high risk of methodological bias — related
+- [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](pbl-higher-knowledge-scores-orthopaedics.md) — related

@@ -100,3 +100,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](abrupt-transition-disparate-counterproductive-effects.md) — related
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](videoconferenced-cbl-for-rural-trainees.md) — related
+- [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related

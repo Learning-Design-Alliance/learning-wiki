@@ -53,3 +53,4 @@ The review reports this randomized pretest-posttest trial of 56 nursing students
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — reports the opposite
+- [A biofeedback-based stress monitoring tool significantly reduced surgeons' mean stress scores in a randomized controlled trial](stress-feedback-tool-reduced-stress-rct.md) — related

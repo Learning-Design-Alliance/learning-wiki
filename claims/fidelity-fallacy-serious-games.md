@@ -98,3 +98,5 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](high-fidelity-not-superior-to-low-fidelity-sbl.md) — a narrower finding that bears on this claim
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
+- [The review reports, citing prior studies, that high-fidelity simulators show no important long-term advantage over low-fidelity simulators](high-fidelity-no-long-term-advantage-over-low-fidelity.md) — a narrower finding that bears on this claim
+- [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related

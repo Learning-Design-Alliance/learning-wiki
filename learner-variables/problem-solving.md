@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (69 show a difference, 13 mixed, 14 no difference) · 80 studies (36 causal, 13 review, 11 quant-synthesis, 7 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 21 of 80 report an effect size · 94 claims rest on one study
+> **Evidence** · 98 claims (70 show a difference, 13 mixed, 15 no difference) · 82 studies (36 causal, 14 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 21 of 82 report an effect size · 96 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -134,6 +134,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](../claims/cbl-improves-problem-solving-abilities.md) [+M] — instruction changes it
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](../claims/pbl-rct-higher-problem-solving-self-directed-learning.md) [+M] — instruction changes it
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [-M] — instruction changes it
+- [Higher T-NOTECHS assessment-and-decision-making scores were associated with ROSC after ED thoracotomy, though the overall association did not reach statistical significance](../claims/tnotechs-rosc-association-not-significant.md) [-M] — learners who differ on it differ in outcomes
+- [Qualitative studies report perceived benefits of recess for focus, problem solving, achievement, creativity, and behavior](../claims/qualitative-perceived-recess-benefits.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

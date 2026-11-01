@@ -77,3 +77,4 @@ The review reports that dACC activation, correlated with performance and linked 
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
 - [Neuroscience shows prefrontal and anterior cingulate areas exert inhibitory control over alternative conceptions during learning](inhibitory-control-alternative-conceptions-prefrontal.md) — related
+- [Experts show significantly lower prefrontal cortex activation than novices during technical skill performance, but novices may retain persistent PFC engagement even after reaching expert-level observed performance](experts-lower-pfc-activation-than-novices.md) — related

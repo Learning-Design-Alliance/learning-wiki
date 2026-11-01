@@ -51,6 +51,7 @@ The authors recommend that each study include a minimal "terminology statement" 
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Study curiosity broadly as information-seeking in ethological context rather than fixing a strict definition first](study-information-seeking-broadly-before-defining-curiosity.md)
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
+- [Measure proximal, body-movement-based and affective outcomes in future physical activity intervention studies](proximal-body-movement-outcome-measures-future-pa-research.md)
 
 ## Examples
 -

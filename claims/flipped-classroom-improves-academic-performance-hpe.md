@@ -80,3 +80,5 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — a narrower finding that bears on this claim
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
+- [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — a narrower finding that bears on this claim
+- [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — a narrower finding that bears on this claim

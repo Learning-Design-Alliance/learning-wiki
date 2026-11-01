@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: xiong-xianghua-2025
     resource: "https://doi.org/10.1186/s12909-025-07741-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` PBL-CBL students had significantly higher physical examination scores than LBL students (SMD = 1.64). [→ Xiong Xianghua 2025](#xiong-xianghua-2025)
@@ -71,3 +72,4 @@ Meta-analysis of 4 studies (248 students) on case analysis scores. The pooled es
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [PBL-CBL improves procedural skills: plaster immobilization, debridement proficiency, and aseptic awareness](pbl-cbl-procedural-skills-plaster-debridement-aseptic.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
+- [CBL significantly increases comprehensive ability scores compared with LBL (SMD=2.91)](cbl-increases-comprehensive-ability-scores.md) — related

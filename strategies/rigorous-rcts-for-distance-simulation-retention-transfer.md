@@ -53,6 +53,7 @@ Based on the evidence gaps it identifies, the review recommends that future work
 - [Engage target learners to identify needs before designing XR educational tools](engage-learners-before-xr-tool-design.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
+- [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
 
 ## Examples
 -

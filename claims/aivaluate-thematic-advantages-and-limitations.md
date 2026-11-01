@@ -59,3 +59,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — related
 - [Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle](tutor-perceived-as-social-actor.md) — related
+- [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related

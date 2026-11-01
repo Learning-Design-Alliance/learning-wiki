@@ -69,3 +69,5 @@ The review's Discussion reports satisfaction averages across studies and caution
 - The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes — related
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related
+- [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
+- [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on

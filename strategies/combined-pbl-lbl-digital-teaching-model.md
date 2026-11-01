@@ -54,7 +54,9 @@ The review observes that PBL "is often combined with other teaching methods, suc
 - [Evidence for PBL effectiveness is rated low quality with considerable heterogeneity, attributed to instructor supervision, participant characteristics, and unstandardized assessment](../claims/pbl-evidence-low-quality-heterogeneous.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
+- [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
 
 ## Examples
 -

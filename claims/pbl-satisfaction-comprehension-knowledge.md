@@ -52,3 +52,5 @@ Meta-analysis of 5 studies involving 610 students reporting satisfaction with im
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Students in the SCL group report greater satisfaction than those in the LBL group](scl-greater-student-satisfaction.md) — related
+- [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
+- [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on

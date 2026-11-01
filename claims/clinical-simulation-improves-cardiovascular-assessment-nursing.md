@@ -54,3 +54,4 @@ Narrative synthesis of six included experimental and quasi-experimental studies 
 - [High-fidelity simulation improved auscultation performance in the intervention group, with no statistical or clinical differences between groups (Menon et al. pilot study)](high-fidelity-simulation-auscultation-pilot.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](simulation-improves-critical-thinking-nursing-medical-students.md) — related
+- [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related

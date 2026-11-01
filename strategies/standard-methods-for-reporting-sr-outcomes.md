@@ -44,6 +44,7 @@ The review recommends that "future research in SR should be directed to evaluate
 
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Report complete statistical data and use standardized success tests to enable future meta-analysis](standardized-tests-and-complete-statistics-recommendation.md)
+- [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
 - [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — related
 - [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](intermediate-fidelity-simulation-knowledge-not-confidence.md) — related
+- [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related

@@ -76,3 +76,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [A great diversity of technologies, including AI techniques, software solutions and distributed technologies, is used to develop ITS authoring tools](diverse-technologies-develop-its-authoring-tools.md) — related
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
+- [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related

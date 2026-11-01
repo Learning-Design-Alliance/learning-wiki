@@ -63,3 +63,4 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](self-regulatory-burden-harms-low-performers.md) — related
 - [Technology-supported personalized learning approaches, especially adaptive learning technologies, are reported to raise student achievement more than traditional non-adaptive instruction](tech-personalized-learning-raises-achievement.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — possibly the same claim (merge candidate)
+- [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related

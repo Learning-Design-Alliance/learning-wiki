@@ -47,3 +47,4 @@ Meta-analysis of satisfaction questionnaires from three RCTs answered only by AI
 ## Related Claims
 - [Evidence for AI-powered PBL/CBL is limited: small study count, some concerns risk of bias, and no long-term effectiveness data](ai-pbl-cbl-evidence-limitations.md) — related
 - [No included studies applied AI-based modalities specifically to public health education, though external reviews report positive satisfaction with AI-assisted PBL and CBL](no-ai-studies-in-public-health-active-learning-yet.md) — possibly the same claim (merge candidate)
+- [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related

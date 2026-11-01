@@ -59,3 +59,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound — related
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
+- [Short-interval (2.5-minute) spaced practice outperformed massed practice on a laparoscopic transfer task in Mackay et al.](mackay-short-interval-spaced-outperformed-massed.md) — related

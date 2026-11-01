@@ -70,3 +70,4 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate — related
 - Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related
+- [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related

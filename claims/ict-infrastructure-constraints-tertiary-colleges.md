@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-01
 recheck_by: 2020
 sources:
   - id: gloria-mothibi-2015
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A study of tertiary educational institutions found that 54.2% of colleges lack well-equipped computer laboratories, limiting effective curriculum delivery. [→ Gloria Mothibi 2015](#gloria-mothibi-2015)
@@ -72,3 +73,4 @@ The article reports, citing Shekari, relatively low ICT facility usage of "46%" 
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — related
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — related
+- [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related

@@ -12,24 +12,24 @@ newest_evidence: 2024
 sources:
   - id: sten-cw-2024
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 2
     i: "?"
     kind: causal
     rigour: 1
   - id: sten-cw-2024-2
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 2
     i: "?"
     kind: causal
     rigour: 1
   - id: sten-cw-2024-3
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 2
     i: "?"
     kind: associational
@@ -51,7 +51,7 @@ sources:
 
 ### Sten CW 2024
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q2 · i?` · `causal · r1`
 
@@ -61,7 +61,7 @@ Single-group pretest–posttest study of 32 resident psychiatrists using an IPS 
 
 ### Sten CW 2024 (2)
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q2 · i?` · `causal · r1`
 
@@ -71,7 +71,7 @@ Controlled before-and-after study of 79 medical students in psychiatric clinical
 
 ### Sten CW 2024 (3)
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q2 · i?` · `associational · r1`
 
@@ -88,3 +88,4 @@ Prospective cohort study of 299 undergraduate nursing students using a VP game d
 - [VR training interventions can promote knowledge and skills acquisition in health care professionals and students for assessing and treating mental health disorders, though the evidence base is uncertain](vr-training-promotes-mental-health-knowledge-skills.md) — a broader claim this one bears on
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
+- [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on

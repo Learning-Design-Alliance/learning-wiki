@@ -50,3 +50,4 @@ Two-proportion Z test on ChatGPT-4's 16 incorrect MRCP Part 1 questions (4 factu
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — a broader claim this one bears on
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
 - [ChatGPT-4 outperformed ChatGPT-3.5 in every postgraduate examination both models were tested on](chatgpt-4-outperformed-35-in-all-shared-exams.md) — related
+- [Task nature modulates brain activation: problem-solving tasks and difficult cases induced higher activation than simple recall or routine cases, and incorrect answers induced higher PFC activation than correct answers](task-difficulty-modulates-brain-activation.md) — related

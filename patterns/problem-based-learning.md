@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 96 claims (29 for, 61 mixed, 6 against) · 63 studies (20 quant-synthesis, 16 causal, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 14 of 63 report an effect size · 91 claims rest on one study
+> **Evidence** · 113 claims (37 for, 67 mixed, 9 against) · 69 studies (26 quant-synthesis, 16 causal, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 18 of 69 report an effect size · 108 claims rest on one study
 
 ## Description and scope
 
@@ -177,7 +177,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](../claims/ai-pbl-cbl-improves-knowledge-acquisition.md) [~W]
 - [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
 - [Evidence for AI-powered PBL/CBL is limited: small study count, some concerns risk of bias, and no long-term effectiveness data](../claims/ai-pbl-cbl-evidence-limitations.md) [~W]
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [~W]
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](../claims/pbl-higher-satisfaction-interest.md) [+W]
@@ -188,6 +188,23 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](../claims/pbl-positive-student-feedback-survey.md) [~W]
 - [For learning interest and learning efficiency in TACE teaching, PBL combined with TBL ranked best, followed by PBL combined with CBL](../claims/pbl-tbl-best-learning-interest-efficiency-tace.md) [~W]
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
+- [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](../claims/pbl-advantage-persists-after-galbraith-removal.md) [+M]
+- [In the clinical medicine subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 2.086)](../claims/pbl-clinical-medicine-subgroup-scores.md) [+W]
+- [No single study affected the statistically significant PBL advantage in sensitivity analysis](../claims/pbl-advantage-robust-to-single-study-removal.md) [~W]
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](../claims/pbl-comprehensive-question-scores-smd-053.md) [+W]
+- [In the five-year school system subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 1.571)](../claims/pbl-five-year-system-subgroup-scores.md) [~W]
+- [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](../claims/heterogeneity-sources-pbl-cell-biology-meta-analysis.md) [~W]
+- [PBL significantly increases clinical operation scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 1.15)](../claims/pbl-increases-clinical-operation-scores-china-obgyn.md) [+W]
+- [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](../claims/pbl-higher-interest-satisfaction-orthopaedics.md) [+W]
+- [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](../claims/pbl-increases-theoretical-knowledge-scores-china-obgyn.md) [+W]
+- [PBL teaching yields higher total scores than traditional teaching in orthopaedics education](../claims/pbl-higher-total-scores-orthopaedics.md) [+W]
+- [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](../claims/sensitivity-analysis-pbl-pooled-smd-stable.md) [~M]
+- [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](../claims/pbl-no-significant-critical-thinking-first-year.md) [-W]
+- [PBL shows no statistically significant advantage for self-directed learning in first-year students (p = 0.34), with the pooled fixed-effect estimate inclined toward the conventional method](../claims/pbl-no-advantage-self-directed-learning.md) [-W]
+- [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](../claims/pbl-no-advantage-diagnostic-imaging-skills.md) [~W]
+- [Students were generally satisfied with the PBL approach across the included studies](../claims/pbl-medical-psychology-student-satisfaction.md) [+W]
+- [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](../claims/pbl-lbl-satisfaction-no-difference.md) [-W]
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](../claims/pbl-subgroup-duration-region-heterogeneity.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

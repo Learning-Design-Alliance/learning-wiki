@@ -59,9 +59,11 @@ Job aids exploit the distinction between information needed for *learning* and i
 6. Decide the fade plan: for tasks that should become automatic, transition from aid-dependent to aid-free performance over successive attempts
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — worked examples build the schema during training; job aids carry the load afterward — the two should be sequenced, not conflated
 - [Checklists](checklists.md) — the most common job aid form, with its own evidence base in high-stakes fields
 - [Fading](../elements/fading.md) — governs the transition from external support to internalized skill
+- [Use just-in-time e-learning booster review immediately before neonatal procedures to support knowledge and especially performance](jit-elearning-booster-before-procedures.md)
 
 ## Examples
 - **WHO Surgical Safety Checklist** (https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery) — a one-page job aid that reduced surgical complications and mortality in multi-site trials by enforcing critical steps at the moment of incision and closure

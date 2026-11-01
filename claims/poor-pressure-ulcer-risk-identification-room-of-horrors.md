@@ -49,3 +49,4 @@ The review reports, from Farnan et al.'s 30-minute mandatory 'room of horrors' s
 - [A competency-based pressure ulcer curriculum improved competency scores across curriculum phases](competency-based-pressure-ulcer-curriculum-score-gains.md) — related
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — related
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](nine-studies-medical-student-wound-care-education.md) — related
+- [ISS used to assess performance and identify risks: eighteen studies, mostly observational, reported positive benefits for identifying hazards, latent safety threats and guideline non-adherence](iss-assessment-identifies-risks.md) — a broader claim this one bears on

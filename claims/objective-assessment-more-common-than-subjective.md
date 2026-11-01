@@ -47,3 +47,4 @@ Narrative synthesis classifying each study's assessment as objective (time, moti
 ## Related Claims
 - A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related
 - [Only three bespoke rater-based assessment tools and one sensor-based method exist for assessing non-technical skills in robotic-assisted surgery](paucity-bespoke-nts-assessment-tools-ras.md) — related
+- [Most studies (60.7%) of arthroscopic skills training combined objective metrics with subjective assessment scales](combined-objective-subjective-assessment-majority-studies.md) — related

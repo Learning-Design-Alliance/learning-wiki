@@ -51,3 +51,4 @@ Same linear mixed-effects analysis of the nine-lesson within-subjects interventi
 - [Low-intensity exercise during university class significantly increases students' vigour during the lesson](classroom-exercise-increases-vigour.md) — related
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](classroom-exercise-no-cognitive-engagement-effect.md) — related
 - [Within a person, vigour correlates positively with interest and negatively with fatigue, depression, sleepiness, and mind-wandering](vigour-within-person-correlations-engagement.md) — related
+- [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — possibly the same claim (merge candidate)

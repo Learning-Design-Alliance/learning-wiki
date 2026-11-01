@@ -53,3 +53,4 @@ Narrative synthesis of experimental and quasi-experimental studies contrasting d
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
 - [Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.](learner-type-moderator-nonsignificant-k12-null.md) — related
 - Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related
+- [Most included asynchronous e-learning studies used pure online delivery rather than blended learning](pure-online-delivery-dominates-nurse-elearning.md) — related

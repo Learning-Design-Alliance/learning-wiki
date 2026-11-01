@@ -70,3 +70,5 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](teaching-period-moderates-blended-instruction-effects.md) — related
 - [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related
 - [SEM intervention periods of no more than 18 sessions are effective; periods of 18 or more sessions show no significant effect](sem-period-moderator.md) — related
+- [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related

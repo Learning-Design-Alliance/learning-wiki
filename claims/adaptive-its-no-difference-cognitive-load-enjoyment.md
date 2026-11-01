@@ -59,3 +59,4 @@ Linear regressions with condition as independent variable and the three self-rep
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
 - [Adaptivity does not sacrifice enjoyment](bkt-adaptivity-no-enjoyment-cost.md) — possibly the same claim (merge candidate)
 - [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](difficulty-adaptation-strength-threshold-boundary-condition.md) — related
+- [Academic emotional guidance showed no significant influence on learning effects in two studies, though it improved memory and mental load](academic-emotion-guidance-null-learning-effect.md) — related

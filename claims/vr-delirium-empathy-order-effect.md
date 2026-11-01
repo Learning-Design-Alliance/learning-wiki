@@ -58,3 +58,4 @@ This was a prospective, single-centre, quasi-experimental crossover study with 1
 - [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](vr-psychosis-empathy-stigma.md) — related
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related
 - [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](simulation-small-significant-empathy-gain.md) — related
+- [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related

@@ -69,3 +69,4 @@ The review reports that Díaz Cárdenas (Colombian dental students), Fidanci (Tu
 - [Type D personality with self-defeating humor style and problematic mobile phone multitasking during study are risk factors for internet addiction](ia-personality-multitasking-risk-factors.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [Stress shows inconsistent relationships with academic performance in rehabilitation science students](stress-inconsistent-relationship-academic-performance.md) — related

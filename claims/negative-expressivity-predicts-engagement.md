@@ -49,3 +49,4 @@ Growth model predicting spring first-grade observed engagement, controlling for 
 - [The negative expressivity trajectory marginally inversely predicted first-grade passage comprehension, significantly so only for children with lower kindergarten passage comprehension](expressivity-slope-passage-comprehension-moderated.md) — related
 - [Kindergarten level, but not trajectory, of negative expressivity predicted lower teacher-reported academic skills in first grade](negative-expressivity-level-predicts-academic-skills.md) — related
 - [Children's observed negative emotional expressivity in the classroom declined on average from kindergarten to first grade, with significant individual differences in trajectories](negative-expressivity-decline-k-to-g1.md) — related
+- [Standing desks are associated with higher academic engagement in primary-school classrooms](standing-desks-higher-academic-engagement.md) — related

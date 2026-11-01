@@ -81,3 +81,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](autism-outcome-research-geographic-concentration.md) — related
 - [A major gap identified in the review was the underrepresentation of Global South leadership in global health diplomacy training](global-south-underrepresentation-ghd-training.md) — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
+- [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related

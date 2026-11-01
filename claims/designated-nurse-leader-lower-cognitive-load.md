@@ -48,3 +48,4 @@ The review reports this from the CANLEAD simulation-based randomised controlled 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related
+- [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](video-review-feedback-resident-leadership-pilot.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: chen-min-2025
     resource: "https://doi.org/10.1186/s12909-025-07927-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CBL significantly enhances pharmacy students' communication and collaboration skills compared with LBL (RR = 2.49, 95% CI [1.17–5.27]). [→ Chen Min 2025](#chen-min-2025)
@@ -37,7 +38,7 @@ Chen Min, Li Xinyao, Liu Qingming, Zhou Jing, Fan Xiaofang, Liu Yantao, Lin Yunz
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of the two of five questionnaire-survey studies (373 students total) that quantitatively reported grading scores comparing CBL and LBL groups. High heterogeneity (I2 = 86%); no standardized effect size printed, so impact is null.
+Five studies (373 students in all) assessed communication and collaboration skills with questionnaire surveys; the meta-analysis pooled the two that quantitatively reported grading scores comparing CBL and LBL groups, and found a significant positive result (RR = 2.49, 95% CI 1.17–5.27), with high heterogeneity (I2 = 86%). The result is a risk ratio, not a standardized mean difference, so its size is coded unknown (`i?`); it is not a null result.
 
 > "Meta-analysis of these two studies revealed that CBL significantly enhanced communication and collaboration skills compared to LBL (RR = 2.49, 95% CI [1.17–5.27], I2 = 86%, P < 0.05)"
 
@@ -55,3 +56,4 @@ Meta-analysis of the two of five questionnaire-survey studies (373 students tota
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
+- [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related

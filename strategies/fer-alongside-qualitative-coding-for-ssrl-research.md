@@ -47,6 +47,7 @@ The article recommends combining AI-derived emotion measures with human-coded re
 - [Assess social and group flow in real time through non-intrusive observation instead of interrupting learners with self-report surveys](real-time-observational-flow-assessment-in-dgbl.md)
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 152 claims (85 for, 57 mixed, 10 against) · 115 studies (59 review, 22 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 22 of 115 report an effect size · 142 claims rest on one study
+> **Evidence** · 187 claims (106 for, 69 mixed, 12 against) · 129 studies (67 review, 27 quant-synthesis, 17 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 24 of 129 report an effect size · 177 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -207,6 +207,41 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](../claims/korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) [~W]
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~W]
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](../claims/vs-less-effective-procedural-skills-nursing.md) [-W]
+- [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](../claims/sbme-improves-knowledge-performance-undergraduates.md) [+W] — attached 2026-11-01 from McInerney Niall et al. (2022), which proposed "Simulation-based medical education (SBME) as an adjunct to traditional undergraduate medical curricula".
+- [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](../claims/sbme-cardiac-not-respiratory-auscultation.md) [~W] — attached 2026-11-01 from McInerney Niall et al. (2022), which proposed "Simulation-based medical education (SBME) as an adjunct to traditional undergraduate medical curricula".
+- [A systematic review identified 76 eligible articles validating 34 vascular surgery simulators and training courses for open and endovascular procedures](../claims/76-studies-34-vascular-simulators.md) [+W]
+- [ANGIO Mentor was the most highly validated and effective vascular simulator and the only simulator to achieve an LoE of 5/5](../claims/angio-mentor-most-validated-loe-5.md) [+W]
+- [Objective metrics are used more frequently in simulated environments, while GRS and checklists are used with actual patients](../claims/context-preference-objective-simulated-subjective-patients.md) [~W]
+- [Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes](../claims/enhancing-technologies-effective-knowledge-behavior.md) [+W]
+- [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](../claims/hf-simulation-improves-als-knowledge-course-conclusion.md) [+W]
+- [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](../claims/hf-simulation-improves-als-skill-course-conclusion.md) [+W]
+- [Knowledge benefit of HF simulation is greater against traditional training (SMD = 0.71) than against LF simulation (SMD = 0.22)](../claims/hf-vs-traditional-knowledge-subgroup.md) [+W]
+- [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](../claims/hf-skill-benefit-lf-not-traditional.md) [~W]
+- [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](../claims/hf-skill-retention-three-months.md) [+W]
+- [Four weeks of minimally invasive mitral valve simulation training reduced task completion time and raised skills scores for both students and residents](../claims/jebran-mimv-simulator-time-and-skills-gains.md) [+W]
+- [Hung et al. found a high correlation between GEARS scores for a simulated robotic partial nephrectomy and GEARS scores for the procedure on a live porcine model](../claims/hung-procedure-specific-simulation-high-correlation.md) [+W]
+- [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](../claims/joyce-mvr-osats-improvement.md) [+W]
+- [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](../claims/hf-simulation-null-secondary-outcomes.md) [-W]
+- [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](../claims/hybrid-breast-exam-simulation-beats-tabletop-model.md) [+W]
+- [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](../claims/simulation-crossover-22-percent-increase-critically-unwell.md) [+W]
+- [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](../claims/junior-residents-gain-more-time-from-simulation.md) [~W]
+- [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](../claims/sbt-improves-valve-surgery-trainee-outcomes.md) [+W]
+- [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](../claims/structured-pre-briefing-supports-clinical-judgment.md) [+W]
+- [Simulation improves trainee scores on individual technical subtasks of coronary anastomosis](../claims/simulation-improves-anastomosis-subtask-scores.md) [+W]
+- [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](../claims/rcts-no-significant-difference-vr-trained-versus-controls.md) [-W]
+- [Simulator fidelity does not significantly affect improvement rates in coronary anastomosis simulation training](../claims/simulator-fidelity-no-significant-effect.md) [~W]
+- [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](../claims/simulation-skill-transfer-to-clinic-poorly-addressed.md) [~W]
+- [VIST endovascular simulator training transferred to real-world performance, with improved technical skill metrics on real patients (LoE 3/5)](../claims/vist-training-transfers-to-patients.md) [+W]
+- [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](../claims/simulation-higher-osce-scores-zhang.md) [+W]
+- [Three months of bovine-heart mitral valve repair simulation improved coaptation depth and regurgitation scores in junior and senior residents](../claims/tavlasoglu-coaptation-regurgitation-gains.md) [+W]
+- [Attending surgeon supervision does not significantly improve coronary anastomosis simulation scores in medical students](../claims/supervision-no-significant-effect-anastomosis-simulation.md) [~W]
+- [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](../claims/valdis-robotic-sbt-group-differences.md) [~W]
+- [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](../claims/vr-open-hernia-model-improves-student-knowledge.md) [~W]
+- [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](../claims/vr-neurosurgical-simulators-low-haptic-fidelity.md) [~W]
+- [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](../claims/xr-training-transfers-to-live-patient-outcomes.md) [+W]
+- [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](../claims/vrt-versus-st-no-significant-difference.md) [~W]
+- [User performance differences favor more experienced participants in XR simulation, but not consistently across all metrics](../claims/xr-performance-favors-experienced-users.md) [~W]
+- [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](../claims/xr-training-improves-neurosurgical-user-performance.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

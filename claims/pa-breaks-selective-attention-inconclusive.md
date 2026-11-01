@@ -70,3 +70,4 @@ Review attributes this negative result to the Dupont et al. study of cycling des
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related

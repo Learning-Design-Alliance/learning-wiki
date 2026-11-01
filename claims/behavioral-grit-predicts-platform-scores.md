@@ -71,3 +71,4 @@ OLS regressions in Table 2 on pre-Covid scores show a behavioral grit coefficien
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
+- [One study found student time on e-learning platforms increased significantly during the COVID-19 pandemic compared with before it](covid-elearning-engagement-hours-increased.md) — related

@@ -59,3 +59,5 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
 - [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](isbtt-behavior-improvements-mostly-immediate.md) — related
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
+- [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](hf-skill-retention-three-months.md) — related
+- [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related

@@ -57,3 +57,4 @@ Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interac
 - [Forest preschool attendance is associated with improvements in creative thinking in preschool children, with only forest-school groups improving on all creative dimensions](forest-school-improves-preschool-creativity.md) — related
 - [Training improved 5th graders' answer construction and evaluation within the experimental group, but not significantly relative to controls at post-test](training-improves-construct-response-within-group.md) — related
 - [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related
+- [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](higher-creativity-pa-negative-cognitive-flexibility.md) — related

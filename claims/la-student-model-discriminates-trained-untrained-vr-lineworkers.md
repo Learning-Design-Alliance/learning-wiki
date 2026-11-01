@@ -50,3 +50,4 @@ The abstract reports that a student model built from trace data of 1399 students
 - [Profile and course variables, along with specific maneuver steps, are the most relevant features for trainees' final performance](profile-course-variables-most-relevant-features-vrts-performance.md) — a narrower finding that bears on this claim
 - [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](trace-error-patterns-misconceptions-confusion-vrts.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
+- [Microanastomosis training models discriminated competence levels: untrained groups scored significantly lower than trained groups on the NOMAT tool](nomat-untrained-significantly-lower-than-trained.md) — related

@@ -51,3 +51,4 @@ Supplementary observational finding noted in the discussion of the longitudinal 
 - [Oral narrative connectedness predicts reading performance 3–4 months in advance for phonological awareness, reading accuracy, and text comprehension, but not reading fluency.](connectedness-predicts-reading-3-4-months-not-fluency.md) — related
 - [Oral narrative connectedness in June positively correlates with phonological awareness, reading comprehension, and word accuracy measured in October.](june-connectedness-correlates-october-reading.md) — related
 - [Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction](gender-moderates-anxiety-fluency-relation.md) — related
+- [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related

@@ -3,6 +3,7 @@ type: claim
 title: Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies
 description: Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies
 id: sld-stigma-self-esteem-pooled-r-negative-39
+aliases: [sld-stigma-self-esteem-pooled-correlation-review]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i3` Across six studies pooling nine effect sizes, greater endorsement of SLD stigma was significantly associated with less reported self-esteem (r = −.39, 95% CI [−.60, −.24], p = .002), with moderate heterogeneity (I2 = 42.2%). [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)
+
+`q3 i3` Across six studies pooling nine effect sizes, greater SLD stigma correlated significantly and negatively with self-esteem (r = −.39, 95% CI [−.60, −.24], p = .002), a medium effect with moderate heterogeneity. [→ Haft 2023](#haft-stephanie-l-2023)
 
 ## Evidence
 
@@ -41,7 +45,20 @@ Meta-analysis using robust variance estimation with a random-effects model poole
 
 > "In pooling the nine effect sizes (correlation coefficients) from six studies of the association between SLD stigma and self-esteem, there was a statistically significant and negative overall association (r = −.39, 95% CI = [−.60, −.24], p = .002). There was moderate heterogeneity in effect sizes (I2 = 42.2%, τ2 = 0.014)."
 
+<!-- merged 2026-10-31 from sld-stigma-self-esteem-pooled-correlation-review: that page's entry for this study, which differed from the one above, kept verbatim.
+### Haft 2023
+
+Haft, S. L., Greiner de Magalhães, C., & Hoeft, F. (2023). A Systematic Review of the Consequences of Stigma and Stereotype Threat for Individuals With Specific Learning Disabilities. Journal of Learning Disabilities. https://doi.org/10.1177/00222194221087383
+
+`q3 · i3`
+
+Meta-analysis using robust variance estimation with a random-effects model pooled nine correlation coefficients from six studies of SLD stigma and self-esteem/self-worth, yielding a significant pooled "r = −.39" with moderate heterogeneity (I2 = 42.2%).
+
+> "In pooling the nine effect sizes (correlation coefficients) from six studies of the association between SLD stigma and self-esteem, there was a statistically significant and negative overall association (r = −.39, 95% CI = [−.60, −.24], p = .002). There was moderate heterogeneity in effect sizes (I2 = 42.2%, τ2 = 0.014)."
+-->
+
 ## Discussion
+
 
 
 ## Related Claims
@@ -50,3 +67,5 @@ Meta-analysis using robust variance estimation with a random-effects model poole
 - [Greater SLD stigma is generally associated with less optimal psychological adjustment (anxiety, depression, coping, self-efficacy, quality of life), though most associations could not be meta-analytically pooled](sld-stigma-psychological-adjustment-broader.md)
 - [Associations between SLD stigma and academic performance are small, based on very few studies, and less robust than stigma's associations with psychological outcomes](sld-stigma-academic-outcomes-less-robust.md)
 - [Experimental stereotype threat effects in SLD samples are heterogeneous (Hedges's g 0.06–1.16), with effects more robust for motivation-related psychological outcomes than for cognitive or academic performance outcomes](sld-stereotype-threat-heterogeneous-effects.md) — related
+- [Associations between SLD stigma and academic performance are small, less robust, and based on very few studies](sld-stigma-academic-outcomes-small-few-studies.md) — related
+- [Greater SLD stigma is generally associated with less optimal psychological adjustment, though most outcomes could not be meta-analyzed](sld-stigma-psychological-adjustment-heterogeneous.md) — a broader claim this one bears on

@@ -60,3 +60,4 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [Arithmetic task accuracy increases and reaction time decreases with age while age-normed math ability remains stable](arithmetic-task-performance-improves-with-age.md) — related
 - [Left IPS connectivity with prefrontal cortex (dlPFC, vlPFC, insula) decreases over childhood in longitudinal task-related fMRI](ips-pfc-connectivity-decreases-longitudinally.md) — related
 - [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related
+- [Experts show significantly lower prefrontal cortex activation than novices during technical skill performance, but novices may retain persistent PFC engagement even after reaching expert-level observed performance](experts-lower-pfc-activation-than-novices.md) — related

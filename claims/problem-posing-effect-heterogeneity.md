@@ -51,3 +51,4 @@ Homogeneity analysis using Q statistics (chi-square) on the Hedges' g distributi
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
 - [Moderators of problem posing effects: educational setting, publication source, and presentation type relate to effect sizes, with preservice teachers strongly influenced](problem-posing-effect-moderators.md) — related
 - [Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)](problem-posing-positive-effect-ability-based.md) — related
+- [Heterogeneity of experiential learning intervention effects is high for behaviour outcomes and low for attitude outcomes, with minimal publication bias](heterogeneity-publication-bias-experiential-pa.md) — related

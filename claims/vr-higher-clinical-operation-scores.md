@@ -50,3 +50,5 @@ Meta-analysis pooling 15 RCTs (n=700) of VR versus traditional teaching; random-
 - [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related
 - [VR-based teaching yields significantly higher initiative ability than traditional teaching](vr-higher-initiative-ability.md) — related
 - [VR-based teaching yields significantly higher operative design scores than traditional teaching](vr-higher-operative-design-scores.md) — related
+- [PBL teaching yields higher procedural skill and clinical skill scores than traditional teaching in orthopaedics education](pbl-higher-skill-scores-orthopaedics.md) — related
+- [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related

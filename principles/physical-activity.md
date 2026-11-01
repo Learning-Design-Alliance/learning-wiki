@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 27 studies (10 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 24 claims rest on one study
+> **Evidence** · 32 claims (19 for, 11 mixed, 2 against) · 28 studies (11 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](../claims/brain-breaks-teacher-adoption-after-presentation.md) [+W] — a principal's estimate in one school's case report; bears on teacher adoption of breaks, not on their effect.
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M] — the same programme evaluation, measuring how active recess was (accelerometers, teacher surveys); it shows organised recess raises activity, not learning or behavior in class. Also listed under the evidence by question.
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [~W] — a review reporting lower heart rate and stress with green window views, and healthier cortisol rhythms in forest schooling that the review says could not be attributed to physical activity; bears on outdoor active breaks only as a reminder that setting and movement are separate causes.
+- [On-task behavior increased immediately after a 25-minute recess in a small uncontrolled pre-post study](../claims/on-task-behavior-increases-after-recess.md) [+W] — attached 2026-11-01 from Howie Erin K. et al. (2023), which proposed "Daily recess duration may beneficially exceed the CDC-recommended 20 minutes when split into shorter periods"; tests this page's relationship.
 
 ## Claims
 
@@ -161,6 +162,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](../claims/active-breaks-pooled-estimates-robust-sensitivity.md) [+W]
 - [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](../claims/pa-interventions-improve-on-task-behaviour-childhood.md) [+W]
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](../claims/pa-breaks-selective-attention-inconclusive.md) [~W]
+- [ECLS-K studies found no relationship between recess duration or frequency and reading or math achievement](../claims/ecls-k-no-recess-achievement-relationship.md) [~W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

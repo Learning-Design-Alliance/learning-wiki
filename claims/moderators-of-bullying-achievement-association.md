@@ -53,3 +53,5 @@ Meta-ANOVA moderator analysis for the bullying-achievement relationship. Design 
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](bpp-reduced-victimisation-versus-control.md) — related
 - [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md) — related
+- [Victims show significantly lower motivation and achievement, while results for bullies-only and bully/victims were not significant](bullying-subgroup-victims-significant-bullies-not.md) — related
+- [The bullying–achievement relationship is moderated by study design, assessment method, country, age and bullying type](moderators-bullying-achievement-design-country-type.md) — possibly the same claim (merge candidate)

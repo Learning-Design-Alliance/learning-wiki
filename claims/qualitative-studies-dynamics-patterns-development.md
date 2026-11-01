@@ -68,3 +68,4 @@ The review reports two qualitative studies linking change to conditions: engagem
 - [Quantitative longitudinal studies mostly show minor change in team learning behaviours, with dynamics in boundary crossing and team activity](quantitative-studies-mostly-minor-change-team-learning.md) — reports the opposite
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
+- [Cross training improves team outcomes under stress, including more accurate shared mental models and more positive team affect](cross-training-improves-shared-mental-models-under-stress.md) — related

@@ -55,3 +55,4 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related
+- [All nine studies using ISS to assess and promote system readiness and safety cultures reported improvements in readiness scores and safety attitudes](iss-improves-readiness-safety-attitudes.md) — a broader claim this one bears on

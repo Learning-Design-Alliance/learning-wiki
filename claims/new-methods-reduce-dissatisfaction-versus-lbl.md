@@ -53,3 +53,5 @@ In the dissatisfaction NMA (42 studies, 2921 trainees), ten interventions each s
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](sbl-highest-ranked-student-satisfaction-nma.md) — related
+- [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — related
+- [Residents report greater satisfaction with PBL-based teaching than with LBL in Chinese standardized residency training](pbl-higher-teaching-satisfaction-chinese-srt.md) — related

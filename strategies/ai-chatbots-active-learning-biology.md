@@ -42,6 +42,7 @@ The review recommends that AI tools including chatbots be "strategically employe
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 - [Introduce and promote PBL pedagogy in undergraduate pharmacology education](promote-pbl-undergraduate-pharmacology.md)
+- [Strengthen flipped pharmacy classrooms with interactive retrieval activities and patient-based case scenarios](flipped-pharmacy-interactive-retrieval-strategy.md)
 
 ## Examples
 -

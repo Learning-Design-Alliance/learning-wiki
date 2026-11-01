@@ -56,3 +56,4 @@ Structural equation modeling of data from 191 undergraduates who completed three
 - [Broad retrieval ability has a large effect on creative metaphor quality (β = .52)](gr-large-effect-creative-metaphor.md) — related
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related
+- [Creativity rating does not associate with effect sizes on fluid intelligence or on-task behaviour](pa-creativity-no-association-fluid-intelligence-on-task.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-20
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: melguizo-ibáñez-2026
     resource: "https://doi.org/10.1007/s10648-026-10146-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i0` negligible
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Pooled effects of active breaks on mathematical fluency were trivial and non-significant across both analytic approaches. [→ Melguizo-Ibáñez 2026](#melguizo-ibanez-2026)
@@ -53,3 +54,6 @@ Meta-analysis of 6 mathematical-fluency studies (n = 1369): pooled g = 0.03 unde
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — related
+- [In-classroom physical activity breaks significantly improve primary school children's spelling performance](icpab-improve-spelling.md) — related
+- [In-classroom physical activity breaks show no significant effect on primary school children's mathematics performance](icpab-no-effect-mathematics.md) — a broader claim this one bears on
+- [In-classroom physical activity breaks show no significant effect on primary school children's reading performance](icpab-no-effect-reading.md) — related

@@ -81,3 +81,4 @@ A self-report questionnaire study of adolescents aged 12-18 (N=70) cited by the 
 - [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related
 - [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related
 - [Direct repression subdues outward emotional expression but is incomplete as a means of control and may damage the child](direct-repression-incomplete-emotional-control.md) — related
+- [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related

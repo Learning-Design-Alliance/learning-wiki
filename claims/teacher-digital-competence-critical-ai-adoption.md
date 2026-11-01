@@ -57,3 +57,4 @@ The review's synthesis identifies teachers' digital competence as influencing bo
 - [In Higher Education, disciplinary culture and context, together with technology, shape pedagogical practice and the digital capabilities teachers need](disciplinary-culture-shapes-he-digital-capabilities.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related
 - [The concept of the digital native lacks empirical grounding: children immersed in digital culture do not know how to adopt a critical approach to screens.](digital-native-concept-lacks-empirical-grounding.md) — related
+- [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](elearning-learner-preceptor-characteristics.md) — related

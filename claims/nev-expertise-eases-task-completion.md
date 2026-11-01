@@ -51,3 +51,4 @@ Qualitative observation from the 14-participant interview study addressing RQ2 o
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment](nev-study-positive-task-difficulty-ux.md) — related
 - [Perceived task difficulty with the tools was rated much easier than imagined difficulty without them, with gaps of at least 2.5 SEQ points on every task](nev-seq-gap-with-versus-without-tools.md) — related
+- [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related

@@ -55,3 +55,4 @@ Moderator analyses of achievement effect sizes reported Qb=3.510 (p>0.05) for pu
 - [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — related
 - [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related
 - [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related

@@ -362,3 +362,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — a narrower finding that bears on this claim
 - [On the OULAD page-click dataset, 6 of 7 low performers fall in the massed-learning cluster, whose grade is significantly lower than the distributed cluster (paired t-test at 5%)](oulad-massed-cluster-low-performers.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — a narrower finding that bears on this claim
+- [Massed learners' performance declined after about four repetitions while spaced learners' performance rose toward a proficiency plateau](massed-declines-spaced-asymptotes-mastoidectomy.md) — a narrower finding that bears on this claim

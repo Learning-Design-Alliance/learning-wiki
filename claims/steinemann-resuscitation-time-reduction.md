@@ -51,3 +51,4 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [A team-focused, video-reviewed ED CPR bundle combining mechanical compression device training, in situ simulation, and multidisciplinary video review was followed by higher ROSC](ed-cpr-bundle-higher-rosc.md) — related
 - [NTS training in ICUs is associated with reduced CPR response time and lower adjusted mortality and complication rates](nts-training-icu-process-indicator-improvements.md) — related
 - [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related
+- [Only 20% of simulation-based trauma training studies targeted medical students during undergraduate training](scoping-review-trauma-simulation-undergraduate-gap.md) — related

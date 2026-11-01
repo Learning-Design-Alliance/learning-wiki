@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: ge-wei-li-2025
     resource: "https://doi.org/10.1186/s12909-025-06951-z"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q2` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` A meta-analysis of nursing students found PBL significantly improved overall critical thinking scores versus traditional lectures (SMD = 0.33). [→ Ge Wei-Li 2025](#ge-wei-li-2025)
@@ -55,7 +56,7 @@ Ge Wei-Li, Zhu Xia-Yin, Lin Jiang-Bo, Jiang Jian-Jun, Li Tao, Lu Yi-Fei, Mi Ya-F
 
 `q2 · i1` · `quant-synthesis · r2`
 
-Umbrella review reports the Kong et al. meta-analysis of 9 RCTs in nursing students (985 participants), finding "a significant difference in overall critical thinking scores" favoring PBL over traditional lectures, with printed effect size SMD = 0.33, 95%CI 0.13–0.52, p = 0.0009.
+Umbrella review reports the Kong et al. (2014) meta-analysis of 9 studies in nursing students, 8 of them RCTs (sample size 985; the umbrella review's table lists 438 included participants), finding "a significant difference in overall critical thinking scores" favoring PBL over traditional lectures, with printed effect size SMD = 0.33, 95%CI 0.13–0.52, p = 0.0009.
 
 > "Kong [26] proposed that the pooled effect size showed a significant difference in overall critical thinking scores (SMD = 0.33, 95%CI = 0.13–0.52, p = 0.0009) in favor of PBL compared with traditional lectures."
 
@@ -92,3 +93,7 @@ Table 2 characterizes the Oliveira et al. 2016 Cochrane/meta-analysis of 19 stud
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](pbl-null-first-year-medical-students.md) — reports the opposite
 - [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
+- [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
+- [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](pbl-no-significant-critical-thinking-first-year.md) — related
+- [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related
+- [VR instruction shows no statistically significant advantage for nursing students' critical thinking (SMD = 0.79, p = 0.07)](vr-no-significant-critical-thinking-gain.md) — related

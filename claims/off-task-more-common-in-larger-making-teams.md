@@ -51,3 +51,4 @@ Visual analysis of the teams' Making-Process-Rugs in Fig. 1, a hedges-level obse
 - [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — related
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a broader claim this one bears on
+- [Teams performing best under crisis stress show brief, simple communication patterns: fewer interacting members and short phrases instead of complex interactions](brief-simple-interaction-patterns-best-under-crisis.md) — a broader claim this one bears on

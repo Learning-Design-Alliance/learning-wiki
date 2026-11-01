@@ -43,7 +43,8 @@ The article recommends that course designers not assume one method is universall
 - [CBL is the most effective method overall for both theoretical and practical neurology teaching outcomes, with no evidence of publication bias](../claims/cbl-optimal-strategy-neurology-nma.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
 
 ## Examples
 -

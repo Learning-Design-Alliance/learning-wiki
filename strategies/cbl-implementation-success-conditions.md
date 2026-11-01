@@ -58,6 +58,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Challenge Based Learning (CBL)](challenge-based-learning-cbl.md)
 - [Prepare and train IPE facilitators in group facilitation skills, conflict resolution, and simulation-specific competencies](ipe-facilitator-training-strategy.md)
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
+- [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
 
 ## Examples
 -

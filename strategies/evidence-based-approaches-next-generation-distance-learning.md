@@ -42,7 +42,8 @@ The chapter recommends that designers of the next generation of distance and onl
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](../claims/motivation-and-lost-interaction-challenges-remote.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the three interaction types (learner-system, instructor-learner, learner-learner) at necessary stages to sustain motivation in asynchronous e-learning](three-interactions-motivation-asynchronous-elearning.md)
 
 ## Examples
 -

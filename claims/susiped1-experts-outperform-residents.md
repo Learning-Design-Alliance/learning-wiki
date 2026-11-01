@@ -50,3 +50,4 @@ Validation study of a 3D-printed pediatric MIS simulation program with 31 partic
 - [PLS simulator is the most commonly used pediatric MIS training model, with construct validity established for its pattern-cutting task](pls-simulator-most-used-construct-validity.md) — related
 - [Prior basic SuSiPed training significantly increases performance on the more advanced pediatric MIS simulator (SuSiPed 2.0)](susiped2-prior-basic-training-improves-advanced-performance.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
+- [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](greenhouse-scores-increase-with-training-level.md) — a narrower finding that bears on this claim

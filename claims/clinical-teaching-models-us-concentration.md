@@ -61,3 +61,4 @@ Geographical frequency analysis in the scoping review's characteristics of inclu
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
 - Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
+- [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related

@@ -48,6 +48,7 @@ The authors recommend that "Future studies should prioritize high-quality RCTs w
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Future flipped-classroom research should be well-designed, sufficiently powered RCTs with low risk of bias reported per CONSORT](flipped-classroom-needs-well-designed-rcts-consort.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
 
 ## Examples
 -

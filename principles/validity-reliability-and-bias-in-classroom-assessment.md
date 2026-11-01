@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 327 claims (141 for, 163 mixed, 23 against) · 247 studies (90 associational, 61 design, 38 review, 25 theoretical, 22 causal, 8 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 247 report an effect size · 320 claims rest on one study
+> **Evidence** · 334 claims (145 for, 165 mixed, 24 against) · 249 studies (90 associational, 61 design, 39 review, 25 theoretical, 22 causal, 9 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 249 report an effect size · 327 claims rest on one study
 
 ## Conditional relationship
 
@@ -401,6 +401,13 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](../claims/osats-most-common-ts-tool-variations-lack-validity.md) [+W]
 - [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](../claims/videotaped-osce-rater-reliability.md) [~W]
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](../claims/humans-outperform-chatgpt-mcq-quality.md) [~W]
+- [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](../claims/pt-osce-icc-assessors-substantial.md) [+W]
+- [Practising physical therapists outperformed physical therapy students on a single-station simulated OSCE, supporting known-groups construct validity](../claims/pt-osce-known-groups-validity-practising-vs-students.md) [+W]
+- [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](../claims/pt-osce-sp-kappa-agreement-high.md) [+W]
+- [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](../claims/pt-osce-pooled-cronbach-alpha-weak.md) [-W]
+- [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](../claims/pt-osce-station-station-correlation-weak.md) [~W]
+- [Each OSCE station score correlates strongly with the total OSCE score, with a pooled Pearson correlation of 0.71](../claims/pt-osce-station-total-correlation-strong.md) [+W]
+- [TTCA-24 shows excellent inter-rater reliability (ICC 0.78–0.87) but has only one published study in this context and correlates only weakly with T-NOTECHS](../claims/ttca24-reliability-single-study-weak-correlation.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

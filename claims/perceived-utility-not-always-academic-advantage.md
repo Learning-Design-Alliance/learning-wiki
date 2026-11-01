@@ -52,3 +52,4 @@ In Anand et al.'s 3-hour neuroanatomy session study, the Anatomage group reporte
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](vdt-reduces-dissection-anxiety-stai.md) — related
 - [Dedicated education units produced high student satisfaction and employability, though one study found no significant differences versus traditional settings](deu-benefits-and-null-comparison.md) — related
 - [First-year podiatry students felt unprepared for cadaver dissection and experienced significant negative reactions](cadaver-dissection-unprepared-negative-reactions.md) — related
+- [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related

@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (69 show a difference, 21 mixed, 8 no difference) · 74 studies (23 causal, 20 review, 10 associational, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q3` · 14 of 74 report an effect size · 96 claims rest on one study
+> **Evidence** · 100 claims (70 show a difference, 21 mixed, 9 no difference) · 76 studies (23 causal, 21 review, 10 associational, 7 theoretical, 6 quant-synthesis, 5 qualitative, 4 design), `q1`–`q3` · 15 of 76 report an effect size · 98 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -138,6 +138,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Interventions with high or very high significance of critical thinking applied mainly problem-solving methods and involved pupils' activity](../claims/problem-solving-high-critical-thinking-significance.md) [+M] — instruction changes it
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](../claims/pbl-improves-efl-critical-thinking.md) [+M] — instruction changes it
 - [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](../claims/pbl-improves-critical-thinking-versus-traditional-teaching.md) [+W] — instruction changes it
+- [Concept-based curriculum correlates with critical thinking, which predicts first-time NCLEX-RN pass probability (Harrison, 2018)](../claims/concept-based-curriculum-critical-thinking-predicts-nclex-pass.md) [+M] — learners who differ on it differ in outcomes
+- [VR instruction shows no statistically significant advantage for nursing students' critical thinking (SMD = 0.79, p = 0.07)](../claims/vr-no-significant-critical-thinking-gain.md) [-M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

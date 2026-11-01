@@ -69,3 +69,4 @@ Component-level analysis in the review's Results (Table 4) shows data quality av
 - [Eye-tracking measures of cognitive load show significantly higher validity than measures of other learning constructs in IVR](cognitive-load-measures-higher-validity-ivr.md) — related
 - IVR eye-tracking studies commonly use small samples, adult participants, professional-domain tasks, and default vendor hardware and software configurations — related
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
+- [Across the five validity domains, tools scored highest on content and very poorly on consequences, with 15 of 24 tools scoring 0 in the consequences domain](validity-domains-content-highest-consequences-lowest.md) — related

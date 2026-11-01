@@ -54,3 +54,4 @@ Metaregression moderator analysis of simulation type. Document-based simulations
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
+- [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](hybrid-breast-exam-simulation-beats-tabletop-model.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — related

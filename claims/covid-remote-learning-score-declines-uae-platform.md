@@ -72,3 +72,4 @@ Table 1 of the platform-score analysis reports declines by gender: average chang
 - [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — related
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
+- [One study found student time on e-learning platforms increased significantly during the COVID-19 pandemic compared with before it](covid-elearning-engagement-hours-increased.md) — related

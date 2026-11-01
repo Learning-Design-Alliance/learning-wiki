@@ -95,3 +95,8 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](pbl-satisfaction-learning-interest.md) — a narrower finding that bears on this claim
 - [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](pbl-satisfaction-self-study-ability.md) — related
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related
+- [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related
+- [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
+- [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
+- [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
+- [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related

@@ -61,3 +61,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [Children's inhibitory control is positively related to math achievement as a main effect, independent of parental input](inhibitory-control-main-effect-math.md) — related
 - [NAT produced near-transfer gains in inhibitory control across task difficulty, Go RT, and Go/No-Go accuracy measures](nat-inhibitory-control-near-transfer.md) — related
 - [Lower eye movement consistency (higher C3 entropy) is associated with poorer selective attention and inhibitory control](c3-entropy-linked-selective-attention-inhibitory-control.md) — related
+- [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related

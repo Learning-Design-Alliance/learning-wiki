@@ -55,3 +55,4 @@ The review synthesised findings from 7 studies coded to the impact of peers them
 - [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
+- [Most SDL activity studies report positive or mixed/neutral outcomes, with negative outcomes rare](sdl-outcomes-mostly-positive-mixed.md) — related

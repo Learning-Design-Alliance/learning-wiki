@@ -78,3 +78,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [A progressive transition from knowledge-centred assessment towards performance-based and experiential assessment is evident across the included studies](transition-knowledge-to-performance-based-assessment.md) — related
 - [A peer support approach promoted undergraduate nursing students' communication skills in paediatric settings](peer-support-communication-skills.md) — related
 - [Systematic review of 17 studies identifies six themes on creative project-based learning in medical education: enhanced learning, collaborative learning, deep learning, student engagement, student disengagement, and faculty engagement](six-themes-creative-project-based-learning-medical-education.md) — related
+- [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — related

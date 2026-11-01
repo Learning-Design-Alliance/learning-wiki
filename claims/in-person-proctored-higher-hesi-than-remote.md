@@ -52,3 +52,4 @@ Review synthesis of McClure's (2024) quantitative cohort comparison (n = 181 acr
 - [Remote and in-person fall 2020 MAP Growth tests show comparable psychometric characteristics and indicators of test quality](remote-in-person-map-growth-comparability-fall-2020.md) — reports the opposite
 - [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [A 6-week NCLEX Coaching Model showed no significant first-time pass-rate improvement but significantly improved confidence/readiness scores (Schlairet & Rubenstein, 2019)](nclex-coaching-model-confidence-readiness-gains.md) — related

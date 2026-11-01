@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: ge-wei-li-2025
     resource: "https://doi.org/10.1186/s12909-025-06951-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review reports that the literature highlights PBL benefits for theoretical knowledge and diagnostic thinking but does not show benefits for hands-on, communication, or self-directed learning skills. [→ Ge Wei-Li 2025](#ge-wei-li-2025)
@@ -74,3 +75,4 @@ The review's discussion, citing Li et al. [28], states PBL offers no advantage i
 - [3D + PBL improves communication ability in orthopedic education](3d-pbl-improves-communication-ability-orthopedics.md) — reports the opposite
 - [3D + PBL improves theoretical scores in orthopedic education](3d-pbl-improves-theoretical-scores-orthopedics.md) — related
 - [3D + PBL improves self-learning ability in orthopedic education](3d-pbl-improves-self-learning-ability.md) — reports the opposite
+- [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](pbl-no-advantage-diagnostic-imaging-skills.md) — possibly the same claim (merge candidate)

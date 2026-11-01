@@ -50,3 +50,4 @@ Second-hand finding reported in the review's discussion, attributed to Hong et a
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — a broader claim this one bears on
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — a broader claim this one bears on
+- [Telemedicine-based teaching of ultrasonography produces results similar to traditional methods in most comparative studies, except for venous access procedures where studies disagree](telemedicine-ultrasound-teaching-similar-to-traditional.md) — a broader claim this one bears on

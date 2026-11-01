@@ -53,3 +53,4 @@ Heterogeneity statistics reported in the Results for the on-time completion outc
 - Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results — related
 - [Effect sizes across shared text reading studies show substantial true heterogeneity (I2 = 80.09)](substantial-heterogeneity-shared-reading-effects.md) — related
 - Effect-size heterogeneity across Covid-19 studies is essentially total (I2 = 100%), justifying a random-effects model — a narrower finding that bears on this claim
+- [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related

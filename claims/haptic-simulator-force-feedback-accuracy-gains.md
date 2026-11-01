@@ -58,3 +58,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Qualitative synthesis indicates AR shortens learning curves, reduces errors, and differentiates proficiency levels in laparoscopic training](ar-qualitative-synthesis-learning-curves-errors.md) — related
 - [Simulator feedback frequency was significantly higher than human instructor feedback in one catheterization training study](simulator-feedback-frequency-higher-than-human-instructor.md) — related
 - [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — a broader claim this one bears on
+- [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related

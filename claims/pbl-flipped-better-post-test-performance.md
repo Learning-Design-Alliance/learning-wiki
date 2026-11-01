@@ -55,3 +55,5 @@ Narrative synthesis of included studies. The review reports that "PBL [13, 14, 1
 - [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — related
 - [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related
 - [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — related
+- [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on
+- [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — a narrower finding that bears on this claim

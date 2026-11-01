@@ -68,3 +68,4 @@ Review discussion of longitudinal limitations. The review states only 8 of 33 st
 - [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](sbl-post-intervention-gains-20-50-percent.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
+- [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related

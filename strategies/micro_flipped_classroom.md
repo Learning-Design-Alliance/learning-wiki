@@ -64,6 +64,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
+- [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

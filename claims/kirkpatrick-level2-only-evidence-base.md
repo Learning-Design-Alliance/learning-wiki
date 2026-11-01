@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: shakir-t-2026
     resource: "https://doi.org/10.1007/s11701-026-03633-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 17 included studies, sixteen reported Kirkpatrick level 2 (learning) outcomes and one reported only level 1 (reaction) data; no study reported level 3 or level 4 outcomes. [→ Shakir T 2026](#shakir-t-2026)
@@ -72,3 +73,6 @@ The review's GRADE appraisal (Supplementary Appendix S2) of certainty per outcom
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related
+- [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — related
+- [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
+- [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on

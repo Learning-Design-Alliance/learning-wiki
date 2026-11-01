@@ -74,3 +74,4 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
+- [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related

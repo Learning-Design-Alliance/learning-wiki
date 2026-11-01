@@ -84,3 +84,5 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
 - [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](ivr-single-study-affective-outcomes-mixed.md) — related
+- [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
+- [Positive academic emotions generally promote learning effects, especially in high school and college students](positive-academic-emotions-promote-learning.md) — related

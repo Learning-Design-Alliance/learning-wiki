@@ -43,6 +43,7 @@ As a research-gap strategy, the review recommends that future studies address th
 ## Related Strategies
 
 - [Design recommendations for longitudinal neuroimaging studies of reading development and dyslexia](longitudinal-neuroimaging-dyslexia-design-recommendations.md)
+- [Prioritize operational-setting protocols, longitudinal expertise tracking, team dynamics, and real-time monitoring as next steps for educational neuroimaging](neuroimaging-future-research-directions-hpe.md)
 
 ## Examples
 -

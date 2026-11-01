@@ -57,3 +57,6 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — related
 - [Motivational variables rarely explain more than 10% of the variance in behavior and outcomes](motivational-variables-rarely-exceed-10-percent-variance.md) — related
+- [Clinical instructors' ratings of students' emotional intelligence correlate with clinical performance while student self-ratings do not](ci-rated-emotional-intelligence-correlates-clinical-performance.md) — related
+- [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](ei-weakly-predicts-md-academic-success.md) — reports the opposite
+- [The authors argue academic grades are an unsuitable performance measure of EI in medical school because EI relates more to interpersonal and professional performance](grades-unsuitable-ei-measure-medical-school.md) — related

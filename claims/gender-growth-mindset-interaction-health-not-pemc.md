@@ -70,3 +70,4 @@ The same interaction-effects models tested gender moderation for PEMC major choi
 - [Men have a 3.60 times higher risk than women of majoring in PEMC sciences and a 0.74 times lower risk of majoring in health fields, with predicted PEMC probabilities of 14.9% for men versus 4.7% for women](gender-gap-pemc-versus-health-major-selection.md) — related
 - [Girls' likelihood of majoring in PEMC is 3.1 times greater at the highest versus lowest value of 12th grade perceived mathematics ability under challenge (5.6% vs. 1.8%)](girls-pemc-major-chances-triple-with-ability-under-challenge.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
+- [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related

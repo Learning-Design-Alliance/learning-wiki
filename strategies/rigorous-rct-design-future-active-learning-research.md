@@ -59,6 +59,8 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
+- [Future PjBL research should use active control groups, random assignment, blinding, validated measures, and report replication details and intervention fidelity](future-pjbl-research-design-recommendations.md)
+- [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 
 ## Examples
 -

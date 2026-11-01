@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: guan-cheng-ye-2025
     resource: "https://doi.org/10.1186/s12909-025-07020-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cluster analysis suggests PBL + WeChat, TBL and CBL + WeChat best improve theoretical and practical performance while reducing dissatisfaction; PBL + CBL is most effective for self-learning ability. [→ Guan Cheng Ye 2025](#guan-cheng-ye-2025)
@@ -52,3 +53,4 @@ Cluster analysis (Fig. 6) across theoretical, practical, medical record, autonom
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related
+- [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](cbl-subgroup-theoretical-versus-practical-courses.md) — related

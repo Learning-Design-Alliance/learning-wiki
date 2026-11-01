@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: dormegny-lea-2024
     resource: "https://doi.org/10.1186/s12909-024-06245-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the reviewed studies, virtual reality simulation training was associated with lower intraoperative complication rates than supervised surgical training on actual patients. [→ Dormegny Lea 2024](#dormegny-lea-2024)
@@ -53,3 +54,5 @@ Scoping review synthesis comparing supervised surgery studies with VRS studies. 
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [Trainee satisfaction was rarely assessed in cataract surgery training studies and did not correlate with training outcomes](trainee-satisfaction-rarely-assessed-cataract-training.md) — related
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
+- [VR simulation studies with control groups showed decreased surgical time when training with a VR simulator](vr-training-decreased-surgical-time.md) — related
+- [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](xr-training-transfers-to-live-patient-outcomes.md) — a broader claim this one bears on

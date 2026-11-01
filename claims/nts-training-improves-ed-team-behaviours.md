@@ -59,3 +59,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](debriefing-positive-effect-on-nts-ability.md) — related
+- [Trauma simulation training focused more on technical than non-technical skills](trauma-simulation-technical-skills-dominant.md) — related

@@ -52,3 +52,4 @@ Randomized controlled trial within the review (Altenburg et al., 2016; n = 56, a
 - [Mediated structured play yields relatively robust evidence of efficacy, varying by interventionist, target and measured outcome](mediated-structured-play-efficacy.md) — related
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
 - [Acute physical activity increases on-task classroom behavior, with off-task behavior patterns differing by time of day](acute-physical-activity-increases-on-task-behavior.md) — related
+- [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related

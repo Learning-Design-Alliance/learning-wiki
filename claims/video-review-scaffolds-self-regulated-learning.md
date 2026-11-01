@@ -57,3 +57,4 @@ Pairwise contrasts from the same ANCOVA: hands-on groups "outperformed the virtu
 - [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related
+- [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](hands-on-booster-fewer-life-supporting-errors.md) — related

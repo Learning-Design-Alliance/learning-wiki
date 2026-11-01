@@ -157,3 +157,5 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — a narrower finding that bears on this claim
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — a narrower finding that bears on this claim
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — a narrower finding that bears on this claim
+- [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](hybrid-breast-exam-simulation-beats-tabletop-model.md) — a narrower finding that bears on this claim
+- [Simulator fidelity does not significantly affect improvement rates in coronary anastomosis simulation training](simulator-fidelity-no-significant-effect.md) — related

@@ -55,3 +55,4 @@ Repeated cross-sectional CHKS survey data for PUSD students in grades 7, 9, and 
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
 - [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
 - [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
+- [Training school staff with simulation reduced student suicide attempts and severe suicidal ideation at 12 months, among the few RCTs measuring patient outcomes](simulation-patient-outcomes-suicide-attempts.md) — related

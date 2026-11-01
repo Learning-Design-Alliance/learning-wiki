@@ -53,3 +53,4 @@ Comparative feature coding across the 88 active learning and 52 lecture conditio
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — a broader claim this one bears on
 - [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) — related
+- [Scoping review of 25 studies finds multiple educational strategies for NCLEX-RN preparation with no consensus on a best practice, active learning being the most frequent](nclex-prep-no-consensus-best-practice.md) — related

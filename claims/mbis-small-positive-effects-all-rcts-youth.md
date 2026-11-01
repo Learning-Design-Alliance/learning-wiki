@@ -89,3 +89,5 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
 - [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related
 - [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — a narrower finding that bears on this claim
+- [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](academic-emotion-intervention-pooled-effect-emotion.md) — related
+- [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related

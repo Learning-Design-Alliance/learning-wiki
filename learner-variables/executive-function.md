@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (77 show a difference, 23 mixed, 27 no difference) · 75 studies (31 associational, 17 causal, 13 review, 10 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 22 of 75 report an effect size · 125 claims rest on one study
+> **Evidence** · 130 claims (77 show a difference, 25 mixed, 28 no difference) · 77 studies (31 associational, 18 causal, 13 review, 11 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 22 of 77 report an effect size · 128 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -164,6 +164,9 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Cognitive group awareness support during the group phase carries over to improve originality, fluency, and flexibility in the subsequent individual phase](../claims/group-awareness-carries-over-to-second-individual-phase.md) [+M] — instruction changes it
 - [Flexibility mediates the effect of cognitive group awareness on originality in the subsequent individual phase, acting as a complementary mediator](../claims/flexibility-mediate-group-awareness-originality.md) [+M] — learners who differ on it differ in outcomes
 - [The relationship between educational attainment and problem-solving and inhibitory control in adolescents with MDD cannot be established from existing literature](../claims/ef-academic-link-mdd-adolescents-cannot-be-established.md) [-M] — learners who differ on it differ in outcomes
+- [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](../claims/cycling-desks-improve-inhibitory-control-attention.md) [~W] — instruction changes it
+- [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](../claims/higher-creativity-pa-negative-cognitive-flexibility.md) [~W] — instruction changes it
+- [The extent to which physical activity interventions foster creativity does not associate with their effect size on executive functions in children](../claims/pa-creativity-rating-no-association-executive-functions.md) [-W] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

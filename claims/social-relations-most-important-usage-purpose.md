@@ -51,3 +51,4 @@ SEM results from the same survey; the article reports the three purpose variable
 - [Social Influence is the most important factor in predicting students' adoption of Facebook for educational purposes.](social-influence-strongest-predictor-facebook-adoption.md) — related
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
+- [Social media usage is negatively correlated with academic performance among Ethiopian college students](social-media-use-negatively-correlated-performance.md) — related

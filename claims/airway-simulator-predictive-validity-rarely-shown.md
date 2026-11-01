@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 recheck_by: 2029
 sources:
   - id: mccarthy-roisin-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Only two included tracheal-intubation studies assessed predictive validity, and both reported no improvement in real-world neonatal intubation outcomes after simulator training. [→ McCarthy Roisin 2026](#mccarthy-roisin-2026)
@@ -54,3 +55,4 @@ Narrative synthesis of the 17 included studies in the systematic review. Both pr
 - [Front-of-neck access simulators are severely under-validated, with only one study meeting inclusion criteria, and real-world predictive validity cannot ethically be evaluated for FONA](fona-simulators-undervalidated-single-study.md) — related
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
 - [Aerosol boxes increased time to intubation and posed higher risk of hypoxia in COVID-19 airway management simulations](aerosol-box-increased-intubation-time-hypoxia-risk.md)
+- [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related

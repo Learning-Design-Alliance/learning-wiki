@@ -50,3 +50,4 @@ Quasi-experiment with 26 postgraduate students in a fully online course using a 
 - [Bottom-ranked students prefer anonymous comparison on an absolute leaderboard but public comparison on a relative leaderboard](position-dependent-preference-for-anonymous-versus-public-ranking.md) — related
 - [On a relative leaderboard, course engagement does not differ significantly across position levels](relative-leaderboard-no-engagement-difference.md) — related
 - [On a relative leaderboard, top-ranked students achieve significantly higher learning performance than middle- and bottom-ranked students](relative-leaderboard-top-ranked-higher-performance.md) — related
+- [A large survey of medical and nursing students reported equal or higher motivation for exclusive e-learning than for classroom courses](covid-elearning-motivation-equal-or-higher.md) — related

@@ -52,3 +52,4 @@ The review reports barriers identified in included studies, quoting that "Barrie
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
 - [Nurses in sub-Saharan Africa show knowledge gaps in diabetes pathology, insulin therapy, treatment and complications](ssa-nurses-diabetes-knowledge-gaps.md) — related
 - [Specific knowledge deficits in Ghana and Libya studies: type 2 diabetes, DKA and complications](ssa-nurses-type2-dka-knowledge-deficits.md) — related
+- [Included e-learning programs were short (45 minutes to 4 hours), supporting feasibility of integration into hospital orientation or refresher training](short-elearning-durations-feasible-for-hospital-training.md) — related

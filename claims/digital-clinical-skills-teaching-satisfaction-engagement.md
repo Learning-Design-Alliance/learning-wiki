@@ -51,3 +51,5 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — related
+- [Across the review's randomised controlled trials, e-learning showed no significant differences in knowledge mastery versus controls, but greater short-term learner satisfaction](rcts-no-knowledge-difference-higher-satisfaction.md) — related
+- [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related

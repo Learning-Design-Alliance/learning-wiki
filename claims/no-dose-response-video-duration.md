@@ -54,3 +54,4 @@ Meta-regression and moderation analyses of absolute and relative intervention le
 - [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — a narrower finding that bears on this claim
 - [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related
 - The review's evidence base comprised seven studies with 12–108 participants (median 61) and interventions of 12 minutes to three hours (median 38 minutes) — related
+- [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — a narrower finding that bears on this claim

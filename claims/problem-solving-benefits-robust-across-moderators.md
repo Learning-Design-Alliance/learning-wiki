@@ -70,3 +70,4 @@ Grade subgroup for problem-solving (Table 4): third-year (junior) students show 
 - [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](modern-methods-improve-nursing-problem-solving-meta.md) — a broader claim this one bears on
 - [Communication-skill effects of modern teaching methods are significant only for short durations (≤5 weeks) and second-year students](communication-effects-limited-to-short-duration-sophomores.md) — related
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — related
+- [CBL improves knowledge scores for senior and 5th-year students but not significantly for juniors](cbl-knowledge-scores-by-training-level.md) — related

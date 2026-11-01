@@ -52,6 +52,7 @@ The authors recommend that in clinical teaching settings educators employ case-b
 
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
 
 ## Examples
 -

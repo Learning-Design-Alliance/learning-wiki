@@ -50,3 +50,6 @@ Random-effects meta-analysis of three RCTs and one quasi-experiment on professio
 - The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
+- [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — related
+- [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — related
+- [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](hf-skill-benefit-lf-not-traditional.md) — related

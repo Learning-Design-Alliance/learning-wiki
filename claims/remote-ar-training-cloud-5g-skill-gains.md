@@ -50,3 +50,5 @@ The review attributes this finding to Liu et al., describing a remote training f
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles) — related
+- [Synthetic models ranked a high median tactile realism (4 out of 5) compared to other model types and were rated most convenient for remote training](synthetic-models-high-tactile-realism-convenient-remote.md) — related
+- [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](xr-training-improves-neurosurgical-user-performance.md) — related

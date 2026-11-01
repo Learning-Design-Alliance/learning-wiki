@@ -50,3 +50,5 @@ Random-effects meta-analysis of seven studies (eight mediation results) of child
 - [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md) — related
 - [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md) — related
 - [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](bpp-reduced-victimisation-versus-control.md) — related
+- [Bullying involvement is associated with lower academic engagement, motivation and self-esteem, but not significantly with self-concept or self-efficacy](bullying-engagement-motivation-self-esteem-significant.md) — related
+- [Victims show significantly lower motivation and achievement, while results for bullies-only and bully/victims were not significant](bullying-subgroup-victims-significant-bullies-not.md) — related

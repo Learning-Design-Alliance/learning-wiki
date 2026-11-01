@@ -56,3 +56,5 @@ Ozgonul (2017) compared TBL and lecture-based instruction in a medical ethics cl
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](tbl-clinical-knowledge-acquisition-mixed-retention.md) — related
 - [Evidence on TBL's long-term knowledge retention is mixed](tbl-retention-mixed.md) — reports the opposite
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — related
+- [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — a broader claim this one bears on
+- [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on

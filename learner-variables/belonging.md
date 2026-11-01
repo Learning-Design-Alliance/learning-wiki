@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (83 show a difference, 26 mixed, 3 no difference) · 83 studies (25 review, 15 associational, 13 causal, 13 qualitative, 7 design, 6 theoretical, 4 quant-synthesis), `q1`–`q4` · 6 of 83 report an effect size · 107 claims rest on one study
+> **Evidence** · 114 claims (83 show a difference, 28 mixed, 3 no difference) · 84 studies (25 review, 15 associational, 13 causal, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 6 of 84 report an effect size · 109 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -149,6 +149,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Stereotype threat affects women's attribution of failure in a computer task: under negative threat, women attribute failure more internally and men more externally](../claims/stereotype-threat-attribution-of-failure-computer-task.md) [~M] — learners who differ on it differ in outcomes
 - [The sex × threat condition interaction on external attribution of failure is statistically significant](../claims/sex-threat-interaction-external-attribution.md) [+M] — an instructional effect differs with it
 - [School connectedness is positively associated with emotional health and achievement, school-related stress is negatively associated with belongingness, and self-esteem may mediate the belongingness–achievement link](../claims/belongingness-stress-self-esteem-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Associations between SLD stigma and academic performance are small, less robust, and based on very few studies](../claims/sld-stigma-academic-outcomes-small-few-studies.md) [~W] — learners who differ on it differ in outcomes
+- [Greater SLD stigma is generally associated with less optimal psychological adjustment, though most outcomes could not be meta-analyzed](../claims/sld-stigma-psychological-adjustment-heterogeneous.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

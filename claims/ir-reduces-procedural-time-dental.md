@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students using HVRS with SIMtoCARE dente for pulpotomy completed procedures faster (23.7 ± 1 min) than students using conventional simulators (25.9 ± 8.9 min). [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
@@ -52,3 +53,4 @@ In the review's synthesis of procedural-time outcomes, Philip et al.'s pilot stu
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — a broader claim this one bears on
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
+- [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related

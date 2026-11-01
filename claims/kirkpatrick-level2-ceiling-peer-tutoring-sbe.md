@@ -58,3 +58,5 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
+- [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
+- [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on

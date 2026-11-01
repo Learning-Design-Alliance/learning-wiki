@@ -73,3 +73,4 @@ The review reports that Culligan et al. found "no significant difference between
 - [No objective assessment tool in minimally invasive gynecological surgery showed predictive validity correlating scores with patient outcomes](no-predictive-validity-migs-tools.md) — related
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
 - Most included studies were conducted in simulation (n=48) rather than live surgery (n=32), and metrics such as eye-tracking and EEG were disproportionately used in simulation — related
+- [Correlations between simulator task performance and intraoperative GEARS domains vary by task, and one study found no correlation between dVSS scores and intraoperative GEARS scores](task-specific-correlations-and-null-mills-study.md) — related

@@ -51,3 +51,4 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR-assisted training shows no statistically significant reduction in task completion time](ar-training-time-not-significant.md) — related
+- [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related

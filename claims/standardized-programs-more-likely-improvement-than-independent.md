@@ -49,3 +49,4 @@ Descriptive comparison within the review's narrative synthesis of 97 included st
 - [Reporting of LMIC SBE initiatives is typically insufficient to judge against reporting standards, with minimal detail on design, prebriefing, debriefing, and educational factors](sbe-lmic-insufficient-reporting-essential-features.md) — related
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — a broader claim this one bears on
 - [LMIC SBE most commonly uses low-technology modalities, chiefly mannequins, scenario-based simulation, and synthetic part-task trainers](lmic-sbe-low-technology-modalities-prevalent.md) — related
+- [Research education is a mainstay, individual-level strategy within multidimensional research capacity building initiatives in health settings](research-education-mainstay-rcb-strategy.md) — related

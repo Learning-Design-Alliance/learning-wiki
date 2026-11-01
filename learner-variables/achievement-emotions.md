@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (124 show a difference, 50 mixed, 17 no difference) · 112 studies (41 associational, 29 causal, 14 review, 10 qualitative, 10 theoretical, 7 design, 1 quant-synthesis), `q1`–`q4` · 28 of 112 report an effect size · 188 claims rest on one study
+> **Evidence** · 194 claims (126 show a difference, 51 mixed, 17 no difference) · 113 studies (41 associational, 29 causal, 14 review, 10 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 29 of 113 report an effect size · 191 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -226,6 +226,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](../claims/pa-breaks-positive-emotions-strong-evidence.md) [+M] — instruction changes it
 - [Evidence on negative academic emotions from classroom physical activity breaks is limited and inconsistent](../claims/pa-breaks-negative-emotions-inconsistent.md) [~M] — instruction changes it
 - [Psychological variables show a wide range of effects on academic achievement, with self-efficacy showing a huge positive effect (ES = 1.173) and negative low-arousal emotions showing a medium negative effect (ES = -.799)](../claims/psychological-variables-effects-academic-achievement-meta-review.md) [+M] — learners who differ on it differ in outcomes
+- [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](../claims/academic-emotion-intervention-pooled-effect-emotion.md) [+W] — instruction changes it
+- [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](../claims/negative-academic-emotions-sometimes-improve-learning.md) [~M] — learners who differ on it differ in outcomes
+- [Positive academic emotions generally promote learning effects, especially in high school and college students](../claims/positive-academic-emotions-promote-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

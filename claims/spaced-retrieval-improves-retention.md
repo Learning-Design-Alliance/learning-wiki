@@ -155,3 +155,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [On the OULAD page-click dataset, 6 of 7 low performers fall in the massed-learning cluster, whose grade is significantly lower than the distributed cluster (paired t-test at 5%)](oulad-massed-cluster-low-performers.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — reports the opposite
+- [Massed learners' performance declined after about four repetitions while spaced learners' performance rose toward a proficiency plateau](massed-declines-spaced-asymptotes-mastoidectomy.md) — related
