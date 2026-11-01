@@ -43,7 +43,8 @@ A scalable, low-cost online module of two self-administered sessions of roughly 
 - [Growth Mindset Increases Advanced Math Enrolment](../claims/growth-mindset-increases-advanced-math-enrolment.md) [+M]
 
 ## Related Designs
-- 
+
+- [National Growth Mindset Intervention (NGMI) probability sampling plan](ngmi-national-probability-sampling-plan.md)
 
 ## Examples
 -

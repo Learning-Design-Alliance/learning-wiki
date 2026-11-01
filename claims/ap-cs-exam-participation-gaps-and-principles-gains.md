@@ -56,3 +56,6 @@ The paper reports AP exam statistics: girls were 23 percent and underrepresented
 - Participating districts report large enrollment gaps in CS courses by income and gender — related
 - [Nine out of ten U.S. parents want their children to learn coding at school](parents-support-coding-google-gallup-2015.md)
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
+- [Code.org's Professional Learning Program significantly increased AP Computer Science Principles test taking in treatment schools, with an average increase of almost 18 additional tests per school](codeorg-plp-increased-csp-ap-test-taking.md) — related
+- [The Code.org Professional Learning Program had no discernible effect on AP Computer Science A test taking for any student subgroup](codeorg-plp-no-effect-cs-a-test-taking.md) — related
+- [Relative impact ratios for Computer Science Principles test taking were greatest for minority students, with a more than ten-fold increase for Black students](csp-test-taking-impact-ratios-greatest-minority.md) — related

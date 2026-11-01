@@ -53,3 +53,4 @@ Authors' interpretation of the main retention result in light of the feedback de
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](keyword-method-delayed-recall-advantage.md) — related

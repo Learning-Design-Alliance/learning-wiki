@@ -48,3 +48,4 @@ Same quasi-experiment, measured with the 31-item Attitude towards Science Scale 
 - [WebQuest instruction improves 7th-graders' attitudes towards web supported education more than classical teaching](webquest-improves-attitude-web-supported-education.md) — related
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
+- [Post-test attitudes towards science differed significantly in favor of the ICT-narrative group, with a small-to-medium effect](ict-narratives-attitudes-posttest-difference.md) — related

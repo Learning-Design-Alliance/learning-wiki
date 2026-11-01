@@ -49,3 +49,4 @@ ANCOVA of posttest scores by gender in the same 120-student quasi-experiment. Th
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [Prior knowledge of topics and instructional objectives before instruction raises Literature-in-English achievement more than conventional teaching](prior-objectives-raise-literature-achievement.md) — related
+- [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related

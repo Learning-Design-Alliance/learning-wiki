@@ -62,3 +62,4 @@ Two-year implementation comparison in the TIF evaluation snapshot: year-two awar
 - [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related
 - [Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF](tif-teachers-underestimated-bonus-size.md) — related
 - [Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF](tif-educators-misunderstood-measures-and-bonuses.md) — related
+- [The performance measures were implemented largely as planned, with teachers receiving nearly the intended four feedback sessions per year, though fewer than half accessed online growth reports in Year 1](feedback-measures-implemented-as-planned.md) — related

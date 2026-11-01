@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (31 show a difference, 13 mixed, 2 no difference) · 25 studies (9 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 7 of 25 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (31 show a difference, 14 mixed, 2 no difference) · 26 studies (10 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 8 of 26 report an effect size · 44 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -82,6 +82,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [The intervention showed an initial significant effect on the TLC-2 Reasoning subtest that did not survive multiple-comparison correction](../claims/tlc-reasoning-effect-not-retained-after-correction.md) [~M] — instruction changes it
 - [A decimal-fractions component improves decimal understanding, with effects attributable largely to near-transfer items](../claims/decimal-fractions-component-near-transfer.md) [+M] — instruction changes it
 - [Fraction intervention students significantly outperform control students on generalized NAEP fraction items across five RCTs, with a mean ES of 0.58](../claims/fraction-intervention-naep-es-058.md) [+W] — instruction changes it
+- [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use](../claims/storytelling-specific-fraction-skills-gains.md) [~M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

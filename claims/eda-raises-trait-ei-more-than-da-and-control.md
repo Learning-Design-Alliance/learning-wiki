@@ -50,4 +50,4 @@ Quasi-experimental pretest-treatment-posttest study with three intact classes (E
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related

@@ -60,3 +60,5 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
 - [The difference in mean topography test scores between the digital-map experimental group and the paper-map control group was not statistically significant](digital-blind-map-mean-difference-not-significant.md) — related
+- [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — possibly the same claim (merge candidate)
+- [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related

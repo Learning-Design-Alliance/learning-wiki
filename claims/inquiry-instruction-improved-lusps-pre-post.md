@@ -50,3 +50,4 @@ Wilcoxon Signed Rank Test on the experimental group's (n=12) LUSPS pretest-postt
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
+- [Self-efficacy perceptions improved significantly in the ICT-narrative group but not in the control group](ict-narratives-self-efficacy-gain-experimental-only.md) — related

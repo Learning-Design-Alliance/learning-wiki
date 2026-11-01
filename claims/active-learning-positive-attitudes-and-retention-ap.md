@@ -48,3 +48,4 @@ Anonymous Likert-scale attitude survey administered to the treatment group and a
 - [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related
 - [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](constructivist-approach-positive-attitudes-meta-analysis.md) — related
 - [In an initial feedback survey, students strongly agreed the embodied activities were memorable, helped learning beyond lecture alone, and were recommendable to future groups](initial-student-feedback-memorability-and-recommendation.md) — related
+- [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related

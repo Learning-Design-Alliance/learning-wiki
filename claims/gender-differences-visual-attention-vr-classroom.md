@@ -49,3 +49,4 @@ SHAP local explanation analysis of the best LightGBM model revealed directionali
 - [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](two-gendered-classroom-cultures.md) — related
 - [Head movement frequency was the single most informative feature, with more head movements associated with classification as male.](head-movement-rate-most-informative-gender-feature.md) — related
 - [HMD-related and fixation-related features contribute more to gender classification than saccade-related and pupil-related features, with hmdMoveRate being the most informative single feature.](hmd-fixation-features-most-informative-gender-classification.md) — related
+- [Textual analysis of student blogs showed girls wrote with higher relative frequency about mentors, while boys' use of \"team\" surpassed \"group\"](blog-textual-analysis-gender-differences.md) — related

@@ -63,3 +63,4 @@ Descriptive distribution analysis of students in grades 3-8 in school year 2018-
 - [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — related
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
 - [Students off track after ninth grade are less than half as likely to graduate, with Black and Latino students 46% and 31% more likely than the national average to be off track in 2022](ninth-grade-off-track-graduation-risk-disparities.md) — related
+- [A higher percentage of girls than boys in the robotics class scored above NYSED benchmarks, with the largest gaps in Algebra and Geometry](girls-above-benchmark-algebra-geometry.md) — related

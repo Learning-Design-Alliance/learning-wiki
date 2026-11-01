@@ -68,6 +68,7 @@ Progress monitoring operationalizes [Assessment for Learning](../principles/asse
 - [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 - [Weekly gradebook monitoring with a 70 percent threshold and templated early-warning interventions](weekly-gradebook-monitoring-70-percent-intervention.md)
 - [Adapt assistance reactively to moment-to-moment fluctuations in affect and performance](reactive-microscale-assistance-adaptation.md)
+- [Adapt self-monitoring goals over time based on data to program for prolonged behavioral change](adapt-goals-over-time-for-maintenance.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the measurement act itself

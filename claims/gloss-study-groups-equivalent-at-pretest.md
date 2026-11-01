@@ -82,3 +82,5 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in water-cycle mental model levels](no-pretest-difference-water-cycle-drawings.md) — related
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
+- [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
+- [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related

@@ -74,3 +74,4 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — a narrower finding that bears on this claim
 - [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](learning-by-academic-ability-interaction-critical-thinking.md) — related
+- [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related

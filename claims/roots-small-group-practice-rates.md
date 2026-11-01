@@ -46,4 +46,4 @@ Descriptive statistics from the first round of Classroom Observations of Student
 
 
 ## Related Claims
--
+- [In the authors' kindergarten efficacy trial, classrooms with higher rates of student practice opportunities produced substantively important mathematics gains](higher-practice-opportunity-rates-linked-to-gains.md) — related

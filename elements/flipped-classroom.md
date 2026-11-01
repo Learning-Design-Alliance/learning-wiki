@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 17 studies (10 quant-synthesis, 3 causal, 3 review, 1 design), `q1`–`q4` · 7 of 17 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (17 for, 17 mixed, 1 against) · 19 studies (10 quant-synthesis, 5 causal, 3 review, 1 design), `q1`–`q4` · 7 of 19 report an effect size · 34 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -55,6 +55,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [+W]
 - [Flipped and traditional instruction did not differ in students' technological perception scores](../claims/flipped-classroom-no-technological-perception-difference.md) [~W]
 - [Flipped and traditional groups did not differ in basic technology competencies](../claims/flipped-classroom-no-technology-competency-difference.md) [~W]
+- [The inverted classroom produced a significantly higher post-test mean than the traditional classroom on the Work, Energy & Power topic (Test 2) in pre-university physics](../claims/inverted-classroom-significant-post-test-work-energy-power.md) [+W] — attached 2026-11-01 from Eldy et al. (2019), which proposed "Inverted classroom implementation with Padlet-delivered self-paced videos, online quizzes and problem-based learning assessment"; tests this page's relationship.
+- [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](../claims/inverted-classroom-no-difference-force-momentum-impulse.md) [~W] — attached 2026-11-01 from Eldy et al. (2019), which proposed "Inverted classroom implementation with Padlet-delivered self-paced videos, online quizzes and problem-based learning assessment"; tests this page's relationship.
+- [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](../claims/fci-implementation-barriers-iraq.md) [~W]
+- [The authors recommend extending the inverted classroom to larger samples, longer implementation periods and other basic or difficult physics topics](../claims/inverted-classroom-future-extension-recommendation.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

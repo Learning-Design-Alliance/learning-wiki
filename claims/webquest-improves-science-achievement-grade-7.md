@@ -49,3 +49,4 @@ Quasi-experimental pre-test/post-test study with control group; 49 7th graders (
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [Adding web-assisted alternative assessment activities to a flipped classroom produces significantly higher unit achievement than video lessons alone in 7th-grade science](web-assisted-activities-flipped-classroom-achievement-gain.md) — related
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
+- [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related

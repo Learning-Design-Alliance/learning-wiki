@@ -48,3 +48,5 @@ Open-ended Jigsaw Opinion Scale given only to the 32-student jigsaw group at the
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](student-opinions-concept-cartoon-lessons.md) — related
+- [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](jigsaw-group-opinions-expert-roles-and-drawbacks.md) — related
+- [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](no-opinion-difference-between-laboratory-approaches.md) — related

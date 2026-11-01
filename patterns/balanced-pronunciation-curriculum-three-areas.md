@@ -18,7 +18,7 @@ sources:
 # Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (8 for, 13 mixed) · 13 studies (4 quant-synthesis, 3 review, 3 design, 2 theoretical, 1 causal), `q1`–`q4` · 5 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (9 for, 13 mixed) · 14 studies (4 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,7 @@ This pattern is scoped to pronunciation for intelligibility and comprehensibilit
 ## Claims
 
 - [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](../claims/fluency-training-largest-effect-chinese-children.md) [+W]
+- [Explicit reduced-forms instruction increases EFL learners' ability to produce reduced forms in their own speech, while regular instruction alone does not](../claims/reduced-forms-instruction-improves-production.md) [+W]
 
 ## Related Patterns
 - 

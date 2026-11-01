@@ -44,6 +44,7 @@ Table 3 outlines classroom activities aligned with each phase of the instruction
 - Instructional Model Human Centered Generative Ai Engagement
 - [Assign a language function to each 5E phase (describe, compare and contrast, classify, classify with justification) and align language objectives with science objectives](language-function-per-5e-phase.md)
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
+- [Embed ICT-supported short narratives in the engagement, exploration, and evaluation phases of the 5E learning cycle](ict-narratives-in-5e-cycle-phases.md)
 
 ## Examples
 -

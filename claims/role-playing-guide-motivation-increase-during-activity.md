@@ -47,3 +47,4 @@ Wilcoxon signed rank tests of motivation across stages for the control group (n 
 ## Related Claims
 - [Both the online role-playing game-based guide and the traditional online guide produced significant pretest-to-posttest learning effectiveness gains, with no significant difference between the two groups](game-guide-and-traditional-guide-both-significant-learning-gains.md) — related
 - [The game-based group rated contextual analysis as significantly more helpful than the traditional guide group, whose collaboration focused on task correctness rather than historical context](contextual-analysis-significantly-higher-game-group.md) — related
+- [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related

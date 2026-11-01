@@ -70,3 +70,4 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their nursery rhyme completion scores over ten weeks](nursery-rhyme-instruction-improves-completion-scores.md) — related
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](nursery-rhyme-instruction-improves-pals-scores.md) — related
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related
+- [The KITS intervention has a significant indirect effect on kindergarten teacher-rated literacy through its effect on pre-kindergarten literacy skills (β = .09).](kits-indirect-effect-kindergarten-literacy.md) — related

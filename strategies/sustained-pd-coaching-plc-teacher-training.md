@@ -75,6 +75,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 - [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 - [Provide ongoing, targeted professional learning on ESL instructional strategies for middle grades content-area teachers](ongoing-targeted-esl-professional-learning.md)
+- [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 
 ## Examples
 -

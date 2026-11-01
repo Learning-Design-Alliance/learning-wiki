@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 197 claims (113 show a difference, 49 mixed, 35 no difference) · 149 studies (74 associational, 42 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 21 of 149 report an effect size · 196 claims rest on one study
+> **Evidence** · 198 claims (113 show a difference, 49 mixed, 36 no difference) · 150 studies (74 associational, 43 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 21 of 150 report an effect size · 197 claims rest on one study
 
 ## How to read this page
 
@@ -282,6 +282,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](../claims/hampshire-hundreds-no-significant-impact-disadvantaged.md) [-M] — an instructional effect differs by group
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](../claims/fsm-subgroup-null-literacy-fsm-interaction.md) [~M] — an instructional effect differs by group
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](../claims/chatterbooks-fsm-subgroup-null.md) [-M] — an instructional effect differs by group
+- [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](../claims/quest-no-subgroup-differential-effects.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

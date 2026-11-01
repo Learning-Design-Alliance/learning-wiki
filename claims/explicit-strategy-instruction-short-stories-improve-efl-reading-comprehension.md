@@ -67,3 +67,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Prior studies report positive relationships between genre awareness or genre-based instruction and reading comprehension](prior-gbi-reading-studies-positive-findings.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — reports the opposite
 - [Embedded comprehension lessons did not improve story comprehension relative to story exposure alone](no-comprehension-effect-asc.md) — related
+- [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related

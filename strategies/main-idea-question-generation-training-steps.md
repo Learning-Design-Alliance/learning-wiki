@@ -51,7 +51,8 @@ The article's training program teaches a three-step questioning procedure: "Firs
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](../claims/treatment-ability-interaction-middle-group-excluded.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 
 ## Examples
 -

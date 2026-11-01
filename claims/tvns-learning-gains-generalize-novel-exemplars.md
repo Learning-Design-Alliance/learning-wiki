@@ -51,3 +51,4 @@ Logit mixed-effects model of trial-by-block outcomes in the Generalization block
 - [Pairing tVNS with feedback after correct responses does not enhance speech category learning, suggesting the enhancement is not driven by a reward signal](tvns-enhancement-not-reward-driven.md) — related
 - [tVNS paired with easier-to-learn categories increases retention of correct stimulus-response associations between training blocks](tvns-enhances-retention-correct-associations.md) — related
 - [Brief tVNS paired with speech training produces no measurable change in the sensory representation of non-native pitch as indexed by frequency-following responses](no-tvns-change-ffr-sensory-pitch-representation.md) — related
+- [Videogame training improves non-native speech categorization in adult learners](videogame-training-improves-speech-categorization.md) — related

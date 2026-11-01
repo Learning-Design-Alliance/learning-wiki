@@ -50,3 +50,4 @@ Fidelity was assessed with a 13-item checklist covering the five PTR-YC steps, c
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](ptr-yc-increases-engaged-time-vs-bau.md) — related
 - [PTR-YC increases preschool children's social skills more than business-as-usual, as measured by the SSIS social skills subscale](ptr-yc-increases-ssis-social-skills-vs-bau.md) — related
 - [Teachers and parents rated PTR-YC as socially valid, finding it acceptable, effective, and unlikely to produce negative side effects](ptr-yc-social-validity-teacher-parent-ratings.md) — related
+- [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related

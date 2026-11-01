@@ -48,3 +48,4 @@ Quasi-experiment in one Jordanian secondary school: 48 eleventh-grade male stude
 - [After treatment, students most strongly agreed that team teachers can control a crowded classroom and that reading comprehension is more enjoyable, and least agreed they feel more independent](team-teaching-attitude-item-pattern.md) — related
 - [EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons](team-teaching-improves-student-attitudes.md) — related
 - [Traditional reading comprehension instruction produced no statistically significant pre-test to post-test improvement in the control group](traditional-method-no-significant-reading-gains.md) — related
+- [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related

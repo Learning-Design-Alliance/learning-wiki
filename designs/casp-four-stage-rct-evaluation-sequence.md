@@ -46,7 +46,8 @@ A lesson/unit-level instructional pattern for teaching critical appraisal of cli
 - [Group Casp Drug Evaluations Exceed 80](../claims/group-casp-drug-evaluations-exceed-80.md) [+M]
 
 ## Related Designs
-- 
+
+- [Teacher's guide structure for reciprocal-teaching lessons](reciprocal-teaching-teachers-guide-structure.md)
 
 ## Examples
 -

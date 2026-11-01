@@ -52,3 +52,4 @@ Follow-up analysis of the randomized trial using the SESAT at kindergarten postt
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
 - [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
+- [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related

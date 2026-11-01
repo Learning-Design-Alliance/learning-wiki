@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development as an assessment and instruction tool
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 6 studies (2 design, 2 theoretical, 1 causal, 1 review), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 7 studies (2 causal, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 1 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 The ZPD is defined by Vygotsky as "the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." The essay presents it as "an analytical tool necessary to plan instruction and to explain its results," applicable to assessment, individualizing learning, monitoring progress, and addressing gifted children's social and emotional needs.
@@ -45,6 +45,8 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](../claims/prompt-count-predicts-math-reading.md) [+W] — attached 2026-10-29 from Kirsten W. J. Touw et al. (2019), which proposed "Dynamic testing as a test–train–test format revealing learning potential beyond static ability".
 - [Teacher ratings of school performance and learning potential did not correlate significantly with the trained group's dynamic post-test score, suggesting dynamic testing provides teachers with new information](../claims/teacher-ratings-uncorrelated-dynamic-posttest.md) [~W] — attached 2026-10-29 from Kirsten W. J. Touw et al. (2019), which proposed "Dynamic testing as a test–train–test format revealing learning potential beyond static ability".
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](../claims/splashlearn-agency-gamification-alignment.md) [+W]
+- [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](../claims/da-outperformed-nda-reading-comprehension-posttest.md) [+W] — attached 2026-11-01 from Mohammad Reza Amirian et al. (2014), which proposed "Dynamic Assessment grounded in Vygotsky's Sociocultural Theory, the Zone of Proximal Development, and scaffolding".
+- [The dynamic assessment group showed a statistically significant pretest-to-posttest gain in reading comprehension with a large effect size](../claims/da-group-significant-pretest-posttest-gain-reading.md) [+W] — attached 2026-11-01 from Mohammad Reza Amirian et al. (2014), which proposed "Dynamic Assessment grounded in Vygotsky's Sociocultural Theory, the Zone of Proximal Development, and scaffolding".
 
 ## Related Theories
 

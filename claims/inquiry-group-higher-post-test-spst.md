@@ -51,3 +51,4 @@ Mann-Whitney U test comparing post-test SPST scores of the experimental group (m
 - [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](facts-improve-inquiry-skills-teacher-centred.md) — related
 - [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
+- [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related

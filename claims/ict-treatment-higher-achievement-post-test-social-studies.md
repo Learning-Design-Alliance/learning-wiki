@@ -67,3 +67,5 @@ Blockwise regression on achievement post-test scores with pre-test scores in blo
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Prior knowledge and ICT-supported instruction predicted achievement post-test scores, while pupils' attitudes toward the subject and ICT did not](prior-knowledge-and-treatment-predict-achievement-not-attitudes.md) — related
+- [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — a narrower finding that bears on this claim
+- [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related

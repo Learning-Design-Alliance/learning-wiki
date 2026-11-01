@@ -55,3 +55,4 @@ Qualitative episode analysis of group B on the electrostatics tutorial, where ex
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
 - [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
+- [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related

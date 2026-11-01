@@ -27,7 +27,8 @@ A researcher-developed multi-item, 5-point Likert self-report assessment by Henk
 - [In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text](../claims/treatment-condition-arousal-decrease.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Science Curiosity Scale](science-curiosity-scale.md)
 
 ## Key Sources
 - Henk G. Schmidt & Jerome I. Rotgans. (2021). Epistemic Curiosity and Situational Interest: Distant Cousins or Identical Twins?. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09539-9

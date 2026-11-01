@@ -65,7 +65,7 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 
 
 ## Related Claims
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — a narrower finding that bears on this claim
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](scaffolding-lower-adherence-than-scripted-components.md) — a narrower finding that bears on this claim
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - The quality of evidence about technology effectiveness varies widely across information sources — related
 - Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects — related
@@ -84,3 +84,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality](adherence-responsiveness-correlations-experience-null.md) — related
 - [Teachers receiving BEST in CLASS showed higher observed adherence and competence in delivering the intervention practices at posttest than comparison teachers](best-in-class-higher-adherence-competence.md) — a narrower finding that bears on this claim
 - [Hypothesized chain linking implementation supports to teacher fidelity to student responsiveness to child outcomes in the MindUP trial](implementation-outcomes-hypothesized-chain.md) — related
+- [FSN coaches and teachers implemented core program components with excellent adherence, with implementation quality lower during the teacher phase than the coach phase](fsn-high-fidelity-teacher-phase-quality-lower.md) — related

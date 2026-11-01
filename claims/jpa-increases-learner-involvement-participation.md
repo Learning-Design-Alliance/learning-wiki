@@ -48,3 +48,4 @@ The authors' observational interpretation from the JPA lessons that were observe
 - [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](jpa-group-outperformed-traditional-group-post-test.md) — related
 - [Six weeks of Joint Productive Activity instruction significantly improved Nigerian Junior Secondary II students' reading comprehension performance from pre-test to post-test](jpa-improves-reading-comprehension-pre-post.md) — related
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — related
+- [IC-JPA instruction did not produce a statistically significant difference in correct academic language usage compared to traditional instruction](icjpa-no-difference-academic-language-usage.md) — related

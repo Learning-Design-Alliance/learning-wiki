@@ -26,7 +26,8 @@ A 25-item researcher-developed chemistry achievement test measuring Senior Secon
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Chemical Bonding Performance Test (CBPT)](chemical-bonding-performance-test-cbpt.md)
 
 ## Key Sources
 - Telimoye Leesi Mitee and Georgina N. Obaitan. (2015). Effect of Mastery Learning on Senior Secondary School Students' Cognitive Learning Outcome in Quantitative Chemistry. Journal of Education and Practice, Vol.6, No.5. https://www.iiste.org

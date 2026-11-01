@@ -55,3 +55,4 @@ Kindergarten follow-up tables (Appendices A4.1–A4.3) print effect sizes from �
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related
+- [The KITS intervention has a significant indirect effect on kindergarten teacher-rated literacy through its effect on pre-kindergarten literacy skills (β = .09).](kits-indirect-effect-kindergarten-literacy.md) — related

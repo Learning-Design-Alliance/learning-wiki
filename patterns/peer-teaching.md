@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (16 for, 17 mixed, 4 against) · 22 studies (10 quant-synthesis, 7 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 34 claims rest on one study
+> **Evidence** · 40 claims (19 for, 17 mixed, 4 against) · 23 studies (10 quant-synthesis, 8 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 23 report an effect size · 37 claims rest on one study
 
 ## Description and scope
 
@@ -135,6 +135,9 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](../claims/peer-teaching-ultrasound-comparable-to-faculty.md) [+W]
 - [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](../claims/pal-gender-subgroup-girls-benefit.md) [~W]
 - [The PAL pilot's secondary outcome showed a non-significant negative effect on attitude towards school](../claims/pal-pilot-attitude-school-null-negative.md) [-W]
+- [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
+- [Peer tutoring significantly improved achievement at the knowledge level of the cognitive domain](../claims/peer-tutoring-knowledge-level-achievement.md) [+W]
+- [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

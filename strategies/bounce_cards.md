@@ -62,6 +62,7 @@ Bounce cards are a form of "talk moves" scaffolding: they externalize the discou
 - [Jigsaw](jigsaw.md) — cooperative structure where bounce cards can govern the expert-group and teaching exchanges
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — similarly hands students structured dialogue roles, applied to reading comprehension
 - [Use mindful listening turn-taking to build communication and constructive feedback between students](mindful-listening-turn-taking-strategy.md)
+- [Have students set individual conversational goals and use student-friendly task cards with sentence stems during collaborative activities](conversational-goals-task-cards-strategy.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — the teacher demonstration phase that makes the moves learnable

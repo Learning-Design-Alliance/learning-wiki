@@ -48,3 +48,4 @@ In Alp (2025), "students successfully identified ethical violations in case scen
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — a broader claim this one bears on
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — related
 - [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
+- [Students in an ethics-framed educational process demonstrate greater ethical sensitivity than students in an accounting-framed process when evaluating an ambiguous scenario](ethical-context-higher-ethical-sensitivity.md) — related

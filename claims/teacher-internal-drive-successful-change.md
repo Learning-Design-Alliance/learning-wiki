@@ -51,3 +51,4 @@ An authorial assertion in the section on teacher images, presented without cited
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
+- [Teachers perceived Quest as overly prescriptive, with too much material for a 50–60 minute lesson and insufficient writing opportunities, but valued its texts and co-operative learning](quest-teacher-perceptions-barriers-and-positives.md) — related

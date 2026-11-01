@@ -28,6 +28,7 @@ A 16-item two-stage multiple-choice concept test developed to measure undergradu
 - [Force Concept Inventory (FCI)](force-concept-inventory-fci.md)
 - [Nomenclature of Organic Compounds Achievement Test (NOCAT)](nomenclature-of-organic-compounds-achievement-test-nocat.md)
 - [Oxidative Phosphorylation Concept Test (OPCT)](oxidative-phosphorylation-concept-test-opct.md)
+- [Chemical Bonding Performance Test (CBPT)](chemical-bonding-performance-test-cbpt.md)
 
 ## Key Sources
 - Senol Sen & Ozge Ozyalcin Oskay. (2016). The Effects of 5E Inquiry Learning Activities on Achievement and Attitude toward Chemistry. Journal of Education and Learning, 6(1). https://doi.org/10.5539/jel.v6n1p1

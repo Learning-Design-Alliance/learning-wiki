@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (31 show a difference, 9 mixed, 14 no difference) · 42 studies (16 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 2 of 42 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (33 show a difference, 10 mixed, 15 no difference) · 44 studies (18 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 3 of 44 report an effect size · 55 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -92,6 +92,10 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Jigsaw I produced no significant difference in grammar success scores compared with conventional teacher-centered teaching in grade-8 Turkish grammar](../claims/jigsaw-i-no-success-difference-turkish-grammar.md) [-M] — instruction changes it
 - [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](../claims/self-regulated-jigsaw-iv-achievement-gains.md) [+M] — instruction changes it
 - [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](../claims/cai-within-group-gain-not-significant.md) [-M] — instruction changes it
+- [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a punctuation post-test](../claims/whatsapp-group-outperformed-control-punctuation.md) [+M] — instruction changes it
+- [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a sentence-structure post-test](../claims/whatsapp-group-outperformed-control-sentence-structure.md) [+M] — instruction changes it
+- [Feedback delivery method made no statistically significant difference in grammar-and-style error counts measured by the Editor program](../claims/feedback-method-no-difference-editor-errors.md) [-M] — instruction changes it
+- [Revised drafts contained more Editor-identified grammar and style errors than first drafts, despite significant pre-post change](../claims/editor-errors-increased-in-revised-drafts.md) [~M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

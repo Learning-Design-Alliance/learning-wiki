@@ -101,3 +101,6 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related
+- [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related
+- [Game-based vocabulary interventions outperformed control conditions in several reviewed studies](game-interventions-outperform-controls-vocabulary.md) — related
+- [High game interactivity hinders vocabulary acquisition: players recalled significantly less vocabulary than watchers](high-interactivity-hinders-vocabulary-acquisition.md) — related

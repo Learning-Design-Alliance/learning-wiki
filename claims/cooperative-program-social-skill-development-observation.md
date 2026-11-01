@@ -52,3 +52,5 @@ Authors' observational report (type e) of the 35-session program: students were 
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related
+- [Students in the cooperative group reported positive perceptions of cooperative learning, with 90% wanting to help, get help, and mutually discuss experiments with partners](positive-student-perceptions-cooperative-chemistry-lab.md) — related

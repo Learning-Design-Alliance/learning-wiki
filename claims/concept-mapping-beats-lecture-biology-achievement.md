@@ -48,3 +48,5 @@ Quasi-experimental pre-test post-test non-equivalent control group study of 122 
 - [Concept mapping instruction produces significantly higher basic science achievement than conventional teaching among Nigerian junior secondary students](concept-mapping-beats-conventional-basic-science-achievement.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [The paired t-test on the two groups' achievement scores showed a statistically significant difference favouring the experimental group](paired-ttest-significant-difference-elearning-groups.md) — related
+- [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
+- [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related

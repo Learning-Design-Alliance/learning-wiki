@@ -49,3 +49,4 @@ ANCOVA of Science Process Skills Test post-test scores with pretest as covariate
 - [The control group taught with the traditional approach also improved significantly on scientific process skills from pretest to post-test](control-group-spst-also-improved.md) — related
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
 - [ADI-based laboratory instruction does not significantly change pre-service teachers' argumentativeness compared to traditional laboratory instruction](adi-no-change-argumentativeness.md) — related
+- [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](jigsaw-laboratory-higher-science-process-skills.md) — a narrower finding that bears on this claim

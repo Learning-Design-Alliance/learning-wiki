@@ -86,6 +86,7 @@ Protocols work because they convert discussion from a social performance into a 
 - [Jigsaw](jigsaw.md) — a protocol that distributes expertise across group members
 - [Cold Calling](cold-call.md) — an alternative participation structure that trades protocol predictability for randomized accountability
 - [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
+- [Have students set individual conversational goals and use student-friendly task cards with sentence stems during collaborative activities](conversational-goals-task-cards-strategy.md)
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** (Lyman, 1981) — the most widely used protocol; individual think time, pair rehearsal, whole-class share, used across K-12 and higher education.

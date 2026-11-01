@@ -49,3 +49,4 @@ Comparison of pre-test (EOTOFTE) and post-test (PTCT) mean scores for the whole 
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — related
 - [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related
 - [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](5es-higher-civic-literacy-scores.md) — related
+- [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — related

@@ -52,3 +52,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](videoconferencing-intercultural-perspective-taking.md) — related
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](forums-serial-monologues-mandatory-participation.md) — related
+- [A majority (65.5%) of the experimental group gave positive remarks that VRS exposure helped their actual practice, most often citing learning proper sequence (94.7%)](vrs-students-positive-remarks-proper-sequence.md) — related

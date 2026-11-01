@@ -55,3 +55,4 @@ Descriptive statistics (frequencies and percentages) from research question one,
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related
 - [Prior GPA did not differ significantly between the POGIL participant and non-participant groups](pogil-groups-equivalent-prior-gpa.md) — related
+- [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md) — related

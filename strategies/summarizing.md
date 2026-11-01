@@ -88,6 +88,7 @@ Summarizing works because it requires learners to reconstruct meaning — identi
 - [Annotating](../principles/annotating.md) — marking important text is a precursor skill to summary selection
 - [Advance Organizers](../elements/advance-organizers.md) — frames what counts as important before reading
 - [Reciprocal Teaching](../patterns/cognitive-apprenticeship.md) — embeds summarizing among comprehension strategies with modeling and fading
+- [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns summarizing a text segment as one of four strategies, with the teacher modeling and fading support over sessions.

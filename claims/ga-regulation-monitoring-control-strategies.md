@@ -53,3 +53,4 @@ A theoretical argument from the article's metacognitive modeling of GA regulatio
 - [Forming and maintaining group awareness strains working memory during collaborative learning](ga-formation-strains-working-memory.md) — related
 - [GA accuracy — alignment of perceived group cognitions with actual group characteristics — is a research target whose role is not confirmed and awaits direct measurement](ga-accuracy-unconfirmed-pending-measurement.md) — related
 - [Adult learners identify metacognition and crafting diverse, high-quality questions at different cognitive levels as crucial supports for learner-AI cognitive interaction](metacognition-question-crafting-ai-cognitive-interaction.md) — a narrower finding that bears on this claim
+- [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](qualitative-views-self-monitoring-strategies.md) — related

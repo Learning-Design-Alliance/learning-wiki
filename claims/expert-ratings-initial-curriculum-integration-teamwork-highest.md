@@ -50,3 +50,4 @@ Descriptive summary of five-expert structured-interview ratings of the initial c
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Doctors rate medical competence and ethics most important and never rank communication first](doctors-rate-competence-ethics-highest.md)
+- [Experts rated the CBT curriculum's overall implementation efficiency at the highest level, with contents rated highest quality](expert-evaluation-cbt-curriculum-highest-efficiency.md) — related

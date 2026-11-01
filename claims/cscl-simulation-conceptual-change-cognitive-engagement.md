@@ -72,3 +72,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](lx-design-immersive-vr-special-relativity-109-students.md) — related
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](simulation-game-team-role-self-reflection.md) — related
+- [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related

@@ -47,3 +47,5 @@ Paired-samples t-test comparing pretest and posttest writing (Trinity ISE) resul
 ## Related Claims
 - [Portfolio assessment is followed by a statistically significant posttest difference in idiom knowledge between Iranian upper-intermediate EFL learners who kept portfolios and those who received traditional instruction](portfolio-assessment-improves-idiom-knowledge-efl.md) — related
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
+- [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
+- [Portfolio-based instruction raises EFL learners' motivation in reading comprehension courses](portfolio-assessment-raises-efl-motivation.md) — related

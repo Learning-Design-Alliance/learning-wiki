@@ -42,6 +42,7 @@ The brief describes Cell-Ed's implementable recipe for adult English language le
 ## Related Strategies
 
 - [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](adult-edtech-design-short-mobile-first-contextualized.md)
+- [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Post-instruction survey of 40 intermediate Turkish learners of English in a flip
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)
 - [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](online-heavy-models-first-year-challenge.md) — related
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
+- [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related

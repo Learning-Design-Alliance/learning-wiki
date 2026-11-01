@@ -49,3 +49,4 @@ Independent samples t-test on attitude gain scores in the same quasi-experiment 
 - [Jigsaw I produced no significant difference in attitudes toward the Turkish course compared with conventional teaching](jigsaw-i-no-attitude-difference-turkish-course.md) — related
 - [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](self-regulated-jigsaw-iv-achievement-gains.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
+- [The experimental group showed significantly more positive attitudes towards learning English than the control group on the post-test attitude scale](e-mind-maps-attitude-posttest-advantage.md) — related

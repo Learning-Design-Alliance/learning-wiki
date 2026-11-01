@@ -50,3 +50,4 @@ In the multiple linear regression (N = 129), mastery of strategies measured by t
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — related
 - [Motivation did not significantly predict L2 incidental vocabulary acquisition through reading](motivation-null-predictor-incidental-vocabulary.md) — related
+- [Learning strategy is a significant predictor of students' MI development, contributing 20.6% of variance](mi-strategy-regression-predictor-mi-development.md) — related

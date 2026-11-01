@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (63 show a difference, 21 mixed, 16 no difference) · 64 studies (24 causal, 16 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 99 claims rest on one study
+> **Evidence** · 103 claims (66 show a difference, 21 mixed, 16 no difference) · 66 studies (25 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 66 report an effect size · 102 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -140,6 +140,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [In a large RCT (n = 871), Fusion Reading produced a small significant effect on word reading efficiency (Glass Δ = 0.11) but no significant differences on reading comprehension measures](../claims/fusion-striving-readers-rct-small-effects.md) [+M] — instruction changes it
 - [One year of PRIMR produced statistically significant gains in oral reading fluency in grade 1 formal and nonformal schools and grade 2 nonformal schools, in both English and Kiswahili, but not in grade 2 formal schools](../claims/primr-oral-reading-fluency-first-year-gains.md) [~M] — instruction changes it
 - [PRIMR increased the percentage of pupils meeting the Ministry of Education's oral reading fluency benchmarks after one year](../claims/primr-benchmark-fluent-readers-increase.md) [+M] — instruction changes it
+- [96% of middle-school students with low reading comprehension demonstrate deficits in reading fluency, vocabulary, or both](../claims/96-percent-struggling-comprehenders-fluency-vocabulary-deficit.md) [+M] — learners who differ on it differ in outcomes
+- [Fluency difficulties are more common than vocabulary difficulties among adolescents with low reading comprehension](../claims/fluency-difficulties-more-common-than-vocabulary.md) [+M] — learners who differ on it differ in outcomes
+- [Prior work found positive intention-to-treat STARI effects on word reading, morphological awareness, and efficiency of basic reading](../claims/stari-prior-positive-effects-reading-domains.md) [+W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

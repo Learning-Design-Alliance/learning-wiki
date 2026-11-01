@@ -69,3 +69,5 @@ Coders rated BAU comparison audio recordings with the same protocol; elements of
 - [The proportion of English learners in a class moderated the PACT effect on content knowledge acquisition, with EL/non-EL differences widening as class EL prevalence increased](class-el-proportion-moderates-pact-content-knowledge.md) — related
 - [Class-level initial reading achievement does not moderate PACT's effect on content knowledge acquisition](class-reading-achievement-no-moderation-knowledge.md) — related
 - [Class-level initial background knowledge does not moderate PACT's effect on social studies content knowledge acquisition](class-background-knowledge-no-moderation-pact-knowledge.md) — related
+- [On-treatment fidelity analysis found low-fidelity schools improved outcomes relative to non-implementers, but the pattern was inconsistent across higher fidelity groups](quest-fidelity-rating-inconsistent-outcome-pattern.md) — related
+- [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related

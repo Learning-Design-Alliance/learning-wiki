@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (44 for, 27 mixed, 10 against) · 84 studies (26 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 84 report an effect size · 68 claims rest on one study
+> **Evidence** · 84 claims (46 for, 28 mixed, 10 against) · 86 studies (28 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 86 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,8 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [iPod inquiry teaching produced significantly better air concept comprehension than regular teaching for third graders](../claims/ipod-inquiry-improves-air-concept-comprehension.md) [+W] — attached 2026-11-01 from Lai (2016), which proposed "Four features of iPod inquiry teaching: involvement, prediction, operation, discussion"; tests this page's relationship.
 - [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](../claims/absi-within-group-gain-significant.md) [~W] — attached 2026-11-01 from Eda Pınar Tüccaroğlu (2018), which proposed "Give place to the ABSI approach in science education programs, with teacher development to support it"; tests this page's relationship.
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](../claims/absi-control-posttest-no-difference.md) [-W] — attached 2026-11-01 from Eda Pınar Tüccaroğlu (2018), which proposed "Give place to the ABSI approach in science education programs, with teacher development to support it"; tests this page's relationship.
+- [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+W] — attached 2026-11-01 from Muskita et al. (2020), which proposed "Inquiry worksheet syntax graduated by level of learner responsibility"; tests this page's relationship.
+- [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/guided-inquiry-worksheets-critical-creative-thinking.md) [+W] — attached 2026-11-01 from Muskita et al. (2020), which proposed "Inquiry worksheet syntax graduated by level of learner responsibility"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -212,6 +214,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](../claims/pogil-effect-smaller-in-chemistry.md) [~W]
 - [Self- and peer-assessment showed no big differences between groups except a more intensive inquiry process in the scaffolded group](../claims/self-peer-assessment-inquiry-process-scaffolded-advantage.md) [~W]
 - [There is a significant difference in effectiveness among inquiry learning Levels 2, 3, and 4 in improving Grade X students' science process skills](../claims/significant-difference-among-inquiry-levels-2-3-4-process-skills.md) [~W]
+- [Prior Nigerian studies on guided inquiry versus conventional teaching report mixed results, with one study finding the conventional method superior](../claims/guided-inquiry-prior-evidence-mixed.md) [~W]
 
 ## Related Principles
 

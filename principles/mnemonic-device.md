@@ -22,7 +22,7 @@ sources:
 # Mnemonic Device
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (4 for, 5 mixed, 2 against) · 20 studies (8 quant-synthesis, 7 review, 5 causal), `q2`–`q4` · 9 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 21 studies (8 quant-synthesis, 7 review, 6 causal), `q2`–`q4` · 9 of 21 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Learners, outcomes and comparisons differ across these claims (students with dis
 ## Further evidence, not yet read against this model
 
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [~S] — bears only at the edge: one of its reviews (Carney and Levin 2002, abstract only) covers pictorial mnemonic strategies among text illustrations, and its experiments dispute the dual-coding mechanism the earlier page named; it does not test mnemonics.
+- [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](../claims/keyword-method-delayed-recall-advantage.md) [+W] — attached 2026-11-01 from Davoudi et al. (2016), which proposed "Educators should apply mnemonic vocabulary training techniques, especially the keyword method, to support L2 word retention"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 80 claims (20 for, 28 mixed, 32 against) · 73 studies (25 quant-synthesis, 17 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 73 report an effect size · 72 claims rest on one study
+> **Evidence** · 82 claims (21 for, 29 mixed, 32 against) · 75 studies (25 quant-synthesis, 19 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 75 report an effect size · 74 claims rest on one study
 
 ## Description and scope
 
@@ -128,6 +128,7 @@ Claims this page cited before the 2026-10-14 rewrite that are not used as core e
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [-W]
 - [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](../claims/assessment-design-shapes-genai-engagement.md) [~W]
+- [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](../claims/discussion-method-beats-lecture-chemistry-achievement.md) [+M] — attached 2026-11-01 from Efe M.Omwirhiren (2015), which proposed "Use discussion method rather than lecture to teach organic chemistry in senior secondary schools"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -202,6 +203,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](../claims/ecme-posttest-higher-than-lecture.md) [+W]
 - [Exam-score advantage of active learning held on exams one and two but not on exam three](../claims/active-learning-exam-advantage-varies-by-exam.md) [~M]
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [-W]
+- [Traditional instruction also significantly improves Iranian EFL learners' writing ability from pre-test to post-test](../claims/ti-significant-pre-post-writing-gain-iranian-efl.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

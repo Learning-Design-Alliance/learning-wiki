@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 266 claims (162 show a difference, 48 mixed, 56 no difference) · 178 studies (50 causal, 50 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 43 of 178 report an effect size · 257 claims rest on one study
+> **Evidence** · 269 claims (165 show a difference, 48 mixed, 56 no difference) · 180 studies (51 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 43 of 180 report an effect size · 260 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -317,6 +317,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](../claims/weekly-within-passage-fluency-increases.md) [+M] — instruction changes it
 - [Chatterbooks Plus showed no statistically significant effect on reading ability, with an effect size indistinguishable from zero](../claims/chatterbooks-plus-no-impact-reading-ability.md) [-M] — instruction changes it
 - [Chatterbooks showed no statistically significant effect on reading ability among Year 7 pupils below Level 4, with a slightly negative point estimate](../claims/chatterbooks-no-impact-reading-ability.md) [-M] — instruction changes it
+- [96% of middle-school students with low reading comprehension demonstrate deficits in reading fluency, vocabulary, or both](../claims/96-percent-struggling-comprehenders-fluency-vocabulary-deficit.md) [+M] — learners who differ on it differ in outcomes
+- [Fluency difficulties are more common than vocabulary difficulties among adolescents with low reading comprehension](../claims/fluency-difficulties-more-common-than-vocabulary.md) [+M] — learners who differ on it differ in outcomes
+- [The kindergarten benefits of the LLLI intervention on decoding and reading comprehension were conditional on children's initial preschool language skill, favoring children with high language skill](../claims/llli-moderated-by-initial-language-skill.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -47,3 +47,4 @@ Meta-analysis pooling gastroscopy procedure-time outcomes from "2 studies, 43 pa
 ## Related Claims
 - [Virtual endoscopy simulator training shows no statistically significant benefit for independent procedure completion in colonoscopy training (RR 1.10, 95% CI 0.88–1.37, P=0.41)](no-colonoscopy-completion-benefit.md) — related
 - [Virtual endoscopy simulator training shows no statistically significant difference in total procedure time for colonoscopy (SMD 0.00, 95% CI −0.99–0.99, P=1.00)](no-colonoscopy-procedure-time-difference.md) — related
+- [Time to complete the procedure showed the lowest p value between groups but remained non-significant](time-to-complete-lowest-p-value-nonsignificant.md) — related

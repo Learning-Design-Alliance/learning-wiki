@@ -53,3 +53,4 @@ Quasi-experimental study of 41 third-year pre-service teachers (experimental n=2
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](flipped-classroom-higher-achievement-preservice-math.md) — related
+- [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related

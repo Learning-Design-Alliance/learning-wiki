@@ -20,6 +20,8 @@ A multistep design-based method for selecting experiment sites so the sample res
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Propensity-score stratified site-selection method for improving generalization from experiments**: A multistep design-based method for selecting experiment sites so the sample resembles a defined inference population. It uses propensity score methodology to compare the population to eligible sites and create strata for site selection, so that, when perfectly implemented, the sample is "like a miniature of the inference population of interest". The method calls for defining the inference population, eligibility requirements, treatment-effect-relevant covariates, proportional strata allocation, and recruiting at least some eligible sites in each stratum. (Tipton et al. (2015))
+- **Discuss generalization during study design rather than delaying it until after the evaluation**: The article argues that generalization should be built into experiment design and recruitment rather than handled by post-hoc statistical adjustment alone. It reports that delaying generalization discussions "until after the evaluation is complete" brings "increased standard errors and, often, limits to bias reduction", motivating the third research stream that improves generalization through design and recruitment strategies. (Tipton et al. (2015))
+- **Stratify study samples on covariates explaining variation in treatment impacts, not on outcome correlates**: The paper's stratified selection procedure deviates from standard survey-sampling practice: strata should be based on covariates that explain variation in treatment impacts rather than variables correlated with outcomes. The article states that stratifying schools on free-and-reduced-lunch status, 'a variable often highly correlated with outcomes,' 'makes little sense, unless the intervention effects also vary in relation to this variable.' (Tipton et al. (2016))
 
 ### Claims
 
@@ -30,3 +32,4 @@ A multistep design-based method for selecting experiment sites so the sample res
 
 ## Key Sources
 - Tipton, E., Fellers, L., Caverly, S., Vaden-Kiernan, M., Borman, G., Sullivan, K., & Ruiz de Castillo, V. (2015). Site selection in experiments: A follow-up evaluation of site recruitment in two scale-up studies. SREE Spring 2015 Conference Abstract. https://ies.ed.gov/ncee/edlabs
+- Tipton, E., Yeager, D., & Iachan, R. (2016). Developing a theory of treatment effect heterogeneity through better design: Where do behavioral science interventions work best? SREE Spring 2016 Conference Abstract. https://www.sree.org

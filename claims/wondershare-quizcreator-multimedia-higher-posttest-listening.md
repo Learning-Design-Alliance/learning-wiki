@@ -50,3 +50,6 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](cbmp-outperformed-conventional-posttest.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
+- [Cooperative learning produced significantly higher posttest listening scores than traditional teaching in this study](cl-posttest-higher-than-traditional-listening.md) — related
+- [EFL learners taught with dictogloss tasks significantly outperform learners taught with dicto-phrase tasks on listening comprehension posttests](dictogloss-outperforms-dicto-phrase-listening.md) — related
+- [Students taught listening with suggestopedia outperformed students taught with conventional methods on a posttest of English listening ability](suggestopedia-improves-listening-skill.md) — related

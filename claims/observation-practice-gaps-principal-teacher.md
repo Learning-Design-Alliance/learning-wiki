@@ -51,3 +51,4 @@ Statewide survey of educators from 24 districts (2015). A parallel item found 93
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
 - [Effects of collaborative instruction are mostly the same size whether interventions used trained teachers or assistants without teaching qualifications](assistant-vs-trained-teacher-similar-effects.md) — related
+- [Most treatment teachers and principals rated the study's feedback as more useful, specific, objective, and actionable than their districts' existing feedback](educators-rated-study-feedback-more-useful.md) — related

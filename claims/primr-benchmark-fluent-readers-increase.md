@@ -50,3 +50,4 @@ DID analysis of the PRIMR RCT reporting benchmark attainment as one of three out
 
 ## Related Claims
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](primr-positive-impact-kenya-literacy.md) — a broader claim this one bears on
+- [The difference between KITS and services-as-usual groups in the percentage of children meeting the PLRS critical literacy score is not statistically significant (61% vs 52%).](kits-plrs-critical-score-null.md) — related

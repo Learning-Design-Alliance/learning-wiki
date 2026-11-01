@@ -74,3 +74,4 @@ Independent-groups pre-post study (Burris & Garton, 2007), n = 77 PBL vs 63 cont
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — reports the opposite
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](irumi-ct-score-effect-0-089-sd.md) — related
+- [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](rcl-critical-thinking-posttest-higher-than-pbl.md) — related

@@ -67,3 +67,4 @@ Within-group pretest-posttest comparisons in the quasi-experiment: posttest mean
 - [Exposure to dynamic assessment and potential giftedness scores each correlate significantly with posttest math scores](da-and-giftedness-correlate-with-posttest-math.md) — a broader claim this one bears on
 - [Potential giftedness, measured by teacher and parent nomination scores, enhances the effect of dynamic assessment on math achievement](potential-giftedness-enhances-dynamic-assessment-effect.md) — related
 - [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](prompt-count-predicts-math-reading.md) — related
+- [The dynamic assessment group showed a statistically significant pretest-to-posttest gain in reading comprehension with a large effect size](da-group-significant-pretest-posttest-gain-reading.md) — related

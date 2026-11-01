@@ -56,3 +56,4 @@ The authors report that "Men and women Ss varied in their responses to these con
 - [In an aversive PIT paradigm, the intensity bias (stronger grip force) is again present in males but not females, showing the sex difference is valence-independent](aversive-pit-intensity-bias-males-only.md) — related
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [An introduction arousing suspicion of the communicator's motives leads the identical communication to be judged more one-sided](suspicion-introduction-judged-more-one-sided.md) — related
+- [Within the experimental group, female participants responded better to humour-based teaching than male participants](female-participants-respond-better-humour.md) — related

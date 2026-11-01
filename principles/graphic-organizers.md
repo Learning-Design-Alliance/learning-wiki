@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (17 for, 16 mixed, 3 against) · 46 studies (19 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 25 claims rest on one study
+> **Evidence** · 38 claims (19 for, 16 mixed, 3 against) · 48 studies (21 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 48 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](../claims/semiempty-concept-mapping-more-causal-explanation-argumentation.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
 - [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](../claims/concept-mapping-more-re-elaboration-causal-relationships.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
 - [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](../claims/concept-mapping-beats-lecture-biology-achievement.md) [+W] — attached 2026-11-01 from Sakiyo et al. (2015), which proposed "Incorporate concept mapping into biology teaching and train teachers in its use"; tests this page's relationship.
+- [Post-test scores for knowledge, understanding and application were significantly higher in the mind-mapping group than the control group](../claims/mind-mapping-english-posttest-significant.md) [+W] — attached 2026-11-01 from D. Hallen (2015), which proposed "Mind map as a hierarchical visual organizer built from a central image with colour, images, codes, symbols and key words"; tests this page's relationship.
+- [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Four-step electronic mind map construction pattern for reading texts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

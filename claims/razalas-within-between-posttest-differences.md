@@ -49,3 +49,5 @@ Within-group Wilcoxon tests (control W=-28; experimental W=-231, z-observed 4.01
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — related
 - [Both experimental and control groups improved their proportional reasoning scores from pretest to posttest](both-groups-pretest-posttest-prt-gains.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
+- [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — possibly the same claim (merge candidate)
+- [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — possibly the same claim (merge candidate)

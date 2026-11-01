@@ -63,3 +63,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related
 - The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge — related
 - [Boys, African American, and Hispanic children, and children with disabilities are disproportionately excluded from early care and education settings, though few studies computed disproportionality.](ecce-exclusion-racial-gender-disproportionality.md) — related
+- [Code.org's Professional Learning Program significantly increased AP Computer Science Principles test taking in treatment schools, with an average increase of almost 18 additional tests per school](codeorg-plp-increased-csp-ap-test-taking.md) — related

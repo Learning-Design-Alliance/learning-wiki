@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 53 studies (16 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 10 of 53 report an effect size · 25 claims rest on one study
+> **Evidence** · 37 claims (20 for, 16 mixed, 1 against) · 54 studies (17 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 11 of 54 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,8 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](../claims/process-product-feedback-strongest-performance-gains.md) [+W]
 - [Students tended to make more edits than substantive revisions when responding to MI Write's automated feedback](../claims/more-edits-than-revisions-mi-write.md) [-W]
 - [Feedback is found to result in gains in writing development across kinds of feedback](../claims/feedback-results-in-writing-development-gains.md) [+W]
+- [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](../claims/drafts-improved-significantly-raters-scores.md) [+W]
+- [Revised drafts were significantly longer than first drafts, with significant effects of COMPASS score and treatment condition on word count](../claims/word-count-increased-significantly-revisions.md) [+W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

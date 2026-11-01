@@ -56,3 +56,4 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by gender
 - [Male and female students differ significantly in application of Light waves, favouring males](gender-difference-application-light-waves.md) — related
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — reports the opposite
+- [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related

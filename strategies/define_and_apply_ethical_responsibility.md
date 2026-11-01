@@ -95,6 +95,7 @@ The applying half works largely through argument. Requiring learners to construc
 - [Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance](ground-ai-ethics-inquiry-in-teaching-practice.md)
 - [Present students with realistic ethical conundrums such as job-search dilemmas earlier in their education](realistic-ethical-conundrums-earlier-education.md)
 - [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
+- [Embed ethics framing into technical accounting courses using disguised, ambiguous scenarios rather than obvious ethical dilemmas](disguised-scenario-ethics-strategy.md)
 
 ## Examples
 

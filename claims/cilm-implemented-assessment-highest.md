@@ -49,3 +49,4 @@ Expert assessment of the implemented model covering model appropriateness (Mean 
 - [Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D. = 0.05)](cilm-metaverse-expert-assessment-highest.md) — related
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
+- [Experts rated the CBT curriculum's overall implementation efficiency at the highest level, with contents rated highest quality](expert-evaluation-cbt-curriculum-highest-efficiency.md) — related

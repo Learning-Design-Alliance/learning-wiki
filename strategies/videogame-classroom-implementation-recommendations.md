@@ -54,6 +54,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 - [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
+- [Plan game use deliberately and combine it with traditional vocabulary techniques](plan-game-use-and-combine-with-traditional-techniques.md)
 
 ## Examples
 -

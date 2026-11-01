@@ -49,3 +49,4 @@ Implementation analysis of the 2010 TIF grantees reported in the brief's key fin
 - [Districts implemented most components of the performance-based compensation system throughout all four years, but fewer than half planned to keep offering performance bonuses once the grant ended](tif-implementation-sustained-but-bonus-continuation-uncertain.md) — related
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-districts-aligned-bonuses-with-tif-guidance.md) — related
+- [The performance measures were implemented largely as planned, with teachers receiving nearly the intended four feedback sessions per year, though fewer than half accessed online growth reports in Year 1](feedback-measures-implemented-as-planned.md) — related

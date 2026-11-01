@@ -75,3 +75,4 @@ Authors' interpretation of the service-use findings: control members had ready a
 - [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](community-based-work-programs-mixed-employment-effects.md) — related
 - [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related
 - [Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars](intensive-one-on-one-service-more-important-than-multi-pillar-breadth.md) — related
+- [PS-ASD participants acquired community-based competitive employment at far higher rates than high-school-services-as-usual controls (90.3% vs 5.9% at 3 months; 87.1% vs 11.1% at 12 months)](psasd-competitive-employment-rct.md) — related

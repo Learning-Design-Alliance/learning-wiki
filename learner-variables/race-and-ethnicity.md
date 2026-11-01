@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 208 claims (167 show a difference, 30 mixed, 11 no difference) · 156 studies (88 associational, 28 review, 20 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 3 of 156 report an effect size · 206 claims rest on one study
+> **Evidence** · 209 claims (168 show a difference, 30 mixed, 11 no difference) · 157 studies (88 associational, 28 review, 21 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 3 of 157 report an effect size · 207 claims rest on one study
 
 ## How to read this page
 
@@ -245,6 +245,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [The OCR program shows a positive differential impact for Hispanic students](../claims/ocr-positive-differential-impact-hispanic-students.md) [+M] — an instructional effect differs by group
 - [For African-American children, the FT impact appeared stable at about 0.15 of a standard deviation in fall and spring of fourth grade but was not statistically significant at either time point](../claims/triad-ft-african-american-stable-015-not-significant.md) [-W] — an instructional effect differs by group
 - [In spring of fourth grade, the follow-through condition showed a marginally significant differential impact favoring African-American children (0.32 of a standard deviation)](../claims/triad-ft-differential-impact-african-american-spring-2012.md) [~M] — an instructional effect differs by group
+- [Relative impact ratios for Computer Science Principles test taking were greatest for minority students, with a more than ten-fold increase for Black students](../claims/csp-test-taking-impact-ratios-greatest-minority.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

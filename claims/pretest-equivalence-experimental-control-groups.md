@@ -57,3 +57,4 @@ Independent-group t-test on pre-test scores of both groups: no significant diffe
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related
+- [Before the experiment, the control and experimental groups differed in previous-year fine art marks but not in previous-year mathematics marks](pre-experiment-group-equivalence-mathematics.md) — related

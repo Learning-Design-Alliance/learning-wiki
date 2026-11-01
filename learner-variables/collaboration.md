@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (79 show a difference, 18 mixed, 7 no difference) · 87 studies (25 review, 21 causal, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 87 report an effect size · 104 claims rest on one study
+> **Evidence** · 110 claims (85 show a difference, 18 mixed, 7 no difference) · 91 studies (25 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 91 report an effect size · 110 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -146,6 +146,12 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Volunteer pupils in Children's University schools made small gains in teamwork and social responsibility compared with control-school volunteers after two years](../claims/cu-two-year-teamwork-social-responsibility-gains.md) [+M] — instruction changes it
 - [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](../claims/designers-reported-soft-skills-gains.md) [+W] — instruction changes it
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](../claims/videogame-peer-collaboration-attention.md) [+W] — instruction changes it
+- [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](../claims/cl-interviews-anxiety-participation.md) [+W] — instruction changes it
+- [Most students in the CL class held positive attitudes toward cooperative learning, including perceived listening gains](../claims/cl-questionnaire-positive-attitudes.md) [+M] — instruction changes it
+- [Students in the cooperative group reported positive perceptions of cooperative learning, with 90% wanting to help, get help, and mutually discuss experiments with partners](../claims/positive-student-perceptions-cooperative-chemistry-lab.md) [+M] — instruction changes it
+- [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](../claims/cbps-collaboration-motivation-observation.md) [+W] — instruction changes it
+- [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](../claims/cl-gain-significant-control-null.md) [+M] — instruction changes it
+- [The review attributes to Burton et al. (1999) that primary students participating in an arts curriculum showed significantly greater creativity, perception, problem solving, risk-taking and collaboration than students without arts education](../claims/burton-arts-curriculum-greater-creativity.md) [+W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

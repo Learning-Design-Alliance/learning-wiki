@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 293 claims (151 for, 125 mixed, 17 against) · 175 studies (75 review, 39 quant-synthesis, 35 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 175 report an effect size · 288 claims rest on one study
+> **Evidence** · 294 claims (151 for, 126 mixed, 17 against) · 176 studies (75 review, 39 quant-synthesis, 36 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 176 report an effect size · 289 claims rest on one study
 
 ## Conditional relationship
 
@@ -529,6 +529,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](../claims/vr-anatomy-duration-moderates-effects.md) [~M]
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 - [The authors observed higher course motivation among students using the analogy-based simulations](../claims/observed-motivation-analogy-simulation-students.md) [~W]
+- [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](../claims/mixed-prior-evidence-vrs-versus-traditional-training.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
