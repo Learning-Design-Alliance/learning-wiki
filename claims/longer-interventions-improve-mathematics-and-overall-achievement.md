@@ -64,9 +64,11 @@ Subgroup analysis by intervention duration for overall academic achievement. The
 
 
 ## Related Claims
+
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — a broader claim this one bears on
 - [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](school-based-physical-activity-improves-overall-academic-achievement.md) — related
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
+- [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md)

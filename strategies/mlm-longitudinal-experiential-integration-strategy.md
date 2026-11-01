@@ -48,6 +48,7 @@ The review recommends embedding MLM as a longitudinal, explicitly structured com
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](longitudinal-evaluation-of-elt-engineering-modules.md)
+- [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 
 ## Examples
 -

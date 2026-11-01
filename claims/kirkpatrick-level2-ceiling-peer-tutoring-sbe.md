@@ -45,6 +45,7 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 
 
 ## Related Claims
+
 - [Across Kirkpatrick Levels 1 and 2, most studies found no statistically significant differences between observer and active participant roles in simulation-based education](observer-vs-active-role-mostly-no-difference-kirkpatrick-1-2.md) — related
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
@@ -60,3 +61,5 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
 - [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on
+- [Educational interventions for FM residents targeting the informal curriculum rarely produced behavior change: most were evaluated only at Kirkpatrick level 2 and study quality was low](informal-curriculum-interventions-low-kirkpatrick-quality.md)
+- [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md)

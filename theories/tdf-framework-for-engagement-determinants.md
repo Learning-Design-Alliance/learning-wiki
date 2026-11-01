@@ -17,7 +17,7 @@ sources:
 # Theoretical Domains Framework as an organizing framework for behavioral determinants of intervention engagement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The Theoretical Domains Framework (TDF) is "an integrative framework that draws from 33 behavior change theories to characterize and evaluate behavioral determinants of implementation," comprising 14 domains with 84 constructs. In this article the TDF structured the interview guides, the a priori codebook, and the analysis, with determinants such as beliefs about consequences, knowledge, skills, social influences, and environmental context organized under seven themes and visualized in a conceptual framework of caregiver engagement.
@@ -37,7 +37,9 @@ The Theoretical Domains Framework (TDF) is "an integrative framework that draws 
 - Understanding behavioral determinants of caregiver engagement with health monitoring practices
 
 ### Claims
+
 - [Family Muac Uptake Barriers](../claims/family-muac-uptake-barriers.md) [+M]
+- [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](../claims/sdl-cpd-four-key-tdf-domains.md) [+W]
 
 ## Related Theories
 

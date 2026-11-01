@@ -45,9 +45,11 @@ Random-effects meta-analysis of six intervention samples (n = 725 students) from
 
 
 ## Related Claims
+
 - [In-classroom physical activity breaks significantly improve primary school children's foreign language learning](icpab-improve-foreign-language.md) — related
 - [In-classroom physical activity breaks significantly improve primary school children's spelling performance](icpab-improve-spelling.md) — related
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — a narrower finding that bears on this claim
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — a broader claim this one bears on
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [In-classroom physical activity breaks show no significant effect on primary school children's reading performance](icpab-no-effect-reading.md) — related
+- [Classroom-based physical activity shows no improvement in academic achievement when measured with national standardised tests (pooled SMD = −1.13, CI crossing zero)](no-achievement-gain-standardised-tests.md)

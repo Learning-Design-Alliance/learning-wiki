@@ -42,6 +42,7 @@ The review's future-directions section recommends that "future research should u
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 - [Direct future self-regulation research toward standard methods of reporting SR outcomes to address substantial heterogeneity in outcome measures.](standard-methods-for-reporting-sr-outcomes.md)
 - [Use objective outcome measures (blinded OSCE, standardized tests, structured scales) in future ECE research](objective-outcomes-for-ece-research.md)
+- [Future classroom-based physical activity studies should match outcome measures to intervention period and use objective physical activity measures](future-cbpa-study-design-recommendations.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ Trim-and-fill analysis for theoretical scores (with 5 virtual studies added). Th
 
 
 ## Related Claims
+
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — related
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
@@ -75,3 +76,5 @@ Trim-and-fill analysis for theoretical scores (with 5 virtual studies added). Th
 - [After removing four studies identified as heterogeneity sources via Galbraith plot, the pooled CBL effect remains significant (g = 0.65)](cbl-effect-robust-after-galbraith-removal.md) — related
 - [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](heterogeneity-sources-pbl-cell-biology-meta-analysis.md) — related
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related
+- [No evidence of publication bias in the pooled knowledge and skill score estimates](pbl-radiology-no-publication-bias.md)
+- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

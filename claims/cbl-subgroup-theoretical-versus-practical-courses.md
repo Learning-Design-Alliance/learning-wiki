@@ -45,6 +45,8 @@ Subgroup analysis reported in Table 2 of the meta-analysis. Theoretical courses 
 
 
 ## Related Claims
+
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](nma-subgroup-cbl-clinical-pbl-basic.md) — related
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related
+- [Effects of PBL+LBL differ between practical and theoretical courses for some outcomes](pbl-lbl-subgroup-practical-theoretical-courses.md)

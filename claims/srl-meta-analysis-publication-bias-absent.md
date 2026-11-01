@@ -129,3 +129,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
 - [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
+- [No evidence of publication bias in the pooled knowledge and skill score estimates](pbl-radiology-no-publication-bias.md)

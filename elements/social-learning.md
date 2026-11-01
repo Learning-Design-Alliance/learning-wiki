@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 28 studies (8 qualitative, 6 causal, 5 quant-synthesis, 3 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 28 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (18 for, 11 mixed, 2 against) · 29 studies (8 qualitative, 6 causal, 5 quant-synthesis, 3 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 29 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -54,6 +54,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Embodiment functioned as a social act: children built on and extended a partner's embodiment, used embodied turn-taking signals, and expressed emotions toward the robot with their bodies](../claims/embodied-collaboration-and-emotion.md) [+W]
 - [Correlationally, more opportunities for social interaction during class were associated with more engagement and, in 2021 only, with more self-directed study time](../claims/interaction-correlations-engagement-self-study.md) [+W]
 - [Dense networks with similar others and strong bonds foster perceived learning in online networks.](../claims/dense-networks-foster-perceived-learning.md) [~W]
+- [Formal education is more likely to improve cultural competency than mere exposure to culturally diverse patients, even with good role models](../claims/formal-education-beats-exposure-cultural-competency.md) [-W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

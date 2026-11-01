@@ -45,6 +45,7 @@ Heterogeneity analysis within the same meta-analysis of 53 studies. The article 
 
 
 ## Related Claims
+
 - [No study or participant characteristic (publication type, research design, sample size, grade level, reading difficulties) significantly moderated effects of technology-delivered literacy instruction](no-study-participant-moderators.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — a broader claim this one bears on
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
@@ -55,3 +56,4 @@ Heterogeneity analysis within the same meta-analysis of 53 studies. The article 
 - Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model — related
 - [Effect size distributions were heterogeneous for knowledge-based, ability-based, and attitude-belief outcomes but homogeneous for skill-based outcomes](problem-posing-effect-heterogeneity.md) — related
 - Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — a narrower finding that bears on this claim
+- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

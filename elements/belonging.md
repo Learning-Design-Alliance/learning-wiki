@@ -18,7 +18,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (24 for, 12 mixed, 2 against) · 28 studies (8 review, 5 qualitative, 5 theoretical, 4 associational, 3 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 35 claims rest on one study
+> **Evidence** · 39 claims (24 for, 12 mixed, 3 against) · 29 studies (8 review, 5 qualitative, 5 theoretical, 4 associational, 3 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 36 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -97,6 +97,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](../claims/shallow-multiculturalism-undermines-latinx-belonging.md) [+W] — attached 2026-10-21 from Rebecca Covarrubias (2024), which proposed "Counterspaces with three processes for sustaining marginalized students' belonging".
 - [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](../claims/exceptionalism-script-psychological-costs.md) [~W]
 - [Peer acceptance measured by commensality is significantly negatively associated with failed-subject ratio, and positively with major ranking and negatively with failed-subject counts](../claims/commensality-negatively-associated-failed-subjects.md) [+W]
+- [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [-W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

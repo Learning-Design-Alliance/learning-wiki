@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (39 for, 41 mixed, 6 against) · 95 studies (22 causal, 22 review, 18 theoretical, 14 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 95 report an effect size · 75 claims rest on one study
+> **Evidence** · 89 claims (39 for, 44 mixed, 6 against) · 98 studies (22 causal, 22 review, 18 theoretical, 14 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 98 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,9 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Obtaining a teaching degree and accessibility in time and place were the main factors motivating trainees to enrol in an online language teacher education programme](../claims/degree-and-accessibility-drive-enrolment-online-teacher-education.md) [~W]
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
 - [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](../claims/modality-differences-in-process-and-transfer.md) [-W]
+- [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](../claims/dlrs-increase-prescribing-knowledge-test-scores.md) [~W]
+- [Offline computer-based digital education may improve medical doctors' knowledge gain compared with no intervention (low grade evidence)](../claims/ocde-vs-no-intervention-knowledge-gain.md) [~W]
+- [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](../claims/interactivity-digital-education-guidelines-mixed.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

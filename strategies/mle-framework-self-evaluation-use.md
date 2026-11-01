@@ -37,7 +37,8 @@ The article recommends using the indicator grid as a tool of self-evaluation for
 - educators' competence in teaching MLE of feasible quality
 
 ## Related Strategies
-- 
+
+- [Use the competency framework as a fluid tool for appraisal, self-assessment and identifying learning needs](competency-framework-as-development-review-tool.md)
 
 ## Examples
 -

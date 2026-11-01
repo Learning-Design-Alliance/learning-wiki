@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (23 for, 17 mixed) · 30 studies (12 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 38 claims rest on one study
+> **Evidence** · 46 claims (27 for, 19 mixed) · 34 studies (12 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 34 report an effect size · 44 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,12 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Blended learning improved manual skills in preclinical endodontics but showed no significant difference in conceptual knowledge](../claims/blended-learning-manual-skills-not-conceptual-knowledge.md) [~W]
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](../claims/skill-type-moderates-digital-effectiveness-suturing-cpr.md) [~W]
 - [A blended learning program did not differ in effectiveness from face-to-face lessons for nurses' fever management learning, but produced higher satisfaction](../claims/blended-vs-face-to-face-fever-education-no-effectiveness-difference.md) [~W]
+- [Blended learning shows a positive effect on teaching introductory programming and is perceived to support learning](../claims/blended-learning-positive-effect-intro-programming.md) [+W]
+- [Blended WhatsApp-plus-lecture conditions produced significantly higher knowledge outcomes than lectures alone, with no difference between two blended configurations](../claims/blended-whatsapp-lectures-higher-than-lectures-alone.md) [+W]
+- [CAI within a blended learning strategy outperforms face-to-face teaching alone for ECG competence acquisition](../claims/blended-cai-beats-face-to-face-ecg.md) [+W]
+- [Students' course performance was the most utilized evaluation criterion for blended programming approaches](../claims/course-performance-top-evaluation-criterion.md) [~W]
+- [The supplemental model risks students skipping online work and course overload](../claims/supplemental-model-challenges.md) [~W]
+- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-smd-060.md) [+W]
 
 ## Examples
 

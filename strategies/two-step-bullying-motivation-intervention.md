@@ -45,6 +45,7 @@ Based on the mediation findings, the authors recommend that interventions addres
 - [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](active-school-intervention-against-bullying.md)
 - [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
 - [Two-step intervention: first decrease victimisation and build motivational factors, then increase achievement and engagement](two-step-bullying-motivation-intervention-strategy.md)
+- [Implement school-wide policy action to address weight-based teasing and bullying](school-wide-policy-weight-based-teasing.md)
 
 ## Examples
 -

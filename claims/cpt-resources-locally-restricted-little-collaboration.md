@@ -46,6 +46,8 @@ Discussion-section comparison with an earlier overview of digital educational re
 
 
 ## Related Claims
+
 - [Teachers' proposed prescribing-education resources organize into ten prioritized themes under three overarching themes: learning outcomes, format of teaching, and resource and faculty development](ten-themes-three-overarching-cpt-resource-needs.md) — related
 - [European CPT teachers rank prescribing scenarios for clinical cases as the most needed online problem-based teaching resource](prescribing-scenarios-ranked-most-needed-cpt-resource.md) — related
 - [International differences in guidelines, regulations and prescribing attitudes may reduce applicability of shared resources, which the authors argue can be overcome by adaptable materials aimed at common prescribing elements](adaptable-materials-overcome-international-differences.md) — related
+- [There is no clear consensus among CPT teachers on which prescribing competencies medical students should have when they graduate](no-consensus-cpt-teachers-prescribing-competencies.md)

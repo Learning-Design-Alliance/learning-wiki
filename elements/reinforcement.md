@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (6 for, 6 mixed, 5 against) · 16 studies (6 causal, 5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (8 for, 6 mixed, 5 against) · 17 studies (6 causal, 5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -69,6 +69,8 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [High reinforcement (75%, 88% fixed win rate) maintains a relearning-old advantage in Post phase win rates and OBR](../claims/reinforcement-maintains-relearning-old-advantage.md) [+W]
 - [A 50% shock reinforcement rate yielded the most learners compared with 35% and 60% rates](../claims/reinforcement-rate-50-percent-most-learners.md) [~W]
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](../claims/reward-contingency-moderates-gamification-effect.md) [~W]
+- [The most common combination in effective OSTA interventions was professionals training caregivers in parental school involvement at home and homework support combined with positive reinforcement](../claims/common-element-combination-parent-training.md) [+W]
+- [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](../claims/parental-involvement-positive-fv-all-outcomes.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

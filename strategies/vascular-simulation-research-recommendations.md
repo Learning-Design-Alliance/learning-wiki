@@ -56,6 +56,8 @@ The review's forward-looking recommendations for integrating simulation into vas
 - [Prioritize larger multi-center RCTs with standardized AR systems, uniform metrics, and long-term follow-up when evaluating AR surgical training](strategy-standardized-ar-training-protocols-research.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
+- [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
+- [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 
 ## Examples
 -

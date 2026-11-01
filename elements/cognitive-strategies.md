@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (10 for, 4 mixed, 1 against) · 23 studies (9 review, 6 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (11 for, 4 mixed, 1 against) · 24 studies (9 review, 6 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 11 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -75,6 +75,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](../claims/imagination-effect-expertise-reversal.md) [~W]
 - [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](../claims/nz-undergrads-endorse-effective-strategies-more.md) [+W]
 - [Least-to-most prompting and teaching wh-word meanings meet evidence-based criteria; explicit comprehension-strategy instruction is potentially evidence-based](../claims/evidence-based-strategies-shared-reading-id.md) [+W]
+- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
 
 ## The evidence by question
 
@@ -102,6 +103,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 **[SQ3R](https://en.wikipedia.org/wiki/SQ3R)** — Robinson's survey-question-read-recite-review routine for study reading; an organizational and rehearsal composite taught as an explicit procedure.
 
 **[Khan Academy](https://www.khanacademy.org)** — Hints and worked examples model solution strategies step by step before independent practice, embedding strategy modeling in the practice loop.
+- [Use chunking, gaze training and think-aloud cognitive rehearsal to support VWM capacity in surgical trainees](../strategies/chunking-gaze-training-think-aloud-mis.md)
 
 ## Key Sources
 - Weinstein, C. E., & Mayer, R. E. (1986). The teaching of learning strategies. In M. C. Wittrock (Ed.), *Handbook of Research on Teaching* (3rd ed., pp. 315–327). Macmillan.

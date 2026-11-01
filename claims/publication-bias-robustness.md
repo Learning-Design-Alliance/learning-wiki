@@ -45,6 +45,7 @@ Three publication-bias tests were applied. Published studies had larger effect s
 
 
 ## Related Claims
+
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — a broader claim this one bears on
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
@@ -67,3 +68,4 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
+- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

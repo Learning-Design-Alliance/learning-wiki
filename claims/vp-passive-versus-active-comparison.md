@@ -74,3 +74,4 @@ Exploratory visual analysis of albatross plots (Figures 6 and 7) after planned s
 - [Traditional learning outperformed e-learning in studies where mannequin-based simulation was the traditional modality](mannequin-simulation-outperformed-e-learning.md) — related
 - [Active learning methods significantly improve safety motivation and internal locus of control compared to traditional passive instruction.](active-learning-improves-safety-motivation-locus-of-control.md) — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
+- [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)

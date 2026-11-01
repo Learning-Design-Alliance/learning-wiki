@@ -45,8 +45,10 @@ Funnel plot analysis of the 127-study knowledge meta-analysis showed high asymme
 
 
 ## Related Claims
+
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related
 - [Publication bias is present in the Turkish flipped learning literature, and correcting it lowers the pooled effect from 0.895 to 0.713](flipped-learning-publication-bias-turkey.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — reports the opposite
 - Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates. — related
+- [No evidence of publication bias in the flipped classroom meta-analysis](no-publication-bias-flipped-classroom-meta-analysis.md)

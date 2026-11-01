@@ -48,6 +48,7 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
 - Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — a broader claim this one bears on
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
@@ -61,3 +62,4 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](hf-skill-retention-three-months.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
+- [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md)

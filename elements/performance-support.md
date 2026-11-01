@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 19 studies (8 review, 4 theoretical, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 20 studies (8 review, 4 theoretical, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 4 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.
@@ -56,6 +56,7 @@ Performance support shifts the instructional goal from "train everything in adva
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](../claims/generative-ai-makes-knowledge-mobilizable.md) [+W]
 - [Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference](../claims/cheatsheet-continuous-reference-dominant-usage.md) [+W]
 - [AR guidance improves objective technical accuracy in surgical trainees, most strongly in tasks with high visuospatial demands](../claims/ar-improves-technical-accuracy-visuospatial-tasks.md) [+W]
+- [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](../claims/surgical-checklist-lowest-adverse-events.md) [+W]
 
 ## The evidence by question
 - *Does performing with an aid at hand leave learners able to do the task once the aid is removed?* [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~M]

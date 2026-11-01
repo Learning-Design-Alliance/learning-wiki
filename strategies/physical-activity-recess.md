@@ -62,6 +62,8 @@ Aerobic activity acutely improves executive function and attention in children, 
 - [Active Transitions](active-transitions.md) — embedding movement into classroom routines
 - [Brain Breaks](brain-breaks.md) — short structured pauses between instructional blocks
 - [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
+- [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
+- [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 
 ## Examples
 - **[Physical Activity Across the Curriculum (PAAC)](https://doi.org/10.1016/j.ypmed.2011.01.027)** — a 3-year cluster-randomized trial in 17 elementary schools delivering math and reading through physically active lessons; academic achievement was maintained or improved.

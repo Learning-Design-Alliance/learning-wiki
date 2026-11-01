@@ -45,6 +45,7 @@ Systematic characterization of outcome levels across all 125 included studies us
 
 
 ## Related Claims
+
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — related
@@ -62,3 +63,4 @@ Systematic characterization of outcome levels across all 125 included studies us
 - [Four reviewed studies showed e-learning changed student study behaviour, including increased time invested in studying course subjects](elearning-behaviour-change-kirkpatrick-3.md) — related
 - [Internally-developed perception surveys are the most common SDL assessment method in undergraduate health professions education, followed by internally-developed knowledge exams](perception-surveys-most-common-sdl-assessment.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on
+- [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md)

@@ -65,6 +65,7 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 
 
 ## Related Claims
+
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — reports the opposite
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [Publication bias is present in the Turkish flipped learning literature, and correcting it lowers the pooled effect from 0.895 to 0.713](flipped-learning-publication-bias-turkey.md) — related
@@ -78,3 +79,4 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 - No evidence of publication bias in the SDL meta-analysis — related
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](flipped-classroom-publication-bias-knowledge-outcomes.md) — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related
+- [No evidence of publication bias in the flipped classroom meta-analysis](no-publication-bias-flipped-classroom-meta-analysis.md)

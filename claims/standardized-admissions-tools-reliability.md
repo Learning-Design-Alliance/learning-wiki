@@ -45,7 +45,10 @@ Review of assessment practices in health professions admissions found "By standa
 
 
 ## Related Claims
+
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — a broader claim this one bears on
 - [Structured oral examinations show higher reliability than traditional formats, with median Cronbach's alpha of 0.75 across studies](soe-outperform-traditional-reliability.md) — a broader claim this one bears on
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Wide variation exists in definitions of competency-based and holistic admissions across health professions programs](wide-variation-cba-ha-definitions.md) — related
+- [The AAMC promotes holistic review without presenting quantitative evidence of prediction or reliability, contrary to fair-testing validity standards](aamc-holistic-review-lacks-quantitative-validity-evidence.md)
+- [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](interview-reliability-042-limits-validity.md)

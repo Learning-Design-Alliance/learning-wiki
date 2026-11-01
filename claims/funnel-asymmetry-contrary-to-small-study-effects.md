@@ -45,6 +45,7 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 
 
 ## Related Claims
+
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
@@ -69,3 +70,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — related
+- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

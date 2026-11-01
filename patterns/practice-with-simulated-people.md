@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 153 claims (75 for, 62 mixed, 16 against) · 82 studies (28 review, 17 causal, 14 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 82 report an effect size · 148 claims rest on one study
+> **Evidence** · 169 claims (82 for, 69 mixed, 18 against) · 87 studies (28 review, 17 causal, 14 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 87 report an effect size · 164 claims rest on one study
 
 ## Description and scope
 
@@ -183,6 +183,22 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [+W]
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~M]
 - [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](../claims/pt-osce-sp-kappa-agreement-high.md) [+M]
+- [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](../claims/role-play-benefits-and-artificiality-cst.md) [~W]
+- [Conversation analytic comparisons show role-played and simulated interactions differ systematically from real interactions](../claims/ca-shows-simulation-inauthenticity.md) [-W]
+- [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](../claims/sp-cst-positive-effects-confidence-performance.md) [+W]
+- [Direct comparisons find simulated patients as effective as real patients for CST outcomes](../claims/sp-equivalent-to-real-patients-cst.md) [+W]
+- [Blending virtual patients with traditional education yields moderate positive knowledge effects over traditional education alone (pooled SMD=0.73)](../claims/vp-blended-knowledge-smd-073.md) [+W]
+- [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](../claims/simulation-plus-teamtraining-reduced-adverse-outcomes.md) [+W]
+- [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
+- [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' satisfaction](../claims/hfps-no-significant-satisfaction-difference.md) [~W]
+- [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](../claims/sp-versus-peer-role-play-mixed.md) [~W]
+- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-smd-060.md) [+W]
+- [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](../claims/vp-global-applicability-hic-lmic.md) [~W]
+- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-vs-active-comparison.md) [~W]
+- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-vs-traditional-skills-smd-090.md) [+W]
+- [VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context](../claims/vp-patient-representation-depersonalization.md) [-W]
+- [VP collection may convey a hidden curriculum through unrepresentative demographics](../claims/vp-collection-hidden-curriculum.md) [~W]
+- [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](../claims/vp-design-variants-insufficient-evidence.md) [~W]
 
 ## Examples
 
@@ -192,6 +208,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](../strategies/stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](../strategies/tiered-ece-implementation-strategy.md)
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](../strategies/online-lecture-virtual-roleplay-simulation.md)
+- [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](../strategies/use-ca-to-enhance-simulation-design.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

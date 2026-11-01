@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (12 for, 4 mixed) · 22 studies (11 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 25 studies (11 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 25 report an effect size · 13 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -72,6 +72,9 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](../claims/ivr-debriefing-knowledge-subgroup-trend.md) [~W]
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](../claims/feedback-debriefing-most-important-simulation-components.md) [+W]
+- [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](../claims/debriefing-central-sble-palliative-communication.md) [+W]
+- [Learner DASH-SV ratings of instructor debriefing were high, with mean scores above 5.8/7 across all six elements and element three lowest](../claims/dash-sv-instructor-ratings-above-5-8.md) [~W]
+- [Roundtable debriefing in the emergency department produced no statistically significant reduction in patient fall rates](../claims/roundtable-debriefing-no-fall-reduction.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

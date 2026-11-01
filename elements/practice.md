@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (29 for, 13 mixed, 5 against) · 59 studies (27 causal, 12 quant-synthesis, 11 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 59 report an effect size · 34 claims rest on one study
+> **Evidence** · 49 claims (31 for, 13 mixed, 5 against) · 61 studies (27 causal, 12 quant-synthesis, 11 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 61 report an effect size · 36 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -101,6 +101,8 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](../claims/worked-examples-plus-practice-improve-note-scores.md) [+W]
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](../claims/hbb-simulation-reduced-mortality-skill-decay.md) [+W]
 - [Four weeks of minimally invasive mitral valve simulation training reduced task completion time and raised skills scores for both students and residents](../claims/jebran-mimv-simulator-time-and-skills-gains.md) [+W]
+- [Cadaveric simulation training is superior to no simulation training for surgical skill acquisition, per three RCTs](../claims/cadaveric-simulation-superior-to-no-training.md) [+W]
+- [Evidence for transfer and long-term impact of mental practice is sparse but includes positive trends: combined MP plus physical practice improved suturing transfer, and mental rehearsal lowered endovascular error rates](../claims/mp-transfer-evidence-sparse-positive.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

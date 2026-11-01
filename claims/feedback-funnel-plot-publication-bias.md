@@ -1,0 +1,43 @@
+---
+type: claim
+title: Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback
+description: Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback
+id: feedback-funnel-plot-publication-bias
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: weak
+sources:
+  - id: johnson-christina-elizabeth-2020
+    resource: "https://doi.org/10.1136/bmjopen-2019-030672"
+    title: "Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L. (2020). Effect of face-to-face verbal feedback compared with no or alternative feedback on the objective workplace task performance of health professionals: a systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2019-030672"
+    author: Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L.
+    q: 2
+    i: "?"
+---
+
+# Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback
+
+## Subclaims
+`q2 i?` Both funnel plots (all studies and after excluding high-risk studies) were asymmetrical, with a paucity of small negative-effect studies, indicating potential publication bias. [→ Johnson Christina Elizabeth 2020](#johnson-christina-elizabeth-2020)
+
+## Evidence
+
+### Johnson Christina Elizabeth 2020
+
+Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L. (2020). Effect of face-to-face verbal feedback compared with no or alternative feedback on the objective workplace task performance of health professionals: a systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2019-030672
+
+`q2 · i?`
+
+Visual examination of funnel plots (figure 4A all studies; 4B excluding high risk of bias) created to explore reporting bias; the review reports asymmetry "indicating some potential for publication bias". No quantitative test statistic is printed.
+
+> "Both funnel plots are asymmetrical, with a paucity of small studies with negative effect sizes that are less likely to be published, indicating some potential for publication bias."
+
+## Discussion
+
+
+## Related Claims
+
+- [The likely effect of verbal feedback in any individual new study ranges widely, from a very small detrimental effect to a very large beneficial effect (prediction interval −0.06 to 1.46)](feedback-prediction-interval-wide-variability.md)
+- [Across all 11 included trials, verbal face-to-face feedback versus no feedback yielded a pooled SMD of 1.09 before excluding high-risk-of-bias studies](feedback-vs-no-feedback-all-studies-smd-109.md)

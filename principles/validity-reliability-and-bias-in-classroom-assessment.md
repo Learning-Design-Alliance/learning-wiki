@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 334 claims (145 for, 165 mixed, 24 against) · 249 studies (90 associational, 61 design, 39 review, 25 theoretical, 22 causal, 9 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 249 report an effect size · 327 claims rest on one study
+> **Evidence** · 338 claims (146 for, 168 mixed, 24 against) · 252 studies (90 associational, 61 design, 39 review, 25 theoretical, 22 causal, 9 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 252 report an effect size · 331 claims rest on one study
 
 ## Conditional relationship
 
@@ -408,6 +408,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](../claims/pt-osce-station-station-correlation-weak.md) [~W]
 - [Each OSCE station score correlates strongly with the total OSCE score, with a pooled Pearson correlation of 0.71](../claims/pt-osce-station-total-correlation-strong.md) [+W]
 - [TTCA-24 shows excellent inter-rater reliability (ICC 0.78–0.87) but has only one published study in this context and correlates only weakly with T-NOTECHS](../claims/ttca24-reliability-single-study-weak-correlation.md) [~W]
+- [Twenty-eight studies of the Eyesi cataract training modules collectively demonstrated all five sources of validity evidence, with strong data for each parameter except response processes.](../claims/eyesi-cataract-all-five-validity-sources-28-studies.md) [~W]
+- [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](../claims/hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) [~W]
+- [Validity evidence across ophthalmic simulators is sparse: only two studies provided evidence for all five sources of validity assessment, and the Eyesi Surgical is the most extensively assessed model with 33 validity studies.](../claims/only-two-studies-all-five-validity-sources-eyesi-most-assessed.md) [~W]
+- [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](../claims/lmc-construct-validity-dexterity-assessment.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

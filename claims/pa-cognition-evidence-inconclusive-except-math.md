@@ -54,3 +54,4 @@ The commentary's background synthesis of existing reviews reports that "other sy
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related
 - [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related
 - [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
+- [Eight of thirteen reviews concluded physical activity benefits cognitive performance, five reported mixed or inconclusive evidence, and none suggested worse cognition](pa-cognition-eight-beneficial-five-mixed.md)

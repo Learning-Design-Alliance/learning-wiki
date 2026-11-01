@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (11 for, 8 mixed, 4 against) · 25 studies (13 causal, 4 review, 3 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 25 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (11 for, 9 mixed, 4 against) · 26 studies (13 causal, 4 review, 3 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 20 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -73,6 +73,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](../claims/reading-skills-rci-group-association.md) [~W]
 - [Explicit video-based instruction nearly doubled students' relevant justifications of overall credibility evaluations relative to control](../claims/video-explicit-instruction-justifying-credibility.md) [+W]
 - [Explicit video-based instruction did not improve sixth graders' skills to confirm the credibility of more credible online texts, nor increase skepticism toward them](../claims/video-explicit-instruction-confirming-null.md) [-W]
+- [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](../claims/ebp-skills-gains-fluctuations.md) [~W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

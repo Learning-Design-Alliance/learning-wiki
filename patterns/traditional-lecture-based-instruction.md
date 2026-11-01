@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 55 claims (14 for, 24 mixed, 17 against) · 56 studies (16 quant-synthesis, 15 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 10 of 56 report an effect size · 47 claims rest on one study
+> **Evidence** · 70 claims (17 for, 26 mixed, 27 against) · 63 studies (16 quant-synthesis, 15 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 12 of 63 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -177,6 +177,21 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
 - [A one-hour web-based e-learning program was equally efficient as a one-hour traditional classroom lecture for USG-PVC training](../claims/elearning-equally-efficient-classroom-usg-pvc.md) [~W]
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](../claims/pbl-comprehensive-question-scores-smd-053.md) [+W]
+- [Active learning reduces achievement gaps in examination scores between students from minoritized groups and their peers by 33% on average across STEM courses](../claims/active-learning-reduces-exam-score-achievement-gaps.md) [+W]
+- [Online training shows no difference from taught lectures for knowledge or practical skills in licensed health professionals, at very low evidence quality](../claims/online-vs-lecture-no-difference-hcp.md) [+W]
+- [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](../claims/pbl-lbl-hybrid-better-record-writing-scores.md) [~W]
+- [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](../claims/tbl-increases-learning-attitude.md) [-W]
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](../claims/tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) [-W]
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](../claims/pbl-higher-dreem-than-lbl.md) [-W]
+- [TBL enhances students' communication skills more than LBL according to student questionnaires](../claims/tbl-enhances-communication-skills-questionnaires.md) [-W]
+- [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](../claims/tbl-increases-theoretical-examination-scores-china.md) [-W]
+- [Students rate teaching as satisfactory more often under PBL+LBL than LBL, with no significant differences for ordinary or poor ratings](../claims/pbl-lbl-higher-teaching-satisfaction.md) [~W]
+- [TBL develops more students' self-study ability than LBL according to student questionnaires](../claims/tbl-increases-self-study-ability-questionnaires.md) [-W]
+- [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](../claims/tbl-increases-learning-enthusiasm-questionnaires.md) [-W]
+- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [-W]
+- [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](../claims/tbl-increases-learning-skill.md) [-W]
+- [In the one controlled pre/post comparison, WhatsApp learning and didactic lectures both improved knowledge but did not differ between groups](../claims/whatsapp-versus-lectures-no-between-group-difference.md) [+W]
+- [About 70% of surveyed students prefer flipped to traditional classrooms](../claims/students-prefer-flipped-classroom-survey.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

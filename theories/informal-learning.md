@@ -13,7 +13,7 @@ generated:
 # Informal Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Boileau (2019), drawing on Jay Cross, frames formal and informal learning as opposite ends of a continuum rather than a strict dichotomy. Formal learning is "pushed" to learners according to a predetermined curriculum decided by someone else — "like riding a bus: the driver decides where the bus is going; the passengers are along for the ride" (Cross, 2007, p. 236). Informal learning is "pulled" by the learner's own perceived need — "like riding a bike; the rider chooses the destination, the speed, and the route" (Cross, 2007, p. 236) — and is unofficial, self-directed, and situated in meaningful, performance-linked experience rather than separated in time and place from its application.
@@ -54,6 +54,7 @@ Boileau also notes a cultural dimension: informal, experiential learning is unde
 - [Higher education students' digital competence has a positive effect on their digital informal learning](../claims/digital-competence-positive-effect-dil.md) [~W] — attached 2026-10-29 from Mehrvarz et al. (2021), which proposed "Digital informal learning as a three-aspect construct (cognitive, metacognitive, social-motivational)".
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](../claims/dil-partial-mediator-competence-performance.md) [+W]
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](../claims/digital-competence-positive-association-dil-engagement.md) [+W]
+- [Cultural competence in Family Medicine is largely agreed to be gained informally, and a large U.S. survey found most residency programs identify it as part of the informal curriculum](../claims/cultural-competence-learned-informally-fm.md) [+W]
 
 ## Related Principles
 - [Performance Technology](performance-technology.md) — Performance Support Tools (sidekicks and planners) are one of the concrete mechanisms through which informal learning is supported and mediated

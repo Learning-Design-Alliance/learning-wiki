@@ -46,6 +46,8 @@ Study and tool characterization from the scoping review's results: 22 studies us
 
 
 ## Related Claims
+
 - [Validity evidence for procedure-specific orthopaedic surgery assessment tools is low, with total scores ranging from 1 to 9 of a maximum of 15](orthopaedic-procedure-specific-tools-low-validity-evidence.md) — related
 - [Validity-evidence patterns in orthopaedic surgery mirror those in general surgery and cardiothoracic reviews, with strong content evidence and weak response-process and consequences evidence](orthopaedic-patterns-mirror-general-cvt-surgery-reviews.md) — related
 - [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related
+- [The Procedure Based Assessment shows poor engagement and deficient orthopaedic utility evidence, and the authors propose it is no longer appropriate for summative assessment](pba-no-longer-appropriate-summative-assessment.md)

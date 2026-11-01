@@ -59,9 +59,11 @@ Consistent PE supports cognition and classroom behavior, with effects strongest 
 6. Assess skill progression and fitness growth formatively rather than grading on athletic performance alone
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — complements PE with unstructured but active breaks; different mechanism, same attention benefits
 - [Classroom Movement Breaks](classroom-movement-breaks.md) — short in-class activity bursts that maintain the attention benefits between PE sessions
 - [Check-In](../elements/check-in.md) — a routine element for opening PE sessions with readiness monitoring
+- [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 
 ## Examples
 - **SPARK (Sports, Play, and Active Recreation for Kids)** — an evidence-based PE curriculum with structured lesson plans and activity promotion, widely implemented in US elementary schools ([https://sparkpe.org](https://sparkpe.org))

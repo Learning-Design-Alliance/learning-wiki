@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (19 for, 11 mixed, 2 against) · 28 studies (11 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 42 claims (20 for, 20 mixed, 2 against) · 32 studies (11 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,16 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](../claims/pa-interventions-improve-on-task-behaviour-childhood.md) [+W]
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](../claims/pa-breaks-selective-attention-inconclusive.md) [~W]
 - [ECLS-K studies found no relationship between recess duration or frequency and reading or math achievement](../claims/ecls-k-no-recess-achievement-relationship.md) [~W]
+- [Active classrooms increase time on task compared with traditional classrooms](../claims/active-classrooms-increase-time-on-task.md) [~W]
+- [Acute on-task behaviour improvements from classroom-based physical activity may dissipate over time, with no chronic between-group difference in behaviour incidents](../claims/behaviour-gains-dissipate-chronic-follow-up.md) [~W]
+- [Classroom-based physical activity improves on-task behaviour and reduces off-task behaviour in primary school children (pooled SMD = 0.60)](../claims/classroom-physical-activity-improves-on-task-behaviour.md) [+W]
+- [Classroom-based physical activity shows no effect on cognitive function in primary school children (pooled SMD = 0.33, CI crossing zero)](../claims/classroom-physical-activity-no-effect-cognitive-function.md) [~W]
+- [Children with lower baseline achievement, lower IQ or lower school engagement may benefit more from school-based PA interventions, though evidence is mixed](../claims/pa-math-benefits-low-baseline-learners.md) [~W]
+- [Increased physical activity does not negatively affect academic performance, but academic performance is not caused solely by increased physical activity](../claims/pa-does-not-harm-academic-performance-not-sole-cause.md) [~W]
+- [Whether PA itself causes the positive mathematics effects remains unclear, with engagement, attention from adults and innovative teaching proposed as alternative explanations](../claims/pa-math-causality-alternative-explanations.md) [~W]
+- [Across 29 controlled studies, positive overall effects of school-based PA on mathematics performance appear in 45% of studies and neutral effects in 52%, with only one negative subgroup result](../claims/pa-interventions-45-percent-positive-math.md) [~W]
+- [The evidence base for youth physical activity effects shows sample, geographical and publication bias, with few adolescent, brain-imaging, or South American and African studies](../claims/pa-research-gaps-adolescents-geography-bias.md) [~W]
+- [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](../claims/classroom-physical-activity-no-effect-overall-pa.md) [~W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

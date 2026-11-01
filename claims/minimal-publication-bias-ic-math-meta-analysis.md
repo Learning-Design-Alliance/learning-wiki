@@ -45,6 +45,7 @@ Publication bias assessment using contour-enhanced funnel plots, Robust Bayesian
 
 
 ## Related Claims
+
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
@@ -55,3 +56,4 @@ Publication bias assessment using contour-enhanced funnel plots, Robust Bayesian
 - Publication bias does not threaten the pooled effect estimates — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
+- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

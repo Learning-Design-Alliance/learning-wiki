@@ -63,7 +63,9 @@ Subgroup analysis (Table 3) classified studies by teacher sameness, examination 
 
 
 ## Related Claims
+
 - [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL improves total cell biology examination scores compared with LBL in Chinese medical education (pooled SMD 0.89)](pbl-beats-lbl-total-exam-scores-cell-biology.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [Same-teacher subgroups show no heterogeneity while different-teacher subgroups are highly heterogeneous (I2 = 96.4%)](same-teacher-subgroup-homogeneous-different-teacher-heterogeneous.md) — related
+- [Student expertise level and course type explain heterogeneity in PBL+LBL versus LBL effects](expertise-and-course-type-heterogeneity-pbl-lbl.md)

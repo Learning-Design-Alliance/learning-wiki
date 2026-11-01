@@ -51,6 +51,7 @@ The review recommends integrating cost-effective simulation into pediatric MIS t
 ## Related Strategies
 
 - [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
+- [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 
 ## Examples
 -

@@ -64,9 +64,11 @@ Umbrella review synthesis: three reviews (13%) reported on student preferences f
 
 
 ## Related Claims
+
 - [Most studies report positive student satisfaction with TBL in clinical disciplines, but firm conclusions are limited by uncontrolled designs](tbl-clinical-student-satisfaction-positive-limited-comparators.md) — related
 - [Faculty experience an initial workload increase with TBL but generally hold positive attitudes, while faculty development is limited](tbl-faculty-workload-development-limited.md) — related
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — related
 - [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](tbl-exam-scores-higher-than-lecture-two-studies.md) — a narrower finding that bears on this claim
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — possibly the same claim (merge candidate)
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
+- [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)

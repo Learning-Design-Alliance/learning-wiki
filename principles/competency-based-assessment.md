@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (11 for, 30 mixed, 2 against) · 43 studies (9 theoretical, 8 causal, 8 review, 8 design, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 43 report an effect size · 38 claims rest on one study
+> **Evidence** · 44 claims (11 for, 31 mixed, 2 against) · 44 studies (9 theoretical, 8 causal, 8 review, 8 design, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 44 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](../claims/epa-assessment-tools-validation-gap.md) [~W]
 - [Rubric application boosts student performance and skill acquisition across dental disciplines](../claims/rubrics-boost-student-performance-skill-acquisition.md) [+W]
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](../claims/calm-weak-kappa-045-single-study.md) [~W]
+- [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

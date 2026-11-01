@@ -65,6 +65,7 @@ Descriptive survey results from the same eight-participant pilot: understanding,
 
 
 ## Related Claims
+
 - [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](lea-simulation-evaluation-results.md) — related
 - [Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty](simulation-overestimated-tutor-adaptiveness.md) — related
 - [A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify](quiz-repetition-bug-simulation-blind-spot.md) — related
@@ -72,3 +73,4 @@ Descriptive survey results from the same eight-participant pilot: understanding,
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](pilot-students-perceive-rag-responses-course-aligned.md) — related
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related
+- [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)

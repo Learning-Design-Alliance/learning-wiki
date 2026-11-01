@@ -45,8 +45,10 @@ Review synthesis of validity evidence across included studies. The review report
 
 
 ## Related Claims
+
 - [Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions](dp-grades-uncorrelated-with-project-grades.md) — related
 - Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — related
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related
 - [Structured viva shows positive significant correlations with standard assessment tools (MCQs, OSCE, structured theory exam) while traditional viva does not correlate significantly with the structured theory exam](structured-viva-validity-correlations-standard-tools.md) — a narrower finding that bears on this claim
+- [Traditional interview scores show modest predictive validity: average observed correlation ra = .15 and average corrected validity rac = .29 across 106 published validity coefficients](interview-corrected-validity-029.md)

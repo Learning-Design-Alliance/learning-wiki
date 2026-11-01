@@ -41,7 +41,8 @@ To strengthen statistical power and precision in evaluating differentiated PD ef
 - [Growth patterns in LSVC differed by career stage: teachers with over 10 years of experience showed significant growth across all measured areas while novice teachers showed no statistically significant practice change](../claims/lsvc-differential-growth-by-career-stage.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve robustness of color-effect research through statistical power, open practices, and multi-lab collaborations](color-research-power-open-practices-strategy.md)
 
 ## Examples
 -

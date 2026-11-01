@@ -45,6 +45,7 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 
 
 ## Related Claims
+
 - Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — related
 - No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I — related
@@ -55,3 +56,5 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
+- [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md)
+- [Most included studies had serious limitations, with only 11 of 44 reporting power calculations](risk-of-bias-and-power-reporting-in-pa-ap-studies.md)

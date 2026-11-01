@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (17 for, 19 mixed, 1 against) · 40 studies (12 causal, 8 review, 7 quant-synthesis, 7 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 40 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (17 for, 20 mixed, 1 against) · 41 studies (12 causal, 8 review, 7 quant-synthesis, 7 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 33 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -86,6 +86,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Appropriate challenges or stressors that increase cortisol concentration to an attentional level without provoking strong promotion-focused negative emotions should be considered when designing games aimed at teaching creativity](../claims/appropriate-stressors-game-design-creativity.md) [~W]
 - [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](../claims/vr-practice-sessions-reduce-state-anxiety.md) [+W]
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](../claims/academic-emotion-effect-heterogeneity-high.md) [~W]
+- [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](../claims/icare-stress-training-reduced-caregiver-stress.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

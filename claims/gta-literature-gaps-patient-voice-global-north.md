@@ -46,6 +46,7 @@ Descriptive findings of the scoping review of 83 sources: 44 from North America,
 
 
 ## Related Claims
+
 - [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related
 - [GTA programmes raise ethical concerns about GTA well-being and labour, yet structured programmes can safeguard well-being and are framed as more ethical than historical practices](gta-ethical-tensions-wellbeing-and-safeguards.md) — related
 - [Financial demands are a key barrier to GTA implementation, but cost-effectiveness improves when faculty involvement is reduced and value is assessed over a career trajectory](gta-financial-barriers-cost-effectiveness.md) — related
@@ -61,3 +62,4 @@ Descriptive findings of the scoping review of 83 sources: 44 from North America,
 - [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
 - [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related
+- [Only 5% of included papers reported engaging patients in educational design and only 7% reported a patient-centred theoretical perspective](patient-involvement-in-communication-education-design-rare.md)

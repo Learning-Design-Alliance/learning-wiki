@@ -78,11 +78,13 @@ Peer mediation operationalizes [Social Learning Theory](../theories/social-learn
 6. Review program data (referral rates, agreement durability, suspensions) with staff each term
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — reduces the frequency of peer conflict by structuring positive interdependence, complementing mediation's reactive role
 - [Restorative approaches](../patterns/collaborative-evaluation.md) — alternative conflict-response frame focused on repairing harm rather than negotiating interests
 - [acting-role-play](acting-role-play.md) — the primary training method for building mediator fluency before live cases
 - [active_listening](active-listening.md) — the core mediator skill; paraphrasing and summarizing drive the protocol
 - [class-discussion](../elements/class-discussion.md) — related structured-talk format, but without the neutral-third-party role
+- [Implement school-wide policy action to address weight-based teasing and bullying](school-wide-policy-weight-based-teasing.md)
 
 ## Examples
 - **Comprehensive school-wide programs** (e.g., the Community Boards program, San Francisco, https://communityboards.org) train student mediators and coordinate referrals school-wide; the model most heavily represented in the research base

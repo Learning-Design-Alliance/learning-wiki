@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (34 for, 29 mixed, 7 against) · 53 studies (12 causal, 12 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 53 report an effect size · 66 claims rest on one study
+> **Evidence** · 71 claims (35 for, 29 mixed, 7 against) · 54 studies (12 causal, 12 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 54 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Positive feedback from experienced surgeons during XR-based surgical training enhances learning (social influence)](../claims/xr-social-influence-surgeon-feedback.md) [+W]
 - [Half of the reviewed research education programs included a mentoring component and programs were often multifaceted with experiential learning](../claims/research-education-programs-mentoring-experiential.md) [+W]
 - [Use of a previously validated coaching model yields significantly higher change scores but not significantly higher final performance scores](../claims/validated-coaching-model-change-scores-only.md) [~W]
+- [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

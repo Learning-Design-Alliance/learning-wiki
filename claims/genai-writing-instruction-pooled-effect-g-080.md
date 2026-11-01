@@ -63,6 +63,7 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 
 
 ## Related Claims
+
 - Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Sample size category (21–40 vs. >40 participants) does not significantly moderate GenAI writing effects](sample-size-nonsignificant-moderator-genai-writing.md) — related
@@ -76,3 +77,4 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 - [Feedback produces a moderate, statistically significant positive overall effect on academic achievement (Hedges' g = .40)](feedback-moderate-positive-overall-effect-achievement.md) — related
 - Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — related
+- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

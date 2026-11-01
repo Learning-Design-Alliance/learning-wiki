@@ -45,7 +45,9 @@ Subgroup meta-analysis of six clinical medicine studies (327 cases, 327 controls
 
 
 ## Related Claims
+
 - [In the five-year school system subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 1.571)](pbl-five-year-system-subgroup-scores.md) — related
 - [PBL is associated with significantly higher total medical psychology examination scores than traditional lecture-based teaching in China (Hedges' g = 1.510)](pbl-higher-medical-psychology-scores-china.md) — related
 - [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
+- [PBL score advantages hold in both probationer and intern subgroups, with larger effects among probationers](pbl-subgroup-probationer-intern-radiology.md)

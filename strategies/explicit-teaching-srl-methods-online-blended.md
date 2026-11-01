@@ -44,6 +44,7 @@ The article recommends that educators give students structured guidance on regul
 - [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
 - [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
 - [Universities should provide SRL training and consider reducing the length of breaks between lectures, using web-based instruction to give flexible attendance](institutions-srl-training-shorter-breaks-web-instruction.md)
+- [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](dual-approach-srl-clinical-context.md)
 
 ## Examples
 -

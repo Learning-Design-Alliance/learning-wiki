@@ -45,6 +45,7 @@ The same pooled meta-analysis reported very high heterogeneity across included s
 
 
 ## Related Claims
+
 - [EdTech's direct effect on student attitudes is small and non-significant (d = 0.1308), but attitudes correlate significantly with attainment (r = 0.694)](edtech-attitudes-non-significant-but-correlate-attainment.md) — a narrower finding that bears on this claim
 - [EdTech interventions significantly improve student motivation (d = 0.375), but motivation does not significantly correlate with attainment (r = 0.608, p = 0.2763)](edtech-motivation-effect-no-attainment-correlation.md) — related
 - [Intensive mathematics interventions for K-3 students with or at risk for MD yield an overall pooled mean effect size of β = 0.61 with substantial heterogeneity](pooled-effect-early-math-interventions.md) — a broader claim this one bears on
@@ -53,3 +54,4 @@ The same pooled meta-analysis reported very high heterogeneity across included s
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — related
+- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

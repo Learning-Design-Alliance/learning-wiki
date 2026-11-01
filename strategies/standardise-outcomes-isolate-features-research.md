@@ -43,6 +43,7 @@ The review's forward‐looking recommendation is that "future research should in
 ## Related Strategies
 
 - [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
+- [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 
 ## Examples
 -

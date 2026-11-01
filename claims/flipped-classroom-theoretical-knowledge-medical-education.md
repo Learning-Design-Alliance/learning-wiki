@@ -64,6 +64,7 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 
 
 ## Related Claims
+
 - [Flipped classroom increases learning interest (pooled RR 1.42) but this pooled estimate shows significant publication bias](fc-learning-interest-rr-142-with-publication-bias.md) — related
 - [Flipped classrooms are associated with improved case analysis/problem-solving ability in medical education (pooled SMD = 1.50), though statistical significance was not retained in all leave-one-out analyses](flipped-classroom-case-analysis-problem-solving.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
@@ -88,3 +89,4 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — related
 - [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
+- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

@@ -67,6 +67,7 @@ Same under-18 primary NMA: "Nonlinear ranked second (P-score = 0.812; SMD = 1.24
 - [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [In the adolescent subgroup network, Functional games had the highest P-score (0.830; SMD 2.568), but rankings differed by age stratum and inconsistency remained significant](adolescent-subgroup-functional-games-highest.md) — related
 - [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](cooperative-rank-single-study-artifact.md) — related
 - The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039 — related
@@ -74,3 +75,4 @@ Same under-18 primary NMA: "Nonlinear ranked second (P-score = 0.812; SMD = 1.24
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](traditional-null-versus-control-no-universal-superiority.md) — related
 - [The treatment ordering is sensitive to outcome definition, participant age, and individual studies, including the reconstructed Orangi effect](ranking-sensitive-to-outcome-age-and-studies.md) — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
+- [TGfU studies generally report positive results for game performance and understanding, but reveal weaknesses in the social domain relative to other models](tgfu-positive-results-with-social-domain-weakness.md)

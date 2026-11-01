@@ -13,7 +13,7 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 15 studies (5 causal, 3 quant-synthesis, 3 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 16 studies (5 causal, 3 quant-synthesis, 3 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 16 report an effect size · 10 claims rest on one study
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).
@@ -62,6 +62,8 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - [Students experience challenges across all four aspects of transdisciplinary learning for sustainability, including unsettling reflection on sustainability issues, tensions with non-academic partners, disciplinary communication difficulties, and struggles with multiple perspectives](../claims/td-learning-four-aspect-challenges.md) [~W]
 - [The social perspective taking induction increased treatment teachers' effort to understand their focal students (Cohen's d = 0.51)](../claims/spt-induction-raises-teacher-effort.md) [+M] — attached 2026-10-23 from Gehlbach et al. (2021), which proposed "Six-step social perspective taking induction for teachers with a focal student"; tests this page's relationship.
 - [Multi-perspective, tutor-created trails were the most popular, and students valued hearing multiple views of the same object](../claims/multi-perspective-trails-popular.md) [+W]
+- [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](../claims/nm-qualitative-evaluations-competency-impacts.md) [+W]
+- [Among well-described quantitative NM programme evaluations, statistically significant impacts were reported for increased empathy (three programmes) and increased perspective-taking/reflection (one programme)](../claims/nm-significant-gains-empathy-perspective-taking.md) [+W]
 
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints

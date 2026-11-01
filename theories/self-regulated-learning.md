@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 252 claims (114 for, 126 mixed, 12 against) · 187 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 187 report an effect size · 236 claims rest on one study
+> **Evidence** · 254 claims (114 for, 128 mixed, 12 against) · 188 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 188 report an effect size · 238 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -299,6 +299,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](../claims/integrated-training-no-self-assessment-accuracy-gain.md) [-W]
 - [Less able and less knowledgeable learners are ineffective at selecting challenging tasks and seeking support](../claims/less-able-learners-ineffective-task-selection.md) [-W]
 - [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
+- [Clinical students' SRL behaviour falls into five distinct patterns, all showing little-planned SRL behaviour and limited goal setting](../claims/five-patterns-clinical-srl-behavior.md) [~W]
+- [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [~W]
 
 ## The evidence by question
 
@@ -333,6 +335,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Newell-inspired time-scale taxonomy for aligning SRL measurement to theorized process duration](../research-methods/newell-inspired-time-scale-taxonomy-for-aligning-srl-measurement-to-theorized-process-dura.md)
 - [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](../strategies/srl-cycle-design-strategies-fc.md)
 - [Design online courses to fit learners' psychosocial characteristics and include social interaction, self-regulation, and frequent assessment](../strategies/online-course-design-psychosocial-fit.md)
+- [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](../strategies/dual-approach-srl-clinical-context.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

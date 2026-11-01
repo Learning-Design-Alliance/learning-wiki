@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (13 for, 4 mixed, 1 against) · 20 studies (6 qualitative, 5 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (14 for, 4 mixed, 1 against) · 21 studies (6 qualitative, 5 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 21 report an effect size · 17 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -49,6 +49,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Live direct social interaction during sign-language syntax learning produces native-like left inferior frontal gyrus activation that video viewing does not](../claims/live-interaction-native-like-lifg-sign-syntax.md) [+W] — attached 2026-10-26 from Ana Zappa et al. (2025), which proposed "Social L2 Learning (SL2) model: L2 learning in real-life or simulated social interaction, with context quality explaining L1–L2 differences"; tests this page's relationship.
 - [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](../claims/social-encoding-fmri-sts-tpj-hippocampus.md) [+W]
 - [L2 words learned via simulated social interaction are processed like L1 words, engaging right SMG rather than left middle frontal gyrus](../claims/social-video-l2-words-engage-right-smg-like-l1.md) [~W]
+- [Medical professionalism is discussed as learned through role models as part of the informal curriculum, with acceptable professional behavior mainly identified through observation](../claims/professionalism-learned-through-role-models-observation.md) [+W]
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

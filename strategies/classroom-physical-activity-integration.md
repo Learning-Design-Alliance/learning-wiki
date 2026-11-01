@@ -62,6 +62,7 @@ Short activity bouts acutely improve on-task attention and classroom behavior, p
 - [Brain Breaks](../strategies/brain-breaks.md) — the generic, non-content-linked variant
 - [Movement-Based Learning](../strategies/movement-based-learning.md) — fully embodied lesson designs
 - [Design physical activity interventions as continuous regular activity sustained over several weeks](continuous-regular-physical-activity-over-weeks.md)
+- [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 
 ## Examples
 - **TAKE 10!** (International Life Sciences Institute) — published curriculum embedding 10-minute activity bouts into academic lessons for grades K–5.

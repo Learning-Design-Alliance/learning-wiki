@@ -65,6 +65,8 @@ Methodological checks reported in the Results: the funnel plot showed symmetrica
 
 
 ## Related Claims
+
 - [Pooled good knowledge of palliative care among Ethiopian nurses is 45.57%, meaning more than half had poor knowledge](ethiopian-nurses-palliative-care-knowledge-pooled-45-57.md) — related
 - [Palliative care training is significantly associated with Ethiopian nurses' knowledge of palliative care (AOR = 4.64)](palliative-care-training-associated-with-nurse-knowledge-aor-4-64.md) — related
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
+- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

@@ -57,6 +57,7 @@ The review observes that PBL "is often combined with other teaching methods, suc
 
 - [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
 - [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
+- [Apply PBL selectively in Chinese radiology education, balancing its benefits against time and resource costs](pbl-selective-application-chinese-context.md)
 
 ## Examples
 -

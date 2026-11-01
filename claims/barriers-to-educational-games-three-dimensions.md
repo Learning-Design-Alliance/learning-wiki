@@ -45,9 +45,11 @@ The article reviews barriers to educational games along three named dimensions, 
 
 
 ## Related Claims
+
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — a broader claim this one bears on
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Ontology development and maintenance remained key research challenges blocking wide adoption of ontology-enhanced learning environments](ontology-development-maintenance-key-challenge.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Technology-based assessment innovations, including digital question banks, machine learning-assisted systems, LMS-based assessments and game-based quizzes, are increasingly adopted in general chemistry assessment](digital-assessment-innovation-trend-general-chemistry.md) — related
+- [Public access to medical games is limited and no access standard exists](limited-public-access-medical-games.md)

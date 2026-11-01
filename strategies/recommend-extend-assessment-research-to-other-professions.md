@@ -50,6 +50,7 @@ The review recommends that research on tests of prescribing competence be extend
 
 - [Adopt structured reporting standards for prescribing assessment research including reliability, validity, cut scores and costs](recommend-structured-reporting-prescribing-assessment.md)
 - [Add situational judgement tests to prescribing competence assessment practices](recommend-situational-judgement-tests-prescribing.md)
+- [Change undergraduate clinical pharmacology and therapeutics education to improve the prescribing competencies of future doctors](reform-undergraduate-cpt-education-prescribing.md)
 
 ## Examples
 -
