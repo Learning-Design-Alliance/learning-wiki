@@ -50,3 +50,4 @@ A study of adaptive tutorial dialogues in EER-Tutor where dialogs are selected b
 - [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
 - [Theory-based feedback in EER-Tutor was more effective in supporting learning than the original designer-intuition feedback](theory-based-feedback-more-effective-eer-tutor.md) — related
+- [Interactive CAL tutorials produced significant learning outcomes compared to non-CAL users but were not superior to noninteractive CAL](interactive-cal-not-superior-to-noninteractive-cal.md) — related

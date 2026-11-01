@@ -70,6 +70,7 @@ Peer assessment operationalizes [Assessment for Learning](../principles/assessme
 - Two-Stage Peer Review — adds a revision-and-re-review cycle for formative depth
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 - [Use quality-control mechanisms (calibration, reputation, meta-reviewing, rejoinders) to improve peer-review value](quality-control-mechanisms-for-peer-review.md)
+- [Staged hybrid peer-grading pipeline: calibration and back-evaluation first, then consensus, then reputation, with a challenge mechanism](staged-hybrid-peer-grading-strategy.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a web system where students first evaluate calibration samples against expert judgments, then review peers' writing in STEM courses.

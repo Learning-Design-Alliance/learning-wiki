@@ -51,3 +51,4 @@ Comparative study (Høegh-Larsen et al., BMC Nursing, cited in review) comparing
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
 - [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](structured-pre-briefing-supports-clinical-judgment.md) — related
+- [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](self-rated-understanding-overestimates-ability.md) — related

@@ -46,3 +46,4 @@ Definitional taxonomy from the review's thematic analysis of the 92-study sample
 
 ## Related Claims
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [Environmental design is the most used presence-enhancement method (89.7% of studies), followed by multimodal sensory and avatar design (57.7% each)](environment-design-dominant-presence-method.md) — related

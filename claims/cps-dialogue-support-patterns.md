@@ -47,3 +47,4 @@ Analysis of CPS group online discussion turns, coded into providing support, req
 ## Related Claims
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
 - [Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps](cps-outperformed-ips-problem-solving-gap.md) — related
+- [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](reminders-most-common-dialogue-support.md) — related

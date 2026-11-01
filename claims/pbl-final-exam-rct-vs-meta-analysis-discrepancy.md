@@ -71,3 +71,4 @@ Meta-analysis of 8 randomized controlled trials involving 1819 students, analyze
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
+- [No difference between PBL and traditional groups in subjective evaluations of pharmacy students](pbl-no-difference-subjective-evaluations.md) — related

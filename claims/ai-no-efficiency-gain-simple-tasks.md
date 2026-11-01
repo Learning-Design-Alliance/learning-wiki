@@ -79,3 +79,4 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 - [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](ai-expected-faster-than-human-help.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
 - [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related
+- [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related

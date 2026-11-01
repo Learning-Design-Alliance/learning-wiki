@@ -28,6 +28,7 @@ REC-CBM is a research dataset release that adds rubric-aligned, expert-validated
 ## Related Products and Programmes
 
 - [SciEntsBank](scientsbank.md)
+- [ASAP-SAS corpus of short-answer scoring prompts and rubrics](asap-sas-corpus-of-short-answer-scoring-prompts-and-rubrics.md)
 
 ## Key Sources
 - Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, Ying-Chih Chen, Huan Liu. (2025). REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading. https://github.com/scott-f-zhang/REC-CBM

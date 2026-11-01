@@ -59,8 +59,10 @@ The strategy rests on the premise that unprocessed emotion consumes the attentio
 6. **Return to the situation.** With tension released, revisit the mistake calmly and honestly to extract what can be learned.
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — a lightweight, repeatable version of step 2 suitable for group settings
 - [Act It Out](../elements/act-it-out.md) — role-play as the vehicle for practicing emotional expression safely
+- [Create a non-judgmental, safe environment for trainees to disclose and discuss medical errors](safe-environment-error-disclosure-trainees.md)
 
 ## Examples
 - **Personal expressive journaling** — writing for 15–20 minutes about a professional mistake and its emotional impact, following Pennebaker's expressive writing protocol, repeated over several sessions.

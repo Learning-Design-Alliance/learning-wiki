@@ -69,3 +69,4 @@ Authors' interpretive argument in the framework section, not a tested result: th
 - [Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters](follow-up-contact-strongest-adoption-success-factor.md) — related
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
 - [Practitioners recommended replacing quiz-style comprehension checks with interactive follow-up activities and separate behavior tracking](comprehension-separate-from-behavior-tracking.md) — related
+- [Screening alone does not improve depression outcomes without organizational changes](screening-alone-no-outcome-improvement.md) — a narrower finding that bears on this claim

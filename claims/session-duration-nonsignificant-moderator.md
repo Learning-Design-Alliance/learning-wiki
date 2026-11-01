@@ -71,3 +71,4 @@ Descriptive contrast between the two most common duration types in Table 3 (60 m
 - [Simulations shorter than 800 minutes show larger effects than simulations of 800 minutes or more](simulation-duration-under-800-minutes-larger-effects.md) — related
 - [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related
 - [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — related
+- [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related

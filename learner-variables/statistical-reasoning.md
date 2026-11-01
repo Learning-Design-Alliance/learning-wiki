@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (15 show a difference, 4 mixed, 1 no difference) · 9 studies (4 causal, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 9 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (19 show a difference, 4 mixed, 1 no difference) · 11 studies (4 causal, 3 review, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 11 report an effect size · 24 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -58,6 +58,10 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](../claims/diagram-decoration-graph-as-picture-risk.md) [+W] — instruction changes it
 - [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](../claims/clair-no-effect-deepening-reasoning.md) [-M] — instruction changes it
 - [Reasoning test performance was significantly lower in the red condition (Δ = -0.34), but the omnibus test across cognitive measures was not significant](../claims/red-color-reasoning-tests-effect.md) [+W] — instruction changes it
+- [Adding a brief video case improved data exploration, theory building, and theory evaluation in postgraduate PBL](../claims/video-case-improves-cognitive-metacognitive-processes.md) [+M] — instruction changes it
+- [Explicit graphing instruction developed graphing skills while all intervention conditions facilitated conceptual knowledge acquisition in one undergraduate comparison](../claims/explicit-instruction-developed-graphing-skills.md) [+M] — instruction changes it
+- [Graphing instruction in K-12 STEM education is beneficial for student learning, improving both graph construction and graph interpretation skills](../claims/graphing-instruction-improves-construction-and-interpretation.md) [+M] — instruction changes it
+- [Manual graphing practice based on experimental data outperformed provision of computer-constructed graphs in one comparison study](../claims/manual-graphing-outperformed-computer-constructed-graphs.md) [+M] — instruction changes it
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

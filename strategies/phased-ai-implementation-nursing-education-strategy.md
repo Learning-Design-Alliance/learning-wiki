@@ -48,6 +48,7 @@ The review recommends a staged adoption pathway for AI in nursing education. It 
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 - [Four-phase development roadmap for creating an SRL-Scaffolding Architecture](four-phase-roadmap-srl-scaffolding-architecture.md)
 - [Staged mixed model integrating AI across orthopaedic training progression](staged-mixed-model-ai-ortho-training.md)
+- [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 
 ## Examples
 -

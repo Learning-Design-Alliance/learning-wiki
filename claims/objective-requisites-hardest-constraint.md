@@ -48,3 +48,4 @@ Cumulative distribution analysis of the four fitness metrics across GA runs (Fig
 - [Knowledge decay can be compensated with a thoughtful sequence of courses](decay-compensated-by-sequencing.md) — related
 - [A genetic algorithm can find near-faultless curricula for full-scale FIC/DK-P instances despite intractability of exact methods](ga-near-faultless-curricula-ficdkp.md) — related
 - [Problem instance variability strongly affects FIC/DK-P solvability](ficdkp-instance-dependency.md) — related
+- [Rating-based relevance is the most popular target metric in educational recommender systems, with only 12 of 28 reviewed papers optimizing learning-centered metrics](ers-rating-relevance-dominant-target-metric.md) — related

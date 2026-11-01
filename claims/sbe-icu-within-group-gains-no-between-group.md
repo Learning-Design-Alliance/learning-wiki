@@ -66,3 +66,5 @@ This single-blind, parallel-group randomized controlled trial randomized 72 crit
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md)
 - [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — related
+- [Most CBL interventions report positive effects on knowledge, attitudes, and skills, but studies finding no positive effect were often randomized controlled trials](cbl-outcomes-mostly-positive-rcts-often-null.md) — related
+- [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](simulation-beats-seminar-cpb-weaning-transfer.md) — related

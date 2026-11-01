@@ -55,6 +55,7 @@ The article identifies conditions for responsible assessment: algorithmic bias m
 - [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Mitigation strategies pairing each AI-DSS challenge with a targeted countermeasure](ai-dss-challenge-mitigation-strategies.md)
+- [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 
 ## Examples
 -

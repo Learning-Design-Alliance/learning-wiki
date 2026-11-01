@@ -51,3 +51,4 @@ Thematic analysis of RQ 3 data from included studies; the review reports that "T
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
 - [Feedback and validation, including feedback on actions taken and provision of examples and explanations, are perceived as enabling critical thinking development in SBL using technology](feedback-validation-enabler-sbl.md) — related
 - [Nursing students perceived that SBL using technology can enhance critical thinking development through opportunities for meta-cognition and reflection](metacognition-net-benefits-sbl.md) — related
+- [Discussion boards are perceived as deepening thinking, facilitating reflection, and enabling learning from multiple perspectives](discussion-boards-perceived-deepening-thinking-reflection.md) — related

@@ -53,3 +53,4 @@ Conceptual review claim, attributed to the recent review by Scheiter et al. (202
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — a narrower finding that bears on this claim
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — a narrower finding that bears on this claim
 - [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — related
+- [LAD evaluation methods are predominantly traditional, relying on surveys, quizzes and crude proxies prone to subjectivity bias](lad-traditional-evaluation-methods.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (19 for, 22 mixed, 2 against) · 36 studies (7 quant-synthesis, 7 review, 5 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 3 of 36 report an effect size · 42 claims rest on one study
+> **Evidence** · 47 claims (20 for, 25 mixed, 2 against) · 39 studies (9 review, 7 quant-synthesis, 6 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 3 of 39 report an effect size · 46 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -79,6 +79,10 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Caregivers valued e-learning for flexibility, accessibility, personalization, user-friendliness, and cost-effectiveness](../claims/e-learning-caregiver-benefits-flexibility-accessibility.md) [+W]
 - [Digital education on clinical practice guidelines produces little or no change in healthcare professionals' behaviour, except email-delivered spaced education](../claims/digital-education-guidelines-behaviour-null-except-spaced.md) [~W]
 - [A single retention-test comparison found online learning more effective than offline learning (SMD = 4.64)](../claims/retention-test-online-favored-single-study.md) [+W]
+- [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](../claims/digital-asthma-tools-patient-preference.md) [~W]
+- [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](../claims/online-ebm-course-domain-gains.md) [~W]
+- [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](../claims/other-technologies-mixed-null-effects.md) [~W]
+- [Only 2 of the 20 included studies adopted an online approach to teach EBP, and both concluded that technology to teach research skills can facilitate EBP teaching](../claims/online-ebp-teaching-in-infancy-two-studies.md) [+W]
 
 ## Related Elements
 

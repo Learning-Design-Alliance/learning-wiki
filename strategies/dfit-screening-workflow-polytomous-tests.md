@@ -48,6 +48,7 @@ The article outlines a practical workflow for test developers: estimate item par
 ## Related Strategies
 
 - [Use a decision template weighing assumption fit, DIF uniformity, simultaneity, significance testing, and ease of use when choosing a DIF method for polytomous performance assessments](dif-method-selection-template-performance-assessments.md)
+- [Use differential item functioning analysis and psychometric equating studies to validate FCI gender fairness](dif-analysis-fci-gender-fairness.md)
 
 ## Examples
 -

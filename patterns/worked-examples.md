@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (11 for, 18 mixed, 2 against) · 26 studies (12 causal, 6 review, 4 theoretical, 3 design, 1 quant-synthesis), `q1`–`q3` · 1 of 26 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (12 for, 19 mixed, 2 against) · 27 studies (12 causal, 6 review, 4 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 27 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -119,6 +119,8 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](../claims/worked-examples-better-than-problem-solving-cited.md) [+W]
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](../claims/ask-elle-student-satisfaction-3-4-of-5.md) [~W]
 - [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
+- [MetaForest identifies worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement as the most important moderators](../claims/metaforest-top-moderators-its-effects.md) [~M]
+- [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](../claims/its-on-demand-features-significant-effects.md) [+W]
 
 ## Key Sources
 

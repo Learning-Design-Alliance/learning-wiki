@@ -48,4 +48,5 @@ Review's account of the Gon et al. randomized crossover study (N = 80 pathology 
 - [Blended WhatsApp-plus-lecture conditions produced significantly higher knowledge outcomes than lectures alone, with no difference between two blended configurations](blended-whatsapp-lectures-higher-than-lectures-alone.md) — related
 - [Moderated WhatsApp groups increased professional knowledge among newly graduated nurses relative to an untreated control group](moderated-whatsapp-groups-higher-knowledge-nurses.md) — related
 - [Moderated WhatsApp groups reduced feelings of professional isolation among newly graduated nurses](moderated-whatsapp-reduced-professional-isolation.md) — related
+- [An EBP-structured case conference produced significantly higher post-intervention EBP knowledge scores than a weekly didactic lecture among final-year medical students](case-conference-beat-didactic-lecture-ebp-knowledge.md) — related
 

@@ -50,3 +50,5 @@ The review's narrative synthesis of checklist studies (20 studies used task-spec
 - [The 105 included studies of orthopaedic technical-skills assessment were predominantly conducted in simulated settings with 2,088 resident participants](orthopaedic-skills-assessment-review-105-studies-mostly-simulated.md)
 - [Global rating scales discriminate between performance levels without a ceiling effect, making them useful for high-stakes summative assessment of advanced residents](global-rating-scales-summative-advanced-residents.md) — related
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
+- [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related
+- [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — reports the opposite

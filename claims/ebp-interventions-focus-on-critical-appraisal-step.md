@@ -49,3 +49,4 @@ Systematic review of 85 controlled studies of EBP educational interventions, wit
 
 - [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](few-high-quality-ebp-instruments-used.md)
 - [Educational interventions significantly improve nurse leaders' EBP implementation leadership (SMD = 0.74)](ebp-education-improves-nurse-leader-implementation-leadership.md) — related
+- [Interventions covered different steps of the EBP domains: research question, sources of evidence, evidence appraisal, and implementation into practice](ebp-domain-steps-covered-by-interventions.md) — a broader claim this one bears on

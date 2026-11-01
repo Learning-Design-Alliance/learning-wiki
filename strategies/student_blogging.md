@@ -62,9 +62,11 @@ Blogging works because it combines generative writing, spaced practice, and auth
 7. **Close the loop.** Periodically surface blog insights in [Class Discussion](../elements/class-discussion.md) or seminars so that reflection feeds back into instruction.
 
 ## Related Strategies
+
 - [Learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+W] — explaining to peers, as in blog commenting, produces tutor-learning benefits
 - [Annotating](../principles/annotating.md) — structured commenting on peers' posts is a form of social annotation
 - [Check-ins](../elements/check-in.md) — short reflective posts can double as low-stakes formative check-ins
+- [Instructor-managed blog activities recommended for maximizing blog learning and teaching potential](instructor-managed-blog-activities-recommendations.md)
 
 ## Examples
 - **Edublogs (https://edublogs.org)** — hosted class and student blogs widely used in K–12, with teacher moderation and privacy controls

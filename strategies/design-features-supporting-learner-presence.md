@@ -46,6 +46,7 @@ Based on interview and survey findings, the authors recommend course designs tha
 ## Related Strategies
 
 - [Instructors apply chatbots to support goal setting and social presence in fully online activities](instructor-strategy-chatbots-goal-setting-social-presence.md)
+- [Instructor-managed blog activities recommended for maximizing blog learning and teaching potential](instructor-managed-blog-activities-recommendations.md)
 
 ## Examples
 -

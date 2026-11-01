@@ -68,3 +68,4 @@ Same review-narrated trial: competency scores significantly higher at 3 and 12 m
 - [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — a broader claim this one bears on
 - [Concentrated high-duration virtual reality training (>30 h over several weeks) was associated with reduced complication rates, while spaced-out simulator sessions were not](concentrated-vrs-training-reduces-complications.md) — related
 - [Supervised surgery studies on actual patients were all observational, reported high surgical volumes, and showed higher complication rates than VRS studies](supervised-surgery-studies-observational-high-complications.md) — related
+- [Only one study linked physicians' prior training site to later patient outcomes, ranking programs by graduates' complication rates](single-study-training-background-patient-outcomes.md) — related

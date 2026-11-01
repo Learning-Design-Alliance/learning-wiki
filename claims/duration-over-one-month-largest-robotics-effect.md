@@ -56,3 +56,4 @@ Ad hoc subgroup analysis within the non-significant intervention-duration modera
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
 - [Courses shorter than one semester showed larger synchronous-learning effect sizes than semester-or-longer courses](course-duration-moderator-sol.md) — related
+- [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related

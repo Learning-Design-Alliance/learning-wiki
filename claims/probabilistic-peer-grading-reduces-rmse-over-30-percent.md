@@ -48,3 +48,4 @@ Simulation-based evaluation on two Coursera HCI offerings (63,199 peer grades to
 ## Related Claims
 - [Estimating each grader's bias alone accounts for 95% of the RMSE reduction, while modeling grader reliability contributes little with only four grades per student](grader-bias-estimation-dominates-accuracy-gains.md) — related
 - [Including grader bias and reliability as features improves prediction of future course participation from AUC 0.93 to 0.98, capturing an engagement dimension missed by assignment grade](grader-bias-reliability-predict-future-participation.md) — related
+- [Consensus-based reviewer weighting reduces peer-grading errors and tolerates bias in noisy environments](consensus-weighting-improves-peer-grading-accuracy.md) — related

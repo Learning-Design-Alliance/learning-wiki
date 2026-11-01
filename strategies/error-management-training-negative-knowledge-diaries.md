@@ -48,6 +48,7 @@ The article recommends that "vocational education programs should give trainees 
 
 - [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](practice-designing-deliberately-invalid-experiments-strategy.md)
 - [Make reflection on students' goal preferences a recurring element of the curriculum to support cooperative learning](recurring-goal-reflection-in-curriculum.md)
+- [Create a non-judgmental, safe environment for trainees to disclose and discuss medical errors](safe-environment-error-disclosure-trainees.md)
 
 ## Examples
 -

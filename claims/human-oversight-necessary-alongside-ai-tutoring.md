@@ -69,3 +69,4 @@ Observation from the study's thematic analysis: occasional human intervention wa
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related
+- [Models trained or prompted with high-quality review corpora produce more consistent, personalized code-review critiques, with human-in-the-loop processes remaining essential](code-review-corpus-quality.md) — related

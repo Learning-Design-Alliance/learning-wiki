@@ -44,7 +44,8 @@ The review's conclusions set out research and evaluation priorities for in-situ 
 - [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](../claims/iss-frequency-matches-task-complexity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Evaluate the frequency of EBP intervention delivery, considering continuous or repeated interventions to sustain student comfort with EBP](repeated-delivery-frequency-research-strategy.md)
 
 ## Examples
 -

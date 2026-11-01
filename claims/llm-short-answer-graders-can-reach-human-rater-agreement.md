@@ -67,3 +67,4 @@ A shipped LLM grading prompt scored public, teacher-graded corpora, and its agre
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — a narrower finding that bears on this claim
 - [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related
+- [Human-perceived item difficulty (human-human QWK) does not reliably predict LLM scoring difficulty on the same items](human-difficulty-does-not-predict-llm-difficulty.md) — related

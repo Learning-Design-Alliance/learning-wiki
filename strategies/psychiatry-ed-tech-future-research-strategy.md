@@ -58,6 +58,8 @@ The review recommends that future research focus on large-scale, well-controlled
 - [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Evaluate interactive, simulation-based, spaced and mobile forms of digital education for guideline adoption, reporting skills, behaviour, patient and cost outcomes](strategy-future-digital-education-guidelines-research.md)
+- [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
+- [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
 
 ## Examples
 -

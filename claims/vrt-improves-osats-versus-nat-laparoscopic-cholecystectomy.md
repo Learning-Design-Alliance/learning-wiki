@@ -70,3 +70,5 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
+- [Simulation-based training improves global rating scores in laparoscopic surgery](simulation-training-improves-global-ratings.md) — a broader claim this one bears on
+- [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related

@@ -51,3 +51,4 @@ Chi-squared tests on sensory dominance (the modality with faster unisensory RTs)
 - [Very preterm schoolchildren show generally slower and more variable reaction times than full-term children across auditory, visual, and multisensory detection conditions](vpt-slower-more-variable-rt-simple-detection.md) — related
 - [Multisensory facilitation in full-term but not very preterm schoolchildren significantly violated the race model, indicating integrative processes beyond probability summation in FT children only](race-model-violation-ft-not-vpt.md) — related
 - [Multisensory gain in very preterm schoolchildren does not correlate with standardized cognitive or clinical measures](no-correlation-multisensory-gain-cognition-vpt.md) — related
+- [Visual perception dominates multimodal sensory design (98.7%), with auditory (39.7%), kinesthetic (29.5%), tactile (19.2%), and olfactory (1.3%) far less common](visual-perception-dominates-sensory-design.md) — related

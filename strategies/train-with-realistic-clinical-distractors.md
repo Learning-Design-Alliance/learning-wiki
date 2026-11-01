@@ -50,6 +50,7 @@ The review recommends that simulation training include realistic clinical distra
 ## Related Strategies
 
 - [Future research should explore emotion management strategies and exposure to emotionally evocative scenarios to support clinician performance and well-being](future-research-emotion-management-strategies.md)
+- [Use simulation-based medical education as an integral part of the medication reconciliation curriculum](simulation-based-medical-education-medication-reconciliation.md)
 
 ## Examples
 -

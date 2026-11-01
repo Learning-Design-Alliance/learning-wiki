@@ -41,6 +41,7 @@ The review recommends that "future research needs to integrate quantitative and 
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
+- [Use both qualitative and quantitative research designs, including longitudinal follow-up, to clarify which aspects of residency training best prepare doctors](mixed-methods-longitudinal-residency-outcomes-research.md)
 
 ## Examples
 -

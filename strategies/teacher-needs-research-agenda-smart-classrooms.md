@@ -49,6 +49,7 @@ The article's forward-looking contribution is a design and policy recommendation
 ## Related Strategies
 
 - [Investigate the cognitive needs of students in CoSIL and integrate content, CoSIL, and guidance tools to advance personalization](investigate-cognitive-needs-integrate-content-cosil-guidance.md)
+- [Prioritize teacher-centered AI implementations that enhance rather than replace human expertise](teacher-centered-ai-implementation-priority.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ The review reports, citing Skulmowski & Rey (2021), that "the benefits of realis
 - [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](realism-signaling-drastic-contrast.md) — related
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
+- [The main disadvantages of AR in physics teaching are software and hardware shortcomings (e.g., camera freeze, visualization delay) and extraneous cognitive load from attending to secondary details](ar-physics-disadvantages-technical-and-extraneous-load.md) — related

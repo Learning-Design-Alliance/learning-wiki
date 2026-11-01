@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (22 for, 15 mixed, 1 against) · 55 studies (25 causal, 13 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 55 report an effect size · 28 claims rest on one study
+> **Evidence** · 39 claims (23 for, 15 mixed, 1 against) · 56 studies (25 causal, 14 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 56 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](../claims/feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) [+W]
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](../claims/instructor-following-procedure-associated-competency-ethiopia.md) [+W]
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](../claims/steep-learning-curve-usg-pvc-nurses-attempts.md) [+W]
+- [Intraoperative feedback reduces procedure time and improves economy of movement in live cholecystectomy](../claims/feedback-cholecystectomy-time-economy.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

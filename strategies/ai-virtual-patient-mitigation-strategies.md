@@ -54,6 +54,7 @@ The review synthesizes implementable strategies for improving AI-generated virtu
 ## Related Strategies
 
 - [Gate sensitive simulated-patient content behind an accumulated-skill threshold with constraint-first prompting](avp-content-gating-strategy.md)
+- [Develop open, reusable, generalizable CBL platforms for specific learning contexts instead of building closed systems from scratch](reusable-open-cbl-platforms-strategy.md)
 
 ## Examples
 -

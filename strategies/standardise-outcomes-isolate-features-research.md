@@ -45,6 +45,7 @@ The review's forward‐looking recommendation is that "future research should in
 - [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 - [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
+- [Develop standardised delivery-quality assessment using a maximum of two scores (one communication, one content-delivery)](standardised-two-score-delivery-quality-assessment.md)
 
 ## Examples
 -

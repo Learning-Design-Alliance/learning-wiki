@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 21 studies (7 review, 5 quant-synthesis, 4 causal, 4 design, 1 qualitative), `q1`–`q4` · 6 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (12 for, 7 mixed, 2 against) · 23 studies (8 review, 6 quant-synthesis, 4 causal, 4 design, 1 qualitative), `q1`–`q4` · 6 of 23 report an effect size · 19 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -70,6 +70,8 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Only three bespoke rater-based assessment tools and one sensor-based method exist for assessing non-technical skills in robotic-assisted surgery](../claims/paucity-bespoke-nts-assessment-tools-ras.md) [~W]
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](../claims/greenhouse-scores-increase-with-training-level.md) [+W]
 - [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](../claims/few-high-quality-ebp-instruments-used.md) [~W] — attached 2026-11-01 from Albarqouni Loai et al. (2018), which proposed "Six high-quality EBP assessment instruments (Fresno Test, Berlin Questionnaire, ACE tool, Taylor et al., Utrecht questionnaire, MacRae et al.)".
+- [Mini-CEX shows a positive effect of feedback and perceived positive educational impact, with most specialists recording strengths, improvement areas and agreed actions](../claims/mini-cex-positive-feedback-effect-educational-impact.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "Mini-clinical evaluation exercise (mini-CEX) as a workplace based assessment method".
+- [Systematic review identifies 11 studies yielding 12 heterogeneous procedural assessment tools for medical students, none designed for final certification](../claims/systematic-review-12-procedural-assessment-tools-medical-students.md) [+W]
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

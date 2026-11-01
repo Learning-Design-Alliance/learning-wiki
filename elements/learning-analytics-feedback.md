@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 87 claims (30 for, 42 mixed, 15 against) · 72 studies (22 review, 19 associational, 9 theoretical, 8 qualitative, 7 causal, 7 design), `q1`–`q3` · 4 of 72 report an effect size · 84 claims rest on one study
+> **Evidence** · 89 claims (30 for, 43 mixed, 16 against) · 73 studies (22 review, 19 associational, 9 theoretical, 8 qualitative, 7 causal, 7 design, 1 quant-synthesis), `q1`–`q3` · 4 of 73 report an effect size · 86 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -133,6 +133,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Teachers reported the tool shifted their practice toward goal-oriented teaching and dashboard-informed adjustment, but increased planning workload and instructional time](../claims/assessmake21-teacher-practice-shift-and-workload.md) [~W]
 - [Scalability of the MLADs across municipalities was limited by differing educational data sources, varied LMS platforms, and differing teacher familiarity with data-driven dashboards](../claims/mlad-scalability-limited-by-municipal-data-lms-variation.md) [~W]
 - [Students perceived personalized and generic feedback messages as equally helpful and motivating](../claims/equal-perceptions-personalized-generic-feedback.md) [~W]
+- [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](../claims/lad-design-type-moderates-outcomes.md) [~M]
+- [Comparing LAD users and non-users confounds the dashboard effect with student engagement levels](../claims/lad-user-nonuser-confound-engagement.md) [-W]
 
 ## The evidence by question
 

@@ -56326,5 +56326,485 @@
  "spacing\tmonthly practice\tcontrol/no monthly practice": {
   "label": "monthly practice vs no monthly practice",
   "treatment_is_a": true
+ },
+ "active-learning\t3-hour interactive case-based workshop\tpre-workshop baseline": {
+  "label": "Interactive case-based workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBP-structured case conference\tdidactic EBP lecture": {
+  "label": "EBP-structured case conference vs didactic EBP lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBP-structured case conference\tdidactic lecture about EBP": {
+  "label": "EBP-structured case conference vs didactic EBP lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBP-structured case conference\tdidactic lectures": {
+  "label": "EBP-structured case conference vs didactic lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL\tLBL": {
+  "label": "Problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL curriculum\tnon-PBL curriculum": {
+  "label": "PBL curriculum vs non-PBL curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL or PBL+LBL\tLBL": {
+  "label": "PBL or PBL-plus-LBL vs LBL",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL plus lecture-based learning\tlecture-based learning": {
+  "label": "PBL plus lecture-based learning vs lecture-based learning alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL plus lecture-based learning\tlecture-based learning alone": {
+  "label": "PBL plus lecture-based learning vs lecture-based learning alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL teaching model\tlecture-based learning": {
+  "label": "Problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-based medical curriculum\tnon-PBL curriculum": {
+  "label": "PBL curriculum vs non-PBL curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-based medical curriculum\ttraditional or non-PBL medical curriculum": {
+  "label": "PBL curriculum vs traditional or non-PBL curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-based new pathway curriculum\ttraditional non-PBL curriculum": {
+  "label": "PBL curriculum vs traditional non-PBL curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tProblem-based learning (PBL)\tLecture-based learning (LBL)": {
+  "label": "Problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpredominantly PBL medical curriculum\tnon-PBL medical curriculum": {
+  "label": "PBL curriculum vs non-PBL curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tconventional teaching methods": {
+  "label": "Problem-based learning vs traditional learning methods",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional learning methods": {
+  "label": "Problem-based learning vs traditional learning methods",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning with case discussion and problem solving\ttraditional learning methods, including didactic lectures": {
+  "label": "Problem-based learning vs traditional learning methods",
+  "treatment_is_a": true
+ },
+ "active-learning\tweekly EBP-structured case conference\tweekly didactic lecture": {
+  "label": "EBP-structured case conference vs didactic lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tworkshop teamwork training\tno teamwork training": {
+  "label": "Teamwork training vs no teamwork training",
+  "treatment_is_a": true
+ },
+ "debriefing\tteam reviews\tno teamwork training": {
+  "label": "team debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14 two-hour weekly EBM sessions\tnon-exposed year group": {
+  "label": "EBM instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute instruction on Medline searching techniques\tno intervention": {
+  "label": "Literature-search/Medline instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training alone\tusual care or control": {
+  "label": "GP training vs usual care or no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training alone\tusual care or waiting list": {
+  "label": "GP training vs usual care or no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training in depression assessment and treatment\tusual care or waiting list": {
+  "label": "Depression-care GP training vs usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training in depression care\tusual care": {
+  "label": "Depression-care GP training vs usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training plus guideline implementation\tcontrol care": {
+  "label": "GP training plus guideline implementation vs usual care or control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGP training plus guideline implementation\tusual care or control": {
+  "label": "GP training plus guideline implementation vs usual care or control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPharmacist instruction, standardized-patient demonstration, small-group medication history-taking and class reflection\tPre-intervention self-rated comfort": {
+  "label": "Medication-history instruction and practice vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPharmacist instruction, standardized-patient demonstration, small-group medication history-taking and class reflection\tPre-intervention self-rated knowledge": {
+  "label": "Medication-history instruction and practice vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdidactic education\tno teamwork training": {
+  "label": "Didactic teamwork education vs no teamwork training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgraphing instruction\tnot stated": {
+  "label": "Explicit graphing instruction vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-constructed graphs with explicit graphing instruction\tprovided graphs or self-constructed graphs without explicit graphing instruction": {
+  "label": "Explicit graphing instruction vs no explicit graphing instruction or provided graphs",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-session EBM and critical appraisal course\tpre-course assessment": {
+  "label": "EBM instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-hour instruction on literature-search techniques\tno instruction": {
+  "label": "Literature-search/Medline instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-hour instruction on searching Medline\tno-intervention control": {
+  "label": "Literature-search/Medline instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback during simulator practice\tno feedback during simulator practice": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback from workplace-based assessments\tno comparator reported": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toral feedback after each simulated procedure\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toral feedback on intraoperative performance\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toral feedback on simulated renal artery angioplasty performance\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toral performance feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toral performance feedback after each procedure\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstructured oral feedback after reviewing operative video\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\twell-implemented feedback from workplace-based assessments, particularly multisource feedback\tno feedback or comparison not reported": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTAB with large free-text boxes\tmini-PAT with a numerical scale and small comment space": {
+  "label": "textual feedback with large free-text boxes (TAB) vs numerical-scale feedback with limited comment space (mini-PAT)",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdirect patient feedback\tmedical-colleague feedback": {
+  "label": "direct patient feedback vs medical-colleague feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texpert consultant-surgeon feedback\tnon-expert trainee feedback": {
+  "label": "expert consultant-surgeon feedback vs non-expert trainee feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback surveys containing a global judgement\tfeedback surveys without a global judgement": {
+  "label": "feedback with a global judgement vs feedback without a global judgement",
+  "treatment_is_a": true
+ },
+ "feedback-type\tformative feedback\tgrades": {
+  "label": "formative feedback vs grades",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgeneral behaviour-oriented phrases\tspecific behaviour-oriented phrases": {
+  "label": "specific behaviour-oriented feedback vs general behaviour-oriented feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tnegative feedback phrases\tnon-negative feedback phrases": {
+  "label": "negative feedback vs non-negative feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tspecific feedback\tless-specific feedback": {
+  "label": "specific feedback vs less-specific feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tspecific feedback, particularly direct patient feedback addressing communication skills\tless-specific feedback from medical colleagues addressing clinical competence": {
+  "label": "specific, direct-patient feedback vs less-specific, medical-colleague feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tspecific, behavioural and action-based feedback\tglobal judgments or vague, non-actionable feedback": {
+  "label": "specific, behavioural, action-based feedback vs global or vague feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstrongly negative feedback\tless negative or positive feedback": {
+  "label": "strongly negative feedback vs less negative or positive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured, error-specific feedback and graduated feedback ladders\tless structured or unconstrained feedback": {
+  "label": "structured, error-specific, graduated feedback vs less structured or unconstrained feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttextual feedback with large free-text boxes (TAB)\tnumerical-scale feedback with limited comment space (mini-PAT)": {
+  "label": "textual feedback with large free-text boxes (TAB) vs numerical-scale feedback with limited comment space (mini-PAT)",
+  "treatment_is_a": true
+ },
+ "feedback-type\twritten comments on things the trainee did well\twritten comments on areas for improvement or agreed action": {
+  "label": "improvement-oriented or action-oriented comments vs strengths-oriented comments",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tformative feedback\tsummative feedback or assigning a score alone": {
+  "label": "formative vs summative assessment/feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttest- and rubric-grounded assessment with explicit rubrics, exemplars, and calibration\tassessment without these grounding and calibration procedures": {
+  "label": "rubric-, exemplar-, and calibration-grounded vs ungrounded assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttools used for summative evaluation\ttools used for formative evaluation": {
+  "label": "formative vs summative assessment/evaluation",
+  "treatment_is_a": false
+ },
+ "media-design\tlikelihood ratios\tsensitivity and specificity": {
+  "label": "likelihood ratios vs sensitivity and specificity",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural frequencies\tprobabilities": {
+  "label": "natural frequencies vs probabilities",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural frequencies with graphical aids\tnatural frequencies alone": {
+  "label": "natural frequencies with graphical aids vs natural frequencies alone",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural frequencies with graphical aids\tprobabilities alone": {
+  "label": "natural frequencies with graphical aids vs probabilities without graphical aids",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural frequencies with graphical aids\tprobabilities alone or other presentation formats": {
+  "label": "natural frequencies with graphical aids vs probabilities without graphical aids or other presentation formats",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural frequencies with graphical aids\tprobabilities with graphical aids": {
+  "label": "natural frequencies vs probabilities",
+  "treatment_is_a": true
+ },
+ "media-design\tnatural-frequency format\tprobability format": {
+  "label": "natural frequencies vs probabilities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger EBP intervention\tshorter EBP intervention": {
+  "label": "longer vs shorter EBP intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tformulating effective prompts and critically evaluating AI output\tnot stated": {
+  "label": "Effective prompting and critical AI-output evaluation vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcommunity trust, respect and social rewards\tnot receiving these community incentives": {
+  "label": "community rewards vs no community rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tperformance-based payments for clinic-related tasks\tunpaid village health and social-change tasks": {
+  "label": "performance-based payments vs unpaid tasks",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpredictable mix of financial and non-financial incentives\tother or unspecified incentive arrangements": {
+  "label": "predictable mixed incentives vs other or unspecified incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tvoluntary reviews\tnon-voluntary or paid reviews": {
+  "label": "voluntary reviews vs non-voluntary or paid reviews",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExplanation, pseudocode, staged hints, and withholding final solutions by default\tUnguarded chat": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExplanation-first guidance, solution withholding, and graduated hint ladders\tUnconstrained chat interfaces": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\tExplanation-first, staged hints with final solutions withheld\tUnguided chat": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation-first guidance with solution withholding and graduated hints\tunconstrained chat interfaces": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation-first, context-aware hints that withhold final solutions\tunguarded chat that permits answer-seeking": {
+  "label": "Scaffolded guidance vs unguarded chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation-first, solution-withholding guidance\tunconstrained chat": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation-first, solution-withholding guidance\tunconstrained chat interface": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanation-first, solution-withholding, graduated-hint designs\tunconstrained chat interfaces": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraduated hint ladders\tunconstrained chat": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraduated hint ladders\tunconstrained chat interface": {
+  "label": "Scaffolded guidance vs unconstrained chat",
+  "treatment_is_a": true
+ },
+ "scaffolding\ton-demand Parsons puzzles adapted to struggle patterns\tnot stated": {
+  "label": "Adaptive on-demand scaffolding vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "simulation\t15-minute standardized-patient discharge encounter\tno comparison reported": {
+  "label": "standardized-patient simulation vs no/pre-intervention comparator",
+  "treatment_is_a": true
+ },
+ "simulation\t15-minute standardized-patient discharge encounter\tpre-intervention confidence": {
+  "label": "standardized-patient simulation vs no/pre-intervention comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulators\treal-world tasks": {
+  "label": "virtual simulation vs real-world tasks",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based training platforms with equipment-control mock-ups and realistic 3D scenarios\tfield training": {
+  "label": "virtual simulation vs field training",
+  "treatment_is_a": true
+ },
+ "simulation\tformal mock code program integrated into residency curriculum\tbefore routine program integration": {
+  "label": "simulation-integrated mock-code training vs pre-integration baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thospital-wide multidisciplinary simulation-based CRM combined with didactic training\tpre-intervention baseline": {
+  "label": "simulation-augmented team training vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tin situ simulation phase\tbaseline/didactic phase": {
+  "label": "in situ simulation vs baseline/didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tinterdisciplinary in situ simulation training\tdidactic-only intervention": {
+  "label": "in situ simulation vs didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation teaching\tdidactic teaching": {
+  "label": "simulation-based teaching vs didactic teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-augmented trauma team training\tpre-training baseline": {
+  "label": "simulation-augmented team training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based CRM training\tno intervention or didactic teaching": {
+  "label": "simulation-based CRM training vs no intervention/didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based airway management training\tnon-simulation-based airway management training": {
+  "label": "simulation-based airway training vs non-simulation training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based laparoscopic training\tcontrol or non-trained group": {
+  "label": "simulation-based laparoscopic training vs conventional/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based laparoscopic training\tcontrol training": {
+  "label": "simulation-based laparoscopic training vs conventional/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based laparoscopic training\tno training or traditional OR training": {
+  "label": "simulation-based laparoscopic training vs conventional/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based laparoscopic training\tno training or traditional operating-room training": {
+  "label": "simulation-based laparoscopic training vs conventional/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based laparoscopic training\tno training or traditional training": {
+  "label": "simulation-based laparoscopic training vs conventional/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based mock codes integrated into residency training\tpre-intervention training period": {
+  "label": "simulation-integrated mock-code training vs pre-integration baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based teamwork training\tno teamwork training": {
+  "label": "simulation-based teamwork training vs no teamwork training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tcontrol group": {
+  "label": "simulation-based training vs control/no intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tdidactic-based training": {
+  "label": "simulation-based teaching vs didactic teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tno intervention": {
+  "label": "simulation-based training vs no intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tnon-simulation-based training": {
+  "label": "simulation-based training vs non-simulation-based training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tnon-trained or control group": {
+  "label": "simulation-based training vs control/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training (SBT)\tnon-simulation-based training (NSBT)": {
+  "label": "simulation-based training vs non-simulation-based training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-enhanced CRM training\tno intervention or didactic teaching": {
+  "label": "simulation-based CRM training vs no intervention/didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulator-based skills training\tknowledge-based teaching": {
+  "label": "simulator-based skills training vs knowledge-based teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tstructured trauma resuscitation team training augmented by simulation\tpre-training": {
+  "label": "simulation-augmented team training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual endoscopy simulator training\tbedside or other non-simulator training": {
+  "label": "virtual endoscopy simulation vs bedside/conventional training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual endoscopy simulator training\tbedside or other training": {
+  "label": "virtual endoscopy simulation vs bedside/conventional training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual endoscopy simulator training\tno simulator or conventional training": {
+  "label": "virtual endoscopy simulation vs conventional/no-simulator training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual endoscopy simulator training\tno simulator training": {
+  "label": "virtual endoscopy simulation vs conventional/no-simulator training",
+  "treatment_is_a": true
+ },
+ "worked-examples\tITS providing worked-out examples\tITS not providing worked-out examples": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
  }
 }

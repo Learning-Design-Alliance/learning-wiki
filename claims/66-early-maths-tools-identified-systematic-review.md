@@ -53,3 +53,4 @@ Pre-registered systematic review (PRISMA protocol) searching seven scholarly dat
 - [Only 15 of the identified measurement tools met common acceptability thresholds for more than two areas of psychometric evidence](only-15-tools-meet-two-plus-thresholds.md) — related
 - [Most early maths measurement tools target number and arithmetic skills, with less than half covering shape, space, and measure](number-arithmetic-dominance-ssm-undercovered.md) — related
 - [Most identified early maths measurement tools are child-direct measures administered individually with a trained assessor in paper-based format](most-early-maths-tools-child-direct-paper-based.md) — related
+- [Systematic review identifies 11 studies yielding 12 heterogeneous procedural assessment tools for medical students, none designed for final certification](systematic-review-12-procedural-assessment-tools-medical-students.md) — related

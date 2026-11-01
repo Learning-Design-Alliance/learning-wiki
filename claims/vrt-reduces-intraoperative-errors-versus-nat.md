@@ -69,3 +69,6 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — related
 - [Virtual reality training reduces time to completion of laparoscopic cholecystectomy tasks compared with no additional training](vrt-reduces-time-to-completion-versus-nat.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
+- [Intraoperative feedback reduces error scores in cholecystectomy and simulated procedures](feedback-reduces-error-scores.md) — related
+- [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — related
+- [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — a broader claim this one bears on

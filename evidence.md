@@ -6,14 +6,14 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **9,024 distinct studies** behind 37,152 claims. What they add up to (the sections below have the detail):
+The wiki holds **9,081 distinct studies** behind 37,538 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 33% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 56% are quasi-experiments, observational studies or narrative reviews, and 11% are case studies, opinion or theory.
-- **Few print an effect size.** 2,340 of 9,024 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 1,163 studies are rated `r3`, done well for their kind; 736 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 2,359 of 9,081 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 1,188 studies are rated `r3`, done well for their kind; 755 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 74% of studies, and 47% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
-- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 4% strong, 36% moderate and 60% weak, and 49% supporting, 45% conditional and 6% against.
+- **Not all research reaches design.** 75% of studies, and 47% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 4% strong, 35% moderate and 61% weak, and 49% supporting, 45% conditional and 6% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
 
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 37,152 |
-| Evidence entries | 44,267 |
-| Distinct studies | 9,024 |
-| Claims resting on one study | 36,598 (99%) |
+| Claims | 37,538 |
+| Evidence entries | 44,689 |
+| Distinct studies | 9,081 |
+| Claims resting on one study | 36,984 (99%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 2,340 of 9,024 (26%) |
+| Studies reporting an effect size | 2,359 of 9,081 (26%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 110 | 1,220 | 432 | 405 | 2,167 |
-| quant-synthesis | 193 | 364 | 71 | 133 | 761 |
-| review | 303 | 825 | 134 | 150 | 1,412 |
+| quant-synthesis | 199 | 375 | 76 | 133 | 783 |
+| review | 321 | 838 | 134 | 150 | 1,443 |
 | associational | 124 | 1,248 | 533 | 306 | 2,211 |
-| qualitative | 159 | 366 | 79 | 104 | 708 |
-| design | 86 | 720 | 155 | 39 | 1,000 |
-| theoretical | 188 | 421 | 84 | 72 | 765 |
+| qualitative | 160 | 366 | 79 | 104 | 709 |
+| design | 86 | 721 | 156 | 39 | 1,002 |
+| theoretical | 188 | 422 | 84 | 72 | 766 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,032 (11%) | 5,036 (56%) | 2,788 (31%) | 168 (2%) |
+| 1,033 (11%) | 5,073 (56%) | 2,807 (31%) | 168 (2%) |
 
-**Studies per claim:** 0: 0, 1: 36,598, 2: 469, 3: 68, 4 or more: 17.
+**Studies per claim:** 0: 0, 1: 36,984, 2: 469, 3: 68, 4 or more: 17.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -57,6 +57,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | Study | q | Claims citing it | Resting on it alone |
 |---|---|---|---|
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 31 |
+| [Kyriakoulis Konstantinos, Patelarou Athina, Laliotis Aggelos, Wan Andrew C, Matalliotakis Michail, Tsiou …](claims/allied-health-course-knowledge-gains.md) | q3 | 30 | 30 |
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 25 | 25 |
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
@@ -68,14 +69,13 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Arthur I. Gates. (1921). An Experimental and Statistical Study of Reading and Reading tests (Concluded). The …](claims/brown-free-reproduction-invalid-comprehension-measure.md) | q2 | 14 | 14 |
 | [Arthur I. Gates. (1923). The correlations of achievement in school subjects with intelligence tests and other …](claims/arithmetic-correlation-peaks-somewhat-verbal.md) | q2 | 14 | 14 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
+| [Kok Maryse C, Dieleman Marjolein, Taegtmeyer Miriam, Broerse Jacqueline EW, Kane Sumit S, Ormel Hermen, Tijm …](claims/chw-characteristics-performance-associations.md) | q2 | 14 | 14 |
 | [Tsai, Yi-Shan, et al. (2020). Learning Analytics in European Higher Education – Trends and Barriers. …](claims/analytics-expertise-critical-barrier.md) | q2 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
 | [Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of …](claims/genai-accuracy-overreliance-challenges-hss.md) | q2 | 14 | 14 |
 | [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
 | [Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car …](claims/vp-attitudes-satisfaction-mixed.md) | q2 | 13 | 13 |
 | [Li Ting, Hu Yidan, Song Ruohong, Liu Hangyu, Gao Xin, Wang Fei, Xiao Chengwei, Liu Xilin. (2025). Unveiling …](claims/3d-pbl-improves-communication-ability-orthopedics.md) | q2 | 13 | 13 |
-| [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
-| [No author line. (1920). New Publications. The Journal of Educational Psychology. https://eric.ed.gov/](claims/delinquent-women-intelligence-overlap-great.md) | q1 | 12 | 12 |
 
 ## Citation load against evidence base
 
@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-532 claims are cited both ways.
+537 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -149,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 31 | 0 |
 | [elements](elements/index.md) | 1,057 | 793 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 34 | 0 |
-| [strategies](strategies/index.md) | 8,238 | 4,860 | 2 | 0 |
+| [strategies](strategies/index.md) | 8,296 | 4,915 | 2 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 11 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 922 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 62 | 0 |
-| [designs](designs/index.md) | 1,376 | 988 | 1 | 0 |
-| [products](products/index.md) | 2,381 | 1,792 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 890 | 719 | 1 | 0 |
+| [designs](designs/index.md) | 1,380 | 990 | 1 | 0 |
+| [products](products/index.md) | 2,391 | 1,801 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 900 | 723 | 1 | 0 |
 
 ## Toward pooled estimates
 

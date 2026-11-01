@@ -54,6 +54,7 @@ The article concludes that PBL, a student-centered method in which students "lea
 - [Problem Based Learning](problem-based-learning.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
+- [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 
 ## Examples
 -

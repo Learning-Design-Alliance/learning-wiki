@@ -63,3 +63,4 @@ The report's conceptual analysis of Oklahoma's A–F letter grades argues that c
 - [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related
 - Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — related
 - [Heavy emphasis on knowledge assessment may limit measurement of complex competencies such as advocacy and system-level engagement](knowledge-emphasis-limits-complex-hl-competency-assessment.md) — a narrower finding that bears on this claim
+- [Formative feedback supports grader learning and author improvement but is seldom incorporated as a weighting factor in summative grade synthesis](formative-feedback-learning-and-underuse-in-weighting.md) — related

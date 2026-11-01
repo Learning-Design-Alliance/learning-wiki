@@ -131,3 +131,4 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — related
 - [Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading](community-presentation-created-accountability-pressure.md) — related
 - [Selecting personal-experiences sources is more likely in a personal context without an external audience than in a university context](personal-context-raises-personal-experiences-selection.md) — related
+- [Blogging activities improved students' writing skills and helped develop writer identities across studies](blogging-improved-writing-skills-writer-identities.md) — related

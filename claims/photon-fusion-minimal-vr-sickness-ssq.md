@@ -55,3 +55,5 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
+- [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — related
+- [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related

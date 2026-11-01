@@ -69,3 +69,6 @@ Secondary-outcome synthesis of barriers for VR/AR and metaverse interventions, a
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [VR/AR and metaverse-based approaches were more frequently associated with favorable findings than screen-based virtual patient approaches, which yielded mixed findings with no clear advantage over non-technology-based simulation](vr-ar-more-favorable-than-screen-based-vps-communication.md) — related
 - [Computer-based simulation and immersive VR platforms differ in their primary limitations: feedback timeliness versus physiological discomfort](vs-platform-specific-limitations.md) — related
+- [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
+- [Teachers are described mainly as creators of virtual patients, facing time, resource, technical and legal demands](vp-teacher-category-creator-role.md) — related
+- [Availability and scalability are described as key technology advantages of virtual patients over real-patient contact](vp-technology-availability-scalability.md) — reports the opposite

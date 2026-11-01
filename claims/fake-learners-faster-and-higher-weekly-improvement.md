@@ -51,3 +51,4 @@ In the 8.MReVx behavioral comparison, "Fake learners are significantly faster th
 - In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively. — related
 - [A simulated doubling of fake learners (from ~15% to ~26%) significantly increased the bias in Analysis 1A, making 'Doers who are neither Watchers nor Readers' by far the most successful group.](doubling-fake-learners-increases-bias.md)
 - [Removing fake learners changed the Tetrad causal graph: the links watching → quizScore and reading → IRT disappeared.](fake-learners-change-tetrad-causal-graph.md)
+- [Trust in reviews is highest for voluntary reviews because fake reviews are usually created for payment](voluntary-reviews-highest-trust-paid-fakes.md) — related

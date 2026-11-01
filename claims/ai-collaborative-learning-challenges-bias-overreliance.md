@@ -52,3 +52,4 @@ The review's challenges section (attributing these concerns to Kumar and Jain, 2
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
+- [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related

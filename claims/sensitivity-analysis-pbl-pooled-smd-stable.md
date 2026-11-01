@@ -70,3 +70,5 @@ Leave-one-out sensitivity analysis sequentially removing each study; only the Li
 - [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [Sensitivity analysis excluding five studies with inadequate randomization leaves the PBL effect on theoretical scores unchanged (SMD = 1.06)](pbl-sensitivity-analysis-robust-effect.md) — related
+- [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related

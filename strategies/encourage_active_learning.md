@@ -64,6 +64,7 @@ Active learning reliably improves performance relative to lecture-only instructi
 - [Use Worked Examples](worked-examples-first.md) — the complementary passive-to-active bridge; examples reduce load for novices before active problem solving begins
 - [Formative Assessment](formative-assessment-cycles.md) — most active-learning activities double as assessment-for-learning opportunities
 - [Use real-world problems, open-ended class discussions, and inquiry-oriented experiments as higher order thinking strategies](real-world-open-discussion-inquiry-strategies.md)
+- [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students answer a conceptual question individually, discuss with neighbors, then re-answer; widely adopted in physics and beyond ([Peer Instruction](https://www.peerinstruction.net))

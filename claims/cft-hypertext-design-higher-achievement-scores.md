@@ -54,3 +54,4 @@ Comparison of two groups of 73 students each, formed by splitting each pretest a
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](cft-hypertext-design-more-perfect-scores.md) — related
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — a broader claim this one bears on
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](lad-achievement-effects-confounded.md) — related

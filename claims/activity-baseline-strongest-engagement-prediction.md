@@ -46,3 +46,4 @@ Held-out comparison on the DTA dataset for the activity-defined engagement targe
 ## Related Claims
 - [Recovery-related behavioral features add only a small, unstable held-out Macro-F1 gain for final-success prediction in DTA logs (0.725 to 0.743), with negligible average window-sensitivity differences](dta-recovery-features-small-unstable-gain.md) — related
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — reports the opposite
+- [MetaForest identifies worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement as the most important moderators](metaforest-top-moderators-its-effects.md) — related

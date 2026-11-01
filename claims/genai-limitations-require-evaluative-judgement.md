@@ -72,3 +72,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
+- [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related

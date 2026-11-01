@@ -74,3 +74,5 @@ Subgroup analysis by intervention duration for overall academic achievement. The
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md)
 - [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md) — related
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
+- [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related
+- [Longer IMCI training duration (≥11 days) is associated with stronger performance benefits in most domains](imci-longer-training-duration-stronger-benefits.md)

@@ -59,3 +59,4 @@ The review reports this single study's agreement figures and notes the authors' 
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
 - [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — a broader claim this one bears on

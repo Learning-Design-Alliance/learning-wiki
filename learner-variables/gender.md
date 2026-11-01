@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 368 claims (215 show a difference, 82 mixed, 71 no difference) · 247 studies (150 associational, 44 causal, 19 review, 15 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 247 report an effect size · 360 claims rest on one study
+> **Evidence** · 374 claims (216 show a difference, 87 mixed, 71 no difference) · 248 studies (150 associational, 44 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 44 of 248 report an effect size · 366 claims rest on one study
 
 ## How to read this page
 
@@ -407,6 +407,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female medical students were reported to have higher empathy scores than male students in 18 of the included studies, with no gender differences found in seven cross-sectional studies](../claims/female-medical-students-higher-empathy-scores.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](../claims/obesity-associated-lower-maths-adolescent-girls.md) [~M] — an instructional effect differs by group
+- [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](../claims/fci-gender-gap-high-heterogeneity.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](../claims/fci-gender-gap-moderate-favoring-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Most individual studies report positive gender gaps in mean FCI scores, with effect sizes ranging from -0.15 to 1.5](../claims/fci-individual-study-gaps-range.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Study location (NA vs non-NA) significantly moderates the FCI gender gap, with wider gaps in NA-based studies](../claims/study-location-moderates-fci-gender-gap.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Study location accounts for 11.38% of the between-study heterogeneity in FCI gender gap estimates](../claims/study-location-explains-11-percent-heterogeneity.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](../claims/non-na-female-superiority-fci-studies.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

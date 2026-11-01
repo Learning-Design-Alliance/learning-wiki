@@ -72,3 +72,4 @@ Same four-experiment study by van Gog et al. (2024), reporting the indirect path
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](feedback-effort-mediated-by-self-efficacy-threat.md) — possibly the same claim (merge candidate)
 - [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](feedback-indirect-effects-math-self-concept.md) — related
 - [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](jigsaw-interdependence-mental-effort.md) — related
+- [Negative game reviews are often short but written earlier, while positive reviews require more effort to write](negative-reviews-short-early-positive-effortful.md) — related

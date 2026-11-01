@@ -71,6 +71,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 - [Support low-ability students in open inquiry with graduated scaffolds such as general procedures and worked examples](graduated-scaffolds-low-ability-open-inquiry.md)
 - [Manipulate goal/environment features (target arrangement) to steer learners toward specific strategies or broader exploration](target-arrangement-steers-strategy-adoption.md)
 - [Deliver a short post-exploration instructional video to complement science simulations](short-post-simulation-video-strategy.md)
+- [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.

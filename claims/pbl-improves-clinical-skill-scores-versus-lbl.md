@@ -113,3 +113,5 @@ Umbrella review reports the Li et al. meta-analysis of 76 RCTs in Chinese standa
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — related
 - [PBL+LBL significantly increases medical writing scores compared with LBL alone](pbl-lbl-increases-medical-writing-scores.md) — related
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related
+- [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) — a narrower finding that bears on this claim

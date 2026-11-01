@@ -50,3 +50,4 @@ Meta-analysis pooling theoretical examination scores from 13 studies (1545 parti
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — possibly the same claim (merge candidate)
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
 - [In nonrandomized studies of undergraduate (5-year program) students, TBL showed a large positive effect on examination scores with reduced heterogeneity (SMD = 4.39)](tbl-undergraduate-subgroup-effect.md) — a narrower finding that bears on this claim
+- [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — related

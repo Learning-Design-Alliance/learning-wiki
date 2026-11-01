@@ -48,6 +48,7 @@ The article recommends making AI-assisted feedback usable across differences in 
 - [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
+- [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 
 ## Examples
 -

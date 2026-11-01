@@ -50,3 +50,4 @@ Net benefits theme of the D&M-mapped thematic analysis; the review reports stude
 ## Related Claims
 - [Engagement and motivation, including safe learning environment, immersion, and autonomy, are prominent enablers of critical thinking in technologically supported SBL](engagement-motivation-enablers-sbl.md) — related
 - [Feedback and validation, including feedback on actions taken and provision of examples and explanations, are perceived as enabling critical thinking development in SBL using technology](feedback-validation-enabler-sbl.md) — related
+- [Discussion boards are perceived as deepening thinking, facilitating reflection, and enabling learning from multiple perspectives](discussion-boards-perceived-deepening-thinking-reflection.md) — related

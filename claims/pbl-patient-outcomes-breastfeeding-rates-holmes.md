@@ -47,3 +47,4 @@ The review reports the single Level 4 study (Holmes et al.), a comparison betwee
 ## Related Claims
 - [PBL in family medicine residency programs is associated with high learner satisfaction, though not always rated above lectures](pbl-high-learner-satisfaction-family-medicine-pgme.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [Only one study linked physicians' prior training site to later patient outcomes, ranking programs by graduates' complication rates](single-study-training-background-patient-outcomes.md) — related

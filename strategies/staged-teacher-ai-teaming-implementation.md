@@ -52,6 +52,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students](genai-ipsative-progress-tracking-strategy.md)
+- [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 
 ## Examples
 -

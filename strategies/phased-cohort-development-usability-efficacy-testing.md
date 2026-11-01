@@ -43,6 +43,7 @@ The LEAD Partnership sequences its intervention work across cohorts: "Develop, i
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
 - [Revise professional learning materials and structure in response to pilot feedback](wts-pilot-informed-revisions-strategy.md)
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 
 ## Examples
 -

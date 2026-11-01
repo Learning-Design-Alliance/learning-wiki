@@ -79,3 +79,5 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [A peer support approach promoted undergraduate nursing students' communication skills in paediatric settings](peer-support-communication-skills.md) — related
 - [Systematic review of 17 studies identifies six themes on creative project-based learning in medical education: enhanced learning, collaborative learning, deep learning, student engagement, student disengagement, and faculty engagement](six-themes-creative-project-based-learning-medical-education.md) — related
 - [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — related
+- [Blog commenting promoted interaction among participants but did not achieve collaboration for social construction of knowledge or higher-order competencies such as coaching](blog-commenting-interaction-not-knowledge-construction.md) — related
+- [A social collaborative VR-based construction safety education system enhances experiential safety learning](social-collaborative-vr-enhances-safety-learning.md) — related

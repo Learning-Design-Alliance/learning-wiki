@@ -54,3 +54,5 @@ Comparison of public blog paragraphs (one section) with private journal paragrap
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
 - [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](guided-reflection-produces-longer-reflections.md) — related
+- [Blog-based writing showed higher reflection levels and was substantially shorter than end-of-semester papers in one experimental study](blog-writing-higher-reflection-shorter-papers.md) — related
+- [Blogging activities can foster reflective practices that support student learning, though most supporting studies relied on self-reported data and lacked control groups](blogging-fosters-reflective-practice-learning.md) — related

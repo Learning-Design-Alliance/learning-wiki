@@ -59,3 +59,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
 - [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
+- [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related

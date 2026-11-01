@@ -70,3 +70,5 @@ The review reports that across all 16 included articles no study evaluated outco
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
 - [Across Kirkpatrick Levels 1 and 2, most studies found no statistically significant differences between observer and active participant roles in simulation-based education](observer-vs-active-role-mostly-no-difference-kirkpatrick-1-2.md) — related
+- [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
+- [No included WBA feedback study demonstrated improved learning and performance as a direct result of WBA (Kirkpatrick Level 4); the highest level reached was Level 3](wba-feedback-no-kirkpatrick-level-4-evidence.md) — related

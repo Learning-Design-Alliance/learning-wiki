@@ -50,3 +50,4 @@ The review's synthesis of reliability findings across included primary studies r
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — a narrower finding that bears on this claim
 - [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related
+- [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](limited-reliability-procedural-tools-kappa-range.md) — related

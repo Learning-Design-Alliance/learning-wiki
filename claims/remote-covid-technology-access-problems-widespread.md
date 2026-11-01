@@ -149,3 +149,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — a narrower finding that bears on this claim
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
+- [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related

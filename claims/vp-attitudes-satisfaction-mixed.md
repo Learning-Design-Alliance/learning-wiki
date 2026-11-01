@@ -73,3 +73,4 @@ Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminish
 - [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md) — related
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — possibly the same claim (merge candidate)
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related
+- [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](self-reports-unreliable-for-attitude-change.md) — related

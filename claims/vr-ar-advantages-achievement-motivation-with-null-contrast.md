@@ -96,3 +96,5 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — a narrower finding that bears on this claim
+- [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — a narrower finding that bears on this claim
+- [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — a narrower finding that bears on this claim

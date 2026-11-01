@@ -63,3 +63,4 @@ Meta-analysis of 29 randomized controlled trials including 3502 dental students,
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — a narrower finding that bears on this claim
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — a narrower finding that bears on this claim
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
+- [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — a narrower finding that bears on this claim

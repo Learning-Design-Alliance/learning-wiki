@@ -63,6 +63,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
+- [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 
 ## Examples
 -

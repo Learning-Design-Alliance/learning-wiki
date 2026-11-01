@@ -18,7 +18,7 @@ sources:
 # Explicit Instruction: Internet Search
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 31 studies (13 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 31 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 32 studies (13 causal, 9 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 32 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Finding relevant sources on a practice question, choosing trustworthy ones, sear
 ## Claims
 
 - [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](../claims/search-block-count-impacts-sensitivity-precision.md) [~W]
+- [A two-hour single intervention on Medline searching led intervention students to have fewer search errors and higher quality searches than control students](../claims/medline-searching-intervention-fewer-errors.md) [+W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — search and source evaluation are interdependent

@@ -54,3 +54,4 @@ Logged click data from the experiment showed the AV group used far fewer navigat
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
 - [Intensity of learner control use relates to retention gains but not to transfer performance](interactive-behavior-relates-to-retention-not-transfer.md) — related
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
+- [Instructional design principles are rarely reported in medical CBL software, with the media principle most common at 29.5% of studies](instructional-design-principles-rarely-reported-cbl.md) — related

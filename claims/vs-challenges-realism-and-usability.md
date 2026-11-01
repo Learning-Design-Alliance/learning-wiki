@@ -81,3 +81,4 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) — related
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
+- [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related

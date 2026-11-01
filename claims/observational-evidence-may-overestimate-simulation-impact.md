@@ -54,3 +54,4 @@ Subgroup comparison within the review: most included studies were retrospective 
 - [A cluster-randomized PRONTO-based quality improvement package in Kenya and Uganda reduced neonatal mortality and stillbirth among intervention facilities](pronto-cluster-randomized-reduced-neonatal-mortality.md) — related
 - [Nontechnical-skills simulation of ruptured AAA with the Resusci Anne Simulator directly improved patient outcomes, reducing door-to-occlusion time, door-to-needle time, and 30-day mortality (LoE 4/5)](nts-rraa-simulation-patient-outcomes.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — a narrower finding that bears on this claim
+- [Simulation-based CRM training may translate to improved patient outcomes, including decreased mortality, based on a small number of studies](simulation-crm-training-patient-outcomes.md) — related

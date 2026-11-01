@@ -50,6 +50,7 @@ The article proposes that a learning environment use a hint-taking prediction mo
 - [Use lightweight transparency cues about AI fallibility to encourage more cautious, help-seeking interaction strategies](lightweight-ai-fallibility-transparency-cues.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Transplant ITS insights such as hint timing and solution review into regulative CSCL design](transplant-its-insights-to-cscl.md)
+- [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
 
 ## Examples
 -

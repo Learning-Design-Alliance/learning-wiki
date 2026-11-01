@@ -51,3 +51,6 @@ Randomised controlled trial of 50 surgical residents comparing a simulation-base
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — a broader claim this one bears on
 - [Open hernia repair simulation models lack evidence of educational impact, with fewer validity assessments than laparoscopic models](open-hernia-models-lack-educational-impact.md) — related
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
+- [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
+- [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on

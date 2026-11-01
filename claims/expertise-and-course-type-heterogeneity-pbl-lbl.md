@@ -55,3 +55,4 @@ Meta-regression across the included RCTs reported in the abstract and results; t
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md)
 - [Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects](heterogeneity-sources-tbl-meta-regression.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](pbl-lbl-hybrid-better-record-writing-scores.md) — related
+- [Course type is the significant confounding factor causing heterogeneity in the examination-score meta-analysis](course-type-confounds-examination-score-heterogeneity.md) — related

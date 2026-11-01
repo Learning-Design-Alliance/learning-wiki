@@ -69,3 +69,4 @@ Mann-Whitney tests on CLIWC-coded message content: social and cognitive process 
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
+- [Social support features were prevalent in the reviewed Web-based substance use interventions](social-support-prevalence-encouraging.md) — related

@@ -76,3 +76,5 @@ Narrative synthesis: generative AI and chatbot-based virtual patients "more comm
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — a narrower finding that bears on this claim
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a narrower finding that bears on this claim
 - [The greatest impact of virtual or blended laboratories is in the cognitive domain and the least in the psychomotor domain](virtual-labs-greatest-cognitive-least-psychomotor-impact.md) — related
+- [Feedback is necessary for performance improvement on virtual colonoscopy simulators; without feedback novices do not improve](no-feedback-no-learning-simulators.md) — a narrower finding that bears on this claim
+- [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](video-cases-outperform-paper-cases-dental-pbl.md) — related

@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (73 show a difference, 13 mixed, 7 no difference) · 79 studies (24 review, 16 causal, 11 qualitative, 10 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 9 of 79 report an effect size · 93 claims rest on one study
+> **Evidence** · 98 claims (74 show a difference, 17 mixed, 7 no difference) · 81 studies (25 review, 16 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 81 report an effect size · 98 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -135,6 +135,11 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](../claims/cbl-positive-student-evaluations-psychology.md) [+M] — instruction changes it
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](../claims/hf-simulation-teamwork-mixed.md) [~W] — instruction changes it
 - [Performance support tools (briefings, handoffs, and checklists) introduced in the work setting produced sustained improvements in teamwork processes for 6 to 18 months after implementation](../claims/support-tools-sustained-process-improvements.md) [+M] — instruction changes it
+- [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](../claims/in-situ-simulation-teamwork-gains-lost-without-continuation.md) [~M] — instruction changes it
+- [Teamwork training effects on teamwork are larger for new teams, but effects on team performance are larger for intact teams](../claims/team-type-moderates-teamwork-training-effects.md) [~M] — instruction changes it
+- [Teamwork training improves teamwork behaviors only when two or more teamwork dimensions are targeted](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [~M] — instruction changes it
+- [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](../claims/teamwork-training-improves-teamwork-behaviors.md) [+M] — instruction changes it
+- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](../claims/didactic-education-fails-to-improve-teamwork.md) [~M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

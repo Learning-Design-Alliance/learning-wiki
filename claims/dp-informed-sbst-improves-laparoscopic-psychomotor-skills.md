@@ -55,3 +55,6 @@ Systematic review of ten studies (five RCTs, five observational) on DP-informed 
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related
+- [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](intraoperative-feedback-improves-surgical-performance.md) — related
+- [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — a broader claim this one bears on
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related

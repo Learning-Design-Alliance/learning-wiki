@@ -64,3 +64,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
+- [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — reports the opposite

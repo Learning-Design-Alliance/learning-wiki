@@ -72,3 +72,5 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [SEM intervention periods of no more than 18 sessions are effective; periods of 18 or more sessions show no significant effect](sem-period-moderator.md) — related
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related
+- [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related

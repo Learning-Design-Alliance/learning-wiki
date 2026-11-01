@@ -51,6 +51,7 @@ The review recommends that future evaluations of MBIs for youth move beyond smal
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
+- [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
 
 ## Examples
 -

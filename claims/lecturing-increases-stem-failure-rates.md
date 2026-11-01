@@ -52,3 +52,4 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](active-learning-results-favor-experimental-group.md) — related
 - [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](traditional-methodology-higher-failure-probability.md) — related
+- [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related

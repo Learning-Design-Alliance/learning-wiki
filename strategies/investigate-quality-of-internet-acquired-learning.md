@@ -50,6 +50,7 @@ The review recommends that future studies investigate the quality/performance of
 ## Related Strategies
 
 - [Develop mobile health applications that account for caregiver age and technology familiarity](mhealth-apps-account-for-caregiver-age-and-tech-familiarity.md)
+- [Incorporate internet and widely used smartphone applications into future EBP teaching to foster online interactive learning and engagement](technology-enhanced-ebp-teaching-strategy.md)
 
 ## Examples
 -

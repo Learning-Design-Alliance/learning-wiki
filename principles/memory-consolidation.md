@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (23 for, 17 mixed, 3 against) · 54 studies (30 causal, 11 review, 9 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 36 claims rest on one study
+> **Evidence** · 45 claims (24 for, 18 mixed, 3 against) · 56 studies (30 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 15 of 56 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](../claims/hands-on-booster-fewer-life-supporting-errors.md) [+W]
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](../claims/cpr-skills-decay-3-6-months.md) [+W]
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](../claims/monthly-practice-depth-volume-decline.md) [+W]
+- [Outcomes measured immediately after the intervention show larger ITS effects than end-of-year measurement](../claims/its-larger-effects-immediate-measurement.md) [~W]
+- [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](../claims/single-workshop-no-literature-searching-gain.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

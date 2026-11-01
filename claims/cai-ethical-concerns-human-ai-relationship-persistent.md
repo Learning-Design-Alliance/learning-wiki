@@ -70,3 +70,4 @@ The review's synthesis of ethical aspects across 34 review articles (RQ3), ident
 - [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related
 - [Privacy concerns and trust in technology contributed to user interactions by 25% and 31% respectively](privacy-trust-contribute-user-interactions-25-31-percent.md) — related
 - [Teachers and students identify usability, learning analytics, emotion detection, trustworthiness, and privacy as required technological aspects for PAs](pa-technological-requirements-usability-analytics-trust.md) — related
+- [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related

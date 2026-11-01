@@ -56,3 +56,4 @@ The CST handbook chapter on rural turnaround argues that people are at the heart
 - [Connecting CT education to real community opportunities is powerful for teachers and students](connect-ct-to-community-opportunities.md) — a narrower finding that bears on this claim
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — a broader claim this one bears on
 - [Principals credit LSCs with helping initiate new school-community partnerships, supporting the claim that LSCs build social capital in urban neighborhoods](lsc-community-partnerships-social-capital.md) — related
+- [The highest page revision and discussion levels were observed in a small wiki reserved to a closed community, suggesting strong user commitment can overcome volunteering limitations](closed-community-high-revision-levels.md) — related

@@ -116,3 +116,4 @@ Across 30 pooled effects, learner prior knowledge did not significantly moderate
 - [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [Instructional design principles are rarely reported in medical CBL software, with the media principle most common at 29.5% of studies](instructional-design-principles-rarely-reported-cbl.md) — related

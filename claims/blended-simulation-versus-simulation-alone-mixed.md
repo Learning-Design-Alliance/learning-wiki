@@ -76,3 +76,4 @@ Mixed-methods study of 46 interprofessional students comparing combined classroo
 - [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related
+- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — related

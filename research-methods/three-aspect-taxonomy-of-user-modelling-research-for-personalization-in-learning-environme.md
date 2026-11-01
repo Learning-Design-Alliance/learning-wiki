@@ -26,7 +26,8 @@ The article organizes personalization research in learning environments into thr
 - [The review reports that user studies on personality-adapted conversational agent feedback yielded two algorithms refined after a teacher study](../claims/personality-adapted-feedback-algorithms.md) [+M]
 
 ## Related Research Methods
--
+
+- [Ten-topic-area taxonomy of family medicine education research](ten-topic-area-taxonomy-of-family-medicine-education-research.md)
 
 ## Key Sources
 - Olga C. Santos, Milos Kravcik, Jesus G. Boticario. (2016). Preface to Special Issue on User Modelling to Support Personalization in Enhanced Educational Settings. Int J Artif Intell Educ 26:809–820. https://doi.org/10.1007/s40593-016-0114-z

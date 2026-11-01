@@ -47,3 +47,5 @@ The review reports that "Supervised resident training reduced operative time aft
 ## Related Claims
 - [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — related
 - [Only one included study assessed predictive validity, showing a curriculum including body donor lab sessions improved real-patient laparoscopic performance over conventional training](single-predictive-validity-study-palter.md) — related
+- [Individual progression of residents had a positive effect on patient outcomes, reported in seven studies](individual-resident-progression-positive-outcomes.md) — a broader claim this one bears on
+- [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — related

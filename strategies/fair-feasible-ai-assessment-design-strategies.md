@@ -48,6 +48,7 @@ The article recommends concrete design actions for fair, feasible implementation
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Implement a coordinated set of safeguards: data-protection policies, fairness-oriented algorithms, assessment redesign, teacher professional development, subsidised tools, and infrastructure investment](ai-math-safeguard-strategy-set.md)
 - [Treat pathway legitimacy as a design target: ensure alternative routes are perceived as legitimate, usable, and socially recognized](pathway-legitimacy-design-target.md)
+- [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 
 ## Examples
 -

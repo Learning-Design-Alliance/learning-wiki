@@ -60,3 +60,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
+- [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim

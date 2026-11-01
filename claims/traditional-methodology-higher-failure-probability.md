@@ -79,3 +79,4 @@ Meta-analysis of 45 samples reporting pass/fail or DFW rates. The article report
 - [Probability of a passing grade (5–7) is higher under traditional methodology](traditional-methodology-higher-pass-band-probability.md) — related
 - [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
+- [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related

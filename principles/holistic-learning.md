@@ -149,6 +149,8 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 
 ## Examples
 
+- [Develop detailed and comprehensive VR modules that include all steps of construction processes](../strategies/detailed-comprehensive-vr-modules.md)
+
 ### Illustrative
 
 **[Reigeluth's Elaboration Theory](../patterns/elaboration-theory.md)** — Learners begin with an epitome or simple whole, then elaborate progressively while keeping the larger structure in view.

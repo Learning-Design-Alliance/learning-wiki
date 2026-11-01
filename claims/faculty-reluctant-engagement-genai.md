@@ -58,3 +58,4 @@ The review reports Saravanan et al.'s qualitative study of three focus groups wi
 - [Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety](stakeholder-communities-differential-genai-focus.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
+- [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — a broader claim this one bears on

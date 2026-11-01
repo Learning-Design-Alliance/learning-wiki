@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 160 claims (76 for, 73 mixed, 11 against) · 133 studies (25 associational, 24 review, 23 qualitative, 22 quant-synthesis, 20 causal, 14 design, 5 theoretical), `q1`–`q4` · 29 of 133 report an effect size · 157 claims rest on one study
+> **Evidence** · 161 claims (77 for, 73 mixed, 11 against) · 134 studies (25 review, 25 associational, 23 qualitative, 22 quant-synthesis, 20 causal, 14 design, 5 theoretical), `q1`–`q4` · 29 of 134 report an effect size · 158 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -185,6 +185,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Online training was more effective than written manuals for knowledge (SMD 0.99) but showed no difference for clinical behaviour, at very low evidence quality](../claims/online-vs-manual-knowledge-superior.md) [~W]
 - [Digital education on clinical practice guidelines is at least as effective as traditional learning for knowledge (pooled SMD 0.23, non-significant)](../claims/digital-education-guidelines-knowledge-vs-traditional.md) [~W]
 - [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](../claims/online-vs-workshop-no-difference-hcp.md) [+W]
+- [Educational technologies in PBL show generally positive effects on student learning in health sciences education](../claims/edtech-pbl-generally-positive-effects-health-sciences.md) [+W] — attached 2026-11-01 from Jun J (2014), which proposed "Learning software and digital learning objects as PBL interventions".
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

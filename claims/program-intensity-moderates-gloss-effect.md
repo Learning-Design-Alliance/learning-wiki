@@ -51,3 +51,4 @@ Moderator analysis comparing high- and low-intensity treatment duration subgroup
 - [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related
 - [Research design does not significantly moderate the gloss effect: randomized (ES = 1.16) versus matched (ES = 0.71) studies do not differ significantly](research-design-not-significant-gloss-moderator.md) — related
 - [Sample size does not significantly moderate the gloss effect: large studies (ES = 0.88) versus small studies (ES = 0.72) do not differ significantly](sample-size-not-significant-gloss-moderator.md) — related
+- [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related

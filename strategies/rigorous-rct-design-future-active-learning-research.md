@@ -63,6 +63,9 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
+- [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
+- [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
+- [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 
 ## Examples
 -

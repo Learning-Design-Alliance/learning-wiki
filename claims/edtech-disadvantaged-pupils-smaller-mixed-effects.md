@@ -71,3 +71,4 @@ Meta-analytic subgroup where disadvantaged students were part of the sample: "a 
 - [No clear evidence that Medly's effect differed by Pupil Premium disadvantage status](medly-no-differential-impact-pupil-premium.md) — reports the opposite
 - [Evidence for metacognitive intervention effectiveness in low-SES populations is inconsistent and weak despite the interventions' high-impact toolkit rating](metacognitive-interventions-low-ses-evidence-weak.md) — related
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
+- [ITS effects are similar for low-achieving students and the general student population](its-effects-similar-low-achievers-general-population.md) — related

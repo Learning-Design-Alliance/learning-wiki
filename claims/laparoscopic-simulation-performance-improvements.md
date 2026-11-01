@@ -54,3 +54,4 @@ The review's narrative synthesis of its included experimental and quasi-experime
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Only one of 11 included studies directly addressed Surgical Instrumentation students, making most evidence indirect for that field](surgical-instrumentation-evidence-limited-one-study.md) — related
 - [Simulation-based leadership training is associated with improved leadership performance in surgical settings, with reported gains of 2–4 points on behavioral scales](simulation-leadership-training-improves-surgical-leadership.md) — related
+- [Simulation-based training increases economy of movement in laparoscopic surgery](simulation-training-increases-economy-of-movement.md) — a narrower finding that bears on this claim

@@ -50,3 +50,5 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](vr-surgery-training-improves-knowledge-self-confidence.md) — related
+- [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — reports the opposite
+- [VR design review simulation improves construction students' error detection compared with 2D drawings](vr-design-review-improves-error-detection.md) — related

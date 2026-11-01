@@ -130,3 +130,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — a narrower finding that bears on this claim
 - [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](hf-simulation-transfer-untested.md) — reports the opposite
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a narrower finding that bears on this claim
+- [Analytic clinical judgment not informed by high internal validity synthesis becomes obsolete and faces systematic error](uninformed-clinical-judgment-obsolete.md) — related

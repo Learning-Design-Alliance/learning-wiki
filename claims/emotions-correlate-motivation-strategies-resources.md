@@ -79,3 +79,4 @@ Same correlational dataset (N = 230 university students). The authors report rel
 - [Suggesting the SPP at detected boredom did not change its use: students were almost never bored, so SPP use was not reliably different between conditions](spp-boredom-suggestion-null.md) — related
 - [Medical students' positive emotions correlate with better diagnostic performance in a computer-based learning environment](positive-emotions-correlate-diagnostic-performance-medical-students.md) — a narrower finding that bears on this claim
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
+- [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](negative-feedback-emotional-responses-detrimental-consequences.md) — related

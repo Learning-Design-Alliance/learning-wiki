@@ -52,3 +52,4 @@ Meta-analysis of six articles evaluating critical thinking/knowledge in PBL vers
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related
 - [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](pbl-similar-learning-outcomes-pgme.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related

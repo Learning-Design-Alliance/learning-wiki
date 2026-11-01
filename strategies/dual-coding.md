@@ -58,9 +58,11 @@ Combining words and pictures consistently outperforms words alone for transfer a
 6. Check for redundancy: if narrating, do not display the full narration text on screen.
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — worked examples typically pair solution steps (verbal) with annotated problem states (visual), enacting dual coding
 - [Chunking](../principles/chunking.md) — manages the visual-channel load that complex diagrams can create
 - [Advance Organizers](use-advance-organizers.md) — a visual organizer presented before verbal content primes integration
+- [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated problem solving on a shared visual workspace; the writing appears as it is spoken, maintaining temporal contiguity.

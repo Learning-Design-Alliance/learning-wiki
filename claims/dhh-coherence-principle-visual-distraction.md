@@ -54,3 +54,4 @@ A subset of responses articulating issues with caption formatting or excessive s
 - [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](dhh-communication-preference-predicts-feature-attention.md) — related
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](dhh-presentation-visuals-facilitate-learning.md) — related
 - [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — related
+- [Instructional design principles are rarely reported in medical CBL software, with the media principle most common at 29.5% of studies](instructional-design-principles-rarely-reported-cbl.md) — related

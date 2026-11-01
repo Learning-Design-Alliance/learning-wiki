@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 339 claims (147 for, 168 mixed, 24 against) · 253 studies (90 associational, 61 design, 42 review, 25 theoretical, 22 causal, 10 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 253 report an effect size · 332 claims rest on one study
+> **Evidence** · 347 claims (152 for, 171 mixed, 24 against) · 259 studies (90 associational, 61 design, 45 review, 25 theoretical, 22 causal, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 259 report an effect size · 340 claims rest on one study
 
 ## Conditional relationship
 
@@ -237,6 +237,11 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](../claims/osce-5-10-stations-optimal-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
 - [When OSCEs have 5-10 stations, duration per station under 10 minutes yields significantly better internal consistency (alpha = 0.88) than 10 or more minutes (alpha = 0.64)](../claims/osce-station-duration-under-10-minutes-better-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
 - [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](../claims/interview-reliability-042-limits-validity.md) [+W] — attached 2026-11-01 from Kreiter Clare et al. (2018), which proposed "Format traditional interviews to yield a reliable score, e.g., by engaging each applicant in multiple independent interviews"; tests this page's relationship.
+- [Meaning-dependent (reading) short-answer items reliably lower LLM agreement with human raters compared with more fact-based science items](../claims/meaning-dependence-lowers-llm-scoring-agreement.md) [+W] — attached 2026-11-01 from Michael Hardy (2026), which proposed "Treat meaning-dependent items as a separate evaluation regime rather than averaging them with surface-aligned items".
+- [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](../claims/modest-validity-evidence-safety-tools.md) [+W] — attached 2026-11-01 from Okuyama Ayako et al. (2011), which proposed "Provide sufficient rater-training for summative assessment with behavioural marker systems".
+- [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](../claims/no-construct-validity-procedural-assessment-tools.md) [+W] — attached 2026-11-01 from Morris Marie C. et al. (2012), which proposed "Develop standardised assessment tools with proven reliability and validity for end-point procedural skills certification".
+- [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](../claims/limited-reliability-procedural-tools-kappa-range.md) [+W] — attached 2026-11-01 from Morris Marie C. et al. (2012), which proposed "Develop standardised assessment tools with proven reliability and validity for end-point procedural skills certification".
+- [Construct-level predictive validities (mean .450) are substantially higher than raw predictor-outcome correlations (mean .171) across 57 predictor-outcome pairs in medical student selection](../claims/clpv-substantially-higher-than-raw-poc.md) [+W] — attached 2026-11-01 from McManus IC et al. (2013), which proposed "Judge selection measures by construct-level predictive validity, not by correlations within the selected group"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -413,6 +418,9 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](../claims/hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) [~W]
 - [Validity evidence across ophthalmic simulators is sparse: only two studies provided evidence for all five sources of validity assessment, and the Eyesi Surgical is the most extensively assessed model with 33 validity studies.](../claims/only-two-studies-all-five-validity-sources-eyesi-most-assessed.md) [~W]
 - [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](../claims/lmc-construct-validity-dexterity-assessment.md) [+W]
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](../claims/rubric-guided-grading-human-agreement.md) [~W]
+- [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](../claims/self-reports-unreliable-for-attitude-change.md) [~W]
+- [Morse's nasogastric tube tool assesses interpersonal skills with only four tube-preparation items and no reliability or validity data](../claims/ng-tube-tool-incomplete-procedural-assessment.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

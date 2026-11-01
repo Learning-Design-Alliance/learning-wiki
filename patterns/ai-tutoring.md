@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 418 claims (187 for, 175 mixed, 56 against) · 286 studies (107 causal, 60 review, 38 design, 28 theoretical, 21 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 59 of 286 report an effect size · 402 claims rest on one study
+> **Evidence** · 421 claims (188 for, 177 mixed, 56 against) · 288 studies (107 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 59 of 288 report an effect size · 405 claims rest on one study
 
 ## Description and scope
 
@@ -399,6 +399,9 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 - [LLM-based teaching is associated with higher post-course score-based outcomes than non-AI teaching in an exploratory pooled synthesis (SMD 0.90), with very high heterogeneity](../claims/llm-teaching-exploratory-post-course-score-advantage.md) [+W]
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
+- [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](../claims/overreliance-superficial-learning-risk.md) [~W]
+- [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](../claims/personalized-feedback-top-benefit.md) [+W]
+- [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](../claims/reminders-most-common-dialogue-support.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

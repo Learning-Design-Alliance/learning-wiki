@@ -50,3 +50,4 @@ Meta-analysis of eight RCTs reporting teaching satisfaction, split into count-da
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
+- [Simulation-based training increases learner interest and satisfaction compared with non-simulation based training for airway management](sbt-learner-interest-satisfaction-airway.md) — related

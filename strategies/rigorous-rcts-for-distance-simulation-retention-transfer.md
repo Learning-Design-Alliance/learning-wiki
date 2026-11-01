@@ -56,6 +56,7 @@ Based on the evidence gaps it identifies, the review recommends that future work
 - [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
 - [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
+- [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 
 ## Examples
 -

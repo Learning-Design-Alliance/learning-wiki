@@ -48,3 +48,4 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Digital and virtual classroom suturing training can cost less than face-to-face training, with printed savings of 58.9% and 44.2%](digital-suturing-training-cost-savings.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a broader claim this one bears on
+- [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related

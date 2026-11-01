@@ -59,3 +59,4 @@ Comparison of cardiac sensing configurations at different body locations (chest 
 - [Densely sampled visual frames and sensor representations offered no reliable predictive advantage over the 1 FPS setting in the higher-frequency experiment](higher-frequency-sampling-no-reliable-advantage-over-1fps.md) — related
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
 - [Static HRV devices were associated with high-correlation studies, while wristband and chest belt wearables showed no significant difference in correlation levels](hrv-device-accuracy-static-vs-wearable.md)
+- [Multimodal sensor fusion outperforms single sensors for detecting learner states, yet few studies integrate continuous biometric monitoring with elementary learning outcomes](multimodal-fusion-outperforms-single-sensors-lab-classroom-gap.md) — related

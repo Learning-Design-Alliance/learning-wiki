@@ -68,3 +68,4 @@ Table 3's third scored dimension shows a significant group difference (F = 4.32,
 - [Teaching a ChatGPT agent does not significantly improve code correctness compared with writing code independently from videos](chatgpt-teachable-agent-no-correctness-gain.md) — related
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [Teaching a ChatGPT agent does not significantly change students' test anxiety](chatgpt-teaching-test-anxiety-no-difference.md) — related
+- [Learning-by-teaching with robots and teachable agents is theoretically grounded in cooperative learning mechanisms, but direct experimental evaluations in elementary STEM classrooms remain limited](learning-by-teaching-robots-limited-direct-evidence.md) — related

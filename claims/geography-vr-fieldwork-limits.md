@@ -69,3 +69,4 @@ The Geography case study's teacher-capabilities section states that Geography te
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — reports the opposite
 - [Learning in immersive VR produces higher self-reported presence, agency, location, body ownership, and embodied learning than learning via a PC screen](vr-higher-presence-agency-embodied-learning-than-pc.md) — reports the opposite
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — related

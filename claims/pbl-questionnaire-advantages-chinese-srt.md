@@ -61,3 +61,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — a narrower finding that bears on this claim
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — a narrower finding that bears on this claim
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
+- [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related

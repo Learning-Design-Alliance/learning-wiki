@@ -99,3 +99,4 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 - The effect size does not vary significantly with sample size or publication year in meta-regression — related
 - [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related
 - [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related
+- [Gender moderates only the attitude–intention relationship: higher male ratio strengthens the attitude–intention correlation](gender-moderates-only-attitude-genai.md) — related

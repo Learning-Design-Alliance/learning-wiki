@@ -30,6 +30,7 @@ Building on Wang et al. (2024) and Dai et al. (2025), the review organizes AI ap
 - [Working classification of chatbot and language-model technologies for AI coaching](working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching.md)
 - [Classification framework distinguishing global quality, global process quality, quality pedagogical interactions, and quality interactions related to curriculum content](classification-framework-distinguishing-global-quality-global-process-quality-quality-peda.md)
 - [Eight-category functional taxonomy of AI technologies in school EFL teaching](eight-category-functional-taxonomy-of-ai-technologies-in-school-efl-teaching.md)
+- [Eight-category taxonomy of AI technologies in elementary STEM education](eight-category-taxonomy-of-ai-technologies-in-elementary-stem-education.md)
 
 ## Key Sources
 - Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S., Danek, A. H., Greiff, S., Rausch, A., Seeber, S., Seifried, J., & Winther, E. (2026). Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness. Computers and Education: Artificial Intelligence 11 (2026) 100628. https://doi.org/10.1016/j.caeai.2026.100628

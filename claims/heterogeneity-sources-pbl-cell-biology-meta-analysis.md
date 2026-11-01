@@ -69,3 +69,4 @@ Subgroup analysis (Table 3) classified studies by teacher sameness, examination 
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [Same-teacher subgroups show no heterogeneity while different-teacher subgroups are highly heterogeneous (I2 = 96.4%)](same-teacher-subgroup-homogeneous-different-teacher-heterogeneous.md) — related
 - [Student expertise level and course type explain heterogeneity in PBL+LBL versus LBL effects](expertise-and-course-type-heterogeneity-pbl-lbl.md)
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related

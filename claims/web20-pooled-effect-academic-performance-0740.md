@@ -48,3 +48,7 @@ Meta-analysis of 19 journal-article studies with quasi-experimental pretest-post
 - [Wiki and blog effects on academic performance are stronger at K12 level (E++ = 0.845) than higher education (E++ = 0.71), with negative effect sizes occurring only in higher education studies](web20-effect-stronger-k12-than-higher-education.md) — a narrower finding that bears on this claim
 - Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts — related
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
+- [Blogging did not improve student performance on tests and examinations once student ability was controlled in one experimental study](blog-participation-not-correlated-performance-controlled-ability.md) — reports the opposite
+- [Blogging improved academic performance in problem-based learning in one experimental study](blogging-improved-academic-performance-pbl.md) — a narrower finding that bears on this claim
+- [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](blogging-positive-engagement-mixed-experimental.md) — related
+- [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](other-technologies-mixed-null-effects.md) — reports the opposite

@@ -52,3 +52,4 @@ Preliminary correlational analysis (Table 2) of the 842-respondent Lesotho surve
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — reports the opposite
+- [Performance expectancy is the second strongest correlate of college students' intention to use GenAI (r = 0.389)](performance-expectancy-second-genai-intention.md) — related

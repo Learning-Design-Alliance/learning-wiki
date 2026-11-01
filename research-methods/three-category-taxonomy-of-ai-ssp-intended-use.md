@@ -26,7 +26,8 @@ The review organizes the 20 unique AI-SSP systems by their primary intended use 
 - [AI-SSP backend architectures shifted from rule-based or NLP systems before 2022 to LLM-based systems in all studies published after 2022](../claims/ai-ssp-architecture-shift-rule-based-to-llm.md) [+W]
 
 ## Related Research Methods
--
+
+- [Eight-category taxonomy of AI technologies in elementary STEM education](eight-category-taxonomy-of-ai-technologies-in-elementary-stem-education.md)
 
 ## Key Sources
 - Zhang Wenjia (Stella), Daniels Benjamin B, Mita Carol, Nguyen Hoang, Duong David B. (2026). AI for Clinical Competency Assessment: Scoping Review of Methods and Applications. JMIR Medical Education. https://doi.org/10.2196/92826

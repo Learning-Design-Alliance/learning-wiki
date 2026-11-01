@@ -112,6 +112,8 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Immersive navigation inside musical rooms for active genre listening](immersive-musical-rooms-navigation.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
+- [Develop detailed and comprehensive VR modules that include all steps of construction processes](detailed-comprehensive-vr-modules.md)
+- [Design XR interfaces for young learners with embodied tasks, direct manipulation, and layered spatial scaffolds](elementary-xr-interface-design-principles.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

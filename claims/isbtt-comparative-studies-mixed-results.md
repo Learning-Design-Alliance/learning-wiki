@@ -50,3 +50,4 @@ The review's synthesis of 16 articles comparing training approaches; it also rep
 - [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related
+- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — related

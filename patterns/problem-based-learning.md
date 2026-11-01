@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 127 claims (41 for, 76 mixed, 10 against) · 73 studies (30 quant-synthesis, 16 causal, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 20 of 73 report an effect size · 122 claims rest on one study
+> **Evidence** · 139 claims (47 for, 81 mixed, 11 against) · 76 studies (32 quant-synthesis, 16 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 76 report an effect size · 134 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ The twelve claims listed here before that wave were read against the model on 20
 - [PBL is associated with improved self-reported behavioural outcomes in PGME residents](../claims/pbl-improves-self-reported-behaviours.md) [+W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [~W] — attached 2026-10-31 from Ge Wei-Li et al. (2025), which proposed "Introduce organized learning early in the curriculum and gradually expand active, self-directed learning as students master foundational knowledge"; tests this page's relationship.
 - [3D-PBL is the most effective orthopedic teaching method across all measured outcomes in Chinese undergraduate and postgraduate education](../claims/3d-pbl-most-effective-orthopedic-teaching-china.md) [+W] — attached 2026-10-31 from Gu Peng et al. (2026), which proposed "Educational institutions should adopt 3D-PBL and invest in 3D-technology teacher training, practical teaching platforms, and diversified evaluation"; tests this page's relationship.
+- [PBL is more effective for laboratory courses than for theory courses in Chinese undergraduate medical education](../claims/pbl-more-effective-laboratory-than-theory-courses.md) [+W] — attached 2026-11-01 from Zhang Yanqi et al. (2015), which proposed "Apply PBL preferentially in laboratory course settings where small-group work aligns with hands-on assessment".
 
 ## Illustrative design instance and observation record
 
@@ -219,6 +220,17 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](../claims/pbl-questionnaire-positive-outcomes-radiology.md) [+W]
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [~W]
 - [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](../claims/pbl-lbl-hybrid-better-record-writing-scores.md) [~W]
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](../claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
+- [PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)](../claims/pbl-knowledge-five-year-system-subgroup.md) [~W]
+- [PBL advantage on skill scores holds in the five-year school-system subgroup (SMD = 1.08)](../claims/pbl-skill-five-year-system-subgroup.md) [+W]
+- [PBL yields higher course examination excellence rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-excellence-rates-chinese-medical-courses.md) [+W]
+- [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-pass-rates-chinese-medical-courses.md) [+W]
+- [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](../claims/pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
+- [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](../claims/pbl-lbl-combination-no-significant-pass-rate-gain.md) [-W]
+- [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [~W]
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](../claims/pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) [~W]
+- [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](../claims/vpbl-equally-effective-as-text-based-pbl.md) [~W]
+- [PBL vs LBL alone produces higher excellence rates than PBL+LBL vs LBL in Chinese medical courses](../claims/pbl-alone-higher-excellence-than-pbl-lbl-combination.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

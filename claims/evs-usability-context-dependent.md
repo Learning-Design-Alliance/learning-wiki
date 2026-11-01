@@ -50,3 +50,4 @@ SUS usability scale administered as part of the survey; the modified 10-item SUS
 - [First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components](first-time-builder-v41-validation.md) — a narrower finding that bears on this claim
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — related

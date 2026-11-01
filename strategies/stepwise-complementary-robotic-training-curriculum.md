@@ -57,6 +57,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](ads-curricular-integration-strategy.md)
 - [Develop universal objective assessment and feedback methods that go beyond time and motion to capture tissue handling and interaction forces](universal-objective-assessment-tissue-force-feedback.md)
+- [Combine background theory, video demonstrations, and simulator training in an integrated endoscopy curriculum (GATE model)](gate-integrated-endoscopy-training-concept.md)
 
 ## Examples
 -

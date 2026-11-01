@@ -79,3 +79,4 @@ Leave-one-out sensitivity analysis for self-efficacy: the effect "remained not s
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' satisfaction](hfps-no-significant-satisfaction-difference.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-confidence](hfps-no-significant-self-confidence-difference.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](hfps-no-significant-self-efficacy-difference.md) — related
+- [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related

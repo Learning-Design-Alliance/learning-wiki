@@ -72,3 +72,4 @@ The review's RQ4 synthesis states this is particularly valuable in fields such a
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related
+- [LLM-generated worked examples and practice sets are often rated usable and helpful by novices, with quality varying and benefiting from instructor review](llm-materials-quality-variance.md) — related

@@ -53,3 +53,4 @@ The review attributes this position to Stolpe et al. (2026) and their Discipline
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — a narrower finding that bears on this claim
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — related
+- [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related

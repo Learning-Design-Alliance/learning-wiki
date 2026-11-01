@@ -54,3 +54,4 @@ The review's narrative synthesis of the two trials reporting long-term outcomes.
 - [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](hf-skill-retention-three-months.md) — reports the opposite
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — a broader claim this one bears on
+- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — related

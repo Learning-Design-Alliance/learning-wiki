@@ -48,6 +48,7 @@ Based on the observed limits of trial-and-error prompting, the authors recommend
 - [Combine strategic mindset intervention with explicit strategy training for less-prepared learners](combine-strategic-mindset-with-strategy-training.md)
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](scaffold-hypothesis-formation-before-testing.md)
 - [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
+- [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 
 ## Examples
 -

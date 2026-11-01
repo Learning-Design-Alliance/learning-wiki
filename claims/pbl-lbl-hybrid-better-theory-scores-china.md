@@ -57,3 +57,4 @@ Meta-analysis of the 20 included RCTs reporting the clinical theory assessment s
 - [Students rate teaching as satisfactory more often under PBL+LBL than LBL, with no significant differences for ordinary or poor ratings](pbl-lbl-higher-teaching-satisfaction.md) — related
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — possibly the same claim (merge candidate)
 - [Effects of PBL+LBL differ between practical and theoretical courses for some outcomes](pbl-lbl-subgroup-practical-theoretical-courses.md) — related
+- [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](pbl-lbl-combination-no-significant-pass-rate-gain.md) — related

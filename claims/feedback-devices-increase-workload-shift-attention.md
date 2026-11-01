@@ -49,3 +49,4 @@ Narrative synthesis citing Wagner et al. (2022), which investigated the effect o
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
+- [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](mock-code-training-pediatric-survival-increase.md) — related

@@ -39,7 +39,8 @@ The article demonstrates using a Delphi methodology to generate consensus among 
 - Establishing shared conceptual definitions and competencies in learning design fields
 
 ## Related Strategies
-- 
+
+- [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
 
 ## Examples
 -

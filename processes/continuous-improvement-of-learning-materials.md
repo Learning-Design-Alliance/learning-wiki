@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 22 studies (5 causal, 5 quant-synthesis, 4 review, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 23 studies (5 causal, 5 quant-synthesis, 5 review, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 16 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -88,6 +88,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](../claims/proxy-optimization-engagement-trap.md) [~W]
 - [Per-exercise analysis accuracy improved from 15 of 27 exercises above 80% to all 27 above 80% in the third version](../claims/php-its-per-exercise-accuracy-improvement.md) [+W]
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](../claims/questionnaire-wording-affects-lda-topics.md) [~W]
+- [Evidence on online activity as a predictor of learning outcomes is mixed: 54% of studies measuring activity found no relationship with outcomes](../claims/online-activity-outcome-correlations-mixed.md) [~W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

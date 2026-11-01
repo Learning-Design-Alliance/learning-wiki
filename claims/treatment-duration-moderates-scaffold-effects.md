@@ -63,3 +63,5 @@ Moderator analysis of treatment duration across six coded bands in the 29 studie
 - [The effect of computer-based teaching on academic success does not differ significantly by implementation period, with the largest effect size in the nine-to-eighteen week period (ES = 1.87)](cbt-effect-no-difference-by-implementation-period.md) — related
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — reports the opposite
 - [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
+- [Delivery-quality improvements are highest in the medium term (6–12 months) and decrease by 12 months](delivery-quality-improvements-highest-medium-term-decrease-long-term.md) — related
+- [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related

@@ -61,3 +61,4 @@ The evidence is students' own account in reflective essays from one design study
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related
 - [After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs](scaffolded-strategy-talk-repurposed-critical-evaluation.md) — related
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](output-evaluation-competence-gains.md) — related
+- [Positive GenAI personalization outcomes commonly co-occur with artifact grounding, quality assurance loops, graduated scaffolding, and AI literacy integration](implementation-conditions-positive-outcomes.md) — a broader claim this one bears on

@@ -64,6 +64,7 @@ MEAs operationalize model-building as the unit of learning: learners reveal and 
 - [Problem-Based Learning](problem-based-learning.md) — similar ill-structured team format; MEAs differ in requiring a documented, generalizable product
 - [Productive Failure](productive-failure.md) — MEAs often function as a productive-failure phase preceding direct instruction on canonical methods
 - [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
+- [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 
 ## Examples
 - **Purdue University first-year engineering** — the "Little Betsy" and "Nanotechnology" MEAs (Diefes-Dux et al.) have teams design procedures for ranking or quality-control decisions; widely replicated across engineering programs ([https://engineering.purdue.edu/ENE/Research/immex](https://engineering.purdue.edu/ENE/Research/immex))

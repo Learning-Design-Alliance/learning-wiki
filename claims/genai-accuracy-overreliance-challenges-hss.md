@@ -79,3 +79,4 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
 - [Students' concerns about GenAI do not differ significantly from neutral, with over-reliance the top-rated concern](genai-concerns-neutral-overreliance-top.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
+- [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related

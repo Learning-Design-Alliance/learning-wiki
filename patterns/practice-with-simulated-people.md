@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 165 claims (79 for, 68 mixed, 18 against) · 87 studies (31 review, 17 causal, 15 quant-synthesis, 10 design, 9 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 87 report an effect size · 160 claims rest on one study
+> **Evidence** · 170 claims (81 for, 71 mixed, 18 against) · 90 studies (33 review, 17 causal, 15 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 90 report an effect size · 165 claims rest on one study
 
 ## Description and scope
 
@@ -199,6 +199,11 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context](../claims/vp-patient-representation-depersonalization.md) [-W]
 - [VP collection may convey a hidden curriculum through unrepresentative demographics](../claims/vp-collection-hidden-curriculum.md) [~W]
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](../claims/vp-design-variants-insufficient-evidence.md) [~W]
+- [Only 37.2% of residents were high performers in medication reconciliation after a standardized patient discharge encounter, with primary care program residents more likely to be high performers](../claims/residents-high-performers-medication-reconciliation-37-percent.md) [~W]
+- [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](../claims/mock-code-training-pediatric-survival-increase.md) [+W]
+- [Availability and scalability are described as key technology advantages of virtual patients over real-patient contact](../claims/vp-technology-availability-scalability.md) [+W]
+- [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](../claims/vp-authenticity-interactivity-feedback.md) [~W]
+- [Legal and technical issues are described as the main challenges of developing and using virtual patients](../claims/vp-challenges-legal-technical.md) [~W]
 
 ## Examples
 

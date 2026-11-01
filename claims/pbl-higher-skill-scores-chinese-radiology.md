@@ -54,3 +54,5 @@ Meta-analysis of 13 studies involving 1090 medical students (PBL group = 545, co
 - [TBL and PBL show no significant difference in practical skill scores](tbl-pbl-no-difference-practical-skills.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [PBL is more effective for laboratory courses than for theory courses in Chinese undergraduate medical education](pbl-more-effective-laboratory-than-theory-courses.md) — related
+- [PBL advantage on skill scores holds in the five-year school-system subgroup (SMD = 1.08)](pbl-skill-five-year-system-subgroup.md) — related

@@ -75,3 +75,5 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' satisfaction](hfps-no-significant-satisfaction-difference.md) — related
 - [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — reports the opposite
+- [Workshop, simulation, and team-review methods improve teamwork behaviors, but didactic education alone does not](didactic-education-fails-to-improve-teamwork.md) — reports the opposite
+- [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](teamwork-training-improves-teamwork-behaviors.md) — related

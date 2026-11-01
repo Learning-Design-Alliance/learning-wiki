@@ -51,3 +51,4 @@ The review's synthesis of curricula outlined by surgical societies reports that 
 - [A standardised RAS curriculum is feasible and beneficial, and surgical societies have outlined RAS curricula which could be implemented locally.](standardised-ras-curriculum-feasible-beneficial.md) — a broader claim this one bears on
 - [The nature and volume of simulation training and mentorship varied widely across the 29 comprehensive RAS curricula.](ras-curricula-simulation-mentorship-varied-widely.md) — related
 - [All 29 comprehensive RAS curricula included simulation training, with VR simulation (n = 16), dry lab (n = 11), and wet lab/bio-tissue/cadaveric (n = 12) as the most common modalities.](ras-curricula-all-include-simulation.md) — related
+- [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related

@@ -62,3 +62,5 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Usefulness, ease of use, social influence, facilitating conditions and community identity each have a significant positive influence on Facebook adoption.](five-factors-significant-positive-influence-facebook-adoption.md) — related
 - [Attitude is the most powerful predictor of behavioral intention to use MALL among higher education learners in Vietnam.](attitude-strongest-predictor-mall-intention.md) — related
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — related
+- [Attitude shows the strongest positive correlation with college students' intention to use GenAI (r = 0.576)](attitude-strongest-correlate-genai-intention.md) — related
+- [Performance expectancy is the second strongest correlate of college students' intention to use GenAI (r = 0.389)](performance-expectancy-second-genai-intention.md) — related

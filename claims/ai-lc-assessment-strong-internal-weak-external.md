@@ -92,3 +92,4 @@ The discussion notes that "AI-based CVS detection systems are the only tools to 
 - [Regulatory oversight by bodies such as the US FDA is presented as critical for fostering trust in AI among clinicians and patients](regulatory-oversight-fosters-trust-in-ai.md) — related
 - [No included study applied automated video metrics longitudinally to training or assessed non-technical skills](no-longitudinal-or-nontechnical-skill-application.md) — related
 - [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related
+- [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](modest-validity-evidence-safety-tools.md) — related

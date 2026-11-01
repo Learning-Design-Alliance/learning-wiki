@@ -60,3 +60,4 @@ Pretest-posttest study with 58 graduate students and no comparison group reporte
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom](mep-scripts-socially-shared-regulation-role-play.md) — related
 - The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related
+- [Blog commenting promoted interaction among participants but did not achieve collaboration for social construction of knowledge or higher-order competencies such as coaching](blog-commenting-interaction-not-knowledge-construction.md) — related

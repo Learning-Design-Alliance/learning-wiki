@@ -55,6 +55,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Combine CBL and PBL approaches in clinical teaching settings to target both theory and practical outcomes](combine-cbl-pbl-clinical-teaching.md)
 - [Introduce and promote PBL pedagogy in undergraduate pharmacology education](promote-pbl-undergraduate-pharmacology.md)
+- [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 
 ## Examples
 -

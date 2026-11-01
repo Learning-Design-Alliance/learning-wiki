@@ -49,3 +49,4 @@ Systematic review of 14 studies of FB SBT for novice trainees (pretest-posttest,
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
 - [Evidence that FB SBT improves bronchoscopy performance in a patient setting (Kirkpatrick level 3) is sparse and conflicting](fb-sbt-patient-setting-evidence-sparse.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
+- [The behavior performance benefit of simulation-based training is only significant for flexible laryngoscopy or bronchoscopy training, not direct laryngoscopy](sbt-behavior-benefit-only-fl-subgroup.md) — related

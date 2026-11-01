@@ -63,6 +63,7 @@ Pairing words with meaningful graphics improves learning because verbal and visu
 - [Analogies](../elements/analogies.md) — a verbal representation that maps an unfamiliar domain onto a familiar visual or experiential one
 - [Chunking](../principles/chunking.md) — governs how much multi-representational content can be presented at once
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
+- [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — physics and chemistry simulations pairing dynamic visuals with adjustable parameters and short verbal prompts; learners see multiple linked representations (graph, motion, symbolic values) update simultaneously.

@@ -40,7 +40,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 42 studies (18 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 associational, 4 qualitative, 1 design), `q1`–`q4` · 4 of 42 report an effect size · 23 claims rest on one study
+> **Evidence** · 33 claims (17 for, 14 mixed, 2 against) · 44 studies (18 causal, 6 review, 6 theoretical, 5 quant-synthesis, 4 associational, 4 qualitative, 1 design), `q1`–`q4` · 4 of 44 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,8 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](../claims/prior-epistemic-frameworks-insufficient-situated-practices.md) [+W]
 - [Explicit video-based instruction nearly doubled students' relevant justifications of overall credibility evaluations relative to control](../claims/video-explicit-instruction-justifying-credibility.md) [+W]
 - [Discernment favoring expert over layperson videos is predicted by justification by authority, openness to revising one's viewpoint, age, and negatively by personal justification](../claims/discernment-score-expert-layperson-predictors.md) [~W]
+- [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](../claims/pharmacy-elective-course-gains-and-preceptor-views.md) [+W]
+- [Ordinary physics courses produce negative or zero shifts in students' expert-like beliefs, while model-building and explicit belief-development courses produce positive shifts](../claims/physics-instruction-belief-shifts-meta-analysis.md) [+W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

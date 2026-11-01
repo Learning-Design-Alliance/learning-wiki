@@ -205,6 +205,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Reducing Test Anxiety](../strategies/reducing-test-anxiety.md) — preparation and sitting conditions aimed at the anxiety source of construct-irrelevant variance
 - [Accommodations](../elements/accommodations.md) — changes to test conditions for learners whose access needs would otherwise be measured instead of the construct
 - [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
+- [Use differential item functioning analysis and psychometric equating studies to validate FCI gender fairness](../strategies/dif-analysis-fci-gender-fairness.md)
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.

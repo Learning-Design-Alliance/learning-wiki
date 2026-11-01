@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-01
 sources:
   - id: themes-1
     title: themes-1
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Synthesis of working-group artifacts from 79 stakeholders yielded four prevalent crosscutting themes: promoting student agency and participation, promoting authentic science and the Framework vision, materials customizations and adaptation, and adoption, implementation, and sustainability. [→ themes-1](#themes-1)

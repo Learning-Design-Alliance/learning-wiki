@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/human-difficulty-does-not-predict-llm-difficulty.md
+---
+
+# Revision history: [claims/human-difficulty-does-not-predict-llm-difficulty](../claims/human-difficulty-does-not-predict-llm-difficulty.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from arxiv-2603.04820 (Autoscoring Anticlimax: A Meta-analytic Understanding of AI's Short-answer Shortcomings and Wording Weaknesses) via eval_harness.py + ingest_extractions.py

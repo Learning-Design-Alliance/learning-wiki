@@ -66,3 +66,4 @@ Subgroup analysis of skill performance by participant seniority (Supplement 5). 
 ## Related Claims
 - [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — a broader claim this one bears on
 - [Knowledge benefit of HF simulation is greater against traditional training (SMD = 0.71) than against LF simulation (SMD = 0.22)](hf-vs-traditional-knowledge-subgroup.md) — related
+- [VR benefits examination scores for medical students but not significantly for residents](vr-anatomy-benefit-medical-students-not-residents.md) — related

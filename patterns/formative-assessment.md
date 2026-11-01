@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (22 for, 25 mixed, 2 against) · 56 studies (17 causal, 14 quant-synthesis, 11 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 56 report an effect size · 38 claims rest on one study
+> **Evidence** · 50 claims (22 for, 26 mixed, 2 against) · 57 studies (17 causal, 14 quant-synthesis, 12 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 57 report an effect size · 39 claims rest on one study
 
 ## Description
 
@@ -217,6 +217,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [Education level does not significantly moderate the effect of formative assessment on student learning](../claims/education-level-no-moderation-formative-assessment.md) [~W]
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](../claims/kluger-denis-feedback-worse-50-of-131.md) [~M]
 - [Feedback and validation, including feedback on actions taken and provision of examples and explanations, are perceived as enabling critical thinking development in SBL using technology](../claims/feedback-validation-enabler-sbl.md) [~W]
+- [Trainee feedback is an inappropriate measure of teacher quality because it may not measure teaching goals, lacks actionable information, and can be manipulated](../claims/trainee-feedback-inappropriate-teacher-quality-measure.md) [~W]
 
 ## Key Sources
 

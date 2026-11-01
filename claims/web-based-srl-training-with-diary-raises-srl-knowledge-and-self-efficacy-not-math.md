@@ -114,3 +114,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Self-efficacy increases after tutoring practice but does not differ by tutoring system](self-efficacy-increases-no-system-difference.md) — related
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
+- [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related

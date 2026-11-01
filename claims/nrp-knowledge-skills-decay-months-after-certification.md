@@ -71,3 +71,5 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
+- [Airway management skills decay significantly after training in both simulation-based and non-simulation based groups, with between-group differences no longer evident at follow-up](airway-skill-decay-both-training-groups.md) — related
+- [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](mock-code-training-pediatric-survival-increase.md) — related

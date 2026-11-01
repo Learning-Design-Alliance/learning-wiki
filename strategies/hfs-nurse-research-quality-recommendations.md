@@ -58,6 +58,8 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
+- [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
+- [Develop standardised delivery-quality assessment using a maximum of two scores (one communication, one content-delivery)](standardised-two-score-delivery-quality-assessment.md)
 
 ## Examples
 -

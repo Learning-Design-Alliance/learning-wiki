@@ -49,6 +49,7 @@ This strategy replaces AI bans with formative oral assessments: after each weekl
 - [Mini homework defenses: short oral one-on-one assessments of student solutions](mini-homework-defenses-oral-assessment.md)
 - [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
+- [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 
 ## Examples
 -

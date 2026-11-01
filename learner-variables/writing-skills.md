@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (118 show a difference, 36 mixed, 26 no difference) · 96 studies (39 causal, 27 associational, 12 review, 11 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 96 report an effect size · 175 claims rest on one study
+> **Evidence** · 181 claims (119 show a difference, 36 mixed, 26 no difference) · 97 studies (39 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 97 report an effect size · 176 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -218,6 +218,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Low-performing handwriting students tend to attend schools with lower socioeconomic index](../claims/low-performers-lower-ses-schools.md) [+M] — instruction changes it
 - [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](../claims/cmc-effect-unequal-across-language-skills.md) [~W] — instruction changes it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
+- [Blogging activities improved students' writing skills and helped develop writer identities across studies](../claims/blogging-improved-writing-skills-writer-identities.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

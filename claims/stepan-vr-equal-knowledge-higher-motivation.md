@@ -56,3 +56,6 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
 - [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](vr-higher-engagement-than-powerpoint-orthodontics.md) — related
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
+- [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
+- [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — reports the opposite
+- [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related

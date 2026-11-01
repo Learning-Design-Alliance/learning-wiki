@@ -55,3 +55,4 @@ Supplemental SEM (Model 4) testing quadratic effects of zero-mean-centered expec
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
 - [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — related
 - [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](task-difficulty-linear-metacognitive-strategies.md) — related
+- [Tokenizer vocabulary size exhibits a concave-down (Goldilocks) relationship with LLM scoring agreement, with diminishing returns beyond moderate sizes](vocab-size-concave-scoring-agreement.md) — a narrower finding that bears on this claim

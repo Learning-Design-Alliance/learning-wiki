@@ -96,3 +96,4 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - Issues of fairness, accountability, transparency and ethics are rarely discussed within AIED and neighboring educational technology research communities — related
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related
 - [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — a broader claim this one bears on
+- [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related

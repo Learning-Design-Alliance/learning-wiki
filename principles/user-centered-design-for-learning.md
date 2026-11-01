@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 27 studies (11 design, 6 causal, 4 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 27 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 28 studies (12 design, 6 causal, 4 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 28 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](../claims/ithinksmart-prototype-feedback-themes.md) [+W]
 - [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](../claims/xr-effort-expectancy-user-friendly-systems.md) [+W]
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](../claims/elearning-usability-evaluations-all-positive.md) [+W]
+- [93% of students rated usability and control as important to their learning](../claims/usability-and-control-rated-important-by-93-percent.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

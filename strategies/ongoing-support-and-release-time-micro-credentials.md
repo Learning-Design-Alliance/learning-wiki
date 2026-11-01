@@ -41,6 +41,7 @@ The report recommends sustained, coherent support during the school year rather 
 - [Implement micro-credentials through a peer cohort model with collaborative planning time](micro-credential-cohort-model-strategy.md)
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 - [Schedule protected release and preparation time for educators completing pre- and between-session toolkit work](protected-release-time-for-toolkit-between-session-work.md)
+- [Provide staff and student induction and ongoing training for educational technologies in inquiry-based contexts](staff-student-induction-training-edtech-pbl.md)
 
 ## Examples
 -

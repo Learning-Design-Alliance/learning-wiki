@@ -49,3 +49,4 @@ Narrative synthesis of the application-to-training findings across all 13 includ
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
+- [Critical evidence gaps include longitudinal effects on skill retention, comparative evaluations of guardrail designs, equity impacts at scale, and standardized replication metrics](genai-personalization-evidence-gaps.md) — related

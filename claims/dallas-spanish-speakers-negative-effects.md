@@ -48,3 +48,4 @@ Subgroup of Dallas second graders who took the Spanish-language Logramos test. T
 - [Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas](dallas-reading-incentive-comprehension-gains.md) — reports the opposite
 - [Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect](incentives-no-intrinsic-motivation-harm.md) — related
 - [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — a broader claim this one bears on
+- [Performance-based financial incentives sometimes led CHWs to neglect unpaid tasks](performance-based-incentives-neglect-unpaid-tasks.md) — related

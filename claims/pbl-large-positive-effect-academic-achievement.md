@@ -67,3 +67,4 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [Student satisfaction with CBL, PBL and TBL in public health education was high, reported in 21 of 22 studies (95.4%)](high-satisfaction-21-of-22-public-health-active-learning.md) — related
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
 - [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related

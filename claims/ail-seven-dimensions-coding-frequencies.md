@@ -54,3 +54,4 @@ Integrative literature review with iterative open and axial coding by two indepe
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - Technical reframings of AIED criticism fail to address the fundamental political questions — related
 - [The NIST dimensions were recontextualized from organizational to child-oriented applications as a pedagogically sequenced learning pathway](nist-dimensions-recontextualized-child-learning-pathway.md) — related
+- [Discussion boards improve knowledge acquisition, critical and reflective thinking in physiotherapy education](discussion-boards-improve-knowledge-critical-reflective-thinking.md) — related

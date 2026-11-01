@@ -64,3 +64,4 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — a narrower finding that bears on this claim
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related
+- [Simulation-based CRM training transfers to the workplace: three of four studies found simulation-enhanced CRM training significantly more effective than no intervention or didactic teaching](simulation-crm-training-transfers-to-workplace.md) — related

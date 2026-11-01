@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: trinidad-fernández-2026
     resource: "https://doi.org/10.1007/s11423-026-10620-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group's mean Simulator Sickness Questionnaire score of 3.8 fell in the negligible category, though two participants reported significant discomfort. [→ Trinidad-Fernández 2026](#trinidad-fernandez-2026)
@@ -52,3 +53,4 @@ Simulator Sickness Questionnaire administered to the experimental group after th
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
+- [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — a broader claim this one bears on

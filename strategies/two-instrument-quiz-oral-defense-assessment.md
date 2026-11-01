@@ -46,6 +46,7 @@ The article's practical response to proxy collapse pairs weekly AI-free coding q
 - [Mini homework defenses: short oral one-on-one assessments of student solutions](mini-homework-defenses-oral-assessment.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
+- [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
 
 ## Examples
 -

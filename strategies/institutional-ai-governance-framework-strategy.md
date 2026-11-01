@@ -63,6 +63,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
+- [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 
 ## Examples
 -

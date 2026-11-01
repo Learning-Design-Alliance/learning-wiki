@@ -55,3 +55,4 @@ Feature-group importance analysis of the fitted SAT Math difficulty predictor in
 - [Reasoning-process features are particularly useful when difficulty depends on multi-step problem solving, and the representation also generalizes to text-based assessment items](process-features-strongest-for-multistep-items.md) — related
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
 - [Profile and course variables, along with specific maneuver steps, are the most relevant features for trainees' final performance](profile-course-variables-most-relevant-features-vrts-performance.md) — related
+- [MetaForest identifies worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement as the most important moderators](metaforest-top-moderators-its-effects.md) — related

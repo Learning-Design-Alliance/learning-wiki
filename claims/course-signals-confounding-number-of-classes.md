@@ -83,3 +83,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect — related
 - [Uncontrolled estimates of retention effects on dropout are larger than propensity-adjusted estimates, suggesting confounding inflates naive associations](confounding-inflates-retention-dropout-estimates.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
+- [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](lad-achievement-effects-confounded.md) — related

@@ -68,6 +68,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 - [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 - [Design computational learning environments to treat seeming mistakes as expansion possibilities and surface material contributions](value-mistakes-and-material-contributors-design.md)
 - [Design peer mindset interventions that leverage adolescents' need for belonging and status, including high-status peer models](leverage-belonging-status-peer-mindset-interventions.md)
+- [Create a non-judgmental, safe environment for trainees to disclose and discuss medical errors](safe-environment-error-disclosure-trainees.md)
 
 ## Examples
 - **My Favorite Mistake routine** (widely used in math classrooms, popularized by Teach Like a Champion practice): the teacher selects an anonymous student error and leads the class in analyzing what the error reveals and how to fix it, positioning the error-maker as having contributed something valuable.

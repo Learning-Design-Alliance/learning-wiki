@@ -50,3 +50,5 @@ The review reports that only one eligible study (Smith & Ericson, 2009) used a q
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
+- [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — a broader claim this one bears on
+- [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — a narrower finding that bears on this claim

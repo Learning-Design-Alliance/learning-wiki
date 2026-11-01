@@ -64,3 +64,4 @@ The article asserts as its framing premise that "Student engagement increases st
 - [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](social-interaction-limits-not-panacea.md) — related
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
+- [Higher social presence tends to align with improved learning outcomes and team performance, but can distract or increase social pressure in large-scale multi-user settings](social-presence-learning-outcomes-mixed.md) — related

@@ -49,3 +49,4 @@ Exploratory meta-regression Model 1 on the science domain (R² = 36.6%): the onl
 - [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related
+- [Gender moderates only the attitude–intention relationship: higher male ratio strengthens the attitude–intention correlation](gender-moderates-only-attitude-genai.md) — related

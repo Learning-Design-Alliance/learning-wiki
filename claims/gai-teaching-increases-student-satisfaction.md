@@ -82,3 +82,4 @@ Random-effects meta-analysis of teaching-satisfaction surveys from three RCTs. T
 - [SP+CBL pedagogy significantly improves teaching satisfaction compared with LBL in Chinese clinical education.](sp-cbl-improves-teaching-satisfaction.md) — related
 - [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — related
 - [Trainees report higher satisfaction with simulation-based learning than with non-simulation-based learning in endocrinology education](sbl-higher-satisfaction-endocrinology.md) — related
+- [Simulation-based training increases learner interest and satisfaction compared with non-simulation based training for airway management](sbt-learner-interest-satisfaction-airway.md) — related

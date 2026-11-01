@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 quant-synthesis), `q2`–`q3` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -50,6 +50,9 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](../claims/pbl-increases-theoretical-knowledge-scores-pediatric-china.md) [+W] — attached 2026-11-01 from Ma Yimei MM et al. (2019), which proposed "Meta-analysis corpus of 12 RCTs comparing PBL and LBL in Chinese pediatric medical education"; tests this page's relationship.
 - [PBL significantly increases skill scores compared with LBL in Chinese pediatric medical education (SMD 1.56)](../claims/pbl-increases-skill-scores-pediatric-china.md) [+W] — attached 2026-11-01 from Ma Yimei MM et al. (2019), which proposed "Meta-analysis corpus of 12 RCTs comparing PBL and LBL in Chinese pediatric medical education"; tests this page's relationship.
 - [PBL significantly increases case analysis scores compared with LBL in Chinese pediatric medical education (SMD 1.54)](../claims/pbl-increases-case-analysis-scores-pediatric-china.md) [+W] — attached 2026-11-01 from Ma Yimei MM et al. (2019), which proposed "Meta-analysis corpus of 12 RCTs comparing PBL and LBL in Chinese pediatric medical education"; tests this page's relationship.
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](../claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
+- [PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)](../claims/pbl-knowledge-five-year-system-subgroup.md) [~W]
+- [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-pass-rates-chinese-medical-courses.md) [+W]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

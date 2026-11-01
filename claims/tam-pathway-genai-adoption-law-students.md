@@ -72,3 +72,4 @@ Variance-explained and fit indices from the same SEM; R2 values are variance exp
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — related
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — related
+- [Attitude shows the strongest positive correlation with college students' intention to use GenAI (r = 0.576)](attitude-strongest-correlate-genai-intention.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ The review reports, citing Bastani et al., that the hint-based GPT Tutor withhel
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
+- [Across the reviewed corpus, explanation-first and solution-withholding designs, graduated hints, and test- and rubric-grounded assessment are consistently associated with more positive reported outcomes than unconstrained chat interfaces](genai-design-patterns-outcome-valence.md) — related

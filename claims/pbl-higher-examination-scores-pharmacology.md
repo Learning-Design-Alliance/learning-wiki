@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: yang-x-2024
     resource: "https://doi.org/10.1097/MD.0000000000039376"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Undergraduate pharmacology students taught with PBL achieve higher examination scores than those taught with LBL (SMD = 2.03, 95% CI 1.53–2.53). [→ Yang X 2024](#yang-x-2024)
@@ -58,3 +59,8 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — related
+- [PBL pharmacy students perform better on midterm examinations than students in traditional learning groups](pbl-better-midterm-exam-pharmacy.md) — related
+- [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — related
+- [PBL is more effective for laboratory courses than for theory courses in Chinese undergraduate medical education](pbl-more-effective-laboratory-than-theory-courses.md) — related
+- [No difference between PBL and traditional groups in subjective evaluations of pharmacy students](pbl-no-difference-subjective-evaluations.md) — related
+- [Heterogeneity among pooled PBL trials in Chinese pharmacy education is high (I2 = 93%)](pbl-pharmacy-meta-analysis-high-heterogeneity.md) — related

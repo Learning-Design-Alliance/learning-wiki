@@ -51,3 +51,5 @@ Sensitivity analysis removing each study sequentially to assess its influence on
 - [PBL is associated with significantly higher total medical psychology examination scores than traditional lecture-based teaching in China (Hedges' g = 1.510)](pbl-higher-medical-psychology-scores-china.md) — related
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
 - [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related
+- [Sensitivity analysis excluding five studies with inadequate randomization leaves the PBL effect on theoretical scores unchanged (SMD = 1.06)](pbl-sensitivity-analysis-robust-effect.md) — related
+- [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related

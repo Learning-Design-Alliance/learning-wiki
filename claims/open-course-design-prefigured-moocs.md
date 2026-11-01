@@ -47,3 +47,4 @@ The authors' first-person historical account of the Fall 2007 open course at Uta
 ## Related Claims
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
+- [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](other-technologies-mixed-null-effects.md) — related

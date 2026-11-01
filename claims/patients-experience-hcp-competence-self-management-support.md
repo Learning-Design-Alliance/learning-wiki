@@ -68,3 +68,4 @@ The review's meta-aggregation (Table 4, Category 5) includes the finding 'Virtua
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [Caregivers want information about the disease, specific patient care, and how to be a caregiver](caregiver-information-needs-disease-care-caregiving.md) — related
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
+- [GPs widely believe evidence must be integrated with clinical experience and tailored to individual patients](gps-integrate-evidence-with-experience.md) — related

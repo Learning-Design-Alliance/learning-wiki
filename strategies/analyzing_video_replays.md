@@ -69,6 +69,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - [Shared history feedback inquiry using stimulated recall of time-lapse replays](shared-history-stimulated-recall-inquiry.md)
 - [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
 - [Use immediate video tape playback to give new instructors insight into their teaching errors](immediate-video-tape-playback-instructor-training.md)
+- [Structured post-procedure feedback sessions using video review with a senior surgeon](video-review-structured-feedback-session.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

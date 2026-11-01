@@ -18,7 +18,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (4 for, 8 mixed) · 10 studies (4 review, 3 theoretical, 2 causal, 1 qualitative), `q1`–`q3` · 0 of 10 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (4 for, 9 mixed, 1 against) · 11 studies (4 review, 3 theoretical, 2 causal, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 0 of 11 report an effect size · 14 claims rest on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -53,6 +53,8 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](../claims/dashboard-benefits-achiever-satisfaction-mixed.md) [~W]
 - [Teachers used student performance and progress data at individual, class, and school levels, often presented via color-coded dashboard visualizations](../claims/digital-data-types-teachers-use.md) [+W]
 - [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](../claims/quarter-dashboard-consultations-no-action.md) [~W]
+- [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](../claims/lad-design-type-moderates-outcomes.md) [~M]
+- [Comparing LAD users and non-users confounds the dashboard effect with student engagement levels](../claims/lad-user-nonuser-confound-engagement.md) [-W]
 
 ## Examples
 

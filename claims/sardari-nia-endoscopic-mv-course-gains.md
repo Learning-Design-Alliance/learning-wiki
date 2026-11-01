@@ -70,3 +70,4 @@ Same 2-day course (103 participants): accuracy of posterior and anterior leaflet
 - [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
 - [Three months of bovine-heart mitral valve repair simulation improved coaptation depth and regurgitation scores in junior and senior residents](tavlasoglu-coaptation-regurgitation-gains.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
+- [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — a broader claim this one bears on

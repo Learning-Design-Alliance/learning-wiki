@@ -42,6 +42,8 @@ The authors propose a forward-looking research agenda for the CI field: rather t
 ## Related Strategies
 
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
+- [Future research agenda: detailed BCT-coded systematic review, primary qualitative examination of patient experience, and economic analysis within trials](digital-asthma-research-gap-agenda.md)
+- [Future meta-analyses should increase sample size and scope, and analyze effects by specific high school physics topics](future-meta-analysis-larger-scope-physics-topics.md)
 
 ## Examples
 -
