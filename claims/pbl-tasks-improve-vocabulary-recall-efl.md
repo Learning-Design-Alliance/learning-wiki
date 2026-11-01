@@ -51,3 +51,5 @@ Quasi-experimental comparison of immediate posttest scores: experimental group (
 ## Related Claims
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-retention-efl.md) — related
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — related
+- [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](pbl-authentic-environment-difficult-words-interpretation.md) — related
+- [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — possibly the same claim (merge candidate)

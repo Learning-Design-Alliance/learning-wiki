@@ -27,7 +27,7 @@ sources:
 # Positive Action
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 A K–12 curriculum developed and delivered by Positive Action, Inc. that uses scripted lessons and optional school, family, and community components to promote positive behavior, character development, academic achievement, and social-emotional skills.
@@ -37,6 +37,7 @@ A K–12 curriculum developed and delivered by Positive Action, Inc. that uses s
 - **Positive Action K-12 character education curriculum**: Positive Action is a K-12 program promoting "character development, academic achievement, and social-emotional skills" and reducing problem behavior, built on the philosophy that "you feel good about yourself when you think and do positive actions." The curriculum has six units (plus a review unit in some grades), with scripted lessons using "classroom discussion, role-play, games, songs, and activity sheets or text booklets." Elementary grades average 140 lessons taught four days a week; typical lessons last about 15 minutes. Optional components include site-wide climate development, drug education, conflict resolution, counselor/parent/family classes, and community components. (WWC Intervention Report: Positive Action (2007))
 - **Positive Action whole-school program: structured lessons, teacher manuals, and parallel parent handbooks**: Positive Action is a whole-school reform strategy intended to improve social-emotional, attendance, and achievement outcomes by building school climate, self-control, goal-setting, problem-solving, persistence, and other skills. Students learn through "structured discussions and activities, games, and role plays." Teachers receive detailed manuals supporting 140 lessons of 15-20 minutes per year, and parents receive handbooks paralleling the school lessons. No additional staff or technology are required. (Positive Action (2013))
 - **Scripted lessons combining role-playing, cooperative learning games, small group activities, and classroom discussion**: The program's lesson design pattern pairs fully scripted lessons with active, participatory methods. As the report describes, "All lessons are scripted and engage students through role-playing and cooperative learning games, small group activities, and classr oom discussions." Cooperative learning activities, role-playing, and skill building methods reinforce positive behaviors and skills and encourage students to apply them in other contexts. Lessons run 30-60 minutes in elementary school and 30-45 minutes in middle school. (What Works Clearinghouse (2006))
+- **Positive Action (PA) school-based social-emotional and character development program**: Positive Action is a comprehensive, schoolwide social-emotional and character development program grounded in theories of self-concept, implemented predominantly by teachers in the classroom. Its K-8 sequenced curriculum consists of over 140 fifteen-to-twenty-minute lessons taught 4 days per week for Grades K-6 and 70 twenty-minute lessons taught 2 days per week for Grades 7-8, organized around six units from Self-Concept to Improving yourself continually, plus teacher training, family and community training, and schoolwide climate development. The article evaluated PA in a cluster-randomized trial and found effects on school and peer self-esteem and adaptive self-esteem processes. (Silverthorn et al. (2017))
 
 ### Claims
 - [The WWC's extent of evidence for Positive Action is moderate to large for behavior and academic achievement, with no qualifying studies addressing knowledge, attitudes, and values](../claims/positive-action-extent-of-evidence-domains.md) [+M]
@@ -45,6 +46,8 @@ A K–12 curriculum developed and delivered by Positive Action, Inc. that uses s
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](../claims/positive-action-positive-effects-behavior.md) [+W]
 - [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](../claims/positive-action-reduces-grade-retention.md) [+W]
 - [In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls](../claims/positive-action-violence-reduced-boys-not-girls.md) [+W]
+- [The Positive Action program produced more favorable change over time in school self-esteem among low-income urban youth](../claims/positive-action-improved-school-self-esteem-trajectories.md) [+M]
+- [The Positive Action program produced more favorable change over time in peer self-esteem among low-income urban youth](../claims/positive-action-improved-peer-self-esteem-trajectories.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -53,10 +56,10 @@ A K–12 curriculum developed and delivered by Positive Action, Inc. that uses s
 - WWC Intervention Report: Positive Action. (2007). What Works Clearinghouse, U.S. Department of Education. http://www.positiveaction.net
 - Positive Action. (2013). Positive Action. https://www.positiveaction.net
 - What Works Clearinghouse. (2006). WWC Intervention Report: Too Good for Violence. U.S. Department of Education. https://www.mendezfoundation.org
-
 <!-- merged 2026-10-10 from elements/positive-action-curriculum-program ("Positive Action K-12 character education curriculum"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Positive Action. (2013). Positive Action. https://www.positiveaction.net
 - What Works Clearinghouse. (2006). WWC Intervention Report: Too Good for Violence. U.S. Department of Education. https://www.mendezfoundation.org
+- Silverthorn, N., DuBois, D. L., Lewis, K. M., Reed, A., Bavarian, N., Day, J., Ji, P., Acock, A. C., Vuchinich, S., & Flay, B. R. (2017). Effects of a School-Based Social-Emotional and Character Development Program on Self-Esteem Levels and Processes: A Cluster-Randomized Controlled Trial. SAGE Open. https://doi.org/10.1177/2158244017713238
 
 # Positive Action K-12 character education curriculum
 

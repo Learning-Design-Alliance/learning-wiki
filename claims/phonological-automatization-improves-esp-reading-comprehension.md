@@ -53,3 +53,4 @@ Randomized experiment with 60 ESP students assigned to experimental (pronunciati
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — a broader claim this one bears on
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
+- [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](phonics-prosody-course-improves-l2-pronunciation.md) — related

@@ -66,6 +66,7 @@ Collaboration improves outcomes when it is structured — with assigned roles, i
 - [Jigsaw](../strategies/jigsaw.md) — interdependence by design through divided expertise
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — collaborative comprehension with rotating expert roles
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
+- [Use jigsaw, role-play, note-taking, joint projects, and game-based activities to embed cooperative learning elements in pronunciation instruction](cl-structures-techniques-for-pronunciation-instruction.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students answer individually, discuss in small groups, then revote; widely adopted in physics education ([https://blog.iclicker.com/peer-instruction/](https://blog.iclicker.com/peer-instruction/))

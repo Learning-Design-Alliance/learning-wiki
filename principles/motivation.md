@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 117 claims (72 for, 44 mixed, 1 against) · 105 studies (29 review, 27 causal, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 105 report an effect size · 103 claims rest on one study
+> **Evidence** · 119 claims (73 for, 44 mixed, 2 against) · 107 studies (29 causal, 29 review, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 107 report an effect size · 105 claims rest on one study
 
 ## Conditional relationship
 
@@ -251,6 +251,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [~W]
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](../claims/nonlinear-motivation-change-six-weeks.md) [~W]
 - [Across 19 quantitative m-Learning studies in higher education, 21 critical success factors were identified, with learner perceptions appearing in the most studies (15) and ownership in 14.](../claims/meta-analysis-21-csfs-learner-perceptions-most-cited.md) [~W]
+- [The hypothesized mediated moderation was not supported because motivation did not increase](../claims/mediated-moderation-not-supported.md) [-W]
+- [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](../claims/flipped-classroom-motivation-factors.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: de-azevedo-cardoso-t-2025
     resource: "https://doi.org/10.2196/60757"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 27 studies with 5,842 participants, flipped classroom instruction produced significantly higher student satisfaction scores than traditional instruction (SMD 0.82, 95% CI 0.45-1.19, P<.001). [→ de Azevedo Cardoso T 2025](#de-azevedo-cardoso-t-2025)
@@ -54,3 +55,6 @@ Meta-analysis of 27 studies (5,842 participants) reporting student satisfaction 
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — related
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related
+- [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
+- [Physicians in Internet-based CPR CME report significantly higher satisfaction than physicians in traditional classroom lecture](ibl-higher-satisfaction-than-tcl-cpr-cme.md) — related

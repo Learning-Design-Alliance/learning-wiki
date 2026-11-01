@@ -50,3 +50,4 @@ Small-n experiment with 10 Japanese learners of English; post-practice speech wa
 - [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — a broader claim this one bears on
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](no-dose-response-asr-practice-time.md) — related
+- [Phonetic and phonological instruction delivered in a cooperative learning setting significantly improved ELLs' pronunciation of target English sounds over six weeks](cl-setting-significant-pronunciation-pre-post-gain.md) — related

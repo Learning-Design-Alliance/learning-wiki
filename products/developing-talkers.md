@@ -10,10 +10,10 @@ generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
 sources:
-  - id: tricia-a-zucker-2021
+  - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
-    title: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
-    author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
+    title: "Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288"
+    author: "Zucker, T. A., Jacbos, E., & Cabell, S. Q."
 ---
 
 # Developing Talkers
@@ -26,7 +26,7 @@ Developing Talkers is a supplemental pre-kindergarten and kindergarten curriculu
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **Developing Talkers supplemental academic language curriculum for pre-k and kindergarten**: Developing Talkers is a supplemental academic language curriculum for pre-k and kindergarten classrooms targeting sophisticated vocabulary and inferential language use, including Tier 2 small-group lessons for three to five students needing more language support. "The curriculum includes three evidence-based teaching strategies based on substantial accumulated research": direct vocabulary instruction before and during shared reading, inferential-level conversations with open-ended questions, and responsive upward and downward scaffolding of children's responses. Each book is read three times weekly with six target vocabulary words and printed inferential questions at the point of use. Teache (Tricia A. Zucker et al. (2021))
+- **Developing Talkers supplemental academic language curriculum for pre-k and kindergarten**: Developing Talkers is a supplemental academic language curriculum for pre-k and kindergarten classrooms targeting sophisticated vocabulary and inferential language use, including Tier 2 small-group lessons for three to five students needing more language support. "The curriculum includes three evidence-based teaching strategies based on substantial accumulated research": direct vocabulary instruction before and during shared reading, inferential-level conversations with open-ended questions, and responsive upward and downward scaffolding of children's responses. Each book is read three times weekly with six target vocabulary words and printed inferential questions at the point of use. Teache (Zucker et al. (2021))
 
 ### Claims
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](../claims/competing-time-priorities-dominant-barrier-language-curriculum.md) [-W]
@@ -39,7 +39,7 @@ Developing Talkers is a supplemental pre-kindergarten and kindergarten curriculu
 -
 
 ## Key Sources
-- Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+- Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288
 
 <!-- merged 2026-10-10 from elements/developing-talkers-academic-language-curriculum ("Developing Talkers supplemental academic language curriculum for pre-k and kindergarten"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -81,5 +81,5 @@ Developing Talkers is a supplemental academic language curriculum for pre-k and 
 -
 
 ## Key Sources
-- Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+- Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288
 -->

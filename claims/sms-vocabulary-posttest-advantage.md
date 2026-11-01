@@ -51,3 +51,4 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related

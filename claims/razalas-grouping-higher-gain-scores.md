@@ -49,3 +49,5 @@ Quasi-experimental nonequivalent control group study with two existing Math 04 c
 - [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
 - [Qualitative data indicated the Razalas' Method of grouping developed self-confidence, encouraged effective communication and facilitated exchange of ideas toward a common goal](razalas-grouping-qualitative-benefits.md) — related
+- [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](practical-work-mean-gain-26-versus-2-8.md) — related
+- [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related

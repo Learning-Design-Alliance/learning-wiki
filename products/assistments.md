@@ -34,7 +34,7 @@ sources:
 # ASSISTments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 7 studies (3 causal, 2 qualitative, 1 associational, 1 design), `q2`–`q3` · 3 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 8 studies (4 causal, 2 qualitative, 1 associational, 1 design), `q2`–`q3` · 3 of 8 report an effect size · 12 claims rest on one study
 
 ## Description
 ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
@@ -51,6 +51,7 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - **QUICK-Comments teacher-augmentation tool in ASSISTments**: QUICK-Comments is a teacher-augmentation tool within the ASSISTments web-based K-12 mathematics platform that supports teachers in assessing open-ended student responses. The article describes that "this tool allows teachers to select from a repository of pre-authored comments, which has been tailored to address common student errors or misconceptions." By streamlining feedback selection, it lets teachers deliver personalized, timely feedback efficiently; the feedback messages analyzed in this study were drawn from its use. (Seiyon M. Lee et al. (2025))
 - **ASSISTments online learning platform and its experiment infrastructure**: ASSISTments is a free online learning platform of Worcester Polytechnic Institute providing "students with assistance while offering teachers assessment", currently used by hundreds of teachers and over 50,000 students with over 10 million problems solved last year. It supports randomized controlled experiments with student-level randomization at low cost, has enabled over 18 peer-reviewed articles since 2002, and provides feedback types including correctness feedback, mistake messages, hints, and scaffolds, plus actionable item reports surfacing common wrong answers. (Heffernan et al. (2016))
 - **ASSISTments ecosystem: teacher-centric, minimalist-intelligence math homework platform enabling unobtrusive research at scale**: ASSISTments is a mathematics learning system whose special-issue contribution focuses on its mission and lessons learned rather than a study summary. It outlines "the entire 'ASSISTments ecosystem' that enables collecting usage data and conducting research studies, while ensuring that the normal learning process is not compromised in any way." Its design is very teacher-centric, involving teachers from content authoring to planning experiments. Each year tens of thousands of school children use it to learn math. It deliberately follows a minimalist approach to intelligence and adaptivity, with no strong student model and no sophisticated adaptation procedure. (Sergey Sosnovsky et al. (2014))
+- **ASSISTments online homework platform with correctness feedback, scaffolding questions, skill builders, and nightly teacher reports**: ASSISTments (www.assistments.org) is an online tutoring system providing "formative assessments that assist" in which teachers assign homework items and students complete them online, receiving "feedback on the accuracy of their answers" plus hints and scaffolding questions that decompose multistep problems. Teachers can assign "skill builders" organized to promote mastery learning, and servers generate customized cognitive diagnostic reports emailed to teachers each morning showing completion rates, per-problem and per-skill performance, and common wrong answers. In the study, teachers were expected to assign approximately 20 minutes of homework for a minimum of three nights per week. (Mingyu Feng et al. (2016))
 
 ### Claims
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](../claims/assistments-long-term-eog-effect-0-10.md) [+M]
@@ -63,6 +64,8 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](../claims/hint-avoidance-related-greater-wheel-spinning.md) [+W]
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](../claims/coder-background-varies-feedback-interpretation.md) [+W]
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](../claims/feedback-codes-co-occurrence-patterns.md) [+W]
+- [The ASSISTments homework intervention effect on TerraNova math scores varied by gender: boys benefited more, narrowing the gender gap](../claims/assistments-intervention-benefited-boys-more.md) [+M]
+- [The ASSISTments intervention raised TerraNova scores by 10.26 points and girls outscored boys by 5.21 points overall, both statistically significant](../claims/assistments-main-effects-treatment-and-gender.md) [+M]
 
 ## Related Products and Programmes
 
@@ -87,6 +90,7 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - Seiyon M. Lee, Sami Baral, Hongming Chip Li, Li Cheng, Shan Zhang, Carly S. Thorp, Jennifer St. John, Tamisha Thompson, Neil Heffernan, Anthony F. Botelho. (2025). Developing Feedback Taxonomy for Math: A Synergy of Perspectives through Data Mining Methods. Journal of Educational Data Mining, Volume 17, No 2. https://osf.io/puhyr/?view_only=514d8534e9be41d9a57ad82e9efb3249
 - Heffernan, N. T., Ostrow, K. S., Kelly, K., Selent, D., Van Inwegen, E. G., Xiong, X., & Williams, J. J. (2016). The Future of Adaptive Learning: Does the Crowd Hold the Key? Int J Artif Intell Educ 26:615–644. https://doi.org/10.1007/s40593-016-0094-z
 - Sergey Sosnovsky & Bruce M. McLaren & Vincent Aleven. (2014). Preface-Emerging Technologies and Landmark Systems for Learning Mathematics and Science: Dedicated to the Memory of Erica Melis-Part 2. Int J Artif Intell Educ 24. https://doi.org/10.1007/s40593-014-0025-9
+- Mingyu Feng, Jeremy Roschelle, Craig Mason, Ruchi Bhanot. (2016). Investigating Gender Differences on Homework in Middle School Mathematics. Proceedings of the 9th International Conference on Educational Data Mining, June 29-July 2, 2016, Raleigh, NC. https://educationaldatamining.org/edm2016/
 
 # ASSISTments/E-TRIALS: free A/B testing platform integrated with a K-12 math practice platform
 

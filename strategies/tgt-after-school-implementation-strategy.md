@@ -53,6 +53,8 @@ The article recommends practical adjustments for integrating web-based game play
 - [Adopt cooperative TGT as an alternative mathematics teaching approach, supported by teacher training and ministry guidelines](tgt-implementation-strategy-religious-schools.md)
 - [Provide in-service training equipping mathematics teachers with game- and poem-based teaching skills](in-service-training-games-poems-math-teachers.md)
 - [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
+- [Home-based summer game play with parent notification and periodic follow-up](home-summer-game-play-parent-followup.md)
+- [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 
 ## Examples
 -

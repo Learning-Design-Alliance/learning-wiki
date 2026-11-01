@@ -77,3 +77,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related
 - [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](tfcs-prepost-nonsignificant-descriptive-divergence.md) — related
+- [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related

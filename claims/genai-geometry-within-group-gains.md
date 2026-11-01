@@ -58,3 +58,5 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 - [Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing](control-group-gains-limited-reading-total.md) — related
 - [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — related
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
+- [At-risk grade 2 experimental students made significant within-group gains in Applied Problems, but these gains were not significantly larger than their non-at-risk peers' gains](chisanbop-applied-problems-grade2-atrisk.md) — related
+- [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related

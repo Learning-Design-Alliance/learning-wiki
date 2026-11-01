@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (13 for, 13 mixed) · 30 studies (7 causal, 7 review, 7 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (13 for, 14 mixed) · 31 studies (8 causal, 7 review, 7 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 25 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -76,6 +76,7 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Students' active participation in offline group-learning (60.1%) was lower than in online self-learning](../claims/offline-participation-lower-than-online.md) [~W]
 - [Correlationally, more opportunities for social interaction during class were associated with more engagement and, in 2021 only, with more self-directed study time](../claims/interaction-correlations-engagement-self-study.md) [+W]
 - [Student interaction in work groups has a positive and significant influence on collaborative learning.](../claims/student-interaction-drives-collaborative-learning.md) [+W]
+- [No significant treatment-control difference was found in students' observed communication modes](../claims/no-difference-communication-modes.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

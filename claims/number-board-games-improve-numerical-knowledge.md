@@ -75,3 +75,4 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 - [The authors attribute the null intervention effect to children's prior formal mathematics teaching and note the study is a failed conceptual replication of earlier linear board-game studies](null-attributed-to-formal-schooling-teaching-as-usual.md) — related
 - [Playing students showed significant learning gains in mathematical achievement compared to control classes in grades 2, 4 and 6](teachable-agent-game-significant-math-gains.md) — related
 - [Playing classic African board games such as I'tche, Oware, Omweso, Ayo, and Tsoro facilitates mathematical learning](african-board-games-mathematical-learning.md) — related
+- [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related

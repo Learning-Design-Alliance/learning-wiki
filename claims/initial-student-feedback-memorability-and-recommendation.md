@@ -46,3 +46,4 @@ An online feedback survey of 17 students eight weeks after the September 2019 se
 
 ## Related Claims
 - [Embodied Nerf-gun activities increased students' self-reported understanding of, and ability to explain, key neural communication concepts in a pre-post seminar design](embodied-nerf-activities-increase-self-reported-understanding-neural-communication.md) — a broader claim this one bears on
+- [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related

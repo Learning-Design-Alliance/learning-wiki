@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (96 show a difference, 23 mixed, 14 no difference) · 76 studies (39 associational, 12 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 76 report an effect size · 131 claims rest on one study
+> **Evidence** · 134 claims (96 show a difference, 24 mixed, 14 no difference) · 77 studies (39 associational, 13 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 77 report an effect size · 132 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -167,6 +167,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Students with learning disabilities reported increased enthusiasm and engagement when learning mathematics through CBI](../claims/cbi-interview-engagement-learning-disabilities.md) [+W] — an instructional effect differs with it
 - [Distributional moderation analysis indicates the average disruptive behavior decrease is moderated by students' race, and the special education moderation is located in the chance of showing no disruptive behavior rather than in the means](../claims/distributional-moderation-race-special-education-endpoint.md) [~M] — an instructional effect differs with it
 - [Students with disabilities benefited similarly from PACT but remained about 1 standard deviation behind nondisabled peers at posttest](../claims/students-with-disabilities-similar-gains-remain-behind.md) [~M] — an instructional effect differs with it
+- [Processing speed, counting skills and knowledge of properties of operations correlate with arithmetic-combination fluency for both LD and MID students, while phonological short-term memory correlates with division fluency only for LD students](../claims/cognitive-factors-correlate-ac-fluency.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

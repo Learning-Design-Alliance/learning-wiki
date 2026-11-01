@@ -52,3 +52,4 @@ In the math ANCOVA (Table 1), the COGNITIVE STYLE factor was non-significant (F=
 - [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](cooperative-learning-no-language-effect.md) — related
 - [A cooperative learning program produced significantly higher mathematics achievement than traditional teaching in fourth-grade students](cooperative-learning-improves-math-achievement-fourth-grade.md) — related
 - [Before intervention, mathematics performance differed by cognitive style, with field independent students scoring highest and field dependent students lowest](math-pretest-field-dependence-gradient.md) — related
+- [Field-dependent and field-independent pupils differed significantly in numeracy performance, with cognitive style accounting for 12% of variation](cognitive-style-field-dependence-numeracy-variation.md) — reports the opposite

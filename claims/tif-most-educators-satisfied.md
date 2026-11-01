@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: max-2014
     resource: "https://www.mathematica.org/publications/evaluation-of-the-teacher-incentive-fund-implementation-and-early-impacts-of-payforperformance-after"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most teachers and principals are satisfied with their professional opportunities, school environment, and the TIF program. [→ Max 2014](#max-2014)
@@ -54,3 +55,4 @@ Educator survey findings from the 10 evaluation districts in the first year of T
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
+- [Teachers are more supportive of teacher perception surveys for evaluating administrators than of student perception surveys for evaluating teachers](teachers-favor-teacher-surveys-over-student-surveys.md) — related

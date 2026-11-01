@@ -55,3 +55,4 @@ Analysis of 2020/21 and 2021/22 district-provided screening assessment data from
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related
 - [Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark](boy-risk-40-percent-recover-by-eoy.md) — related
 - [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related
+- [Most SPARK students who started below the PALS literacy benchmark reached benchmark by post-test, while nearly all below-benchmark controls stayed below](spark-below-benchmark-students-met-benchmark.md) — related

@@ -53,3 +53,4 @@ Meta-analytic results section: seven contrasts used book-based receptive vocabul
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [Preschoolers learn almost no challenging vocabulary from hearing stories without embedded lessons](storybook-exposure-alone-little-learning.md) — related

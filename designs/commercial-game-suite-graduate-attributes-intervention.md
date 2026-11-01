@@ -48,6 +48,7 @@ The intervention material was a suite of commercial entertainment titles (Border
 ## Related Designs
 
 - [Drop-in game lab structure preserving flexible play sessions for ecological validity](drop-in-game-lab-flexible-play.md)
+- [Set of commercial video educational games used with a linguistic approach over 36 sessions](linguistic-video-game-set-36-sessions.md)
 
 ## Examples
 -

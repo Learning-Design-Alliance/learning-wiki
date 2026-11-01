@@ -50,6 +50,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Teach genAI operations, prompt engineering, failure modes, and supervised overreliance before graded genAI-assisted writing](genai-writing-instruction-before-use-strategy.md)
 - [Train instructional designers in prompt engineering, articulating prompt objectives, context, and example outputs to improve GenAI-assisted design](prompt-engineering-training-for-instructional-designers.md)
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
+- [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 
 ## Examples
 -

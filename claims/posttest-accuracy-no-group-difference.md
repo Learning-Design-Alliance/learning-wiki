@@ -50,3 +50,4 @@ Post hoc ANOVA following the gain-score MANOVA in the Findings section, testing 
 ## Related Claims
 - [Both the control and treatment groups improved significantly in accuracy of multiplication fact answers from pretest to posttest](both-groups-significant-accuracy-gains.md) — related
 - [Gain-score MANOVA shows a significant between-group difference in multiplication fact fluency favoring the control group on completion time, with a large multivariate effect size](mathletics-gain-manova-control-faster.md) — related
+- [Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations](alternative-ac-grouping-no-added-benefit.md) — possibly the same claim (merge candidate)

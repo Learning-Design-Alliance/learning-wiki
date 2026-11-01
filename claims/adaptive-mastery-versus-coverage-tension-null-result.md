@@ -62,3 +62,4 @@ Authors' discussion interpretation of the null main effect, citing treatment-con
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — related
 - [The authors hypothesize that differences in curriculum design could explain the achievement results of the experimental study](design-differences-hypothesized-explain-achievement-results.md) — related
 - [Null results for Cognitive Tutors may reflect poor implementation rather than ineffectiveness, and policy-level experiments should be distinguished from effectiveness studies](null-results-may-reflect-poor-implementation.md) — related
+- [The authors attribute the null PBL effect partly to students' adaptation problems when moving from traditional instruction](pbl-adaptation-problems-null-result.md) — related

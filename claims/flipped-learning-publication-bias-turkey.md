@@ -52,3 +52,4 @@ Publication-bias analysis of the 28 datasets: funnel plot asymmetry, Begg and Ma
 - The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — reports the opposite
 - No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — reports the opposite
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](flipped-classroom-publication-bias-knowledge-outcomes.md) — related
+- [Prior flipped-classroom studies report mixed achievement results, with some finding gains and others no significant differences](flipped-classroom-literature-mixed-achievement-results.md) — related

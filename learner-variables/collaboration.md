@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (78 show a difference, 18 mixed, 7 no difference) · 86 studies (25 review, 21 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 86 report an effect size · 103 claims rest on one study
+> **Evidence** · 104 claims (79 show a difference, 18 mixed, 7 no difference) · 87 studies (25 review, 21 causal, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 87 report an effect size · 104 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -145,6 +145,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](../claims/cooperative-program-social-skill-development-observation.md) [+W] — instruction changes it
 - [Volunteer pupils in Children's University schools made small gains in teamwork and social responsibility compared with control-school volunteers after two years](../claims/cu-two-year-teamwork-social-responsibility-gains.md) [+M] — instruction changes it
 - [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](../claims/designers-reported-soft-skills-gains.md) [+W] — instruction changes it
+- [Videogame play in class fostered peer competition, peer support, and student attention and immersion](../claims/videogame-peer-collaboration-attention.md) [+W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

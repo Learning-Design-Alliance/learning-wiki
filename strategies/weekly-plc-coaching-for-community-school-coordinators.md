@@ -44,6 +44,7 @@ This strategy organizes new coordinators' professional learning around a weekly 
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
+- [Weekly grade-level communities of instructional practice built around formative assessment evidence](weekly-cip-meetings-formative-evidence.md)
 
 ## Examples
 -

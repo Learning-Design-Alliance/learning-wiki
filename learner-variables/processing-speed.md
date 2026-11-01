@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (43 show a difference, 24 mixed, 6 no difference) · 51 studies (20 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 15 of 51 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (46 show a difference, 24 mixed, 6 no difference) · 53 studies (22 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 16 of 53 report an effect size · 76 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -109,6 +109,9 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Practicing a fixed motor sequence produces sequence-specific learning, with significantly shorter reaction times for the practiced than the control sequence after training](../claims/srtt-sequence-specific-learning-practice-vs-control.md) [+M] — instruction changes it
 - [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](../claims/classic-cognitive-training-improves-multiple-domains.md) [+W] — instruction changes it
 - [Video games improved reaction time, processing speed, executive function, and global cognition in older adults, with largest effects on reaction time and processing speed](../claims/video-games-improve-cognition-older-adults.md) [+W] — instruction changes it
+- [Processing speed, counting skills and knowledge of properties of operations correlate with arithmetic-combination fluency for both LD and MID students, while phonological short-term memory correlates with division fluency only for LD students](../claims/cognitive-factors-correlate-ac-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [The 5P model produced significantly faster attention reaction times than the 5E model, with a large model-by-time interaction](../claims/5p-model-improves-attention-reaction-time.md) [+M] — instruction changes it
+- [The 5P model produced significantly faster working memory reaction times than the 5E model](../claims/5p-model-improves-working-memory-reaction-time.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

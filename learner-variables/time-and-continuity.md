@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (104 show a difference, 38 mixed, 14 no difference) · 134 studies (50 causal, 33 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 28 of 134 report an effect size · 152 claims rest on one study
+> **Evidence** · 161 claims (107 show a difference, 38 mixed, 16 no difference) · 138 studies (53 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 31 of 138 report an effect size · 157 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -213,6 +213,11 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Number of treatment sessions received was not associated with end-of-treatment performance](../claims/dosage-not-associated-with-outcomes.md) [-M] — learners who differ on it differ in outcomes
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](../claims/vefp-dosage-null-on-treatment.md) [-M] — learners who differ on it differ in outcomes
 - [In Wanzek and Vaughn (2008), doubling Tier 3 dosage to two daily 30-min sessions did not produce positive effects, while one daily session showed mixed effects for grade 1 inadequate responders versus at-risk controls](../claims/wanzek-vaughn-2008-tier3-dosage-mixed.md) [~M] — an instructional effect differs with it
+- [An on-treatment dosage analysis found no significant relationship between number of sessions attended and reading outcomes](../claims/chatterbooks-dosage-null.md) [-M] — learners who differ on it differ in outcomes
+- [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](../claims/moderation-dosage-celf-small.md) [-M] — an instructional effect differs with it
+- [Frequent attenders of the live virtual physics classroom scored significantly higher than rare attenders in a distance physics course](../claims/lvpcf-frequent-attenders-higher-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Rare attenders with high content-following but near-zero live attendance still failed the course](../claims/lvpcfr-high-content-following-failed.md) [+W] — learners who differ on it differ in outcomes
+- [SPARK significantly improved school attendance, with students averaging 5.8 fewer absences over two years (g = .25)](../claims/spark-improves-school-attendance.md) [+M] — instruction changes it
 
 ## The evidence by question
 

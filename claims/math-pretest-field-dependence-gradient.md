@@ -50,3 +50,4 @@ Pretest ANOVA on math scores by cognitive style subgroup in the 76-student sampl
 ## Related Claims
 - [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](cooperative-learning-no-language-effect.md) — related
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](cooperative-learning-math-equivalent-across-cognitive-styles.md) — related
+- [Field-dependent and field-independent pupils differed significantly in numeracy performance, with cognitive style accounting for 12% of variation](cognitive-style-field-dependence-numeracy-variation.md) — related

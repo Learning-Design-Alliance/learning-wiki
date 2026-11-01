@@ -56,3 +56,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related
 - [In shared holographic AR, scale, positioning of the representation, and body positioning emerged as important design considerations](shar-scale-body-positioning-design.md) — a narrower finding that bears on this claim
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
+- [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related

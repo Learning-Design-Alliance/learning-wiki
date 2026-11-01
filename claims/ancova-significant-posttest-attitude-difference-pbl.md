@@ -55,3 +55,4 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
 - [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
+- [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](pretest-covariate-significant-ancova-games-study.md) — related

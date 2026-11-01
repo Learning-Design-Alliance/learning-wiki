@@ -49,3 +49,5 @@ Quasi-experiment with two randomly assigned 7th-grade classes (N=74, 37 per grou
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
+- [Prior flipped-classroom studies report mixed achievement results, with some finding gains and others no significant differences](flipped-classroom-literature-mixed-achievement-results.md) — related
+- [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related

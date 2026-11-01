@@ -48,3 +48,6 @@ Observational analysis of 1,380 rounds of TBOP observation in treatment and cont
 ## Related Claims
 - [Treatment teachers devoted the largest observed shares of time to collaborative grouping, questioning, manipulatives/realia, and academic language scaffolding, while control teachers spent over 50% of time on no ESL strategies](esl-strategy-time-allocation-percentages-sixth-grade.md) — a narrower finding that bears on this claim
 - [TAIA reoriented the teacher's action distribution toward inquiry-practice support while the comparison condition emphasized content delivery and assessment](taia-teacher-action-distribution-shift.md) — related
+- [No significant treatment-control difference was found in the language content domain of observed instruction](no-difference-language-content-domain.md) — related
+- [Treatment teachers used visual scaffolding, cooperative/collaborative strategies, and leveled questions more often, while control teachers used manipulatives and realia more often](treatment-instructional-strategy-differences.md) — a narrower finding that bears on this claim
+- [In an RCT, VPD+VMC treatment teachers differed significantly from control teachers in observed time allocation across five of six POP observation domains](vpd-vmc-rct-time-allocation-differences.md) — related

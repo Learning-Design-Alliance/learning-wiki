@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (29 for, 27 mixed, 1 against) · 48 studies (11 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 48 report an effect size · 49 claims rest on one study
+> **Evidence** · 63 claims (33 for, 28 mixed, 2 against) · 52 studies (15 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 52 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,10 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](../claims/new-methods-outperform-lbl-theoretical-scores.md) [+W] — attached 2026-10-31 from Guan Cheng Ye et al. (2025), which proposed "Replace passive lecture-based learning with active, problem-oriented methods in resident standardized training"; tests this page's relationship.
 - [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](../claims/pogil-small-achievement-effect.md) [+W] — attached 2026-11-01 from Walker L (2017), which proposed "Coupling process skills to content instruction does not inhibit content learning and improves success measures"; tests this page's relationship.
 - [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](../claims/pogil-doubles-course-pass-odds.md) [+M] — attached 2026-11-01 from Walker L (2017), which proposed "Coupling process skills to content instruction does not inhibit content learning and improves success measures"; tests this page's relationship.
+- [Form two physics students taught through intensive practical activities significantly outperformed students taught by conventional lecture-based methods on a post-test of chosen topics](../claims/intensive-practical-work-beats-conventional-physics-teaching.md) [+W] — attached 2026-11-01 from Musasia et al. (2016), which proposed "Use intensive practical activities as a central instructional technique in secondary physics to raise achievement"; tests this page's relationship.
+- [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](../claims/practical-work-mean-gain-26-versus-2-8.md) [+W] — attached 2026-11-01 from Musasia et al. (2016), which proposed "Use intensive practical activities as a central instructional technique in secondary physics to raise achievement"; tests this page's relationship.
+- [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](../claims/pbl-improves-efl-vocabulary-recall.md) [+W] — attached 2026-11-01 from Shafaei et al. (2015), which proposed "Replace rote, translation-based vocabulary teaching with interactive, project-based methods"; tests this page's relationship.
+- [On a delayed delayed-post-test covering all 30 items, the PBL group (mean 23.80) outperformed the control group (mean 17.15)](../claims/pbl-delayed-delayed-posttest-outperformance.md) [+W] — attached 2026-11-01 from Shafaei et al. (2015), which proposed "Replace rote, translation-based vocabulary teaching with interactive, project-based methods"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -189,6 +193,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](../claims/pogil-confirms-freeman-meta-analysis.md) [+W]
 - [Class size and disciplinary domain do not significantly moderate POGIL's achievement effect, leaving residual heterogeneity unexplained](../claims/pogil-achievement-moderators-nonsignificant.md) [~W]
 - [POGIL's pass-rate advantage holds across class sizes and regardless of reported instructor training, though small-class estimates rest on very few studies](../claims/pogil-pass-rate-moderators.md) [+W]
+- [Exam-score advantage of active learning held on exams one and two but not on exam three](../claims/active-learning-exam-advantage-varies-by-exam.md) [~M]
+- [Final course grades did not differ significantly between POGIL participants and non-participants in the fundamentals nursing course](../claims/pogil-final-course-grade-no-significant-difference.md) [-W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

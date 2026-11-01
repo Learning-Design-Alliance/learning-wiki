@@ -44,6 +44,7 @@ The evaluation's development recommendation for PAL: address inconsistent delive
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
+- [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 
 ## Examples
 -

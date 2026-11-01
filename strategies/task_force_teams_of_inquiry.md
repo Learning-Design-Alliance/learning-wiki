@@ -67,6 +67,7 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 - [Project-Based Learning](project-based-learning-pbl.md) — the broader family this strategy belongs to, with a driving question and sustained investigation
 - [Gallery Walk](../strategies/gallery-walk.md) — a presentation format for sharing team findings
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
+- [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](self-regulated-collaborative-environments-higher-education.md)
 
 ## Examples
 - **Project Citizen** (Center for Civic Education, https://www.civic-ed.org) — class teams identify a community problem, research policy alternatives, and present a portfolio and hearing before civic panels.

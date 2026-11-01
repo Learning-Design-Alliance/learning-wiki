@@ -49,3 +49,4 @@ One-sample t-tests in the RQ1 results of the survey study (n = 121 cohort) showe
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — a narrower finding that bears on this claim
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
+- [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related

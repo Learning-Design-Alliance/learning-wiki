@@ -44,6 +44,7 @@ The brief recommends concrete relational strategies for leaders seeking buy-in f
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments](staff-buy-in-opt-in-pd-social-signaling.md)
 - [Treat educator implementation concerns as speed bumps: slow down and discuss nuances of the research to address them](speed-bumps-approach-science-communication.md)
+- [Use exploratory activities rather than telling students what to do when addressing procrastination](exploratory-activities-over-direct-advice-procrastination.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The article recommends that university teachers articulate their theories and be
 - [I Used To Think Now I Think](i-used-to-think-now-i-think.md)
 - [Design teacher training on inclusive education to combine belief reflection with practical experience in inclusive classrooms](inclusion-training-reflection-with-practical-experience.md)
 - [Embed explicit reflection on epistemic beliefs within constructivist teaching practice so beliefs evolve through enacted epistemic cognition](embed-epistemic-reflection-in-teaching-practice.md)
+- [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 3 studies (2 quant-synthesis, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 4 studies (2 causal, 2 quant-synthesis), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -46,6 +46,7 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [~W]
 - [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
 - [Sample size does not significantly moderate the gloss effect: large studies (ES = 0.88) versus small studies (ES = 0.72) do not differ significantly](../claims/sample-size-not-significant-gloss-moderator.md) [+W]
+- [Vocabulary learning under embedded instruction declined over the course of the school year](../claims/vocabulary-learning-decline-over-units.md) [-W]
 
 ## Related Elements
 

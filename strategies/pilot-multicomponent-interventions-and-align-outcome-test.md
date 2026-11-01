@@ -44,7 +44,8 @@ Drawing on this evaluation, the report recommends that a multi-component literac
 - [Some higher-ability pupils found the VEFP too easy and teachers felt such pupils should not have been in the study](../claims/vefp-higher-ability-pupils-found-programme-too-easy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
 
 ## Examples
 -

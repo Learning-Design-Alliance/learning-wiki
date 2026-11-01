@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (64 show a difference, 17 mixed, 23 no difference) · 62 studies (27 associational, 21 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 62 report an effect size · 102 claims rest on one study
+> **Evidence** · 105 claims (65 show a difference, 17 mixed, 23 no difference) · 63 studies (27 associational, 22 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 63 report an effect size · 103 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -145,6 +145,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their nursery rhyme completion scores over ten weeks](../claims/nursery-rhyme-instruction-improves-completion-scores.md) [+M] — instruction changes it
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](../claims/nursery-rhyme-instruction-improves-pals-scores.md) [+M] — instruction changes it
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](../claims/total-positive-impact-foundational-skills.md) [~M] — instruction changes it
+- [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](../claims/phonics-prosody-course-improves-l2-pronunciation.md) [+M] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

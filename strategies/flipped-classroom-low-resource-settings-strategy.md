@@ -48,6 +48,7 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
 - [Adopt flipped classroom in preventive medicine courses according to institutional resources, with teacher information-technology training](adopt-fc-per-resources-with-teacher-it-training.md)
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
+- [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 
 ## Examples
 -

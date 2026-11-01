@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (29 for, 10 mixed) · 33 studies (9 causal, 8 review, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (33 for, 10 mixed) · 34 studies (10 causal, 8 review, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 34 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,10 @@ Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue 
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
 - [BICS-level language can be acquired in about two years regardless of age on arrival and first language](../claims/bics-acquired-two-years-all-ages.md) [~W]
 - [Meaning negotiation and appropriation are mechanisms for achieving conceptual change in scientific thinking](../claims/conceptual-change-via-meaning-negotiation-appropriation.md) [+W] — attached 2026-10-22 from Roy D. Pea (1994), which proposed "Design and study of learning environments should follow from a sociocultural perspective on conceptual change".
+- [Reflective EFL learners taught with oral output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/reflective-oral-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
+- [Reflective EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/reflective-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
+- [Impulsive EFL learners taught with oral output-based instruction significantly outperform control-group learners, with a moderate effect](../claims/impulsive-oral-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
+- [Impulsive EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/impulsive-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -97,3 +97,4 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](note-quality-quantity-verbatim-overlap-effects.md) — related
 - [Writing teaching scripts or textbook explanations improves university students' create-level research question generation more than writing study notes for their own learning](generating-for-others-beats-notetaking-question-generation.md) — related
 - [Taking notes by hand is reported as superior to using laptops for learning](handwritten-notes-superior-laptop-notes.md) — a narrower finding that bears on this claim
+- [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](live-lecture-better-comprehension-questions.md) — related

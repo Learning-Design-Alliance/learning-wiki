@@ -49,3 +49,5 @@ Quasi-experiment with 60 general physicians and assistants randomly assigned to 
 - [Students taught with academic controversy lessons significantly outperformed students taught by traditional lecture on the TUCE overall post-test score in post-secondary macroeconomics](academic-controversy-outperforms-lecture-tuce-macroeconomics.md) — a broader claim this one bears on
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — a broader claim this one bears on
 - [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related
+- [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
+- [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related

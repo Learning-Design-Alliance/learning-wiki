@@ -51,6 +51,7 @@ The report's discussion offers eight recommendations for education decision-make
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
 - [Use SWBL as an alternative learning environment to equip pre-service teachers with technology-application knowledge and skills](swbl-alternative-environment-teacher-ict-training.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
+- [Use blended learning approaches for teachers' professional development in ICT integration](blended-approach-teacher-pd-strategy.md)
 
 ## Examples
 -

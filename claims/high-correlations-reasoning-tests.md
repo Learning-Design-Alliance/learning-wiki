@@ -53,3 +53,4 @@ Third series (infants): product-moment correlations computed from individual mar
 - [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — related
 - [In a Standard VII girls' class, the later-working group (11.25 A.M.) improved 21 per cent on preliminary records versus 15 per cent for the earlier-working group (10 A.M.).](girls-later-morning-greater-improvement.md) — related
 - [Settling on final age-range or universal test scales is premature while competing test systems correlate over 90 per cent](premature-universal-test-scales-high-correlations.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

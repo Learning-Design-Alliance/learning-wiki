@@ -54,3 +54,4 @@ Stage 1 analysis of the 378 authored items (126 per label) showed mean stem leng
 - [Adding generated hypotheses as features improves black-box difficulty predictors](hypothesis-features-improve-difficulty-predictors.md) — related
 - [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
 - [Item complexity is an intrinsic item characteristic while item difficulty describes how hard it is to solve for students](complexity-intrinsic-difficulty-performance.md) — related
+- [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — related

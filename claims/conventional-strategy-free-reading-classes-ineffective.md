@@ -47,3 +47,4 @@ Authors' interpretation in the Discussion section, not a separately tested resul
 ## Related Claims
 - [A large share of black fourth-graders score below NAEP Basic in reading, and the article argues many are children with undiagnosed dyslexia](naep-below-basic-black-fourth-graders-dyslexia.md) — related
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](metacognitive-strategy-literary-books-posttest-reading-comprehension.md) — related
+- [The authors attribute the control group's flat self-esteem partly to classic works being inappropriate for students' developmental and age levels](classic-works-inappropriate-developmental-level.md) — related

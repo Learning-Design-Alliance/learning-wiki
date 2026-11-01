@@ -48,6 +48,7 @@ As future work, the authors propose using spendency as an actionable signal in t
 
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](strategy-evidence-models-trigger-adaptive-scaffolding.md)
+- [Build behavior detectors in online learning systems that log gender-relevant homework behaviors to target interventions that close gender gaps](behavior-detectors-gender-gap-online-homework.md)
 
 ## Examples
 -

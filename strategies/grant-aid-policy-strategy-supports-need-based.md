@@ -47,6 +47,7 @@ The article's policy implications recommend three implementable moves for instit
 ## Related Strategies
 
 - [Ten state policy recommendations for student-centered financial aid systems](state-financial-aid-design-recommendations.md)
+- [States and scholarship-granting organizations can consider performance-based scholarships to incentivize academic success while providing additional aid](consider-performance-based-scholarships-strategy.md)
 
 ## Examples
 -

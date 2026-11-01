@@ -67,3 +67,4 @@ Estimated marginal means from the Type of content × Grade interaction model, de
 ## Related Claims
 - [Sex differences in mathematics vary by content domain, with male advantages for geometry (d = 0.218), broad mathematics (d = 0.145), computation (d = 0.089), and national tests (d = 0.068), but near-zero differences for advanced mathematics and basic numeracy](content-domain-moderation-sex-differences-mathematics.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related
+- [Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)](sex-no-moderating-effect-numeracy-retention.md) — related

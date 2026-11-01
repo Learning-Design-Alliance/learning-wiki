@@ -72,3 +72,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](dhh-embodiment-limits-effectiveness.md) — related
 - [In one included study, students' perception scores were better for the direct classroom course than the online sessions](classroom-perceptions-beat-online-sessions-one-study.md) — related
+- [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](classroom-learning-more-comprehensive-than-recorded-video.md) — related

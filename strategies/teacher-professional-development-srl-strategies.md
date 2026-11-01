@@ -41,6 +41,7 @@ Because self-regulated learning strategies showed a large pooled effect on achie
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](pd-reflection-online-versus-f2f-differences.md)
 - [Use in-service training to raise teacher awareness of lingering teacher-centered styles](in-service-training-teacher-centered-awareness.md)
+- [Have pre-service teachers plan classroom activities with mind maps and model their use with students](mind-map-planning-teacher-education-strategy.md)
 
 ## Examples
 -

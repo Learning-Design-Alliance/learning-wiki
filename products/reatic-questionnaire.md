@@ -25,7 +25,8 @@ The REATIC questionnaire, developed by De Moya Martínez et al., is a 60-item Li
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [35-item TPACK-based ICT knowledge scale with five-point awareness ratings](35-item-tpack-based-ict-knowledge-scale-with-five-point-awareness-ratings.md)
 
 ## Key Sources
 - Vega-Hernández, M.-C., Patino-Alonso, M.-C., & Galindo-Villardón, M.-P. (2018). Multivariate characterization of university students using the ICT for learning. Computers & Education, 121, 124–130. https://doi.org/10.1016/j.compedu.2018.03.004

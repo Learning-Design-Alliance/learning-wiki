@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 413 claims (233 show a difference, 89 mixed, 91 no difference) · 269 studies (150 associational, 65 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 269 report an effect size · 405 claims rest on one study
+> **Evidence** · 420 claims (237 show a difference, 89 mixed, 94 no difference) · 274 studies (150 associational, 70 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 274 report an effect size · 412 claims rest on one study
 
 ## How to read this page
 
@@ -452,6 +452,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](../claims/no-method-gender-interaction-concept-acquisition.md) [-M] — an instructional effect differs by group
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](../claims/no-gender-gpa-achievement-effects.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Verbal ability and gender each showed significant main effects on attitude to reading](../claims/verbal-ability-gender-effects-attitude-reading.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys outperformed girls on physics post-tests in both the practical-work and conventional groups, and the experimental group's improvement was larger for boys](../claims/boys-outperform-girls-in-both-physics-conditions.md) [+M] — an instructional effect differs by group
+- [Daily mathematical routines involving logical challenges significantly increased 3rd-grade girls' introjected extrinsic motivation](../claims/daily-logic-challenge-routines-raise-girls-introjected-extrinsic-motivation.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in biology achievement among students taught with concept mapping](../claims/no-gender-difference-concept-mapping-biology.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Playing mathematical board games at school significantly increased 3rd-grade boys' introjected extrinsic motivation](../claims/board-games-raise-boys-introjected-extrinsic-motivation.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)](../claims/sex-no-moderating-effect-numeracy-retention.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex has no significant effect on pupils' numeracy performance under meta-cognitive training in computer-mediated classrooms](../claims/sex-no-significant-effect-numeracy-performance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The ASSISTments homework intervention effect on TerraNova math scores varied by gender: boys benefited more, narrowing the gender gap](../claims/assistments-intervention-benefited-boys-more.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -65,3 +65,4 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
 - [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related

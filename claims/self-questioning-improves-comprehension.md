@@ -115,3 +115,4 @@ This review examined 35 experimental research studies that taught self-questioni
 - [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](reciprocal-teaching-raises-reading-comprehension-poor-readers.md) — related
 - [Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34](grades36-comprehension-programs-es-034.md) — related
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related
+- [Prior quasi-experimental evidence: metacognitive strategy instruction raised Dutch Grade 6 students' reading comprehension (review-reported)](houtveen-grift-metacognitive-instruction-dutch-students.md) — a narrower finding that bears on this claim

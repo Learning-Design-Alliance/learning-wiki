@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 sources:
-  - id: tricia-a-zucker-2021
+  - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
-    title: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
-    author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
+    title: "Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288"
+    author: "Zucker, T. A., Jacbos, E., & Cabell, S. Q."
 ---
 
 # Four-step TDF process for diagnosing and remediating curriculum implementation barriers
@@ -47,4 +47,4 @@ The article outlines a four-step process for education researchers to apply the 
 -
 
 ## Key Sources
-- Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+- Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288

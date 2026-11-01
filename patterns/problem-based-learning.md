@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 142 claims (50 for, 81 mixed, 11 against) · 78 studies (32 quant-synthesis, 18 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 78 report an effect size · 137 claims rest on one study
+> **Evidence** · 144 claims (51 for, 82 mixed, 11 against) · 79 studies (32 quant-synthesis, 19 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 79 report an effect size · 139 claims rest on one study
 
 ## Description and scope
 
@@ -234,6 +234,8 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](../claims/pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) [~W]
 - [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](../claims/vpbl-equally-effective-as-text-based-pbl.md) [~W]
 - [PBL vs LBL alone produces higher excellence rates than PBL+LBL vs LBL in Chinese medical courses](../claims/pbl-alone-higher-excellence-than-pbl-lbl-combination.md) [~W]
+- [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](../claims/pbl-authentic-environment-difficult-words-interpretation.md) [+W]
+- [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

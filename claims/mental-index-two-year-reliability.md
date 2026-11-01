@@ -73,3 +73,4 @@ The same 46-case retest study found lower correspondence for absolute achievemen
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
 - [Rankings from a battery of eight group class tests corresponded closely with Yerkes Scale rankings, with an overall correlation of r = .80 across the 88 class-tested cases](class-tests-rankings-correlate-with-yerkes-scale.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

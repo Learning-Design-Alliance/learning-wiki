@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (28 show a difference, 9 mixed, 12 no difference) · 38 studies (12 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 2 of 38 report an effect size · 46 claims rest on one study
+> **Evidence** · 54 claims (31 show a difference, 9 mixed, 14 no difference) · 42 studies (16 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 2 of 42 report an effect size · 51 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -87,6 +87,11 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [RLC secondary outcomes (KS2 numeracy and grammar, punctuation and spelling) were small and not statistically significant](../claims/rlc-secondary-outcomes-non-significant.md) [-M] — instruction changes it
 - [The experimental group showed a statistically significant gain from pretest to post-test after personalized grammar instruction](../claims/experimental-group-pretest-posttest-gain.md) [+M] — instruction changes it
 - [Team-teaching grammar instruction does not produce significantly better grammatical proficiency than single-teacher instruction among Iranian junior-high EFL learners](../claims/team-teaching-no-grammar-proficiency-gain-efl-iran.md) [-M] — instruction changes it
+- [EFL students taught grammar and vocabulary with Pixton comic strips scored significantly higher on a post-test than control students taught without Pixton](../claims/pixton-comic-strips-improve-efl-grammar-vocabulary-posttest.md) [+M] — instruction changes it
+- [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](../claims/cai-gain-exceeds-cim-voice-grammar.md) [+M] — instruction changes it
+- [Jigsaw I produced no significant difference in grammar success scores compared with conventional teacher-centered teaching in grade-8 Turkish grammar](../claims/jigsaw-i-no-success-difference-turkish-grammar.md) [-M] — instruction changes it
+- [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](../claims/self-regulated-jigsaw-iv-achievement-gains.md) [+M] — instruction changes it
+- [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](../claims/cai-within-group-gain-not-significant.md) [-M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

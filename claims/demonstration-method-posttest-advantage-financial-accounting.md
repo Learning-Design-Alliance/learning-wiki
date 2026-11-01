@@ -48,3 +48,4 @@ ANCOVA on post-test FAAT scores in the 4-week pre-test-post-test-control group e
 - [Before treatment, demonstration-method and conventional-approach students show no significant difference in financial accounting achievement](no-pretest-difference-demonstration-conventional-financial-accounting.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
+- [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related

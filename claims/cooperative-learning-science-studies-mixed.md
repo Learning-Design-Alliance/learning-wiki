@@ -100,3 +100,4 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](gender-method-interaction-effects-trigonometry.md) — related
 - [Teaching with an interactive projector produced no significant difference in 7th-grade biology achievement compared with a general data projector](interactive-projector-no-achievement-difference.md) — related
+- [Evidence on cooperative learning in Asian contexts is mixed relative to Western findings](cooperative-learning-asian-context-mixed-evidence.md) — related

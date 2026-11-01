@@ -50,3 +50,5 @@ Meta-regression moderator analysis on 422 studies, 706 samples, and 1,175 effect
 ## Related Claims
 - [The male advantage in geometry, broad mathematics, and computation increases across grades, reaching approximately d = 0.541, d = 0.255, and d = 0.207 by the end of secondary schooling, but grade slopes are flat for advanced mathematics, basic numeracy, and national tests](grade-by-content-interaction-sex-differences-mathematics.md) — related
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
+- [Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)](sex-no-moderating-effect-numeracy-retention.md) — related
+- [Sex has no significant effect on pupils' numeracy performance under meta-cognitive training in computer-mediated classrooms](sex-no-significant-effect-numeracy-performance.md) — related

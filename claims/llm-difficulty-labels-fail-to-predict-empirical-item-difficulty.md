@@ -58,3 +58,4 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [Deep learning models empirically outperform rule-based approaches on automatic question-generation evaluation](nqg-outperforms-rule-based-automatic-eval.md) — related
 - [Existing AQG approaches concentrate on non-technical domains, and technical-domain Wh-type generation has been limited to Bloom's cognitive Level I](existing-aqg-technical-domain-limited-non-technical.md) — related
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](aqg-little-progress-difficulty-feedback-verbalisation.md) — reports the opposite
+- [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — related

@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (85 show a difference, 26 mixed, 16 no difference) · 83 studies (28 associational, 22 quant-synthesis, 20 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 28 of 83 report an effect size · 122 claims rest on one study
+> **Evidence** · 129 claims (87 show a difference, 26 mixed, 16 no difference) · 85 studies (28 associational, 22 causal, 22 quant-synthesis, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 29 of 85 report an effect size · 124 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -168,6 +168,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](../claims/total-positive-impact-foundational-skills.md) [~M] — instruction changes it
 - [In Gilbert et al. (2013), an intensified one-on-one Tier 3 intervention produced negative effects for grade 1 inadequate responders compared with inadequate responders continuing Tier 2](../claims/gilbert-2013-intensified-tier3-negative-effects.md) [-M] — instruction changes it
 - [In Scanlon et al. (2005), both a Text-Emphasis and a Phonological-Skills-Emphasis Tier 3 condition produced positive effects for grade 1 inadequate responders versus typical school remediation](../claims/scanlon-2005-tier3-text-phonological-emphasis.md) [+M] — instruction changes it
+- [In a large RCT (n = 871), Fusion Reading produced a small significant effect on word reading efficiency (Glass Δ = 0.11) but no significant differences on reading comprehension measures](../claims/fusion-striving-readers-rct-small-effects.md) [+W] — instruction changes it
+- [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](../claims/phonics-prosody-course-improves-l2-pronunciation.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

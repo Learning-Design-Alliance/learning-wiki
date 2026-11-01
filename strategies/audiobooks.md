@@ -60,9 +60,11 @@ Audiobooks exploit the fact that listening comprehension typically develops ahea
 6. Compare comprehension on audio versus print tasks over time to decide when to fade audio support
 
 ## Related Strategies
+
 - [Assigned Readings](../elements/assigned-readings.md) — audiobooks are an alternative delivery mode for the same assigned content
 - [Activating Background Knowledge](activate_background_knowledge.md) — preview listening builds the knowledge base print reading then requires
 - [Chunking](../principles/chunking.md) — dividing long recordings into manageable listening segments mirrors chunking of text
+- [Use picture-free audio listening tasks so students focus only on conversational content](audio-only-listening-cd-strategy.md)
 
 ## Examples
 - **Independent reading time with audiobooks** — students listen to novels during sustained silent reading, accessing texts above their decoding level; recommended in the Friday Institute's Auditory Processing micro-credential (NC State)

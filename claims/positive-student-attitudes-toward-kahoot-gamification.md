@@ -50,3 +50,5 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
 - [Gender had no significant multivariate effect on students' attitudes toward web-based computer games after TGT](gender-no-significant-effect-game-attitude.md) — related
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
+- [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
+- [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — related

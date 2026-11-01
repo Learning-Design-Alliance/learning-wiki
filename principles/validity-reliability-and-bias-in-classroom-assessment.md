@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 353 claims (156 for, 173 mixed, 24 against) · 265 studies (90 associational, 61 design, 45 review, 28 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 265 report an effect size · 346 claims rest on one study
+> **Evidence** · 354 claims (156 for, 174 mixed, 24 against) · 266 studies (90 associational, 61 design, 45 review, 29 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 266 report an effect size · 347 claims rest on one study
 
 ## Conditional relationship
 
@@ -427,6 +427,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](../claims/attitude-questionnaire-high-reliability-both-groups.md) [+W]
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](../claims/basic-science-process-skills-test-reliability-0876.md) [+W]
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](../claims/inter-rater-reliability-writing-scores.md) [+W]
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](../claims/self-developed-test-reliability-069.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

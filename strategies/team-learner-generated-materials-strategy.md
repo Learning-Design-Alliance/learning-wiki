@@ -52,6 +52,7 @@ The article's implemented strategy: learners in teams study topics in phonetics 
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
 - [Student-Created Magazines](student-created-magazines.md)
 - [Flipped Classroom](flipped-classroom.md)
+- [Use jigsaw, role-play, note-taking, joint projects, and game-based activities to embed cooperative learning elements in pronunciation instruction](cl-structures-techniques-for-pronunciation-instruction.md)
 
 ## Examples
 -

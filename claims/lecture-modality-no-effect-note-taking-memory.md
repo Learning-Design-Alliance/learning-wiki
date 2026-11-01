@@ -51,3 +51,4 @@ Narrative review synthesis of experiments by Peters (1972), Peper and Mayer (197
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](test-format-timing-moderate-note-taking-effects.md) — related
 - [In immediate recall by school pupils, objects shown are remembered better than written words, and written words better than spoken words](objects-remembered-better-than-written-then-spoken-names.md) — related
+- [Students performed comparably on exam questions from live lectures and pre-recorded lectures overall, including on memory questions](prl-vs-live-lecture-no-overall-difference.md) — a narrower finding that bears on this claim

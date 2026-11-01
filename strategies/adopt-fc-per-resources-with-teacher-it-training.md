@@ -58,6 +58,7 @@ The article recommends that medical colleges "could consider promoting this mode
 
 - [Design flipped classroom instruction according to subject type, knowledge type, and students' independent learning ability](design-flips-by-subject-knowledge-and-self-learning.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
+- [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 
 ## Examples
 -

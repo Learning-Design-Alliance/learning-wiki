@@ -62,3 +62,4 @@ Supplemental hierarchical regressions entered seven hypothesized constructs afte
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — a broader claim this one bears on
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related
 - [cogPGS significantly explains baseline WM variation (β = 0.10, p = 0.03; 1.0% of variance after accounting for gender and age).](cogpgs-explains-baseline-wm.md) — related
+- [The 5P model produced significantly faster working memory reaction times than the 5E model](5p-model-improves-working-memory-reaction-time.md) — related

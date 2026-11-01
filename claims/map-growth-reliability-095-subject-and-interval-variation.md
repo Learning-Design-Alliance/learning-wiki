@@ -54,3 +54,4 @@ The report's reliability chapter summary reports marginal (IRT internal consiste
 - [Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8](spanish-map-reading-test-retest-reliability-050-083.md) — a narrower finding that bears on this claim
 - [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — a narrower finding that bears on this claim
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

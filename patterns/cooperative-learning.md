@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 60 claims (32 for, 27 mixed, 1 against) · 50 studies (19 quant-synthesis, 12 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 52 claims rest on one study
+> **Evidence** · 64 claims (35 for, 28 mixed, 1 against) · 52 studies (19 quant-synthesis, 14 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 19 of 52 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](../claims/student-team-formation-priorities-survey.md) [~W]
 - [A cooperative learning program produced significantly higher mathematics achievement than traditional teaching in fourth-grade students](../claims/cooperative-learning-improves-math-achievement-fourth-grade.md) [+W] — attached 2026-11-01 from Mery Luz Vega; Christian Hederich M (2015), which proposed "Learning Together cooperative program structure: small mixed teams with positive interdependence, individual responsibility, group processing and cooperative skills training across subject areas"; tests this page's relationship.
 - [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](../claims/cooperative-learning-no-language-effect.md) [~W] — attached 2026-11-01 from Mery Luz Vega; Christian Hederich M (2015), which proposed "Learning Together cooperative program structure: small mixed teams with positive interdependence, individual responsibility, group processing and cooperative skills training across subject areas"; tests this page's relationship.
+- [Students taught with the Learning Together technique achieved significantly higher psychology posttest scores than students taught by lecture-based teaching](../claims/learning-together-higher-achievement-posttest.md) [+M] — attached 2026-11-01 from Tran (2014), which proposed "Adopt cooperative learning as an alternative to lecture-based teaching in Vietnamese higher education"; tests this page's relationship.
+- [Students taught with the Learning Together technique retained significantly more psychology knowledge on a delayed test than lecture-taught students](../claims/learning-together-greater-knowledge-retention.md) [+M] — attached 2026-11-01 from Tran (2014), which proposed "Adopt cooperative learning as an alternative to lecture-based teaching in Vietnamese higher education"; tests this page's relationship.
+- [Evidence on cooperative learning in Asian contexts is mixed relative to Western findings](../claims/cooperative-learning-asian-context-mixed-evidence.md) [~M] — attached 2026-11-01 from Tran (2014), which proposed "Adopt cooperative learning as an alternative to lecture-based teaching in Vietnamese higher education"; tests this page's relationship.
+- [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](../claims/self-regulated-jigsaw-iv-achievement-gains.md) [+W] — attached 2026-11-01 from Esin Özdemir (2016), which proposed "Jigsaw IV nine-phase cooperative learning sequence"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

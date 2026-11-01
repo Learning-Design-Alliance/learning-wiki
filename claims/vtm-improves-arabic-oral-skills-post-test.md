@@ -50,3 +50,4 @@ Quasi-experiment with 48 purposefully selected third graders randomly assigned t
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
 - [Educational trips produced higher adjusted environmental knowledge scores than service learning, which in turn exceeded control](educational-trips-most-effective-environmental-knowledge.md) — related
+- [GIS-based teaching produced significantly higher post-test achievement scores than traditional teaching among underachieving Geography students, with a large-sized between-group effect](gis-teaching-higher-achievement-underachievers.md) — related

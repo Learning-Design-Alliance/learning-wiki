@@ -68,3 +68,4 @@ The review describes songoputation as a new concept from Bayeck (2024): a cultur
 - [Classic African board games function as learning spaces where multidomain learning occurs](classic-african-board-games-learning-spaces.md) — a broader claim this one bears on
 - [Bao gameplay is linked to economic decision-making and entrepreneurial skills](bao-gameplay-economic-entrepreneurial-skills.md) — related
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](freedom-of-gameplay-mechanics-common.md) — related
+- [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related

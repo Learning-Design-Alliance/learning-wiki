@@ -42,7 +42,8 @@ A specific implementable recommendation from the article's recommendations secti
 - [Performance differed significantly across low, medium and high scoring students taught with behavioural objectives, with low scorers benefiting most](../claims/behavioural-objectives-scoring-level-differences-set-theory.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Authors of Literature-in-English texts should state the instructional objectives of each chapter or topic](textbook-authors-state-instructional-objectives.md)
 
 ## Examples
 -

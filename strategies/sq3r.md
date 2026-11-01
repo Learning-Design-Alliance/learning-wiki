@@ -57,9 +57,11 @@ SQ3R's active components align with well-supported learning science: generating 
 5. **Review** — return after a delay (same day, then spaced), re-answer the questions, and check against the text
 
 ## Related Strategies
+
 - [Retrieval practice](retrieval-practice-activities.md) — the Recite/Review steps are embedded retrieval; the strongest-evidence component
 - [Question generation](../strategies/question-generation.md) — the Question step in isolation
 - [Annotating](../principles/annotating.md) — a lighter-weight active-reading alternative
+- [Match reading strategy to student curiosity level: INSERT for high-curiosity, SQ3R for low-curiosity learners](match-reading-strategy-to-curiosity-level.md)
 
 ## Examples
 - **College study-skills courses** (e.g., university learning-center curricula) teach SQ3R as the canonical textbook-reading routine for introductory survey courses.

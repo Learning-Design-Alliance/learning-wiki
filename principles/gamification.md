@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (34 for, 27 mixed, 3 against) · 57 studies (20 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 57 report an effect size · 56 claims rest on one study
+> **Evidence** · 65 claims (35 for, 27 mixed, 3 against) · 58 studies (21 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 58 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Scoping review of 33 studies finds increased motivation was the most frequently reported outcome of gamified applications in TEFL](../claims/scoping-review-gamification-tefl-motivation-most-reported-outcome.md) [+W]
 - [Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes](../claims/enhancing-technologies-effective-knowledge-behavior.md) [+W]
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](../claims/hfps-leave-one-out-sensitivity-pattern.md) [~W]
+- [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](../claims/kahoot-engagement-peer-study-groups-observed.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

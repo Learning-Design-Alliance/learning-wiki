@@ -67,3 +67,4 @@ Cluster randomized trial of 143 children across 5 state-funded preschool sites i
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](world-of-words-expressive-vocabulary-significant.md) — related
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](world-of-words-inductive-reasoning-significant.md) — related
 - [World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study](world-of-words-sorting-task-large-effect.md) — related
+- [Story Friends produced no group differences on distal standardized language measures (PPVT-IV, CELF-P)](no-distal-language-effects-ppvt-celf.md) — related

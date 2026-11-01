@@ -52,3 +52,4 @@ Stepwise linear regression on self-report data from 189 participants, with engag
 - [An eight-week commercial video game intervention (about 14 hours of play) raised students' self-reported communication, adaptability and resourcefulness relative to a randomised control](game-intervention-gains-all-three-graduate-skills.md) — related
 - [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](ego-nfc-dropped-from-engagement-model.md) — related
 - [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](elaboration-intrinsic-goals-task-value-predict-epu.md) — related
+- [Greater use of the accompanying computer games was significantly associated with higher numeracy performance, but not with literacy impact, and teaching hours showed no association with impact for either programme](computer-games-associated-numeracy-impact.md) — related

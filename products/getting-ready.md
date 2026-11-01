@@ -32,7 +32,8 @@ Getting Ready is a University of Nebraska–Lincoln program that trains early ch
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](../claims/getting-ready-replication-relationships.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Save the Children Early Childhood Stimulation Program (ECSP)](save-the-children-early-childhood-stimulation-program-ecsp.md)
 
 ## Key Sources
 - Getting Ready. (2025). Program description, University of Nebraska—Lincoln. https://evidenceforessa.org/program/getting-ready/

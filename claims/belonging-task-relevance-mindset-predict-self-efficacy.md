@@ -52,3 +52,4 @@ Multiple regression on the district PERTS survey data with belonging, task relev
 - [Pre-service teachers' assessment quality is negatively related to self-efficacy and perceived costs of engaging with scientific evidence](evidence-engagement-costs-negatively-related-assessment-quality.md) — related
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related
 - [Regression analysis in iteration 1 identifies which skill sets significantly predict student assessment scores](regression-iteration1-skill-predictors.md) — related
+- [Time 1 competence expectancy and sense of belonging to math predicted algebra post-test scores](motivation-predicts-algebra-posttest.md) — related

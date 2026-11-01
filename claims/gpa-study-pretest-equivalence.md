@@ -47,3 +47,4 @@ One-way ANOVA on the 15-item achievement pretest administered before the five-we
 ## Related Claims
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related

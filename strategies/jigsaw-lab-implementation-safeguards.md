@@ -51,7 +51,8 @@ From their conclusions the authors recommend practical safeguards for jigsaw in 
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](../claims/jigsaw-positive-student-opinions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 
 ## Examples
 -

@@ -55,3 +55,5 @@ Meta-analysis of 43 studies (28 theses, 15 articles) conducted in Turkey between
 - [Year of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-year-not-significant-moderator-constructivism-attitudes.md) — related
 - [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related
 - [Argumentation-based teaching of Functions yields more positive attitudes toward mathematics than traditional teaching](argumentation-improves-maths-attitude-functions.md) — a narrower finding that bears on this claim
+- [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
+- [Jigsaw I produced no significant difference in attitudes toward the Turkish course compared with conventional teaching](jigsaw-i-no-attitude-difference-turkish-course.md) — related

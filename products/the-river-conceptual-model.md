@@ -28,7 +28,8 @@ A Flash-based interactive geography learning object developed by Daniel Churchil
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](../claims/small-screen-usability-limitations.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [J1.2 interactive blind map teaching-examining e-learning system](j12-interactive-blind-map-teaching-examining-e-learning-system.md)
 
 ## Key Sources
 - Daniel Churchill. (2011). Conceptual Model Learning Objects and Design Recommendations for Small Screens. Educational Technology & Society, 14(1), 203-216. https://www.worldcat.org/issn/1436-4522

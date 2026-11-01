@@ -67,3 +67,4 @@ Same survey, question on online tests: "However, 90% of the students in this gro
 ## Related Claims
 - [Blended web-based learning with Getsmart significantly improves Year 12 physics Knowledge and Complex Reasoning post-test scores relative to a comparison class](web-based-learning-improves-physics-knowledge-and-complex-reasoning.md) — related
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
+- [Students in the FLEX blended learning format rated the learning environment positively across all surveyed dimensions](flex-students-positive-perceptions-all-dimensions.md) — related

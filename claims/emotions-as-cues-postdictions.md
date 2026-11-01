@@ -56,3 +56,4 @@ Correlational analyses (N = 358) showed all achievement emotions significantly r
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
+- [Graphic-organizer vocabulary instruction raises positive achievement emotions (enjoyment, hope, pride) more than the C(2)QU contextual process in fourth-grade social studies](gos-instruction-raises-positive-achievement-emotions.md) — related

@@ -47,6 +47,7 @@ The program embeds professional learning in its curriculum tools so teachers and
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Deliver school-based, job-embedded professional learning in varied well-matched formats](job-embedded-school-based-professional-learning.md)
 - [Center teacher professional development on machine learning platforms so teachers can use AI in classrooms](pd-machine-learning-platform-stem-teachers.md)
+- [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Swain's output hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 6 studies (4 qualitative, 1 causal, 1 review), `q1`–`q3` · 0 of 6 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 7 studies (4 qualitative, 2 causal, 1 review), `q1`–`q3` · 1 of 7 report an effect size · 17 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej1095572, eric-ej1195386, eric-ej420159, eric-ed338037, eric-ej1155586, eric-ej1208383, eric-ej1144345, eric-ej1071042, eric-ej912912. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -40,6 +40,7 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - L2 writing, including lexical and grammatical problem-solving while writing.
 
 ## Claims
+
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [+M]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [+W]
 - [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](../claims/pushing-output-drives-input-assimilation.md) [+W]
@@ -51,6 +52,11 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](../claims/model-comparison-noticing-lexical.md) [~W]
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](../claims/notetaking-feedback-limits-grammar-resolution.md) [~W]
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](../claims/lexical-lres-dominate-grammar-lres-l2-writing.md) [~M]
+- [Reflective EFL learners taught with oral output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/reflective-oral-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Swain's output hypothesis and structured output-based vocabulary tasks"; tests this page's relationship.
+- [Reflective EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/reflective-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Swain's output hypothesis and structured output-based vocabulary tasks"; tests this page's relationship.
+- [Impulsive EFL learners taught with oral output-based instruction significantly outperform control-group learners, with a moderate effect](../claims/impulsive-oral-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Swain's output hypothesis and structured output-based vocabulary tasks"; tests this page's relationship.
+- [Impulsive EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/impulsive-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Swain's output hypothesis and structured output-based vocabulary tasks"; tests this page's relationship.
+- [Oral and written output-based instruction do not differ significantly in effect on vocabulary learning of reflective EFL learners](../claims/no-oral-written-difference-reflective-vocabulary.md) [~W]
 
 ## The evidence by question
 - *Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?* [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](../claims/zhao-ping-output-functions-writing-experiment.md) [~M]

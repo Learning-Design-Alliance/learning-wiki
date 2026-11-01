@@ -46,6 +46,7 @@ The review prescribes a concrete PD schedule for adopting SIM: 2-3 days of plann
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Require participants to complete an individual leadership project with a planning template and protected work time](individual-leadership-project-protected-time.md)
+- [Provide multi-year professional development with instructional coaching before and during implementation of a comprehensive reading program](fusion-multi-year-pd-with-coaching-strategy.md)
 
 ## Examples
 -

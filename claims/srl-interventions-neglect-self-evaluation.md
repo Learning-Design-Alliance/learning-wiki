@@ -55,3 +55,4 @@ Synthesis of nine studies addressing interventions to support SRL in medical stu
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
 - [All AI applications and tools predominantly influence the performance phase of SRL, particularly by facilitating monitoring and control](ai-tools-predominantly-influence-performance-phase.md) — related
+- [Interviewed experimental-group students reported using self-regulated learning strategies across forethought, performance and self-reflection phases in their independent studies](jigsaw-iv-students-report-srl-phases.md) — related

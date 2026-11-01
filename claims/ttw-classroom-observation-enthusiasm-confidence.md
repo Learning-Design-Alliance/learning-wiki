@@ -54,3 +54,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Learning strategy and self-efficacy interact in their effect on mathematical representation ability](strategy-self-efficacy-interaction-mathematical-representation.md) — related
 - [Students' mathematical representation ability differs by self-efficacy level, with high self-efficacy students scoring highest](self-efficacy-level-differentiates-mathematical-representation.md) — related
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — related
+- [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](kahoot-engagement-peer-study-groups-observed.md) — related

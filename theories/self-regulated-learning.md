@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 256 claims (115 for, 129 mixed, 12 against) · 189 studies (60 associational, 51 causal, 28 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 189 report an effect size · 240 claims rest on one study
+> **Evidence** · 258 claims (117 for, 129 mixed, 12 against) · 191 studies (60 associational, 52 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 44 of 191 report an effect size · 242 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -303,6 +303,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [~W]
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W] — attached 2026-11-01 from van Houten‐Schat Maaike A et al. (2018), which proposed "Cyclical three-phase SRL models (Zimmerman, Knowles, Pintrich) frame SRL as goal setting, plan implementation and self-evaluation, but stem from classroom research".
 - [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](../claims/ancova-metacognitive-strategy-reading-comprehension-effect.md) [+W]
+- [Task planning with mind maps raises post-test self-regulation strategy scores of pre-service teachers relative to a control group, except for rehearsal](../claims/mind-map-planning-improves-srl-strategies-preservice-teachers.md) [+W] — attached 2026-11-01 from Tanriseven (2014), which proposed "Pintrich's self-regulated learning framework of strategies and motivational beliefs".
+- [Interviewed experimental-group students reported using self-regulated learning strategies across forethought, performance and self-reflection phases in their independent studies](../claims/jigsaw-iv-students-report-srl-phases.md) [+W] — attached 2026-11-01 from Esin Özdemir (2016), which proposed "Zimmerman's cyclical three-phase model of self-regulated learning".
 
 ## The evidence by question
 

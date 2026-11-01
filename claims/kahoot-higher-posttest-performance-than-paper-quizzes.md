@@ -50,3 +50,6 @@ Quasi-experimental study of two intact sections (38 experimental, 39 control) of
 
 ## Related Claims
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
+- [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](kahoot-engagement-peer-study-groups-observed.md) — related
+- [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](kahoot-testing-effect-higher-exam-scores.md) — related
+- [EFL students taught grammar and vocabulary with Pixton comic strips scored significantly higher on a post-test than control students taught without Pixton](pixton-comic-strips-improve-efl-grammar-vocabulary-posttest.md) — a narrower finding that bears on this claim

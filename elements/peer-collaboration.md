@@ -139,6 +139,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 **Peer Instruction (Mazur, Harvard) ([peerinstruction4cs.org](https://peerinstruction4cs.org))** — Students answer individually, discuss with neighbors, then re-answer; the peer discussion phase is where conceptual change concentrates.
 
 **Project-Based Learning (e.g., [PBLWorks](https://www.pblworks.org))** — Teams carry sustained, authentic projects with defined roles and public products, embedding accountability into the task structure.
+- [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](../strategies/self-regulated-collaborative-environments-higher-education.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

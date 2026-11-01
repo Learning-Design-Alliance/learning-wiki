@@ -60,3 +60,4 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 - [Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020](cps-2020-latinx-two-year-return-declines.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
 - [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related
+- [Scholarship impacts on first-year credits were significant across all analyzed subgroups, with subgroup differences not significant except gender](pbs-impacts-consistent-across-subgroups.md) — related

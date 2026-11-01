@@ -57,3 +57,4 @@ Correlational analyses in the same field study (N = 358) showed all achievement 
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
+- [Graphic-organizer vocabulary instruction raises positive achievement emotions (enjoyment, hope, pride) more than the C(2)QU contextual process in fourth-grade social studies](gos-instruction-raises-positive-achievement-emotions.md) — related

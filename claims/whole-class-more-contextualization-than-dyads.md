@@ -52,3 +52,4 @@ The review reports the authors' study (Van Boxtel and Van Drie 2003) comparing d
 - [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](invariant-communicative-practices-artifact-mediated-collaboration.md) — related
 - [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
+- [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](treatment-more-student-pair-collaboration.md) — related

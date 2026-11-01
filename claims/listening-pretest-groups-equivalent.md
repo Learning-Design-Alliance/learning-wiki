@@ -53,3 +53,4 @@ Pretest comparison in the same quasi-experiment: independent-samples t-test gave
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
+- [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related

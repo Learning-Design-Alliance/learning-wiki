@@ -49,3 +49,4 @@ Pre-test Mann-Whitney analysis of both twenty-student groups on the EFL Teaching
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [No significant difference existed between the graphic-novel and control groups on the pre-test](no-pretest-difference-graphic-novel-control.md) — related
 - [Mann-Whitney tests found no significant difference in the number of answers between clicker and non-clicker groups in either experimental period](no-significant-clicker-nonclicker-answer-difference.md) — related
+- [Before the intervention, experimental and control groups showed no significant difference in water-cycle mental model levels](no-pretest-difference-water-cycle-drawings.md) — related

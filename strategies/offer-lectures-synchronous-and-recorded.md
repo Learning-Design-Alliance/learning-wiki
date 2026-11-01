@@ -42,6 +42,7 @@ The report describes a strategy that emerged at the case study institutions: "Bu
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 - [Pre-recording Instructional Videos](pre-recorded_instructional_video.md)
 - [Design course content with sufficient incentive for both lecture attendance and recording viewing](design-content-incentivise-attendance-and-viewing.md)
+- [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
 
 ## Examples
 -

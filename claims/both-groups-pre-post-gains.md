@@ -56,3 +56,7 @@ Paired t-test of pre-/post-test scores in the 80-student controlled experiment. 
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](logo-posttest-outperformed-control-2d-shapes.md) — related
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
+- [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
+- [Both groups improved significantly from pre test to post test, with a larger mean gain in the GeoGebra group](geogebra-circles-paired-gains.md) — a narrower finding that bears on this claim
+- [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
+- [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related

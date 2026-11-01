@@ -40,6 +40,7 @@ In prior ASSISTments implementations, teachers received in-person training plus 
 
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 - [Scenario-targeted professional development interventions matched to learners' current metacognitive configuration](scenario-targeted-metacognitive-interventions.md)
+- [Rural districts can take advantage of virtual professional development opportunities for their science teachers](rural-districts-adopt-vpd-opportunities.md)
 
 ## Examples
 -

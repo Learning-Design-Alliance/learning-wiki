@@ -44,6 +44,7 @@ To sustain engagement after initial exploration, the article recommends designin
 ## Related Strategies
 
 - [Learning Games](learning-games.md)
+- [Integrate crossword puzzles, social media and online resources into EFL teaching to engage passive learners](integrate-crossword-social-media-efl.md)
 
 ## Examples
 -

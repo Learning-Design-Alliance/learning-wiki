@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (31 for, 21 mixed) · 60 studies (18 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 38 claims rest on one study
+> **Evidence** · 53 claims (32 for, 21 mixed) · 61 studies (19 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 61 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -172,6 +172,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Peer review helped students notice their own mistakes through reviewing others' work](../claims/peer-review-reveals-own-mistakes.md) [+W]
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](../claims/seventh-graders-peer-feedback-skills.md) [~W]
 - [Elements of both the nature and the reception of feedback are significantly related to receivers' use of that feedback](../claims/feedback-nature-and-reception-related-to-use.md) [~W]
+- [Peer review scores correlated increasingly with instructor scores across the three review rounds](../claims/peer-teacher-score-correlation-increases.md) [+W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

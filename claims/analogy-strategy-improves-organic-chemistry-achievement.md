@@ -63,3 +63,4 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related
 - [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related
+- [Form two physics students taught through intensive practical activities significantly outperformed students taught by conventional lecture-based methods on a post-test of chosen topics](intensive-practical-work-beats-conventional-physics-teaching.md) — related

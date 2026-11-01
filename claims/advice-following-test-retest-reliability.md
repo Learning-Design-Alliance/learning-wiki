@@ -54,3 +54,4 @@ Participants completed the same bandit task in two sessions on adjacent days wit
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
 - [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

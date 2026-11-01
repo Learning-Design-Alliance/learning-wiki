@@ -50,3 +50,4 @@ Repeated-measures ANOVA on the 59-teacher sample for the single-item outcome-val
 - [In-service nutrition training significantly increases teachers' nutrition outcome expectations relative to controls](inservice-training-increases-nutrition-outcome-expectations.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [Conflict resolution skills training produced no statistically significant change in college students' conflict handling styles on any of the five MODE subscales](conflict-training-no-change-handling-styles.md) — related

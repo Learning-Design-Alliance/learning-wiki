@@ -27,7 +27,7 @@ sources:
 # Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 11 studies (5 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q3` · 1 of 11 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (12 for, 4 mixed) · 12 studies (5 theoretical, 3 qualitative, 2 associational, 2 design), `q1`–`q3` · 1 of 12 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,10 @@ For example, an adult in an evening course on community organising may want to w
 The expectation should weaken if comparisons of courses run this way against the same content taught with an authoritative account, with comparable adult learners and measures of critical reflection or civic action not tied to the course's own vocabulary, show no difference, or show gains only in self-report. If, as in the youth survey here, more discussion is not followed by more critical reflection, while structured source-reading and writing are, the model should centre the source and the written stance and treat discussion as the means of hearing views rather than the active ingredient. If learners the issue directly touches gain and others do not (or the reverse), the model should become two models. If learners' stances converge on the educator's position more than on any source, the change is compliance, and the steering log should become a required step. Do not protect the model by calling every null result "not radical enough" after the fact.
 
 Feeling heard, voicing a view, explaining a problem systemically, imagining an alternative and taking action are separate claims, and a course may produce one without the others. The present evidence establishes no dose, no session length and no sequence for any of them.
+
+## Claims
+
+- [Participants at the independent school valued the intervention's non-judgmental stance and being positioned as experts of their own lives](../claims/nonjudgmental-expert-position-benefit.md) [+W]
 
 ## Related Principles
 

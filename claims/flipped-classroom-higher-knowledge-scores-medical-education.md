@@ -60,3 +60,4 @@ Meta-analysis of 127 studies (21,171 participants; 90 observational studies and 
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — a narrower finding that bears on this claim
 - [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](flipped-pharmacy-country-subgroup.md) — a narrower finding that bears on this claim
 - [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related

@@ -50,6 +50,7 @@ SFA assigns a program facilitator who "provides support for program implementati
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model](tdhs-extensive-pd-coaching-facilitator.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
+- [Provide multi-year professional development with instructional coaching before and during implementation of a comprehensive reading program](fusion-multi-year-pd-with-coaching-strategy.md)
 
 ## Examples
 -

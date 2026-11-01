@@ -43,6 +43,7 @@ Because integrating ICT effectively into teaching is not straightforward, the ar
 - [Integrate AR into classrooms by training teachers, providing ready-made content, and equipping schools with devices](support-conditions-for-ar-classroom-integration.md)
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
+- [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
 
 ## Examples
 -

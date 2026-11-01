@@ -54,3 +54,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on
+- [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — a narrower finding that bears on this claim

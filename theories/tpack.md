@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 38 claims (17 for, 18 mixed, 3 against) · 21 studies (6 associational, 4 design, 3 causal, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3` · 5 of 21 report an effect size · 38 claims rest on one study
+> **Evidence** · 39 claims (18 for, 18 mixed, 3 against) · 22 studies (6 associational, 4 causal, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3` · 5 of 22 report an effect size · 39 claims rest on one study
 
 ## Description
 TPACK ([Koehler & Mishra, 2009](https://edtechbooks.org/lidtfoundations/tpack)) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -90,6 +90,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](../claims/tpack-knowledge-domains-poorly-delineated.md) [-W] — attached 2026-10-29 from Olivia Wohlfart (2022), which proposed "TPACK framework as the dominant theoretical lens in reviews of teachers' digitalization role".
 - [TPACK is measured predominantly by self-assessment, with the Schmidt et al. (2009) survey instrument most highlighted](../claims/tpack-measured-mostly-by-self-assessment.md) [~W] — attached 2026-10-29 from Olivia Wohlfart (2022), which proposed "TPACK framework as the dominant theoretical lens in reviews of teachers' digitalization role".
 - [Use of pre-existing domain-specific technology applications facilitates higher teaching quality than generic applications requiring teacher integration](../claims/domain-specific-materials-support-quality.md) [-W]
+- [Blended learning professional development produces significantly higher gain means in ICT knowledge (TK, TPK, TCK, TPACK) than traditional training for in-service science teachers](../claims/blended-pd-higher-tpack-gains-than-traditional.md) [+W] — attached 2026-11-01 from Qasem & Viswanathappa (2016), which proposed "TPACK framework as an integrative model of teacher knowledge for technology integration".
 
 ## The evidence by question
 

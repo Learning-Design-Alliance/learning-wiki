@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (16 for, 16 mixed, 3 against) · 45 studies (18 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 45 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (17 for, 16 mixed, 3 against) · 46 studies (19 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](../claims/concept-mapping-greater-achievement-gains-esl.md) [+W] — attached 2026-10-16 from Pasana Chularut (2001), which proposed "Provide explicit learning-strategy training and sustained practice when introducing concept mapping to language learners"; tests this page's relationship.
 - [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](../claims/semiempty-concept-mapping-more-causal-explanation-argumentation.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
 - [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](../claims/concept-mapping-more-re-elaboration-causal-relationships.md) [+W] — attached 2026-10-18 from Lucero et al. (2024), which proposed "Use semiempty (moderately-directed) concept maps rather than fully student-generated maps to scaffold collaborative reasoning".
+- [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](../claims/concept-mapping-beats-lecture-biology-achievement.md) [+W] — attached 2026-11-01 from Sakiyo et al. (2015), which proposed "Incorporate concept mapping into biology teaching and train teachers in its use"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

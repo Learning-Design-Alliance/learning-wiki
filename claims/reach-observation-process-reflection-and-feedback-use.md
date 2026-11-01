@@ -51,3 +51,4 @@ Year 3 (2015) UChicago Consortium Administrator Survey of CPS principals and ass
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — a broader claim this one bears on
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
+- [Teachers are more supportive of teacher perception surveys for evaluating administrators than of student perception surveys for evaluating teachers](teachers-favor-teacher-surveys-over-student-surveys.md) — related

@@ -42,6 +42,7 @@ The study's delivery pattern was a supervised lab open on a drop-in basis (9am-5
 ## Related Designs
 
 - [Suite of eight selected commercial video games played in supervised drop-in game labs](commercial-game-suite-graduate-attributes-intervention.md)
+- [Set of commercial video educational games used with a linguistic approach over 36 sessions](linguistic-video-game-set-36-sessions.md)
 
 ## Examples
 -

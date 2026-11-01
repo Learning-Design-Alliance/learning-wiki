@@ -49,3 +49,4 @@ Interaction term (columns by rows) of the two-way ANOVA on the post-test scores 
 - [Students' motivation to learn English reading increased significantly during Herringbone technique implementation](ht-increased-reading-motivation.md) — related
 - [The Herringbone technique is more effective than the Tri Focus Steve Snyder technique for teaching reading comprehension to ninth-grade EFL students](ht-more-effective-than-tfsst-reading-comprehension.md) — related
 - [There is no interaction between reading strategy and English proficiency in academic content-area reading comprehension](no-interaction-reading-strategy-english-proficiency.md) — related
+- [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](strategy-curiosity-interaction-reading.md) — related

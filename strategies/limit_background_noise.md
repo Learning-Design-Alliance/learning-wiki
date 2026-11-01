@@ -57,9 +57,11 @@ Background noise is a classic source of *extraneous* processing: it consumes wor
 4. Teach learners the rationale — that speech and lyrics are processed automatically — so they self-regulate their study environments rather than relying on willpower.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the classroom-level counterpart: designing the physical environment rather than advising individual learners
 - [Chunking](../principles/chunking.md) — a complementary way to protect working-memory capacity, by structuring content rather than the environment
 - [Clear Structure Presentation](../principles/clear-structure.md) — reduces extraneous load within materials, as this strategy does within the environment
+- [Use picture-free audio listening tasks so students focus only on conversational content](audio-only-listening-cd-strategy.md)
 
 ## Examples
 - A middle-school teacher establishes a "silent reading" block with a visual noise-level indicator, reserving group discussion for a separate phase of the lesson.

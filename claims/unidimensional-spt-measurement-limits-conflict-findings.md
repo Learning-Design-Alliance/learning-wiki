@@ -48,3 +48,4 @@ The review reports a study correlating self-reported propensity, measured with t
 - [Intelligence is positively associated with SPT accuracy, with strength varying by measure](intelligence-correlates-with-spt-accuracy.md) — related
 - [Cognitive style shows a weak, measure-dependent relationship with SPT accuracy](cognitive-style-weak-spt-accuracy-relation.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Conflict resolution skills training produced no statistically significant change in college students' conflict handling styles on any of the five MODE subscales](conflict-training-no-change-handling-styles.md) — related

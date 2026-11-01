@@ -54,3 +54,4 @@ Quasi-experimental classroom study with three experimental and three control cla
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — a broader claim this one bears on
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
+- [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related

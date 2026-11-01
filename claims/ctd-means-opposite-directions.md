@@ -51,3 +51,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — related
 - [Infusing higher-order thinking skills into Engineering Drawing instruction produced significantly higher critical thinking disposition than conventional drill-based teaching after 8 weeks](infusion-approach-engineering-drawing-critical-thinking-disposition.md) — related
+- [Critical thinking disposition progress did not differ significantly among the four groups, and the teacher-only group gained the most](ctd-progress-no-group-difference-teacher-only-largest-gain.md) — related

@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 120 claims (48 for, 63 mixed, 9 against) · 74 studies (32 quant-synthesis, 12 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 74 report an effect size · 115 claims rest on one study
+> **Evidence** · 121 claims (48 for, 64 mixed, 9 against) · 75 studies (32 quant-synthesis, 12 review, 11 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 75 report an effect size · 116 claims rest on one study
 
 ## Conditional relationship
 
@@ -218,6 +218,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL advantage on skill scores holds in the five-year school-system subgroup (SMD = 1.08)](../claims/pbl-skill-five-year-system-subgroup.md) [+W]
 - [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [~W]
 - [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](../claims/vpbl-equally-effective-as-text-based-pbl.md) [~W]
+- [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

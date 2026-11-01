@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (11 for, 4 mixed, 1 against) · 24 studies (10 review, 6 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 25 studies (10 review, 7 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 12 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -76,6 +76,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](../claims/nz-undergrads-endorse-effective-strategies-more.md) [+W]
 - [Least-to-most prompting and teaching wh-word meanings meet evidence-based criteria; explicit comprehension-strategy instruction is potentially evidence-based](../claims/evidence-based-strategies-shared-reading-id.md) [+W]
 - [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
+- [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — attached 2026-11-01 from Busmin Gurning et al. (2017), which proposed "SQ3R reading comprehension strategy".
 
 ## The evidence by question
 

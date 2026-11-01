@@ -40,6 +40,7 @@ The article describes a set of SEA-level supports for rural schools drawn from t
 
 - [SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines](sea-competency-uses-selection-development.md)
 - [Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign](oc-adoption-recommendations-lea-sea.md)
+- [Rural districts can take advantage of virtual professional development opportunities for their science teachers](rural-districts-adopt-vpd-opportunities.md)
 
 ## Examples
 -

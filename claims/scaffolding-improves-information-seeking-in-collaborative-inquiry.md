@@ -51,3 +51,4 @@ Qualitative discourse analysis of recorded discussions from two groups of three 
 - [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](website-reliability-evaluation-similar-across-groups.md) — related
 - [Students who spent the longest time looking at the map found the least relevant information](map-time-lowest-search-group.md) — related
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](structuring-supports-argumentation-decision-making-stage.md) — related
+- [A mobile real-case website increases students' design information searching and the quality of analysis-stage design information](mobile-website-increases-information-searching-and-analysis-quality.md) — related

@@ -64,3 +64,5 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
+- [The experimental and control groups were homogeneous in English proficiency before the intervention](celt-homogeneity-portfolio-writing-study.md) — related
+- [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related

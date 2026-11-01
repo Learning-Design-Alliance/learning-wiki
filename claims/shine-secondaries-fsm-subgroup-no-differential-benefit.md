@@ -59,3 +59,5 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [The SHINE in Secondaries Saturday school showed a very small impact on literacy and numeracy outcomes across all four pilot schools](shine-secondaries-very-small-literacy-numeracy-impact.md) — related
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
 - [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related
+- [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
+- [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related

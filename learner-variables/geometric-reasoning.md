@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (22 show a difference, 7 mixed, 2 no difference) · 23 studies (11 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q3` · 4 of 23 report an effect size · 31 claims rest on one study
+> **Evidence** · 33 claims (24 show a difference, 7 mixed, 2 no difference) · 24 studies (11 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 24 report an effect size · 33 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -68,6 +68,8 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — instruction changes it
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](../claims/tablet-etextbook-outperformed-traditional-posttest.md) [+M] — instruction changes it
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](../claims/both-groups-pre-post-gains.md) [+M] — instruction changes it
+- [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](../claims/media-experiment-beat-control-geometry-achievement.md) [+M] — instruction changes it
+- [Students' basic geometry skills on curved-solid objects improved after learning with the media](../claims/before-after-basic-geometry-skills-improved.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

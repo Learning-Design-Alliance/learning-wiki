@@ -52,3 +52,5 @@ Independent samples t-test on pre-test scores in the quasi-experiment: experimen
 - [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
+- [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — related
+- [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related

@@ -55,3 +55,5 @@ Independent-group t-test on pre-test scores of both groups: no significant diffe
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
+- [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related

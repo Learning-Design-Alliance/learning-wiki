@@ -81,3 +81,4 @@ Two-way ANOVA on pre-post learning gains in the same 49-student classroom study.
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
 - [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](prior-knowledge-moderates-worked-example-benefit.md) — related
 - [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — a narrower finding that bears on this claim
+- [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](prior-knowledge-moderates-incorrect-examples.md) — related

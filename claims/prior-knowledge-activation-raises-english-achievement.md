@@ -48,3 +48,4 @@ Quasi-experimental pre-test/post-test control group study of 260 junior secondar
 - [Activating prior knowledge raises Mathematics achievement in junior secondary students](prior-knowledge-activation-raises-mathematics-achievement.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - [Six weeks of Joint Productive Activity instruction significantly improved Nigerian Junior Secondary II students' reading comprehension performance from pre-test to post-test](jpa-improves-reading-comprehension-pre-post.md) — related
+- [Prior evidence: metacognitive strategy intervention improved Grade 3 comprehension and vocabulary (review-reported)](boulware-gooden-metacognitive-grade3-comprehension-vocabulary.md) — related

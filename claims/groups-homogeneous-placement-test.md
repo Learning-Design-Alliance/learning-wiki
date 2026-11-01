@@ -53,3 +53,6 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
 - [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
 - [Co-taught and single-taught groups were statistically equivalent in general English proficiency before treatment](pretest-homogeneity-coteaching-groups-iran.md) — related
+- [The experimental and control groups were homogeneous in English proficiency before the intervention](celt-homogeneity-portfolio-writing-study.md) — related
+- [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related

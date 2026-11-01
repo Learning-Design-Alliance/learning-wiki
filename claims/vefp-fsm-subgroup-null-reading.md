@@ -57,3 +57,5 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [The VEFP showed no statistically significant effect on the NGRT secondary outcomes of sentence completion or passage comprehension](vefp-secondary-outcomes-null.md) — related
 - [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — related
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on
+- [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
+- [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
