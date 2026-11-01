@@ -10,8 +10,8 @@ generated:
 sources:
   - id: ina-saad-2015
     resource: "https://doi.org/10.13189/ujer.2015.031106"
-    title: "Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
-    author: Ina Saad, Magdi Ahmed
+    title: "Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
+    author: "Saad, I., & Ahmed, M."
 ---
 
 # The journal learning continuum: topic selection, research, reflection, writing, coded feedback, self-correction and peer sharing
@@ -49,4 +49,4 @@ The article describes journal writing as "a learning continuum in which students
 -
 
 ## Key Sources
-- Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106
+- Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106

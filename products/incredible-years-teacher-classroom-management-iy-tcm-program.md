@@ -28,4 +28,4 @@ A six-day universal teacher-training and coaching programme developed by The Inc
 -
 
 ## Key Sources
-- Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169
+- Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169

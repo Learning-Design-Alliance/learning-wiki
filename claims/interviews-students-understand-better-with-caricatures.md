@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: uğur-başarmak-2016
     resource: "https://eric.ed.gov/?id=EJ1117641"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Interviews with experiment-group students indicated they understood the subjects better with the caricature animations used as an education strategy. [→ Uğur Başarmak 2016](#ugur-basarmak-2016)

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-01
 sources:
   - id: vereș-2020
     resource: "https://doi.org/10.23741/RRGE120183"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The film offered 38 astronomy-specific information items, about 7-8 per minute, with 691 words of oral text. [→ Vereș 2020](#veres-2020)

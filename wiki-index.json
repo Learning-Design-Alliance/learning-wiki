@@ -24373,6 +24373,7 @@
 "id":"animation-information-density-single-viewing",
 "newest_evidence":"2020",
 "path":"claims/animation-information-density-single-viewing.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding",
 "type":"claim"
@@ -61786,8 +61787,9 @@
 "description":"Students identified coaching benefits in three broad themes (improved cognitions, behaviors, subjective well-being) and limitations including 30-minute session length and desire for more accountability",
 "evidence_strength":"weak",
 "id":"coaching-benefits-and-limitations-student-perspectives",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-benefits-and-limitations-student-perspectives.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students identified coaching benefits in three broad themes (improved cognitions, behaviors, subjective well-being) and limitations including 30-minute session length and desire for more accountability",
 "type":"claim"
@@ -61869,8 +61871,9 @@
 "description":"Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting",
 "evidence_strength":"weak",
 "id":"coaching-enhances-self-determination-five-ways",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-enhances-self-determination-five-ways.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting",
 "type":"claim"
@@ -61932,8 +61935,9 @@
 "description":"Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission",
 "evidence_strength":"weak",
 "id":"coaching-improves-academic-skills-six-ways",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-improves-academic-skills-six-ways.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission",
 "type":"claim"
@@ -61942,8 +61946,9 @@
 "description":"Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation",
 "evidence_strength":"weak",
 "id":"coaching-improves-executive-functioning-skills-six-ways",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-improves-executive-functioning-skills-six-ways.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation",
 "type":"claim"
@@ -61962,8 +61967,9 @@
 "description":"Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being",
 "evidence_strength":"weak",
 "id":"coaching-improves-self-awareness-self-management-wellbeing-adhd-ld",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being",
 "type":"claim"
@@ -62160,8 +62166,9 @@
 "description":"Students who self-selected into coaching began with lower pretest scores than comparison students on all three measures, and all intervention students improved post-test",
 "evidence_strength":"weak",
 "id":"coaching-self-selected-lower-pretest-all-improved",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-self-selected-lower-pretest-all-improved.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students who self-selected into coaching began with lower pretest scores than comparison students on all three measures, and all intervention students improved post-test",
 "type":"claim"
@@ -62170,8 +62177,9 @@
 "description":"Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys",
 "evidence_strength":"weak",
 "id":"coaching-self-selectors-higher-academic-risk",
-"newest_evidence":"2011",
+"newest_evidence":"2014",
 "path":"claims/coaching-self-selectors-higher-academic-risk.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys",
 "type":"claim"
@@ -94345,6 +94353,7 @@
 "id":"dictionary-support-improves-word-explanation",
 "newest_evidence":"2017",
 "path":"claims/dictionary-support-improves-word-explanation.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Words that received a dictionary explanation in the e-book were explained better by children than words appearing in the story without dictionary support",
 "type":"claim"
@@ -100153,6 +100162,7 @@
 "id":"dlpt5-experimental-outperformed-control",
 "newest_evidence":"2015",
 "path":"claims/dlpt5-experimental-outperformed-control.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Experimental classes achieved higher final DLPT-5 listening and reading results than the control class, which passed 50% in listening and 66.7% in reading",
 "type":"claim"
@@ -104234,13 +104244,14 @@
 "type":"claim"
 },
 {
-"description":"Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension, word explanation, and word production more than controls in regular kindergarten",
+"description":"Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent",
 "evidence_strength":"moderate",
 "id":"e-book-dictionary-reading-improves-word-learning-kindergartners",
 "newest_evidence":"2017",
 "path":"claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension, word explanation, and word production more than controls in regular kindergarten",
+"title":"Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent",
 "type":"claim"
 },
 {
@@ -120798,6 +120809,7 @@
 "id":"etymological-elaboration-improves-idiom-comprehension",
 "newest_evidence":"2010",
 "path":"claims/etymological-elaboration-improves-idiom-comprehension.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Etymological elaboration improves EFL learners' comprehension of idioms",
 "type":"claim"
@@ -141412,8 +141424,9 @@
 "description":"Four parent involvement profiles emerged, and the Low Contact/Low Comfort profile had the worst academic and behavioral correlates",
 "evidence_strength":"moderate",
 "id":"four-parent-involvement-profiles-low-low-worst",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/four-parent-involvement-profiles-low-low-worst.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Four parent involvement profiles emerged, and the Low Contact/Low Comfort profile had the worst academic and behavioral correlates",
 "type":"claim"
@@ -187459,6 +187472,7 @@
 "id":"interviews-students-understand-better-with-caricatures",
 "newest_evidence":"2016",
 "path":"claims/interviews-students-understand-better-with-caricatures.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Experiment-group students reported in interviews that caricature animations helped them understand the subjects better",
 "type":"claim"
@@ -191429,8 +191443,9 @@
 "description":"IY TCM intervention teachers were more likely to rate parents in the most adaptive involvement profiles at follow-up compared to control teachers",
 "evidence_strength":"moderate",
 "id":"iy-tcm-increases-adaptive-parent-involvement-profiles",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/iy-tcm-increases-adaptive-parent-involvement-profiles.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"IY TCM intervention teachers were more likely to rate parents in the most adaptive involvement profiles at follow-up compared to control teachers",
 "type":"claim"
@@ -191439,8 +191454,9 @@
 "description":"Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group",
 "evidence_strength":"moderate",
 "id":"iy-tcm-progressors-digressors-chi-square",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/iy-tcm-progressors-digressors-chi-square.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group",
 "type":"claim"
@@ -192625,6 +192641,7 @@
 "id":"journal-writing-higher-listening-reading-passing-rates",
 "newest_evidence":"2015",
 "path":"claims/journal-writing-higher-listening-reading-passing-rates.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Daily journal writing was associated with higher listening and reading comprehension passing rates in two experimental MSA classes compared with a control class",
 "type":"claim"
@@ -206296,6 +206313,7 @@
 "id":"listening-versus-reading-effect-not-established",
 "newest_evidence":"2015",
 "path":"claims/listening-versus-reading-effect-not-established.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The study did not establish whether journal writing enhanced listening more than reading, due to insufficient data",
 "type":"claim"
@@ -212291,8 +212309,9 @@
 "description":"Low contact alone was not associated with adverse student outcomes; the Low Contact/High Comfort profile had the most favorable correlates",
 "evidence_strength":"moderate",
 "id":"low-contact-alone-not-a-risk-high-comfort-favorable",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/low-contact-alone-not-a-risk-high-comfort-favorable.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Low contact alone was not associated with adverse student outcomes; the Low Contact/High Comfort profile had the most favorable correlates",
 "type":"claim"
@@ -212858,8 +212877,9 @@
 "description":"The Low Contact/Low Comfort profile was more likely to contain parents of FRL and African American students",
 "evidence_strength":"moderate",
 "id":"low-low-profile-demographic-correlates",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/low-low-profile-demographic-correlates.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The Low Contact/Low Comfort profile was more likely to contain parents of FRL and African American students",
 "type":"claim"
@@ -262347,6 +262367,7 @@
 "id":"optimal-isi-scales-with-retention-interval-cognitive-reviews",
 "newest_evidence":"2017",
 "path":"claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval",
 "type":"claim"
@@ -307976,6 +307997,7 @@
 "id":"receptive-learning-occurs-without-dictionary-support",
 "newest_evidence":"2017",
 "path":"claims/receptive-learning-occurs-without-dictionary-support.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Receptive word comprehension improved for both dictionary and non-dictionary words, with no receptive-level difference between the two word types",
 "type":"claim"
@@ -342026,6 +342048,7 @@
 "id":"six-word-meaning-exposures-beat-three-for-explanation",
 "newest_evidence":"2017",
 "path":"claims/six-word-meaning-exposures-beat-three-for-explanation.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Three repetitions of dictionary word meanings produced significant progress in word explanation, and three more repetitions (six total) brought further progress",
 "type":"claim"
@@ -412566,6 +412589,7 @@
 "id":"word-production-no-dictionary-advantage",
 "newest_evidence":"2017",
 "path":"claims/word-production-no-dictionary-advantage.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Word production showed no posttest difference between dictionary and non-dictionary words, with an initial pretest gap favoring non-dictionary words",
 "type":"claim"

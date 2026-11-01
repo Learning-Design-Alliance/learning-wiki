@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: keith-c-herman-and-wendy-m-reinke-2016
+  - id: herman-and-reinke-2017
     resource: "http://dx.doi.org/10.1037/spq0000169"
-    title: "Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169"
-    author: Keith C. Herman and Wendy M. Reinke
+    title: "Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169"
+    author: "Herman, K. C., & Reinke, W. M."
 ---
 
 # Use universal teacher training that targets teacher perceptions and skills with parents to promote parent involvement at scale
@@ -56,4 +56,4 @@ The article recommends training teachers to assess their perceptions of parents 
 -
 
 ## Key Sources
-- Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169
+- Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169

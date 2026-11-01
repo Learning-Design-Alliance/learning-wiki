@@ -8,11 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
-newest_evidence: 2011
+newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
-  - id: richman-2011
+  - id: richman-2014
     resource: "https://www.ahead.org/publications/jped"
-    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
+    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
     author: "Richman, E. L., Rademacher, K. N., & Maitland, T. L."
     q: 2
     i: "?"
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` According to the three baseline surveys, students who voluntarily requested coaching possessed more academic risk factors than the comparison group. [→ Richman 2011](#richman-2011)
+`q2 i?` According to the three baseline surveys, students who voluntarily requested coaching possessed more academic risk factors than the comparison group. [→ Richman 2014](#richman-2014)
 
 ## Evidence
 
-### Richman 2011
+### Richman 2014
 
-Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
+Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
 
 `q2 · i?` · `causal · r1`
 

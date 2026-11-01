@@ -8,20 +8,21 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
-newest_evidence: 2016
+newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
-  - id: keith-c-herman-and-wendy-m-reinke-2016
+  - id: herman-and-reinke-2017
     resource: "http://dx.doi.org/10.1037/spq0000169"
-    title: "Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169"
-    author: Keith C. Herman and Wendy M. Reinke
+    title: "Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169"
+    author: "Herman, K. C., & Reinke, W. M."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: keith-c-herman-and-wendy-m-reinke-2016-2
+  - id: herman-and-reinke-2017-2
     resource: "http://dx.doi.org/10.1037/spq0000169"
-    title: "Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169"
-    author: Keith C. Herman and Wendy M. Reinke
+    title: "Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169"
+    author: "Herman, K. C., & Reinke, W. M."
     q: 3
     i: "?"
     kind: causal
@@ -32,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The Low Contact/High Comfort class had the highest academic performance on all academic measures, even compared to the High Contact/High Comfort group on teacher ratings and WJ Reading scores. [→ Keith C. Herman and Wendy M. Reinke 2016](#keith-c-herman-and-wendy-m-reinke-2016)
-`q3 i?` Low contact alone was not associated with adverse student performance or outcomes, implying teachers base discomfort on something other than actual contact with parents. [→ Keith C. Herman and Wendy M. Reinke 2016 (2)](#keith-c-herman-and-wendy-m-reinke-2016-2)
+`q3 i?` The Low Contact/High Comfort class had the highest academic performance on all academic measures, even compared to the High Contact/High Comfort group on teacher ratings and WJ Reading scores. [→ Herman and Reinke 2017](#herman-and-reinke-2017)
+`q3 i?` Low contact alone was not associated with adverse student performance or outcomes, implying teachers base discomfort on something other than actual contact with parents. [→ Herman and Reinke 2017 (2)](#herman-and-reinke-2017-2)
 
 ## Evidence
 
-### Keith C. Herman and Wendy M. Reinke 2016
+### Herman and Reinke 2017
 
-Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169
+Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169
 
 `q3 · i?` · `causal · r2`
 
@@ -50,9 +51,9 @@ Equality tests of means across follow-up classes (Table 2) in the group randomiz
 
 > "Additionally, the Low Contact/High Comfort class had the highest academic perfor- mance on all academic measures, even in com- parison to the High Contact/High Comfort group on teacher ratings and WJ Reading scores."
 
-### Keith C. Herman and Wendy M. Reinke 2016 (2)
+### Herman and Reinke 2017 (2)
 
-Keith C. Herman and Wendy M. Reinke. (2016). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly. http://dx.doi.org/10.1037/spq0000169
+Herman, K. C., & Reinke, W. M. (2017). Improving Teacher Perceptions of Parent Involvement Patterns: Findings From a Group Randomized Trial. School Psychology Quarterly, 32(1), 89-104. http://dx.doi.org/10.1037/spq0000169
 
 `q3 · i?` · `causal · r2`
 

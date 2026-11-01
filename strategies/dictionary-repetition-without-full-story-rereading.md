@@ -10,8 +10,8 @@ generated:
 sources:
   - id: ofra-korat-2017
     resource: "https://doi.org/10.11114/jets.v5i7.2498"
-    title: "Ofra Korat, Olla Kozlov-Peretz, Ora Segal-Drori. (2017). Repeated E-book Reading and Its Contribution to Learning New Words among Kindergartners. Journal of Education and Training Studies, Vol. 5, No. 7. https://doi.org/10.11114/jets.v5i7.2498"
-    author: Ofra Korat, Olla Kozlov-Peretz, Ora Segal-Drori
+    title: "Korat, O., Kozlov-Peretz, O., & Segal-Drori, O. (2017). Repeated E-book Reading and Its Contribution to Learning New Words among Kindergartners. Journal of Education and Training Studies, Vol. 5, No. 7. https://doi.org/10.11114/jets.v5i7.2498"
+    author: "Korat, O., Kozlov-Peretz, O., & Segal-Drori, O."
 ---
 
 # Repeat exposure to word meanings via a digital dictionary instead of rereading the entire story when the goal is vocabulary enrichment
@@ -42,7 +42,7 @@ For vocabulary enrichment, the article suggests that repeated activation of a wo
 - [Words that received a dictionary explanation in the e-book were explained better by children than words appearing in the story without dictionary support](../claims/dictionary-support-improves-word-explanation.md) [+W]
 - [Receptive word comprehension improved for both dictionary and non-dictionary words, with no receptive-level difference between the two word types](../claims/receptive-learning-occurs-without-dictionary-support.md) [+W]
 - [Word production showed no posttest difference between dictionary and non-dictionary words, with an initial pretest gap favoring non-dictionary words](../claims/word-production-no-dictionary-advantage.md) [+W]
-- [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension, word explanation, and word production more than controls in regular kindergarten](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+W]
+- [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+W]
 
 ## Related Strategies
 
@@ -52,4 +52,4 @@ For vocabulary enrichment, the article suggests that repeated activation of a wo
 -
 
 ## Key Sources
-- Ofra Korat, Olla Kozlov-Peretz, Ora Segal-Drori. (2017). Repeated E-book Reading and Its Contribution to Learning New Words among Kindergartners. Journal of Education and Training Studies, Vol. 5, No. 7. https://doi.org/10.11114/jets.v5i7.2498
+- Korat, O., Kozlov-Peretz, O., & Segal-Drori, O. (2017). Repeated E-book Reading and Its Contribution to Learning New Words among Kindergartners. Journal of Education and Training Studies, Vol. 5, No. 7. https://doi.org/10.11114/jets.v5i7.2498

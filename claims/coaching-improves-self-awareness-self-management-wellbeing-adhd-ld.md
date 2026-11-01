@@ -8,19 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
-newest_evidence: 2011
+newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
-  - id: richman-2011
+  - id: richman-2014
     resource: "https://www.ahead.org/publications/jped"
-    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
+    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
     author: "Richman, E. L., Rademacher, K. N., & Maitland, T. L."
     q: 2
     i: "?"
     kind: causal
     rigour: 1
-  - id: richman-2011-2
+  - id: richman-2014-2
     resource: "https://www.ahead.org/publications/jped"
-    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
+    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
     author: "Richman, E. L., Rademacher, K. N., & Maitland, T. L."
     q: 2
     i: "?"
@@ -32,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students with ADHD/LD who received coaching reported improved self-awareness, self-management, and subjective well-being. [→ Richman 2011](#richman-2011)
-`q2 i?` Quantitative pre/post t-tests did not yield statistically significant differences between coached and comparison students. [→ Richman 2011 (2)](#richman-2011-2)
+`q2 i?` Students with ADHD/LD who received coaching reported improved self-awareness, self-management, and subjective well-being. [→ Richman 2014](#richman-2014)
+`q2 i?` Quantitative pre/post t-tests did not yield statistically significant differences between coached and comparison students. [→ Richman 2014 (2)](#richman-2014-2)
 
 ## Evidence
 
-### Richman 2011
+### Richman 2014
 
-Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
+Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
 
 `q2 · i?` · `causal · r1`
 
@@ -50,9 +51,9 @@ Authors' synthesis of a nonequivalent groups quasi-experimental study with quali
 
 > "This work supports the claim that coaching holds promise as a service that helps students with ADHD/ LD develop better executive functioning and self-determination skills needed for success in college and in life."
 
-### Richman 2011 (2)
+### Richman 2014 (2)
 
-Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
+Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
 
 `q2 · i?` · `causal · r1`
 

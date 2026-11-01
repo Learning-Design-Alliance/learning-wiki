@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: saad-and-ahmed-2015
     resource: "https://doi.org/10.13189/ujer.2015.031106"
-    title: "Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
-    author: Ina Saad, Magdi Ahmed
+    title: "Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
+    author: "Saad, I., & Ahmed, M."
     q: 2
     i: "?"
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Two experimental classes that practiced daily journal writing out-performed the control class on listening and reading comprehension tests across the course and on the final DLPT-5. [→ Saad and Ahmed 2015](#saad-and-ahmed-2015)
+`q2 i?` Results of the three classes were comparable through the first-semester tests; from the first-semester mid-term on, the two experimental classes that practiced daily journal writing had higher passing percentages than the control class through the second semester (except ICPT 201, where all three classes passed 100%) and the third semester, and on the final DLPT-5. [→ Saad and Ahmed 2015](#saad-and-ahmed-2015)
 
 ## Evidence
 
 ### Saad and Ahmed 2015
 
-Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106
+Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106
 
 `q2 · i?` · `causal · r1`
 
-Observational comparison of three naturally occurring fifty-week MSA classes (two experimental with daily journal writing, one control without), analyzed via achievement tests, six ICPT tests and the final DLPT-5. The article reports that "the control class had the lower percentage of students who passed in the two skills." No effect sizes or significance tests are printed.
+Observational comparison of three naturally occurring fifty-week MSA classes (two experimental with daily journal writing, one control without), analyzed via achievement tests, six ICPT tests and the final DLPT-5. The article reports that "the control class had the lower percentage of students who passed in the two skills," and that results of the three classes "were comparable throughout the first semester tests," with the experimental classes ahead from the first-semester mid-term onward. No effect sizes or significance tests are printed.
 
 > "The data reveals that journal writing started having an impact on enhancing reading and listening comprehension in the experimental classes; the control class had the lower percentage of students who passed in the two skills."
 

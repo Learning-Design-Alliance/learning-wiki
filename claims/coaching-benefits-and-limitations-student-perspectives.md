@@ -8,19 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
-newest_evidence: 2011
+newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
-  - id: richman-2011
+  - id: richman-2014
     resource: "https://www.ahead.org/publications/jped"
-    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
+    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
     author: "Richman, E. L., Rademacher, K. N., & Maitland, T. L."
     q: 2
     i: "?"
     kind: qualitative
     rigour: 3
-  - id: richman-2011-2
+  - id: richman-2014-2
     resource: "https://www.ahead.org/publications/jped"
-    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
+    title: "Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped"
     author: "Richman, E. L., Rademacher, K. N., & Maitland, T. L."
     q: 2
     i: "?"
@@ -32,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students' reported benefits of coaching fell into three broad themes: improved cognitions, behaviors, and subjective well-being. [→ Richman 2011](#richman-2011)
-`q2 i?` Students reported limitations focused on logistical restrictions such as session length and location, and some wanted greater accountability and broader topics such as life after graduation. [→ Richman 2011 (2)](#richman-2011-2)
+`q2 i?` Students' reported benefits of coaching fell into three broad themes: improved cognitions, behaviors, and subjective well-being. [→ Richman 2014](#richman-2014)
+`q2 i?` Students reported limitations focused on logistical restrictions such as session length and location, and some wanted greater accountability and broader topics such as life after graduation. [→ Richman 2014 (2)](#richman-2014-2)
 
 ## Evidence
 
-### Richman 2011
+### Richman 2014
 
-Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
+Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
 
 `q2 · i?` · `qualitative · r3`
 
@@ -50,9 +51,9 @@ Thematic analysis of the six qualitative interviews addressing research question
 
 > "Students’ comments about coaching’s beneﬁ ts can be categorized into three broad themes: improved cog- nitions, behaviors, and subjective well-being."
 
-### Richman 2011 (2)
+### Richman 2014 (2)
 
-Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2011). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
+Richman, E. L., Rademacher, K. N., & Maitland, T. L. (2014). Coaching and college success. Journal of Postsecondary Education and Disability, 27(1), 33-52. https://www.ahead.org/publications/jped
 
 `q2 · i?` · `causal · r1`
 

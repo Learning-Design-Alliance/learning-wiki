@@ -13,8 +13,8 @@ source_checked: 2026-11-01
 sources:
   - id: saad-and-ahmed-2015
     resource: "https://doi.org/10.13189/ujer.2015.031106"
-    title: "Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
-    author: Ina Saad, Magdi Ahmed
+    title: "Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106"
+    author: "Saad, I., & Ahmed, M."
     q: 2
     i: "?"
     kind: causal
@@ -34,7 +34,7 @@ sources:
 
 ### Saad and Ahmed 2015
 
-Ina Saad, Magdi Ahmed. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106
+Saad, I., & Ahmed, M. (2015). The Significance of Journal Writing in Improving Listening and Reading Comprehension in Modern Standard Arabic (MSA). Universal Journal of Educational Research 3(11): 815-821. https://doi.org/10.13189/ujer.2015.031106
 
 `q2 · i?` · `causal · r1`
 
