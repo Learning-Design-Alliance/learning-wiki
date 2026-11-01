@@ -84,3 +84,4 @@ Systematic review of meta-analyses, negative-effects paragraph of the school fin
 
 ## Related Claims
 - [Across 169 meta-analyses, 254 variables with 427 effect sizes influence academic achievement; most variables have small or very small effects and none has a large, very large or huge negative effect](254-variables-427-effect-sizes-overview.md) — a broader claim this one bears on
+- [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — reports the opposite

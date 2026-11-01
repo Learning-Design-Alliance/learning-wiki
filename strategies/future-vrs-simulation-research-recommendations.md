@@ -16,6 +16,9 @@ sources:
 
 # Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's authors recommend how future simulator-training research in VRS should be designed: they hypothesize it would be beneficial to focus on randomized controlled trials, which are expensive but needed to rule out bias; researchers must acknowledge that validity is imperative to education research, considering frameworks such as Messick's; and studies should adequately report methods to avoid bias, including publishing protocols. Streamlined designs and validation terms would make studies comparable and allow stronger conclusions.
 
@@ -34,19 +37,18 @@ The review's authors recommend how future simulator-training research in VRS sho
 - acquisition and valid assessment of vitreoretinal surgical skills
 
 ### Affordances
-- [Six Validation Benchmarks Surgical Simulation](../theories/six-validation-benchmarks-surgical-simulation.md)
+- [Six Validation Benchmarks Surgical Simulation](../research-methods/gallagher-et-als-six-validation-benchmarks-for-surgical-simulation-instruments.md)
 
 ## Claims
 
-- [Included VRS simulation studies show low instrument-validity reporting, the lowest-scoring MERSQI domain](../claims/low-instrument-validity-vrs-simulation-studies.md) [+W]
-- [Heterogeneity of outcome reporting across VRS simulation studies precluded quantitative meta-analysis](../claims/heterogeneity-precludes-vrs-simulation-meta-analysis.md) [+W]
-- [No included study was judged at low risk of bias across all domains, with blinding of outcome assessment the worst domain](../claims/risk-of-bias-vrs-simulation-studies.md) [+W]
 
 ## Related Strategies
 
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
+- [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
+- [Prioritize larger multi-center RCTs with standardized AR systems, uniform metrics, and long-term follow-up when evaluating AR surgical training](strategy-standardized-ar-training-protocols-research.md)
 
 ## Examples
 -

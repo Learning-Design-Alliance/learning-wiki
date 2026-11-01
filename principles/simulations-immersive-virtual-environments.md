@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 264 claims (133 for, 115 mixed, 16 against) · 164 studies (62 review, 32 causal, 29 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 35 of 164 report an effect size · 259 claims rest on one study
+> **Evidence** · 261 claims (132 for, 114 mixed, 15 against) · 164 studies (72 review, 34 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 35 of 164 report an effect size · 256 claims rest on one study
 
 ## Conditional relationship
 
@@ -488,14 +488,13 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](../claims/sp-cst-positive-effects-confidence-performance.md) [+W]
 - [Simulation-based learning using electronic stethoscopes showed mixed results for heart sound and murmur detection](../claims/simulation-electronic-stethoscopes-mixed-detection-results.md) [~W]
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](../claims/vrs-simulator-performance-curves-improve.md) [+W]
-- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-vs-active-comparison.md) [~W]
+- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-versus-active-comparison.md) [~W]
 - [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](../claims/vr-surgery-training-improves-knowledge-self-confidence.md) [+W]
 - [Voice advisory mannequin training produces better CPR skill acquisition than other training resources among health science students, though not in every comparison](../claims/vam-training-better-cpr-skills-health-students.md) [~W]
 - [Effectiveness evidence for ophthalmic simulators mostly stops at level 2 (contained effects), with isolated exceptions at level 3 (Sophocle) and level 5 (Eyesi for cataract surgery).](../claims/simulator-effectiveness-mostly-level-2-rare-downstream-target-effects.md) [~W]
-- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-vs-traditional-skills-smd-090.md) [+W]
+- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-traditional-skills-advantage.md) [+W]
 - [A randomised controlled trial reported within the review found virtual reality training was comparable to wet-lab training for residents' first capsulorhexis in the operating room.](../claims/virtual-reality-training-comparable-to-wet-lab-capsulorhexis.md) [+W]
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](../claims/simulation-plus-teamtraining-reduced-adverse-outcomes.md) [+W]
-- [Only one of 51 studies measured patient outcomes, demonstrating transfer of skills from the simulated environment to the workplace](../claims/only-one-study-patient-outcome-transfer.md) [-W]
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W]
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
 

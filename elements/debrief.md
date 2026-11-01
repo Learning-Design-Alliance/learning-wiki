@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 25 studies (11 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 25 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 25 studies (11 quant-synthesis, 5 review, 4 causal, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 25 report an effect size · 13 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.

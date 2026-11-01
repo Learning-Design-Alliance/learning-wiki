@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: vajsbaher-tina-2018
     resource: "https://doi.org/10.1186/s12893-018-0416-1"
@@ -15,9 +16,15 @@ sources:
     author: Vajsbaher Tina, Schultheis Holger, Francis Nader K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Mental rotation ability shows a specific, significant influence on MIS learning and operative performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mental rotation ability was found to have a clear impact on operative performance in MIS. [→ Vajsbaher Tina 2018](#vajsbaher-tina-2018)
@@ -28,7 +35,7 @@ sources:
 
 Vajsbaher Tina, Schultheis Holger, Francis Nader K. (2018). Spatial cognition in minimally invasive surgery: a systematic review. BMC Surgery. https://doi.org/10.1186/s12893-018-0416-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's Results section states that among the 26 included studies, mental rotation ability showed a clear impact on operative performance. The Discussion adds that novices with stronger mental rotation ability "can acquire the required technical skills at a faster rate".
 
@@ -37,9 +44,13 @@ The review's Results section states that among the 26 included studies, mental r
 ## Discussion
 
 
+## Learner Variables
+- [Spatial Ability](../learner-variables/spatial-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md)
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](vsa-predicts-mis-simulator-performance-novices.md)
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md)
 - [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md)
+- [Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment](mental-rotation-moderates-alignment-benefit.md) — related

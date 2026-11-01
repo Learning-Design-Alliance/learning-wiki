@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (26 for, 12 mixed) · 32 studies (10 review, 9 theoretical, 6 causal, 4 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 32 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (28 for, 12 mixed) · 33 studies (10 review, 9 theoretical, 6 causal, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,8 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](../claims/tarski-world-facilitated-conditional-reasoning.md) [+W] — attached 2026-10-22 from Jelke van Der Pal (1999), which proposed "Balance situated activity with formal tools in instruction"; tests this page's relationship.
 - [CALI shows some evidence of improving oral and reading comprehension skills (d = .125) without opportunity cost to reading gains.](../claims/cali-comprehension-gains-no-opportunity-cost.md) [+W] — attached 2026-10-24 from Dombek et al. (2017), which proposed "Deliver content-area (science and social studies) instruction during the existing literacy block to build content knowledge without sacrificing reading instruction time.".
 - [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W] — attached 2026-10-29 from Regina Kaplan-Rakowski (2021), which proposed "Feedback modality should be selected with respect to situational principles rather than treated as universally superior"; tests this page's relationship.
+- [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](../claims/pbl-lbl-hybrid-better-theory-scores-china.md) [+W] — attached 2026-11-01 from Liu CX et al. (2020), which proposed "Use PBL as a supplement to LBL rather than replacing lecturing, to combine systematic knowledge delivery with problem-based engagement"; tests this page's relationship.
+- [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [+W] — attached 2026-11-01 from Liu CX et al. (2020), which proposed "Use PBL as a supplement to LBL rather than replacing lecturing, to combine systematic knowledge delivery with problem-based engagement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

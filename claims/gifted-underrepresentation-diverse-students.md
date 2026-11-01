@@ -63,3 +63,4 @@ The brief reports National Center for Education Statistics (2007) data for 2002 
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — related
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
+- [VP collection underrepresents disability, migration background, and unemployment relative to the German population](vp-collection-demographic-representativeness-gaps.md) — related

@@ -71,3 +71,4 @@ Ordinal logistic regression of adjusted accuracy (full or partial credit) on the
 - [Increased solution count correlated with decreased LLM accuracy, falling short of statistical significance except at solution count 5](solution-count-decreased-accuracy-not-significant.md) — related
 - [No significant difference in accuracy between ChatGPT 3.5 and Bard 1.0 generated MCQs](chatgpt-35-bard-accuracy-no-difference.md) — related
 - [Situational judgement tests show a statistically significant but negligible-magnitude effect on early program academic results (d=0.170), while personality test evidence was insufficient for meta-analysis](sjt-small-significant-early-academic-effect-personality-insufficient.md) — related
+- [The AAMC promotes holistic review without presenting quantitative evidence of prediction or reliability, contrary to fair-testing validity standards](aamc-holistic-review-lacks-quantitative-validity-evidence.md) — related

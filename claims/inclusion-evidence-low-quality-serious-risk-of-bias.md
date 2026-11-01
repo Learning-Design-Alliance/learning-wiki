@@ -72,5 +72,3 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
 - Methodological quality of included studies is generally low, with only one RCT rated high quality — related
 - Risk of bias was a concern across the review's randomised studies, largely because investigators acted as unblinded performance raters — related
-- [Most included studies had high risk of bias, limiting the strength of the review's conclusions](high-risk-of-bias-limits-experiential-nutrition-evidence.md)
-- [Most included studies had serious limitations, with only 11 of 44 reporting power calculations](risk-of-bias-and-power-reporting-in-pa-ap-studies.md)

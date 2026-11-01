@@ -57,3 +57,4 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [The one pretest-post-test study (Li B et al.) found significant score improvement after ophthalmology teaching (p < 0.01)](pretest-posttest-significant-improvement-li-b.md) — related
 - [Competency level (β = 0.50) and training duration (β = 0.42) are the strongest predictors of ophthalmology education outcomes](regression-competency-duration-strongest-predictors.md) — related
+- [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related

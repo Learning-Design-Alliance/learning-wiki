@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: bakkum-2019
     resource: "https://doi.org/10.1002/cpt.1549"
@@ -15,9 +16,15 @@ sources:
     author: "Bakkum, M.J., Tichelaar, J., Wellink, A., Richir, M.C. & van Agtmael, M.A."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Digital learning resources show no between-group difference compared with clinical practice guidelines in most studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Four of five studies comparing DLRs to the use of clinical practice guidelines found no between-group difference; one found significant knowledge and self-reported competence gains for interactive web-based training over guideline-only. [→ Bakkum 2019](#bakkum-2019)
@@ -28,7 +35,7 @@ sources:
 
 Bakkum, M.J., Tichelaar, J., Wellink, A., Richir, M.C. & van Agtmael, M.A. (2019). Digital Learning to Improve Safe and Effective Prescribing: A Systematic Review. Clinical Pharmacology and Therapeutics. https://doi.org/10.1002/cpt.1549
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Review synthesis of head-to-head comparisons against clinical practice guidelines. The review reports "Four of five studies comparing DLRs to the use of clinical practice guidelines found no between‐group difference"; the exception reported higher knowledge (8.4 ± 0.8 vs. 6.1 ± 1.3 on a 9-question scale) after interactive web-based training on opioid prescribing.
 
@@ -38,4 +45,8 @@ Review synthesis of head-to-head comparisons against clinical practice guideline
 
 
 ## Related Claims
--
+- [Learner satisfaction with digital learning resources for prescribing is positive but shows no structural differences from traditional teaching](dlr-learner-satisfaction-positive-no-differences.md) — related
+- [Digital education on clinical practice guidelines is at least as effective as traditional learning for knowledge (pooled SMD 0.23, non-significant)](digital-education-guidelines-knowledge-vs-traditional.md) — related
+- [Head-to-head comparisons of digital learning with traditional teaching show mixed results, with no overall advantage for either](dlr-versus-traditional-teaching-mixed.md) — related
+- [Healthcare professionals report higher satisfaction with digital education than with traditional learning for guideline training](digital-education-guidelines-satisfaction.md) — related
+- [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](dlrs-increase-prescribing-knowledge-test-scores.md) — related

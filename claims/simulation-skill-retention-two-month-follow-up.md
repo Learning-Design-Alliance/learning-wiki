@@ -63,3 +63,5 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](hf-skill-retention-three-months.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md)
+- [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — related
+- [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — related

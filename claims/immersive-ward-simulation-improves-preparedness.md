@@ -49,3 +49,4 @@ This is reported in Table 1 as the purpose of Davies et al. (2021), a systematic
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
+- [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](sble-group-stronger-than-seminar-eol-preparedness.md) — related

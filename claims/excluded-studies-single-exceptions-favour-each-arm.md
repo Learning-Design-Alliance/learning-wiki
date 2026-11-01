@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: richmond-helen-2017
     resource: "https://doi.org/10.1186/s12909-017-1047-4"
@@ -15,15 +16,23 @@ sources:
     author: Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: richmond-helen-2017-2
     resource: "https://doi.org/10.1186/s12909-017-1047-4"
     title: "Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E. (2017). A systematic review and meta-analysis of online versus alternative methods for training licensed health care professionals to deliver clinical interventions. BMC Medical Education. https://doi.org/10.1186/s12909-017-1047-4"
     author: Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Individual studies excluded from meta-analysis mostly showed no significant between-group differences, with single exceptions favouring the workshop for practical skills and online for satisfaction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the workshop contrast, one study precluded from meta-analysis found a statistically significant effect in favour of the workshop for practical skills. [→ Richmond Helen 2017](#richmond-helen-2017)
@@ -35,7 +44,7 @@ sources:
 
 Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E. (2017). A systematic review and meta-analysis of online versus alternative methods for training licensed health care professionals to deliver clinical interventions. BMC Medical Education. https://doi.org/10.1186/s12909-017-1047-4
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative report of individual workshop-contrast studies whose data could not be pooled. The review reports no significant between-group differences except one study finding a significant effect "in favour of the workshop for practical skills"; no effect size is printed.
 
@@ -45,7 +54,7 @@ Narrative report of individual workshop-contrast studies whose data could not be
 
 Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E. (2017). A systematic review and meta-analysis of online versus alternative methods for training licensed health care professionals to deliver clinical interventions. BMC Medical Education. https://doi.org/10.1186/s12909-017-1047-4
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative report of individual lecture-contrast studies whose data could not be pooled. The review reports no significant differences except one study where satisfaction "favoured the online group"; no effect size is printed.
 
@@ -55,4 +64,4 @@ Narrative report of individual lecture-contrast studies whose data could not be 
 
 
 ## Related Claims
--
+- [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](online-vs-workshop-no-difference-hcp.md) — related

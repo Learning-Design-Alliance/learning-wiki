@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (24 for, 27 mixed, 1 against) · 46 studies (11 causal, 10 quant-synthesis, 8 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 7 of 46 report an effect size · 44 claims rest on one study
+> **Evidence** · 51 claims (24 for, 26 mixed, 1 against) · 46 studies (11 causal, 10 quant-synthesis, 8 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 7 of 46 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,10 +178,10 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
 - [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
-- [Active learning narrows the gap in probability of passing STEM courses between students from minoritized groups and their peers by 45% on average](../claims/active-learning-narrows-passing-rate-gaps.md) [+W]
+- [Active learning narrows the gap in probability of passing STEM courses between students from minoritized groups and their peers by 45% on average](../claims/active-learning-narrows-passing-rate-gap-45-percent.md) [+W]
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](../claims/active-learning-gap-variation-across-studies-ipd.md) [~W]
-- [Active learning reduces achievement gaps in examination scores between students from minoritized groups and their peers by 33% on average across STEM courses](../claims/active-learning-reduces-exam-score-achievement-gaps.md) [+W]
-- [Only high-intensity active learning substantially narrows achievement gaps; low-intensity active learning yields much smaller gap reductions](../claims/high-intensity-active-learning-narrower-gaps-ipd.md) [~W]
+- [Active learning reduces achievement gaps in examination scores between students from minoritized groups and their peers by 33% on average across STEM courses](../claims/active-learning-reduces-exam-achievement-gaps-33-percent.md) [+W]
+- [Only high-intensity active learning substantially narrows achievement gaps; low-intensity active learning yields much smaller gap reductions](../claims/high-intensity-active-learning-narrows-gaps.md) [~W]
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed, while active-learning type showed significant heterogeneity the authors urge caution in interpreting](../claims/moderators-class-size-level-discipline-null-ipd.md) [~W]
 
 ## Related Principles

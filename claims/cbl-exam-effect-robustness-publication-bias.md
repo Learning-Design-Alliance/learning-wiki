@@ -52,3 +52,5 @@ Sensitivity analysis of the exam-performance outcome across the included RCTs. S
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
 - [Sensitivity and publication-bias analyses indicate the pooled CBL effect is stable despite slight publication bias](cbl-meta-analysis-stability-publication-bias.md) — related
 - [No single study affected the statistically significant PBL advantage in sensitivity analysis](pbl-advantage-robust-to-single-study-removal.md) — related
+- [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related

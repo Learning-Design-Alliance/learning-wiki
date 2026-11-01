@@ -48,3 +48,4 @@ Retention analysis restricted to two RCTs (references 19 and 40) measuring skill
 - [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](hf-skill-benefit-lf-not-traditional.md) — related
+- [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — reports the opposite

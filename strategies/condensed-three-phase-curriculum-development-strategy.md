@@ -16,6 +16,9 @@ sources:
 
 # Condense curriculum development into three phases — needs assessment, instructional strategies, evaluation — using multiple needs assessments to select strategies
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors condensed Thomas et al's six-step approach, combined with the ADDIE approach, into three phases: "1. Needs assessment (combining problem identification, needs assessments, and goals and objectives) 2. IS and 3. Evaluation (combining implementation and evaluation)". Four needs assessments (literature search, milestone/EPA review, learner survey, in-service exam review) identified core deficits that determined the instructional strategies chosen. Providing detail about the process is offered as making the curriculum more generalizable and easier to reproduce or adapt.
 

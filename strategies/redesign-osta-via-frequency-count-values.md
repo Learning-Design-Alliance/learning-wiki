@@ -16,6 +16,9 @@ sources:
 
 # Use common elements results to redesign OSTA interventions by adding high-FV and removing low-FV elements, accompanied by quality measurement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+
 ## Description
 The review recommends using its frequency count values to optimize interventions: "elements with high FVs can be added as these likely contribute to favorable outcomes, and/or elements with low FVs can be removed as they might be superfluous." Elements can also be tailored and assembled into new forms suitable for co-creation and user-centered design. Because causal inferences from specific elements are lacking, the review states implementation "should be accompanied by quality measurement and assurance."
 
@@ -34,7 +37,7 @@ The review recommends using its frequency count values to optimize interventions
 - academic achievement across reading, math, and broader outcome domains
 
 ### Affordances
-- [Practice Process Implementation Element Taxonomy](../theories/practice-process-implementation-element-taxonomy.md)
+- [Practice Process Implementation Element Taxonomy](../research-methods/three-part-taxonomy-of-intervention-elements-practice-process-and-implementation-elements.md)
 
 ## Claims
 

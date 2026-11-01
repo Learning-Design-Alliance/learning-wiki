@@ -16,6 +16,9 @@ sources:
 
 # Planned future curricular changes: more ultrasound integration, in-situ simulations with interprofessional recruits, and a peer-to-peer medical education component
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
 ## Description
 From the end-of-curriculum survey and focus group, the authors identified three planned changes: increase ultrasound training by reviewing the curriculum with an ultrasound expert; increase realism by moving some months to an in-situ setting and recruiting pediatric emergency department nurses, technicians, faculty, and other learners; and create an adjunct curriculum focusing on adult learning, basic SBL skills, and SBL-related instructional strategies enabling peer-to-peer SBL education.
 
@@ -36,6 +39,12 @@ From the end-of-curriculum survey and focus group, the authors identified three 
 - ultrasound procedural skills
 - realism and interprofessional teamwork in simulated resuscitation
 - peer-to-peer simulation education skills
+
+## Claims
+
+- [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](../claims/interprofessional-mixed-groups-mutual-respect-consent-training.md) [+W]
+- [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](../claims/simlab-expansive-learning-cycle-progression.md) [+W]
+- [P2P-teacher trainings integrate medical subject content with teaching skills, sometimes explicitly and sometimes implicitly](../claims/p2p-training-integrates-medical-and-teaching-skills.md) [+W]
 
 ## Related Strategies
 

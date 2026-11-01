@@ -70,3 +70,4 @@ The review attributes to Arlington et al. the finding of skill decay 4–6 month
 - [Standardized SBE programs were more likely to improve outcomes than independent programs in LMICs (78% vs. 71%)](standardized-programs-more-likely-improvement-than-independent.md) — a broader claim this one bears on
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — a broader claim this one bears on
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related

@@ -50,3 +50,5 @@ Meta-regression with theoretical knowledge scores as outcome and intervention me
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
 - [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related
+- [Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects](heterogeneity-sources-tbl-meta-regression.md) — reports the opposite
+- [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md) — related

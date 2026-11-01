@@ -74,3 +74,5 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
 - [Appropriate communication skills — including silence, mirroring, and open-ended questions — are core competencies for serious illness conversations](sic-communication-skills-silence-mirroring.md) — related
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
+- [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
+- [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related

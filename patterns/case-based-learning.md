@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (28 for, 30 mixed, 1 against) · 44 studies (13 causal, 13 quant-synthesis, 8 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 44 report an effect size · 54 claims rest on one study
+> **Evidence** · 59 claims (28 for, 30 mixed, 1 against) · 44 studies (14 quant-synthesis, 13 causal, 8 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 44 report an effect size · 54 claims rest on one study
 
 ## Description and scope
 

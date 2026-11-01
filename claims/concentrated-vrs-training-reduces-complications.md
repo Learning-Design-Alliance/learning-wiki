@@ -49,3 +49,4 @@ Review-level moderator analysis of training schedule across included studies: sp
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
 - [Supervised surgery studies on actual patients were all observational, reported high surgical volumes, and showed higher complication rates than VRS studies](supervised-surgery-studies-observational-high-complications.md) — related
 - [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — related
+- [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](simulation-plus-teamtraining-reduced-adverse-outcomes.md) — related

@@ -51,3 +51,4 @@ Narrative synthesis of the review's included studies, citing Fischer et al.'s ra
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — reports the opposite
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related
+- [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related

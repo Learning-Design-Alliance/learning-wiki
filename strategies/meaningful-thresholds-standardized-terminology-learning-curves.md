@@ -16,6 +16,9 @@ sources:
 
 # Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The article recommends that learning curve analyses adopt thresholds providing meaningful measures of surgeon performance together with standardized terminology, because current simplistic thresholds and inconsistent use of terms such as proficiency and competency impede interpretation. It states: "Using thresholds that provide meaningful measures of surgeon performance alongside standardized terminology seems vital to realize the full potential of learning curve analyses for optimization of surgical training programmes." It further calls for enhanced reporting of surgeon baseline characteristics, experience and procedure complexity.
 
@@ -39,7 +42,6 @@ The article recommends that learning curve analyses adopt thresholds providing m
 
 - [Methods and terminology used to define the point at which the robot-assisted learning curve is overcome are inconsistent and often lack statistical validation](../claims/inconsistent-thresholds-terminology-learning-curve-overcome.md) [+W]
 - [A plateau in performance does not necessarily equate to high-quality performance, so 'overcome' thresholds may misrepresent surgeon mastery](../claims/plateau-does-not-equate-high-quality-performance.md) [+W]
-- [Reporting standards in robot-assisted learning curve studies are poor, with only 35 per cent quantifying surgeons' previous experience](../claims/poor-reporting-prior-experience-robotic-learning-curves.md) [+W]
 
 ## Related Strategies
 

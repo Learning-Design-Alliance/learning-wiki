@@ -55,3 +55,4 @@ Subgroup analysis of examination scores across 3 variables (student major, publi
 - [Same-teacher subgroups show no heterogeneity while different-teacher subgroups are highly heterogeneous (I2 = 96.4%)](same-teacher-subgroup-homogeneous-different-teacher-heterogeneous.md) — related
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related
 - [PBL score advantages hold in both probationer and intern subgroups, with larger effects among probationers](pbl-subgroup-probationer-intern-radiology.md)
+- [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related

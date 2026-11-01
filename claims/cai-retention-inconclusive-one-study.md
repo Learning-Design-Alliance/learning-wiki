@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: viljoen-charle-andré-2019
     resource: "https://doi.org/10.1136/bmjopen-2018-028800"
@@ -15,12 +16,18 @@ sources:
     author: Viljoen Charle André, Scott Millar Rob, Engel Mark E, Shelton Mary, Burch Vanessa
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Evidence on CAI for longer-term retention of ECG competence is inconclusive, resting on one study with 14% response rate
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+
 ## Subclaims
-`q2 i?` The single retention study showed no significant difference between CAI and face-to-face teaching (SMD=−0.24, 95% CI −1.05 to 0.58), but only 14% completed the retention test. [→ Viljoen Charle André 2019](#viljoen-charle-andré-2019)
+`q2 i?` The single retention study showed no significant difference between CAI and face-to-face teaching (SMD=−0.24, 95% CI −1.05 to 0.58), but only 14% completed the retention test. [→ Viljoen Charle André 2019](#viljoen-charle-andre-2019)
 
 ## Evidence
 
@@ -28,7 +35,7 @@ sources:
 
 Viljoen Charle André, Scott Millar Rob, Engel Mark E, Shelton Mary, Burch Vanessa. (2019). Is computer-assisted instruction more effective than other educational methods in achieving ECG competence amongst medical students and residents? A systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2018-028800
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Only one included study (Fent et al) assessed retention three months after instruction without further teaching. Pooled "SMD=−0.24 (95% CI −1.05 to 0.58)" crossed zero, and the retention test had a 14% response rate, so equivalence was not established.
 

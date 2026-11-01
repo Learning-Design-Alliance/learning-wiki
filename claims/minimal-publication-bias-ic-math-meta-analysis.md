@@ -56,4 +56,3 @@ Publication bias assessment using contour-enhanced funnel plots, Robust Bayesian
 - Publication bias does not threaten the pooled effect estimates — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
-- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

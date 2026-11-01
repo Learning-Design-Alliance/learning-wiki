@@ -54,4 +54,3 @@ The same pooled meta-analysis reported very high heterogeneity across included s
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — related
-- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

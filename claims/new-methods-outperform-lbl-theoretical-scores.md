@@ -74,3 +74,7 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related
 - [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md)
+- [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](pbl-lbl-hybrid-better-comprehensive-ability.md) — related
+- [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](pbl-lbl-hybrid-better-record-writing-scores.md) — related
+- [Hybrid PBL+LBL pedagogy yields significantly better clinical skills assessment scores than LBL alone](pbl-lbl-hybrid-better-skills-scores.md) — related
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — a narrower finding that bears on this claim

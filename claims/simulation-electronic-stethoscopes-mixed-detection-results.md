@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: moßhammer-d-2017
     resource: "https://doi.org/10.1186/s12909-017-1074-1"
@@ -15,12 +16,18 @@ sources:
     author: Moßhammer D, Graf J, Joos S, Hertkorn R.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Simulation-based learning using electronic stethoscopes showed mixed results for heart sound and murmur detection
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+
 ## Subclaims
-`q2 i?` Two randomized controlled studies on electronic stethoscopes concluded different results in detection of heart sounds and murmurs, with one finding no differences and another finding better detection rates. [→ Moßhammer D 2017](#moßhammer-d-2017)
+`q2 i?` Two randomized controlled studies on electronic stethoscopes concluded different results in detection of heart sounds and murmurs, with one finding no differences and another finding better detection rates. [→ Moßhammer D 2017](#mohammer-d-2017)
 
 ## Evidence
 
@@ -28,7 +35,7 @@ sources:
 
 Moßhammer D, Graf J, Joos S, Hertkorn R. (2017). Physical examination in undergraduate medical education in the field of general practice – a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-017-1074-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports on simulation-based learning using electronic/digital stethoscopes, noting "Two randomized controlled studies concluded different results in the detection of heart sounds and heart murmurs, depending on the use of electronic stethoscopes".
 

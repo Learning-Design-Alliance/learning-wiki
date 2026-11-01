@@ -58,6 +58,7 @@ The review's forward-looking recommendations for integrating simulation into vas
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 - [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
+- [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
 
 ## Examples
 -

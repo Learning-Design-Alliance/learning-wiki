@@ -16,6 +16,9 @@ sources:
 
 # Include a variety of online and face-to-face components to accommodate different learning styles
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The review's first recommendation for instructors blending introductory programming courses is component variety: "instructors should include a variety of online and face-to-face components in their blend to accommodate different student learning styles and allow students multiple opportunities to learn." Alhazbi's blended course used varied activities so students could choose online or in-class discussion.
 
@@ -34,10 +37,20 @@ The review's first recommendation for instructors blending introductory programm
 - programming concepts and problem-solving skills
 
 ### Affordances
-- [Five Blended Learning Components Interaction Type](../theories/five-blended-learning-components-interaction-type.md)
+- Five Blended Learning Components Interaction Type
+
+## Claims
+
+- [Blended learning shows a positive effect on teaching introductory programming and is perceived to support learning](../claims/blended-learning-positive-effect-intro-programming.md) [+W]
+- [The mixed model shows the most potential for improving novice programmers' performance](../claims/mixed-model-most-potential-performance.md) [+W]
+- [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](../claims/online-heavy-models-first-year-challenge.md) [~W]
+- [The supplemental model risks students skipping online work and course overload](../claims/supplemental-model-challenges.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
+- [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Blended Learning](blended_learning.md)
 
 ## Examples
 -

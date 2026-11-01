@@ -79,6 +79,8 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Adopt blended teaching strategies that combine face-to-face and virtual-world modes.](blended-face-to-face-and-vw-teaching-strategy.md)
 - [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
 - [Provide recorded lectures and web-based course management systems to support attendance](recorded-lectures-moodle-support-attendance.md)
+- [Combine online and offline teaching (blended learning) to maximize benefits in undergraduate medical education](blended-learning-ume-recommendation.md)
+- [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

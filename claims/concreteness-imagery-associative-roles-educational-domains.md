@@ -73,3 +73,4 @@ The article's synthesis of research on dual coding theory in education reports t
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
 - [Across all mapping groups, pitch-based mapping and mental imagery emerge as the dominant cognitive strategies for interpreting sound-image associations](pitch-mapping-imagery-dominant-strategies.md) — related
+- [Reviews report that mental practice effectiveness may depend on individual imagery strength, and that MP interventions vary widely in duration, delivery mode and setting](mp-imagery-strength-and-delivery-variation.md) — a narrower finding that bears on this claim

@@ -125,3 +125,4 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 - [Media and technology provide affordances but effective use depends on good instructional design and support](media-affordances-depend-on-instructional-design.md) — related
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — a narrower finding that bears on this claim
+- [Head-to-head comparisons of digital learning with traditional teaching show mixed results, with no overall advantage for either](dlr-versus-traditional-teaching-mixed.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Review reports a randomized controlled trial by Lemaire et al. assessing a biofe
 ## Related Claims
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](vr-rct-chou-2024-communication-outcomes.md) — related
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
+- [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related

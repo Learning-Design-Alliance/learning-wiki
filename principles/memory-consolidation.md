@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (22 for, 17 mixed, 4 against) · 54 studies (30 causal, 11 review, 8 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 36 claims rest on one study
+> **Evidence** · 43 claims (23 for, 17 mixed, 3 against) · 54 studies (30 causal, 11 review, 9 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,7 +183,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](../claims/ivr-knowledge-gains-attenuate-at-follow-up.md) [+W]
 - [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](../claims/hands-on-booster-fewer-life-supporting-errors.md) [+W]
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](../claims/cpr-skills-decay-3-6-months.md) [+W]
-- [Monthly VAM practice did not prevent significant decline in compression depth and ventilated volume over twelve months](../claims/monthly-practice-depth-volume-decline.md) [-W]
+- [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](../claims/monthly-practice-depth-volume-decline.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

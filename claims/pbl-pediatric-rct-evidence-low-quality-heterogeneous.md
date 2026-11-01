@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: ma-yimei-mm-2019
     resource: "https://doi.org/10.1097/MD.0000000000014052"
@@ -15,9 +16,15 @@ sources:
     author: Ma Yimei MM, Lu Xiaoxi MD, Hayashi Shogo
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although most included studies were designed as RCTs, 3 did not describe random sequence generation, none described allocation concealment or blinding, and results were highly heterogeneous. [→ Ma Yimei MM 2019](#ma-yimei-mm-2019)
@@ -28,7 +35,7 @@ sources:
 
 Ma Yimei MM, Lu Xiaoxi MD, Hayashi Shogo. (2019). The effectiveness of problem-based learning in pediatric medical education in China: A meta-analysis of randomized controlled trials. Medicine. https://doi.org/10.1097/MD.0000000000014052
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Risk-of-bias assessment of the 12 included RCTs (Fig. 2) using Cochrane guidelines: "none of them described the allocation concealment or blinding methods", and the authors state the methodologic qualities were not high. All three outcomes showed I2 above 85%.
 
@@ -38,6 +45,8 @@ Risk-of-bias assessment of the 12 included RCTs (Fig. 2) using Cochrane guidelin
 
 
 ## Related Claims
+- [Evidence for PBL's DREEM advantage comes from six small Chinese RCTs with randomization and blinding weaknesses](pbl-dreem-evidence-limited-chinese-rcts.md) — possibly the same claim (merge candidate)
+- [The evidence base for GAI-based teaching in medical education is of low quality with substantial heterogeneity and reporting gaps](gai-teaching-evidence-low-quality-heterogeneous.md) — related
+- [Evidence for AI-powered PBL/CBL is limited: small study count, some concerns risk of bias, and no long-term effectiveness data](ai-pbl-cbl-evidence-limitations.md) — related
+- [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 
-- [The included BLS training trials were of low methodological quality, with Jadad scores from 2 to 5 averaging 2.81](bls-rcts-low-jadad-quality.md)
-- [Included PBL studies in Chinese radiology education are of low methodological quality with very high heterogeneity](pbl-radiology-studies-low-quality-high-heterogeneity.md)

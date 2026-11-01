@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: johnson-christina-elizabeth-2020
     resource: "https://doi.org/10.1136/bmjopen-2019-030672"
@@ -15,9 +16,15 @@ sources:
     author: Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L.
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The review attributes to Ivers et al that audit-and-feedback effectiveness increased with senior-colleague source (RD 11%), combined written and verbal format (RD 8%), at-least-monthly frequency (RD 7%), behaviour-reduction aims (RD 6%) and explicit targets with action plans (RD 5%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Using multivariable meta-regression, Ivers et al identified moderators of audit-and-feedback effectiveness: senior colleague or supervisor source (RD 11%), written plus verbal format (RD 8%), at least monthly frequency (RD 7%), aim to reduce specific behaviour (RD 6%), and explicit measurable targets plus a specific action plan (RD 5%). [→ Johnson Christina Elizabeth 2020](#johnson-christina-elizabeth-2020)
@@ -28,7 +35,7 @@ sources:
 
 Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L. (2020). Effect of face-to-face verbal feedback compared with no or alternative feedback on the objective workplace task performance of health professionals: a systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2019-030672
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r3`
 
 Second-hand report: the review narrates Ivers et al's 2012 Cochrane update, which reported a median risk difference of 4.3% (IQR 0.5%–16%) in favour of audit and feedback versus usual care, with these meta-regression-identified moderators. The review did not reanalyse these data; no standardised effect size is printed.
 

@@ -16,6 +16,9 @@ sources:
 
 # Discuss observed unprofessional behaviour with the student in its personal, interpersonal and institutional context
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
 ## Description
 The review recommends that identified behaviours should trigger a conversation with the student rather than an immediate label. It states that "Personal, interpersonal and institutional circumstances have to be taken into account when evaluating a student's professional behaviour", and that such a conversation, in which explanations are given and context is discussed, can lead to a fair assessment and a valuable formative learning experience, or to actions addressing interpersonal or institutional causes. Students and teachers should also discuss and negotiate what behaviours could be adequate in difficult circumstances.
 
@@ -33,6 +36,12 @@ The review recommends that identified behaviours should trigger a conversation w
 ### Target Learning Goals
 - professionalism
 - handling difficult contextual conditions such as stress and time constraints
+
+## Claims
+
+- [Minor rule non-compliance (failing course evaluations, failing to report immunization compliance) predicts students' later unprofessional behaviours](../claims/minor-rule-noncompliance-predicts-later-unprofessional-behaviour.md) [+W]
+- [Some student behaviours (poor initiative, irresponsibility, diminished capacity for self-improvement) predict future unprofessional behaviour as a physician](../claims/some-student-lapses-predict-future-physician-unprofessionalism.md) [+W]
+- [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](../claims/genai-misconduct-linked-to-professional-conduct.md) [+W]
 
 ## Related Strategies
 - 

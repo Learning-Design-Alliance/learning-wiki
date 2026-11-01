@@ -54,3 +54,4 @@ The abstract and introduction report period-specific trends, noting "a flattenin
 - [US cohort achievement trends per decade are steeper in math (median 0.19sd) than in reading (median 0.04sd) across linked surveys](math-gains-exceed-reading-gains-us-cohorts.md) — related
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - [Fourth-grade cohorts in other countries also show larger math than reading gains, suggesting moderators more general than the United States](international-math-reading-differential.md) — reports the opposite
+- [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md) — related

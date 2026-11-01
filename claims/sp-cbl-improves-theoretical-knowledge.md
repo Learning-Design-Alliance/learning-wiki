@@ -48,3 +48,4 @@ Meta-analysis of 27 RCTs (n=2419) using a random effects model due to considerab
 - [SP+CBL pedagogy significantly improves clinical practice performance compared with LBL in Chinese clinical education.](sp-cbl-improves-clinical-practice-performance.md) — related
 - [SP+CBL pedagogy significantly improves teaching satisfaction compared with LBL in Chinese clinical education.](sp-cbl-improves-teaching-satisfaction.md) — related
 - [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — related
+- [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related

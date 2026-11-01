@@ -56,3 +56,5 @@ Meta-analysis of 6 studies involving 939 students reporting satisfaction with im
 - [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
+- [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](pbl-lbl-hybrid-better-comprehensive-ability.md) — related
+- [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related

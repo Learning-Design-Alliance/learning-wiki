@@ -50,4 +50,4 @@ The review's own quality appraisal of the six included RCTs using RoB 2; all stu
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
 - [Students report generally high satisfaction with AI-powered PBL/CBL](ai-pbl-cbl-high-satisfaction.md) — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
-- [Most included studies had serious limitations, with only 11 of 44 reporting power calculations](risk-of-bias-and-power-reporting-in-pa-ap-studies.md)
+- [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — related

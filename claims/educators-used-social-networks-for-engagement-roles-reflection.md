@@ -51,3 +51,4 @@ Inductive qualitative analysis of 28 audio- and video-recorded debriefing sessio
 - [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](facilitator-role-shifting-shared-account.md) — related
 - [Learners and educators perceived social and epistemic networks as useful for supporting reflective activities on team communication](perceived-usefulness-networks-reflection.md) — related
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
+- [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — related

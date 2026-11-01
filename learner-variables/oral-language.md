@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (72 show a difference, 30 mixed, 25 no difference) · 91 studies (30 associational, 22 review, 18 quant-synthesis, 17 causal, 2 design, 2 theoretical), `q1`–`q3` · 29 of 91 report an effect size · 124 claims rest on one study
+> **Evidence** · 129 claims (73 show a difference, 30 mixed, 26 no difference) · 93 studies (30 associational, 22 review, 20 quant-synthesis, 17 causal, 2 design, 2 theoretical), `q1`–`q3` · 29 of 93 report an effect size · 126 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -164,6 +164,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [School-based physical activity shows no significant effect on language expression achievement](../claims/school-based-physical-activity-no-effect-language-expression.md) [-M] — instruction changes it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 - [A single reviewed study suggests PBL improves EFL listening comprehension, leaving a clear research gap](../claims/pbl-listening-comprehension-single-study.md) [+M] — instruction changes it
+- [Active commuting to and from school is not significantly associated with language-related skills (pooled ES = −0.37, considerable heterogeneity)](../claims/acs-not-associated-language-skills-pooled.md) [-M] — learners who differ on it differ in outcomes
+- [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](../claims/pbl-questionnaire-positive-outcomes-radiology.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

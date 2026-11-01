@@ -16,6 +16,9 @@ sources:
 
 # Apply PBL selectively in Chinese radiology education, balancing its benefits against time and resource costs
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 2 studies (2 quant-synthesis), `q1`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
+
 ## Description
 The article recommends that PBL "should be appropriately applied according to the current situation of Chinese education, teaching contents of radiology subject, and students’ specific circumstance." It reports that most Chinese schools used PBL for less than 50% of total clinical curricular hours, and medical schools need to balance PBL's positive effects against the cost of teaching time and resources.
 
@@ -39,6 +42,7 @@ The article recommends that PBL "should be appropriately applied according to th
 - [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](../claims/pbl-higher-theoretical-scores-chinese-radiology.md) [+W]
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](../claims/pbl-questionnaire-positive-outcomes-radiology.md) [+W]
 - [PBL score advantages hold in both probationer and intern subgroups, with larger effects among probationers](../claims/pbl-subgroup-probationer-intern-radiology.md) [+W]
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](../claims/pbl-adoption-barriers-chinese-pediatric-education.md) [+W]
 
 ## Related Strategies
 

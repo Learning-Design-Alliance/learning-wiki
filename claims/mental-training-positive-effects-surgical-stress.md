@@ -76,3 +76,5 @@ Review synthesis noting a dissociation between subjective and physiological outc
 - [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](meditation-improves-emotional-regulation.md) — related
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related
 - [Stress shows both negative and positive effects on technical and non-technical surgical performance, with no clear collective pattern](stress-effects-on-surgical-performance-mixed.md) — related
+- [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
+- [Mental practice improves surgical technical and non-technical performance in the majority of primary studies synthesised in systematic reviews](mp-improves-surgical-performance-majority.md) — related

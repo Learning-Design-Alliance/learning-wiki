@@ -51,3 +51,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — related
 - [Social interactions and the learning environment significantly shape SDL behaviors and attitudes among healthcare professionals](social-interactions-learning-environment-shape-sdl.md) — related
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](guidance-development-instruments-insufficient-alone.md) — related
+- [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related

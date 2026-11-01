@@ -16,6 +16,9 @@ sources:
 
 # Use the observational metric for assessment, learner self- and peer-assessment, educational programme evaluation, and clinical audit of wound-dressing performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The authors recommend deploying the validated metric beyond initial training: it "can be used for the assessment of the performance of wound dressings and to assist learners to self‐assess their own or a peer's performance". The metric supports future educational programmes, assesses the impact of such programmes, and can audit procedure performance in clinical practice. By defining the standard to be attained, it removes some of the subjectivity involved in learning and assessing these procedures.
 
@@ -36,7 +39,7 @@ The authors recommend deploying the validated metric beyond initial training: it
 - self-regulated and peer-assessed skill improvement
 
 ### Affordances
-- [Proficiency Based Progression Training Pbpt](../theories/proficiency-based-progression-training-pbpt.md)
+- [Proficiency Based Progression Training Pbpt](../designs/proficiency-based-progression-training-pbpt.md)
 
 ## Claims
 

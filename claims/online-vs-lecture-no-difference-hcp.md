@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: richmond-helen-2017
     resource: "https://doi.org/10.1186/s12909-017-1047-4"
@@ -15,9 +16,15 @@ sources:
     author: Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Online training shows no difference from taught lectures for knowledge or practical skills in licensed health professionals, at very low evidence quality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For knowledge (4 RCTs, n = 184) there was very low quality evidence of no difference between online training and taught lectures (SMD 0.22; 95% CI -0.08 to 0.51). [→ Richmond Helen 2017](#richmond-helen-2017)
@@ -29,7 +36,7 @@ sources:
 
 Richmond Helen, Copsey Bethan, Hall Amanda M., Davies David, Lamb Sarah E. (2017). A systematic review and meta-analysis of online versus alternative methods for training licensed health care professionals to deliver clinical interventions. BMC Medical Education. https://doi.org/10.1186/s12909-017-1047-4
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of RCTs comparing online training with taught lectures in licensed health professionals. Knowledge pooled "SMD 0.22; 95% CI: -0.08, 0.51" and practical skills SMD -0.25 (-0.93, 0.43); estimates judged very low quality due to high risk of bias, inconsistency, and imprecision.
 
@@ -41,3 +48,5 @@ Random-effects meta-analysis of RCTs comparing online training with taught lectu
 ## Related Claims
 
 - [The evidence base on online versus alternative training for licensed health professionals is limited by small samples, high risk of bias, and imprecise effect estimates](online-training-evidence-base-limited-quality.md)
+- [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](online-vs-workshop-no-difference-hcp.md) — related
+- [Online training was more effective than written manuals for knowledge (SMD 0.99) but showed no difference for clinical behaviour, at very low evidence quality](online-vs-manual-knowledge-superior.md) — related

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: pollard-d-2020
     resource: "https://doi.org/10.1111/hae.14002"
@@ -15,9 +16,15 @@ sources:
     author: Pollard D, Harrison C, Dodgson S, Holland M, Khair K.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A systematic review of haemophilia comprehensive care suggests it reduced mortality, emergency and walk-in visits, admissions, length of stay and days missed from school or work
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comprehensive (integrated) care in haemophilia was associated with reduced mortality, emergency room and walk-in clinic visits, hospital admissions and length of stay, and days missed from school or work. [→ Pollard D 2020](#pollard-d-2020)
@@ -28,7 +35,7 @@ sources:
 
 Pollard D, Harrison C, Dodgson S, Holland M, Khair K. (2020). The UK haemophilia specialist nurse: Competencies fit for practice in the 21st century. Haemophilia. https://doi.org/10.1111/hae.14002
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The article reports a systematic review of comprehensive care models in haemophilia identifying eight comparative and 19 non-comparative studies published up to 2015; meta-analysis was not possible due to differences in study designs and outcomes, and quality of evidence was rated low or very low.
 

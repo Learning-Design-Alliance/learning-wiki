@@ -16,6 +16,9 @@ sources:
 
 # Change undergraduate clinical pharmacology and therapeutics education to improve the prescribing competencies of future doctors
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+
 ## Description
 The review's authors recommend urgently required changes in undergraduate CPT education across the medical curriculum, because final-year students have not attained sufficient competencies for safe and effective prescribing. They state that "Changes in undergraduate CPT education are urgently required in order to improve the prescribing of future doctors." The recommendation rests on the review's synthesis of 47 evaluative studies showing general lack of preparedness, confidence, knowledge and skills.
 

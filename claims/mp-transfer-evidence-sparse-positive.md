@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: snelgrove-huon-gabbott-ben-2020
     resource: "https://doi.org/10.1186/s12909-020-02131-3"
@@ -15,15 +16,23 @@ sources:
     author: Snelgrove Huon; Gabbott Ben
     q: 1
     i: "?"
+    kind: review
+    rigour: 3
   - id: snelgrove-huon-gabbott-ben-2020-2
     resource: "https://doi.org/10.1186/s12909-020-02131-3"
     title: "Snelgrove Huon; Gabbott Ben. (2020). Critical analysis of evidence about the impacts on surgical teams of ‘mental practice’ in systematic reviews: a systematic rapid evidence assessment (SREA). BMC Medical Education. https://doi.org/10.1186/s12909-020-02131-3"
     author: Snelgrove Huon; Gabbott Ben
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Evidence for transfer and long-term impact of mental practice is sparse but includes positive trends: combined MP plus physical practice improved suturing transfer, and mental rehearsal lowered endovascular error rates
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` One study reported by Cocks et al. found MP combined with physical practice improved medical students' suturing skills on anaesthetised rabbits at a distance of time, compared with controls doing physical practice alone. [→ Snelgrove Huon; Gabbott Ben 2020](#snelgrove-huon-gabbott-ben-2020)
@@ -35,7 +44,7 @@ sources:
 
 Snelgrove Huon; Gabbott Ben. (2020). Critical analysis of evidence about the impacts on surgical teams of ‘mental practice’ in systematic reviews: a systematic rapid evidence assessment (SREA). BMC Medical Education. https://doi.org/10.1186/s12909-020-02131-3
 
-`q1 · i?`
+`q1 · i?` · `review · r3`
 
 The SREA reports, citing Cocks et al., a single transfer study: "MP and physical practice in combination, improved medical students suturing skills at distance of time on anaesthetised rabbits" versus physical-practice-only controls. No effect size is printed.
 
@@ -45,7 +54,7 @@ The SREA reports, citing Cocks et al., a single transfer study: "MP and physical
 
 Snelgrove Huon; Gabbott Ben. (2020). Critical analysis of evidence about the impacts on surgical teams of ‘mental practice’ in systematic reviews: a systematic rapid evidence assessment (SREA). BMC Medical Education. https://doi.org/10.1186/s12909-020-02131-3
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The SREA reports, citing Anton et al., an endovascular surgery study in which "error rates during the endovascular phase were lower after the MP intervention compared to before" — a before-after comparison, no effect size printed.
 
@@ -57,4 +66,5 @@ The SREA reports, citing Anton et al., an endovascular surgery study in which "e
 ## Related Claims
 
 - [Evidence for mental practice impacts in surgery does not exceed Kirkpatrick level 3, and no study reported system-level (level 4) change](mp-evidence-capped-kirkpatrick-level-3.md)
-- [The six included systematic reviews were of medium to high quality, but only two described a synthesis method and meta-analysis proved impossible due to heterogeneity](mp-review-quality-amstar2.md)
+- [Reviews report that mental practice effectiveness may depend on individual imagery strength, and that MP interventions vary widely in duration, delivery mode and setting](mp-imagery-strength-and-delivery-variation.md) — related
+- [Mental practice improves surgical technical and non-technical performance in the majority of primary studies synthesised in systematic reviews](mp-improves-surgical-performance-majority.md) — a broader claim this one bears on

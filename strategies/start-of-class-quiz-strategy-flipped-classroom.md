@@ -16,6 +16,9 @@ sources:
 
 # Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (2 quant-synthesis), `q2`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
+
 ## Description
 The article recommends that instructors use short quizzes at the beginning of face-to-face sessions to assess students' mastery of the pre-class videos. Quizzes help students recall prior knowledge, let instructors identify and remediate misconceptions, and motivate students to watch the videos. The article states this "implies that instructors use quizzes as a regular part of the in-class activities to assess students’ mastery of the pre-class learning materials."
 

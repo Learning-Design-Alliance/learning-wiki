@@ -16,6 +16,9 @@ sources:
 
 # Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+
 ## Description
 Based on the review's finding that SRL in the clinical context is not used to its full potential, the authors recommend two parallel approaches: "introduce interventions to improve individuals' goal setting and reflection skills and improve their SRL confidence", and "create a learning environment that gives students the opportunity to actually use their skills". The latter means, for example, more time for each patient, more patient encounters, support from supervisors and guidance by a mentor.
 
@@ -37,7 +40,7 @@ Based on the review's finding that SRL in the clinical context is not used to it
 - reflection skills
 
 ### Affordances
-- [Cyclical Three Phase Srl Models Classroom Derived](../theories/cyclical-three-phase-srl-models-classroom-derived.md)
+- [Cyclical Three Phase Srl Models Classroom Derived](../theories/self-regulated-learning.md)
 
 ## Claims
 
@@ -45,6 +48,7 @@ Based on the review's finding that SRL in the clinical context is not used to it
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](../claims/learning-plans-effects-limited-goal-setting.md) [+W]
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+W]
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W]
+- [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [+W]
 
 ## Related Strategies
 

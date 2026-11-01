@@ -271,6 +271,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   health counts was taken to zero on 2026-10-20 and must stay there.
 - **Do not commit hand-written pages while a batch is running**, and check a fresh-container
   batch's claim diff before committing: a step whose correctness depends on an ignored cache is a bug.
+- **A batch that stopped part-way is finished with `run_scrape_batch.py --post-only`** (2026-11-01),
+  with its own arguments: it runs exactly the steps after ingest, regenerating nothing and writing no
+  second manifest entry; add `--verified` when the edits `verify_citation_edits.py` flags have been
+  read and found legitimate. Its new pages must be untracked. Never a hand-kept copy of the steps:
+  two such scripts had drifted, missing every step added since they were written.
 - **`CURRENT` is prompt v136.** No provider pin; leave `OPENROUTER_MAX_COMPLETION_PRICE` and
   `OPENROUTER_QUANTIZATIONS` unset. `:batch` models are refused by the account's
   zero-data-retention setting. Costs recorded before 2026-09-28 are list-price estimates.

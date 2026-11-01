@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: mcbryde-m-2020
     resource: "https://doi.org/10.1001/jamanetworkopen.2020.2027"
@@ -15,15 +16,23 @@ sources:
     author: McBryde M, Fitzallen GC, Liley HG, Taylor HG, Bora S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: mcbryde-m-2020-2
     resource: "https://doi.org/10.1001/jamanetworkopen.2020.2027"
     title: "McBryde M, Fitzallen GC, Liley HG, Taylor HG, Bora S. (2020). Academic Outcomes of School-Aged Children Born Preterm: A Systematic Review and Meta-analysis. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2020.2027"
     author: McBryde M, Fitzallen GC, Liley HG, Taylor HG, Bora S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Preterm reading deficits appear at all assessment ages but are less pronounced at 12 to 18 years, whereas mathematics deficits remain similar in magnitude across age groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Preterm reading deficits were significant at ages 5-8 and 9-11, and remained significant but less pronounced at 12-18 years (MD, −3.35; 95% CI, −6.70 to −0.01). [→ McBryde M 2020](#mcbryde-m-2020)
@@ -35,7 +44,7 @@ sources:
 
 McBryde M, Fitzallen GC, Liley HG, Taylor HG, Bora S. (2020). Academic Outcomes of School-Aged Children Born Preterm: A Systematic Review and Meta-analysis. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2020.2027
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup meta-analysis by age at assessment (5-8, 9-11, 12-18 years). Deficits at 5-8 years (MD, −7.38; 95% CI, −9.69 to −5.07) and 9-11 years (MD, −8.93; 95% CI, −14.42 to −3.43) were also significant.
 
@@ -45,7 +54,7 @@ Subgroup meta-analysis by age at assessment (5-8, 9-11, 12-18 years). Deficits a
 
 McBryde M, Fitzallen GC, Liley HG, Taylor HG, Bora S. (2020). Academic Outcomes of School-Aged Children Born Preterm: A Systematic Review and Meta-analysis. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2020.2027
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup meta-analysis by age at assessment for the mathematics domain, reported in eFigure 5. The article states mathematics deficits showed similar magnitude across age groups, in contrast to the age-related reduction in reading deficits.
 
@@ -59,3 +68,5 @@ Subgroup meta-analysis by age at assessment for the mathematics domain, reported
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized reading measures](preterm-aggregate-reading-deficit.md)
 - [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md)
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md)
+- [Children born preterm score significantly lower than term-born peers on aggregate standardized mathematics measures, with a larger pooled deficit than for reading](preterm-aggregate-mathematics-deficit.md) — related
+- [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related

@@ -48,3 +48,4 @@ Marginal effects analysis from logistic regression models estimating each indica
 ## Related Claims
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — possibly the same claim (merge candidate)
+- [Students showed high willingness to participate in peer physical examination except for intimate body regions](high-willingness-peer-physical-examination-except-intimate-regions.md) — related

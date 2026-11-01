@@ -56,3 +56,5 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](heterogeneity-sources-pbl-cell-biology-meta-analysis.md) — related
 - [PBL improves total cell biology examination scores compared with LBL in Chinese medical education (pooled SMD 0.89)](pbl-beats-lbl-total-exam-scores-cell-biology.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — related

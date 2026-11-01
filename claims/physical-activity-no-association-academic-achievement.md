@@ -49,3 +49,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md) — related
 - [Speed-agility fitness is associated with writing and written expression skills in children with overweight/obesity](speed-agility-associated-writing-skills.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
+- [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md) — related

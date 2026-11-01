@@ -74,3 +74,4 @@ Same section: students greatly appreciate when teachers slow the pace for questi
 - [School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students](student-mobility-slows-instructional-pacing.md) — related
 - [Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints](competency-progression-limited-grade-level-emphasis.md) — related
 - [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](ciencias-ii-guide-overloaded-sequences.md) — related
+- [The supplemental model risks students skipping online work and course overload](supplemental-model-challenges.md) — related

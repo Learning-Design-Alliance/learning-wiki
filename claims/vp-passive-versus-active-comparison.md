@@ -10,7 +10,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-18
+source_checked: 2026-11-01
 sources:
   - id: kononowicz-aa-2019
     resource: "https://doi.org/10.2196/14676"
@@ -26,13 +26,15 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
 `q2 i?` Albatross plot visualization suggests virtual patients beat passive forms of traditional education with large effects, but show small or even negative effects versus active learning such as group discussion or mannequin-based training. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 `q2 i?` Albatross plot analysis suggests comparisons of virtual patients with passive forms of learning display large positive effect sizes, whereas comparisons with active learning show small or even negative effects. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
+
+`q2 i?` Albatross plot analysis suggests comparisons against passive forms of learning display large positive effect sizes, whereas comparisons against active learning show small or even negative effects. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 ## Evidence
 
@@ -46,6 +48,17 @@ Exploratory visual analysis of albatross plots (Figures 6 and 7) after planned s
 
 > "Comparisons of virtual patients to passive forms of learning (reading exercises and lectures) tended to display large positive effect sizes, whereas those comparing virtual patients to active learning (group discussion or mannequin-based learning) show small effects or even negative effects (left hand side in the Figures 6 and 7 and Multimedia Appendix 6)."
 
+<!-- merged 2026-11-01 from vp-passive-vs-active-comparison: that page's entry for this study, which differed from the one above, kept verbatim.
+### Kononowicz AA 2019
+
+Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
+
+`q2 · i?`
+
+Exploratory visual analysis of albatross plots of knowledge and skills outcomes for virtual-patient-versus-traditional comparisons; the pattern is described as a tendency from visual analysis, not a tested subgroup difference. The authors frame it as a hypothesis.
+
+> "Comparisons of virtual patients to passive forms of learning (reading exercises and lectures) tended to display large positive effect sizes, whereas those comparing virtual patients to active learning (group discussion or mannequin-based learning) show small effects or even negative effects (left hand side in the Figures 6 and 7 and Multimedia Appendix 6)."
+-->
 <!-- merged: same study as Kononowicz AA 2019 (preprint DOI)
 ### Kononowicz A A 2019
 

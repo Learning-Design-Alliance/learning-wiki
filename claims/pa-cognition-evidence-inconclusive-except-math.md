@@ -55,3 +55,5 @@ The commentary's background synthesis of existing reviews reports that "other sy
 - [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related
 - [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
 - [Eight of thirteen reviews concluded physical activity benefits cognitive performance, five reported mixed or inconclusive evidence, and none suggested worse cognition](pa-cognition-eight-beneficial-five-mixed.md)
+- [Mathematics is the subject where positive associations with physical activity are found most consistently in systematic reviews, though meta-analytic effects range from null to medium](mathematics-most-consistent-positive-subject.md) — possibly the same claim (merge candidate)
+- [Evidence for physical activity benefits on academic achievement in youth is inconsistent: six of twelve reviews concluded benefits, six mixed or inconclusive](pa-academic-evidence-inconsistent-six-six.md) — related

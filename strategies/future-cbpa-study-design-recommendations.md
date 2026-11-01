@@ -16,6 +16,9 @@ sources:
 
 # Future classroom-based physical activity studies should match outcome measures to intervention period and use objective physical activity measures
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The review's forward-looking design recommendation is that "Future studies should consider the intervention period when selecting academic-related outcome measures, and use an objective measure of physical activity to determine intervention fidelity and effects on overall physical activity levels." This responds to the review's findings that achievement effects varied by assessment tool and duration, and that fidelity reporting was sparse — no curriculum-focussed active break study reported fidelity, and teacher-delivered active breaks lacked compliance reporting.
 
@@ -35,10 +38,16 @@ The review's forward-looking design recommendation is that "Future studies shoul
 - academic achievement measurement
 - physical activity fidelity assessment
 
+## Claims
+
+- [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](../claims/classroom-physical-activity-no-effect-cognitive-function.md) [+W]
+- [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](../claims/classroom-physical-activity-no-effect-overall-pa.md) [+W]
+
 ## Related Strategies
 
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators](report-pa-intensity-and-fitness-measures-in-interventions.md)
+- [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 
 ## Examples
 -

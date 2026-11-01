@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: kononowicz-aa-2019
     resource: "https://doi.org/10.2196/14676"
@@ -15,15 +16,23 @@ sources:
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: kononowicz-aa-2019-2
     resource: "https://doi.org/10.2196/14676"
     title: "Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676"
     author: Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students were generally satisfied with virtual patients, but results were mixed: in 4 studies most items favored virtual patients, in 7 most items were indifferent, and in 1 study most items favored mannequin-based training. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
@@ -35,7 +44,7 @@ sources:
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of 17 satisfaction studies, all using questionnaires compared item-by-item; results were mixed across preference, indifference, and one study where mannequin-based training was better rated on most items. Not amenable to meta-analysis.
 
@@ -45,7 +54,7 @@ Narrative synthesis of 17 satisfaction studies, all using questionnaires compare
 
 Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminished confidence in one study despite no observable differences or better objective performance, which the authors attribute to possible disbelief in computer-based methods or anxiety about losing patient contact.
 
@@ -61,3 +70,6 @@ Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminish
 - [Comparisons of digital microscopy and light microscopy show mixed results: students rated light microscopy higher for satisfaction while digital microscopy showed higher examination averages in one study, and several studies found no significant performance differences](digital-versus-light-microscopy-mixed-performance.md)
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md)
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
+- [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md) — related
+- [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — possibly the same claim (merge candidate)
+- [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related

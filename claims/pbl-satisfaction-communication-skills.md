@@ -58,3 +58,4 @@ Meta-analysis of 6 studies involving 878 students, of whom 460 received PBL, rep
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](sbl-highest-ranked-student-satisfaction-nma.md) — related
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
+- [TBL enhances students' communication skills more than LBL according to student questionnaires](tbl-enhances-communication-skills-questionnaires.md) — related

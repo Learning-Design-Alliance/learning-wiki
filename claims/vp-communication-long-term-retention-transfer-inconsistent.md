@@ -63,3 +63,4 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — possibly the same claim (merge candidate)
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — a narrower finding that bears on this claim
+- [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related

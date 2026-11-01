@@ -48,3 +48,4 @@ The review attributes this cost analysis to Nathan et al. (2022), a randomised t
 
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — related
 - [One study found OCDE cost-effective versus face-to-face learning when intervention cost is Can $200 or less, and no trial evaluated adverse effects](ocde-cost-effectiveness-can200-no-adverse-effect-trials.md)
+- [The effect of offline computer-based digital education on medical doctors' knowledge gain compared with face-to-face learning is uncertain (very low grade evidence)](ocde-vs-face-to-face-knowledge-uncertain.md) — related

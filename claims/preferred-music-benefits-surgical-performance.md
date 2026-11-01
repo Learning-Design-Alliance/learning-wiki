@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: oomens-p-2019
     resource: "https://doi.org/10.1007/s00464-019-06868-x"
@@ -15,9 +16,15 @@ sources:
     author: Oomens P, Fu VX, Kleinrensink GJ, Jeekel J.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Participant-preferred music shows more consistent beneficial effects on simulated surgical performance than researcher-selected music
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both studies using participants' preferred music observed statistically significant beneficial effects on time to task completion, task performance, quality of repair and general surgical task performance, and the review concludes results suggest preferred music improves simulated surgical performance. [→ Oomens P 2019](#oomens-p-2019)
@@ -28,7 +35,7 @@ sources:
 
 Oomens P, Fu VX, Kleinrensink GJ, Jeekel J. (2019). The effect of music on simulated surgical performance: a systematic review. Surgical Endoscopy. https://doi.org/10.1007/s00464-019-06868-x
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Review synthesis noting that the two studies using participant-preferred music both reported statistically significant beneficial effects across outcome domains. The authors suggest the effect may be more profound with self-selected music, citing earlier physiological observations. No effect sizes printed.
 
@@ -41,3 +48,6 @@ Review synthesis noting that the two studies using participant-preferred music b
 
 - [Music shows mixed effects on general surgical task performance scores in simulation](music-general-surgical-performance-scores-mixed.md)
 - [Music exposure shows mixed but partly beneficial effects on time to task completion in simulated surgical tasks](music-improves-time-to-task-completion-simulated-surgery.md)
+- [Evidence is insufficient to definitively conclude music benefits simulated surgical performance, and no meta-analysis was possible](insufficient-evidence-music-surgical-performance.md) — related
+- [Music reduces electromyographic activation of the extensor digitorum during robotic surgical simulation, an indicator of muscle fatigue](music-reduces-muscle-activation-emg-surgery.md) — related
+- [Preferred music improves quality of simulated surgical wound repair, but classical music shows no significant effect on laparoscopic knot quality](preferred-music-improves-surgical-task-quality.md) — a narrower finding that bears on this claim

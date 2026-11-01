@@ -16,6 +16,9 @@ sources:
 
 # Implement OCDE at limited scale within research settings and design future trials with valid randomization, validated pre/posttests, and a common digital learning taxonomy
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 Given the uncertainty the review found, it recommends limited-scale implementation of OCDE inside experimental settings and research, and a future-trials agenda: robust randomization and allocation concealment, validated pre and posttests, participants with no previous knowledge of the subject, protecting against attrition bias by securing participant anonymity, patient-centered outcomes especially in LMICs, and developing "a common taxonomy for digital learning" to ease comparison among studies.
 
@@ -36,7 +39,6 @@ Given the uncertainty the review found, it recommends limited-scale implementati
 ## Claims
 
 - [The effect of offline computer-based digital education on medical doctors' cognitive skill gain compared with face-to-face learning is uncertain (very low grade evidence)](../claims/ocde-vs-face-to-face-cognitive-skills-uncertain.md) [+W]
-- [The evidence base for OCDE is dominated by high risk of bias: 24 of 29 trials were judged high risk and all outcomes were graded low or very low on GRADE](../claims/ocde-evidence-high-risk-of-bias-low-grade.md) [+W]
 - [The effect of offline computer-based digital education on medical doctors' knowledge gain compared with face-to-face learning is uncertain (very low grade evidence)](../claims/ocde-vs-face-to-face-knowledge-uncertain.md) [+W]
 - [The effect of offline computer-based digital education on doctors' cognitive skills versus no intervention is uncertain, and a cluster RCT showed no difference in patient outcomes versus no intervention](../claims/ocde-vs-no-intervention-skills-and-patient-outcomes.md) [+W]
 - [Offline computer-based digital education may improve medical doctors' knowledge gain compared with no intervention (low grade evidence)](../claims/ocde-vs-no-intervention-knowledge-gain.md) [+W]

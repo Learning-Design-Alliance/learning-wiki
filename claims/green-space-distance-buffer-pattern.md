@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: browning-m-h-e-m-2019
     resource: "https://doi.org/10.3390/ijerph16030429"
@@ -15,9 +16,15 @@ sources:
     author: Browning M. H. E. M., Rigolon A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Green space measured within 2000 m of schools shows more positive associations, while 3000 m or greater buffers show mostly null or negative findings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six of ten findings at distances up to 2000 m were positive and none negative, whereas only three of twelve findings at 3000 m or greater were positive and four were negative. [→ Browning M. H. E. M. 2019](#browning-m-h-e-m-2019)
@@ -28,7 +35,7 @@ sources:
 
 Browning M. H. E. M., Rigolon A. (2019). School Green Space and Its Impact on Academic Performance: A Systematic Literature Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16030429
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's count of findings by distance at which green space was measured around schools. It reports "six of ten (60%) were positive and none were negative" up to 2000 m, versus 25% positive and 33% negative at 3000 m or greater distances.
 

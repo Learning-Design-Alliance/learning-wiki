@@ -62,4 +62,3 @@ Publication-bias assessment of the meta-analysis using funnel scatter plot, clip
 - The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
-- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

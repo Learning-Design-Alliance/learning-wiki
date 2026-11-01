@@ -53,3 +53,4 @@ The review's synthesis of its sub-group meta-analyses across mathematics, langua
 - [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](pa-interventions-no-effect-language-reading-composite.md) — related
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [Across 29 controlled studies, positive overall effects of school-based PA on mathematics performance appear in 45% of studies and neutral effects in 52%, with only one negative subgroup result](pa-interventions-45-percent-positive-math.md) — a narrower finding that bears on this claim

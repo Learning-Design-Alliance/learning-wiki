@@ -49,3 +49,4 @@ Theoretical review of SRL frameworks synthesized in Table 1 (Zimmerman; Winne & 
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
 - [Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships](ethnographic-methods-surface-context-transcripts-omit.md) — related
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
+- [Included studies rarely articulated learning theories explicitly, yet their CAI activities aligned with contemporary theories of learning](learning-theories-rarely-explicit-cai.md) — related

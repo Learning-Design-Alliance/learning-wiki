@@ -16,6 +16,9 @@ sources:
 
 # Future research agenda for adaptive e-learning in health professions education
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+
 ## Description
 The review sets out a research agenda: future studies should assess AEEs with practising health professionals rather than students, use larger sample sizes, report adaptivity methods, goals, timing, factors and types clearly, provide details on underlying algorithms or AEE architecture for replicability, use traditional and design-variation comparators, employ validated measurement tools, target higher-level outcomes such as clinical behaviour, and use designs like factorial experiments that assess multiple design variations within one study. The review states "researchers should focus on research designs allowing the assessment of the impact of multiple educational design variations and adaptivity types within one study, such as factorial experiments".
 
@@ -35,6 +38,14 @@ The review sets out a research agenda: future studies should assess AEEs with pr
 - clinical behaviour
 - knowledge acquisition
 - skills development
+
+## Claims
+
+- [GRADE quality of evidence is very low for knowledge and low for skills](../claims/aee-grade-quality-very-low-knowledge-low-skills.md) [+W]
+- [The pooled effect of adaptive e-learning on knowledge is moderate-to-large but not statistically significant, with very high heterogeneity](../claims/aee-knowledge-effect-not-significant.md) [+W]
+- [Excluding one efficiency-focused study renders the pooled knowledge effect statistically significant (SMD 1.07)](../claims/aee-knowledge-significant-after-excluding-efficiency-study.md) [+W]
+- [Adaptive e-learning environments produce a large, statistically significant improvement in skills in health professionals and students compared with other educational interventions](../claims/aee-large-significant-skills-effect.md) [+W]
+- [Subgroup analyses by population and comparator find no statistically significant differences in effect sizes for knowledge or skills](../claims/aee-no-significant-subgroup-differences.md) [+W]
 
 ## Related Strategies
 - 

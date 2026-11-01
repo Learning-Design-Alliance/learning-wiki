@@ -16,6 +16,9 @@ sources:
 
 # Expand narrative medicine programme objectives to include writing skills and writing self-efficacy as measurable learning outcomes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The review recommends that NM programmes treat narrative writing not only as a means to other goals but as an outcome in itself. It states: "We recommend expanding future NM programme objectives to include the development of enhanced writing skills and self-efficacy related to the writing process as measurable learning outcomes." This may be accomplished through expert-led instruction in literary theory, close reading of published texts and workshopping of peer narratives, coaching participants to generate perspective pieces, advocacy narratives and educational texts for peer-reviewed journals.
 
@@ -42,6 +45,7 @@ The review recommends that NM programmes treat narrative writing not only as a m
 ## Claims
 
 - [A quarter of NM programmes (n=14, 25.5%) provided no evaluation details, and no programme used a well-described evaluation to assess gains in writing competence or confidence](../claims/nm-programmes-missing-evaluation-writing-competence.md) [+W]
+- [A systematic review through 2019 identified 55 unique narrative medicine programmes in academic health sciences, of which 75% reported some form of evaluation with inconsistent methods](../claims/55-nm-programmes-75-percent-evaluated-inconsistent-methods.md) [~W]
 
 ## Related Strategies
 

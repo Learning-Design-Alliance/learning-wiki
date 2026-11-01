@@ -16,6 +16,9 @@ sources:
 
 # Future narrative medicine directions: robust evaluation mechanisms plus NM for researchers, burnout-prone contexts, cultural competence training and low-resource settings
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The review's implications for research set out an agenda beyond current practice: "We advise that NM programming best practices and future directions should include the use of robust evaluation mechanisms; inclusion of writing training as an additional learning outcome; and the development and implementation of NM for researchers, burnout-prone providers/contexts, cultural competence trainings and low-resource settings." Supporting suggestions include blended online/in-person modules using videoconferencing for peer mentoring, and embedding narrative-based learning modules into existing unconscious bias trainings.
 
@@ -42,8 +45,9 @@ The review's implications for research set out an agenda beyond current practice
 ## Claims
 
 - [A systematic review through 2019 identified 55 unique narrative medicine programmes in academic health sciences, of which 75% reported some form of evaluation with inconsistent methods](../claims/55-nm-programmes-75-percent-evaluated-inconsistent-methods.md) [+W]
-- [Most NM programme evaluations used cross-sectional post-test-only designs, with only nine programmes using pre-post or step-wedge comparisons and only four assessing long-term impact](../claims/nm-evaluation-designs-mostly-cross-sectional.md) [+W]
 - [A quarter of NM programmes (n=14, 25.5%) provided no evaluation details, and no programme used a well-described evaluation to assess gains in writing competence or confidence](../claims/nm-programmes-missing-evaluation-writing-competence.md) [+W]
+- [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](../claims/nm-qualitative-evaluations-competency-impacts.md) [+W]
+- [Among well-described quantitative NM programme evaluations, statistically significant impacts were reported for increased empathy (three programmes) and increased perspective-taking/reflection (one programme)](../claims/nm-significant-gains-empathy-perspective-taking.md) [+W]
 
 ## Related Strategies
 

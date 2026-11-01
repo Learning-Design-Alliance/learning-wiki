@@ -16,6 +16,9 @@ sources:
 
 # Enhance SBLE quality by applying standards, specifying objectives, using externally validated scenarios, and employing rigorous evaluation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
 ## Description
 The review's concluding recommendation set for training programs that use SBLEs to build palliative and EOL communication competencies. The authors "recommend this evidence be augmented by training programs that utilize SBLEs through (1) applying standards, (2) clearly specifying goals and objectives, (3) integrating externally validated scenarios, and (4) employing rigorous evaluation methods and measures that link the SBLE to the training objectives and desired clinician practice behaviors and patient outcomes." Each recommendation is elaborated in the Discussion, e.g., endorsing NLN and INACSL standards and consulting validated scenario banks before building scenarios from scratch.
 
@@ -37,7 +40,9 @@ The review's concluding recommendation set for training programs that use SBLEs 
 
 ## Claims
 
-- [Evaluations of palliative/EOL communication SBLEs cluster at low Kirkpatrick levels, with no level 4 (RESULTS) evaluations reported](../claims/sble-evaluations-low-kirkpatrick-levels.md) [+W]
+- [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](../claims/debriefing-central-sble-palliative-communication.md) [~W]
+- [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](../claims/pre-post-sble-gains-mixed.md) [+W]
+- [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](../claims/sble-group-stronger-than-seminar-eol-preparedness.md) [+W]
 
 ## Related Strategies
 

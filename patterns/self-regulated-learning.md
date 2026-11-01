@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 85 claims (32 for, 49 mixed, 4 against) · 71 studies (25 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 71 report an effect size · 78 claims rest on one study
+> **Evidence** · 85 claims (32 for, 49 mixed, 4 against) · 71 studies (25 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 71 report an effect size · 78 claims rest on one study
 
 ## Description and scope
 

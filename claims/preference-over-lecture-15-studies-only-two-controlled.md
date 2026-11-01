@@ -60,3 +60,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — related
+- [About 70% of surveyed students prefer flipped to traditional classrooms](students-prefer-flipped-classroom-survey.md) — related

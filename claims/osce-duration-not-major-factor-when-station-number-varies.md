@@ -49,3 +49,4 @@ Meta-analysis of studies grouped by duration (<10 min vs >=10 min) across all st
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related
 - [When OSCEs have 5-10 stations, duration per station under 10 minutes yields significantly better internal consistency (alpha = 0.88) than 10 or more minutes (alpha = 0.64)](osce-station-duration-under-10-minutes-better-reliability.md) — related
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — related
+- [OSCE appears to be an appropriate examination format little influenced by external factors such as examiner background or time of day](osce-appropriate-format-little-influenced-by-external-factors.md) — related

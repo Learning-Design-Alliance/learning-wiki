@@ -16,6 +16,9 @@ sources:
 
 # Improve robustness of color-effect research through statistical power, open practices, and multi-lab collaborations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+
 ## Description
 The article recommends that research on red color in achievement contexts adopt larger, well-powered designs and open science practices. It states that moving forward "includes emphasizing statistical power to be able to identify more modest effects" and that adopting open practices and sharing experimental details would facilitate close replications. It also suggests high-powered multi-lab collaborations might yet identify robust color effects.
 
@@ -32,6 +35,15 @@ The article recommends that research on red color in achievement contexts adopt 
 
 ### Target Learning Goals
 - accurate assessment of cognitive test performance unaffected by incidental color stimuli
+
+## Claims
+
+- [Red color effects declined over time: initial studies found substantially larger effects than subsequent research](../claims/red-color-decline-over-time.md) [+W]
+- [Red color effects, if they exist, may be limited to low-stakes laboratory research and may not generalize to applied testing settings](../claims/red-color-low-stakes-limits.md) [+W]
+- [Control color choice, color matching, presentation medium, and presentation timing showed no moderating effects on red color effects](../claims/red-color-moderators-null.md) [+W]
+- [No significant difference between red and control color conditions for anagram tests or knowledge tests](../claims/red-color-no-effect-anagrams-knowledge.md) [+W]
+- [The pooled effect of viewing red color on cognitive test performance is small (Δ = -0.13)](../claims/red-color-pooled-effect-small.md) [+W]
+- [After correcting for publication bias, no evidential value remains for an effect of red color on intellectual performance](../claims/red-color-publication-bias-no-evidential-value.md) [+W]
 
 ## Related Strategies
 

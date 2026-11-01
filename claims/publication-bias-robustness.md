@@ -68,4 +68,3 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
-- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

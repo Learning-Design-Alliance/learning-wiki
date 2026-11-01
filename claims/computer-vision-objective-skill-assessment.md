@@ -51,3 +51,4 @@ The review's computer vision theme reports that AI-driven systems can automatica
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
 - [Computer vision tracking is the most common method of automated operative video analysis, with CNN the leading AI-based approach](computer-vision-tracking-most-common-video-analysis-method.md) — related
+- [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](lmc-construct-validity-dexterity-assessment.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Authors' qualitative observation (type e) from their work with Bard during the s
 ## Related Claims
 - [ChatGPT-4.0 outperformed ChatGPT-3.5 and Bard on the AAMC SJT in both raw and adjusted accuracy](chatgpt-4-outperforms-3-5-and-bard-aamc-sjt.md) — related
 - [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
+- [The AAMC promotes holistic review without presenting quantitative evidence of prediction or reliability, contrary to fair-testing validity standards](aamc-holistic-review-lacks-quantitative-validity-evidence.md) — related

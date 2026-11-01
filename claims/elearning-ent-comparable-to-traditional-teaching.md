@@ -46,3 +46,4 @@ Comparative analysis of five studies (four RCTs and one quasi‐experimental stu
 
 ## Related Claims
 - [Skill outcomes of e‐learning in ENT education are variable, with some studies favoring e‐learning and others showing no significant difference from traditional teaching](elearning-ent-skill-outcomes-variable.md) — related
+- [Head-to-head comparisons of digital learning with traditional teaching show mixed results, with no overall advantage for either](dlr-versus-traditional-teaching-mixed.md) — related

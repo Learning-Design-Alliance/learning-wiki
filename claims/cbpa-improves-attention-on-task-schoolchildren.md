@@ -60,3 +60,4 @@ Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7�
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — a narrower finding that bears on this claim
 - [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related
+- [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related

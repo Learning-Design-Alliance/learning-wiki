@@ -48,3 +48,4 @@ Meta-analysis of three studies assessing students' understanding skills, using a
 - [TBL and PBL show no significant difference in improving learning interest](tbl-pbl-no-difference-learning-interest.md) — related
 - [TBL and PBL show no significant difference in practical skill scores](tbl-pbl-no-difference-practical-skills.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related

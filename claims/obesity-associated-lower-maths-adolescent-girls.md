@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: martin-a-2017
     resource: "https://doi.org/10.1007/s13679-017-0272-9"
@@ -15,9 +16,15 @@ sources:
     author: Martin A, Booth JN, McGeown S, Niven A, Sproule J, Saunders DH, Reilly JJ
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among adolescent girls with obesity, there is consistent evidence of significantly lower maths scores compared to healthy-weight peers. [→ Martin A 2017](#martin-a-2017)
@@ -29,7 +36,7 @@ sources:
 
 Martin A, Booth JN, McGeown S, Niven A, Sproule J, Saunders DH, Reilly JJ. (2017). Longitudinal Associations Between Childhood Obesity and Academic Achievement: Systematic Review with Focus Group Data. Current Obesity Reports, 6(3), 297–313. https://doi.org/10.1007/s13679-017-0272-9
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Systematic review synthesis of three high-quality longitudinal cohort studies (n = 8641) found "significantly lower maths scores at age 13–14 years in girls with obesity compared to healthy-weight peers". The finding was not evident in preschool-aged girls with obesity.
 
@@ -37,6 +44,10 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 
 ## Discussion
 
+
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

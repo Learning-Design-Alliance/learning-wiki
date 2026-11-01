@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: ruiz-hermosa-a-2019
     resource: "https://doi.org/10.3390/ijerph16101839"
@@ -15,9 +16,15 @@ sources:
     author: Ruiz-Hermosa A., Álvarez-Bueno C., Cavero-Redondo I., Martínez-Vizcaíno V., Redondo-Tébar A., Sánchez-López M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cycling, but not walking, to and from school was positively associated with mathematics performance in the one study analyzing modes separately
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one included study examined cycling separately from walking, reporting that cycling to and from school was positively associated with greater mathematics performance while walking showed no positive impact. [→ Ruiz-Hermosa A. 2019](#ruiz-hermosa-a-2019)
@@ -28,7 +35,7 @@ sources:
 
 Ruiz-Hermosa A., Álvarez-Bueno C., Cavero-Redondo I., Martínez-Vizcaíno V., Redondo-Tébar A., Sánchez-López M. (2019). Active Commuting to and from School, Cognitive Performance, and Academic Achievement in Children and Adolescents: A Systematic Review and Meta-Analysis of Observational Studies. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16101839
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The review's discussion of Domazet et al. (Denmark, 568 adolescents), the only included study analyzing cyclists and walkers separately. The review attributes the finding to that study and speculates walking intensity may be insufficient; no effect size is printed here.
 

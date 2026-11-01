@@ -62,6 +62,7 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Future PjBL research should use active control groups, random assignment, blinding, validated measures, and report replication details and intervention fidelity](future-pjbl-research-design-recommendations.md)
 - [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
+- [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 
 ## Examples
 -

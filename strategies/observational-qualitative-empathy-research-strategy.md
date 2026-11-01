@@ -16,6 +16,9 @@ sources:
 
 # Study empathy in clinical encounters using observational and qualitative methods rather than self-report alone
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
 ## Description
 The review's future-research recommendation is to move beyond self-administered scales toward studying how empathy is displayed in clinical settings. It states that "research that includes both cognition, action, and feelings is recommended", and that future studies could focus not on self-reporting but rather on patient perceptions of empathic student/physician behaviour. It further recommends incorporating non-medical students as control groups, employing mixed methods, observational and qualitative research, and conducting a meta-analysis to enable calculation of statistical significance and heterogeneity.
 
@@ -40,6 +43,7 @@ The review's future-research recommendation is to move beyond self-administered 
 ## Related Strategies
 
 - [Prioritize practical digital-task tests, pedagogy research, and mixed methods in digital competence research](digital-competence-future-research-strategy.md)
+- [Use objective outcome measures (blinded OSCE, standardized tests, structured scales) in future ECE research](objective-outcomes-for-ece-research.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Synthesis-wide finding from the review's discussion: heterogeneity exceeded I² 
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [Subgroup factors (study quality, participant status, region, simulation technique) did not explain the heterogeneity in SBL effects](subgroups-did-not-explain-sbl-heterogeneity.md) — related
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](flipped-effect-robust-to-design-and-equivalence-controls.md) — related

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: andersen-freja-allerelli-2020
     resource: "https://doi.org/10.1186/s12909-020-1964-5"
@@ -15,9 +17,15 @@ sources:
     author: Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Significantly lower levels of empathy by increase in number of educational years were found in 14 out of 30 studies, while the remaining studies identified higher, mixed or unchanged levels. [→ Andersen Freja Allerelli 2020](#andersen-freja-allerelli-2020)
@@ -29,7 +37,7 @@ sources:
 
 Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth. (2020). Revisiting the trajectory of medical students' empathy, and impact of gender, specialty preferences and nationality: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-020-1964-5
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Systematic review of 30 quantitative studies (24 cross-sectional, 6 longitudinal) published February 2010 to March 2019, searched in PubMed, EMBASE and PsycINFO. The review reports "Significantly lower levels of empathy by increase in number of educational years were found in 14 out of 30 studies", with the remainder reporting higher, mixed or unchanged levels.
 
@@ -37,6 +45,9 @@ Systematic review of 30 quantitative studies (24 cross-sectional, 6 longitudinal
 
 ## Discussion
 
+
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 

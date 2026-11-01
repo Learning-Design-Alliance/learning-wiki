@@ -70,4 +70,3 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — related
-- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)

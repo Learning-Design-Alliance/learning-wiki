@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 169 claims (82 for, 69 mixed, 18 against) · 87 studies (28 review, 17 causal, 14 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 87 report an effect size · 164 claims rest on one study
+> **Evidence** · 165 claims (79 for, 68 mixed, 18 against) · 87 studies (31 review, 17 causal, 15 quant-synthesis, 10 design, 9 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 87 report an effect size · 160 claims rest on one study
 
 ## Description and scope
 
@@ -187,15 +187,15 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Conversation analytic comparisons show role-played and simulated interactions differ systematically from real interactions](../claims/ca-shows-simulation-inauthenticity.md) [-W]
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](../claims/sp-cst-positive-effects-confidence-performance.md) [+W]
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](../claims/sp-equivalent-to-real-patients-cst.md) [+W]
-- [Blending virtual patients with traditional education yields moderate positive knowledge effects over traditional education alone (pooled SMD=0.73)](../claims/vp-blended-knowledge-smd-073.md) [+W]
+- [Blending virtual patients with traditional education yields moderate positive knowledge effects over traditional education alone (pooled SMD=0.73)](../claims/vp-blended-knowledge-advantage.md) [+W]
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](../claims/simulation-plus-teamtraining-reduced-adverse-outcomes.md) [+W]
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' satisfaction](../claims/hfps-no-significant-satisfaction-difference.md) [~W]
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](../claims/sp-versus-peer-role-play-mixed.md) [~W]
-- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-smd-060.md) [+W]
+- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-mixed.md) [+W]
 - [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](../claims/vp-global-applicability-hic-lmic.md) [~W]
-- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-vs-active-comparison.md) [~W]
-- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-vs-traditional-skills-smd-090.md) [+W]
+- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-versus-active-comparison.md) [~W]
+- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-traditional-skills-advantage.md) [+W]
 - [VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context](../claims/vp-patient-representation-depersonalization.md) [-W]
 - [VP collection may convey a hidden curriculum through unrepresentative demographics](../claims/vp-collection-hidden-curriculum.md) [~W]
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](../claims/vp-design-variants-insufficient-evidence.md) [~W]

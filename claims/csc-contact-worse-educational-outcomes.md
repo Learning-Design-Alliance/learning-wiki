@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: jay-matthew-a-2019
     resource: "https://doi.org/10.1186/s13643-019-1071-z"
@@ -15,9 +17,15 @@ sources:
     author: Jay Matthew A., Mc Grath-Lone Louise
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Children in contact with Children's Social Care services perform worse than their peers on all examined educational outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All seven included studies agreed that children in contact with CSC services perform worse than their peers on all outcomes examined, including exam results, absences, exclusions, school moves, being missing from school, higher education aspirations and quality of school. [→ Jay Matthew A. 2019](#jay-matthew-a-2019)
@@ -28,7 +36,7 @@ sources:
 
 Jay Matthew A., Mc Grath-Lone Louise. (2019). Educational outcomes of children in contact with social care in England: a systematic review. Systematic Reviews. https://doi.org/10.1186/s13643-019-1071-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative synthesis of seven UK population-level quantitative studies (three peer-reviewed) comparing children with CSC contact to the general population. The review reports: "All agreed that children in contact with CSC services perform worse than their peers on all outcomes". No pooled effect size was computed.
 
@@ -40,5 +48,6 @@ Narrative synthesis of seven UK population-level quantitative studies (three pee
 ## Related Claims
 
 - [Children in need had similar or worse educational outcomes than children looked after where both groups were examined](cin-outcomes-similar-or-worse-than-cla.md)
-- [Only seven population-level studies of educational outcomes of UK children in contact with CSC met inclusion criteria despite a broad search](only-seven-csc-education-studies.md)
 - [Official 2017 statistics show a large attainment gap: 2.7% of long-term looked-after children and 3.9% of children in need achieved the English Baccalaureate versus 21.9% of the general population](dfe-2017-ebacc-gap-csc-children.md)
+- [Lower attainment is associated with longer duration in care, per a prior systematic review of children in foster care](longer-duration-in-care-lower-attainment.md) — related
+- [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related

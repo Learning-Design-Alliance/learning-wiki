@@ -55,3 +55,4 @@ Narrative synthesis of six included experimental and quasi-experimental studies 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](simulation-improves-critical-thinking-nursing-medical-students.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
+- [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related

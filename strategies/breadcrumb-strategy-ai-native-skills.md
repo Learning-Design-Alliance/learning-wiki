@@ -41,6 +41,7 @@ The Breadcrumb strategy is a lightweight curricular approach proposed by faculty
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Integrate AI education throughout the K-12 curriculum via innovative approaches to integrative AI-science, AI-math, AI-language arts, and AI-social science education](integrative-ai-education-across-disciplines.md)
+- [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 
 ## Examples
 -

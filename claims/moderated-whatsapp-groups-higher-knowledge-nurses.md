@@ -48,3 +48,4 @@ Quasi-experimental, survey-based study with an intervention and control conditio
 - [Controlling for active contributions, intervention effects were more pronounced and professional identification was higher in the moderated WhatsApp condition](active-contributions-strengthen-mim-effects.md) — related
 - [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](general-whatsapp-use-socio-professional-connections.md) — related
 - [Moderated WhatsApp groups reduced feelings of professional isolation among newly graduated nurses](moderated-whatsapp-reduced-professional-isolation.md) — related
+- [In the one controlled pre/post comparison, WhatsApp learning and didactic lectures both improved knowledge but did not differ between groups](whatsapp-versus-lectures-no-between-group-difference.md) — related

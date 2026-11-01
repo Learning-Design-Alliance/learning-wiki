@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 74 claims (46 for, 25 mixed, 3 against) · 39 studies (14 quant-synthesis, 8 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 39 report an effect size · 66 claims rest on one study
+> **Evidence** · 73 claims (46 for, 24 mixed, 3 against) · 39 studies (17 quant-synthesis, 8 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 39 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -163,7 +163,6 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Nursing-only TBL subgroups show a larger GRAT–IRAT difference (SMD = 2.368) than other health-professions subgroups, though the subgroup test is not significant](../claims/nursing-only-subgroup-larger-grat-irat-difference.md) [~W]
 - [TBL enhances students' communication skills more than LBL according to student questionnaires](../claims/tbl-enhances-communication-skills-questionnaires.md) [+W]
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](../claims/tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) [+W]
-- [Study quality score and sample size do not predict the GRAT–IRAT SMD across the 11 included studies](../claims/meta-regression-quality-sample-size-no-correlation.md) [~W]
 - [TBL benefits pharmacy students in both 4-year university and 3-year college programs, with a larger pooled effect in colleges](../claims/tbl-benefits-university-and-college-pharmacy-students.md) [+W]
 - [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](../claims/tbl-increases-learning-attitude.md) [+W]
 - [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](../claims/tbl-increases-learning-enthusiasm-questionnaires.md) [+W]

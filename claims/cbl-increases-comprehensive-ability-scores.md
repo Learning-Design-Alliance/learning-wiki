@@ -50,3 +50,4 @@ Meta-analysis pooling comprehensive ability scores from 11 included RCTs (441 CB
 - [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](pbl-cbl-higher-practical-skills-orthopedics.md) — related
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
+- [PBL+LBL significantly increases comprehensive ability scores compared with LBL alone](pbl-lbl-increases-comprehensive-ability-scores.md) — related

@@ -86,3 +86,4 @@ Pooled analysis of two studies measuring student satisfaction, using a fixed-eff
 - [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — possibly the same claim (merge candidate)
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — related
 - [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related
+- [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](tbl-increases-learning-attitude.md) — related

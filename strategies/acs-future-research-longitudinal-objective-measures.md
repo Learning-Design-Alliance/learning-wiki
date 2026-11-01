@@ -16,6 +16,9 @@ sources:
 
 # Future ACS research should use longitudinal designs and objective, validated measures of active commuting
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends that "Future studies need to implement more rigorous, longitudinal designs (e.g., randomized controlled trials), using objective assessments of physical activity (e.g., using accelerometers validated for use with research)". If self-report is used, validity and reliability should be established, with multiple assessments across an academic year differentiating modality, frequency, intensity, duration, and group versus individual activity to determine dose–response relationships.
 

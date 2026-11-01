@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: hegarty-josephine-2019
     resource: "https://doi.org/10.1111/iwj.13072"
@@ -15,9 +16,15 @@ sources:
     author: Hegarty Josephine, Howson Victoria, Wills Teresa, Creedon Sile A., Mc Cluskey Pat, Lane Aoife, Connolly Aine, Walshe Nuala, Noonan Brendan, Guidera Fiona, Gallagher Anthony G, Murphy Siobhan
     q: 1
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Standardising aseptic technique with the ANTT Clinical Practice Framework increased staff mean compliance with hand hygiene, glove use, key-part protection, and aseptic field management, as reported by Clare and Rowley
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Clare and Rowley demonstrated that standardising aseptic technique for invasive IV procedures using the ANTT-CPF increased staff mean compliance across several practices, with P ≤ 0.001. [→ Hegarty Josephine 2019](#hegarty-josephine-2019)
@@ -28,7 +35,7 @@ sources:
 
 Hegarty Josephine, Howson Victoria, Wills Teresa, Creedon Sile A., Mc Cluskey Pat, Lane Aoife, Connolly Aine, Walshe Nuala, Noonan Brendan, Guidera Fiona, Gallagher Anthony G, Murphy Siobhan. (2019). Acute surgical wound‐dressing procedure: Description of the steps involved in the development and validation of an observational metric. International Wound Journal. https://doi.org/10.1111/iwj.13072
 
-`q1 · i?`
+`q1 · i?` · `design · r3`
 
 Second-hand finding reported in the article's discussion, attributed to Clare and Rowley: standardising aseptic technique via the ANTT-CPF "increased staff mean compliance" with hand hygiene, glove use, key-part protection, non-touch technique, key-part cleaning, and aseptic field management (P ≤ 0.001). The review-like attribution is reported as the source states it; the underlying study design was not read.
 

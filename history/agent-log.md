@@ -5,6 +5,25 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-01 — a batch that failed at ingest was committed as finished; three fixes
+
+- **What happened.** j-scrsyn-8's ingest wrote `vp-passive-vs-active-comparison`, already an alias
+  of `vp-passive-versus-active-comparison` from an earlier merge. `build_wiki_index.py` refused a slug
+  resolving two ways, as it should, so ingest exited 1 at its last step and nothing after ingest ran:
+  no banners, sort, research-practice removal, linking, merging, coding, judging or validity checks.
+  The sweep driver did not read the exit and committed the 522 half-processed pages.
+- **Ingest now skips a slug that is another page's alias** (`ingest_extractions.retired_slug_owner`,
+  from `wiki-index.json`'s resolve map), so the collision cannot recur.
+- **`run_scrape_batch.py --post-only`** runs exactly a batch's steps after ingest, with no regeneration
+  and no second manifest entry; **`--verified`** continues past the citation-edit gate once its flagged
+  edits are checked. They replace two hand-kept recovery scripts that had drifted and skipped every
+  step added since they were written (the sort, the removal, merges, validity checks, currency).
+- **Repair:** the duplicate folded into its survivor; the batch's pages untracked again (no rewrite of
+  pushed history) and finished with `--post-only --verified`, which removed 62 research-practice claims
+  and ran every check. Triage: 7 load-bearing entries, one of which had its finding backwards (the
+  control group declined, not the practice group), so three pages' `[-W]` markers became `[+W]`; two
+  merged Kononowicz entries had leaked out of a nested HTML comment; two research-method pages folded.
+
 ## 2026-10-31 — batches drop agreed research-practice claims themselves, before the expensive steps
 
 - **What triage did by hand, the batch now does.** Every synthesis batch left its research-practice

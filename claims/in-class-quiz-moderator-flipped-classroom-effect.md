@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: hew-khe-foon-lo-chung-kwan-2018
     resource: "https://doi.org/10.1186/s12909-018-1144-z"
@@ -15,9 +16,15 @@ sources:
     author: HEW Khe Foon; LO Chung Kwan
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The pooled effect size was significantly higher in studies where instructors quizzed students on pre-class video content at the start of class (SMD 0.56) than in studies without such quizzes (SMD 0.26; Q = 5.34, df = 1, p = 0.02). [→ HEW Khe Foon; LO Chung Kwan 2018](#hew-khe-foon-lo-chung-kwan-2018)
@@ -28,7 +35,7 @@ sources:
 
 HEW Khe Foon; LO Chung Kwan. (2018). Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Medical Education. https://doi.org/10.1186/s12909-018-1144-z
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r3`
 
 Random-effects moderator analysis across the 28 studies comparing subgroups with and without start-of-class quizzes. Table 3 reports SMD 0.56 (n = 8 studies) with quizzes versus SMD 0.26 (n = 20) without; the article reports "Q = 5.34, df = 1, p = 0.02".
 
@@ -38,4 +45,5 @@ Random-effects moderator analysis across the 28 studies comparing subgroups with
 
 
 ## Related Claims
--
+- [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
+- [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — a broader claim this one bears on

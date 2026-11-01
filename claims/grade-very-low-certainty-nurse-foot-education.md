@@ -62,4 +62,4 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - Methodological quality of included studies is generally low, with only one RCT rated high quality — related
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
 - [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md)
-- [Most included studies had serious limitations, with only 11 of 44 reporting power calculations](risk-of-bias-and-power-reporting-in-pa-ap-studies.md)
+- [The evidence base on online versus alternative training for licensed health professionals is limited by small samples, high risk of bias, and imprecise effect estimates](online-training-evidence-base-limited-quality.md) — a narrower finding that bears on this claim

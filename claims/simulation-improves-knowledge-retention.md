@@ -55,3 +55,4 @@ Retention theme within the Time dimension synthesis; the review cites a randomiz
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
+- [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — a narrower finding that bears on this claim

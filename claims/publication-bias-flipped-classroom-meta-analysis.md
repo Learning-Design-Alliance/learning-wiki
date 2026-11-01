@@ -50,4 +50,3 @@ Visual inspection of funnel plots for both outcomes suggested publication bias. 
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — reports the opposite
-- [No evidence of publication bias in the flipped classroom meta-analysis](no-publication-bias-flipped-classroom-meta-analysis.md)

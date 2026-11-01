@@ -16,6 +16,9 @@ sources:
 
 # Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that future school-based physical activity intervention studies, including those on academic performance, go beyond duration and frequency. They state future studies "should focus on the importance of physical activity intensity and include measures of physical fitness as objective indicators" to enable more reliable analyses. This follows their finding that intensity was hardly addressed in existing literature despite being essential for elucidating exercise effects on cognition.
 
@@ -38,6 +41,8 @@ The authors recommend that future school-based physical activity intervention st
 
 - [Future classroom-based physical activity studies should match outcome measures to intervention period and use objective physical activity measures](future-cbpa-study-design-recommendations.md)
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
+- [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
+- [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
 
 ## Examples
 -

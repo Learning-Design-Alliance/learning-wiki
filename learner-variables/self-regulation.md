@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 213 claims (150 show a difference, 37 mixed, 26 no difference) · 152 studies (43 causal, 38 associational, 37 review, 14 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 152 report an effect size · 204 claims rest on one study
+> **Evidence** · 215 claims (151 show a difference, 38 mixed, 26 no difference) · 153 studies (43 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 153 report an effect size · 206 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -262,6 +262,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Goal setting and time management skills are important drivers for improving the student learning experience of SDL](../claims/goal-setting-time-management-sdl-drivers.md) [+M] — learners who differ on it differ in outcomes
 - [SDL is associated with nurturing autonomy, curiosity, and self-regulation qualities in medical students](../claims/sdl-nurtures-autonomy-curiosity-self-regulation.md) [+W] — instruction changes it
 - [Automated scoring and feedback technologies help trainees save time and self-monitor progress, but VR assessment may measure efficiency rather than safe practices](../claims/automated-feedback-efficiency-limitation.md) [+M] — instruction changes it
+- [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](../claims/learning-plans-effects-limited-goal-setting.md) [~M] — instruction changes it
+- [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

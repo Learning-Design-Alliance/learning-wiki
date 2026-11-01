@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: macdonald-kirstin-2018
     resource: "https://doi.org/10.3390/ijerph15081603"
@@ -15,9 +16,15 @@ sources:
     author: Macdonald Kirstin, Milne Nikki, Orr Robin, Pope Rodney
     q: 3
     i: 1
+    kind: review
+    rigour: 3
 ---
 
 # Manual dexterity shows a significant positive very weak to weak association with mathematical skills, despite mixed findings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Correlational studies found significant very weak to weak positive correlations (r = 0.11–0.37) between manual dexterity and mathematical ability, but two high-school studies reported non-significant associations. [→ Macdonald Kirstin 2018](#macdonald-kirstin-2018)
@@ -28,7 +35,7 @@ sources:
 
 Macdonald Kirstin, Milne Nikki, Orr Robin, Pope Rodney. (2018). Relationships between Motor Proficiency and Academic Performance in Mathematics and Reading in School-Aged Children and Adolescents: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15081603
 
-`q3 · i1`
+`q3 · i1` · `review · r3`
 
 Review synthesis of nine observational studies of manual dexterity and mathematics. Four correlation studies found "significant very weak to weak positive correlations (r = 0.11−0.37)"; five of six studies reporting significant associations were of fair to good quality.
 

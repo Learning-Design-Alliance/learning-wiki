@@ -16,6 +16,9 @@ sources:
 
 # Include mediation analysis of sleep, physical activity, diet and co-morbidities in future longitudinal studies
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 4 studies (4 review), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
+
 ## Description
 The review notes that "None of the included longitudinal studies evaluated the mediating effects of sleep deprivation, physical activity levels, type of physical activity, diet/nutritional status and co-morbidities", despite literature suggesting these factors are important in the causal pathway between childhood obesity and academic achievement. It recommends that "Future longitudinal studies should include mediation analysis of those factors" to identify the most promising intervention strategy for promoting educational outcomes. Researchers are also advised to avoid crude measurement methods when assessing potential mediators.
 
@@ -32,6 +35,13 @@ The review notes that "None of the included longitudinal studies evaluated the m
 
 ### Target Learning Goals
 - understanding mechanisms linking obesity to academic achievement
+
+## Claims
+
+- [Physical well-being — exercise, sleep, and nutrition — impacts learning](../claims/physical-wellbeing-impacts-learning.md) [+W]
+- [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](../claims/sleep-deprivation-impairst-astronaut-performance.md) [+W]
+- [Higher physical activity and fitness are generally associated with more adaptive autonomic patterns reflected in increased HRV, and autonomic evidence is stronger for physical activity than for nutrition](../claims/hrv-autonomic-pathway-stronger-for-physical-activity.md) [+W]
+- [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](../claims/aerobic-fitness-diet-hippocampus-episodic-memory.md) [+W]
 
 ## Related Strategies
 

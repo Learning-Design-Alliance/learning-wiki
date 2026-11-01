@@ -77,3 +77,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — related

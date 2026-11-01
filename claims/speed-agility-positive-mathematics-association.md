@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: macdonald-kirstin-2018
     resource: "https://doi.org/10.3390/ijerph15081603"
@@ -15,9 +16,15 @@ sources:
     author: Macdonald Kirstin, Milne Nikki, Orr Robin, Pope Rodney
     q: 3
     i: 1
+    kind: review
+    rigour: 3
 ---
 
 # Speed and agility show very weak-to-weak positive associations with mathematics performance, with strong review-level evidence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Six of seven studies reported significant positive associations between speed and agility and mathematics performance, with correlations of r = 0.18–0.20; longer shuttle run times were inversely related to mathematics performance. [→ Macdonald Kirstin 2018](#macdonald-kirstin-2018)
@@ -28,7 +35,7 @@ sources:
 
 Macdonald Kirstin, Milne Nikki, Orr Robin, Pope Rodney. (2018). Relationships between Motor Proficiency and Academic Performance in Mathematics and Reading in School-Aged Children and Adolescents: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15081603
 
-`q3 · i1`
+`q3 · i1` · `review · r3`
 
 Review synthesis of seven observational studies, six using the shuttle run. Two studies reported "significant very weak to weak positive associations (r = 0.18–0.20)"; three studies reported shuttle run times "significantly but inversely associated with mathematics performance, with longer shuttle run test times related to poorer mathematics performance"; one jumping-task study was non-significant.
 
@@ -40,3 +47,4 @@ Review synthesis of seven observational studies, six using the shuttle run. Two 
 ## Related Claims
 
 - [Total gross motor scores show a very weak to moderate positive association with mathematical skills despite conflicting findings](total-gross-motor-scores-mathematics-association.md)
+- [Speed-agility fitness is associated with writing and written expression skills in children with overweight/obesity](speed-agility-associated-writing-skills.md) — related

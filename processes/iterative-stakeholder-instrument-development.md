@@ -17,7 +17,7 @@ sources:
 # Iterative, stakeholder-informed instrument development cycle
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (3 design), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (4 design), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 This development pattern adapts an intervention-development framework to build a descriptive clinical instrument through repeated cycles of drafting, expert consultation, piloting, feasibility testing, and refinement, with patients, patient representatives, therapists, and researchers involved throughout. The article lists the steps: "(1) a literature review; (2) defining the construct and determining a theoretical framework; (3) initial selection of questions and prompts; (4) expert consultation; (5) piloting the interview; (6) conducting a feasibility study; and (7) refining the interview." An initial pool of 201 open-ended questions was clustered and reduced to 116 items, then through expert marking and discussion to successive drafts of 32 and finally 26 questions. The process ran from June 2022 to January 2025.

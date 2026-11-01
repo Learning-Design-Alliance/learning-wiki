@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: ramis-mary-anne-2019
     resource: "https://doi.org/10.1186/s12909-019-1698-4"
@@ -15,9 +16,15 @@ sources:
     author: Ramis Mary-Anne, Chang Anne, Conway Aaron, Lim David, Munday Judy, Nissen Lisa
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies measuring attitudes immediately after intervention found no significant difference, while studies measuring over longer durations found significant improvement over time. [→ Ramis Mary-Anne 2019](#ramis-mary-anne-2019)
@@ -28,7 +35,7 @@ sources:
 
 Ramis Mary-Anne, Chang Anne, Conway Aaron, Lim David, Munday Judy, Nissen Lisa. (2019). Theory-based strategies for teaching evidence-based practice to undergraduate health students: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-019-1698-4
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review synthesis across the five theory-based studies comparing immediate versus longer-term attitude measurement; the review reports a fluctuation of effect with significant increase at week one (p < 0.001) and overall significant increase from baseline at 37 weeks (p = 0.007) in one study.
 
@@ -41,3 +48,6 @@ Review synthesis across the five theory-based studies comparing immediate versus
 
 - [Theory-based EBP interventions have a small but positive effect on undergraduate health students' EBP attitudes](theory-based-ebp-interventions-small-positive-attitude-effect.md)
 - [A theory-based EBP intervention produced a small significant increase in EBP use but no significant difference in EBP future use](ebp-use-increase-future-use-null.md)
+- [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [Simulation training improves attitudes toward suicide risk assessment compared with active comparators immediately after training and compared with inactive comparators at 2–4 months](simulation-training-improves-attitudes-suicide-risk.md) — related

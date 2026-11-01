@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: pei-l-2019
     resource: "https://doi.org/10.1080/10872981.2019.1666538"
@@ -15,9 +16,15 @@ sources:
     author: Pei L, Wu H.
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that because objective multiple-choice assessments suit low-level learning goals, online learning might only be as effective as offline learning when learning goals are simple. [→ Pei L 2019](#pei-l-2019)
@@ -28,7 +35,7 @@ sources:
 
 Pei L, Wu H. (2019). Does online learning work better than offline learning in undergraduate medical education? A systematic review and meta-analysis. Medical Education Online. https://doi.org/10.1080/10872981.2019.1666538
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r3`
 
 Authors' interpretive argument about scope limits, not a tested result: the knowledge and skills taught in the included studies covered only a small part of medical education learning goals, and the instruments may not evaluate advanced capacities. No data support this claim directly.
 
@@ -41,3 +48,6 @@ Authors' interpretive argument about scope limits, not a tested result: the know
 
 - [The post-test advantage for online learning persists after excluding the single most influential study (SMD = 0.68)](post-test-advantage-persists-without-subramanian.md)
 - [Pre- and post-test score gains show no significant difference between online and offline learning](pre-post-gains-no-significant-difference.md)
+- [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related
+- [Interactive online learning designs with rich feedback, matched task difficulty and case-based strategies may explain larger online learning effects](interactive-design-drives-online-advantage.md) — related
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related

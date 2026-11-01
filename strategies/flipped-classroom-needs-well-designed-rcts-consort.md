@@ -44,6 +44,7 @@ Based on the low certainty of evidence for both academic performance and satisfa
 ## Related Strategies
 
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
+- [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Based on the meta-analytic findings, the authors recommend that educational inte
 ## Related Strategies
 
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
+- [Implement school-wide policy action to address weight-based teasing and bullying](school-wide-policy-weight-based-teasing.md)
 
 ## Examples
 -

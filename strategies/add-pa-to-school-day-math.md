@@ -16,6 +16,9 @@ sources:
 
 # Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 9 claims (1 for, 7 mixed, 1 against) · 4 studies (3 quant-synthesis, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 8 claims rest on one study
+
 ## Description
 The review concludes that several types of school-based PA can be recommended to be added to the school day, and that this "may enhance children's mathematics performance or has no negative effects on performance". Recommended forms include physically active mathematics lessons integrating PA into academic learning goals, short PA breaks during lessons, extra or more intense PE lessons, and bursts of activity before mathematics testing. The review found no clear evidence that any one type is more effective than the others.
 
@@ -42,6 +45,9 @@ The review concludes that several types of school-based PA can be recommended to
 - [Children with lower baseline achievement, lower IQ or lower school engagement may benefit more from school-based PA interventions, though evidence is mixed](../claims/pa-math-benefits-low-baseline-learners.md) [~W]
 - [Large-scale Scandinavian multicomponent PA interventions showed no significant positive effects on mathematics performance, raising a possible upper-limit question](../claims/multicomponent-pa-scandinavian-null-math.md) [-W]
 - [Acute PA before mathematics testing shows mixed effects: 10- and 20-min exercise breaks raised math scores but 5-min breaks did not, and pre-test PA sessions helped in two of four studies](../claims/acute-pa-timing-dose-math-performance.md) [~W]
+- [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](../claims/acute-physical-activity-children-attention-weak-evidence.md) [~W]
+- [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](../claims/coordinative-exercises-attention-advantage.md) [~W]
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ## Related Strategies
 

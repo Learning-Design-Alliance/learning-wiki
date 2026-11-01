@@ -57,3 +57,4 @@ Thematic analysis of educator interviews identified challenges including increas
 - [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related
 - [Resources, ethics and privacy, buy-in, and capabilities are the most commonly identified barriers to LA adoption](la-barriers-resources-ethics-buy-in-capabilities.md) — related
 - [Implementing grief training faces multi-level challenges including small class sizes, faculty turnover and low motivation because some physicians do not consider grief support part of their job](grief-training-implementation-challenges.md)
+- [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — related

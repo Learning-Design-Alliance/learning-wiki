@@ -65,3 +65,4 @@ This single-blind, parallel-group randomized controlled trial randomized 72 crit
 - [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](confidence-positive-attitude-associated-competency-ethiopia.md) — related
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md)
+- [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — related

@@ -16,6 +16,9 @@ sources:
 
 # Provide nursing students with repeated exposures to HFPS sessions to build self-efficacy and self-confidence over time
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (2 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+
 ## Description
 The review recommends that, because single-session HFPS did not significantly improve self-efficacy or self-confidence, educators "provide students with repeated exposures to the HFPS sessions in order to maintain successful performances over time". Repeated practice would let students observe other students' success, increasing encouragement and engagement, with outcome evaluation at intermediate and long-term intervals.
 
@@ -39,9 +42,11 @@ The review recommends that, because single-session HFPS did not significantly im
 ## Claims
 
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](../claims/simulation-confidence-dose-response.md) [+W]
+- [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](../claims/hfps-no-significant-self-efficacy-difference.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
 
 ## Examples
 -

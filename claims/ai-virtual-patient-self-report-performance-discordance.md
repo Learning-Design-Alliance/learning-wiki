@@ -56,3 +56,4 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [Repeated exposure to AI-VPs is associated with improved perceived self-efficacy and more positive attitudes toward communication training](ai-vp-self-efficacy-attitudes.md) — reports the opposite
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — a narrower finding that bears on this claim
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite
+- [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 338 claims (146 for, 168 mixed, 24 against) · 252 studies (90 associational, 61 design, 39 review, 25 theoretical, 22 causal, 9 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 252 report an effect size · 331 claims rest on one study
+> **Evidence** · 339 claims (147 for, 168 mixed, 24 against) · 253 studies (90 associational, 61 design, 42 review, 25 theoretical, 22 causal, 10 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 253 report an effect size · 332 claims rest on one study
 
 ## Conditional relationship
 
@@ -236,6 +236,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](../claims/modified-angoff-reality-check-reliability.md) [+W] — attached 2026-10-31 from Kannan et al. (2025), which proposed "Select the Angoff variant deliberately, aligned with assessment purpose and context"; tests this page's relationship.
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](../claims/osce-5-10-stations-optimal-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
 - [When OSCEs have 5-10 stations, duration per station under 10 minutes yields significantly better internal consistency (alpha = 0.88) than 10 or more minutes (alpha = 0.64)](../claims/osce-station-duration-under-10-minutes-better-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
+- [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](../claims/interview-reliability-042-limits-validity.md) [+W] — attached 2026-11-01 from Kreiter Clare et al. (2018), which proposed "Format traditional interviews to yield a reliable score, e.g., by engaging each applicant in multiple independent interviews"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

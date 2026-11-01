@@ -72,3 +72,5 @@ Narrative review synthesis of narrative and meta-analytic reviews of acute exerc
 - [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — reports the opposite
 - [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](pa-interventions-no-overall-benefit-ef-achievement.md) — related
 - [Including behavior change techniques in acute physical activity interventions is the only moderator associated with larger academic effects (g = 0.54 vs 0.23)](behavior-change-techniques-moderate-acute-pa-academic-effects.md) — a narrower finding that bears on this claim
+- [Acute on-task behaviour improvements from classroom-based physical activity may dissipate over time, with no chronic between-group difference in behaviour incidents](behaviour-gains-dissipate-chronic-follow-up.md) — related
+- [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](chronic-pa-medium-acute-pa-null-effect.md) — related

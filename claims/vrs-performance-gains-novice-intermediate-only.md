@@ -53,3 +53,4 @@ Review reports on one included study (Thomsen): significant improvement of OSACS
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md)
+- [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — possibly the same claim (merge candidate)

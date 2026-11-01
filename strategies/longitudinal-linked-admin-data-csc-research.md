@@ -16,6 +16,9 @@ sources:
 
 # Use linked longitudinal administrative data with nuanced CSC-contact categorisation and appropriate control groups to study educational outcomes of children in contact with social care
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
 ## Description
 The review recommends that future population-level research exploit the longitudinal nature of administrative data, linking records on all children over time to examine full careers through the care system and school. It states that "Making better use of the longitudinal nature of administrative data can overcome these problems" and calls for studies with appropriate control groups and more nuanced categorisation of CSC contact reflecting its complexities. The authors note administrative data featured in most included studies and describe their own ongoing linked-data work.
 
@@ -36,12 +39,14 @@ The review recommends that future population-level research exploit the longitud
 
 ## Claims
 
-- [Existing studies measure contact with CSC crudely, using blunt exposure definitions that ignore longitudinal trajectories of contact](../claims/crude-csc-exposure-measurement.md) [+W]
-- [Included studies show inadequate or no adjustment for confounding, particularly family background and socioeconomic position](../claims/inadequate-confounder-adjustment-csc-studies.md) [+W]
+- [Children in contact with Children's Social Care services perform worse than their peers on all examined educational outcomes](../claims/csc-contact-worse-educational-outcomes.md) [+W]
+- [Official 2017 statistics show a large attainment gap: 2.7% of long-term looked-after children and 3.9% of children in need achieved the English Baccalaureate versus 21.9% of the general population](../claims/dfe-2017-ebacc-gap-csc-children.md) [+W]
+- [Lower attainment is associated with longer duration in care, per a prior systematic review of children in foster care](../claims/longer-duration-in-care-lower-attainment.md) [+W]
 
 ## Related Strategies
 
 - [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
+- [Use propensity score matching with ATT estimation to reduce selection bias when comparing childcare arrangements in longitudinal administrative data](propensity-matching-childcare-arrangement-comparison.md)
 
 ## Examples
 -

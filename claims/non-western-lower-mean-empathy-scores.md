@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: andersen-freja-allerelli-2020
     resource: "https://doi.org/10.1186/s12909-020-1964-5"
@@ -15,9 +16,15 @@ sources:
     author: Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Nine of 30 studies reported a propensity towards lower mean empathy scores in non-Western compared to Western countries, all applying the JSPE-S
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Nine cross-sectional studies, from India, Kuwait, China, Korea, Iran and Pakistan, reported lower mean empathy scores compared to Western countries. [→ Andersen Freja Allerelli 2020](#andersen-freja-allerelli-2020)
@@ -29,7 +36,7 @@ sources:
 
 Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth. (2020). Revisiting the trajectory of medical students' empathy, and impact of gender, specialty preferences and nationality: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-020-1964-5
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Synthesis of the review's 30 studies conducted in 20 different countries. The review reports "Nine studies in our systematic review reported a propensity towards lower empathy scores in non-Western compared to Western countries", all applying the JSPE-S.
 

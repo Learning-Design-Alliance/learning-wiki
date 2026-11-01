@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 19 studies (6 review, 4 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 19 studies (7 review, 4 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 8 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.

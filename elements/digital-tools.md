@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 95 claims (46 for, 44 mixed, 5 against) · 86 studies (21 review, 14 causal, 14 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 86 report an effect size · 94 claims rest on one study
+> **Evidence** · 95 claims (46 for, 44 mixed, 5 against) · 86 studies (21 review, 15 quant-synthesis, 14 causal, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 86 report an effect size · 94 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.

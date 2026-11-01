@@ -89,4 +89,5 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — related
 - [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
-- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)
+- [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
+- [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related

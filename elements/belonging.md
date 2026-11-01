@@ -18,7 +18,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (24 for, 12 mixed, 3 against) · 29 studies (8 review, 5 qualitative, 5 theoretical, 4 associational, 3 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 36 claims rest on one study
+> **Evidence** · 39 claims (24 for, 12 mixed, 3 against) · 29 studies (8 review, 6 qualitative, 5 theoretical, 4 associational, 3 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 36 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.

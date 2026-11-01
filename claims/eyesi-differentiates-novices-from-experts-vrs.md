@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: rasmussen-rasmus-christian-2019
     resource: "https://doi.org/10.1186/s12886-019-1098-x"
@@ -15,9 +17,15 @@ sources:
     author: Rasmussen Rasmus Christian, Grauslund Jakob, Vergmann Anna Stage
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the included studies, the EyeSi Surgical Simulator showed statistically significant performance differences between novices and experts in both the navigation and membrane peeling modules. [→ Rasmussen Rasmus Christian 2019](#rasmussen-rasmus-christian-2019)
@@ -28,7 +36,7 @@ sources:
 
 Rasmussen Rasmus Christian, Grauslund Jakob, Vergmann Anna Stage. (2019). Simulation training in vitreoretinal surgery: a systematic review. BMC Ophthalmology. https://doi.org/10.1186/s12886-019-1098-x
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Qualitative synthesis of seven included studies in a systematic review. The review reports that in both the navigation and membrane peeling modules "a statistical significant performance difference was found between novices and experts."
 
@@ -42,4 +50,4 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [Validity evidence across ophthalmic simulators is sparse: only two studies provided evidence for all five sources of validity assessment, and the Eyesi Surgical is the most extensively assessed model with 33 validity studies.](only-two-studies-all-five-validity-sources-eyesi-most-assessed.md)
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md)
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md)
-- [No included study was judged at low risk of bias across all domains, with blinding of outcome assessment the worst domain](risk-of-bias-vrs-simulation-studies.md)
+- [Twenty-eight studies of the Eyesi cataract training modules collectively demonstrated all five sources of validity evidence, with strong data for each parameter except response processes.](eyesi-cataract-all-five-validity-sources-28-studies.md) — related

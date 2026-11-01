@@ -79,3 +79,4 @@ Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. 
 - [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
 - [Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects](tcm-candidate-moderators-of-model-effects.md) — a broader claim this one bears on
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — related
+- [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md) — related

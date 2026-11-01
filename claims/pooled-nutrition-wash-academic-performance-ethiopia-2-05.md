@@ -56,4 +56,3 @@ Random-effects meta-analysis of 19 studies (16 cross-sectional, 3 prospective co
 - [School feeding programs show mixed, statistically nonsignificant pooled effects on academic performance (1.314, CI crossing null)](school-feeding-programs-nonsignificant-pooled-effect.md) — related
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — related
 - [Intestinal parasitic infection is associated with poorer academic performance (pooled effect size 0.570)](intestinal-parasitic-infection-academic-performance-ethiopia.md) — related
-- [The meta-analysis shows significant publication bias and very high heterogeneity among included studies](publication-bias-and-heterogeneity-in-pa-ap-literature.md)

@@ -60,3 +60,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — a narrower finding that bears on this claim
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — a narrower finding that bears on this claim
+- [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related

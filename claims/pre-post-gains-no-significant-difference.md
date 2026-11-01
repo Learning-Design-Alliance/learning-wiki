@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: pei-l-2019
     resource: "https://doi.org/10.1080/10872981.2019.1666538"
@@ -15,9 +16,15 @@ sources:
     author: Pei L, Wu H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Pre- and post-test score gains show no significant difference between online and offline learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analysis of 3 pre- and post-test gain comparisons found no significant difference between groups (p = 0.07), though gains trended higher online. [→ Pei L 2019](#pei-l-2019)
@@ -28,7 +35,7 @@ sources:
 
 Pei L, Wu H. (2019). Does online learning work better than offline learning in undergraduate medical education? A systematic review and meta-analysis. Medical Education Online. https://doi.org/10.1080/10872981.2019.1666538
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 3 comparisons using pre- and post-test score gains. No significant difference was detected (p = 0.07); the article reports "the gains in online learning groups trended higher" with a wide confidence interval crossing zero. Equivalence was not tested.
 
@@ -41,3 +48,6 @@ Random-effects meta-analysis of 3 comparisons using pre- and post-test score gai
 
 - [Interactive online learning designs with rich feedback, matched task difficulty and case-based strategies may explain larger online learning effects](interactive-design-drives-online-advantage.md)
 - [Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments](online-advantage-limited-to-simple-goals.md)
+- [Online learning produces higher post-test knowledge and skill scores than offline learning in undergraduate medical education (SMD = 0.81)](online-learning-higher-post-test-scores-ume.md) — related
+- [Across the 16 included studies, 9 reported significant improvement for online learning and 7 reported no significant difference; none found online learning less effective](nine-of-sixteen-studies-favor-online.md) — related
+- [The post-test advantage for online learning persists after excluding the single most influential study (SMD = 0.68)](post-test-advantage-persists-without-subramanian.md) — related

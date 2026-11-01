@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: sneck-s-2019
     resource: "https://doi.org/10.1186/s12966-019-0866-6"
@@ -15,9 +16,15 @@ sources:
     author: Sneck S., Viholainen H., Syväoja H., Kankaapää A., Hakonen H., Poikkeus A.-M., Tammelin T.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Children with lower baseline achievement, lower IQ or lower school engagement may benefit more from school-based PA interventions, though evidence is mixed
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subgroup analyses in two studies suggested children with lower IQ, lower baseline achievement or low school engagement may benefit more from PA interventions, but one study reported conflicting results. [→ Sneck S. 2019](#sneck-s-2019)
@@ -28,7 +35,7 @@ sources:
 
 Sneck S., Viholainen H., Syväoja H., Kankaapää A., Hakonen H., Poikkeus A.-M., Tammelin T. (2019). Effects of school-based physical activity on mathematics performance in children: a systematic review. The International Journal of Behavioral Nutrition and Physical Activity. https://doi.org/10.1186/s12966-019-0866-6
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of subgroup findings across reviewed studies. The review reports trends implying greater benefit for "children with lower IQ or baseline achievement and low school engagement", while noting Beck and colleagues reported conflicting results.
 
@@ -41,3 +48,5 @@ Narrative synthesis of subgroup findings across reviewed studies. The review rep
 
 - [Large-scale Scandinavian multicomponent PA interventions showed no significant positive effects on mathematics performance, raising a possible upper-limit question](multicomponent-pa-scandinavian-null-math.md)
 - [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md)
+- [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
+- [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md) — related

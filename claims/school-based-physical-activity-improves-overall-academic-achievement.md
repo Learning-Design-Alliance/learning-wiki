@@ -55,3 +55,4 @@ Meta-analysis pooling six RCTs on overall academic achievement. The review repor
 - [High-intensity physical activity shows a positive effect on mathematics achievement (SMD = 0.41)](high-intensity-activity-improves-mathematics-achievement.md) — related
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
+- [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — related

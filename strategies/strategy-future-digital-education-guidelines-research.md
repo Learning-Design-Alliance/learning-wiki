@@ -16,6 +16,9 @@ sources:
 
 # Evaluate interactive, simulation-based, spaced and mobile forms of digital education for guideline adoption, reporting skills, behaviour, patient and cost outcomes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The review recommends that future research move beyond passive, low-interactivity digital education toward formats it found promising or untested. It states "future research should evaluate interactive, simulation-based and spaced forms of digital education and report on outcomes such as skills, behaviour, patient outcomes and cost", and notes that no included study evaluated virtual or augmented reality or mobile delivery, which may enable easy, on-the-go access to training.
 
@@ -38,6 +41,7 @@ The review recommends that future research move beyond passive, low-interactivit
 - [Digital education on clinical practice guidelines produces little or no change in healthcare professionals' behaviour, except email-delivered spaced education](../claims/digital-education-guidelines-behaviour-null-except-spaced.md) [+W]
 - [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](../claims/digital-education-guidelines-skills-mixed.md) [+W]
 - [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](../claims/interactivity-digital-education-guidelines-mixed.md) [~W]
+- [Email-delivered spaced education is the only intervention type shown to improve both clinician behaviour and patient outcomes for guideline adoption](../claims/spaced-education-improves-behaviour-and-patient-outcomes.md) [+W]
 
 ## Related Strategies
 

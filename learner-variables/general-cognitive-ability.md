@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (107 show a difference, 33 mixed, 24 no difference) · 115 studies (44 associational, 38 causal, 13 review, 11 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 115 report an effect size · 161 claims rest on one study
+> **Evidence** · 166 claims (107 show a difference, 34 mixed, 25 no difference) · 117 studies (44 associational, 38 causal, 13 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 117 report an effect size · 163 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -200,6 +200,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Overall aptitude tests predict early program academic results (d=0.550), end of program academic results (d=0.371), and end of program clinical exams (d=0.448), but not early program clinical exams](../claims/aptitude-tests-predict-academic-and-late-clinical-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Within aptitude test subtests, verbal reasoning (d=0.704) and quantitative reasoning (d=0.643) best predict early program academic results, while abstract and verbal reasoning predict end-of-program outcomes](../claims/aptitude-subtests-verbal-quantitative-reasoning-predict-early-academic.md) [+M] — learners who differ on it differ in outcomes
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](../claims/pbl-improves-process-abilities-orthopaedics.md) [+M] — instruction changes it
+- [Active classrooms show no clear effect on executive function or fluid intelligence](../claims/active-classrooms-no-executive-function-effect.md) [-W] — instruction changes it
+- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

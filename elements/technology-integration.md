@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 160 claims (76 for, 73 mixed, 11 against) · 133 studies (25 associational, 23 qualitative, 22 review, 20 causal, 19 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 29 of 133 report an effect size · 157 claims rest on one study
+> **Evidence** · 160 claims (76 for, 73 mixed, 11 against) · 133 studies (25 associational, 24 review, 23 qualitative, 22 quant-synthesis, 20 causal, 14 design, 5 theoretical), `q1`–`q4` · 29 of 133 report an effect size · 157 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.

@@ -48,3 +48,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [PoCUS competency declines across all I-AIM domains over 1–12 months, with Acquisition showing the most pronounced decline (median −11.8%)](pocus-acquisition-domain-most-pronounced-retention-decline.md) — related
 - [Thirteen of 14 included studies reported significant effects of CPR training; one RCT found no significant self-efficacy effect](cpr-training-effects-thirteen-of-fourteen-studies.md) — related
 - [School-based CPR training effectively promotes change in CPR knowledge and skills among adolescents](school-cpr-training-improves-adolescent-knowledge-skills.md) — related
+- [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — reports the opposite

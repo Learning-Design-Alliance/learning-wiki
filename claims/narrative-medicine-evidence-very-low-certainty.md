@@ -57,4 +57,4 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
 - [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md)
-- [Most included studies had serious limitations, with only 11 of 44 reporting power calculations](risk-of-bias-and-power-reporting-in-pa-ap-studies.md)
+- [A systematic review through 2019 identified 55 unique narrative medicine programmes in academic health sciences, of which 75% reported some form of evaluation with inconsistent methods](55-nm-programmes-75-percent-evaluated-inconsistent-methods.md) — related

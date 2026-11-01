@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (8 for, 6 mixed, 5 against) · 17 studies (6 causal, 5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (8 for, 6 mixed, 5 against) · 17 studies (6 causal, 5 review, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.

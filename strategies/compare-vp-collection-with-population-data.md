@@ -16,6 +16,9 @@ sources:
 
 # Analyze VP collections against population and healthcare data to assess authenticity and diversity
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The article demonstrates a strategy of coding a VP collection with a structured framework and comparing the results with data from the national healthcare system and population statistics to evaluate its real-world authenticity. This allows educators to identify demographic gaps such as missing disability, migration, or unemployment representation. The authors state: "Our framework can support educators to assess the authenticity and diversity of a VP collection."
 
@@ -38,6 +41,9 @@ The article demonstrates a strategy of coding a VP collection with a structured 
 ## Claims
 
 - [VP diagnoses and disease onset are broadly comparable to German healthcare data](../claims/vp-diagnoses-comparable-to-healthcare-data.md) [+W]
+- [VP collection underrepresents disability, migration background, and unemployment relative to the German population](../claims/vp-collection-demographic-representativeness-gaps.md) [+W]
+- [VP collection may convey a hidden curriculum through unrepresentative demographics](../claims/vp-collection-hidden-curriculum.md) [+W]
+- [VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context](../claims/vp-patient-representation-depersonalization.md) [+W]
 
 ## Related Strategies
 - 

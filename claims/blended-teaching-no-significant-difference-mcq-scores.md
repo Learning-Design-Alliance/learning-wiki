@@ -55,3 +55,4 @@ A meta-analysis of randomized controlled trials and crossover trials comparing b
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — related
 - [Blended learning improved manual skills in preclinical endodontics but showed no significant difference in conceptual knowledge](blended-learning-manual-skills-not-conceptual-knowledge.md) — related
 - [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — related
+- [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md) — related

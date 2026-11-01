@@ -47,3 +47,4 @@ In the review's knowledge and skill improvement synthesis, the Pulijala et al. R
 ## Related Claims
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — related
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
+- [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](vr-surgery-training-improves-knowledge-self-confidence.md) — possibly the same claim (merge candidate)

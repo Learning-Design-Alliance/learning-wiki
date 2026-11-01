@@ -16,6 +16,9 @@ sources:
 
 # Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The review's future-work recommendations for strengthening the online training evidence base. The authors recommend that studies "follow the TIDieR Guidelines for reporting intervention information", include detail on intervention dose and content, assess participant compliance, ensure comparisons are similar in confounds such as duration and content, use Kirkpatrick's outcome hierarchy consistently, and compare online learning approaches through tightly-controlled factorial experiments to optimise features for adherence and retention, plus cost-effectiveness evaluation.
 
@@ -39,12 +42,16 @@ The review's future-work recommendations for strengthening the online training e
 
 ## Claims
 
-- [Reporting of online training interventions was insufficient for replication, with no studies describing how to access the interventions or reporting formal pilot testing](../claims/online-intervention-reporting-insufficient-replication.md) [+W]
+- [The evidence base on online versus alternative training for licensed health professionals is limited by small samples, high risk of bias, and imprecise effect estimates](../claims/online-training-evidence-base-limited-quality.md) [+W]
+- [Online training shows no difference from taught lectures for knowledge or practical skills in licensed health professionals, at very low evidence quality](../claims/online-vs-lecture-no-difference-hcp.md) [+W]
+- [Online training was more effective than written manuals for knowledge (SMD 0.99) but showed no difference for clinical behaviour, at very low evidence quality](../claims/online-vs-manual-knowledge-superior.md) [+W]
+- [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](../claims/online-vs-workshop-no-difference-hcp.md) [+W]
 
 ## Related Strategies
 
 - [Standardise outcome measurements and isolate individual instructional design features in future research](standardise-outcomes-isolate-features-research.md)
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
+- [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
 
 ## Examples
 -

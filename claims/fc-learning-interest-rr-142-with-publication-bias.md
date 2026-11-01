@@ -56,4 +56,3 @@ Fixed-effects meta-analysis of 10 studies (low heterogeneity, I2 = 13.7%) compar
 - [Flipped classrooms are associated with improved case analysis/problem-solving ability in medical education (pooled SMD = 1.50), though statistical significance was not retained in all leave-one-out analyses](flipped-classroom-case-analysis-problem-solving.md) — related
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
 - [Simulation-based learning stimulates greater interest in learning than non-simulation-based learning in endocrinology education](sbl-greater-learning-interest-endocrinology.md) — related
-- [No evidence of publication bias in the flipped classroom meta-analysis](no-publication-bias-flipped-classroom-meta-analysis.md)

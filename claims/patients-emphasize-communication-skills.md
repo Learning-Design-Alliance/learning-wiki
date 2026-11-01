@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: steiner-hofbauer-verena-2017
     resource: "https://doi.org/10.1007/s10354-017-0597-8"
@@ -15,9 +17,15 @@ sources:
     author: Steiner-Hofbauer Verena, Schrank Beate, Holzinger Anita
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Patient-satisfaction questionnaires focus strongly on communication skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Of 48 items extracted from patient questionnaires, 24 matched the category communication and patient involvement, leading the authors to conclude that communicative competences are clearly in focus of patient satisfaction questionnaires. [→ Steiner-Hofbauer Verena 2017](#steiner-hofbauer-verena-2017)
@@ -28,7 +36,7 @@ sources:
 
 Steiner-Hofbauer Verena, Schrank Beate, Holzinger Anita. (2017). What is a good doctor? Wiener Medizinische Wochenschrift. https://doi.org/10.1007/s10354-017-0597-8
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Item-level extraction from the patient questionnaires among the 20 included sources. The review reports 24 of 48 patient-questionnaire items matched communication and patient involvement, with general interpersonal qualities and medical competence each mentioned "8 times", ethics 7 times, and medical management once.
 
@@ -40,3 +48,5 @@ Item-level extraction from the patient questionnaires among the 20 included sour
 ## Related Claims
 
 - [General interpersonal qualities and communication are the most frequently mentioned good-doctor attributes across 20 studies](interpersonal-communication-most-mentioned-good-doctor.md)
+- [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md) — related
+- [Doctors rate medical competence and ethics most important and never rank communication first](doctors-rate-competence-ethics-highest.md) — related

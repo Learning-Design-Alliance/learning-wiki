@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (19 for, 22 mixed, 2 against) · 36 studies (5 causal, 5 review, 5 associational, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 3 of 36 report an effect size · 42 claims rest on one study
+> **Evidence** · 43 claims (19 for, 22 mixed, 2 against) · 36 studies (7 quant-synthesis, 7 review, 5 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 3 of 36 report an effect size · 42 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.

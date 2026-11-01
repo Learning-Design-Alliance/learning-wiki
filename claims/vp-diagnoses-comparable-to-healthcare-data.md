@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: urresti-gundlach-m-2017
     resource: "https://doi.org/10.1186/s12909-017-1013-1"
@@ -15,9 +17,15 @@ sources:
     author: Urresti-Gundlach M., Tolks D., Kiessling C., Wagner-Menghin M., Härtl A., Hege I.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # VP diagnoses and disease onset are broadly comparable to German healthcare data
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The distribution of VP diagnoses by ICD-10 chapter and the acute/chronic onset of diseases closely match German healthcare statistics. [→ Urresti-Gundlach M. 2017](#urresti-gundlach-m-2017)
@@ -28,7 +36,7 @@ sources:
 
 Urresti-Gundlach M., Tolks D., Kiessling C., Wagner-Menghin M., Härtl A., Hege I. (2017). Do virtual patients prepare medical students for the real world? Development and application of a framework to compare a virtual patient collection with population data. BMC Medical Education. https://doi.org/10.1186/s12909-017-1013-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive comparison of 66 coded VPs against German healthcare system data. The article reports that "The VPs represented the reality closely in terms of frequency of diagnose categories, number of diagnoses, and onset of symptoms."
 
@@ -41,3 +49,4 @@ Descriptive comparison of 66 coded VPs against German healthcare system data. Th
 
 - [VP collection underrepresents disability, migration background, and unemployment relative to the German population](vp-collection-demographic-representativeness-gaps.md)
 - [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](vp-scenario-disease-diversity-gaps.md)
+- [VP collection may convey a hidden curriculum through unrepresentative demographics](vp-collection-hidden-curriculum.md) — related

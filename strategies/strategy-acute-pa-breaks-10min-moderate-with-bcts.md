@@ -56,6 +56,7 @@ The article's recommendation for educational practice is to embed single bouts o
 - [Include Physical Activity](include_physical_activity.md)
 - [Physical Activity & Recess](physical-activity-recess.md)
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
+- [Future physical activity intervention studies should report activity intensity and include physical fitness measures as objective indicators](report-pa-intensity-and-fitness-measures-in-interventions.md)
 
 ## Examples
 -

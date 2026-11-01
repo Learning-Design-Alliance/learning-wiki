@@ -50,3 +50,4 @@ Across the 51 included trials, 44 were conducted in high-income countries and 7 
 - [The BFLPE generalizes across countries, cultures, settings, and long-term follow-ups](bflpe-cross-cultural-generalizability.md) — related
 - [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
+- [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — possibly the same claim (merge candidate)

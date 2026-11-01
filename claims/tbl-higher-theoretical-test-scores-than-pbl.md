@@ -58,3 +58,7 @@ Meta-analysis of ten randomized controlled trials (944 participants reported for
 - [TBL and PBL show no significant difference in understanding skills, with a point estimate favoring TBL](tbl-pbl-no-difference-understanding-skills.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
 - [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related
+- [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related
+- [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](pbl-higher-theoretical-scores-chinese-radiology.md) — related
+- [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — related
+- [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](tbl-increases-theoretical-examination-scores-china.md) — related

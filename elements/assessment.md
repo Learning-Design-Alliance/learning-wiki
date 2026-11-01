@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (10 for, 6 mixed, 2 against) · 20 studies (6 review, 5 quant-synthesis, 4 causal, 4 design, 1 qualitative), `q1`–`q4` · 6 of 20 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 21 studies (7 review, 5 quant-synthesis, 4 causal, 4 design, 1 qualitative), `q1`–`q4` · 6 of 21 report an effect size · 17 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -69,6 +69,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](../claims/only-two-migs-tools-substantial-validity.md) [~W] — attached 2026-10-31 from Tesfai FM et al. (2024), which proposed "Inventory of 37 objective assessment tools for minimally invasive gynecological surgery".
 - [Only three bespoke rater-based assessment tools and one sensor-based method exist for assessing non-technical skills in robotic-assisted surgery](../claims/paucity-bespoke-nts-assessment-tools-ras.md) [~W]
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](../claims/greenhouse-scores-increase-with-training-level.md) [+W]
+- [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](../claims/few-high-quality-ebp-instruments-used.md) [~W] — attached 2026-11-01 from Albarqouni Loai et al. (2018), which proposed "Six high-quality EBP assessment instruments (Fresno Test, Berlin Questionnaire, ACE tool, Taylor et al., Utrecht questionnaire, MacRae et al.)".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: janssen-m-2014
     resource: "https://doi.org/10.1186/2193-1801-3-410"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Budde et al. (2008) found a significant difference in attention in favour of coordinative exercises compared to a normal PE lesson of the same intensity level. [→ Janssen M 2014](#janssen-m-2014)

@@ -57,3 +57,4 @@ The paper reports evaluations of parent education initiatives within ECD program
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
 - [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](evolutionary-theory-informs-teaching-methods.md) — related
+- [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](successful-intervention-features-multiple-strategies-parents-intensity.md) — related

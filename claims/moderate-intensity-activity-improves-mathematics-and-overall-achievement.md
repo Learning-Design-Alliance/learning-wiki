@@ -72,3 +72,4 @@ Subgroup analysis by intervention intensity for overall academic achievement. Th
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [Interference inhibition correlates more strongly with mathematical ability than response inhibition](interference-inhibition-stronger-than-response-inhibition-math.md) — related
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
+- [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related

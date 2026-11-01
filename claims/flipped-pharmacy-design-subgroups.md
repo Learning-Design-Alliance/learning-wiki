@@ -46,3 +46,4 @@ Subgroup meta-analysis by research design (Table 3). Printed effect sizes: histo
 
 ## Related Claims
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](flipped-classroom-effect-similar-rct-observational.md) — related
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](flipped-effect-robust-to-design-and-equivalence-controls.md) — reports the opposite

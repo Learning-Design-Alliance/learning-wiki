@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (27 for, 19 mixed) · 34 studies (12 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 34 report an effect size · 44 claims rest on one study
+> **Evidence** · 45 claims (27 for, 18 mixed) · 34 studies (14 quant-synthesis, 7 review, 6 associational, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 34 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -148,9 +148,8 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Blended learning shows a positive effect on teaching introductory programming and is perceived to support learning](../claims/blended-learning-positive-effect-intro-programming.md) [+W]
 - [Blended WhatsApp-plus-lecture conditions produced significantly higher knowledge outcomes than lectures alone, with no difference between two blended configurations](../claims/blended-whatsapp-lectures-higher-than-lectures-alone.md) [+W]
 - [CAI within a blended learning strategy outperforms face-to-face teaching alone for ECG competence acquisition](../claims/blended-cai-beats-face-to-face-ecg.md) [+W]
-- [Students' course performance was the most utilized evaluation criterion for blended programming approaches](../claims/course-performance-top-evaluation-criterion.md) [~W]
 - [The supplemental model risks students skipping online work and course overload](../claims/supplemental-model-challenges.md) [~W]
-- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-smd-060.md) [+W]
+- [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-mixed.md) [+W]
 
 ## Examples
 

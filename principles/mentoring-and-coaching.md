@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (35 for, 29 mixed, 7 against) · 54 studies (12 causal, 12 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 54 report an effect size · 67 claims rest on one study
+> **Evidence** · 71 claims (35 for, 29 mixed, 7 against) · 54 studies (13 review, 12 causal, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 54 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 

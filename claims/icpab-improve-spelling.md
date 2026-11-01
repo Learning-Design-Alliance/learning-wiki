@@ -51,3 +51,5 @@ Meta-analysis of a single study (Egger et al., two intervention arms, n = 188 st
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
+- [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md) — related

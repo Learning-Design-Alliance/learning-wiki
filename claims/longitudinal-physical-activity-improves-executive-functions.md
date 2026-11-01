@@ -57,3 +57,4 @@ Meta-analysis pooling 12 longitudinal physical activity program studies in child
 - [Systematic reviews on regular physical activity and children's cognition reach conflicting conclusions, with math performance the most consistent beneficiary](pa-cognition-evidence-inconclusive-except-math.md) — related
 - [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](pa-interventions-no-overall-benefit-ef-achievement.md) — reports the opposite
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — related
+- [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — related

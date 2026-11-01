@@ -49,3 +49,4 @@ Meta-analysis (generic inverse variance in RevMan 5.4) of three studies reportin
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — related
+- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related

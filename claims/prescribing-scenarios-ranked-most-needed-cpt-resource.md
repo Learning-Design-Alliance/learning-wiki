@@ -50,3 +50,4 @@ Nominal group technique study in which 20 CPT teachers from 15 countries propose
 - [Existing digital prescribing-education resources are largely restricted to local universities and unknown to teachers elsewhere, showing little collaboration among CPT educators](cpt-resources-locally-restricted-little-collaboration.md) — related
 - [Teachers' proposed prescribing-education resources organize into ten prioritized themes under three overarching themes: learning outcomes, format of teaching, and resource and faculty development](ten-themes-three-overarching-cpt-resource-needs.md) — related
 - [Teach-the-teacher materials on problem-based learning were the top-ranked suggestion in the first nominal group meeting](teach-the-teacher-top-ranked-first-meeting.md) — related
+- [There is no clear consensus among CPT teachers on which prescribing competencies medical students should have when they graduate](no-consensus-cpt-teachers-prescribing-competencies.md) — related

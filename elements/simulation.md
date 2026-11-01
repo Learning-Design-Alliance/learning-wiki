@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 212 claims (117 for, 81 mixed, 14 against) · 143 studies (67 review, 27 quant-synthesis, 17 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 27 of 143 report an effect size · 202 claims rest on one study
+> **Evidence** · 211 claims (117 for, 80 mixed, 14 against) · 143 studies (74 review, 34 quant-synthesis, 17 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 27 of 143 report an effect size · 201 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -263,7 +263,6 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Voice advisory mannequin training produces better CPR skill acquisition than other training resources among health science students, though not in every comparison](../claims/vam-training-better-cpr-skills-health-students.md) [~W]
 - [A randomised controlled trial reported within the review found virtual reality training was comparable to wet-lab training for residents' first capsulorhexis in the operating room.](../claims/virtual-reality-training-comparable-to-wet-lab-capsulorhexis.md) [+W]
 - [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](../claims/vr-surgery-training-improves-knowledge-self-confidence.md) [+W]
-- [Evaluations of palliative/EOL communication SBLEs cluster at low Kirkpatrick levels, with no level 4 (RESULTS) evaluations reported](../claims/sble-evaluations-low-kirkpatrick-levels.md) [~W]
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](../claims/hf-vs-traditional-skill-knowledge-benefit.md) [+W]
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W]
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](../claims/hf-simulation-retention-controversial.md) [~W]

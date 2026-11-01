@@ -70,3 +70,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — related
+- [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related

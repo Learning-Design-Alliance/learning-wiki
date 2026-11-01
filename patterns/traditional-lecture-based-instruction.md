@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (17 for, 26 mixed, 27 against) · 63 studies (16 quant-synthesis, 15 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 12 of 63 report an effect size · 62 claims rest on one study
+> **Evidence** · 70 claims (17 for, 26 mixed, 27 against) · 63 studies (22 quant-synthesis, 16 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 12 of 63 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -177,7 +177,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
 - [A one-hour web-based e-learning program was equally efficient as a one-hour traditional classroom lecture for USG-PVC training](../claims/elearning-equally-efficient-classroom-usg-pvc.md) [~W]
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](../claims/pbl-comprehensive-question-scores-smd-053.md) [+W]
-- [Active learning reduces achievement gaps in examination scores between students from minoritized groups and their peers by 33% on average across STEM courses](../claims/active-learning-reduces-exam-score-achievement-gaps.md) [+W]
+- [Active learning reduces achievement gaps in examination scores between students from minoritized groups and their peers by 33% on average across STEM courses](../claims/active-learning-reduces-exam-achievement-gaps-33-percent.md) [+W]
 - [Online training shows no difference from taught lectures for knowledge or practical skills in licensed health professionals, at very low evidence quality](../claims/online-vs-lecture-no-difference-hcp.md) [+W]
 - [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](../claims/pbl-lbl-hybrid-better-record-writing-scores.md) [~W]
 - [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](../claims/tbl-increases-learning-attitude.md) [-W]

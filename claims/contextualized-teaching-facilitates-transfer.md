@@ -109,3 +109,5 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](remote-ar-training-cloud-5g-skill-gains.md) — related
 - [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](gamification-negative-transfer-risk.md) — related
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](steep-learning-curve-usg-pvc-nurses-attempts.md) — related
+- [The framework adapts Benner's novice-to-expert model because UK nurses now enter practice at degree level with baseline clinical competencies already attained](benner-model-adapted-degree-entry-nurses.md) — related
+- [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](hf-simulation-transfer-untested.md) — related

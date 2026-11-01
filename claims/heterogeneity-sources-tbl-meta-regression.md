@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: chen-minjian-2018
     resource: "https://doi.org/10.1186/s12909-018-1179-1"
@@ -15,9 +16,15 @@ sources:
     author: Chen Minjian, Ni Chunhui, Hu Yanhui, Wang Meilin, Liu Lu, Ji Xiaoming, Chu Haiyan, Wu Wei, Lu Chuncheng, Wang Shouyu, Wang Shoulin, Zhao Liping, Li Zhong, Zhu Huijuan, Wang Jianming, Xia Yankai, Wang Xinru
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-regression identified randomization (P = 0.021) and source of participants (P = 0.041) as significant contributors to heterogeneity, with education classification (P = 0.073) and gender (P = 0.059) contributing within subgroups. [→ Chen Minjian 2018](#chen-minjian-2018)
@@ -28,7 +35,7 @@ sources:
 
 Chen Minjian, Ni Chunhui, Hu Yanhui, Wang Meilin, Liu Lu, Ji Xiaoming, Chu Haiyan, Wu Wei, Lu Chuncheng, Wang Shouyu, Wang Shoulin, Zhao Liping, Li Zhong, Zhu Huijuan, Wang Jianming, Xia Yankai, Wang Xinru. (2018). Meta-analysis on the effectiveness of team-based learning on medical education in China. BMC Medical Education. https://doi.org/10.1186/s12909-018-1179-1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-regression based on restricted maximum likelihood across the 13 studies explored heterogeneity sources. Randomization reached significance (P = 0.021), source of participants P = 0.041, while quality score (P = 0.975) and student number (P = 0.550) did not explain heterogeneity.
 
@@ -38,4 +45,6 @@ Meta-regression based on restricted maximum likelihood across the 13 studies exp
 
 
 ## Related Claims
--
+- [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — reports the opposite
+- [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related
+- [Student expertise level and course type explain heterogeneity in PBL+LBL versus LBL effects](expertise-and-course-type-heterogeneity-pbl-lbl.md) — related

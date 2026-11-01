@@ -51,3 +51,4 @@ Single-group pretest–posttest study of 87 undergraduates in two sections of an
 - [Gains in source evaluation held regardless of the order in which students took the two assessment forms](gains-robust-to-test-form-order.md) — possibly the same claim (merge candidate)
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related

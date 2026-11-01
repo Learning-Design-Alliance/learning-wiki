@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: tudor-car-lorainne-2019
     resource: "https://doi.org/10.1186/s12916-019-1370-1"
@@ -15,15 +16,23 @@ sources:
     author: Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi, Majeed Azeem
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: tudor-car-lorainne-2019-2
     resource: "https://doi.org/10.1186/s12916-019-1370-1"
     title: "Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi, Majeed Azeem. (2019). Health professions digital education on clinical practice guidelines: a systematic review by Digital Health Education collaboration. BMC Medicine. https://doi.org/10.1186/s12916-019-1370-1"
     author: Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi, Majeed Azeem
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of three studies measuring knowledge comparing more to less interactive digital education, only the spaced education game favoured the more interactive form (SMD 0.81, 95% CI 0.43–1.20). [→ Tudor Car Lorainne 2019](#tudor-car-lorainne-2019)
@@ -35,7 +44,7 @@ sources:
 
 Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi, Majeed Azeem. (2019). Health professions digital education on clinical practice guidelines: a systematic review by Digital Health Education collaboration. BMC Medicine. https://doi.org/10.1186/s12916-019-1370-1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Narrative synthesis of five RCTs comparing more to less interactive digital education. Four used online modules with feedback; only the spaced education game favoured the more interactive form. Most comparisons showed no statistically significant difference.
 
@@ -45,7 +54,7 @@ Narrative synthesis of five RCTs comparing more to less interactive digital educ
 
 Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi, Majeed Azeem. (2019). Health professions digital education on clinical practice guidelines: a systematic review by Digital Health Education collaboration. BMC Medicine. https://doi.org/10.1186/s12916-019-1370-1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 The review's discussion reports that studies of websites and online modules had high attrition, participants found a feedback module too time-demanding, and in some studies much of the provided material was never accessed; more interactive interventions showed lower attrition and higher engagement.
 
@@ -57,3 +66,6 @@ The review's discussion reports that studies of websites and online modules had 
 ## Related Claims
 
 - [Email-delivered spaced education is the only intervention type shown to improve both clinician behaviour and patient outcomes for guideline adoption](spaced-education-improves-behaviour-and-patient-outcomes.md)
+- [Digital education on clinical practice guidelines produces little or no change in healthcare professionals' behaviour, except email-delivered spaced education](digital-education-guidelines-behaviour-null-except-spaced.md) — related
+- [Digital education on clinical practice guidelines improves healthcare professionals' knowledge more than no intervention (pooled SMD 0.85)](digital-education-guidelines-knowledge-vs-no-intervention.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related

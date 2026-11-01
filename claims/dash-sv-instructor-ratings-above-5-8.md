@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: jeffers-2019
     resource: "https://doi.org/10.1186/s12909-018-1417-6"
@@ -15,9 +16,15 @@ sources:
     author: "Jeffers, J. M., & Poling, S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Learner DASH-SV ratings of instructor debriefing were high, with mean scores above 5.8/7 across all six elements and element three lowest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 21 quarterly learner DASH-SV evaluations, mean scores for all six elements were above 5.8 (maximum of seven); element three (structured the debriefing in an organized way) scored lowest at 5.8 (SD = 0.89), and elements two and six scored the maximum of seven. [→ Jeffers 2019](#jeffers-2019)
@@ -28,7 +35,7 @@ sources:
 
 Jeffers, J. M., & Poling, S. (2019). The development and implementation of a 12-month simulation-based learning curriculum for pediatric emergency medicine fellows utilizing debriefing with good judgment and rapid cycle deliberate practice. BMC Medical Education. https://doi.org/10.1186/s12909-018-1417-6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Instructor performance was evaluated via learner-completed DASH-SV forms collected quarterly for a total of 21 evaluations, consistent with attendance rates. The article reports "Mean scores for all six elements were above 5.8 (maximum of seven)"; these are descriptive means with no inferential test.
 

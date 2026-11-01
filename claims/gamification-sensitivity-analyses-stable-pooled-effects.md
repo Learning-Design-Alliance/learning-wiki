@@ -50,3 +50,5 @@ Sensitivity analyses accompanying the review's meta-analyses: exclusion of the t
 - Research on gamification in higher education is predominantly quantitative, English-language and review-scarce — related
 - [Clinical analysis skills effect size is unstable and sensitive to two studies, dropping to d = 0.50 after their exclusion](clinical-analysis-skills-effect-unstable-sensitive-to-two-studies.md) — related
 - [Removing high-risk-of-bias studies does not materially change the pooled accuracy estimate](sensitivity-analysis-robust-high-risk-exclusion.md) — possibly the same claim (merge candidate)
+- [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related

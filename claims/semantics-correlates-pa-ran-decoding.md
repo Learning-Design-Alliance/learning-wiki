@@ -57,3 +57,4 @@ Pearson correlations among standardized measures in the n = 55 dyslexia sample (
 - [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
 - [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
 - [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](op-imageability-unique-predictors-of-gains.md) — related
+- [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related

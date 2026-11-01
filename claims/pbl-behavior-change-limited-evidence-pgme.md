@@ -52,3 +52,4 @@ Synthesis of three studies assessing subjective behavior change. Holmes et al. f
 - [PBL is associated with improved self-reported behavioural outcomes in PGME residents](pbl-improves-self-reported-behaviours.md) — reports the opposite
 - Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — related
 - [RCTs report objective behavioral changes after simulation training, including increased peer referral, longer crisis-line calls, and improved management of suicidal crises](simulation-behavior-changes-rcts-suicide.md) — related
+- [Educational interventions for FM residents targeting the informal curriculum rarely produced behavior change: most were evaluated only at Kirkpatrick level 2 and study quality was low](informal-curriculum-interventions-low-kirkpatrick-quality.md) — related

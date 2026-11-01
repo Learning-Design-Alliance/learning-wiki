@@ -57,6 +57,7 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 - [Engage target learners to identify needs before designing XR educational tools](engage-learners-before-xr-tool-design.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
+- [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 
 ## Examples
 -

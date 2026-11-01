@@ -91,3 +91,4 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — a narrower finding that bears on this claim
 - [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](academic-emotion-intervention-pooled-effect-emotion.md) — related
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
+- [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related

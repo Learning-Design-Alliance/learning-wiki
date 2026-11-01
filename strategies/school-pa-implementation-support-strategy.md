@@ -16,6 +16,9 @@ sources:
 
 # Support teachers and schools to increase physical activity through training, practical guidance, and intersectoral policy approaches
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+
 ## Description
 The review's implications-for-practice section recommends multi-level action to raise children's physical activity. It states "teachers may need to be supported to apply innovative approaches and strategies to increase PA levels", including training on PA's effects, practical implementation guidance, involvement of students and parents, qualified PE professional support, adequate open spaces and materials, and partnerships with sports and community organisations. National and local governments are encouraged to design intersectoral approaches across health, sports and education sectors.
 
@@ -35,9 +38,16 @@ The review's implications-for-practice section recommends multi-level action to 
 - academic achievement
 - physical health and activity levels
 
+## Claims
+
+- [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](../claims/chronic-pa-medium-acute-pa-null-effect.md) [+W]
+- [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](../claims/pa-null-or-small-medium-effect-academic-achievement.md) [+W]
+- [Increasing school physical education time shows small-to-medium effects on achievement while active classrooms show mixed effects compared with traditional sedentary classrooms](../claims/pe-time-small-medium-active-classrooms-mixed.md) [+W]
+
 ## Related Strategies
 
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
+- [Future research should establish causality of the PA-academic achievement relationship with high-quality RCTs, standardised outcome measures, and attention to moderators](pa-aa-future-research-priorities.md)
 
 ## Examples
 -

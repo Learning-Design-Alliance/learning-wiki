@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: martin-a-2017
     resource: "https://doi.org/10.1007/s13679-017-0272-9"
@@ -15,9 +17,15 @@ sources:
     author: Martin A, Booth JN, McGeown S, Niven A, Sproule J, Saunders DH, Reilly JJ
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weight-related bullying and teacher-rated interpersonal skills significantly mediated the association between weight status and later academic achievement in girls. [→ Martin A 2017](#martin-a-2017)
@@ -29,7 +37,7 @@ sources:
 
 Martin A, Booth JN, McGeown S, Niven A, Sproule J, Saunders DH, Reilly JJ. (2017). Longitudinal Associations Between Childhood Obesity and Academic Achievement: Systematic Review with Focus Group Data. Current Obesity Reports, 6(3), 297–313. https://doi.org/10.1007/s13679-017-0272-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review of six studies performing mediation analysis. "Psychosocial distress in the form of being bullied and teacher-rated interpersonal skills had significant mediating effects" in girls aged 11–12 years. Manes (2015) found executive functioning and concentration mediated the association, but Booth et al. (2014) found no mediating role of full-scale IQ.
 
@@ -38,8 +46,17 @@ Review of six studies performing mediation analysis. "Psychosocial distress in t
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md)
 - [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](obesity-associated-lower-maths-adolescent-girls.md)
 - [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](weight-teasing-pe-adolescent-girls-obesity.md)
+- [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md) — related
+- [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
+- [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
+- [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related

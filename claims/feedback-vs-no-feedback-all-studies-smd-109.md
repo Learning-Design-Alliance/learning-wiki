@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: johnson-christina-elizabeth-2020
     resource: "https://doi.org/10.1136/bmjopen-2019-030672"
@@ -15,9 +16,15 @@ sources:
     author: Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L.
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Across all 11 included trials, verbal face-to-face feedback versus no feedback yielded a pooled SMD of 1.09 before excluding high-risk-of-bias studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The meta-analysis of all 13 comparisons from 11 studies (488 participants) found SMD 1.09 (95% CI 0.59 to 1.59; p<0.001) favouring feedback. [→ Johnson Christina Elizabeth 2020](#johnson-christina-elizabeth-2020)
@@ -28,7 +35,7 @@ sources:
 
 Johnson Christina Elizabeth, Weerasuria Mihiri P, Keating Jennifer L. (2020). Effect of face-to-face verbal feedback compared with no or alternative feedback on the objective workplace task performance of health professionals: a systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2019-030672
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Primary random-effects meta-analysis pooling 13 comparisons from 11 studies involving 488 participants; the review reports "an SMD of 1.09 (95% CI 0.59 to 1.59; p<0. 001)" favouring feedback. Control numbers were halved in two studies to retain sample independence.
 

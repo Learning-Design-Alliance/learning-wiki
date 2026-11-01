@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: ali-alammary-2019
     resource: "https://doi.org/10.1371/journal.pone.0221765"
@@ -15,9 +16,15 @@ sources:
     author: Ali Alammary
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-year students' attitudes toward online learning can raise challenges when applying the flipped, flex, and online-practicing models, which rely heavily on online activities. [→ Ali Alammary 2019](#ali-alammary-2019)
@@ -28,7 +35,7 @@ sources:
 
 Ali Alammary. (2019). Blended learning models for introductory programming courses: A systematic review. PLoS ONE. https://doi.org/10.1371/journal.pone.0221765
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review discussion drawing on included studies: Davenport found students wanted short weekly lectures, and Zampirolli and Goya observed that "freshmen students performed poorly in online activities" under the flex model.
 
@@ -40,3 +47,5 @@ Review discussion drawing on included studies: Davenport found students wanted s
 ## Related Claims
 
 - [The mixed model shows the most potential for improving novice programmers' performance](mixed-model-most-potential-performance.md)
+- [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related
+- [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related

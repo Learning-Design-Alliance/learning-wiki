@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: urresti-gundlach-m-2017
     resource: "https://doi.org/10.1186/s12909-017-1013-1"
@@ -15,9 +16,15 @@ sources:
     author: Urresti-Gundlach M., Tolks D., Kiessling C., Wagner-Menghin M., Härtl A., Hege I.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 10% of VP patients were not addressed with a name and more than 40% were not represented with an image or video. [→ Urresti-Gundlach M. 2017](#urresti-gundlach-m-2017)
@@ -28,7 +35,7 @@ sources:
 
 Urresti-Gundlach M., Tolks D., Kiessling C., Wagner-Menghin M., Härtl A., Hege I. (2017). Do virtual patients prepare medical students for the real world? Development and application of a framework to compare a virtual patient collection with population data. BMC Medical Education. https://doi.org/10.1186/s12909-017-1013-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive coding of patient representation across 66 VPs. The article reports that "More than 10% of the patients in the VP scenarios were not addressed with a name and more than 40% were not represented with an image or video."
 
@@ -38,4 +45,4 @@ Descriptive coding of patient representation across 66 VPs. The article reports 
 
 
 ## Related Claims
--
+- [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related

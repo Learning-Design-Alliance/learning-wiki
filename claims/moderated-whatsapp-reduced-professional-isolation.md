@@ -52,3 +52,4 @@ Same quasi-experimental survey study (n = 114) with 6-month WhatsApp interventio
 - [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](general-whatsapp-use-socio-professional-connections.md) — related
 - [Moderated WhatsApp groups increased professional knowledge among newly graduated nurses relative to an untreated control group](moderated-whatsapp-groups-higher-knowledge-nurses.md) — related
 - [WhatsApp use during clinical placements was positively associated with professional identity and placement satisfaction but negatively associated with feelings of professional isolation](whatsapp-placement-correlates.md) — related
+- [In the one controlled pre/post comparison, WhatsApp learning and didactic lectures both improved knowledge but did not differ between groups](whatsapp-versus-lectures-no-between-group-difference.md) — related

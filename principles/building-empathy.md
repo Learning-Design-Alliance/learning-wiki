@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (16 for, 4 mixed) · 30 studies (10 causal, 8 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 30 studies (10 causal, 8 quant-synthesis, 7 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 

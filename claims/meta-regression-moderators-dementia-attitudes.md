@@ -50,3 +50,4 @@ Meta-regression across the 13 included studies. The review also reports interdis
 - [Female percentage and mean age significantly moderate the ER difficulties–burnout association; study quality does not](female-percentage-age-moderate-er-burnout.md) — related
 - [Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples](majority-female-samples-smaller-5e-science-effects.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
+- [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md) — related

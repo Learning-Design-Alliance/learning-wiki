@@ -100,3 +100,4 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — possibly the same claim (merge candidate)
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — a narrower finding that bears on this claim
+- [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — related

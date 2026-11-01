@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 254 claims (114 for, 128 mixed, 12 against) · 188 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 188 report an effect size · 238 claims rest on one study
+> **Evidence** · 255 claims (114 for, 129 mixed, 12 against) · 188 studies (60 associational, 50 causal, 28 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 188 report an effect size · 239 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -301,6 +301,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
 - [Clinical students' SRL behaviour falls into five distinct patterns, all showing little-planned SRL behaviour and limited goal setting](../claims/five-patterns-clinical-srl-behavior.md) [~W]
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [~W]
+- [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W] — attached 2026-11-01 from van Houten‐Schat Maaike A et al. (2018), which proposed "Cyclical three-phase SRL models (Zimmerman, Knowles, Pintrich) frame SRL as goal setting, plan implementation and self-evaluation, but stem from classroom research".
 
 ## The evidence by question
 

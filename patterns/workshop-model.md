@@ -16,7 +16,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 30 studies (9 quant-synthesis, 8 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 30 studies (10 quant-synthesis, 8 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

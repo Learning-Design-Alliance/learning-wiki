@@ -3,14 +3,14 @@ type: claim
 title: Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)
 description: Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)
 id: vp-blended-knowledge-advantage
-aliases: [vp-blended-knowledge-moderate-effect]
+aliases: [vp-blended-knowledge-moderate-effect, vp-blended-knowledge-smd-073]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-18
+source_checked: 2026-11-01
 sources:
   - id: kononowicz-aa-2019
     resource: "https://doi.org/10.2196/14676"
@@ -20,19 +20,29 @@ sources:
     i: 2
     kind: quant-synthesis
     rigour: 2
+  - id: kononowicz-a-a-2019
+    resource: "https://doi.org/10.2196/preprints.14676"
+    title: "Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/preprints.14676"
+    author: Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
+    q: 3
+    i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
 `q3 i2` Adding virtual patients as a supplement to traditional education yields moderate knowledge benefits over traditional education alone (SMD=0.73, 95% CI 0.24 to 1.22). [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 `q3 i2` Adding virtual patients as a supplement to traditional education yields better knowledge outcomes than traditional education alone (SMD=0.73, 95% CI 0.24 to 1.22). [→ Kononowicz AA 2019](#kononowicz-aa-2019)
+
+`q3 i2` Adding virtual patients as a supplement to traditional education produces moderate knowledge gains versus traditional education alone (SMD=0.73, 95% CI 0.24 to 1.22). [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 ## Evidence
 
@@ -47,6 +57,18 @@ Random-effects meta-analysis of 5 studies comparing virtual patient blended lear
 > "The pooled effect for knowledge outcomes (SMD=0.73, 95% CI 0.24 to 1.22, I2=81%, n=439; Figure 3) suggests moderate effects preferring the mix of virtual patients with traditional education over traditional education alone."
 
 <!-- merged: same study as Kononowicz AA 2019 (preprint DOI)
+
+<!-- merged 2026-11-01 from vp-blended-knowledge-smd-073: that page's entry for this study, which differed from the one above, kept verbatim.
+### Kononowicz AA 2019
+
+Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
+
+`q3 · i2`
+
+Random-effects meta-analysis of 5 studies comparing virtual patient blended learning with traditional education for knowledge; in 4 of 5 studies the group with the additional resource scored better. High heterogeneity (I2=81%), small pooled sample (n=439).
+
+> "The pooled effect for knowledge outcomes (SMD=0.73, 95% CI 0.24 to 1.22, I2=81%, n=439; Figure 3) suggests moderate effects preferring the mix of virtual patients with traditional education over traditional education alone."
+-->
 ### Kononowicz A A 2019
 
 Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/preprints.14676
@@ -76,3 +98,4 @@ Random-effects meta-analysis of 5 studies comparing virtual patient blended lear
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
+- [Distributed CAI instruction beats face-to-face teaching, but only when CAI is part of blended learning](distributed-cai-benefit-only-blended.md) — related

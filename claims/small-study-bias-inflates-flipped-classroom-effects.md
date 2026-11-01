@@ -79,4 +79,3 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 - No evidence of publication bias in the SDL meta-analysis — related
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](flipped-classroom-publication-bias-knowledge-outcomes.md) — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related
-- [No evidence of publication bias in the flipped classroom meta-analysis](no-publication-bias-flipped-classroom-meta-analysis.md)

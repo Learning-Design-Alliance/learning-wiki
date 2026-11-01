@@ -16,6 +16,9 @@ sources:
 
 # Implement school-wide policy action to address weight-based teasing and bullying
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The review recommends that "school-wide policy action is needed to address weight-based teasing/bullying", given evidence that weight-related bullying may mediate the association between obesity and lower academic achievement in adolescent girls. This strategy targets the psychosocial pathway linking obesity to educational outcomes by reducing stigma and distress in the school environment. It complements efforts to promote positive PE experiences and psychosocial wellbeing.
 
@@ -34,10 +37,16 @@ The review recommends that "school-wide policy action is needed to address weigh
 - psychosocial wellbeing
 - academic achievement
 
+## Claims
+
+- [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](../claims/psychosocial-executive-mediation-obesity-achievement.md) [+W]
+- [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [+W]
+
 ## Related Strategies
 
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
 - [Peer Mediation](peer-mediation.md)
+- [Two-step intervention: first decrease victimisation and build motivational factors, then increase achievement and engagement](two-step-bullying-motivation-intervention-strategy.md)
 
 ## Examples
 -

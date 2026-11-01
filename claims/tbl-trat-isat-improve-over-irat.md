@@ -59,3 +59,4 @@ Discussion of performance results: the authors state the tRAT gain is expected b
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](trat-same-mcqs-immediate-feedback-ifat.md) — related
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — related
+- [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — related

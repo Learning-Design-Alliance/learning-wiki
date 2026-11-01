@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (20 for, 15 mixed, 3 against) · 26 studies (8 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 37 claims rest on one study
+> **Evidence** · 38 claims (20 for, 15 mixed, 3 against) · 26 studies (8 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 37 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.

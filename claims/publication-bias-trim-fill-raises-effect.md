@@ -62,4 +62,4 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — related
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
-- [Funnel plots of all three outcome scores were generally symmetrical, suggesting low publication bias](funnel-plots-low-publication-bias-pbl-pediatrics.md)
+- [Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback](feedback-funnel-plot-publication-bias.md) — related

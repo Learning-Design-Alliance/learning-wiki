@@ -16,6 +16,9 @@ sources:
 
 # Incorporate role modeling, time for reflection, and social small-group strategies into undergraduate EBP curricula
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review identifies common elements influential to undergraduate EBP success: the impact of role modeling on EBP behavior was acknowledged in three studies, and facilitators who support students in demonstrating how academic EBP knowledge is used in clinical contexts have a critical role. The review also reports that students need time for reflection to assimilate knowledge into practice and develop positive EBP attitudes, and that social and environmental influences were noted in studies using small groups and strategies for sharing evidence.
 
@@ -36,6 +39,7 @@ The review identifies common elements influential to undergraduate EBP success: 
 ## Related Strategies
 
 - [Incorporate reflection-promoting activities into health professions curricula at all educational levels](incorporate-reflection-activities-health-curricula.md)
+- [Reflection Exercises](reflection_exercises.md)
 
 ## Examples
 -

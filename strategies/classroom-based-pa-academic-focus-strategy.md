@@ -16,6 +16,9 @@ sources:
 
 # Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
+
 ## Description
 Classroom-based physical activity is an approach of providing physical activity opportunities to students during the school day, distinct from physical education classes and break times. The review notes it "may involve the integration of PA into academic lessons or may include incorporating PA into the regular classroom routine without an academic focus". The review reports preliminary evidence that classroom-based PA, particularly with an academic focus, may positively impact academic performance and overall physical activity levels, while noting research in this area is still in its infancy with inconsistent findings.
 
@@ -39,6 +42,7 @@ Classroom-based physical activity is an approach of providing physical activity 
 ## Claims
 
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- [Preliminary evidence from a small number of experimental studies suggests motor skill interventions in primary school settings may positively impact mathematics and/or reading performance](../claims/motor-skill-interventions-preliminary-academic-impact.md) [+W]
 
 ## Related Strategies
 

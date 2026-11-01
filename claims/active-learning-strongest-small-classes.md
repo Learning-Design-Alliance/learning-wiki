@@ -52,3 +52,4 @@ Moderator analysis of examination-score effect sizes by binned class size (small
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — possibly the same claim (merge candidate)
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [SEM effectiveness is greatest in small class sizes and non-significant in large classes](sem-class-size-moderator.md) — related
+- [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed, while active-learning type showed significant heterogeneity the authors urge caution in interpreting](moderators-class-size-level-discipline-null-ipd.md) — reports the opposite

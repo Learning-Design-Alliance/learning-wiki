@@ -16,6 +16,9 @@ sources:
 
 # Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
 ## Description
 Drawing on Surr et al.'s list of key features for effective dementia care training programs, the review states that some features may be applied in e-learning programs: 'tailored-made materials developed by a professional, the activities or tasks are realistic and based on experience, or use of different teaching methods'. This gives an implementable design recipe for dementia caregiver e-learning courses. The review also notes e-learning courses should aim to meet the learner's needs to be effective.
 
@@ -45,6 +48,7 @@ Drawing on Surr et al.'s list of key features for effective dementia care traini
 - [Provide learners with a structured tool or guideline to guide care practice after dementia education](structured-tool-guideline-dementia-care-practice.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Simulation Based Training](simulation-based-training.md)
+- [Provide professional training to informal caregivers in the technology when implementing e-learning support](professional-training-informal-caregivers-e-learning.md)
 
 ## Examples
 -

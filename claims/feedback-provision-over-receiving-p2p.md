@@ -50,3 +50,4 @@ Review finding on the learning assessment and feedback provision category, menti
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
 - P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
 - The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching — related
+- [Teaching quality of physical examination is determined by teacher qualification, content quality, and learning environment](teaching-quality-determined-by-teacher-content-environment.md) — related

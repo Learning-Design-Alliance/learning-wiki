@@ -16,6 +16,9 @@ sources:
 
 # Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's authors issue forward-looking recommendations for the field. They call on occupational therapists "to continue to move beyond the limits established by information-processing models taken from other professions and to explore in more depth the unique and distinctive characteristics of professional reasoning in occupational therapy", noting only 18 papers addressed reasoning modalities and 25 addressed information processing. They further state that assessing the methodological quality and scientific evidence of existing studies is imperative, and that research should encompass more non-English-speaking countries to capture cultural and ethical particularities of professional reasoning.
 
@@ -35,7 +38,12 @@ The review's authors issue forward-looking recommendations for the field. They c
 - deepening understanding of information processing and reasoning modalities unique to occupational therapy
 
 ## Related Strategies
-- 
+
+- [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
+- [Future research should use broader question formats, non-English training data, and LLMs beyond ChatGPT](future-research-broader-questions-non-english-llms.md)
+- [Future research on special education class size should include rigorous quantitative designs and foreground the voices of children and young people with special needs](future-research-voices-of-children-special-education-class-size.md)
+- [Standardise outcome measurements and isolate individual instructional design features in future research](standardise-outcomes-isolate-features-research.md)
+- [Future ACS-cognition research should use standardized or objective ACS measures, characterize ACS dose, and control key confounders](future-acs-research-standardized-measures-confounders.md)
 
 ## Examples
 -

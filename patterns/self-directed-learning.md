@@ -15,7 +15,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 33 studies (9 quant-synthesis, 7 causal, 7 theoretical, 6 review, 2 associational), `q1`–`q4` · 8 of 33 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 33 studies (9 quant-synthesis, 8 review, 7 causal, 7 theoretical, 2 associational), `q1`–`q4` · 8 of 33 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 

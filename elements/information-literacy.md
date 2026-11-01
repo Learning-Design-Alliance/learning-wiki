@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (10 for, 10 mixed, 3 against) · 23 studies (8 causal, 5 qualitative, 3 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (10 for, 10 mixed, 3 against) · 23 studies (8 causal, 5 qualitative, 4 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 22 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.

@@ -59,3 +59,5 @@ Meta-analysis of 15 RCTs with 1237 students (619 TBL, 618 LBL) using a random-ef
 - [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a broader claim this one bears on
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — related
+- [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](tbl-increases-learning-skill.md) — related

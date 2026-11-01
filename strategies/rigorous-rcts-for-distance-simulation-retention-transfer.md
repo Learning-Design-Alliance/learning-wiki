@@ -54,6 +54,8 @@ Based on the evidence gaps it identifies, the review recommends that future work
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
+- [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
+- [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 
 ## Examples
 -

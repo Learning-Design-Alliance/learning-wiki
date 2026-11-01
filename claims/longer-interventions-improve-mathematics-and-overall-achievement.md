@@ -72,3 +72,5 @@ Subgroup analysis by intervention duration for overall academic achievement. The
 - [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](school-based-physical-activity-improves-overall-academic-achievement.md) — related
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md)
+- [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md) — related
+- [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related

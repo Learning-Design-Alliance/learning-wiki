@@ -50,3 +50,4 @@ Forest plot of the 19 coded studies (Figure 2), where box size reflects each stu
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — a broader claim this one bears on
 - [Most individual 7E effect sizes were positive, but three were negative, with effect sizes ranging from -.473 to 3.953](7e-effect-sizes-wide-range-three-negative.md) — related
 - [Effect sizes were positive in fourteen of the nineteen included studies and negative in five](web20-fourteen-positive-five-negative-studies.md) — related
+- [The likely effect of verbal feedback in any individual new study ranges widely, from a very small detrimental effect to a very large beneficial effect (prediction interval −0.06 to 1.46)](feedback-prediction-interval-wide-variability.md) — related

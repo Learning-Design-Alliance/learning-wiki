@@ -51,3 +51,5 @@ Meta-regression analysis across the ten included studies exploring sources of he
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related
 - [Student expertise level and course type explain heterogeneity in PBL+LBL versus LBL effects](expertise-and-course-type-heterogeneity-pbl-lbl.md)
+- [Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects](heterogeneity-sources-tbl-meta-regression.md) — related
+- [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md) — related

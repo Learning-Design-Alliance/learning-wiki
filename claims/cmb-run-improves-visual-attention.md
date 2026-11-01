@@ -58,3 +58,4 @@ Randomised controlled trial (Niedermeier et al., n = 51) of a 10 min run at 13�
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — related
 - [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
+- [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related

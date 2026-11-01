@@ -47,3 +47,4 @@ Frequency analysis of subjective tools across the 28 included studies. Six types
 ## Related Claims
 - [Objective metrics are used more frequently in simulated environments, while GRS and checklists are used with actual patients](context-preference-objective-simulated-subjective-patients.md) — related
 - [Completion time is the most common objective metric in arthroscopic skills training assessment, reported in 21 of 28 reviewed studies](completion-time-most-common-arthroscopic-objective-metric.md) — related
+- [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — a broader claim this one bears on

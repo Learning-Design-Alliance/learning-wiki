@@ -49,3 +49,4 @@ Across four studies of robotic LLND, progressive improvements were observed incl
 - [No learning curve inflection point was identified for open LLND](open-llnd-no-inflection-point.md) — related
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Overall complication rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-complications-no-experience-difference.md) — related
+- [Participation in the Veterans Affairs medical team training program was associated with a significant 17% decrease in annual surgical morbidity, while non-participating facilities showed a non-significant 6% decrease](mtt-reduced-surgical-morbidity.md) — related

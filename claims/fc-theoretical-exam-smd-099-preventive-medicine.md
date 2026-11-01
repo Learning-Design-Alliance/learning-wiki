@@ -61,3 +61,5 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — related
+- [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
+- [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related

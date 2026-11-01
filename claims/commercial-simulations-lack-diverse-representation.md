@@ -49,3 +49,4 @@ The review reports that "many commercial recorded simulations featuring young, p
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [No primary study or review in undergraduate nursing online simulation‐based learning defined or made explicit reference to the concept of inclusive pedagogy](no-studies-define-inclusive-pedagogy-online-nursing-simulation.md) — related
+- [VP patient representation lacks personalization: many patients unnamed, unimaged, and lacking social context](vp-patient-representation-depersonalization.md) — related

@@ -51,3 +51,4 @@ Leave-one-out sensitivity analysis re-estimating the productivity meta-analysis 
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
 - Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
+- [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related

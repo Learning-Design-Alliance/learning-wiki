@@ -39,6 +39,7 @@ The review's forward-looking recommendation is to fill the evidence gap from div
 ## Related Strategies
 
 - [Prioritize research on GenAI's impact on students with disabilities and design personalized teaching strategies for their needs](genai-research-students-with-disabilities.md)
+- [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
 
 ## Examples
 -

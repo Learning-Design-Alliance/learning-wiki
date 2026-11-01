@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: mak-van-der-vossen-m-2017
     resource: "https://doi.org/10.1186/s12909-017-0997-x"
@@ -15,9 +16,15 @@ sources:
     author: Mak-van der Vossen M, van Mook W, van der Burgt S, Kors J, Ket JCF, Croiset G, Kusurkar R.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Systematic review distils 205 descriptions of medical students' unprofessional behaviours into 30 descriptors in four themes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Content analysis of 46 included studies yielded 205 descriptions of unprofessional behaviours coded into 30 descriptors and classified into four behavioural themes. [→ Mak-van der Vossen M 2017](#mak-van-der-vossen-m-2017)
@@ -29,7 +36,7 @@ sources:
 
 Mak-van der Vossen M, van Mook W, van der Burgt S, Kors J, Ket JCF, Croiset G, Kusurkar R. (2017). Descriptors for unprofessional behaviours of medical students: a systematic review and categorisation. BMC Medical Education. https://doi.org/10.1186/s12909-017-0997-x
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Systematic review with content analysis of articles reporting witnessed or admitted unprofessional behaviours of preclinical and clinical medical students, searched from inception to May 2016. The synthesis reports that "205 different descriptions" were coded into 30 descriptors in four themes. No meta-analysis was performed due to methodological diversity.
 

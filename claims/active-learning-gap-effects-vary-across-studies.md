@@ -55,3 +55,4 @@ Granular analysis of per-study gap changes (Fig. 2) shows heterogeneous effects:
 - [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — related
+- [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — possibly the same claim (merge candidate)

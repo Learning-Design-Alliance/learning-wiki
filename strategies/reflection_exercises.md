@@ -66,6 +66,7 @@ Reflection converts experience into learning by forcing reprocessing of events t
 - [Exit Tickets](exit-ticket.md) — a short-form reflection routine embedded in class endings
 - [Journaling](journaling.md) — the sustained written form of this strategy
 - [Integrate obesity simulation suits into broader multimodal designs with structured prebriefing, guided reflection, and debriefing rather than using them as standalone interventions](oss-embed-in-multimodal-design.md)
+- [Incorporate role modeling, time for reflection, and social small-group strategies into undergraduate EBP curricula](ebp-curricula-role-modeling-reflection-social-strategies.md)
 
 ## Examples
 - **Medical education debriefs** — post-simulation debriefing (e.g., in simulation-center curricula) uses structured reflection on decisions and emotional responses; debrief quality is a strong predictor of simulation learning outcomes.

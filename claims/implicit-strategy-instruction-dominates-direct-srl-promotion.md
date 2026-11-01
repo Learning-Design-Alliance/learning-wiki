@@ -72,3 +72,4 @@ Of the 38 explicit strategy instances coded, most targeted cognitive capabilitie
 - [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — a broader claim this one bears on
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related
 - [Classroom observation studies show that teachers provide only little direct strategy instruction, with strategy suggestions occurring in a small percentage of observed intervals](teachers-provide-little-direct-strategy-instruction.md) — related
+- [Included studies rarely articulated learning theories explicitly, yet their CAI activities aligned with contemporary theories of learning](learning-theories-rarely-explicit-cai.md) — related

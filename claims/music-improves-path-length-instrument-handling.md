@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: oomens-p-2019
     resource: "https://doi.org/10.1007/s00464-019-06868-x"
@@ -15,9 +16,15 @@ sources:
     author: Oomens P, Fu VX, Kleinrensink GJ, Jeekel J.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Classical music exposure during task repetition statistically significantly improves path length compared to other control conditions in one included study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Improvement of path length upon task repetition was statistically significantly increased during exposure to classical music in comparison to any other control condition in one study, and Jamaican music significantly reduced path length in another. [→ Oomens P 2019](#oomens-p-2019)
@@ -28,7 +35,7 @@ sources:
 
 Oomens P, Fu VX, Kleinrensink GJ, Jeekel J. (2019). The effect of music on simulated surgical performance: a systematic review. Surgical Endoscopy. https://doi.org/10.1007/s00464-019-06868-x
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Review synthesis of six studies assessing instrument handling as path length or percentage out of bound. The review reports one study found classical music significantly improved path-length improvement versus other control conditions; another found a significant benefit of Jamaican music on path length.
 
@@ -38,4 +45,5 @@ Review synthesis of six studies assessing instrument handling as path length or 
 
 
 ## Related Claims
--
+- [Music shows mixed effects on general surgical task performance scores in simulation](music-general-surgical-performance-scores-mixed.md) — related
+- [Music exposure shows mixed but partly beneficial effects on time to task completion in simulated surgical tasks](music-improves-time-to-task-completion-simulated-surgery.md) — related

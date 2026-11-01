@@ -16,6 +16,9 @@ sources:
 
 # Developers should adopt peer networking to improve diffusion and repeated implementation of medical games
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The review's forward-looking recommendation for game developers: because games are implemented, tested, and reported only once in a single setting, and no prestigious publishing houses promote them, developers lack the marketing power to position their games. The authors state that "Game developers should adopt peer networking as a tool for improving their medical games", aiming to enable repeated implementations across settings and thereby raise the quality of effectiveness evidence.
 
@@ -34,6 +37,11 @@ The review's forward-looking recommendation for game developers: because games a
 ### Target Learning Goals
 - improved quality of effectiveness evidence for game-based learning
 - wider availability and reuse of medical games
+
+## Claims
+
+- [Game implementations were mostly single-institution and single-setting, limiting evidence quality and diffusion](../claims/single-institution-single-setting-implementations.md) [+W]
+- [Public access to medical games is limited and no access standard exists](../claims/limited-public-access-medical-games.md) [+W]
 
 ## Related Strategies
 - 

@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (17 for, 20 mixed, 1 against) · 41 studies (12 causal, 8 review, 7 quant-synthesis, 7 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (17 for, 20 mixed, 1 against) · 41 studies (12 causal, 9 review, 7 quant-synthesis, 7 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 33 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.

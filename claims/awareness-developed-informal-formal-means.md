@@ -50,3 +50,4 @@ Cross-case synthesis of the 12 interviews reports two routes to awareness. Infor
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
 - [Synchronous videoconferencing projects fostered intercultural awareness and perspective taking in isolated communities](videoconferencing-intercultural-perspective-taking.md) — related
+- [Formal education is more likely to improve cultural competency than mere exposure to culturally diverse patients, even with good role models](formal-education-beats-exposure-cultural-competency.md) — related

@@ -16,6 +16,9 @@ sources:
 
 # Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
 ## Description
 The article recommends grounding simulated patient scenarios in conversation analytic analysis of real interactions from the setting in question, so that simulators portray actual interactional practices of patient groups. Analysis can identify how patients ask questions, respond to information delivery, and voice information needs, informing actor training and scenario design. The authors argue CA should "enhance real-time simulated interaction, rather than provide a substitute for it".
 
@@ -38,7 +41,12 @@ The article recommends grounding simulated patient scenarios in conversation ana
 - Communication skills for challenging consultations
 
 ### Affordances
-- [Carm Conversation Analytic Role Play Method](../theories/carm-conversation-analytic-role-play-method.md)
+- Carm Conversation Analytic Role Play Method
+
+## Claims
+
+- [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](../claims/ca-informed-cst-interventions-improve-interaction.md) [+W]
+- [Conversation analytic comparisons show role-played and simulated interactions differ systematically from real interactions](../claims/ca-shows-simulation-inauthenticity.md) [+W]
 
 ## Related Strategies
 

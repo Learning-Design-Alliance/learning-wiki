@@ -16,6 +16,9 @@ sources:
 
 # Use chunking, gaze training and think-aloud cognitive rehearsal to support VWM capacity in surgical trainees
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
 ## Description
 The review proposes cognitive training strategies that work within the visual working memory framework. "One such cognitive training approach would be using a learning strategy called 'chunking'", breaking tasks into step-by-step sequences drawing on the learner's pre-existing knowledge. Trainers can also teach residents to 'chunk' visual information and to fixate, through gaze training, on the most important landmarks and cues on the screen, and can use 'think-aloud' cognitive rehearsal in which residents verbally describe each step of their actions.
 
@@ -37,10 +40,18 @@ The review proposes cognitive training strategies that work within the visual wo
 - competency-based training
 
 ### Affordances
-- [Vwm Framework Mis Spatial Cognition](../theories/vwm-framework-mis-spatial-cognition.md)
+- [Vwm Framework Mis Spatial Cognition](../theories/cognitive-load-theory.md)
+
+## Claims
+
+- [Preoperative mental practice and mental imagery enhance MIS surgical performance](../claims/mental-practice-enhances-mis-performance.md) [+W]
+- [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](../claims/mental-rotation-influences-mis-performance.md) [+W]
+- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
+- [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Think-Alouds](think-alouds.md)
 
 ## Examples
 -

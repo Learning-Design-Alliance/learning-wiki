@@ -16,6 +16,9 @@ sources:
 
 # Use short, narrowly focused instructional videos tailored for online learning
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
 ## Description
 The review recommends that instructional videos for programming courses be brief and focused: "these videos should be short (i.e., under 10 minutes) and narrowly focused in content." It further recommends creating videos tailored for online learning rather than video captures of in-class lectures, citing evidence that engagement drops as video duration increases.
 
@@ -43,6 +46,7 @@ The review recommends that instructional videos for programming courses be brief
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Deploy AI-generated videos for simple, supplemental, and visual content without displacing instructor presence](deploy-ai-videos-supplemental-simple-visual.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
 
 ## Examples
 -

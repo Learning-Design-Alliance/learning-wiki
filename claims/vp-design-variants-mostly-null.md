@@ -71,3 +71,4 @@ Skills-domain design comparisons: human empathic feedback and narrative structur
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
 - Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
+- [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — possibly the same claim (merge candidate)

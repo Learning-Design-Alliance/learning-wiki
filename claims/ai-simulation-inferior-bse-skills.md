@@ -61,3 +61,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](hybrid-breast-exam-simulation-beats-tabletop-model.md) — related
+- [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related

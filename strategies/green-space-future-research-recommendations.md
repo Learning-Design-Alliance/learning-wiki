@@ -16,6 +16,9 @@ sources:
 
 # Future research on school green space and achievement should use individual-level multi-season data, finer green space resolution, and study Global South populations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's future-research section recommends methodological improvements and geographic expansion. It advises that "data obtained at the individual-level would avoid ecology fallacy", that green space be measured during multiple seasons and years, that collinearity, spatial dependence, and time dependence be addressed, and that finer-scale resolutions of green space (at least 30 m or less) be used. It also recommends studying populations and schools outside the Global North, since no included studies came from Global South countries.
 

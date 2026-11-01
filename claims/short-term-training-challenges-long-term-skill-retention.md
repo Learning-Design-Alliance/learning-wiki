@@ -58,4 +58,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](lack-follow-up-limits-long-term-evidence.md) — possibly the same claim (merge candidate)
 - [No included study applied automated video metrics longitudinally to training or assessed non-technical skills](no-longitudinal-or-nontechnical-skill-application.md) — related
 - [Included e-learning programs were short (45 minutes to 4 hours), supporting feasibility of integration into hospital orientation or refresher training](short-elearning-durations-feasible-for-hospital-training.md) — reports the opposite
-- [Most NM programme evaluations used cross-sectional post-test-only designs, with only nine programmes using pre-post or step-wedge comparisons and only four assessing long-term impact](nm-evaluation-designs-mostly-cross-sectional.md)
+- [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — a narrower finding that bears on this claim

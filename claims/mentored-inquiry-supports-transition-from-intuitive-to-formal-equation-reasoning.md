@@ -72,3 +72,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](wavelength-voltage-hard-to-learn-simulations.md) — related
 - [Bakhtinian professional conversations supported teacher educators' sensemaking of discomfort, fostering internally persuasive discourses toward SET data and 'discomfort chronotopes'](bakhtinian-reflexive-inquiry-sensemaking-discomfort.md) — related
 - [Reasoning style measures (faith in intuition, need for evidence, cognitive reflection) show no significant relation to video evaluation](reasoning-style-null-video-evaluation.md) — related
+- [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](mentor-guided-srl-positive-resident-practice.md) — related

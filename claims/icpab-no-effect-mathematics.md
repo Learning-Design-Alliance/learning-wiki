@@ -53,3 +53,6 @@ Random-effects meta-analysis of six intervention samples (n = 725 students) from
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [In-classroom physical activity breaks show no significant effect on primary school children's reading performance](icpab-no-effect-reading.md) — related
 - [Classroom-based physical activity shows no improvement in academic achievement when measured with national standardised tests (pooled SMD = −1.13, CI crossing zero)](no-achievement-gain-standardised-tests.md)
+- [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
+- [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — related
+- [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related

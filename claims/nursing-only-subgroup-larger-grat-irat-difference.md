@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: ngoc-phan-nguyen-2020
     resource: "https://doi.org/10.1186/s12909-020-02139-9"
@@ -15,15 +16,23 @@ sources:
     author: Ngoc Phan Nguyen, Cheng Chao-Ling, Lin Yen-Kuang, Wu Ming-Shun, Chu Jan-Show, Tang Kung-Pei
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
   - id: ngoc-phan-nguyen-2020-2
     resource: "https://doi.org/10.1186/s12909-020-02139-9"
     title: "Ngoc Phan Nguyen, Cheng Chao-Ling, Lin Yen-Kuang, Wu Ming-Shun, Chu Jan-Show, Tang Kung-Pei. (2020). A meta-analysis of students’ readiness assurance test performance with team-based learning. BMC Medical Education. https://doi.org/10.1186/s12909-020-02139-9"
     author: Ngoc Phan Nguyen, Cheng Chao-Ling, Lin Yen-Kuang, Wu Ming-Shun, Chu Jan-Show, Tang Kung-Pei
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Nursing-only TBL subgroups show a larger GRAT–IRAT difference (SMD = 2.368) than other health-professions subgroups, though the subgroup test is not significant
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The nursing-only subgroup showed a higher SMD of 2.368 (95% CI 2.05–2.6, I2 = 48%) versus SMD = 1.92 for the others subgroup. [→ Ngoc Phan Nguyen 2020](#ngoc-phan-nguyen-2020)
@@ -35,7 +44,7 @@ sources:
 
 Ngoc Phan Nguyen, Cheng Chao-Ling, Lin Yen-Kuang, Wu Ming-Shun, Chu Jan-Show, Tang Kung-Pei. (2020). A meta-analysis of students’ readiness assurance test performance with team-based learning. BMC Medical Education. https://doi.org/10.1186/s12909-020-02139-9
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Subgroup analysis of the meta-analysis comparing the nursing-only subgroup with the others subgroup; the nursing-only subgroup's "higher SMD of 2.368" came with reduced heterogeneity (I2 = 48%).
 
@@ -45,7 +54,7 @@ Subgroup analysis of the meta-analysis comparing the nursing-only subgroup with 
 
 Ngoc Phan Nguyen, Cheng Chao-Ling, Lin Yen-Kuang, Wu Ming-Shun, Chu Jan-Show, Tang Kung-Pei. (2020). A meta-analysis of students’ readiness assurance test performance with team-based learning. BMC Medical Education. https://doi.org/10.1186/s12909-020-02139-9
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 The meta-analysis's formal test of subgroup differences between nursing-only and others subgroups was non-significant; the authors note the nursing-only subgroup contributed smaller numbers of studies and participants.
 
@@ -55,4 +64,4 @@ The meta-analysis's formal test of subgroup differences between nursing-only and
 
 
 ## Related Claims
--
+- [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — a broader claim this one bears on

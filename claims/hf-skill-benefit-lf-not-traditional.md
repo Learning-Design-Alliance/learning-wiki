@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-11-01
 sources:
   - id: zeng-qin-2023
     resource: "https://doi.org/10.1186/s12909-023-04654-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In subgroup analysis, HF simulation showed a moderate skill benefit compared with LF simulation (SMD = 0.36; 95% CI: 0.16–0.57, P = 0.0004, I2 = 0%) but no improvement compared with traditional training (SMD = -0.08; 95% CI: −0.37–0.22, P = 0.62, I2 = 0%). [→ Zeng Qin 2023](#zeng-qin-2023)
@@ -51,3 +52,5 @@ Subgroup analysis of the skill meta-analysis by comparator type (Supplement 4). 
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
 - [HF simulation is associated with moderate benefit for retaining ALS skills at three months, based on two RCTs](hf-skill-retention-three-months.md) — related
 - [Knowledge benefit of HF simulation is greater against traditional training (SMD = 0.71) than against LF simulation (SMD = 0.22)](hf-vs-traditional-knowledge-subgroup.md) — related
+- [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](hf-vs-lf-small-moderate-benefit.md) — related
+- [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — reports the opposite

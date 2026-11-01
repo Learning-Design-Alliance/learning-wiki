@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: andersen-freja-allerelli-2020
     resource: "https://doi.org/10.1186/s12909-020-1964-5"
@@ -15,9 +17,15 @@ sources:
     author: Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Self-administered and observed empathy measures can yield opposite trajectories during clinical training, as one longitudinal study found declining self-reported but improving observed empathy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a longitudinal study applying both self-administered empathy measures and observed empathy in an OSCE, second-year students had higher self-administered scores than third-year students, with the opposite pattern for observed scores. [→ Andersen Freja Allerelli 2020](#andersen-freja-allerelli-2020)
@@ -28,7 +36,7 @@ sources:
 
 Andersen Freja Allerelli, Johansen Ann-Sofie Bering, Søndergaard Jens, Andersen Christina Maar, Assing Hvidt Elisabeth. (2020). Revisiting the trajectory of medical students' empathy, and impact of gender, specialty preferences and nationality: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-020-1964-5
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports on a longitudinal single-institution study by Chen et al. using JSPE-S and OSCE evaluation, noting a trend towards a decline in measured empathy with a self-administered instrument but an improvement in observed empathy among clinically experienced third-year students.
 
@@ -40,3 +48,4 @@ The review reports on a longitudinal single-institution study by Chen et al. usi
 ## Related Claims
 
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
+- [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related

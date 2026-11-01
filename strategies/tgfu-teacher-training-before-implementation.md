@@ -16,6 +16,9 @@ sources:
 
 # Train teachers in the TGfU model before implementation to avoid applying it without respecting its essential characteristics
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review identifies teacher training as a vital component of TGfU implementation: reviewed studies invested time training teachers before interventions, and prior work cited by the review holds that "teachers consider that before carrying out the TGfU model it is necessary to have a thorough knowledge of the model itself and of each of the disciplines". The review concludes research on TGfU implementation needs long time and previous preparation of teachers, and suggests establishing this learning in university initial teacher training programs.
 
@@ -36,6 +39,8 @@ The review identifies teacher training as a vital component of TGfU implementati
 ## Related Strategies
 
 - [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
+- [Pre Training](pre-training.md)
+- [Pretraining](pretraining.md)
 
 ## Examples
 -

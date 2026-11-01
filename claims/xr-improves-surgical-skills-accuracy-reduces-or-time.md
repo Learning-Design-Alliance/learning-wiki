@@ -54,3 +54,4 @@ Umbrella review of 44 systematic reviews and meta-analyses, synthesized descript
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
 - The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy — related
 - [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](xr-training-improves-neurosurgical-user-performance.md) — a narrower finding that bears on this claim
+- [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — related

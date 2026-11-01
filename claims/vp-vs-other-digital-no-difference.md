@@ -67,3 +67,6 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — related
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
+- [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](interactivity-digital-education-guidelines-mixed.md) — related
+- [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
+- [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — related

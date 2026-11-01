@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (36 for, 38 mixed, 1 against) · 56 studies (17 quant-synthesis, 16 causal, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 56 report an effect size · 67 claims rest on one study
+> **Evidence** · 75 claims (36 for, 38 mixed, 1 against) · 56 studies (18 quant-synthesis, 16 causal, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 56 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 

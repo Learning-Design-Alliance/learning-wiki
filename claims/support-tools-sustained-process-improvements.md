@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: costar-2020
     resource: "https://doi.org/10.1097/PTS.0000000000000746"
@@ -15,15 +16,23 @@ sources:
     author: "Costar, D. M., & Hall, K. K."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: costar-2020-2
     resource: "https://doi.org/10.1097/PTS.0000000000000746"
     title: "Costar, D. M., & Hall, K. K. (2020). Improving Team Performance and Patient Safety on the Job Through Team Training and Performance Support Tools: A Systematic Review. Journal of Patient Safety. https://doi.org/10.1097/PTS.0000000000000746"
     author: "Costar, D. M., & Hall, K. K."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Performance support tools (briefings, handoffs, and checklists) introduced in the work setting produced sustained improvements in teamwork processes for 6 to 18 months after implementation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across studies, low-cost tools demonstrated positive impacts on measured processes, with sustained improvements reported 6 to 18 months after implementation. [→ Costar 2020](#costar-2020)
@@ -35,7 +44,7 @@ sources:
 
 Costar, D. M., & Hall, K. K. (2020). Improving Team Performance and Patient Safety on the Job Through Team Training and Performance Support Tools: A Systematic Review. Journal of Patient Safety. https://doi.org/10.1097/PTS.0000000000000746
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of tool studies (three briefings, two handoffs, three checklists) implemented in surgical units, intensive care units, emergency departments, and perinatal units concludes "sustained improvements reported 6 to 18 months after implementation."
 
@@ -45,7 +54,7 @@ The review's synthesis of tool studies (three briefings, two handoffs, three che
 
 Costar, D. M., & Hall, K. K. (2020). Improving Team Performance and Patient Safety on the Job Through Team Training and Performance Support Tools: A Systematic Review. Journal of Patient Safety. https://doi.org/10.1097/PTS.0000000000000746
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports an operating-room preprocedural checklist study in which "compliance remained at 96%" at an 18-month audit, and team member self-introductions occurred 94% of the time initially, rising slightly to 97% (P < 0.0001).
 
@@ -53,6 +62,9 @@ The review reports an operating-room preprocedural checklist study in which "com
 
 ## Discussion
 
+
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
 
 ## Related Claims
 

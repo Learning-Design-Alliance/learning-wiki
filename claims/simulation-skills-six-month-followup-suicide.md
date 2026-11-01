@@ -53,3 +53,4 @@ Meta-analysis of 8 RCTs (n = 1,097) assessing skills. The six-month pooled effec
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md) — related

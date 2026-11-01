@@ -50,3 +50,4 @@ Narrative review of background studies in the Introduction. The review attribute
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
+- [About 70% of surveyed students prefer flipped to traditional classrooms](students-prefer-flipped-classroom-survey.md) — related

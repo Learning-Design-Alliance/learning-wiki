@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (14 for, 14 mixed, 3 against) · 19 studies (6 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 6 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (14 for, 14 mixed, 3 against) · 19 studies (8 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 6 of 19 report an effect size · 29 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.

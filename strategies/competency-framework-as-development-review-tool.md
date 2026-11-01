@@ -16,6 +16,9 @@ sources:
 
 # Use the competency framework as a fluid tool for appraisal, self-assessment and identifying learning needs
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that the framework be used as a developmental instrument rather than a fixed standard: "It is intended that the framework is seen as a fluid tool, within which nurses and their managers can assess existing skills and knowledge, and identify learning needs appropriate to personal development." It supports both formal use (manager appraisal, objective setting) and informal self-assessment, and can guide development reviews even when nurses are not managed by a senior nurse with specialty experience.
 
@@ -34,12 +37,13 @@ The article recommends that the framework be used as a developmental instrument 
 - Continuing professional development and identification of individual learning needs
 
 ### Affordances
-- [Hna Haemophilia Nurse Competency Framework](../theories/hna-haemophilia-nurse-competency-framework.md)
+- [Hna Haemophilia Nurse Competency Framework](../products/uk-haemophilia-nurses-association-competency-framework.md)
 
 ## Related Strategies
 
 - [Use competency frameworks and assessment tools to structure nurse training in biologics management](competency-framework-strategy-nurse-biologics-training.md)
 - [Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool](mle-framework-self-evaluation-use.md)
+- [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The review reports, citing Leary et al. (2020), a comparison of an AR CPR traini
 - [A team-focused, video-reviewed ED CPR bundle combining mechanical compression device training, in situ simulation, and multidisciplinary video review was followed by higher ROSC](ed-cpr-bundle-higher-rosc.md) — related
 - [Feedback devices improved pediatric resuscitation quality but increased subjective workload and shifted visual attention away from the patient](feedback-devices-increase-workload-shift-attention.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
+- [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related

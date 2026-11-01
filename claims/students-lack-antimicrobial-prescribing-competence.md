@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: brinkman-2018
     resource: "https://doi.org/10.1111/bcp.13491"
@@ -15,15 +17,23 @@ sources:
     author: Brinkman, D. J., Tichelaar, J., Graaf, S., Otten, R. H. J., Richir, M. C., and van Agtmael, M. A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: brinkman-2018-2
     resource: "https://doi.org/10.1111/bcp.13491"
     title: "Brinkman, D. J., Tichelaar, J., Graaf, S., Otten, R. H. J., Richir, M. C., and van Agtmael, M. A. (2018). Do final‐year medical students have sufficient prescribing competencies? A systematic literature review. British Journal of Clinical Pharmacology. https://doi.org/10.1111/bcp.13491"
     author: Brinkman, D. J., Tichelaar, J., Graaf, S., Otten, R. H. J., Richir, M. C., and van Agtmael, M. A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Fifteen reviewed studies found students had poor knowledge of resistant bacteria prevalence and lacked confidence in antibiotic choice, combination therapy, and dose and interval selection. [→ Brinkman 2018](#brinkman-2018)
@@ -35,7 +45,7 @@ sources:
 
 Brinkman, D. J., Tichelaar, J., Graaf, S., Otten, R. H. J., Richir, M. C., and van Agtmael, M. A. (2018). Do final‐year medical students have sufficient prescribing competencies? A systematic literature review. British Journal of Clinical Pharmacology. https://doi.org/10.1111/bcp.13491
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Synthesis of 15 articles evaluating students' attitudes to and knowledge of appropriate antimicrobial prescribing and resistance. The review reports students "lacked self‐reported confidence in choosing the correct antibiotic" and related dose decisions; only four studies reported moderate-to-high knowledge.
 
@@ -45,7 +55,7 @@ Synthesis of 15 articles evaluating students' attitudes to and knowledge of appr
 
 Brinkman, D. J., Tichelaar, J., Graaf, S., Otten, R. H. J., Richir, M. C., and van Agtmael, M. A. (2018). Do final‐year medical students have sufficient prescribing competencies? A systematic literature review. British Journal of Clinical Pharmacology. https://doi.org/10.1111/bcp.13491
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Across the same antimicrobial-prescribing studies, the review reports the proportion of students wanting more training in rational antibiotic selection ranged from 74% to 98%, as printed in the synthesis sentence.
 

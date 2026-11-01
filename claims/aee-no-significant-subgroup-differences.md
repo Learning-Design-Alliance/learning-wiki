@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: fontaine-g-2019
     resource: "https://doi.org/10.1136/bmjopen-2018-025252"
@@ -15,9 +16,15 @@ sources:
     author: Fontaine G, Cossette S, Maheu-Cadotte M-A, Mailhot T, Deschênes M-F, Mathieu-Dupuis G, Côté J, Gagnon M-P, Dubé V.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Subgroup analyses by population and comparator find no statistically significant differences in effect sizes for knowledge or skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Subgroup analyses according to population (health professionals vs students) and comparator type found no statistically significant differences between subgroups regarding the effect sizes. [→ Fontaine G 2019](#fontaine-g-2019)
@@ -28,7 +35,7 @@ sources:
 
 Fontaine G, Cossette S, Maheu-Cadotte M-A, Mailhot T, Deschênes M-F, Mathieu-Dupuis G, Côté J, Gagnon M-P, Dubé V. (2019). Efficacy of adaptive e-learning for health professionals and students: a systematic review and meta-analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025252
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup analyses within the review's meta-analyses of knowledge and skills outcomes, comparing health professionals versus students and three comparator types. The review reports no statistically significant subgroup differences, and states these analyses did not explain the heterogeneity.
 
