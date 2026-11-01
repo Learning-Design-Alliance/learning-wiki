@@ -59,3 +59,4 @@ Interview thematic analysis: students reported learning independently from ChatG
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — related
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
+- [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related

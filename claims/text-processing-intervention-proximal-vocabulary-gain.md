@@ -47,3 +47,4 @@ One-way ANCOVA on the researcher-developed vocabulary matching measure with pret
 ## Related Claims
 - [The text-processing intervention significantly improved struggling middle school readers' identification of key words and main ideas on a proximal measure](text-processing-intervention-proximal-main-idea-gain.md) — related
 - [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](intervention-gains-decoding-fluency-not-comprehension.md) — related
+- [Fourth graders with low reading comprehension in a text-based vocabulary and reading intervention with self-regulation supports outperformed comparison students on a researcher-developed vocabulary and reading measure](text-based-vocabulary-intervention-gains-fourth-graders.md) — related

@@ -18,7 +18,7 @@ sources:
 # Analogies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
@@ -55,6 +55,7 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
+- [Students created their own analogies after being introduced to analogies, and in-group activities increased](../claims/students-generate-own-analogies-after-exposure.md) [+W]
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)

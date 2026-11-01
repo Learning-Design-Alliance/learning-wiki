@@ -56,3 +56,4 @@ Treatment fidelity check on peer tutoring sessions: the first and fourth authors
 - [School-based facilitators implemented TSG sessions with high mean fidelity (88%) but varied more than expert facilitators](tsg-school-facilitator-fidelity-88-percent-variable.md) — related
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
 - [Teachers implemented some PACT components at medium-high fidelity but struggled with knowledge acquisition and team-based application components](pact-fidelity-component-variation.md) — related
+- [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related

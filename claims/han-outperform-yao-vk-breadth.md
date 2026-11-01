@@ -71,3 +71,4 @@ The time-by-group interaction on VK breadth in the same ANOVA was highly signifi
 - [In Yao students, metacognitive knowledge and vocabulary breadth showed a common growth trend: higher initial MCK predicted higher initial VK, and faster MCK growth predicted faster VK growth](mck-vk-common-growth-yao.md) — related
 - [In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth](mck-predicts-vk-han-parallel-development.md) — related
 - [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](han-higher-mck-than-yao-each-year.md) — related
+- [Both Grade 8 groups improved in L2 vocabulary knowledge over time, with no significant time-by-group interaction favoring clickers](clickers-no-significant-time-group-interaction-l2-vocabulary.md) — related

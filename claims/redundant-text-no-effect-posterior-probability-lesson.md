@@ -51,3 +51,4 @@ Mixed-effects model comparing diagram-with-redundant-text and diagram-without-re
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [For students who answered the pretest incorrectly, diagrams helped only in the read-twice control condition and only when the diagram information was also presented in the text](diagram-redundant-text-benefit-pretest-incorrect-read-twice.md) — related
 - [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related
+- [Labeling improves undergraduates' learning about posterior probability from a text-and-table lesson](labeling-improves-posterior-probability-learning.md) — related

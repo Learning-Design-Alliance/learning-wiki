@@ -63,3 +63,8 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [The Literacy and Morphemes programme had no significant impact on Year 2 pupils' literacy ability overall](literacy-morphemes-no-literacy-impact.md) — related
+- [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
+- [The intervention had no statistically significant effect on reading scores](srsd-no-significant-reading-effect.md) — related
+- [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related

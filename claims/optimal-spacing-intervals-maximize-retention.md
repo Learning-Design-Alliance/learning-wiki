@@ -57,3 +57,4 @@ The review summarizes "recent research on the time intervals during which spaced
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related
+- [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](optimal-isi-scales-with-retention-interval-cognitive-reviews.md) — related

@@ -51,3 +51,4 @@ Qualitative self-report from students, caregivers, and school staff interviewed 
 - [Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains](caring-accountable-coach-relationship-benefits.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
+- [Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission](coaching-improves-academic-skills-six-ways.md) — related

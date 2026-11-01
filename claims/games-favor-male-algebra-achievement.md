@@ -60,3 +60,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
+- [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](female-groups-performed-better-ar-platform.md) — related

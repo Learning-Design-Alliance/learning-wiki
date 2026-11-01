@@ -82,3 +82,5 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
+- [Constructive feedback through an error analysis system improves EFL students' writing more than traditional feedback methods](cfb-eas-beats-traditional-feedback-writing.md) — related
+- [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related

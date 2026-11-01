@@ -51,3 +51,4 @@ Repeated measures ANOVA in a crossover study of 73 Swedish middle-school childre
 - Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
 - [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related
+- [In a building design and assembly experiment, students using an AR instruction tool performed better on primary measures (building volume, number of elements) while print-manual students performed better on secondary measures (cost, embodied carbon)](ar-tool-better-primary-measures-print-better-secondary.md) — related

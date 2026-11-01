@@ -74,3 +74,4 @@ Discussion comparison of the two trials: the Oregon study found no significant N
 - [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
 - [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
+- [The Pre-K Mathematics intervention produces greater math knowledge gains in 4-year-olds than business-as-usual control](pre-k-math-gains-4-year-olds.md) — related

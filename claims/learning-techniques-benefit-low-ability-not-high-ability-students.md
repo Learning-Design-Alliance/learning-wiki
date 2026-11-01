@@ -89,3 +89,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](cfls-optimal-bf-vary-by-aptitude.md) — reports the opposite
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — related
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
+- [Students still want teachers' help and do not want all control handed over to them](students-still-want-teacher-support-under-autonomy.md) — related

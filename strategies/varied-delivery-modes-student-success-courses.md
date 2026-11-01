@@ -40,6 +40,7 @@ This strategy addresses student criticism that student success courses can feel 
 
 - [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md)
 - [Blended Learning](blended_learning.md)
+- [Offer courses in either online or in-class form where equivalent outcomes are acceptable](offer-courses-in-either-form.md)
 
 ## Examples
 -

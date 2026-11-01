@@ -26,7 +26,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (16 for, 12 mixed, 7 against) · 45 studies (18 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 45 report an effect size · 26 claims rest on one study
+> **Evidence** · 36 claims (17 for, 12 mixed, 7 against) · 46 studies (19 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 46 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](../claims/visualizing-support-facilitates-explaining.md) [+W]
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](../claims/two-model-answers-improve-comprehension-delayed-diagramming.md) [+W]
 - [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](../claims/instructors-prefer-less-effective-draw-framing.md) [-W]
+- [Among students not provided with diagrams, self-construction of free-body diagrams strongly and positively correlated with problem-solving performance and prior Mechanics achievement](../claims/self-constructed-fbd-correlates-with-performance.md) [+W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

@@ -48,7 +48,8 @@ Based on the review's synthesis of individual and instructional factors, the aut
 - [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](../claims/external-feedback-supports-self-assessment-implementation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
 
 ## Examples
 -

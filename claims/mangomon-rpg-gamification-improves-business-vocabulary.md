@@ -62,3 +62,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related
 - [Students mastered significantly more game words each successive week of the four-week intervention](mastered-game-words-increase-weekly.md) — related
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](videogame-classroom-vocabulary-gains-puerto-rico.md) — related
+- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related

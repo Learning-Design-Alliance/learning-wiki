@@ -54,3 +54,5 @@ ANCOVA on the 48-student quasi-experiment tested the Group*Gender interaction on
 - [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](no-gender-by-analogy-interaction-organic-chemistry.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related
+- [No statistically significant main effect of gender on Arabic grammar achievement](no-gender-main-effect-arabic-grammar-achievement.md) — related
+- [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related

@@ -43,6 +43,7 @@ Students put a story in the correct order using an enclosed worksheet, with sugg
 - [Story Retelling](story-retelling.md)
 - [Retelling](retelling.md)
 - [Story Mapping](story-mapping.md)
+- [Use a staged picture-story-book procedure: whole-picture stimulus, picture-text matching in groups, ordering, then individual retelling](staged-picture-story-book-reading-procedure.md)
 
 ## Examples
 -

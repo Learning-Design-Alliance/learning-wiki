@@ -59,3 +59,5 @@ ANCOVA on the same 48-student quasi-experiment tested the gender main effect on 
 - [No statistically significant gender difference in first graders' scientific concepts acquisition](no-gender-difference-game-based-concept-acquisition.md) — related
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
 - [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related
+- [No statistically significant main effect of gender on Arabic grammar achievement](no-gender-main-effect-arabic-grammar-achievement.md) — related
+- [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related

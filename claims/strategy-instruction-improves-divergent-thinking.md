@@ -55,3 +55,4 @@ Quasi-experiment with a pretest–posttest control group design across two cohor
 - [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — related
 - [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
 - [A 7th-grade lesson-plan proposal allocates fixed minutes of a 50-minute period to review, assignment, silent study, oral expression, and summary, and the reviewer warns this may formalize the lesson](fixed-minute-allocation-seventh-grade-lesson.md) — related
+- [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — related

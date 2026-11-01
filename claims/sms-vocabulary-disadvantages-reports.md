@@ -48,3 +48,5 @@ From the qualitative analysis of the 25 written reports and the authors' discuss
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
+- [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related
+- [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related

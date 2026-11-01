@@ -53,3 +53,4 @@ Crossed-random effects (explanatory item response) analysis of 93 children and 1
 - [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
 - [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](swe-imageability-interaction-exposures.md) — related
 - [Initial word reading skill interacted with vocabulary grade: the poorest readers required more than twice as many exposures for later-introduced words](swe-vocabulary-grade-interaction-exposures.md) — related
+- [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related

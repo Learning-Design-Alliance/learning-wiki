@@ -73,3 +73,4 @@ The review attributes to Li and Erben (2007) the report that instant messaging u
 - MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners — related
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](whatsapp-projects-communicative-skills-vocabulary.md) — related
 - [Learners' reports identify technical and pedagogical disadvantages of SMS vocabulary learning, including storage limits, segmented messages, and superficial processing](sms-vocabulary-disadvantages-reports.md) — related
+- [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related

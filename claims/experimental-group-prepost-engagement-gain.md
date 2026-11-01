@@ -48,3 +48,4 @@ Wilcoxon Sign Test on the 20-student experimental group's pre-test and post-test
 ## Related Claims
 - [Control-group students taught with the current curriculum showed no significant change in classroom engagement from pre-test to post-test](control-group-no-engagement-change.md) — related
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — possibly the same claim (merge candidate)
+- [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related

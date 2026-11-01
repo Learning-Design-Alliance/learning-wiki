@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (27 show a difference, 6 mixed, 4 no difference) · 19 studies (11 causal, 4 review, 4 associational), `q1`–`q4` · 5 of 19 report an effect size · 36 claims rest on one study
+> **Evidence** · 38 claims (27 show a difference, 7 mixed, 4 no difference) · 20 studies (12 causal, 4 review, 4 associational), `q1`–`q4` · 5 of 20 report an effect size · 37 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -73,6 +73,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Visuospatial inferencing relates to hypothesis validation and experimentation but not to generating conclusions when linguistic abilities are controlled](../claims/visuospatial-inferencing-stage-specific-scientific-reasoning.md) [~W] — learners who differ on it differ in outcomes
 - [Inference, but not theory of mind, is independently related to writing quality after accounting for transcription skills and working memory](../claims/inference-independently-related-to-writing-quality-grade-1.md) [+M] — learners who differ on it differ in outcomes
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](../claims/item-level-gains-except-guessing-meaning.md) [+M] — instruction changes it
+- [A significant interaction between intervention group and pre-test score suggests Rhythm for Reading was associated with worse outcomes for lower-ability pupils and better outcomes for higher-ability pupils](../claims/rhythm-for-reading-pretest-interaction.md) [~M] — an instructional effect differs with it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

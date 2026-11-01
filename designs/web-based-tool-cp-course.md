@@ -26,7 +26,7 @@ A customized web-based tool offered two student interfaces, one per instructiona
 
 ### Context
 #### Requirements
-- Application of multimedia learning principles (Mayer, 2009) in page design
+- Application of multimedia learning principles ([Mayer, 2009](https://doi.org/10.1017/cbo9780511811678)) in page design
 - Instructor guidance, since hypermedia enhanced understanding only "if it is guided by an instructor and supported by a PS context"
 #### Constraints
 - The tool served as an instructional guide only for the PS group's instructors; the control group's tool function was posting materials only

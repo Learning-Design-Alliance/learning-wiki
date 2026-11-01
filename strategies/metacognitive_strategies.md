@@ -59,9 +59,11 @@ Metacognitive instruction reliably improves academic performance when it is inte
 5. Close with structured evaluation — what worked, what did not, what to try next time — and gradually [fade](../elements/fading.md) the prompts as learners internalize the cycle [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Self-explanation](../elements/self-explanation.md) — a monitoring strategy that surfaces gaps in understanding during learning
 - [Spaced repetition](../elements/spaced-repetition.md) — a planning strategy learners should be taught to schedule deliberately
 - [Formative assessment](../patterns/formative-assessment.md) — external monitoring that scaffolds the internal monitoring learners must eventually do themselves
+- [Teach metacognitive reading strategies as a before-during-after cycle of planning, self-monitoring through thinking aloud, and self-evaluation](metacognitive-reading-strategy-instruction-cycle.md)
 
 ## Examples
 **Reciprocal Teaching (Palincsar & Brown)** — Small groups alternate roles of summarizer, questioner, clarifier, and predictor while reading; explicit modeling and role rotation teach monitoring and repair strategies, with documented comprehension gains.

@@ -56,3 +56,4 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
 - [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related
+- [Sub-group ANCOVAs found significant main effects for free lunch availability and non-white status, but no condition differences for other subgroups](assistments-subgroup-ancova-free-lunch-non-white.md) — related

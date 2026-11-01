@@ -83,3 +83,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [Repeated use of picture story books in a short time reduced student enthusiasm by the fifth meeting](picture-story-book-frequency-boredom-effect.md) — related

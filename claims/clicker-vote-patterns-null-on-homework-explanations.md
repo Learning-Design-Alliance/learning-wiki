@@ -49,3 +49,4 @@ Generalized linear mixed model analysis of coded homework explanations (binary c
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](clicker-presence-predicts-homework-explanation-quality.md) — related
 - [Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns](correct-correct-clicker-pattern-higher-exam-performance.md) — related
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related
+- [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related

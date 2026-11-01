@@ -55,3 +55,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Students' mathematical representation ability differs by self-efficacy level, with high self-efficacy students scoring highest](self-efficacy-level-differentiates-mathematical-representation.md) — related
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — related
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](kahoot-engagement-peer-study-groups-observed.md) — related
+- [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related

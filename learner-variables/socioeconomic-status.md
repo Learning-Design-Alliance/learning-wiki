@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (113 show a difference, 49 mixed, 36 no difference) · 150 studies (74 associational, 43 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 21 of 150 report an effect size · 197 claims rest on one study
+> **Evidence** · 206 claims (114 show a difference, 50 mixed, 42 no difference) · 158 studies (74 associational, 51 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 158 report an effect size · 205 claims rest on one study
 
 ## How to read this page
 
@@ -283,6 +283,14 @@ A learner's economic and social position: family income or poverty (often measur
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](../claims/fsm-subgroup-null-literacy-fsm-interaction.md) [~M] — an instructional effect differs by group
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](../claims/chatterbooks-fsm-subgroup-null.md) [-M] — an instructional effect differs by group
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](../claims/quest-no-subgroup-differential-effects.md) [-M] — an instructional effect differs by group
+- [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](../claims/youth-united-fsm-subgroup-no-positive-impact.md) [-M] — an instructional effect differs by group
+- [No evidence of improved outcomes for pupils eligible for free school meals](../claims/fsm-subgroup-null-parent-academy.md) [-M] — an instructional effect differs by group
+- [Sub-group analysis found no significant interactions with pupil gender or free school meal eligibility](../claims/catch-up-numeracy-no-subgroup-differential-effects.md) [-M] — an instructional effect differs by group
+- [Sub-group ANCOVAs found significant main effects for free lunch availability and non-white status, but no condition differences for other subgroups](../claims/assistments-subgroup-ancova-free-lunch-non-white.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](../claims/chess-intervention-no-impact-fsm-pupils.md) [-M] — an instructional effect differs by group
+- [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](../claims/perry-beeches-coaching-similar-effect-fsm-pupils.md) [-M] — an instructional effect differs by group
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](../claims/rhythm-for-reading-fsm-subgroup-null.md) [-M] — an instructional effect differs by group
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](../claims/srsd-fsm-subgroup-larger-effect-not-significant.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

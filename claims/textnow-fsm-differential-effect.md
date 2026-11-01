@@ -67,3 +67,8 @@ Subgroup analyses conducted after a significant FSM-by-intervention interaction 
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [The Quest programme showed no statistically significant effect on Year 7 reading comprehension, with a small negative point estimate (Hedges g = -0.04)](quest-no-significant-reading-comprehension-effect.md) — related
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
+- [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
+- [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
+- [SRSD combined with memorable experiences produced a large, statistically significant improvement in extended writing for pupils predicted Level 3 or insecure Level 4 at the primary-secondary transition](srsd-memorable-experiences-improve-transition-writing.md) — related
+- [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related

@@ -61,3 +61,10 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [The Quest programme showed no statistically significant effect on Year 7 reading comprehension, with a small negative point estimate (Hedges g = -0.04)](quest-no-significant-reading-comprehension-effect.md) — related
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
+- [Sub-group analysis found no significant interactions with pupil gender or free school meal eligibility](catch-up-numeracy-no-subgroup-differential-effects.md) — related
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
+- [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
+- [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related

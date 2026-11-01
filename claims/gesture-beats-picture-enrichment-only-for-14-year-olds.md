@@ -49,3 +49,4 @@ Mixed effects modeling of composite vocabulary scores from 75 German high school
 - [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](gesture-picture-similar-benefits-children.md) — related
 - [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](age-does-not-moderate-gesture-enrichment.md) — related
 - [Eighth graders show significant vocabulary decline from 3 days to 2 months post-learning, which sixth graders do not](grade-by-time-decay-eighth-graders-only.md) — related
+- [Both Grade 8 groups improved in L2 vocabulary knowledge over time, with no significant time-by-group interaction favoring clickers](clickers-no-significant-time-group-interaction-l2-vocabulary.md) — related

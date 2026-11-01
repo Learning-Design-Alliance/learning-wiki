@@ -49,6 +49,7 @@ Drawing on VPC insights, the review recommends that SRL interventions not take g
 ## Related Strategies
 
 - [Habit-based intervention implications: habituate the instigation of effective strategies, not their full execution](habituate-strategy-instigation.md)
+- [Use a simple, generalizable goal-setting strategy across academic tasks](simple-goal-setting-strategy-across-tasks.md)
 
 ## Examples
 -

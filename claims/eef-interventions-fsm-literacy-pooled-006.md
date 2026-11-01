@@ -60,3 +60,5 @@ IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — a narrower finding that bears on this claim
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — a narrower finding that bears on this claim
 - [The Literacy and Morphemes programme had no significant impact on Year 2 pupils' literacy ability overall](literacy-morphemes-no-literacy-impact.md) — related
+- [P4C gains at Key Stage 2 were greater for FSM-eligible pupils in all subjects](p4c-gains-greater-for-fsm-pupils.md) — related
+- [The Perry Beeches Coaching Programme had a positive impact on Year 7 pupils' reading, spelling and grammar attainment, equivalent to approximately five additional months' progress](perry-beeches-coaching-positive-impact-reading-spelling-grammar.md) — a narrower finding that bears on this claim

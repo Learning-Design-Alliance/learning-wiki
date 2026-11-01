@@ -57,3 +57,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [From a cognitive load theory point of view, studying worked-out external representations may lead to better learning outcomes than (co)-construction, the standard mode of operation in CSCL](studying-worked-out-representations-may-beat-co-construction.md) — related
 - [Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)](worked-examples-increase-germane-cl-special-issue.md) — related
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related
+- [Self-constructed representations can be easier for students to use effectively than externally provided representations](self-constructed-beats-provided-representations.md) — related

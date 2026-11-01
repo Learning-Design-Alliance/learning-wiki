@@ -55,3 +55,4 @@ Theoretical argument drawing on organizational research and research on professi
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — a narrower finding that bears on this claim
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](program-based-studies-cannot-isolate-inquiry-effect.md) — related
+- [Addressing attitudes, knowledge, and practice together offers teachers multiple pathways into change, letting PD build on individual motivations](multiple-pathways-teacher-change.md) — related

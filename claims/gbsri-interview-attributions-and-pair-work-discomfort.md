@@ -52,3 +52,4 @@ Semi-structured interviews with six students stratified by pre-test ability (hig
 - [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — a broader claim this one bears on
+- [Interviewed students valued idea generation and peer evaluation but reported difficulties with editing checklists and unhelpful peer feedback](mixed-interview-perceptions-peer-evaluation.md) — related

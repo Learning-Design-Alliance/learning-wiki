@@ -75,3 +75,4 @@ Quasi-experimental pre-test, post-test, non-randomized control group study of 24
 - [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
+- [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related

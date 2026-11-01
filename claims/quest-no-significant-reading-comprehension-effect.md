@@ -53,3 +53,5 @@ Cluster-randomised efficacy trial with regression and robust standard errors; 2,
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
 - [Secondary outcomes (sentence completion and passage comprehension subscales) showed no significant effects for either intervention](chatterbooks-secondary-outcomes-null.md) — related
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related

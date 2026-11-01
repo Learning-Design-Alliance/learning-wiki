@@ -134,3 +134,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](faculty-guided-ai-outperformed-ai-only-ultrasonography.md) — a narrower finding that bears on this claim
 - [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — a narrower finding that bears on this claim
 - [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related
+- [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related

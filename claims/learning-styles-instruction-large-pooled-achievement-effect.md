@@ -52,3 +52,4 @@ Meta-analysis of 29 experimental studies from Turkey (2004–2014) with a total 
 - [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](learning-styles-instruction-large-pooled-retention-effect.md) — related
 - [Multiple intelligence based instructional practices have a large positive effect on academic achievement in Turkish experimental studies](mi-instruction-large-positive-effect-achievement-turkey.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
+- [Learning styles have no significant effect on academic achievement in this quasi-experiment](learning-styles-no-effect-on-achievement.md) — reports the opposite

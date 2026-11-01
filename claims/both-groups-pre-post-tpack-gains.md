@@ -50,3 +50,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Teachers' ICT knowledge was above the general average in both groups after the intervention](ict-knowledge-above-average-both-groups.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
+- [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related

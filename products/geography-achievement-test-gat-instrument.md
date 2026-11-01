@@ -21,6 +21,7 @@ A researcher-developed geography achievement assessment by Ugodulunwa et al. mea
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **15-item multiple-choice geography learning outcomes test with validity, reliability, difficulty and discrimination checks**: The study's instrument is a multiple-choice test of 15 questions used to measure geography learning outcomes. Before use it was checked for validity, reliability, level of difficulty and differentiating power; Table 1 reports item values (e.g. validity 0.592, reliability 1.041, difficulty 0.304, discrimination 0.435 for item 1) and all items were marked Used. (Arisanty et al. (2019))
+- **Geography Achievement Test (GAT)**: The Geography Achievement Test is a researcher-developed instrument used as both pre-test and post-test in the study. "Section B of the GAT consists of 50 -multiple-choice test items with five options (A -E)", each scored two points to a maximum of 100, preceded by a demographic section. Experts in the Faculty of Education, University of Ilorin validated it, and its "reliability coefficient was obtained as .83 using Kuder Richardson (KR-21)". The full 50-item instrument is reproduced in the article's annex. (Adams Ogirima Onivehu (2018))
 
 ### Claims
 - [Students taught map sketching and location with portfolio assessment showed significantly higher post-test Geography Achievement Test scores than their own pre-test scores](../claims/portfolio-assessment-pre-post-gain-map-sketching.md) [+M]
@@ -35,3 +36,4 @@ A researcher-developed geography achievement assessment by Ugodulunwa et al. mea
 ## Key Sources
 - Ugodulunwa, C., & Wakjissa, S. (2015). Use of Portfolio Assessment Technique in Teaching Map Sketching and Location in Secondary School Geography in Jos, Nigeria. Journal of Education and Practice, 6(17). http://www.iiste.org
 - Arisanty, D., Riyah. (2019). Application of make a match model to improve geography learning outcomes. Journal of Technology and Science Education, 9(1), 32-40. https://doi.org/10.3926/jotse.547
+- Adams Ogirima Onivehu, Onyiyeche Emilia Ohawuiro. (2018). Effect of PowerPoint Presentation on Students' Cognitive Achievement in Geography. Romanian Review of Geographical Education, VII(1), 46-60. https://doi.org/10.23741/RRGE120184

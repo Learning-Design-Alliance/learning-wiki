@@ -58,3 +58,4 @@ The paper reports evaluations of parent education initiatives within ECD program
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
 - [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](evolutionary-theory-informs-teaching-methods.md) — related
 - [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](successful-intervention-features-multiple-strategies-parents-intensity.md) — related
+- [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](parent-academy-parent-confidence-engagement.md) — a narrower finding that bears on this claim

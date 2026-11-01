@@ -44,7 +44,8 @@ The article's implications recommend that "language teachers may use such commer
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](../claims/cavi-study-scope-limitations.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
 
 ## Examples
 -

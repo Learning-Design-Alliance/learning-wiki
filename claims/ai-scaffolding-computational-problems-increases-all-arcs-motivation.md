@@ -50,3 +50,4 @@ Paired t-test comparing post-survey motivational means between conventional (Act
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — a broader claim this one bears on
 - [ARPS scores are positively and significantly correlated with all four RIMMS motivation dimensions](arps-rimms-positive-correlations.md) — related
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
+- [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related

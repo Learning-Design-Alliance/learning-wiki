@@ -48,3 +48,4 @@ Descriptive percentage from the student evaluation of the RLOs; the abstract sta
 - [MetaLight's interface is designed to develop understanding of forest plots, statistical models, and funnel plot construction](metalight-interface-design-for-understanding.md) — related
 - [A minority of students stated they needed lecturer support alongside the RLOs](minority-students-needed-lecturer-support-alongside-rlos.md) — related
 - [Healthcare students' self-reported understanding of five meta-analysis concepts improved significantly after RLO use in both MPH and PGD groups](rlo-use-improves-perceived-meta-analysis-understanding.md) — related
+- [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](interviews-students-understand-better-with-caricatures.md) — related

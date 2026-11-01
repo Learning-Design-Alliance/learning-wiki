@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (160 show a difference, 31 mixed, 23 no difference) · 170 studies (58 associational, 40 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 33 of 170 report an effect size · 210 claims rest on one study
+> **Evidence** · 218 claims (163 show a difference, 31 mixed, 24 no difference) · 174 studies (58 associational, 43 causal, 31 review, 16 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 33 of 174 report an effect size · 214 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -245,6 +245,10 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [The self-efficacy advantage of TPACK-based applications persists three months after the course ends](../claims/tpack-self-efficacy-gain-persists-three-months.md) [+M] — instruction changes it
 - [TPACK-based education applications raise prospective science teachers' self-efficacy belief levels toward science education more than the current curriculum after a 14-week course](../claims/tpack-applications-raise-prospective-teacher-science-self-efficacy.md) [+M] — instruction changes it
 - [Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control](../claims/ps-instruction-improved-psi-perceptions.md) [~W] — instruction changes it
+- [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](../claims/formative-evaluation-boosts-teacher-beliefs.md) [+W] — instruction changes it
+- [Junior high students in both the STAC intervention and wait-list control groups increased knowledge and confidence to intervene in bullying, with no significant group difference, suggesting carry-over effects](../claims/stac-knowledge-confidence-increase-both-groups-carryover.md) [-M] — instruction changes it
+- [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](../claims/parent-academy-parent-confidence-engagement.md) [+M] — instruction changes it
+- [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](../claims/p4c-wider-outcomes-confidence-listening-self-esteem.md) [+M] — instruction changes it
 
 ## The evidence by question
 

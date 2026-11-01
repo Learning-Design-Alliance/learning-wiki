@@ -52,3 +52,4 @@ Games Howell post hoc comparison from Table 4 (independent n=108, avoidant n=33,
 - [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related
 - [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — a broader claim this one bears on
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — a broader claim this one bears on
+- [Preferred learning-style profiles differed between the online and in-class groups](style-profiles-differ-by-form.md) — related

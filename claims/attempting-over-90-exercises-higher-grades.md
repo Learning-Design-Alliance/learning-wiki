@@ -47,3 +47,4 @@ Grade analysis of the 2023/24 cohort's first exam session, comparing students ab
 ## Related Claims
 - [Attempting a new exercise on average increases estimated student ability during formative assessment](attempting-exercise-increases-estimated-ability.md) — related
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](llm-feedback-no-significant-grade-gain.md) — related
+- [Multiple posttest attempts in the emporium method did not boost posttest scores; single-attempt students scored higher](multiple-attempts-no-posttest-boost.md) — related

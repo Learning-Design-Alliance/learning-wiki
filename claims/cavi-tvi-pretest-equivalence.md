@@ -54,3 +54,4 @@ Independent-samples t-test on pre-test scores of the CAVI (n=16) and TVI (n=19) 
 - [Traditional vocabulary instruction also produces a statistically significant vocabulary gain in preschool EFL children](tvi-significant-vocabulary-gain-preschool.md) — related
 - [The two groups did not differ significantly in vocabulary knowledge before the intervention](pbl-vocabulary-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)
 - [The authors attribute CAVI's vocabulary advantage to individualised pacing, instant feedback, low-anxiety interaction and motivating game features](cavi-advantage-attributed-to-feedback-autonomy-motivation.md) — related
+- [Before instruction, the experimental and control groups showed no statistically significant difference in vocabulary knowledge](tmm-study-groups-equivalent-at-pretest.md) — related

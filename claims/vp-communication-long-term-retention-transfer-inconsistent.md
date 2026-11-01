@@ -65,3 +65,4 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — a narrower finding that bears on this claim
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related
 - [Simulation-based CRM training transfers to the workplace: three of four studies found simulation-enhanced CRM training significantly more effective than no intervention or didactic teaching](simulation-crm-training-transfers-to-workplace.md) — related
+- [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related

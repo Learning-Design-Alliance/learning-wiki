@@ -50,3 +50,4 @@ One-way ANCOVA on post-test scores of a 30-item teacher-made achievement test, c
 - [MI-based instruction produced significantly greater overall improvement in General English achievement than traditional instruction among Iranian university students](mi-instruction-improves-general-english-achievement.md) — related
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
 - [MI-based teaching strategy produces significantly higher MI gain scores than traditional teaching in junior high science](mi-strategy-higher-mi-gain-than-traditional.md) — related
+- [Cognitive conflict strategy improves Science achievement more than traditional teaching among intermediate second-grade students](cognitive-conflict-improves-science-achievement-intermediate.md) — related

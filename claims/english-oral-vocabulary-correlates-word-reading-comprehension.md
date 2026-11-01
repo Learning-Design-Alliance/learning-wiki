@@ -54,3 +54,4 @@ Exploratory correlational analysis linking English receptive vocabulary (PPVT II
 - [ASL proficiency correlates positively with English reading comprehension among deaf adults](asl-proficiency-correlates-reading-comprehension-deaf.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
 - [TRI treatment did not significantly improve spring Passage Comprehension for struggling English learners](tri-no-passage-comprehension-effect.md) — related
+- [For Non-Center Compliers, the Head Start effect on PPVT appears to persist moderately, while WJ-III effects show little persistence](ppvt-persists-wj3-does-not-noncenter-compliers.md) — related

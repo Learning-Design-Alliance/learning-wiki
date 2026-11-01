@@ -53,3 +53,4 @@ This is a single, deeply analyzed case (q1), not a claim about typical or averag
 - The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality — related
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
 - [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related
+- [Students created their own analogies after being introduced to analogies, and in-group activities increased](students-generate-own-analogies-after-exposure.md) — related

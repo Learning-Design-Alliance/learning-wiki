@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 110 claims (55 for, 49 mixed, 6 against) · 99 studies (24 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 99 report an effect size · 109 claims rest on one study
+> **Evidence** · 117 claims (60 for, 51 mixed, 6 against) · 104 studies (29 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 13 of 104 report an effect size · 116 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -145,6 +145,13 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](../claims/tablet-etextbook-pre-post-gains-first-grade.md) [~W]
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](../claims/ancova-posttest-its-group-effect.md) [~W]
+- [In a building design and assembly experiment, students using an AR instruction tool performed better on primary measures (building volume, number of elements) while print-manual students performed better on secondary measures (cost, embodied carbon)](../claims/ar-tool-better-primary-measures-print-better-secondary.md) [~W] — attached 2026-11-01 from Arezoo Shirazi et al. (2015), which proposed "Mobile AR pedagogical application with virtual instructor avatar and image-based element information (Junaio/AREL-based)".
+- [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](../claims/positive-student-ratings-mobile-ar-application.md) [+W] — attached 2026-11-01 from Arezoo Shirazi et al. (2015), which proposed "Mobile AR pedagogical application with virtual instructor avatar and image-based element information (Junaio/AREL-based)".
+- [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](../claims/whatsapp-support-greater-success-gains.md) [+W] — attached 2026-11-01 from Levent Cetinkaya (2017), which proposed "WhatsApp information-message intervention of 30 expert-authored texts sent daily to the experimental group"; tests this page's relationship.
+- [Experimental-group students' Ottoman Turkish achievement scores rose significantly from pre-test to post-test during the AR-supported instruction](../claims/ar-ottoman-pretest-posttest-significant-gain.md) [+W]
+- [CALL instruction produced significantly better TOEIC listening score gains than traditional textbook instruction in a quasi-experiment with two groups of 25 Vietnamese college students](../claims/call-improves-toeic-listening-scores-over-traditional.md) [+W]
+- [Among regular students, higher ASSISTments usage predicted higher 7th-grade MCAS performance](../claims/assistments-student-usage-predicts-mcas-regular.md) [+W]
+- [For special education students, student usage showed no effect, but students of no-usage teachers scored lower than those of some-usage teachers](../claims/special-education-usage-null-teacher-effect.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

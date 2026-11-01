@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (35 for, 29 mixed, 7 against) · 54 studies (13 review, 12 causal, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 54 report an effect size · 67 claims rest on one study
+> **Evidence** · 74 claims (36 for, 31 mixed, 7 against) · 56 studies (14 causal, 13 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 56 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,9 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Half of the reviewed research education programs included a mentoring component and programs were often multifaceted with experiential learning](../claims/research-education-programs-mentoring-experiential.md) [+W]
 - [Use of a previously validated coaching model yields significantly higher change scores but not significantly higher final performance scores](../claims/validated-coaching-model-change-scores-only.md) [~W]
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+W]
+- [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](../claims/coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) [+W]
+- [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](../claims/perry-beeches-coaching-delivery-variation-across-schools.md) [~W]
+- [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](../claims/perry-beeches-coaching-pupil-engagement-sessions.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

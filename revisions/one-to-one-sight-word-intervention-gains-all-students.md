@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/one-to-one-sight-word-intervention-gains-all-students.md
+---
+
+# Revision history: [claims/one-to-one-sight-word-intervention-gains-all-students](../claims/one-to-one-sight-word-intervention-gains-all-students.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from eric-ej959527 (Signing for Success: Using American Sign Language to Learn Sight Vocabulary) via eval_harness.py + ingest_extractions.py

@@ -52,3 +52,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](iwb-visual-within-group-gain.md) — related
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
+- [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related

@@ -51,3 +51,4 @@ Quasi-experimental comparison of two naturally occurring groups of 38 second-yea
 - [Classroom observations showed experimental students readily adopted the three approaches but still made mistakes with abstract concepts and problem decomposition](observations-approach-adoption-and-remaining-difficulties.md) — related
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
+- [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](students-view-detailed-analogies-positively.md) — related

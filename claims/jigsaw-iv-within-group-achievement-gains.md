@@ -51,3 +51,4 @@ Paired samples t-tests within the quasi-experiment: experimental group t = -30.9
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — reports the opposite
+- [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](ict-tourism-intragroup-faster-evolution.md) — related

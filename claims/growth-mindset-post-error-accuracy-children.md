@@ -51,3 +51,4 @@ Behavioral analysis of the go/no-go data from the same 123-child sample. When mi
 - [Pe amplitude on error trials relates to post-error accuracy, but Pe does not mediate the mindset–post-error accuracy link in children](pe-post-error-accuracy-no-mediation-children.md)
 - [Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect](post-error-slowing-children-no-mindset-effect.md)
 - [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md) — related
+- [The KITS intervention produced no significant group differences in the ERN or Pe on incorrect trials, nor in behavioral task performance](kits-no-group-effects-ern-pe-behavior.md) — related

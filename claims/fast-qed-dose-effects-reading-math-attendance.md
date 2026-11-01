@@ -54,3 +54,4 @@ Quasi-experimental study matching 85 students who attended FAST three or more ti
 - [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related
 - [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md) — related
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
+- [Parental attendance dose was not associated with pupil outcomes: more sessions attended did not yield more impact](attendance-dose-no-outcome-link.md) — related

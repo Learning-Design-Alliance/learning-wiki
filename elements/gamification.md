@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (25 for, 16 mixed, 3 against) · 29 studies (11 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 43 claims rest on one study
+> **Evidence** · 45 claims (26 for, 16 mixed, 3 against) · 30 studies (12 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 44 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -68,6 +68,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](../claims/kahoot-higher-motivation-than-paper-quizzes.md) [+W]
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](../claims/kahoot-engagement-peer-study-groups-observed.md) [+W]
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](../claims/kahoot-fun-engaging-positive-experience.md) [~W]
+- [Learners using TMM showed positive engagement, motivated by the software's scoring feature](../claims/tmm-scoring-feature-drove-learner-engagement.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

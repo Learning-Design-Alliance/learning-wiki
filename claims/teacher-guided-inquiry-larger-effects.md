@@ -74,3 +74,4 @@ A meta-analysis of 72 studies whose background section reports the Carolan, Hutc
 - [Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)](professional-community-small-significant-achievement-effect.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related

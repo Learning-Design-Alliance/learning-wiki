@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 104 claims (55 for, 43 mixed, 6 against) · 83 studies (17 associational, 16 causal, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 83 report an effect size · 94 claims rest on one study
+> **Evidence** · 106 claims (55 for, 45 mixed, 6 against) · 84 studies (17 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 84 report an effect size · 96 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,8 @@ This pattern is scoped to support around self-paced online courses and programme
 - [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](../claims/baseline-performance-contact-interaction-math.md) [~W]
 - [The Mentor agent had the overall best combined impact on learning and motivation](../claims/mentor-agent-best-overall-impact.md) [+W]
 - [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](../claims/elearning-learner-preceptor-characteristics.md) [+W]
+- [Students who self-selected into coaching began with lower pretest scores than comparison students on all three measures, and all intervention students improved post-test](../claims/coaching-self-selected-lower-pretest-all-improved.md) [~W]
+- [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](../claims/coaching-self-selectors-higher-academic-risk.md) [~W]
 
 ## Related Patterns
 

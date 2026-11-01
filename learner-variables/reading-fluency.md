@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (66 show a difference, 21 mixed, 16 no difference) · 66 studies (25 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 66 report an effect size · 102 claims rest on one study
+> **Evidence** · 108 claims (69 show a difference, 22 mixed, 17 no difference) · 67 studies (26 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 67 report an effect size · 107 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -143,6 +143,11 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [96% of middle-school students with low reading comprehension demonstrate deficits in reading fluency, vocabulary, or both](../claims/96-percent-struggling-comprehenders-fluency-vocabulary-deficit.md) [+M] — learners who differ on it differ in outcomes
 - [Fluency difficulties are more common than vocabulary difficulties among adolescents with low reading comprehension](../claims/fluency-difficulties-more-common-than-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [Prior work found positive intention-to-treat STARI effects on word reading, morphological awareness, and efficiency of basic reading](../claims/stari-prior-positive-effects-reading-domains.md) [+W] — instruction changes it
+- [Reading rate gains in both treatment groups were accompanied by comprehension increases during the treatment, with rates generally below the 70% threshold](../claims/rate-gains-accompanied-by-comprehension-increases.md) [~M] — instruction changes it
+- [The comparison group showed a statistically significant decrease in reading rate from pretest to posttest](../claims/comparison-group-significant-rate-decrease.md) [-M] — instruction changes it
+- [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](../claims/mancova-group-differences-rate-not-comprehension.md) [+M] — instruction changes it
+- [The TR group (timed reading only) made statistically significant reading rate gains of about 15 to 27 swpm across four scoring methods](../claims/tr-group-significant-rate-gains-four-scoring-methods.md) [+M] — instruction changes it
+- [The TROR group (timed reading plus repeated oral reading with chunking and prosody) made statistically significant reading rate gains of about 13 to 27 swpm across four scoring methods](../claims/tror-group-significant-rate-gains-four-scoring-methods.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

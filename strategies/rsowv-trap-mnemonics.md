@@ -61,8 +61,10 @@ Packaged mnemonics work because they operationalize techniques with independent 
 9. **Practice** — retrieve from memory and check accuracy, spaced over time ([Practice](../elements/practice.md))
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the letter-based sibling of these routines; useful for ordered lists where imagery is awkward
 - [Keyword Mnemonic](keyword-mnemonic.md) — the imagery-based technique underlying the "A Picture" step
+- [Implement low-cost mnemonic story-writing strategies with explicit instruction and planning time within RTI](mnemonic-strategy-explicit-instruction-rti-writing.md)
 
 ## Examples
 - **Vocabulary study**: A middle-schooler learning Spanish uses TRAP on *la silla* — translates it as "chair," repeats it aloud, pictures a seat, then practices by recalling the word from the image the next day.

@@ -48,3 +48,5 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [Students rated mobile learning activities positively and 80% gave positive interview feedback](mobile-math-positive-student-perceptions.md) — related
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Students perceived the ACF-PA approach positively, citing technical benefits, enriched learning content, an optimized learning process, and motivation to think deeply](acf-pa-positive-student-perceptions.md) — related
+- [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
+- [Students report that daily-life WebQuest tasks made learning fun and that group work strengthened solutions and motivation](student-opinions-webquest-daily-life-groupwork.md) — related

@@ -99,6 +99,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - [Use genetic prediction early to identify children likely to struggle and deliver early, individualized prevention and learning programs](gps-early-identification-precision-education.md)
 - [Investigate limited responders' response to increasingly intensive levels of mathematics intervention within tiered systems of support](intensify-math-intervention-tiered-support-research.md)
 - [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
+- [Use content-based social studies readings for supplemental small-group reading instruction within MTSS](content-based-readings-tier2-tier3-instruction.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

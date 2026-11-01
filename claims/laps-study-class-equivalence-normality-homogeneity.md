@@ -56,3 +56,4 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [N-gain score distributions differed in normality between classes: the experimental class's N-gain was not normally distributed while the control class's was](n-gain-normality-differs-between-classes.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related

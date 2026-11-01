@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 20 studies (8 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 21 studies (9 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 5 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -56,6 +56,8 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](../claims/business-case-discussion-reveals-business-mindsets.md) [~W]
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](../claims/no-group-difference-theory-usage-increase.md) [-W]
+- [Case-based learning produced the highest chemistry achievement, followed by the 7E learning cycle model, with both exceeding conventional teaching (all pairwise differences significant)](../claims/cbl-highest-achievement-ordering.md) [+W] — attached 2026-11-01 from Adesoji et al. (2015), which proposed "Case-based learning strategy for chemistry".
+- [Case-based learning yielded the highest attitude mean score, significantly above conventional teaching, but the 7E-versus-CBL attitude difference was not significant](../claims/cbl-attitude-7e-not-significant.md) [+W] — attached 2026-11-01 from Adesoji et al. (2015), which proposed "Case-based learning strategy for chemistry".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

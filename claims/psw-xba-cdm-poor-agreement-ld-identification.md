@@ -53,3 +53,4 @@ Cross-tabulation of LD identification decisions for 206 fourth graders classifie
 - [XBA LD status does not predict posttest reading outcomes beyond pretest performance in decoding, fluency, or comprehension](xba-ld-status-null-treatment-response.md) — related
 - [For the C/DM, only short-term memory deficit status significantly predicted posttest word reading](cdm-gsm-deficit-word-reading-predictor.md) — related
 - [The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children](scd-pattern-robust-across-identification-criteria.md) — related
+- [Fourth graders with low reading comprehension in a text-based vocabulary and reading intervention with self-regulation supports outperformed comparison students on a researcher-developed vocabulary and reading measure](text-based-vocabulary-intervention-gains-fourth-graders.md) — related

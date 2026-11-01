@@ -53,3 +53,4 @@ Subgroup IPD meta-analysis of literacy outcomes by Key Stage (Table 9), based on
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
+- [P4C gains at Key Stage 2 were greater for FSM-eligible pupils in all subjects](p4c-gains-greater-for-fsm-pupils.md) — related

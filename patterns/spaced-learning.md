@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (31 for, 44 mixed, 4 against) · 57 studies (28 causal, 13 review, 7 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 74 claims rest on one study
+> **Evidence** · 81 claims (32 for, 45 mixed, 4 against) · 59 studies (29 causal, 13 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 59 report an effect size · 76 claims rest on one study
 
 ## Description
 
@@ -157,6 +157,8 @@ The examples are local design instances, not additional observations from those 
 - [Post-rest RT improvement was negligible and non-significant only in the 10 s trial, 30 s break group](../claims/null-post-rest-improvement-10s-trial-30s-break.md) [~M]
 - [Concentrated high-duration virtual reality training (>30 h over several weeks) was associated with reduced complication rates, while spaced-out simulator sessions were not](../claims/concentrated-vrs-training-reduces-complications.md) [-W]
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](../claims/monthly-practice-depth-volume-decline.md) [+W]
+- [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [+W]
+- [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](../claims/schedule-gpa-gender-moderators-college-algebra.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

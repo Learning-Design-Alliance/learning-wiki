@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 425 claims (240 show a difference, 90 mixed, 95 no difference) · 279 studies (150 associational, 75 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 279 report an effect size · 417 claims rest on one study
+> **Evidence** · 428 claims (240 show a difference, 91 mixed, 97 no difference) · 281 studies (150 associational, 77 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 281 report an effect size · 420 claims rest on one study
 
 ## How to read this page
 
@@ -464,6 +464,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students were more ethically sensitive than male students regardless of educational context group](../claims/females-more-ethically-sensitive.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Number relationships instruction shows no differential benefit by gender](../claims/no-gender-moderation-number-relationships.md) [-M] — an instructional effect differs by group
 - [Within the experimental group, female participants responded better to humour-based teaching than male participants](../claims/female-participants-respond-better-humour.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](../claims/female-groups-performed-better-ar-platform.md) [~W] — an instructional effect differs by group
+- [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](../claims/no-gender-method-interaction-arabic-grammar.md) [-W] — an instructional effect differs by group
+- [No statistically significant main effect of gender on Arabic grammar achievement](../claims/no-gender-main-effect-arabic-grammar-achievement.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

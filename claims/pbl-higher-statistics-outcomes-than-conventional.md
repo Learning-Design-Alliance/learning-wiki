@@ -49,3 +49,4 @@ Quasi-experimental non-equivalent pretest-posttest control group study over two 
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
+- [Project-method learners significantly outperformed control learners on the final test's application-level questions](project-method-application-level-final-test.md) — a narrower finding that bears on this claim

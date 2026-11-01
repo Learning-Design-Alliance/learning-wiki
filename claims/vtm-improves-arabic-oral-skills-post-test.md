@@ -51,3 +51,4 @@ Quasi-experiment with 48 purposefully selected third graders randomly assigned t
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
 - [Educational trips produced higher adjusted environmental knowledge scores than service learning, which in turn exceeded control](educational-trips-most-effective-environmental-knowledge.md) — related
 - [GIS-based teaching produced significantly higher post-test achievement scores than traditional teaching among underachieving Geography students, with a large-sized between-group effect](gis-teaching-higher-achievement-underachievers.md) — related
+- [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related

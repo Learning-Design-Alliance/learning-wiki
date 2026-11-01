@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (62 show a difference, 21 mixed, 6 no difference) · 67 studies (29 associational, 12 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 3 quant-synthesis), `q1`–`q4` · 6 of 67 report an effect size · 85 claims rest on one study
+> **Evidence** · 90 claims (63 show a difference, 21 mixed, 6 no difference) · 68 studies (29 associational, 12 review, 7 qualitative, 6 causal, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 6 of 68 report an effect size · 86 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -133,6 +133,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](../claims/students-experienced-technical-internet-navigation-issues.md) [+M] — learners who differ on it differ in outcomes
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](../claims/facility-deficits-associated-low-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Unrestricted 24/7 access to CAI materials is associated with better ECG outcomes, while restricted access is not](../claims/unrestricted-cai-access-benefit.md) [+M] — learners who differ on it differ in outcomes
+- [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](../claims/edmodo-technical-and-financial-challenges.md) [+M] — instruction changes it
 
 ## The evidence by question
 

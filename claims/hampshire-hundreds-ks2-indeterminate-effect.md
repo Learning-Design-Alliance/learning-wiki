@@ -52,3 +52,5 @@ Additional (non-protocol) intention-to-treat analysis using national Key Stage 2
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — possibly the same claim (merge candidate)
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](passive-dissemination-no-impact-everfsm-subgroup.md) — related
 - [The intervention showed no statistically significant impact on other (non-disadvantaged) pupils in the same classes (effect size -0.02).](hampshire-hundreds-no-significant-impact-other-pupils.md) — related
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
+- [The chess intervention showed no evidence of positive impact on Key Stage 2 reading and science scores](chess-no-impact-reading-science.md) — related

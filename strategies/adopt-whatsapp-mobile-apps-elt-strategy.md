@@ -53,6 +53,7 @@ The article closes with recommendations to integrate mobile applications into En
 ## Related Strategies
 
 - [Use micro-modules pairing short audio lessons with reflection texts and interactive quizzes for adult ELL mobile learning](cell-ed-micro-module-recipe.md)
+- [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related
+- [Children's flanker-task accuracy improved over the summer and showed the expected congruency effect, regardless of intervention group](flanker-accuracy-time-and-congruency-effects.md) — related

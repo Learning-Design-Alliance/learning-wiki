@@ -69,3 +69,4 @@ Paired-samples t-test within the control class (N=53): pretest mean 58.68, postt
 ## Related Claims
 - [Cooperative learning produced significantly higher posttest listening scores than traditional teaching in this study](cl-posttest-higher-than-traditional-listening.md) — possibly the same claim (merge candidate)
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
+- [Experimental-group students improved significantly in listening proficiency under the zero class hour model over two months](zero-class-hour-improved-listening-proficiency.md) — related

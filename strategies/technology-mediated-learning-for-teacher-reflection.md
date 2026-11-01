@@ -46,6 +46,7 @@ The article recommends computer-facilitated learning and activities to foster re
 - [Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction](facilitator-role-sociocultural-l2-writing.md)
 - [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](technology-facilitates-not-replaces-face-to-face.md)
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
+- [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
 
 ## Examples
 -

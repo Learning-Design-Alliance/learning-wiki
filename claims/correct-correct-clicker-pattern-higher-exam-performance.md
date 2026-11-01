@@ -69,3 +69,4 @@ Post hoc contrast from the same vote-pattern model on isomorphic exam questions;
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](clicker-vote-patterns-null-on-homework-explanations.md) — related
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Experimental-group students who used all three approaches in their posttest answers tended to earn higher scores](using-all-three-approaches-linked-to-higher-scores.md) — related
+- [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related

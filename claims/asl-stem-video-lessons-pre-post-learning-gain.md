@@ -49,3 +49,4 @@ In-lab within-participant experiment (N = 30) with pre-test, video learning phas
 - [Producing more concept-motivated signs in signed summaries predicted higher test scores, especially post-test, while English-motivated sign use did not](cm-sign-production-predicts-post-test-scores.md) — related
 - [Expert reviewers rated concept-motivated and English-motivated ASL lesson pairs as approximately equally clear, enjoyable, and frustrating](cm-em-lessons-equally-clear-enjoyable-validation.md) — related
 - [Brief signed video lessons produced learning gains, but the study could not rule out practice effects because it lacked a no-training control group](practice-effects-no-control-group-limitation.md) — possibly the same claim (merge candidate)
+- [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related

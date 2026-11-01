@@ -69,3 +69,4 @@ Fidelity quality ratings on the five-point IFC scale were collected by observers
 - [Teachers receiving BEST in CLASS showed higher observed adherence and competence in delivering the intervention practices at posttest than comparison teachers](best-in-class-higher-adherence-competence.md) — related
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
 - [First Step Next reduces relational aggression and child-teacher conflict in at-risk preschoolers](fsn-relational-aggression-teacher-conflict-reduction.md) — related
+- [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related

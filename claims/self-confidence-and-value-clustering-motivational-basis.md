@@ -61,3 +61,4 @@ Interpretation of the Factor 2 composition (task-value and self-efficacy items) 
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](interaction-learning-kam-self-confidence.md) — related
+- [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related

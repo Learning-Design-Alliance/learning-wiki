@@ -48,3 +48,4 @@ Independent-samples t-tests comparing feedback items per student across the two 
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](feedback-focus-shift-across-tasks.md) — related
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
 - [Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)](writing-score-trajectories-feedback-modes.md) — related
+- [Traditional feedback methods produced only minor writing-error improvement in the control group](traditional-feedback-minor-improvement-control.md) — related

@@ -55,3 +55,4 @@ Individual-level ANCOVAs on the second individual phase (n = 32 vs 33), controll
 - [Sharing individually generated ideas during the group phase (cognitive group awareness) increases the originality of collaboratively generated ideas](cognitive-group-awareness-raises-group-phase-originality.md) — related
 - [Flexibility mediates the effect of cognitive group awareness on originality in the subsequent individual phase, acting as a complementary mediator](flexibility-mediate-group-awareness-originality.md) — related
 - [SCAMPER prompts marginally increase persistence of individually generated ideas in hybrid brainstorming](scamper-prompts-increase-persistence-marginal.md) — related
+- [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — related

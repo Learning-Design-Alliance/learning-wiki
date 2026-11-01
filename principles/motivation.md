@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 119 claims (73 for, 44 mixed, 2 against) · 107 studies (29 causal, 29 review, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 107 report an effect size · 105 claims rest on one study
+> **Evidence** · 120 claims (73 for, 45 mixed, 2 against) · 108 studies (30 causal, 29 review, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 108 report an effect size · 106 claims rest on one study
 
 ## Conditional relationship
 
@@ -253,6 +253,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Across 19 quantitative m-Learning studies in higher education, 21 critical success factors were identified, with learner perceptions appearing in the most studies (15) and ownership in 14.](../claims/meta-analysis-21-csfs-learner-perceptions-most-cited.md) [~W]
 - [The hypothesized mediated moderation was not supported because motivation did not increase](../claims/mediated-moderation-not-supported.md) [-W]
 - [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](../claims/flipped-classroom-motivation-factors.md) [+W]
+- [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

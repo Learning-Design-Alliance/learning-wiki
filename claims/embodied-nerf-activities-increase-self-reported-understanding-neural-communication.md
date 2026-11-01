@@ -68,3 +68,4 @@ Paired-sample t-tests on the same 39-student pre-post survey; 14 outliers identi
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [Video-group students self-reported better understanding of the material than textbook-group students (44% vs 36% felt they understood well or very well)](video-group-higher-self-reported-understanding.md) — related
+- [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](interviews-students-understand-better-with-caricatures.md) — related

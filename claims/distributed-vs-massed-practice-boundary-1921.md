@@ -69,3 +69,4 @@ Conference report of maze-learning experiments with human and animal learners: m
 - [The longer and more difficult the motor problem, the more advisable it is to break it into units and learn both the units and their connections under massed conditions](difficult-problems-part-method-massed.md) — related
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](massed-distribution-tied-to-whole-part.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Animal neuroscience studies show spaced stimulation produces greater long-term potentiation than massed stimulation](spaced-stimulation-greater-ltp-animal-studies.md) — related

@@ -82,3 +82,4 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — related
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related

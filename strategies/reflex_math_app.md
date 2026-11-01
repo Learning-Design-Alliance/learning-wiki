@@ -12,7 +12,7 @@ generated:
 # Reflex Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 review, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Reflex Math is a commercial adaptive platform (ExploreLearning) that develops automatic recall of addition/subtraction and multiplication/division facts. The system continuously assesses which facts a learner can retrieve quickly and accurately, prioritizes instruction and practice on not-yet-mastered facts, and embeds this practice in fast-paced game formats with rewards, coaching characters, and progress monitoring visible to both student and teacher.
@@ -55,6 +55,10 @@ Reflex operationalizes the research consensus that fluency with basic facts free
 3. Have students complete the initial assessment so the adaptive engine can calibrate starting difficulty ([Adaptive Difficulty](../elements/adaptive-difficulty.md)).
 4. Monitor the teacher dashboard weekly; identify students whose fact mastery plateaus and pair them with offline strategy instruction or [Coaching](../elements/coaching.md).
 5. Use progress data as [Assessment](../elements/assessment.md) for grouping and intervention decisions rather than as a grade.
+
+## Claims
+
+- [Children who began the school year behind national norms gained closer to five additional months of math learning from the intervention](../claims/emc-pd-largest-gains-behind-norms-children.md) [+W]
 
 ## Related Strategies
 - [Timed Retrieval Practice](../strategies/timed-retrieval-practice.md) — the core mechanism Reflex automates

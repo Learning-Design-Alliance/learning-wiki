@@ -58,3 +58,4 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [Processing instruction significantly improves Iranian EFL learners' writing ability from pre-test to post-test](pi-significant-pre-post-writing-gain-iranian-efl.md) — related
 - [Students' science process skills improve significantly across three assessments under the MI-based strategy](sps-improve-across-three-assessments.md) — related
 - [Traditional instruction also significantly improves Iranian EFL learners' writing ability from pre-test to post-test](ti-significant-pre-post-writing-gain-iranian-efl.md) — related
+- [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related

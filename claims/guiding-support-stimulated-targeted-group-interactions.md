@@ -56,3 +56,4 @@ Log data from guiding-condition sessions showed 14 predefined messages posted to
 - [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](mirroring-lowest-reported-cognitive-load.md) — related
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](la-interventions-alerts-peer-adaptive.md) — related
 - [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](quarter-dashboard-consultations-no-action.md) — related
+- [A minority of students raised negative opinions about the timing of posts and redundant messages within the group](whatsapp-timing-and-redundant-message-complaints.md) — related

@@ -56,3 +56,4 @@ Across the review's random effects meta-analyses, the authors report "a moderate
 - [Planned moderator subgroup analyses could not be conducted because fewer than 10 studies per subgroup were available](subgroup-analyses-underpowered-moderators.md)
 - [Intelligence and personality factors show no relationship to the influence of conclusion-drawing](no-intelligence-personality-relation-conclusion-drawing.md) — a narrower finding that bears on this claim
 - [Moderator analyses for manipulative effects are inconclusive, with no discernable heterogeneity across participant and intervention characteristics](manipulative-moderators-inconclusive-no-heterogeneity.md) — related
+- [Students created their own analogies after being introduced to analogies, and in-group activities increased](students-generate-own-analogies-after-exposure.md) — related

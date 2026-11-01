@@ -47,3 +47,5 @@ Paired-samples t-test within the experimental group receiving weekly WhatsApp MM
 ## Related Claims
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) — related
 - [The two groups did not differ significantly in idiom knowledge at pretest](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related
+- [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related

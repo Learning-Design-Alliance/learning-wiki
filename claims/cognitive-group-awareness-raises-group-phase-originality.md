@@ -53,3 +53,4 @@ Group-level ANCOVA comparing 11 triads per experimental condition in the group p
 - [Cognitive group awareness support during the group phase carries over to improve originality, fluency, and flexibility in the subsequent individual phase](group-awareness-carries-over-to-second-individual-phase.md) — related
 - [Flexibility mediates the effect of cognitive group awareness on originality in the subsequent individual phase, acting as a complementary mediator](flexibility-mediate-group-awareness-originality.md) — related
 - [SCAMPER prompts marginally increase persistence of individually generated ideas in hybrid brainstorming](scamper-prompts-increase-persistence-marginal.md) — related
+- [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — related

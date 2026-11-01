@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (19 for, 16 mixed, 3 against) · 48 studies (21 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 48 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 49 studies (22 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Even adults learning substantially new content often need at least partial materialization with supports like orienting charts](../claims/materialization-needed-for-adult-novel-learning.md) [+W]
 - [Orienting charts can be learned with unusual ease and without deliberate memorization while performing learning tasks](../claims/orienting-charts-ease-of-learning.md) [+W]
 - [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](../claims/non-mapping-students-concentrated-more-on-identification.md) [-W]
+- [Self-constructed representations can be easier for students to use effectively than externally provided representations](../claims/self-constructed-beats-provided-representations.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

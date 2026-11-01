@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (20 show a difference, 9 mixed, 8 no difference) · 19 studies (7 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 19 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (20 show a difference, 10 mixed, 10 no difference) · 20 studies (8 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 20 report an effect size · 39 claims rest on one study
 
 ## Bottom line
 
@@ -75,6 +75,9 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Before intervention, mathematics performance differed by cognitive style, with field independent students scoring highest and field dependent students lowest](../claims/math-pretest-field-dependence-gradient.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](../claims/cooperative-learning-math-equivalent-across-cognitive-styles.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [In language, a significant methodology-by-cognitive-style interaction emerged, apparently favoring field independent students](../claims/language-posttest-style-interaction-favors-field-independent.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Learning style and form of teaching show no statistically significant interaction effect on university students' academic achievement](../claims/no-learning-style-form-interaction-on-achievement.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Learning styles have no significant effect on academic achievement in this quasi-experiment](../claims/learning-styles-no-effect-on-achievement.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Only competitive learning style correlated significantly with achievement, and only in the online group](../claims/competitive-style-correlation-online-only.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

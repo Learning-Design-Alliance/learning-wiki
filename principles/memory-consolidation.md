@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (24 for, 20 mixed, 3 against) · 58 studies (32 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 58 report an effect size · 40 claims rest on one study
+> **Evidence** · 49 claims (25 for, 21 mixed, 3 against) · 60 studies (34 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 60 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](../claims/single-workshop-no-literature-searching-gain.md) [+W]
 - [Preposition accuracy gains from written corrective feedback are retained two weeks after treatment](../claims/wcf-gains-retained-delayed-posttest.md) [~W]
 - [PI+EI outperformed PBI+EI on the aural interpretation task at the immediate posttest, but the advantage did not persist at the delayed posttest](../claims/pi-ei-beats-pbi-ei-interpretation-immediate-only.md) [~W]
+- [Combining ten-minute and 24-hour spaces was the most promising SMART Spaces variant in a small pilot RCT](../claims/combined-ten-minute-and-24-hour-spacing-most-promising-smart-spaces-variant.md) [+W]
+- [In repeated testing after one month, paper-form students did not reach their earlier score while electronic-form students had no problems gaining a satisfactory score](../claims/repeated-testing-electronic-satisfactory-score.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

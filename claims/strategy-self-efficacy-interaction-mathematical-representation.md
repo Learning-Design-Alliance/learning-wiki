@@ -56,3 +56,4 @@ Omnibus two-way ANOVA in the 2x3 factorial quasi-experiment (64 eighth-grade stu
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](interaction-learning-kam-self-confidence.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
+- [Teaching technique and personal traits interacted significantly in their effect on descriptive-writing achievement](technique-trait-interaction-descriptive-writing.md) — related

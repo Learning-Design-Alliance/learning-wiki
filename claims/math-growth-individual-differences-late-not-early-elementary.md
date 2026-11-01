@@ -70,3 +70,4 @@ Same latent-growth-curve analysis of WJ-III math subtests in grades 3-5. The stu
 ## Related Claims
 - [Reading-related skills show significant individual differences in growth rates in kindergarten through grade 2 but not in grades 3 through 5](reading-growth-individual-differences-early-not-late-elementary.md) — related
 - [Math fluency in grades 3-5 showed a cumulative growth pattern with a small significant positive intercept-slope correlation](math-fluency-cumulative-growth-grades-3-5.md) — related
+- [Children whose teachers participated in the early math PD intervention showed significantly greater growth in WJ-III age estimate scores than children in comparison classrooms over the intervention year](emc-pd-children-three-months-additional-growth.md) — related

@@ -60,3 +60,4 @@ In the same interview study's autonomy theme, participants described AI providin
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
 - [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](flexibility-top-perceived-benefit-apps.md) — related
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — related
+- [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related

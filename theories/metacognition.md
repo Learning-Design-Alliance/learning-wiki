@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 482 claims (228 for, 229 mixed, 25 against) · 254 studies (122 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 84 of 254 report an effect size · 475 claims rest on one study
+> **Evidence** · 485 claims (230 for, 230 mixed, 25 against) · 256 studies (124 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 85 of 256 report an effect size · 478 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -526,6 +526,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [A 10-week reading program combining quality children's books and metacognitive strategy instruction raised eighth-grade students' self-esteem more than typical non-quality books](../claims/quality-books-metacognitive-strategy-raise-self-esteem.md) [~W] — attached 2026-11-01 from Erkan Cer et al. (2017), which proposed "Metacognitive strategy as controlling, monitoring, evaluating, and self-regulating during reading".
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Gbenga-Akanmu & Jegede (2019), which proposed "Flavell's Metacognition Theory as the framework for numeracy intervention".
 - [Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+W] — attached 2026-11-01 from Arslantas et al. (2017), which proposed "Snyder's Self-Monitoring Theory: individual differences in controlling self-presentation, with behavioral and academic self-monitoring as two components".
+- [Upper-intermediate EFL learners trained with metacognitive strategies achieved the highest reading scores among the three strategy groups](../claims/metacognitive-group-highest-reading-scores.md) [+W] — attached 2026-11-01 from Mahdiyeh Seyed Beheshti Nasab et al. (2015), which proposed "Metacognition as knowledge of cognition plus regulation of cognition, with declarative, procedural, and conditional knowledge"; tests this page's relationship.
+- [Teacher candidates who read conceptual change texts enriched with metaconceptual activities learn symmetry better than those who read plain texts](../claims/metaconceptual-cct-improves-symmetry-understanding.md) [+W] — attached 2026-11-01 from Batdal Karaduman (2019), which proposed "Metaconceptual activities in concept learning comprise metaconceptual awareness, monitoring, and evaluation"; tests this page's relationship.
+- [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](../claims/age-negative-reading-metacognitive-group.md) [~W]
 
 ## The evidence by question
 

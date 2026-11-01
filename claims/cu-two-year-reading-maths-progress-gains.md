@@ -68,3 +68,4 @@ Summary impact table for volunteers after 2 years prints effect sizes of 0.12 fo
 - [All Year 5 children in CU schools made better average progress than control-school children regardless of their actual level of participation in CU activities](cu-progress-independently-of-participation.md) — related
 - [Volunteer pupils in Children's University schools made small gains in teamwork and social responsibility compared with control-school volunteers after two years](cu-two-year-teamwork-social-responsibility-gains.md) — related
 - [EverFSM pupils in Children's University schools made 1 additional month's progress in maths, no additional progress in reading, and small gains in teamwork and social responsibility](cu-everfsm-subgroup-outcomes.md) — related
+- [Participation in uniformed youth groups is associated with small improvements in self-reported self-confidence and teamwork](youth-united-small-non-attainment-gains.md) — related

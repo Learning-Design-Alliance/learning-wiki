@@ -47,3 +47,6 @@ Process evaluation based on observations of intervention sessions, telephone int
 ## Related Claims
 - [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
+- [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — reports the opposite
+- [Process evaluation found that session timing, pupil resentment and poor behaviour undermined engagement in Rhythm for Reading sessions](rhythm-for-reading-engagement-behaviour-problems.md) — a narrower finding that bears on this claim
+- [SMART Spaces was feasibly delivered in English schools, with teachers reporting faithful delivery and positive engagement](smart-spaces-feasible-delivery-english-schools.md) — reports the opposite

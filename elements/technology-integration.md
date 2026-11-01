@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 164 claims (79 for, 73 mixed, 12 against) · 137 studies (25 review, 25 associational, 23 causal, 23 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 29 of 137 report an effect size · 161 claims rest on one study
+> **Evidence** · 169 claims (82 for, 75 mixed, 12 against) · 140 studies (26 causal, 25 review, 25 associational, 23 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 29 of 140 report an effect size · 166 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -189,6 +189,11 @@ Technology integration is the element in which digital tools are used in direct 
 - [ICT investments did not improve learning outcomes significantly more than the basic non-ICT PRIMR education program](../claims/ict-not-better-than-base-primr.md) [-W]
 - [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [+W]
 - [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](../claims/students-report-scarce-technology-use-but-motivated-by-it.md) [+W]
+- [The authors report that students' insecurities and fears toward the Ottoman Turkish lesson decreased after the AR-supported study](../claims/ar-ottoman-decreased-insecurity-fears.md) [~W]
+- [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](../claims/ict-tourism-intragroup-faster-evolution.md) [+W]
+- [Among regular students, higher ASSISTments usage predicted higher 7th-grade MCAS performance](../claims/assistments-student-usage-predicts-mcas-regular.md) [+W]
+- [Effects of ICT-based teaching persisted at retest, with results similar to the post-test stage](../claims/ict-tourism-retest-durability.md) [+W]
+- [For special education students, student usage showed no effect, but students of no-usage teachers scored lower than those of some-usage teachers](../claims/special-education-usage-null-teacher-effect.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

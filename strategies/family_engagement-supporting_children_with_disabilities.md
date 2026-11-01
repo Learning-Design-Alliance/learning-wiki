@@ -64,6 +64,7 @@ Family involvement improves developmental and educational outcomes for children 
 - Collaborative IEP planning — the decision-making structure that determines whether goals are worth practicing at home
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
+- [Train normal peers, teachers and parents in peer tutoring to support children with ASD](train-peers-teachers-parents-peer-tutoring-asd.md)
 
 ## Examples
 - **[Project ImPACT](http://www.project-impact.org)** — a parent-mediated intervention for young children with autism; caregivers are coached to embed naturalistic teaching strategies (imitation, language expansion, play routines) into daily life, with strong randomized-trial support.

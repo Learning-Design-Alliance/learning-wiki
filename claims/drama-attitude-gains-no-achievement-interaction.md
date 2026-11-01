@@ -48,3 +48,4 @@ ANCOVA interaction test on ATSLS in the same 87-student quasi-experiment. Adjust
 - [The effect of drama-based teaching on concept understanding did not interact with students' achievement level, benefiting high, average, and low achievers alike](drama-concept-gains-no-achievement-interaction.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
 - [Drama-based science teaching improved seventh-grade students' understanding of scientific concepts compared with traditional teaching](drama-teaching-improved-scientific-concept-understanding.md) — related
+- [Learning model interacts with student attitudes and perceptions in affecting geometry concept understanding](interaction-learning-model-attitudes-geometry-understanding.md) — related

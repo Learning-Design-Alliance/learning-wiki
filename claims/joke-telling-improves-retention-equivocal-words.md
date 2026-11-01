@@ -58,3 +58,4 @@ Pilot quasi-experiment with four groups of Spanish B1 learners (36 English, 36 G
 - [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](pbl-authentic-environment-difficult-words-interpretation.md) — related
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related
+- [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related

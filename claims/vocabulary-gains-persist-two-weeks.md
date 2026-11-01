@@ -66,3 +66,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [High-presence dual-context learners showed 92% one-week retention versus 76% for single-context learners, with no group difference among low-presence participants](high-presence-dual-context-one-week-retention.md) — related
 - [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](fractions-tutor-significant-learning-gains.md) — related
 - [Delayed test five weeks after treatment showed no significant retention difference between SMS and paper groups](sms-vocabulary-delayed-test-no-difference.md) — related
+- [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](delayed-posttest-vocabulary-decline-off-list-words.md) — reports the opposite

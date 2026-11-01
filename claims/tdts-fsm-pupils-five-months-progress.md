@@ -66,3 +66,7 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
+- [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — reports the opposite
+- [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related

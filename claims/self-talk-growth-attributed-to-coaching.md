@@ -48,3 +48,4 @@ Emergent theme from the qualitative interviews, framed by the article's note tha
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md) — related
 - [Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains](caring-accountable-coach-relationship-benefits.md) — related
 - [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](lassi-self-regulation-gains-adhd-coaching.md) — related
+- [Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation](coaching-improves-executive-functioning-skills-six-ways.md) — possibly the same claim (merge candidate)

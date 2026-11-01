@@ -54,3 +54,4 @@ Analysis of transcripts and attendance records for the CPS ninth grade class of 
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related
+- [FGC showed no impact on hard educational performance outcomes (failure, final marks, truancy) at the end of the school year](fgc-no-impact-hard-outcomes.md) — related

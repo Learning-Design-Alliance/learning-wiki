@@ -29,7 +29,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (6 for, 10 mixed, 1 against) · 34 studies (13 causal, 8 quant-synthesis, 6 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 35 studies (14 causal, 8 quant-synthesis, 6 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 35 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,7 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 
 - [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](../claims/reading-four-voices-connects-story-and-graph.md) [~W]
 - [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](../claims/anchored-discussion-content-referrals-rereading.md) [+W]
+- [Students in both treatment groups were highly engaged with the stories, with no marked difference between approaches](../claims/sre-engagement-both-groups.md) [~M]
 
 ## Related Patterns
 

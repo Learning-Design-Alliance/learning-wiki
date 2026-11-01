@@ -132,3 +132,8 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — related
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
+- [Etymological elaboration improves EFL learners' comprehension of idioms](etymological-elaboration-improves-idiom-comprehension.md) — related
+- [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [Mode of teaching idioms has a statistically significant effect on EFL learners’ idiomatic competence](teaching-mode-significant-effect-idiomatic-competence.md) — related
+- [Before instruction, the experimental and control groups showed no statistically significant difference in vocabulary knowledge](tmm-study-groups-equivalent-at-pretest.md) — related

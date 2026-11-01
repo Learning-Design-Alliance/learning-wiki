@@ -43,7 +43,8 @@ The paper recommends peer tutoring as the collaborative learning style for the F
 - [Fine Tuning System Fts Serious Games](../theories/fine-tuning-system-fts-serious-games.md)
 
 ## Related Strategies
-- 
+
+- [Train normal peers, teachers and parents in peer tutoring to support children with ASD](train-peers-teachers-parents-peer-tutoring-asd.md)
 
 ## Examples
 -

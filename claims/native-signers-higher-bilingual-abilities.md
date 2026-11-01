@@ -54,3 +54,4 @@ Independent-samples t-test in the same 55-participant sample comparing native si
 - [The advantage of signing from birth holds for Deaf learners of all ages tested and all age-of-entry groupings](birth-signing-advantage-all-ages.md) — related
 - [Higher maternal education relates to more proficient bilingual abilities in deaf adults](maternal-education-predicts-bilingual-abilities.md) — related
 - [Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success](deaf-parents-sign-language-deaf-schools-social-perceptions.md) — related
+- [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related

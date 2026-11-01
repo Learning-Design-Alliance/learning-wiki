@@ -51,3 +51,4 @@ Conceptual-analysis research on prepositions and equivalent vocabulary across En
 - [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — related
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](dll-smaller-vocabulary-each-language.md) — related
+- [Control-group students reported that knowing translations of taught words was insufficient for understanding texts](tbi-students-report-translation-insufficient.md) — related

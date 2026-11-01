@@ -49,3 +49,4 @@ A 2 (Test Moment) x 2 (Context) x 2 (Training) mixed ANOVA on the FAE out-contex
 - [Training in critical-reflective thinking produced no change on the Cognitive Reflection Test](no-crt-effect-of-training.md) — related
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
 - [Training did not reduce confirmation bias on in-context measurements embedded in the second murder case](no-cb-reduction-in-context.md) — related
+- [Each approach improved only its own targeted knowledge: gains on approach-aligned posttests but not on opposite-approach measures](approach-matched-gains-only.md) — related

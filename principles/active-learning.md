@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (33 for, 28 mixed, 2 against) · 52 studies (15 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 52 report an effect size · 55 claims rest on one study
+> **Evidence** · 65 claims (35 for, 28 mixed, 2 against) · 53 studies (16 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 53 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [POGIL's pass-rate advantage holds across class sizes and regardless of reported instructor training, though small-class estimates rest on very few studies](../claims/pogil-pass-rate-moderators.md) [+W]
 - [Exam-score advantage of active learning held on exams one and two but not on exam three](../claims/active-learning-exam-advantage-varies-by-exam.md) [~M]
 - [Final course grades did not differ significantly between POGIL participants and non-participants in the fundamentals nursing course](../claims/pogil-final-course-grade-no-significant-difference.md) [-W]
+- [Project-method learners significantly outperformed control learners on the final test's application-level questions](../claims/project-method-application-level-final-test.md) [+W]
+- [Project-method learners significantly outperformed control learners on the final test's understanding-level questions](../claims/project-method-understanding-level-final-test.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

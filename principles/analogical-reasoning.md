@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (8 for, 12 mixed) · 27 studies (11 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 4 of 27 report an effect size · 13 claims rest on one study
+> **Evidence** · 22 claims (10 for, 12 mixed) · 28 studies (12 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
 - [Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model](../claims/two-models-comparison-far-across-domain-transfer.md) [+M] — attached 2026-10-23 from Jacobson et al. (2020), which proposed "Scaffold comparison of two contrasting-domain models during productive failure exploration to foster far across domain transfer"; tests this page's relationship.
 - [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](../claims/analogy-strategy-improves-organic-chemistry-achievement.md) [+W] — attached 2026-11-01 from Nawaf Ahmad Hasan Samara (2016), which proposed "Teach abstract organic chemistry concepts with explicit analogies in which students actively relate analog and target concepts"; tests this page's relationship.
+- [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](../claims/detailed-analogies-improve-computer-hardware-learning.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Human-body analogy mapping for computer hardware parts".
+- [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](../claims/students-view-detailed-analogies-positively.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Pilot-test analogies, use multiple analogies per concept, and support them with pictures, videos, and figures".
 
 ## Objective and learner-valued goal
 

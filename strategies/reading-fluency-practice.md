@@ -68,6 +68,7 @@ Fluency practice works because oral reading with feedback provides high-density 
 - [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 - [Implement Reader's Theater in EFL classrooms through a nine-step sequence from text selection to adaptation](readers-theater-nine-step-efl-sequence.md)
 - [Use repeated reading probes several grade levels below the student's grade level, with visible goals, extrinsic rewards, and daily progress charting](repeated-reading-lower-level-probes-strategy.md)
+- [Combine timed reading with repeated oral reading using chunked text and prosody modeling, holding comprehension at a 70% criterion](timed-reading-plus-oral-rereading-chunking-prosody.md)
 
 ## Examples
 - **[Read Naturally](../products/read-naturally.md)** (https://www.readnaturally.com) — combines audio modeling, repeated reading, and progress graphing; widely studied in Tier 2 interventions.

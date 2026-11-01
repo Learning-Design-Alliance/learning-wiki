@@ -72,3 +72,4 @@ Half of participants (N = 74) received the visual feedback prompt before the fin
 - [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related
 - [The intervention corrects erroneous strategy beliefs: perceived effectiveness of blocked practice falls and interleaved practice rises in the intervention condition](intervention-corrects-interleaving-beliefs.md) — related
 - [Before intervention, students predominantly block their self-organized study order, exceeding chance](students-predominantly-block-self-organized-study.md) — related
+- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related

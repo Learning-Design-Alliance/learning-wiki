@@ -18,7 +18,7 @@ sources:
 # Explicit Instruction: Internet Search
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 32 studies (13 causal, 9 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 32 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 33 studies (14 causal, 9 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 3 of 33 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Claims the earlier page cited that are not used in the model above, and neighbou
 - [Game-based learning improved pharmacy students' literature searching course scores in one reported study](../claims/game-based-learning-improves-literature-searching-scores-pharmacy.md) [+W] — a second-hand report in a review protocol of a game-based drug-information course in which average literature-searching scores rose across three years; credits were for completion rather than search quality, and no comparison group is described. Used only in the discipline row of the situation table.
 - [Undergraduate students' genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](../claims/genai-misconceptions-web-search-item.md) [~M] — one sample of undergraduates; 97.0% answered that AI chatbots perform web searches, though few held confident misconceptions overall. Describes beliefs, tests no teaching; used in the chatbot row.
 - [AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations](../claims/ai-overviews-mixed-effects-academic-search.md) [~M] — one within-subjects user study reported in a workshop report; fewer reformulations with summaries is relevant to whether learners practise revision at all when a summary is shown. Used in the AI-summary row.
+- [Undergraduates who complete either an interactive GotS tutorial or a screencast score significantly higher on a database-searching post-test than an uninstructed control group](../claims/online-tutorials-outperform-control-database-searching.md) [+W] — attached 2026-11-01 from Mery et al. (2014), which proposed "Interactive guided live-database tutorial pattern with linear steps and hands-on activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

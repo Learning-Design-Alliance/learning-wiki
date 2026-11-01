@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 36 claims (26 show a difference, 7 mixed, 3 no difference) · 25 studies (12 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 25 report an effect size · 36 claims rest on one study
+> **Evidence** · 37 claims (27 show a difference, 7 mixed, 3 no difference) · 26 studies (13 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 26 report an effect size · 37 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -73,6 +73,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Most entering pre-service teachers in the sample were at van Hiele Levels 0–2, and none attained Level 5 before or after instruction](../claims/ghanaian-pts-low-van-hiele-levels-no-level-5.md) [-M] — instruction changes it
 - [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](../claims/vhpi-significant-mean-score-gain-paired-ttest.md) [+M] — instruction changes it
 - [Pre-service teachers taught with van Hiele Phase-based Instruction attained significantly higher van Hiele levels of geometric thinking than those taught with conventional instruction](../claims/vhpi-higher-geometric-thinking-levels-than-conventional.md) [+M] — instruction changes it
+- [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](../claims/structured-inquiry-higher-geometry-concept-understanding.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

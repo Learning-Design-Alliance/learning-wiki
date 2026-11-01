@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (19 for, 17 mixed, 4 against) · 23 studies (10 quant-synthesis, 8 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 23 report an effect size · 37 claims rest on one study
+> **Evidence** · 41 claims (20 for, 17 mixed, 4 against) · 24 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 24 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -112,6 +112,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](../claims/peer-tutoring-audio-prompting-vocabulary-gains.md) [+W] — attached 2026-10-16 from Mackiewicz et al. (2011), which proposed "Eight-card audio-prompted tutoring sequence with model-lead-test feedback"; tests this page's relationship.
 - [No achievement difference between staff- and peer-tutored groups in the first curriculum year](../claims/no-achievement-difference-year-one-peer-staff.md) [~W] — attached 2026-10-18 from Schmidt et al. (1995), which proposed "In early problem-based curriculum years, peer tutors can substitute for staff tutors without achievement loss"; tests this page's relationship.
 - [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](../claims/peer-teacher-training-course-based-median-ten-days.md) [~W] — attached 2026-11-01 from Winter Lone et al. (2024), which proposed "Develop comprehensive guidelines for peer tutor education to standardize training and ensure minimum standards".
+- [Peer tutoring produced statistically significant post-test gains in non-verbal communication for children with ASD relative to a control group](../claims/peer-tutoring-improves-nonverbal-communication-asd-posttest.md) [+W] — attached 2026-11-01 from Wael Alshurman (2015), which proposed "Peer-pair role structure: peers as teachers, students with autism as lesson recipients"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (28 for, 53 mixed, 11 against) · 66 studies (33 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 20 of 66 report an effect size · 85 claims rest on one study
+> **Evidence** · 93 claims (28 for, 54 mixed, 11 against) · 67 studies (34 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 20 of 67 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
 - [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
 - [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](../claims/website-reliability-evaluation-similar-across-groups.md) [-W]
+- [Treatment teachers provide significantly more minutes of focal, scaffolded, small-group math support than control teachers](../claims/treatment-teachers-more-math-support-minutes.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

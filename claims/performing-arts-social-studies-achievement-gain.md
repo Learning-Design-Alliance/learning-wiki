@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-01
 sources:
   - id: kenan-baş-2019
     resource: "https://doi.org/10.7575/aiac.ijels.v.7n.2p.107"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Experimental groups taught through performing arts scored significantly higher than control groups taught by the current syllabus on pre-post-permanence achievement measures. [→ Kenan BAŞ 2019](#kenan-bas-2019)
@@ -53,3 +54,4 @@ Quasi-experimental pretest-posttest control group study with 5 experimental (n =
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Students judged mathematics unsuitable for performing-arts teaching (f = 13) while endorsing social studies, theology, science, Turkish, and English](student-views-subject-suitability-performing-arts.md) — related
+- [Fourth graders taught science and social studies through the project method achieved higher final-test knowledge than peers taught in the usual way](project-method-higher-final-knowledge-young-learners.md) — related

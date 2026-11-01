@@ -50,3 +50,4 @@ A 2 (group) × 2 (testing time) mixed-design ANOVA on HCTA scores found "no sign
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](ct-measure-type-influences-effectiveness-evaluation.md) — related
 - [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — reports the opposite
+- [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related

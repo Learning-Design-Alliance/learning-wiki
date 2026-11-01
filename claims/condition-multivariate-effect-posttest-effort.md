@@ -52,3 +52,4 @@ MANCOVA on data from 89 undergraduates (G1: n = 27; G2: n = 28; G3: n = 34) in a
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
+- [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](mancova-group-differences-rate-not-comprehension.md) — related

@@ -78,3 +78,4 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 - [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](kline-distributed-practice-amplifies-transfer-effects.md) — related
 - [Meta-analysis attributes a medium effect of ICT use on learning that dissipates and vanishes in studies assessing intervals longer than a year](ict-learning-medium-effect-vanishes-beyond-one-year.md) — related
+- [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](optimal-isi-scales-with-retention-interval-cognitive-reviews.md) — possibly the same claim (merge candidate)

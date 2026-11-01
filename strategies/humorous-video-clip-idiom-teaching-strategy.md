@@ -42,7 +42,8 @@ The article recommends that EFL teachers provide students with humorous video cl
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](../claims/positive-attitudes-toward-humorous-video-clips.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teach idioms through interactive, contextualized activities such as role-play and movie clips rather than isolated definitions](teach-idioms-contextualized-interactive-activities.md)
 
 ## Examples
 -

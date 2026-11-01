@@ -51,3 +51,4 @@ Row from the ANCOVA Tests of Between-Subjects Effects table (Table 6) for the sa
 ## Related Claims
 - [Form Four students taught statistical reasoning with Fathom outperformed control-group students on posttest statistical reasoning scores after controlling for pretest](fathom-instruction-improves-statistical-reasoning-form-four.md) — related
 - [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](pretest-covariate-significant-ancova-games-study.md) — reports the opposite
+- [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — reports the opposite

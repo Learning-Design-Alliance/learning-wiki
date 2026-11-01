@@ -41,7 +41,8 @@ Based on the findings, the article recommends that "Physics teachers in Abuja sh
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](../claims/gitm-beats-conventional-light-sound-waves.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Adopt constructivist/inquiry strategies (7E and CBL) in chemistry teaching with adequate teacher preparation](adopt-7e-cbl-chemistry-strategy.md)
 
 ## Examples
 -

@@ -71,9 +71,11 @@ Well-designed visuals exploit the dual channels of working memory — pairing wo
 7. Check accessibility: contrast ratios, font sizes, alt text, and color-independent encoding.
 
 ## Related Strategies
+
 - Chunked Content Delivery — segmentation is the structural half of the same load-management goal
 - Visual Note-Taking — learners apply the same dual-coding principles to their own encoding
 - Storyboarding — planning presentations around narrative and visual sequence before production
+- [Let learners reveal labels and color codes one at a time by clicking buttons in a computer-based lesson](click-to-reveal-labels-one-at-a-time.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — deliberately plain visuals: a single dark canvas, minimal color, handwriting synchronized with narration; design choices that embody the coherence principle.

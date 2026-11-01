@@ -142,6 +142,7 @@ The expectation should weaken if a comparison of integration-focused with techni
 
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
 - [Create AI professional development for K-12 teachers addressing both AI content knowledge and AI pedagogical knowledge, for in-service and pre-service teachers](../strategies/k12-ai-teacher-professional-development.md)
+- [Provide teachers with training periods on how, when, and where to use language-learning technologies](../strategies/teacher-training-periods-for-language-technology.md)
 
 ## Key Sources
 - The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781

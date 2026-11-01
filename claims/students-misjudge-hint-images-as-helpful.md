@@ -51,3 +51,4 @@ Judgments of learning in Experiments 2 and 3, where images provided partial hint
 - [Active verbal cues provide concrete, partial information that reduces novices' uncertainty during visual problem-solving](verbal-cues-reduce-uncertainty.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
 - [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](students-recognize-harm-only-when-images-reveal-answer.md) — related
+- [Students reported that information messages sent with supportive images increased their interest and helped recall](whatsapp-images-increase-interest.md) — related

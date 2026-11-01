@@ -75,6 +75,7 @@ Anxiety consumes working memory and attention that would otherwise support learn
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small early wins are the mechanism by which this strategy builds self-efficacy
 - [Reduce anxiety and build self-confidence in older language learners](reduce-anxiety-build-confidence-older-learners.md)
 - [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
+- [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — vicarious mastery: watching an expert make and recover from errors lowers perceived risk
