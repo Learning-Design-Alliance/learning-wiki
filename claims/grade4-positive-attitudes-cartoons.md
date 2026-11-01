@@ -46,3 +46,4 @@ Attitudes questionnaire with 13 Likert items in two domains, administered to the
 
 ## Related Claims
 - [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — related
+- [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related

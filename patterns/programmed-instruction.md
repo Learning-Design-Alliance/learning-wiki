@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (5 for, 14 mixed, 2 against) · 19 studies (8 quant-synthesis, 4 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (5 for, 17 mixed, 2 against) · 21 studies (8 quant-synthesis, 6 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,9 @@ This pattern is scoped to well-defined content whose steps have checkable answer
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 - [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](../claims/participant-computer-controller-no-recall-difference.md) [~W]
 - [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](../claims/skipping-decisions-diverge-from-computer.md) [~W]
+- [The correlation between number of questions answered and attainment shift was only very slight (r = 0.13; r = 0.10), so the relationship was not clearly linear](../claims/weak-correlation-questions-attainment-shift.md) [~W]
+- [Explicit information showed no within-instruction effect: PI+EI equalled PI-EI and PBI+EI equalled PBI-EI on both tasks over time](../claims/ei-no-within-instruction-effect.md) [~W]
+- [No significant differences emerged among the four instructional groups on the oral production task, despite PI learners never producing the target form during instruction](../claims/pi-pbi-equal-oral-production.md) [~W]
 
 ## Related Patterns
 

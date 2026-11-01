@@ -53,3 +53,5 @@ Two-way ANCOVA (teaching methods and gender with interaction effect) on overall 
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
+- [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — a narrower finding that bears on this claim
+- [No significant interaction between gender and instructional method on basic science achievement](no-gender-method-interaction-basic-science.md) — related

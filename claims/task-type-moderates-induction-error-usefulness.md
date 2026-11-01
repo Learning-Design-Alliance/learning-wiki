@@ -52,3 +52,4 @@ A conceptual analysis: response precision and associations appear not to require
 - [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Generation Effect Improves Retention](generation-effect-improves-retention.md) — related
+- [The best teaching approach may vary depending on the skill being taught, warranting research on skills such as eye contact and imitation](best-approach-varies-by-skill-taught.md) — a narrower finding that bears on this claim

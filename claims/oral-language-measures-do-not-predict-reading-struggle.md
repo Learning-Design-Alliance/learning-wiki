@@ -65,3 +65,4 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — reports the opposite
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — reports the opposite
+- [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related

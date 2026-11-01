@@ -49,3 +49,4 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](cbmp-outperformed-conventional-posttest.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
+- [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related

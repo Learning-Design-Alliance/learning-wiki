@@ -52,3 +52,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
 - [Students report positive attitudes towards studying physics in the blended web-based environment](web-based-learning-positive-attitudes-toward-physics.md) — related
+- [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related

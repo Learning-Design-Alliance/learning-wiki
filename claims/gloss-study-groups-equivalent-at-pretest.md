@@ -74,3 +74,6 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
 - [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related
+- [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
+- [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related

@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 7 studies (4 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 8 studies (5 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -68,6 +68,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](../claims/verbal-cues-prompt-nonverbal-action.md) [~W]
 - [Reinforcement learning modeling revealed avoidance of choices made by demonstrators described as Worst, with description affecting copying rather than observational outcome learning](../claims/rl-avoidance-of-worst-demonstrators.md) [~W]
 - [Brain activity was not modulated by demonstrator description, but the copying rate modulated activity in action-observation and decision-making regions for Best demonstrators only](../claims/copying-rate-neural-modulation-best-only.md) [~W]
+- [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](../claims/students-enjoy-demonstration-method-step-by-step-explanation.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

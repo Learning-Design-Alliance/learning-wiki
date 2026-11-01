@@ -54,3 +54,5 @@ Three open-ended pretest questions administered to both groups before the 10-wee
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
+- [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
+- [The three groups did not differ in prior achievement before the Force and Motion intervention](pretest-homogeneity-writing-groups.md) — related

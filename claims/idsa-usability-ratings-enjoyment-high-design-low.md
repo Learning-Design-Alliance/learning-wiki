@@ -55,3 +55,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
 - [Stakeholder and literature analysis yields seven IDSA requirement groups covering functionalities, contact options, data-based individuality, testing, marketing, data protection, and usability](seven-idsa-requirement-groups-stakeholder-analysis.md) — related
 - [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](students-prefer-low-scaffolded-strategy-free-tutor.md) — related
+- [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (76 show a difference, 30 mixed, 27 no difference) · 94 studies (30 associational, 22 review, 20 quant-synthesis, 18 causal, 2 design, 2 theoretical), `q1`–`q3` · 30 of 94 report an effect size · 130 claims rest on one study
+> **Evidence** · 143 claims (85 show a difference, 31 mixed, 27 no difference) · 98 studies (30 associational, 22 review, 21 causal, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 31 of 98 report an effect size · 140 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -170,6 +170,16 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Five weeks of instruction in pragmatic routines significantly improved EFL learners' pragmatic competence relative to a control group](../claims/pragmatic-routine-instruction-improves-pragmatic-competence.md) [+M] — instruction changes it
 - [Pragmatic routine instruction showed no effect on learners' spoken production three weeks into treatment](../claims/pragmatic-instruction-no-effect-spoken-production.md) [-W] — instruction changes it
 - [Treatment groups also significantly outperformed controls on categorizing pragmatic routines by function, with a medium effect size](../claims/routine-function-categorization-post-test-gain.md) [+W] — instruction changes it
+- [Contrived approaches show greater generalization of spoken language skills than naturalistic approaches in children with autism](../claims/contrived-approaches-greater-generalization-pnd.md) [+M] — instruction changes it
+- [Feasibility studies showed larger narrative gains for SKILL classrooms and high-risk children, with a large effect in a small-scale RCT](../claims/skill-feasibility-studies-effects.md) [+M] — instruction changes it
+- [Grade level moderates the SKILL effect on reading comprehension, benefiting Grades 3–4 but not Grades 1–2, while oral and written language effects do not vary by grade](../claims/skill-grade-moderation-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](../claims/multimedia-more-effective-than-conventional-media-listening.md) [+M] — instruction changes it
+- [Naturalistic approaches show higher mean PND than contrived approaches for maintenance of language skills](../claims/naturalistic-approaches-higher-maintenance-pnd.md) [+M] — instruction changes it
+- [Naturalistic language interventions produce higher mean PND than contrived interventions during intervention conditions for children with autism](../claims/naturalistic-intervention-higher-pnd-than-contrived-autism.md) [+M] — instruction changes it
+- [Oral narration gains generalize to written narration at posttest and are maintained at follow-up](../claims/skill-written-narration-gains.md) [+M] — instruction changes it
+- [Oral narrative advantage is maintained five months after intervention on the researcher-designed rubric but not on the norm-referenced TNL-2](../claims/skill-oral-narration-followup-maintenance.md) [~M] — instruction changes it
+- [SKILL intervention significantly improves oral narrative comprehension and production immediately after treatment in at-risk Grade 1–4 students](../claims/skill-improves-oral-narration-posttest.md) [+M] — instruction changes it
+- [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](../claims/youtube-language-learning-reviewed-benefits.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

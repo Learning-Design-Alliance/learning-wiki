@@ -49,3 +49,4 @@ Methodological statement from the article's calculation section, describing the 
 - [A 933-pupil survey of ancient-history recall provided the data for scaling question difficulty](ancient-history-scale-933-papers.md) — related
 - [Some sentences show imperfect difficulty graduation, with inversions in per cent correct across years](latin-sentence-difficulty-graduation-inversions.md) — related
 - [Even the easiest Latin sentence test items were too difficult for first-year pupils, with only the first sentence translated correctly by most](latin-sentence-test-a-first-items-too-hard-first-year.md) — related
+- [Some achievement-test items on ecosystem elements, biodiversity, and pollution causes were answered correctly by low percentages of experimental students](low-percentage-at-items-remaining-gaps.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Qualitative theme from interview accounts: multiple participants named ego and c
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related
 - [Students avoided a district's learning centers because of stigma that the centers were only for struggling students](learning-center-stigma-discouraged-use.md) — a narrower finding that bears on this claim
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
+- [Some higher-ability pupils found the VEFP too easy and teachers felt such pupils should not have been in the study](vefp-higher-ability-pupils-found-programme-too-easy.md) — related

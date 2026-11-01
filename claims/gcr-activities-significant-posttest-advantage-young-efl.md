@@ -52,3 +52,4 @@ Quasi-experimental pretest–posttest study with 30 experimental and 30 control 
 - [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — a broader claim this one bears on
+- [Foreign learners of Turkish taught grammar with personalized texts scored significantly higher on the post-test than learners taught with ordinary textbook examples](personalized-texts-higher-turkish-grammar-achievement.md) — related

@@ -47,3 +47,4 @@ Semi-structured interviews with 10 students per group (162 coded responses); the
 ## Related Claims
 - [Students using the ACF-PA approach developed significantly greater self-regulated learning conceptions than students using the C-PA approach](acf-pa-improves-self-regulated-learning-conceptions.md) — related
 - [Students using the ACF-PA approach showed significantly higher intrinsic motivation than students using the C-PA approach, with no significant difference in extrinsic motivation](acf-pa-improves-intrinsic-motivation.md) — related
+- [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related

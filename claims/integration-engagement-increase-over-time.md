@@ -68,3 +68,4 @@ Regression of pupil engagement on successive on-computer activities in the four 
 - [Senior kindergarteners engaged to a higher extent in on-computer activities than junior kindergarteners](senior-pupils-higher-engagement-computer-activities.md) — related
 - [Senior kindergarten teachers integrated on- and off-computer activities to a significantly higher extent than junior kindergarten teachers](senior-teachers-higher-technology-integration.md) — related
 - [Course-integrated implementations of active learning more often reported sustained skill development, while one-off sessions more often reported engagement and perceived relevance gains](course-integrated-vs-one-off-outcome-patterns.md) — related
+- [Writing-to-learn activities were implemented over four weeks within a seven-week study plan with identical teaching across groups](four-week-writing-implementation-plan.md) — related

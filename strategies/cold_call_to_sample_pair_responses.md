@@ -58,10 +58,12 @@ Cold calling after pair work converts discussion from optional participation int
 5. Deliver task-level feedback on the sampled answers before moving on [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the pair-discussion structure this strategy builds on; cold calling replaces the volunteer-based share phase
 - [Cold Call](cold-call.md) — the base technique; this variant adds pair discussion to lower risk and improve answer quality
 - [Wait Time](wait-time.md) — the pause discipline that makes cold calling a thinking prompt rather than a gotcha
 - [Random Calling](random-calling.md) — the equity mechanism that makes sampling visibly fair
+- [Manage TPS discussion challenges by having the instructor circulate among pairs and by using classroom response systems for evaluating responses and managing time](tps-engagement-and-noise-management.md)
 
 ## Examples
 - **Teach Like a Champion (Lemov, 2021)** — "Cold Call" is one of the core techniques; Lemov explicitly recommends cold calling *after* turn-and-talk so students report rehearsed answers, and describes "warm calling" as the on-ramp for reluctant speakers. See [Teach Like a Champion](https://teachlikeachampion.com).

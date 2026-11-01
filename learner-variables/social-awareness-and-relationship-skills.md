@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 165 claims (110 show a difference, 37 mixed, 18 no difference) · 122 studies (42 review, 26 associational, 22 causal, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 33 of 122 report an effect size · 161 claims rest on one study
+> **Evidence** · 172 claims (114 show a difference, 38 mixed, 20 no difference) · 126 studies (42 review, 26 causal, 26 associational, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 34 of 126 report an effect size · 168 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -206,6 +206,13 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [In an RCT, women STEM doctoral students who used CareerWISE showed greater knowledge of interpersonal problem solving steps than wait-list controls](../claims/careerwise-rct-treatment-steps-knowledge.md) [+M] — instruction changes it
 - [Time-varying (within-dyad) congruent communication does not moderate the CBC effect on teacher-reported social skills](../claims/time-varying-congruence-no-moderation.md) [-M] — an instructional effect differs with it
 - [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](../claims/cooperative-program-social-skill-development-observation.md) [+W] — instruction changes it
+- [After CIEA implementation the experimental group scored significantly higher than the control group on Social Competence, Internalising Problems and General Adaptation composite scales](../claims/ciea-composite-scale-gains.md) [+M] — instruction changes it
+- [Five-month implementation of the CIEA produced significant group-by-time interactions favouring the experimental group on five of eight basic social-behaviour scales](../claims/ciea-improved-five-basic-social-behaviour-scales.md) [+M] — instruction changes it
+- [Parent and teacher ratings of social competence improved markedly from pre to post in both ART and control groups, with no differences between the groups](../claims/parent-teacher-competence-both-groups-improve.md) [-M] — instruction changes it
+- [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](../claims/shine-secondaries-process-evaluation-positive-perceptions.md) [+W] — instruction changes it
+- [The 30-hour ART programme is associated with a significant increase in children's self-reported overall social competence, with no change in the control group](../claims/art-self-report-social-competence-increase.md) [+M] — instruction changes it
+- [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](../claims/ciea-no-prosocial-scale-effect.md) [-M] — instruction changes it
+- [The treatment effect on social skills was moderated by a significant Condition × Pretest × State interaction, significant only in State A](../claims/social-skills-condition-pretest-state-interaction.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

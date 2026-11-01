@@ -48,3 +48,4 @@ Interaction term (columns by rows) of the two-way ANOVA on the post-test scores 
 - [Students with high reading habit have better reading comprehension than students with low reading habit](high-reading-habit-better-comprehension.md) — related
 - [Students' motivation to learn English reading increased significantly during Herringbone technique implementation](ht-increased-reading-motivation.md) — related
 - [The Herringbone technique is more effective than the Tri Focus Steve Snyder technique for teaching reading comprehension to ninth-grade EFL students](ht-more-effective-than-tfsst-reading-comprehension.md) — related
+- [There is no interaction between reading strategy and English proficiency in academic content-area reading comprehension](no-interaction-reading-strategy-english-proficiency.md) — related

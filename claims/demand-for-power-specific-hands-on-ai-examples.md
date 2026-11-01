@@ -71,3 +71,4 @@ Survey question on perceived relevance of image-based examples (e.g., MNIST) to 
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](student-demand-hands-on-it-instruction.md) — related
 - [Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users](survey-ai-barriers-power-community-nearly-universal.md) — related
 - [Students showed clear appetite for automated writing support and comfort with machine-generated feedback](student-appetite-automated-writing-feedback.md) — related
+- [Nearly all surveyed students (97.5%) said they need interactive multimedia in the learning process](students-need-interactive-multimedia-97-5-percent.md) — related

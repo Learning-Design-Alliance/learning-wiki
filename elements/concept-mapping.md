@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 13 studies (5 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 9 of 13 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (9 for, 8 mixed, 2 against) · 14 studies (6 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 9 of 14 report an effect size · 16 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -59,6 +59,7 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Use of yellow quotation nodes (marking logical inconsistencies) correlated negatively with essay logical coherence in the knowledge-mapping class](../claims/yellow-quotation-nodes-negative-coherence-correlation.md) [-W]
 - [An individual preparation phase shows no significant difference on concepts, domains or cross-links in the resulting collaborative concept maps](../claims/wip-no-difference-concepts-domains-crosslinks.md) [~W]
 - [An individual preparation phase yields significantly more types of cross-links in collaborative concept maps, with a large effect size](../claims/wip-significant-types-of-cross-links.md) [+W]
+- [No significant difference in achievement between male and female students taught basic science with concept mapping](../claims/no-gender-difference-concept-mapping-achievement.md) [~W]
 
 ## The evidence by question
 

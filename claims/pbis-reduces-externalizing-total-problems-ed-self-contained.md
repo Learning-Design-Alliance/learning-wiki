@@ -80,3 +80,4 @@ Chi-square comparisons of students meeting the TRF t-score-at-or-above-63 criter
 
 - [In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues](tkss-fidelity-ancova-interaction-problem-behavior.md) — related
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
+- [BEST in CLASS reduced the percentage of children in the clinical or borderline range on all three C-TRF problem-behavior subscales](best-in-class-reduced-clinical-range-c-trf.md) — related

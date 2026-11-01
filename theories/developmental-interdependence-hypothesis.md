@@ -17,7 +17,7 @@ sources:
 # The developmental interdependence hypothesis: L2 competence depends partly on L1 competence at the onset of intensive L2 exposure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 4 studies (2 associational, 1 review, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (2 associational, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 The developmental interdependence hypothesis is the paper's central explanatory account of how first-language (L1) and second-language (L2) skills relate across development. It proposes that "the development of competence in a second language (L2) is partially a function of the type of competence already developed in Ll at the time when intensive exposure to L2 begins." When a child's L1 is well developed before intensive L2 exposure, high L2 competence can develop at no cost to L1; when L1 is less developed, early intensive L2 exposure impedes continued L1 growth, which in turn limits L2 development. The hypothesis underpins the paper's argument that instruction through the minority child's L1 supports, rather than hinders, L2 acquisition.
@@ -47,6 +47,7 @@ The developmental interdependence hypothesis is the paper's central explanatory 
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](../claims/arrival-age-15-16-ge5-good-immigration-age.md) [~W]
 - [Timing of English exposure moderates how vocabulary growth predicts reading: English vocabulary growth predicted HEC children's English passage comprehension while Spanish vocabulary growth predicted SEC children's English reading](../claims/timing-english-exposure-moderates-vocabulary-reading-effects.md) [~W]
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](../claims/young-arrivals-risk-losing-both-l1-and-l2.md) [+W]
+- [In the ToTAL trial, instruction in the mother tongue of Haitian Creole was associated with gains in French on skills that were not explicitly taught.](../claims/haitian-creole-instruction-french-gains.md) [+W]
 
 ## Related Theories
 

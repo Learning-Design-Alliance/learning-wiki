@@ -51,3 +51,4 @@ Semi-experimental post-measure study of 120 third graders in two Irbid schools, 
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
 - [K.W.L instruction produces significantly higher acquisition of religious concepts than traditional teaching among 8th-grade Jordanian students](kwl-improves-religious-concept-acquisition.md) — related
 - [No statistically significant group-by-gender interaction on science achievement](tps-no-group-gender-interaction.md) — related
+- [Think-pair-share instruction produced higher conceptual learning in classical mechanics than conventional teacher-centered teaching in a quasi-experimental physics course](tps-improves-conceptual-learning-mbt.md) — related

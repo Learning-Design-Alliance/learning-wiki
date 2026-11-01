@@ -51,3 +51,4 @@ Hong, Hwang, Tai, and Lin's study of the relationship among self-efficacy, compe
 - [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
+- [Achievement in mathematics word problems correlates positively with five attitude dimensions and negatively with anxiety](attitude-achievement-correlations-word-problems.md) — related

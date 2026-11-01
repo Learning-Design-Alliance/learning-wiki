@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (46 show a difference, 17 mixed, 9 no difference) · 48 studies (15 review, 12 causal, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (47 show a difference, 18 mixed, 9 no difference) · 49 studies (15 review, 13 causal, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 73 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -108,6 +108,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotional intelligence is not a strong predictor of clinical performance in rehabilitation science students](../claims/emotional-intelligence-not-strong-predictor-clinical-performance.md) [-M] — learners who differ on it differ in outcomes
 - [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](../claims/ei-weakly-predicts-md-academic-success.md) [+M] — learners who differ on it differ in outcomes
 - [The EI–academic success effect size varies significantly by EI subscale, with perceiving emotions highest (r = .20)](../claims/ei-subscale-moderates-md-academic-success.md) [~M] — learners who differ on it differ in outcomes
+- [Baseline externalizing symptoms moderated the social-cognitive outcome, with children lower in externalizing showing larger improvement in emotion recognition](../claims/externalizing-moderates-cam-c-outcome.md) [~M] — instruction changes it
+- [The schoolMAX intervention was superior to services-as-usual on emotion recognition, ASD symptoms, and social/communication skills in the prior cluster RCT](../claims/schoolmax-superior-to-sau-primary-outcomes.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

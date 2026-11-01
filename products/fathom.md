@@ -26,7 +26,8 @@ Fathom is dynamic statistics software developed under the direction of Bill Finz
 - [Form Four students taught statistical reasoning with Fathom outperformed control-group students on posttest statistical reasoning scores after controlling for pretest](../claims/fathom-instruction-improves-statistical-reasoning-form-four.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [TinkerPlots](tinkerplots.md)
 
 ## Key Sources
 - Nanteni Ganesan & Leong Kwan Eu. (2018). Effectiveness of Fathom on Statistical Reasoning among Form Four Students. Malaysian Online Journal of Educational Sciences, 6(4). http://mojes.um.edu.my/

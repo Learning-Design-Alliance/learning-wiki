@@ -46,7 +46,8 @@ The article's core recommendation is that "instead of tailoring instruction to s
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](../claims/deep-approach-positive-surface-negative-correlation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Align taught discussion strategies with learning tasks and provide timely individual feedback on strategy and label use](align-discussion-strategies-with-tasks-and-feedback.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Categorization of student activities during the MAIC pilot courses (Figure 6). T
 - [Structured observations showed students were frequently engaged in on-task behaviors during circle meetings](structured-observations-engagement-on-task.md) — related
 - [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md) — related
 - [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related
+- [Students in the PBL statistics class were active at every observed interval, while some conventional-class students engaged in irrelevant activities](pbl-statistics-student-activity-effective.md) — related

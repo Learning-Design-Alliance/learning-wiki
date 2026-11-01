@@ -51,3 +51,4 @@ Subgroup IPD meta-analysis of literacy outcomes by Key Stage (Table 9), based on
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related

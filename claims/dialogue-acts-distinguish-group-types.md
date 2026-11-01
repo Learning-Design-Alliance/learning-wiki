@@ -52,3 +52,4 @@ Observational study of students working in small groups on a software design pro
 - [Unbalanced participation in dyads is negatively correlated with learning gains](unbalanced-participation-negative-learning-gains.md) — related
 - [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md) — related
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](menu-based-learning-companion-encourages-reflection-articulation.md) — related
+- [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](blackboard-more-balanced-participation-than-face-to-face.md) — related

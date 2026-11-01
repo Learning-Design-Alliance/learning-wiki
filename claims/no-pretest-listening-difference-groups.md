@@ -71,3 +71,6 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
 - [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
+- [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
+- [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related

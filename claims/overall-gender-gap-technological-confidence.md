@@ -81,3 +81,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — a narrower finding that bears on this claim
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
+- [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — related

@@ -66,3 +66,4 @@ The article reports, citing Droop and Verhoeven (2003), that bilingual Turkish-D
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](reading-comprehension-predicts-multimedia-learning.md) — related
 - [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](cmc-effect-unequal-across-language-skills.md) — related
+- [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related

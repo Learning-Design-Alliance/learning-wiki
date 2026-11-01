@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-01
 sources:
   - id: manuaba-ida-bagus-amertha-putra-2022
     resource: "https://doi.org/10.1371/journal.pone.0277339"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pooled analysis of six studies found no significant difference between PBL and conventional learning methods in critical thinking/knowledge assessment (p = 0.29), with very high heterogeneity (I2 = 93%). [→ Manuaba Ida Bagus Amertha Putra 2022](#manuaba-ida-bagus-amertha-putra-2022)
@@ -53,3 +54,4 @@ Meta-analysis of six articles evaluating critical thinking/knowledge in PBL vers
 - [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](pbl-similar-learning-outcomes-pgme.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related
+- [Student responses to PBL statistics learning were positive, and more positive than responses to conventional learning](pbl-statistics-positive-student-responses.md) — related

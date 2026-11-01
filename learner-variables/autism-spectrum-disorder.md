@@ -14,7 +14,7 @@ generated:
 # Autism Spectrum Disorder
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (16 show a difference, 12 mixed, 2 no difference) · 17 studies (5 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q3` · 4 of 17 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (17 show a difference, 13 mixed, 3 no difference) · 18 studies (5 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 5 of 18 report an effect size · 32 claims rest on one study
 
 ## How to read this page
 
@@ -52,6 +52,9 @@ In the research autism appears as a population a design targets (communication s
 - [Most lower secondary students with ASD sought help from teachers at least once in both general and resource class contexts, but interpersonal differences were observed](../claims/asd-students-help-seeking-both-contexts.md) [~M] — learners who differ on it differ in outcomes
 - [Students with ASD always used verbal means to solicit help, plus nonverbal and verbal means to draw teachers' attention](../claims/asd-help-seeking-verbal-and-nonverbal-means.md) [+M] — learners who differ on it differ in outcomes
 - [Students with ASD used new help-seeking categories — ambiguous and organizational help seeking — beyond traditional instrumental help seeking and confirmation-asking](../claims/ambiguous-organizational-help-seeking-asd.md) [+M] — learners who differ on it differ in outcomes
+- [Baseline adaptive skills moderated the ASD-symptom outcome, with children lowest in adaptive skills showing greater symptom reduction](../claims/adaptive-skills-moderate-srs2-outcome.md) [~M] — instruction changes it
+- [Demographics, child IQ, language, ASD diagnostic symptoms, and school SES did not moderate schoolMAX treatment outcomes on any of the three measures](../claims/schoolmax-no-moderation-demographics-iq-language-ses.md) [-M] — an instructional effect differs with it
+- [The schoolMAX intervention was superior to services-as-usual on emotion recognition, ASD symptoms, and social/communication skills in the prior cluster RCT](../claims/schoolmax-superior-to-sau-primary-outcomes.md) [+M] — instruction changes it
 
 ### Differences found between autistic and non-autistic people
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](../claims/asd-adults-processing-speed-composite-deficit.md) [+M] — learners who differ on it differ in outcomes

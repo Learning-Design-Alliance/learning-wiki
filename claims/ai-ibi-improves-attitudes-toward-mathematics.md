@@ -49,3 +49,4 @@ In the same quasi-experiment, attitudes were measured with questionnaires descri
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
 - [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](ai-generated-responses-positive-self-efficacy.md) — related
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
+- [Argumentation-based teaching of Functions yields more positive attitudes toward mathematics than traditional teaching](argumentation-improves-maths-attitude-functions.md) — related

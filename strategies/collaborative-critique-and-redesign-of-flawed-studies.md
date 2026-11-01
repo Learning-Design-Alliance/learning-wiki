@@ -49,7 +49,9 @@ Requiring students to redesign a flawed study, not just critique it, forces them
 5. Repeat across 2-3 tasks spanning different phenomena over a course, so students encounter the same ideals (validity, objectivity, sampling) applied to different construct-definition challenges.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Select fiction by conceptual fit rather than popularity, and use it as discrepant events and small-group critique prompts](select-fiction-by-conceptual-fit-strategy.md)
 
 ## Examples
 - Groups evaluated the "Little Albert" experiment's ethical and methodological problems, then designed a replication with a proper sample, consent procedures, and controls.

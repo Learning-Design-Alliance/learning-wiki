@@ -51,3 +51,4 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [Baseline English proficiency (ACCESS) showed no significant treatment-control difference among ELLs, but a small effect size (0.13) favored controls](ic-access-baseline-null-small-disadvantage.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related

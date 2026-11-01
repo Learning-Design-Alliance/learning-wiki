@@ -52,3 +52,4 @@ Multilevel Model 1 fixed-effect results from the pretest/posttest study. The Gir
 - [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](healthy-harlem-hfz-gains-larger-for-boys.md) — related
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
 - [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](e5c-scratch-project-artifacts.md) — related
+- [TDTS was more effective for girls than for boys, with effect sizes of +0.32 and +0.12 respectively](tdts-more-effective-for-girls-than-boys.md) — related

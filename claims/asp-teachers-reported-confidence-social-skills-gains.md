@@ -51,3 +51,4 @@ Perceived-impact findings from the qualitative process evaluation interviews wit
 ## Related Claims
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
+- [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — possibly the same claim (merge candidate)

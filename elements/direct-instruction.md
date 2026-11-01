@@ -13,7 +13,7 @@ generated:
 # Direct instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (8 for, 3 mixed) · 15 studies (5 review, 4 causal, 2 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 17 studies (5 causal, 5 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 17 report an effect size · 9 claims rest on one study
 
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.
@@ -57,6 +57,8 @@ Direct instruction reduces unguided search during initial learning, which is whe
 - [All student groups preferred explicit over implicit grammar instruction](../claims/efl-students-prefer-explicit-over-implicit-grammar-instruction.md) [+W]
 - [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](../claims/explicit-spelling-instruction-beats-incidental.md) [+W]
 - [Teacher-led learning events are associated with more positive post-event emotional valence than individual events, particularly in the lecture-based implementation](../claims/teacher-led-events-more-positive-valence-than-individual.md) [~W]
+- [Students liked the demonstration method because of end-of-lesson tasks and teacher evaluation at each step](../claims/students-like-demonstration-method-tasks-and-step-evaluation.md) [~W]
+- [Explicit information showed no within-instruction effect: PI+EI equalled PI-EI and PBI+EI equalled PBI-EI on both tasks over time](../claims/ei-no-within-instruction-effect.md) [~W]
 
 ## The evidence by question
 - *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

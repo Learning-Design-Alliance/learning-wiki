@@ -158,6 +158,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](../strategies/six-teacher-questioning-techniques-reading-discussion.md)
 - [Adapt age-appropriate texts by shortening and simplifying them, and enrich them with pictures, objects, and vocabulary definitions during shared reading](../strategies/adapt-and-enrich-texts-shared-reading-id.md)
+- [Match passage difficulty to students' English proficiency and check readability before teaching academic content-area reading](../strategies/match-passage-difficulty-to-proficiency-readability.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)

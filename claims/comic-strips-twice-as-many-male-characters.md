@@ -53,3 +53,4 @@ Content-analysis study of a three-week sampling of 52 nationally syndicated Sund
 - [Male comic characters' goals and means differ by socio-economic class: upper class humanitarian, middle class self- and power-goals with aggressive means, lower class fate and charm](comic-male-characters-class-goals-means.md) — related
 - [Comic strips reflect ambiguous attitudes toward the status of women](comic-strips-ambiguous-attitudes-women.md) — related
 - [Children need different kinds of comics at different developmental stages, from animal comics for early projective needs to invincible heroes for ego-inflation](children-comics-developmental-stages.md)
+- [The study sample was predominantly male and drawn mostly from public special education institutes in Islamabad](sample-composition-male-public-institutes.md) — related

@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 106 claims (45 for, 57 mixed, 4 against) · 82 studies (39 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 82 report an effect size · 97 claims rest on one study
+> **Evidence** · 110 claims (48 for, 58 mixed, 4 against) · 84 studies (41 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 84 report an effect size · 101 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Natural frequencies combined with graphical aids produced the highest proportion of correct post-test probability estimates in one RCT](../claims/natural-frequencies-graphical-aids-highest-correct-estimates.md) [+W] — attached 2026-11-01 from Whiting Penny F et al. (2015), which proposed "Use visual aids alongside frequency or probability formats to further improve post-test probability estimation"; tests this page's relationship.
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Use animation models to clarify persistent science misconceptions and support achievement where traditional instruction leaves them intact"; tests this page's relationship.
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Integrate educationally valid pictures purposefully into ESP reading textbooks"; tests this page's relationship.
+- [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](../claims/youtube-integration-higher-efl-posttest-scores.md) [+W] — attached 2026-11-01 from Alwehaibi (2015), which proposed "Treat YouTube as an effective instructional tool and teaching resource for EFL content learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -190,6 +191,9 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](../claims/instructor-comprehension-cost-replication.md) [~W]
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
 - [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](../claims/video-cases-outperform-paper-cases-dental-pbl.md) [+W]
+- [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
+- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
+- [The quantity of videos and 3D animations was related to success in remedying misconceptions: where materials were quite limited, incorrect or partly true answers remained high](../claims/material-quantity-related-to-misconception-remediation.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

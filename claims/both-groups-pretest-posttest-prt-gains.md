@@ -74,3 +74,4 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related
+- [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related

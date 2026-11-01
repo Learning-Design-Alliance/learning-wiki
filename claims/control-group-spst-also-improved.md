@@ -47,3 +47,5 @@ Wilcoxon Signed Rank Test on the control group's (n=12) SPST pretest-posttest sc
 ## Related Claims
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
+- [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — related

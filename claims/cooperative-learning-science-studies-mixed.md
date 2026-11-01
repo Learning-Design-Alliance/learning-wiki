@@ -98,3 +98,5 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](cooperative-learning-reduces-score-disparities.md) — related
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](mmls-outperformed-conventional-efl.md) — related
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
+- [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](gender-method-interaction-effects-trigonometry.md) — related
+- [Teaching with an interactive projector produced no significant difference in 7th-grade biology achievement compared with a general data projector](interactive-projector-no-achievement-difference.md) — related

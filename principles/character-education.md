@@ -180,6 +180,7 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
 - [Teachers foster citizenship through everyday practices: modeling, feedback, and social referencing](../strategies/teacher-everyday-practices-foster-citizenship.md)
 - [AETCOM (Attitude, Ethics, and Communication) module](../products/aetcom-attitude-ethics-and-communication-module.md)
+- [Children's University social action modules within the out-of-school-hours programme](../designs/cu-social-action-modules.md)
 
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html

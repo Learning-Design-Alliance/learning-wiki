@@ -49,6 +49,7 @@ The review proposes a research agenda directing future student self-assessment w
 ## Related Strategies
 
 - [Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback](redirect-self-assessment-cues-toward-valid-cues.md)
+- [Future research should identify student populations and contexts differentially affected by representational visuals in mathematics materials](identify-populations-differentially-affected-by-representational-visuals.md)
 
 ## Examples
 -

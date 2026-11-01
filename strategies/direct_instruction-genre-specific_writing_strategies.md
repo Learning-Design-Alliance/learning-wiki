@@ -65,6 +65,7 @@ Genre knowledge is largely tacit; learners who have not absorbed it through wide
 - [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — wraps genre strategies in self-regulation training; the two combine well
 - [Mentor Text Analysis](mentor-text-analysis.md) — the text-study phase on which explicit genre teaching depends
 - [Teach students that different genres of writing serve different purposes and let them practice genre selection](genres-serve-purposes-genre-selection-practice.md)
+- [Teach reading passages by explicitly discussing genre features alongside the standard pre-, while- and post-reading phases](genre-feature-discussion-within-three-phase-reading.md)
 
 ## Examples
 - **POW+TREE** (Graham & Harris) — a mnemonic strategy for persuasive writing: Pick ideas, Organize notes, Write and say more; Topic sentence, Reasons, Explanations, Ending — taught through explicit modeling and guided practice, with strong meta-analytic support [+S]

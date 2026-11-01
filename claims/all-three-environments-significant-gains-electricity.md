@@ -86,3 +86,4 @@ Paired-samples t-test for the experimental group (n=27): mean EPT scores rose fr
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [No significant achievement difference was found between laboratory-only and analogy-based simulation-only environments](no-difference-laboratory-versus-analogy-simulation.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](prior-studies-computer-aided-instruction-more-effective.md) — related

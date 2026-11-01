@@ -53,3 +53,4 @@ Pretest-posttest, control group, quasi-experimental study of 191 SS II students 
 - [Gender has no significant main effect on senior secondary students' achievement in mathematics](gender-no-significant-effect-mathematics-achievement.md) — related
 - [Nigerian students' credit-pass rates in WASSCE mathematics remained poor from 1999 to 2011, peaking at about 57.3% in 2008](wassce-mathematics-credit-pass-rates-1999-2011-poor.md)
 - [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — related
+- [SS2 students taught set theory with prior presentation of behavioural objectives scored significantly higher on the Mathematics Academic Performance Test than control students taught without them](behavioural-objectives-prior-presentation-improve-mathematics-performance.md) — related

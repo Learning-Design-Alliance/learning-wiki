@@ -33,7 +33,9 @@ GeoGebra is a free dynamic mathematics software platform developed and maintaine
 - [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [TinkerPlots](tinkerplots.md)
+- [Microsoft Mathematics](microsoft-mathematics.md)
 
 ## Key Sources
 - Bautista, G. Jr., Cacuyong, R., Lavicza, Z., Sabitzer, B., & Emara, M. (2026). Function Art: Understanding the Artistic Transformation of Mathematical Functions through Learning Analytics. Journal of Learning Analytics, 13(1). https://doi.org/10.18608/jla.2026.9037

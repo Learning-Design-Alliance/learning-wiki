@@ -52,3 +52,4 @@ Voluntary end-of-course group survey (10 of 24 groups responded, a 42% group res
 - [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
+- [Students in the experimental group perceived that strategy instruction and labels positively impacted their online discussion and learning](positive-student-perceptions-of-strategy-labels.md) — related

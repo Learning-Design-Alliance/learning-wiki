@@ -54,3 +54,4 @@ The editorial's synthesis of the four constituent studies: a common commitment t
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](heuristic-students-invented-strategies-transfer-interpretation.md) — related

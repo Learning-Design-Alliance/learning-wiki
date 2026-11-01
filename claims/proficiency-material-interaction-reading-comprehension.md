@@ -50,3 +50,4 @@ Two-way ANOVA (Table 7) on reading comprehension with proficiency, material cond
 - The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related
 - [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](genai-eap-materials-favorable-expert-ratings.md) — related
+- [There is no interaction between reading strategy and English proficiency in academic content-area reading comprehension](no-interaction-reading-strategy-english-proficiency.md) — related

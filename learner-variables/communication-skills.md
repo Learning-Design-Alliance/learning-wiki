@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (74 show a difference, 21 mixed, 18 no difference) · 92 studies (23 review, 20 causal, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 15 of 92 report an effect size · 111 claims rest on one study
+> **Evidence** · 118 claims (77 show a difference, 23 mixed, 18 no difference) · 96 studies (24 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 16 of 96 report an effect size · 116 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -154,6 +154,11 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Congruent communication does not moderate CBC's effect on parent-reported children's social skills](../claims/no-moderation-parent-reported-social-skills.md) [-M] — an instructional effect differs with it
 - [Post-test percentage scores rose on all eight tested communicative sub-skills under the multimedia package](../claims/per-skill-percentage-gains-multimedia-package.md) [+M] — instruction changes it
 - [Time-varying (within-dyad) congruent communication does not moderate the CBC effect on teacher-reported social skills](../claims/time-varying-congruence-no-moderation.md) [-M] — an instructional effect differs with it
+- [Grade level moderates the SKILL effect on reading comprehension, benefiting Grades 3–4 but not Grades 1–2, while oral and written language effects do not vary by grade](../claims/skill-grade-moderation-reading.md) [~M] — instruction changes it
+- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](../claims/fiction-insertion-shifts-chemistry-discourse.md) [+M] — instruction changes it
+- [SKILL intervention significantly improves oral narrative comprehension and production immediately after treatment in at-risk Grade 1–4 students](../claims/skill-improves-oral-narration-posttest.md) [+M] — instruction changes it
+- [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](../claims/youtube-language-learning-reviewed-benefits.md) [+W] — instruction changes it
+- [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

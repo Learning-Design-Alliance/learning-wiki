@@ -48,3 +48,6 @@ Kruskal-Wallis H tests on post-test scores of the remaining five SMTML dimension
 - [Both experimental groups significantly improved in active learning strategies, value of mathematics learning, and learning environment stimulation, while the control group did not](experimental-groups-gains-active-learning-value-environment.md) — related
 - [Using the geometric functions approach with dynamic mathematics software significantly raises ninth-graders' achievement goal motivation toward mathematics relative to software-only and traditional teaching](geometric-functions-approach-achievement-goal-motivation.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
+- [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
+- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related

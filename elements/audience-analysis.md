@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (19 for, 12 mixed, 1 against) · 40 studies (11 associational, 10 causal, 9 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 40 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (20 for, 12 mixed, 1 against) · 41 studies (11 associational, 10 causal, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 41 report an effect size · 28 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -81,6 +81,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Prior studies report low understanding of climate change among students and pre-service or early-career teachers](../claims/low-student-climate-change-understanding-prior-studies.md) [+W]
 - [Only a minority of included SBST programs tailored training to pre-existing skill levels or explicitly assessed learner motivation](../claims/dp-sbst-tailoring-and-motivation-rarely-assessed.md) [-W]
 - [The food safety training audience spans a wide educational range, with most employees reporting a high school diploma or some high school as their highest education](../claims/food-safety-trainee-education-range.md) [+W]
+- [Teachers perceived Literacy Plus and Sounds-Write as less appropriate or less essential than VEIP, with Sounds-Write aimed at a younger audience than Year 7](../claims/vefp-teacher-perceptions-components-less-appropriate.md) [+W]
 
 ## The evidence by question
 

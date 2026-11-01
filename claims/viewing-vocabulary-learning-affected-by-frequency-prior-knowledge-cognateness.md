@@ -60,3 +60,4 @@ Across the two experiments with Dutch-speaking EFL learners, the article states 
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words](test-item-construction-affects-kvl-difficulty-scores.md) — related
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
+- [Repeated encounters with novel words in the cartoons familiarized learners with words they had reported never seeing at pre-test](repeated-encounters-familiarize-novel-words.md) — related

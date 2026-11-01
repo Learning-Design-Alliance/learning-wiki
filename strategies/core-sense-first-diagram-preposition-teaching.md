@@ -42,6 +42,7 @@ The article describes a teaching technique arising from CL's systematic account 
 ## Related Strategies
 
 - [Model Drawing Strategy](model_drawing_strategy.md)
+- [Combine CL-based cognitive explanations with DDL concordance work when teaching polysemous spatial prepositions](combine-cl-with-ddl-strategy.md)
 
 ## Examples
 -

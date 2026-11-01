@@ -136,3 +136,4 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related
 - [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](feedback-stronger-for-low-prior-knowledge-children.md) — related
+- [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related

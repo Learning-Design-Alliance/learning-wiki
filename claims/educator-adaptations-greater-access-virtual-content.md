@@ -56,3 +56,4 @@ Study 2 educator interviews and telemetry data: educators tried different strate
 - In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — reports the opposite
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](modifications-essential-for-vulnerable-learners.md) — a broader claim this one bears on
 - [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — related
+- [Teaching with multimedia required the teacher to adjust and sometimes rewind the material to accommodate new-old information strategies](teacher-adjust-rewind-multimedia-listening.md) — related

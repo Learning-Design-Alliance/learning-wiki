@@ -44,6 +44,7 @@ To ensure pupils derive maximum benefit from external tuition, the evaluation re
 
 - [Involve classroom teachers in planning and managing tuition so it complements classroom work rather than being a bolt-on](involve-classroom-teachers-in-tuition-planning.md)
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
+- [Monitor tutor performance, increase consistency of tuition, and involve classroom teachers in planning and managing tuition](tutor-trust-consistency-and-teacher-involvement-strategy.md)
 
 ## Examples
 -

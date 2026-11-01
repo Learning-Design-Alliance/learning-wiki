@@ -47,3 +47,4 @@ Mann-Whitney U test comparing post-test LUSPS scores of the experimental group (
 ## Related Claims
 - [Inquiry-based instruction significantly improved pre-service science teachers' laboratory usage self-efficacy perceptions from pretest to post-test](inquiry-instruction-improved-lusps-pre-post.md) — related
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
+- [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related

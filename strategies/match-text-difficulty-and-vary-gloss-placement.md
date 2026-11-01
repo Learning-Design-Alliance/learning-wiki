@@ -40,6 +40,7 @@ The article's findings support two implementable practices for EFL reading instr
 
 - [Select authentic texts with highly informative contextual cues matched to learner proficiency, and add multimodal glosses when context is insufficient](select-informative-texts-and-multimodal-glosses.md)
 - [Guidelines for designing and deploying multimedia glosses in reading texts](multimedia-gloss-design-guidelines.md)
+- [Match passage difficulty to students' English proficiency and check readability before teaching academic content-area reading](match-passage-difficulty-to-proficiency-readability.md)
 
 ## Examples
 -

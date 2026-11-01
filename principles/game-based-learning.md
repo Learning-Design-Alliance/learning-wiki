@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (44 for, 43 mixed, 3 against) · 69 studies (22 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 21 of 69 report an effect size · 84 claims rest on one study
+> **Evidence** · 94 claims (47 for, 44 mixed, 3 against) · 70 studies (23 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 21 of 70 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](../claims/game-context-no-advantage-over-text.md) [~W] — attached 2026-10-29 from Poos et al. (2017), which proposed "Use engaging narrative text rather than expensive immersive games for bias-mitigation training when resources are scarce"; tests this page's relationship.
 - [Students in the serious virtual world group reported enjoying the class more, being more engaged, and having greater intentions to participate than students in the traditional group](../claims/svw-higher-enjoyment-engagement-intention-e-junior.md) [+W] — attached 2026-10-29 from Wrzesien et al. (2010), which proposed "Serious virtual worlds as a class format matched to traditional classes with identical learning objectives and contents"; tests this page's relationship.
 - [Educational games instruction produced significantly higher literacy skill assessment scores than TIP instruction among Saudi kindergarten children after eight weeks](../claims/educational-games-outperform-tip-kindergarten-literacy-saudi.md) [+W] — attached 2026-11-01 from Gahwaji (2016), which proposed "Design considerations for educational game programmes teaching kindergarten literacy"; tests this page's relationship.
+- [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](../claims/game-based-nutrition-knowledge-better-than-powerpoint.md) [+W] — attached 2026-11-01 from Jui-Mei Yien et al. (2011), which proposed "Four-topic four-week nutrition unit pairing each weekly topic with purpose-built computer games"; tests this page's relationship.
+- [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](../claims/game-based-instruction-improves-food-drink-habits.md) [+W] — attached 2026-11-01 from Jui-Mei Yien et al. (2011), which proposed "Four-topic four-week nutrition unit pairing each weekly topic with purpose-built computer games"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -211,6 +213,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [The quality of evidence on the effectiveness of serious games in medical education is moderate as assessed by MERSQI](../claims/serious-games-medical-education-moderate-evidence.md) [~W]
 - [A serious game simulation complementing CPR instruction improved theoretical knowledge but not CPR skills](../claims/serious-game-improves-cpr-knowledge-not-skills.md) [~W]
 - [The omnibus multivariate effect of the digital game delivery method on the two achievement outcomes was non-significant with a small printed effect size (Partial η² = .04)](../claims/manova-omnibus-dgbl-effect-negligible.md) [-W]
+- [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](../claims/positive-student-feedback-game-based-nutrition.md) [+W]
+- [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](../claims/no-gender-differences-game-based-nutrition.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

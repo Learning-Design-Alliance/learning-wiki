@@ -85,3 +85,4 @@ Thematic analysis found overload and resistance codes more prevalent in directiv
 - [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](reflection-prompts-tutor-feedback-self-regulation.md) — related
 - [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](dialogic-teaching-increased-metacognitive-skills.md) — related
 - [Adult learners identify metacognition and crafting diverse, high-quality questions at different cognitive levels as crucial supports for learner-AI cognitive interaction](metacognition-question-crafting-ai-cognitive-interaction.md) — related
+- [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related

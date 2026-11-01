@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 394 claims (222 show a difference, 88 mixed, 84 no difference) · 261 studies (150 associational, 57 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 261 report an effect size · 386 claims rest on one study
+> **Evidence** · 405 claims (229 show a difference, 89 mixed, 87 no difference) · 265 studies (150 associational, 61 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 265 report an effect size · 397 claims rest on one study
 
 ## How to read this page
 
@@ -433,6 +433,17 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Performance-assessment-driven instruction produced significantly higher post-test mathematics achievement for female senior high school students than traditional instruction](../claims/pa-driven-instruction-improves-female-math-achievement.md) [+M] — an instructional effect differs by group
 - [The ELL ELA gain is driven mainly by fifth-grade female ELL students (β = .342, p<.001)](../claims/ic-ell-fifth-grade-female-drivers.md) [+M] — an instructional effect differs by group
 - [Treatment method significantly affected reading comprehension achievement and was not sex-biased](../claims/treatment-effect-significant-not-sex-biased.md) [-M] — an instructional effect differs by group
+- [Descriptively, male students outperformed female students at all three levels of Light waves overall](../claims/males-outperform-females-descriptive-gains.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students in the group learning group significantly outperformed female students in the conventional group on the mathematics post-test](../claims/female-experimental-outperformed-female-control-math.md) [+M] — an instructional effect differs by group
+- [Male and female students differ significantly in application of Light waves, favouring males](../claims/gender-difference-application-light-waves.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male and female students show no significant difference in analysis of Light waves](../claims/no-gender-difference-analysis-light-waves.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male and female students show no significant difference in understanding of Light waves](../claims/no-gender-difference-understanding-light-waves.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students in the group learning group significantly outperformed male students in the conventional group on the mathematics post-test](../claims/male-experimental-outperformed-male-control-math.md) [+M] — an instructional effect differs by group
+- [Male students taught with Guided-discovery method contributed most to the gender difference in application of Light waves](../claims/guided-discovery-males-drive-application-gap.md) [~W] — an instructional effect differs by group
+- [TDTS was more effective for girls than for boys, with effect sizes of +0.32 and +0.12 respectively](../claims/tdts-more-effective-for-girls-than-boys.md) [+M] — an instructional effect differs by group
+- [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](../claims/concept-mapping-gender-advantage-males-trigonometry.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](../claims/cooperative-learning-no-gender-difference-trigonometry.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](../claims/females-outperform-males-group-learning-math.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

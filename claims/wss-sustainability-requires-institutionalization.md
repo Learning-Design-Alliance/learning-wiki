@@ -70,3 +70,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
+- [The Children's University intervention was feasible to run with school-leader support, but seven schools withdrew citing performance-target pressures and limited time](cu-implementation-feasibility-and-withdrawals.md) — related

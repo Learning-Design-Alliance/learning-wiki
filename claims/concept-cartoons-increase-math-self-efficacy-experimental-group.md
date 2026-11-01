@@ -48,3 +48,4 @@ Dependent-group t-test on pre/post scores of the 46-student experimental group t
 - [Post-test mathematics self-efficacy scores differed significantly between the experimental and control groups, in favour of the concept-cartoon group](posttest-between-group-advantage-concept-cartoons.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
 - [The control group taught by teacher-centred instruction showed no statistically significant change in mathematics self-efficacy perceptions](control-group-no-self-efficacy-change.md) — related
+- [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related

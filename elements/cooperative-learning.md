@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 18 studies (9 quant-synthesis, 5 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 18 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (14 for, 8 mixed, 1 against) · 19 studies (9 quant-synthesis, 6 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 19 report an effect size · 21 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -74,6 +74,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
 - [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](../claims/make-a-match-higher-posttest-geography-principles.md) [+W] — attached 2026-11-01 from Arisanty et al. (2019), which proposed "Make a match card-matching cooperative learning technique".
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
+- [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](../claims/gender-method-interaction-effects-trigonometry.md) [~W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

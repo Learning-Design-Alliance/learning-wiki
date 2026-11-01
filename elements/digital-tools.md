@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 104 claims (52 for, 46 mixed, 6 against) · 94 studies (24 review, 19 causal, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 94 report an effect size · 103 claims rest on one study
+> **Evidence** · 106 claims (54 for, 46 mixed, 6 against) · 96 studies (24 review, 21 causal, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 96 report an effect size · 105 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -139,6 +139,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](../claims/whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) [+W] — attached 2026-11-01 from Ahmet Basal et al. (2016), which proposed "WhatsApp-based weekly MMS idiom-teaching intervention"; tests this page's relationship.
 - [Junior high school students taught with Model Eliciting Activities with Cabri 3D show better spatial reasoning improvement than students taught with Model Eliciting Activities alone](../claims/meac-improves-spatial-reasoning-more-than-mea.md) [+W] — attached 2026-11-01 from Hartatiana et al. (2018), which proposed "Cabri 3D dynamic geometry software used within Model Eliciting Activities"; tests this page's relationship.
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](../claims/whatsapp-mms-group-significant-within-gains.md) [+W]
+- [Primary students taught 'The Representation of the Earth' with AR scored higher on the post-test than students taught traditionally (M = 7.9 vs M = 6.4)](../claims/ar-social-science-post-test-higher-than-traditional.md) [+W] — attached 2026-11-01 from Purificacion Toledo-Morales et al. (2018), which proposed "Ad hoc AR materials for 'The Representation of the Earth' built with Aumentaty Author and displayed on mid-range tablets"; tests this page's relationship.
+- [First-year students taught Calculus with Microsoft Mathematics achieved higher post-test scores than students taught conventionally](../claims/microsoft-mathematics-higher-post-test-calculus.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

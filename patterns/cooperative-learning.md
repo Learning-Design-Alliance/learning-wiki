@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (32 for, 26 mixed, 1 against) · 49 studies (19 quant-synthesis, 11 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 49 report an effect size · 51 claims rest on one study
+> **Evidence** · 60 claims (32 for, 27 mixed, 1 against) · 50 studies (19 quant-synthesis, 12 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -164,6 +164,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](../claims/tgt-attitude-shifts-two-statements.md) [~W]
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
+- [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](../claims/gender-method-interaction-effects-trigonometry.md) [~W]
 
 ## Related Patterns
 

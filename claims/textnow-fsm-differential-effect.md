@@ -58,3 +58,6 @@ Subgroup analyses conducted after a significant FSM-by-intervention interaction 
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [The TextNow Transition Programme did not significantly improve reading comprehension at the primary-secondary transition; participating pupils made slightly less progress than controls](textnow-null-overall-reading-comprehension-effect.md) — related
 - [The TextNow programme produced no statistically significant difference in enjoyment of reading or motivation to read compared with the comparison group](textnow-secondary-reading-attitudes-null.md) — related
+- [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
+- [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related

@@ -65,6 +65,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 ## Related Research Methods
 
 - [Design-based impact estimation](design-based-impact-estimation.md)
+- [School-level covariate matching for non-experimental school intervention effects](school-level-covariate-matching-for-non-experimental-school-intervention-effects.md)
 
 ## Key Sources
 - Brian Gill, Joshua Furgeson, Hanley Chiang, Bing-Ru Teh, Joshua Haimson, Natalya Verbitsky-Savitz. (2016). Replicating Experimental Impact Estimates With Nonexperimental Methods in the Context of Control-Group Noncompliance. Statistics and Public Policy, vol. 3, issue 1. https://www.mathematica.org/publications/2015-replicating-experimental-impact-estimates-with-nonexperimental-methods-in-the-context

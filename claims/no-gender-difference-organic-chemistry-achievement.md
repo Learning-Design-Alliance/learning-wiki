@@ -60,3 +60,5 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [No significant gender difference in mathematics achievement within the performance-assessment experimental group](no-gender-gap-in-pa-experimental-group.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related
+- [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
+- [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related

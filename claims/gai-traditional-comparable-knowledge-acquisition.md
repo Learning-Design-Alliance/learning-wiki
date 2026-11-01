@@ -54,3 +54,4 @@ Random-effects meta-analysis of knowledge scores from all eleven included RCTs (
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [GAI-based teaching outperforms traditional teaching in practical skill development](gai-superior-practical-skill-development.md) — related
 - [Nursing students show significant knowledge improvement with GenAI (SMD = 1.11) unlike clinical medicine students](genai-knowledge-gain-nursing-students.md) — related
+- [Teaching with an interactive projector produced no significant difference in 7th-grade biology achievement compared with a general data projector](interactive-projector-no-achievement-difference.md) — related

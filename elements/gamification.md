@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (21 for, 15 mixed, 3 against) · 27 studies (9 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (24 for, 15 mixed, 3 against) · 28 studies (10 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 41 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -63,6 +63,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Scoping review of 33 studies finds increased motivation was the most frequently reported outcome of gamified applications in TEFL](../claims/scoping-review-gamification-tefl-motivation-most-reported-outcome.md) [+W]
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](../claims/hfps-leave-one-out-sensitivity-pattern.md) [~W]
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](../claims/games-enhance-algebraic-expressions-achievement-js2.md) [+W] — attached 2026-11-01 from Okpube Nnaemeka Michael (2016), which proposed "Card games and algebra tic-tacmatics for teaching algebraic expressions"; tests this page's relationship.
+- [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](../claims/kahoot-higher-posttest-performance-than-paper-quizzes.md) [+W] — attached 2026-11-01 from Saovapa Wichadee et al. (2017), which proposed "Kahoot game-based Classroom Response System with timed point scoring and a leaderboard".
+- [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](../claims/positive-student-attitudes-toward-kahoot-gamification.md) [+W] — attached 2026-11-01 from Saovapa Wichadee et al. (2017), which proposed "Kahoot game-based Classroom Response System with timed point scoring and a leaderboard".
+- [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](../claims/kahoot-higher-motivation-than-paper-quizzes.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

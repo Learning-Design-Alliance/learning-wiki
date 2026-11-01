@@ -50,3 +50,4 @@ ANCOVA on the researcher-made 15-item Likert attitude scale for the experimental
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
 - [MI-based instruction produced significantly greater overall improvement in General English achievement than traditional instruction among Iranian university students](mi-instruction-improves-general-english-achievement.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
+- [E-platform in-service training produced more positive attitudes toward teaching Scratch programming than traditional training](eplatform-training-improves-attitudes-teaching-programming.md) — related

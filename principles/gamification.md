@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (33 for, 27 mixed, 3 against) · 56 studies (19 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 56 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (34 for, 27 mixed, 3 against) · 57 studies (20 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 57 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [A competition environment increases learners' motivation toward the instructional game](../claims/competition-increases-motivation-imms.md) [+W] — attached 2026-10-29 from Nergiz Ercil Cagiltay et al. (2015), which proposed "Serious game designers should incorporate competition to facilitate learning".
 - [Gamified clinical skill learning produces the largest effects on skill performance, with very high between-study heterogeneity](../claims/gamified-learning-skill-performance-largest-effect.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](../claims/gamified-web-mobile-moderate-knowledge-effects.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
+- [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](../claims/kahoot-higher-posttest-performance-than-paper-quizzes.md) [+W] — attached 2026-11-01 from Saovapa Wichadee et al. (2017), which proposed "When using game-based quizzes, instructors should explain correct answers and tell students the real learning purpose beyond competition"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

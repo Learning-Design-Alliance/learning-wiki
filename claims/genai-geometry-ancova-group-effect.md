@@ -55,3 +55,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related
+- [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related

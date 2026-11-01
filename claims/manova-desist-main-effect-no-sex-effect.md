@@ -67,3 +67,4 @@ Follow-up discriminant analysis on the same experimental data: "the PTC and PTT 
 - [Eighth graders who hear a child disciplined with approval-focused desists rate that child as having less desirable personality traits than those who hear task-focused desists](approval-focused-desists-lower-target-child-trait-ratings.md) — a narrower finding that bears on this claim
 - [Teachers heard using approval-focused desists are rated by child observers as having less desirable personality traits than teachers using task-focused desists](approval-focused-desists-lower-teacher-trait-ratings.md) — a narrower finding that bears on this claim
 - [Type of desist does not affect observers' confidence in their trait ratings of either the child or the teacher](desist-type-no-effect-rating-confidence.md) — related
+- [The effects of teacher autonomy support on Thai students' motivation do not interact with gender](tas-effects-no-gender-interaction.md) — related

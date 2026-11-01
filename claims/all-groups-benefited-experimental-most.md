@@ -54,3 +54,4 @@ Quasi-experimental study with recast, prompt, and control groups tested before, 
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
+- [Both structured input and structured output instruction produced durable gains in -ed knowledge maintained over a three-week delayed posttest](structured-input-output-durable-gains.md) — related

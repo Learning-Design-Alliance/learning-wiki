@@ -75,3 +75,4 @@ The review reports this randomized first-grade scheduling study comparing three 
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Tier 2 type reading interventions in grades K-3 show a moderate positive effect on standardized measures of foundational reading skills (mean ES = 0.49 across 63 studies).](tier2-k3-standardized-foundational-skills-es-0-49.md) — related
 - [Tier 2 type reading interventions in grades K-3 show a small to moderate positive effect on standardized language/comprehension measures (mean ES = 0.38 across 31 studies).](tier2-k3-standardized-language-comprehension-es-0-38.md) — related
+- [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](vefp-dosage-null-on-treatment.md) — related

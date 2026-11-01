@@ -53,3 +53,5 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
+- [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related

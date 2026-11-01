@@ -49,3 +49,4 @@ ANOVA on posttest scores in the randomized experiment, pretest-correct subgroup 
 - [Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions](diagrams-help-posttest-only-read-twice-condition.md) — related
 - [For students who answered the pretest incorrectly, diagrams helped only in the read-twice control condition and only when the diagram information was also presented in the text](diagram-redundant-text-benefit-pretest-incorrect-read-twice.md) — related
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related
+- [Interviewed students responded positively to the EDI learning structure and the emphasis on diagrams](edi-student-interview-response.md) — related

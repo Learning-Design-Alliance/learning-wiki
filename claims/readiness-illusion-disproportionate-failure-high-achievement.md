@@ -58,3 +58,4 @@ Authors' analysis of California Longitudinal Pupil Achievement Data System (CALP
 - Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites — related
 - [In a 700-student open-ended systems programming project graded by specification document rather than code, in-person test failure rates rose and inspected code failed to meet specifications](open-ended-spec-project-rising-test-failure.md) — related
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
+- [Learners who had narrowly failed (code 2) or attained distinctions (code 7) in Grade 9 derived the greatest benefit from regular use](prior-attainment-codes-2-and-7-greatest-benefit.md) — related

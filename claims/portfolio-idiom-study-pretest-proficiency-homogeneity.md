@@ -58,3 +58,4 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
+- [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite

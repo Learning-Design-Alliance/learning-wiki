@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: menzies-2016
     resource: "https://educationendowmentfoundation.org.uk/public/files/Projects/EEF_Project_Protocol_ProjectBasedLearning.pdf"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` FSM-eligible pupils in intervention schools showed a statistically significant negative literacy effect (ES -0.24, CI -0.41 to -0.06), but the report urges considerable caution because no negative impact appeared for low-attaining pupils generally. [→ Menzies 2016](#menzies-2016)
@@ -54,3 +55,6 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [A year of Learning through REAL Projects had no clear impact on Year 7 pupils' literacy attainment](pbl-real-projects-no-literacy-impact.md) — related
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
+- [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — reports the opposite
+- [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related

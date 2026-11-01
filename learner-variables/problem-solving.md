@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (76 show a difference, 14 mixed, 15 no difference) · 88 studies (40 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 23 of 88 report an effect size · 103 claims rest on one study
+> **Evidence** · 106 claims (77 show a difference, 14 mixed, 15 no difference) · 89 studies (41 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 23 of 89 report an effect size · 104 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -143,6 +143,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Grade VIII students taught with a contextual learning model show higher increases in mathematical problem-solving ability than students taught with expository learning](../claims/contextual-learning-higher-problem-solving-gain.md) [+M] — instruction changes it
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](../claims/interaction-learning-kam-problem-solving.md) [~M] — instruction changes it
 - [Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties](../claims/sbi-improves-pps-posttest-mdps.md) [+M] — instruction changes it
+- [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](../claims/heuristic-students-invented-strategies-transfer-interpretation.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

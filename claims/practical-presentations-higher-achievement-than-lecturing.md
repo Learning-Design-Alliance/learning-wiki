@@ -57,3 +57,5 @@ Quasi-experiment with 92 ninth graders in four Shobak district schools (46 exper
 - [Discussion strategy produces significantly better academic performance in Electrical Installation than lecture strategy](discussion-beats-lecture-electrical-installation.md) — related
 - [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](make-a-match-higher-posttest-geography-principles.md) — related
 - [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related
+- [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
+- [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related

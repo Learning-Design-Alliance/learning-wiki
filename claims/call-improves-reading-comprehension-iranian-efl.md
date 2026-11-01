@@ -50,3 +50,4 @@ Quasi-experimental comparison of two intact groups of Iranian female intermediat
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Telegram-group instruction yields significantly larger reading comprehension gain scores than traditional classroom instruction, with a printed effect size of .50](telegram-group-instruction-larger-reading-gain-scores.md) — related
 - [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related
+- [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related

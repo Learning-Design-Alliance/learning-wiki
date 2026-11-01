@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: okpube-nnaemeka-michael-2016
     resource: "http://iaesjournal.com/online/index.php/IJERE"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The method-by-gender interaction was significant (F = 26.347, p < 0.05); the facilitating effect of games was not the same at all levels of gender and favored males. [→ Okpube Nnaemeka Michael 2016](#okpube-nnaemeka-michael-2016)
@@ -56,3 +57,4 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
 - [No significant interaction between teaching method and gender on Arabic oral skills achievement](vtm-method-gender-interaction-null.md) — related
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
+- [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](no-gender-differences-game-based-nutrition.md) — related

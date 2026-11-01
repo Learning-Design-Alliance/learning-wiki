@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (23 for, 16 mixed, 3 against) · 40 studies (9 review, 9 theoretical, 7 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (23 for, 17 mixed, 3 against) · 41 studies (9 review, 9 theoretical, 8 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 41 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Null results for Cognitive Tutors may reflect poor implementation rather than ineffectiveness, and policy-level experiments should be distinguished from effectiveness studies](../claims/null-results-may-reflect-poor-implementation.md) [~W]
 - [Higher education educational technology decision-makers rarely use externally-produced, scientifically-rigorous research, which was mentioned in less than 20% of interviews](../claims/edtech-decisions-rigorous-external-research-under-20-percent.md) [-W]
 - [Evaluation of cultural safety training interventions was inconsistent: 46% of papers evaluated programs, methods varied widely, post-surveys were most common, and only half stated evaluation limitations](../claims/cst-evaluation-inconsistent-post-surveys-common.md) [+W]
+- [The authors report possible diffusion of treatment from ART participants to control children in high-interaction settings, threatening internal validity but indicating a potential positive side-effect](../claims/art-secondary-treatment-diffusion.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

@@ -42,6 +42,7 @@ Beyond reading cartoons, the article recommends student cartoon production as an
 - [Implement concept cartoons© by following the inquiry working procedure, praising all views, supporting discussion, and letting students practically verify their own assumptions](concept-cartoons-implementation-recommendations.md)
 - [Allow learners to place their own characters into visual story tools to increase purpose and utility](learner-created-characters-increase-utility.md)
 - [Concept cartoon discussion routine: present, debate viewpoints, then student research without teacher explanation](concept-cartoon-discussion-research-routine.md)
+- [Recommendations for future PBL and concept cartoon research and materials](pbl-concept-cartoon-future-recommendations.md)
 
 ## Examples
 -

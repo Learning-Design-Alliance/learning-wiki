@@ -66,3 +66,4 @@ Mann-Whitney test for the second period, reported in Table 2 with "U=35.00, p>0.
 ## Related Claims
 - [Positive effects on participation continued after students stopped using clickers, but the quality of their answers declined](clicker-effect-persists-after-use-quality-declines.md) — related
 - [Both groups increased their participation rates while using clickers, whichever period of the course they used them in](clickers-increase-efl-participation-both-periods.md) — related
+- [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related

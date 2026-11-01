@@ -58,3 +58,4 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 - [Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics](students-shortchanged-advanced-math.md) — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](human-tas-stronger-teaching-effectiveness-than-chatgpt.md) — related
+- [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related

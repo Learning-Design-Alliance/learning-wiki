@@ -51,3 +51,4 @@ Following Aleven and Koedinger (2002), questions were classified into easier-to-
 - [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — a broader claim this one bears on
 - [Direct instruction training improved 5th graders' task-model construction (question analysis) relative to an active control](direct-instruction-improves-task-model-construction.md) — related
 - [Training improved 5th graders' answer construction and evaluation within the experimental group, but not significantly relative to controls at post-test](training-improves-construct-response-within-group.md) — related
+- [EDI qualitatively outperformed DI on MMA normalized gain, though both groups' gains were in the low category](edi-mma-gain-outperforms-di.md) — related

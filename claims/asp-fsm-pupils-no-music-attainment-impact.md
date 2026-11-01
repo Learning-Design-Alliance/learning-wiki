@@ -51,3 +51,5 @@ Subgroup analysis of the RCT restricted to FSM-eligible pupils, re-estimating th
 - [Music workshops (strings and singing combined) showed no greater impact on maths attainment than drama workshops in a large pupil-level RCT](asp-music-no-greater-maths-impact-than-drama.md) — related
 - [Music workshops showed no greater impact on literacy attainment than drama workshops in the same trial](asp-music-no-greater-literacy-impact-than-drama.md) — related
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
+- [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related

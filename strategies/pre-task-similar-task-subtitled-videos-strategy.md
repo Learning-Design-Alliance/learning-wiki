@@ -39,6 +39,7 @@ Before completing a communicative task, learners watch short subtitled videos of
 ## Related Strategies
 
 - [Videos](videos.md)
+- [Use keyword-only subtitles instead of full-sentence subtitles when targeting vocabulary learning](keyword-only-subtitles-strategy.md)
 
 ## Examples
 -

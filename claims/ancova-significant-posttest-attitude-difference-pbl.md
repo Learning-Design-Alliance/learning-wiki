@@ -50,3 +50,6 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](mi-instruction-improves-attitude-toward-english.md) — related
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [Intervention and control groups did not differ significantly in attitudes towards statistics at pre-test](pbl-statistics-attitude-no-pretest-difference.md) — related
+- [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
+- [Seventh-grade students taught statistics through project-based learning achieved higher learning outcomes than students taught with conventional learning](pbl-higher-statistics-outcomes-than-conventional.md) — related
+- [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related

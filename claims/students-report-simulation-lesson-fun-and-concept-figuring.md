@@ -98,3 +98,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Laboratory lessons supported by the virtual chemistry laboratory were rated as more constructivist than the same teacher's real-laboratory lessons](vcl-lab-lessons-rated-more-constructivist-than-real-lab.md) — related
 - [A DAA activity is rated significantly more motivating than a lecture on perceived sense of learning, enjoyment, and helpfulness](daa-more-motivating-than-lecture.md) — related
+- [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related

@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (20 for, 19 mixed, 2 against) · 31 studies (11 causal, 8 quant-synthesis, 8 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 35 claims rest on one study
+> **Evidence** · 42 claims (20 for, 19 mixed, 3 against) · 32 studies (12 causal, 8 quant-synthesis, 8 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Whether PA itself causes the positive mathematics effects remains unclear, with engagement, attention from adults and innovative teaching proposed as alternative explanations](../claims/pa-math-causality-alternative-explanations.md) [~W]
 - [Across 29 controlled studies, positive overall effects of school-based PA on mathematics performance appear in 45% of studies and neutral effects in 52%, with only one negative subgroup result](../claims/pa-interventions-45-percent-positive-math.md) [~W]
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](../claims/classroom-physical-activity-no-effect-overall-pa.md) [~W]
+- [The prior RCT found no treatment effects on recess social interactions or academic skills](../claims/schoolmax-no-effect-recess-academic-outcomes.md) [-M]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

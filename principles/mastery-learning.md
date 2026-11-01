@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (14 for, 12 mixed, 3 against) · 28 studies (7 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 28 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (14 for, 13 mixed, 3 against) · 29 studies (8 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 29 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
 - [A plateau in performance does not necessarily equate to high-quality performance, so 'overcome' thresholds may misrepresent surgeon mastery](../claims/plateau-does-not-equate-high-quality-performance.md) [~W]
 - [U-Pace instruction produced greater academic success in final course grades of A or B than face-to-face instruction](../claims/u-pace-greater-final-grades-ab-than-face-to-face.md) [+W]
+- [Gain scores by curriculum coverage diverge by material: CM learners covering 79% or more gained more, while below 79% PM learners gained more, though the latter difference is not significant](../claims/coverage-gain-divergence-by-material.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

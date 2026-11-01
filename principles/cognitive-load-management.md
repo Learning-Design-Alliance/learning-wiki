@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (37 for, 47 mixed, 3 against) · 74 studies (32 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 74 report an effect size · 78 claims rest on one study
+> **Evidence** · 88 claims (38 for, 47 mixed, 3 against) · 75 studies (33 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 75 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](../claims/complexity-germane-load-round-effects.md) [~W] — attached 2026-10-22 from Ines Zeitlhofer et al. (2024), which proposed "Expose learners to consistently high task complexity to stimulate germane processing without harming intrinsic interest"; tests this page's relationship.
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [+W] — attached 2026-10-23 from Kirschner (2002), which proposed "Present information in ways that encourage learner activities that optimise intellectual performance".
 - [Learning number symbols from multiple concrete representations carries a cost compared with consistent single representations, whether concrete or abstract](../claims/cost-of-multiple-concrete-representations.md) [+W] — attached 2026-10-24 from Amy Bennett et al. (2018), which proposed "Design number books and early number materials with simple, consistent representations of quantity"; tests this page's relationship.
+- [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](../claims/ceaseless-interactive-actions-cognitive-overload.md) [+W] — attached 2026-11-01 from Li-Ying Liu (2015), which proposed "Scaffold learning tasks when a new interactive technology is introduced, so pupils do not spend more time operating the technology than learning".
 
 ## Objective and learner-valued goal
 

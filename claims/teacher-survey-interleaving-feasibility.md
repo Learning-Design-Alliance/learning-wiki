@@ -49,3 +49,4 @@ Anonymous 23-item paper-and-pencil survey completed by all 15 teachers several w
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Stakeholder reflections judged the ten-week, 30-minute-session facts intervention feasible within the elementary schedule, with moderate-to-high student engagement](facts-intervention-feasibility-reflections.md) — related

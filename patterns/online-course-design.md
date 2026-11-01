@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (21 for, 26 mixed, 1 against) · 35 studies (10 associational, 6 quant-synthesis, 5 causal, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 45 claims rest on one study
+> **Evidence** · 49 claims (22 for, 26 mixed, 1 against) · 36 studies (10 associational, 6 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 46 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Learner–content interaction was perceived as significantly more helpful for learning than learner–learner interaction despite equivalent measured performance](../claims/learner-content-interaction-perceived-more-helpful-for-learning.md) [~W]
 - [Learner–learner interaction was perceived as significantly more work than learner–content interaction in an online asynchronous undergraduate course](../claims/learner-learner-interaction-perceived-more-work-than-learner-content.md) [~W]
 - [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](../claims/no-task-courses-low-posting-activity.md) [+W]
+- [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](../claims/blackboard-more-balanced-participation-than-face-to-face.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

@@ -85,3 +85,4 @@ The commentary reports survey data attributed to Agarwal et al. (2014), presente
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
 - [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](retrieval-practice-implementation-middle-school-classrooms.md) — a broader claim this one bears on
+- [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related

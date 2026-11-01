@@ -80,3 +80,4 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [The three laboratory-devised production tests (Economic Prophecies, Sheet Music Invention, Novel Situations) tied in average merit among the most effective tests.](laboratory-devised-tests-tie-in-merit.md) — related
 - [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related
 - [DAA students showed superior transfer to a variant design task even after controlling for relevant prior knowledge of the spring mechanism](daa-transfer-variant-design-controlled-prior-knowledge.md) — a narrower finding that bears on this claim
+- [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](heuristic-students-invented-strategies-transfer-interpretation.md) — related

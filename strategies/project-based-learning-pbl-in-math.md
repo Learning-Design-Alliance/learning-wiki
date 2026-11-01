@@ -64,10 +64,12 @@ PBL enacts [Active Learning](../principles/active-learning.md) by placing learne
 7. **Debrief and consolidate.** After the product is complete, explicitly connect the project experience to the generalizable mathematics, so knowledge detaches from the specific context.
 
 ## Related Strategies
+
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the broader pattern of situating learning in a realistic problem context; PBL in math is an extended form of it
 - [Case-Based Learning](../patterns/case-based-learning.md) — shorter-cycle variant using cases rather than full projects
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — PBL projects create the authentic activity in which coaching and articulation occur
 - [Flipped Classroom](../principles/flipped-learning.md) — a common pairing: direct instruction moves to video homework, freeing class time for project work
+- [Teachers apply project-based learning to other mathematics topics, optionally combined with technology-assisted learning](apply-pbl-other-math-topics-technology.md)
 
 ## Examples
 - **[High Tech High](https://www.hightechhigh.org)** (San Diego) — project-based charter schools where mathematics is integrated into interdisciplinary projects (e.g., calculating dimensions, materials, and costs to build geodesic greenhouses).

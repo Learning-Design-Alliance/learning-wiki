@@ -60,3 +60,5 @@ In the cohort 1 randomized experiment, treatment teachers reported significantly
 - [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — related
+- [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related
+- [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related

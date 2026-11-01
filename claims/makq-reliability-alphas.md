@@ -67,3 +67,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related
+- [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related

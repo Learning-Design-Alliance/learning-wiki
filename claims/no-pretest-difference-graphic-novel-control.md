@@ -48,3 +48,4 @@ Mann-Whitney U comparison of pre-test scores in the quasi-experiment (control me
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [TPS and Non-TPS groups did not differ significantly on pretest CT scores but did differ significantly on posttest overall CT scores](tps-posttest-ct-significant-pretest-null.md) — related
+- [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related

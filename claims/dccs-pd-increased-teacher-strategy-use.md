@@ -49,3 +49,5 @@ Intent-to-treat analysis of aggregated ratings from three classroom observations
 ## Related Claims
 - [Students whose teachers participated in the DCCS program showed greater gains than control students on the Story Recall and Verbal Analogies subtests of the WMLS-R](dccs-pd-student-story-recall-verbal-analogies-gains.md) — related
 - [Students with lower initial English proficiency benefited most from their teachers' participation in the DCCS program, while students above the 5th percentile showed no differential benefit](dccs-pd-benefits-lower-proficiency-students.md) — related
+- [The DCCS professional development program increased teachers' use of the targeted high-impact instructional strategies relative to control teachers](dccs-pd-increased-targeted-strategy-use.md) — possibly the same claim (merge candidate)
+- [The intervention did not change overall classroom instructional quality as measured by the CQELL Generic Lesson Elements and EL Support subscales](dccs-pd-no-change-cqell-general-quality.md) — related
