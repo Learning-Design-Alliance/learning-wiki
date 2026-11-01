@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: mixed
 newest_evidence: 2012
+source_checked: 2026-11-01
 sources:
   - id: denton-carolyn-a-2012
     resource: "https://doi.org/10.1177/0022219412442155"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Al Otaiba et al. (2005) found kindergartners receiving small-group intervention four times per week significantly outperformed controls in word reading and comprehension with large effect sizes, while the twice-per-week condition outperformed controls on only one phonemic awareness measure. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

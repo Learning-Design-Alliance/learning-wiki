@@ -48,7 +48,7 @@ Multisite impact-variation analysis (Bloom & Weiland, 2015; n = 3,465–3,529 de
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
 - [Head Start's impacts on children's enrollment in Head Start, center-based care, and high-quality care vary substantially across sites](head-start-enrollment-impacts-vary-across-sites.md) — related
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — related
 - [Head Start's vocabulary impacts are concentrated among children who would otherwise receive home-based care, with no average advantage over other center-based alternatives](counterfactual-care-type-moderates-head-start-impacts.md) — related

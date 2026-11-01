@@ -42980,8 +42980,9 @@
 "description":"Both CALL-based and written-question tasks produce positive effects on EFL grammar learning",
 "evidence_strength":"moderate",
 "id":"both-task-types-improve-grammar-learning",
-"newest_evidence":"2016",
+"newest_evidence":"2018",
 "path":"claims/both-task-types-improve-grammar-learning.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Both CALL-based and written-question tasks produce positive effects on EFL grammar learning",
 "type":"claim"
@@ -46846,7 +46847,7 @@
 "description":"EFL learners doing CALL-based tasks outperform learners doing written-question tasks on a grammar post-test",
 "evidence_strength":"moderate",
 "id":"call-based-tasks-beat-written-question-tasks-grammar",
-"newest_evidence":"2016",
+"newest_evidence":"2018",
 "path":"claims/call-based-tasks-beat-written-question-tasks-grammar.md",
 "source_checked":"2026-11-01",
 "status":"review",
@@ -46970,8 +46971,9 @@
 "description":"The authors observed higher motivation among learners doing CALL-based tasks than among those doing written-question tasks",
 "evidence_strength":"weak",
 "id":"call-tasks-higher-observed-motivation",
-"newest_evidence":"2016",
+"newest_evidence":"2018",
 "path":"claims/call-tasks-higher-observed-motivation.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The authors observed higher motivation among learners doing CALL-based tasks than among those doing written-question tasks",
 "type":"claim"
@@ -139082,6 +139084,7 @@
 "id":"flipped-learning-affordances-constraints-perceptions",
 "newest_evidence":"2019",
 "path":"claims/flipped-learning-affordances-constraints-perceptions.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)",
 "type":"claim"
@@ -165132,13 +165135,14 @@
 "type":"claim"
 },
 {
-"description":"Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers",
+"description":"Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers",
 "evidence_strength":"moderate",
 "id":"head-start-impacts-larger-for-dll-and-low-pretest-children",
 "newest_evidence":"2018",
 "path":"claims/head-start-impacts-larger-for-dll-and-low-pretest-children.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers",
+"title":"Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers",
 "type":"claim"
 },
 {
@@ -189740,13 +189744,14 @@
 "type":"claim"
 },
 {
-"description":"Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group",
+"description":"Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group",
 "evidence_strength":"moderate",
 "id":"ipad-games-learning-retention-delayed-test",
 "newest_evidence":"2017",
 "path":"claims/ipad-games-learning-retention-delayed-test.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group",
+"title":"Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group",
 "type":"claim"
 },
 {
@@ -241211,6 +241216,7 @@
 "id":"mvpa-correlates-creativity-dimensions",
 "newest_evidence":"2023",
 "path":"claims/mvpa-correlates-creativity-dimensions.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone",
 "type":"claim"
@@ -281465,6 +281471,7 @@
 "id":"phonetic-transcription-improves-word-stress-learning",
 "newest_evidence":"2019",
 "path":"claims/phonetic-transcription-improves-word-stress-learning.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Explicit phonetic transcription instruction improves Iranian undergraduate EFL students' word stress learning compared with listen-and-repeat exposure",
 "type":"claim"
@@ -292546,8 +292553,9 @@
 "description":"The experimental and control groups were homogeneous in grammar knowledge before the intervention",
 "evidence_strength":"moderate",
 "id":"pretest-homogeneity-call-grammar-study",
-"newest_evidence":"2016",
+"newest_evidence":"2018",
 "path":"claims/pretest-homogeneity-call-grammar-study.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The experimental and control groups were homogeneous in grammar knowledge before the intervention",
 "type":"claim"
@@ -388390,6 +388398,7 @@
 "id":"tier2-dosage-scheduling-mixed-findings",
 "newest_evidence":"2012",
 "path":"claims/tier2-dosage-scheduling-mixed-findings.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules",
 "type":"claim"

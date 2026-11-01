@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers
-description: Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers
+title: Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers
+description: Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers
 id: head-start-impacts-larger-for-dll-and-low-pretest-children
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: morris-2018
     resource: "https://doi.org/10.1177/2332858418769287"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers
+# Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The effect of Head Start random assignment on vocabulary was 0.26 SD for DLLs versus 0.10 SD for non-DLL peers, a 0.16-SD difference; low-pretest DLL children showed substantially larger effects than nonlow-pretest DLLs. [→ Morris 2018](#morris-2018)
@@ -62,6 +63,7 @@ Site-level predictor analysis of receptive vocabulary, the one outcome with subs
 
 ## Discussion
 
+The low-pretest advantage is shown within dual language learners: low-pretest DLL children had substantially larger effects than other DLL children on receptive vocabulary and early numeracy, with no such pattern by pretest score among English-only children. Across all children, the article's Table 4 shows a larger effect for low-pretest performers on early numeracy (0.20 vs 0.06 SD), but on receptive vocabulary it prints 0.02 SD for low-pretest performers against 0.09 SD for other performers, so the vocabulary advantage is not established for low-pretest children as a whole.
 
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it

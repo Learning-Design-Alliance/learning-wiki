@@ -52,6 +52,6 @@ Impact-variation analysis with urbanicity as a site-level predictor (McCoy et al
 
 ## Related Claims
 - [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](cross-site-variation-in-cognitive-outcome-impacts.md) — related
-- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
 - [Head Start impacts on children's PPVT receptive vocabulary scores are larger in communities with lower availability of non-Head Start child care options](child-care-availability-moderates-head-start-ppvt-impact.md) — related
 - [Head Start's vocabulary impacts are concentrated among children who would otherwise receive home-based care, with no average advantage over other center-based alternatives](counterfactual-care-type-moderates-head-start-impacts.md) — related

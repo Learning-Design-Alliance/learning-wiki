@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: alian-2016
+  - id: alian-2018
     resource: "http://www.tewtjournal.org"
-    title: "Alian, J., Khodabandeh, F., & Soleimani, H. (2016). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org"
+    title: "Alian, J., Khodabandeh, F., & Soleimani, H. (2018). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org"
     author: "Alian, J., Khodabandeh, F., & Soleimani, H"
 ---
 
@@ -50,4 +50,4 @@ The article recommends that content designers and teachers choose effective teac
 -
 
 ## Key Sources
-- Alian, J., Khodabandeh, F., & Soleimani, H. (2016). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org
+- Alian, J., Khodabandeh, F., & Soleimani, H. (2018). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org

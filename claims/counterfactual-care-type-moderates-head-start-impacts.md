@@ -51,5 +51,5 @@ Principal stratification analysis (Feller et al., 2016; N = 4,385) using a Bayes
 - [Head Start shows larger effects on cognitive outcomes relative to non-center care than relative to center care, with non-zero effects only for Non-Center Compliers](head-start-larger-effect-noncenter-compliers.md) — related
 - [Suggestive evidence of no beneficial effect of Head Start relative to other center care](no-benefit-head-start-versus-center-care.md) — a narrower finding that bears on this claim
 - [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](cross-site-variation-in-cognitive-outcome-impacts.md) — related
-- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers](head-start-impacts-larger-for-dll-and-low-pretest-children.md) — related
 - [Head Start's impacts on receptive vocabulary are larger in urban than rural communities, while impacts on oral comprehension are larger in rural communities](urban-rural-moderation-of-head-start-impacts.md) — related

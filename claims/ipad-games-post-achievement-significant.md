@@ -65,6 +65,6 @@ Total-test row of the post-test ANOVA table (Table 6) prints F = 74.54, signific
 
 ## Related Claims
 - [GIS-based teaching produced significantly higher post-test achievement scores than traditional teaching among underachieving Geography students, with a large-sized between-group effect](gis-teaching-higher-achievement-underachievers.md) — related
-- [Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
+- [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related

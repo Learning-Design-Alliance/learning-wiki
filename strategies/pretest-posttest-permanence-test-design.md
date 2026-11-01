@@ -44,7 +44,7 @@ The study's design applies one validated achievement test three times: as a pre-
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](../claims/performing-arts-knowledge-permanence.md) [+W]
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](../claims/technology-supported-teaching-higher-retention-four-months.md) [+W]
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](../claims/iwb-visual-persistence-of-learning.md) [+W]
-- [Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group](../claims/ipad-games-learning-retention-delayed-test.md) [+W]
+- [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](../claims/ipad-games-learning-retention-delayed-test.md) [+W]
 
 ## Related Strategies
 - 

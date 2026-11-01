@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-01
 sources:
   - id: almodaires-et-al-2019
     resource: "https://doi.org/10.5539/ies.v12n1p10"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported affordances including being well prepared, accessing materials anywhere, controlling playback (rewind, pause, stop, replay), and increased communication with peers and the instructor. [→ Almodaires et al. 2019](#almodaires-et-al-2019)

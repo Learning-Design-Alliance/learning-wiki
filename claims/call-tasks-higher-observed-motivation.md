@@ -8,11 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: weak
-newest_evidence: 2016
+newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
-  - id: alian-2016
+  - id: alian-2018
     resource: "http://www.tewtjournal.org"
-    title: "Alian, J., Khodabandeh, F., & Soleimani, H. (2016). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org"
+    title: "Alian, J., Khodabandeh, F., & Soleimani, H. (2018). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org"
     author: "Alian, J., Khodabandeh, F., & Soleimani, H."
     q: 1
     i: "?"
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Based on the researchers' observations, experimental-group participants showed higher motivation to learn English grammatical rules than control-group participants. [→ Alian 2016](#alian-2016)
+`q1 i?` Based on the researchers' observations, experimental-group participants showed higher motivation to learn English grammatical rules than control-group participants. [→ Alian 2018](#alian-2018)
 
 ## Evidence
 
-### Alian 2016
+### Alian 2018
 
-Alian, J., Khodabandeh, F., & Soleimani, H. (2016). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org
+Alian, J., Khodabandeh, F., & Soleimani, H. (2018). The effect of CALL-based tasks on EFL learners’ grammar learning. Teaching English with Technology, 18(3), 54-68. http://www.tewtjournal.org
 
 `q1 · i?` · `causal · r2`
 
