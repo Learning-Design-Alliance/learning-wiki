@@ -1,14 +1,14 @@
 {
 "counts":{
 "claim":38503,
-"design":1481,
+"design":1480,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2497,
+"product":2496,
 "research-method":925,
 "strategy":8454,
 "theory":1360
@@ -276087,13 +276087,14 @@
 "type":"claim"
 },
 {
-"description":"Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing",
-"evidence_strength":"moderate",
+"description":"Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053",
+"evidence_strength":"weak",
 "id":"practical-presentations-higher-achievement-than-lecturing",
 "newest_evidence":"2017",
 "path":"claims/practical-presentations-higher-achievement-than-lecturing.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing",
+"title":"Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053",
 "type":"claim"
 },
 {
@@ -339512,6 +339513,7 @@
 "id":"stad-alone-equals-traditional-teaching-electrochemical-cells",
 "newest_evidence":"2016",
 "path":"claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells",
 "type":"claim"
@@ -409939,19 +409941,12 @@
 "type":"design"
 },
 {
+"aliases":["schema-based-instruction-proportional-reasoning"],
 "description":"SBI is an instructional approach rooted in schema theory that incorporates cognitive models of mathematical problem solving and integrates features such as explicit and systematic instruction, scaffolding with guided...",
 "id":"schema-based-instruction-proportional-problems",
 "path":"designs/schema-based-instruction-proportional-problems.md",
 "status":"review",
 "title":"Schema-based instruction (SBI) for proportional problem solving",
-"type":"design"
-},
-{
-"description":"SBI is an instructional approach rooted in schema theory and cognitive models of mathematical problem solving, aimed at improving learning of ratios and proportional relationships.",
-"id":"schema-based-instruction-proportional-reasoning",
-"path":"designs/schema-based-instruction-proportional-reasoning.md",
-"status":"review",
-"title":"Schema-based instruction (SBI) for proportional reasoning",
 "type":"design"
 },
 {
@@ -439223,14 +439218,7 @@
 "type":"product"
 },
 {
-"description":"Quantum Teaching is a branded instructional framework developed for orchestrating classroom atmosphere, foundations, learning environments, and lesson design.",
-"id":"quantum-teaching",
-"path":"products/quantum-teaching.md",
-"status":"review",
-"title":"Quantum Teaching",
-"type":"product"
-},
-{
+"aliases":["quantum-teaching"],
 "description":"A branded instructional framework that orchestrates classroom context and content through an engaging sequence of enrollment, experience, demonstration, reflection, repetition, and celebration, developed for adoption by teachers.",
 "id":"quantum-teaching-strategy",
 "path":"products/quantum-teaching-strategy.md",
@@ -571545,7 +571533,7 @@
 "scaffolding-adaptive-feedback-summary-assessment":"scaffolding-adaptive-feedback-summary-assessment",
 "scenery-generator-learning-fields":"scenery-generator-learning-fields",
 "schema-based-instruction-proportional-problems":"schema-based-instruction-proportional-problems",
-"schema-based-instruction-proportional-reasoning":"schema-based-instruction-proportional-reasoning",
+"schema-based-instruction-proportional-reasoning":"schema-based-instruction-proportional-problems",
 "school-as-community-center-movement":"school-as-community-center-movement",
 "school-ccs-data-lifecycle-project-design":"school-ccs-data-lifecycle-project-design",
 "school-collaborative-making-project-pattern":"school-collaborative-making-project-pattern",
@@ -575460,7 +575448,7 @@
 "quality-talk-qt":"quality-talk-qt",
 "quality-teaching-for-english-learners-qtel":"quality-teaching-for-english-learners-qtel",
 "quantum-randi-challenge-qrc":"quantum-randi-challenge-qrc",
-"quantum-teaching":"quantum-teaching",
+"quantum-teaching":"quantum-teaching-strategy",
 "quantum-teaching-strategy":"quantum-teaching-strategy",
 "quantum-theory-test":"quantum-theory-test",
 "quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set":"quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set",

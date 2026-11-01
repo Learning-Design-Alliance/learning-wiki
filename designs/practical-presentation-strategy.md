@@ -17,7 +17,7 @@ sources:
 # Practical presentation strategy as purposeful demonstration combining teacher performance with dialogue and illustration means
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The practical presentation strategy is defined as "a purposeful educational activity, combining teacher performance of practical presentation with investigative represented in intellectual dialogue and questions", using illustration means such as samples, drawings, or practical experience so learners can carry out and apply skills. Presentations may be given by the teacher alone, with student help, by students on a rotational basis, or by a visiting guest. The study operationalized it with samples, items, models, movies, and experiments in two pre-vocational units.
@@ -38,7 +38,7 @@ The practical presentation strategy is defined as "a purposeful educational acti
 - pre-vocational education knowledge and skills in sanitation and environment waste recycling
 
 ### Claims
-- [Practical Presentations Higher Achievement Than Lecturing](../claims/practical-presentations-higher-achievement-than-lecturing.md) [+M]
+- [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](../claims/practical-presentations-higher-achievement-than-lecturing.md) [~W]
 
 ## Related Designs
 - 

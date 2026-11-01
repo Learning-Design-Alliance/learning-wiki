@@ -17,7 +17,7 @@ sources:
 # Use practical presentations in teaching to raise student achievement, especially in schools that lack labs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend adopting practical presentations as a teaching method: "Using the practical presentations in teaching to increase the students' achievements" and "Using the practical presentations at schools that lack the labs." The recommendation rests on their quasi-experimental finding that presentation-based teaching outperformed lecturing on post-test achievement in pre-vocational education.
@@ -39,7 +39,7 @@ The authors recommend adopting practical presentations as a teaching method: "Us
 ## Claims
 
 - [No statistically significant gender difference in achievement among ninth graders taught with practical presentations](../claims/no-gender-difference-practical-presentations-achievement.md) [+W]
-- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](../claims/practical-presentations-higher-achievement-than-lecturing.md) [+W]
+- [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](../claims/practical-presentations-higher-achievement-than-lecturing.md) [~W]
 
 ## Related Strategies
 - 

@@ -55,5 +55,5 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Group discussion was more effective than lecture-discussion in improving teacher trainees' student learning outcomes](group-discussion-more-effective-than-lecture-discussion-teacher-trainees.md) — related
-- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related
+- [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
 - [Demonstration strategy has the most significant effect on students’ academic performance in Electrical Installation among the four strategies compared](demonstration-most-effective-strategy-electrical-installation.md) — related

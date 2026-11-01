@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1481 entries** · 0 stable · 1481 in review · 0 drafts
+**1480 entries** · 0 stable · 1480 in review · 0 drafts
 
 ---
 
@@ -1109,7 +1109,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scenario-based design pattern: select a scenario, adapt it to context, then add domain content](select-adapt-add-content-pattern.md) - The SCY design pattern treats instructional design as selecting a reusable pedagogical scenario blueprint, adapting it, and adding domain content.
 * [Schedule a bout of moderate-intensity cardiovascular exercise immediately after motor skill practice to enhance multi-session motor learning in neurorehabilitation](post-practice-cve-after-skill-practice-rehab.md) - The article recommends, based on its pilot RCT, that motor skill practice in pwPD be followed by a 30-min bout of moderate-intensity cycling.
 * [Schema-based instruction (SBI) for proportional problem solving](schema-based-instruction-proportional-problems.md) - SBI is an instructional approach rooted in schema theory that incorporates cognitive models of mathematical problem solving and integrates features such as explicit and systematic instruction, scaffolding with guided...
-* [Schema-based instruction (SBI) for proportional reasoning](schema-based-instruction-proportional-reasoning.md) - SBI is an instructional approach rooted in schema theory and cognitive models of mathematical problem solving, aimed at improving learning of ratios and proportional relationships.
 * [Schema-driven story planning with a graphic-organizer planning sheet](srsd-graphic-organizer-planning-sheet-pattern.md) - A lesson-level design pattern within SRSD for narrative writing: students are first trained to identify the important parts of a story (characters, time, place, trigger, events, denouement, resolution) across texts, t...
 * [School art programs should employ working artists rather than art teachers as workshop instructors](working-artists-rather-than-art-teachers.md) - The article identifies the AP's distinguishing design feature as its use of \"working artists as opposed to art teachers\" in school workshops.
 * [School naps can be implemented in ordinary classrooms without specialized resting facilities, because sleeping seated at a desk suffices to boost encoding](chair-napping-school-implementation.md) - A design principle holding that academic nap interventions need not require beds or dedicated rest rooms: in this study students slept \"sitting in chairs, with their heads resting on their forearms on the table\" in th...

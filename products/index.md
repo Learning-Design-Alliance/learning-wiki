@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2497 entries** · 0 stable · 2497 in review · 0 drafts
+**2496 entries** · 0 stable · 2496 in review · 0 drafts
 
 ---
 
@@ -1788,7 +1788,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Quality Talk (QT)](quality-talk-qt.md) - A structured small-group language-arts discussion framework developed by Quality Talk researchers that uses authentic questions, reasoning, co-constructed responses, teacher talk moves, and gradual transfer of discussion control to students.
 * [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md) - QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.
 * [Quantum Randi Challenge (QRC)](quantum-randi-challenge-qrc.md) - The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
-* [Quantum Teaching](quantum-teaching.md) - Quantum Teaching is a branded instructional framework developed for orchestrating classroom atmosphere, foundations, learning environments, and lesson design.
 * [Quantum Teaching Strategy](quantum-teaching-strategy.md) - A branded instructional framework that orchestrates classroom context and content through an engaging sequence of enrollment, experience, demonstration, reflection, repetition, and celebration, developed for adoption by teachers.
 * [Quantum Theory Test](quantum-theory-test.md) - A 30-item quantum-theory achievement test developed by Saif Alneyadi et al.
 * [Quantway College with Corequisite and Statway College with Corequisite one-term course sets](quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set.md) - Carnegie Math Pathways developed these one-term college-level quantitative-reasoning and statistics course sets with embedded developmental corequisite support for colleges serving students placed into developmental mathematics.

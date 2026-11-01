@@ -47,4 +47,4 @@ Quasi-experimental comparison of intact classes taught with discussion versus le
 ## Related Claims
 - [Demonstration strategy has the most significant effect on students’ academic performance in Electrical Installation among the four strategies compared](demonstration-most-effective-strategy-electrical-installation.md) — related
 - [Scheffe multiple comparisons rank the four strategies: demonstration highest, then inquiry, then discussion, with lecture lowest](scheffe-strategy-ordering-electrical-installation.md) — related
-- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related
+- [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related

@@ -47,5 +47,5 @@ Independent-samples t-test comparing post-test Geography Achievement Test scores
 ## Related Claims
 - [Students taught map sketching and location with portfolio assessment showed significantly higher post-test Geography Achievement Test scores than their own pre-test scores](portfolio-assessment-pre-post-gain-map-sketching.md) — related
 - [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — related
-- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related
+- [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
