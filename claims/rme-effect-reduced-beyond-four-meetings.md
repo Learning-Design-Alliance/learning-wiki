@@ -49,3 +49,4 @@ Moderator analysis of treatment duration (Qb = 40.52, p = 0.00): 3-4 meetings g 
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
+- [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related

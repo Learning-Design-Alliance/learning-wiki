@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**900 entries** · 0 stable · 900 in review · 0 drafts
+**901 entries** · 0 stable · 901 in review · 0 drafts
 
 ---
 
@@ -475,6 +475,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Layered Markov chain analysis of exam-attempt logs](layered-markov-chain-analysis-of-exam-attempt-logs.md) - The article introduces \"the method - which transforms the student exam attempt log into a probabilistic graphical representation\".
 * [Learning Study model](learning-study-model.md) - The Learning Study is \"a fusion between lesson study and design experiment\" in which teachers and a researcher jointly plan a lesson around a chosen learning object, implement it with one pupil group, and analyze pre-test, post-test and delayed post-test results together with video-recorded lessons.
 * [Learning-issue–objective overlap measure](learning-issueobjective-overlap-measure.md) - One of two procedures developed at the University of Limburg to reflect \"the extent to which students are able to identify important learning issues given a particular problem\".
+* [Learning-versus-performance test framework for post-acquisition, retention, and transfer assessment](learning-versus-performance-test-framework-for-post-acquisition-retention-and-transfer-ass.md) - The review organises outcome measurement for procedural skill learning into three test types.
 * [LECTOR (Lecture slides and TOpic Relationships) discourse-based attention model](lector-lecture-slides-and-topic-relationships-discourse-based-attention-model.md) - LECTOR (Lecture slides and TOpic Relationships) is an attention-based model that estimates a Matrix of Slide-Topic relationships M from lecture slides.
 * [Linearity-assumption testing for mental-effort relations](linearity-assumption-testing-for-mental-effort-relations.md) - The article recommends that researchers check whether relations involving self-rated mental effort are linear before fitting and interpreting linear models, because \"predictions based on linear models may be substantially biased for most of the range of mental effort\".
 * [LLM scoring, generated-feedback, and essay-feature analysis framework](llm-scoring-generated-feedback-and-essay-feature-analysis-framework.md) - The article proposes an analysis framework in which \"Essays are first evaluated by LLMs to produce both predicted scores and textual feedback.\" Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and critic

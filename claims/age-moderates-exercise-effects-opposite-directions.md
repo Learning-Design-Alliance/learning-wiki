@@ -67,3 +67,4 @@ Subgroup analysis of chronic exercise effects on working memory by age (Q = 18.0
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
 - [Exercise session time of 30 minutes or less yields a larger working memory effect than longer sessions in chronic exercise interventions](shorter-session-time-larger-working-memory-effect.md) — related
 - [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related
+- [Neither age nor acute-versus-chronic study design moderates the effect of resistance training on academic outcomes](age-and-design-do-not-moderate-resistance-training-effect.md) — related

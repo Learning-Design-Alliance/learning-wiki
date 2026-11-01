@@ -53,3 +53,4 @@ Random-effects moderator analysis of intervention duration. Table 4 reports g = 
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related

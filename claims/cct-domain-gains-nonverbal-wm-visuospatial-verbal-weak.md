@@ -67,3 +67,4 @@ Domain-specific meta-analyses: nonverbal memory g = 0.24 (13 studies), WM g = 0.
 - [Group-based CCT is effective while home-based CCT is not](cct-group-based-effective-home-based-not.md) — related
 - [CCT improves processing speed with a moderate effect, the largest domain effect, though with large heterogeneity](cct-processing-speed-moderate-effect.md) — related
 - [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](wm-only-training-ineffective-older-adults.md) — related
+- [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](classic-cognitive-training-improves-multiple-domains.md) — reports the opposite

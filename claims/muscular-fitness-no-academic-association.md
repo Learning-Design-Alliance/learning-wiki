@@ -53,3 +53,4 @@ Null multilevel-analysis result in the 544-child sample: muscular fitness, measu
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related
 - [Cardiovascular fitness is positively associated with spelling but not with reading in primary school children](cardiovascular-fitness-spelling-not-reading.md) — related
+- [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — reports the opposite

@@ -199,6 +199,7 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Five key qualities of a successful instructional technology coach](../strategies/five-key-qualities-successful-coach.md)
 - [Study faculty advisors' and mentors' own views of their role in educating doctoral students about responsible research](../strategies/study-faculty-views-responsible-research-training.md)
 - [Statewide induction for early-career school leaders](../designs/statewide-induction-early-career-leaders.md) — state programmes pairing new principals with experienced mentors, with cohort seminars and coaching
+- [When planning mentoring to support evidence uptake, plan regular meetings over time, choose an appropriate delivery approach, establish a mentor-mentee matching process, and consider combining mentoring with other KT interventions](../strategies/plan-mentoring-kt-implementation-recommendations.md)
 
 ## Key Sources
 - Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. *Review of Educational Research, 88*(4), 547-588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)

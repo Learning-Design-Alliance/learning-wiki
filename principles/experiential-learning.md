@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (31 for, 12 mixed) · 47 studies (12 causal, 10 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 47 report an effect size · 37 claims rest on one study
+> **Evidence** · 44 claims (32 for, 12 mixed) · 48 studies (12 causal, 11 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 48 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Half of the reviewed research education programs included a mentoring component and programs were often multifaceted with experiential learning](../claims/research-education-programs-mentoring-experiential.md) [+W]
 - [Pre-training practical evaluation with instructor feedback improved CPR skill performance except hand placement](../claims/pre-training-evaluation-feedback-improves-skills.md) [+W]
 - [Taste-testing showed large effects on behavioral outcomes but was usually combined with other experiential strategies](../claims/taste-testing-large-behavioral-effects-usually-combined.md) [~W]
+- [Experiential learning approaches improve fruit and vegetable consumption or preference (Md = 0.68), within the Zone of Desired Effects](../claims/experiential-learning-fv-consumption-md-0-68.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

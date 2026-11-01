@@ -65,3 +65,5 @@ Narrative attribution in the discussion: the article reports, citing reference 2
 - [Acute physical activity improves mathematics performance in school-aged youth (Hedge's g = 0.29 multivariate)](acute-physical-activity-improves-mathematics-performance.md) — related
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — reports the opposite
 - [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](chronic-pa-medium-acute-pa-null-effect.md) — related
+- [Neither age nor acute-versus-chronic study design moderates the effect of resistance training on academic outcomes](age-and-design-do-not-moderate-resistance-training-effect.md) — related
+- [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related

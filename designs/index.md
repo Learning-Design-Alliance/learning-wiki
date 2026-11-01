@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1380 entries** · 0 stable · 1380 in review · 0 drafts
+**1381 entries** · 0 stable · 1381 in review · 0 drafts
 
 ---
 
@@ -946,6 +946,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prescriptive grouped dashboard design with action-oriented category labels](prescriptive-grouped-dashboard-design.md) - The Grouped Dashboard categorised learners into three groups based on the same ranking calculation as the List Dashboard, using labels designed to adopt 'prescriptive' language which prompts specific pedagogical actio...
 * [Principle of validation authority: delegation is safe exactly where the delegator can validate outputs](validation-authority-principle.md) - The article introduces the principle of validation authority, grounded in a bespoke-versus-socially-validated distinction: a library routine is opaque but socially validated through published algorithms, testing, and...
 * [Principled resistance: theory-grounded, dual-layer gatekeeping of AI-generated educational content](principled-resistance-dual-gatekeeping.md) - The article conceptualizes \"principled resistance\" as \"deliberate, theory-grounded pushback against AI outputs that fail pedagogical standards\", taking three concrete forms: rejecting (requesting regeneration), revisi...
+* [Problem-based learning as a student-centered approach using real problems in tutor-led small groups](pbl-student-centered-real-problems-small-groups.md) - The article characterizes problem-based learning (PBL) as \"an educational approach usually characterized by the use of real problems as a context for students to acquire knowledge and develop skills\".
 * [Proceso de diseño instruccional ADDIE de cinco fases para cursos virtuales con evaluación formativa](addie-cinco-fases-evaluacion-formativa-virtual.md) - El modelo de la tesis \"sigue las cinco fases del diseño instruccional ADDIE\", organizando la puesta en marcha de cursos virtuales de matemáticas en torno a un proceso de evaluación formativa integrado con analíticas d...
 * [Professional learning communities (PLCs) with team structures and weekly scheduled meetings](plc-team-structures-equity-schools.md) - Professional learning communities are structures that help educators inquire about and solve problems and reflect on their work together.
 * [Proficiency-based progression training (PBPT): trainees practice until an unambiguously demonstrated quantitative performance benchmark is reached, with metric-based feedback](proficiency-based-progression-training-pbpt.md) - PBPT is a training approach for high-volume, high-risk technical and non-technical skills in which trainees receive precise feedback proximate to performance and \"a quantitative performance benchmark to work towards\"...

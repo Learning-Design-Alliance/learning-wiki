@@ -56,3 +56,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related
 - [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](implicit-strategies-inconclusive-domain-specific-only.md) — related
+- [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related

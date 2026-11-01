@@ -135,3 +135,4 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Phonological decoding is at the core of learning to read words in alphabetic languages, and children do not learn to read words by contextual guessing](phonological-decoding-core-of-reading.md) — related
 - [In a systematic review of RCTs, only phonics training — a proximal intervention — produced a statistically reliable effect in poor readers](phonics-only-reliable-rct-effect-poor-readers.md) — related
 - [Teaching more text structures and including writing each increase the effect of text structure instruction](tsi-moderators-structures-and-writing.md) — related
+- [Phonemic awareness and reading fluency trainings alone are not sufficient to achieve substantial improvements in school-aged children with reading difficulties](phonemic-awareness-fluency-alone-insufficient.md) — reports the opposite

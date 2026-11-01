@@ -53,3 +53,4 @@ Random-effects meta-analysis of three continuous-variable studies (I2 = 98%) rep
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
 - [GAI-assisted teaching significantly improves learning self-efficacy compared with traditional teaching (SMD = 0.75)](gai-teaching-improves-learning-self-efficacy.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
+- [Concept mapping is effective in improving critical thinking, while problem-based learning is not significantly effective](concept-mapping-effective-pbl-not-significant.md) — related

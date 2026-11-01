@@ -52,3 +52,4 @@ Subgroup analysis by intervention intensity for mathematics outcomes. The review
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — a broader claim this one bears on
 - [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](school-based-physical-activity-improves-overall-academic-achievement.md) — related
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
+- [Mathematics shows the strongest association with muscular fitness among school subjects](mathematics-strongest-muscular-fitness-association.md) — related

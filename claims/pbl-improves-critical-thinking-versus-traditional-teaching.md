@@ -97,3 +97,6 @@ Table 2 characterizes the Oliveira et al. 2016 Cochrane/meta-analysis of 19 stud
 - [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](pbl-no-significant-critical-thinking-first-year.md) — related
 - [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related
 - [VR instruction shows no statistically significant advantage for nursing students' critical thinking (SMD = 0.79, p = 0.07)](vr-no-significant-critical-thinking-gain.md) — related
+- [Concept mapping is effective in improving critical thinking, while problem-based learning is not significantly effective](concept-mapping-effective-pbl-not-significant.md) — reports the opposite
+- [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — a broader claim this one bears on
+- [Non-traditional teaching methods significantly improve critical thinking skills in nursing students compared to control groups](non-traditional-methods-improve-ct-skills.md) — a broader claim this one bears on

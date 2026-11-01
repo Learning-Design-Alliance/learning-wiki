@@ -49,3 +49,4 @@ A series of Group × Session ANOVAs on a cognitive test battery spanning percept
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md) — related
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
+- [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](working-memory-training-transfers-untrained-tasks.md) — related

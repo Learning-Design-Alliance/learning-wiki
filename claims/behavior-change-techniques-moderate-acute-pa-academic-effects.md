@@ -51,3 +51,4 @@ Sub-group meta-analysis comparing interventions with versus without behavior cha
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related
 - [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — a broader claim this one bears on
 - [Increased physical activity does not negatively affect academic performance, but academic performance is not caused solely by increased physical activity](pa-does-not-harm-academic-performance-not-sole-cause.md) — related
+- [Neither age nor acute-versus-chronic study design moderates the effect of resistance training on academic outcomes](age-and-design-do-not-moderate-resistance-training-effect.md) — related

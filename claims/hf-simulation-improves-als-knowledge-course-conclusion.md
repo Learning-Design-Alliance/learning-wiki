@@ -57,3 +57,5 @@ Meta-analysis of 15 RCTs reporting knowledge at course conclusion, synthesized i
 - [Participant seniority moderates the benefit of HF simulation: residents and third/fourth-year students benefit, first-year students do not](participant-seniority-moderates-hf-benefit.md) — a narrower finding that bears on this claim
 - [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](hf-vs-lf-small-moderate-benefit.md) — related
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
+- [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](hfs-largest-cognitive-outcome-effect.md) — related
+- [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](simulation-nursing-education-pooled-effect-070.md) — related

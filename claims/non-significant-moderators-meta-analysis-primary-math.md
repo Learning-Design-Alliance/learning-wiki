@@ -78,3 +78,4 @@ Meta-regression for the continuous sample-size moderator (studies ranged between
 - [The effect of games on mathematics achievement does not differ significantly by sample size](game-math-effect-no-difference-sample-size.md) — a narrower finding that bears on this claim
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](implementation-period-moderator-not-significant.md) — a narrower finding that bears on this claim
 - [Group size significantly moderates the effect of context-based learning on academic achievement, with studies under 100 participants showing stronger effects than studies over 100](cbl-achievement-moderated-by-group-size.md) — related
+- [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related

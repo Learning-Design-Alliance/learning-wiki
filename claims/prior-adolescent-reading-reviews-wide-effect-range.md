@@ -53,3 +53,4 @@ The review's own synthesis of ten prior reviews (Table 1, 2003-2023), which it r
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
 - [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
 - [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](word-reading-interventions-significant-adolescent-literacy-g030.md) — related
+- [Phonics instruction is the only treatment approach whose effectiveness on reading performance in children and adolescents with reading disabilities is statistically confirmed](phonics-instruction-only-confirmed-reading-treatment.md) — related

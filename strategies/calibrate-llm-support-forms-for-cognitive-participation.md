@@ -50,6 +50,7 @@ The article recommends that the educational value of future AI assistants lies i
 - [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
 - [Design hypothesis-testing tasks that require students to reason about relations between steps rather than fill in pre-given steps](tasks-addressing-logical-reasoning-between-steps.md)
 - [Use four assessment types — computer-based, tutor-, self- and peer-assessment — within e-Learning scenarios](unite-four-assessment-techniques.md)
+- [Design LLM deployments as sustained, tutor-like, scaffolded activities rather than one-off answer-provision tools](sustained-tutor-like-llm-design.md)
 
 ## Examples
 -

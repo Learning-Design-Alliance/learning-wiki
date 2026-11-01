@@ -69,3 +69,4 @@ Meta-analysis of three RCTs comparing high-fidelity with low-fidelity simulation
 - [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](hf-skill-benefit-lf-not-traditional.md) — related
 - [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — related
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
+- [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](hfs-largest-cognitive-outcome-effect.md) — related

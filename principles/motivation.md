@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (71 for, 43 mixed, 1 against) · 103 studies (29 review, 26 causal, 12 associational, 12 theoretical, 10 qualitative, 8 quant-synthesis, 6 design), `q1`–`q4` · 14 of 103 report an effect size · 101 claims rest on one study
+> **Evidence** · 116 claims (71 for, 44 mixed, 1 against) · 104 studies (29 review, 26 causal, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 104 report an effect size · 102 claims rest on one study
 
 ## Conditional relationship
 
@@ -249,6 +249,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](../claims/e5c-beyond-cognition-themes.md) [+W]
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [~W]
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](../claims/nonlinear-motivation-change-six-weeks.md) [~W]
+- [Across 19 quantitative m-Learning studies in higher education, 21 critical success factors were identified, with learner perceptions appearing in the most studies (15) and ownership in 14.](../claims/meta-analysis-21-csfs-learner-perceptions-most-cited.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

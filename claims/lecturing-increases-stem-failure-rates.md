@@ -53,3 +53,5 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 - [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](traditional-methodology-higher-failure-probability.md) — related
 - [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related
+- [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](pogil-confirms-freeman-meta-analysis.md) — related
+- [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](pogil-doubles-course-pass-odds.md) — a narrower finding that bears on this claim

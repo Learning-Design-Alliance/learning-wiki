@@ -56806,5 +56806,133 @@
  "worked-examples\tITS providing worked-out examples\tITS not providing worked-out examples": {
   "label": "worked examples vs no worked examples",
   "treatment_is_a": true
+ },
+ "active-learning\tPOGIL instruction\tstandard lecture": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL instruction\ttraditional lectures": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL instruction with reported instructor training\tstandard lectures": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL instruction without reported instructor training\tstandard lectures": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL pedagogy\tstandard lecture": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL pedagogy\tstandard lectures": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tProcess Oriented Guided Inquiry Learning (POGIL)\tstandard lecture": {
+  "label": "POGIL instruction vs standard lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiential learning through cooking, food preparation, and school/community gardens\tcomparison condition": {
+  "label": "Experiential learning through cooking, food preparation, and school/community gardens vs comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-traditional teaching and learning methods\tcontrol groups": {
+  "label": "Non-traditional teaching and learning methods vs control groups",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-traditional teaching and learning methods\tcontrol or traditional teaching groups": {
+  "label": "Non-traditional teaching and learning methods vs control or traditional teaching groups",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-traditional teaching and learning methods\tcontrol-group teaching methods": {
+  "label": "Non-traditional teaching and learning methods vs control-group teaching methods",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-traditional teaching and learning methods\ttraditional teaching methods or lectures": {
+  "label": "Non-traditional teaching and learning methods vs traditional teaching methods or lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tnon-traditional teaching methods without lectures\ttraditional lecture-based control": {
+  "label": "Non-traditional teaching methods without lectures vs traditional lecture-based control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonics instruction\tcontrol group": {
+  "label": "explicit instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonics instruction\tuntrained or placebo control": {
+  "label": "explicit instruction vs control",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tterminal feedback\tconcurrent feedback": {
+  "label": "terminal vs concurrent feedback",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10 largest classes\t10 smallest classes": {
+  "label": "larger vs smaller classes",
+  "treatment_is_a": true
+ },
+ "practice-amount\t15–34 hours of intervention\t35 hours or more of intervention": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\t15–34 hours of intervention\tup to 14 hours of intervention": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based learning\tcontrol teaching methods": {
+  "label": "problem-based learning vs control teaching methods",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcontingent reinforcement for fruit and vegetable consumption or preference\tcomparison condition": {
+  "label": "contingent reinforcement vs comparison condition",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmentoring plus educational meetings\teducational meetings": {
+  "label": "mentoring plus educational meetings vs educational meetings",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tcontrol condition": {
+  "label": "high-fidelity simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tcontrol group": {
+  "label": "high-fidelity simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\thybrid simulation\tcontrol group": {
+  "label": "hybrid simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity simulation\tcontrol group": {
+  "label": "low-fidelity simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tmedium-fidelity simulation\tcontrol condition": {
+  "label": "medium-fidelity simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tmedium-fidelity simulation\tcontrol group": {
+  "label": "medium-fidelity simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based nursing education\tcontrol group": {
+  "label": "simulation-based nursing education vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tstandardized patient simulation\tcontrol group": {
+  "label": "standardized-patient simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tstandardized patients\tcontrol group": {
+  "label": "standardized-patient simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\tstandardized-patient simulation\tcontrol condition": {
+  "label": "standardized-patient simulation vs control",
+  "treatment_is_a": true
  }
 }

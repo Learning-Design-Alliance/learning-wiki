@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (77 show a difference, 28 mixed, 14 no difference) · 60 studies (19 causal, 14 review, 12 quant-synthesis, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 12 of 60 report an effect size · 115 claims rest on one study
+> **Evidence** · 123 claims (80 show a difference, 29 mixed, 14 no difference) · 62 studies (19 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 62 report an effect size · 119 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -156,6 +156,10 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](../claims/little-evidence-obesity-reading-science-attainment.md) [-M] — learners who differ on it differ in outcomes
 - [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](../claims/obesity-associated-lower-maths-adolescent-girls.md) [~M] — learners who differ on it differ in outcomes
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](../claims/psychosocial-executive-mediation-obesity-achievement.md) [~M] — learners who differ on it differ in outcomes
+- [Enhanced curriculum approaches alone show minimal effect on reducing food consumption or energy intake (Md = 0.12) but improve nutritional knowledge (Md = 0.75) and FV consumption or preference (Md = 0.45)](../claims/curriculum-approaches-effects-vary-by-outcome.md) [~W] — instruction changes it
+- [Experiential learning approaches are a particularly strong strategy for improving primary school children's nutritional knowledge (Md = 1.35)](../claims/experiential-learning-nutritional-knowledge-md-1-35.md) [+W] — instruction changes it
+- [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](../claims/muscular-fitness-associated-cognition-academic-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Mathematics shows the strongest association with muscular fitness among school subjects](../claims/mathematics-strongest-muscular-fitness-association.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

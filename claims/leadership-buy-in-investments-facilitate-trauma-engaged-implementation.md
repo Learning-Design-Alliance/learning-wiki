@@ -80,3 +80,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
+- [Barriers to mentoring as a KT intervention included staff resistance and shortage, lack of time, lack of knowledge and skills, and inadequate guidance from mentors; enablers included leadership support, staff involvement, and available mentors](mentoring-kt-barriers-and-enablers.md) — related

@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 237 claims (134 for, 87 mixed, 16 against) · 150 studies (77 review, 37 quant-synthesis, 17 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 28 of 150 report an effect size · 227 claims rest on one study
+> **Evidence** · 240 claims (136 for, 88 mixed, 16 against) · 151 studies (77 review, 38 quant-synthesis, 17 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 29 of 151 report an effect size · 230 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -292,6 +292,9 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](../claims/simulation-training-translates-laparoscopic-skills-to-or.md) [+W]
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](../claims/vp-authenticity-interactivity-feedback.md) [~W]
 - [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](../claims/vr-simulators-perceptual-motor-skills-transfer-challenge.md) [~W]
+- [For affective outcomes, high-fidelity simulation (0.80) and standardized patients (0.73) show the largest effect sizes](../claims/hfs-sp-largest-affective-outcome-effect.md) [+W]
+- [For reaction outcomes (satisfaction and learning attitudes), high-fidelity simulation shows a larger effect size than low-fidelity simulation](../claims/hfs-larger-reaction-outcome-than-lfs.md) [~W]
+- [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

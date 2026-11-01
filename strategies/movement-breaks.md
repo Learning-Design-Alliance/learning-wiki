@@ -82,6 +82,7 @@ Movement breaks leverage the link between physical arousal and cognitive readine
 - [Check-Ins](../principles/check-ins.md) — a complementary low-cost routine for reading learner state before choosing an energizing or calming break
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
+- [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
 
 ## Examples
 - **GoNoodle** ([gonoodle.com](https://www.gonoodle.com)) — short, energetic "brain break" videos widely used in elementary classrooms; teachers select videos by duration and energy level.
