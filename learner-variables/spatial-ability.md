@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (62 show a difference, 15 mixed, 7 no difference) · 51 studies (18 associational, 14 causal, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 51 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (62 show a difference, 19 mixed, 7 no difference) · 53 studies (18 associational, 16 causal, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 87 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -120,6 +120,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial ability significantly predicts learning gains in XR anatomy training contexts, suggesting elementary XR designs need layered scaffolds for varying spatial reasoning](../claims/spatial-ability-predicts-xr-learning-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](../claims/classic-cognitive-training-improves-multiple-domains.md) [+W] — instruction changes it
 - [Junior high school students taught with Model Eliciting Activities with Cabri 3D show better spatial reasoning improvement than students taught with Model Eliciting Activities alone](../claims/meac-improves-spatial-reasoning-more-than-mea.md) [+M] — instruction changes it
+- [Mental rotation scores (PSVT-Rot) increased significantly for all groups except experimental males, in both curricula](../claims/psvt-rot-gains-all-but-experimental-males.md) [~M] — instruction changes it
+- [Model-focused prompts reduced model-errors and drawing-focused prompts reduced draw-errors, with effects significant only for students with low spatial skills](../claims/framing-prompts-reduce-matching-error-types.md) [~M] — an instructional effect differs with it
+- [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](../claims/gsa-gains-females-only.md) [~M] — instruction changes it
+- [The framing-prompt effect on transfer gains was marginally significant only among students with low spatial skills](../claims/framing-effect-limited-to-low-spatial-skills.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

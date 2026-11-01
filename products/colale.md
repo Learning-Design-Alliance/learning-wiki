@@ -31,7 +31,8 @@ A prototype mobile app developed to support German and Thai vocabulary learning 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Spirit of Čakovice](spirit-of-cakovice.md)
 
 ## Key Sources
 - Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364

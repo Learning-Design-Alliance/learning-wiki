@@ -50,3 +50,4 @@ Sidak post-hoc analysis following the significant ability main effect in the PPT
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related
 - [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related
+- [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related

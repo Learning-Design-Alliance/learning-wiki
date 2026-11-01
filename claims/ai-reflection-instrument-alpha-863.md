@@ -65,3 +65,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
+- [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related

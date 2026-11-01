@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (43 for, 26 mixed, 9 against) · 82 studies (24 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 82 report an effect size · 65 claims rest on one study
+> **Evidence** · 81 claims (44 for, 27 mixed, 10 against) · 84 studies (26 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 84 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,9 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](../claims/phase-appropriate-guidance-benefits-inquiry-labs.md) [+W] — attached 2026-10-29 from Gamor (2021), which proposed "Apply guidance types matched to the inquiry phase and to how and when they are used for optimal effect".
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](../claims/7e-model-higher-science-achievement-secondary.md) [+W] — attached 2026-11-01 from Samaresh Adak (2017), which proposed "Use the constructivist 7E model in secondary science teaching to develop higher achievement, especially for low- and average-intelligence students"; tests this page's relationship.
 - [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](../claims/7e-gains-vary-by-intelligence-level.md) [~W] — attached 2026-11-01 from Samaresh Adak (2017), which proposed "Use the constructivist 7E model in secondary science teaching to develop higher achievement, especially for low- and average-intelligence students".
+- [iPod inquiry teaching produced significantly better air concept comprehension than regular teaching for third graders](../claims/ipod-inquiry-improves-air-concept-comprehension.md) [+W] — attached 2026-11-01 from Lai (2016), which proposed "Four features of iPod inquiry teaching: involvement, prediction, operation, discussion"; tests this page's relationship.
+- [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](../claims/absi-within-group-gain-significant.md) [~W] — attached 2026-11-01 from Eda Pınar Tüccaroğlu (2018), which proposed "Give place to the ABSI approach in science education programs, with teacher development to support it"; tests this page's relationship.
+- [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](../claims/absi-control-posttest-no-difference.md) [-W] — attached 2026-11-01 from Eda Pınar Tüccaroğlu (2018), which proposed "Give place to the ABSI approach in science education programs, with teacher development to support it"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

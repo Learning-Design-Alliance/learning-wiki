@@ -47,3 +47,4 @@ Quasi-experimental pre-test, post-test non-equivalent control group study of 428
 ## Related Claims
 - [Mean retention scores were highest for PF, followed by PM and least for PC, in both urban and rural locations](pf-highest-retention-then-pm-then-pc.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
+- [All three concept mapping strategies enhanced students' problem-solving performance in chemistry from pre-test to post-test](concept-mapping-enhances-chemistry-problem-solving.md) — related

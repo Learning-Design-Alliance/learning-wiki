@@ -65,6 +65,8 @@ Field trips work as learning events when they are integrated into instruction ra
 - Acting and role-play — on-site dramatization and docent role-play deepen engagement with historical or scientific settings
 - [Place an immersive virtual field trip as the introductory experience of an instructional module](immersive-field-trip-as-module-introduction-strategy.md)
 - [Use field trips to promote active engagement, self-motivation, discovery learning and learning by experience in practical subjects](field-trip-active-engagement-strategy.md)
+- [Three-phase educational trip procedure: preliminary preparation, site visit with observation, follow-up evaluation](educational-trips-three-phase-procedure.md)
+- [Use a VFT as the field-study alternative when real field trips are blocked by cost, logistics, safety or permission barriers](vft-as-field-trip-alternative-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — pre-visit preparation determines what learners can extract from the experience

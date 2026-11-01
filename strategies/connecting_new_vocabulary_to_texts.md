@@ -59,8 +59,10 @@ Vocabulary learned in context is more durable because the surrounding text suppl
 5. Revisit the words in spaced, varied contexts over subsequent lessons [~S]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — word explanations land better when connected to what learners already know
 - [Accessible Syntax](accessible_syntax.md) — vocabulary and sentence complexity together determine text accessibility
+- [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](mi-activities-content-based-efl-strategy.md)
 
 ## Examples
 - Choosing words like *seized* and *sleek* from a text about Hatshepsut and discussing how they shape understanding of her character and Egyptian civilization.

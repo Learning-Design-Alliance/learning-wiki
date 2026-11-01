@@ -51,3 +51,4 @@ In the same latent moderated SEM analysis of the class-randomized trial, the mod
 - [Class-level initial background knowledge does not moderate PACT's effect on social studies content knowledge acquisition](class-background-knowledge-no-moderation-pact-knowledge.md) — related
 - [Class-level initial reading achievement does not moderate effects on content reading comprehension](class-reading-achievement-no-moderation-comprehension.md) — related
 - [Class-level initial reading achievement does not moderate PACT's effect on content knowledge acquisition](class-reading-achievement-no-moderation-knowledge.md) — related
+- [The modified PACT treatment improved content-related reading comprehension (ES = .20) but not general standardized reading comprehension](pact-improves-content-reading-comprehension-not-general.md) — related

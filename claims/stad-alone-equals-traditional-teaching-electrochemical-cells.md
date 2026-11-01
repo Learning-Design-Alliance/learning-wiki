@@ -50,3 +50,4 @@ Bonferroni multiple comparison follow-up to the ANCOVA on post-EcAT scores of th
 - [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](salt-bridge-ion-passage-misconception-all-groups.md) — related
 - [Teaching electrochemical cells via STAD cooperative learning combined with models raises undergraduate achievement more than STAD alone or traditional teaching](stad-with-models-beats-stad-and-traditional-electrochemical-cells.md) — related
 - [Web-based STAD cooperative learning produces significantly higher cognitive study outcomes than text-based STAD in an Organizational Behavior course](web-based-stad-beats-text-based-stad-cognitive.md) — related
+- [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related

@@ -46,7 +46,8 @@ The article recommends that, rather than delivering a single dialogue format uni
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](../claims/tt-format-moderates-ce-rce-motivation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers respond to individual differences and preferred learning styles during science lessons](respond-to-learning-styles-science-lessons-strategy.md)
 
 ## Examples
 -

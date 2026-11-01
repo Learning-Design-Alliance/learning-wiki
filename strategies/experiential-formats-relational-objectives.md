@@ -47,6 +47,7 @@ The article recommends learning environments that let learners explore social re
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](on-country-elder-visits-experiential-learning.md)
 - [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 - [Use the game and physical activities course with an interdisciplinary approach for experiential elementary science teaching](gpa-course-science-teaching-strategy.md)
+- [Use directed educational games sessions to teach social skills to educable mentally retarded children](directed-educational-games-social-skills-strategy.md)
 
 ## Examples
 -

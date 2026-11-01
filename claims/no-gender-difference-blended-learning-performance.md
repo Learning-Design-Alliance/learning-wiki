@@ -58,3 +58,6 @@ ANCOVA on the blended learning group (n = 30 per Table 2) with pretest as covari
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
 - [No statistically significant gender difference in achievement among ninth graders taught with practical presentations](no-gender-difference-practical-presentations-achievement.md) — related
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — reports the opposite
+- [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related

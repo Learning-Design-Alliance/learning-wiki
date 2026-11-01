@@ -75,3 +75,4 @@ Narrative report of Study 18 (Montafej et al.), a quasi-experiment comparing HPB
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
+- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related

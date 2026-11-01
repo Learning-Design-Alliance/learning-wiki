@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (34 for, 14 mixed, 4 against) · 46 studies (11 review, 10 qualitative, 8 causal, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 46 report an effect size · 46 claims rest on one study
+> **Evidence** · 53 claims (35 for, 14 mixed, 4 against) · 47 studies (11 review, 10 qualitative, 9 causal, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 47 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,7 @@ Read against the model on 2026-10-19. Of the twelve claims that had gathered her
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W] — (not about this page) read 2026-10-19: a duration moderator in a meta-analysis of AI-supported instruction for STEM students. It says nothing about how long teacher PD should run.
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
+- [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](../claims/best-in-class-increased-teacher-instructional-practices.md) [+W] — attached 2026-11-01 from Maureen A. Conroy et al. (2019), which proposed "Cyclical weekly practice-based coaching cycle of goal setting, focused observation, and reflection with performance feedback"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

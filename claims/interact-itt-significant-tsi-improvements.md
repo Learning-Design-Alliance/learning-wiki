@@ -48,3 +48,4 @@ Cluster randomized trial in which 98 upper secondary teachers from 12 Norwegian 
 - [CACE estimation using a combined dosage-and-fidelity compliance marker increased estimated effects to medium–large for TSI domains and small–medium for emotional and behavioral engagement](cace-compliance-amplifies-interact-effects.md) — related
 - [The INTERACT intervention showed no significant ITT effect on student-reported emotional, behavioral, or cognitive engagement](interact-itt-no-significant-engagement-effect.md) — related
 - [Observed classroom engagement showed a small ITT effect and a medium CACE effect, neither statistically significant](observed-engagement-effects-nonsignificant.md) — related
+- [BEST in CLASS improved observed classroom quality on all three CLASS domains, with effect sizes .50 or larger](best-in-class-improved-classroom-quality.md) — related

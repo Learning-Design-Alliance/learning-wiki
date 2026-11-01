@@ -79,3 +79,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related
 - Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature — related
 - [GenAI-assisted persona profiles matched campaign briefings at high levels (average 85% mobile phone, 80% drink campaign)](genai-persona-briefing-high-matching.md) — related
+- [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related

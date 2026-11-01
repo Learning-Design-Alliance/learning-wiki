@@ -34,6 +34,7 @@ A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleag
 ## Related Products and Programmes
 
 - [Mad City Mystery](mad-city-mystery.md)
+- [Spirit of Čakovice](spirit-of-cakovice.md)
 
 ## Key Sources
 - Heather Toomey Zimmerman, Susan M. Land, Lillyanna Faimon, Yu-Chen Chiu. (2023). Mobile augmented reality supporting families’ immersive collaborative learning: Learning-on-the-move for place-based geoscience sense-making. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-023-09399-9

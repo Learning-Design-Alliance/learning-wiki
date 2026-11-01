@@ -40,7 +40,9 @@ The curriculum is organized around the 5E instructional model (Engage, Explore, 
 - 
 
 ## Related Designs
+
 - [5E Learning Cycle](../principles/inquiry-based-learning.md)
+- [5E-based guidance materials for \"What is the Earth's Crust Composed of?\" combining case studies, conceptual change texts and worksheets](5e-guidance-materials-earth-crust-unit.md)
 
 ## Examples
 -

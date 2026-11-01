@@ -50,3 +50,4 @@ Post-test only cluster-randomised pilot in five primary schools (372 pupils anal
 - [Passive dissemination of research summaries and evidence-based literacy materials to primary schools showed no evidence of improving pupils' Key Stage 2 English attainment compared with control](passive-dissemination-no-ks2-english-impact.md) — related
 - [The SHINE in Secondaries Saturday school showed a very small impact on literacy and numeracy outcomes across all four pilot schools](shine-secondaries-very-small-literacy-numeracy-impact.md) — related
 - [Schools combined the three intervention components with considerable variation, and the evaluators concluded the programme would have benefited from a pilot stage](vefp-component-variation-pilot-needed.md) — related
+- [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related

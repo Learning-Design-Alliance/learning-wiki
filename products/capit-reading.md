@@ -31,7 +31,8 @@ CAPIT Reading is a blended supplemental PK–3 phonics programme providing expli
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Fresh Start phonics catch-up literacy programme](fresh-start-phonics-catch-up-literacy-programme.md)
 
 ## Key Sources
 - CAPIT Reading: Evidence Rating (Moderate). (2024). https://evidenceforessa.org/program/capit-reading/

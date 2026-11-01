@@ -40,7 +40,8 @@ The guide describes an interactive multimedia computer program, provided as the 
 - 
 
 ## Related Designs
-- 
+
+- [Design characteristics of the effective eCME multimedia program](ecme-multimedia-design-characteristics.md)
 
 ## Examples
 -

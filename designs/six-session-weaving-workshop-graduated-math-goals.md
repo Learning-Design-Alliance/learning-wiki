@@ -44,7 +44,8 @@ A reusable instructional design at the unit level: six one-hour sessions during 
 - [Twelve Of Thirteen Youth Experimented Or Leveled Up](../claims/twelve-of-thirteen-youth-experimented-or-leveled-up.md) [+M]
 
 ## Related Designs
-- 
+
+- [Creative drama unit plan structured as sequenced sessions with warm-up, improvisation, interim assessment and closing activities](creative-drama-session-sequence-pattern.md)
 
 ## Examples
 -

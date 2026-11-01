@@ -65,6 +65,7 @@ Role assignment operationalizes the positive interdependence and individual acco
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role assignment applied to reading comprehension, with roles cycling through the group
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
+- [Cooperative group endurance training with rotating bicycle relief and training-log self-reflection](cooperative-endurance-training-bicycle-training-log.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; the roles encode the comprehension strategies being taught.

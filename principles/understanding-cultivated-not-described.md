@@ -168,6 +168,7 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 - [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](../strategies/paired-alternating-presentation-and-critique.md)
 - [CREATE: a six-strategy meta-creative pedagogy for fostering creative thinking](../designs/create-meta-creative-pedagogy.md)
 - [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](../strategies/open-ended-making-environments-math-discoveries.md)
+- [The Target-Task Model: a six-stage guided-discovery problem-solving model for teaching science](../designs/target-task-model-six-stages.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

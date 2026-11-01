@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (104 show a difference, 37 mixed, 14 no difference) · 133 studies (50 causal, 33 associational, 22 review, 14 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 28 of 133 report an effect size · 151 claims rest on one study
+> **Evidence** · 156 claims (104 show a difference, 38 mixed, 14 no difference) · 134 studies (50 causal, 33 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 28 of 134 report an effect size · 152 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -212,6 +212,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](../claims/textnow-attendance-dosage-effect.md) [~M] — learners who differ on it differ in outcomes
 - [Number of treatment sessions received was not associated with end-of-treatment performance](../claims/dosage-not-associated-with-outcomes.md) [-M] — learners who differ on it differ in outcomes
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](../claims/vefp-dosage-null-on-treatment.md) [-M] — learners who differ on it differ in outcomes
+- [In Wanzek and Vaughn (2008), doubling Tier 3 dosage to two daily 30-min sessions did not produce positive effects, while one daily session showed mixed effects for grade 1 inadequate responders versus at-risk controls](../claims/wanzek-vaughn-2008-tier3-dosage-mixed.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

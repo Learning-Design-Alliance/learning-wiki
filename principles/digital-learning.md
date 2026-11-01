@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (39 for, 44 mixed, 6 against) · 98 studies (23 review, 22 causal, 18 theoretical, 16 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 98 report an effect size · 78 claims rest on one study
+> **Evidence** · 90 claims (39 for, 45 mixed, 6 against) · 99 studies (23 review, 22 causal, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 99 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -206,6 +206,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](../claims/dlrs-increase-prescribing-knowledge-test-scores.md) [~W]
 - [Offline computer-based digital education may improve medical doctors' knowledge gain compared with no intervention (low grade evidence)](../claims/ocde-vs-no-intervention-knowledge-gain.md) [~W]
 - [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](../claims/interactivity-digital-education-guidelines-mixed.md) [~W]
+- [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

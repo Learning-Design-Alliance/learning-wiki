@@ -51,3 +51,4 @@ Conceptual discussion with worked examples: 2024–2025 federal FRL income guide
 - [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
 - [Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status](disengagement-varies-student-subgroups-state-test.md) — related
 - [Kindergarten students eligible for free or reduced-price lunch scored 16 standard points lower on receptive vocabulary than non-eligible students, regardless of LD status](frl-kindergarten-vocabulary-gap-16-points.md) — related
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related

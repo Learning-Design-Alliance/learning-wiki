@@ -48,3 +48,4 @@ Process-evaluation finding from telephone interviews with five teachers represen
 - [Schools combined the three intervention components with considerable variation, and the evaluators concluded the programme would have benefited from a pilot stage](vefp-component-variation-pilot-needed.md) — related
 - [Some higher-ability pupils found the VEFP too easy and teachers felt such pupils should not have been in the study](vefp-higher-ability-pupils-found-programme-too-easy.md) — related
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](vefp-no-significant-impact-reading-ability.md) — related
+- [PLC was implemented in different ways and with different levels of understanding across schools, and was judged not ready for a large-scale trial](plc-varied-implementation-not-ready-for-full-trial.md) — related

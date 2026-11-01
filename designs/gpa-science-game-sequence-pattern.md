@@ -43,7 +43,8 @@ A lesson-level design in which the outcomes of a science unit are mapped onto a 
 - [Gpa Science Retention Six Months Advantage](../claims/gpa-science-retention-six-months-advantage.md) [+M]
 
 ## Related Designs
-- 
+
+- [Teaching guide of eight educational games for the five-senses unit](five-senses-educational-games-teaching-guide.md)
 
 ## Examples
 -

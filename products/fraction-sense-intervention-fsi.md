@@ -13,7 +13,7 @@ generated:
 # Fraction Sense Intervention (FSI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q3` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 review), `q3` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A researcher-developed 24-lesson fraction intervention for sixth-grade students with mathematics difficulties, using animated PowerPoint lessons, teacher scripts, magnetic fraction bars, and partitioned number lines.

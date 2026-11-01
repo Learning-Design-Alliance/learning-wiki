@@ -23,7 +23,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 10 studies (5 associational, 3 quant-synthesis, 1 causal, 1 design), `q1`–`q4` · 3 of 10 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 11 studies (5 associational, 3 quant-synthesis, 2 causal, 1 design), `q1`–`q4` · 3 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.
@@ -66,6 +66,8 @@ Peer review is the element in which learners examine and respond to one another'
 - [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](../claims/giving-problem-identification-feedback-predicts-assessor-performance.md) [+W]
 - [Peer grading behaviors do not significantly predict project performance for assessors or assessees](../claims/peer-grading-not-significant-predictor.md) [-W]
 - [Peer review helped students notice their own mistakes through reviewing others' work](../claims/peer-review-reveals-own-mistakes.md) [+W]
+- [Facebook-based peer comments outperform paper-and-pen peer comments on post-test writing quality](../claims/facebook-peer-comments-outperform-paper-pen.md) [~W] — attached 2026-11-01 from Ho et al. (2020), which proposed "Facebook group as a platform for asynchronous peer e-comments on writing drafts".
+- [Facebook-based peer comment activities significantly improve students' writing quality over a semester](../claims/facebook-peer-comments-improve-writing-quality.md) [+W] — attached 2026-11-01 from Ho et al. (2020), which proposed "Facebook group as a platform for asynchronous peer e-comments on writing drafts"; tests this page's relationship.
 
 ## The evidence by question
 - *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]

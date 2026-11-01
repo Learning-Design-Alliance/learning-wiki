@@ -49,6 +49,7 @@ The article recommends embedding grammar practice within purposeful writing rath
 - [Inquiry-Based Writing](inquiry-based_writing.md)
 - [Student Blogging](student_blogging.md)
 - [Genre Scaffolding](genre-scaffolding.md)
+- [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](mi-activities-content-based-efl-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Mixed-effect linear model of multiple choice accuracy in the district log data. 
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
 - [In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments](readworks-assignment-difficulty-growth-association.md) — related
 - [Task difficulty moderated the detrimental effect of fixation, which was stronger for easier compared to harder tasks](difficulty-moderates-fixation-effect-easier-tasks.md) — related
+- [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related

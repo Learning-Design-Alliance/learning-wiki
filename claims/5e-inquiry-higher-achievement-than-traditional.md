@@ -53,3 +53,4 @@ Quasi-experimental study with non-equivalent groups (20 experimental, 20 control
 - [The 5E instructional model produced significantly higher posttest interest in mathematics than traditional instruction](5e-model-improves-math-interest-nigeria.md) — related
 - [Descriptive post-test means favoured the 5E inquiry group (7.30 vs 6.35) over the traditional group](5e-study-descriptive-posttest-means.md) — possibly the same claim (merge candidate)
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
+- [Grade-7 students taught algebra through Vygotsky's social constructivist approach achieved statistically significantly better posttest outcomes than students taught through traditional one-way teaching](social-constructivist-algebra-posttest-significant.md) — related

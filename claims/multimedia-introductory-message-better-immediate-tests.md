@@ -54,3 +54,4 @@ Field quasi-experiment in four Croatian schools; experimental group (N=97) recei
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related
 - [Evolved disciplinary modules produced more motivating and more efficient learning outcomes closer to employer expectations](evolved-modules-more-motivating-efficient-employer-aligned.md) — related
 - [Teaching with teaching aids produced higher post-test interest among elementary school children than teaching without teaching aids](teaching-aids-increase-elementary-children-interest.md) — related
+- [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related

@@ -70,3 +70,4 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](concept-mapping-gender-advantage-males-trigonometry.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
+- [Descriptive post-test means numerically favoured the spider concept mapping group, though not significantly](spider-concept-map-descriptive-mean-advantage.md) — related

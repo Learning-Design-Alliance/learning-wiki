@@ -42,7 +42,8 @@ The article's procedure offers an implementable recipe: a teacher with over 10 y
 - [Cooperative Learning Five Basic Elements](../theories/five-basic-elements-of-cooperative-learning.md)
 
 ## Related Strategies
-- 
+
+- [Cooperative group endurance training with rotating bicycle relief and training-log self-reflection](cooperative-endurance-training-bicycle-training-log.md)
 
 ## Examples
 

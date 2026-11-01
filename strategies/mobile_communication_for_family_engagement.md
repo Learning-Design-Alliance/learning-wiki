@@ -70,6 +70,7 @@ Texting works because it lowers the cost of the school-to-family information flo
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
 - [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 - [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
+- [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 
 ## Examples
 - **[TalkingPoints](https://www.talkingpts.org)** — two-way translated family messaging used widely in U.S. districts; families and teachers exchange texts in their own languages.

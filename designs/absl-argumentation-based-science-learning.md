@@ -41,7 +41,8 @@ The ABSL approach, originally named the Science Writing Heuristic, is a construc
 - [Absl Probability Achievement Advantage](../claims/absl-probability-achievement-advantage.md) [+M]
 
 ## Related Designs
-- 
+
+- [iPod inquiry teaching method](ipod-inquiry-teaching-method.md)
 
 ## Examples
 -

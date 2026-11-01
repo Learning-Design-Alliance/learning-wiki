@@ -47,3 +47,4 @@ Quasi-experimental pretest-posttest study with 34 post-secondary students at a M
 ## Related Claims
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
+- [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](ecme-posttest-higher-than-lecture.md) — a narrower finding that bears on this claim

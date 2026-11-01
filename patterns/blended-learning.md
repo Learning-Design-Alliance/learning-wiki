@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (29 for, 19 mixed) · 35 studies (14 quant-synthesis, 7 review, 6 associational, 3 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 35 report an effect size · 46 claims rest on one study
+> **Evidence** · 49 claims (30 for, 19 mixed) · 36 studies (14 quant-synthesis, 7 review, 6 associational, 4 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 36 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -104,6 +104,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Hybrid training produces a larger effect on nurses' skills than onsite training](../claims/hybrid-training-larger-skill-effects-than-onsite.md) [+M] — attached 2026-10-31 from Pumsopa et al. (2025), which proposed "Integrate hybrid or blended training into community nurse education because it sustains knowledge and skill gains better than onsite‐only formats".
 - [Undergraduates taught with blended learning significantly outperformed those taught with traditional teaching in an educational technology course](../claims/blended-learning-outperformed-traditional-teaching-nigerian-undergraduates.md) [+W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction"; tests this page's relationship.
 - [No significant gender difference in performance among undergraduates taught with blended learning](../claims/no-gender-difference-blended-learning-performance.md) [~W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction".
+- [The blended learning group showed a slight but statistically significant improvement in SQL test scores from the first-week mid-test to the final test](../claims/blended-group-slight-significant-gain-mid-to-final.md) [+W] — attached 2026-11-01 from Yavuzarslan et al. (2019), which proposed "Use blended learning design to teach programming because it offers anytime access to materials and repeated practice on difficult tasks".
 
 ## Illustrative design instance and observation record
 

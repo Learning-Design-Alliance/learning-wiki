@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 106 claims (54 for, 46 mixed, 6 against) · 96 studies (24 review, 21 causal, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 96 report an effect size · 105 claims rest on one study
+> **Evidence** · 110 claims (55 for, 49 mixed, 6 against) · 99 studies (24 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 99 report an effect size · 109 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -141,6 +141,10 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](../claims/whatsapp-mms-group-significant-within-gains.md) [+W]
 - [Primary students taught 'The Representation of the Earth' with AR scored higher on the post-test than students taught traditionally (M = 7.9 vs M = 6.4)](../claims/ar-social-science-post-test-higher-than-traditional.md) [+W] — attached 2026-11-01 from Purificacion Toledo-Morales et al. (2018), which proposed "Ad hoc AR materials for 'The Representation of the Earth' built with Aumentaty Author and displayed on mid-range tablets"; tests this page's relationship.
 - [First-year students taught Calculus with Microsoft Mathematics achieved higher post-test scores than students taught conventionally](../claims/microsoft-mathematics-higher-post-test-calculus.md) [+W]
+- [Students taught with Microsoft Mathematics reported more positive mathematics-confidence attitudes than controls](../claims/microsoft-mathematics-positive-math-confidence-attitudes.md) [+W]
+- [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
+- [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](../claims/tablet-etextbook-pre-post-gains-first-grade.md) [~W]
+- [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](../claims/ancova-posttest-its-group-effect.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -51,6 +51,7 @@ The article presents metacognition as "the awareness and understanding of one's 
 - [Teaching Metacognitive Strategies](../strategies/teach-metacognitive-strategies.md)
 - [Comprehension Monitoring](../strategies/comprehension_monitoring.md)
 - [Purposeful Reflection](../principles/reflection.md)
+- [Metacognitive teaching-learning approach (MTLA) with four components: think-aloud, metacognitive scaffolding, discussions, and metacognitive journal writing](../designs/mtla-four-component-approach.md)
 
 ## Key Sources
 - The Art and Science of Learning: How New Mexico School for the Arts Uses Research. (2016). Digital Promise. https://digitalpromise.dspacedirect.org/items/4e829bdc-764f-4f2e-85de-abc138e21bdd

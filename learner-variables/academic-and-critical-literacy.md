@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (36 show a difference, 15 mixed, 6 no difference) · 46 studies (14 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 54 claims rest on one study
+> **Evidence** · 58 claims (36 show a difference, 15 mixed, 7 no difference) · 47 studies (15 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 55 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -95,6 +95,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Ninth-graders in the Project READI text-based explanatory modeling intervention outperformed control students on comprehension and modeling measures, and intervention teachers differed from control teachers](../claims/readi-rct-intervention-outperformed-control.md) [+M] — instruction changes it
 - [By the end of year 2, RAISE significantly improved science students' literacy assessment scores (ES = 0.32), with a non-significant meaningful effect in ELA (0.22) and no effect in history](../claims/raise-literacy-impact-significant-science-only.md) [~W] — instruction changes it
 - [RAISE's impact on the full literacy-assessment sample was positive but not statistically significant (ES = 0.11), which the authors attribute to possibly insufficient sample size](../claims/raise-full-sample-literacy-impact-not-significant.md) [-W] — instruction changes it
+- [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](../claims/traditional-method-no-significant-writing-gain.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

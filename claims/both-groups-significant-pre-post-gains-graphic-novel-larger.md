@@ -52,3 +52,4 @@ Wilcoxon within-group comparisons in the same quasi-experiment: both groups "sig
 - [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
 - [No significant difference existed between the graphic-novel and control groups on the pre-test](no-pretest-difference-graphic-novel-control.md) — related
+- [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related

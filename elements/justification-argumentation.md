@@ -19,7 +19,7 @@ sources:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 associational, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 14 studies (4 causal, 3 quant-synthesis, 3 associational, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.
@@ -72,6 +72,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](../claims/relationship-quality-defines-safe-schools.md) [+W]
 - [Emotional framing intensity is associated with types of talk in argumentation, with low-intensity framing linked to cumulative talk and high-intensity framing to disputational talk](../claims/emotional-framing-linked-to-talk-types.md) [~W]
 - [Most AI assistance was correct and specific, but most instances lacked justifications](../claims/ai-assistance-informativeness-correct-but-lacking-justifications.md) [~W]
+- [Argumentation-based learning activities did not produce a statistically significant difference in 7th graders' conceptual understanding of Force and Motion compared with regular instruction](../claims/argumentation-no-significant-conceptual-understanding-gain-force-motion.md) [-W] — attached 2026-11-01 from Buber et al. (2017), which proposed "Learning activities based on argumentation for the 7th grade Force and Motion unit"; tests this page's relationship.
 
 ## The evidence by question
 - *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]

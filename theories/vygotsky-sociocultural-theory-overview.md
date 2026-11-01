@@ -17,7 +17,7 @@ sources:
 # Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents Vygotsky's core theoretical position: unlike Piaget's focus on biological and structural development, Vygotsky "stressed the contribution of culture, social interaction and the historical dimension of mental development" (Ivic 2000, as cited). The article explains that because children learn mainly through interactions with people in their immediate social world, everything they learn is colored by the expectations and norms of their social and cultural contexts. Development proceeds through internalization of social interactions, with language as the fundamental medium.
@@ -42,6 +42,7 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](../claims/vygotsky-private-speech-inner-speech.md) [+W]
 - [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](../claims/motor-milestones-vary-by-cultural-childcare-practices.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [+W]
+- [Grade-7 students taught algebra through Vygotsky's social constructivist approach achieved statistically significantly better posttest outcomes than students taught through traditional one-way teaching](../claims/social-constructivist-algebra-posttest-significant.md) [+W] — attached 2026-11-01 from Bhutto Muhammad Ilyas et al. (2013), which proposed "Vygotsky's social constructivist learning theory with three phases of learning".
 
 ## Related Theories
 

@@ -137,3 +137,5 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [The reviewer concludes the advantage of a wide attention span should be made available to young readers through special training in the early grades](wide-attention-span-training-early-grades.md) — related
 - [Text reading is strongly related to reading comprehension overall (r = .61)](text-reading-comprehension-overall-relation-r61.md) — related
 - [Low-performing students struggle more with working memory demands at the inferring and mapping stages of relational reasoning](low-performers-working-memory-inferring-mapping.md) — related
+- [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](power-law-four-rereadings-limit.md) — related
+- [A meta-analysis of 18 repeated reading studies found moderate mean fluency gains and smaller comprehension gains, with adult implementation, speed cueing, and three to four readings as effective components](therrien-meta-analysis-repeated-reading-components.md) — related

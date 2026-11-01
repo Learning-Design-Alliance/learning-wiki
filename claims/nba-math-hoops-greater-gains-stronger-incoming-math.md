@@ -50,3 +50,4 @@ Exploratory moderation analyses in the RCT found a significant treatment × pre-
 - [NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels](nba-math-hoops-lower-composite-sel.md) — related
 - [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related
 - [Pre-game competence interacts with learning condition in predicting post-game competence](pre-game-competence-condition-interaction.md) — related
+- [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](sel-effects-vary-by-risk-level.md) — related

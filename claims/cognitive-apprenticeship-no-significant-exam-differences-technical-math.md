@@ -56,3 +56,4 @@ Quasi-experiment in community college technical mathematics: two teachers each t
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
 - Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [Using a WATS in community college elementary algebra corresponds to a statistically significant 2.59-point post-test gain (Hedges g = 0.32) controlling for pretest](wats-community-college-algebra-posttest-gain.md) — related
+- [Active training improved problem-solving performance, while traditional and heuristic methods did not differ from each other](active-training-best-for-problem-solving.md) — related

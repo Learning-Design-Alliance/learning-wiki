@@ -59,3 +59,5 @@ Pre-specified subgroup analysis of the pupil outcome trial comparing FSMever and
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
 - [RLC secondary outcomes (KS2 numeracy and grammar, punctuation and spelling) were small and not statistically significant](rlc-secondary-outcomes-non-significant.md) — related
 - [RLC positively impacted teachers' disposition towards research, but not significantly once teacher background characteristics were controlled](rlc-teacher-disposition-impact.md) — related
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — reports the opposite
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related

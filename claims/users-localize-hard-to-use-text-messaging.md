@@ -51,3 +51,4 @@ Comparative case study fieldwork in the Albany, New York, region and the Hangzho
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md)
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
+- [Learners' reports identify technical and pedagogical disadvantages of SMS vocabulary learning, including storage limits, segmented messages, and superficial processing](sms-vocabulary-disadvantages-reports.md) — related

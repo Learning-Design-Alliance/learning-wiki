@@ -53,3 +53,4 @@ IPD meta-analysis of 48 maths trials (89,247 FSM pupils). The report states "the
 - The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models — related
 - [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — a broader claim this one bears on
 - [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](tutor-trust-fsm-subgroup-effects.md) — related
+- [The pilot detected a positive but insecure effect of PLC on Maths attainment (ES=0.49)](plc-pilot-insecure-positive-maths-effect.md) — a narrower finding that bears on this claim

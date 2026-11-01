@@ -54,3 +54,4 @@ Independent-group t-test on pre-test scores of both groups: no significant diffe
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related

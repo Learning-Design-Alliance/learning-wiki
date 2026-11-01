@@ -51,3 +51,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related
+- [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related

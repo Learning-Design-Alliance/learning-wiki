@@ -67,3 +67,4 @@ Bonferroni comparisons on the EPA retention test found only Experiment 2 signifi
 - [On a control-aligned portal test taken immediately after instruction, GPA-based groups showed no significant difference from the control group](epa-posttest-no-difference.md) — related
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — related
+- [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — related

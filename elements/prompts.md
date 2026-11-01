@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (13 for, 24 mixed, 4 against) · 44 studies (21 causal, 9 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 10 of 44 report an effect size · 34 claims rest on one study
+> **Evidence** · 43 claims (13 for, 25 mixed, 5 against) · 45 studies (22 causal, 9 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 10 of 45 report an effect size · 36 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -88,6 +88,8 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Question-asking practice changes children's response to a pedagogical exploration cue: the listening group opened more cued envelopes in the first minute of play](../claims/exploration-cue-response-shifts-after-question-asking.md) [~W]
 - [Visual recognition of the sequence benefits from intentional instruction only when anticipatory cues are given, and from cues only under incidental instruction](../claims/recognition-cues-instruction-interactions.md) [~W]
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
+- [Framing prompts showed no effect on reproduction of chemistry knowledge](../claims/no-framing-effect-reproduction-test.md) [-W]
+- [Relatively slight differences in framing prompts drastically changed the technology's effectiveness, with the same technology used in both experimental conditions](../claims/slight-framing-differences-drastic-effects.md) [~W]
 
 ## The evidence by question
 

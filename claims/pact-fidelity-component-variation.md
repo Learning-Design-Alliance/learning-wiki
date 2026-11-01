@@ -47,3 +47,5 @@ Observational fidelity analysis: one treatment and one comparison class per teac
 ## Related Claims
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components](pals-favorable-teacher-student-impressions.md) — related
+- [Teachers implemented the PACT components with generally high fidelity, and PACT elements appeared only at low rates in comparison classrooms](pact-implementation-fidelity-high-limited-bau-contamination.md) — possibly the same claim (merge candidate)
+- [The modified PACT treatment improved eighth-grade students' social studies content knowledge acquisition relative to business-as-usual comparison classes (ES = .40)](pact-improves-content-knowledge-acquisition-eighth-grade.md) — related

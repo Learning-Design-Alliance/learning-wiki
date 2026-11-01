@@ -55,3 +55,4 @@ The review's Conclusion, summarising 106 research reports of several designs (qu
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
 - [A meta-analysis of 103 JAS studies reports the approach's effectiveness in 97% of researches](jas-meta-analysis-97-percent-effective.md) — related
+- [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — a narrower finding that bears on this claim

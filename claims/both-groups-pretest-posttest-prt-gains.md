@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 recheck_by: 2022
 sources:
   - id: şen-2017
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The experimental group's pretest-posttest PRT difference was statistically significant in favor of the posttest (Wilcoxon Z=-3.393, p=.001). [→ Şen 2017](#sen-2017)
@@ -75,3 +76,4 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related
 - [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related
+- [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related

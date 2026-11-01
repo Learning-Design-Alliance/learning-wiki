@@ -43,7 +43,8 @@ Because both computer assisted and traditional vocabulary instruction positively
 - [Traditional vocabulary instruction also produces a statistically significant vocabulary gain in preschool EFL children](../claims/tvi-significant-vocabulary-gain-preschool.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 
 ## Examples
 -

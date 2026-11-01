@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (84 show a difference, 25 mixed, 9 no difference) · 85 studies (28 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 85 report an effect size · 116 claims rest on one study
+> **Evidence** · 125 claims (88 show a difference, 25 mixed, 12 no difference) · 87 studies (30 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 87 report an effect size · 123 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -158,6 +158,13 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Infusing higher-order thinking skills into Engineering Drawing instruction produced significantly higher critical thinking disposition than conventional drill-based teaching after 8 weeks](../claims/infusion-approach-engineering-drawing-critical-thinking-disposition.md) [+M] — instruction changes it
 - [Students taught with the LAPS-Heuristic model show higher critical thinking skills than students taught conventionally on demand and supply material in vocational economics](../claims/laps-heuristic-improves-critical-thinking-vocational-economics.md) [+M] — instruction changes it
 - [The experimental class outperformed the control class on five of six critical thinking indicators, but the control class scored higher on asking and answering questions that require a reason](../claims/laps-heuristic-indicator-level-critical-thinking-pattern.md) [~M] — instruction changes it
+- [After adjusting for pre-test critical thinking scores, the modeling based program produced no statistically significant difference between experimental and control groups' post-test critical thinking scores](../claims/mbsep-ancova-no-between-group-effect.md) [-M] — instruction changes it
+- [Pre-service teachers taught with the QASEE model achieve higher critical thinking scores than those taught with RQA or conventional learning](../claims/qasee-higher-critical-thinking-than-rqa-conventional.md) [+M] — instruction changes it
+- [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](../claims/mbsep-short-duration-interpretation.md) [-W] — instruction changes it
+- [Critical thinking skills differ by academic ability, with upper academic ability pre-service teachers scoring highest](../claims/academic-ability-main-effect-critical-thinking.md) [+M] — instruction changes it
+- [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](../claims/learning-by-academic-ability-interaction-critical-thinking.md) [+M] — instruction changes it
+- [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](../claims/qasee-equalizes-critical-thinking-across-ability-levels.md) [-M] — instruction changes it
+- [Under conventional learning, pre-service teachers at all ability levels obtain the lowest critical thinking scores, with upper and middle groups statistically equal](../claims/conventional-learning-lowest-critical-thinking-scores.md) [+W] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

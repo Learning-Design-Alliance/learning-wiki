@@ -55,3 +55,5 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](vefp-no-significant-impact-reading-ability.md) — related
 - [Some higher-ability pupils found the VEFP too easy and teachers felt such pupils should not have been in the study](vefp-higher-ability-pupils-found-programme-too-easy.md) — related
 - [The VEFP showed no statistically significant effect on the NGRT secondary outcomes of sentence completion or passage comprehension](vefp-secondary-outcomes-null.md) — related
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — related
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on

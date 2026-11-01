@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (113 show a difference, 47 mixed, 31 no difference) · 144 studies (74 associational, 37 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 144 report an effect size · 190 claims rest on one study
+> **Evidence** · 195 claims (113 show a difference, 48 mixed, 34 no difference) · 147 studies (74 associational, 40 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 147 report an effect size · 194 claims rest on one study
 
 ## How to read this page
 
@@ -276,6 +276,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [RLC showed no differential impact for pupils eligible for free school meals](../claims/rlc-no-differential-fsm-impact.md) [-M] — an instructional effect differs by group
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](../claims/shine-secondaries-fsm-subgroup-no-differential-benefit.md) [-M] — an instructional effect differs by group
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](../claims/vefp-fsm-subgroup-null-reading.md) [-M] — an instructional effect differs by group
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](../claims/fresh-start-fsm-subgroup-effect.md) [~M] — an instructional effect differs by group
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](../claims/hampshire-hundreds-subgroup-analyses-null.md) [-M] — an instructional effect differs by group
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](../claims/plc-no-differential-impact-fsm-low-prior-attainment.md) [-M] — an instructional effect differs by group
+- [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](../claims/hampshire-hundreds-no-significant-impact-disadvantaged.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

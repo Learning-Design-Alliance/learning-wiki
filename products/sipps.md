@@ -37,6 +37,7 @@ SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Word
 
 - [SSL](ssl.md)
 - [Superkids Reading Program](superkids-reading-program.md)
+- [Fresh Start phonics catch-up literacy programme](fresh-start-phonics-catch-up-literacy-programme.md)
 
 ## Key Sources
 - SIPPS program description and outcomes review. (2022). https://www.evidenceforessa.org/

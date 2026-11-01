@@ -57,6 +57,7 @@ The article presents constructivism as a learning theory developed from behavior
 - [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 - [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
+- [QASEE learning model (Questioning, Answering, Sharing, Extending, Evaluating)](../designs/qasee-learning-model.md)
 
 ## Key Sources
 - Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies

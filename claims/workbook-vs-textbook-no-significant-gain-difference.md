@@ -50,3 +50,4 @@ Randomised control trial in 44 Gauteng primary schools (22 per group), Grade 6, 
 - [Control schools faced severe textbook shortages: only two of 22 audited schools had sufficient Grade 6 mathematics textbooks and around half had no copies](gauteng-control-schools-textbook-shortage.md) — related
 - [Both workbook and textbook groups made statistically significant pre-to-post gains larger than most South African interventions typically achieve](learner-materials-significant-gains-both-groups.md) — related
 - [Under the study's costing assumptions, the PM workbook materials are more expensive per learner per year than the CM textbook and teacher guide](pm-workbook-higher-annual-unit-cost.md) — related
+- [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — reports the opposite

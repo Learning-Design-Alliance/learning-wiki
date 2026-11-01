@@ -80,3 +80,4 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
+- [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related

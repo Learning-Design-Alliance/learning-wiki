@@ -48,3 +48,5 @@ Two-way ANCOVA of achievement in CAT with pretest as covariate, testing 428 SS I
 - [School location shows no significant difference in chemistry retention scores](location-null-retention-chemistry.md) — related
 - [The strategy-by-location interaction is not significant for retention, indicating similar retention across strategies in both locations](strategy-location-interaction-null-retention.md) — related
 - [Urban-school students significantly outperformed rural-school students in reading comprehension between experimental and control groups](urban-outperform-rural-reading-comprehension.md) — reports the opposite
+- [School location has no significant main effect on primary pupils' environmental knowledge](school-location-no-main-effect-environmental-knowledge.md) — related
+- [Treatment and school location interact significantly: educational trips favour urban pupils while service learning favours peri-urban pupils](treatment-location-interaction-environmental-knowledge.md) — related

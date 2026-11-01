@@ -49,3 +49,4 @@ Online questionnaire of 220 parents of elementary and secondary school students 
 - [Pedagogical resistance is rated lowest of the four resistance factors at every parental resistance level, while social and economic factors are rated highest](pedagogical-resistance-factor-rated-lowest.md) — related
 - [Pedagogical and social resistance factors positively predict actual parental resistance, while an authoritative parenting style is a negative predictor](pedagogical-social-factors-predict-parental-resistance.md) — related
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
+- [EFL students using smartphones initiate classroom activities significantly faster than peers doing identical paper-based activities](smartphone-activities-faster-task-initiation.md) — related

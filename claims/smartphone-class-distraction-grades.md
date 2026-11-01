@@ -49,3 +49,4 @@ Narrative review attribution in the Context (microsystem) section: the article s
 
 ## Related Claims
 - [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related
+- [Students completing smartphone activities show significantly less distraction than students doing identical paper-based activities](smartphone-activities-less-distraction.md) — related

@@ -39,6 +39,7 @@ The article describes a three-stage developmental model (Reynolds & Werner, 2003
 ## Related Strategies
 
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Teachers respond to individual differences and preferred learning styles during science lessons](respond-to-learning-styles-science-lessons-strategy.md)
 
 ## Examples
 -

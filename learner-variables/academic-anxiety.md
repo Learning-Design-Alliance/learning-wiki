@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (126 show a difference, 42 mixed, 25 no difference) · 119 studies (43 associational, 28 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 28 of 119 report an effect size · 186 claims rest on one study
+> **Evidence** · 196 claims (129 show a difference, 42 mixed, 25 no difference) · 121 studies (43 associational, 30 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 28 of 121 report an effect size · 189 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -229,6 +229,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Motivation is the most potent stepwise predictor of achievement in mathematics word problems, while anxiety and male domain make no relative contribution](../claims/motivation-strongest-stepwise-predictor-achievement.md) [-W] — learners who differ on it differ in outcomes
 - [Personalised instruction students differed significantly from non-personalised students on every individual attitude subscale, including lower anxiety and higher perceived male domain](../claims/personalisation-significant-on-each-attitude-subscale.md) [+W] — instruction changes it
 - [Self-confidence, liking, usefulness, motivation, context, anxiety, male domain and treatment jointly and significantly predict achievement in mathematics word problems](../claims/attitudes-and-treatment-predict-word-problem-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](../claims/eda-learners-enthusiasm-and-reduced-anxiety.md) [+W] — instruction changes it
+- [The interdisciplinary dance program significantly reduces cognitive anxiety in 8th-grade students](../claims/interdisciplinary-dance-reduces-cognitive-anxiety.md) [+M] — instruction changes it
+- [The interdisciplinary dance program significantly reduces somatic anxiety in 8th-grade students](../claims/interdisciplinary-dance-reduces-somatic-anxiety.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -86,3 +86,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
 - [Four distinct LMS interaction patterns with different final marks were found among 140 undergraduates in an authentic Moodle course.](four-lms-interaction-patterns-different-final-marks.md) — related
 - [Four well-differentiated clusters of students emerge from the factor-analysis-based cluster analysis by ICT consideration and use](four-clusters-of-students-by-ict-consideration-use.md) — related
+- [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related

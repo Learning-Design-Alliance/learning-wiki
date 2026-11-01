@@ -53,3 +53,4 @@ Mann-Whitney U group comparison of post-intervention emotion scores in the clust
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Negative-deactivating emotions show no association with political learning, but the evidence base is very small](negative-deactivating-emotions-no-association-political-learning.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
+- [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related

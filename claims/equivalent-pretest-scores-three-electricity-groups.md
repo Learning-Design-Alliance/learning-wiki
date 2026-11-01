@@ -66,3 +66,8 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
 - [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related
 - [The instructional design's effectiveness did not depend on whether the researcher or the classroom science teacher implemented it](teacher-factor-no-effect-on-outcomes.md) — related
+- [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — a narrower finding that bears on this claim
+- [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related
+- [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](pretest-misconceptions-electric-circuits-jordan.md) — related
+- [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
+- [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related

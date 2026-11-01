@@ -69,3 +69,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
+- [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related

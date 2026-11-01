@@ -44,7 +44,8 @@ The authors recommend raising trainee English teachers' awareness of graphic nov
 - [No significant difference existed between the graphic-novel and control groups on the pre-test](../claims/no-pretest-difference-graphic-novel-control.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Offer instructor-familiar graphic novel options to reduce preparation burden when implementing the comic-book assignment](instructor-familiar-graphic-novel-options.md)
 
 ## Examples
 -

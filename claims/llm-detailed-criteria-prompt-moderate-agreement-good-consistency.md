@@ -51,3 +51,4 @@ Quantitative ICC analysis of 31 IELTS essays graded by ChatGPT 3.5 under three i
 - [ChatGPT 3.5 grading with the best prompt was significantly lower than official IELTS examiner grades, indicating systematic bias in absolute grading](llm-grades-significantly-lower-than-examiners.md) — related
 - [The best prompt showed excellent test-retest reliability (intrarater consistency ICC = 0.89) when rerun in ChatGPT 3.5](llm-grading-excellent-intrarater-consistency.md) — related
 - [Prompting type shows no significant effect on rated text quality (transfer, validity of conclusions, integration), with low interrater reliability for two criteria](prompting-no-effect-rated-text-quality.md) — related
+- [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related

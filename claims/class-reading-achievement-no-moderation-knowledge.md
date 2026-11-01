@@ -51,3 +51,6 @@ Model 3 of the latent moderated SEM analysis tested whether class-level Gates-Ma
 - [Class-level initial background knowledge does not moderate PACT's effect on social studies content knowledge acquisition](class-background-knowledge-no-moderation-pact-knowledge.md) — related
 - [Class-level initial reading achievement does not moderate effects on content reading comprehension](class-reading-achievement-no-moderation-comprehension.md) — related
 - [Class-level initial background knowledge does not moderate effects on content reading comprehension](class-background-knowledge-no-moderation-reading-comprehension.md) — related
+- [Teachers implemented the PACT components with generally high fidelity, and PACT elements appeared only at low rates in comparison classrooms](pact-implementation-fidelity-high-limited-bau-contamination.md) — related
+- [The modified PACT treatment improved eighth-grade students' social studies content knowledge acquisition relative to business-as-usual comparison classes (ES = .40)](pact-improves-content-knowledge-acquisition-eighth-grade.md) — related
+- [The modified PACT treatment improved content-related reading comprehension (ES = .20) but not general standardized reading comprehension](pact-improves-content-reading-comprehension-not-general.md) — related

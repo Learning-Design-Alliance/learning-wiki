@@ -52,3 +52,4 @@ Quasi-experimental pre/post study of 76 fourth-grade students (33 experimental, 
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](cooperative-learning-math-equivalent-across-cognitive-styles.md) — related
 - [In language, a significant methodology-by-cognitive-style interaction emerged, apparently favoring field independent students](language-posttest-style-interaction-favors-field-independent.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
+- [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related

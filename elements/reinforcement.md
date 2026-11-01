@@ -97,6 +97,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [Use tasks without explicit feedback or rewards to study intrinsic reinforcement responses](../strategies/no-feedback-paradigm-for-intrinsic-reinforcement.md)
 - [Use external reinforcement contingent on successful inhibitory control to improve behavioural regulation](../strategies/reward-contingent-inhibitory-control-strategy.md)
 - [Incorporate reward prospect into inhibitory control training interventions to strengthen behaviour change effects](../strategies/reward-enhanced-inhibitory-control-training-strategy.md)
+- [Use repeated reading probes several grade levels below the student's grade level, with visible goals, extrinsic rewards, and daily progress charting](../strategies/repeated-reading-lower-level-probes-strategy.md)
 
 ## Key Sources
 - Skinner, B. F. (1968). *The technology of teaching*. Appleton-Century-Crofts.

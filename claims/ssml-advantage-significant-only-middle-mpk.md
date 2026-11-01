@@ -67,3 +67,5 @@ Table 1 marks upper MPK (PMSS 0.569 vs PK 0.332) and low MPK (PMSS 0.310 vs PK 0
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
 - [There is no interaction between learning approach (SSML vs CL) and school level (high vs middle) on enhancement of MPSA](no-interaction-approach-school-level-mpsa.md) — related
 - [Overall, students receiving soft skill-based metacognitive learning show significantly higher enhancement of mathematical problem solving ability than students receiving conventional learning](ssml-higher-mpsa-enhancement-than-conventional.md) — related
+- [Metacognitive teaching-learning produced higher MLTA post-test scores and N-gain than conventional teaching among medium-MPK students, but not among low-MPK students or the total sample](mtl-better-mlta-medium-mpk-only.md) — related
+- [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — related

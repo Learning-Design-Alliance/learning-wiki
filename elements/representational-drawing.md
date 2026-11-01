@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (4 for, 5 mixed, 2 against) · 9 studies (6 causal, 2 quant-synthesis, 1 review), `q1`–`q3` · 3 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -32,3 +32,5 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](../claims/drawing-beats-text-focused-strategies.md) [+W]
 - [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](../claims/digital-vs-paper-drawing-mixed.md) [~M]
 - [Students rated the seminar highly and many reported transferring argument visualization to other coursework](../claims/seminar-student-ratings-transfer-reports.md) [+W]
+- [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](../claims/instructors-prefer-less-effective-draw-framing.md) [-W]
+- [Model-focused framing prompts yield higher transfer learning gains than business-as-usual, while drawing-focused prompts yield lower gains than the control condition](../claims/model-framing-higher-transfer-gains-draw-lower.md) [-W]

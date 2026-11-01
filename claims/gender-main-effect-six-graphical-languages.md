@@ -52,3 +52,4 @@ Omnibus repeated measures MANCOVA on pooled GLIM decoding scores with gender as 
 - [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](gender-gap-stable-across-three-years.md) — related
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
 - [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related
+- [Verbal ability and gender each showed significant main effects on attitude to reading](verbal-ability-gender-effects-attitude-reading.md) — related

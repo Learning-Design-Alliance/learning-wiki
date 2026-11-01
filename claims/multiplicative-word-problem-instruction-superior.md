@@ -47,3 +47,4 @@ Year 3 three-arm RCT contrasting multiplicative versus additive schema-based wor
 ## Related Claims
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related
+- [Schema-based multiplicative word-problem instruction produces broader transfer to fraction word problems than additive word-problem instruction in fourth graders at risk](multiplicative-word-problem-broader-transfer.md) — possibly the same claim (merge candidate)

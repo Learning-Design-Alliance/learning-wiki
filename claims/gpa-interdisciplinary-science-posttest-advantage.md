@@ -68,3 +68,5 @@ Bonferroni post-hoc comparisons on the achievement posttest found the control gr
 - [On a control-aligned portal test taken immediately after instruction, GPA-based groups showed no significant difference from the control group](epa-posttest-no-difference.md) — reports the opposite
 - [On the EPA retention test, only the group taught concepts during the activities significantly outperformed the control group](epa-retention-during-activities-advantage.md) — related
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
+- [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — related
+- [Interdisciplinary biology–PE teaching produces significantly greater knowledge growth than subject-related lessons in German sixth-form students](idt-biology-pe-greater-knowledge-growth-than-subject-related.md) — related

@@ -58,3 +58,5 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](mmls-outperformed-conventional-efl.md) — related
 - [University EFL students taught with VSSPlus significantly outperformed students taught with VSS on a post vocabulary achievement test](vssplus-outperformed-vss-post-vat.md) — related
+- [RT-exposed underachievers earned significantly higher English learning achievement grades than control-group peers after remedial instruction](rt-remedial-achievement-greater-than-control.md) — related
+- [Team-teaching grammar instruction does not produce significantly better grammatical proficiency than single-teacher instruction among Iranian junior-high EFL learners](team-teaching-no-grammar-proficiency-gain-efl-iran.md) — related

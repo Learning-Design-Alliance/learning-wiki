@@ -49,3 +49,4 @@ Paired t-test comparing post-survey motivational means between conventional (Act
 - [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — related
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — a broader claim this one bears on
 - [ARPS scores are positively and significantly correlated with all four RIMMS motivation dimensions](arps-rimms-positive-correlations.md) — related
+- [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related

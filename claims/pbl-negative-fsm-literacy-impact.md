@@ -58,3 +58,5 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — reports the opposite
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — reports the opposite
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related

@@ -28,6 +28,7 @@ The article proposes a critical components approach to specifying an ideal class
 ## Related Research Methods
 
 - [Five-component framework for fidelity of implementation: Diagnostic, Procedural, Educative, Pedagogical, and Student Engagement](five-component-framework-for-fidelity-of-implementation-diagnostic-procedural-educative-pe.md)
+- [Five-dimensional construct of intervention fidelity](five-dimensional-construct-of-intervention-fidelity.md)
 
 ## Key Sources
 - Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://www.sree.org

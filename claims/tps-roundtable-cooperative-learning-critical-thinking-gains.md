@@ -57,3 +57,4 @@ Critical thinking was measured with the researcher-built [CTTBE: Critical Thinki
 - [Critical thinking had low significance in most interventions, typically addressed by a single under-specified method](low-significance-critical-thinking-most-interventions.md) — related
 - [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](tps-posttest-subscale-significant.md) — related
 - [TPS students showed significantly larger pretest-to-posttest gains than Non-TPS students on all five CT subscales](tps-subscale-gains-significant.md) — related
+- [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related

@@ -51,3 +51,7 @@ Logistic regression on SSIS-RS Problem Behavior posttest status in the cluster-r
 - [Substantial proportions of treated children with clinical or borderline pretest scores moved to the normal range at posttest](clinical-to-normal-range-movement.md) — related
 - [PTR-YC reduces preschool children's problem behavior more than business-as-usual, as measured by the SSIS problem behavior subscale](ptr-yc-reduces-ssis-problem-behavior-vs-bau.md) — related
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
+- [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](best-in-class-increased-teacher-instructional-practices.md) — related
+- [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](ssis-cip-teacher-rated-social-skills-effects.md) — related
+- [SSIS-CIP positively impacts teacher-rated academic motivation and engagement, with a student-level pretest interaction on motivation](ssis-cip-academic-motivation-engagement-effects.md) — related
+- [SSIS-CIP shows no effects on directly observed positive social behavior or observed engaged time](ssis-cip-no-observed-behavior-effects.md) — related

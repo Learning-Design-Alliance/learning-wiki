@@ -56,3 +56,4 @@ The manuscript title, as printed on the Open Practices Disclosure page, states t
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — a broader claim this one bears on
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%) — related
+- [Apparent variation in SEL program impacts may be an artifact of imprecise program targets misaligned with too-general outcome measures](sel-target-measure-misalignment-thesis.md) — related

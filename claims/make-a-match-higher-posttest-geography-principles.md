@@ -50,3 +50,4 @@ Quasi-experiment with non-equivalent pre-test/post-test control group design: cl
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
 - [Prior studies cited by the article also report that make a match improves student learning outcomes](prior-studies-make-a-match-improves-outcomes.md) — related
+- [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — related

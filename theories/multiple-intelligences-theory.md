@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (8 for, 8 mixed, 1 against) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q3` · 2 of 8 report an effect size · 19 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -62,6 +62,8 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [MI-based instruction significantly improved the vocabulary sub-skill of General English relative to traditional instruction](../claims/mi-instruction-improves-vocabulary-subskill.md) [+W]
 - [MI-based instruction significantly improved the structure sub-skill of General English relative to traditional instruction](../claims/mi-instruction-improves-structure-subskill.md) [+W]
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](../claims/mi-instruction-improves-reading-comprehension.md) [~W]
+- [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](../claims/mi-group-outperformed-control-post-test-writing.md) [+W] — attached 2026-11-01 from Zennure Elgün Gündüz (2016), which proposed "Gardner's Multiple Intelligences Theory: eight intelligences and individual profiles".
+- [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](../claims/mi-activities-positive-student-reflections.md) [+W] — attached 2026-11-01 from Zennure Elgün Gündüz (2016), which proposed "Gardner's Multiple Intelligences Theory: eight intelligences and individual profiles".
 
 ## Related Theories
 
@@ -73,6 +75,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 ## Examples
 
 - [Develop lesson plans covering all learning objectives across various intelligences](../strategies/comprehensive-lesson-plans-all-objectives-intelligences.md)
+- [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](../strategies/mi-activities-content-based-efl-strategy.md)
 
 ## Key Sources
 - Gardner, H. (1983). *Frames of mind: The theory of multiple intelligences*. Basic Books.

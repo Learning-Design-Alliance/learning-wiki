@@ -51,3 +51,4 @@ True experimental pretest-posttest control group design with 24 students (12 per
 - [The experimental group showed a statistically significant gain from pretest to post-test after personalized grammar instruction](experimental-group-pretest-posttest-gain.md) — possibly the same claim (merge candidate)
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — a narrower finding that bears on this claim
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](gcr-activities-significant-posttest-advantage-young-efl.md) — related
+- [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related

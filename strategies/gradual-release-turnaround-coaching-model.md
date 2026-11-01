@@ -47,6 +47,7 @@ TenSquare's coaching follows a gradual release model in which the partner first 
 - [I Do, We Do, You Do](i_do_we_do_you_do.md)
 - [Model Assignment or Skill](model_assignment_or_skill.md)
 - [Explicit Teacher Modeling](explicit_teacher_modeling.md)
+- [Gradually shifting leadership responsibility to students through peer coaching and cross-age tasks](gradual-shift-to-peer-coaching-leadership.md)
 
 ## Examples
 -

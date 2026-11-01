@@ -93,3 +93,4 @@ Descriptive means from Table 3 for the post-test 1 mathematics understanding sco
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
 - [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
+- [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related

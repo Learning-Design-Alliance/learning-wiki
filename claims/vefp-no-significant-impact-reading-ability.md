@@ -54,3 +54,4 @@ Pupil-randomised controlled trial in twelve Bolton secondary schools; 649 Year 7
 - [The VEFP showed no statistically significant effect on the NGRT secondary outcomes of sentence completion or passage comprehension](vefp-secondary-outcomes-null.md) — a narrower finding that bears on this claim
 - [Schools combined the three intervention components with considerable variation, and the evaluators concluded the programme would have benefited from a pilot stage](vefp-component-variation-pilot-needed.md) — related
 - [Teachers perceived Literacy Plus and Sounds-Write as less appropriate or less essential than VEIP, with Sounds-Write aimed at a younger audience than Year 7](vefp-teacher-perceptions-components-less-appropriate.md) — related
+- [PLC was implemented in different ways and with different levels of understanding across schools, and was judged not ready for a large-scale trial](plc-varied-implementation-not-ready-for-full-trial.md) — related

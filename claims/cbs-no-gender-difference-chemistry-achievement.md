@@ -73,3 +73,4 @@ ANCOVA of post-test CAT scores by gender with KCPE as covariate, run to compensa
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related

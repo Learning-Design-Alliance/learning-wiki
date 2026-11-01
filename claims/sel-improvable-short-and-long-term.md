@@ -56,3 +56,4 @@ The abstract asserts, citing prior research without detail, that "SEL can be imp
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related
+- [The SACD consortium evaluation of seven elementary SEL programs found no differences between intervention and control groups over three years](sacd-consortium-null-effects.md) — related

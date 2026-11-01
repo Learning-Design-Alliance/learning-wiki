@@ -17,7 +17,7 @@ sources:
 # Deliver at-risk fourth graders' fraction intervention in small groups using systematic, explicit instruction centered on fractions magnitude understanding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's concluding lesson is that at-risk fourth graders can succeed with challenging fraction content when intervention occurs in small groups and relies on "systematic, explicit instructional principles as well as state-of-the-art thinking about the content area (i.e., fractions magnitude understanding, in the case of fractions)." The five RCTs used 12 weeks of small-group sessions (2-4 students, three times weekly, 30-35 min) outside the classroom, with tutor fidelity above 95%. The strategy pairs the core Fraction Face-Off! program with component modules selected by the component analyses.

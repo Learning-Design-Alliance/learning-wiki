@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 208 claims (123 show a difference, 52 mixed, 33 no difference) · 132 studies (65 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 132 report an effect size · 200 claims rest on one study
+> **Evidence** · 211 claims (123 show a difference, 53 mixed, 35 no difference) · 135 studies (68 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 135 report an effect size · 203 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -243,6 +243,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [School location shows no significant difference in chemistry retention scores](../claims/location-null-retention-chemistry.md) [-M] — instruction changes it
 - [The strategy-by-location interaction is not significant for retention, indicating similar retention across strategies in both locations](../claims/strategy-location-interaction-null-retention.md) [-M] — instruction changes it
 - [Transportation into the discourse accounted for long-term retention of the material but not for the initial advantage of the story over the textbook](../claims/transportation-mediation-of-retention.md) [+M] — instruction changes it
+- [Arts-integrated and conventional science instruction produced no statistically significant difference in overall long-term retention of science content](../claims/arts-integrated-no-overall-retention-difference.md) [-M] — instruction changes it
+- [Descriptively, the creative drama group's retention scores were higher than the control group's despite the non-significant test](../claims/creative-drama-descriptive-retention-advantage.md) [~M] — instruction changes it
+- [The web-based ITS did not significantly influence retention one month after instruction](../claims/web-its-no-retention-effect.md) [-M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

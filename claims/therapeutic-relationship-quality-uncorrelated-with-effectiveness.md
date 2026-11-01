@@ -51,3 +51,4 @@ The review reports Gonyea (1963), an external-criterion study of eight counselor
 - [Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported](early-and-later-stage-complementarity-null-by-outcome.md) — related
 - [Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors](high-facilitative-counselors-more-client-self-exploration.md) — related
 - [Self-actualization (POI) correlates of rated counseling performance reported by Foulds could not be confirmed on replication](self-actualization-poi-findings-failed-replication.md) — related
+- [Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity](adherence-responsiveness-correlations-experience-null.md) — related

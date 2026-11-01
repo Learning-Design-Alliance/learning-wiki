@@ -53,3 +53,4 @@ Parametric bootstrap test (20,000 draws) of the indirect treatment effect throug
 - [The TRIAD intervention raised teachers' observed expectations and responsiveness to developmental needs (b = 0.10, p = .05)](triad-raised-teacher-expectations-developmental-appropriateness.md) — related
 - [The intervention raised observed teacher confidence and enthusiasm, with partial mediation via this dimension for African American students only, though the group difference was not significant](teacher-confidence-enthusiasm-mediation-mixed.md) — related
 - [Support for mathematical discourse was increased by the intervention but was not significantly associated with post-treatment mathematics achievement for either group](mathematical-discourse-null-achievement-association.md) — related
+- [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related

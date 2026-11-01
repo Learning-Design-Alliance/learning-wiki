@@ -56,3 +56,4 @@ Pairwise correlations of raw data at each of the 21 measurement points (Fig. 10)
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related
+- [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related

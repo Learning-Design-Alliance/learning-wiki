@@ -53,3 +53,5 @@ Non-equivalent quasi-experiment with 18 pupils per group; independent samples t-
 - [Pupils reported generally positive perceptions of learning two-dimensional shape properties with Logo](logo-positive-pupil-perceptions-2d-shapes.md) — related
 - [Before treatment, the Logo and control groups showed no statistically significant difference in achievement on two-dimensional shapes](logo-pretest-no-significant-difference.md) — related
 - [Before treatment, the CBI and FII groups showed no significant difference in mathematics achievement](cbi-fii-pretest-equivalence.md) — related
+- [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
+- [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related

@@ -51,3 +51,4 @@ Authors' interpretation of the two-way ANCOVA in Table 4, where the Strategy X L
 - [School location (urban vs rural) shows no significant difference in post-test chemistry achievement](location-null-achievement-chemistry.md) — related
 - [School location shows no significant difference in chemistry retention scores](location-null-retention-chemistry.md) — related
 - [Mean retention scores were highest for PF, followed by PM and least for PC, in both urban and rural locations](pf-highest-retention-then-pm-then-pc.md) — related
+- [School location has no significant main effect on primary pupils' environmental knowledge](school-location-no-main-effect-environmental-knowledge.md) — related

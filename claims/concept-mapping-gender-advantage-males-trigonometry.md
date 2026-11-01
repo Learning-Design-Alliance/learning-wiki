@@ -52,3 +52,4 @@ Within the concept mapping group of the quasi-experiment (Table 4: 38 males, 32 
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — reports the opposite
 - [SSII students taught trigonometry with concept mapping or cooperative learning achieved significantly higher post-test scores than students taught with conventional methods](concept-mapping-cooperative-learning-beat-conventional-trigonometry.md) — related
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](gender-method-interaction-effects-trigonometry.md) — reports the opposite
+- [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related

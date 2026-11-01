@@ -40,7 +40,8 @@ The intervention was a series of 14 classroom lessons integrating mathematics co
 - [Music Math Lessons Posttest Achievement Advantage](../claims/music-math-lessons-posttest-achievement-advantage.md) [+M]
 
 ## Related Designs
-- 
+
+- [Interdisciplinary Greek traditional dance intervention program (music and sociology topics)](interdisciplinary-greek-dance-program-element.md)
 
 ## Examples
 -

@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 110 claims (48 for, 58 mixed, 4 against) · 84 studies (41 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 84 report an effect size · 101 claims rest on one study
+> **Evidence** · 111 claims (49 for, 58 mixed, 4 against) · 85 studies (42 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 85 report an effect size · 102 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Use animation models to clarify persistent science misconceptions and support achievement where traditional instruction leaves them intact"; tests this page's relationship.
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Integrate educationally valid pictures purposefully into ESP reading textbooks"; tests this page's relationship.
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](../claims/youtube-integration-higher-efl-posttest-scores.md) [+W] — attached 2026-11-01 from Alwehaibi (2015), which proposed "Treat YouTube as an effective instructional tool and teaching resource for EFL content learning"; tests this page's relationship.
+- [Instruction with visual materials rectified more global warming misconceptions than traditional instruction (about 40% versus about 12% success)](../claims/visual-materials-rectify-global-warming-misconceptions.md) [+W] — attached 2026-11-01 from Aykut Emre Bozdogan (2011), which proposed "Teach environmental topics with visual materials because they draw attention and support more permanent learning than text alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

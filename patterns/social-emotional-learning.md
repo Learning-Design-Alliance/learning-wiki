@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (30 for, 11 mixed) · 56 studies (16 quant-synthesis, 16 review, 15 causal, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 18 of 56 report an effect size · 27 claims rest on one study
+> **Evidence** · 46 claims (32 for, 13 mixed, 1 against) · 58 studies (17 review, 16 causal, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 19 of 58 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,7 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Digital Intensity Attenuates Ef Reappraisal Link](../claims/digital-intensity-attenuates-ef-reappraisal-link.md) [+M]
 - [Ef Associated With Reappraisal And Lower Suppression Adolescents](../claims/ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) [+M]
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
+- [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](../claims/ssis-cip-teacher-rated-social-skills-effects.md) [+W] — attached 2026-11-01 from DiPerna et al. (2014), which proposed "Six-phase social skills lesson model: coaching, modeling, role play, practice, feedback, generalization"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -168,6 +169,10 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Most school-based mental health programs reported in Australian schools were social and emotional learning programs, some without an evidence base](../claims/sel-dominates-school-mental-health-programs.md) [~W]
 - [Conflict resolution, peace education and peer mediation programs have a large overall positive effect on students' conflict resolution skills (Hedge's g = 1.256)](../claims/cre-pe-pm-large-overall-effect-conflict-resolution-skills.md) [+W]
 - [A prior meta-analysis suggested primary school classroom management programs had a small, statistically significant effect on most outcomes, with stronger effects for interventions focused on social-emotional development and teacher development](../claims/korpershoek-2016-classroom-management-programs-small-effects.md) [+M]
+- [The SACD consortium evaluation of seven elementary SEL programs found no differences between intervention and control groups over three years](../claims/sacd-consortium-null-effects.md) [-W]
+- [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](../claims/sel-effects-vary-by-risk-level.md) [~W]
+- [Only three reviewed SEL studies measured classroom-level outcomes, and effects on CLASS-measured classroom environments ranged from moderate to large](../claims/sel-classroom-level-class-effects.md) [~W]
+- [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](../claims/sel-meta-analyses-significant-positive-effects.md) [+M]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

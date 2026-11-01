@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 quant-synthesis), `q2`–`q3` · 2 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 4 studies (3 quant-synthesis, 1 causal), `q1`–`q3` · 2 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -53,6 +53,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](../claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
 - [PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)](../claims/pbl-knowledge-five-year-system-subgroup.md) [~W]
 - [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-pass-rates-chinese-medical-courses.md) [+W]
+- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — attached 2026-11-01 from Maskur et al. (2020), which proposed "Problem Based Learning model as implemented in this study"; tests this page's relationship.
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

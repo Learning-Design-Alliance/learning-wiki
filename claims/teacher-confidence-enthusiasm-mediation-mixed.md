@@ -53,3 +53,4 @@ Multigroup multilevel mediation model for the teacher confidence and enthusiasm 
 - [Observed teacher expectations and developmental appropriateness were more strongly associated with mathematics achievement for African American than non-African American preschoolers](expectations-dimension-differential-association-african-american.md) — related
 - [Mediation of the intervention's effect via teacher expectations approached significance only for African American students](expectations-mediation-african-american-marginal.md) — related
 - [The TRIAD intervention raised teachers' observed expectations and responsiveness to developmental needs (b = 0.10, p = .05)](triad-raised-teacher-expectations-developmental-appropriateness.md) — related
+- [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related

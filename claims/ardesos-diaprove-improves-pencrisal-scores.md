@@ -50,3 +50,6 @@ Pre-post comparison on the PENCRISAL test (35 open-answer items across five fact
 - [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](metacognition-ct-bidirectional-relation.md) — related
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
 - [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — related
+- [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related
+- [The ARDESOS program produced a significant pre-post improvement in overall critical thinking scores](ardesos-significant-total-critical-thinking-gain.md) — related
+- [Students taught with the DIAPROVE methodology outperformed the ARDESOS-only group in deductive reasoning](diaprove-better-deductive-reasoning.md) — related

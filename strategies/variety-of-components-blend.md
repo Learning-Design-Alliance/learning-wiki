@@ -51,6 +51,7 @@ The review's first recommendation for instructors blending introductory programm
 - [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Blended Learning](blended_learning.md)
+- [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 
 ## Examples
 -

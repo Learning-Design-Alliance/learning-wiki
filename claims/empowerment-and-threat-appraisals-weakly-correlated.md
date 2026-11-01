@@ -50,3 +50,4 @@ Pearson correlation analysis in SPSS among the 360-student sample; the PE–PT c
 - [Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-empowerment-positively-associated-trust-genai-dependence.md) — related
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
+- [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related

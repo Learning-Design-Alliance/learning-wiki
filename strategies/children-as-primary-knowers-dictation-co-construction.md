@@ -43,6 +43,7 @@ In the Modena project, five-year-olds work collaboratively to co-construct texts
 ## Related Strategies
 
 - [Shared Writing](shared-writing.md)
+- [Teacher acts as a non-knower co-participant who attributes boredom to the materials rather than the students](teacher-as-non-knower-co-participant.md)
 
 ## Examples
 -

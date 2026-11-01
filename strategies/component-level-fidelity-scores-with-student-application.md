@@ -46,6 +46,7 @@ The article recommends redesigning fidelity measurement so that quantitative pre
 
 - [Assess whether and how the planned intervention is implemented](assess-whether-and-how-intervention-implemented.md)
 - [Evaluate AI-use interventions for the specific process they target, from verification quality to reliance decisions and persistent learning](evaluate-interventions-by-targeted-process.md)
+- [Three-step process for developing an intervention-specific fidelity measure](three-step-fidelity-measure-development.md)
 
 ## Examples
 -

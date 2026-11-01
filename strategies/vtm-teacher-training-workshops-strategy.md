@@ -46,6 +46,7 @@ Based on their findings, the authors recommend holding training workshops for te
 
 - [Shift post-graduate health policy education from teacher-centred approaches toward student-centred methods with contemporary teaching training](student-centred-postgraduate-health-policy-teaching.md)
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
+- [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
 
 ## Examples
 -

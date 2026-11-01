@@ -52,3 +52,4 @@ Pairwise Scheffe comparisons on estimated marginal means of post-test attitude s
 - [No significant post-test attitude difference was found between the e-learning-taught group and the conventionally taught group when both were pre-tested](elearning-vs-conventional-posttest-no-difference.md) — possibly the same claim (merge candidate)
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — reports the opposite
+- [The combined Pre-question/Genre strategy produced the highest attitude to reading, exceeding Pre-question, Genre and Control groups](combined-prequestion-genre-highest-attitude.md) — related

@@ -51,6 +51,7 @@ The article recommends that chemistry teachers and educators adopt the teaching 
 
 - [Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.](strategy-constructivist-approach-recommendations.md)
 - [Use computer-based simulations to teach chemistry topics that are difficult to demonstrate, as a gender-friendly bridge of the achievement gap](cbs-gender-friendly-chemistry-strategy.md)
+- [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 
 ## Examples
 -

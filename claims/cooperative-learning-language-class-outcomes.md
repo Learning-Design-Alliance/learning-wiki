@@ -77,3 +77,4 @@ The chapter reports, citing Deen (1991), that cooperative learning "encouraged s
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
 - [Teachers dedicating more time to whole-class instruction is associated with increased student math achievement](more-whole-class-instruction-time-higher-math-achievement.md) — reports the opposite
 - [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](small-group-language-instruction-larger-effects.md) — related
+- [Prior research cited by the article reports teacher and student support for cooperative learning in mathematics, with benefits that may take time to appear](prior-research-favours-cooperative-math-learning.md) — related

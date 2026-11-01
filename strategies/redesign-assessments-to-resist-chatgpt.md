@@ -54,6 +54,7 @@ The article recommends that university staff design assessments that are harder 
 - [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
 - [Design literature-class tasks in which students critically assess AI-generated content and propose improvements](critical-assessment-of-ai-generated-content-tasks.md)
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
+- [Design report topics that require creative approaches and resist ready-made online solutions](report-topics-resisting-ready-made-solutions.md)
 
 ## Examples
 -

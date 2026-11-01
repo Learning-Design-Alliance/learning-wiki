@@ -80,3 +80,4 @@ Same correlational dataset (N = 230 university students). The authors report rel
 - [Medical students' positive emotions correlate with better diagnostic performance in a computer-based learning environment](positive-emotions-correlate-diagnostic-performance-medical-students.md) — a narrower finding that bears on this claim
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
 - [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](negative-feedback-emotional-responses-detrimental-consequences.md) — related
+- [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related

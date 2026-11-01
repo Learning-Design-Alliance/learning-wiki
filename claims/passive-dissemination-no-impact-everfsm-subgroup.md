@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: strong
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: lord-2017
     resource: "https://www.isrctn.com/ISRCTN84508118"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` For everFSM pupils, effect sizes versus control ranged from -0.01 to 0.00 with confidence intervals spanning zero. [→ Lord 2017](#lord-2017)
@@ -54,3 +55,6 @@ Pre-specified subgroup analysis on the primary outcome using a model with everFS
 - [EverFSM pupils in Children's University schools made 1 additional month's progress in maths, no additional progress in reading, and small gains in teamwork and social responsibility](cu-everfsm-subgroup-outcomes.md) — related
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on
+- [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related

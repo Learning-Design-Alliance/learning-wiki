@@ -53,3 +53,4 @@ This theoretical article does not run an experiment of its own; it reports a stu
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)](saic-agent-improves-schematic-knowledge.md) — related
 - [Schema-based multiplicative word-problem instruction transfers to additive word problems, but additive instruction does not transfer to multiplicative problems](multiplicative-word-problem-instruction-superior.md) — related
+- [Schema-based multiplicative word-problem instruction produces broader transfer to fraction word problems than additive word-problem instruction in fourth graders at risk](multiplicative-word-problem-broader-transfer.md) — related

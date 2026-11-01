@@ -48,6 +48,7 @@ The article's recommendations for practitioners and program developers, based on
 
 - [Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials](employ-varied-effective-chemistry-pedagogies.md)
 - [Organize in-service training programs and atelier studies at the education-region level to develop teachers' skills in applying constructivist learning models](in-service-atelier-studies-constructivist-models.md)
+- [Replace conventional lecture learning with constructivist models in teacher education to raise and equalize critical thinking](replace-conventional-learning-constructivist-models-teacher-education.md)
 
 ## Examples
 -

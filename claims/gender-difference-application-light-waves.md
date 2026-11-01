@@ -53,3 +53,4 @@ A 4x2 ANCOVA of students' application of Light waves classified by instructional
 - [Male and female students show no significant difference in understanding of Light waves](no-gender-difference-understanding-light-waves.md) — related
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — possibly the same claim (merge candidate)
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related

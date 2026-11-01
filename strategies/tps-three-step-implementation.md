@@ -54,6 +54,7 @@ The article describes TPS as an active-learning strategy in which "Students stud
 - [Classroom Response Systems](classroom-response-systems.md)
 - [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 - [Circulate and Listen During Pair Talk](circulate_and_listen_during_pair_talk.md)
+- [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
 
 ## Examples
 -

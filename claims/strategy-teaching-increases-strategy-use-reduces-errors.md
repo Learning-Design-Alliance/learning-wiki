@@ -53,3 +53,4 @@ Descriptive classification of responses to PRT questions (Table 8) by strategy u
 - [Teaching problem-solving strategies for ratio problems raises sixth-graders' proportional reasoning posttest scores above regular instruction](strategy-teaching-improves-proportional-reasoning-posttest.md) — related
 - [Students chose different ratio-problem strategies for different problem types, with unit ratio most frequent](strategy-choice-varies-by-problem-type.md) — related
 - [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](homework-solutions-show-strategy-and-error-differences.md) — related
+- [Error-tolerant classroom culture training reduces students' fear of making errors in mathematics lessons](error-tolerant-culture-reduces-fear-of-errors.md) — related

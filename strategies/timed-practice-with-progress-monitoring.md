@@ -64,6 +64,7 @@ Timed practice targets the shift from accurate to *fluent* performance: automati
 - [Mastery learning](../strategies/mastery-learning.md) — the progress data gates advancement to the next skill
 - [Self-monitoring checklists](../strategies/self-monitoring-checklists.md) — learner-managed version of the tracking component
 - [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
+- [Use repeated reading probes several grade levels below the student's grade level, with visible goals, extrinsic rewards, and daily progress charting](repeated-reading-lower-level-probes-strategy.md)
 
 ## Examples
 - **[XtraMath](https://xtramath.org)** — daily few-minute timed math-fact fluency sessions with automatic progress graphs for teachers and families.

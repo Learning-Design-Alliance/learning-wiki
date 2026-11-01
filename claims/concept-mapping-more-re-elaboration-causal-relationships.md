@@ -71,3 +71,4 @@ Authors' discussion statement (interpretation) quantifying the re-elaboration co
 - [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
 - [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related
 - [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](whole-class-more-contextualization-than-dyads.md) — related
+- [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](model-condition-higher-collaboration-rate.md) — related

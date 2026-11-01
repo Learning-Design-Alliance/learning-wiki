@@ -50,3 +50,4 @@ Two-year cluster RCT in Wake County, NC (22,583 students in the general literacy
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
 - [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
+- [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related

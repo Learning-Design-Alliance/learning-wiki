@@ -142,3 +142,5 @@ A meta-analysis of 54 control-group studies (141 effect sizes; the abstract's fi
 - [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — a narrower finding that bears on this claim
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](seventh-graders-peer-feedback-skills.md) — a narrower finding that bears on this claim
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
+- [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — a narrower finding that bears on this claim
+- [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — a narrower finding that bears on this claim

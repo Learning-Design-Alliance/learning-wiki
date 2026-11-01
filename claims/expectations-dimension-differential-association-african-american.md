@@ -55,3 +55,4 @@ Multigroup multilevel mediation (path b) in the TRIAD RCT sample: the African Am
 - [Support for mathematical discourse was increased by the intervention but was not significantly associated with post-treatment mathematics achievement for either group](mathematical-discourse-null-achievement-association.md) — related
 - [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — a broader claim this one bears on
 - [The TRIAD intervention raised teachers' observed expectations and responsiveness to developmental needs (b = 0.10, p = .05)](triad-raised-teacher-expectations-developmental-appropriateness.md) — related
+- [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related

@@ -52,3 +52,5 @@ Pre-test comparison of the two intact classes (N=40 each) on the AAT before trea
 - [The TIP and educational games groups were equivalent in prior literacy knowledge at pre-test](tip-games-groups-equivalent-pretest-literacy.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
+- [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
+- [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related

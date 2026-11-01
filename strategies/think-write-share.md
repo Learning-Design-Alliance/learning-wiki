@@ -58,9 +58,11 @@ The strategy operationalizes active participation for all learners rather than t
 5. Ask learners to revise their written responses ([Reassessment](../elements/reassessment.md)) and treat the revision as evidence of conceptual change.
 
 ## Related Strategies
+
 - [Wait Time](wait-time.md) — the silent think phase enacts extended wait time, increasing response quality and participation
 - [Cold Calling](cold-call.md) — often combined after the write phase so every learner can be called on with a prepared answer
 - [Exit Tickets](exit-ticket.md) — the written component can double as a formative artifact collected at the end of class
+- [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
 
 ## Examples
 - A fourth-grade teacher asked "What is an equivalent fraction?" Students wrote their responses, shared with partners, and then revised their written definitions after a class discussion surfaced the misconception that equivalence means "looks the same."

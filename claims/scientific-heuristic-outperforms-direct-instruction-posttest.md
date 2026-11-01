@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: lina-s-calucag-2016
     resource: "https://eric.ed.gov/?id=EJ1089794"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experiment with two intact college algebra classes, the experimental (scientific heuristic) group performed significantly better than the control (direct instruction) group on the post-test (Wilcoxon Rank-Sum, p = 0.003). [→ Lina S. Calucag 2016](#lina-s-calucag-2016)
@@ -56,3 +57,6 @@ Quasi-experimental comparison of two intact College Algebra classes taught by th
 - [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
+- [Active training improved problem-solving performance, while traditional and heuristic methods did not differ from each other](active-training-best-for-problem-solving.md) — related
+- [Grade-7 students taught algebra through Vygotsky's social constructivist approach achieved statistically significantly better posttest outcomes than students taught through traditional one-way teaching](social-constructivist-algebra-posttest-significant.md) — related
+- [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related

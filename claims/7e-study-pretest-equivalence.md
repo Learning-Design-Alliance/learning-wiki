@@ -55,3 +55,4 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related
+- [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related

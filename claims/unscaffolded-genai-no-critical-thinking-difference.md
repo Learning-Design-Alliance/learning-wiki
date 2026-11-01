@@ -51,3 +51,4 @@ One-way ANCOVA on critical thinking (six-item scale) with pretest as covariate i
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — related
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related
+- [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](learning-by-academic-ability-interaction-critical-thinking.md) — related

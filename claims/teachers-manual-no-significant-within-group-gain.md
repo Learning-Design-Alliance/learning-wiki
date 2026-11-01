@@ -46,3 +46,4 @@ Within-group dependent-samples t-test for the control group in Table 1: pre-test
 
 ## Related Claims
 - [Seventh-grade Thai students taught with applied instruction through the genre-based approach achieved significantly higher English reading comprehension post-test scores than students taught with the teacher's manual](genre-based-approach-reading-comprehension-thai-grade7.md) — related
+- [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — related

@@ -57,3 +57,4 @@ Baseline latent SEM model fitted to the longitudinal sample of 207 children, wit
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
+- [Practice format effects depend on working memory: conceptual practice favors very low working memory students while fluency practice favors students with more adequate working memory](practice-format-working-memory-moderator.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of pretest-posttest scores in the same quasi-experiment: Ta
 ## Related Claims
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [Student responses to PBL statistics learning were positive, and more positive than responses to conventional learning](pbl-statistics-positive-student-responses.md) — related
+- [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — related

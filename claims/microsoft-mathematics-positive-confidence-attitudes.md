@@ -65,3 +65,5 @@ Computer confidence questionnaire responses from both groups, again reported des
 
 ## Related Claims
 - [First-year students taught Calculus with Microsoft Mathematics achieved higher post-test scores than students taught conventionally](microsoft-mathematics-higher-post-test-calculus.md) — related
+- [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related
+- [Students taught with Microsoft Mathematics reported more positive mathematics-confidence attitudes than controls](microsoft-mathematics-positive-math-confidence-attitudes.md) — possibly the same claim (merge candidate)

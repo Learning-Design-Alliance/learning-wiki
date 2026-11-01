@@ -56,3 +56,4 @@ A randomized controlled trial randomly assigned low-performing first-graders in 
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
 - TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
+- [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related

@@ -62,6 +62,7 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the core technique of the "I do" phase
 - [Direct Instruction](../strategies/direct-instruction.md) — the broader lesson design within which this sequence typically sits
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
+- [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](three-phase-constructivist-algebra-word-problems.md)
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the modeled–guided–independent practice arc is its central structure

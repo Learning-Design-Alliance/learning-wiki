@@ -59,3 +59,4 @@ Random-effects meta-analysis with robust-variance estimation of 205 included stu
 - [Mathematics interventions for students with mathematics difficulty in grades 4–12 show a statistically significant pooled treatment effect of 0.85 under a random-effects model](math-interventions-grades-4-12-rve-effect-085.md) — a narrower finding that bears on this claim
 - [Summer math programs have a small significant positive overall effect on students' math scores (d=0.08).](summer-math-programs-overall-d-008.md) — related
 - [School feeding programs show mixed, statistically nonsignificant pooled effects on academic performance (1.314, CI crossing null)](school-feeding-programs-nonsignificant-pooled-effect.md) — related
+- [The pilot detected a positive but insecure effect of PLC on Maths attainment (ES=0.49)](plc-pilot-insecure-positive-maths-effect.md) — a narrower finding that bears on this claim

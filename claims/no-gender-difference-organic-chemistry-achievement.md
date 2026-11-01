@@ -62,3 +62,6 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — reports the opposite
+- [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related

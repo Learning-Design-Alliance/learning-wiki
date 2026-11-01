@@ -48,3 +48,4 @@ ANCOVA on final test scores of 55 prospective teachers with pre-test as covariat
 - [Simulation-based probability teaching significantly improved experimental-group prospective teachers' test scores from pre-test to final test](simulation-group-prepost-gain.md) — related
 - [Playing a web-based simulation game produces significantly higher deep-learning strategy use than no-game conventional teaching, controlling for pre-game strategy use](simulation-game-increases-deep-learning-strategy.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
+- [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related

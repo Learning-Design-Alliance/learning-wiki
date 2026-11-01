@@ -117,3 +117,6 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — reports the opposite
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](process-product-feedback-strongest-performance-gains.md) — related
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
+- [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — a narrower finding that bears on this claim
+- [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — a narrower finding that bears on this claim
+- [Facebook-based peer comments outperform paper-and-pen peer comments on post-test writing quality](facebook-peer-comments-outperform-paper-pen.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Aggregate across the five RCTs on the Vanderbilt Fraction Battery calculation me
 ## Related Claims
 - [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](fraction-intervention-number-line-es-093.md) — related
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](measurement-fraction-intervention-beats-control-generalized-knowledge.md) — related
+- [Fraction intervention students significantly outperform control students on fraction calculations across five RCTs, with a mean ES of 1.72, despite control allocating more time to computation](fraction-intervention-calculations-es-172.md) — possibly the same claim (merge candidate)

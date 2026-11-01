@@ -77,3 +77,6 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
+- [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
+- [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
+- [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related

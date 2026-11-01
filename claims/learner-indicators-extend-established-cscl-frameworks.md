@@ -65,3 +65,4 @@ Same qualitative study; the authors compared newly surfaced student-valued dimen
 
 ## Related Claims
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
+- [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](designers-reported-soft-skills-gains.md) — related

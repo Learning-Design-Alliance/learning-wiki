@@ -42,6 +42,7 @@ The teaching methods course was organized as fourteen weeks of three contact hou
 ## Related Designs
 
 - [Two-presentation weekly structure pairing typically developing learners' perspective with exceptional learning needs perspective](dual-perspective-weekly-literacy-presentations.md)
+- [Creative drama unit plan structured as sequenced sessions with warm-up, improvisation, interim assessment and closing activities](creative-drama-session-sequence-pattern.md)
 
 ## Examples
 -

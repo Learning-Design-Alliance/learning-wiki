@@ -48,6 +48,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Direct research effort toward measuring temperament and character factors, which operate largely independently of intelligence and may be more educable](research-measure-temperament-character-factors.md)
 - [Phase-specific research-project activities: selecting situations and simulators, iterative design with expert workshops and pilot studies, and standardized study conduct](research-project-phase-strategies.md)
 - [Workshop model for running the IDR methodology with the wider community](idr-workshop-model-wider-community.md)
+- [School-led aggregated efficacy trials with independent expert oversight](school-led-aggregated-efficacy-trials.md)
 
 ## Examples
 -

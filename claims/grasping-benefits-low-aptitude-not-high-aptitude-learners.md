@@ -77,3 +77,4 @@ Post-hoc Tukey comparisons in the same study. Grasping significantly benefited L
 - [Simply viewing virtual referent objects during L2 learning enhances retention relative to audiovisual-only learning, for both aptitude groups](viewing-virtual-objects-enhances-l2-retention-both-aptitude-groups.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — possibly the same claim (merge candidate)
+- [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related

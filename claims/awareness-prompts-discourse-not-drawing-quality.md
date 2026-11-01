@@ -50,3 +50,4 @@ The editorial summarizes the study by Gijers, Weinberger and colleagues, in whic
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
 - [Students are far more inclined to use conceptual and textual representational tools than arithmetical ones, and collaboration does not stimulate arithmetical tool use](format-affects-inclination-to-use-tool.md) — related
+- [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](model-condition-higher-collaboration-rate.md) — related

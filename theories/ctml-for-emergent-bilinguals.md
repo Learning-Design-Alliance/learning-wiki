@@ -56,6 +56,7 @@ CTML (Mayer, 2014) holds that learners process multimedia messages through two c
 
 - [SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences](../designs/sol-multimedia-lesson-sequence-eb.md)
 - [Multimedia Design](../strategies/multimedia-design.md)
+- [Three-theory design framework for the VFT module: constructivism, information processing, and Mayer's Cognitive Theory of Multimedia Learning](../designs/vft-module-three-theory-design-framework.md)
 
 ## Key Sources
 - Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081

@@ -47,3 +47,4 @@ Meta-analysis of 73 Turkish pre-test post-test control-group experimental studie
 ## Related Claims
 - [Instruction tailored to students' learning styles shows a large pooled random-effects effect on academic achievement (d = 1.029) across 29 Turkish experimental studies](learning-styles-instruction-large-pooled-achievement-effect.md) — related
 - [Multiple intelligences-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.332)](multiple-intelligences-large-effect-turkish.md) — a narrower finding that bears on this claim
+- [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related

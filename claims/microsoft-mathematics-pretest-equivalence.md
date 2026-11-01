@@ -54,3 +54,9 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — a narrower finding that bears on this claim
+- [Students entered the Integral Calculus experiment with near-zero pretest scores, indicating weak prerequisite preparation](calculus-students-weak-prerequisite-background.md) — related
+- [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
+- [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — possibly the same claim (merge candidate)
+- [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related
+- [Students taught with Microsoft Mathematics reported more positive mathematics-confidence attitudes than controls](microsoft-mathematics-positive-math-confidence-attitudes.md) — related

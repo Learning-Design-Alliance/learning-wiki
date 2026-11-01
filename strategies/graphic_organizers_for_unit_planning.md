@@ -78,6 +78,7 @@ Unit-level organizers function as [Advance Organizers](../elements/advance-organ
 - [Chunking Content](../strategies/chunking-content.md) — the organizer defines the chunks; each lesson is one chunk within a visible whole
 - [Backward Design](../methods/backward-design.md) — planning the organizer is a natural byproduct of designing the unit around its essential questions and assessments
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
+- [Teachers present and summarize chemistry topics with concept maps and teach students to construct their own maps](teach-students-to-construct-concept-maps.md)
 
 ## Examples
 - A science teacher opens a unit on the scientific method with a flowchart of investigation stages, returning to it to mark each stage as lessons progress.

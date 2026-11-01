@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**931 entries** · 0 stable · 931 in review · 0 drafts
+**932 entries** · 0 stable · 932 in review · 0 drafts
 
 ---
 
@@ -301,6 +301,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Five-component framework of quality formative feedback on writing](five-component-framework-of-quality-formative-feedback-on-writing.md) - The study operationalizes quality formative feedback on writing using five deductively coded components: the degree to which feedback \"was criteria-based, provided clear directions for improvement, was accurate, prioritized essential features, and used a supportive tone.\" Each component is scored 1-
 * [Five-component taxonomy of collaboration scripts](five-component-taxonomy-of-collaboration-scripts.md) - The article proposes that collaboration scripts can be analyzed into five components, which serve as a basis for comparing different script approaches.
 * [Five-criterion rubric for evaluating theoretical scholarship](five-criterion-rubric-for-evaluating-theoretical-scholarship.md) - The guest editors created an evaluative rubric for reviewers of theoretical papers, rating each criterion on a scale of 1 to 3.
+* [Five-dimensional construct of intervention fidelity](five-dimensional-construct-of-intervention-fidelity.md) - The article frames intervention fidelity as \"a multidimensional construct with five dimensions: adherence, dosage, quality of intervention delivery, participant responsiveness, and program differentiation\".
 * [Five-domain validity framework for simulator evaluation](five-domain-validity-framework-for-simulator-evaluation.md) - The review organises simulator validation evidence using five validity domains defined from Van Nortwick and McDougall: face validity (realism to non-experts), content validity (expert-rated teaching effectiveness), construct validity (differentiating expertise levels), concurrent validity (correlat
 * [Five-feature framework for assessing the quality of verbal collaborative argumentation](five-feature-framework-for-assessing-the-quality-of-verbal-collaborative-argumentation.md) - Drawing on Chinn and Anderson's (1998) argumentation framework, the researchers assessed quality via argumentation diagrams whose core units are claim, datum, and warrant.
 * [Five-hypothesis validation process for online peer assessment](five-hypothesis-validation-process-for-online-peer-assessment.md) - The article proposes a validation procedure in which peer assessment may only be judged valid after five prior conditions are confirmed: teacher reliability, correct test items, internal consistency of the test, reliability of the observation and marking tools, and clear, coherent marking instructio
