@@ -33,7 +33,7 @@ A Biological Science Curriculum Study framework for sequencing instruction throu
 - [The 7E model showed larger science effects than the 3E model, but evidence for 7E superiority is limited by few and geographically concentrated studies](../claims/7e-larger-effects-than-3e-science.md) [+M]
 - [The 5E and related instructional models significantly improve pre-K–12 science achievement (g = 0.82)](../claims/5e-model-improves-science-achievement.md) [+M]
 - [5E inquiry learning activities did not change affective attitude toward chemistry relative to lecture-based teaching](../claims/5e-inquiry-no-affective-attitude-difference.md) [~M]
-- [The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education](../claims/5es-higher-civic-literacy-scores.md) [+M]
+- [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](../claims/5es-higher-civic-literacy-scores.md) [+W]
 
 ## Related Products and Programmes
 -

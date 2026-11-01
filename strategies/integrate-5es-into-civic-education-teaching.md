@@ -44,7 +44,7 @@ Based on its finding that the 5Es strategy improved literacy scores, the study i
 
 ## Claims
 
-- [The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education](../claims/5es-higher-civic-literacy-scores.md) [+W]
+- [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](../claims/5es-higher-civic-literacy-scores.md) [+W]
 
 ## Related Strategies
 

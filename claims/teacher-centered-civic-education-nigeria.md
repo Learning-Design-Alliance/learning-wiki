@@ -46,6 +46,6 @@ The authors' observational claim about Nigerian classrooms, offered without prin
 
 
 ## Related Claims
-- [The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education](5es-higher-civic-literacy-scores.md) — related
+- [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](5es-higher-civic-literacy-scores.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related

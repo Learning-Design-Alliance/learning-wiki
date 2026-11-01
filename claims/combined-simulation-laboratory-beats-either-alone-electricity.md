@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-01
 sources:
   - id: zeynep-koyunlu-ünlü-ibilge-dökme-2011
     resource: "https://dergipark.org.tr/en/pub/tojet"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seventh-graders taught with both analogy-based simulation and laboratory activities scored significantly higher on corrected EPT post-tests than students taught with laboratory activities alone or simulation alone. [→ Zeynep Koyunlu Ünlü & İbilge Dökme 2011](#zeynep-koyunlu-unlu-ibilge-dokme-2011)
@@ -37,7 +38,7 @@ Zeynep Koyunlu Ünlü & İbilge Dökme. (2011). The effect of combining analogy-
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental study of 66 seventh-graders randomly assigned to three groups; ANCOVA on corrected EPT post-tests with Bonferroni post-hoc comparisons favored the combined group, "in favor of the experimental group". Corrected means were 15.383, 13.398 and 13.444.
+Quasi-experimental study of 66 seventh-graders randomly assigned to three groups; ANCOVA on corrected EPT post-tests with Bonferroni post-hoc comparisons favored the combined group, "in favor of the experimental group". Table 8 reports corrected means of 15.38 (combined, n=27), 12.41 (laboratory only, n=21) and 12.43 (simulation only, n=18); the article's preceding prose gives different corrected means (16.283, 13.398 and 13.444), so the exact values are inconsistent within the source, though both sets rank the combined group highest.
 
 > "significant difference was found between the mean scores of the control group I in which the experiment method was applied and the experimental group in which analogy-based simulation method and laboratory method were applied together"
 

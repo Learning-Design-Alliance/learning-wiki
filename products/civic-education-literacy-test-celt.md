@@ -23,7 +23,7 @@ A 50-item multiple-choice instrument developed and validated by AbdulRaheem et a
 - **Civic Education Literacy Test (CELT), a 50-item multiple-choice instrument**: The Civic Education Literacy Test (CELT) is the 50-item multiple-choice objective instrument used to collect literacy-score data in this study. Its reliability was measured by split-half with the Spearman-Brown Prophesy Formula, chosen because it "accommodates dichotomous (e.g., right -wrong) answers", yielding a reliability index of 0.68. It was administered to Senior School II students in a non-participating school for validation, and served as both pretest covariate and posttest dependent measure in the ANCOVA. (AbdulRaheem et al. (2018))
 
 ### Claims
-- [The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education](../claims/5es-higher-civic-literacy-scores.md) [+M]
+- [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](../claims/5es-higher-civic-literacy-scores.md) [+W]
 
 ## Related Products and Programmes
 -

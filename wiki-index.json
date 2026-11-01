@@ -2834,13 +2834,14 @@
 "type":"claim"
 },
 {
-"description":"The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education",
+"description":"In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class",
 "evidence_strength":"moderate",
 "id":"5es-higher-civic-literacy-scores",
 "newest_evidence":"2018",
 "path":"claims/5es-higher-civic-literacy-scores.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education",
+"title":"In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class",
 "type":"claim"
 },
 {
@@ -13817,6 +13818,7 @@
 "id":"ahabi-item-reduction-56-to-20",
 "newest_evidence":"2016",
 "path":"claims/ahabi-item-reduction-56-to-20.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Item reduction reduced the AHABI from 56 initial items to 20 via expert judgement and low-discrimination removal",
 "type":"claim"
@@ -63979,6 +63981,7 @@
 "id":"combined-simulation-laboratory-beats-either-alone-electricity",
 "newest_evidence":"2011",
 "path":"claims/combined-simulation-laboratory-beats-either-alone-electricity.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone",
 "type":"claim"
@@ -373938,6 +373941,7 @@
 "id":"triad-building-blocks-legacy-positive-effects",
 "newest_evidence":"2013",
 "path":"claims/triad-building-blocks-legacy-positive-effects.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through",
 "type":"claim"
@@ -390312,6 +390316,7 @@
 "id":"website-reliability-evaluation-similar-across-groups",
 "newest_evidence":"2014",
 "path":"claims/website-reliability-evaluation-similar-across-groups.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way",
 "type":"claim"

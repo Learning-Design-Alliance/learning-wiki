@@ -196,7 +196,7 @@ def anova_rows(text):
             if not re.match(r"\s*[A-Za-z][A-Za-z ()×*'\-]{1,40}\s+\d", row) or \
                     re.search(r"\bpage\b|\bvol(?:ume)?\b|\bjournal\b|\(\d{4}\)|\d+\s*/\s*\d+\s+[A-Z]", row, re.I):
                 continue
-            nums = re.findall(r"(?<![\w.])(\d+\.\d+|\d+)(?![\w.])", row)
+            nums = re.findall(r"(?<![\w.])(\d+\.\d+|\d+|\.\d+)(?![\w.])", row)   # ".398": APA drops the leading zero
             if len(nums) < 4:
                 continue
             ss, df, ms = _num(nums[0]), _num(nums[1]), _num(nums[2])

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education
-description: The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education
+title: In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class
+description: In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class
 id: 5es-higher-civic-literacy-scores
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: abdulraheem-2018
     resource: "https://eric.ed.gov/?id=EJ1173483"
@@ -28,15 +29,15 @@ sources:
     rigour: 1
 ---
 
-# The 5Es instructional strategy produces higher civic literacy scores than conventional teaching in Nigerian senior secondary Civic Education
+# In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught Civic Education with the 5Es instructional strategy scored significantly higher on post-test civic literacy than students taught with the conventional method, after adjusting for pretest scores. [→ AbdulRaheem 2018](#abdulraheem-2018)
-`q2 i?` The mean gain score of the 5Es group (22.41) was larger than the mean gain of the conventional group (10.63). [→ AbdulRaheem 2018 (2)](#abdulraheem-2018-2)
+`q2 i?` In this sample of 77 students in two intact classes in Ilorin, the mean gain score of the 5Es class (22.41) was larger than the mean gain of the conventional class (10.63). [→ AbdulRaheem 2018 (2)](#abdulraheem-2018-2)
 
 ## Evidence
 
