@@ -148,7 +148,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
 - [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](../claims/contrasting-orthographically-similar-l2-words-improves-recall.md) [+W] — attached 2026-10-23 from Baxter et al. (2022), which proposed "Use contrasting of orthographically similar new L2 words to sharpen form representations".
-- [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](../claims/embedded-lessons-vocabulary-gains-story-friends.md) [+W] — attached 2026-11-01 from Howard Goldstein et al. (2016), which proposed "Embedding explicit vocabulary and comprehension lessons inside prerecorded storybooks for small-group listening centers"; tests this page's relationship.
+- [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](../claims/embedded-lessons-vocabulary-gains-story-friends.md) [+W] — attached 2026-11-01 from Goldstein et al. (2016), which proposed "Embedding explicit vocabulary and comprehension lessons inside prerecorded storybooks for small-group listening centers"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

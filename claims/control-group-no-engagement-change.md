@@ -45,5 +45,5 @@ Wilcoxon Sign Test on the 20-student control group's pre-test and post-test scor
 
 
 ## Related Claims
-- [Within the flipped-classroom experimental group, post-test engagement scores were significantly higher than pre-test scores on all five sub-dimensions](experimental-group-prepost-engagement-gain.md) — related
+- [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](experimental-group-prepost-engagement-gain.md) — related
 - [Control-group pre-K children showed no statistically significant change on either measure over the ten-week period](control-group-no-significant-change-phonological-measures.md) — related

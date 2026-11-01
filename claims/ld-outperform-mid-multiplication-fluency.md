@@ -10,18 +10,18 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2016
 sources:
-  - id: ioannis-agaliotis-afroditi-teli-2016
+  - id: agaliotis-and-teli-2016
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: 2
     kind: causal
     rigour: 2
-  - id: ioannis-agaliotis-afroditi-teli-2016-2
+  - id: agaliotis-and-teli-2016-2
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: 0
     kind: causal
@@ -35,14 +35,14 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Final fluency in multiplication ACs was significantly higher for students with LD than students with MID, with a modest effect (r = .31). [→ Ioannis Agaliotis & Afroditi Teli 2016](#ioannis-agaliotis-afroditi-teli-2016)
-`q2 i0` Differences between LD and MID in division fluency and in generalization of both operations were not significant, with negligible effects (r = .04) for generalization. [→ Ioannis Agaliotis & Afroditi Teli 2016 (2)](#ioannis-agaliotis-afroditi-teli-2016-2)
+`q2 i2` Final fluency in multiplication ACs was significantly higher for students with LD than students with MID, with a modest effect (r = .31). [→ Agaliotis and Teli 2016](#agaliotis-and-teli-2016)
+`q2 i0` Differences between LD and MID in division fluency and in generalization of both operations were not significant, with negligible effects (r = .04) for generalization. [→ Agaliotis and Teli 2016 (2)](#agaliotis-and-teli-2016-2)
 
 ## Evidence
 
-### Ioannis Agaliotis & Afroditi Teli 2016
+### Agaliotis and Teli 2016
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i2` · `causal · r2`
 
@@ -50,9 +50,9 @@ Mann-Whitney comparison of post-intervention performance between students with L
 
 > "Significant differences were found between students with LD and students with MID in the final fluency in the use of multiplication ACs (U = 174.5, z = -1.998, p = .046) [modest effect (r = .31)], and in generalization (U = 254.5, z = -381, p = .703) [negligible effect (r = .04)]. Students with LD significantly outperformed students with MID."
 
-### Ioannis Agaliotis & Afroditi Teli 2016 (2)
+### Agaliotis and Teli 2016 (2)
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i0` · `causal · r2`
 

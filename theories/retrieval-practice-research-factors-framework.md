@@ -60,7 +60,7 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](../claims/forward-testing-complex-materials.md) [+W]
 - [Announcing an upcoming test did not significantly change learning from the participation film](../claims/test-announcement-no-learning-effect.md) [~W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]
-- [Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "The testing effect (retrieval practice)"; tests this page's relationship.
+- [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "The testing effect (retrieval practice)"; tests this page's relationship.
 - [Both PRL-user and PRL-non-user groups scored significantly higher on memory questions than on comprehension questions](../claims/prl-groups-higher-memory-than-comprehension.md) [~W]
 
 ## Related Theories

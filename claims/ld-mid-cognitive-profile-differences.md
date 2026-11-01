@@ -11,18 +11,18 @@ evidence_strength: moderate
 newest_evidence: 2016
 recheck_by: 2021
 sources:
-  - id: ioannis-agaliotis-afroditi-teli-2016
+  - id: agaliotis-and-teli-2016
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: "?"
     kind: causal
     rigour: 2
-  - id: ioannis-agaliotis-afroditi-teli-2016-2
+  - id: agaliotis-and-teli-2016-2
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: "?"
     kind: causal
@@ -36,14 +36,14 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Pre-intervention comparisons found significant LD-MID differences in verbal skills, processing speed and counting. [→ Ioannis Agaliotis & Afroditi Teli 2016](#ioannis-agaliotis-afroditi-teli-2016)
-`q2 i?` No significant LD-MID differences were found in working memory, phonological short-term memory, or properties of operations. [→ Ioannis Agaliotis & Afroditi Teli 2016 (2)](#ioannis-agaliotis-afroditi-teli-2016-2)
+`q2 i?` Pre-intervention comparisons found significant LD-MID differences in verbal skills, processing speed and counting. [→ Agaliotis and Teli 2016](#agaliotis-and-teli-2016)
+`q2 i?` No significant LD-MID differences were found in working memory, phonological short-term memory, or properties of operations. [→ Agaliotis and Teli 2016 (2)](#agaliotis-and-teli-2016-2)
 
 ## Evidence
 
-### Ioannis Agaliotis & Afroditi Teli 2016
+### Agaliotis and Teli 2016
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i?` · `causal · r2`
 
@@ -51,9 +51,9 @@ Mann-Whitney baseline comparison of cognitive and learning factors between stude
 
 > "there were statistically significant differences in verbal skills abilities (U = 120.000, z = -3.090, p = .002), processing speed (U = 84.500, z = -2.579, p = .010) and counting (U = 162.000, z = -2.623, p = .009)"
 
-### Ioannis Agaliotis & Afroditi Teli 2016 (2)
+### Agaliotis and Teli 2016 (2)
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i?` · `causal · r2`
 

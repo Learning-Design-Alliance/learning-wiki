@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-01
 sources:
-  - id: ioannis-agaliotis-afroditi-teli-2016
+  - id: agaliotis-and-teli-2016
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
 ---
 
 # Five-step effective-instruction intervention for teaching arithmetic combinations of multiplication and division
@@ -46,4 +46,4 @@ The control intervention was a 12-lesson (6 multiplication, 6 division) program 
 -
 
 ## Key Sources
-- Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+- Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90

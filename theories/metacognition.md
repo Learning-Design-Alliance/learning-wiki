@@ -524,7 +524,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](../claims/self-rated-understanding-overestimates-ability.md) [-W]
 - [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](../claims/ancova-metacognitive-strategy-reading-comprehension-effect.md) [+W]
 - [A 10-week reading program combining quality children's books and metacognitive strategy instruction raised eighth-grade students' self-esteem more than typical non-quality books](../claims/quality-books-metacognitive-strategy-raise-self-esteem.md) [~W] — attached 2026-11-01 from Erkan Cer et al. (2017), which proposed "Metacognitive strategy as controlling, monitoring, evaluating, and self-regulating during reading".
-- [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Taiwo Oladunni Gbenga-Akanmu et al. (2019), which proposed "Flavell's Metacognition Theory as the framework for numeracy intervention".
+- [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Gbenga-Akanmu & Jegede (2019), which proposed "Flavell's Metacognition Theory as the framework for numeracy intervention".
 
 ## The evidence by question
 

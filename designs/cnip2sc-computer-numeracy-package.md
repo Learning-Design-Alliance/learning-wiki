@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-01
 sources:
-  - id: taiwo-oladunni-gbenga-akanmu-philip-olu-jegede-2019
+  - id: gbenga-akanmu-jegede-2019
     resource: "https://doi.org/10.5430/wje.v9n1p221"
-    title: "Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221"
-    author: "Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede"
+    title: "Gbenga-Akanmu, T. O., & Jegede, P. O. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221"
+    author: "Gbenga-Akanmu, T. O., & Jegede, P. O."
 ---
 
 # Computer Numeracy Instructional Package for Primary School Children (CNIP 2SC)
@@ -46,4 +46,4 @@ CNIP 2SC is a computer-mediated instructional package developed by the researche
 -
 
 ## Key Sources
-- Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221
+- Gbenga-Akanmu, T. O., & Jegede, P. O. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221

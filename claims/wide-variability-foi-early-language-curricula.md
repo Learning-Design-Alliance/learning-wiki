@@ -9,19 +9,20 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-01
 sources:
-  - id: tricia-a-zucker-2021
+  - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
-    title: "Tricia A. Zucker, Erin Jacbos & Snyder & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
-    author: "Tricia A. Zucker, Erin Jacbos & Snyder & Sonia Q. Cabell"
+    title: "Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288"
+    author: "Zucker, T. A., Jacbos, E., & Cabell, S. Q."
     q: 2
     i: "?"
     kind: qualitative
     rigour: "?"
-  - id: tricia-a-zucker-2021-2
+  - id: zucker-2021-2
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
-    title: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
-    author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
+    title: "Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288"
+    author: "Zucker, T. A., Jacbos, E., & Cabell, S. Q."
     q: 2
     i: "?"
     kind: qualitative
@@ -32,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
-`q2 i?` Across the three Developing Talkers studies, total adherence improved to near 90% but dosage declined from 96.78% to 73.17% of lessons delivered between Studies 2 and 3. [→ Tricia A. Zucker 2021 (2)](#tricia-a-zucker-2021-2)
+`q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Zucker 2021](#zucker-2021)
+`q2 i?` Across the three Developing Talkers studies, total adherence improved to near 90% but dosage declined from 96.78% to 73.17% of lessons delivered between Studies 2 and 3. [→ Zucker 2021 (2)](#zucker-2021-2)
 
 ## Evidence
 
-### Tricia A. Zucker 2021
+### Zucker 2021
 
-Tricia A. Zucker, Erin Jacbos & Snyder & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288
 
 `q2 · i?` · `qualitative · r?`
 
@@ -50,9 +51,9 @@ Narrative synthesis of prior fidelity studies reported in this article's literat
 
 > "In early childhood settings, Piasta et al. (2015) examined teacher FOI of a pre- kindergarten (pre-k) language and literacy curriculum and found substantial variability in adherence to components of each lesson, averaging 76–82% adherence."
 
-### Tricia A. Zucker 2021 (2)
+### Zucker 2021 (2)
 
-Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288
 
 `q2 · i?` · `qualitative · r2`
 

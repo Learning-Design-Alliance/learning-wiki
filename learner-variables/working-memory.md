@@ -172,7 +172,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Game-based digital interventions significantly improve visuospatial short-term memory in children and adolescents with ADHD](../claims/game-based-interventions-improve-visuospatial-short-term-memory-adhd.md) [+M] — instruction changes it
 - [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](../claims/working-memory-training-transfers-untrained-tasks.md) [+M] — instruction changes it
 - [Practice format effects depend on working memory: conceptual practice favors very low working memory students while fluency practice favors students with more adequate working memory](../claims/practice-format-working-memory-moderator.md) [~W] — an instructional effect differs with it
-- [The 5P model produced significantly better working memory accuracy than the 5E model, the largest effect in the study](../claims/5p-model-improves-working-memory-accuracy.md) [+M] — instruction changes it
+- [The 5P model produced significantly better working memory accuracy than the 5E model, with a large model-by-time interaction](../claims/5p-model-improves-working-memory-accuracy.md) [+M] — instruction changes it
 - [The 5P model produced significantly faster working memory reaction times than the 5E model](../claims/5p-model-improves-working-memory-reaction-time.md) [+M] — instruction changes it
 
 ## The evidence by question

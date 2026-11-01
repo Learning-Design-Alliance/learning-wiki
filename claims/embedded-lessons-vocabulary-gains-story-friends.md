@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
-  - id: howard-goldstein-2016
+  - id: goldstein-et-al-2016
     resource: "https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    title: "Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    author: Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer
+    title: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
+    author: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T."
     q: 3
     i: "?"
     kind: causal
@@ -24,21 +25,21 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Controlling for pretest CELF-P and unit pretest scores, the main effect of group on vocabulary learning was large and statistically significant (Cohen's f2 = .70). [→ Howard Goldstein 2016](#howard-goldstein-2016)
-`q3 i?` Experimental-group learning exceeded comparison-group learning at every unit, from 7.2 times greater at the first unit to 1.9 times greater at the last. [→ Howard Goldstein 2016](#howard-goldstein-2016)
+`q3 i?` Controlling for pretest CELF-P and unit pretest scores, the main effect of group on vocabulary learning was large and statistically significant (Cohen's f2 = .70). [→ Goldstein et al. 2016](#goldstein-et-al-2016)
+`q3 i?` Experimental-group learning exceeded comparison-group learning at every unit, from 7.2 times greater at the first unit to 1.9 times greater at the last. [→ Goldstein et al. 2016](#goldstein-et-al-2016)
 
 ## Evidence
 
-### Howard Goldstein 2016
+### Goldstein et al. 2016
 
-Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227
+Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227
 
 `q3 · i?` · `causal · r2`
 
-Cluster randomized trial of 32 classrooms (195 children with low vocabulary) using mixed Poisson regression; the group main effect was significant (group β = 1.58, p < .001, Cohen's f2 = .70), with "a mean gain of 3.40 word points per unit" versus 0.32 in the comparison group.
+Cluster randomized trial of 32 preschool classrooms in Ohio and Kansas; the Participants section and Table 1 report 163 children with low vocabulary enrolled (85 experimental, 78 comparison), although the abstract gives 195. Analysed using mixed Poisson regression; the group main effect was significant (group β = 1.58, p < .001, Cohen's f2 = .70), with "a mean gain of 3.40 word points per unit" versus 0.32 in the comparison group.
 
 > "The experimental group grew from a pretest mean of 0.60 word point ( SD = 0.25) to a posttest mean of 4.00 ( SD = 1.45), a mean gain of 3.40 word points per unit."
 

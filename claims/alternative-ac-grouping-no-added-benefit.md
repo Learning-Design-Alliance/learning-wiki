@@ -10,18 +10,18 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2016
 sources:
-  - id: ioannis-agaliotis-afroditi-teli-2016
+  - id: agaliotis-and-teli-2016
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: 0
     kind: causal
     rigour: 1
-  - id: ioannis-agaliotis-afroditi-teli-2016-2
+  - id: agaliotis-and-teli-2016-2
     resource: "https://doi.org/10.5539/jel.v5n4p90"
-    title: "Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
-    author: "Ioannis Agaliotis & Afroditi Teli"
+    title: "Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90"
+    author: "Agaliotis, I., & Teli, A."
     q: 2
     i: 0
     kind: causal
@@ -35,14 +35,14 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i0` Post-intervention fluency and generalization of multiplication ACs did not differ significantly between the experimental and control groups, with a negligible effect of alternative grouping (r = .05). [→ Ioannis Agaliotis & Afroditi Teli 2016](#ioannis-agaliotis-afroditi-teli-2016)
-`q2 i0` For division ACs, post-intervention differences between groups were not significant; the effect of alternative grouping was negligible for fluency (r = .08) and small for generalization (r = .19). [→ Ioannis Agaliotis & Afroditi Teli 2016 (2)](#ioannis-agaliotis-afroditi-teli-2016-2)
+`q2 i0` Post-intervention fluency and generalization of multiplication ACs did not differ significantly between the experimental and control groups, with a negligible effect of alternative grouping (r = .05). [→ Agaliotis and Teli 2016](#agaliotis-and-teli-2016)
+`q2 i0` For division ACs, post-intervention differences between groups were not significant; the effect of alternative grouping was negligible for fluency (r = .08) and small for generalization (r = .19). [→ Agaliotis and Teli 2016 (2)](#agaliotis-and-teli-2016-2)
 
 ## Evidence
 
-### Ioannis Agaliotis & Afroditi Teli 2016
+### Agaliotis and Teli 2016
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i0` · `causal · r1`
 
@@ -50,9 +50,9 @@ Mann-Whitney inter-group comparison after the interventions, with alternative gr
 
 > "there was no statistically significant differences between the two categories regarding the post-intervention fluency (U = 319.5, z = -.460, p = .645) and generalization (U = 339,00, z = -.110, p = .913) of multiplication ACs. Moreover, the effect of alternative grouping was negligible (r = .05)."
 
-### Ioannis Agaliotis & Afroditi Teli 2016 (2)
+### Agaliotis and Teli 2016 (2)
 
-Ioannis Agaliotis & Afroditi Teli. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
+Agaliotis, I., & Teli, A. (2016). Teaching Arithmetic Combinations of Multiplication and Division to Students with Learning Disabilities or Mild Intellectual Disability: The Impact of Alternative Fact Grouping and the Role of Cognitive and Learning Factors. Journal of Education and Learning, 5(4). https://doi.org/10.5539/jel.v5n4p90
 
 `q2 · i0` · `causal · r2`
 

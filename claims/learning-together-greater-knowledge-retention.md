@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
-  - id: van-dat-tran-2014
+  - id: tran-2014
     resource: "https://doi.org/10.5430/ijhe.v3n2p131"
-    title: "Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
-    author: Van Dat Tran
+    title: "Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
+    author: Tran, V. D.
     q: 3
     i: 2
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` On the retention test in the fourteenth week, the experimental group (M = 76.31, SD = 4.40) significantly outscored the control group (M = 65.87, SD = 5.73), with a printed ES of 0.51. [→ Van Dat Tran 2014](#van-dat-tran-2014)
+`q3 i2` On the retention test in the fourteenth week, the experimental group (M = 76.31, SD = 4.40) significantly outscored the control group (M = 65.87, SD = 5.73), with a printed ES of 0.51. [→ Tran 2014](#tran-2014)
 
 ## Evidence
 
-### Van Dat Tran 2014
+### Tran 2014
 
-Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131
+Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131
 
 `q3 · i2` · `causal · r1`
 
-Delayed retention test administered in the fourteenth week, four weeks after the eight-week treatment ended, to the same two intact classes. The t-test showed "a significant difference (t (108) = 10.71, p = .000)" with a printed mean difference of 10.44 and ES = 0.51.
+Delayed retention test administered in the fourteenth week to the same two intact classes; instruction lasted eight weeks and the posttest was given in the tenth week. The t-test showed "a significant difference (t (108) = 10.71, p = .000)" with a printed mean difference of 10.44 and ES = 0.51.
 
 > "Results of the t-test analysis on the psychology delay test scores showed a significant difference (t (108) = 10.71, p = .000) between the experimental group (M = 76.31, SD = 4.40) and the control group (M = 65.87, SD = 5.73)"
 

@@ -11,10 +11,10 @@ evidence_strength: moderate
 newest_evidence: 2021
 recheck_by: 2024
 sources:
-  - id: tricia-a-zucker-2021
+  - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
-    title: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288"
-    author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
+    title: "Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288"
+    author: "Zucker, T. A., Jacbos, E., & Cabell, S. Q."
     q: 2
     i: "?"
     kind: qualitative
@@ -28,13 +28,13 @@ sources:
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
-`q2 i?` The Knowledge domain was coded 43 times and identified as a barrier by 53.13% of coaches, spanning responsive conversation-partner knowledge and procedural knowledge of materials. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
+`q2 i?` The Knowledge domain was coded 43 times and identified as a barrier by 53.13% of coaches, spanning responsive conversation-partner knowledge and procedural knowledge of materials. [→ Zucker 2021](#zucker-2021)
 
 ## Evidence
 
-### Tricia A. Zucker 2021
+### Zucker 2021
 
-Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
+Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288
 
 `q2 · i?` · `qualitative · r2`
 

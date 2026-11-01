@@ -29,4 +29,4 @@ Story Friends is an automated Tier 2 preschool supplemental curriculum developed
 -
 
 ## Key Sources
-- Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227
+- Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227

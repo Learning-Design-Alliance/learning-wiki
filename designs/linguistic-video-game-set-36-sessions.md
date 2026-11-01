@@ -39,7 +39,7 @@ The intervention consisted of commercial games arranged into a 36-session sequen
 ### Claims
 
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
-- [Video educational games containing English language concepts produced significantly better English recalling ability than games without English concepts and no games, after controlling for pretest scores](../claims/linguistic-video-games-improve-english-recalling.md) [+W]
+- [English recall posttest scores differed significantly across three groups (video games with English language concepts, games without them, and no games) after controlling for pretest scores; the English-concept games group scored highest, but no pairwise comparisons were reported](../claims/linguistic-video-games-improve-english-recalling.md) [+W]
 
 ## Related Designs
 

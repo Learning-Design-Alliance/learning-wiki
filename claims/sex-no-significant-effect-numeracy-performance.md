@@ -10,10 +10,10 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2019
 sources:
-  - id: taiwo-oladunni-gbenga-akanmu-philip-olu-jegede-2019
+  - id: gbenga-akanmu-jegede-2019
     resource: "https://doi.org/10.5430/wje.v9n1p221"
-    title: "Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221"
-    author: "Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede"
+    title: "Gbenga-Akanmu, T. O., & Jegede, P. O. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221"
+    author: "Gbenga-Akanmu, T. O., & Jegede, P. O."
     q: 2
     i: "?"
     kind: causal
@@ -27,13 +27,13 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Sex showed no significant influence on pupils' numeracy performance (F = 0.14; p>0.05); no effect size was printed. [→ Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede 2019](#taiwo-oladunni-gbenga-akanmu-philip-olu-jegede-2019)
+`q2 i?` Sex showed no significant influence on pupils' numeracy performance (F = 0.14; p>0.05); no effect size was printed. [→ Gbenga-Akanmu & Jegede 2019](#gbenga-akanmu-jegede-2019)
 
 ## Evidence
 
-### Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede 2019
+### Gbenga-Akanmu & Jegede 2019
 
-Taiwo Oladunni Gbenga-Akanmu & Philip Olu Jegede. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221
+Gbenga-Akanmu, T. O., & Jegede, P. O. (2019). Influence of Meta-cognitive Training and Cognitive Styles on Numeracy Achievement of Nigerian Pupils’ in Computer-mediated Classrooms. World Journal of Education, 9(1). https://doi.org/10.5430/wje.v9n1p221
 
 `q2 · i?` · `causal · r1`
 
@@ -50,5 +50,5 @@ ANCOVA (Table 2) of the quasi-experiment with sex and pre-test score as covariat
 
 ## Related Claims
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](metacognitive-training-significant-numeracy-effect.md) — related
-- [Sex has no moderating effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms](sex-no-moderating-effect-numeracy-retention.md) — related
+- [Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)](sex-no-moderating-effect-numeracy-retention.md) — related
 - [Sex differences in mathematics vary by content domain, with male advantages for geometry (d = 0.218), broad mathematics (d = 0.145), computation (d = 0.089), and national tests (d = 0.068), but near-zero differences for advanced mathematics and basic numeracy](content-domain-moderation-sex-differences-mathematics.md) — related

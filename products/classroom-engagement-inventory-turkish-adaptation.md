@@ -23,7 +23,7 @@ A 23-item Likert self-report assessment of cognitive, affective, behavioural, an
 - **Classroom Engagement Inventory (Turkish adaptation, 23 items, five sub-factors)**: The study's outcome instrument is the "Classroom Engagement Inventory" developed by Wang, Bergin and Bergin (2014) and adapted to Turkish by Sever (2014). After adaptation it retained 23 Likert-type items (20 positive, 3 negative) scored on a 5-point scale from "always" to "never", covering five sub-factors: "Cognitive Engagement", "Affective Engagement", "Behavioural Engagement -Compliance", "Behavioral Engagement - Effortful Classroom Participation", and "Disengagement". Recalculated reliability was Cronbach alpha = .93, and confirmatory factor analysis was rerun because the scale was originally developed for high school students but applied to secondary school students (RMSEA=0.056; AGFI=0.955; RMR=0.066; GFI=0.951). (Ayçiçek et al. (2018))
 
 ### Claims
-- [Within the flipped-classroom experimental group, post-test engagement scores were significantly higher than pre-test scores on all five sub-dimensions](../claims/experimental-group-prepost-engagement-gain.md) [+M]
+- [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](../claims/experimental-group-prepost-engagement-gain.md) [+M]
 
 ## Related Products and Programmes
 -

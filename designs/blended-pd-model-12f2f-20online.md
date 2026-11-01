@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-01
 sources:
-  - id: arwa-ahmed-abdo-qasem-2016
-    resource: "https://doi.org/10.1016/j.sbspro.2013.09.248"
-    title: "Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248"
-    author: Arwa Ahmed Abdo Qasem, Gandla Viswanathappa
+  - id: qasem-viswanathappa-2016
+    resource: "https://doi.org/10.30935/cedtech/6176"
+    title: "Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176"
+    author: "Qasem, A. A. A., & Viswanathappa, G."
 ---
 
 # Blended learning professional development model for teacher ICT training (12 face-to-face + 20 online sessions)
@@ -48,4 +48,4 @@ A flexible blended learning model in which an online platform delivers most of t
 -
 
 ## Key Sources
-- Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248
+- Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176

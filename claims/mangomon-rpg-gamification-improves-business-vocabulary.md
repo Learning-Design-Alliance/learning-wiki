@@ -61,4 +61,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).](domain-interest-large-increase-short-course.md) — related
 - [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related
 - [Students mastered significantly more game words each successive week of the four-week intervention](mastered-game-words-increase-weekly.md) — related
-- [Fourth-grade... sixth-grade students who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, while the external control group did not](videogame-classroom-vocabulary-gains-puerto-rico.md) — related
+- [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](videogame-classroom-vocabulary-gains-puerto-rico.md) — related

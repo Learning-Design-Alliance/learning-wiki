@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: roschelle-2018
     resource: "https://digitalpromise.dspacedirect.org/items/7a123d3c-22ec-46db-b7cf-709c3aa65583"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental-plus-pilot sample matched the Texas school population well (β = 0.91), and post-stratification adjusted the average treatment effect only slightly upward. [→ Roschelle 2018](#roschelle-2018)

@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: howard-goldstein-2016
+  - id: goldstein-et-al-2016
     resource: "https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    title: "Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    author: Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer
+    title: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
+    author: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T."
 ---
 
 # Use an exposure-only storybook comparison to isolate the active ingredient of embedded instruction
@@ -51,4 +51,4 @@ The article argues that when testing embedded lessons, a comparison group hearin
 -
 
 ## Key Sources
-- Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227
+- Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227

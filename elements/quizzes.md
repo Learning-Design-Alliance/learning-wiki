@@ -62,7 +62,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](../claims/incorrect-submissions-differ-across-quartiles.md) [~W]
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](../claims/aqg-little-progress-difficulty-feedback-verbalisation.md) [~W]
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](../claims/vr-short-testing-quizzes-lower-temporal-demands.md) [~W]
-- [Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Kahoot game-show-style online quizzing application"; tests this page's relationship.
+- [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Kahoot game-show-style online quizzing application"; tests this page's relationship.
 
 ## The evidence by question
 

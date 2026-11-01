@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-01
 sources:
-  - id: sanit-srikoon-2017
+  - id: srikoon-et-al-2017
     resource: "https://mjli.uum.edu.my"
-    title: "Sanit Srikoon, Tassanee Bunterm, Teerachai Nethanomsak & Tang Keow Ngang. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my"
-    author: "Sanit Srikoon, Tassanee Bunterm, Teerachai Nethanomsak & Tang Keow Ngang"
+    title: "Srikoon, S., Bunterm, T., Nethanomsak, T., & Ngang, T. K. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my"
+    author: "Srikoon, S., Bunterm, T., Nethanomsak, T., & Ngang, T. K."
 ---
 
 # Neurocognitive-based instructional model (5P): five phases integrating educational neuroscience with research-based learning
@@ -51,4 +51,4 @@ The 5P model is an innovative instructional model integrating research-based lea
 -
 
 ## Key Sources
-- Sanit Srikoon, Tassanee Bunterm, Teerachai Nethanomsak & Tang Keow Ngang. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my
+- Srikoon, S., Bunterm, T., Nethanomsak, T., & Ngang, T. K. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my

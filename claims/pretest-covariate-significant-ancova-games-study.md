@@ -48,7 +48,7 @@ Secondary analysis within the same ANCOVA of the three groups (n = 90 as printed
 - [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Video educational games containing English language concepts produced significantly better English recalling ability than games without English concepts and no games, after controlling for pretest scores](linguistic-video-games-improve-english-recalling.md) — related
+- [English recall posttest scores differed significantly across three groups (video games with English language concepts, games without them, and no games) after controlling for pretest scores; the English-concept games group scored highest, but no pairwise comparisons were reported](linguistic-video-games-improve-english-recalling.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](pretest-covariate-nonsignificant-fathom-ancova.md) — reports the opposite
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related

@@ -10,10 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2014
 sources:
-  - id: van-dat-tran-2014
+  - id: tran-2014
     resource: "https://doi.org/10.5430/ijhe.v3n2p131"
-    title: "Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
-    author: Van Dat Tran
+    title: "Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
+    author: Tran, V. D.
     q: 2
     i: "?"
     kind: causal
@@ -27,13 +27,13 @@ sources:
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A review of 14 high-quality Asian-context studies cited by the article found 7 with significantly higher achievement in treatment groups, 4 in which control groups outperformed treatment groups, and 3 with no significant differences. [→ Van Dat Tran 2014](#van-dat-tran-2014)
+`q2 i?` A review of 14 high-quality Asian-context studies cited by the article found 7 with significantly higher achievement in treatment groups, 4 in which control groups outperformed treatment groups, and 3 with no significant differences. [→ Tran 2014](#tran-2014)
 
 ## Evidence
 
-### Van Dat Tran 2014
+### Tran 2014
 
-Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131
+Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131
 
 `q2 · i?` · `causal · r2`
 

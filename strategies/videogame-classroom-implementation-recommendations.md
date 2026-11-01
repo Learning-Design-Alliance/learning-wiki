@@ -17,7 +17,7 @@ sources:
 # Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's teacher, director, and authors converge on recommendations for implementing videogames in classrooms: teacher training in videogames for learning, better integration with the curriculum matching game content with lesson plans, longer intervention duration than the four weeks used, and administrative roles providing access to resources and liaison with the Puerto Rico Department of Education. The authors "suggest alternating game time and game periods, as well as evaluating available educational games looking for compatibility with the Puerto Rico Department of Education curriculum."
@@ -44,7 +44,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 
 - [Students advanced significantly in game levels each successive week of the intervention](../claims/advanced-game-levels-increase-weekly.md) [+W]
 - [Students mastered significantly more game words each successive week of the four-week intervention](../claims/mastered-game-words-increase-weekly.md) [+W]
-- [Fourth-grade... sixth-grade students who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, while the external control group did not](../claims/videogame-classroom-vocabulary-gains-puerto-rico.md) [+W]
+- [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](../claims/videogame-classroom-vocabulary-gains-puerto-rico.md) [~W]
 - [Qualitative findings showed increased student motivation toward English class and learning vocabulary through videogames](../claims/videogame-motivation-qualitative-increase.md) [+W]
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](../claims/videogame-peer-collaboration-attention.md) [+W]
 

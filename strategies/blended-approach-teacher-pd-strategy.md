@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: arwa-ahmed-abdo-qasem-2016
-    resource: "https://doi.org/10.1016/j.sbspro.2013.09.248"
-    title: "Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248"
-    author: Arwa Ahmed Abdo Qasem, Gandla Viswanathappa
+  - id: qasem-viswanathappa-2016
+    resource: "https://doi.org/10.30935/cedtech/6176"
+    title: "Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176"
+    author: "Qasem, A. A. A., & Viswanathappa, G."
 ---
 
 # Use blended learning approaches for teachers' professional development in ICT integration
@@ -56,4 +56,4 @@ The article recommends adopting a blended approach to professional development t
 -
 
 ## Key Sources
-- Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248
+- Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176

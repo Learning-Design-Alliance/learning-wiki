@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: van-dat-tran-2014
+  - id: tran-2014
     resource: "https://doi.org/10.5430/ijhe.v3n2p131"
-    title: "Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
-    author: Van Dat Tran
+    title: "Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131"
+    author: "Tran, V. D."
 ---
 
 # Nine-step Learning Together implementation procedure for a course unit
@@ -55,4 +55,4 @@ The article describes a concrete implementation recipe used in the treatment gro
 -
 
 ## Key Sources
-- Van Dat Tran. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131
+- Tran, V. D. (2014). The Effects of Cooperative Learning on the Academic Achievement and Knowledge Retention. International Journal of Higher Education, 3(2). https://doi.org/10.5430/ijhe.v3n2p131

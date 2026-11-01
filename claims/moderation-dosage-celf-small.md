@@ -10,10 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2016
 sources:
-  - id: howard-goldstein-2016
+  - id: goldstein-et-al-2016
     resource: "https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    title: "Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
-    author: Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer
+    title: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227"
+    author: "Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T."
     q: 3
     i: 0
     kind: causal
@@ -27,14 +27,14 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i0` Instructional book listens were not significant as a main effect; the Listens × Unit × CELF-P interaction was significant but very small (f2 = .003). [→ Howard Goldstein 2016](#howard-goldstein-2016)
-`q3 i?` Children with higher CELF-P scores benefited most from additional book listens, but only in early units, dropping after unit 2. [→ Howard Goldstein 2016](#howard-goldstein-2016)
+`q3 i0` Instructional book listens were not significant as a main effect; the Listens × Unit × CELF-P interaction was significant but very small (f2 = .003). [→ Goldstein et al. 2016](#goldstein-et-al-2016)
+`q3 i?` Children with higher CELF-P scores benefited most from additional book listens, but only in early units, dropping after unit 2. [→ Goldstein et al. 2016](#goldstein-et-al-2016)
 
 ## Evidence
 
-### Howard Goldstein 2016
+### Goldstein et al. 2016
 
-Howard Goldstein, Elizabeth Kelley, Charles Greenwood, Luke McCune, Judith Carta, Jane Atwater, Gabriela Guerrero, Tanya McCarthy, Naomi Schneider, and Trina Spencer. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2015_JSLHR-L-15-0227
+Goldstein, H., Kelley, E., Greenwood, C., McCune, L., Carta, J., Atwater, J., Guerrero, G., McCarthy, T., Schneider, N., & Spencer, T. (2016). Embedded Instruction Improves Vocabulary Learning During Automated Storybook Reading Among High-Risk Preschoolers. Journal of Speech, Language, and Hearing Research, 59(3), 484-500. https://doi.org/10.1044/2015_JSLHR-L-15-0227
 
 `q3 · i0` · `causal · r3`
 

@@ -2972,13 +2972,14 @@
 "type":"claim"
 },
 {
-"description":"The 5P model produced significantly better working memory accuracy than the 5E model, the largest effect in the study",
+"description":"The 5P model produced significantly better working memory accuracy than the 5E model, with a large model-by-time interaction",
 "evidence_strength":"moderate",
 "id":"5p-model-improves-working-memory-accuracy",
 "newest_evidence":"2017",
 "path":"claims/5p-model-improves-working-memory-accuracy.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"The 5P model produced significantly better working memory accuracy than the 5E model, the largest effect in the study",
+"title":"The 5P model produced significantly better working memory accuracy than the 5E model, with a large model-by-time interaction",
 "type":"claim"
 },
 {
@@ -40517,6 +40518,7 @@
 "id":"blended-pd-higher-tpack-gains-than-traditional",
 "newest_evidence":"2016",
 "path":"claims/blended-pd-higher-tpack-gains-than-traditional.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Blended learning professional development produces significantly higher gain means in ICT knowledge (TK, TPK, TCK, TPACK) than traditional training for in-service science teachers",
 "type":"claim"
@@ -62063,6 +62065,7 @@
 "id":"cognitive-factors-correlate-ac-fluency",
 "newest_evidence":"2016",
 "path":"claims/cognitive-factors-correlate-ac-fluency.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Processing speed, counting skills and knowledge of properties of operations correlate with arithmetic-combination fluency for both LD and MID students, while phonological short-term memory correlates with division fluency only for LD students",
 "type":"claim"
@@ -62859,13 +62862,14 @@
 "type":"claim"
 },
 {
-"description":"Cognitive style (field dependence/independence) significantly affects pupils' numeracy performance, accounting for 12% of variation",
+"description":"Field-dependent and field-independent pupils differed significantly in numeracy performance, with cognitive style accounting for 12% of variation",
 "evidence_strength":"moderate",
 "id":"cognitive-style-field-dependence-numeracy-variation",
 "newest_evidence":"2019",
 "path":"claims/cognitive-style-field-dependence-numeracy-variation.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Cognitive style (field dependence/independence) significantly affects pupils' numeracy performance, accounting for 12% of variation",
+"title":"Field-dependent and field-independent pupils differed significantly in numeracy performance, with cognitive style accounting for 12% of variation",
 "type":"claim"
 },
 {
@@ -112070,6 +112074,7 @@
 "id":"embedded-lessons-vocabulary-gains-story-friends",
 "newest_evidence":"2016",
 "path":"claims/embedded-lessons-vocabulary-gains-story-friends.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons",
 "type":"claim"
@@ -122262,13 +122267,14 @@
 "type":"claim"
 },
 {
-"description":"Within the flipped-classroom experimental group, post-test engagement scores were significantly higher than pre-test scores on all five sub-dimensions",
+"description":"Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly",
 "evidence_strength":"moderate",
 "id":"experimental-group-prepost-engagement-gain",
 "newest_evidence":"2018",
 "path":"claims/experimental-group-prepost-engagement-gain.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Within the flipped-classroom experimental group, post-test engagement scores were significantly higher than pre-test scores on all five sub-dimensions",
+"title":"Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly",
 "type":"claim"
 },
 {
@@ -135291,6 +135297,7 @@
 "id":"flipped-classroom-higher-achievement-preservice-math",
 "newest_evidence":"2016",
 "path":"claims/flipped-classroom-higher-achievement-preservice-math.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers",
 "type":"claim"
@@ -135323,6 +135330,7 @@
 "id":"flipped-classroom-higher-motivation-imms",
 "newest_evidence":"2016",
 "path":"claims/flipped-classroom-higher-motivation-imms.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction",
 "type":"claim"
@@ -183934,13 +183942,14 @@
 "type":"claim"
 },
 {
-"description":"The intervention group explained 15% of the variation in pupils' numeracy performance after controlling for sex and pre-test",
+"description":"The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row",
 "evidence_strength":"moderate",
 "id":"intervention-group-15-percent-performance-variation",
 "newest_evidence":"2019",
 "path":"claims/intervention-group-15-percent-performance-variation.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"The intervention group explained 15% of the variation in pupils' numeracy performance after controlling for sex and pre-test",
+"title":"The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row",
 "type":"claim"
 },
 {
@@ -190236,6 +190245,7 @@
 "id":"kahoot-engagement-peer-study-groups-observed",
 "newest_evidence":"2017",
 "path":"claims/kahoot-engagement-peer-study-groups-observed.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group",
 "type":"claim"
@@ -190303,13 +190313,14 @@
 "type":"claim"
 },
 {
-"description":"Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only",
+"description":"A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means",
 "evidence_strength":"moderate",
 "id":"kahoot-testing-effect-higher-exam-scores",
 "newest_evidence":"2017",
 "path":"claims/kahoot-testing-effect-higher-exam-scores.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only",
+"title":"A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means",
 "type":"claim"
 },
 {
@@ -199865,6 +199876,7 @@
 "id":"learning-together-greater-knowledge-retention",
 "newest_evidence":"2014",
 "path":"claims/learning-together-greater-knowledge-retention.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students taught with the Learning Together technique retained significantly more psychology knowledge on a delayed test than lecture-taught students",
 "type":"claim"
@@ -199875,7 +199887,6 @@
 "id":"learning-together-higher-achievement-posttest",
 "newest_evidence":"2014",
 "path":"claims/learning-together-higher-achievement-posttest.md",
-"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students taught with the Learning Together technique achieved significantly higher psychology posttest scores than students taught by lecture-based teaching",
 "type":"claim"
@@ -202487,13 +202498,14 @@
 "type":"claim"
 },
 {
-"description":"Video educational games containing English language concepts produced significantly better English recalling ability than games without English concepts and no games, after controlling for pretest scores",
+"description":"In a quasi-experiment with 90 male 2nd-grade high school students, an ANCOVA found a significant omnibus difference among the three groups in English recall posttest scores after controlling for pretest; the English-concept games group had the highest raw posttest mean, but no pairwise tests or adjusted means were reported.",
 "evidence_strength":"moderate",
 "id":"linguistic-video-games-improve-english-recalling",
 "newest_evidence":"2018",
 "path":"claims/linguistic-video-games-improve-english-recalling.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Video educational games containing English language concepts produced significantly better English recalling ability than games without English concepts and no games, after controlling for pretest scores",
+"title":"English recall posttest scores differed significantly across three groups (video games with English language concepts, games without them, and no games) after controlling for pretest scores; the English-concept games group scored highest, but no pairwise comparisons were reported",
 "type":"claim"
 },
 {
@@ -222451,6 +222463,7 @@
 "id":"metacognitive-training-significant-numeracy-effect",
 "newest_evidence":"2019",
 "path":"claims/metacognitive-training-significant-numeracy-effect.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms",
 "type":"claim"
@@ -293231,6 +293244,7 @@
 "id":"propensity-score-population-treatment-effect",
 "newest_evidence":"2018",
 "path":"claims/propensity-score-population-treatment-effect.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44",
 "type":"claim"
@@ -330858,13 +330872,14 @@
 "type":"claim"
 },
 {
-"description":"Sex has no moderating effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms",
+"description":"Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)",
 "evidence_strength":"moderate",
 "id":"sex-no-moderating-effect-numeracy-retention",
 "newest_evidence":"2019",
 "path":"claims/sex-no-moderating-effect-numeracy-retention.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Sex has no moderating effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms",
+"title":"Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)",
 "type":"claim"
 },
 {
@@ -396136,13 +396151,14 @@
 "type":"claim"
 },
 {
-"description":"Fourth-grade...",
+"description":"In one small purposive-sample study, sixth graders who played My English Coach and a same-school control class without the game both gained significantly in receptive vocabulary from pre- to post-test (the authors suggest a Hawthorne effect); an external control group did not.",
 "evidence_strength":"weak",
 "id":"videogame-classroom-vocabulary-gains-puerto-rico",
 "newest_evidence":"2018",
 "path":"claims/videogame-classroom-vocabulary-gains-puerto-rico.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Fourth-grade... sixth-grade students who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, while the external control group did not",
+"title":"Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not",
 "type":"claim"
 },
 {
@@ -403849,6 +403865,7 @@
 "id":"wide-variability-foi-early-language-curricula",
 "newest_evidence":"2021",
 "path":"claims/wide-variability-foi-early-language-curricula.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Fidelity of implementation of early language curricula varies widely across teachers and studies",
 "type":"claim"

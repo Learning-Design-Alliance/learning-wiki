@@ -38,7 +38,7 @@ The article presents the flipped classroom model as "a new pedagogical approach 
 
 ### Claims
 - Flipped Classroom Higher Posttest Engagement Than Control [+M]
-- [Experimental Group Prepost Engagement Gain](../claims/experimental-group-prepost-engagement-gain.md) [+M]
+- [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](../claims/experimental-group-prepost-engagement-gain.md) [+M]
 
 ## Related Designs
 - 

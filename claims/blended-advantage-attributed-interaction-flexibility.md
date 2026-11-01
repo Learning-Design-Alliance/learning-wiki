@@ -10,10 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2016
 sources:
-  - id: arwa-ahmed-abdo-qasem-2016
-    resource: "https://doi.org/10.1016/j.sbspro.2013.09.248"
-    title: "Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248"
-    author: Arwa Ahmed Abdo Qasem, Gandla Viswanathappa
+  - id: qasem-viswanathappa-2016
+    resource: "https://doi.org/10.30935/cedtech/6176"
+    title: "Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176"
+    author: "Qasem, A. A. A., & Viswanathappa, G."
     q: 1
     i: "?"
     kind: causal
@@ -27,13 +27,13 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Teachers trained through blended learning expressed satisfaction with the interaction and flexibility the environment affords, which the authors offer as an explanation for their higher gains. [→ Arwa Ahmed Abdo Qasem 2016](#arwa-ahmed-abdo-qasem-2016)
+`q1 i?` Teachers trained through blended learning expressed satisfaction with the interaction and flexibility the environment affords, which the authors offer as an explanation for their higher gains. [→ Qasem & Viswanathappa 2016](#qasem-viswanathappa-2016)
 
 ## Evidence
 
-### Arwa Ahmed Abdo Qasem 2016
+### Qasem & Viswanathappa 2016
 
-Arwa Ahmed Abdo Qasem, Gandla Viswanathappa. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.1016/j.sbspro.2013.09.248
+Qasem, A. A. A., & Viswanathappa, G. (2016). Blended Learning Approach to Develop the Teachers' TPACK. Contemporary Educational Technology, 7(3), 264-276. https://doi.org/10.30935/cedtech/6176
 
 `q1 · i?` · `causal · r2`
 

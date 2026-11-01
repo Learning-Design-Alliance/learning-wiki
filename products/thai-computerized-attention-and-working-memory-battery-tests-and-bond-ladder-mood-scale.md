@@ -32,4 +32,4 @@ A Thai-language computerized battery of attention and working-memory tasks, pair
 - [Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks](gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md)
 
 ## Key Sources
-- Sanit Srikoon, Tassanee Bunterm, Teerachai Nethanomsak & Tang Keow Ngang. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my
+- Srikoon, S., Bunterm, T., Nethanomsak, T., & Ngang, T. K. (2017). A comparative study of the effects of the neurocognitive-based model and the conventional model on learner attention, working memory and mood. Malaysian Journal of Learning and Instruction, 14(1), 83-110. https://mjli.uum.edu.my
