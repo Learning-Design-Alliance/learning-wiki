@@ -30,4 +30,4 @@ A researcher-developed 25-item multiple-choice assessment of junior-secondary st
 - [Electrical Installation Achievement Test (EIAT)](electrical-installation-achievement-test-eiat.md)
 
 ## Key Sources
-- Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. http://www.mojet.net
+- Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). http://www.mojet.net

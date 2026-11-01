@@ -8,20 +8,21 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: mixed
-newest_evidence: 2014
+newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
-  - id: amosa-isiaka-gambari-2014
+  - id: gambari-2015
     resource: "https://eric.ed.gov/?id=EJ1085923"
-    title: "Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923"
-    author: Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun
+    title: "Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923"
+    author: "Gambari, A. I., Yusuf, H. T., & Balogun, S. A."
     q: 2
     i: "?"
     kind: causal
     rigour: 2
-  - id: amosa-isiaka-gambari-2014-2
+  - id: gambari-2015-2
     resource: "https://eric.ed.gov/?id=EJ1085923"
-    title: "Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923"
-    author: Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun
+    title: "Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923"
+    author: "Gambari, A. I., Yusuf, H. T., & Balogun, S. A."
     q: 2
     i: "?"
     kind: causal
@@ -32,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After controlling for pretest scores, the method of instruction produced a significant effect on achievement, with the PPT group outperforming the chalkboard group. [→ Amosa Isiaka Gambari 2014](#amosa-isiaka-gambari-2014)
-`q2 i?` Despite higher posttest means for PPT, the chalkboard group had a higher mean gain score (53.60) than the PPT group (50.22). [→ Amosa Isiaka Gambari 2014 (2)](#amosa-isiaka-gambari-2014-2)
+`q2 i?` After controlling for pretest scores, the method of instruction produced a significant effect on achievement, with the PPT group outperforming the chalkboard group. [→ Gambari 2015](#gambari-2015)
+`q2 i?` Despite higher posttest means for PPT, the chalkboard group had a higher mean gain score (53.60) than the PPT group (50.22). [→ Gambari 2015 (2)](#gambari-2015-2)
 
 ## Evidence
 
-### Amosa Isiaka Gambari 2014
+### Gambari 2015
 
-Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923
+Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923
 
 `q2 · i?` · `causal · r2`
 
@@ -50,9 +51,9 @@ Quasi-experimental pretest-posttest non-equivalent group study of 100 JSS 1 stud
 
 > "Table 3 shows that F(1, 91) = 11.039, p = 0.001 for the main effect (treatment) was significant, indicating that the method of instruction produced a significant effect on the achievement scores of students when covariate effect (pre -test) was controlled."
 
-### Amosa Isiaka Gambari 2014 (2)
+### Gambari 2015 (2)
 
-Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923
+Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923
 
 `q2 · i?` · `causal · r2`
 

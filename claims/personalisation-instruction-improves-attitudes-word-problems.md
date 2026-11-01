@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: awofala-2014
     resource: "https://eric.ed.gov/?id=EJ1059026"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Post-treatment MANOVA showed a statistically significant difference between personalised and non-personalised groups on the aggregate of seven attitude dimensions, with treatment accounting for 20% of multivariate variance. [→ Awofala 2014](#awofala-2014)

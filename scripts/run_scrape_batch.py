@@ -492,11 +492,6 @@ def run(args) -> None:
                           SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/judge_claim_merges.py", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
-        print(f"\n=== judging new near-duplicate pages ===", flush=True)
-        for kind in okf_lib.CONTENT_FOLDERS:
-            if kind != "claims":
-                _run_chained_step([sys.executable, "-u", "scripts/judge_duplicates.py", "--type", kind, "--apply"],
-                                  SCRAPE_CONSOLE_LOG_PATH)
         print(f"\n=== linking inline author-year citations ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/link_inline_citations.py", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
@@ -523,6 +518,13 @@ def run(args) -> None:
         print(f"\n=== settling principle and pattern candidates ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/settle_candidates.py", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # After settling, which writes the design and product pages a batch adds: run before
+        # it, the pairs those pages form were left for triage (j-screric-1 to -3).
+        print(f"\n=== judging new near-duplicate pages ===", flush=True)
+        for kind in okf_lib.CONTENT_FOLDERS:
+            if kind != "claims":
+                _run_chained_step([sys.executable, "-u", "scripts/judge_duplicates.py", "--type", kind, "--apply"],
+                                  SCRAPE_CONSOLE_LOG_PATH)
         # Evidence kind and rigour for the batch's new entries (evidence-scales.json),
         # judged against the article the entry came from. After verify, like the
         # links: it edits codes lines, which verify_citation_edits.py would refuse.

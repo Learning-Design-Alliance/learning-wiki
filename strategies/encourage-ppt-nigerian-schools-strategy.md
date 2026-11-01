@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: amosa-isiaka-gambari-2014
+  - id: gambari-2015
     resource: "https://eric.ed.gov/?id=EJ1085923"
-    title: "Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923"
-    author: Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun
+    title: "Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923"
+    author: Gambari, A. I., Yusuf, H. T., & Balogun, S. A.
 ---
 
 # Equip Nigerian schools with PowerPoint presentation facilities and train teachers to use them for technology-based subjects
@@ -53,4 +53,4 @@ Based on the finding that students taught with PowerPoint outperformed chalkboar
 -
 
 ## Key Sources
-- Amosa Isiaka Gambari, Hamdalat Taiwo Yusuf, Sherifat Adepeju Balogun. (2014). Effectiveness of Powerpoint Presentation On Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, Volume 3, Issue 4. https://eric.ed.gov/?id=EJ1085923
+- Gambari, A. I., Yusuf, H. T., & Balogun, S. A. (2015). Effectiveness of PowerPoint Presentation on Students' Cognitive Achievement in Technical Drawing. Malaysian Online Journal of Educational Technology, 3(4). https://eric.ed.gov/?id=EJ1085923
