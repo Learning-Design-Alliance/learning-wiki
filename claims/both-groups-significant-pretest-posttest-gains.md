@@ -50,3 +50,6 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](tps-roundtable-cooperative-learning-critical-thinking-gains.md) — reports the opposite
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — related
 - [Experimental-group students received 610 more minutes of English exposure than control-group students through the CLIL applications](clil-extra-610-minutes-exposure.md) — related
+- [Both the SMS and control groups improved significantly from pretest to posttest in the programming course](both-groups-pretest-posttest-gains.md) — a narrower finding that bears on this claim
+- [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](ict-tourism-intragroup-faster-evolution.md) — a narrower finding that bears on this claim
+- [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related

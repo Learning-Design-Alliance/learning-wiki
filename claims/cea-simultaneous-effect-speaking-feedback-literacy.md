@@ -54,3 +54,4 @@ Quasi-experiment with pretest-posttest control group design; 60 first-semester v
 - [Learning method significantly influences conceptual understanding and learning independence simultaneously in physics learning](learning-method-manova-omnibus-effect.md) — related
 - [Group dynamics-oriented instruction significantly improves Iranian EFL learners' speaking ability](gdoi-improves-speaking-ability-iranian-efl.md) — related
 - [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](self-assessment-improves-efl-self-efficacy.md) — related
+- [Self-assessment has a significant simultaneous effect on students' independence and writing competence together](self-assessment-simultaneous-effect-manova.md) — related

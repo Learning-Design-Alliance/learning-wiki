@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (36 show a difference, 15 mixed, 9 no difference) · 49 studies (17 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 49 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (37 show a difference, 15 mixed, 9 no difference) · 50 studies (18 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 50 report an effect size · 58 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -98,6 +98,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](../claims/traditional-method-no-significant-writing-gain.md) [-M] — instruction changes it
 - [IC-JPA instruction did not produce a statistically significant difference in correct academic language usage compared to traditional instruction](../claims/icjpa-no-difference-academic-language-usage.md) [-M] — instruction changes it
 - [The difference between KITS and services-as-usual groups in the percentage of children meeting the PLRS critical literacy score is not statistically significant (61% vs 52%).](../claims/kits-plrs-critical-score-null.md) [-M] — instruction changes it
+- [Standardized Language Arts and Mathematics test scores, not GPA, predicted financial knowledge gains from the camp](../claims/language-arts-scores-predict-financial-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

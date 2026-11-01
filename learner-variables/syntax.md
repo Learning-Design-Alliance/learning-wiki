@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (33 show a difference, 10 mixed, 15 no difference) · 44 studies (18 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 3 of 44 report an effect size · 55 claims rest on one study
+> **Evidence** · 61 claims (35 show a difference, 10 mixed, 16 no difference) · 47 studies (21 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 5 of 47 report an effect size · 58 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -96,6 +96,9 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a sentence-structure post-test](../claims/whatsapp-group-outperformed-control-sentence-structure.md) [+M] — instruction changes it
 - [Feedback delivery method made no statistically significant difference in grammar-and-style error counts measured by the Editor program](../claims/feedback-method-no-difference-editor-errors.md) [-M] — instruction changes it
 - [Revised drafts contained more Editor-identified grammar and style errors than first drafts, despite significant pre-post change](../claims/editor-errors-increased-in-revised-drafts.md) [~M] — instruction changes it
+- [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](../claims/computerized-program-arabic-grammar-achievement-iraq.md) [+M] — instruction changes it
+- [The intervention had no statistically significant effect on spelling and grammar scores](../claims/srsd-no-significant-spelling-grammar-effect.md) [-M] — instruction changes it
+- [The Perry Beeches Coaching Programme had a positive impact on Year 7 pupils' reading, spelling and grammar attainment, equivalent to approximately five additional months' progress](../claims/perry-beeches-coaching-positive-impact-reading-spelling-grammar.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

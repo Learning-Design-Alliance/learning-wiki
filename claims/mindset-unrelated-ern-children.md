@@ -49,3 +49,4 @@ Repeated-measures ANOVA on ERN (0–100 ms post-response) across five midline si
 - [Growth mindset endorsement is associated with larger Pe amplitude (greater attention to errors) in school-aged children](growth-mindset-larger-pe-children.md)
 - [Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect](post-error-slowing-children-no-mindset-effect.md) — related
 - [Growth mindset endorsement is associated with higher post-error accuracy but not post-correct accuracy in children](growth-mindset-post-error-accuracy-children.md) — related
+- [The KITS intervention produced no significant group differences in the ERN or Pe on incorrect trials, nor in behavioral task performance](kits-no-group-effects-ern-pe-behavior.md) — related

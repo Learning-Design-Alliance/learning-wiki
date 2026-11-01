@@ -51,3 +51,4 @@ Baseline comparison of the two assigned groups using the independent samples t-t
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
+- [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related

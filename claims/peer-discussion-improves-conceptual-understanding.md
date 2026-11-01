@@ -133,3 +133,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related
 - [Students report that distributed pair programming groups completed tasks without meaningful peer discussion](dpp-students-report-no-peer-discussion.md) — reports the opposite
+- [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related

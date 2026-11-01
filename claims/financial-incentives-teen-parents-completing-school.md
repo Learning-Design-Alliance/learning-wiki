@@ -49,3 +49,4 @@ Two randomized controlled trials (LEAP, n = 913 analyzed; Cal-Learn, n = 906 age
 - [The completion impact of financial incentives for teen parents comes almost entirely from GED receipt rather than high school diploma receipt, and the GED effect was statistically significant only for Cal-Learn](financial-incentives-ged-receipt-significant.md) — reports the opposite
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](financial-incentives-teen-parents-staying-in-school.md) — related
+- [Financial incentives of £30 per session increased parental attendance at Parent Academy sessions](financial-incentives-increase-parent-attendance.md) — a narrower finding that bears on this claim

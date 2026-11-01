@@ -48,3 +48,4 @@ Secondary analysis using a simple difference score (spring minus fall preschool 
 ## Related Claims
 - [Fall oral vocabulary skills did not moderate TRI treatment effects for struggling English learners on any outcome](oral-vocabulary-no-moderation-tri-effects.md) — related
 - [Initial preschool language skill did not moderate the LLLI intervention effect on kindergarten expressive vocabulary](no-moderation-expressive-vocabulary.md) — related
+- [Gains from the one-year intervention fade in kindergarten while gains from the two-year intervention are sustained](two-year-gains-sustained-kindergarten.md) — related

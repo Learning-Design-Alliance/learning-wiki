@@ -54,3 +54,4 @@ Independent t-test of pretest achievement in the random-assignment pretest-postt
 - [Intervention and control groups did not differ significantly in attitudes towards statistics at pre-test](pbl-statistics-attitude-no-pretest-difference.md) — related
 - [Before treatment, the experimental and control groups did not differ significantly on idiom pretest scores](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related

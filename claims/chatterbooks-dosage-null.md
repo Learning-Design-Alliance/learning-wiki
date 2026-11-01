@@ -51,3 +51,5 @@ On-treatment analysis using tutor-log counts of sessions experienced per child, 
 - [Number of treatment sessions received was not associated with end-of-treatment performance](dosage-not-associated-with-outcomes.md) — related
 - [Chatterbooks Plus showed no statistically significant effect on reading ability, with an effect size indistinguishable from zero](chatterbooks-plus-no-impact-reading-ability.md) — related
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](vefp-dosage-null-on-treatment.md) — related
+- [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
+- [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](rhythm-for-reading-dosage-null.md) — related

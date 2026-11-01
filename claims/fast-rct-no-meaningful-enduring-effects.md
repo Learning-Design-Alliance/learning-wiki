@@ -58,3 +58,4 @@ Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or contro
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — related
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related
+- [Parental attendance dose was not associated with pupil outcomes: more sessions attended did not yield more impact](attendance-dose-no-outcome-link.md) — related

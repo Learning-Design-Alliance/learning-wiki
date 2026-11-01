@@ -51,3 +51,4 @@ Two-Way ANOVA for mixed measures on pre-test–post-test Vocabulary Test scores 
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](listening-comprehension-predicts-vocabulary.md) — related
+- [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related

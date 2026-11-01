@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (46 for, 28 mixed, 10 against) · 86 studies (28 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 86 report an effect size · 71 claims rest on one study
+> **Evidence** · 86 claims (48 for, 28 mixed, 10 against) · 87 studies (29 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 87 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](../claims/absi-control-posttest-no-difference.md) [-W] — attached 2026-11-01 from Eda Pınar Tüccaroğlu (2018), which proposed "Give place to the ABSI approach in science education programs, with teacher development to support it"; tests this page's relationship.
 - [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+W] — attached 2026-11-01 from Muskita et al. (2020), which proposed "Inquiry worksheet syntax graduated by level of learner responsibility"; tests this page's relationship.
 - [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/guided-inquiry-worksheets-critical-creative-thinking.md) [+W] — attached 2026-11-01 from Muskita et al. (2020), which proposed "Inquiry worksheet syntax graduated by level of learner responsibility"; tests this page's relationship.
+- [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](../claims/structured-inquiry-higher-geometry-concept-understanding.md) [+W] — attached 2026-11-01 from Salim et al. (2015), which proposed "Shift geometry teaching from teacher-centred transmission to guided student-centred reinvention of concepts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -215,6 +216,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Self- and peer-assessment showed no big differences between groups except a more intensive inquiry process in the scaffolded group](../claims/self-peer-assessment-inquiry-process-scaffolded-advantage.md) [~W]
 - [There is a significant difference in effectiveness among inquiry learning Levels 2, 3, and 4 in improving Grade X students' science process skills](../claims/significant-difference-among-inquiry-levels-2-3-4-process-skills.md) [~W]
 - [Prior Nigerian studies on guided inquiry versus conventional teaching report mixed results, with one study finding the conventional method superior](../claims/guided-inquiry-prior-evidence-mixed.md) [~W]
+- [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](../claims/structured-inquiry-favourable-student-attitudes-perceptions.md) [+W]
 
 ## Related Principles
 

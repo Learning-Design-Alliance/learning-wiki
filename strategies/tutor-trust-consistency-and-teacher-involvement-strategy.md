@@ -45,6 +45,7 @@ The evaluation's concluding recommendation is that "the Tutor Trust continues to
 
 - [Monitor tutor performance and conduct, with schools implementing their own oversight mechanisms, to secure pupil benefit](monitor-tutor-performance-mechanisms.md)
 - [Involve classroom teachers in planning and managing tuition so it complements classroom work rather than being a bolt-on](involve-classroom-teachers-in-tuition-planning.md)
+- [Pair chess tutors with actively engaged class teachers and strengthen tutor classroom-management training](chess-implementation-improvement-strategy.md)
 
 ## Examples
 -

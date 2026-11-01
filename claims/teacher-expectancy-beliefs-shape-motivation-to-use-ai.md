@@ -112,3 +112,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — related
 - [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](utility-value-predicts-tech-integration.md) — related
 - [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](factors-shaping-resident-teaching-effectiveness.md) — related
+- [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related

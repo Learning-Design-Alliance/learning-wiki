@@ -50,3 +50,4 @@ The authors combine coefficients from Tables 2b and 2c into schedule-level illus
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Students flagged as honors courses demonstrated greater than expected science growth](honors-courses-greater-science-growth.md) — related
 - [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
+- [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related

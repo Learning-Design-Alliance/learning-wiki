@@ -53,3 +53,4 @@ Follow-up scores were available for 118 of the 198 participants (mean attendance
 - [The achievement advantage of mobile learning persisted at a six-month follow-up test](mobile-learning-achievement-persistence-follow-up.md) — related
 - [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
+- [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](mancova-group-differences-rate-not-comprehension.md) — related

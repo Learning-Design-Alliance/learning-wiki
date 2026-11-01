@@ -69,3 +69,4 @@ Same postal teacher survey; this aim of the programme was not borne out in self-
 ## Related Claims
 - [TDTS pupils reported having more discussions and doing less writing in science lessons, in line with the TDTS model](tdts-more-discussion-less-writing.md) — related
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
+- [TAs and coordinators reported improved pupil confidence, engagement and willingness to attempt numeracy problems during the intervention](catch-up-numeracy-process-confidence-engagement-gains.md) — related

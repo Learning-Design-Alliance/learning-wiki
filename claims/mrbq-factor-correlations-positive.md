@@ -51,3 +51,4 @@ Correlational analysis of the four PCA factors from the survey of 365 Flemish ju
 - Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor — related
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related

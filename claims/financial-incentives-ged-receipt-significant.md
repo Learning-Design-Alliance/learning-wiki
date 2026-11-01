@@ -49,3 +49,4 @@ Findings section of the WWC report synthesizing the two randomized controlled tr
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — reports the opposite
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](financial-incentives-teen-parents-staying-in-school.md) — related
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
+- [Financial incentives of £30 per session increased parental attendance at Parent Academy sessions](financial-incentives-increase-parent-attendance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (92 show a difference, 32 mixed, 29 no difference) · 103 studies (30 associational, 26 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 32 of 103 report an effect size · 150 claims rest on one study
+> **Evidence** · 156 claims (95 show a difference, 32 mixed, 29 no difference) · 105 studies (30 associational, 28 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 32 of 105 report an effect size · 153 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -190,6 +190,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](../claims/listening-comprehension-predicts-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
 - [The kindergarten benefits of the LLLI intervention on decoding and reading comprehension were conditional on children's initial preschool language skill, favoring children with high language skill](../claims/llli-moderated-by-initial-language-skill.md) [~M] — an instructional effect differs with it
+- [Daily journal writing was associated with higher listening and reading comprehension passing rates in two experimental MSA classes compared with a control class](../claims/journal-writing-higher-listening-reading-passing-rates.md) [+M] — instruction changes it
+- [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](../claims/metacognitive-strategy-instruction-improves-listening-comprehension.md) [+M] — instruction changes it
+- [Struggling students in the journal-writing classes showed apparent improvement in listening and reading comprehension compared with the control class](../claims/journal-writing-helped-struggling-students.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

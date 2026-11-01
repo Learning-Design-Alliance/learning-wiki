@@ -59,10 +59,12 @@ Strategy instruction produces reliable but moderate gains, strongest when instru
 6. **Debrief** on outcomes so learners connect strategy use to results, building the evaluation component of metacognition
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical reading-comprehension implementation, alternating modeling and student-led practice
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the primary modeling method for making strategies visible
 - [Self-Assessment](../elements/self-assessment.md) — trains the monitoring and evaluating components
 - [Spaced Practice](../principles/spaced-learning.md) — a study strategy whose value learners systematically misjudge, making it a prime target for instruction
+- [Teach metacognitive reading strategies as a before-during-after cycle of planning, self-monitoring through thinking aloud, and self-evaluation](metacognitive-reading-strategy-instruction-cycle.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small-group reading instruction cycling through predicting, questioning, clarifying, and summarizing, with teacher modeling fading to student leadership.

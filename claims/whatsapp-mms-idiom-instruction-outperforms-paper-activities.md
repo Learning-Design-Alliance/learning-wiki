@@ -49,3 +49,5 @@ Between-groups comparison in a posttest-only two-group quasi-experiment with 50 
 - [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a sentence-structure post-test](whatsapp-group-outperformed-control-sentence-structure.md) — related
+- [CALL instruction produced significantly better TOEIC listening score gains than traditional textbook instruction in a quasi-experiment with two groups of 25 Vietnamese college students](call-improves-toeic-listening-scores-over-traditional.md) — related
+- [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related

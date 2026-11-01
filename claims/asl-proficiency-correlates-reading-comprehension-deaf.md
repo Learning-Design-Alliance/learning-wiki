@@ -48,3 +48,4 @@ Pearson correlation in a convenience sample of 55 deaf individuals from Gallaude
 
 - [Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college](deaf-sample-mean-reading-grade-5-8.md)
 - [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md) — related
+- [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related

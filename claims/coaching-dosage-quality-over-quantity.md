@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: schachner-2024
     resource: "https://doi.org/10.54300/984.909"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The literature does not conclusively identify a necessary dosage; coaching appears more sensitive to quality than dosage. [→ Schachner 2024](#schachner-2024)
@@ -73,3 +74,5 @@ The review reports that for "more comprehensive coaching," a common theme is gre
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
 - [The programme appeared more effective when coaches were highly trained, enthusiastic and committed and when secondary schools worked closely with feeder primaries](textnow-implementation-facilitators.md) — related
+- [Students identified coaching benefits in three broad themes (improved cognitions, behaviors, subjective well-being) and limitations including 30-minute session length and desire for more accountability](coaching-benefits-and-limitations-student-perspectives.md) — related
+- [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](perry-beeches-coaching-delivery-variation-across-schools.md) — related

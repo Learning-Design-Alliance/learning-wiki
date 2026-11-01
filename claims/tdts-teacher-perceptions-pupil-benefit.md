@@ -51,3 +51,4 @@ Teacher survey item asking intervention and control teachers which groups the ap
 - [TDTS teachers reported using more practical work, discussion and thinking time, but little difference in confidence and no more literacy–numeracy linking](tdts-teacher-practice-changes-survey.md) — related
 - [TDTS pupils reported having more discussions and doing less writing in science lessons, in line with the TDTS model](tdts-more-discussion-less-writing.md) — related
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
+- [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related

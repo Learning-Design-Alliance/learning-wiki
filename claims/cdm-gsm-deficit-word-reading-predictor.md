@@ -52,3 +52,4 @@ C/DM inclusionary-criterion ANCOVAs (Table 4) for the same 206 fourth graders. T
 - [C/DM LD status likewise does not predict posttest reading outcomes beyond pretest performance](cdm-ld-status-null-treatment-response.md) — related
 - [The XBA and C/DM PSW methods show chance-level agreement (kappa = -.10) in identifying LD among fourth graders with reading comprehension deficits](psw-xba-cdm-poor-agreement-ld-identification.md) — related
 - [XBA LD status does not predict posttest reading outcomes beyond pretest performance in decoding, fluency, or comprehension](xba-ld-status-null-treatment-response.md) — related
+- [Fourth graders with low reading comprehension in a text-based vocabulary and reading intervention with self-regulation supports outperformed comparison students on a researcher-developed vocabulary and reading measure](text-based-vocabulary-intervention-gains-fourth-graders.md) — related

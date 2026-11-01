@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: uysal-2014
     resource: "https://doi.org/10.30935/cedtech/6125"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-year students taught with the web-supported well-structured PS method scored significantly higher on the CP achievement posttest than students taught with the web-supported traditional method. [→ Uysal 2014](#uysal-2014)

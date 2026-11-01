@@ -52,3 +52,5 @@ On-treatment analysis using total delivery time from teacher logs as the dosage 
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](no-instruction-moderators-phonics-spelling-marginal.md) — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [An on-treatment dosage analysis found no significant relationship between number of sessions attended and reading outcomes](chatterbooks-dosage-null.md) — related
+- [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
+- [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](rhythm-for-reading-dosage-null.md) — related

@@ -54,3 +54,4 @@ The authors' revisit of the literature cites the Minner et al. (2010) research s
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Large randomized evaluations of project-based learning programs show advantages over traditional science teaching of about 0.2 standard deviations](project-based-learning-rct-advantage-traditional-instruction.md) — related
 - [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — reports the opposite
+- [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related

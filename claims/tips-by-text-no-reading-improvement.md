@@ -51,3 +51,4 @@ Secondary analysis replicating the appointed evaluators' intention-to-treat impa
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — reports the opposite
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
+- [Offering parents the Parent Academy did not improve pupils' reading or mathematics outcomes in a three-arm randomised controlled trial](parent-academy-no-pupil-attainment-impact.md) — related

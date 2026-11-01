@@ -52,3 +52,4 @@ Qualitative analysis of 25 written reports (eight open-ended questions) submitte
 - [Reminder and control groups did not differ in vocabulary test performance, and the test data were too noisy to reliably test the study-frequency–performance link](no-group-difference-vocabulary-test-performance.md) — related
 - [Learners' reports identify technical and pedagogical disadvantages of SMS vocabulary learning, including storage limits, segmented messages, and superficial processing](sms-vocabulary-disadvantages-reports.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
+- [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related

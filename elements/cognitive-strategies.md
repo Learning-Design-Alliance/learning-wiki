@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 25 studies (10 review, 7 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 26 studies (10 review, 8 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 14 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -77,6 +77,8 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Least-to-most prompting and teaching wh-word meanings meet evidence-based criteria; explicit comprehension-strategy instruction is potentially evidence-based](../claims/evidence-based-strategies-shared-reading-id.md) [+W]
 - [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — attached 2026-11-01 from Busmin Gurning et al. (2017), which proposed "SQ3R reading comprehension strategy".
+- [Etymological elaboration improves EFL learners' comprehension of idioms](../claims/etymological-elaboration-improves-idiom-comprehension.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
+- [Etymological elaboration improves EFL learners' one-week retention of idioms](../claims/etymological-elaboration-improves-idiom-retention.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
 
 ## The evidence by question
 

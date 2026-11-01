@@ -50,6 +50,7 @@ The article recommends embedding grammar practice within purposeful writing rath
 - [Student Blogging](student_blogging.md)
 - [Genre Scaffolding](genre-scaffolding.md)
 - [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](mi-activities-content-based-efl-strategy.md)
+- [Teach idioms through interactive, contextualized activities such as role-play and movie clips rather than isolated definitions](teach-idioms-contextualized-interactive-activities.md)
 
 ## Examples
 -

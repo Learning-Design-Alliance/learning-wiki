@@ -49,3 +49,4 @@ Descriptive fidelity results from 756 BiCACS observations across both conditions
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](ptr-yc-increases-engaged-time-vs-bau.md) — related
 - [FSN coaches and teachers implemented core program components with excellent adherence, with implementation quality lower during the teacher phase than the coach phase](fsn-high-fidelity-teacher-phase-quality-lower.md) — related
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related
+- [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related

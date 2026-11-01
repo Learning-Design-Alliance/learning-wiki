@@ -13,7 +13,7 @@ generated:
 # Articulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 11 studies (4 qualitative, 2 causal, 2 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (6 for, 2 mixed, 2 against) · 12 studies (4 qualitative, 3 causal, 2 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Articulation asks learners to verbalize their thought processes, reasoning, and problem-solving strategies as they work — explaining what they are doing, why, and how they know. It functions as both a learning mechanism (verbalization forces organization of knowledge) and an assessment mechanism (instructors can diagnose reasoning errors that silent work conceals). In [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md), articulation is the phase that follows modeling and coaching: learners make their own thinking visible just as the expert made theirs visible during demonstration.
@@ -62,6 +62,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - [The most prevalent verbalization type was labeling text parts as important without stating any reason for selection](../claims/labeling-text-parts-most-prevalent-verbalization.md) [-W]
 - [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](../claims/metacognitive-prompts-improve-collaborative-communication.md) [+W]
 - [Children develop and demonstrate task-specific strategies through peer interaction, including instructing others and explaining why strategies work](../claims/task-specific-strategies-scaffolded-peer-interaction.md) [+W]
+- [T3's comparatively small story-content effect is attributed to its lack of specific story-content cue questions, while verbalizing aloud during pre-writing helped story quality](../claims/t3-verbalizing-prewriting-story-quality.md) [+W] — attached 2026-11-01 from Michael Dunn (2013), which proposed "Think-Talk-Text (T3) mnemonic strategy for verbal pre-writing planning"; tests this page's relationship.
 
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the private, prompted form of articulation; articulation adds a social or diagnostic audience

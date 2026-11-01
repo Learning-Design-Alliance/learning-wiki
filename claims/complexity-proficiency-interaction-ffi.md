@@ -51,3 +51,4 @@ Qualitative examination of individual studies, supported by two studies of inter
 - [Input-based FFI was more effective than output-based FFI at both beginner and intermediate proficiency levels, and both types showed larger effects for intermediate learners](input-ffi-effective-across-proficiency-levels.md) — related
 - [L1 transfer may moderate FFI effectiveness: features similar to Persian benefit more from input, while disparate features benefit more from output](l1-transfer-moderates-ffi-effectiveness.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
+- [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related

@@ -48,3 +48,4 @@ Within-group pre/post comparison of the control group (5th B, 24 students) taugh
 ## Related Claims
 - [The AR group's mean score rose 4.5 points from pre-test (3.4) to post-test (7.9)](ar-group-pre-post-gain-4-5-points.md) — related
 - [Primary students taught 'The Representation of the Earth' with AR scored higher on the post-test than students taught traditionally (M = 7.9 vs M = 6.4)](ar-social-science-post-test-higher-than-traditional.md) — related
+- [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — related

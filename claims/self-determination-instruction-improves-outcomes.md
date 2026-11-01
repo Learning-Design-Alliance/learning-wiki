@@ -123,3 +123,4 @@ Earlier Related Claims:
 - [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — related
 - Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
 - [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related
+- [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related

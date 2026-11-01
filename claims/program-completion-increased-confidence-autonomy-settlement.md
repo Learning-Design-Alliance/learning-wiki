@@ -62,3 +62,5 @@ Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, w
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](learning-format-perspectives-correlate-immigrant-integration.md) — related
 - [DLG participation is associated with increased self-esteem across primary, special, and adult education](dlg-increase-self-esteem.md) — related
+- [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related
+- [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related

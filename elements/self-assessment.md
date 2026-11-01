@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 71 claims (15 for, 40 mixed, 16 against) · 59 studies (28 causal, 12 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 20 of 59 report an effect size · 67 claims rest on one study
+> **Evidence** · 72 claims (16 for, 40 mixed, 16 against) · 60 studies (29 causal, 12 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 20 of 60 report an effect size · 68 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -121,6 +121,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](../claims/students-overestimate-clinical-judgment.md) [-W]
 - [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](../claims/self-rated-understanding-overestimates-ability.md) [-W]
 - [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](../claims/self-assessment-improves-efl-self-efficacy.md) [+M] — attached 2026-11-01 from Sasan Baleghizadeh et al. (2013), which proposed "Ten-item self-assessment questionnaire adapted from Blanche and Merino (1989)"; tests this page's relationship.
+- [Self-assessment has a significant positive effect on seventh-grade EFL students' writing competence compared with conventional teacher assessment](../claims/self-assessment-significant-effect-writing-competence-efl.md) [+W] — attached 2026-11-01 from Ratminingsih et al. (2018), which proposed "Self-assessment checklist and analytical scoring rubric with multi-source feedback"; tests this page's relationship.
 
 ## The evidence by question
 

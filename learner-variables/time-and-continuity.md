@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (107 show a difference, 38 mixed, 16 no difference) · 138 studies (53 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 31 of 138 report an effect size · 157 claims rest on one study
+> **Evidence** · 165 claims (108 show a difference, 39 mixed, 18 no difference) · 142 studies (57 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 31 of 142 report an effect size · 161 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -218,6 +218,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Frequent attenders of the live virtual physics classroom scored significantly higher than rare attenders in a distance physics course](../claims/lvpcf-frequent-attenders-higher-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Rare attenders with high content-following but near-zero live attendance still failed the course](../claims/lvpcfr-high-content-following-failed.md) [+W] — learners who differ on it differ in outcomes
 - [SPARK significantly improved school attendance, with students averaging 5.8 fewer absences over two years (g = .25)](../claims/spark-improves-school-attendance.md) [+M] — instruction changes it
+- [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](../claims/rhythm-for-reading-dosage-null.md) [-M] — learners who differ on it differ in outcomes
+- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [~M] — instruction changes it
+- [Parental attendance dose was not associated with pupil outcomes: more sessions attended did not yield more impact](../claims/attendance-dose-no-outcome-link.md) [-M] — learners who differ on it differ in outcomes
+- [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](../claims/perry-beeches-coaching-dosage-outcome-relationship.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

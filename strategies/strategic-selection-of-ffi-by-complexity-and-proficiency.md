@@ -48,6 +48,7 @@ The article recommends that educators diversify FFI strategies: beginner and int
 ## Related Strategies
 
 - [Allocate more teaching time to difficult constructions and select light verbs for beginner and intermediate learners](prioritize-difficult-constructions-and-light-verbs.md)
+- [Match FFI intensity and content to learners' proficiency level](match-ffi-to-proficiency-level.md)
 
 ## Examples
 -

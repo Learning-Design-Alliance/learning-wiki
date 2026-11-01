@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (20 for, 17 mixed, 1 against) · 32 studies (14 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 32 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (21 for, 17 mixed, 1 against) · 33 studies (15 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 33 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](../claims/ssml-advantage-significant-only-middle-mpk.md) [~W]
+- [Both color coding and labeling increase looks between text and corresponding table information](../claims/color-coding-and-labeling-increase-text-table-looks.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (25 for, 12 mixed) · 38 studies (20 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 38 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (26 for, 12 mixed) · 39 studies (21 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 34 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -73,6 +73,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](../claims/humorous-video-clips-improve-efl-idiom-achievement.md) [+W] — attached 2026-11-01 from Malihe Neissari et al. (2017), which proposed "BBC "The Teacher" English Idiom Series humorous video clips"; tests this page's relationship.
 - [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](../claims/preliminary-survey-students-interested-multimedia-materials.md) [+W]
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
+- [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
 
 ## The evidence by question
 

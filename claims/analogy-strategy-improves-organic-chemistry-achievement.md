@@ -66,3 +66,5 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Form two physics students taught through intensive practical activities significantly outperformed students taught by conventional lecture-based methods on a post-test of chosen topics](intensive-practical-work-beats-conventional-physics-teaching.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
+- [Control-group students who experienced sample analogies after the post-test mostly supported using analogies in lectures](control-students-support-analogies-after-exposure.md) — related
+- [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](detailed-analogies-improve-computer-hardware-learning.md) — related

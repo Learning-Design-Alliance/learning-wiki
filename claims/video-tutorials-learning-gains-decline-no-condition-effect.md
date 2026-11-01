@@ -71,3 +71,4 @@ Post hoc tests on the same repeated measures ANOVA of performance test percentag
 - [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](video-tutorials-raise-self-efficacy-no-condition-effect.md) — related
 - [All conditions achieved significant knowledge gains with no condition, gender, or interaction effects](knowledge-gains-identical-across-conditions.md) — related
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
+- [Undergraduates who complete either an interactive GotS tutorial or a screencast score significantly higher on a database-searching post-test than an uninstructed control group](online-tutorials-outperform-control-database-searching.md) — related

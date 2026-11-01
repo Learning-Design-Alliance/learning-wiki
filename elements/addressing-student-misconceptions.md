@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (24 for, 9 mixed, 1 against) · 26 studies (11 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 26 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (25 for, 9 mixed, 1 against) · 27 studies (12 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 27 report an effect size · 31 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -79,6 +79,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Ordinary physics courses produce negative or zero shifts in students' expert-like beliefs, while model-building and explicit belief-development courses produce positive shifts](../claims/physics-instruction-belief-shifts-meta-analysis.md) [+W]
 - [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](../claims/salt-bridge-ion-passage-misconception-all-groups.md) [~W]
 - [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](../claims/pretest-misconceptions-electric-circuits-jordan.md) [+W]
+- [Students' difficulties and misconceptions about symmetry fall into four main areas](../claims/symmetry-misconceptions-four-areas.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (165 show a difference, 48 mixed, 56 no difference) · 180 studies (51 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 43 of 180 report an effect size · 260 claims rest on one study
+> **Evidence** · 274 claims (167 show a difference, 49 mixed, 58 no difference) · 184 studies (55 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 43 of 184 report an effect size · 265 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -320,6 +320,11 @@ What a learner can read without effort, and whether the language of instruction 
 - [96% of middle-school students with low reading comprehension demonstrate deficits in reading fluency, vocabulary, or both](../claims/96-percent-struggling-comprehenders-fluency-vocabulary-deficit.md) [+M] — learners who differ on it differ in outcomes
 - [Fluency difficulties are more common than vocabulary difficulties among adolescents with low reading comprehension](../claims/fluency-difficulties-more-common-than-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [The kindergarten benefits of the LLLI intervention on decoding and reading comprehension were conditional on children's initial preschool language skill, favoring children with high language skill](../claims/llli-moderated-by-initial-language-skill.md) [+M] — an instructional effect differs with it
+- [A significant interaction between intervention group and pre-test score suggests Rhythm for Reading was associated with worse outcomes for lower-ability pupils and better outcomes for higher-ability pupils](../claims/rhythm-for-reading-pretest-interaction.md) [~M] — an instructional effect differs with it
+- [Both Grade 8 groups improved in L2 vocabulary knowledge over time, with no significant time-by-group interaction favoring clickers](../claims/clickers-no-significant-time-group-interaction-l2-vocabulary.md) [+M] — instruction changes it
+- [No significant differences between control and either intervention group on secondary outcomes (reading and general ability)](../claims/catch-up-numeracy-secondary-outcomes-null.md) [-M] — instruction changes it
+- [Rhythm for Reading had no statistically significant effect on overall reading ability in a pupil-randomised waitlist RCT with Year 7 pupils below Level 4 in English](../claims/rhythm-for-reading-no-significant-overall-reading-effect.md) [-M] — instruction changes it
+- [Schema-based instruction produced significantly higher vocabulary knowledge than translation-based instruction](../claims/sbi-significantly-higher-vocabulary-knowledge.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

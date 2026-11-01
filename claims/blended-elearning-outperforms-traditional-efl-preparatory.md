@@ -47,3 +47,5 @@ Quasi-experiment at KAU Community College: two parallel classes taught by routin
 ## Related Claims
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
+- [Saudi female secondary EFL students who used Edmodo alongside traditional teaching showed more positive EFL learning attitudes than a control group after six weeks](edmodo-blended-instruction-more-positive-efl-attitudes.md) — related
+- [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related

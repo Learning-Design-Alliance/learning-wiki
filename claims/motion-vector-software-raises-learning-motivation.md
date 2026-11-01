@@ -50,3 +50,4 @@ Quasi-experiment motivation measure: pre-test means nearly equal (3.05 vs 3.03, 
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — related
 - [Using scientists' biographies in physics teaching raises the level of the emotional component of learners' cognitive activity](biographic-materials-raise-emotional-component-cognitive-activity.md) — related
+- [Form Six students taught graph functions with Geometer's Sketchpad scored significantly higher on the post-test achievement measure than students taught by chalk and talk](gsp-post-test-achievement-significant.md) — related

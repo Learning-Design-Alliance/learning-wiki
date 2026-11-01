@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 4 studies (2 causal, 2 quant-synthesis), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (4 for, 4 mixed, 2 against) · 5 studies (3 causal, 2 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -47,6 +47,8 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 - [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
 - [Sample size does not significantly moderate the gloss effect: large studies (ES = 0.88) versus small studies (ES = 0.72) do not differ significantly](../claims/sample-size-not-significant-gloss-moderator.md) [+W]
 - [Vocabulary learning under embedded instruction declined over the course of the school year](../claims/vocabulary-learning-decline-over-units.md) [-W]
+- [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension, word explanation, and word production more than controls in regular kindergarten](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+W] — attached 2026-11-01 from Ofra Korat et al. (2017), which proposed "E-book with built-in dictionary mode (Confused Yuval) for independent kindergarten reading"; tests this page's relationship.
+- [Words that received a dictionary explanation in the e-book were explained better by children than words appearing in the story without dictionary support](../claims/dictionary-support-improves-word-explanation.md) [+W] — attached 2026-11-01 from Ofra Korat et al. (2017), which proposed "E-book with built-in dictionary mode (Confused Yuval) for independent kindergarten reading"; tests this page's relationship.
 
 ## Related Elements
 

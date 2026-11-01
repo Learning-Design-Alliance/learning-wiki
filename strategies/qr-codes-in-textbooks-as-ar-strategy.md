@@ -45,6 +45,7 @@ The article's strategy is to use QR codes printed in student textbooks as a form
 ## Related Strategies
 
 - [Augmented Reality (AR) in Classroom](augmented-reality-ar-in-classroom.md)
+- [Develop AR-supported materials for other Turkish Language Teaching lessons that students find difficult](extend-ar-materials-to-difficult-turkish-lessons.md)
 
 ## Examples
 -

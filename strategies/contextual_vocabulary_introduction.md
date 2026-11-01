@@ -58,9 +58,11 @@ Contextual introduction leverages the fact that word meanings are learned increm
 5. Re-encounter the words in later lessons, discussions, and writing tasks across the following weeks
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new words to known concepts and experiences strengthens encoding
 - [Analogies](analogies.md) — relating unfamiliar words to familiar ones supports inference from context
 - [Read-Alouds with Dialogic Questioning](../elements/dialogic-reading.md) — the oral-language counterpart for younger learners
+- [Teach idioms through interactive, contextualized activities such as role-play and movie clips rather than isolated definitions](teach-idioms-contextualized-interactive-activities.md)
 
 ## Examples
 - **[Text Talk](text-talk.md)** (Beck & McKeown) — teachers read a story aloud, then lead discussion of sophisticated story words in their narrative context rather than pausing mid-story for definitions.

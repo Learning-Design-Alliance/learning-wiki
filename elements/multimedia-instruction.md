@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 51 claims (28 for, 22 mixed, 1 against) · 48 studies (27 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 48 report an effect size · 46 claims rest on one study
+> **Evidence** · 54 claims (29 for, 24 mixed, 1 against) · 51 studies (30 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 51 report an effect size · 49 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -87,6 +87,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Students rated the interactive multimedia listening materials 'Good' overall, with a mean quality score of 79.00](../claims/multimedia-materials-rated-good-mean-79.md) [+W] — attached 2026-11-01 from Tagor Pangaribuan et al. (2017), which proposed "Researcher-designed CD-ROM multimedia application for listening comprehension".
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](../claims/multimedia-package-higher-posttest-mathematics-prospective-teachers.md) [+W] — attached 2026-11-01 from D.R. Robert Joan et al. (2012), which proposed "Multimedia Learning Package for Mathematics for prospective teachers"; tests this page's relationship.
 - [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](../claims/multimedia-group-significant-pre-post-gain-mathematics.md) [+W] — attached 2026-11-01 from D.R. Robert Joan et al. (2012), which proposed "Multimedia Learning Package for Mathematics for prospective teachers"; tests this page's relationship.
+- [Gender did not significantly influence achievement among students taught Geography with PowerPoint presentation](../claims/powerpoint-no-gender-difference-geography.md) [~W]
+- [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
+- [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

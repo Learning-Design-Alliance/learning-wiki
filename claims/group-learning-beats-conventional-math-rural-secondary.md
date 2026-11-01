@@ -52,3 +52,4 @@ Quasi-experimental equivalent pre-post test control group design with 84 experim
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
 - [Cooperative TGT significantly improves Grade 11 students' mathematics communication compared with conventional teaching](tgt-improves-mathematics-communication.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
+- [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — related

@@ -50,3 +50,4 @@ Pre-test video annotation task with 70 participants; prospective teachers notice
 - [Before pedagogical training, prospective university teachers have lower professional vision scores than current faculty teachers](prospective-teachers-lower-professional-vision-pretest.md) — related
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
+- [Random assignment failed for pretest scores: the labeling condition started lower than the no-labeling condition](apriori-pretest-difference-labeling-condition.md) — related

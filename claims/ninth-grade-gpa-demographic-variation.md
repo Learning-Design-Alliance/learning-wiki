@@ -69,3 +69,4 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 - [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — related
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
+- [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related

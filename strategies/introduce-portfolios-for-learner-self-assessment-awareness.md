@@ -51,6 +51,7 @@ Drawing on the study's findings, the authors recommend that "Teachers can introd
 - [Writing Process Portfolios](writing-process-portfolios.md)
 - [Frequent Student Reflections](frequent_student_reflections.md)
 - [Pizza Box Portfolios](pizza_box_portfolios.md)
+- [Maximise self-assessment as an alternative teaching and learning strategy in writing classes](self-assessment-writing-class-strategy.md)
 
 ## Examples
 -

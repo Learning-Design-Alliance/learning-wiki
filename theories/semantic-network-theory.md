@@ -17,7 +17,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 11 studies (6 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.
@@ -50,6 +50,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 - [Sorting tasks elicited networks with more expert overlap than essay writing, suggesting sorting better captures nascent conceptual structures](../claims/sorting-elicits-more-overlap-than-essays.md) [~W]
 - [Graph centrality of students' sorting-task networks showed no relationship to expert-network overlap or to posttest scores in either study](../claims/gcent-unrelated-to-overlap-and-scores.md) [-W]
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Buzan's radiant-thinking account of the mind map as a whole-brain graphic organizer".
+- [Total scores were highly significant in favour of the concept map method group (64.4% vs 49.4%)](../claims/concept-map-total-scores-highly-significant.md) [+W] — attached 2026-11-01 from Tamara Mohd Altabieri Krishan (2017), which proposed "Concept maps as graphical tools for organizing and representing knowledge".
 
 ## Related Theories
 

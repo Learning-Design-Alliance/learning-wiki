@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 68 claims (39 for, 28 mixed, 1 against) · 55 studies (19 quant-synthesis, 17 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 19 of 55 report an effect size · 60 claims rest on one study
+> **Evidence** · 69 claims (40 for, 28 mixed, 1 against) · 56 studies (19 quant-synthesis, 18 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 56 report an effect size · 61 claims rest on one study
 
 ## Description and scope
 
@@ -121,6 +121,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](../claims/cl-gain-significant-control-null.md) [+W] — attached 2026-11-01 from Min Han (2015), which proposed "Learning Together listening lesson pattern: heterogeneous four-member groups through pre-, while- and post-listening phases"; tests this page's relationship.
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](../claims/cooperative-learning-higher-lab-report-scores-chemistry.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Six principles for implementing cooperative learning groups"; tests this page's relationship.
 - [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](../claims/jigsaw-laboratory-higher-science-process-skills.md) [+W] — attached 2026-11-01 from Ataman Karacop (2017), which proposed "Integrate the Jigsaw technique into laboratory practices to develop learners' cognitive skills"; tests this page's relationship.
+- [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Slavin's Student Teams-Achievement Divisions (STAD) three-day cycle for cooperative learning"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 105 claims (75 for, 27 mixed, 3 against) · 71 studies (24 associational, 14 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 71 report an effect size · 99 claims rest on one study
+> **Evidence** · 106 claims (76 for, 27 mixed, 3 against) · 72 studies (24 associational, 15 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 72 report an effect size · 100 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -161,6 +161,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Both interventions produced higher meaning, mastery, and autonomy than control, but lower immersion than control for RJP](../claims/user-experience-group-differences.md) [+W]
 - [Teachers' provision of classroom structure correlates positively with students' achievement, engagement, and competence beliefs, and shows a statistically non-significant negative relationship with disengagement](../claims/classroom-structure-correlational-outcome-links.md) [+W] — attached 2026-10-31 from Patall et al. (2023), which proposed "Classroom structure as a multifaceted set of teacher practices distinct from control, with chaos as its logical opposite".
 - [The effects of teacher autonomy support on Thai students' motivation do not interact with gender](../claims/tas-effects-no-gender-interaction.md) [~W] — attached 2026-11-01 from Amrita Kaur et al. (2014), which proposed "Self-determination theory: autonomy support as the crucial teacher behavior for high-quality motivation".
+- [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](../claims/coaching-enhances-self-determination-five-ways.md) [+W]
 
 ## The evidence by question
 

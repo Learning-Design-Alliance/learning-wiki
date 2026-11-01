@@ -50,3 +50,4 @@ ANCOVA on the 10-item vocabulary subtest for the experimental (n=32) and control
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
 - [MI-based instruction significantly improved the structure sub-skill of General English relative to traditional instruction](mi-instruction-improves-structure-subskill.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
+- [Schema-based instruction produced significantly higher vocabulary knowledge than translation-based instruction](sbi-significantly-higher-vocabulary-knowledge.md) — related

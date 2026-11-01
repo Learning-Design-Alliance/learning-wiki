@@ -60,3 +60,7 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — possibly the same claim (merge candidate)
 - [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](hampshire-hundreds-no-significant-impact-disadvantaged.md) — related
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — a narrower finding that bears on this claim
+- [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
+- [Improvements in attainment were not significantly moderated by English as an additional language, ethnicity, FSM Ever 6 status, or prior attainment](perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related

@@ -61,3 +61,4 @@ Design-comparison study of the DC school report card. The summary states that "p
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
 - [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](space-dimension-partially-realized.md) — related
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
+- [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related

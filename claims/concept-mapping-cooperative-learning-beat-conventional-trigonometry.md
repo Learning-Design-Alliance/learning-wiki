@@ -74,3 +74,6 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - [Descriptive post-test means numerically favoured the spider concept mapping group, though not significantly](spider-concept-map-descriptive-mean-advantage.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
+- [Total scores were highly significant in favour of the concept map method group (64.4% vs 49.4%)](concept-map-total-scores-highly-significant.md) — related
+- [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — related
+- [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — possibly the same claim (merge candidate)

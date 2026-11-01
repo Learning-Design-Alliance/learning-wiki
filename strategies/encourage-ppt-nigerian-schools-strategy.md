@@ -48,6 +48,7 @@ Based on the finding that students taught with PowerPoint outperformed chalkboar
 ## Related Strategies
 
 - [Improve rural school teaching facilities and encourage wide reading irrespective of location and gender](improve-rural-facilities-encourage-wide-reading.md)
+- [Provide PowerPoint resources and teacher development for Geography instruction in Nigerian secondary schools](powerpoint-resources-teacher-development-geography.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Semi-experimental study with 40 EFL learners aged 16-18 in Rasht, Iran, randomly
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](pbl-recall-advantage-moderated-by-word-class.md) — a narrower finding that bears on this claim
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related
+- [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related

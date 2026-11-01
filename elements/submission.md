@@ -91,6 +91,7 @@ Submission creates the accountability structure that makes practice productive: 
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](../strategies/mathspace-mastery-oriented-feedback-workflow.md)
 - [Assess process over product using staged, connected tasks with iterative evidence](../strategies/assess-process-over-product-staged-tasks.md)
 - [Develop papers through successive preliminary presentations to gather peer feedback before journal submission](../strategies/preliminary-presentations-before-journal-submission.md)
+- [Have students correct each other's compositions in pairs before submission](../strategies/pair-peer-correction-before-submission.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

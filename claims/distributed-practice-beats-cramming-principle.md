@@ -57,3 +57,4 @@ The comment states this as an established laboratory principle, citing Carpenter
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — possibly the same claim (merge candidate)
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — a narrower finding that bears on this claim
+- [Animal neuroscience studies show spaced stimulation produces greater long-term potentiation than massed stimulation](spaced-stimulation-greater-ltp-animal-studies.md) — a narrower finding that bears on this claim

@@ -137,11 +137,13 @@ Recall with the cue, recall without it, delayed recall, use in a task and unders
 - [Dual Coding](dual-coding.md) — pairing words with a depicted structure; an imagery mnemonic uses an image as a cue instead.
 
 ## Examples
+
 - **[Acronyms and acrostics](../strategies/acronyms_and_acrostics.md)**: Learners use a compressed cue to remember components of a process or classification.
 - **Method-of-loci or imagery cues**: Learners attach items to vivid locations or images to improve recall.
 - **Category labels**: Learners group items into meaningful clusters before memorizing.
 - **Formula or sequence reminders**: A mnemonic cue helps retrieve an ordered set of steps once the underlying process is understood.
 - Strategy pages that carry these out: [Keyword Mnemonic](../strategies/keyword-mnemonic.md), [Acronyms and Acrostics](../strategies/acronyms_and_acrostics.md), [Letter Strategy](../strategies/letter_strategy.md), [Pegword Strategy](../strategies/pegword_strategy.md), [Method of Loci](../strategies/method-of-loci-memory-palace.md).
+- [Use a mnemonic phrase and colour-coded planet tokens to help young students memorize planet names and order](../strategies/mnemonic-colour-tokens-planet-order.md)
 
 ## Key Sources
 - Carney, R. N., & Levin, J. R. (2003). Promoting higher-order learning benefits by building lower-order mnemonic connections. *Applied Cognitive Psychology, 17*(5), 563-575. [https://doi.org/10.1002/acp.889](https://doi.org/10.1002/acp.889)

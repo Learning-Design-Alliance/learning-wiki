@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (29 for, 12 mixed, 2 against) · 35 studies (11 review, 9 theoretical, 7 quant-synthesis, 6 causal, 1 qualitative, 1 design), `q1`–`q4` · 4 of 35 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (30 for, 12 mixed, 2 against) · 36 studies (11 review, 9 theoretical, 7 causal, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](../claims/pbl-lbl-increases-knowledge-scores-china.md) [+W]
 - [PBL vs LBL alone produces higher excellence rates than PBL+LBL vs LBL in Chinese medical courses](../claims/pbl-alone-higher-excellence-than-pbl-lbl-combination.md) [-W]
 - [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [-W]
+- [Each approach improved only its own targeted knowledge: gains on approach-aligned posttests but not on opposite-approach measures](../claims/approach-matched-gains-only.md) [+W]
 
 ## Related Principles
 

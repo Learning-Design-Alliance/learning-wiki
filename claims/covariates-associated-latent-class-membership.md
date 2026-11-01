@@ -53,3 +53,4 @@ Covariate regression of class membership on cohort, race/ethnicity, gender, FARM
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
 - [Class membership is statistically significantly related to external measures of math Fluency and Interest in Math](class-membership-external-validity-fluency-interest.md) — related
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
+- [The Low Contact/Low Comfort profile was more likely to contain parents of FRL and African American students](low-low-profile-demographic-correlates.md) — related

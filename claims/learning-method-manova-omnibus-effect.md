@@ -48,3 +48,4 @@ MANOVA summary at 5% error level (Table 8) testing learning method on conceptual
 - [Learning method has a significant separate influence on conceptual understanding, accounting for 29.4% of variance](learning-method-conceptual-understanding-separate-effect.md) — related
 - [Learning method has a significant separate influence on students' learning independence, accounting for 89.6% of variance](learning-method-independence-separate-effect.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — related
+- [Self-assessment has a significant simultaneous effect on students' independence and writing competence together](self-assessment-simultaneous-effect-manova.md) — related

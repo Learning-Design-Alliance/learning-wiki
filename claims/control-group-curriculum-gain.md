@@ -49,3 +49,4 @@ Paired-samples t test within the control group (n=36): t = -16.621, p = .000, si
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — reports the opposite
 - [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](iwb-visual-within-group-gain.md) — related
 - [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
+- [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — related

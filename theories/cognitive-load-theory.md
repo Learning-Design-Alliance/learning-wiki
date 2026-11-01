@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 121 claims (78 for, 33 mixed, 10 against) · 101 studies (42 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 101 report an effect size · 110 claims rest on one study
+> **Evidence** · 122 claims (79 for, 33 mixed, 10 against) · 102 studies (43 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 102 report an effect size · 111 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -192,6 +192,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 - [The main disadvantages of AR in physics teaching are software and hardware shortcomings (e.g., camera freeze, visualization delay) and extraneous cognitive load from attending to secondary details](../claims/ar-physics-disadvantages-technical-and-extraneous-load.md) [+W] — attached 2026-11-01 from Andrej Vidak et al. (2023), which proposed "Cognitive load theory applied to AR-based learning: germane load fostered, extraneous load minimized, intrinsic load adjusted".
+- [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [+W]
 
 ## The evidence by question
 

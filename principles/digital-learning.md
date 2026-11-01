@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (39 for, 45 mixed, 6 against) · 99 studies (23 review, 22 causal, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 99 report an effect size · 79 claims rest on one study
+> **Evidence** · 91 claims (39 for, 46 mixed, 6 against) · 100 studies (23 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 100 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Offline computer-based digital education may improve medical doctors' knowledge gain compared with no intervention (low grade evidence)](../claims/ocde-vs-no-intervention-knowledge-gain.md) [~W]
 - [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](../claims/interactivity-digital-education-guidelines-mixed.md) [~W]
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
+- [Effects of ICT-based teaching persisted at retest, with results similar to the post-test stage](../claims/ict-tourism-retest-durability.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
@@ -227,6 +228,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
 - [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
+- [Provide teachers with training periods on how, when, and where to use language-learning technologies](../strategies/teacher-training-periods-for-language-technology.md)
 
 ### Illustrative
 

@@ -82,3 +82,4 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a narrower finding that bears on this claim
 - [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](dialogic-learning-improves-value-loaded-critical-thinking.md) — reports the opposite
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
+- [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related

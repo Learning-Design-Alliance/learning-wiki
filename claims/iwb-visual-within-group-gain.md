@@ -53,3 +53,6 @@ Paired-samples t test within the experimental group (n=36) comparing pre- and po
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — related
 - [Interactive whiteboard lessons supported by visual materials produce higher listening comprehension achievement than regular 2018 Turkish Course Curriculum teaching in middle school students](iwb-visual-materials-improve-listening-comprehension.md) — a broader claim this one bears on
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
+- [The experimental group's listening scores rose significantly from pre-test to Post-test I](experimental-group-pre-to-posttest1-gain.md) — related
+- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
+- [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related

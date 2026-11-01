@@ -86,3 +86,4 @@ Observational and interview study of four after-school sites; educators reported
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — related
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — related
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
+- [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related

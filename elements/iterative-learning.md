@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 20 studies (6 causal, 4 quant-synthesis, 4 design, 3 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (13 for, 6 mixed, 2 against) · 21 studies (7 causal, 4 quant-synthesis, 4 design, 3 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 21 report an effect size · 20 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -57,6 +57,7 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [The coronary anastomosis learning curve on a simulator stabilizes after about 30 anastomoses](../claims/learning-curve-stabilizes-after-30-anastomoses.md) [+W]
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](../claims/vrs-simulator-performance-curves-improve.md) [+W]
 - [Business plan scores increased significantly across review rounds in all three assessment groups](../claims/all-modes-significant-gains-across-rounds.md) [+W]
+- [Multiple posttest attempts in the emporium method did not boost posttest scores; single-attempt students scored higher](../claims/multiple-attempts-no-posttest-boost.md) [-W]
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (90 show a difference, 20 mixed, 17 no difference) · 89 studies (33 causal, 26 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 89 report an effect size · 124 claims rest on one study
+> **Evidence** · 131 claims (93 show a difference, 20 mixed, 18 no difference) · 93 studies (37 causal, 26 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 93 report an effect size · 128 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -168,6 +168,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](../claims/performing-arts-knowledge-permanence.md) [+M] — instruction changes it
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](../claims/iwb-visual-persistence-of-learning.md) [+M] — instruction changes it
 - [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
+- [Both Grade 8 groups improved in L2 vocabulary knowledge over time, with no significant time-by-group interaction favoring clickers](../claims/clickers-no-significant-time-group-interaction-l2-vocabulary.md) [-M] — instruction changes it
+- [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension, word explanation, and word production more than controls in regular kindergarten](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+M] — instruction changes it
+- [Schema-based instruction produced significantly higher vocabulary knowledge than translation-based instruction](../claims/sbi-significantly-higher-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](../claims/tmm-call-outperforms-conventional-vocabulary-instruction.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

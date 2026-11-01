@@ -50,3 +50,4 @@ Plan implementation fidelity was assessed by consultant classroom observations o
 - [Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery](fidelity-varied-across-schools-classrooms-teacher-delivery.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [CBC significantly improves directly observed classroom behaviors, including on-task, off-task, appropriate social behaviors, and motor movements, in rural classrooms](cbc-improves-observed-classroom-behaviors-rural.md) — related
+- [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related

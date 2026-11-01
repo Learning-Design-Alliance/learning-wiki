@@ -48,3 +48,4 @@ Independent-samples t-test on pre-test FAAT scores of the pre-test-post-test-con
 - [After treatment, demonstration-method students significantly outperform conventional-approach students in financial accounting achievement, with a large effect](demonstration-method-posttest-advantage-financial-accounting.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
+- [Before treatment, cooperative learning and conventional-approach students showed no statistically significant difference in financial accounting achievement](pretest-equivalence-cooperative-conventional-groups.md) — related

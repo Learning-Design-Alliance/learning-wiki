@@ -56,3 +56,4 @@ Trial-level Bayesian mixed-effects logistic regression on single-trial recall ac
 - [Higher curiosity is associated with better memory for the correct answer](curiosity-associated-with-better-memory.md) — related
 - [Generating a prediction before seeing the answer leads more facts to receive high-curiosity ratings than generating a relevant example](prediction-condition-more-high-curiosity-facts.md) — related
 - [Students with high curiosity achieved higher reading comprehension scores than students with low curiosity](high-curiosity-higher-reading-comprehension.md) — related
+- [Students reported that information messages sent with supportive images increased their interest and helped recall](whatsapp-images-increase-interest.md) — related

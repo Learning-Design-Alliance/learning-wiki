@@ -19,7 +19,7 @@ sources:
 # Pre-K Mathematics
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 A supplemental preschool mathematics curriculum developed by Alice Klein and Prentice Starkey with Alma Ramirez and distributed by Pearson Scott Foresman.
@@ -28,6 +28,7 @@ A supplemental preschool mathematics curriculum developed by Alice Klein and Pre
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Pre-K Mathematics supplemental preschool curriculum**: Pre-K Mathematics is "a supplemental curriculum designed to develop the informal mathematical knowledge and skills of preschool children with content organized into seven units": counting and numbers, arithmetic operations (fall and spring), spatial sense and geometry, patterns, measurement and data, and logical reasoning. Concepts are taught through teacher-guided small-group activities with concrete manipulatives, with parallel take-home activities designed to help parents support their children's mathematical development at home. It was developed by Alice Klein and Prentice Starkey with Alma Ramirez and distributed by Pearson Scott Foresman. (U.S. Department of Education et al. (2013))
 - **Teacher-guided small-group manipulatives lessons paired with parallel take-home parent activities**: The Pre-K Mathematics program organizes instruction as weekly math activities presented twice in teacher-guided small-group lessons of four to six children lasting approximately 20 minutes, using concrete manipulatives, with "related math activities... sent home every 1 to 2 weeks" and parents encouraged to engage their children with these activities. Home activity materials parallel the classroom activities and are available with picture strips in English or Spanish. This classroom-plus-home structure was implemented across both reviewed studies over the school year. (U.S. Department of Education et al. (2013))
+- **Pre-Pre-K Mathematics and Pre-K Mathematics curricula with home activities and professional development**: Two paired early-math curricula: Pre-Pre-K Mathematics for 3-year-olds with 13 classroom math activities, and Pre-K Mathematics for 4-year-olds with 24 classroom math activities. Activities in both curricula "were implemented with concrete manipulatives and employed rich mathematical language", delivered in small groups with teacher scaffolding, and paired with home math activities in English or Spanish sent to parents. Teachers received intensive workshops distributed across the year plus on-site facilitation with formative evaluation visits and corrective feedback. (Prentice Starkey et al. (2013))
 
 ### Claims
 - [The CMA-A math finding in the PCER study is not statistically significant after correction for multiple comparisons](../claims/pcer-cma-a-nonsignificant-after-correction.md) [~W]
@@ -35,6 +36,8 @@ A supplemental preschool mathematics curriculum developed by Alice Klein and Pre
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool phonological processing](../claims/prek-mathematics-no-phonological-effects.md) [~W]
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool print knowledge](../claims/prek-mathematics-no-print-knowledge-effects.md) [~W]
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](../claims/prek-mathematics-positive-math-effects.md) [+M]
+- [The Pre-Pre-K Mathematics intervention produces greater math knowledge gains in 3-year-olds than no intervention, with large effect sizes](../claims/pre-pre-k-math-large-gains-3-year-olds.md) [+M]
+- [The Pre-K Mathematics intervention produces greater math knowledge gains in 4-year-olds than business-as-usual control](../claims/pre-k-math-gains-4-year-olds.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -42,9 +45,9 @@ A supplemental preschool mathematics curriculum developed by Alice Klein and Pre
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2013). Pre-K Mathematics with DLM Early Childhood Express Math. https://ies.ed.gov/ncee/wwc/InterventionReport/381
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2013). Pre-K Mathematics with DLM Early Childhood Express Math. http://whatworks.ed.gov
-
 <!-- merged 2026-10-10 from elements/prek-mathematics-curriculum ("Pre-K Mathematics supplemental preschool curriculum"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2013). Pre-K Mathematics with DLM Early Childhood Express Math. http://whatworks.ed.gov
+- Prentice Starkey, Alice Klein, & Lydia DeFlorio. (2013). Changing the Developmental Trajectory in Early Math Through a Two-Year Preschool Math Intervention. SREE Fall 2013 Conference Abstract. https://www.sree.org
 
 # Pre-K Mathematics supplemental preschool curriculum
 

@@ -76,3 +76,4 @@ Final SEM path predicting the latent memory factor (free and cued recall loading
 - [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](performance-goals-predict-lower-memory-self-efficacy.md) — related
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
 - [In a cross-sectional model of adults, memory self-efficacy is positively associated with memory performance and carries a significant indirect path from learning goals and a marginal one (p = .07) from performance goals](memory-self-efficacy-predicts-performance-mediation.md) — related
+- [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](age-negative-reading-metacognitive-group.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (126 show a difference, 36 mixed, 26 no difference) · 101 studies (43 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 36 of 101 report an effect size · 183 claims rest on one study
+> **Evidence** · 189 claims (127 show a difference, 36 mixed, 26 no difference) · 102 studies (43 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 36 of 102 report an effect size · 184 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -226,6 +226,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Facebook-based peer comments outperform paper-and-pen peer comments on post-test writing quality](../claims/facebook-peer-comments-outperform-paper-pen.md) [+M] — instruction changes it
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](../claims/paper-pen-peer-comments-improve-writing-quality.md) [+M] — instruction changes it
 - [Treatment effects did not differ by CBM-W scoring procedure or WJ III subtest, with students appearing to improve both basic and more complex writing skills](../claims/dbi-writing-no-scoring-type-differential.md) [+M] — instruction changes it
+- [Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission](../claims/coaching-improves-academic-skills-six-ways.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

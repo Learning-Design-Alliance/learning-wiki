@@ -112,3 +112,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — a narrower finding that bears on this claim
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
 - [Training combining educational and practical elements improves more delivery-quality outcomes (52%) than education-only training (23%)](combined-educational-practical-training-more-effective-than-education-only.md) — a narrower finding that bears on this claim
+- [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](coaching-self-selectors-higher-academic-risk.md) — related

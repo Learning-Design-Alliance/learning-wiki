@@ -71,3 +71,4 @@ Same cohort analysis of attendance trajectories between first and second semeste
 - Punitive responses to absence do not improve attendance and can worsen it — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
+- [FGC showed no impact on hard educational performance outcomes (failure, final marks, truancy) at the end of the school year](fgc-no-impact-hard-outcomes.md) — related

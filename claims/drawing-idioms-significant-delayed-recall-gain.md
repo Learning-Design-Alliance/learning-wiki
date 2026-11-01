@@ -52,3 +52,4 @@ Independent-samples t-test on the delayed posttest given after a 2-week interval
 - [Drawing mental images of idioms does not significantly improve immediate idiom recall among Iranian EFL learners](drawing-idioms-no-significant-immediate-recall-gain.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Portfolio assessment is followed by a statistically significant posttest difference in idiom knowledge between Iranian upper-intermediate EFL learners who kept portfolios and those who received traditional instruction](portfolio-assessment-improves-idiom-knowledge-efl.md) — related
+- [Etymological elaboration improves EFL learners' one-week retention of idioms](etymological-elaboration-improves-idiom-retention.md) — related

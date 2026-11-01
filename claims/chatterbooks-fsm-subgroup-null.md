@@ -59,3 +59,8 @@ Pre-specified subgroup analysis on the primary reading outcome using free school
 - [Chatterbooks showed no statistically significant effect on reading ability among Year 7 pupils below Level 4, with a slightly negative point estimate](chatterbooks-no-impact-reading-ability.md) — related
 - [Chatterbooks Plus showed no statistically significant effect on reading ability, with an effect size indistinguishable from zero](chatterbooks-plus-no-impact-reading-ability.md) — related
 - [Secondary outcomes (sentence completion and passage comprehension subscales) showed no significant effects for either intervention](chatterbooks-secondary-outcomes-null.md) — related
+- [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
+- [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
+- [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related

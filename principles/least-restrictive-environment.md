@@ -23,7 +23,7 @@ sources:
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 16 studies (7 associational, 3 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 17 studies (7 associational, 4 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Placement, the instruction delivered in each setting, achievement, adjustment an
 - [Capacity, opportunity, and transition empowerment predicted students' self-reported self-determination, but degree of inclusion in general education did not](../claims/capacity-opportunity-empowerment-predict-self-determination-not-inclusion.md) [-W]
 - [Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes](../claims/ci-regression-predictors-of-outcomes.md) [~W]
 - [Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms](../claims/cps-eleven-high-change-schools-concentration-and-separation.md) [-W]
+- [Special education students in treatment schools were more likely to be immersed in regular math classrooms, an association the authors link to ASSISTment use](../claims/assistments-associated-special-education-immersion.md) [+W]
 
 ## Related Principles
 - [Flexible Grouping](flexible-grouping.md) — temporary small groups inside a class are often how specially designed instruction can be delivered without removing a student from it

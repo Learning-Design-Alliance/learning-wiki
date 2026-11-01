@@ -43,7 +43,8 @@ The article recommends three concrete design moves for open hardware learning pl
 - [First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components](../claims/first-time-builder-v41-validation.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
 
 ## Examples
 -

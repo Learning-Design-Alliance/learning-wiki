@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (128 show a difference, 53 mixed, 17 no difference) · 116 studies (41 associational, 31 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 116 report an effect size · 195 claims rest on one study
+> **Evidence** · 199 claims (129 show a difference, 53 mixed, 17 no difference) · 117 studies (41 associational, 32 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 117 report an effect size · 196 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -233,6 +233,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Graphic-organizer vocabulary instruction raises positive achievement emotions (enjoyment, hope, pride) more than the C(2)QU contextual process in fourth-grade social studies](../claims/gos-instruction-raises-positive-achievement-emotions.md) [+W] — instruction changes it
 - [Participants at the independent school reported negative experiences of the intervention, including frustration, confusion and difficulty completing tasks](../claims/intervention-negative-experiences-penryn.md) [+M] — instruction changes it
 - [Control group students valued laboratory group work but also reported boredom with the number and simplicity of experiments](../claims/control-group-opinions-groupwork-benefits-drawbacks.md) [~W] — instruction changes it
+- [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](../claims/nasa-tlx-frustration-perceived-performance-ar.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

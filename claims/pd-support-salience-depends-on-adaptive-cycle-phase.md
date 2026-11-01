@@ -56,3 +56,4 @@ This is a two-case comparative study with no control condition and no standardiz
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](planetary-health-course-three-key-lessons.md) — related
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
+- [Addressing attitudes, knowledge, and practice together offers teachers multiple pathways into change, letting PD build on individual motivations](multiple-pathways-teacher-change.md) — related

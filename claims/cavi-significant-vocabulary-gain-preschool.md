@@ -58,3 +58,4 @@ Paired-samples t-test on the CAVI experimental group (n=16) in a quasi-experimen
 - [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for intermediate Iranian EFL learners](cavi-outperforms-teacher-led-intermediate-vocabulary.md) — related
 - [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for pre-intermediate Iranian EFL learners](cavi-outperforms-teacher-led-pre-intermediate-vocabulary.md) — related
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related
+- [The experimental group improved its vocabulary scores significantly from pre-test to post-test under CALL instruction](experimental-group-significant-pre-post-vocabulary-gain.md) — related

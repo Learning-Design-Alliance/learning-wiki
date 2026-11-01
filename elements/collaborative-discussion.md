@@ -18,7 +18,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 11 studies (4 causal, 4 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q4` · 2 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 12 studies (5 causal, 4 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
@@ -51,6 +51,7 @@ Collaborative discussion is the element in which learners build understanding to
 - [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](../claims/critical-sharing-and-teacher-intervention-effective-folding-back.md) [~W]
 - [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](../claims/four-episodes-exploratory-content-generation.md) [~W]
 - [Collecting with Myartspace prompted collaborative and competitive negotiation among students about what to collect](../claims/collecting-prompts-negotiation-and-competition.md) [+W]
+- [Students reported that Geometer's Sketchpad encouraged interaction with teachers and friends in the mathematics classroom](../claims/gsp-perception-classroom-interaction.md) [+W]
 
 ## The evidence by question
 - *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]

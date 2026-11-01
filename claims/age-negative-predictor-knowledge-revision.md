@@ -47,3 +47,4 @@ Correlational fixed effect (age) in the mixed-effects models of the 56-participa
 ## Related Claims
 - [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
 - [Negative in-the-moment emotions toward correct-outcome sentences predict significantly lower open-ended knowledge revision scores](negative-emotions-correct-outcome-predict-lower-revision.md) — related
+- [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](age-negative-reading-metacognitive-group.md) — related

@@ -60,3 +60,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — reports the opposite
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — reports the opposite
 - [Within the experimental group, female participants responded better to humour-based teaching than male participants](female-participants-respond-better-humour.md) — related
+- [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](female-groups-performed-better-ar-platform.md) — related

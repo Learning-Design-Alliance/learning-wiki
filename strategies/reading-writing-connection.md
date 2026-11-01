@@ -58,9 +58,11 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 5. Close the loop: students revise by re-reading their draft *as a reader*, checking whether it communicates the intended meaning to a peer.
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — individualized feedback that sustains the writing side of the connection
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — prepares learners to link what they read to what they will write
 - [Annotating](../principles/annotating.md) — the bridge activity connecting analytic reading to composing
+- [Use listening-based journal tasks in which students comprehend a listening input and then respond in their own words](listening-based-journal-summary-tasks.md)
 
 ## Examples
 - **[Writing Next](https://www.carnegie.org/media/filer_public/9d/e2/9de20604-a055-42da-bc00-77ab79e88e54/cc_writing_next_2007.pdf)** ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) — meta-analysis of adolescent writing instruction whose recommendations (strategy instruction, summarization, collaborative writing) operationalize the reading–writing connection.

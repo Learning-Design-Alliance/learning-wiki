@@ -17,7 +17,7 @@ sources:
 # Critical Constructive Feedback Processing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (4 for, 3 mixed, 1 against) · 6 studies (2 causal, 2 associational, 1 review, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 7 studies (3 causal, 2 associational, 1 review, 1 qualitative), `q2`–`q3` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Critical constructive feedback (CCF) is feedback given after a wrong or suboptimal answer that both signals the error and offers a way to correct it. This theory treats "did the student use the feedback?" not as one question but as five sequential, independently measurable stages a piece of feedback must survive: **noticing** (attention reaches the feedback), **decoding** (the text is actually read, not just glanced at), **making sense** (the meaning is understood), **acting upon** (the student follows the feedback's guidance), and **making progress** (the action produces real improvement on a later attempt). Framing feedback processing this way turns "feedback neglect" from a single failure mode into a diagnosable pipeline, where a design fix aimed at one stage (e.g., making feedback more noticeable) can succeed at that stage while leaving downstream stages untouched. The model draws on established error-handling stages from human-computer interaction (Nielsen 1994; Norman 1988) and on social-cueing and persona-effect research to motivate why an embodied, gazing pedagogical agent — rather than a generic visual cue like an arrow — can move a student through the earliest stages.
@@ -45,6 +45,7 @@ Critical constructive feedback (CCF) is feedback given after a wrong or suboptim
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](../claims/accurate-diagnosis-not-actionable-feedback.md) [-W]
 - [Feedback is more likely to be implemented when it clearly locates problems, proposes solutions, and provides a summary rather than judging work right or wrong](../claims/located-actionable-feedback-more-implemented.md) [+W]
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](../claims/sender-credibility-supports-feedback-use.md) [+W]
+- [Mother-tongue interference errors resist full correction even under constructive feedback](../claims/interlingual-errors-resist-cfb-correction.md) [-W]
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — acting upon feedback and monitoring progress overlap with SRL's monitoring and control phases, but this theory decomposes the pre-monitoring attentional and comprehension steps that SRL treats as already given

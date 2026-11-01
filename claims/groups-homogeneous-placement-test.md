@@ -56,3 +56,4 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [The experimental and control groups were homogeneous in English proficiency before the intervention](celt-homogeneity-portfolio-writing-study.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
+- [Mode of teaching idioms has a statistically significant effect on EFL learners’ idiomatic competence](teaching-mode-significant-effect-idiomatic-competence.md) — related

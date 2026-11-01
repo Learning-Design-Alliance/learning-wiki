@@ -68,3 +68,4 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related
+- [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related

@@ -49,3 +49,4 @@ Narrative synthesis of four studies (Studies 2, 8, 13, 24) on reading proficienc
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [A single reviewed study suggests PBL improves EFL listening comprehension, leaving a clear research gap](pbl-listening-comprehension-single-study.md) — related
+- [Upper-intermediate EFL learners trained with metacognitive strategies achieved the highest reading scores among the three strategy groups](metacognitive-group-highest-reading-scores.md) — related

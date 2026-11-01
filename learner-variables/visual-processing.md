@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (37 show a difference, 14 mixed, 9 no difference) · 36 studies (11 causal, 10 associational, 9 review, 4 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 36 report an effect size · 60 claims rest on one study
+> **Evidence** · 61 claims (37 show a difference, 15 mixed, 9 no difference) · 37 studies (12 causal, 10 associational, 9 review, 4 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 37 report an effect size · 61 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -96,6 +96,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](../claims/traditional-null-versus-control-no-universal-superiority.md) [-W] — instruction changes it
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](../claims/cmb-run-improves-visual-attention.md) [+M] — instruction changes it
 - [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](../claims/classic-cognitive-training-improves-multiple-domains.md) [+M] — instruction changes it
+- [Labeling increases visual attention to labeled table cells, but color coding does not increase attention to color-coded cells](../claims/labeling-increases-attention-labeled-cells.md) [~M] — instruction changes it
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

@@ -53,3 +53,4 @@ Descriptive comparison of pre-test scores in the quasi-experiment: experimental 
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — reports the opposite
 - [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — related
 - [Instructional treatment has a significant main effect on primary pupils' environmental knowledge](treatment-main-effect-environmental-knowledge.md) — related
+- [The experimental and control groups differed significantly in reading performance before the treatment](pretest-group-difference-pkbm-reading.md) — reports the opposite

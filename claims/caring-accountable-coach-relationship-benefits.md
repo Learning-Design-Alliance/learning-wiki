@@ -51,3 +51,4 @@ Qualitative interview responses to the second research question about benefits o
 - [Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations](transgender-students-report-fewer-school-supports.md)
 - [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
 - [Coached students reported growing use of self-talk as an executive functioning strategy, with one exception](self-talk-growth-attributed-to-coaching.md) — related
+- [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) — related

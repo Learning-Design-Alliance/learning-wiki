@@ -64,3 +64,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — related
 - [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
+- [Project-method learners significantly outperformed control learners on the final test's reproduction-level questions](project-method-reproduction-level-final-test.md) — related

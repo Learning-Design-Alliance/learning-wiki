@@ -49,6 +49,7 @@ The review's authors recommend that the consistently deployed competencies be tr
 ## Related Strategies
 
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
+- [School counselors set up peer-led small groups where trained students teach STAC strategies to their peers](stac-peer-leader-follow-up-groups-strategy.md)
 
 ## Examples
 -

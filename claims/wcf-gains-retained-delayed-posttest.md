@@ -48,3 +48,4 @@ Independent samples t-test on the delayed post-test, administered unannounced tw
 - [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](wcf-improves-preposition-accuracy-immediate-posttest.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.](cf-type-explicit-long-term-benefits.md) — related
+- [Mother-tongue interference errors resist full correction even under constructive feedback](interlingual-errors-resist-cfb-correction.md) — reports the opposite

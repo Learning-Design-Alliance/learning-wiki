@@ -50,3 +50,4 @@ Multilevel analysis of teacher anxiety and enjoyment subscales across three time
 ## Related Claims
 - [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](decreasing-emotions-linked-better-learning-gains.md) — related
+- [STAC intervention students showed a trend toward decreased anxiety relative to wait-list control students (p = .06)](stac-anxiety-decrease-trend.md) — related

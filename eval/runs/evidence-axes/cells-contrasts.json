@@ -59974,5 +59974,465 @@
  "simulation\tdrama-based physical simulation of matter and heat transfer\ttraditional science teaching": {
   "label": "physical simulation vs traditional teaching",
   "treatment_is_a": true
+ },
+ "active-learning\t7E learning cycle model\tconventional teaching": {
+  "label": "7E learning cycle vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPhilosophy for Children group dialogues\tbusiness as usual": {
+  "label": "Philosophy for Children group dialogues vs usual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPhilosophy for Children group dialogues\tnormal classes": {
+  "label": "Philosophy for Children group dialogues vs usual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPhilosophy for Children group dialogues\tnot reported": {
+  "label": "Philosophy for Children group dialogues vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tSTAD cooperative learning approach\tconventional teaching approach": {
+  "label": "STAD cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tanimation film reviewed and discussed with teacher using visual models\tindividual viewing of the animation film": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tanimation film reviewed and discussed with the teacher, using additional visual materials\tindividual viewing of the animation film": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tanimation review with teacher discussion and visual models\tindividual animation viewing": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\tconventional teaching": {
+  "label": "Case-based learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning approach\tconventional approach": {
+  "label": "Cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning approach\tconventional teaching approach": {
+  "label": "Cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning approach using STAD\tconventional teaching approach": {
+  "label": "STAD cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tmath emporium instruction\ttraditional lecture instruction": {
+  "label": "Math emporium instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmath emporium instruction, excluding repeat posttest attempts\ttraditional lecture instruction": {
+  "label": "Math emporium instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmath emporium instructional method\ttraditional lecture method": {
+  "label": "Math emporium instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring by trained typically developing peers\tcontrol condition without peer tutoring": {
+  "label": "Peer tutoring by trained typically developing peers vs no peer tutoring",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring by trained typically developing peers\tpost-training performance": {
+  "label": "Peer tutoring by trained typically developing peers vs post-training performance",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-mediated discussion and explanation after reviewing the animation, with a globe, 3-D model, drawings, and ordering activity\tindividual viewing of the animation film": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-mediated film review with discussion and visual models\tindividual viewing of the animation film": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-mediated film review, discussion, and models\tindividual viewing of the animation film": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-mediated film review, discussion, and use of visual models\tfilm viewing without further mediation": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs animation viewing without further mediation",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-mediated review, discussion, and use of visual models after viewing the animation\tindividual viewing of the animation": {
+  "label": "Teacher-mediated animation review and discussion with visual models vs individual animation viewing",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled listening practice during the experiment\tthe same learners’ pre-experiment listening-practice period": {
+  "label": "learner-controlled listening practice vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour learner control\ttraditional teacher-controlled listening": {
+  "label": "learner-controlled listening instruction vs teacher-controlled listening instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour learner-controlled listening instruction\ttraditional teacher-controlled listening instruction": {
+  "label": "learner-controlled listening instruction vs teacher-controlled listening instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour listening\texperimental-group pre-intervention baseline": {
+  "label": "zero-class-hour listening vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour listening model with learner control\ttraditional teacher-controlled listening": {
+  "label": "learner-controlled listening instruction vs teacher-controlled listening instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour listening over the intervention\texperimental-group pretest baseline": {
+  "label": "zero-class-hour listening vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour listening with learner control\texperimental-group practice before the experiment": {
+  "label": "learner-controlled listening practice vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tzero-class-hour listening with learner control\ttraditional teacher-controlled listening": {
+  "label": "learner-controlled listening instruction vs teacher-controlled listening instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week financial fitness camp instruction\tpretest before camp": {
+  "label": "financial literacy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week financial literacy camp instruction\tstudents' pretest before camp instruction": {
+  "label": "financial literacy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week financial literacy curriculum\tpretest": {
+  "label": "financial literacy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week financial literacy curriculum\tpretest before camp instruction": {
+  "label": "financial literacy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute STAC training plus two follow-up meetings\twait-list control": {
+  "label": "STAC training vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute STAC training with role-play and follow-ups\twait-list control": {
+  "label": "STAC training vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcontinued metacognitive strategy instruction\texperimental group Post-test I": {
+  "label": "continued metacognitive strategy instruction vs discontinued instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdictionary-supported words\twords without dictionary support": {
+  "label": "dictionary-supported vocabulary vs unsupplemented vocabulary",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfinancial fitness camp participation\tpretest before camp": {
+  "label": "financial literacy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmeta-cognitive strategy instruction\ttraditional instruction with no meta-cognitive instruction": {
+  "label": "metacognitive strategy instruction vs traditional instruction without metacognitive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetacognitive strategy instruction\texperimental-group pre-test baseline": {
+  "label": "metacognitive strategy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetacognitive strategy instruction\tpre-test before instruction": {
+  "label": "metacognitive strategy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetacognitive strategy instruction\ttraditional instruction": {
+  "label": "metacognitive strategy instruction vs traditional instruction without metacognitive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tproactive intensive FFI\tno FFI": {
+  "label": "proactive intensive form-focused instruction vs no form-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tproactive intensive FFI\tno-FFI control instruction": {
+  "label": "proactive intensive form-focused instruction vs no form-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tproactive intensive FFI\tpretest before FFI": {
+  "label": "proactive intensive form-focused instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tproactive intensive form-focused instruction with metalinguistic explanations, repeated form-focused tasks, and explicit corrective feedback\tno form-focused instruction, meaning-focused tasks, and implicit recasts": {
+  "label": "explicit form-focused instruction vs implicit meaning-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschema-based instruction\ttranslation-based instruction": {
+  "label": "schema-based instruction vs translation-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschema-based instruction (SBI)\ttranslation-based instruction (TBI)": {
+  "label": "schema-based instruction vs translation-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twords receiving dictionary explanations\twords appearing in the story without dictionary explanations": {
+  "label": "dictionary-supported vocabulary vs unsupplemented vocabulary",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twords with dictionary explanations\twords without dictionary explanations": {
+  "label": "dictionary-supported vocabulary vs unsupplemented vocabulary",
+  "treatment_is_a": true
+ },
+ "feedback-type\tconstructive feedback through error analysis\ttraditional feedback and error correction": {
+  "label": "constructive feedback via error analysis vs traditional error correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tconstructive feedback via error analysis\ttraditional error correction": {
+  "label": "constructive feedback via error analysis vs traditional error correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttraditional feedback for four weeks\tpre-test before traditional feedback": {
+  "label": "traditional feedback vs pre-test before traditional feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tASSISTments online formative assessment and tutoring\ttraditional textbook activities without ASSISTments": {
+  "label": "ASSISTments-based formative assessment and tutoring vs traditional textbook activities without ASSISTments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tASSISTments use by special education students\tno ASSISTments use in the comparison school": {
+  "label": "ASSISTments-based formative assessment and tutoring vs no ASSISTments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tASSISTments web-based formative assessment and tutoring\ttraditional textbook activities without ASSISTments": {
+  "label": "ASSISTments-based formative assessment and tutoring vs traditional textbook activities without ASSISTments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative evaluation\tnormal teaching": {
+  "label": "formative evaluation vs normal teaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative evaluation during instruction\tpre-experiment baseline": {
+  "label": "formative evaluation during instruction vs pre-experiment baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative evaluation teaching\tnormal teaching": {
+  "label": "formative evaluation vs normal teaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative evaluation with feedback and corrective instruction\tnormal traditional teaching": {
+  "label": "formative evaluation with feedback and corrective instruction vs normal traditional teaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\thigh teacher ASSISTments use\tlow teacher ASSISTments use": {
+  "label": "high teacher use of ASSISTments vs low teacher use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\thigher teacher use of ASSISTments reports\tlower teacher use of ASSISTments": {
+  "label": "higher teacher use of ASSISTments reports vs lower teacher use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\thigher teacher use of ASSISTments reports\tlower teacher use of ASSISTments reports": {
+  "label": "higher teacher use of ASSISTments reports vs lower teacher use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessment\tconventional teacher assessment": {
+  "label": "self-assessment vs conventional teacher assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessment during writing\tconventional teacher assessment": {
+  "label": "self-assessment during writing vs conventional teacher assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessment during writing instruction\tteacher-only conventional assessment": {
+  "label": "self-assessment during writing instruction vs teacher-only conventional assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tTMM vocabulary activities with scores\tconventional vocabulary instruction without TMM": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "guided-discovery\t7E learning cycle model\tconventional teaching strategy": {
+  "label": "guided discovery vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tFBD provided in problem statement\tFBD not provided; students construct representations themselves": {
+  "label": "Provided force diagrams (FBDs) vs learner-constructed/no FBDs",
+  "treatment_is_a": true
+ },
+ "media-design\tFBD showing force resolution into components provided\tNo FBD provided": {
+  "label": "Provided force diagrams (FBDs) vs learner-constructed/no FBDs",
+  "treatment_is_a": true
+ },
+ "media-design\tFBDs provided in problem statements\tFBDs not provided; students construct them as needed": {
+  "label": "Provided force diagrams (FBDs) vs learner-constructed/no FBDs",
+  "treatment_is_a": true
+ },
+ "media-design\tInformation messages with supportive images\tText-only information messages": {
+  "label": "Supportive images vs text-only messages",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor coding\tno color coding": {
+  "label": "Color coding vs no color coding",
+  "treatment_is_a": true
+ },
+ "media-design\tcolor coding through the interactive interface\tno color coding": {
+  "label": "Color coding vs no color coding",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographic-supported lectures\tconventional lectures using textbook, data show, and whiteboard": {
+  "label": "Infographic-supported lectures vs conventional lectures",
+  "treatment_is_a": true
+ },
+ "media-design\tinformation messages with supportive images\ttext-only information messages": {
+  "label": "Supportive images vs text-only messages",
+  "treatment_is_a": true
+ },
+ "media-design\tlabeling\tno labeling": {
+  "label": "Labeling vs no labeling",
+  "treatment_is_a": true
+ },
+ "media-design\tlabeling through an interactive interface\tno labeling": {
+  "label": "Labeling vs no labeling",
+  "treatment_is_a": true
+ },
+ "media-design\tlabeling through the interactive interface\tno labeling": {
+  "label": "Labeling vs no labeling",
+  "treatment_is_a": true
+ },
+ "media-design\tonline learning environment with caricature animations\tonline learning environment without caricature animations": {
+  "label": "Caricature animations vs no caricature animations",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture story books\tconventional teaching without picture story books": {
+  "label": "Picture story books vs conventional teaching without picture story books",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture story books\tpre-test before picture-story-book instruction": {
+  "label": "Picture story books vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture story books\tpre-test before picture-story-book treatment": {
+  "label": "Picture story books vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture story books\tthe same students’ pre-test performance": {
+  "label": "Picture story books vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture story books used repeatedly in reading lessons\tearlier picture-story-book meetings or less frequent use": {
+  "label": "Repeated/frequent picture-story-book use vs earlier or less frequent use",
+  "treatment_is_a": true
+ },
+ "practice-amount\t90 minutes of extra instruction\tstandard camp instruction": {
+  "label": "more vs less instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tASSISTments usage (no, low, or high)\tother ASSISTments usage levels": {
+  "label": "more vs less ASSISTments use",
+  "treatment_is_a": true
+ },
+ "practice-amount\textra 90 minutes of financial literacy instruction\tregular camp instruction": {
+  "label": "more vs less instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater student use of ASSISTments\tless student use of ASSISTments": {
+  "label": "more vs less ASSISTments use",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher total coaching contact time\tlower total coaching contact time": {
+  "label": "more vs less coaching contact time",
+  "treatment_is_a": true
+ },
+ "practice-amount\trandomly selected students receiving an extra 90 minutes of instruction\tstudents receiving the standard camp instruction": {
+  "label": "more vs less instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsix total dictionary-meaning exposures across two readings\tthree dictionary-meaning exposures after the first reading": {
+  "label": "more vs fewer dictionary-meaning exposures",
+  "treatment_is_a": true
+ },
+ "prompts\tconceptual change texts enriched with metaconceptual activities\tplain texts about symmetry": {
+  "label": "metaconceptual prompts vs no metaconceptual prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tIncentivised Parent Academy classes\tNo Parent Academy invitation": {
+  "label": "Incentivised Parent Academy classes vs no Parent Academy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tParent Academy classes with £30 per session\tno Parent Academy invitation": {
+  "label": "Incentivised Parent Academy classes vs no Parent Academy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentivised Parent Academy classes\tbusiness-as-usual control": {
+  "label": "Incentivised Parent Academy classes vs business as usual",
+  "treatment_is_a": true
+ },
+ "spacing\tSMART Spaces content using combined 10-minute and 24-hour spacing (Version 3)\tVersions using only 10-minute or only 24-hour spacing": {
+  "label": "multiple spacing intervals vs single spacing interval",
+  "treatment_is_a": true
+ },
+ "spacing\tSMART Spaces content using spaced-learning variants\tNo spaces/materials control": {
+  "label": "spaced vs no-spacing/no-materials control",
+  "treatment_is_a": true
+ },
+ "spacing\tSMART Spaces content with spaced repetitions\tno spaces and no materials": {
+  "label": "spaced vs no-spacing/no-materials control",
+  "treatment_is_a": true
+ },
+ "spacing\tSMART Spaces programme\tno spaces/materials control": {
+  "label": "spaced vs no-spacing/no-materials control",
+  "treatment_is_a": true
+ },
+ "spacing\tSMART Spaces spaced-learning programme\tno spaces/materials control": {
+  "label": "spaced vs no-spacing/no-materials control",
+  "treatment_is_a": true
+ },
+ "spacing\tVersion 3 combining 10-minute and 24-hour spaces\tother SMART Spaces spacing variants": {
+  "label": "multiple spacing intervals vs single spacing interval",
+  "treatment_is_a": true
+ },
+ "spacing\tVersion 3: combined 10-minute and 24-hour spacing\tVersions 1 and 2: 10-minute-only or 24-hour-only spacing": {
+  "label": "multiple spacing intervals vs single spacing interval",
+  "treatment_is_a": true
+ },
+ "spacing\tVersion 3: combined 24-hour and ten-minute spacing\tVersions 1 and 2 using only ten-minute or only 24-hour spacing": {
+  "label": "multiple spacing intervals vs single spacing interval",
+  "treatment_is_a": true
+ },
+ "spacing\tlonger spacing intervals\tshorter spacing intervals": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced learning\tmassed study": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tthree stimulation bursts with ten-minute intervals\tmassed stimulation": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\telectronic interactive tests\tclassic paper tests": {
+  "label": "electronic interactive tests vs classic paper tests",
+  "treatment_is_a": true
+ },
+ "test-format\telectronic retesting\tpaper or blackboard retesting": {
+  "label": "electronic interactive tests vs paper/blackboard tests",
+  "treatment_is_a": true
+ },
+ "test-format\tinteractive electronic test\tclassic paper test": {
+  "label": "electronic interactive tests vs classic paper tests",
+  "treatment_is_a": true
+ },
+ "test-format\tinteractive electronic tests\tclassic paper tests": {
+  "label": "electronic interactive tests vs classic paper tests",
+  "treatment_is_a": true
+ },
+ "test-format\tinteractive electronic tests in Moodle\tclassic paper tests": {
+  "label": "electronic interactive tests vs classic paper tests",
+  "treatment_is_a": true
+ },
+ "test-format\tinteractive electronic tests without a time limit\tclassic paper tests": {
+  "label": "electronic interactive tests vs classic paper tests",
+  "treatment_is_a": true
+ },
+ "test-format\tinteractive tests\tclassic tests": {
+  "label": "interactive tests vs classic tests",
+  "treatment_is_a": true
  }
 }

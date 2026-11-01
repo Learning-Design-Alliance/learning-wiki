@@ -69,3 +69,5 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — possibly the same claim (merge candidate)
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
+- [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related

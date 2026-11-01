@@ -64,6 +64,7 @@ Concept mapping works because it requires learners to actively construct relatio
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — cross-domain links in a map are analogical connections made explicit
 - [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 - [Use visual forms to communicate complex ideas about exploring real-world problems](visual-forms-communicate-complex-ideas.md)
+- [Teach whole-text translation by having students build concept maps instead of word-by-word translation](concept-map-whole-text-translation-strategy.md)
 
 ## Examples
 - **IHMC CmapTools** (https://cmap.ihmc.us) — free software developed by Novak's group at the Institute for Human and Machine Cognition; supports collaborative map building and proposition-level linking.

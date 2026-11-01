@@ -64,6 +64,7 @@ Visuals work by directing attention to essential content, making abstract or inv
 - [Advance Organizers](../elements/advance-organizers.md) — visual frameworks presented before content
 - [Annotating](../principles/annotating.md) — marking up visuals directs attention to essential features
 - [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
+- [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — visuals that model a process step by step

@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 22 studies (12 causal, 6 review, 4 quant-synthesis), `q2`–`q4` · 4 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 23 studies (12 causal, 6 review, 4 quant-synthesis, 1 design), `q2`–`q4` · 4 of 23 report an effect size · 22 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -44,6 +44,7 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Distributed practice aids digit memorization, but massed practice is preferred for new and short mazes, indicating a boundary condition on the spacing effect](../claims/distributed-vs-massed-practice-boundary-1921.md) [~W]
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](../claims/counting-days-benefits-lower-gpa-students.md) [~W]
 - [For the untrained ITD task, the 1–3 h lapse manifested as uniform performance at naïve levels with stable within-session performance](../claims/itd-lapse-uniform-naive-level-performance.md) [~W]
+- [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [+W]
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

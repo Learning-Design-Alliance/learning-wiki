@@ -58,3 +58,4 @@ Pearson correlations using the validated Index of Learning Styles visual-verbal 
 - [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](massa-mayer-no-meshing-support.md) — a broader claim this one bears on
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — related
+- [Only competitive learning style correlated significantly with achievement, and only in the online group](competitive-style-correlation-online-only.md) — related

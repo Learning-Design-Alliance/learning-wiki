@@ -30,7 +30,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 27 studies (8 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 27 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (14 for, 16 mixed, 2 against) · 28 studies (9 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 28 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](../claims/natural-language-feedback-lower-persistent-failure-odds.md) [~W]
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](../claims/mastery-attrition-bias-confounds-learning-curves.md) [~W]
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
+- [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)

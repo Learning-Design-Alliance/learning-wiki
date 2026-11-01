@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (20 for, 16 mixed, 1 against) · 54 studies (17 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 11 of 54 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (21 for, 17 mixed, 1 against) · 56 studies (19 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 13 of 56 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W] — one case analysis (`q1`, no comparison) of teacher candidates' weekly written reflections in a clinical course; it is about reflective writing on teaching, not writing instruction, and bears on responding before the final version and requiring revision only by analogy: progress was partial and not linear.
 - [Reading Writing Abilities Overlap](../claims/reading-writing-abilities-overlap.md) [+M]
 - [Revision skill was not related to writing quality in either grade group](../claims/revision-not-related-writing-quality.md) [~W] — attached 2026-10-24 from Limpo et al. (2013), which proposed "Teach transcription to automaticity and promote planning, revising, and self-efficacy in the middle grades"; tests this page's relationship.
+- [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](../claims/process-approach-improves-efl-writing-vietnamese-secondary.md) [+W] — attached 2026-11-01 from Ngo et al. (2011), which proposed "Graduated responsibility writing lesson sequence: modeling, collaborative practice, then individual practice with fading support"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -165,6 +166,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Feedback is found to result in gains in writing development across kinds of feedback](../claims/feedback-results-in-writing-development-gains.md) [+W]
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](../claims/drafts-improved-significantly-raters-scores.md) [+W]
 - [Revised drafts were significantly longer than first drafts, with significant effects of COMPASS score and treatment condition on word count](../claims/word-count-increased-significantly-revisions.md) [+W]
+- [Pupils at Level 4a and above, who received the intervention only in Year 6, showed no significant writing benefit](../claims/srsd-no-effect-level-4a-above-year6-only.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

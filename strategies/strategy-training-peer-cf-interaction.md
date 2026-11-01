@@ -42,7 +42,8 @@ The review highlights learner-provided corrective feedback and recommends strate
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](../claims/theoretical-perspectives-cf-uptake-instruction-purpose.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Have students correct each other's compositions in pairs before submission](pair-peer-correction-before-submission.md)
 
 ## Examples
 -

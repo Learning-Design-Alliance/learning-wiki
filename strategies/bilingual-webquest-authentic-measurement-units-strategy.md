@@ -50,6 +50,7 @@ The article's implementable approach: because metric length units were already k
 
 - [Sentence Frames And Starters](sentence-frames-and-starters.md)
 - [Connecting Math to ESOL](connecting_math_to_esol.md)
+- [Add a teacher page to WebQuests listing objectives and collecting student solutions for discussion](webquest-teacher-page-strategy.md)
 
 ## Examples
 -

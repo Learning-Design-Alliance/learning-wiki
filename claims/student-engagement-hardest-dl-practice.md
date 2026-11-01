@@ -49,3 +49,4 @@ Descriptive statistics of the research dimensions (Table 2, N = 200) show the DL
 - [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](pd-course-improves-practices-not-innovativeness.md) — related
 - [Work experience positively affects teachers' self-innovativeness but negatively affects their DL self-efficacy, with DL teaching practices not differing by experience](experience-raises-self-innovativeness-lowers-dl-efficacy.md) — related
 - [Self-innovativeness, accountability, DL self-efficacy, and DL teaching practices are all positively and significantly intercorrelated](dl-dimensions-positive-correlations.md) — related
+- [Successful implementation of classroom chess lessons required tutors with strong class management and teaching skills](chess-tutor-class-management-implementation.md) — related

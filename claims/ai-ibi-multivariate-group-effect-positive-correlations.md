@@ -74,3 +74,4 @@ Secondary correlational analysis within both the experimental and control groups
 - [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
 - [Personalised print-based instruction produces statistically significant multivariate differences in attitudes toward mathematics word problems compared with non-personalised instruction](personalisation-instruction-improves-attitudes-word-problems.md) — possibly the same claim (merge candidate)
 - [Intervention effects on error attitudes do not differ across the three student attitude types](no-differential-effects-student-types.md) — related
+- [Students' perceptions toward the writing process were not correlated with their writing performance in either condition](no-correlation-perceptions-writing-performance.md) — related

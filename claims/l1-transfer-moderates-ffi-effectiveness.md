@@ -50,3 +50,4 @@ Cross-study comparison within the meta-analysis: verb tenses and the conditional
 - [Grammatical complexity and L2 proficiency interact: complex features benefit more from input at low proficiency, while simple features benefit more from output at high proficiency](complexity-proficiency-interaction-ffi.md) — related
 - [Output-based FFI was more effective than input-based FFI for complex clausal grammatical features, a difference the article characterizes as a large effect](output-ffi-advantage-clausal.md) — related
 - [Input-based FFI was more effective than output-based FFI at both beginner and intermediate proficiency levels, and both types showed larger effects for intermediate learners](input-ffi-effective-across-proficiency-levels.md) — related
+- [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related

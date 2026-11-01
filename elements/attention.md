@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (21 for, 10 mixed, 3 against) · 41 studies (15 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 27 claims rest on one study
+> **Evidence** · 35 claims (21 for, 11 mixed, 3 against) · 42 studies (16 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 28 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -79,6 +79,7 @@ Because working memory is severely limited and attention is selective, instructi
 - [Singleton search training induces value-driven relational attention regardless of target-distractor similarity](../claims/singleton-training-relational-attention-both-similarities.md) [~W]
 - [Young children's attention to a robot increased sharply when the robot reacted to their gaze](../claims/robot-gaze-reactivity-extends-child-attention.md) [+W]
 - [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](../claims/dhh-communication-preference-predicts-feature-attention.md) [+W]
+- [Labeling increases time spent with the lesson, but color coding does not](../claims/labeling-increases-time-with-lesson.md) [~W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

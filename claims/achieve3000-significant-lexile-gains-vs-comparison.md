@@ -54,3 +54,4 @@ ANCOVA on Cajon Valley fifth graders (pilot N = 89, comparison N = 109 per Figur
 - [Achieve3000 shows moderate ESSA evidence of positive effects on reading fluency](achieve3000-moderate-evidence-reading-fluency.md) — related
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — related
 - [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related
+- [Seventh graders using ASSISTments significantly outperformed comparison students on year-end MCAS scores after adjusting for prior-year scores](assistments-year-long-use-raises-mcas-scores.md) — related

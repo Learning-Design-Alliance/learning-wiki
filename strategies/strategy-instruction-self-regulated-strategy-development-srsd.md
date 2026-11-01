@@ -61,9 +61,11 @@ SRSD is among the best-supported interventions in writing research: meta-analyse
 6. **Independent performance** — learners use the strategy alone, set goals, self-monitor, and self-reinforce; instructor provides [Feedback](../elements/feedback.md) and reinforces maintenance.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — same model-release pattern applied to reading comprehension strategies
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the broader framework SRSD operationalizes for writing
 - [Goal Setting](../elements/goal-setting.md) — a self-regulation component embedded within SRSD stages
+- [Implement low-cost mnemonic story-writing strategies with explicit instruction and planning time within RTI](mnemonic-strategy-explicit-instruction-rti-writing.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — the modeling method that makes expert strategy use visible

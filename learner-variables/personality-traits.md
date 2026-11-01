@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (57 show a difference, 17 mixed, 10 no difference) · 41 studies (15 review, 13 associational, 6 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 41 report an effect size · 84 claims rest on one study
+> **Evidence** · 86 claims (58 show a difference, 18 mixed, 10 no difference) · 42 studies (15 review, 13 associational, 7 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 42 report an effect size · 86 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -119,6 +119,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](../claims/grit-and-enjoyment-predict-language-success.md) [+M] — learners who differ on it differ in outcomes
 - [Positive psychological traits and emotions are significantly and positively correlated with SL/FL learning performance and can predict it](../claims/pp-positively-correlated-with-language-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Grit shows the strongest relationship to academic performance of all non-cognitive factors examined in rehabilitation science students](../claims/grit-strongest-non-cognitive-correlate-academic-performance-rehabilitation.md) [+M] — learners who differ on it differ in outcomes
+- [Students with introvert personal traits achieved higher descriptive-writing scores than students with extrovert personal traits](../claims/introverts-outscore-extroverts-descriptive-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Teaching technique and personal traits interacted significantly in their effect on descriptive-writing achievement](../claims/technique-trait-interaction-descriptive-writing.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

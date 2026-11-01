@@ -73,3 +73,5 @@ Impact table prints EverFSM effect sizes of 0.03 (reading, 0 months), 0.05 (math
 - [Volunteer pupils in Children's University schools made 2 additional months' progress in reading and maths compared with volunteer pupils in control schools after two years](cu-two-year-reading-maths-progress-gains.md) — related
 - [Volunteer pupils in Children's University schools made small gains in teamwork and social responsibility compared with control-school volunteers after two years](cu-two-year-teamwork-social-responsibility-gains.md) — related
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
+- [Children who began the school year behind national norms gained closer to five additional months of math learning from the intervention](emc-pd-largest-gains-behind-norms-children.md) — related
+- [Participation in uniformed youth groups is associated with small improvements in self-reported self-confidence and teamwork](youth-united-small-non-attainment-gains.md) — related

@@ -61,3 +61,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — related
 - [About 70% of surveyed students prefer flipped to traditional classrooms](students-prefer-flipped-classroom-survey.md) — related
+- [Case-based learning yielded the highest attitude mean score, significantly above conventional teaching, but the 7E-versus-CBL attitude difference was not significant](cbl-attitude-7e-not-significant.md) — related

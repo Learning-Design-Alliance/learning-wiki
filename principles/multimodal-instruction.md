@@ -192,6 +192,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](../strategies/multiliteracies-video-comprehension-activities.md)
 - [Five key representations for introductory statistics: verbal descriptions, visualizations, word equations, GLM notation, and R code](../designs/statistics-five-key-representations.md)
 - [Use deictic pointing gestures by the lecturer to integrate the lecturer with relevant illustrative material in educational videos](../strategies/deictic-gestures-pointing-design-recommendation.md)
+- [Use the SEE-SAY-SIGN method to teach sight words: simultaneously see the word card, say the word, and sign it](../strategies/see-say-sign-sight-word-method.md)
 
 ## Key Sources
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)

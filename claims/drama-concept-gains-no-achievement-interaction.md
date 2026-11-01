@@ -50,3 +50,4 @@ ANCOVA interaction test on SCT in the same 87-student quasi-experiment. Adjusted
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
+- [Learning model interacts with student attitudes and perceptions in affecting geometry concept understanding](interaction-learning-model-attitudes-geometry-understanding.md) — related

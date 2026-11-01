@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 111 claims (49 for, 58 mixed, 4 against) · 85 studies (42 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 85 report an effect size · 102 claims rest on one study
+> **Evidence** · 114 claims (50 for, 60 mixed, 4 against) · 87 studies (44 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 87 report an effect size · 105 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,9 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
 - [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 - [The quantity of videos and 3D animations was related to success in remedying misconceptions: where materials were quite limited, incorrect or partly true answers remained high](../claims/material-quantity-related-to-misconception-remediation.md) [~W]
+- [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
+- [Color coding does not improve learning about posterior probability from a simple table, and adds no benefit when combined with labeling](../claims/color-coding-no-learning-benefit-simple-table.md) [~W]
+- [Labeling improves undergraduates' learning about posterior probability from a text-and-table lesson](../claims/labeling-improves-posterior-probability-learning.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -69,3 +69,4 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Think-pair-share instruction produced higher conceptual learning in classical mechanics than conventional teacher-centered teaching in a quasi-experimental physics course](tps-improves-conceptual-learning-mbt.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
+- [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related

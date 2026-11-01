@@ -56,3 +56,7 @@ Pre-specified exploratory subgroup analyses added interaction terms (Pre-test ×
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
 - [Among FSM-eligible pupils, music workshops showed no impact on attainment relative to the drama control](asp-fsm-pupils-no-music-attainment-impact.md) — related
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — related
+- [Sub-group analysis found no significant interactions with pupil gender or free school meal eligibility](catch-up-numeracy-no-subgroup-differential-effects.md) — related
+- [Improvements in attainment were not significantly moderated by English as an additional language, ethnicity, FSM Ever 6 status, or prior attainment](perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment.md) — related
+- [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
+- [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related

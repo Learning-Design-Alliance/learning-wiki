@@ -51,3 +51,4 @@ The review reports, citing Bergman (2014), a randomly selected treatment in whic
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
 - [Appropriate educational technology improved home-school links and parent and teacher roles in the HOMEWORK evaluations](homework-technology-strengthened-parent-teacher-roles.md) — related
+- [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](parent-academy-parent-confidence-engagement.md) — related

@@ -52,6 +52,7 @@ The review recommends that teacher educators and school administrators attend to
 - [Train teachers and staff on how to deal with conflict in constructive ways to prevent conflicts from escalating](constructive-conflict-training-staff.md)
 - [Conflict De Escalation](conflict_de-escalation.md)
 - [Set Aside Your Own Reaction](set_aside_your_own_reaction.md)
+- [Use universal teacher training that targets teacher perceptions and skills with parents to promote parent involvement at scale](universal-teacher-training-parent-involvement-strategy.md)
 
 ## Examples
 -

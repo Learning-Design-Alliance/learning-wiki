@@ -65,3 +65,4 @@ Pre-specified subgroup analysis testing moderation by National Curriculum readin
 
 ## Related Claims
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](vefp-no-significant-impact-reading-ability.md) — related
+- [A significant interaction between intervention group and pre-test score suggests Rhythm for Reading was associated with worse outcomes for lower-ability pupils and better outcomes for higher-ability pupils](rhythm-for-reading-pretest-interaction.md) — reports the opposite

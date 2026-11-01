@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 43 studies (15 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 43 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (28 for, 9 mixed, 2 against) · 45 studies (17 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 45 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
 - [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](../claims/contrasting-orthographically-similar-l2-words-improves-recall.md) [+W] — attached 2026-10-23 from Baxter et al. (2022), which proposed "Use contrasting of orthographically similar new L2 words to sharpen form representations".
 - [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](../claims/embedded-lessons-vocabulary-gains-story-friends.md) [+W] — attached 2026-11-01 from Goldstein et al. (2016), which proposed "Embedding explicit vocabulary and comprehension lessons inside prerecorded storybooks for small-group listening centers"; tests this page's relationship.
+- [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](../claims/delayed-posttest-vocabulary-decline-off-list-words.md) [+W] — attached 2026-11-01 from Sénécal et al. (2018), which proposed "Ensure learners receive sufficient meaningful encounters with target vocabulary items for them to be learnable"; tests this page's relationship.
+- [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](../claims/asl-signing-higher-sight-word-posttest-accuracy.md) [+W] — attached 2026-11-01 from Sherman (2011), which proposed "Teach vocabulary with multiple exposures, interaction, multi-sensory input, personal associations, and explicit systematic instruction".
 
 ## Objective and learner-valued goal
 

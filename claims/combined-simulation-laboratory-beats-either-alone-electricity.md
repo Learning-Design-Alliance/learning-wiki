@@ -58,3 +58,5 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](simulation-method-higher-posttest-human-body-unit.md) — related
 - [Eighth graders taught with the Herrmann Whole Brain Teaching Method significantly outperformed conventionally taught peers on conceptual understanding of simple electric circuits](hwbtm-outperforms-conventional-electric-circuits.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
+- [Control-group students who experienced sample analogies after the post-test mostly supported using analogies in lectures](control-students-support-analogies-after-exposure.md) — related
+- [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](detailed-analogies-improve-computer-hardware-learning.md) — related

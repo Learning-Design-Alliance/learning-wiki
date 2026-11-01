@@ -82,6 +82,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 7. Extend with writing connections, e.g., the child dictates a sentence about the story that the adult writes down.
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the child-led interactive variant; the strongest-evidenced form of shared reading
 - [Repeated Reading](repeated-reading.md) — rereading the same text builds the fluency shared reading models
 - [Read-Alouds](read-alouds.md) — the non-interactive precursor; shared reading adds print referencing and questioning
@@ -89,6 +90,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 - Echo and partner reading — the turn-taking adaptation for older or more advanced readers
 - Repeated reading — rereading for fluency, naturally embedded in shared reading routines
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](gradual-shift-to-higher-level-prompts.md)
+- [Use a staged picture-story-book procedure: whole-picture stimulus, picture-text matching in groups, ordering, then individual retelling](staged-picture-story-book-reading-procedure.md)
 
 ## Examples
 - A parent points to each word while reading a picture book, pausing to ask "What do you think happens next?" — classic print-referencing shared reading.
