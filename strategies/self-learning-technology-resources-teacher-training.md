@@ -47,6 +47,7 @@ The article recommends that since the e-classroom promotes self learning, "teach
 ## Related Strategies
 
 - [Adopt active-participation strategies such as CRAIS for mathematics teaching and train teachers through seminars and workshops](adopt-crais-via-teacher-training-seminars-workshops.md)
+- [Provide in-service training, workshops, seminars and conferences on ICT utilization for teachers](in-service-ict-training-for-teachers.md)
 
 ## Examples
 -

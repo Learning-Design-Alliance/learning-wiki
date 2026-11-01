@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 174 claims (73 for, 90 mixed, 11 against) · 116 studies (37 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 32 of 116 report an effect size · 163 claims rest on one study
+> **Evidence** · 175 claims (74 for, 90 mixed, 11 against) · 117 studies (38 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 117 report an effect size · 164 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](../claims/metacognitive-instruction-effects-meta-analyses.md) [+W] — attached 2026-10-26 from Damien S. Fleur et al. (2021), which proposed "Design metacognitive instruction that combines strategy instruction with strategy knowledge and extends over a longer duration"; tests this page's relationship.
 - [Learning journals can enhance metacognition and achievement, but benefits depend on reflection type and quality of instructions](../claims/learning-journals-reflection-type-moderates-benefit.md) [+W] — attached 2026-10-26 from Damien S. Fleur et al. (2021), which proposed "Design metacognitive instruction that combines strategy instruction with strategy knowledge and extends over a longer duration".
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](../claims/vle-learners-need-metacognitive-scaffolding.md) [+W] — attached 2026-10-29 from O'Neill et al. (2026), which proposed "Use the VLE to extend metacognitive influence on student activity outside class time with realistic staff input, and re-frame educators as designers"; tests this page's relationship.
+- [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](../claims/metacognitive-strategy-literary-books-posttest-reading-comprehension.md) [+M] — attached 2026-11-01 from Erkan Çer (2016), which proposed "Pair metacognitive strategy instruction with books of literary quality appropriate to children's developmental levels"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

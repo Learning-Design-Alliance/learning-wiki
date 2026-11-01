@@ -73,3 +73,4 @@ Same mediation analysis (Table 8, all paths labelled PM, partial mediation). Bec
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [Student-perceived cognitive activation partially mediates the relation between student-observed learning activities and students' effort in learning](cognitive-activation-mediates-icap-effort-relation-distance-teaching.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

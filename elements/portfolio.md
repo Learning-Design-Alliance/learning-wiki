@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 6 studies (1 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 7 studies (2 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -59,6 +59,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](../claims/portfolio-principles-deeper-explanations.md) [+W]
 - [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](../claims/portfolio-principles-more-high-level-questions.md) [+W]
 - [Technologies are used to assess student performance during WIL, commonly via online reflective journals and e-portfolios](../claims/technology-assessment-reflective-journals-ewil.md) [+W]
+- [Portfolio assessment is followed by a statistically significant posttest difference in idiom knowledge between Iranian upper-intermediate EFL learners who kept portfolios and those who received traditional instruction](../claims/portfolio-assessment-improves-idiom-knowledge-efl.md) [+W] — attached 2026-11-01 from Abdorreza Tahriri et al. (2014), which proposed "Portfolio assessment procedure combining self-assessment, peer assessment, teacher feedback, and revision of writing samples"; tests this page's relationship.
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]
@@ -74,6 +75,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — portfolios support the articulation and reflection phases by documenting the learner's evolving practice
 
 ## Examples
+
 - [Program-wide portfolio assessment in first-year composition](../designs/program-wide-portfolio-assessment-composition.md) — writing faculty review sampled portfolios across sections to calibrate and improve teaching
 
 **[Portfolio Assessment Strategy](../strategies/portfolio-assessment.md)** — Learners select work samples across a term, write reflective rationales for each, and present the collection at a final conference.
@@ -86,6 +88,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
 - [Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked](../strategies/reflective-teaching-portfolios.md)
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](../strategies/calibration-training-moderation-portfolio-review.md)
+- [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](../strategies/introduce-portfolios-for-learner-self-assessment-awareness.md)
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.

@@ -48,3 +48,5 @@ Independent samples t-test on pre-test scores in the quasi-experiment: experimen
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](logo-posttest-outperformed-control-2d-shapes.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
+- [Before treatment, the CBI and FII groups showed no significant difference in mathematics achievement](cbi-fii-pretest-equivalence.md) — related
+- [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related

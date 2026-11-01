@@ -59,3 +59,4 @@ Decade-trend finding from the NLTS 2012 brief comparing 2003 and 2012 survey wav
 - [Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade](iep-youth-discipline-retention-little-change-decade.md) — related
 - [NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA](nlts-2012-third-in-series-idea-youth.md) — related
 - [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-most-positive-change.md) — a narrower finding that bears on this claim
+- [Students with learning disabilities reported increased enthusiasm and engagement when learning mathematics through CBI](cbi-interview-engagement-learning-disabilities.md) — related

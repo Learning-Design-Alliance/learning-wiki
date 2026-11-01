@@ -41,7 +41,9 @@ The article recommends that analysts use its formulae and plausible values for d
 - [Preliminary findings indicate close correspondence between standard errors estimated from the derived formulae with plausible parameter values and standard errors obtained from fitting models to actual data.](../claims/csits-formulae-correspondence-actual-data.md) [+W]
 
 ## Related Strategies
+
 - Csits Plausible Parameter Values Table2
+- [Choose widely accessible software such as Excel when designing a course fully instructed with software](widely-accessible-software-course-design-strategy.md)
 
 ## Examples
 -

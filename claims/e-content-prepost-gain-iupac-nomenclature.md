@@ -48,3 +48,5 @@ Within-group pre-post comparison for the experimental group (n=36) taught throug
 - [Control-group students taught by conventional methods showed a significant pre-to-post gain in IUPAC nomenclature achievement](conventional-method-prepost-gain-iupac-nomenclature.md) — related
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Retention of IUPAC nomenclature learning was significantly better for the e-content group than the control group](e-content-retention-advantage-iupac-nomenclature.md) — related
+- [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related

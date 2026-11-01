@@ -57,6 +57,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
 - [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
+- [Provide in-service training, workshops, seminars and conferences on ICT utilization for teachers](in-service-ict-training-for-teachers.md)
 
 ## Examples
 -

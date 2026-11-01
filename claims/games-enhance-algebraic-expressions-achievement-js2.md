@@ -55,3 +55,6 @@ Quasi-experimental pre-test, post-test, non-randomized control group study of 24
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
+- [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — a narrower finding that bears on this claim
+- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related

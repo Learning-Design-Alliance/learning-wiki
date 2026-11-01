@@ -63,3 +63,4 @@ Outcome results from the randomised control study of 73 university students, in 
 - [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related
 - [Neither GenAI intervention outperformed standard ChatGPT control on effort, domain-specific knowledge, or elaboration-based strategy use](genai-srl-interventions-no-advantage-over-control.md) — related
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related
+- [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related

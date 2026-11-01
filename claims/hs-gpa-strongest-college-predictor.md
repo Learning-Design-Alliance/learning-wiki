@@ -54,3 +54,4 @@ The brief summarizes research in Chicago and nationally on predictors of college
 - At least 177,000 low-income high school graduates score high enough on the SAT/ACT to qualify for entry to a public research university — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
+- [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related

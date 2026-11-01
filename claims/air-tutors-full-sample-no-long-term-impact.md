@@ -53,3 +53,4 @@ Quasi-experimental matched comparison (Mahalanobis distance matching) of 926 tre
 - Pairing an AI literacy platform with an engagement-focused human tutor does not improve elementary reading achievement — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Student participation in Air Tutors varied greatly across districts: 93 percent of District A students met the 24-hour threshold versus 16 percent in District B, where 62 percent received 15 or fewer hours](air-tutors-participation-varied-by-district.md) — related
+- [Pupils receiving Tutor Trust tuition made marginally less progress in English and mathematics than matched comparison pupils, with differences not statistically significant](tutor-trust-primary-no-significant-attainment-effect.md) — related

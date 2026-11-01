@@ -52,3 +52,4 @@ Meta-analysis using random effects model of six CCTST datasets from five studies
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — related
 - [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](pbl-improves-critical-thinking-versus-traditional-teaching.md) — a narrower finding that bears on this claim
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
+- [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](tps-posttest-subscale-significant.md) — a narrower finding that bears on this claim

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 224 claims (102 for, 117 mixed, 5 against) · 128 studies (70 associational, 24 review, 20 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 46 of 128 report an effect size · 216 claims rest on one study
+> **Evidence** · 225 claims (103 for, 117 mixed, 5 against) · 129 studies (70 associational, 24 review, 21 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 46 of 129 report an effect size · 217 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -265,6 +265,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Inhibition ability significantly decreased after playing casual games](../claims/casual-games-decrease-inhibition.md) [-W]
 - [SVA daily usage and reliance on algorithmic recommendations negatively predict working memory only in the younger cohort (12-13-year-olds)](../claims/sva-use-negative-working-memory-younger-cohort-only.md) [~W]
 - [A recent meta-analysis of 8,760 children from 25 studies found small to medium effect sizes for the association between SES and EF](../claims/meta-analysis-ses-ef-effect-sizes.md) [+M]
+- [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](../claims/fsi-gains-common-numerator-whole-number-bias-items.md) [+W]
 
 ## Related Theories
 

@@ -87,3 +87,4 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — related
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
+- [The simulation game group felt significantly less competent than the no-game group, with no significant differences in interest or effort](simulation-game-lowers-competence-no-interest-effort-effect.md) — a narrower finding that bears on this claim

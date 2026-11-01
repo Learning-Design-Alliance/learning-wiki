@@ -68,3 +68,4 @@ Quasi-experimental pre/post study of 89 fourth-year nursing students in Turkey u
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [Simulation-based learning improves practical skill test scores in endocrinology education compared with non-simulation-based learning](sbl-improves-endocrinology-practical-skills.md) — a narrower finding that bears on this claim
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — related
+- [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — a narrower finding that bears on this claim

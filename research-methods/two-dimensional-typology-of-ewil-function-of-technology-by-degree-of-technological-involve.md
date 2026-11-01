@@ -25,7 +25,8 @@ The review develops a typology classifying eWIL experiences along two dimensions
 
 
 ## Related Research Methods
--
+
+- [Two-dimensional framework classifying digital learning environments by adaptivity and basis in an explicit model of learning](two-dimensional-framework-classifying-digital-learning-environments-by-adaptivity-and-basi.md)
 
 ## Key Sources
 - Schuster, Lisa & Glavas, Charmaine (2017). Exploring the dimensions of electronic work integrated learning (eWIL). Educational Research Review, 21, pp. 55-66. https://doi.org/10.1016/j.edurev.2017.04.001

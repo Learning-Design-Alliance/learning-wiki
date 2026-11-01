@@ -67,3 +67,4 @@ The same bootstrap mediation analysis distinguished mediation types across paths
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK](ai-tk-indirect-path-aick.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

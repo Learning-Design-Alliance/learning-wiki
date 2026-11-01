@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 347 claims (152 for, 171 mixed, 24 against) · 259 studies (90 associational, 61 design, 45 review, 25 theoretical, 22 causal, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 259 report an effect size · 340 claims rest on one study
+> **Evidence** · 349 claims (153 for, 172 mixed, 24 against) · 261 studies (90 associational, 61 design, 45 review, 25 theoretical, 24 causal, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 261 report an effect size · 342 claims rest on one study
 
 ## Conditional relationship
 
@@ -421,6 +421,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](../claims/rubric-guided-grading-human-agreement.md) [~W]
 - [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](../claims/self-reports-unreliable-for-attitude-change.md) [~W]
 - [Morse's nasogastric tube tool assesses interpersonal skills with only four tube-preparation items and no reliability or validity data](../claims/ng-tube-tool-incomplete-procedural-assessment.md) [~W]
+- [Infant 1 and 2 students showed no statistically significant main or cross-level CREST treatment effects, which the authors attribute to low measurement reliability in ages 4-5](../claims/crest-null-effects-infant-1-2.md) [~W]
+- [The Turkish SATS-36 showed a six-factor structure with adequate fit, Rasch item parameters and acceptable-to-good reliability in this sample](../claims/sats36-turkish-six-factor-validation-sample.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

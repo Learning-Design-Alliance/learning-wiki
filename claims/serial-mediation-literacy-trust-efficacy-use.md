@@ -82,3 +82,4 @@ Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21,
 - [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](challenge-emotions-mediation-genai-literacy-srlb.md) — related
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](serial-mediation-social-presence-comprehensiveness.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

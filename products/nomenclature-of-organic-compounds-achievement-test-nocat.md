@@ -24,7 +24,8 @@ A researcher-developed 20-item multiple-choice achievement test for measuring un
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Chemical Equilibrium Concept Test (CECT)](chemical-equilibrium-concept-test-cect.md)
 
 ## Key Sources
 - Nawaf Ahmad Hasan Samara. (2016). Effectiveness of Analogy Instructional Strategy on Undergraduate Student's Acquisition of Organic Chemistry Concepts in Mutah University, Jordan. Journal of Education and Practice, 7(8). https://www.iiste.org

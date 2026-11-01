@@ -72,3 +72,4 @@ Meta-analytic subgroup where disadvantaged students were part of the sample: "a 
 - [Evidence for metacognitive intervention effectiveness in low-SES populations is inconsistent and weak despite the interventions' high-impact toolkit rating](metacognitive-interventions-low-ses-evidence-weak.md) — related
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
 - [ITS effects are similar for low-achieving students and the general student population](its-effects-similar-low-achievers-general-population.md) — related
+- [For pupils entitled to free school meals, Butterfly Phonics showed no statistically significant effects on any outcome (NGRT g = 0.16, SWRT g = 0.42, PhAB g = 0.18)](butterfly-phonics-fsm-subgroup-non-significant.md) — a narrower finding that bears on this claim

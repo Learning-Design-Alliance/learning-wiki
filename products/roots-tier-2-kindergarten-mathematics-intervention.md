@@ -13,19 +13,27 @@ generated:
 # ROOTS Tier 2 kindergarten mathematics intervention
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (3 causal), `q2`–`q3` · 3 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 A 50-lesson small-group intervention developed for kindergarten students with mathematics difficulties to build whole-number concepts, counting and cardinality, operations and algebraic thinking, and number sense.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Explicit and systematic small-group math instruction design**: ROOTS lessons follow an explicit and systematic instructional approach: "modeling and demonstrating what students will learn, providing guided practice opportunities, using visual representations of mathematics, and delivering academic feedback." Students receive frequent structured practice to build procedural fluency, visual representations deepen conceptual understanding, and instructional scaffolds are systematically withdrawn once students demonstrate initial proficiency, promoting learner independence and math verbalizations. (Christian Doabler et al. (2014))
+- **ROOTS Tier 2 kindergarten mathematics intervention curriculum**: ROOTS is a 50-lesson Tier 2 kindergarten intervention program targeting whole-number concepts in counting and cardinality and operations and algebraic thinking. In the trial it was "delivered in 20-minute, small-group sessions, five days per week for approximately 10 weeks" outside core instruction, in 2:1 and 5:1 student–teacher ratio groups. The curriculum prioritizes numbers 1–5 in early lessons and systematically introduces teen numbers one at a time interwoven with previously learned numbers. (Ben Clarke et al. (2016))
 
 ### Claims
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](../claims/roots-replication-significant-gains-four-measures.md) [+M]
+- [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](../claims/roots-preliminary-small-medium-effects.md) [+M]
+- [Preliminary COSTI observations suggest students in ROOTS-small (2:1) groups received rates of practice opportunities greater than or equal to peers in ROOTS-large (5:1) groups](../claims/roots-small-group-practice-rates.md) [+M]
+- [The ROOTS intervention produced greater fall-to-spring kindergarten gains than control instruction on four of five outcome measures for at-risk students](../claims/roots-greater-kindergarten-gains-four-of-five-measures.md) [+M]
+- [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](../claims/roots-students-exceed-not-at-risk-peers-gains.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Doabler, C. T., Clarke, B., Kosty, D. B., Kurtz-Nelson, E., Fien, H., Smolkowski, K., & Baker, S. K. (2016). Testing the efficacy of a tier 2 mathematics intervention: A conceptual replication study. Exceptional Children, 83, 92–110. https://doi.org/10.1177/0014402916660084
+- Christian Doabler, Ben Clarke, Keith Smolkowski, Hank Fien, Scott Baker. (2014). Testing the Efficacy of a Tier 2 Kindergarten Mathematics Intervention: Findings of Year 1. SREE Spring 2014 Conference. https://www.sree.org/
+- Ben Clarke, Christian Doabler, Keith Smolkowski, Evangeline Kurtz Nelson, Hank Fien, Scott K. Baker & Derek Kosty (2016). Testing the Immediate and Long-Term Efficacy of a Tier 2 Kindergarten Mathematics Intervention. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2015.1116034

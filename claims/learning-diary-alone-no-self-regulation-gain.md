@@ -73,3 +73,4 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](reflective-journal-writing-improves-self-regulation-strategies.md) — related

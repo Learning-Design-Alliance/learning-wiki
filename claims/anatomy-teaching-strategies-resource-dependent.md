@@ -49,3 +49,4 @@ Narrative synthesis across included studies in the scoping review's discussion; 
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — related
 - No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
+- [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — related

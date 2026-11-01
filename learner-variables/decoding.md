@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (84 show a difference, 23 mixed, 15 no difference) · 80 studies (28 associational, 21 quant-synthesis, 18 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 27 of 80 report an effect size · 117 claims rest on one study
+> **Evidence** · 123 claims (84 show a difference, 24 mixed, 15 no difference) · 81 studies (28 associational, 21 quant-synthesis, 19 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 27 of 81 report an effect size · 118 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -163,6 +163,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Tier 2 type reading interventions in grades K-3 show a moderate positive effect on not-standardized measures of foundational reading skills (mean ES = 0.62 across 33 studies).](../claims/tier2-k3-not-standardized-foundational-es-0-62.md) [+M] — instruction changes it
 - [Tier 2 type reading interventions in grades K-3 show a moderate positive effect on standardized measures of foundational reading skills (mean ES = 0.49 across 63 studies).](../claims/tier2-k3-standardized-foundational-skills-es-0-49.md) [+M] — instruction changes it
 - [Children and adolescents with mild reading disabilities show more improvement in literacy skills than more severely impaired participants](../claims/mild-reading-disability-greater-improvement.md) [+M] — learners who differ on it differ in outcomes
+- [Butterfly Phonics showed positive but non-statistically-significant effects on secondary outcome measures of single word reading (g = 0.38) and non-word reading (g = 0.23)](../claims/butterfly-phonics-secondary-outcomes-non-significant.md) [~W] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

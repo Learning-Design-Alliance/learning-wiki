@@ -47,6 +47,7 @@ The report's discussion offers eight recommendations for education decision-make
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
+- [Provide in-service training, workshops, seminars and conferences on ICT utilization for teachers](in-service-ict-training-for-teachers.md)
 
 ## Examples
 -

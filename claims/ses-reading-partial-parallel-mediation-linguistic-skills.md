@@ -60,3 +60,4 @@ Two-stage MASEM (TSSEM) of the latent reading model (k = 458 independent samples
 - [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related
 - [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related
 - [Children's self-perceptions jointly and separately partially mediate the SES–reading achievement association, explaining additional ΔR² = 0.105](self-perceptions-partially-mediate-ses-reading-achievement.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

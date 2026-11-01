@@ -47,6 +47,7 @@ The article identifies a gap: research on intensive mathematics interventions la
 
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 - [Response To Intervention](response-to-intervention.md)
+- [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
 
 ## Examples
 -

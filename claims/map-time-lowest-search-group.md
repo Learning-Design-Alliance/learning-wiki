@@ -67,3 +67,4 @@ From the same time-based comparison: the longest-time group had the lowest mean 
 - [Greater use of the navigation map is associated with less relevant searching in a hypermedia learning task](map-use-negative-search-correlation.md) — related
 - [Frequent map users showed higher orientation and access ratios, yet orientation and access remained the weakest performance ratios](map-use-orientation-access-correlations.md) — related
 - [Groups differing in frequency of map visits differed on orientation and access ratios but not significantly on task-test scores](map-visit-frequency-group-differences.md) — related
+- [Scaffolded student teachers were more effective in searching for information for their presentation, while the unscaffolded group had difficulties finding relevant information](scaffolding-improves-information-seeking-in-collaborative-inquiry.md) — related

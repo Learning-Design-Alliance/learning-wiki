@@ -68,3 +68,5 @@ The article reports positive Cohen's d effect sizes for both groups on all quest
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
 - [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related
 - [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](se-prompts-harder-to-guess-questions.md) — a narrower finding that bears on this claim
+- [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
+- [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related

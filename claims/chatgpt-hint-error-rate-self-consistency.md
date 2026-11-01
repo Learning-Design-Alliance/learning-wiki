@@ -50,3 +50,4 @@ Application of self-consistency (10 samples per question, modal answer kept) eva
 - [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](chatgpt-gains-equivalent-human-tutor-hints.md) — related
 - [Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
+- [Using a WATS in community college elementary algebra corresponds to a statistically significant 2.59-point post-test gain (Hedges g = 0.32) controlling for pretest](wats-community-college-algebra-posttest-gain.md) — related

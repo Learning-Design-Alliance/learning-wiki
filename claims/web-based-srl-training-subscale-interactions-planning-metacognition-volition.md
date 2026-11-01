@@ -80,3 +80,4 @@ Same univariate ANOVAs: "For the subscales goal-setting and reflection, the inte
 - [Chatbot-guided feedback SRL produced a significant interaction between feedback method and website design performance over time, with the groups differing only on the second website](srl-cgf-website-design-progress-interaction.md) — a narrower finding that bears on this claim
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — reports the opposite
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](learning-plans-effects-limited-goal-setting.md) — related
+- [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related

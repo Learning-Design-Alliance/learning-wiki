@@ -57230,5 +57230,337 @@
  "simulation\tlaboratory activities\tanalogy-based simulation activities": {
   "label": "analogy-based simulation vs laboratory activities",
   "treatment_is_a": false
+ },
+ "active-learning\t5E instructional model\ttraditional instruction": {
+  "label": "5E instructional model vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPreview-and-Predict and K-W-L strategies in collaborative groups\tnormal school work without these strategies": {
+  "label": "Preview-and-Predict plus K-W-L collaborative strategies vs usual schoolwork",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Pair-Share (TPS)\tNon-Think-Pair-Share (Non-TPS)": {
+  "label": "Think-Pair-Share vs non-Think-Pair-Share instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Pair-Share discussion strategy\tNon-Think-Pair-Share instruction with didactic lecture": {
+  "label": "Think-Pair-Share vs non-Think-Pair-Share instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Pair-Share teaching strategy\tNon-Think-Pair-Share teaching": {
+  "label": "Think-Pair-Share vs non-Think-Pair-Share instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Pair-Share teaching/learning strategy\tNon-Think-Pair-Share teaching method": {
+  "label": "Think-Pair-Share vs non-Think-Pair-Share instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink–Pair–Share strategy\tnormal teaching method": {
+  "label": "Think-Pair-Share vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink–Pair–Share strategy\ttraditional teaching method": {
+  "label": "Think-Pair-Share vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning-oriented business simulation intervention\tnormal Business Studies programme without intervention": {
+  "label": "Active-learning business simulation vs usual Business Studies instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning business simulation\tnormal Business Studies programme": {
+  "label": "Active-learning business simulation vs usual Business Studies instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning business simulation intervention\tno intervention during the same period": {
+  "label": "Active-learning business simulation vs no intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning business simulation intervention\tnormal Business Studies programme": {
+  "label": "Active-learning business simulation vs usual Business Studies instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning business simulation intervention\tpre-intervention baseline": {
+  "label": "Active-learning business simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tbusiness simulation with active-learning-oriented problem-solving activities\tnormal Business Studies programme without the intervention": {
+  "label": "Active-learning business simulation vs usual Business Studies instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept cartoons method\ttraditional teaching": {
+  "label": "Concept cartoons vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tdebate model for yellow book learning\tconventional learning model": {
+  "label": "Debate-based learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tdebate model in yellow book learning\tconventional learning model": {
+  "label": "Debate-based learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion\tlecture-discussion": {
+  "label": "Group discussion vs lecture-discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tintervention followed by no further intervention\tcontinued intervention exposure": {
+  "label": "Intervention discontinued vs continued intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tButterfly Phonics instruction in small groups\tbusiness-as-usual schooling": {
+  "label": "Explicit phonics instruction vs business-as-usual schooling",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tButterfly Phonics phonics instruction with formal teacher-directed lessons\tbusiness-as-usual schooling": {
+  "label": "Explicit phonics instruction vs business-as-usual schooling",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tROOTS Tier 2 mathematics intervention\tstandard district mathematics instruction": {
+  "label": "Tier 2 intervention vs standard district instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tROOTS Tier 2 mathematics intervention\ttypically achieving ineligible classmates": {
+  "label": "Tier 2 intervention vs typically achieving peers",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tROOTS intervention\tcomparison condition, not specified": {
+  "label": "Tier 2 intervention vs unspecified comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStores whose managers received traditional classroom food-safety training\tControl stores whose managers received no additional treatment": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTraditional classroom food-safety training for managerial employees\tControl stores receiving no additional treatment": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmanagerial employees in treatment stores received traditional food-safety training\tmanagerial employees in control stores received no additional treatment; non-managerial employees received no additional training": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmanagerial employees received traditional classroom food-safety training\tmanagerial employees received no additional treatment": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstores whose managerial employees received traditional classroom food-safety training\tstores whose managerial employees received no additional treatment": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional classroom food-safety training for managerial employees\tcontrol stores with no additional treatment": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional classroom food-safety training for managers\tno additional training": {
+  "label": "Traditional classroom food-safety training vs no additional treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction\tpre-test baseline": {
+  "label": "Traditional instruction vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tProblem solving with model and feedback-correctives (PF)\tProblem solving with model only (PM)": {
+  "label": "Feedback-correctives vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed explicit and metalinguistic feedback\tno feedback": {
+  "label": "Delayed explicit and metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed explicit and metalinguistic feedback on simple past errors\tno feedback": {
+  "label": "Delayed explicit and metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed explicit and metalinguistic feedback on simple past tense errors\tno feedback": {
+  "label": "Delayed explicit and metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed explicit and metalinguistic feedback on simple past tense errors\tno feedback on errors": {
+  "label": "Delayed explicit and metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trecasts on simple past errors\tno feedback": {
+  "label": "Recasts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trecasts on simple past tense errors\tno feedback": {
+  "label": "Recasts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trecasts on simple past tense errors\tno feedback on errors": {
+  "label": "Recasts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tdelayed explicit and metalinguistic feedback\tonline recasts": {
+  "label": "delayed vs immediate feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdelayed explicit and metalinguistic feedback\tintensive recasts": {
+  "label": "explicit/metalinguistic feedback vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tonline recasts on simple past tense errors\tdelayed explicit and metalinguistic feedback": {
+  "label": "explicit/metalinguistic feedback vs recasts",
+  "treatment_is_a": false
+ },
+ "feedback-type\trecasts\tdelayed explicit and metalinguistic feedback": {
+  "label": "explicit/metalinguistic feedback vs recasts",
+  "treatment_is_a": false
+ },
+ "feedback-type\trecasts on simple past errors\tdelayed explicit and metalinguistic feedback": {
+  "label": "explicit/metalinguistic feedback vs recasts",
+  "treatment_is_a": false
+ },
+ "feedback-type\trecasts on simple past errors\tdelayed explicit and metalinguistic feedback on simple past errors": {
+  "label": "explicit/metalinguistic feedback vs recasts",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tportfolio assessment with self-, peer-, and teacher assessment\ttraditional instruction without comments": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphic-novel instruction\tpre-test baseline": {
+  "label": "graphic-novel instruction vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphic-novel instruction\ttraditional activities": {
+  "label": "graphic-novel instruction vs traditional activities",
+  "treatment_is_a": true
+ },
+ "media-design\tlearner-generated drawings of idioms\tdefinitions, examples, and stories without drawing": {
+  "label": "learner-generated drawings vs no drawing",
+  "treatment_is_a": true
+ },
+ "media-design\ttraditional activities\tpre-test baseline": {
+  "label": "traditional activities vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "prompts\tMetacognitive reading strategy with literary-quality children's books\tConventional reading instruction with 100 Basic Works": {
+  "label": "Metacognitive reading prompts with literary-quality books vs conventional reading instruction with basic books",
+  "treatment_is_a": true
+ },
+ "prompts\tMetacognitive-strategy prompts with literary-quality children’s books\tConventional reading instruction with books from the 100 Basic Works": {
+  "label": "Metacognitive reading prompts with literary-quality books vs conventional reading instruction with basic books",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured reflective science journal writing after lessons\tsame science unit without reflective journals": {
+  "label": "Reflective science journaling vs no reflective journaling",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured reflective science journals after lessons\tsame science unit without reflective journals": {
+  "label": "Reflective science journaling vs no reflective journaling",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured reflective science journals with metacognitive prompts\tsame science unit without reflective journals": {
+  "label": "Metacognitive prompts in reflective science journaling vs no reflective journaling",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGoogle Sites case and presentation templates\tWord documents without templates": {
+  "label": "Template-supported vs untemplated documents",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGoogle Sites presentation template\tSelf-created presentation using Word documents": {
+  "label": "Template-supported vs self-created presentation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGoogle Sites presentation template structuring the PROFILES phases\tSelf-created presentation using Word documents": {
+  "label": "Template-structured vs self-created presentation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGoogle Sites with case and presentation templates\tWord documents only": {
+  "label": "Template-supported vs untemplated documents",
+  "treatment_is_a": true
+ },
+ "simulation\t7-day web-based Littlefield Laboratories simulation game\tno-game conventional teaching with textbooks and in-class exercises": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\t7-day web-based Littlefield simulation game\tno-game textbook problems and in-class exercises": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tCBS post-test gain\tRTM post-test gain": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tComputer-Based Simulations (E1)\tRegular Teaching Methods (C1)": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tComputer-Based Simulations (E2)\tRegular Teaching Methods (C2)": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tExperimental Group 1 taught through CBS\tControl Group 1 taught through RTM": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tExperimental Group 1 taught through CBS\tControl Group 1 taught through regular teaching methods": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tExperimental Group 1 taught through CBS\tControl Group 2 taught through regular teaching methods": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tExperimental Group 2 taught through CBS\tControl Group 1 taught through regular teaching methods": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tExperimental Group 2 taught through CBS\tControl Group 2 taught through RTM": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tactive-learning business simulation intervention\tnormal Business Studies programme without the intervention": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tactive-learning business simulation with problem-solving practice\tnormal Business Studies programme without the intervention": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tbusiness simulation with active learning\tsame learners after a time lapse without a second intervention": {
+  "label": "simulation intervention vs no second intervention after a time lapse",
+  "treatment_is_a": true
+ },
+ "simulation\tbusiness-simulation intervention with active learning\tnormal school programme before intervention": {
+  "label": "post-intervention simulation-based instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based simulations (CBS)\tregular teaching method (RTM)": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer-based simulations (CBS)\tregular teaching methods (RTM)": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive virtual chemistry laboratory\tCG-I conventional teacher-directed instruction and actual laboratory work": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive virtual chemistry laboratory with a daily-life connection feature\tCG-I conventional teacher-directed instruction and actual laboratory work": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tweb-based simulation game\tno-game conventional teaching": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with correct and incorrect examples to explain\tmatched problem-solving assignments without examples or explanation prompts": {
+  "label": "worked examples vs problem-solving assignments",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with correct and incorrect examples to explain plus problems to solve\tproblem-solving assignments without examples or self-explanation prompts": {
+  "label": "worked examples plus problem-solving vs problem-solving assignments",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example assignments\tstandard problem-solving assignments": {
+  "label": "worked examples vs problem-solving assignments",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example assignments with correct and incorrect examples to explain\tcontrol assignments with problems to solve but no examples or self-explanation prompts": {
+  "label": "worked examples vs problem-solving assignments",
+  "treatment_is_a": true
  }
 }

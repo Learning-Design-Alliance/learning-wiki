@@ -41,7 +41,8 @@ The article's discussion identifies implementation aspects that shaped perceptio
 - [Mpi Answer Discuss Answer Clicker Model](../theories/mpi-answer-discuss-answer-clicker-model.md)
 
 ## Related Strategies
-- 
+
+- [Sequence clicker use in EFL courses: a limited accustoming period, quality controls, and role swapping to sustain participation](clicker-sequencing-strategy-efl.md)
 
 ## Examples
 -

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 255 claims (114 for, 129 mixed, 12 against) · 188 studies (60 associational, 50 causal, 28 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 188 report an effect size · 239 claims rest on one study
+> **Evidence** · 256 claims (115 for, 129 mixed, 12 against) · 189 studies (60 associational, 51 causal, 28 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 189 report an effect size · 240 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -302,6 +302,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Clinical students' SRL behaviour falls into five distinct patterns, all showing little-planned SRL behaviour and limited goal setting](../claims/five-patterns-clinical-srl-behavior.md) [~W]
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [~W]
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W] — attached 2026-11-01 from van Houten‐Schat Maaike A et al. (2018), which proposed "Cyclical three-phase SRL models (Zimmerman, Knowles, Pintrich) frame SRL as goal setting, plan implementation and self-evaluation, but stem from classroom research".
+- [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](../claims/ancova-metacognitive-strategy-reading-comprehension-effect.md) [+W]
 
 ## The evidence by question
 

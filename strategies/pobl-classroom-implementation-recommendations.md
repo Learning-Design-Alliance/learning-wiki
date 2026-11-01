@@ -56,6 +56,7 @@ The article recommends that "PoBL strat egy as a pedagogical approach should be 
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Sustain educator learning through schoolwide, network, and districtwide approaches that embed professional learning across the system](systemic-support-educator-learning.md)
 - [Teachers choose the matrix quadrant that complements their strengths and institutional culture](choose-pjbl-quadrant-to-fit-teacher-strengths.md)
+- [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
 
 ## Examples
 -

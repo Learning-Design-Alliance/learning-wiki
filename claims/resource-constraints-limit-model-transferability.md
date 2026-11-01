@@ -59,3 +59,4 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — a narrower finding that bears on this claim
 - [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — reports the opposite
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
+- [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ Pre–post OLS by gender (Table 3) on npost = 136 students. Female career-intere
 - [Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok](platform-recognition-gains-netflix-spotify.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
+- [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — reports the opposite

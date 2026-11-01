@@ -48,3 +48,4 @@ Descriptive analysis of post-test scores in the same quasi-experiment (Table 1):
 - [The hybrid approach produced a significant advantage in the problem-solving domain but not in the conceptual-understanding domain](hybrid-approach-problem-solving-domain-advantage.md) — related
 - [SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain](simcalc-effects-insensitive-demographics.md) — related
 - [Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44](propensity-score-population-treatment-effect.md) — related
+- [Experimental-group students scored significantly higher than control students on the open-ended physics questionnaire](pbl-game-open-questionnaire-advantage.md) — related

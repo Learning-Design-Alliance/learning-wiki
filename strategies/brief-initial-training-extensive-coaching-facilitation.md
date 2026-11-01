@@ -72,6 +72,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 - [Follow-up supports for integrated computing PD: technical programming coursework, professional learning communities, and student-outcome study](integrated-computing-pd-followup-supports.md)
 - [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
+- [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 
 ## Examples
 -

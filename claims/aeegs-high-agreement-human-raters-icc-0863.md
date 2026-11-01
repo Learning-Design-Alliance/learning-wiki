@@ -55,3 +55,4 @@ Correlational study comparing AEEGS scores with those of 12 human raters, each m
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](ai-communication-assessment-high-reliability.md) — related
+- [Expert panels and 31 experienced physics teachers rated the software favourably, with reliability of Cronbach's alpha .843 across 24 items](expert-evaluation-motion-vector-software-reliability.md) — related

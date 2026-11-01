@@ -13,7 +13,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (2 for, 5 mixed, 4 against) · 9 studies (5 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 2 of 9 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (3 for, 5 mixed, 4 against) · 10 studies (5 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 2 of 10 report an effect size · 12 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
@@ -34,6 +34,7 @@ Learning management systems are the element in which course organization, materi
 - [The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)](../claims/sequential-mediation-pathway-significant.md) [~W]
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [-W]
 - [Existing components in learning management systems are the most frequently chosen LA tools and software](../claims/la-tools-lms-components-most-frequent.md) [+W]
+- [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](../claims/blackboard-blended-teaching-achievement-eta-075.md) [+W] — attached 2026-11-01 from Wadha H. Al-Otaibi (2017), which proposed "Blackboard-based blended course design for Science Teaching Strategies (Code 423)"; tests this page's relationship.
 
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)

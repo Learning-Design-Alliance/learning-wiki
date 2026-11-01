@@ -50,3 +50,4 @@ Prospective controlled study of 3D vs 2D stereoscopic neuroanatomy video (175 ba
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [3D visualisation training outperformed traditional teaching on exam outcomes and clinical practice assessment (Shao et al.)](shao-3d-imaging-outperformed-traditional.md) — related
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
+- [Junior high school students taught with Model Eliciting Activities with Cabri 3D show better spatial reasoning improvement than students taught with Model Eliciting Activities alone](meac-improves-spatial-reasoning-more-than-mea.md) — a narrower finding that bears on this claim

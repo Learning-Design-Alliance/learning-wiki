@@ -51,3 +51,5 @@ Follow-up scores were available for 118 of the 198 participants (mean attendance
 - [Post-baseline practice condition has a significant multivariate effect on combined posttest performance and observed practice effort after adaptive AI-assisted pretesting](condition-multivariate-effect-posttest-effort.md) — related
 - [Re-measurement of final test scores after four months of remedial work indicated that classroom use of the Texas reading diagnosis procedures would prove profitable](texas-reading-remediation-remeasurement-profitable.md) — related
 - [The achievement advantage of mobile learning persisted at a six-month follow-up test](mobile-learning-achievement-persistence-follow-up.md) — related
+- [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
+- [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related

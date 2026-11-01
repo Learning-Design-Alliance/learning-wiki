@@ -47,3 +47,4 @@ Analytical derivation in the Situation 2 section, where the model is adapted to 
 ## Related Claims
 - [The article develops closed-form analytic expressions for the test statistic of the 3-2-1 cross-level mediation effect in three-level cluster randomized trials](closed-form-test-statistic-3-2-1-cross-level-mediation-crt.md) — related
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](mediator-measurement-error-reduces-power.md) — related
+- [Teacher-level moderator power depends on whether teachers are the unit of assignment: MDESDTCHR is .37 in two-level CRTs but .21 in three-level CRTs](teacher-moderator-power-depends-on-assignment-level.md) — related

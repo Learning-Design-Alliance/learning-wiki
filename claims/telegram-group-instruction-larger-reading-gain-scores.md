@@ -46,3 +46,4 @@ Mann-Whitney U test on gain scores (experimental M=8.88, SD=2.26; control M=6.33
 
 ## Related Claims
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
+- [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related

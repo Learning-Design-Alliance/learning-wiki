@@ -28,7 +28,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (10 for, 14 mixed, 2 against) · 30 studies (12 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (11 for, 15 mixed, 2 against) · 32 studies (14 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +99,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [~W]
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](../claims/pbl-discussion-prior-to-text-increases-free-recall.md) [+W] — attached 2026-10-18 from W.S. de Grave et al. (2001), which proposed "Activate prior knowledge through small-group problem discussion before assigning a text to study"; tests this page's relationship.
+- [Teaching reading comprehension with prior knowledge questions improves primary pupils' reading comprehension performance](../claims/prior-knowledge-questions-improve-reading-comprehension.md) [+W] — attached 2026-11-01 from Hanna Onyi Yusuf et al. (2013), which proposed "Curriculum planners and textbook writers should embed prior knowledge questions in reading comprehension materials"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -120,6 +121,7 @@ The present evidence does not establish an optimal activation format or duration
 - [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](../claims/relevant-not-breadth-prior-knowledge-activation.md) [~W]
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](../claims/pbl-recall-benefit-general-not-explanation-specific.md) [+W]
 - [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](../claims/relevance-irrelevant-knowledge-hampers.md) [~W]
+- [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](../claims/teachers-fail-to-activate-prior-knowledge.md) [~W]
 
 ## Related Principles
 

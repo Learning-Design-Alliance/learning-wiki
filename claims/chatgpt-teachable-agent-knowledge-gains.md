@@ -64,3 +64,4 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 - [The video lectures were effective overall, producing significant knowledge gains](video-lecture-overall-effectiveness.md) — related
 - [Learning-by-teaching with robots and teachable agents is theoretically grounded in cooperative learning mechanisms, but direct experimental evaluations in elementary STEM classrooms remain limited](learning-by-teaching-robots-limited-direct-evidence.md) — related
 - [Adding web-assisted alternative assessment activities to a flipped classroom produces significantly higher unit achievement than video lessons alone in 7th-grade science](web-assisted-activities-flipped-classroom-achievement-gain.md) — related
+- [Students taught with ICT obtained higher mean Economics Achievement Test scores than control students](ict-higher-mean-scores-than-control-economics.md) — related

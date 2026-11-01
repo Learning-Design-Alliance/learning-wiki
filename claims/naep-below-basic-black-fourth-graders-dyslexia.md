@@ -68,3 +68,4 @@ Quote is from White and associates' examination of a nationally representative s
 - [Sharing a dyslexia diagnosis with the child is associated with feeling empowered, while undiagnosed dyslexia is linked to poor self-view and the school-to-prison pipeline](dyslexia-diagnosis-empowerment-vs-undiagnosed-harms.md) — related
 - [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md) — related
 - [Most U.S. 8th graders read below proficiency: 69 percent fall below the proficient level and 26 percent below the basic level on the 2007 NAEP reading assessment](2007-naep-69-percent-8th-grade-below-proficient-reading.md) — related
+- [The authors argue that conventional reading classes with no strategies cannot improve reading performance](conventional-strategy-free-reading-classes-ineffective.md) — related

@@ -148,6 +148,7 @@ Early-grade levels, growth across a year, later-grade achievement and the learne
 - [Three-week structured summer kindergarten transition program](../elements/three-week-structured-kindergarten-transition-program.md) — a transition programme that prepares children and families before entry
 - [Provide support to children entering kindergarten and first grade](../strategies/support-children-entering-kindergarten-first-grade.md) — the strategy for easing school transitions
 - [Start behavioral and achievement support before school entry and monitor trajectories continuously](../strategies/early-preschool-intervention-stable-trajectories.md)
+- [Butterfly programme entry-point table mapping reading ages to four Butterfly classes and starting chapters in the two course books](../designs/butterfly-phonics-entry-points-table.md)
 
 ## Key Sources
 - Copple, C., & Bredekamp, S. (Eds.). (2006). *Basics of developmentally appropriate practice: An introduction for teachers of children 3 to 6*. National Association for the Education of Young Children.

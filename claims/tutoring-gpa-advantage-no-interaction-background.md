@@ -54,3 +54,4 @@ Interaction analyses comparing mean cumulative GPA across visit categories withi
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
+- [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related

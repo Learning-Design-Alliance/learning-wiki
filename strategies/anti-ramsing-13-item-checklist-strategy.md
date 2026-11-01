@@ -44,7 +44,9 @@ The article proposes a concrete roadmap for improving moderator analysis rigor: 
 - [Bias-adjusted posterior-predictive benchmarks for STEM moderator effect sizes (0.18, 0.38, 0.64 at the 25th, 50th, 75th percentiles) fall below both Cohen's conventional thresholds and raw empirical quartiles](../claims/bias-adjusted-moderator-benchmarks-stem.md) [+W]
 
 ## Related Strategies
+
 - Anti Ramsing Toolkit R Scripts Osf
+- [Adopt rigor checklists and systematic reflection practices to elevate CSD SoTL quality](rigor-checklists-csd-sotl-design.md)
 
 ## Examples
 -

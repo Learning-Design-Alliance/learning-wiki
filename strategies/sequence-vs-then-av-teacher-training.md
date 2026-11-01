@@ -45,6 +45,7 @@ The article recommends that teacher training programs exploit the complementary 
 
 - [Design recommendations for inclusive-pedagogy simulations: nuanced options, emotion-surfacing prompts, structured feedback](simulation-design-recommendations-inclusive-pedagogy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Train teachers and develop university courses on VTM as a student-centred methodology](vtm-teacher-training-workshops-strategy.md)
 
 ## Examples
 -

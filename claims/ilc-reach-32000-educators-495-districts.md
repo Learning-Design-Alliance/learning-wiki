@@ -50,3 +50,4 @@ Program reach figures reported in the study's description of ILC activities. An 
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — related
+- [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related

@@ -43,6 +43,7 @@ To give corrective feedback without hindering communication, the teacher shifts 
 - [Pre-teach target language forms deductively before journal entries incorporate them](pre-teach-forms-before-journal-entries.md)
 - [Use sample journal entries to inductively highlight target language elements](sample-journal-entries-inductive-focus-on-form.md)
 - [Self Correction_Routines](self-correction_routines.md)
+- [Teachers read student journals and give regular individual feedback on them](teacher-feedback-on-science-journals.md)
 
 ## Examples
 -

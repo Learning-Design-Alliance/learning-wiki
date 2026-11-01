@@ -52,3 +52,4 @@ Repeated-measures mixed ANOVA with 158 first-year Dutch secondary students rando
 - [An expert appraisal workshop of an early VER prototype by twenty international experts stressed the importance of annotation to connect rubric and video](expert-workshop-stressed-annotation-importance.md) — related
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related
 - Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation — related
+- [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](pbl-game-self-evaluation-presentation-anxiety.md) — related

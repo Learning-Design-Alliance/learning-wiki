@@ -31,7 +31,8 @@ The article organizes its moderation analysis around the aptitude-treatment inte
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [~M]
 
 ## Related Research Methods
--
+
+- [Mediator–moderator distinction in randomized intervention research](mediatormoderator-distinction-in-randomized-intervention-research.md)
 
 ## Key Sources
 - Lachner, A., Russ, H., Hübner, N., Sibley, L., & Scheiter, K. (2025). When Does Learning by Non-interactive Teaching Work? A Large-Scale Analysis of Learner Characteristics in a Classroom Setting. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10060-0

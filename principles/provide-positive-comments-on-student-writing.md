@@ -157,6 +157,7 @@ Writers' reported confidence, whether they read the comments, what changed in th
 - [Hold one-on-one writing conferences to negotiate feedback and revision](../strategies/one-on-one-writing-conferences.md)
 - [Wise Feedback](../strategies/wise-feedback.md)
 - [Structured Peer Review](../patterns/structured-peer-review.md)
+- [Teachers read student journals and give regular individual feedback on them](../strategies/teacher-feedback-on-science-journals.md)
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

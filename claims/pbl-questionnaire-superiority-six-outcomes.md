@@ -53,3 +53,4 @@ Questionnaire surveys administered after PBL teaching in the included studies, r
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related

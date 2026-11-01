@@ -50,3 +50,4 @@ Within-group pre-post comparison for the control group (n=35) taught via existin
 - [Experimental-group students taught through the e-content package showed a significant pre-to-post gain in IUPAC nomenclature achievement](e-content-prepost-gain-iupac-nomenclature.md) — related
 - [Retention of IUPAC nomenclature learning was significantly better for the e-content group than the control group](e-content-retention-advantage-iupac-nomenclature.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
+- [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — reports the opposite

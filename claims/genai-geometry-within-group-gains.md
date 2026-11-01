@@ -57,3 +57,4 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — related
 - [Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing](control-group-gains-limited-reading-total.md) — related
 - [Both experimental and control groups improved significantly on all questions and conceptual questions from pre- to post-test after using PyKinetic](pykinetic-improves-python-learning.md) — related
+- [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related

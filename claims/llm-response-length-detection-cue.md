@@ -52,3 +52,4 @@ Descriptive length comparison of real versus GPT-4o-generated submissions across
 - [LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions](programming-detection-robust-bugs-inconsistent.md) — related
 - [Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses](reflection-prompt-reduces-detectability.md) — related
 - [A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt](likelihood-prompt-beats-binary-detection.md) — related
+- [Longer APSS responses received higher scores, particularly for the scenario-application question (r = 0.70)](response-length-score-correlation-apss.md) — related

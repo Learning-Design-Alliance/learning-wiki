@@ -70,3 +70,4 @@ Independent sample t-test comparing speaking posttests of the debate group (mean
 ## Related Claims
 - [WSDC debate instruction significantly improved tenth-grade EFL students' critical thinking achievement within the experimental group](wsdc-debate-improves-efl-critical-thinking.md) — a narrower finding that bears on this claim
 - [WSDC debate instruction significantly improved tenth-grade EFL students' speaking skill achievement within the experimental group](wsdc-debate-improves-efl-speaking-skill.md) — a narrower finding that bears on this claim
+- [A debate model in yellow book learning can increase students' critical thinking skills relative to conventional learning models](debate-model-increases-critical-thinking-yellow-book.md) — related

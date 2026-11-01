@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (111 show a difference, 45 mixed, 25 no difference) · 134 studies (74 associational, 27 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 17 of 134 report an effect size · 180 claims rest on one study
+> **Evidence** · 185 claims (112 show a difference, 45 mixed, 28 no difference) · 138 studies (74 associational, 31 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 138 report an effect size · 184 claims rest on one study
 
 ## How to read this page
 
@@ -266,6 +266,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [Socioeconomic disadvantage and contextual stressors are negatively associated with academic performance in medical students](../claims/socioeconomic-disadvantage-negative-association-medical-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socioeconomic disadvantage shows a persistent adverse association across both selection and progression stages of medical education](../claims/ses-disadvantage-persistent-across-continuum.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](../claims/passive-dissemination-no-impact-everfsm-subgroup.md) [-M] — an instructional effect differs by group
+- [Among FSM-eligible pupils, music workshops showed no impact on attainment relative to the drama control](../claims/asp-fsm-pupils-no-music-attainment-impact.md) [-M] — an instructional effect differs by group
+- [For pupils entitled to free school meals, Butterfly Phonics showed no statistically significant effects on any outcome (NGRT g = 0.16, SWRT g = 0.42, PhAB g = 0.18)](../claims/butterfly-phonics-fsm-subgroup-non-significant.md) [-M] — an instructional effect differs by group
+- [Pupils receiving Tutor Trust tuition made marginally less progress in English and mathematics than matched comparison pupils, with differences not statistically significant](../claims/tutor-trust-primary-no-significant-attainment-effect.md) [-W] — an instructional effect differs by group
+- [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](../claims/pbl-negative-fsm-literacy-impact.md) [+W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

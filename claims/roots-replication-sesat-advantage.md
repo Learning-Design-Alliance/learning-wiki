@@ -50,3 +50,7 @@ Analysis-of-covariance model for the SESAT, available only at posttest, with ASP
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — reports the opposite
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — a broader claim this one bears on
 - [ROOTS and control students were statistically equivalent at pretest on all measures](roots-replication-pretest-equivalence.md)
+- [The ROOTS intervention produced greater fall-to-spring kindergarten gains than control instruction on four of five outcome measures for at-risk students](roots-greater-kindergarten-gains-four-of-five-measures.md) — related
+- [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
+- [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
+- [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related

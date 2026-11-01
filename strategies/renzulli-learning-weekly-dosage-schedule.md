@@ -38,7 +38,8 @@ The evaluated implementation assigned treatment classrooms to use Renzulli Learn
 - student engagement through differentiated instruction
 
 ## Related Strategies
-- 
+
+- [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
 
 ## Examples
 -

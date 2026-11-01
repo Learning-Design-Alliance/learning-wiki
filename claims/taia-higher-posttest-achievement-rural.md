@@ -60,3 +60,5 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Accuracy of experimentation shows no condition differences but a small condition effect and correlates strongly with conceptual understanding at post-test](experimentation-accuracy-correlates-with-understanding.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
+- [Group differences in correct ideas were largest in electricity (EG 94% vs CG 65%) and motion of the Earth (EG 76% vs CG 53%)](concept-cartoons-electricity-earth-motion-differences.md) — related
+- [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related

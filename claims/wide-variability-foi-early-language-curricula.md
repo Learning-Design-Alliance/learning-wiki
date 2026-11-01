@@ -75,3 +75,6 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component — related
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — a narrower finding that bears on this claim
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related
+- [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](cbc-fidelity-high-rural-trial.md) — related
+- [Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery](fidelity-varied-across-schools-classrooms-teacher-delivery.md) — a narrower finding that bears on this claim
+- [School-based facilitators implemented TSG sessions with high mean fidelity (88%) but varied more than expert facilitators](tsg-school-facilitator-fidelity-88-percent-variable.md) — a narrower finding that bears on this claim

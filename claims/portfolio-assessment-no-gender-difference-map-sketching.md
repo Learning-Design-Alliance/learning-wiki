@@ -49,3 +49,5 @@ t-test for independent samples on post-test Geography Achievement Test scores of
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [Students taught map sketching and location with portfolio assessment showed significantly higher post-test Geography Achievement Test scores than their own pre-test scores](portfolio-assessment-pre-post-gain-map-sketching.md) — related
+- [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
+- [No statistically significant gender difference in achievement among ninth graders taught with practical presentations](no-gender-difference-practical-presentations-achievement.md) — related

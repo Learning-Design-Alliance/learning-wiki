@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 85 claims (26 for, 57 mixed, 2 against) · 63 studies (22 design, 15 associational, 11 review, 10 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 63 report an effect size · 85 claims rest on one study
+> **Evidence** · 86 claims (26 for, 58 mixed, 2 against) · 64 studies (22 design, 15 associational, 11 causal, 11 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 64 report an effect size · 86 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -129,6 +129,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](../claims/expert-inter-rater-agreement-high-written-exam.md) [+W]
 - [LLM-generated essay scores correlated moderately to strongly with expert human assessor scores](../claims/llm-essay-scoring-correlates-with-experts.md) [~W]
 - [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](../claims/global-rating-scales-as-reliable-as-checklists.md) [~W]
+- [Longer APSS responses received higher scores, particularly for the scenario-application question (r = 0.70)](../claims/response-length-score-correlation-apss.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

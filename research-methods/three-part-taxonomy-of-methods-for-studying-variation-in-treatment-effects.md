@@ -32,7 +32,8 @@ The report organizes the quantitative methods literature into three research top
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](../claims/varying-effects-methods-rct-and-quasi-experimental.md) [+W]
 
 ## Related Research Methods
--
+
+- [Mediator–moderator distinction in randomized intervention research](mediatormoderator-distinction-in-randomized-intervention-research.md)
 
 ## Key Sources
 - Peter Z. Schochet, Mike Puma, John Deke. (2014). Understanding Variation in Treatment Effects in Education Impact Evaluations: An Overview of Quantitative Methods. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: g-devendiran-2017
     resource: "https://eric.ed.gov/?id=EJ1171298"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test mean scores differed significantly between the control group (mean 35.97) and experimental group (mean 45.51), with calculated t-value 7.7 exceeding the tabulated value 2.021 at the 5% level. [→ G. Devendiran 2017](#g-devendiran-2017)
@@ -51,3 +52,7 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [Experimental-group students taught through the e-content package showed a significant pre-to-post gain in IUPAC nomenclature achievement](e-content-prepost-gain-iupac-nomenclature.md) — related
 - [Retention of IUPAC nomenclature learning was significantly better for the e-content group than the control group](e-content-retention-advantage-iupac-nomenclature.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
+- [Secondary school students taught chemistry through computer-based simulations achieve significantly higher post-test scores than students taught through regular teaching methods](cbs-beats-rtm-chemistry-achievement-kenya.md) — related
+- [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Students taught with ICT obtained higher mean Economics Achievement Test scores than control students](ict-higher-mean-scores-than-control-economics.md) — related
+- [Percentage scores on all eight tested communicative skills were higher after the Interactive Multimedia Package than after conventional method](skill-wise-percentage-gains-multimedia-package.md) — related

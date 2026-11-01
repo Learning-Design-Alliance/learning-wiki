@@ -52,3 +52,4 @@ Item reduction analysis in Sample 1 (N = 1217) on the four negatively keyed affe
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
 - [The emote-aloud procedure is limited by non-reporting and floor effects: 2 of 7 participants did not verbalise affective states and four states were removed from analysis](emote-aloud-floor-effects-limitation.md)
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
+- [Item reduction reduced the AHABI from 56 initial items to 20 via expert judgement and low-discrimination removal](ahabi-item-reduction-56-to-20.md) — related

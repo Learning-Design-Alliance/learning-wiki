@@ -132,3 +132,4 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 - [High school STEM students need explicit scaffolding to build AI abstract representations, parse problems for AI systems, and apply underlying mathematics](ai-learning-three-scaffolding-needs.md) — related
 - [Physical buttons on Roversa were perceived to help students build directional programming concepts through physical manipulation](physical-buttons-build-programming-concepts.md) — a narrower finding that bears on this claim
 - [Students transferred abstract area concepts to concrete app examples, cultivating mathematical thinking](abstract-area-to-concrete-app-examples.md) — related
+- [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](meac-student-work-line-angle-understanding.md) — related

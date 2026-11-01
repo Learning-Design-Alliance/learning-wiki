@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (17 for, 17 mixed, 2 against) · 48 studies (22 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 48 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 49 studies (23 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 49 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts](../claims/hp-students-score-higher-se-prompts.md) [~W]
 - [Topics treated explicitly produced large knowledge gains, while sketchily or indirectly treated topics were not learned by most reservists](../claims/explicit-treatment-large-gains-sketchy-not-learned.md) [+W]
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
+- [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](../claims/teachers-fail-to-activate-prior-knowledge.md) [~W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

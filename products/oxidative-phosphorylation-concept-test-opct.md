@@ -26,7 +26,8 @@ A 15-item multiple-choice diagnostic test developed by Jena (2015) to assess und
 - [B.Sc. students hold widespread misconceptions about ATP generation by mitochondrial oxidative phosphorylation, rooted in preconceptions from everyday experience](../claims/widespread-misconceptions-atp-generation-preconceptions.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Chemical Equilibrium Concept Test (CECT)](chemical-equilibrium-concept-test-cect.md)
 
 ## Key Sources
 - Jena, A. K. (2015). Animation model to conceptualize ATP generation: A mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://scholar.google.com

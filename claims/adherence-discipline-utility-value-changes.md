@@ -47,3 +47,4 @@ Implementation fidelity was rated by pairs of trained observers in every interve
 
 ## Related Claims
 - [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](moma-utility-value-effectiveness-scale.md) — related
+- [Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery](fidelity-varied-across-schools-classrooms-teacher-delivery.md) — related

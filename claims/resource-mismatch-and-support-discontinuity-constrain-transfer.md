@@ -90,3 +90,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — related
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
 - [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
+- [PBL was generally delivered with fidelity but required substantial management support and organisational change](pbl-fidelity-requires-management-support.md) — related

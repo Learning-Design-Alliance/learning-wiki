@@ -47,6 +47,7 @@ The intervention model pairs two short professional development sessions with st
 
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
 
 ## Examples
 -

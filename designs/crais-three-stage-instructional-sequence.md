@@ -28,7 +28,7 @@ CRAIS is an instructional strategy in which each mathematics concept is taught i
 #### Requirements
 - Teachers should make sure students understand what has been taught at each step before moving instruction to the next stage (NCTM recommendation cited from Berkas & Pattison, 2007)
 #### Constraints
-- The article describes CRAIS as originally a strategy for teaching mathematics to students with learning difficulties (Butler et al., 2003)
+- The article describes CRAIS as originally a strategy for teaching mathematics to students with learning difficulties ([Butler et al., 2003](https://doi.org/10.1111/1540-5826.00066))
 
 ### Target Learners
 - senior secondary school mathematics students

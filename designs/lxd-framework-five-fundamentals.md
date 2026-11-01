@@ -41,7 +41,8 @@ The article presents LXD as a design framework extending beyond traditional inst
 - [Qualitative Four Themes Blended Lxd](../claims/qualitative-four-themes-blended-lxd.md) [+M]
 
 ## Related Designs
-- 
+
+- [Contextual teaching and learning as a framework of six fundamental characteristics](ctl-six-fundamental-characteristics-framework.md)
 
 ## Examples
 -

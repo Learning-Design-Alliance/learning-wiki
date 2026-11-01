@@ -49,6 +49,7 @@ Early Steps training involves 9 full-day visits by the trainer across the school
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 - [Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews](lightning-squad-tutor-training-support-strategy.md)
 - [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
+- [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 
 ## Examples
 -

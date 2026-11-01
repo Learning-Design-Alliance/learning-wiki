@@ -48,3 +48,4 @@ Mixed-design ANOVA within the same RCT reported no significant main effect of ti
 - [Monitoring support delivered via a scripted conversational agent significantly improves goal attainment compared with reflection-only and control conditions](monitoring-improves-goal-attainment.md) — related
 - [No supplemental intervention was significantly better than another, and gains were not tied to program type](no-significant-intervention-differences.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
+- [Neither the workshop nor the one-on-one intervention affected enrollment in the following semester](academic-planning-interventions-no-persistence-effect.md) — related

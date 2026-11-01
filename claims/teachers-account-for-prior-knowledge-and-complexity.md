@@ -50,3 +50,4 @@ Results of the Complexity category in Table 3 (Likert-type questionnaire items).
 - Practitioners agree that the 11 listed tasks form the core of the ID process — related
 - [Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development](complex-learning-lengthy-motivation-expertise.md) — related
 - [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related
+- [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — reports the opposite

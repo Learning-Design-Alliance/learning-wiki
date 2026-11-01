@@ -71,3 +71,4 @@ Mann-Whitney U follow-ups with Bonferroni correction (critical value .0167) on a
 - [Achievement goal motivation declined significantly in the control group over the four-week traditional teaching period](control-group-achievement-goal-decline.md) — related
 - [The three teaching methods showed no significant post-test differences on the other five SMTML motivation dimensions](no-between-group-differences-other-motivation-dimensions.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
+- [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related

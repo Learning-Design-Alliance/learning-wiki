@@ -63,3 +63,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
+- [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related

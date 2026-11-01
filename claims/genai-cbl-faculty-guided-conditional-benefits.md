@@ -74,3 +74,4 @@ The review reports this null/unfavorable pilot; it also reports that ChatGPT and
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](guided-reflection-self-assessment-responsible-genai-engagement.md) — related
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
+- [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related

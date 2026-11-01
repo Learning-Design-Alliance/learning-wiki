@@ -49,3 +49,6 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — possibly the same claim (merge candidate)
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [Experimental and control groups were statistically equivalent on religious-concepts pretest before the intervention](kwl-study-pretest-equivalence.md) — related
+- [The 5E and traditional groups were statistically equivalent in achievement and interest before treatment](5e-groups-equivalent-at-pretest.md) — related
+- [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related

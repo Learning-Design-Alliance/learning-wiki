@@ -61,6 +61,7 @@ POE works because committing to a prediction activates prior knowledge — inclu
 - **Predict-Observe-Explain labs** — the same structure applied to full laboratory investigations rather than single demonstrations
 - **Activating Prior Knowledge** ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)) — POE's prediction phase is a forced, commitment-based form of activation
 - [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
+- [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 
 ## Examples
 - **Peer Instruction at Harvard** ([Crouch & Mazur, 2001](https://doi.org/10.1119/1.1374249)) — ConcepTests in introductory physics follow the POE cycle: individual clicker vote, peer discussion, re-vote, instructor explanation.

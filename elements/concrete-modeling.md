@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (2 for, 4 mixed, 3 against) · 6 studies (3 quant-synthesis, 2 review, 1 causal), `q1`–`q4` · 2 of 6 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (3 for, 4 mixed, 3 against) · 7 studies (3 quant-synthesis, 2 causal, 2 review), `q1`–`q4` · 3 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -32,6 +32,7 @@ Concrete modeling is the element in which physical or tangible representations a
 - [3DPAMs were significantly more effective than plastinated prosections for learning anatomy in two reviewed studies](../claims/3dpam-more-effective-than-plastinated-prosections.md) [+W] — attached 2026-11-01 from Brumpt Eléonore et al. (2023), which proposed "3D-printed anatomical models (3DPAMs) for teaching normal human anatomy"; tests this page's relationship.
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](../claims/3dpam-not-superior-in-seven-studies.md) [-W] — attached 2026-11-01 from Brumpt Eléonore et al. (2023), which proposed "3D-printed anatomical models (3DPAMs) for teaching normal human anatomy"; tests this page's relationship.
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](../claims/3dpam-better-test-results-than-dry-bones.md) [~W]
+- [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](../claims/construction-dgs-equals-manipulatives-beat-traditional.md) [+W]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

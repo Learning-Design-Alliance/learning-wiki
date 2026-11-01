@@ -64,3 +64,5 @@ In a 2 x 2 x 2 factorial design with college students solving simultaneous equat
 - [Cognitive load did not clearly increase during group work under high coercion; a three-way interaction of session time, cognitive load and coercion emerged, with a marginal main effect of coercion](cognitive-load-coercion-interaction.md) — related
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — related
 - [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](expertise-reversal-effect-self-regulation-support.md) — related
+- [In Experiment 1, the effect of worked-example assignments did not differ between low and high prior knowledge students](exp1-no-prior-knowledge-interaction.md) — related
+- [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related

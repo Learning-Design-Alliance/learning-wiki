@@ -54,3 +54,7 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [No significant achievement difference was found between laboratory-only and analogy-based simulation-only environments](no-difference-laboratory-versus-analogy-simulation.md) — related
+- [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [No statistical difference was found between engineering and non-engineering participants on either APSS question, supporting conclusions about engineering students from the full STEM sample](engineering-nonengineering-no-difference-apss.md) — related
+- [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
+- [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related

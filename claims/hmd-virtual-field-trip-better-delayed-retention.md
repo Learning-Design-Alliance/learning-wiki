@@ -53,3 +53,4 @@ Independent-samples t-test (Hypothesis 5) on the delayed posttest after the full
 - [Immersive HMD viewing of a 360° video improves incidental cued recall compared to non-immersive touchscreen viewing](ivr-360-video-hmd-incidental-recall-advantage.md) — related
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [Upper basic students taught Basic Technology practical skills via field trip scored higher on a post-test than students taught by expository method](field-trip-beats-expository-basic-technology.md) — related

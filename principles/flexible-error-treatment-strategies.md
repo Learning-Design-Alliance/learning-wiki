@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (15 for, 19 mixed, 1 against) · 27 studies (10 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 27 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (16 for, 19 mixed, 1 against) · 28 studies (11 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 28 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
 - [Monitoring Improves Learnable Rule Accuracy](../claims/monitoring-improves-learnable-rule-accuracy.md) [+M]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](../claims/meaning-focused-only-no-accuracy-gain.md) [+W] — attached 2026-11-01 from Farahman Farrokhi (2012), which proposed "Embed corrective feedback within communicative activities rather than relying on meaning-focused participation alone".
 
 ## Objective and learner-valued goal
 

@@ -44,7 +44,8 @@ When delivering form-focused instruction, teachers should use corrective feedbac
 - [Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion](../claims/repair-patterns-vary-by-feedback-type-and-setting.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use intensive recasts repeatedly focused on a single structure as an implementable alternative to explicit feedback](intensive-recasts-single-structure-strategy.md)
 
 ## Examples
 -

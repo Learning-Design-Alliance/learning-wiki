@@ -27,7 +27,8 @@ A standardized multiple-choice assessment developed by David Hestenes, Malcolm W
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](../claims/jitt-newtons-third-law-question-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Chemical Equilibrium Concept Test (CECT)](chemical-equilibrium-concept-test-cect.md)
 
 ## Key Sources
 - S. P. Formica, J. L. Easley, and M. C. Spraker. (2010). Transforming common-sense beliefs into Newtonian thinking through Just-In-Time Teaching. Phys. Rev. ST Phys. Educ. Res. 6(2), 020106. https://doi.org/10.1103/PhysRevSTPER.6.020106

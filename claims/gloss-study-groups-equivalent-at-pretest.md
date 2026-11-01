@@ -61,3 +61,10 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
+- [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [No significant difference existed between the graphic-novel and control groups on the pre-test](no-pretest-difference-graphic-novel-control.md) — related
+- [The two groups did not differ significantly in vocabulary knowledge before the intervention](pbl-vocabulary-groups-equivalent-pretest.md) — related
+- [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related

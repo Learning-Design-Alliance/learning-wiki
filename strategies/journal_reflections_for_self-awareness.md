@@ -77,12 +77,14 @@ Reflection journals operationalize the self-regulation cycle of forethought, per
 6. **Review periodically.** Every few weeks, students reread earlier entries to identify patterns — this synthesis step is where self-awareness consolidates.
 
 ## Related Strategies
+
 - [Learning Journals](learning-journals.md) — content-focused variant tied to subject-matter synthesis
 - [Goal-Setting Conferences](goal-setting-conferences.md) — the conversational counterpart; journal entries supply the evidence
 - [Self-Assessment Rubrics](self-assessment-rubrics.md) — gives reflection a shared criterion structure
 - **Learning Goal Journals** — a variant focused specifically on goal setting and progress monitoring rather than open reflection
 - **Exit Tickets** — a shorter, single-lesson form of written reflection; journals aggregate what exit tickets sample
 - **Muddiest Point** — a targeted reflective prompt that can serve as a journal entry
+- [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
 
 ## Examples
 - **Zimmerman's self-regulation training studies** — students keep records of study strategies and outcomes, then set process goals for the next cycle; this journaling component is central to the intervention [Zimmerman, B. J. (2002)](https://doi.org/10.1207/s15430421tip4102_2)

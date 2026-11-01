@@ -53,3 +53,5 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Treatment and comparison groups differed significantly at pretest on most writing and language measures, favoring comparison](siwi-pretest-differences-limitation.md) — related
+- [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — reports the opposite

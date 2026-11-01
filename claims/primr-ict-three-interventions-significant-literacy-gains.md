@@ -53,3 +53,4 @@ Randomized controlled trial of three ICT interventions in Kisumu County, Kenya, 
 - [The impacts of the three PRIMR ICT interventions were not statistically significantly different from one another](primr-ict-intervention-impacts-not-different.md) — related
 - [The TAC tutor tablet intervention was by far the most cost-effective of the three PRIMR ICT interventions](tac-tutor-tablet-most-cost-effective.md) — related
 - [Frequency of TAC tutors' classroom visits was positively associated with learning outcomes, though the relationship is noncausal](tac-tutor-visit-frequency-associated-with-outcomes.md) — related
+- [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — related

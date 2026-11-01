@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 478 claims (225 for, 228 mixed, 25 against) · 250 studies (118 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 250 report an effect size · 471 claims rest on one study
+> **Evidence** · 479 claims (226 for, 228 mixed, 25 against) · 251 studies (119 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 251 report an effect size · 472 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -522,6 +522,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](../claims/structured-pre-briefing-supports-clinical-judgment.md) [+W]
 - [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](../claims/team-engagement-reduces-sa-overconfidence-risk-taking.md) [+W]
 - [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](../claims/self-rated-understanding-overestimates-ability.md) [-W]
+- [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](../claims/ancova-metacognitive-strategy-reading-comprehension-effect.md) [+W]
 
 ## The evidence by question
 

@@ -78,3 +78,5 @@ Two-way ANOVA on pre-post learning gains in the same 49-student classroom study.
 - [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](low-prior-knowledge-greatest-gains-multi-agent.md) — related
 - [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](teaching-method-beats-pretest-predicting-shifts.md) — related
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
+- [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
+- [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](prior-knowledge-moderates-worked-example-benefit.md) — related

@@ -55,3 +55,4 @@ The article cites prior Thai studies (Pornviriyasakul 2011; Chaowakiratipong 201
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related
 - [Higher education students struggle to identify appropriate data representations for AI model training](students-struggle-data-representation-ai-training.md) — related
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
+- [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — related

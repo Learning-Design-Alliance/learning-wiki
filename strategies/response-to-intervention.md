@@ -87,6 +87,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Investigate limited responders' response to increasingly intensive levels of mathematics intervention within tiered systems of support](intensify-math-intervention-tiered-support-research.md)
 - [Provide early monitoring and differentiated special education support for children born with congenital anomalies](early-monitoring-differential-sen-congenital-anomalies.md)
 - [Develop screening measures and targeted interventions specific to the preterm population's learning difficulties](preterm-specific-screening-and-targeted-interventions.md)
+- [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

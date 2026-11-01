@@ -70,3 +70,4 @@ Same mediation model with long-term learning scores; model accounted for 52.40% 
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
 - [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

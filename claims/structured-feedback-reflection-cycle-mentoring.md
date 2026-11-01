@@ -81,3 +81,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](late-career-teachers-prefer-socially-embedded-learning.md) — related
 - [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — a broader claim this one bears on
 - [Nurses' competence in effective implementation of evidence comprises evaluating and reflecting on outcomes, contextual understanding and analysis, and facilitating and managing change in practice](nurses-ebhc-competence-evidence-implementation-sf4.md) — related
+- [Student journal reflections surfaced comprehension difficulties that the teacher then addressed in instruction](journal-reflections-reveal-comprehension-difficulties.md) — related

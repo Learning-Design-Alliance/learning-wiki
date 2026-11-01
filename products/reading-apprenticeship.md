@@ -27,7 +27,7 @@ sources:
 # Reading Apprenticeship
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (5 for, 4 mixed, 1 against) · 3 studies (1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 3 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 4 report an effect size · 12 claims rest on one study
 
 ## Description
 Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness.
@@ -51,6 +51,8 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](../claims/reading-apprenticeship-uncertain-literacy-achievement.md) [~W]
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](../claims/reading-apprenticeship-uncertain-mathematics-achievement.md) [~W]
 - [Teachers' confidence in their ability to implement the program is the only characteristic significantly and positively associated with student outcomes in the RCT](../claims/teacher-confidence-associated-with-value-added.md) [+M]
+- [RAISE significantly improved teachers' use of core Reading Apprenticeship practices and their confidence in literacy instruction, with effect sizes from 0.41 to 0.62](../claims/raise-significant-teacher-practice-confidence-impacts.md) [+M]
+- [By the end of year 2, RAISE significantly improved science students' literacy assessment scores (ES = 0.32), with a non-significant meaningful effect in ELA (0.22) and no effect in history](../claims/raise-literacy-impact-significant-science-only.md) [+M]
 
 ## Related Products and Programmes
 
@@ -64,6 +66,7 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023). Reading Apprenticeship®. https://ies.ed.gov/ncee/wwc/InterventionReport/727
 - Reading Apprenticeship. (2024). Evidence for ESSA program review. https://evidenceforessa.org/program/reading-apprenticeship/
 - Newman, D., Lazarev, V., & Zacamy, J. (2016). Comparing a Program Implemented Under the Constraints of an RCT and in the Wild. SREE Spring 2016 Conference. https://www.sree.org
+- Fancsali, C., Abe, Y., & Pyatigorsky, M. (2016). Developing Content-Area Literacy: The Reading Apprenticeship Improving Secondary Education (RAISE) project: A Randomized Controlled Trial. SREE Spring 2016 Conference. https://www.sree.org
 
 # Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students
 

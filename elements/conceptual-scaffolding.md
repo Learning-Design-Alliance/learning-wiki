@@ -18,7 +18,7 @@ sources:
 # Conceptual Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (7 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 4 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 12 studies (8 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 4 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently. It is useful when the challenge is conceptual complexity rather than only procedural execution.
@@ -46,6 +46,7 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](../claims/problematizing-scaffolds-transfer-effect.md) [~W]
+- [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](../claims/website-reliability-evaluation-similar-across-groups.md) [-W]
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

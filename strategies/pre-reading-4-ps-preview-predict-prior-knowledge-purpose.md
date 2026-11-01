@@ -58,9 +58,11 @@ Pre-reading activities work because comprehension depends on connecting new text
 5. After reading, revisit predictions and the purpose question to consolidate learning — this closing loop is where much of the benefit is realized
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the Prior Knowledge P in depth
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends pre-reading strategies into during-reading dialogue
 - [Anticipation Guides](anticipation-guides.md) — a formalized predict-and-verify variant
+- [Use the Preview and Predict strategy: students preview title and pictures, predict from prior knowledge, then read and verify predictions](preview-and-predict-strategy.md)
 
 ## Examples
 - **History class**: before a chapter on the causes of World War I, students preview section headings, predict the main causes the text will name, list what they already know from prior units, and set the purpose "identify two causes the text emphasizes."

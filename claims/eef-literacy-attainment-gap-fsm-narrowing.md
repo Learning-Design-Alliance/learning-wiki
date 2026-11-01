@@ -51,3 +51,4 @@ Pooled attainment-gap estimate from the sIPD model with a treatment-by-FSM inter
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](passive-dissemination-no-impact-everfsm-subgroup.md) — related
 - [Passive dissemination of research summaries and evidence-based literacy materials to primary schools showed no evidence of improving pupils' Key Stage 2 English attainment compared with control](passive-dissemination-no-ks2-english-impact.md) — related
+- [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related

@@ -46,7 +46,8 @@ The article recommends that faculty start JiTT in small pieces, using course man
 - [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](../claims/good-for-essays-relevance-motivation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt Blackboard-based blended teaching in universities with faculty training and equipped classrooms](adopt-blackboard-blended-faculty-training-classrooms.md)
 
 ## Examples
 -

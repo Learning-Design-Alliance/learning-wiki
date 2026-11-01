@@ -53,3 +53,4 @@ Two-way ANOVA on 115 randomly assigned children (360° VR n = 46, TV n = 28, Pos
 - [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related
 - [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — related
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
+- [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — related

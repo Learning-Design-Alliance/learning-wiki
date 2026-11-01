@@ -72,6 +72,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
+- [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
+- [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 
 ## Examples
 -

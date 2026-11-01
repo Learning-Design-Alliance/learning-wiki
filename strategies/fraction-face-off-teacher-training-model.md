@@ -41,6 +41,7 @@ Fraction Face-Off! includes "up to a week of training for teachers before delive
 - [Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits](training-plus-biweekly-coaching-and-site-visits-for-co-regulation.md)
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
 - [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 
 ## Examples
 -

@@ -77,12 +77,14 @@ Turn-and-talk works because verbalizing forces retrieval and elaboration: learne
 5. Debrief by having selected pairs report out, then correct or extend as needed ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - Think-Pair-Share — the canonical variant adding silent think time and whole-class sharing
 - Peer Instruction — pairs vote on a concept question, then re-vote after discussion
 - Jigsaw — extends pair talk into interdependent group expertise
 - Think-Pair-Share — the most common formalization, adding structured individual think time before paired talk
 - Jigsaw — pairs become expert groups; Turn and Talk is the low-preparation version of the same peer-explanation mechanism
 - Cold Calling — pairs with Turn and Talk to hold pairs accountable after the discussion
+- [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) — turn-and-talk is the smallest unit of collaborative learning

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (77 show a difference, 26 mixed, 29 no difference) · 79 studies (31 associational, 18 causal, 14 review, 12 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 22 of 79 report an effect size · 130 claims rest on one study
+> **Evidence** · 133 claims (78 show a difference, 26 mixed, 29 no difference) · 80 studies (31 associational, 18 causal, 14 review, 12 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 22 of 80 report an effect size · 131 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -169,6 +169,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [The extent to which physical activity interventions foster creativity does not associate with their effect size on executive functions in children](../claims/pa-creativity-rating-no-association-executive-functions.md) [-W] — instruction changes it
 - [Active classrooms show no clear effect on executive function or fluid intelligence](../claims/active-classrooms-no-executive-function-effect.md) [-M] — instruction changes it
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](../claims/psychosocial-executive-mediation-obesity-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](../claims/partial-mediation-effortful-control-example.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

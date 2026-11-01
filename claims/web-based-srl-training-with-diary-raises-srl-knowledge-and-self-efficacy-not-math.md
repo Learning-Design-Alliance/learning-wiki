@@ -117,3 +117,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related

@@ -46,6 +46,7 @@ Drawing on interview participants' suggestions, the article recommends transitio
 
 - [Engage trainees in focused observation tasks, collaborative learning tasks, and peer communities of practice to develop reflective practitioners](observation-tasks-collaborative-tasks-peer-community.md)
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
+- [Train teachers and develop university courses on VTM as a student-centred methodology](vtm-teacher-training-workshops-strategy.md)
 
 ## Examples
 -

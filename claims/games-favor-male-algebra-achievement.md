@@ -52,3 +52,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
+- [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite

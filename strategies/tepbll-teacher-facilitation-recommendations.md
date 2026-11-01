@@ -48,6 +48,7 @@ The review distills teacher-facilitation recommendations from the included studi
 
 - [Collaborative Group Work in PBL](collaborative_group_work_in_pbl.md)
 - [Instructor recommendations for running a module-development course project](module-development-course-recommendations.md)
+- [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
 
 ## Examples
 -

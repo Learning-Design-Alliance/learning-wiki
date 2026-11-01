@@ -56,3 +56,4 @@ Meta-analysis using random effects model (RevMan 5.2) of eight CCTDI datasets fr
 - [GAI-assisted teaching significantly improves analytical and problem-solving skills compared with traditional teaching (SMD = 1.53; OR = 10.28)](gai-teaching-improves-analytical-problem-solving-skills.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
 - [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](modern-methods-improve-nursing-problem-solving-meta.md) — related
+- [Nursing students taught with Think-Pair-Show gained significantly more critical thinking over a 17-week course than students taught without it](tps-greater-ct-gain-nursing-students.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Quasi-experimental comparison of a mobile learning group (n=15) and a traditiona
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
+- [Adjusted post-test scores favour the ICT group over the conventional group](ict-group-adjusted-scores-higher-than-conventional.md) — related

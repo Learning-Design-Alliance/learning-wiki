@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (95 show a difference, 21 mixed, 14 no difference) · 73 studies (39 associational, 11 review, 9 causal, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 73 report an effect size · 128 claims rest on one study
+> **Evidence** · 131 claims (96 show a difference, 21 mixed, 14 no difference) · 74 studies (39 associational, 11 review, 10 causal, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 74 report an effect size · 129 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -164,6 +164,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Students without disabilities scored significantly higher than students with disabilities on the integer arithmetic pre-test and overall](../claims/moves-nl-condition-main-effect.md) [+M] — learners who differ on it differ in outcomes
 - [All 21 autistic students independently completed all 164 VR-IWS tasks offered across three countries](../claims/vr-iws-all-students-completed-164-tasks.md) [+M] — learners who differ on it differ in outcomes
 - [Autistic children with intellectual disability scored significantly lower on task feasibility than children without intellectual disability](../claims/vr-iws-intellectual-disability-lower-feasibility.md) [+M] — learners who differ on it differ in outcomes
+- [Students with learning disabilities reported increased enthusiasm and engagement when learning mathematics through CBI](../claims/cbi-interview-engagement-learning-disabilities.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

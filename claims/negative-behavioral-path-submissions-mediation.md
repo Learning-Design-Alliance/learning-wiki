@@ -72,3 +72,4 @@ Same mediation model; mental effort did not significantly predict post-test (B =
 - [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
 - [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](perceived-risk-stage-sensitive-deterrent.md) — related
 - [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
+- [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related

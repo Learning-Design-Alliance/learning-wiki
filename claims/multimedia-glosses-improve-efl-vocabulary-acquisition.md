@@ -64,3 +64,4 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
 - [A multiple-choice gloss format (L1 + L2) produced significantly higher vocabulary posttest scores than a single-gloss format in Nagata's Japanese study](multiple-choice-gloss-beats-single-gloss-nagata.md) — related
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
+- [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related

@@ -57,6 +57,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
 - [Teacher educators should model inquiry-based instruction and provide in-service training on argumentation development](teacher-educators-model-inquiry-and-train-argumentation.md)
+- [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 
 ## Examples
 -

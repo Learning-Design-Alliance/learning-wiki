@@ -18,7 +18,7 @@ sources:
 # Three-Lesson Web-Based SRL Training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 9 studies (6 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 4 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 10 studies (7 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 4 of 10 report an effect size · 15 claims rest on one study
 
 ## Description
 A web-based training on self-regulated learning that "can be attended by virtually unlimited numbers of participants" choosing their own time and place. "The WBT comprises three lessons of approximately 90 min each", covering the pre-action, action and post-action phases, and using videos, presentations, self-tests, exercises and bulletin boards. In this study lessons unlocked at 1-week intervals, videos used real actors, and mean self-reported compliance was 82.18%.
@@ -58,6 +58,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)](../claims/mcs-explicitness-effect-size-d208.md) [+W]
 - [Treatment group assignment does not affect final exam grades, but performance in the e-learning sessions predicts exam scores](../claims/session-performance-predicts-exam-no-treatment-effect.md) [~W]
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [-W]
+- [No significant overall change in CCT-X scores from pre-test to post-test regardless of group](../claims/measurement-main-effect-not-significant.md) [-W]
 
 ## The evidence by question
 

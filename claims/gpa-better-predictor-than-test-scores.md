@@ -58,3 +58,4 @@ The report identifies a policy-research tension: CPS retained test-score benchma
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — related
 - [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](gpad-equals-cogdelta-prediction-and-joint-26-percent.md) — related
 - Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
+- [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related

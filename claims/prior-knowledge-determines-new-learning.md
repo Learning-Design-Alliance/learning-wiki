@@ -141,3 +141,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related
 - [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related
 - [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](incoming-beliefs-correlate-conceptual-gains.md) — related
+- [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — related

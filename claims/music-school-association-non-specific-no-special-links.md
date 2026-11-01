@@ -52,3 +52,4 @@ Authors' interpretation (Discussion) of their per-subject results, aligned with 
 - [Children taking optional handicraft lessons scored significantly worse overall than controls, and handicraft did not significantly predict marks in regression](handicraft-lessons-worse-marks-not-significant-predictor.md) — related
 - [Children practicing music achieve significantly better overall average school marks than controls](music-practice-higher-overall-school-marks.md) — related
 - [Correlations between performance on different intellectual tasks fail to reach 1.00, indicating specialization of intelligence](intellectual-task-correlations-below-unity-specialization.md) — related
+- [The trial did not replicate Schellenberg's (2004) finding that music tuition increases attainment over other creative pursuits](asp-failed-to-replicate-schellenberg-2004.md) — related
