@@ -10,11 +10,12 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
-  - id: nathan-h-clemens-2017
+  - id: clemens-2017
     resource: "https://doi.org/10.1177/0734282916662120"
-    title: "Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120"
-    author: Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok
+    title: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120"
+    author: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O."
     q: 3
     i: "?"
 ---
@@ -23,19 +24,19 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
-`q3 i?` Among 180 adolescents identified via LCA as low in reading comprehension, 96% scored below average in reading fluency, vocabulary, or both areas. [→ Nathan H. Clemens 2017](#nathan-h-clemens-2017)
+`q3 i?` Among 180 adolescents identified via LCA as low in reading comprehension, 96% scored below average in reading fluency, vocabulary, or both areas. [→ Clemens 2017](#clemens-2017)
 
-`q3 i?` Only 8 of 180 struggling comprehenders (4%) scored average or above in both fluency and vocabulary, while about 20% had average fluency but low vocabulary. [→ Nathan H. Clemens 2017](#nathan-h-clemens-2017)
+`q3 i?` Only 8 of 180 struggling comprehenders (4%) scored average or above in both fluency and vocabulary, while 28 (16%) had average fluency but below-average vocabulary; together these two groups, about 20% of the sample, were the students with fluency in the average range. [→ Clemens 2017](#clemens-2017)
 
 ## Evidence
 
-### Nathan H. Clemens 2017
+### Clemens 2017
 
-Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120
+Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120
 
 `q3 · i?`
 
@@ -44,9 +45,9 @@ Latent class analysis of pre-intervention assessment data from 180 struggling co
 > "Together, 96% of students demonstrated difficulties in one or both areas. Specifically with regard to fluency, the number of students with below-average skills in reading fluency (either alone or in addition to below-average vocabulary) represented 80% of students struggling with reading comprehension."
 
 <!-- merged 2026-11-01 from adequate-fluency-and-vocabulary-rare-among-struggling-comprehenders: that page's entry for this study, which differed from the one above, kept verbatim.
-### Nathan H. Clemens 2017
+### Clemens 2017
 
-Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120
+Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120
 
 `q3 · i?`
 

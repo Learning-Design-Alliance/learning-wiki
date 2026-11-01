@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
-  - id: mohammad-mahmoud-talal-mohaidat-2018
+  - id: mohaidat-2018
     resource: "https://doi.org/10.5539/elt.v11n4p32"
-    title: "Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
-    author: Mohammad Mahmoud Talal Mohaidat
+    title: "Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
+    author: Mohaidat, M. M. T.
     q: 3
     i: 2
     kind: causal
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` The calculated effect size for the electronic mind map treatment was medium (η² = 0.1267; Δ = 0.751). [→ Mohammad Mahmoud Talal Mohaidat 2018](#mohammad-mahmoud-talal-mohaidat-2018)
+`q3 i2` The calculated effect size for the electronic mind map treatment was medium (η² = 0.1267; Δ = 0.751). [→ Mohaidat 2018](#mohaidat-2018)
 
 ## Evidence
 
-### Mohammad Mahmoud Talal Mohaidat 2018
+### Mohaidat 2018
 
-Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32
+Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32
 
 `q3 · i2` · `causal · r1`
 

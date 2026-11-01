@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: mohammad-mahmoud-talal-mohaidat-2018
+  - id: mohaidat-2018
     resource: "https://doi.org/10.5539/elt.v11n4p32"
-    title: "Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
-    author: Mohammad Mahmoud Talal Mohaidat
+    title: "Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
+    author: "Mohaidat, M. M. T."
 ---
 
 # Train English teachers through workshops to design and apply electronic mind maps
@@ -52,4 +52,4 @@ The study's principal recommendation is professional development: "Conducting wo
 -
 
 ## Key Sources
-- Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32
+- Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32

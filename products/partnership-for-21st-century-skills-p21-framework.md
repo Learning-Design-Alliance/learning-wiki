@@ -25,8 +25,8 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 
 ### Claims
 - [Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories](../claims/frameworks-consistent-two-addition-types.md) [+W]
-- [Integrating 21st century skills into EFL instruction yields significantly higher listening scores than traditional teaching](../claims/21st-century-skills-improve-listening-efl.md) [+M]
-- [Integrating 21st century skills into EFL instruction yields significantly higher speaking scores than traditional teaching](../claims/21st-century-skills-improve-speaking-efl.md) [+M]
+- [In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in listening than the class taught traditionally](../claims/21st-century-skills-improve-listening-efl.md) [+W]
+- [In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in speaking than the class taught traditionally](../claims/21st-century-skills-improve-speaking-efl.md) [+W]
 
 ## Related Products and Programmes
 
@@ -35,4 +35,4 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 ## Key Sources
 - Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov
 - Davy Tsz Kit Ng, Jac Ka Lok Leung, Jiahong Su, Ross Chi Wui Ng, Samuel Kai Wah Chu. (2023). Teachers' AI digital competencies and twenty-first century skills in the post-pandemic world. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10203-6
-- Hamid Ashraf, Fatemeh Ahmadi, Mansooreh Hosseinnia. (2017). Integrating 21st Century Skills into Teaching English: Investigating its Effect on Listening and Speaking Skills. i-manager's Journal on English Language Teaching, Vol. 7 No. 4. https://www.imanagerpublications.com
+- Ashraf, H., Ahmadi, F., & Hosseinnia, M. (2017). Integrating 21st Century Skills into Teaching English: Investigating its Effect on Listening and Speaking Skills. i-manager's Journal on English Language Teaching, 7(4). https://www.imanagerpublications.com

@@ -83,7 +83,7 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — a design lens for judging whether a personalized sequence is well-formed, independent of delivery fidelity
 - Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50% — a narrower finding that bears on this claim
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — a narrower finding that bears on this claim
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — related
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](scaffolding-lower-adherence-than-scripted-components.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts](ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md) — a narrower finding that bears on this claim
 - [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — a narrower finding that bears on this claim

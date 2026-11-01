@@ -9,12 +9,11 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
 sources:
-  - id: murat-pasa-uysal-2014
-    resource: "https://eric.ed.gov/?id=EJ1105559"
-    title: "Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559"
-    author: Murat Pasa Uysal
+  - id: uysal-2014
+    resource: "https://doi.org/10.30935/cedtech/6125"
+    title: "Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125"
+    author: Uysal, M. P.
     q: 3
     i: "?"
     kind: causal
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` First-year students taught with the web-supported well-structured PS method scored significantly higher on the CP achievement posttest than students taught with the web-supported traditional method. [→ Murat Pasa Uysal 2014](#murat-pasa-uysal-2014)
+`q3 i?` First-year students taught with the web-supported well-structured PS method scored significantly higher on the CP achievement posttest than students taught with the web-supported traditional method. [→ Uysal 2014](#uysal-2014)
 
 ## Evidence
 
-### Murat Pasa Uysal 2014
+### Uysal 2014
 
-Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559
+Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125
 
 `q3 · i?` · `causal · r2`
 

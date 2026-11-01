@@ -10,8 +10,8 @@ generated:
 sources:
   - id: ekomaye-2019
     resource: "https://doi.org/10.20448/journal.509.2019.62.82.87"
-    title: "Ekomaye, Daniel Gideon (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2): 82-87. https://doi.org/10.20448/journal.509.2019.62.82.87"
-    author: Ekomaye, Daniel Gideon
+    title: "Ekomaye, D. G. (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2), 82-87. https://doi.org/10.20448/journal.509.2019.62.82.87"
+    author: Ekomaye, D. G.
 ---
 
 # Guided inquiry teaching method (GITM)
@@ -48,4 +48,4 @@ GITM is described as "a teaching method that enables students to acquire knowled
 -
 
 ## Key Sources
-- Ekomaye, Daniel Gideon (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2): 82-87. https://doi.org/10.20448/journal.509.2019.62.82.87
+- Ekomaye, D. G. (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. *Journal of Education and e-Learning Research, 6*(2), 82-87. [doi:10.20448/journal.509.2019.62.82.87](https://doi.org/10.20448/journal.509.2019.62.82.87)

@@ -19,7 +19,7 @@ sources:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 10 studies (8 causal, 2 quant-synthesis), `q1`–`q4` · 5 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 10 studies (8 causal, 2 quant-synthesis), `q1`–`q4` · 6 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
@@ -39,7 +39,7 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [The Herringbone technique is more effective than the Tri Focus Steve Snyder technique for teaching reading comprehension to ninth-grade EFL students](../claims/ht-more-effective-than-tfsst-reading-comprehension.md) [+W] — attached 2026-11-01 from Rosyida et al. (2018), which proposed "Herringbone technique (HT): a fish-skeleton graphic organizer built from six WH questions".
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](../claims/story-mapping-improves-short-story-writing-posttest.md) [+M] — attached 2026-11-01 from Salem Saleh Khalaf Ibnian (2010), which proposed "Story-mapping technique as a graphic organizer for EFL short story writing"; tests this page's relationship.
 - [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](../claims/story-mapping-pretest-posttest-gain.md) [+M] — attached 2026-11-01 from Salem Saleh Khalaf Ibnian (2010), which proposed "Story-mapping technique as a graphic organizer for EFL short story writing"; tests this page's relationship.
-- [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohammad Mahmoud Talal Mohaidat (2018), which proposed "IMindMap electronic mind maps designed for three Action Pack 9 reading texts"; tests this page's relationship.
+- [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "IMindMap electronic mind maps designed for three Action Pack 9 reading texts"; tests this page's relationship.
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](../claims/e-mind-maps-within-group-achievement-gain.md) [~W]
 
 ## The evidence by question

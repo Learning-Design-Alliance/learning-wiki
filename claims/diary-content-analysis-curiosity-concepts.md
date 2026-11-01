@@ -46,5 +46,5 @@ Content analysis of 360 semi-structured diaries written by the 30 experimental-g
 
 
 ## Related Claims
-- [Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity](diaries-report-books-pique-curiosity.md) — related
-- [Reading science-fiction books alongside the regular science curriculum significantly increases secondary students' science curiosity compared to the control group](science-fiction-books-increase-science-curiosity.md) — related
+- [Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book](diaries-report-books-pique-curiosity.md) — related
+- [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](science-fiction-books-increase-science-curiosity.md) — related

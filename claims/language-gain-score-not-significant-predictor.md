@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
-  - id: megan-johanson-2016
+  - id: johanson-2016
     resource: "https://doi.org/10.1080/10888691.2015.1074050"
-    title: "Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
-    author: Megan Johanson, Laura M. Justice, and Jessica Logan
+    title: "Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
+    author: "Johanson, M., Justice, L. M., & Logan, J."
     q: 3
     i: "?"
     kind: causal
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A fall-to-spring preschool language difference score was not a significant predictor in any model, and the pattern of moderated treatment effects was unchanged. [→ Megan Johanson 2016](#megan-johanson-2016)
+`q3 i?` A fall-to-spring preschool language difference score was not a significant predictor in any model, and the pattern of moderated treatment effects was unchanged. [→ Johanson 2016](#johanson-2016)
 
 ## Evidence
 
-### Megan Johanson 2016
+### Johanson 2016
 
-Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050
+Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050
 
 `q3 · i?` · `causal · r2`
 

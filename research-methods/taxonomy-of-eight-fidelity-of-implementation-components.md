@@ -24,7 +24,7 @@ The article assembles a taxonomy of FOI components drawn from Dane and Schneider
 ### Claims
 
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](../claims/wide-variability-foi-early-language-curricula.md) [+W]
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [+W]
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [+W]
 - [Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery](../claims/fidelity-varied-across-schools-classrooms-teacher-delivery.md) [+W]
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](../claims/dp-adherence-variability-influences-outcomes.md) [+W]
 

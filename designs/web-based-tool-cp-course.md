@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-01
 sources:
-  - id: murat-pasa-uysal-2014
-    resource: "https://www.cedtech.net"
-    title: "Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://www.cedtech.net"
-    author: Murat Pasa Uysal
+  - id: uysal-2014
+    resource: "https://doi.org/10.30935/cedtech/6125"
+    title: "Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125"
+    author: "Uysal, M. P."
 ---
 
 # Customized web-based tool supporting PS and traditional course groups
@@ -48,4 +48,4 @@ A customized web-based tool offered two student interfaces, one per instructiona
 -
 
 ## Key Sources
-- Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://www.cedtech.net
+- Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125

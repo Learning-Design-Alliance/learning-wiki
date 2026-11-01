@@ -11,8 +11,9 @@ evidence_strength: weak
 newest_evidence: 2019
 sources:
   - id: ekomaye-2019
-    title: "Ekomaye, Daniel Gideon (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2): 82-87."
-    author: Ekomaye, Daniel Gideon
+    resource: "https://doi.org/10.20448/journal.509.2019.62.82.87"
+    title: "Ekomaye, D. G. (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. *Journal of Education and e-Learning Research, 6*(2), 82-87. [doi:10.20448/journal.509.2019.62.82.87](https://doi.org/10.20448/journal.509.2019.62.82.87)"
+    author: Ekomaye, D. G.
     q: 1
     i: "?"
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 ### Ekomaye 2019
 
-Ekomaye, Daniel Gideon (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2): 82-87.
+Ekomaye, D. G. (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. *Journal of Education and e-Learning Research, 6*(2), 82-87. [doi:10.20448/journal.509.2019.62.82.87](https://doi.org/10.20448/journal.509.2019.62.82.87)
 
 `q1 · i?` · `causal · r1`
 

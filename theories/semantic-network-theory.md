@@ -17,7 +17,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.
@@ -49,7 +49,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 - [The greater the reorganization of prior knowledge required, the harder new information is to acquire](../claims/reorganization-depth-difficulty-conceptual-change.md) [+W]
 - [Sorting tasks elicited networks with more expert overlap than essay writing, suggesting sorting better captures nascent conceptual structures](../claims/sorting-elicits-more-overlap-than-essays.md) [~W]
 - [Graph centrality of students' sorting-task networks showed no relationship to expert-network overlap or to posttest scores in either study](../claims/gcent-unrelated-to-overlap-and-scores.md) [-W]
-- [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohammad Mahmoud Talal Mohaidat (2018), which proposed "Buzan's radiant-thinking account of the mind map as a whole-brain graphic organizer".
+- [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Buzan's radiant-thinking account of the mind map as a whole-brain graphic organizer".
 
 ## Related Theories
 

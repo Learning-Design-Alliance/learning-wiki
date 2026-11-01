@@ -64,5 +64,5 @@ Descriptive statistics (Table 2) show pre-test means of 17.25, 17.65 and 18.83 a
 
 
 ## Related Claims
-- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching](self-monitoring-strategies-improve-self-monitoring-levels.md) — related
+- [Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching](self-monitoring-strategies-improve-self-monitoring-levels.md) — related
 - [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](strategy-timing-no-significant-difference.md) — related

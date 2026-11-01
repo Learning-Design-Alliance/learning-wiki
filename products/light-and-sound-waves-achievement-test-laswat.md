@@ -29,4 +29,4 @@ LASWAT is a 50-item multiple-choice physics achievement test developed and valid
 -
 
 ## Key Sources
-- Ekomaye, Daniel Gideon (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. Journal of Education and e-Learning Research, 6(2): 82-87. https://doi.org/10.20448/journal.509.2019.62.82.87
+- Ekomaye, D. G. (2019). Effect of Guided Inquiry Teaching Method on Secondary School Students’ Achievement in Light and Sound Waves in Abuja, Nigeria. *Journal of Education and e-Learning Research, 6*(2), 82-87. [doi:10.20448/journal.509.2019.62.82.87](https://doi.org/10.20448/journal.509.2019.62.82.87)

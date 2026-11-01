@@ -9,12 +9,13 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 recheck_by: 2022
 sources:
-  - id: nathan-h-clemens-2017
+  - id: clemens-2017
     resource: "https://doi.org/10.1177/0734282916662120"
-    title: "Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120"
-    author: Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok
+    title: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120"
+    author: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O."
     q: 3
     i: "?"
     kind: associational
@@ -25,16 +26,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
-`q3 i?` A four-class LCA on GMRT, GRADE, and GORT-5 comprehension scores yielded a below-average class (n = 139) and a well-below-average class (n = 42), which formed the analytic subsample. [→ Nathan H. Clemens 2017](#nathan-h-clemens-2017)
+`q3 i?` A four-class LCA on GMRT, GRADE, and GORT-5 comprehension scores yielded a below-average class (n = 139) and a well-below-average class (n = 42), which formed the analytic subsample. [→ Clemens 2017](#clemens-2017)
 
 ## Evidence
 
-### Nathan H. Clemens 2017
+### Clemens 2017
 
-Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120
+Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120
 
 `q3 · i?` · `associational · r1`
 

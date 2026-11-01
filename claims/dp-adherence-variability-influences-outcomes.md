@@ -47,5 +47,5 @@ The review reports that "Variability in DP adherence across studies influenced o
 ## Related Claims
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — a broader claim this one bears on
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](scaffolding-lower-adherence-than-scripted-components.md) — a broader claim this one bears on
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related

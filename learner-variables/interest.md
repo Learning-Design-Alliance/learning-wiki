@@ -273,7 +273,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Instructional strategy has a significant main effect on primary students’ posttest interest in mathematics](../claims/instructional-strategy-main-effect-interest-mathematics.md) [+M] — instruction changes it
 - [Students with high curiosity achieved higher reading comprehension scores than students with low curiosity](../claims/high-curiosity-higher-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — an instructional effect differs with it
-- [Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity](../claims/diaries-report-books-pique-curiosity.md) [+M] — instruction changes it
+- [Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book](../claims/diaries-report-books-pique-curiosity.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

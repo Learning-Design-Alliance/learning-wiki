@@ -38,7 +38,7 @@ The intervention material is a set of 12 books read by the experimental group: 9
 - engagement with science content
 
 ### Claims
-- [Science Fiction Books Increase Science Curiosity](../claims/science-fiction-books-increase-science-curiosity.md) [+M]
+- [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](../claims/science-fiction-books-increase-science-curiosity.md) [+W]
 
 ## Related Designs
 - 

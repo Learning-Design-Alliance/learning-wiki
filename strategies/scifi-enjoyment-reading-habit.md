@@ -39,9 +39,9 @@ This strategy pairs two of the article's stated recommendations: reading science
 
 ## Claims
 
-- [Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity](../claims/diaries-report-books-pique-curiosity.md) [+W]
+- [Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book](../claims/diaries-report-books-pique-curiosity.md) [+W]
 - [Content analysis of student diaries identifies specific science concepts that arouse the most curiosity, including extra-terrestrials, celestial bodies, space vehicles, genetics, and simple machines](../claims/diary-content-analysis-curiosity-concepts.md) [+W]
-- [Reading science-fiction books alongside the regular science curriculum significantly increases secondary students' science curiosity compared to the control group](../claims/science-fiction-books-increase-science-curiosity.md) [+W]
+- [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](../claims/science-fiction-books-increase-science-curiosity.md) [+W]
 
 ## Related Strategies
 

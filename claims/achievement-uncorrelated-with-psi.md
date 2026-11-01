@@ -10,10 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2014
 sources:
-  - id: murat-pasa-uysal-2014
-    resource: "https://eric.ed.gov/?id=EJ1105559"
-    title: "Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559"
-    author: Murat Pasa Uysal
+  - id: uysal-2014
+    resource: "https://doi.org/10.30935/cedtech/6125"
+    title: "Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125"
+    author: Uysal, M. P.
     q: 3
     i: 0
     kind: causal
@@ -27,13 +27,13 @@ sources:
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i0` Contrary to expectations, CP academic achievement and PS perception scores were not significantly correlated (r=.036, p>.05). [→ Murat Pasa Uysal 2014](#murat-pasa-uysal-2014)
+`q3 i0` Contrary to expectations, CP academic achievement and PS perception scores were not significantly correlated (r=.036, p>.05). [→ Uysal 2014](#uysal-2014)
 
 ## Evidence
 
-### Murat Pasa Uysal 2014
+### Uysal 2014
 
-Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559
+Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125
 
 `q3 · i0` · `causal · r2`
 

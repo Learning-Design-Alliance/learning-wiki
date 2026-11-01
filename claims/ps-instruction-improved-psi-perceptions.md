@@ -9,19 +9,20 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
-  - id: murat-pasa-uysal-2014
-    resource: "https://eric.ed.gov/?id=EJ1105559"
-    title: "Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559"
-    author: Murat Pasa Uysal
+  - id: uysal-2014
+    resource: "https://doi.org/10.30935/cedtech/6125"
+    title: "Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125"
+    author: Uysal, M. P.
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: murat-pasa-uysal-2014-2
-    resource: "https://eric.ed.gov/?id=EJ1105559"
-    title: "Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559"
-    author: Murat Pasa Uysal
+  - id: uysal-2014-2
+    resource: "https://doi.org/10.30935/cedtech/6125"
+    title: "Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125"
+    author: Uysal, M. P.
     q: 3
     i: "?"
     kind: causal
@@ -32,27 +33,27 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The PS group scored significantly better than the control group on PSI total, PSC and AAS scores (lower scores indicate greater perceived PS ability). [→ Murat Pasa Uysal 2014](#murat-pasa-uysal-2014)
-`q3 i?` There was no statistically significant difference between the groups on the Personal Control (PC) factor. [→ Murat Pasa Uysal 2014 (2)](#murat-pasa-uysal-2014-2)
+`q3 i?` The PS group scored significantly better than the control group on PSI total, PSC and AAS scores (lower scores indicate greater perceived PS ability). [→ Uysal 2014](#uysal-2014)
+`q3 i?` There was no statistically significant difference between the groups on the Personal Control (PC) factor. [→ Uysal 2014 (2)](#uysal-2014-2)
 
 ## Evidence
 
-### Murat Pasa Uysal 2014
+### Uysal 2014
 
-Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559
+Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125
 
 `q3 · i?` · `causal · r2`
 
-Mann-Whitney tests on the adapted 35-item Problem Solving Inventory administered to 433 students at course end; experimental n=219, control n=214. The article reports significant differences on PSI total, PSC and AAS but "not for the PC score". No effect sizes printed.
+Mann-Whitney tests on an adapted Problem Solving Inventory (the original has 35 items, including 3 fillers; seven poorly loading items were excluded after a confirmatory factor analysis with 90 students) administered to 433 students at course end; experimental n=219, control n=214. The article reports significant differences on PSI total, PSC and AAS but "not for the PC score". No effect sizes printed.
 
 > "there was enough evidence to conclude that there were statistically significant differences between the groups for the PSI, PSC, AAS scores ( PSI: z= -2,634, p<.05; PSC: z= -2,021, p<=.05; AAS: z= -2,222, p<.05); but not for  the PC score (PC: z= -1,183, p> .05)"
 
-### Murat Pasa Uysal 2014 (2)
+### Uysal 2014 (2)
 
-Murat Pasa Uysal. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://eric.ed.gov/?id=EJ1105559
+Uysal, M. P. (2014). Improving First Computer Programming Experiences: The Case of Adapting a Web-Supported and Well-Structured Problem-Solving Method to a Traditional Course. Contemporary Educational Technology, 5(3), 198-217. https://doi.org/10.30935/cedtech/6125
 
 `q3 · i?` · `causal · r2`
 

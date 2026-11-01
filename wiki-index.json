@@ -2030,24 +2030,25 @@
 "type":"claim"
 },
 {
-"description":"Integrating 21st century skills into EFL instruction yields significantly higher listening scores than traditional teaching",
+"description":"In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in listening than the class taught traditionally",
 "evidence_strength":"moderate",
 "id":"21st-century-skills-improve-listening-efl",
 "newest_evidence":"2017",
 "path":"claims/21st-century-skills-improve-listening-efl.md",
 "source_checked":"2026-11-01",
 "status":"review",
-"title":"Integrating 21st century skills into EFL instruction yields significantly higher listening scores than traditional teaching",
+"title":"In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in listening than the class taught traditionally",
 "type":"claim"
 },
 {
-"description":"Integrating 21st century skills into EFL instruction yields significantly higher speaking scores than traditional teaching",
+"description":"In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in speaking than the class taught traditionally",
 "evidence_strength":"moderate",
 "id":"21st-century-skills-improve-speaking-efl",
 "newest_evidence":"2017",
 "path":"claims/21st-century-skills-improve-speaking-efl.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Integrating 21st century skills into EFL instruction yields significantly higher speaking scores than traditional teaching",
+"title":"In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in speaking than the class taught traditionally",
 "type":"claim"
 },
 {
@@ -3334,6 +3335,7 @@
 "id":"96-percent-struggling-comprehenders-fluency-vocabulary-deficit",
 "newest_evidence":"2017",
 "path":"claims/96-percent-struggling-comprehenders-fluency-vocabulary-deficit.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"96% of middle-school students with low reading comprehension demonstrate deficits in reading fluency, vocabulary, or both",
 "type":"claim"
@@ -60945,6 +60947,7 @@
 "newest_evidence":"2017",
 "path":"claims/co-occurring-fluency-vocabulary-deficits-largest-subgroup.md",
 "recheck_by":"2022",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Co-occurring fluency and vocabulary deficits form the largest skill profile among struggling adolescent comprehenders (57%)",
 "type":"claim"
@@ -69760,6 +69763,7 @@
 "id":"concept-mapping-cooperative-learning-beat-conventional-trigonometry",
 "newest_evidence":"2016",
 "path":"claims/concept-mapping-cooperative-learning-beat-conventional-trigonometry.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"SSII students taught trigonometry with concept mapping or cooperative learning achieved significantly higher post-test scores than students taught with conventional methods",
 "type":"claim"
@@ -93328,13 +93332,14 @@
 "type":"claim"
 },
 {
-"description":"Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity",
+"description":"Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book",
 "evidence_strength":"weak",
 "id":"diaries-report-books-pique-curiosity",
 "newest_evidence":"2020",
 "path":"claims/diaries-report-books-pique-curiosity.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity",
+"title":"Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book",
 "type":"claim"
 },
 {
@@ -113388,6 +113393,7 @@
 "id":"emindmap-improves-reading-comprehension-jordan-grade9",
 "newest_evidence":"2018",
 "path":"claims/emindmap-improves-reading-comprehension-jordan-grade9.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method",
 "type":"claim"
@@ -113398,6 +113404,7 @@
 "id":"emindmap-medium-effect-size-reading",
 "newest_evidence":"2018",
 "path":"claims/emindmap-medium-effect-size-reading.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The effect of using electronic mind maps on ninth-graders' reading comprehension was medium in size",
 "type":"claim"
@@ -142214,13 +142221,14 @@
 "type":"claim"
 },
 {
-"description":"FSIQ moderated SCI-A response: lower-FSIQ students benefited on awareness, communication, and motivation, while higher-FSIQ students fared worse in SCI-A",
+"description":"FSIQ significantly moderated SCI-A response only on communication, where lower-FSIQ students did better in SCI-A than in BAU and higher-FSIQ students did worse",
 "evidence_strength":"moderate",
 "id":"fsiq-moderates-sci-a-response",
 "newest_evidence":"2018",
 "path":"claims/fsiq-moderates-sci-a-response.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"FSIQ moderated SCI-A response: lower-FSIQ students benefited on awareness, communication, and motivation, while higher-FSIQ students fared worse in SCI-A",
+"title":"FSIQ significantly moderated SCI-A response only on communication, where lower-FSIQ students did better in SCI-A than in BAU and higher-FSIQ students did worse",
 "type":"claim"
 },
 {
@@ -153192,7 +153200,6 @@
 "id":"gitm-beats-conventional-light-sound-waves",
 "newest_evidence":"2019",
 "path":"claims/gitm-beats-conventional-light-sound-waves.md",
-"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method",
 "type":"claim"
@@ -197080,6 +197087,7 @@
 "id":"language-gain-score-not-significant-predictor",
 "newest_evidence":"2016",
 "path":"claims/language-gain-score-not-significant-predictor.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The amount of language growth children made during the preschool intervention year did not predict kindergarten outcomes and did not alter the moderated treatment effects",
 "type":"claim"
@@ -198660,6 +198668,7 @@
 "newest_evidence":"2017",
 "path":"claims/lca-identified-180-low-comprehenders-from-233.md",
 "recheck_by":"2022",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Latent class analysis using three comprehension measures identified 180 of 233 students as below-average or well-below-average comprehenders",
 "type":"claim"
@@ -205501,6 +205510,7 @@
 "id":"llli-no-main-effect-kindergarten-outcomes",
 "newest_evidence":"2016",
 "path":"claims/llli-no-main-effect-kindergarten-outcomes.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension",
 "type":"claim"
@@ -272263,6 +272273,7 @@
 "id":"peer-tutoring-application-level-achievement",
 "newest_evidence":"2018",
 "path":"claims/peer-tutoring-application-level-achievement.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Peer tutoring significantly improved achievement at the application level of the cognitive domain",
 "type":"claim"
@@ -272294,6 +272305,7 @@
 "id":"peer-tutoring-comprehension-level-achievement",
 "newest_evidence":"2018",
 "path":"claims/peer-tutoring-comprehension-level-achievement.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain",
 "type":"claim"
@@ -296654,7 +296666,6 @@
 "id":"ps-instruction-higher-cp-achievement",
 "newest_evidence":"2014",
 "path":"claims/ps-instruction-higher-cp-achievement.md",
-"source_checked":"2026-11-01",
 "status":"review",
 "title":"Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction",
 "type":"claim"
@@ -296665,6 +296676,7 @@
 "id":"ps-instruction-improved-psi-perceptions",
 "newest_evidence":"2014",
 "path":"claims/ps-instruction-improved-psi-perceptions.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control",
 "type":"claim"
@@ -320337,13 +320349,14 @@
 "type":"claim"
 },
 {
-"description":"Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies",
+"description":"Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies of one early-childhood language curriculum, but not in the first",
 "evidence_strength":"moderate",
 "id":"scaffolding-lower-adherence-than-scripted-components",
 "newest_evidence":"2021",
 "path":"claims/scaffolding-lower-adherence-than-scripted-components.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies",
+"title":"Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies",
 "type":"claim"
 },
 {
@@ -323603,13 +323616,14 @@
 "type":"claim"
 },
 {
-"description":"Reading science-fiction books alongside the regular science curriculum significantly increases secondary students' science curiosity compared to the control group",
+"description":"Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test",
 "evidence_strength":"moderate",
 "id":"science-fiction-books-increase-science-curiosity",
 "newest_evidence":"2020",
 "path":"claims/science-fiction-books-increase-science-curiosity.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Reading science-fiction books alongside the regular science curriculum significantly increases secondary students' science curiosity compared to the control group",
+"title":"Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test",
 "type":"claim"
 },
 {
@@ -329468,13 +329482,14 @@
 "type":"claim"
 },
 {
-"description":"Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching",
+"description":"Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching",
 "evidence_strength":"moderate",
 "id":"self-monitoring-strategies-improve-self-monitoring-levels",
 "newest_evidence":"2017",
 "path":"claims/self-monitoring-strategies-improve-self-monitoring-levels.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching",
+"title":"Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching",
 "type":"claim"
 },
 {
@@ -339243,23 +339258,25 @@
 "type":"claim"
 },
 {
-"description":"ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills",
+"description":"ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported",
 "evidence_strength":"moderate",
 "id":"six-plus-one-trait-model-critical-thinking-posttest-advantage",
 "newest_evidence":"2018",
 "path":"claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills",
+"title":"ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported",
 "type":"claim"
 },
 {
-"description":"ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of writing performance",
+"description":"ESP university students taught with the 6+1 trait writing model had a higher writing post-test mean than control-group peers, with no between-group test reported",
 "evidence_strength":"moderate",
 "id":"six-plus-one-trait-model-writing-posttest-advantage",
 "newest_evidence":"2018",
 "path":"claims/six-plus-one-trait-model-writing-posttest-advantage.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of writing performance",
+"title":"ESP university students taught with the 6+1 trait writing model had a higher writing post-test mean than control-group peers, with no between-group test reported",
 "type":"claim"
 },
 {
@@ -353289,6 +353306,7 @@
 "id":"storytelling-specific-fraction-skills-gains",
 "newest_evidence":"2019",
 "path":"claims/storytelling-specific-fraction-skills-gains.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use",
 "type":"claim"
@@ -453924,7 +453942,7 @@
 "type":"product"
 },
 {
-"description":"A 30-item multiple-choice English reading-comprehension achievement test developed by Mohammad Mahmoud Talal Mohaidat for ninth-grade EFL students and validated for measuring three levels of comprehension.",
+"description":"A 30-item multiple-choice English reading-comprehension achievement test developed by Mohaidat (2018) for ninth-grade EFL students and validated for measuring three levels of comprehension.",
 "id":"researcher-built-30-item-efl-reading-comprehension-test",
 "path":"products/researcher-built-30-item-efl-reading-comprehension-test.md",
 "status":"review",

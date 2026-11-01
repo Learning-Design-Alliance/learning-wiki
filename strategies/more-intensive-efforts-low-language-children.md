@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: megan-johanson-2016
+  - id: johanson-2016
     resource: "https://doi.org/10.1080/10888691.2015.1074050"
-    title: "Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
-    author: Megan Johanson, Laura M. Justice, and Jessica Logan
+    title: "Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
+    author: "Johanson, M., Justice, L. M., & Logan, J."
 ---
 
 # Provide more intensive language supports than conversation-based teacher PD for children with substantial language lags
@@ -51,4 +51,4 @@ Because the conversation-based LLLI approach yielded no long-term vocabulary ben
 -
 
 ## Key Sources
-- Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050
+- Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050

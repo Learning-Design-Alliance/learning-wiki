@@ -20,14 +20,14 @@ A writing-assessment and instructional framework developed by Northwest Regional
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **The 6+1 trait writing model as a rubric-based framework integrating assessment with writing instruction**: The 6+1 trait writing model is a supplementary means for theorizing and evaluating adequate writing, built on rubrics assessing seven characteristics: ideas, organization, voice, word choice, sentence fluency, conventions, and presentation. It "integrates evaluation with the teaching process" and its "main focus is on using rubrics to provide students with feedback through self-assessment, peer assessment, and teacher feedback at different phases of the writing process". In this study it was operationalized as a method giving students the traits of adequate writing and the opportunity to develop critical thinking and writing achievement. (Ali A. Qoura et al. (2018))
+- **The 6+1 trait writing model as a rubric-based framework integrating assessment with writing instruction**: The 6+1 trait writing model is a supplementary means for theorizing and evaluating adequate writing, built on rubrics assessing seven characteristics: ideas, organization, voice, word choice, sentence fluency, conventions, and presentation. It "integrates evaluation with the teaching process" and its "main focus is on using rubrics to provide students with feedback through self-assessment, peer assessment, and teacher feedback at different phases of the writing process". In this study it was operationalized as a method giving students the traits of adequate writing and the opportunity to develop critical thinking and writing achievement. (Qoura & Zahran, 2018)
 
 ### Claims
-- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills](../claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md) [+M]
-- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of writing performance](../claims/six-plus-one-trait-model-writing-posttest-advantage.md) [+M]
+- [ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported](../claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md) [+W]
+- [ESP university students taught with the 6+1 trait writing model had a higher writing post-test mean than control-group peers, with no between-group test reported](../claims/six-plus-one-trait-model-writing-posttest-advantage.md) [+W]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
-- Ali A. Qoura & Faten A. Zahran. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68
+- Qoura, A. A., & Zahran, F. A. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68

@@ -11,10 +11,10 @@ evidence_strength: moderate
 newest_evidence: 2016
 source_checked: 2026-11-01
 sources:
-  - id: megan-johanson-2016
+  - id: johanson-2016
     resource: "https://doi.org/10.1080/10888691.2015.1074050"
-    title: "Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
-    author: Megan Johanson, Laura M. Justice, and Jessica Logan
+    title: "Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050"
+    author: "Johanson, M., Justice, L. M., & Logan, J."
     q: 3
     i: "?"
     kind: causal
@@ -28,14 +28,14 @@ sources:
 > **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Significant Language × Treatment interactions emerged for Letter-Word Identification (decoding) and Passage Comprehension (reading comprehension), with benefits only for children with initially high language skills. [→ Megan Johanson 2016](#megan-johanson-2016)
-`q3 i?` Probing showed no treatment-control differences at low or average initial language skill, but significant benefits at one standard deviation above the mean (p = .02 and .05). [→ Megan Johanson 2016](#megan-johanson-2016)
+`q3 i?` Significant Language × Treatment interactions emerged for Letter-Word Identification (decoding) and Passage Comprehension (reading comprehension), with benefits only for children with initially high language skills. [→ Johanson 2016](#johanson-2016)
+`q3 i?` Probing showed no treatment-control differences at low or average initial language skill, but significant benefits at one standard deviation above the mean (p = .02 and .05). [→ Johanson 2016](#johanson-2016)
 
 ## Evidence
 
-### Megan Johanson 2016
+### Johanson 2016
 
-Megan Johanson, Laura M. Justice, and Jessica Logan. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050
+Johanson, M., Justice, L. M., & Logan, J. (2016). Kindergarten Impacts of a Preschool Language-Focused Intervention. Applied Developmental Science, 20(2), 94-107. https://doi.org/10.1080/10888691.2015.1074050
 
 `q3 · i?` · `causal · r2`
 

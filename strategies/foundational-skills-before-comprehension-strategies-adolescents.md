@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: nathan-h-clemens-2017
+  - id: clemens-2017
     resource: "https://doi.org/10.1177/0734282916662120"
-    title: "Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120"
-    author: Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok
+    title: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120"
+    author: "Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O."
 ---
 
 # Address fluency and word-meaning deficits before or alongside higher-order comprehension strategy instruction for struggling adolescent readers
@@ -52,4 +52,4 @@ The article recommends that interventions for struggling adolescent readers not 
 -
 
 ## Key Sources
-- Nathan H. Clemens, Deborah Simmons, Leslie E. Simmons, Huan Wang, and Oi-man Kwok. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment. https://doi.org/10.1177/0734282916662120
+- Clemens, N. H., Simmons, D., Simmons, L. E., Wang, H., & Kwok, O. (2017). The Prevalence of Reading Fluency and Vocabulary Difficulties Among Adolescents Struggling With Reading Comprehension. Journal of Psychoeducational Assessment, 35(8), 785-798. https://doi.org/10.1177/0734282916662120

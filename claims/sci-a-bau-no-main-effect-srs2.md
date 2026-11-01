@@ -10,10 +10,10 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2018
 sources:
-  - id: janine-p-stichter-2018
+  - id: stichter-2018
     resource: "https://doi.org/10.1177/0145445517698654"
-    title: "Janine P. Stichter, Melissa J. Herzog, Stephen P. Kilgus, and Alexander M. Schoemann. (2018). Exploring the Moderating Effects of Cognitive Abilities on Social Competence Intervention Outcomes. Behavior Modification. https://doi.org/10.1177/0145445517698654"
-    author: Janine P. Stichter, Melissa J. Herzog, Stephen P. Kilgus, and Alexander M. Schoemann
+    title: "Stichter, J. P., Herzog, M. J., Kilgus, S. P., & Schoemann, A. M. (2018). Exploring the Moderating Effects of Cognitive Abilities on Social Competence Intervention Outcomes. Behavior Modification, 42(1), 84-107 (published online 2017). https://doi.org/10.1177/0145445517698654"
+    author: "Stichter, J. P., Herzog, M. J., Kilgus, S. P., & Schoemann, A. M."
     q: 3
     i: "?"
     kind: causal
@@ -27,14 +27,14 @@ sources:
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` After controlling for covariates, T2 SRS-2 scores were not significantly different between SCI-A and BAU conditions on most subscales, indicating no clear efficacy differences. [→ Janine P. Stichter 2018](#janine-p-stichter-2018)
-`q3 i1` On the SRS-2 Cognition subscale, BAU students scored significantly better than SCI-A students (d = 0.31). [→ Janine P. Stichter 2018](#janine-p-stichter-2018)
+`q3 i?` After controlling for covariates, T2 SRS-2 scores were not significantly different between SCI-A and BAU conditions on most subscales, indicating no clear efficacy differences. [→ Stichter 2018](#stichter-2018)
+`q3 i1` On the SRS-2 Cognition subscale, BAU students scored significantly better than SCI-A students (d = 0.31). [→ Stichter 2018](#stichter-2018)
 
 ## Evidence
 
-### Janine P. Stichter 2018
+### Stichter 2018
 
-Janine P. Stichter, Melissa J. Herzog, Stephen P. Kilgus, and Alexander M. Schoemann. (2018). Exploring the Moderating Effects of Cognitive Abilities on Social Competence Intervention Outcomes. Behavior Modification. https://doi.org/10.1177/0145445517698654
+Stichter, J. P., Herzog, M. J., Kilgus, S. P., & Schoemann, A. M. (2018). Exploring the Moderating Effects of Cognitive Abilities on Social Competence Intervention Outcomes. Behavior Modification, 42(1), 84-107 (published online 2017). https://doi.org/10.1177/0145445517698654
 
 `q3 · i?` · `causal · r2`
 
@@ -46,7 +46,7 @@ Multilevel models of the 4-year cluster randomized trial (students nested within
 
 
 ## Related Claims
-- [FSIQ moderated SCI-A response: lower-FSIQ students benefited on awareness, communication, and motivation, while higher-FSIQ students fared worse in SCI-A](fsiq-moderates-sci-a-response.md) — reports the opposite
+- [FSIQ significantly moderated SCI-A response only on communication, where lower-FSIQ students did better in SCI-A than in BAU and higher-FSIQ students did worse](fsiq-moderates-sci-a-response.md) — reports the opposite
 - [VIQ moderated SCI-A response: lower-VIQ students benefited on communication, while higher-VIQ students showed worse outcomes on social cognition, communication, and motivation](viq-moderates-sci-a-response.md) — related
 - [The VIQ–NVIQ discrepancy moderated SCI-A response: students with VIQ at least 11 points below NVIQ showed large positive effects, while those with VIQ above NVIQ showed large negative effects](viq-nviq-split-moderates-sci-a-response.md) — related
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related

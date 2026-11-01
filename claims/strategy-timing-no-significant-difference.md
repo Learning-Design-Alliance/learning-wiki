@@ -69,5 +69,5 @@ For the achievement outcome, the article states "there was no statistically sign
 
 ## Related Claims
 - [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' academic achievement compared to formal curriculum teaching](self-monitoring-strategies-improve-achievement.md) — related
-- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching](self-monitoring-strategies-improve-self-monitoring-levels.md) — related
+- [Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching](self-monitoring-strategies-improve-self-monitoring-levels.md) — related
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on

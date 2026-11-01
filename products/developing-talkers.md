@@ -30,7 +30,7 @@ Developing Talkers is a supplemental pre-kindergarten and kindergarten curriculu
 
 ### Claims
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](../claims/competing-time-priorities-dominant-barrier-language-curriculum.md) [-W]
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [-W]
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [-W]
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](../claims/memory-habit-barriers-contextual.md) [-W]
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](../claims/knowledge-barriers-language-development-procedural.md) [-W]
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](../claims/skill-barriers-conversation-facilitation-classroom-management.md) [-W]
@@ -69,7 +69,7 @@ Developing Talkers is a supplemental academic language curriculum for pre-k and 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](../claims/competing-time-priorities-dominant-barrier-language-curriculum.md) [-W]
-- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [-W]
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components in two of three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [-W]
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](../claims/memory-habit-barriers-contextual.md) [-W]
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](../claims/knowledge-barriers-language-development-procedural.md) [-W]
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](../claims/skill-barriers-conversation-facilitation-classroom-management.md) [-W]

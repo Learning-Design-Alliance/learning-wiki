@@ -9,13 +9,14 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
-  - id: mohammad-mahmoud-talal-mohaidat-2018
+  - id: mohaidat-2018
     resource: "https://doi.org/10.5539/elt.v11n4p32"
-    title: "Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
-    author: Mohammad Mahmoud Talal Mohaidat
+    title: "Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32"
+    author: Mohaidat, M. M. T.
     q: 3
-    i: "?"
+    i: 2
     kind: causal
     rigour: 2
 ---
@@ -23,21 +24,21 @@ sources:
 # Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` After controlling for the pretest, the experimental group taught with electronic mind maps scored significantly higher on the reading comprehension posttest than the control group taught by the traditional method. [→ Mohammad Mahmoud Talal Mohaidat 2018](#mohammad-mahmoud-talal-mohaidat-2018)
+`q3 i2` After controlling for the pretest, the experimental group taught with electronic mind maps scored significantly higher on the reading comprehension posttest than the control group taught by the traditional method. [→ Mohaidat 2018](#mohaidat-2018)
 
 ## Evidence
 
-### Mohammad Mahmoud Talal Mohaidat 2018
+### Mohaidat 2018
 
-Mohammad Mahmoud Talal Mohaidat. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32
+Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32
 
-`q3 · i?` · `causal · r2`
+`q3 · i2 · medium effect (η² = 0.1267, Δ = 0.751)` · `causal · r2`
 
-Quasi-experimental study of two ninth-grade sections (30 students each) in two Irbid public schools; experimental group taught three Action Pack 9 texts in the computer lab with IMindMap, control group taught the same texts traditionally, nine periods each. ANCOVA on posttest scores gave F = 9.002, p = 0.004, with posttest means of 19.667 versus 17.233, a difference "in favor of the experimental group". No effect size is printed in this quote, so impact is null; the effect size is reported separately in the article.
+Quasi-experimental study of two ninth-grade sections (30 students each) in two Irbid public schools; experimental group taught three Action Pack 9 texts in the computer lab with IMindMap, control group taught the same texts traditionally, nine periods each. ANCOVA on posttest scores gave F = 9.002, p = 0.004, with posttest means of 19.667 versus 17.233, a difference "in favor of the experimental group". The article reports the effect size as η² = 0.1267 and Δ = 0.751, which it classes as medium.
 
 > "The results of the covariance analysis in Table 2 indicated that there was a statistically significant difference (α = 0.05) between the experimental and control groups. After making a comparison between the mean scores, this difference was in favor of the experimental group."
 

@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: t-d-bot-john-e-eze-2016
-    resource: "https://eric.ed.gov/?id=EJ1107765"
-    title: "T. D. Bot & John E. Eze. (2016). Effects of concept mapping and cooperative learning strategies on senior secondary school students' achievement in trigonometry in Kano state, Nigeria. European Journal of Science and Mathematics Education, 4(1), 56-66. https://eric.ed.gov/?id=EJ1107765"
-    author: "T. D. Bot & John E. Eze"
+  - id: bot-eze-2016
+    resource: "https://doi.org/10.30935/scimath/9453"
+    title: "Bot, T. D., & Eze, J. E. (2016). Comparative effects of concept mapping and cooperative learning strategies on senior secondary school students' achievement in mathematics-trigonometry in Kano State, Nigeria. European Journal of Science and Mathematics Education, 4(1), 56-66. https://doi.org/10.30935/scimath/9453"
+    author: "Bot, T. D., & Eze, J. E."
 ---
 
 # Mathematics teachers should incorporate concept mapping and cooperative learning strategies in senior secondary trigonometry instruction
@@ -49,4 +49,4 @@ Based on the finding that both strategies significantly outperformed conventiona
 -
 
 ## Key Sources
-- T. D. Bot & John E. Eze. (2016). Effects of concept mapping and cooperative learning strategies on senior secondary school students' achievement in trigonometry in Kano state, Nigeria. European Journal of Science and Mathematics Education, 4(1), 56-66. https://eric.ed.gov/?id=EJ1107765
+- Bot, T. D., & Eze, J. E. (2016). Comparative effects of concept mapping and cooperative learning strategies on senior secondary school students' achievement in mathematics-trigonometry in Kano State, Nigeria. European Journal of Science and Mathematics Education, 4(1), 56-66. https://doi.org/10.30935/scimath/9453

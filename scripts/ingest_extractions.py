@@ -153,6 +153,65 @@ def _bullets(items, formatter=lambda x: str(x)) -> str:
     return "\n".join(f"- {formatter(i)}" for i in items)
 
 
+# The batch manifest's record of each article (eval/corpus/manifest_<run-id>.json): ERIC and the
+# other sources give authors as "Last, First", which the article's own front page does not. Set
+# per record by ingest_record, read by _evidence_headings.
+_ARTICLE_META: dict = {}
+_CURRENT_ARTICLE: dict = {}
+
+
+def _load_article_meta(run_id: str) -> dict:
+    p = WIKI_ROOT / "eval" / "corpus" / f"manifest_{run_id}.json"
+    try:
+        arts = json.loads(p.read_text(encoding="utf-8")).get("articles") or []
+    except (OSError, ValueError, AttributeError):
+        return {}
+    return {a["id"]: a for a in arts if isinstance(a, dict) and a.get("id")}
+
+
+def _record_surnames(article: dict) -> list:
+    """Surnames from a manifest "authors" string of alternating "Last, First" parts, e.g.
+    "Wiley, Jennifer, Griffin, Thomas D". Empty when it does not look like that."""
+    parts = [x.strip() for x in str(article.get("authors") or "").split(",") if x.strip()]
+    if len(parts) < 2 or len(parts) % 2:
+        return []
+    return parts[0::2]
+
+
+def _cites_own_article(citation: str, year: str | None) -> bool:
+    """Whether a citation names the article being ingested: most of its title's words appear in
+    it, or, with no title to compare, its year is within one of the record's (ERIC dates a
+    conference paper or report by posting, a year off the published version)."""
+    words = [w for w in re.findall(r"[a-z]{4,}", str(_CURRENT_ARTICLE.get("title") or "").lower())][:8]
+    if words:
+        cited = citation.lower()
+        return sum(w in cited for w in words) >= max(2, round(0.6 * len(words)))
+    try:
+        return abs(int(year) - int(_CURRENT_ARTICLE.get("year"))) <= 1
+    except (TypeError, ValueError):
+        return False
+
+
+def _own_article_lead(citation: str, lead: str, year: str | None = None) -> str | None:
+    """The heading author for an evidence entry citing the article being ingested, written the
+    way the wiki writes authors ("Surname", "Surname and Other", "Surname et al."), when the
+    citation's lead author is the full-name form of the record's first author (ERIC PDFs print
+    "Mohammad Mahmoud Talal Mohaidat"; the record says "Mohaidat, Mohammad Mahmoud Talal").
+    None leaves the heading as the citation gives it: a citation of another study, or a lead
+    that is already a surname, is never touched (2026-11-01: 405 of 3,023 ERIC headings)."""
+    sur = _record_surnames(_CURRENT_ARTICLE)
+    if not _cites_own_article(citation, year):
+        return None                    # the same author's other work: a different author list
+    words = (lead or "").replace(".", " ").split()
+    if not sur or len(words) < 2:
+        return None
+    if words[-1].strip("*,;:").casefold() != sur[0].casefold():
+        return None
+    if len(sur) == 1:
+        return sur[0]
+    return f"{sur[0]} and {sur[1]}" if len(sur) == 2 else f"{sur[0]} et al."
+
+
 def _evidence_headings(evidence: list) -> list[dict]:
     """The `### Author Year` heading each evidence entry renders under, in order.
 
@@ -169,7 +228,9 @@ def _evidence_headings(evidence: list) -> list[dict]:
         raw_anchor = str(ev.get("anchor") or "")
         citation = (ev.get("citation") or "").strip()
         sid, author, year = _citation_id_author_year(citation)
-        base_label = f"{author.split(',')[0]} {year}".strip() if author and year else (raw_anchor or sid)
+        lead = author.split(',')[0] if author else ""
+        lead = _own_article_lead(citation, lead, year) or lead
+        base_label = f"{lead} {year}".strip() if author and year else (raw_anchor or sid)
         base_label = base_label or sid
         base_slug = ok.slugify(base_label) or sid
         seen = used_headings.get(base_slug, 0)
@@ -506,6 +567,8 @@ def ingest_record(record: dict, actor: str, dry_run: bool, candidates: list = No
     written as a page: its ledger row is appended to that list instead, for
     candidates_lib to record and settle_candidates.py to settle (2026-10-07)."""
     written = []
+    _CURRENT_ARTICLE.clear()
+    _CURRENT_ARTICLE.update(_ARTICLE_META.get(record.get("article_id") or "", {}))
     validation = record.get("validation") or {}
     if not validation.get("passed"):
         return written
@@ -815,6 +878,7 @@ def main() -> None:
     args = parser.parse_args()
 
     model_dir = RUNS_DIR / args.run_id / args.model
+    _ARTICLE_META.update(_load_article_meta(args.run_id))
     if not model_dir.is_dir():
         print(f"[ERROR] {model_dir} not found. Run eval_harness.py's `run` command first, "
               f"or check --run-id/--model.", file=sys.stderr)

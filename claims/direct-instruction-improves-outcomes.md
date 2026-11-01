@@ -52,7 +52,7 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 |---|---|---|---|
 | [Stockard et al. 2018](https://doi.org/10.3102/0034654317751919) | q4 · quant-synthesis · r? | i? | this claim |
 | Bruce Thompson 2006 | q2 · causal · r1 | i? | [Direct Instruction schools' ratings rose significantly only when the program was fully sup](direct-instruction-gains-depend-on-implementation-support.md) (qualifies) |
-| [Zucker 2021](https://doi.org/10.1080/10409289.2020.1839288) | q2 · qualitative · r? | i? | [Teachers adhered less to scaffolding than to fully scripted curriculum components across t](scaffolding-lower-adherence-than-scripted-components.md) (qualifies) |
+| [Zucker 2021](https://doi.org/10.1080/10409289.2020.1839288) | q2 · qualitative · r? | i? | [Teachers adhered less to scaffolding than to fully scripted curriculum components in two o](scaffolding-lower-adherence-than-scripted-components.md) (qualifies) |
 | Gall 1994 | q2 · review · r2 | i? | [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of ](itip-lacks-empirical-evidence-achievement.md) (qualifies) |
 <!-- synthesis:end -->
 

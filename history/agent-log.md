@@ -5,6 +5,25 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-01 — evidence headings take the surname from the source record
+
+The extraction model copies author names as an article's front page prints them ("Mohammad Mahmoud
+Talal Mohaidat. (2018)"), and ingest takes everything before the citation's first comma as the
+`### Author Year` heading, so ERIC claims carried headings like "Sabainah Oyebola Akinoso 2015". The
+load-bearing judge flagged some as wrong citations, and agents corrected them by hand at most holds
+(12 and 13 load-bearing items at j-screric-6 and -7, most with a name fix).
+
+`ingest_extractions.py` now reads the batch manifest (`eval/corpus/manifest_<run-id>.json`), whose
+records give authors as "Last, First", and writes the heading as "Surname", "Surname and Other" or
+"Surname et al." when the citation's lead author is the full-name form of the record's first author and
+the citation names the article itself (most of its title's words, or a year within one). A citation of
+any other study, a lead already in surname form, and a record whose author list does not pair as Last,
+First are left as they were. Tested on the extraction records of j-screric-1 to -7: 1,210 of 2,969
+headings change, all full name to surname; a random sample of 15 was correct throughout.
+
+Not done: the citation line and frontmatter `author:` still carry the printed names, and the 405+
+existing malformed headings need their own pass (it changes anchors other pages link to).
+
 ## 2026-11-01 — two checks that raised false or avoidable triage items
 
 **The ANOVA-row parser dropped APA decimals.** `stat_checks.anova_rows` matched numbers with a leading

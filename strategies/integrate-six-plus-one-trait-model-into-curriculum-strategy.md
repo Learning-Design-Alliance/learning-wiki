@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: ali-a-qoura-faten-a-zahran-2018
+  - id: qoura-zahran-2018
     resource: "https://doi.org/10.5539/elt.v11n9p68"
-    title: "Ali A. Qoura & Faten A. Zahran. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68"
-    author: "Ali A. Qoura & Faten A. Zahran"
+    title: "Qoura, A. A., & Zahran, F. A. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68"
+    author: "Qoura, A. A., & Zahran, F. A."
 ---
 
 # Integrate the 6+1 trait writing model into the language arts curriculum with rubric-based self-assessment
@@ -43,8 +43,8 @@ Based on the study's findings, the authors recommend that "training programs sho
 
 ## Claims
 
-- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills](../claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md) [+W]
-- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of writing performance](../claims/six-plus-one-trait-model-writing-posttest-advantage.md) [+W]
+- [ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported](../claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md) [+W]
+- [ESP university students taught with the 6+1 trait writing model had a higher writing post-test mean than control-group peers, with no between-group test reported](../claims/six-plus-one-trait-model-writing-posttest-advantage.md) [+W]
 
 ## Related Strategies
 - 
@@ -53,4 +53,4 @@ Based on the study's findings, the authors recommend that "training programs sho
 -
 
 ## Key Sources
-- Ali A. Qoura & Faten A. Zahran. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68
+- Qoura, A. A., & Zahran, F. A. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68

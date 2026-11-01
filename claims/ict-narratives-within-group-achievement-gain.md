@@ -68,5 +68,5 @@ Paired-samples t-test within the control group (n=21) receiving regular curricul
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](absi-within-group-gain-significant.md) — related
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related
-- [Reading science-fiction books alongside the regular science curriculum significantly increases secondary students' science curiosity compared to the control group](science-fiction-books-increase-science-curiosity.md) — related
+- [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](science-fiction-books-increase-science-curiosity.md) — related
 - [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](vhpi-significant-mean-score-gain-paired-ttest.md) — related

@@ -43,7 +43,7 @@ In its conclusion, the article recommends that curricula devote explicit space t
 
 ## Claims
 
-- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+M]
+- [Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+M]
 - [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' academic achievement compared to formal curriculum teaching](../claims/self-monitoring-strategies-improve-achievement.md) [+M]
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [-W]
 

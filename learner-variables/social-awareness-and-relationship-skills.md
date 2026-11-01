@@ -216,7 +216,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Directed educational games significantly improve overall social skills of 8-12-year-old educable mentally retarded girls compared with conventional class instruction](../claims/educational-games-improve-social-skills-mentally-retarded-girls.md) [+W] — instruction changes it
 - [Educational games significantly improve socialization skill of 8-12-year-old educable mentally retarded girls](../claims/educational-games-improve-socialization-skill.md) [+W] — instruction changes it
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](../claims/ssis-cip-teacher-rated-social-skills-effects.md) [+M] — instruction changes it
-- [FSIQ moderated SCI-A response: lower-FSIQ students benefited on awareness, communication, and motivation, while higher-FSIQ students fared worse in SCI-A](../claims/fsiq-moderates-sci-a-response.md) [~M] — instruction changes it
+- [FSIQ significantly moderated SCI-A response only on communication, where lower-FSIQ students did better in SCI-A than in BAU and higher-FSIQ students did worse](../claims/fsiq-moderates-sci-a-response.md) [~M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).
