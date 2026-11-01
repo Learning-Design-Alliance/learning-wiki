@@ -60,3 +60,4 @@ The one entry is a review's two-sentence report of a single 30-student, two-grou
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](whatsapp-projects-communicative-skills-vocabulary.md) — related
 - [Prior SMS-based vocabulary studies reviewed found posttest advantages for mobile groups but inconsistent delayed-posttest results](sms-vocabulary-studies-posttest-advantage-mixed-delayed.md) — related
+- [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related

@@ -49,3 +49,4 @@ Delayed-posttest administered eight weeks after the application to measure reten
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
+- [Delayed test five weeks after treatment showed no significant retention difference between SMS and paper groups](sms-vocabulary-delayed-test-no-difference.md) — related

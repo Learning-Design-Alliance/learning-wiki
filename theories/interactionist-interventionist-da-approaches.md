@@ -49,6 +49,7 @@ The article organizes Dynamic Assessment — a Vygotskian approach integrating a
 ## Examples
 
 - [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
+- [Emotionalized dynamic assessment (EDA): dynamic assessment mediation loaded with Goleman's emotional intelligence framework](../designs/emotionalized-dynamic-assessment-eda.md)
 
 ## Key Sources
 - Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474

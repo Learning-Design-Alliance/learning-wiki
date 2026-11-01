@@ -51,3 +51,4 @@ Two-way ANOVA (skill group x test session) on immediate and one-week delayed rec
 - [Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes](literal-memory-difference-simile-null.md) — related
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](retention-self-derived-knowledge-one-week.md) — related
+- [A condition-by-timing interaction suggests students who received arts-integrated science first retained more when later taught conventionally](arts-integration-condition-timing-transfer-effect.md) — related

@@ -53,6 +53,7 @@ The article's practical implication is that instructors should "incorporate less
 
 - [Field Trips](field_trips.md)
 - [Use field trips to promote active engagement, self-motivation, discovery learning and learning by experience in practical subjects](field-trip-active-engagement-strategy.md)
+- [Use a VFT as the field-study alternative when real field trips are blocked by cost, logistics, safety or permission barriers](vft-as-field-trip-alternative-strategy.md)
 
 ## Examples
 -

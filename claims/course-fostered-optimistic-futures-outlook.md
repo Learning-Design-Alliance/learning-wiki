@@ -53,3 +53,4 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related
 - [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
+- [All six interviewed experimental-group preservice teachers said visual materials changed their outlook on global warming and made them follow related news more attentively](interviews-visual-materials-changed-outlook.md) — related

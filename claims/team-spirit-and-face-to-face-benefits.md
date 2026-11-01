@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-01
 sources:
   - id: elina-riivari-2021
     resource: "https://doi.org/10.1007/s11423-021-10009-4"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For teams who took longer to finish, team spirit was a key motivating factor, and students found additional physical ways of interacting beyond their screens. [→ Elina Riivari 2021](#elina-riivari-2021)

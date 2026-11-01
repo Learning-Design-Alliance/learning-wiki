@@ -41,6 +41,7 @@ The article's implications section recommends that because text-based interactio
 
 - [Structured Peer Discussion Roles](structured-peer-discussion-roles.md)
 - [Text Based Discussion Protocols](text-based-discussion-protocols.md)
+- [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 
 ## Examples
 -

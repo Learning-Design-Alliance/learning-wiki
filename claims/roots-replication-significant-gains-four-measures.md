@@ -55,3 +55,4 @@ Partially nested RCT in 36 Boston-area kindergarten classrooms; 319 students wit
 - [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
 - [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
+- [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related

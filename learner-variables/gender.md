@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 405 claims (229 show a difference, 89 mixed, 87 no difference) · 265 studies (150 associational, 61 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 265 report an effect size · 397 claims rest on one study
+> **Evidence** · 413 claims (233 show a difference, 89 mixed, 91 no difference) · 269 studies (150 associational, 65 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 269 report an effect size · 405 claims rest on one study
 
 ## How to read this page
 
@@ -444,6 +444,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](../claims/concept-mapping-gender-advantage-males-trigonometry.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](../claims/cooperative-learning-no-gender-difference-trigonometry.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](../claims/females-outperform-males-group-learning-math.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students took more classroom turns than male students in the EAP reading interactions](../claims/female-students-more-turns-eap-classroom.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](../claims/target-task-gender-difference-males-outperform.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students used discourse strategies to assert authority while female students used linguistic and paralinguistic strategies to challenge and assert themselves](../claims/gender-discourse-strategies-eap-reading-classroom.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](../claims/no-gender-gpa-motivation-effects.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant gender difference in first graders' scientific concepts acquisition](../claims/no-gender-difference-game-based-concept-acquisition.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](../claims/no-method-gender-interaction-concept-acquisition.md) [-M] — an instructional effect differs by group
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](../claims/no-gender-gpa-achievement-effects.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Verbal ability and gender each showed significant main effects on attitude to reading](../claims/verbal-ability-gender-effects-attitude-reading.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

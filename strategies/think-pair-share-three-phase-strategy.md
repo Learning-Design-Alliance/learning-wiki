@@ -54,6 +54,7 @@ Think-Pair-Share is a cooperative discussion strategy developed by Frank Lyman a
 - [Turn-and-Talk](turn-and-talk.md)
 - [Discussion Protocols](discussion-protocols.md)
 - [Implement think-pair-share through a three-step sequence: individual thinking, pair discussion, and whole-class sharing with instructor feedback](tps-three-step-implementation.md)
+- [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
 
 ## Examples
 -

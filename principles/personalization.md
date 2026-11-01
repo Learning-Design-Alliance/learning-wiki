@@ -248,6 +248,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](../strategies/tailor-number-game-difficulty-to-zpd.md)
 - [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](../strategies/choice-based-personalization-at-scale-strategy.md)
 - [Use LECTOR-extracted topic preferences to design personalized interventions tailored to individual reading preferences](../strategies/lector-topic-preferences-personalized-interventions.md)
+- [Teachers respond to individual differences and preferred learning styles during science lessons](../strategies/respond-to-learning-styles-science-lessons-strategy.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

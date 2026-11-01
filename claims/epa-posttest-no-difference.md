@@ -48,3 +48,4 @@ One-way ANOVA on the EPA test, built from the control group's web portal end-of-
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — reports the opposite
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — reports the opposite
 - [On the EPA retention test, only the group taught concepts during the activities significantly outperformed the control group](epa-retention-during-activities-advantage.md) — related
+- [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — reports the opposite

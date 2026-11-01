@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (84 show a difference, 26 mixed, 15 no difference) · 82 studies (28 associational, 21 quant-synthesis, 20 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 27 of 82 report an effect size · 120 claims rest on one study
+> **Evidence** · 127 claims (85 show a difference, 26 mixed, 16 no difference) · 83 studies (28 associational, 22 quant-synthesis, 20 causal, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 28 of 83 report an effect size · 122 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -166,6 +166,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Butterfly Phonics showed positive but non-statistically-significant effects on secondary outcome measures of single word reading (g = 0.38) and non-word reading (g = 0.23)](../claims/butterfly-phonics-secondary-outcomes-non-significant.md) [~W] — instruction changes it
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](../claims/total-positive-impact-foundational-skills.md) [~M] — instruction changes it
+- [In Gilbert et al. (2013), an intensified one-on-one Tier 3 intervention produced negative effects for grade 1 inadequate responders compared with inadequate responders continuing Tier 2](../claims/gilbert-2013-intensified-tier3-negative-effects.md) [-M] — instruction changes it
+- [In Scanlon et al. (2005), both a Text-Emphasis and a Phonological-Skills-Emphasis Tier 3 condition produced positive effects for grade 1 inadequate responders versus typical school remediation](../claims/scanlon-2005-tier3-text-phonological-emphasis.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

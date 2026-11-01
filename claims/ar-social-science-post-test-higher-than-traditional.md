@@ -47,3 +47,4 @@ Quasi-experimental study of 49 5th-grade students in Seville: experimental group
 ## Related Claims
 - [The AR group's mean score rose 4.5 points from pre-test (3.4) to post-test (7.9)](ar-group-pre-post-gain-4-5-points.md) — related
 - [The control group's mean score rose 3.2 points from pre-test (3.2) to post-test (6.4) under traditional teaching](control-group-pre-post-gain-3-2-points.md) — related
+- [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related

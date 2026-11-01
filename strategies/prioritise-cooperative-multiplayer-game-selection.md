@@ -44,7 +44,8 @@ The author recommends that future work and implementations attend to game featur
 - [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](../claims/gamer-skills-not-transferable-to-school-learning.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 
 ## Examples
 -

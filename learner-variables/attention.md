@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (111 show a difference, 33 mixed, 20 no difference) · 123 studies (37 causal, 30 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 123 report an effect size · 159 claims rest on one study
+> **Evidence** · 168 claims (115 show a difference, 33 mixed, 20 no difference) · 125 studies (39 causal, 30 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 125 report an effect size · 163 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -202,6 +202,10 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](../claims/cmb-run-improves-visual-attention.md) [+M] — instruction changes it
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](../claims/cycling-desks-improve-inhibitory-control-attention.md) [~M] — instruction changes it
 - [Sustained attention, but not creativity, improved following a single recess period](../claims/sustained-attention-improves-after-single-recess.md) [+M] — instruction changes it
+- [Control-group children taught by the traditional method also showed a small but statistically significant pre-to-post change in lack of attention scores](../claims/control-group-small-prepost-las-change.md) [+M] — instruction changes it
+- [Kindergarten children taught Arabic with Mind Maps showed a statistically significant pre-to-post reduction in lack of attention scores over four months](../claims/mind-maps-reduce-lack-of-attention-kindergarten-arabic.md) [+M] — instruction changes it
+- [Students completing smartphone activities show significantly less distraction than students doing identical paper-based activities](../claims/smartphone-activities-less-distraction.md) [+M] — instruction changes it
+- [The experimental Mind Maps group showed a significantly greater reduction in lack of attention than the control group](../claims/mind-maps-outperform-traditional-las-modification.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

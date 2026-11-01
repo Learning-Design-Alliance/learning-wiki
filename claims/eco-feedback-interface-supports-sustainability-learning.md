@@ -55,3 +55,4 @@ Reflexive thematic analysis (Braun and Clarke's approach) of open-ended survey r
 - [The review reports that training a single deep learning model may have a carbon footprint comparable to several automobiles over their lifespan](deep-learning-training-carbon-footprint-comparable-automobiles.md)
 - [Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5](eco-mode-selection-declines-with-latency.md) — related
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
+- [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related

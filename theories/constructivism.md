@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (10 for, 14 mixed, 2 against) · 32 studies (8 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (11 for, 14 mixed, 2 against) · 33 studies (9 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 33 report an effect size · 23 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -62,6 +62,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Teaching reading comprehension with prior knowledge questions improves primary pupils' reading comprehension performance](../claims/prior-knowledge-questions-improve-reading-comprehension.md) [+W] — attached 2026-11-01 from Hanna Onyi Yusuf et al. (2013), which proposed "Learning as conceptual change: prior knowledge actively shapes how learners interpret instruction".
 - [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](../claims/5e-inquiry-higher-achievement-than-traditional.md) [+W] — attached 2026-11-01 from Ali Abdi (2014), which proposed "Inquiry-based teaching approach in science education".
 - [Guided learning at workstations (G2) produced significantly higher post- and retention-test knowledge than conventional workstations (G1) and teacher-centered instruction (G3) in low achievers](../claims/guided-workstations-best-cognitive-outcome-low-achievers.md) [+W] — attached 2026-11-01 from Heyne et al. (2012), which proposed "Constructivist open learning environments realized through learning at workstations".
+- [The authors interpret the drama method's effects through active, constructivist learning in which learners reconstruct and give new meanings to knowledge](../claims/creative-drama-active-reconstruction-interpretation.md) [+W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
@@ -95,6 +96,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 - [Virtual Collaborative Research Institute (VCRI) CSCL environment](../products/virtual-collaborative-research-institute-vcri-cscl-environment.md)
 - [Constructive alignment (Biggs & Tang) as a student-centered framework for aligning learning outcomes, teaching-and-learning activities, and assessment tasks](../designs/constructive-alignment-biggs-tang-framework.md)
+- [Three-theory design framework for the VFT module: constructivism, information processing, and Mayer's Cognitive Theory of Multimedia Learning](../designs/vft-module-three-theory-design-framework.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

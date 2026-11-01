@@ -79,3 +79,4 @@ Intensive longitudinal micro-randomized study in which 130 children used the PRO
 - Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness — a broader claim this one bears on
 - [Breathing exercise showed no main effect on children's negative affect or relaxation but increased relaxation on higher-worry days (UPWIND trial)](upwind-breathing-moderated-by-worry.md) — related
 - [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related
+- [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related

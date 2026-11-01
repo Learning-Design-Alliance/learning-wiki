@@ -49,3 +49,5 @@ Ordinal regression analyses for the training condition only (mathematics N = 79,
 ## Related Claims
 - [Neither static nor dynamic series completion measures significantly predicted spelling achievement](no-spelling-prediction-series-completion.md) — related
 - [Teacher ratings of school performance and learning potential did not correlate significantly with the trained group's dynamic post-test score, suggesting dynamic testing provides teachers with new information](teacher-ratings-uncorrelated-dynamic-posttest.md) — related
+- [Exposure to dynamic assessment and potential giftedness scores each correlate significantly with posttest math scores](da-and-giftedness-correlate-with-posttest-math.md) — related
+- [Dynamic assessment procedures produce significant effects on mathematics achievement among elementary school students](dynamic-assessment-improves-elementary-math-achievement.md) — related

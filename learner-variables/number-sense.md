@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (84 show a difference, 18 mixed, 11 no difference) · 50 studies (26 associational, 15 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 19 of 50 report an effect size · 111 claims rest on one study
+> **Evidence** · 113 claims (84 show a difference, 18 mixed, 11 no difference) · 51 studies (26 associational, 16 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 19 of 51 report an effect size · 109 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.

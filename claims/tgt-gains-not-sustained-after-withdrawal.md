@@ -69,5 +69,5 @@ Post-test 2 (without cooperative TGT) results from Table 6: experimental group M
 ## Related Claims
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
 - [Cooperative TGT significantly improves Grade 11 students' mathematics communication compared with conventional teaching](tgt-improves-mathematics-communication.md) — related
-- [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — related
+- [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](tgt-outperformed-lecture-posttest.md) — related
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related

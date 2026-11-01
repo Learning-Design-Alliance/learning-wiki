@@ -53,3 +53,5 @@ Simple-interaction decomposition of the significant three-way Condition × Prete
 - [Substantial proportions of treated children with clinical or borderline pretest scores moved to the normal range at posttest](clinical-to-normal-range-movement.md) — related
 - [Children in the clinical or borderline range at pretest were more likely to remain there at posttest, and this relationship was larger in State B](pretest-status-predicts-posttest-status.md) — related
 - [PTR-YC increases preschool children's social skills more than business-as-usual, as measured by the SSIS social skills subscale](ptr-yc-increases-ssis-social-skills-vs-bau.md) — related
+- [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](best-in-class-increased-teacher-instructional-practices.md) — related
+- [SSIS-CIP effects on teacher-rated outcomes are moderated by class-level pretest, favoring lower-pretest classrooms](ssis-cip-class-pretest-moderation.md) — related

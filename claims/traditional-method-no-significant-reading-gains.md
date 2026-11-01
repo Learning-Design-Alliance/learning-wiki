@@ -51,3 +51,4 @@ Control group of 20 students at GJSS Makera received normal reading comprehensio
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [Telegram-group instruction yields significantly larger reading comprehension gain scores than traditional classroom instruction, with a printed effect size of .50](telegram-group-instruction-larger-reading-gain-scores.md) — related
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
+- [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related

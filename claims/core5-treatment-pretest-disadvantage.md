@@ -58,3 +58,5 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — reports the opposite
 - [At pretest the control group scored significantly higher than the treatment group on the TLC-Main Idea subtest](pretest-tlc-main-idea-group-difference.md) — related
 - [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
+- [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
+- [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — reports the opposite

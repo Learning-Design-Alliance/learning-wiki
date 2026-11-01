@@ -53,3 +53,4 @@ ANCOVA on the 48-student quasi-experiment tested the Group*Gender interaction on
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](no-gender-by-analogy-interaction-organic-chemistry.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
+- [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related

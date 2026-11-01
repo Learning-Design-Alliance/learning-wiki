@@ -60,9 +60,11 @@ Presenting group work requires learners to reconstruct and verbalize their reaso
 6. Close with brief individual reflection on what the group would do differently ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds the same explain-to-peers skill in pairs before whole-class presentation
 - [Peer Instruction](peer-instruction.md) — pairs the public presentation of reasoning with immediate peer evaluation
 - [Gallery Walk](gallery-walk.md) — a scalable variant that replaces whole-class presentation with rotating small-audience feedback
+- [Implement the grouping method from the start of the classes rather than only in the final period](implement-grouping-from-course-start.md)
 
 ## Examples
 - A 6th-grade science class completes a collaborative investigation, then each group presents its findings — the steps taken, challenges faced, and how conclusions were reached — while classmates question the evidence

@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 260 claims (160 show a difference, 46 mixed, 54 no difference) · 174 studies (50 associational, 46 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 41 of 174 report an effect size · 251 claims rest on one study
+> **Evidence** · 264 claims (162 show a difference, 48 mixed, 54 no difference) · 177 studies (50 associational, 49 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 42 of 177 report an effect size · 255 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -311,6 +311,10 @@ What a learner can read without effort, and whether the language of instruction 
 - [In kindergarten, English learner students benefited more from the embedded intervention in phonological awareness while non–English learner students benefited more from the standalone intervention in word reading](../claims/kindergarten-english-learner-status-interactions.md) [~M] — an instructional effect differs with it
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](../claims/vefp-no-significant-impact-reading-ability.md) [-M] — instruction changes it
+- [The modified PACT treatment improved content-related reading comprehension (ES = .20) but not general standardized reading comprehension](../claims/pact-improves-content-reading-comprehension-not-general.md) [~W] — instruction changes it
+- [The relationship between reading fluency and comprehension was inconsistent among struggling adolescent readers in both groups](../claims/inconsistent-fluency-comprehension-relationship.md) [~M] — learners who differ on it differ in outcomes
+- [Verbal ability and gender each showed significant main effects on attitude to reading](../claims/verbal-ability-gender-effects-attitude-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](../claims/weekly-within-passage-fluency-increases.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

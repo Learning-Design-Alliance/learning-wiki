@@ -160,3 +160,4 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — a narrower finding that bears on this claim
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related
 - [Explicit teaching does not improve overall quality of written causal explanations but improves use of second-order language and causal connections](explicit-teaching-second-order-language-explanation-criterion.md) — related
+- [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — reports the opposite

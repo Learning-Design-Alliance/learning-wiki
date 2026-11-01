@@ -51,7 +51,8 @@ Based on the meta-analytic evidence, the authors recommend abandoning traditiona
 - [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](../claims/active-learning-reduces-exam-achievement-gaps-33-percent.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Shift physics teaching from lecture methods to activity-based problem-solving models](shift-from-lecture-to-activity-based-physics-teaching.md)
 
 ## Examples
 -

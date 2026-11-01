@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion, not a tested result. They note prior 
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](reading-instructions-alone-insufficient-for-accurate-judgments.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
+- [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related

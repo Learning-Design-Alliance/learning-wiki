@@ -53,3 +53,4 @@ Qualitative process evaluation based on classroom observations, interviews and f
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — related
+- [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](designers-reported-soft-skills-gains.md) — related

@@ -54,3 +54,5 @@ Descriptive comparison of final-test means from the results section, with 31 res
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Conversational AI shows moderate effectiveness in elementary STEM (d=0.45-0.70 where reported), but only 34% of studies report standardized effect sizes](conversational-ai-moderate-effect-d-045-070.md) — related
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
+- [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — related
+- [Score distributions differed: the experimental class majority scored in the 80–90 range (49%) while the control class majority scored in the 70–80 range (64%)](recycle-practicum-score-distribution-shift.md) — related

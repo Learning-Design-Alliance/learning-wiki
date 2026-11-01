@@ -172,6 +172,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Connecting Struggles to Strategies](../strategies/connecting_struggles_to_strategies.md)
 - [Mentor Text Analysis](../strategies/mentor-text-analysis.md)
 - A high-school student researching wave velocity in liquids spent under 10 minutes deriving the phase-velocity equation v = (gλ/2π + σ/2πλρ)tanh(2πh/λ), but "hours and days" across three mentoring sessions working through what each term meant, why surface tension was negligible in his experimental conditions, and why velocity increased with depth — moving over the course of the year from "classic ADHD" disengagement (his 10th-grade teacher's description) to sustained, self-directed inquiry.
+- [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](../strategies/three-phase-constructivist-algebra-word-problems.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

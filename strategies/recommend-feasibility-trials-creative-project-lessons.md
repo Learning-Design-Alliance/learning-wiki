@@ -48,6 +48,7 @@ The review recommends that "medical schools investigate the feasibility and acce
 ## Related Strategies
 
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
+- [School-led aggregated efficacy trials with independent expert oversight](school-led-aggregated-efficacy-trials.md)
 
 ## Examples
 -

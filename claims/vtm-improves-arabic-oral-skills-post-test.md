@@ -49,3 +49,4 @@ Quasi-experiment with 48 purposefully selected third graders randomly assigned t
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
+- [Educational trips produced higher adjusted environmental knowledge scores than service learning, which in turn exceeded control](educational-trips-most-effective-environmental-knowledge.md) — related

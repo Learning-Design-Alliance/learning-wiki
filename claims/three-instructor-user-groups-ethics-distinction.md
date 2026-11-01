@@ -51,3 +51,4 @@ Cluster analysis of the instructor sample (n = 256) from the questionnaire study
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
 - [Cluster analysis identified three exploratory response profiles among workshop participants — reluctant, intermediate, and enthusiastic — with the reluctant profile showing low technical familiarity alongside favorable perceptions of several pedagogical applications](three-response-profiles-reluctant-intermediate-enthusiastic.md) — related
+- [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related

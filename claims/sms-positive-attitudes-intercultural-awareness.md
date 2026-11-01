@@ -71,3 +71,4 @@ The review attributes to Li and Erben (2007) the report that instant messaging u
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
 - MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners — related
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](whatsapp-projects-communicative-skills-vocabulary.md) — related
+- [Learners' reports identify technical and pedagogical disadvantages of SMS vocabulary learning, including storage limits, segmented messages, and superficial processing](sms-vocabulary-disadvantages-reports.md) — related

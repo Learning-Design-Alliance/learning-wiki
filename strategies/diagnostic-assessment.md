@@ -86,6 +86,7 @@ Diagnostic assessment is the evidence-gathering half of [Assessment for Learning
 - [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
 - [Use test adaptation measures in operational settings to identify adaptation difficulties and suggest processes for improving adaptivity](use-adaptation-measures-operationally-improve-adaptivity.md)
 - [Open a MOOC with low-stakes diverse diagnostic worksheets whose results are fed back as strong and weak points](initial-diagnostic-worksheet-feedback-strategy.md)
+- [Strengthen prerequisite skills in algebra, analytic geometry and differential calculus before Integral Calculus](strengthen-prerequisite-skills-before-calculus.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — the canonical physics concept inventory; its distractors encode specific Newtonian misconceptions, letting instructors diagnose *which* intuitive model a student holds rather than just whether they are wrong.

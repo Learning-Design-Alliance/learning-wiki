@@ -64,6 +64,7 @@ TPS operationalizes [Active Learning](../principles/active-learning.md) by repla
 - [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 - [Manage TPS discussion challenges by having the instructor circulate among pairs and by using classroom response systems for evaluating responses and managing time](tps-engagement-and-noise-management.md)
 - [Implement think-pair-share through a three-step sequence: individual thinking, pair discussion, and whole-class sharing with instructor feedback](tps-three-step-implementation.md)
+- [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
 
 ## Examples
 - **Open-ended discussion prompts in large lectures** — instructors at the University of Michigan's Center for Research on Learning and Teaching popularized TPS in courses of 200+ students, using pair discussion before whole-class debrief ([crlt.umich.edu](https://crlt.umich.edu))

@@ -17,7 +17,7 @@ sources:
 # ARCS strategy sub-component taxonomy (four components, three sub-components each)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 review), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest presents ARCS as a two-level taxonomy for designing motivating instruction. It says "The ARCS Model identifies four essential strategy components for motivating instruction" (Attention, Relevance, Confidence, Satisfaction), and that "Keller (1987) breaks each of the four ARCS components down into three strategy sub-components", giving twelve sub-components, each paired with a classroom example. The model is described as rooted in expectancy-value theory.
@@ -38,7 +38,9 @@ The digest presents ARCS as a two-level taxonomy for designing motivating instru
 - Motivation to learn, including the digest's stated goal of life-long learners who are intrinsically motivated and find learning enjoyable
 
 ### Claims
+
 - [Effort Requires Task Value And Expectation Of Success Arcs Rationale](../claims/effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) [+W]
+- [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](../claims/arcs-components-all-higher-ecme.md) [~W]
 
 ## Related Theories
 

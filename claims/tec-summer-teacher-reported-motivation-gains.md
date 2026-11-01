@@ -60,3 +60,4 @@ Teacher exit survey and interview data from the 16 participating teachers; the r
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities](lesson-modifications-differed-by-group.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
+- [Students in the TPSR leadership program reported gains in self-confidence, taking responsibility, cooperation, and leading behaviors in post-program interviews](student-interviews-report-leadership-gains.md) — related

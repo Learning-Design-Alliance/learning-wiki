@@ -49,3 +49,4 @@ Quasi-experimental pre-post study of 89 first-year psychology students; Student'
 - [The ARDESOS-DIAPROVE intervention significantly improved critical thinking skills, with higher PENCRISAL medians after intervention in the total score and all five factors](ardesos-diaprove-improves-pencrisal-scores.md)
 - [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](metacognition-ct-bidirectional-relation.md)
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
+- [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related

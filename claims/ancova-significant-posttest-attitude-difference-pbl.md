@@ -53,3 +53,5 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Seventh-grade students taught statistics through project-based learning achieved higher learning outcomes than students taught with conventional learning](pbl-higher-statistics-outcomes-than-conventional.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
+- [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
+- [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related

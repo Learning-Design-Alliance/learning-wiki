@@ -52,7 +52,8 @@ The article recommends that, beyond curricular remediation, public school system
 - [Nudges prevented 24.2% of learning losses in Portuguese and 7.5% in math at school level, though imprecisely estimated](../claims/nudges-prevented-school-level-learning-losses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 
 ## Examples
 -

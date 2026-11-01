@@ -58378,5 +58378,733 @@
  "simulation\tsimulation-supported instruction\ttraditional lecture instruction": {
   "label": "simulation-supported instruction vs traditional lecture instruction",
   "treatment_is_a": true
+ },
+ "active-learning\t8-hour active, peer-practice nutrition in-service with curriculum resources\tno nutrition training; taught other health curriculum": {
+  "label": "Active-learning nutrition training vs no nutrition training",
+  "treatment_is_a": true
+ },
+ "active-learning\t8-hour active-learning nutrition in-service training plus curriculum resources\tno nutrition training; taught other health curriculum": {
+  "label": "Active-learning nutrition training vs no nutrition training",
+  "treatment_is_a": true
+ },
+ "active-learning\t8-hour active-learning nutrition in-service training with curriculum resources\tno nutrition training; taught other health curriculum": {
+  "label": "Active-learning nutrition training vs no nutrition training",
+  "treatment_is_a": true
+ },
+ "active-learning\t8-hour nutrition in-service training with curriculum resources\tcontrol teachers teaching other health curriculum": {
+  "label": "Nutrition in-service training vs no nutrition training",
+  "treatment_is_a": true
+ },
+ "active-learning\tABSI-based teaching\texperimental-group pretest baseline": {
+  "label": "ABSI-based teaching vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tABSI-based teaching\tnon-intervened teaching": {
+  "label": "ABSI-based teaching vs non-intervened teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tDirect Instruction with Razalas’ Method of Grouping\tDirect Instruction with Individual Learning": {
+  "label": "Grouped learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tDirect Instruction with Razalas’ Method of Grouping\tpretest before instruction": {
+  "label": "Grouped learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tDirect Instruction with Razalas’ Method of Grouping during seatwork\tDirect Instruction with Individual Learning during seatwork": {
+  "label": "Grouped learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tFacebook-based peer e-comments\tpre-test before peer-comment intervention": {
+  "label": "Facebook-based peer commenting vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw cooperative learning\tTraditional laboratory learning": {
+  "label": "Jigsaw cooperative learning vs traditional laboratory learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRazalas’ Method of Grouping\tIndividual Learning": {
+  "label": "Grouped learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRazalas’ Method of Grouping during seatwork\tIndividual Learning during seatwork": {
+  "label": "Grouped learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTarget-Task Problem-Solving Model\tlecture method": {
+  "label": "Target-task problem-solving vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Talk-Write cooperative learning\texpository strategy": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Talk-Write for high-self-efficacy students\texpository strategy for high-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Talk-Write for low-self-efficacy students\texpository strategy for low-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Talk-Write for moderate-self-efficacy students\texpository strategy for moderate-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-Talk-Write strategy\texpository strategy": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-talk-write strategy\tExpository strategy": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-talk-write strategy among high-self-efficacy students\tExpository strategy among high-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-talk-write strategy among low-self-efficacy students\tExpository strategy among low-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-talk-write strategy among moderate-self-efficacy students\tExpository strategy among moderate-self-efficacy students": {
+  "label": "Think-Talk-Write vs expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive problem-solving training\theuristic problem-solving training": {
+  "label": "Active problem-solving training vs heuristic problem-solving training",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive problem-solving training\ttraditional problem-solving training": {
+  "label": "Active problem-solving training vs traditional problem-solving training",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based blended learning\tconventional blended learning": {
+  "label": "Activity-based blended learning vs conventional blended learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based blended learning with enrichment activities\tconventional blended learning": {
+  "label": "Activity-based blended learning vs conventional blended learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based blended learning with enrichment activities\tconventional blended learning": {
+  "label": "Activity-based blended learning vs conventional blended learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning\ttraditional lecture method": {
+  "label": "Cooperative learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning method\ttraditional lecture method": {
+  "label": "Cooperative learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdesigning an educational location-based game\tplaying an educational location-based game": {
+  "label": "Designing an educational location-based game vs playing an educational location-based game",
+  "treatment_is_a": true
+ },
+ "active-learning\teight-hour active-learning nutrition in-service training with curriculum resources\tno nutrition training; teachers taught other health curriculum": {
+  "label": "Active-learning nutrition training vs no nutrition training",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup interviewing and diagnostic discussion\tnot stated": {
+  "label": "Group interviewing and diagnostic discussion vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw cooperative learning\ttraditional laboratory learning": {
+  "label": "Jigsaw cooperative learning vs traditional laboratory learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw cooperative learning\ttraditional learning method": {
+  "label": "Jigsaw cooperative learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpaper-and-pen peer comments\tpre-test before peer-comment intervention": {
+  "label": "Paper-and-pen peer commenting vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocial constructivist algebra instruction with modeling, scaffolding, and collaboration\ttraditional one-way algebra teaching": {
+  "label": "Social-constructivist instruction vs traditional one-way instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional problem-solving training\theuristic problem-solving training": {
+  "label": "Heuristic problem-solving training vs traditional problem-solving training",
+  "treatment_is_a": false
+ },
+ "active-learning\ttraining type: active, traditional, or heuristic\tthe other training types": {
+  "label": "Active, heuristic, or traditional problem-solving training vs other training types",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week SSIS-CIP structured social-skills curriculum\tbusiness-as-usual classrooms": {
+  "label": "Structured instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDirect Instruction with Individual Learning\tpretest before instruction": {
+  "label": "Direct instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFUSION Tier 2 intervention\tat-risk control receiving standard district instruction": {
+  "label": "Structured intervention vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFUSION Tier 2 intervention\tstandard district whole-class instruction": {
+  "label": "Structured intervention vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSANS online security training videos/modules\tno specific training": {
+  "label": "Training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-week antenatal orientation interviews training\tno intervention": {
+  "label": "Training vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-week antenatal orientation interviews training for couples\tno intervention": {
+  "label": "Training vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfraction intervention emphasizing fraction magnitude understanding\tbusiness-as-usual control condition": {
+  "label": "Structured instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfraction intervention emphasizing magnitude understanding\tbusiness-as-usual fraction instruction": {
+  "label": "Structured instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgeneral online security training\tno specific security training": {
+  "label": "Training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tonline mobile-security training videos\tno specific mobile-security training": {
+  "label": "Training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tonline mobile-security training videos\tno specific training": {
+  "label": "Training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic explicit fraction instruction emphasizing fraction magnitude understanding\tbusiness-as-usual fraction instruction emphasizing part-whole interpretation and procedures": {
+  "label": "Explicit instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tadapted Responsive Reading and Read Naturally Tier 3\tcontrol group": {
+  "label": "Adapted Responsive Reading and Read Naturally Tier 3 vs control",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment\tnormal institute procedures": {
+  "label": "Dynamic assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with mediated feedback and prompts\tregular classroom assessment": {
+  "label": "Dynamic assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with mediated feedback, prompts, and error correction\tregular classroom assessment": {
+  "label": "Dynamic assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with teacher mediation, prompts, feedback, and error correction\tregular classroom assessment": {
+  "label": "Dynamic assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "gamification\teducational games\ttraditional method": {
+  "label": "Educational games (gamified) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\teducational games by gender\tgender interaction in the instructional-method effect": {
+  "label": "Educational games (gamified) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tinstruction with visual materials\tpretest before instruction": {
+  "label": "visual-materials instruction vs pretest before instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tinstruction with visual materials and class activities\ttraditional instructional methods": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia e-learning integrating Merrill, Reigeluth, and Keller ARCS design models\ttraditional lecture-based classroom learning": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with hands-on activities and workshops\ttraditional lecture and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with hands-on activities and workshops\ttraditional lecturing and question-answer": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with hands-on and workshop activities\ttraditional lecturing and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with hands-on workshops, presentations, films, photographs, animations, cartoons, comics, and posters\ttraditional lecturing and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with instruction on environmentally friendly behaviors\ttraditional lecture and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual materials with workshops and presentations\ttraditional lecture and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual-materials instruction with activities and workshops\ttraditional lecture and question-answer instruction": {
+  "label": "multimedia/visual-and-activity-based instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tone daily 30-min Tier 3 session\tschool services for at-risk controls": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo daily 30-min Tier 3 sessions\tschool services for at-risk controls": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tup to four rereadings\tlater rereadings": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tdrawing-focused framing prompt with adaptive collaboration script\tbusiness-as-usual paper worksheet without framing prompt or collaboration script": {
+  "label": "drawing-focused framing prompts vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "prompts\tdrawing-focused framing prompts\tbusiness-as-usual control": {
+  "label": "drawing-focused framing prompts vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "prompts\tdrawing-focused framing prompts\tmodel-focused framing prompts": {
+  "label": "drawing-focused framing prompts vs model-focused framing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tdrawing-focused practice\tmodel-focused practice": {
+  "label": "drawing-focused practice vs model-focused practice",
+  "treatment_is_a": true
+ },
+ "prompts\tframing-prompt conditions using Chem Tutor\tbusiness-as-usual control using paper": {
+  "label": "framing prompts vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive teaching-learning\tconventional teaching": {
+  "label": "metacognitive teaching-learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "prompts\tmodel-focused framing prompt with adaptive collaboration script\tbusiness-as-usual paper worksheet without framing prompt or collaboration script": {
+  "label": "model-focused framing prompts vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "prompts\tmodel-focused framing prompts\tbusiness-as-usual control": {
+  "label": "model-focused framing prompts vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "prompts\tmodel-focused framing prompts\tdrawing-focused framing prompts": {
+  "label": "drawing-focused framing prompts vs model-focused framing prompts",
+  "treatment_is_a": false
+ },
+ "technology-tool\tAI agents for programming support\tnot stated": {
+  "label": "AI agents for programming support vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI agents providing personalized feedback\tnot specified": {
+  "label": "AI agents providing personalized feedback vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for democratizing skills and enabling new pedagogical approaches\tnot stated": {
+  "label": "AI tools enabling new pedagogical approaches vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for educator efficiency and productivity\tnot stated": {
+  "label": "AI tools for educator efficiency vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use involving copying AI-generated code\tdeep learning without copying AI-generated code": {
+  "label": "Copying AI-generated code vs deep learning without copying AI-generated code",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted PBL/CBL\tnone in the pooled studies": {
+  "label": "AI-assisted PBL/CBL vs no AI assistance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted PBL/CBL\tnot reported; questionnaires answered only by AI-group students": {
+  "label": "AI-assisted PBL/CBL vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted coding tools\tmanual coding or not specified": {
+  "label": "AI-assisted coding tools vs manual coding or no specified tool",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted nerve identification system\ttraditional teaching on part-task trainers": {
+  "label": "AI-assisted nerve identification vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted programming support\tnot specified": {
+  "label": "AI-assisted programming support vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated heat maps after surgery for coaching and feedback\tno stated comparison condition": {
+  "label": "AI-generated surgical heat maps vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated heat maps incorporated into surgical training\tnot using heat maps routinely": {
+  "label": "Routine use of AI-generated surgical heat maps vs no routine heat-map use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated heat maps showing safe and unsafe dissection\tmaking intraoperative decisions without such heat maps": {
+  "label": "AI-generated safe/unsafe dissection heat maps vs no such heat maps",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated heat maps showing safe and unsafe dissection\tnot reported": {
+  "label": "AI-generated safe/unsafe dissection heat maps vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered PBL with CC-Crusier or ChatGPT\ttraditional lectures": {
+  "label": "AI-powered PBL vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered PBL/CBL\tPBL/CBL without AI or traditional lectures": {
+  "label": "AI-powered PBL/CBL vs non-AI PBL/CBL or traditional lectures",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered PBL/CBL\ttraditional PBL/CBL or traditional teaching": {
+  "label": "AI-powered PBL/CBL vs traditional PBL/CBL or teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported CBL using IIAS or WFO\ttraditional AI-free PBL/CBL": {
+  "label": "AI-supported CBL vs traditional AI-free PBL/CBL",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported debugging\tnot specified": {
+  "label": "AI-supported debugging vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tANAKIN computerized simulator booster\tNRP training video booster": {
+  "label": "ANAKIN computerized simulator booster vs NRP training-video booster",
+  "treatment_is_a": true
+ },
+ "technology-tool\tANAKIN or video booster\tpre-booster confidence": {
+  "label": "Post-booster confidence vs pre-booster confidence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR applications, including simulations or exploratory activities\tnot stated": {
+  "label": "AR applications vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR materials displayed on tablets\ttraditional teaching without AR": {
+  "label": "Tablet-based AR materials vs traditional teaching without AR",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR simulators\tnot stated": {
+  "label": "AR simulators vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR telestration\tnon-AR control": {
+  "label": "AR telestration vs non-AR control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR telestration\tverbal instruction": {
+  "label": "AR telestration vs verbal instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR using mobile devices\ttraditional methods": {
+  "label": "Mobile-device AR vs traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR using tablets\ttraditional methods": {
+  "label": "Tablet-based AR vs traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR using webcam-based devices\ttraditional methods": {
+  "label": "Webcam-based AR vs traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR with high rendered content\tVR": {
+  "label": "High-rendered-content AR vs VR",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-CPR guidance\tCPR without AR-CPR guidance": {
+  "label": "AR-CPR guidance vs CPR without AR guidance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-added audience information\tnot stated": {
+  "label": "AR-added audience information vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted laparoscopic procedures\ttraditional non-AR methods": {
+  "label": "AR-assisted laparoscopic procedures vs traditional non-AR methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted laparoscopic training\tnon-AR control training": {
+  "label": "AR-assisted laparoscopic training vs non-AR control training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted laparoscopic training\tnon-AR or alternative training": {
+  "label": "AR-assisted laparoscopic training vs non-AR or alternative training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted laparoscopic training\tnon-AR-assisted or traditional training": {
+  "label": "AR-assisted laparoscopic training vs traditional or non-AR training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted laparoscopic training\tnon-AR-assisted training": {
+  "label": "AR-assisted laparoscopic training vs non-AR-assisted training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted training\ttraditional training with instructor supervision": {
+  "label": "AR-assisted training vs traditional instructor-supervised training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted training\tunassisted final test": {
+  "label": "AR-assisted training vs unassisted final test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-assisted visuospatial training\t2D imaging review only": {
+  "label": "AR-assisted visuospatial training vs 2D imaging review",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-based physics learning\tnon-AR or traditional instruction": {
+  "label": "AR-based physics learning vs non-AR or traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-based physics teaching\tnot stated": {
+  "label": "AR-based physics teaching vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported learning environment\ttraditional learning environment": {
+  "label": "AR-supported learning environment vs traditional learning environment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported learning environment in large-sample studies\ttraditional learning environment": {
+  "label": "AR-supported learning environment vs traditional learning environment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported learning environment in small-sample studies\ttraditional learning environment": {
+  "label": "AR-supported learning environment vs traditional learning environment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported learning in Natural Sciences\ttraditional learning in Natural Sciences": {
+  "label": "AR-supported Natural Sciences learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported learning in Social Sciences\ttraditional learning in Social Sciences": {
+  "label": "AR-supported Social Sciences learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR/VR haptic simulators with force feedback or structured guidance\tconventional training": {
+  "label": "AR/VR haptic simulators vs conventional training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR/VR-based training\tconventional training": {
+  "label": "AR/VR-based training vs conventional training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tARPS instrument\tnone": {
+  "label": "ARPS instrument vs no instrument",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-based SERDA oral-reading metrics\tDMT and AVI oral-reading classifications": {
+  "label": "ASR-based SERDA metrics vs DMT/AVI classifications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-based passage-reading accuracy scoring\thuman annotations": {
+  "label": "ASR-based passage-reading accuracy scoring vs human annotations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-based passage-reading speed scores\torthographic-transcription speed scores from Linguistics graduates": {
+  "label": "ASR-based passage-reading speed scoring vs orthographic-transcription scoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-based word decoding and passage reading measures\tnone; reliability estimation": {
+  "label": "ASR-based word decoding and passage-reading measures vs no comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-based word-decoding accuracy scoring\thuman annotations": {
+  "label": "ASR-based word-decoding accuracy scoring vs human annotations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-enabled reading tools\tmore accurate speech recognition": {
+  "label": "ASR-enabled reading tools vs more accurate speech recognition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR-enabled speaking practice with voice-output selection\tspeaking practice without these ASR supports": {
+  "label": "ASR-enabled speaking practice vs speaking practice without ASR supports",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments\tbusiness-as-usual materials and homework practices": {
+  "label": "ASSISTments vs business-as-usual materials and homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments\tnot specified": {
+  "label": "ASSISTments vs no specified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments as the sole math edtech tool\tASSISTments used as part of a suite of math edtech tools": {
+  "label": "ASSISTments as sole math edtech tool vs ASSISTments within an edtech suite",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments computer-supported math homework with immediate feedback and teacher reports\t?": {
+  "label": "ASSISTments homework with immediate feedback and teacher reports vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments for grade 7 math practice\tbusiness-as-usual math materials and homework practices": {
+  "label": "ASSISTments grade-7 math practice vs business-as-usual materials and homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments implementation\tbusiness-as-usual instruction": {
+  "label": "ASSISTments implementation vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments implementation\tbusiness-as-usual math instruction": {
+  "label": "ASSISTments implementation vs business-as-usual math instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments in grade 7\tbusiness-as-usual materials and homework": {
+  "label": "ASSISTments in grade 7 vs business-as-usual materials and homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention\tmatched virtual comparison group": {
+  "label": "ASSISTments intervention vs matched virtual comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention\tmatched virtual comparison students": {
+  "label": "ASSISTments intervention vs matched virtual comparison students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention\tvirtual comparison group": {
+  "label": "ASSISTments intervention vs virtual comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention\tvirtual comparison peers": {
+  "label": "ASSISTments intervention vs virtual comparison peers",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention students in the bottom two baseline achievement quartiles\tNWEA national achievement norm": {
+  "label": "ASSISTments intervention for low-baseline-achievement students vs national achievement norm",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention with vPLC\tcomparison group": {
+  "label": "ASSISTments intervention with vPLC vs comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention with vPLC\tmatched virtual comparison group": {
+  "label": "ASSISTments intervention with vPLC vs matched virtual comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention with vPLC\tmatched virtual comparison students": {
+  "label": "ASSISTments intervention with vPLC vs matched virtual comparison students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention with vPLC\tvirtual comparison group": {
+  "label": "ASSISTments intervention with vPLC vs virtual comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments math homework\texisting homework practices": {
+  "label": "ASSISTments math homework vs existing homework practices",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework and classwork support with feedback, data reports, professional development, and coaching\tbusiness-as-usual math instruction and existing homework practices": {
+  "label": "ASSISTments online math support with feedback, reports, PD, and coaching vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework support\tNot stated": {
+  "label": "ASSISTments online math homework support vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework support\tbusiness-as-usual math instruction": {
+  "label": "ASSISTments online math homework support vs business-as-usual math instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework support\tbusiness-as-usual math practices": {
+  "label": "ASSISTments online math homework support vs business-as-usual math practices",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework support with feedback and teacher reports\tbusiness-as-usual math instruction and existing homework practices": {
+  "label": "ASSISTments online homework support with feedback and reports vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math homework support with professional development and coaching\tbusiness-as-usual math instruction": {
+  "label": "ASSISTments online homework support with PD and coaching vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online math support\tbusiness-as-usual math instruction": {
+  "label": "ASSISTments online math support vs business-as-usual math instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments platform plus vPLC\tmatched virtual comparison group": {
+  "label": "ASSISTments platform plus vPLC vs matched virtual comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments platform plus vPLC\tmatched virtual comparison group without the intervention": {
+  "label": "ASSISTments platform plus vPLC vs matched virtual comparison group without intervention",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments platform plus virtual professional learning community\tmatched virtual comparison students without the intervention": {
+  "label": "ASSISTments platform plus vPLC vs matched virtual comparison students without intervention",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments platform with virtual professional learning community\tmatched virtual comparison students": {
+  "label": "ASSISTments platform with vPLC vs matched virtual comparison students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments platform, teacher interface, and vPLC\tmatched virtual comparison students from the NWEA national database": {
+  "label": "ASSISTments platform, teacher interface, and vPLC vs matched virtual comparison students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments use in 7th grade\tcomparison condition": {
+  "label": "ASSISTments use in grade 7 vs comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments used as the sole math edtech tool\tASSISTments used as part of a suite of math edtech tools": {
+  "label": "ASSISTments as sole math edtech tool vs ASSISTments within an edtech suite",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments with minimalist intelligence and adaptivity\tsystems with strong student models and sophisticated adaptation": {
+  "label": "ASSISTments with minimalist adaptivity vs systems with strong student models and sophisticated adaptation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments-supported math instruction and practice\tbusiness-as-usual math instruction": {
+  "label": "ASSISTments-supported math instruction and practice vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAST-feature LinearSVC classifier\trandom four-class baseline": {
+  "label": "AST-feature LinearSVC classifier vs random four-class baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASYST\tGUI mean reported by Bangor et al.": {
+  "label": "ASYST vs GUI mean benchmark",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASYST\tnone stated": {
+  "label": "ASYST vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAURA within-session reinforcement-learning adaptation\tnon-adaptive baselines": {
+  "label": "Within-session adaptive reinforcement-learning system vs non-adaptive baselines",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVDS tool available during the test\tno AVDS tool during the test": {
+  "label": "AVDS available during testing vs no AVDS tool",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVDS tool during AVL tree performance test\tno AVDS assistance": {
+  "label": "AVDS during AVL-tree testing vs no AVDS assistance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVDS tool during the AVL-tree test\tno AVDS tool during the AVL-tree test": {
+  "label": "AVDS during AVL-tree testing vs no AVDS tool",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVDS tool during the performance test\tno AVDS tool during the performance test": {
+  "label": "AVDS during performance testing vs no AVDS tool",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVDS tool during the performance test\tperformance test without AVDS assistance": {
+  "label": "AVDS during performance testing vs performance testing without AVDS",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week SSIS-CIP social-skills curriculum\tbusiness-as-usual control": {
+  "label": "explicit instruction vs business-as-usual",
+  "treatment_is_a": true
  }
 }

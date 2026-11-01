@@ -55,3 +55,5 @@ Qualitative analysis of homework problem-form solutions (Figures 1 and 2), prese
 - [Teaching problem-solving strategies for ratio problems raises sixth-graders' proportional reasoning posttest scores above regular instruction](strategy-teaching-improves-proportional-reasoning-posttest.md) — related
 - [Strategy teaching increased students' use of problem-solving strategies and reduced error types in ratio problems](strategy-teaching-increases-strategy-use-reduces-errors.md) — related
 - [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](qualitative-support-for-intervention-experience.md) — related
+- [Error-tolerant classroom culture training reduces students' fear of making errors in mathematics lessons](error-tolerant-culture-reduces-fear-of-errors.md) — related
+- [Higher proportions of think-talk-write students correctly answered the representation problem on all three indicators: visual, mathematical expressions and written texts](ttw-higher-indicator-percentages-representation.md) — related

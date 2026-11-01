@@ -44,7 +44,8 @@ The article recommends that classrooms increase the number and variety of format
 - [Formative assessment interventions have a significant positive effect on student learning in Turkish experimental studies (random-effects g = .72)](../claims/formative-assessment-positive-effect-turkey-meta-analysis.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 
 ## Examples
 -

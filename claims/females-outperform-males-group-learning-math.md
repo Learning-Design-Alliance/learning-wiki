@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-01
 sources:
   - id: hossain-2012
     resource: "https://eric.ed.gov/?id=EJ1057355"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental female students scored significantly higher than experimental male students on the MAT post-test (47.95 vs 46.68). [→ Hossain 2012](#hossain-2012)
@@ -56,3 +57,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](non-na-female-superiority-fci-studies.md) — related
 - [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — related
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — reports the opposite

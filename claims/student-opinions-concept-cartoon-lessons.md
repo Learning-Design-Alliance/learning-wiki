@@ -47,3 +47,4 @@ Descriptive analysis of written answers to the open question about teaching via 
 ## Related Claims
 - [Students' group communication during concept cartoon© lessons depended mainly on the teaching topic, and scientific terms were never used](concept-cartoons-student-communication-topic-dependent.md) — related
 - [Most surveyed participants reported they had not enjoyed mathematics classes in the past](past-math-class-enjoyment-negative.md) — related
+- [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related

@@ -50,3 +50,6 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
 - [The VSSPlus experimental group improved significantly from pre-test to post-test on the vocabulary achievement test](vssplus-pre-post-vat-gain.md) — related
 - [Argumentation levels of ADI students rise by the end of treatment while control group levels stay unchanged](adi-raises-argumentation-levels-end-of-treatment.md) — related
+- [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](absi-within-group-gain-significant.md) — possibly the same claim (merge candidate)
+- [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related
+- [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related

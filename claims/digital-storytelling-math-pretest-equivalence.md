@@ -54,3 +54,5 @@ Pretest analysis of the 14-question Achievement Test in the quasi-experimental s
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
+- [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
+- [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related

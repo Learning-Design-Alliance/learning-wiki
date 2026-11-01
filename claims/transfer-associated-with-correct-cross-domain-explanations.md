@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: shenghua-zha-2025
     resource: "https://doi.org/10.1007/s40593-025-00476-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across Lessons 1, 3, and 4, students who transferred their prior knowledge (biology or AI) generally offered explanations in both domains, while students who did not transfer usually gave vague, incorrect, or no explanations; one exception occurred in Lesson 4. [→ Shenghua Zha 2025](#shenghua-zha-2025)

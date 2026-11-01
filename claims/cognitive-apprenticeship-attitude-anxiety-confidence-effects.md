@@ -84,3 +84,4 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
 - [Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group](deliberate-practice-increases-student-satisfaction.md) — related
 - [No significant change in mathematics attitudes for either group except a significant decline in enjoyment for the control group](mobile-math-no-attitude-change-control-enjoyment-decline.md) — related
+- [Qualitative data indicated the Razalas' Method of grouping developed self-confidence, encouraged effective communication and facilitated exchange of ideas toward a common goal](razalas-grouping-qualitative-benefits.md) — related

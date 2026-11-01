@@ -74,3 +74,4 @@ The same cross-group comparison found no significant difference for boys, t(23) 
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related
+- [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related

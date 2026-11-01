@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 14 studies (4 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (13 for, 4 mixed) · 15 studies (5 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 17 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -45,7 +45,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](../claims/student-demand-hands-on-it-instruction.md) [~W]
 - [Embodied hands-on practices remain important learning activities in AI-era design education](../claims/embodied-hands-on-remains-present.md) [+W]
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
-- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
+- [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](../claims/hands-on-forms-different-feedback-sources.md) [~W]
 - [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](../claims/spatial-training-moderators-concrete-materials-and-age.md) [+W]
@@ -54,6 +54,8 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](../claims/virtual-labs-cannot-replace-hands-on-learning.md) [~W]
 - [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
 - [Upper basic students taught Basic Technology practical skills via field trip scored higher on a post-test than students taught by expository method](../claims/field-trip-beats-expository-basic-technology.md) [+W] — attached 2026-11-01 from Amosa et al. (2013), which proposed "Field trip as an instructional strategy for Basic Technology practical skills"; tests this page's relationship.
+- [Using recycle materials for science practicum has a statistically significant effect on Open University students' basic science process skills](../claims/recycle-materials-practicum-effect-science-process-skills.md) [+W] — attached 2026-11-01 from Setiyo Prajoko et al. (2017), which proposed "Recycle-materials science practicum equipment (e.g., simple respirometer from used bottles, straws, rulers, plasticine)".
+- [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](../claims/recycle-materials-practicum-positive-student-feedback.md) [+W] — attached 2026-11-01 from Setiyo Prajoko et al. (2017), which proposed "Recycle-materials science practicum equipment (e.g., simple respirometer from used bottles, straws, rulers, plasticine)".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

@@ -56,3 +56,4 @@ Chi-squared tests on profile membership of the 191-teacher sample showed "the pr
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — reports the opposite
 - [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](competence-profiles-moderate-srl-training-effect.md) — related
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
+- [The treated and untreated student groups were statistically homogeneous on most demographic dimensions, differing only in academic major distribution](treatment-groups-homogeneous-except-major.md) — related

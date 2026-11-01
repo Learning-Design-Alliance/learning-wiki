@@ -70,6 +70,7 @@ Learning communities work because knowledge is socially constructed and because 
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Apply peer-facilitated learning in online programming courses to improve learning outcomes](apply-peer-facilitated-learning-online-programming.md)
+- [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md)** frameworks in online courses — sustained forum discourse combining social, cognitive, and teaching presence (see the [Community of Inquiry framework](https://www.thecommunityofinquiry.org)).

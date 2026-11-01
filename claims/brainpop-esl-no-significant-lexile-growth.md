@@ -50,3 +50,4 @@ Vista pre-post analysis of the Renaissance STAR benchmark assessment (Lexile sco
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related
 - [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
+- [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related

@@ -53,3 +53,4 @@ Two-way ANOVA interaction test (learning × KAM) on the self-confidence scale ga
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Learning strategy and self-efficacy interact in their effect on mathematical representation ability](strategy-self-efficacy-interaction-mathematical-representation.md) — related

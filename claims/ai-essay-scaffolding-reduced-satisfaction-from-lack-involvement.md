@@ -50,3 +50,4 @@ Thematic analysis of interview data from 11 participants (interview #2.1) reveal
 - [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — related
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [AI-featured methods significantly increased motivation only in Attention and Confidence categories for essay-writing activities](ai-scaffolding-essay-activities-increases-attention-confidence-only.md) — related
+- [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related

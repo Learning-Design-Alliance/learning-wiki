@@ -52,3 +52,7 @@ Review synthesis of six preschool studies (children 0–5 years). The discussion
 - [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](successful-intervention-features-multiple-strategies-parents-intensity.md)
 - [Evidence for effective experiential learning approaches is weaker for preschool children than for primary school children](weaker-evidence-preschool-versus-primary-school.md)
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
+- [Educational games significantly improve self-help for eating food in 8-12-year-old educable mentally retarded girls](educational-games-improve-self-help-eating.md) — related
+- [Educational games significantly improve self-help for wearing clothes in 8-12-year-old educable mentally retarded girls](educational-games-improve-self-help-dressing.md) — related
+- [Directed educational games significantly improve overall social skills of 8-12-year-old educable mentally retarded girls compared with conventional class instruction](educational-games-improve-social-skills-mentally-retarded-girls.md) — related
+- [Educational games significantly improve socialization skill of 8-12-year-old educable mentally retarded girls](educational-games-improve-socialization-skill.md) — related

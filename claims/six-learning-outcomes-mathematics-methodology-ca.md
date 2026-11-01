@@ -48,4 +48,4 @@ Preliminary-phase document and expert analysis in a qualitative DBR study: learn
 
 - [Pre-service teachers most frequently viewed integrating 21st-century teaching methods into mathematics lessons as the learning outcome to achieve](mpts-view-21st-century-methods-top-outcome.md)
 - [Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice](mpts-lesson-presentation-top-assessment-task.md)
-- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](teacher-educators-foreground-engagement-tlas.md)
+- [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](teacher-educators-foreground-engagement-tlas.md)

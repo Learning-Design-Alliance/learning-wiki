@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (90 show a difference, 26 mixed, 11 no difference) · 67 studies (21 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 67 report an effect size · 125 claims rest on one study
+> **Evidence** · 134 claims (94 show a difference, 27 mixed, 13 no difference) · 70 studies (24 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 70 report an effect size · 132 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -162,6 +162,13 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Highly creative physical activity interventions produce a large summary effect on creativity measures in children](../claims/high-creativity-pa-improves-creativity-outcomes.md) [+M] — instruction changes it
 - [The extent to which physical activity interventions foster creativity does not associate with their effect size on executive functions in children](../claims/pa-creativity-rating-no-association-executive-functions.md) [-W] — an instructional effect differs with it
 - [Physics teaching materials show high average effect sizes on high school students' critical thinking skills (ES = 3.97) and creative thinking skills (ES = 2.97) in a meta-analysis of 20 national-journal articles](../claims/physics-teaching-materials-high-effect-critical-creative-thinking.md) [+M] — instruction changes it
+- [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](../claims/ati-pbl-descriptive-creative-thinking-scores.md) [+M] — instruction changes it
+- [Gender does not significantly affect students' creative thinking in problem solving](../claims/gender-no-effect-creative-thinking-problem-solving.md) [-M] — learners who differ on it differ in outcomes
+- [Parents' education level affects students' creative thinking, with BA and MA parents' children scoring higher](../claims/parents-education-affects-creative-thinking.md) [+M] — learners who differ on it differ in outcomes
+- [Parents' job type does not significantly affect students' creative thinking](../claims/parents-job-no-effect-creative-thinking.md) [-M] — learners who differ on it differ in outcomes
+- [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](../claims/ati-outperforms-pbl-math-creative-thinking.md) [+M] — instruction changes it
+- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — instruction changes it
+- [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](../claims/tfcs-prepost-nonsignificant-descriptive-divergence.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

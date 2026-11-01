@@ -50,3 +50,4 @@ Descriptive analysis of CLASS Pre-K observation data provided by CPS and DFSS fo
 - Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related
 - [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related
+- [BEST in CLASS improved observed classroom quality on all three CLASS domains, with effect sizes .50 or larger](best-in-class-improved-classroom-quality.md) — related

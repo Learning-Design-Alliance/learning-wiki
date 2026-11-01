@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (114 show a difference, 38 mixed, 20 no difference) · 126 studies (42 review, 26 causal, 26 associational, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 34 of 126 report an effect size · 168 claims rest on one study
+> **Evidence** · 175 claims (117 show a difference, 38 mixed, 20 no difference) · 128 studies (42 review, 28 causal, 26 associational, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 35 of 128 report an effect size · 171 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -213,6 +213,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The 30-hour ART programme is associated with a significant increase in children's self-reported overall social competence, with no change in the control group](../claims/art-self-report-social-competence-increase.md) [+M] — instruction changes it
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](../claims/ciea-no-prosocial-scale-effect.md) [-M] — instruction changes it
 - [The treatment effect on social skills was moderated by a significant Condition × Pretest × State interaction, significant only in State A](../claims/social-skills-condition-pretest-state-interaction.md) [~M] — an instructional effect differs with it
+- [Directed educational games significantly improve overall social skills of 8-12-year-old educable mentally retarded girls compared with conventional class instruction](../claims/educational-games-improve-social-skills-mentally-retarded-girls.md) [+W] — instruction changes it
+- [Educational games significantly improve socialization skill of 8-12-year-old educable mentally retarded girls](../claims/educational-games-improve-socialization-skill.md) [+W] — instruction changes it
+- [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](../claims/ssis-cip-teacher-rated-social-skills-effects.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

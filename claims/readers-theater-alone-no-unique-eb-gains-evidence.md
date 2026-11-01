@@ -53,3 +53,6 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 - Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement — related
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
+- [Underachieving college English students taught with Readers' Theater remedial instruction achieved significantly higher oral reading fluency than control-group peers after 15 weeks](rt-remedial-oral-fluency-greater-than-control.md) — reports the opposite
+- [Both RT and regular remedial instruction significantly improved underachievers' oral reading fluency over 15 weeks](both-remedial-forms-improved-oral-fluency.md) — related
+- [RT-exposed underachievers earned significantly higher English learning achievement grades than control-group peers after remedial instruction](rt-remedial-achievement-greater-than-control.md) — reports the opposite

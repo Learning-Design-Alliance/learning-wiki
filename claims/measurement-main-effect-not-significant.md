@@ -50,3 +50,4 @@ Measurement primary effect from the two-way ANOVA for mixed measures; Table 10 p
 - [Group main effect: concept cartoon teaching explained 18% of variance in critical thinking scores between groups](group-main-effect-18-percent-variance.md) — related
 - [The group-by-measurement interaction in CCT-X scores significantly favoured the concept cartoon group](group-measurement-interaction-favours-cartoons.md) — related
 - [No significant difference between U-learning and E-learning groups in the referencing stage of formative research](no-difference-referencing-stage.md) — related
+- [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related

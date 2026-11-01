@@ -49,6 +49,7 @@ The article's experimental treatment kept the usual three-phase reading course (
 
 - [Direct Instruction: Genre-specific Writing Strategies](direct_instruction-genre-specific_writing_strategies.md)
 - [Genre Scaffolding](genre-scaffolding.md)
+- [Employ combined Pre-question and genre-based instruction in EAP reading for science students](combined-prequestion-genre-eap-reading-strategy.md)
 
 ## Examples
 -

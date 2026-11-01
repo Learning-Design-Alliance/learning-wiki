@@ -52,3 +52,4 @@ Baseline comparison of the 84 treatment and 75 control children in inner-city sc
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — related
 - [The two groups did not differ significantly in vocabulary knowledge before the intervention](pbl-vocabulary-groups-equivalent-pretest.md) — related
+- [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — a narrower finding that bears on this claim

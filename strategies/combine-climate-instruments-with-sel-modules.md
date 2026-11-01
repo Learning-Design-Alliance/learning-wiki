@@ -45,6 +45,7 @@ To address the scarcity of explicit SEL measurement without adding to the overab
 ## Related Strategies
 
 - [Apply the review's three-level criteria to critically assess SEL integration in a school climate measure before adoption](three-level-criteria-assess-sel-in-climate-measures.md)
+- [Make SEL measurement narrower in focus but broader in context and depth, choosing specific measures guided by development and skill trajectories](narrower-focus-broader-context-sel-measurement.md)
 
 ## Examples
 -

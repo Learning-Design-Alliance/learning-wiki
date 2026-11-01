@@ -146,3 +146,7 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - Longitudinal program evaluation strategies were described in only three studies — related
 - [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](academic-emotion-intervention-pooled-effect-emotion.md) — related
 - [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md) — related
+- [The SACD consortium evaluation of seven elementary SEL programs found no differences between intervention and control groups over three years](sacd-consortium-null-effects.md) — reports the opposite
+- [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — a broader claim this one bears on
+- [Apparent variation in SEL program impacts may be an artifact of imprecise program targets misaligned with too-general outcome measures](sel-target-measure-misalignment-thesis.md) — related
+- [Only three reviewed SEL studies measured classroom-level outcomes, and effects on CLASS-measured classroom environments ranged from moderate to large](sel-classroom-level-class-effects.md) — related

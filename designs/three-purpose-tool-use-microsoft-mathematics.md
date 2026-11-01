@@ -42,7 +42,8 @@ The article organizes its lecture activities around three main purposes of using
 - [First-year students taught Calculus with Microsoft Mathematics achieved higher post-test scores than students taught conventionally](../claims/microsoft-mathematics-higher-post-test-calculus.md) [+W]
 
 ## Related Designs
-- 
+
+- [Six pedagogical purposes structure technology use during Calculus lectures](six-purposes-tool-use-calculus-lectures.md)
 
 ## Examples
 -

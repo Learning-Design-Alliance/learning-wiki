@@ -48,3 +48,5 @@ Subgroup analysis conducted in line with EEF guidance to assess tutoring effecti
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](fsm-maths-primary-secondary-outcome-split.md) — related
 - [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — related
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on

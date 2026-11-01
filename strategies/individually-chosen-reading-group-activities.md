@@ -44,6 +44,7 @@ When each student reads something different, the article recommends activities t
 - [Implement extensive reading via stand-alone courses, curricular components, or reading clubs, with self-report accountability and no comprehension testing](extensive-reading-implementation-models-self-report-accountability.md)
 - [Sharing and Discussion of Independent Reading](sharing_and_discussion_of_independent_reading.md)
 - [Use structured CL techniques such as Showdown and Trade-A-Problem when the whole class reads the same book](showdown-trade-a-problem-class-readers.md)
+- [Offer instructor-familiar graphic novel options to reduce preparation burden when implementing the comic-book assignment](instructor-familiar-graphic-novel-options.md)
 
 ## Examples
 -

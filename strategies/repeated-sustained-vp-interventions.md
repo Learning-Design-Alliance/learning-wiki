@@ -42,7 +42,8 @@ The review recommends moving beyond single-session delivery toward repeated and 
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](../claims/vp-interventions-empathy-improvements-all-19-studies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve security training efficacy through more hands-on, repeated, and systematically exposed training rather than one-off awareness videos](repeated-hands-on-security-training-strategy.md)
 
 ## Examples
 -

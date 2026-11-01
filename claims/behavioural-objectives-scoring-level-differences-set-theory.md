@@ -49,3 +49,4 @@ Analysis of Covariance on the experimental group (n = 88) categorized into low, 
 - [SS2 students taught set theory with prior presentation of behavioural objectives scored significantly higher on the Mathematics Academic Performance Test than control students taught without them](behavioural-objectives-prior-presentation-improve-mathematics-performance.md) — related
 - [Achievement level significantly differentiated posttest performance among students taught with PowerPoint, with high achievers outperforming medium and low achievers](ppt-achievement-level-main-effect.md) — related
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
+- [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related

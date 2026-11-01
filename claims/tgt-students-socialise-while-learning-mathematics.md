@@ -49,7 +49,7 @@ Authors' interpretive conclusion from the intervention study at the religious sc
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
 - [Mathematics understanding and communication gains from Cooperative TGT were not sustained after the intervention was withdrawn](tgt-gains-not-sustained-after-withdrawal.md) — related
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](tgt-attitude-shifts-two-statements.md) — related
-- [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — related
+- [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](tgt-outperformed-lecture-posttest.md) — related
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](tgt-significant-achievement-gain-grade-eight.md) — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related

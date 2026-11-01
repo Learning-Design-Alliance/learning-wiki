@@ -67,6 +67,7 @@ Text chat functions as a low-threshold participation and feedback channel, which
 - [Check-In](../elements/check-in.md) — chat is a natural delivery channel for rapid formative check-ins
 - [Coaching](../elements/coaching.md) — chat sustains coaching contact between sessions
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
+- [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 
 ## Examples
 - **[Remind](../products/remind.md) (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.

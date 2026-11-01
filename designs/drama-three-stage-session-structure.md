@@ -43,7 +43,8 @@ The article describes drama activities as organized in a recurring three-stage s
 - [Drama Instruction Reduces Speech Anxiety More Than Conventional](../claims/drama-instruction-reduces-speech-anxiety-more-than-conventional.md) [+M]
 
 ## Related Designs
-- 
+
+- [Creative drama unit plan structured as sequenced sessions with warm-up, improvisation, interim assessment and closing activities](creative-drama-session-sequence-pattern.md)
 
 ## Examples
 -

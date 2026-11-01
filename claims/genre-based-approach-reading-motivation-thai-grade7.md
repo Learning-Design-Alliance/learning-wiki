@@ -47,3 +47,4 @@ Five-choice Likert reading motivation questionnaire (reliability 0.95, Cronbach 
 ## Related Claims
 - [Seventh-grade Thai students taught with applied instruction through the genre-based approach achieved significantly higher English reading comprehension post-test scores than students taught with the teacher's manual](genre-based-approach-reading-comprehension-thai-grade7.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
+- [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — related

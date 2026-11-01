@@ -58,3 +58,4 @@ Univariate Analysis of Variance comparing post achievement test scores of the co
 - [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — a narrower finding that bears on this claim
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
+- [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related

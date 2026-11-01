@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: sarah-i-hofer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102177"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the hypothesized benefit for low-prior-knowledge students nor the hypothesized moderation by sustained attention was found for individualized explanations. [→ Sarah I. Hofer 2025](#sarah-i-hofer-2025)
@@ -74,3 +75,5 @@ Exploratory GLMM interaction tests in the VS subgroup showed significant interac
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](school-track-differences-learner-characteristics.md) — related
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](prior-competence-by-attention-interaction-math-gains.md) — related
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related
+- [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
+- [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](ati-pbl-descriptive-creative-thinking-scores.md) — related

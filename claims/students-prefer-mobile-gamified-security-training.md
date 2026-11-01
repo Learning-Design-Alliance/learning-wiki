@@ -45,8 +45,11 @@ Preference questionnaire of 50 general students across diverse majors after game
 
 
 ## Related Claims
+
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — related
 - [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — related
+- [General security training produced no statistically significant difference in students' propensity to use built-in device features for protection](no-training-effect-device-features.md)
+- [Undergraduates who completed general online security training reported a higher propensity for harmful mobile security behaviors than untrained peers, opposite to the hypothesized direction](security-training-increased-harmful-mobile-behaviors.md)

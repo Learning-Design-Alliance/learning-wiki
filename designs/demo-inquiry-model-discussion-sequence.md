@@ -42,6 +42,7 @@ This instructional pattern sequences four modes of engagement around one scienti
 ## Related Designs
 
 - [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
+- [Modeling-based inquiry as a classroom process running from mental models to consensus models and experimental testing](modeling-process-mental-to-consensus-models.md)
 
 ## Related Patterns
 

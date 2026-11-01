@@ -51,3 +51,4 @@ Videotaped-lesson fidelity coding (7-item procedural measure, inter-rater reliab
 - [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — related
 - [Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties](sbi-improves-pps-posttest-mdps.md) — related
 - [The intervention did not change overall classroom instructional quality as measured by the CQELL Generic Lesson Elements and EL Support subscales](dccs-pd-no-change-cqell-general-quality.md) — related
+- [START-Play and usual early intervention differed significantly on all fidelity variables, differentiating the interventions](start-play-differentiated-from-uei.md) — related

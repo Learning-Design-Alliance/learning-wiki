@@ -68,6 +68,8 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Apply scaffolding and social group-investigation models in gifted classrooms](../strategies/scaffolding-group-investigation-gifted-classrooms.md)
 - [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 - [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](../strategies/tailor-number-game-difficulty-to-zpd.md)
+- [Prepare teachers and school support specialists in the balanced use of static and dynamic assessment within teacher training programs](../strategies/teacher-training-dynamic-assessment-techniques.md)
+- [Emotionalized dynamic assessment (EDA): dynamic assessment mediation loaded with Goleman's emotional intelligence framework](../designs/emotionalized-dynamic-assessment-eda.md)
 
 ## Key Sources
 - McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

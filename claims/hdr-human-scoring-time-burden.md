@@ -65,3 +65,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [GPT-3 can generate a complete short academic paper, including abstract, introduction, discussion and APA references, in under five minutes](gpt3-generates-full-academic-paper.md) — related
 - [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — related
+- [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related

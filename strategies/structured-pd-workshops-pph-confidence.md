@@ -43,7 +43,8 @@ The article recommends structured professional development as a vehicle for buil
 - [Pathway To Planetary Health Framework](../products/pathway-to-planetary-health-pph.md)
 
 ## Related Strategies
-- 
+
+- [Shift from one-day fragmented workshops to collaborative, extended, content-focused professional development](collaborative-extended-professional-development-shift.md)
 
 ## Examples
 -

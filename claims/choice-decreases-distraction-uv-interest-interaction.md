@@ -72,3 +72,4 @@ Meta-analyzed D-UV × baseline interest in statistics interaction on distraction
 ## Related Claims
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](choice-increases-autonomy-triggered-situational-interest.md) — related
 - [Neither choice nor utility value manipulations improve end-of-session regression test performance, and the two manipulations do not interact](no-performance-effects-no-uv-choice-interaction.md) — related
+- [Students completing smartphone activities show significantly less distraction than students doing identical paper-based activities](smartphone-activities-less-distraction.md) — related

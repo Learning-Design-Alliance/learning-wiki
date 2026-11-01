@@ -66,6 +66,7 @@ Sequencing works because it keeps each task within working memory limits while s
 - [Completion Problems](completion-problems-first.md) — the within-task form of fading
 - [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](hierarchical-teaching-sequence-one-step-equations.md)
 - [Match problem order to the dominant learning demand: blocked orders for how-learning domains, interleaved orders for when-learning domains](match-problem-order-to-when-how-learning-demand.md)
+- [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](three-phase-constructivist-algebra-word-problems.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's model organizes whole learning tasks into task classes of increasing complexity, with decreasing learner support within each class; the canonical implementation of scaffolded sequencing.

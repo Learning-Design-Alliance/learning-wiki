@@ -58,3 +58,4 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [Among FSM-eligible pupils, music workshops showed no impact on attainment relative to the drama control](asp-fsm-pupils-no-music-attainment-impact.md) — related
 - [The SHINE in Secondaries Saturday school showed a very small impact on literacy and numeracy outcomes across all four pilot schools](shine-secondaries-very-small-literacy-numeracy-impact.md) — related
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related

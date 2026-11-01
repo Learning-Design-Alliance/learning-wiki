@@ -70,3 +70,4 @@ The review reports, citing prior studies, that "teachers ignore creative questio
 - [Self-assessed creative performance correlates moderately with divergent thinking, but self-assessed idea creativity does not](performance-self-assessment-tracks-dt-idea-self-assessment-does-not.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related
 - [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](predictors-of-self-assessed-creative-performance.md) — related
+- [Parents' education level affects students' creative thinking, with BA and MA parents' children scoring higher](parents-education-affects-creative-thinking.md) — related

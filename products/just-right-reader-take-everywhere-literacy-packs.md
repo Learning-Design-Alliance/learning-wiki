@@ -31,7 +31,8 @@ A Just Right Reader take-home literacy package that provides skill-leveled decod
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Fresh Start phonics catch-up literacy programme](fresh-start-phonics-catch-up-literacy-programme.md)
 
 ## Key Sources
 - Just Right Reader Take-Everywhere Literacy Packs™: Evidence Rating. (2025). Program description with quasi-experimental evaluation. https://evidenceforessa.org/program/just-right-reader-take-everywhere-literacy-packs/

@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (20 for, 27 mixed, 1 against) · 40 studies (16 quant-synthesis, 13 causal, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 40 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (21 for, 27 mixed, 1 against) · 41 studies (16 quant-synthesis, 14 causal, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 41 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,6 +80,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative learning reduced emotional problems and increased peer relatedness for all students, not only marginalized students](../claims/cooperative-learning-main-effects-emotional-problems-relatedness.md) [+W] — attached 2026-10-23 from Van Ryzin et al. (2018), which proposed "Use cooperative learning as a sustainable, stand-alone component of bullying prevention that does not sacrifice instructional time".
 - [Cooperative learning is more effective for grade 11 than grade 10 vocational high school mathematics students](../claims/cooperative-learning-grade-11-more-effective-than-grade-10.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](../claims/cooperative-learning-small-class-size-more-effective.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
+- [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](../claims/cooperative-learning-higher-math-gain-scores-eighth-standard.md) [+W] — attached 2026-11-01 from K. Thiyagu (2012), which proposed "Use cooperative learning as an alternative to traditional lecture-based mathematics teaching, combined with whole-group instruction and individual work"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

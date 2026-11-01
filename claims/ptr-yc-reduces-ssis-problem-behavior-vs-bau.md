@@ -50,3 +50,4 @@ Randomized controlled trial with classroom-level randomization; 169 children in 
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
 - [Teachers and parents rated PTR-YC as socially valid, finding it acceptable, effective, and unlikely to produce negative side effects](ptr-yc-social-validity-teacher-parent-ratings.md) — related
 - [Treatment reduced the percentage of children in the clinical or borderline range on the SSIS-RS Problem Behavior subscale (SRD = −.186)](best-in-class-reduced-ssis-problem-behavior.md) — related
+- [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](ssis-cip-teacher-rated-social-skills-effects.md) — related

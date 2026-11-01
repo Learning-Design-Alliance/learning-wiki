@@ -53,3 +53,4 @@ Fourth design iteration (pre-post correlational design, no control group) found 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - [CALI significantly improves social studies knowledge (g = 2.27) and science knowledge (g = 2.10) in K-4 students compared to business-as-usual control.](cali-improves-content-knowledge-k4.md) — related
+- [An instructional-method by reading-level interaction showed basic-level readers retained significantly more science content after arts-integrated instruction](arts-integration-basic-readers-retention-interaction.md) — related

@@ -17,7 +17,7 @@ sources:
 # Onto-Epistemic Heterogeneity
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 causal, 1 design, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, their identities and lived histories) and epistemology (how learners come to know) are inseparable, and that liberatory instruction must treat learners' diverse identities, experiences, and cultural backgrounds as legitimate sources of disciplinary knowledge rather than a motivational bridge to be set aside once "real" academic content begins. It departs from equity approaches that simply widen access to a discipline treated as settled and value-neutral. The framework is operationalized through three sensibilities: **multiplicity** (knowledge is plural and situated, not singular or objective, and whose knowledge is valued reflects power dynamics), **horizontality** (learners draw on multiple activity systems — home, school, community — as equally legitimate resources for disciplinary learning, rather than ranking academic knowledge above everyday knowledge), and **dialogicality** (meaning is made discursively, through language that is never neutral but shaped by interaction among different social voices).
@@ -40,6 +40,7 @@ Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, the
 
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]
 - [GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing](../claims/genai-opportunity-move-beyond-sorting-ranking.md) [+W]
+- [Both groups held largely equipollent, co-existing scientific and IKS-based views of weather before the intervention](../claims/equipollent-coexisting-weather-views.md) [+W] — attached 2026-11-01 from Alvin Daniel Riffel (2015), which proposed "Contiguity Argumentation Theory (CAT)".
 
 ## Related Theories
 

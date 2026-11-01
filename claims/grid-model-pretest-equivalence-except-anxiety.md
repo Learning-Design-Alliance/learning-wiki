@@ -53,3 +53,4 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 - [Grid Model-based science curriculum raises 4th graders' internal goal orientation post-test scores relative to the general curriculum](grid-model-raises-internal-goal-orientation.md) — related
 - [Grid Model curriculum raises self-efficacy post-test scores of public-school students relative to controls](grid-model-raises-self-efficacy-public-schools.md) — related
 - [Grid Model curriculum raises task value post-test scores of public-school students relative to controls](grid-model-raises-task-value-public-schools.md) — related
+- [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — related

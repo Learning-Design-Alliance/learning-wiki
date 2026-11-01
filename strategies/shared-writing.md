@@ -84,6 +84,7 @@ Shared writing makes the composition process visible and distributed: students o
 - [Process Writing](process-writing.md) — the broader drafting-and-revising cycle this strategy supports
 - [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](children-as-primary-knowers-dictation-co-construction.md)
 - [Guided Writing](guided-writing.md) — the small-group follow-on where students apply shared-writing moves with coaching
+- [Teacher acts as a non-knower co-participant who attributes boredom to the materials rather than the students](teacher-as-non-knower-co-participant.md)
 
 ## Examples
 - A third-grade teacher used shared writing to review a geometry unit: students generated a word bank of shape attributes, composed sentences describing 3-D solids, and revised them for precise vocabulary (e.g., replacing "pointy" with "vertex").

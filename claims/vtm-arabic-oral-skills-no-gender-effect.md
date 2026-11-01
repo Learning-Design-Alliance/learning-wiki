@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: nail-m-alhajya-2018
     resource: "https://doi.org/10.3926/jotse.331"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANCOVA found no statistically significant difference in post-test oral skills scores attributed to gender (F=.180, sig=.674). [→ Nail M. Alhajya 2018](#nail-m-alhajya-2018)
@@ -54,3 +55,7 @@ ANCOVA on the same 48-student quasi-experiment tested the gender main effect on 
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related
+- [Kindergarten children taught Arabic with Mind Maps showed a statistically significant pre-to-post reduction in lack of attention scores over four months](mind-maps-reduce-lack-of-attention-kindergarten-arabic.md) — related
+- [No statistically significant gender difference in first graders' scientific concepts acquisition](no-gender-difference-game-based-concept-acquisition.md) — related
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
+- [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related

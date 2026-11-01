@@ -67,3 +67,5 @@ Independent-samples t-tests on the social studies attitude scale (Cronbach's alp
 - [ICT-supported social studies teaching produced higher achievement post-test scores than traditional instruction in a quasi-experiment with 6th graders](ict-treatment-higher-achievement-post-test-social-studies.md) — related
 - [Prior knowledge and ICT-supported instruction predicted achievement post-test scores, while pupils' attitudes toward the subject and ICT did not](prior-knowledge-and-treatment-predict-achievement-not-attitudes.md) — related
 - [Pupils' pre-test attitudes toward social studies were negatively correlated with their pre-treatment attitudes toward ICT](negative-correlation-social-studies-ict-attitudes.md) — related
+- [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
+- [iPod inquiry teaching produced significantly more positive scientific attitudes than regular teaching for third graders](ipod-inquiry-improves-scientific-attitudes.md) — related

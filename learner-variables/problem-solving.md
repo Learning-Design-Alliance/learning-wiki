@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (77 show a difference, 14 mixed, 15 no difference) · 89 studies (41 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 23 of 89 report an effect size · 104 claims rest on one study
+> **Evidence** · 109 claims (78 show a difference, 15 mixed, 16 no difference) · 92 studies (44 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 24 of 92 report an effect size · 107 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -144,6 +144,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](../claims/interaction-learning-kam-problem-solving.md) [~M] — instruction changes it
 - [Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties](../claims/sbi-improves-pps-posttest-mdps.md) [+M] — instruction changes it
 - [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](../claims/heuristic-students-invented-strategies-transfer-interpretation.md) [+W] — instruction changes it
+- [Gender does not significantly affect students' creative thinking in problem solving](../claims/gender-no-effect-creative-thinking-problem-solving.md) [-M] — learners who differ on it differ in outcomes
+- [Problem-solving showed a significant pre-post effect although post-treatment means were slightly lower than pre-treatment means](../claims/problem-solving-significant-but-declining-means.md) [~W] — instruction changes it
+- [The article attributes the recycle-materials advantage to problem-solving challenge, motivation, and creativity, and notes control-class students without worksheets scored lower](../claims/recycle-practicum-attributed-mechanisms.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

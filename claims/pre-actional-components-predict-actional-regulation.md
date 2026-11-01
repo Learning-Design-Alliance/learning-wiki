@@ -93,3 +93,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](negative-academic-emotions-sometimes-improve-learning.md) — reports the opposite
 - [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](pbl-game-self-evaluation-presentation-anxiety.md) — related
+- [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related

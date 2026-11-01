@@ -41,7 +41,9 @@ The article describes the jigsaw technique as a cooperative learning procedure i
 - 
 
 ## Related Designs
+
 - Cooperative Learning
+- [Jigsaw technique as a two-group cooperative learning structure with expert teaching roles](jigsaw-two-group-expert-structure.md)
 
 ## Examples
 -

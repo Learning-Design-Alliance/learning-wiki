@@ -47,3 +47,4 @@ Sidak post hoc analysis of mean performance scores in the same 85-student quasi-
 ## Related Claims
 - [Undergraduates taught with blended learning significantly outperformed those taught with traditional teaching in an educational technology course](blended-learning-outperformed-traditional-teaching-nigerian-undergraduates.md) — related
 - [Both the Traditional and Reversed algorithm groups significantly outperform a single-tone Control group in soundscape recognition accuracy, without differing from each other](traditional-and-reversed-outperform-control-accuracy.md) — related
+- [Active training improved problem-solving performance, while traditional and heuristic methods did not differ from each other](active-training-best-for-problem-solving.md) — related

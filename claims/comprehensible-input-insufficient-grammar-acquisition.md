@@ -106,3 +106,4 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — related
 - [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](meaning-focused-only-no-accuracy-gain.md) — a narrower finding that bears on this claim
 - [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — a narrower finding that bears on this claim
+- [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — related

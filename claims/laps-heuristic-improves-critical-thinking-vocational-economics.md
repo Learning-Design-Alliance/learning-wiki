@@ -52,3 +52,4 @@ Quasi-experiment with class X APK students at SMK Negeri 1 Ngawi: 32 experimenta
 - [A debate model in yellow book learning can increase students' critical thinking skills relative to conventional learning models](debate-model-increases-critical-thinking-yellow-book.md) — a broader claim this one bears on
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — a broader claim this one bears on
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Students taught Elementary Algebra with e-books showed significantly higher mathematical critical thinking gains than students taught with conventional textbooks](ebooks-higher-critical-thinking-gain-than-textbooks.md) — related

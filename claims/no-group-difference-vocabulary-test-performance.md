@@ -46,3 +46,4 @@ Linear mixed-effects model on vocabulary test scores (percentage correct, weight
 
 ## Related Claims
 - [Students who received study reminders did not study more frequently overall than control students who never received reminders](reminder-group-no-overall-study-increase.md) — related
+- [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related

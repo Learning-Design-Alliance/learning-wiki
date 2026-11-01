@@ -51,3 +51,4 @@ Analysis of post-activity drawings from the 33-teacher between-subjects study, c
 - [An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions](indian-accent-agent-integrated-as-trusted-peer.md) — related
 - [Agent accent condition showed no statistically significant differences in teachers' ratings of the agent's proficiency, etiquette, or personality](no-significant-accent-differences-casux-subscales.md) — related
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
+- [Students' fossil drawings overwhelmingly focused on the animal category, with a marked preference for dinosaurs](fossil-drawings-focus-on-animals-dinosaurs.md) — related

@@ -26,7 +26,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 12 mixed, 6 against) · 44 studies (17 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 44 report an effect size · 25 claims rest on one study
+> **Evidence** · 35 claims (16 for, 12 mixed, 7 against) · 45 studies (18 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 45 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](../claims/drawing-beats-text-loses-to-premade-visuals.md) [+W]
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](../claims/visualizing-support-facilitates-explaining.md) [+W]
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](../claims/two-model-answers-improve-comprehension-delayed-diagramming.md) [+W]
+- [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](../claims/instructors-prefer-less-effective-draw-framing.md) [-W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)
@@ -174,6 +175,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Prompt students to sketch a drawing of the system while reading an expository science text](../strategies/sketching-during-reading-strategy.md)
 - [Scaffold cross-representational integration by sequencing discussion of pictures with concepts from the text before ordering them](../strategies/scaffold-text-visual-integration-sequencing.md)
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
+- [Complementary interdisciplinary lesson pairing in which biology explains PE processes and PE visualises biology content](../designs/complementary-biology-pe-lesson-pairing.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

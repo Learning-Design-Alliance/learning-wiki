@@ -55,7 +55,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Undergraduate physics students react highly positively to the IF-AT format](../claims/students-highly-positive-reaction-to-if-at.md) [+W]
-- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
+- [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 
 ## The evidence by question

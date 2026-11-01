@@ -57,3 +57,4 @@ Analysis of the gender-comparison bar chart (Fig. 7); the article states "Studen
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related

@@ -52,3 +52,4 @@ An opinion essay citing the Dunns' view that working individually may be a recom
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
+- [Prior research cited by the article reports teacher and student support for cooperative learning in mathematics, with benefits that may take time to appear](prior-research-favours-cooperative-math-learning.md) — related

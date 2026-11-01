@@ -67,3 +67,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](fractions-tutor-significant-learning-gains.md) — related
 - [Delayed-posttest retention scores did not significantly differ by digital storytelling, though experimental-group means were higher](digital-storytelling-math-delayed-posttest-no-significant-difference.md) — related
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-retention-efl.md) — related
+- [Delayed test five weeks after treatment showed no significant retention difference between SMS and paper groups](sms-vocabulary-delayed-test-no-difference.md) — related

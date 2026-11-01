@@ -51,6 +51,7 @@ The article's practical implications recommend that vocational instructors adopt
 ## Related Strategies
 
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Use video feedback alongside augmented feedback to support self-efficacy when learning a new psychomotor competency skill](video-feedback-plus-augmented-feedback-strategy.md)
 
 ## Examples
 -

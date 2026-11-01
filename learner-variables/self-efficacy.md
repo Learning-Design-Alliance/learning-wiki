@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (153 show a difference, 28 mixed, 23 no difference) · 165 studies (58 associational, 35 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 165 report an effect size · 200 claims rest on one study
+> **Evidence** · 211 claims (158 show a difference, 30 mixed, 23 no difference) · 168 studies (58 associational, 38 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 33 of 168 report an effect size · 207 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -235,6 +235,13 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](../claims/interaction-learning-kam-self-confidence.md) [+M] — instruction changes it
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](../claims/false-sense-of-mathematics-self-efficacy-social-comparison.md) [+W] — learners who differ on it differ in outcomes
 - [TDTS teachers reported using more practical work, discussion and thinking time, but little difference in confidence and no more literacy–numeracy linking](../claims/tdts-teacher-practice-changes-survey.md) [-M] — instruction changes it
+- [BEST in CLASS raised teacher self-efficacy on all four TEBS subscales, with the Maintaining Positive Classroom Climate effect larger for teachers with lower pretest self-efficacy](../claims/best-in-class-raised-tebs-self-efficacy.md) [+M] — instruction changes it
+- [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](../claims/ttw-classroom-observation-enthusiasm-confidence.md) [+W] — instruction changes it
+- [Group self-efficacy means increased across all five questionnaire trials, from a baseline mean of 6.14 to 9.51 post-intervention](../claims/group-self-efficacy-increased-across-five-trials.md) [+M] — instruction changes it
+- [Individual students' self-efficacy values did not all increase across trials, with some dropping after the first real-time assessment](../claims/individual-self-efficacy-values-not-uniform-increase.md) [~M] — instruction changes it
+- [Students' mathematical representation ability differs by self-efficacy level, with high self-efficacy students scoring highest](../claims/self-efficacy-level-differentiates-mathematical-representation.md) [+M] — learners who differ on it differ in outcomes
+- [The think-talk-write advantage over expository teaching holds at every self-efficacy level and is largest among low self-efficacy students](../claims/ttw-advantage-at-every-self-efficacy-level.md) [+M] — an instructional effect differs with it
+- [Learning strategy and self-efficacy interact in their effect on mathematical representation ability](../claims/strategy-self-efficacy-interaction-mathematical-representation.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 

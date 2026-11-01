@@ -57,3 +57,4 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [Students taught with ICT obtained higher mean Economics Achievement Test scores than control students](ict-higher-mean-scores-than-control-economics.md) — related
 - [Percentage scores on all eight tested communicative skills were higher after the Interactive Multimedia Package than after conventional method](skill-wise-percentage-gains-multimedia-package.md) — related
 - [Pre-service teachers who learned ICT spreadsheets via a Semantic Web based learning environment achieved significantly higher post-test scores than those receiving traditional teaching](swbl-higher-ict-achievement-than-traditional-teaching.md) — related
+- [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related

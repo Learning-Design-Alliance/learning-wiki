@@ -47,6 +47,7 @@ The review recommends that instructional videos for programming courses be brief
 - [Deploy AI-generated videos for simple, supplemental, and visual content without displacing instructor presence](deploy-ai-videos-supplemental-simple-visual.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
+- [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 
 ## Examples
 -

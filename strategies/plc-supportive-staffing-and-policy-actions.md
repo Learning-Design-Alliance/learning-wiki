@@ -40,6 +40,7 @@ The report recommends policy changes so that schools support teacher teamwork ra
 
 - [Professional Learning Communities](professional-learning-communities.md)
 - [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
+- [Shift from one-day fragmented workshops to collaborative, extended, content-focused professional development](collaborative-extended-professional-development-shift.md)
 
 ## Examples
 -

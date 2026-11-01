@@ -47,3 +47,4 @@ Between-groups comparison in a posttest-only two-group quasi-experiment with 50 
 ## Related Claims
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](whatsapp-mms-group-significant-within-gains.md) — related
 - [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related

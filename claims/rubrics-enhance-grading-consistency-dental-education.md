@@ -58,3 +58,4 @@ Narrative synthesis of the review's 23 included studies on validity and reliabil
 - [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — reports the opposite
 - [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](videotaped-osce-rater-reliability.md) — related
 - [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — related
+- [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related

@@ -46,3 +46,4 @@ The review reports, citing Gardner et al. (2021), that "digital graphing environ
 
 ## Related Claims
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — a broader claim this one bears on
+- [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](instructors-prefer-less-effective-draw-framing.md) — related

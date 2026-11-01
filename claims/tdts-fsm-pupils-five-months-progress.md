@@ -60,3 +60,6 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [TDTS improved Year 5 pupils' science attainment by around three additional months' progress (effect size +0.22) in a clustered RCT](tdts-improves-primary-science-attainment-three-months.md) — related
 - [TDTS pupils reported more positive attitudes towards science, science lessons and practical work than comparison pupils](tdts-positive-attitudes-to-science.md) — related
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
+- [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — related
+- [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — reports the opposite
+- [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related

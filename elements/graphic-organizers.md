@@ -19,7 +19,7 @@ sources:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (5 causal, 2 quant-synthesis), `q1`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 8 studies (6 causal, 2 quant-synthesis), `q1`–`q4` · 5 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
@@ -37,6 +37,8 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Story Mapping Improves Comprehension](../claims/story-mapping-improves-comprehension.md) [+M]
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 - [The Herringbone technique is more effective than the Tri Focus Steve Snyder technique for teaching reading comprehension to ninth-grade EFL students](../claims/ht-more-effective-than-tfsst-reading-comprehension.md) [+W] — attached 2026-11-01 from Rosyida et al. (2018), which proposed "Herringbone technique (HT): a fish-skeleton graphic organizer built from six WH questions".
+- [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](../claims/story-mapping-improves-short-story-writing-posttest.md) [+M] — attached 2026-11-01 from Salem Saleh Khalaf Ibnian (2010), which proposed "Story-mapping technique as a graphic organizer for EFL short story writing"; tests this page's relationship.
+- [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](../claims/story-mapping-pretest-posttest-gain.md) [+M] — attached 2026-11-01 from Salem Saleh Khalaf Ibnian (2010), which proposed "Story-mapping technique as a graphic organizer for EFL short story writing"; tests this page's relationship.
 
 ## The evidence by question
 - *Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]

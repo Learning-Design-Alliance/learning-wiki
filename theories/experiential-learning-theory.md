@@ -72,6 +72,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Prompt Literacy Cycle: a five-stage recursive structure for daily prompting practice](../designs/prompt-literacy-cycle.md)
 - [Integrate MLM education longitudinally with experiential learning and robust program evaluation](../strategies/mlm-longitudinal-experiential-integration-strategy.md)
 - [Design lessons around all four ELT stages and ask application-oriented reflection questions](../strategies/elt-four-stage-lesson-design-strategy.md)
+- [QASEE learning model (Questioning, Answering, Sharing, Extending, Evaluating)](../designs/qasee-learning-model.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

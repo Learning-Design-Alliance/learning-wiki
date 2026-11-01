@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (56 show a difference, 19 mixed, 15 no difference) · 59 studies (20 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 59 report an effect size · 89 claims rest on one study
+> **Evidence** · 97 claims (61 show a difference, 20 mixed, 16 no difference) · 62 studies (22 causal, 16 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 15 of 62 report an effect size · 96 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -130,6 +130,13 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](../claims/pretest-orf-moderates-cct-comprehension-effects.md) [+M] — an instructional effect differs with it
 - [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](../claims/cct-no-posttest-orf-effect.md) [-M] — instruction changes it
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
+- [A meta-analysis of 18 repeated reading studies found moderate mean fluency gains and smaller comprehension gains, with adult implementation, speed cueing, and three to four readings as effective components](../claims/therrien-meta-analysis-repeated-reading-components.md) [+M] — instruction changes it
+- [Both RT and regular remedial instruction significantly improved underachievers' oral reading fluency over 15 weeks](../claims/both-remedial-forms-improved-oral-fluency.md) [+M] — instruction changes it
+- [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](../claims/power-law-four-rereadings-limit.md) [+W] — instruction changes it
+- [The relationship between reading fluency and comprehension was inconsistent among struggling adolescent readers in both groups](../claims/inconsistent-fluency-comprehension-relationship.md) [~M] — learners who differ on it differ in outcomes
+- [Underachieving college English students taught with Readers' Theater remedial instruction achieved significantly higher oral reading fluency than control-group peers after 15 weeks](../claims/rt-remedial-oral-fluency-greater-than-control.md) [+M] — instruction changes it
+- [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](../claims/weekly-within-passage-fluency-increases.md) [+M] — instruction changes it
+- [In Gilbert et al. (2013), an intensified one-on-one Tier 3 intervention produced negative effects for grade 1 inadequate responders compared with inadequate responders continuing Tier 2](../claims/gilbert-2013-intensified-tier3-negative-effects.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

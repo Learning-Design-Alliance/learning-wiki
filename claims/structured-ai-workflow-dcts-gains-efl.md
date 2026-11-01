@@ -76,3 +76,4 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 - [In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test](science-educators-mean-ai-literacy-16-7-of-30.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — related
+- [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related

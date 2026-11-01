@@ -42,6 +42,7 @@ Before students engage in while-noticing tasks, the teacher trains them by clear
 
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](post-noticing-reflection-guides.md)
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
+- [Emphasize the pre-writing stage and teach writing as a process in EFL composition](emphasize-prewriting-stage-process-writing-efl.md)
 
 ## Examples
 -

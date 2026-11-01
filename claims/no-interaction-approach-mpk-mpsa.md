@@ -51,3 +51,7 @@ Two-way ANOVA on enhancement of MPSA by MPK category (Table 3): interaction F = 
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](prior-knowledge-moderates-algebra-outcomes.md) — related
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](prior-competence-by-attention-interaction-math-gains.md) — reports the opposite
+- [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — related
+- [Metacognitive teaching-learning produced higher MLTA post-test scores and N-gain than conventional teaching among medium-MPK students, but not among low-MPK students or the total sample](mtl-better-mlta-medium-mpk-only.md) — related
+- [There is an interaction between learning approach and MPK on SRL but no interaction on MLTA](interaction-approach-mpk-srl-not-mlta.md) — related
+- [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](qasee-equalizes-critical-thinking-across-ability-levels.md) — related

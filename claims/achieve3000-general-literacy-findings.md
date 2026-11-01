@@ -53,3 +53,4 @@ WWC review of two studies including 32,110 students: Borman et al.'s quasi-exper
 - [READ 180® has potentially positive effects on reading fluency for adolescent readers](read-180-potentially-positive-reading-fluency.md) — related
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
 - [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related
+- [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related

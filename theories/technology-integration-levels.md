@@ -67,8 +67,10 @@ The shared claim across all three models is that low-value technology integratio
 - [TPACK](tpack.md) — TPACK informs which technology, pedagogy, and content combination to choose; SAMR/RAT/PIC-RAT then evaluates the effect of that choice
 
 ## Examples
+
 - A history teacher moving class notes from a chalkboard to a PowerPoint slide — Passive-Replace on the PIC-RAT grid
 - Students producing and publishing a collaborative creative-writing blog that solicits peer, parent, and public feedback — Creative-Transform on the PIC-RAT grid
+- [Substitute paper-based course-book activities with smartphone versions while keeping tasks identical](../strategies/smartphone-substitution-of-coursebook-activities.md)
 
 ## Key Sources
 - Kimmons, R. (2018). K-12 technology frameworks. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/k12_tech_frameworks](https://edtechbooks.org/lidtfoundations/k12_tech_frameworks)

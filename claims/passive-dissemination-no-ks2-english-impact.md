@@ -69,3 +69,4 @@ Descriptive check of raw unadjusted means from the NPD 2015/2016 KS2 dataset pri
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
+- [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related

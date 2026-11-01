@@ -197,3 +197,5 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Prior research indicates argumentative scripts improve argumentation skill development but not participation and interactivity](argumentative-scripts-improve-skills-not-participation.md) — related
 - [Formative reflection led to dropping the group reciprocal-teaching stage from the EDI structure](edi-group-reciprocal-teaching-dropped.md) — related
 - [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](fiction-insertion-shifts-chemistry-discourse.md) — a narrower finding that bears on this claim
+- [In ABSI-taught lessons, student turn-taking frequency is high (71%) while in conventionally taught lessons it is low (14%), with the teacher dominant in the control group](absi-raises-student-dialogue-share.md) — a narrower finding that bears on this claim
+- [The authors conclude ABSI is one of the practices aiming to increase students' success and motivate participation in in-class dialogues](absi-conclusion-success-practice.md) — related

@@ -64,3 +64,5 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Interviewed POED students reported the two-tier test fostered deep learning, self-checking, and reflection on misconceptions](poed-interviews-deep-learning-reflection.md) — related
 - [Preservice teachers must critically reflect on both the potential and limitations of technology in education, with research tasks and digital identity emerging as reflective strategies](reflective-practice-digital-identity-preservice-teachers.md) — related
 - [Experimental-group students reported no difficulty, full participation, and self-confidence when performing experiments in the VCL](eg-students-no-difficulty-full-participation-vcl.md) — related
+- [Test-group students showed high motivation and interest toward the interdisciplinary project in qualitative interviews](idt-test-group-motivation-interest-interviews.md) — related
+- [Qualitative data indicated the Razalas' Method of grouping developed self-confidence, encouraged effective communication and facilitated exchange of ideas toward a common goal](razalas-grouping-qualitative-benefits.md) — related

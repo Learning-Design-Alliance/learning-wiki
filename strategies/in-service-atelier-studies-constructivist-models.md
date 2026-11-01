@@ -47,6 +47,7 @@ The article recommends professional development as a response to its finding tha
 
 - [Use in-service training to raise teacher awareness of lingering teacher-centered styles](in-service-training-teacher-centered-awareness.md)
 - [Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.](strategy-constructivist-approach-recommendations.md)
+- [Replace conventional lecture learning with constructivist models in teacher education to raise and equalize critical thinking](replace-conventional-learning-constructivist-models-teacher-education.md)
 
 ## Examples
 -

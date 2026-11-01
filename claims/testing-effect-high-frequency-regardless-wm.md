@@ -54,3 +54,4 @@ Follow-up regression for HF associations in the 30-participant experiment; the t
 - [The testing effect is moderated by a three-way interaction between retrieval condition, stimulus frequency, and working memory capacity](three-way-interaction-wm-frequency-testing-effect.md) — related
 - [Retrieval practice is costly and benefits learning only when working memory capacity is abundant, as stated in the corrected article's title](retrieval-practice-costly-benefits-only-abundant-wm.md) — reports the opposite
 - [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](wmc-stimulus-frequency-interaction-testing-effect.md) — a broader claim this one bears on
+- [Practice format effects depend on working memory: conceptual practice favors very low working memory students while fluency practice favors students with more adequate working memory](practice-format-working-memory-moderator.md) — related

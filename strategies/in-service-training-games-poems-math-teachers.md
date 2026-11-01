@@ -49,6 +49,7 @@ The article recommends that government bodies and the National Mathematical Cent
 - [Adopt active-participation strategies such as CRAIS for mathematics teaching and train teachers through seminars and workshops](adopt-crais-via-teacher-training-seminars-workshops.md)
 - [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
+- [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
 
 ## Examples
 -

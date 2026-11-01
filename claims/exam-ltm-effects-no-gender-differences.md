@@ -54,3 +54,4 @@ Two-way ANOVA (control type CTRw/CTRs × gender M/F) on Memory Index showed only
 - [Gender and baseline performance show no significant main effects or interactions with time on long-term training aftereffects, though descriptively the sustainability of effects was higher in the male group](gender-baseline-no-significant-moderation.md) — related
 - [A classroom exam bidirectionally modulates 24-h retention of an unrelated graphical task depending on when it occurs relative to learning](exams-bidirectionally-modulate-unrelated-ltm.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — related
+- [Verbal ability and gender each showed significant main effects on attitude to reading](verbal-ability-gender-effects-attitude-reading.md) — related

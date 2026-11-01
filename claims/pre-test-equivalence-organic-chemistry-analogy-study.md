@@ -56,3 +56,6 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
 - [Before treatment, demonstration-method and conventional-approach students show no significant difference in financial accounting achievement](no-pretest-difference-demonstration-conventional-financial-accounting.md) — related
+- [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — possibly the same claim (merge candidate)
+- [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
+- [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related

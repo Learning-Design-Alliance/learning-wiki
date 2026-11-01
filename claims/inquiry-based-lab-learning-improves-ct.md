@@ -57,3 +57,4 @@ Narrative review section on biological sciences and CT, reporting (citing [36]) 
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — related
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — a broader claim this one bears on
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
+- [The article attributes the recycle-materials advantage to problem-solving challenge, motivation, and creativity, and notes control-class students without worksheets scored lower](recycle-practicum-attributed-mechanisms.md) — related

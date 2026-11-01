@@ -51,3 +51,4 @@ Dependent-groups t-test on CCT-X scores of the 28-student experimental group in 
 - [No significant overall change in CCT-X scores from pre-test to post-test regardless of group](measurement-main-effect-not-significant.md) — reports the opposite
 - [Group main effect: concept cartoon teaching explained 18% of variance in critical thinking scores between groups](group-main-effect-18-percent-variance.md) — related
 - [Concept cartoon© teaching produced a statistically significant posttest score advantage over traditional teaching in fourth-grade science](concept-cartoons-posttest-advantage-quasi-experiment.md) — related
+- [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related

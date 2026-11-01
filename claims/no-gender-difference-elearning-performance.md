@@ -58,3 +58,6 @@ ANCOVA on the e-learning group (n = 30 per Table 2) with pretest as covariate; t
 - [No statistically significant gender difference in achievement among ninth graders taught with practical presentations](no-gender-difference-practical-presentations-achievement.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
+- [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
+- [No statistically significant gender difference in eighth graders' conceptual understanding of electric circuits](no-gender-difference-electric-circuits-understanding.md) — a narrower finding that bears on this claim
+- [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related

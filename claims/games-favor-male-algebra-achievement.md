@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: okpube-nnaemeka-michael-2016
     resource: "http://iaesjournal.com/online/index.php/IJERE"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among students in the study, the gender effect was significant (F = 80.374, p < 0.05), with males (adjusted mean 79.44) outperforming females (adjusted mean 64.95). [→ Okpube Nnaemeka Michael 2016](#okpube-nnaemeka-michael-2016)
@@ -56,3 +57,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — reports the opposite
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — reports the opposite
 - [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](no-gender-differences-game-based-nutrition.md) — related
+- [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related

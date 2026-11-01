@@ -50,6 +50,7 @@ The article recommends that IT curricula move away from passive software navigat
 
 - [Provide systematic educator training on playlist content, activity implementation practices, technology troubleshooting, and content modification for age groups](systematic-educator-training-for-playlist-implementation.md)
 - [Replace passive lectures with active learning models such as ZeroSicks or Attitude to Work.](adopt-active-learning-models-zerosicks-attitude-to-work.md)
+- [Improve security training efficacy through more hands-on, repeated, and systematically exposed training rather than one-off awareness videos](repeated-hands-on-security-training-strategy.md)
 
 ## Examples
 -

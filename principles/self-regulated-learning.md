@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 175 claims (74 for, 90 mixed, 11 against) · 117 studies (38 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 117 report an effect size · 164 claims rest on one study
+> **Evidence** · 177 claims (74 for, 92 mixed, 11 against) · 118 studies (39 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 118 report an effect size · 166 claims rest on one study
 
 ## Conditional relationship
 
@@ -267,6 +267,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+W]
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](../claims/srl-clinical-strategies-diverse-multifactor.md) [~W]
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W]
+- [Overall, there was no significant difference in MLTA post-test achievement between the metacognitive and conventional classes](../claims/no-overall-mlta-difference-mtl-conventional.md) [~W]
+- [There is an interaction between learning approach and MPK on SRL but no interaction on MLTA](../claims/interaction-approach-mpk-srl-not-mlta.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

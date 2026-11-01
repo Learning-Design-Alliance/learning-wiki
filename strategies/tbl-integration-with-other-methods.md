@@ -54,6 +54,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
 - [Combine CBL and PBL approaches in clinical teaching settings to target both theory and practical outcomes](combine-cbl-pbl-clinical-teaching.md)
 - [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
+- [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Developmental evaluation of PKTP's first full year (2016-17) across 18 classroom
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related
 - [Teachers participating in learning studies develop an increased ability to discern critical features of a learning object and shift from general to content-specific ways of offering the object of learning](teachers-learning-study-critical-features-shift.md) — related
+- [PLC was implemented in different ways and with different levels of understanding across schools, and was judged not ready for a large-scale trial](plc-varied-implementation-not-ready-for-full-trial.md) — related

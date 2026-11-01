@@ -49,3 +49,4 @@ Pre/post comparison within each group of the 44-school RCT: Table 5 reports mean
 - [A larger share of the textbook (CM) group achieved 79% or more curriculum coverage than the workbook (PM) group](cm-group-higher-coverage-rate.md) — related
 - [Under the study's costing assumptions, the PM workbook materials are more expensive per learner per year than the CM textbook and teacher guide](pm-workbook-higher-annual-unit-cost.md) — related
 - [Gain scores by curriculum coverage diverge by material: CM learners covering 79% or more gained more, while below 79% PM learners gained more, though the latter difference is not significant](coverage-gain-divergence-by-material.md) — related
+- [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related

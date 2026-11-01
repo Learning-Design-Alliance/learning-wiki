@@ -191,6 +191,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Combine movement specifically with conditional letter-sounds for children who already master standard sounds](../strategies/combine-movement-with-conditional-letter-sounds.md)
 - [Use flashcards and letter-sound correspondence teaching to support early word reading](../strategies/flashcards-letter-sound-correspondence-strategy.md)
 - [Developing Comprehension in Students (DCCS)](../products/developing-comprehension-in-students-dccs.md)
+- [Fresh Start phonics catch-up literacy programme](../products/fresh-start-phonics-catch-up-literacy-programme.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]

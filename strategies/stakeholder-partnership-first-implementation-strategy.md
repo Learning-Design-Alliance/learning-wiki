@@ -51,6 +51,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Use university–district research partnerships to build district evaluation capacity and train practitioner-scholars](university-district-partnership-practitioner-scholar-strategy.md)
 - [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
 - [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
+- [Use structured argumentation activities to help teachers new to argumentation start and sustain argumentation in science courses](argumentation-activities-for-teachers-new-to-argumentation.md)
 
 ## Examples
 -

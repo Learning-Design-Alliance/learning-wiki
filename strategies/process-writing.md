@@ -84,6 +84,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - Strategy instruction in specific genres — supplies the content of mini-lessons
 - Conferencing and writing conferences — individualized coaching within the cycle
 - [For children, keep editing separate from composing: revise during writing, edit grammar after content is complete](separate-composing-from-editing.md)
+- [Emphasize the pre-writing stage and teach writing as a process in EFL composition](emphasize-prewriting-stage-process-writing-efl.md)
 
 ## Examples
 - **National Writing Project** (https://www.nwp.org) — teacher networks built around writers' workshop and process approaches across K–16.

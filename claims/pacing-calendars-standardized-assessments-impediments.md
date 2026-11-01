@@ -56,3 +56,4 @@ From interviews with the study's 10 teachers about district-level supports and c
 - [Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints](competency-progression-limited-grade-level-emphasis.md) — related
 - [Distributed blueprints with differing district pacing guides risk testing students on content they had no opportunity to learn](distributed-blueprint-otl-pacing-guide-challenge.md) — related
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — related
+- [Educators tend to perceive meaningful effects of the developers' curricula on student outcomes, but standardized measures tend not to reflect the same level of impact as proximal assessments](proximal-vs-standardized-measure-perceptions.md) — related

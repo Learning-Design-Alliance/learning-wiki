@@ -48,3 +48,5 @@ Spearman correlations of teacher ratings (overall school performance and learnin
 - [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](prompt-count-predicts-math-reading.md) — related
 - [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](da-more-accurate-than-static-tests-young-children.md) — a broader claim this one bears on
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
+- [Potential giftedness, measured by teacher and parent nomination scores, enhances the effect of dynamic assessment on math achievement](potential-giftedness-enhances-dynamic-assessment-effect.md) — related
+- [Exposure to dynamic assessment and potential giftedness scores each correlate significantly with posttest math scores](da-and-giftedness-correlate-with-posttest-math.md) — related

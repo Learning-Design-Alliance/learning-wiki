@@ -50,3 +50,5 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](pt-osce-sp-kappa-agreement-high.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
+- [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
+- [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related

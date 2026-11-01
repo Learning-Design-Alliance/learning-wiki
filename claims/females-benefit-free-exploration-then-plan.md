@@ -75,3 +75,4 @@ Descriptive result from Table 1 (female formatted-to-unformatted group: posttest
 - [Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests](formatted-problem-solving-plan-posttest-advantage.md) — related
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related
 - [Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school](gender-gap-word-problems-increases-with-age.md) — related
+- [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related

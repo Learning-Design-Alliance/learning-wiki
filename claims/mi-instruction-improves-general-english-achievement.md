@@ -51,3 +51,4 @@ Quasi-experimental two-group pretest-posttest study of 61 university students (3
 - [MI-based instruction significantly improved the vocabulary sub-skill of General English relative to traditional instruction](mi-instruction-improves-vocabulary-subskill.md) — a narrower finding that bears on this claim
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
 - [Multiple-intelligences-based science instruction produced significantly higher post-test achievement than traditional instruction in a quasi-experiment with fifth graders](mi-instruction-higher-science-achievement-quasi-experiment.md) — related
+- [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related

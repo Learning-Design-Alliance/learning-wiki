@@ -51,3 +51,4 @@ Qualitative conclusion from the curriculum design studies conducted in ABE class
 - No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
+- [A meta-analysis of 18 repeated reading studies found moderate mean fluency gains and smaller comprehension gains, with adult implementation, speed cueing, and three to four readings as effective components](therrien-meta-analysis-repeated-reading-components.md) — related

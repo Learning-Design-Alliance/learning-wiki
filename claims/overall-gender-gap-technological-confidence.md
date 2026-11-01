@@ -82,3 +82,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — a narrower finding that bears on this claim
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — related
+- [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related

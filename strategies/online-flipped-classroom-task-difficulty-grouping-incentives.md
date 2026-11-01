@@ -45,6 +45,7 @@ For online flipped teaching during COVID-19, the article recommends four practic
 ## Related Strategies
 
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
+- [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 
 ## Examples
 -

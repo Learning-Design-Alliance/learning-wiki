@@ -50,3 +50,6 @@ Reliability analysis of the two questionnaires (mathematics confidence and compu
 - [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
+- [The Microsoft Mathematics group outperformed the control group on the Calculus post test](microsoft-mathematics-higher-post-test-calculus.md) — related
+- [Students taught with Microsoft Mathematics reported more positive mathematics-confidence attitudes than controls](microsoft-mathematics-positive-math-confidence-attitudes.md) — related
+- [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related

@@ -56,3 +56,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [No statistically significant group-by-gender interaction on science achievement](tps-no-group-gender-interaction.md) — related
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
+- [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related

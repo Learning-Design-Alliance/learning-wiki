@@ -75,3 +75,4 @@ Cost accounting in Sect. 3.2 compares the token cost with 16 TAs × 5 h × $44/h
 - LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs — related
 - [Machine-learning-supported grading with complete manual review of all classifier output reduced total exam grading time by 74% (or 64% under a conservative estimate) compared with fully manual grading](ml-supported-grading-cuts-exam-workload-64-74-percent.md) — related
 - [When the secure electronic process worked to its full potential, examination paper transmission took approximately 4 hours with no additional cost, versus 6-8 days and £7.30 in the traditional process](secure-electronic-transmission-faster-cheaper.md) — related
+- [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related

@@ -63,3 +63,4 @@ Repeated-measures study of N = 360 lower-secondary students in chemistry lessons
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related
 - [Lower secondary students' situation-specific engagement varies most strongly between lessons within students, with smaller between-student variation](engagement-varies-most-between-lessons-within-students.md) — related
+- [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related

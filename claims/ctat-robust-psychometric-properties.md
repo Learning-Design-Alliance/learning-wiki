@@ -82,3 +82,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](abbreviated-ctt-reliability-primary-school.md) — related
+- [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
