@@ -55,3 +55,4 @@ Moderator analysis of practice test format (Table 2): free-recall g = 0.62, cued
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — reports the opposite
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — reports the opposite
+- [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related

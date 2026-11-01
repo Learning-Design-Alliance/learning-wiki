@@ -52,3 +52,4 @@ Multinomial logistic regression covariate analyses within the LPA for the Englis
 - [Demographic covariates were significantly associated with latent class membership](covariates-associated-latent-class-membership.md) — related
 - [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](engagement-profiles-language-skills.md) — related
 - [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
+- [High parent program participation was predicted by advantaged baseline characteristics: older, more educated, married, working parents with higher-skill children](parent-participation-selection-advantage-baseline.md) — related

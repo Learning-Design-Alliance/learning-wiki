@@ -54,3 +54,4 @@ The article's second study, on the same economic principle, compared two sets of
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — a narrower finding that bears on this claim
 - [The effect of Tekster does not depend on students' initial writing proficiency](tekster-effect-independent-of-writing-proficiency.md) — a narrower finding that bears on this claim
 - [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](cfls-optimal-bf-vary-by-aptitude.md) — a narrower finding that bears on this claim
+- [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related

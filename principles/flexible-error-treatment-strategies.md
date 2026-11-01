@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (18 for, 20 mixed, 1 against) · 29 studies (12 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 29 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 30 studies (13 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 30 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 - [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](../claims/meaning-focused-only-no-accuracy-gain.md) [+W] — attached 2026-11-01 from Farahman Farrokhi (2012), which proposed "Embed corrective feedback within communicative activities rather than relying on meaning-focused participation alone".
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](../claims/wcf-alone-insufficient-need-metalinguistic-explanation.md) [+W] — attached 2026-11-01 from Ahmed Ali Saleh Al Ajmi (2015), which proposed "Provide direct, focused written corrective feedback supported by metalinguistic explanation when targeting specific linguistic error categories".
+- [Explicit correction was more effective than implicit or-choice feedback for beginner Iranian EFL learners' production of English tense markers](../claims/explicit-correction-outperforms-or-choice-tense-markers.md) [+W] — attached 2026-11-01 from Somayeh Kazemi Tari (2008), which proposed "Ten-session communicative treatment with immediate oral corrective feedback on target tense markers"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -174,13 +175,14 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 - [Teach language as living and developing, not as a set of dogmatic precepts](../theories/teach-language-as-living-and-developing.md)
 
 ## Examples
--
+
 - [Process Writing (Journals)](../strategies/process-writing-journals.md)
 - [Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models](../strategies/explicit-pragmatic-instruction-authentic-models-strategy.md)
 - [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
 - [Pre-teach target language forms deductively before journal entries incorporate them](../strategies/pre-teach-forms-before-journal-entries.md)
 - [Use sample journal entries to inductively highlight target language elements](../strategies/sample-journal-entries-inductive-focus-on-form.md)
 - [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](../strategies/student-initiated-correction-questions.md)
+- [Use explicit correction rather than or-choice feedback with beginner EFL learners working on tense markers](../strategies/explicit-correction-for-beginner-tense-markers-strategy.md)
 
 ## Key Sources
 - XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching

@@ -52,3 +52,4 @@ Correlational analysis of the survey data from 210 EFL learners (Table 4) found 
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related
+- [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related

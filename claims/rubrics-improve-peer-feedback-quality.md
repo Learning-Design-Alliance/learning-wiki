@@ -93,3 +93,5 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](sitthiworachart-peer-ratings-objective-judgements.md) — related
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
 - [Students perceived the content checklist as a helpful instructional intervention for formulating peer feedback](content-checklist-perceived-helpful.md) — related
+- [Students reported rubric-driven gains in content awareness, paragraph organization, and vocabulary use, but mechanics received the least attention](rubric-category-specific-student-gains.md) — related
+- [Interviewed students reported that rubric use, though initially stressful, helped them appreciate the qualities of good writing](rubric-interviews-appreciation-good-writing.md) — related

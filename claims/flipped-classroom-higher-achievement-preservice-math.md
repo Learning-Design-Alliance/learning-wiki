@@ -56,3 +56,5 @@ Quasi-experimental study with 25 students per group, groups formed by prior achi
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related
+- [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related
+- [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related

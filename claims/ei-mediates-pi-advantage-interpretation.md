@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion of the interpretation-task results fro
 - [Explicit information showed no within-instruction effect: PI+EI equalled PI-EI and PBI+EI equalled PBI-EI on both tasks over time](ei-no-within-instruction-effect.md) — reports the opposite
 - [All four instructional groups (PI and PBI, with and without EI) outperformed the control group on the aural interpretation task at immediate and delayed posttests](pi-pbi-interpretation-outperform-control.md) — related
 - [Prior studies reviewed in this article report PI superior to mechanical output practice for acquisition, especially on interpretation tasks](review-pi-superior-to-output-practice-interpretation.md) — related
+- [The authors interpret their results as showing that explicit metapragmatic instruction provides input enhancement that facilitates interlanguage pragmatic development](input-enhancement-facilitates-pragmatic-development.md) — related

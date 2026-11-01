@@ -17,7 +17,7 @@ sources:
 # Use an exposure-only storybook comparison to isolate the active ingredient of embedded instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues that when testing embedded lessons, a comparison group hearing the same stories with the same words but without lessons is more appropriate than a business-as-usual control. It makes the vocabulary outcome measures fair to the comparison group, because comparison children are exposed to the tested words, and it elucidates "the role of our hypothesized active ingredient (explicit, embedded instruction) in the intervention."

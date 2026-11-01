@@ -74,3 +74,4 @@ Same pre/post design measuring noticing of 15 predefined incidents. The study re
 - [Prospective teachers notice fewer pedagogically significant incidents than current faculty teachers before training](prospective-teachers-notice-fewer-incidents-pretest.md) — related
 - [Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them](double-content-examples-hindered-noticing-reasoning.md) — related
 - [Both experimental and control groups improved their proportional reasoning scores from pretest to posttest](both-groups-pretest-posttest-prt-gains.md) — related
+- [Knowledge scores increased significantly from pretest to immediate posttest in both instruction-order groups](dramatization-pretest-posttest-gain-both-groups.md) — related

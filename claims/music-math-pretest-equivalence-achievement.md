@@ -55,3 +55,4 @@ Independent t-test of pretest achievement in the random-assignment pretest-postt
 - [Before treatment, the experimental and control groups did not differ significantly on idiom pretest scores](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related

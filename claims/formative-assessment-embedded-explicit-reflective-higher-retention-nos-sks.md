@@ -81,3 +81,4 @@ Independent samples t-test on retention-test SKS scores administered after four 
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
 - [Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
+- [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related

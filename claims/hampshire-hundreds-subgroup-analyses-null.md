@@ -64,3 +64,6 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
 - [Improvements in attainment were not significantly moderated by English as an additional language, ethnicity, FSM Ever 6 status, or prior attainment](perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment.md) — related
 - [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — related
+- [Rapid Phonics showed no detectable effect on single word reading and no summer fall-back in word reading](rapid-phonics-no-single-word-reading-effect.md) — related
+- [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related

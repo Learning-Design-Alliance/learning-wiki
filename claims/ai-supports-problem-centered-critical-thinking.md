@@ -80,3 +80,4 @@ Critical-thinking theme: participants wanted AI to challenge them to ask better 
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
 - [Interventions with high or very high significance of critical thinking applied mainly problem-solving methods and involved pupils' activity](problem-solving-high-critical-thinking-significance.md) — related
+- [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](students-obstacles-critical-thinking-number-theory.md) — related

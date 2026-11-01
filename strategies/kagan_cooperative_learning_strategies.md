@@ -63,6 +63,7 @@ Kagan structures operationalize [Active Learning](../principles/active-learning.
 - Numbered Heads Together — adds random-reporter accountability to team consensus
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
+- [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 
 ## Examples
 - **Kagan Publishing & Professional Development** (https://www.kaganonline.com) — the source catalog of structures with training materials.

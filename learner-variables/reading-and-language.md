@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (167 show a difference, 49 mixed, 58 no difference) · 184 studies (55 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 43 of 184 report an effect size · 265 claims rest on one study
+> **Evidence** · 277 claims (169 show a difference, 49 mixed, 59 no difference) · 186 studies (57 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 44 of 186 report an effect size · 268 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -325,6 +325,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [No significant differences between control and either intervention group on secondary outcomes (reading and general ability)](../claims/catch-up-numeracy-secondary-outcomes-null.md) [-M] — instruction changes it
 - [Rhythm for Reading had no statistically significant effect on overall reading ability in a pupil-randomised waitlist RCT with Year 7 pupils below Level 4 in English](../claims/rhythm-for-reading-no-significant-overall-reading-effect.md) [-M] — instruction changes it
 - [Schema-based instruction produced significantly higher vocabulary knowledge than translation-based instruction](../claims/sbi-significantly-higher-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Learning-style based reading activities produce higher reading comprehension achievement than traditional reading activities in EFL freshmen classes](../claims/learning-style-activities-improve-efl-reading-comprehension.md) [+M] — instruction changes it
+- [The REACH reading intervention with language comprehension improved reading skills by the equivalent of about six months of additional progress versus standard provision (ES 0.51).](../claims/reach-lc-six-months-reading-gain.md) [+M] — instruction changes it
+- [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](../claims/traditional-efl-instruction-non-significant-gains.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

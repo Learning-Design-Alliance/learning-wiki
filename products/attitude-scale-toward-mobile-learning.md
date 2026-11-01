@@ -26,7 +26,8 @@ A 45-item, four-factor Likert instrument developed by Demir and Akpınar to meas
 - [Both mobile learning and control groups held high attitudes toward mobile learning with no significant pre-post differences](../claims/mobile-learning-attitudes-high-both-groups-no-change.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
 
 ## Key Sources
 - Kadir DEMIR, Ercan AKPINAR. (2018). The effect of mobile learning applications on students' academic achievement and attitudes toward mobile learning. Malaysian Online Journal of Educational Technology. http://dx.doi.org/10.17220/mojet.2018.04.004

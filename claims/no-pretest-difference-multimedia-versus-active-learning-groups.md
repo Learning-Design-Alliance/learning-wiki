@@ -48,3 +48,4 @@ Pre-test comparison in the randomized pre-test post-test experiment: control mea
 - [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](multimedia-group-significant-pre-post-gain-mathematics.md) — related
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
 - [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
+- [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related

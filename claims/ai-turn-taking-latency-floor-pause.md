@@ -52,3 +52,4 @@ Turn-taking analysis of sessions with at least 8 participant turns from the same
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](teaching-sessions-conclude-within-30-turns.md) — related
+- [Learners rated phrase instruction and shadowing as the most useful fluency-workshop activities, and marking pauses as problematic for short-turn dialogue](learner-ratings-phrase-instruction-shadowing-most-useful.md) — related

@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 93 claims (37 for, 50 mixed, 6 against) · 94 studies (23 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 15 of 94 report an effect size · 87 claims rest on one study
+> **Evidence** · 95 claims (39 for, 50 mixed, 6 against) · 95 studies (24 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 95 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ Claims this page cites that do not change the model above. Each was read against
 - [Conflicts in group problem solving, if well employed, can act as triggers of cognitive changes that help refine the group's solution](../claims/well-employed-conflicts-trigger-cognitive-change.md) [+W] — attached 2026-10-28 from Patricia Azevedo Tedesco (2003), which proposed "Design collaborative environments so that conflicts inherent to group problem solving are mediated rather than suppressed, because well-employed conflicts refine solutions".
 - [Collaborative note-takers also report higher extraneous cognitive load than controls](../claims/collaborative-note-taking-higher-extraneous-load.md) [-W] — attached 2026-10-29 from Jamie Costley (2021), which proposed "Implement collaborative note-taking because germane-load gains outweigh extraneous-load costs".
 - [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](../claims/heterogeneous-groups-greater-achievement.md) [+W] — attached 2026-10-29 from Jeroen Janssen (2020), which proposed "CCLT-based design guidelines for CSCL environments: strengthen the collective working memory effect while minimizing transaction costs".
+- [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](../claims/group-work-higher-integration-performance-ratio.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
+- [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](../claims/group-work-positive-student-perceptions-mathematics.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -68,3 +68,4 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
 - [The intervention had no statistically significant effect on reading scores](srsd-no-significant-reading-effect.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — related

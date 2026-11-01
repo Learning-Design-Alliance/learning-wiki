@@ -63,3 +63,4 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
+- [Adaptive READS teachers were more likely than Traditional READS teachers to report that 'friends' and 'fiddle' learning experiences were more helpful to their implementation than 'focus' activities](adaptive-teachers-prefer-friends-fiddle.md) — related

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 107 claims (44 for, 60 mixed, 3 against) · 83 studies (51 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 83 report an effect size · 98 claims rest on one study
+> **Evidence** · 108 claims (44 for, 60 mixed, 4 against) · 84 studies (52 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 84 report an effect size · 99 claims rest on one study
 
 ## Description and scope
 
@@ -172,6 +172,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 - [The benefit of fine art integration was greatest for Powers and smallest for Perimeter, a topic the authors note is already visual by nature](../claims/art-integration-effect-varies-by-topic-visuality.md) [~W]
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
+- [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]
 
 ## Examples
 

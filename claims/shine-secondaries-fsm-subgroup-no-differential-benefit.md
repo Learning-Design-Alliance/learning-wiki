@@ -66,3 +66,5 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](grammar-for-writing-fsm-subgroup-no-differential-benefit.md) — related
+- [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related

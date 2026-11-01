@@ -75,3 +75,4 @@ ANCOVA of post-test CAT scores by gender with KCPE as covariate, run to compensa
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
+- [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related

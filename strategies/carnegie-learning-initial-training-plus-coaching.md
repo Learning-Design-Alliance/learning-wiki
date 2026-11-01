@@ -45,6 +45,7 @@ Implementation of the curriculum calls for professional development beyond initi
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
+- [Allow lead-in time for schools, provide ongoing TA support beyond initial training, and segment comprehension material into shorter, more varied pieces.](reach-implementation-improvement-strategies.md)
 
 ## Examples
 -

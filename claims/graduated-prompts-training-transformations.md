@@ -47,3 +47,4 @@ Second RM-ANOVA in the same 164-child control-group experiment, with total corre
 ## Related Claims
 - [Training with tablet-delivered graduated prompts increased grade-2 children's series completion accuracy more than control practice](graduated-prompts-tablet-training-accuracy.md) — related
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
+- [Graduated prompts training increases children's measurement behavior on the Seria-Think task more than regular classroom instruction, without significantly reducing insertions](graduated-prompts-training-increases-measurement-behavior.md) — related

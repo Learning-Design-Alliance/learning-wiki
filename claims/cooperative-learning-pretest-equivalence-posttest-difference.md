@@ -50,3 +50,4 @@ Pre/post comparison in the same quasi-experiment (N=20 per group). Table 3 repor
 - [Post-test mathematics self-efficacy scores differed significantly between the experimental and control groups, in favour of the concept-cartoon group](posttest-between-group-advantage-concept-cartoons.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [Pre-test achievement in graph functions did not differ significantly between the experimental and control groups](gsp-pretest-no-significant-difference.md) — possibly the same claim (merge candidate)
+- [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related

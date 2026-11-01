@@ -153,3 +153,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
 - [Evidence on practice effects of VSAQs versus MCQs is mixed, with no consistent advantage for either format](vsaq-practice-effects-mixed-inconclusive.md) — related
 - [Both SRE approaches produced significant but small effects on basic story comprehension measures](sre-basic-comprehension-effects.md) — related
+- [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related

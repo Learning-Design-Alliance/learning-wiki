@@ -53,3 +53,4 @@ Likert-type perception items in the survey of 93 undergraduates, summarized as a
 - [In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md) — related
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
 - [Students rated ChatGPT-generated narrative endings equal to or higher than student-written endings on setting, themes, clarity of language and tone](chatgpt-endings-rated-higher-narrative-elements.md) — related
+- [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](rubrics-liberate-from-grammar-not-authority.md) — related

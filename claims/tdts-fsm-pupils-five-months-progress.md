@@ -70,3 +70,4 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — reports the opposite
 - [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
 - [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — reports the opposite

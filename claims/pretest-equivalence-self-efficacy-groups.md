@@ -48,3 +48,4 @@ Independent samples t-test of pretest scores for the 65 prospective teachers: ex
 - [TPACK-based education applications raise prospective science teachers' self-efficacy belief levels toward science education more than the current curriculum after a 14-week course](tpack-applications-raise-prospective-teacher-science-self-efficacy.md) — related
 - [The self-efficacy advantage of TPACK-based applications persists three months after the course ends](tpack-self-efficacy-gain-persists-three-months.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related

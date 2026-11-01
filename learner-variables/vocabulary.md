@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (93 show a difference, 20 mixed, 18 no difference) · 93 studies (37 causal, 26 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 93 report an effect size · 128 claims rest on one study
+> **Evidence** · 139 claims (98 show a difference, 21 mixed, 20 no difference) · 96 studies (39 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 21 of 96 report an effect size · 136 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -172,6 +172,14 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+M] — instruction changes it
 - [Schema-based instruction produced significantly higher vocabulary knowledge than translation-based instruction](../claims/sbi-significantly-higher-vocabulary-knowledge.md) [+M] — instruction changes it
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](../claims/tmm-call-outperforms-conventional-vocabulary-instruction.md) [+M] — instruction changes it
+- [Head Start impacts on children's PPVT receptive vocabulary scores are larger in communities with lower availability of non-Head Start child care options](../claims/child-care-availability-moderates-head-start-ppvt-impact.md) [+M] — instruction changes it
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](../claims/head-start-impacts-larger-for-dll-and-low-pretest-children.md) [+M] — an instructional effect differs with it
+- [Head Start's impacts on receptive vocabulary are larger in urban than rural communities, while impacts on oral comprehension are larger in rural communities](../claims/urban-rural-moderation-of-head-start-impacts.md) [~M] — instruction changes it
+- [Teacher use of sophisticated vocabulary tokens during EMT sessions was not significantly related to child sophisticated vocabulary use within the session](../claims/teacher-sophisticated-tokens-not-related-child-session.md) [-M] — instruction changes it
+- [Teacher use of target vocabulary words during EMT play sessions is significantly related to child target vocabulary use within the same session](../claims/teacher-target-tokens-related-child-target-tokens-session.md) [+M] — instruction changes it
+- [Teacher use of vocabulary support strategies during EMT play sessions is significantly related to child target word use within the session](../claims/vocabulary-supports-related-child-target-tokens.md) [+M] — instruction changes it
+- [Teacher vocabulary input and supports were not significantly related to end-of-intervention child vocabulary outcomes on language samples or standardized measures](../claims/teacher-input-null-distal-outcomes.md) [-M] — instruction changes it
+- [Teacher vocabulary used in related turns (following the child's lead) is more strongly related to child within-session vocabulary use than vocabulary in any utterance](../claims/related-turns-stronger-vocabulary-relation.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

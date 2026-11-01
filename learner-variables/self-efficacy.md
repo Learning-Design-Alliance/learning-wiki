@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (163 show a difference, 31 mixed, 24 no difference) · 174 studies (58 associational, 43 causal, 31 review, 16 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 33 of 174 report an effect size · 214 claims rest on one study
+> **Evidence** · 219 claims (164 show a difference, 31 mixed, 24 no difference) · 175 studies (58 associational, 44 causal, 31 review, 16 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 175 report an effect size · 215 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -249,6 +249,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Junior high students in both the STAC intervention and wait-list control groups increased knowledge and confidence to intervene in bullying, with no significant group difference, suggesting carry-over effects](../claims/stac-knowledge-confidence-increase-both-groups-carryover.md) [-M] — instruction changes it
 - [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](../claims/parent-academy-parent-confidence-engagement.md) [+M] — instruction changes it
 - [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](../claims/p4c-wider-outcomes-confidence-listening-self-esteem.md) [+M] — instruction changes it
+- [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](../claims/reading-comprehension-self-efficacy-moderate-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

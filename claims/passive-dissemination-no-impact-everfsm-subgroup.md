@@ -65,3 +65,5 @@ Pre-specified subgroup analysis on the primary outcome using a model with everFS
 - [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
 - [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
+- [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related

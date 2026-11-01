@@ -47,3 +47,4 @@ Descriptive analysis of frequencies, percentages, means and standard deviations 
 ## Related Claims
 - [The experimental group showed significantly more positive attitudes towards learning English than the control group on the post-test attitude scale](e-mind-maps-attitude-posttest-advantage.md) — related
 - [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](mi-instruction-improves-attitude-toward-english.md) — related
+- [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](positive-attitude-toward-concept-mapping-likert.md) — related

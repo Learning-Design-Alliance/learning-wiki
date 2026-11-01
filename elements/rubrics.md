@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (15 for, 16 mixed, 4 against) · 32 studies (12 causal, 7 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 36 claims (15 for, 17 mixed, 4 against) · 33 studies (13 causal, 7 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 33 report an effect size · 33 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -65,6 +65,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](../claims/reviewer-training-rubrics-reduce-bias.md) [+W]
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](../claims/rubric-guided-grading-human-agreement.md) [~W]
 - [Year-averaged classroom observation scores provided reliable information to distinguish overall teacher performance (reliabilities .53–.61 and .70–.77), but dimension-level differences had limited reliability (.35–.43 and .18–.30)](../claims/observation-scores-reliable-overall-not-dimension.md) [~W]
+- [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](../claims/rubrics-liberate-from-grammar-not-authority.md) [~W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

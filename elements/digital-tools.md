@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 117 claims (60 for, 51 mixed, 6 against) · 104 studies (29 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 13 of 104 report an effect size · 116 claims rest on one study
+> **Evidence** · 118 claims (60 for, 52 mixed, 6 against) · 105 studies (30 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 13 of 105 report an effect size · 117 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -152,6 +152,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [CALL instruction produced significantly better TOEIC listening score gains than traditional textbook instruction in a quasi-experiment with two groups of 25 Vietnamese college students](../claims/call-improves-toeic-listening-scores-over-traditional.md) [+W]
 - [Among regular students, higher ASSISTments usage predicted higher 7th-grade MCAS performance](../claims/assistments-student-usage-predicts-mcas-regular.md) [+W]
 - [For special education students, student usage showed no effect, but students of no-usage teachers scored lower than those of some-usage teachers](../claims/special-education-usage-null-teacher-effect.md) [~W]
+- [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](../claims/smart-board-higher-posttest-achievement-electricity-unit.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

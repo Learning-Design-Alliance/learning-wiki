@@ -55,3 +55,4 @@ Pre-specified sub-group analysis of FSM pupils (86 pupils in the summary table) 
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — related
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](grammar-for-writing-fsm-subgroup-no-differential-benefit.md) — reports the opposite

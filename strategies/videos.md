@@ -66,6 +66,7 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 - [Demonstration](../elements/demonstration.md) — the most common instructional use of video: modeling a skill or process
 - [Chunking](../principles/chunking.md) — segmented video respects working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Use pre-task subtitled videos of similar (not identical) tasks to build familiarity while preserving cognitive complexity](pre-task-similar-task-subtitled-videos-strategy.md)
+- [Combine video clips with Small Group Activity techniques, using video-support techniques such as slowing playback, pre- and post-viewing comprehension sessions, and repeating or pausing scenes](video-clips-small-group-activity-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — video is a scalable delivery vehicle for expert modeling

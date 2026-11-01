@@ -117,6 +117,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - Decodable text practice — the application context that consolidates taught correspondences
 - [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
 - [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](systematic-direct-phonics-one-to-one-strategy-id.md)
+- [Four-step tactile reading lesson sequence: matching, finger spelling, word reading, sentence reading](four-step-tactile-reading-lesson-sequence.md)
 
 ## Examples
 

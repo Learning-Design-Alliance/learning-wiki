@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (116 show a difference, 34 mixed, 20 no difference) · 127 studies (41 causal, 30 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 127 report an effect size · 165 claims rest on one study
+> **Evidence** · 172 claims (118 show a difference, 34 mixed, 20 no difference) · 129 studies (43 causal, 30 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 129 report an effect size · 167 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -208,6 +208,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [The experimental Mind Maps group showed a significantly greater reduction in lack of attention than the control group](../claims/mind-maps-outperform-traditional-las-modification.md) [+M] — instruction changes it
 - [Labeling increases visual attention to labeled table cells, but color coding does not increase attention to color-coded cells](../claims/labeling-increases-attention-labeled-cells.md) [~M] — instruction changes it
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](../claims/positive-student-ratings-mobile-ar-application.md) [+M] — instruction changes it
+- [Growth in sustained attention was faster and disruptive behavior reductions faster for INSIGHTS students, with larger growth effects for the low parent participation group](../claims/insights-growth-effects-larger-low-parent-dosage.md) [+M] — instruction changes it
+- [The between-group comparison favored the brain teasers curriculum over the National Education Ministry Pre-School curriculum for attention spans](../claims/brain-teasers-favor-experiment-group-attention.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

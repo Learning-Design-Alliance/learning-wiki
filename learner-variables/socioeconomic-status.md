@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (114 show a difference, 50 mixed, 42 no difference) · 158 studies (74 associational, 51 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 158 report an effect size · 205 claims rest on one study
+> **Evidence** · 209 claims (114 show a difference, 51 mixed, 44 no difference) · 161 studies (74 associational, 54 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 161 report an effect size · 208 claims rest on one study
 
 ## How to read this page
 
@@ -291,6 +291,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](../claims/perry-beeches-coaching-similar-effect-fsm-pupils.md) [-M] — an instructional effect differs by group
 - [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](../claims/rhythm-for-reading-fsm-subgroup-null.md) [-M] — an instructional effect differs by group
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](../claims/srsd-fsm-subgroup-larger-effect-not-significant.md) [~M] — an instructional effect differs by group
+- [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](../claims/air-reading-no-significant-subgroup-differences.md) [-M] — an instructional effect differs by group
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](../claims/rapid-phonics-baseline-factors-no-significant-moderation.md) [-M] — an instructional effect differs by group
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](../claims/grammar-for-writing-fsm-subgroup-no-differential-benefit.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

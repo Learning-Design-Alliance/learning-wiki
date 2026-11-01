@@ -55,3 +55,4 @@ Questionnaire administered to the 134 participants, who ranked language skills f
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Learners reflected positively on pragmatic routine instruction, and most wanted more routines taught](learners-reflect-positively-on-pragmatic-routine-teaching.md) — related
 - [Pragmatic routine instruction showed no effect on learners' spoken production three weeks into treatment](pragmatic-instruction-no-effect-spoken-production.md) — related
+- [Before treatment, most EFL learners showed problems in speaking, especially in vocabulary and grammar](efl-learners-pretest-vocabulary-grammar-problems.md) — related

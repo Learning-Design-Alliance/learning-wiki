@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (17 for, 17 mixed, 1 against) · 19 studies (10 quant-synthesis, 5 causal, 3 review, 1 design), `q1`–`q4` · 7 of 19 report an effect size · 34 claims rest on one study
+> **Evidence** · 36 claims (17 for, 18 mixed, 1 against) · 20 studies (10 quant-synthesis, 6 causal, 3 review, 1 design), `q1`–`q4` · 7 of 20 report an effect size · 35 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -59,6 +59,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](../claims/inverted-classroom-no-difference-force-momentum-impulse.md) [~W] — attached 2026-11-01 from Eldy et al. (2019), which proposed "Inverted classroom implementation with Padlet-delivered self-paced videos, online quizzes and problem-based learning assessment"; tests this page's relationship.
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](../claims/fci-implementation-barriers-iraq.md) [~W]
 - [The authors recommend extending the inverted classroom to larger samples, longer implementation periods and other basic or difficult physics topics](../claims/inverted-classroom-future-extension-recommendation.md) [+W]
+- [The difference in ratings of 'The instructor created an environment conducive to the learning process' between flipped and traditional sections was not statistically significant (p = .09)](../claims/environment-item-no-significant-difference.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

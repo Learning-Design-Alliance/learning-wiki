@@ -51,3 +51,4 @@ Quasi-experimental pre-test/post-test study with control group; 49 7th graders (
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
 - [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related
 - [WebQuest instruction shows no significant immediate effect on ninth-grade mathematics achievement at posttest](webquests-no-immediate-achievement-effect.md) — reports the opposite
+- [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related

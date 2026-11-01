@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 34 claims (22 for, 7 mixed, 5 against) · 31 studies (9 causal, 6 review, 6 qualitative, 5 associational, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 35 claims (23 for, 7 mixed, 5 against) · 32 studies (10 causal, 6 review, 6 qualitative, 5 associational, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 32 report an effect size · 35 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -74,6 +74,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Concept-cartoon-based teaching significantly increased seventh graders' critical thinking scores within the experimental group](../claims/concept-cartoons-increase-cct-x-experimental-group.md) [~W]
 - [Using a module containing critical thinking aspects produces significantly higher academic achievement than the commonly used school module in 8th-grade human circulatory system learning](../claims/cta-module-higher-academic-achievement-circulatory.md) [+W] — attached 2026-11-01 from Wicaksana et al. (2020), which proposed "Critical thinking aspects (CTa) framework: interpretation, analysis, evaluation, inference, explanation and self-regulation embedded in module components".
 - [Applying critical thinking aspects on the module makes an effective contribution of 64% to students' academic achievement enhancement](../claims/cta-module-64-percent-contribution.md) [+W] — attached 2026-11-01 from Wicaksana et al. (2020), which proposed "Critical thinking aspects (CTa) framework: interpretation, analysis, evaluation, inference, explanation and self-regulation embedded in module components".
+- [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](../claims/pblccs-better-n-gain-each-mct-indicator.md) [+W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

@@ -61,9 +61,11 @@ Fishbowl makes discussion itself an object of study: observers learn discourse a
 6. Rotate roles and repeat, or close with individual written reflection ([Reflection](../elements/reflection.md)).
 
 ## Related Strategies
+
 - [Socratic Seminar](socratic-seminar.md) — a close cousin; fishbowl adds the observer layer and rotation that Socratic seminars often lack
 - [Jigsaw](jigsaw.md) — another role-structured format ensuring every student has a defined, necessary role
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds the rehearsal fishbowl requires
+- [Use varied in-class group-work techniques (structured/unstructured discussion, circle of voices, fishbowl) to implement flipped learning](group-work-techniques-flipped-inclass-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — publishes fishbowl protocols for discussing historical dilemmas and identity issues, with observer role sheets (https://www.facinghistory.org).

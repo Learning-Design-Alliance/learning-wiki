@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 19 studies (8 associational, 7 causal, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 20 studies (8 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 20 report an effect size · 20 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -58,6 +58,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](../claims/prior-math-ability-mixed-moderator.md) [~W]
 - [The three study groups differed significantly in prior knowledge of electrochemical cells before instruction, with the CLMG group starting highest](../claims/pretest-differences-electrochemical-groups.md) [~W]
 - [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](../claims/mpk-influences-mlta.md) [+W]
+- [Pre-intervention math skill does not moderate first-grade arithmetic intervention effects on any outcome for either contrast](../claims/pre-intervention-math-skill-no-moderation-first-grade-intervention.md) [-W]
 
 ## Related Principles
 - 

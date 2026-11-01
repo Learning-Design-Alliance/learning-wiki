@@ -48,3 +48,4 @@ Self-reported awareness changes from the qualitative interviews with 15 experime
 
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Students most admired the Karagöz character (f = 10), followed by Hacivat (f = 6), in the performed plays](performing-arts-admired-characters-karagoz.md)
+- [Students reported that news about people in difficulty — especially a poor Turkish child sending 1 lira to Pakistan after the earthquake — attracted the most attention in the unit](student-attention-elements-global-education-unit.md) — related

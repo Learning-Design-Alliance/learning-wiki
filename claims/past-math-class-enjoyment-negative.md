@@ -49,3 +49,4 @@ Descriptive item from the same end-of-semester survey of math circle participant
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
 - [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](student-opinions-concept-cartoon-lessons.md) — related
+- [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related

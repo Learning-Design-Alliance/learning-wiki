@@ -49,3 +49,4 @@ Multilevel Poisson growth model across six instructional units in the cluster ra
 - [Preschoolers learn almost no challenging vocabulary from hearing stories without embedded lessons](storybook-exposure-alone-little-learning.md) — related
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
 - [Student activity declines consistently from the first to the last learning unit across all three outcome groups](activity-declines-across-course-units.md) — related
+- [Story Friends treatment participants had greater vocabulary gains than comparison participants on unit tests, with large effect sizes](story-friends-large-vocabulary-gains.md) — related

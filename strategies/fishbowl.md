@@ -71,9 +71,11 @@ The fishbowl makes discussion itself the object of study: the inner circle model
 6. Debrief: outer-circle observers give specific feedback; the class names effective moves for future discussions ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - Socratic seminar — a related structured discussion format; the fishbowl adds an explicit observation layer
 - Think-pair-share — lower-stakes precursor that builds the same conversational skills before public performance
 - Peer feedback protocols — the debrief phase enacts structured peer critique
+- [Use varied in-class group-work techniques (structured/unstructured discussion, circle of voices, fishbowl) to implement flipped learning](group-work-techniques-flipped-inclass-strategy.md)
 
 ## Related Elements
 - [Peer Discussion](../elements/peer-discussion.md) — the inner-circle conversation is the core activity

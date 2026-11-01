@@ -50,3 +50,5 @@ Independent-samples t-tests comparing 18 successful and 58 less successful parti
 
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
+- [Most learners used an amalgam of all three metacognitive strategy types rather than favoring a single strategy](amalgam-strategy-use-dominates-learners.md) — related
+- [Learners' metacognitive reading strategy type (global, problem-solving, or support) showed no statistically significant effect on reading test scores](reading-strategy-type-no-effect-test-scores.md) — related

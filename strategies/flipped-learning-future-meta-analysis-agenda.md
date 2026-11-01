@@ -47,6 +47,7 @@ The article's concluding suggestions call for future research beyond academic ac
 - [Future STEM research should meta-analyze additional outcomes such as gender, anxiety, and knowledge permanence](future-stem-meta-analyses-gender-anxiety-permanence.md)
 - [Repeat and extend meta-analysis of constructivism's effect on attitudes to include foreign publications](extend-constructivism-attitude-meta-analysis-foreign-literature.md)
 - [Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies](future-drama-social-studies-research-directions.md)
+- [Repeat flipped-learning studies across diverse subject areas and contexts before generalising effects](repeat-flipped-learning-studies-diverse-contexts-strategy.md)
 
 ## Examples
 -

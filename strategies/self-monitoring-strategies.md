@@ -106,6 +106,7 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - [Spaced Practice](../principles/spaced-learning.md) — monitoring determines *what* to space; the two strategies compound
 - [Interpolate metacognitive judgments or covert retrieval attempts during extended study sessions](interpolate-jols-covert-retrieval-during-study.md)
 - [Train older adults to self-test and selectively restudy unlearned items to improve associative learning](self-testing-selective-restudy-training-strategy.md)
+- [Train learners in explicit monitor strategies for pronunciation, including identifying risky words during reading, covert rehearsal, post hoc monitoring, action replay, tape self-recording, and peer-monitoring](pronunciation-monitor-strategy-training.md)
 
 ## Examples
 - **Calibration in introductory psychology**: students predict exam scores before each quiz and graph prediction vs. actual across the term, visibly improving judgment accuracy.

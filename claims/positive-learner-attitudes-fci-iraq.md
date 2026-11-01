@@ -71,3 +71,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related
 - [Higher and lower Moodle scorers viewed flipped learning as almost equally valuable, but higher scorers talked more positively about how the course was delivered](moodle-score-flipped-attitude-delivery.md) — related
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
+- [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related

@@ -52,3 +52,4 @@ Exploratory subgroup analysis within the multilevel ITT model. Table 3 prints a 
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [The OCR program shows a positive differential impact for Kindergarten students relative to other grades](ocr-positive-differential-impact-kindergarten.md) — related
+- [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](air-reading-no-significant-subgroup-differences.md) — related

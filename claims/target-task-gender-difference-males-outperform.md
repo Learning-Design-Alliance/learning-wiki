@@ -57,3 +57,5 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by gender
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — reports the opposite
 - [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related
+- [Male students significantly outperformed female students in the video-based competitive instructional strategy](males-outperformed-females-comvip.md) — related
+- [A training programme consolidating process training and task analysis improved maths achievement of female pupils with learning disorders more than ordinary teaching in KSA](process-task-analysis-programme-improves-maths-achievement-learning-disorders.md) — related

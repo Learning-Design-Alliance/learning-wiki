@@ -61,6 +61,8 @@ The article describes the response-to-intervention (RTI) model as a multitiered 
 - [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](../strategies/two-stage-gated-screening-at-risk-readers.md)
 - [Screen all children for dyslexia early with an evidence-based screener and follow up with evidence-based interventions](../strategies/early-universal-dyslexia-screening-and-intervention.md)
 - [Use a universal screening instrument and documented O&M assessment rather than unconfirmed teacher judgments to identify students needing O&M instruction](../strategies/universal-screening-om-assessment-strategy.md)
+- [Use empirically derived post-intervention benchmarks to decide who exits versus continues to intensive intervention](../strategies/post-intervention-benchmarks-exit-intensive-intervention.md)
+- [Eight-week tier movement cycles with fast-tracking and exit rules aligned to report card periods](../designs/eight-week-tier-movement-fast-tracking.md)
 
 ## Key Sources
 - He, W., & Meyer, P. (2021). MAP Growth universal screening benchmarks: Establishing MAP Growth as an effective universal screener. NWEA. https://www.nwea.org

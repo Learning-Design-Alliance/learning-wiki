@@ -61,9 +61,11 @@ Multisensory encoding supports retention by giving learners redundant retrieval 
 7. Follow word-level work with connected-text reading containing the target words ([Practice](../elements/practice.md) in context).
 
 ## Related Strategies
+
 - [Acronyms and acrostics](acronyms_and_acrostics.md) — the mnemonic family this strategy draws on for embedding irregular spellings
 - [Act it out](act_it_out.md) — the kinesthetic-encoding cousin, applied to word meaning rather than spelling
 - [Activating prior knowledge](activating-prior-knowledge.md) — linking new irregular words to known word families reduces memory load
+- [Four-step tactile reading lesson sequence: matching, finger spelling, word reading, sentence reading](four-step-tactile-reading-lesson-sequence.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated, distributed writing and reading of the word is the engine of retention

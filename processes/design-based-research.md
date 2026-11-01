@@ -15,7 +15,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 13 claims (12 for, 1 mixed) · 12 studies (6 design, 2 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 13 studies (6 design, 3 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 14 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -79,6 +79,7 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - [Academic achievement improved across iterations with significant treatment, group and interaction effects, and the HIL environment outperformed both MIL and NIL by the third iteration](../claims/achievement-hil-outperformed-mil-nil.md) [+W]
 - [A four-phase DBR process with 25 teachers across three Swedish municipalities produced three tailored EasyVis dashboards over one year](../claims/dbr-four-phase-mlad-development-25-teachers.md) [+W]
 - [Most teachers in the Project READI design work showed change toward the envisioned approach, but gradually and at different rates](../claims/readi-teacher-change-gradual-iterative.md) [+W]
+- [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](../claims/story-friends-iterative-revision-findings.md) [~W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence

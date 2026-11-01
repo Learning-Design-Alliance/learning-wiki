@@ -53,3 +53,4 @@ Independent-samples t-test on pre-test scores of the two groups (43 each). The a
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [The experimental and control groups were homogeneous in grammar knowledge before the intervention](pretest-homogeneity-call-grammar-study.md) — possibly the same claim (merge candidate)

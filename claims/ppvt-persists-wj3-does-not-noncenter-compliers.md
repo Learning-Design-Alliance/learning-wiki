@@ -68,3 +68,4 @@ Woodcock-Johnson III outcomes from the same re-analysis, plotted in Figure 2. Th
 - [Head Start shows larger effects on cognitive outcomes relative to non-center care than relative to center care, with non-zero effects only for Non-Center Compliers](head-start-larger-effect-noncenter-compliers.md) — related
 - [Suggestive evidence of no beneficial effect of Head Start relative to other center care](no-benefit-head-start-versus-center-care.md) — related
 - [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md) — related
+- [Head Start's vocabulary impacts are concentrated among children who would otherwise receive home-based care, with no average advantage over other center-based alternatives](counterfactual-care-type-moderates-head-start-impacts.md) — related

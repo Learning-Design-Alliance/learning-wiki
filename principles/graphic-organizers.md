@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 49 studies (22 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 28 claims rest on one study
+> **Evidence** · 40 claims (20 for, 17 mixed, 3 against) · 50 studies (23 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 50 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](../claims/concept-mapping-beats-lecture-biology-achievement.md) [+W] — attached 2026-11-01 from Sakiyo et al. (2015), which proposed "Incorporate concept mapping into biology teaching and train teachers in its use"; tests this page's relationship.
 - [Post-test scores for knowledge, understanding and application were significantly higher in the mind-mapping group than the control group](../claims/mind-mapping-english-posttest-significant.md) [+W] — attached 2026-11-01 from D. Hallen (2015), which proposed "Mind map as a hierarchical visual organizer built from a central image with colour, images, codes, symbols and key words"; tests this page's relationship.
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Four-step electronic mind map construction pattern for reading texts"; tests this page's relationship.
+- [Undergraduate students taught circular and rotational motion with concept mapping achieved significantly higher post-test scores than students taught with tutorial sheets](../claims/concept-mapping-outperforms-tutorial-sheets-achievement.md) [+W] — attached 2026-11-01 from Dennis Luchembe et al. (2014), which proposed "Concept-mapping instructional sequence: train map construction on a familiar topic, then apply hierarchies, link words and cross-links to the target topic in groups"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

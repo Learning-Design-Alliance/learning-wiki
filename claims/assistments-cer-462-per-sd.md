@@ -51,3 +51,4 @@ Cost-effectiveness analysis computed from the ingredients-method cost estimate a
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related
 - [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](tft-student-long-term-outcome-goal.md) — related
+- [Air Reading cost approximately $1,700 per pupil to society and $1,500 to schools, with 7.5-11.9 tutoring hours needed per month of learning gained](air-reading-cost-efficiency-estimates.md) — related

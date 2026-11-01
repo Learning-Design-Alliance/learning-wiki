@@ -70,3 +70,4 @@ Dependent samples t-test on the 29 control students' scores; means were 43.75 (p
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — possibly the same claim (merge candidate)
 - [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — possibly the same claim (merge candidate)
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
+- [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related

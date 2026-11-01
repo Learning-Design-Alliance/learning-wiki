@@ -49,3 +49,4 @@ Moderator analysis of the sex variable on gain scores in the CIM and CAI groups 
 - [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](cai-gain-exceeds-cim-voice-grammar.md) — related
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — related
+- [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related

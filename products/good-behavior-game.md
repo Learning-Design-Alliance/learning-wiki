@@ -27,6 +27,7 @@ A classroom behavior-management programme originally developed at Johns Hopkins 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Good Behavior Game classroom management strategy**: Good Behavior Game is "a specific classroom management strategy that aims to improve social skills, minimize disruptive behaviors, and create a positive learning environment." Teachers place students into teams and reward them for following classroom rules. It can be implemented as the PAX Good Behavior Game, the AIR version, or a local adaptation, and is used from prekindergarten through grade 12, often in classrooms showing high levels of disruptive behavior. (What Works Clearinghouse et al. (2023))
+- **Good Behavior Game professional development models randomized control trial (GBG Basic vs. GBG with Coach)**: A four-year IES Goal 3 project comparing two professional development models for the Good Behavior Game, a group-based classroom behavior management strategy built around "four core elements integrating (1) classroom rules, (2) team membership, (3) monitoring of behavior, and (4) positive reinforcement to individuals and the group". GBG Basic provides 2 days of initial training plus a booster day; GBG with Coach adds 90 minutes of coaching every two weeks for one school year. Students are randomly assigned to classrooms and classrooms to GBG Basic, GBG with Coach, or control, in the multilingual Houston Independent School District. (Kurki et al. (2013))
 
 ### Claims
 - [Good Behavior Game improves student behavior, with a pooled effect size of 0.91 across 10 studies meeting WWC standards](../claims/gbg-improves-student-behavior.md) [+M]
@@ -70,8 +71,8 @@ A classroom behavior-management programme originally developed at Johns Hopkins 
 - Embry, D. D. (2002). The Good Behavior Game: A best practice candidate as a universal behavioral vaccine. *Clinical Child and Family Psychology Review, 5*(4), 273–297. [doi:10.1023/a:1020977107086](https://doi.org/10.1023/a:1020977107086)
 - Tingstrom, D. H., Sterling-Turner, H. E., & Wilczynski, S. M. (2006). The Good Behavior Game: 1969–2002. *Behavior Modification, 30*(2), 225–253. [doi:10.1177/0145445503261165](https://doi.org/10.1177/0145445503261165)
 - Kellam, S. G., Mackenzie, A. C. L., Brown, C. H., Poduska, J. M., Wang, W., Petras, H., & Wilcox, H. C. (2011). The Good Behavior Game and the future of prevention and treatment. *Addiction Science & Clinical Practice, 6*(1), 73–84.
-
 <!-- merged 2026-10-10 from elements/good-behavior-game-strategy ("Good Behavior Game classroom management strategy"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Kurki, A., Wang, W., Li, Y., & Poduska, J. (2013). Measurement of Child Behavior via Classroom Observations in the Good Behavior Game Professional Development Models Randomized Control Trial. SREE Fall 2013 Conference. https://www.sree.org
 
 # Good Behavior Game classroom management strategy
 

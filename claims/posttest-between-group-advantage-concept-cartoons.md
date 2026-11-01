@@ -49,3 +49,4 @@ Independent-group t-test comparing post-test scores of the experimental (n=46) a
 - [The control group taught by teacher-centred instruction showed no statistically significant change in mathematics self-efficacy perceptions](control-group-no-self-efficacy-change.md) — related
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
+- [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related

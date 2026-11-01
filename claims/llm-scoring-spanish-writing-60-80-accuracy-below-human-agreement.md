@@ -54,3 +54,4 @@ Analysis of the 2024 calibration phase (50 texts, each scored 10 times by the AI
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [Spellcheck and autocorrect are not foolproof: efficacy is bounded near 80% and the most common student writing error is now correctly spelled but inappropriate words](spellcheck-not-foolproof-wrong-word-errors.md) — related
 - [ASR-based item-level accuracy scores show moderate agreement with human raters in a Dutch word decoding and passage reading task](asr-accuracy-moderate-agreement-human-raters.md) — related
+- [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related

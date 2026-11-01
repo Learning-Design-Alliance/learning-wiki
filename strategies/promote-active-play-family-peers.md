@@ -49,6 +49,7 @@ The article recommends a combined strategy of increasing active play and time sp
 
 - [Balancing Screen Time with Physical Activity](balancing_screen_time_with_physical_activity.md)
 - [Playworks TeamUp Recess Program](playworks_teamup_recess_program.md)
+- [Support children's attention development by sharing time playing various games and puzzles](play-games-with-children-to-support-attention.md)
 
 ## Examples
 -

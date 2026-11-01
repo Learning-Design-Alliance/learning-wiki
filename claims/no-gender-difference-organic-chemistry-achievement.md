@@ -69,3 +69,5 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related
 - [Gender did not significantly influence achievement among students taught Geography with PowerPoint presentation](powerpoint-no-gender-difference-geography.md) — related
+- [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
+- [No significant difference was found in drawing-skill acquisition between male and female students taught with two- and three-dimensional visual objects](no-gender-difference-drawing-visual-objects.md) — related

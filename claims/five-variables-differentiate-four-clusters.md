@@ -52,3 +52,5 @@ MANOVA on the five log variables across four clusters; the article reports "73.2
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
 - [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
+- [Cluster analysis of prompts per scenario-protocol distinguishes four profiles of instructional need: General, Measuring, Accuracy and Organizing](four-profiles-of-instructional-need.md) — related
+- [The four instructional-need profiles differ in observed training behaviors of self-confidence, openness, and concentration and cooperation](profiles-differ-in-observed-behaviors.md) — related

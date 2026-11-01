@@ -49,3 +49,4 @@ Anonymous consumer satisfaction surveys after intervention (approximately 93% re
 - [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](embedded-lessons-vocabulary-gains-story-friends.md) — related
 - [Story Friends produced no group differences on distal standardized language measures (PPVT-IV, CELF-P)](no-distal-language-effects-ppvt-celf.md) — related
 - [Experimental-group students reported satisfaction with corpus-based lexical teaching while finding some materials too challenging](corpus-lexical-teaching-student-satisfaction.md) — related
+- [The automated Story Friends intervention was implemented with high fidelity in preschool classrooms](story-friends-high-implementation-fidelity.md) — related

@@ -52,3 +52,4 @@ Random-effects regression (Panel B, with control variables) on the manipulation 
 - [Prosodiya training significantly reduces spelling mistakes in vowel length marking (DRT)](prosodiya-reduces-vowel-length-errors-drt.md) — related
 - [Far transfer to inflected training words shows only a marginal, non-significant and non-robust effect](prosodiya-far-transfer-not-significant.md) — related
 - [Six weeks of adaptive training produced a significant improvement in subtraction relative to a waiting control group](calcularis-training-significant-subtraction-gains.md) — related
+- [Students found identifying primary stress harder as the number of syllables in a word increased](stress-identification-harder-with-more-syllables.md) — related

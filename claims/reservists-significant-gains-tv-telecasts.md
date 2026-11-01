@@ -55,3 +55,4 @@ Evaluation of a series of eight telecasts broadcast to Army reservists in major 
 - [In the sewing telecast series, most homemaker viewers learned new things and practice use increased with the number of programs viewed](sewing-tv-learning-and-dose-response.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
 - [A series of educational broadcasts on Psychology produced appreciable gains in listeners' knowledge, with cumulative gains still increasing after six or seven talks](broadcast-series-cumulative-knowledge-gains.md)
+- [Students reported that communication technologies made the unit's topics more understandable and supported knowledge retention, with some reporting behavior change](students-report-technologies-aided-understanding-and-retention.md) — related

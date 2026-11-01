@@ -50,3 +50,4 @@ Narrative review of Yoo and Kim's predictive analysis of an online asynchronous 
 - [Groups that provide more information to others (Source role) achieve higher project grades](source-role-provision-predicts-project-grades.md) — related
 - [Simple participation quantity measures (total and reply message counts) correlate with project grades](message-frequency-correlates-grades.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
+- [Collaborative Marketing Plan Project grades correlated strongly and positively with flipped total assessment grades](marketing-plan-project-grade-correlation.md) — related

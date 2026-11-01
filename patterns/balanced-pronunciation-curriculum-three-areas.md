@@ -18,7 +18,7 @@ sources:
 # Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (9 for, 13 mixed) · 14 studies (4 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (10 for, 13 mixed) · 15 studies (4 quant-synthesis, 3 causal, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -118,6 +118,7 @@ Claims bearing on pronunciation teaching that were read for this rewrite but are
 - [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation](../claims/profy-intelligibility-gain-over-elicited-imitation.md) [+M] — one small design study (10 Japanese learners, five raters) of an AI pronunciation tool against elicited imitation; bears on tool choice for the segmental strand, not on the curriculum's balance.
 - [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled](../claims/individual-work-best-asr-pronunciation-training.md) [~M] — bears on how to organise the ASR self-practice; cited in the children row.
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](../claims/teachers-blame-instruction-over-learners-for-progress.md) [~M] — teacher survey from the source article; context for why the pattern specifies time and practice, not evidence for it.
+- [Explicit phonetic transcription instruction improves Iranian undergraduate EFL students' word stress learning compared with listen-and-repeat exposure](../claims/phonetic-transcription-improves-word-stress-learning.md) [+W] — attached 2026-11-01 from Ghorbani (2019), which proposed "Material developers should embed phonetic transcription in English textbooks to encourage teaching lexical stress patterns".
 
 ## Illustrative design instance and observation record
 

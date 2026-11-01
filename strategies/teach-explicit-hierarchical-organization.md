@@ -42,7 +42,8 @@ The article recommends that instructional efforts pay more attention to the orga
 - [Hierarchical Task Adapted Knowledge Organization Model](../theories/hierarchical-task-adapted-knowledge-organization-model.md)
 
 ## Related Strategies
-- 
+
+- [Teach mathematical processes before task-analysis skills, using sensory stimuli and strengths/weaknesses analysis](teach-processes-before-task-analysis-sensory-stimuli.md)
 
 ## Examples
 -

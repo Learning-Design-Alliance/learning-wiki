@@ -58,3 +58,4 @@ The study hypothesized an aptitude-treatment interaction with higher-proficiency
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — a broader claim this one bears on
 - [Waypoint-High group struggled during training but no posttest differences between high-proficiency groups](wp-high-struggles-training-high-groups-no-posttest-difference.md) — related
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
+- [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related

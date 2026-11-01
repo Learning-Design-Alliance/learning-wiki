@@ -68,3 +68,4 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [The FSM subgroup effect of Rhythm for Reading (effect size 0.11) was not statistically significant](rhythm-for-reading-fsm-subgroup-null.md) — related
 - [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on

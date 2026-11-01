@@ -55,3 +55,4 @@ Multilevel logistic model (Table 3): Indigenous OR = 1.80 [1.55, 2.08], Achievem
 - [Demographics predict school belonging: girls, urban youth, immigrants, and high-SES youth report higher belonging, while achievement is trivially related](demographic-predictors-of-school-belonging.md) — related
 - [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](school-belonging-predicts-neet-status.md) — related
 - [The 2015 cohort was more likely to be NEET than the 2003 cohort, consistent with labor-market conditions](cohort-2015-higher-neet-risk.md) — related
+- [Fixed intervention places plus NEET-risk eligibility criteria produced baseline imbalance favouring the control group](thinkforward-baseline-imbalance-neet-risk.md) — related

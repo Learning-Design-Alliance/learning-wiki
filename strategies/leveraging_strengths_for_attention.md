@@ -73,12 +73,14 @@ Strengths-based framing increases task value and self-efficacy, both of which pr
 6. **Give process-level feedback.** Name the attention strategy that worked, not the trait ("You re-read the directions and caught the second step"), consistent with feedback that targets process [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - Chunking Directions — the structural support that makes weak-channel practice feasible
 - Preferential Seating and Environmental Modification — removes selective-attention demands before strengths work begins
 - Self-Monitoring Checklists — the student-facing counterpart to teacher check-ins
 - [Chunking Directions](chunk_directions.md) — the task-structure counterpart: breaking instructions into manageable units so attention is not spent holding multi-step sequences
 - [Preferential Seating](../strategies/preferential_seating.md) — the environmental counterpart: positioning the learner to reduce competing attentional demands
 - [Graphic Organizers](graphic-organizers.md) — a common strength-routed support that externalizes structure visually
+- [Teach mathematical processes before task-analysis skills, using sensory stimuli and strengths/weaknesses analysis](teach-processes-before-task-analysis-sensory-stimuli.md)
 
 ## Examples
 - A student with strong drawing skills but weak sustained attention for text creates illustrated summaries of readings; segment length increases over the term as the visual scaffold fades.

@@ -69,3 +69,6 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Embedded comprehension lessons did not improve story comprehension relative to story exposure alone](no-comprehension-effect-asc.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related
+- [Training Saudi EFL college students in the 3-2-1 reading strategy for six weeks significantly improves their reading comprehension compared with no strategy training](3-2-1-strategy-improves-efl-reading-comprehension.md) — related
+- [Learning-style based reading activities produce higher reading comprehension achievement than traditional reading activities in EFL freshmen classes](learning-style-activities-improve-efl-reading-comprehension.md) — related
+- [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related

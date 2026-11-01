@@ -48,3 +48,4 @@ Descriptive N-gain comparison reported in Results (Table 2 and Figure 1) for the
 - [Students taught Elementary Algebra with e-books showed significantly higher mathematical critical thinking gains than students taught with conventional textbooks](ebooks-higher-critical-thinking-gain-than-textbooks.md) — a broader claim this one bears on
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [N-gain score distributions differed in normality between classes: the experimental class's N-gain was not normally distributed while the control class's was](n-gain-normality-differs-between-classes.md) — related
+- [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related

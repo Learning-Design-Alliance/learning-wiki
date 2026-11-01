@@ -51,3 +51,4 @@ Semi-experimental two-group comparison of 168 tenth-grade students (84 experimen
 ## Related Claims
 - [Brainstorming instruction raised English-language achievement-test scores relative to conventional teaching](brainstorming-improves-english-achievement.md) — related
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — a narrower finding that bears on this claim
+- [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related

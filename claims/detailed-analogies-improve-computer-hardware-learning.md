@@ -47,3 +47,4 @@ One Factor ANCOVA on pre-/post-test scores of 86 volunteers split into control (
 ## Related Claims
 - [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](analogy-strategy-improves-organic-chemistry-achievement.md) — related
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
+- [AR-based instruction increases computer hardware course achievement compared to print materials in vocational education](ar-increases-vet-hardware-achievement.md) — related

@@ -53,3 +53,4 @@ Quasi-experimental comparison of first-year pharmacy students randomly assigned 
 - [Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students](structured-ai-workflow-dcts-gains-efl.md) — related
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — related
+- [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related

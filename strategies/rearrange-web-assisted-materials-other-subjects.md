@@ -48,6 +48,7 @@ The author recommends that the developed materials be adapted beyond the origina
 - [Flipped Classroom](flipped-classroom.md)
 - [Design flipped classroom instruction according to subject type, knowledge type, and students' independent learning ability](design-flips-by-subject-knowledge-and-self-learning.md)
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
+- [Apply multimedia-supported 7E learning model materials to other science units and to courses with abstract content](multimedia-7e-materials-other-units-strategy.md)
 
 ## Examples
 -

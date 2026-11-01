@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-01
 sources:
   - id: farahman-farrokhi-2012
     resource: "https://doi.org/10.5430/wje.v2n1p70"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both experimental groups receiving corrective feedback significantly outperformed the no-feedback control group in oral accuracy in session 6 of story retelling. [→ Farahman Farrokhi 2012](#farahman-farrokhi-2012)
@@ -50,3 +51,5 @@ Quasi-experimental study of three intact classes (control n=17, recast n=19, del
 - [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](meaning-focused-only-no-accuracy-gain.md) — related
 - [Recasts on simple past tense errors outperform no feedback on oral accuracy in the final session (p = .040)](recasts-outperform-no-feedback-oral-accuracy.md) — a narrower finding that bears on this claim
 - [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](wcf-improves-preposition-accuracy-immediate-posttest.md) — related
+- [Both explicit correction and or-choice feedback improved beginner EFL learners' accurate use of English tense markers over a ten-session instructional period](both-feedback-types-improve-tense-markers.md) — related
+- [Explicit correction was more effective than implicit or-choice feedback for beginner Iranian EFL learners' production of English tense markers](explicit-correction-outperforms-or-choice-tense-markers.md) — related

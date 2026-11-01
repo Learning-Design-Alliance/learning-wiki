@@ -62,3 +62,5 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — a narrower finding that bears on this claim
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
 - [Sex does not significantly influence gain in learning Voice in English Grammar in the CIM and CAI groups](sex-variable-no-effect-voice-grammar.md) — related
+- [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
+- [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — a narrower finding that bears on this claim

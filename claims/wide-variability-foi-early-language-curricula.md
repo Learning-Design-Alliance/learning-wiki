@@ -87,3 +87,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [FSN coaches and teachers implemented core program components with excellent adherence, with implementation quality lower during the teacher phase than the coach phase](fsn-high-fidelity-teacher-phase-quality-lower.md) — related
 - [Implementation fidelity and instructional quality ratings were not significantly associated with student outcome gains in treatment classrooms, with mixed positive and negative associations](fidelity-quality-null-associations-gains.md) — related
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — a narrower finding that bears on this claim
+- [The automated Story Friends intervention was implemented with high fidelity in preschool classrooms](story-friends-high-implementation-fidelity.md) — related

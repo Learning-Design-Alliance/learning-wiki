@@ -45,6 +45,7 @@ The article recommends deploying AI tutoring as students' first substantial enga
 - [Flipped Learning](flipped-learning.md)
 - [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
 - [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
+- [Use varied in-class group-work techniques (structured/unstructured discussion, circle of voices, fishbowl) to implement flipped learning](group-work-techniques-flipped-inclass-strategy.md)
 
 ## Examples
 -

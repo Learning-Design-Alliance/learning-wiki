@@ -54,3 +54,4 @@ Meta-analysis of 15 randomized controlled trials with 816 learners (745 medical 
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
+- [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related

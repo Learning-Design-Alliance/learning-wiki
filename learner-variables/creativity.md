@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (100 show a difference, 27 mixed, 13 no difference) · 72 studies (26 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 72 report an effect size · 138 claims rest on one study
+> **Evidence** · 141 claims (101 show a difference, 27 mixed, 13 no difference) · 73 studies (27 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 73 report an effect size · 139 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -175,6 +175,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](../claims/brainstorming-improves-fluency-flexibility-originality.md) [+M] — instruction changes it
 - [Brainstorming instruction raised 10th-grade students' total creative-thinking posttest scores in English relative to conventional teaching](../claims/brainstorming-improves-creative-thinking-posttest-english.md) [+M] — instruction changes it
+- [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](../claims/creact-between-group-subcomponents-significant.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -52,3 +52,4 @@ Secondary analysis repeating the primary multilevel model with spelling and gram
 - [The intervention had no statistically significant effect on reading scores](srsd-no-significant-reading-effect.md) — related
 - [The Perry Beeches Coaching Programme had a positive impact on Year 7 pupils' reading, spelling and grammar attainment, equivalent to approximately five additional months' progress](perry-beeches-coaching-positive-impact-reading-spelling-grammar.md) — reports the opposite
 - [RLC secondary outcomes (KS2 numeracy and grammar, punctuation and spelling) were small and not statistically significant](rlc-secondary-outcomes-non-significant.md) — related
+- [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related

@@ -28,7 +28,8 @@ A multistep design-based method for selecting experiment sites so the sample res
 - [Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44](../claims/propensity-score-population-treatment-effect.md) [+W]
 
 ## Related Research Methods
--
+
+- [Stratified cluster-analysis site-selection method for improving generalization from experiments](stratified-cluster-analysis-site-selection-method-for-improving-generalization-from-experi.md)
 
 ## Key Sources
 - Tipton, E., Fellers, L., Caverly, S., Vaden-Kiernan, M., Borman, G., Sullivan, K., & Ruiz de Castillo, V. (2015). Site selection in experiments: A follow-up evaluation of site recruitment in two scale-up studies. SREE Spring 2015 Conference Abstract. https://ies.ed.gov/ncee/edlabs

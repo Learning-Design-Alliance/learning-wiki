@@ -50,3 +50,6 @@ Model-based re-analysis of HSIS data, with results shown in Figures 1 and 2. The
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — related
 - [Suggestive evidence of no beneficial effect of Head Start relative to other center care](no-benefit-head-start-versus-center-care.md) — related
 - [The original Head Start Impact Study threshold-variable method conflates low quality with missing data and discards continuous variance](threshold-variable-conflates-missing-and-low-quality.md) — related
+- [Head Start impacts on children's PPVT receptive vocabulary scores are larger in communities with lower availability of non-Head Start child care options](child-care-availability-moderates-head-start-ppvt-impact.md) — related
+- [Head Start's vocabulary impacts are concentrated among children who would otherwise receive home-based care, with no average advantage over other center-based alternatives](counterfactual-care-type-moderates-head-start-impacts.md) — related
+- [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](cross-site-variation-in-cognitive-outcome-impacts.md) — related

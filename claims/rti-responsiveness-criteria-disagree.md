@@ -53,3 +53,5 @@ The review states the four dimensions on which responsiveness methods differ (st
 - [Inadequate responders to fourth-grade reading intervention show lower verbal knowledge and listening comprehension than adequate responders and typical readers](inadequate-responders-lower-oral-language-than-adequate.md) — related
 - [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — related
 - Included studies show considerable variation in the cut-off criteria used to identify students with co-occurring mathematics and reading difficulties — related
+- [Inadequate response rates are far higher when indexed by final performance level than by normalized growth](inadequate-response-rates-growth-versus-final-status.md) — a narrower finding that bears on this claim
+- [Pre-intervention math performance does not forecast which at-risk students will respond inadequately to intervention](pre-intervention-skill-not-forecast-inadequate-response.md) — related

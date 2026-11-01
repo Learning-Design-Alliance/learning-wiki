@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (95 show a difference, 32 mixed, 29 no difference) · 105 studies (30 associational, 28 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 32 of 105 report an effect size · 153 claims rest on one study
+> **Evidence** · 161 claims (99 show a difference, 33 mixed, 29 no difference) · 108 studies (31 associational, 30 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 108 report an effect size · 158 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -193,6 +193,11 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Daily journal writing was associated with higher listening and reading comprehension passing rates in two experimental MSA classes compared with a control class](../claims/journal-writing-higher-listening-reading-passing-rates.md) [+M] — instruction changes it
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](../claims/metacognitive-strategy-instruction-improves-listening-comprehension.md) [+M] — instruction changes it
 - [Struggling students in the journal-writing classes showed apparent improvement in listening and reading comprehension compared with the control class](../claims/journal-writing-helped-struggling-students.md) [+M] — instruction changes it
+- [EFL junior-high students taught listening comprehension with authentic materials scored significantly higher on a post-test than students taught with non-authentic materials](../claims/authentic-materials-improve-listening-comprehension-posttest.md) [+M] — instruction changes it
+- [Head Start's impacts on receptive vocabulary are larger in urban than rural communities, while impacts on oral comprehension are larger in rural communities](../claims/urban-rural-moderation-of-head-start-impacts.md) [~W] — instruction changes it
+- [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](../claims/iranian-efl-teachers-positive-attitudes-authentic-listening.md) [+M] — instruction changes it
+- [The control group taught with non-authentic materials also improved significantly from pre-test to post-test in listening comprehension](../claims/control-group-prepost-gain-listening.md) [+M] — instruction changes it
+- [The experimental group taught with authentic materials (songs) improved significantly from pre-test to post-test in listening comprehension](../claims/experimental-group-prepost-gain-authentic-materials.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

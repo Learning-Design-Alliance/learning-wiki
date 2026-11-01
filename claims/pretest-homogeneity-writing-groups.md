@@ -51,3 +51,4 @@ Kruskal-Wallis H test of pre-test scores across the three groups (EG1 N = 11, me
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [The three study groups differed significantly in prior knowledge of electrochemical cells before instruction, with the CLMG group starting highest](pretest-differences-electrochemical-groups.md) — related
 - [Training location (home, school, or both) did not affect GL learning gains](training-place-no-effect-gains.md) — related
+- [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related

@@ -42,7 +42,8 @@ Based on the finding that the CAI group's gain exceeded the CIM group's, the aut
 - [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](../claims/cai-within-group-gain-not-significant.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Train teachers to develop computer-based science software with tools such as Macromedia Flash and Adobe Photoshop](teacher-training-develop-cbi-software-strategy.md)
 
 ## Examples
 -

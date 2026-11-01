@@ -57,3 +57,4 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](flipped-classroom-higher-achievement-preservice-math.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
+- [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related

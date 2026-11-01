@@ -50,3 +50,5 @@ ANCOVA of posttest scores by gender in the same 120-student quasi-experiment. Th
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [Prior knowledge of topics and instructional objectives before instruction raises Literature-in-English achievement more than conventional teaching](prior-objectives-raise-literature-achievement.md) — related
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
+- [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
+- [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related

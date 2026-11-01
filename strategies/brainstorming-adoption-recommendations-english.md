@@ -45,7 +45,8 @@ Based on its findings, the study recommends that "English teachers have to use b
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](../claims/brainstorming-improves-fluency-flexibility-originality.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train teachers and prioritize brainstorming as a modern method for teaching English grammar](brainstorming-teacher-training-english-grammar-strategy.md)
 
 ## Examples
 -

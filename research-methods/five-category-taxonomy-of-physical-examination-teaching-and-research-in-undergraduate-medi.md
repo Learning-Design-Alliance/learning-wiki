@@ -24,7 +24,8 @@ The scoping review developed a content categorization of 117 articles using qual
 ### Claims
 
 ## Related Research Methods
--
+
+- [Three-category taxonomy of computer use in science education: learning about, with, and through computers](three-category-taxonomy-of-computer-use-in-science-education-learning-about-with-and-throu.md)
 
 ## Key Sources
 - Moßhammer D, Graf J, Joos S, Hertkorn R. (2017). Physical examination in undergraduate medical education in the field of general practice – a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-017-1074-1

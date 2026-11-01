@@ -49,3 +49,5 @@ Quasi-experimental pre-test-post-test study with intact Form 1 classes at Ghana 
 
 ## Related Claims
 - [No significant gender difference in mathematics achievement within the performance-assessment experimental group](no-gender-gap-in-pa-experimental-group.md) — related
+- [Performance assessment-driven instruction produced significantly higher mathematics post-test scores than traditional instruction in a Ghanaian senior high school quasi-experiment](pa-driven-instruction-higher-posttest-achievement.md) — a broader claim this one bears on
+- [Experimental-group students' attitudes to mathematics became significantly more positive after PA-driven instruction](pa-driven-instruction-improved-attitude.md) — related

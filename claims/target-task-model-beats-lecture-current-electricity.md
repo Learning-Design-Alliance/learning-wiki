@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: olaniyan-2015
     resource: "https://eric.ed.gov/?id=EJ1086539"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Olaniyan 2015: the intervention came bundled with another change (different teachers for the experimental and control groups); groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-01)
 
 ## Subclaims
@@ -55,3 +56,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Computer-Based Problem Solving produced significantly higher HOTS post-test scores than expository learning among prospective primary teachers](cbps-significant-hots-gain-prospective-teachers.md) — related
 - [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
+- [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related

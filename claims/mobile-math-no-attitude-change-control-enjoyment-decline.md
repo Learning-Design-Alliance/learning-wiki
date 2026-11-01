@@ -70,3 +70,4 @@ Within the control group, paired t-tests across the same quasi-experimental stud
 ## Related Claims
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
+- [Experimental-group students' attitudes to mathematics became significantly more positive after PA-driven instruction](pa-driven-instruction-improved-attitude.md) — reports the opposite

@@ -106,3 +106,5 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
+- [Multimedia-supported 7E model materials produced significantly higher post-test achievement than traditional teaching in fifth-grade science](multimedia-7e-posttest-advantage.md) — related
+- [Multimedia-supported 7E model materials improved five-week retention of learned science content relative to traditional teaching](multimedia-7e-retention-advantage.md) — related

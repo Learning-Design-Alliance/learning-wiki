@@ -45,6 +45,7 @@ Immediate Feedback Assessment Technique (IF-AT) forms are scratch-off, lottery-s
 
 - [Reduce stakes, align question difficulty with exams, and add game-like feedback when implementing TBL to lower student stress](../strategies/low-stress-tbl-implementation-changes.md)
 - [Team Based Learning](../strategies/team-based-learning.md)
+- [Run a team-based answer-until-correct scratch-off review before exams](../strategies/team-ifat-consensus-review-strategy.md)
 
 ## Key Sources
 - Cynthia J. Miller, Jeff C. Falcone & Michael J. Metz. (2015). A Comparison of Team-Based Learning Formats: Can We Minimize Stress While Maximizing Results? World Journal of Education, 5(4). http://dx.doi.org/10.5430/wje.v5n4p1

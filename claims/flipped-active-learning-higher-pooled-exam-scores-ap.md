@@ -52,3 +52,4 @@ Quasi-experimental comparison of pooled grades on three multiple-choice exams be
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — related
 - [Flipped classrooms yield higher theoretical knowledge scores than traditional lectures in Chinese clinical practice students (pooled SMD = 8.33)](flipped-classroom-higher-theoretical-scores-clinical-practice.md) — related
+- [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related

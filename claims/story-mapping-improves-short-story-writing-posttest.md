@@ -47,3 +47,4 @@ Quasi-experimental study of 84 tenth-grade male students in Amman public schools
 ## Related Claims
 - [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](story-mapping-pretest-posttest-gain.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
+- [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related

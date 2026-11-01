@@ -49,3 +49,4 @@ Comparison of post-test means in Table 5 (N = 37, 59, 60; Sig. .318). The articl
 - [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related
 - [SSII students taught trigonometry with concept mapping or cooperative learning achieved significantly higher post-test scores than students taught with conventional methods](concept-mapping-cooperative-learning-beat-conventional-trigonometry.md) — related
 - [Total scores were highly significant in favour of the concept map method group (64.4% vs 49.4%)](concept-map-total-scores-highly-significant.md) — related
+- [Interviews indicated that students whose post-test scores improved showed interest in and understanding of concept mapping, while poor performers did not, though stated usefulness did not always match achievement](interview-attitude-achievement-consistency-concept-mapping.md) — related

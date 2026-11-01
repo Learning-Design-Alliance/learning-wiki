@@ -53,3 +53,4 @@ Subgroup IPD meta-analysis by intervention type (Table 11; 24 one-to-one, 17 sma
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — related
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
+- [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — related

@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (5 for, 6 mixed, 3 against) · 14 studies (8 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 4 of 14 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (5 for, 7 mixed, 3 against) · 15 studies (9 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 4 of 15 report an effect size · 15 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -52,6 +52,7 @@ The article operationalizes germane load as learning effects: the portion of wor
 - [Every group of students learned from each film, with highly significant pre-test to post-test differences regardless of number of showings](../claims/every-group-learned-significantly-from-each-film.md) [~W]
 - [The AR group's mean score rose 4.5 points from pre-test (3.4) to post-test (7.9)](../claims/ar-group-pre-post-gain-4-5-points.md) [+W]
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](../claims/cta-module-greater-score-enhancement.md) [~W]
+- [The reading test's floor threshold at a pre-test score of 69 constrains measured gains for the lowest-scoring pupils](../claims/switch-on-pretest-threshold-69-underestimate.md) [~W]
 
 ## Related Theories
 - 

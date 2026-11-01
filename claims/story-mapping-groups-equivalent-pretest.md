@@ -55,3 +55,4 @@ Pre-test equivalence check on both groups (42 each) before treatment. Table 5 pr
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — related
+- [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related

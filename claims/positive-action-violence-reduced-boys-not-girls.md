@@ -53,3 +53,4 @@ In the randomized controlled trial of 20 Hawaii schools, grade 5 boys in Positiv
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [In the Hawaii randomized trial, Positive Action showed no statistically significant effects on state standardized test scores in reading and math](positive-action-no-significant-effect-state-test-scores.md) — related
 - [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](positive-action-reduces-grade-retention.md) — related
+- [Switch-on Reading is almost equally effective for boys and girls (+0.26 and +0.23)](switch-on-similar-effect-boys-girls.md) — related

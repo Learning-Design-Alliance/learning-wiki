@@ -48,3 +48,4 @@ Independent samples t-test on listening post-test scores of 55 female second-gra
 ## Related Claims
 - [In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in speaking than the class taught traditionally](21st-century-skills-improve-speaking-efl.md) — related
 - [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related
+- [EFL junior-high students taught listening comprehension with authentic materials scored significantly higher on a post-test than students taught with non-authentic materials](authentic-materials-improve-listening-comprehension-posttest.md) — related

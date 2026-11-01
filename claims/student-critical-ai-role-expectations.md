@@ -110,3 +110,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
 - [Within this LMS-integrated design, personalised GPT use fell into four recurring cognitive partnership roles: conceptual tutor, co-designer, reflective mirror, and cognitive challenger](gpt-cognitive-partner-typology-four-roles.md) — related
+- [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](students-obstacles-critical-thinking-number-theory.md) — related

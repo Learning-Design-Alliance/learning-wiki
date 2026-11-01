@@ -48,3 +48,4 @@ Multinomial logit model with center-group fixed effects on nine mutually exclusi
 
 - [Tobit models decompose the Head Start impact into a 48-percentage-point increase in probability of an observed quality score and a 2-point increase in quality conditional on observation](tobit-decomposition-head-start-quality-impact.md) — related
 - [The original Head Start Impact Study threshold-variable method conflates low quality with missing data and discards continuous variance](threshold-variable-conflates-missing-and-low-quality.md)
+- [Head Start's impacts on children's enrollment in Head Start, center-based care, and high-quality care vary substantially across sites](head-start-enrollment-impacts-vary-across-sites.md) — related

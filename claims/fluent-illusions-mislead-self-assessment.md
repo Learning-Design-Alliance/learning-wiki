@@ -194,3 +194,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Learners' judgments of learning track actual test performance in single-evaluation mode but not in joint-evaluation mode](jol-divergence-single-vs-joint-evaluation.md) — related
 - [AI-generated teaching videos will likely proliferate given comparable learning outcomes and ease of creation](ai-teaching-videos-likely-proliferate.md) — related
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](classroom-learning-more-comprehensive-than-recorded-video.md) — related
+- [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related

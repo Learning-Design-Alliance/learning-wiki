@@ -47,3 +47,4 @@ Exploratory analysis of practice effects drawing on Adesope et al. and van Wijk 
 ## Related Claims
 - [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
+- [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related

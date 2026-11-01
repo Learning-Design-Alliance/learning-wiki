@@ -61,3 +61,5 @@ Between-group comparison at post-test (table 3): Regular group mean 90.93 (SD 4.
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related
+- [Undergraduates in a blended learning environment achieved significantly higher self-directed learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-sdl-posttest-than-traditional.md) — related
+- [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related

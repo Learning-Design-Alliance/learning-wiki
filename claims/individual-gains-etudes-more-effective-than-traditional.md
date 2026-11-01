@@ -51,3 +51,4 @@ Individual-level analysis (Table 4, Kruskal-Wallis tests, N=12 observations per 
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — a narrower finding that bears on this claim
 - [Both experimental and control groups improved their proportional reasoning scores from pretest to posttest](both-groups-pretest-posttest-prt-gains.md) — related
 - [Students entered the Integral Calculus experiment with near-zero pretest scores, indicating weak prerequisite preparation](calculus-students-weak-prerequisite-background.md) — related
+- [The authors report an 18% increase in performance in the experimental group attributed to use of the interaction model](performance-increase-18-percent.md) — related

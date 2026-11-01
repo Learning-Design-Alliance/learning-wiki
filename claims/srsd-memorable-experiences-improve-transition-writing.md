@@ -54,3 +54,4 @@ Primary analysis of a pragmatic randomised controlled trial using a cross-classi
 - [The TextNow programme produced no statistically significant difference in enjoyment of reading or motivation to read compared with the comparison group](textnow-secondary-reading-attitudes-null.md) — related
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
+- [Small group teaching appears an effective strategy for raising writing skills among pupils between Levels 3c and 4b](small-group-teaching-effective-writing-levels-3c-4b.md) — related

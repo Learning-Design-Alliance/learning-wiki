@@ -51,3 +51,5 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related
+- [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
+- [Knowledge scores increased significantly from pretest to immediate posttest in both instruction-order groups](dramatization-pretest-posttest-gain-both-groups.md) — related

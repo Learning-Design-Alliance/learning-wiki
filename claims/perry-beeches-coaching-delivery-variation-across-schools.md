@@ -49,3 +49,4 @@ Process evaluation based on observations of nine sessions (400 minutes of tuitio
 - [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — related
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
+- [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — related

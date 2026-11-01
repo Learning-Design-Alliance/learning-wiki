@@ -65,3 +65,5 @@ Peer-effects model (Table 4, Column 3) predicting the READS-related literacy pra
 
 ## Related Claims
 - [The effect of Adaptive READS versus Core READS on teachers' intervention-related literacy learning depends on teachers' prior experience with Core READS, supporting the scaffolded hypothesis](adaptive-reads-teacher-learning-effect-depends-on-prior-experience.md) — related
+- [The effect of Adaptive READS on teachers' literacy practices outside of READS was stronger when teachers were on implementation teams with more collective READS experience](adaptive-practice-team-collective-experience.md) — related
+- [Intervention management approach (adaptive vs. fidelity) had no significant main effect on teachers' self-reported literacy-related learning, but teachers new to READS reported learning more than experienced teachers (ES=.51 sd)](no-main-effect-management-approach-teacher-learning.md) — related

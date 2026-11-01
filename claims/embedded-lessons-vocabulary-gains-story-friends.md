@@ -56,3 +56,4 @@ Cluster randomized trial of 32 preschool classrooms in Ohio and Kansas; the Part
 - [Embedded comprehension lessons did not improve story comprehension relative to story exposure alone](no-comprehension-effect-asc.md) — related
 - [Story Friends produced no group differences on distal standardized language measures (PPVT-IV, CELF-P)](no-distal-language-effects-ppvt-celf.md) — related
 - [Educators reported high satisfaction with Story Friends, but some found repeated listens and scheduling challenging](story-friends-social-validity-teachers.md) — related
+- [Story Friends treatment participants had greater vocabulary gains than comparison participants on unit tests, with large effect sizes](story-friends-large-vocabulary-gains.md) — possibly the same claim (merge candidate)

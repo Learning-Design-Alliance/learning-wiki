@@ -57,3 +57,5 @@ Quasi-experimental comparison of 55 experimental and 48 control intermediate uni
 - [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
+- [Pupils with hearing impairment taught reading with the embossed picture technique significantly outperformed pupils taught with the look-and-say method](embossed-picture-technique-beats-look-and-say-reading.md) — related
+- [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related

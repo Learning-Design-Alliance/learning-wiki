@@ -46,3 +46,4 @@ The review reports two quasi-experimental studies of rhythm-shadowing (speaking 
 
 ## Related Claims
 - [In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test](tibetcpr-rhythm-stabilisation-exceeds-unguided-practice.md) — related
+- [Learners rated phrase instruction and shadowing as the most useful fluency-workshop activities, and marking pauses as problematic for short-turn dialogue](learner-ratings-phrase-instruction-shadowing-most-useful.md) — related

@@ -59,3 +59,4 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 - [Prior knowledge about natural numbers supports students dealing with algebraic properties of rational numbers](natural-number-knowledge-supports-algebraic-properties-rational-numbers.md) — a narrower finding that bears on this claim
 - [Understanding rational numbers is not indiscriminately difficult for students](rational-number-understanding-not-indiscriminately-difficult.md) — related
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — related
+- [Most students believed mathematics teaching is more effective when it uses group work, builds on prior knowledge and connects topics, while few valued technology](students-rate-group-work-effective-teaching-feature.md) — related

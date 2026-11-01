@@ -77,3 +77,4 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — reports the opposite
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
 - [Undergraduate medical students taught via schema-based instruction significantly outperformed translation-based instruction students on an unseen achievement test of general English](sbi-outperforms-tbi-achievement-test-medical-students.md) — related
+- [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — reports the opposite

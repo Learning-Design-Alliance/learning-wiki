@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (65 show a difference, 27 mixed, 20 no difference) · 75 studies (29 associational, 18 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 13 of 75 report an effect size · 111 claims rest on one study
+> **Evidence** · 114 claims (66 show a difference, 27 mixed, 21 no difference) · 77 studies (29 associational, 20 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 14 of 77 report an effect size · 113 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -142,6 +142,8 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [ELL students taught by IC teachers outperform ELL controls in Math (0.147) and Science (0.139), marginal at p<.10](../claims/ic-ell-math-science-gains.md) [+M] — an instructional effect differs with it
 - [In kindergarten, English learner students benefited more from the embedded intervention in phonological awareness while non–English learner students benefited more from the standalone intervention in word reading](../claims/kindergarten-english-learner-status-interactions.md) [~W] — an instructional effect differs with it
 - [No differences between IC experimental and control non-ELL students in any content area](../claims/ic-no-effect-non-ell-students.md) [-M] — an instructional effect differs with it
+- [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](../claims/air-reading-no-significant-subgroup-differences.md) [-M] — an instructional effect differs with it
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](../claims/head-start-impacts-larger-for-dll-and-low-pretest-children.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

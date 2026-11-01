@@ -49,3 +49,4 @@ MMA rubric scoring of pretest and posttest answers (Table 8) for the EDI group (
 - [Expert validation rated the hypothetical EDI model as feasible across macro-strategy, micro-strategy, potential, and accommodation aspects](edi-expert-validation-ratings.md) — related
 - [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](se-prompts-harder-to-guess-questions.md) — related
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
+- [PBLCCS shows no significant advantage over EDI for mathematical curiosity attitude gains](pblccs-no-mca-advantage-over-edi.md) — related

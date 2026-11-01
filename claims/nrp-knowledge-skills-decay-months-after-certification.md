@@ -73,3 +73,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [Airway management skills decay significantly after training in both simulation-based and non-simulation based groups, with between-group differences no longer evident at follow-up](airway-skill-decay-both-training-groups.md) — related
 - [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](mock-code-training-pediatric-survival-increase.md) — related
+- [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related

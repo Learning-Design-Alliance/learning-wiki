@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 19 studies (7 review, 4 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (8 for, 4 mixed, 1 against) · 20 studies (7 review, 5 causal, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 9 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.
@@ -61,6 +61,7 @@ Integration activities convert learning from an isolated instructional event int
 - [Greater time and effort invested in the task correlate with better integration and smaller calibration error](../claims/engagement-correlates-integration-calibration.md) [~W]
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](../claims/immediate-reflection-situated-recall.md) [~W]
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](../claims/trainees-value-reflective-and-bereaved-caregiver-involvement.md) [+W]
+- [Most students believed mathematics teaching is more effective when it uses group work, builds on prior knowledge and connects topics, while few valued technology](../claims/students-rate-group-work-effective-teaching-feature.md) [~W]
 
 ## The evidence by question
 - *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]

@@ -43,6 +43,7 @@ The article describes an implementation strategy in which initial training cover
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
+- [Allow lead-in time for schools, provide ongoing TA support beyond initial training, and segment comprehension material into shorter, more varied pieces.](reach-implementation-improvement-strategies.md)
 
 ## Examples
 -

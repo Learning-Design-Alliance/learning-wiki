@@ -50,3 +50,4 @@ Two-year student-level randomized control trial: 251 kindergarten through second
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — possibly the same claim (merge candidate)
 - [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
 - [SPARK's reading achievement benefit was larger for lower-achieving students (4.4 RIT points, g = .36), with a significant SPARK-by-baseline interaction](spark-map-effect-larger-for-low-achievers.md) — related
+- [Switch-on Reading produces a small positive impact on reading (+0.24) for Year 7 weak readers in a waiting-list RCT](switch-on-reading-overall-effect-024.md) — related

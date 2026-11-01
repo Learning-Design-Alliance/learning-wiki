@@ -60,3 +60,4 @@ Pre-specified exploratory subgroup analyses added interaction terms (Pre-test ×
 - [Improvements in attainment were not significantly moderated by English as an additional language, ethnicity, FSM Ever 6 status, or prior attainment](perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment.md) — related
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](air-reading-no-significant-subgroup-differences.md) — related

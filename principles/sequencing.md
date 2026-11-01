@@ -223,6 +223,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Teach one-step equations in a hierarchical sequence: Type 1 without special features first, then Type 1 with special features, then Type 2 in the same order](../strategies/hierarchical-teaching-sequence-one-step-equations.md)
 - [Quantum Teaching content sequence: enroll, experience, demonstrate, and celebrate](../designs/qts-five-step-content-sequence.md)
 - [Sequence CBPS problems from easy to complex and monitor individual progress](../strategies/cbps-problem-difficulty-sequencing-strategy.md)
+- [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

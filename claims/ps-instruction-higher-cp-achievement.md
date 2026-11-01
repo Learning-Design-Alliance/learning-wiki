@@ -51,3 +51,4 @@ Quasi-experimental posttest-only study with control group; 18 sections cluster-r
 - [Experimental-group students taught with the hybrid CFC-analogy-template approach scored significantly higher than control-group students on the overall posttest (ProKT)](hybrid-approach-improves-introductory-programming-posttest.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — a broader claim this one bears on
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — a broader claim this one bears on
+- [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related

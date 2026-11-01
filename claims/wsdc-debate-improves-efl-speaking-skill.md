@@ -47,3 +47,4 @@ Paired sample t-test within the experimental group (n = 24) of the quasi-experim
 ## Related Claims
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — a broader claim this one bears on
 - [WSDC debate instruction significantly improved tenth-grade EFL students' critical thinking achievement within the experimental group](wsdc-debate-improves-efl-critical-thinking.md) — related
+- [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) — related

@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (88 show a difference, 19 mixed, 13 no difference) · 53 studies (26 associational, 18 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 21 of 53 report an effect size · 116 claims rest on one study
+> **Evidence** · 126 claims (92 show a difference, 19 mixed, 15 no difference) · 55 studies (26 associational, 20 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 23 of 55 report an effect size · 122 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -155,6 +155,12 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Sex has no significant effect on pupils' numeracy performance under meta-cognitive training in computer-mediated classrooms](../claims/sex-no-significant-effect-numeracy-performance.md) [-M] — learners who differ on it differ in outcomes
 - [The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row](../claims/intervention-group-15-percent-performance-variation.md) [~W] — instruction changes it
 - [The Mathematics and Reasoning programme had a significant positive impact on Year 2 pupils' numeracy ability, with an effect size of 0.20, equivalent to three additional months' progress](../claims/mathematics-reasoning-positive-numeracy-impact.md) [+W] — instruction changes it
+- [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](../claims/all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) [+M] — instruction changes it
+- [Among low-early-math-ability kindergarteners, supplemental training produced significantly higher improvement than an equally low-ability control group](../claims/low-ability-kindergarteners-training-outperforms-control.md) [+M] — instruction changes it
+- [Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test](../claims/low-ability-children-both-groups-significant-pre-post-gains.md) [+M] — instruction changes it
+- [Head Start impacts on vocabulary and numeracy are larger for dual language learners and low-pretest performers than for their peers](../claims/head-start-impacts-larger-for-dll-and-low-pretest-children.md) [+M] — an instructional effect differs with it
+- [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](../claims/cross-site-variation-in-cognitive-outcome-impacts.md) [-M] — instruction changes it
+- [No significant gender difference was found in early numeracy improvement in either experimental group](../claims/no-gender-difference-numeracy-improvement.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -44,7 +44,8 @@ Based on the experiment's finding that test-group students lost about 4 minutes 
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](../claims/positive-student-ratings-mobile-ar-application.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use AR applications with natural hardware markers for applied assembly and practice topics in vocational courses](ar-natural-markers-applied-vet-strategy.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The article recommends supplementing intent-to-treat estimates with complier ave
 ## Related Strategies
 
 - [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
+- [Consider selection into parent program participation when interpreting dosage effects and targeting recruitment in SEL interventions](sel-parent-dosage-selection-targeting-strategy.md)
 
 ## Examples
 -

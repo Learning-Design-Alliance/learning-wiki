@@ -48,3 +48,5 @@ Stepwise regression analysis on the study's SOLOM-based speaking data (Table 5, 
 - [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](pbl-improves-efl-speaking-proficiency.md) — related
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
+- [In the experimental group, fluency was the largest stepwise-regression contributor to speaking achievement (81% partial contribution)](fluency-highest-speaking-aspect-contribution.md) — related
+- [The Small Group Activity group outperformed the Individual Activity group on all five measured speaking aspects (vocabulary, fluency, grammar, pronunciation, comprehension)](small-group-video-all-five-speaking-aspects.md) — related

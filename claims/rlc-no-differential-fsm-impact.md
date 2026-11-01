@@ -71,3 +71,5 @@ Pre-specified subgroup analysis of the pupil outcome trial comparing FSMever and
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
 - [Pupils at Level 4a and above, who received the intervention only in Year 6, showed no significant writing benefit](srsd-no-effect-level-4a-above-year6-only.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
+- [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related

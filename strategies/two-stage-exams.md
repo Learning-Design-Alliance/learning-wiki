@@ -63,6 +63,7 @@ Two-stage exams convert summative assessment into a learning event: the individu
 - [Peer Instruction](../strategies/peer-instruction.md) — the in-class analogue: individual vote, peer discussion, revote; two-stage exams apply the same cycle to assessment
 - [Team-Based Learning](../strategies/team-based-learning.md) — institutionalizes the individual-then-team readiness assurance cycle across a whole course
 - [Reevaluate online assessment security and assessment formats in light of LLM performance on comprehension exams](reevaluate-assessment-chatgpt-integrity.md)
+- [Run a team-based answer-until-correct scratch-off review before exams](team-ifat-consensus-review-strategy.md)
 
 ## Examples
 - **University of British Columbia** — Carl Wieman Science Education Initiative courses in physics and chemistry routinely use two-stage midterm and final exams; group stages use the same questions with a 15–25% weight ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

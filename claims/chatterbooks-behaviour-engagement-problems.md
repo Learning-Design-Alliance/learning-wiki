@@ -50,3 +50,4 @@ Process evaluation based on observations of intervention sessions, telephone int
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — reports the opposite
 - [Process evaluation found that session timing, pupil resentment and poor behaviour undermined engagement in Rhythm for Reading sessions](rhythm-for-reading-engagement-behaviour-problems.md) — a narrower finding that bears on this claim
 - [SMART Spaces was feasibly delivered in English schools, with teachers reporting faithful delivery and positive engagement](smart-spaces-feasible-delivery-english-schools.md) — reports the opposite
+- [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — reports the opposite

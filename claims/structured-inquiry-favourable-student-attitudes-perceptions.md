@@ -48,3 +48,4 @@ Descriptive comparison of a 20-question attitude and perception questionnaire (i
 - [Learning model interacts with student attitudes and perceptions in affecting geometry concept understanding](interaction-learning-model-attitudes-geometry-understanding.md) — related
 - [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
+- [PBLCCS shows no significant advantage over EDI for mathematical curiosity attitude gains](pblccs-no-mca-advantage-over-edi.md) — related

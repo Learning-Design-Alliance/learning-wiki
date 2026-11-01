@@ -60,3 +60,4 @@ Critical thinking was measured with the researcher-built [CTTBE: Critical Thinki
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — reports the opposite
 - [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](rcl-critical-thinking-posttest-higher-than-pbl.md) — related
+- [A larger share of the group-work class (47.8%) than the control class (37.5%) scored better on integration questions than on the rest of the exam](group-work-larger-share-better-integration.md) — related
