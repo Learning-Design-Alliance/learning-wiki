@@ -58,3 +58,6 @@ Quasi-experimental pre-test, post-test, non-randomized control group study of 24
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — a narrower finding that bears on this claim
 - [Ninth graders taught pre-vocational education with practical presentations achieved higher post-test scores than peers taught by lecturing](practical-presentations-higher-achievement-than-lecturing.md) — related
+- [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](make-a-match-higher-posttest-geography-principles.md) — related
+- [Poem-enhanced instruction produced higher posttest interest than game-enhanced and modified lecture instruction](peis-beats-geis-and-mlis-interest.md) — related
+- [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related

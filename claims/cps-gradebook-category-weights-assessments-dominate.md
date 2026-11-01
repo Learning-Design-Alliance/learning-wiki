@@ -56,3 +56,4 @@ Descriptive analysis of section/category family/student records (N=86,533, Table
 - [Most CPS ninth-grade math teachers used two or three grading category families, averaging 2.43 families per section](cps-gradebook-two-or-three-category-families.md) — related
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
+- [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related

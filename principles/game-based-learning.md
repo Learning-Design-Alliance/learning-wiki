@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (44 for, 43 mixed, 2 against) · 68 studies (21 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 68 report an effect size · 83 claims rest on one study
+> **Evidence** · 90 claims (44 for, 43 mixed, 3 against) · 69 studies (22 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 21 of 69 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -210,6 +210,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Game implementations were mostly single-institution and single-setting, limiting evidence quality and diffusion](../claims/single-institution-single-setting-implementations.md) [-W]
 - [The quality of evidence on the effectiveness of serious games in medical education is moderate as assessed by MERSQI](../claims/serious-games-medical-education-moderate-evidence.md) [~W]
 - [A serious game simulation complementing CPR instruction improved theoretical knowledge but not CPR skills](../claims/serious-game-improves-cpr-knowledge-not-skills.md) [~W]
+- [The omnibus multivariate effect of the digital game delivery method on the two achievement outcomes was non-significant with a small printed effect size (Partial η² = .04)](../claims/manova-omnibus-dgbl-effect-negligible.md) [-W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

@@ -46,3 +46,4 @@ Descriptive results from the quasi-experimental pre/posttest comparison reported
 
 ## Related Claims
 - [A contextual teaching and learning curriculum produced no statistically significant difference in pre/posttest gain versus a scientific-basis curriculum in a postsecondary agricultural biotechnology course](ctl-no-significant-gain-difference-ag-biotech.md) — possibly the same claim (merge candidate)
+- [All three instructional groups improved from pretest to posttest, with the blended learning group showing the highest mean gain score](mean-gain-scores-blended-elearning-traditional.md) — related

@@ -53,3 +53,4 @@ Cluster randomized controlled trial (meets WWC standards without reservations) o
 - [The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth](intervention-vocabulary-depth-significant-breadth-not.md) — related
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) — related
 - [World of Words has positive effects on the language outcome domain for prekindergarten children, with an average effect size of 0.43 across four studies](world-of-words-positive-language-effects.md) — a broader claim this one bears on
+- [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related

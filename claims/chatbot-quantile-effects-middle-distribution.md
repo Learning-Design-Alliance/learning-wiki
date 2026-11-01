@@ -54,3 +54,4 @@ Quantile regression estimates (Koenker & Bassett, 1978) pooled across both cours
 - [Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics](chatbot-completion-effects-differ-by-subject.md) — related
 - [Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses](chatbot-outreach-increases-ab-grades.md) — related
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
+- [GAMLSS is preferred over quantile regression when the total outcome distribution is of interest, while quantile regression suits specific quantile regions](gamlss-preferred-over-quantile-regression-total-distribution.md) — related

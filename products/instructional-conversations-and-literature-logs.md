@@ -19,7 +19,7 @@ sources:
 # Instructional Conversations and Literature Logs
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 causal, 1 quant-synthesis), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 A programme developed by William Saunders and Claude Goldenberg for English language learners that combines teacher-facilitated small-group instructional conversations with literature-log writing and sharing.
@@ -28,6 +28,7 @@ A programme developed by William Saunders and Claude Goldenberg for English lang
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Instructional Conversations and Literature Logs intervention for English language learners**: An intervention developed by William Saunders and Claude Goldenberg combining two components for English language learners. Instructional Conversations are "small-group discussions" in which teachers, "acting as facilitators", engage learners in discussion of stories, key concepts, and personal experiences. Literature Logs require learners "to write in a log in response to writing prompts or questions related to sections of stories", with responses shared in small groups or with a partner. The goal is reading comprehension ability along with English language proficiency. (What Works Clearinghouse (2006))
 - **Theory of change: IC effects on achievement mediated by cognitive, affective, and second language development**: The article's theory of change posits that enacting the five standards of effective teaching generates a sufficiently high level of responsive assistance for ELLs that increases student learning. As printed, "it is posited that as the five standards of effective teaching are enacted, a sufficiently high level of responsive assis- tance for ELLs can be generated that increases student learning," working mainly through the interaction of cognitive, affective, and second language development produced in regular conversational experiences framed around academic goals and contextualized instruction (Figure 1). The model draws on cognitive-developmental and cultural-historical theory, with the transition from external to self-regulation in English modeled and practiced regularly during ICs. (Portes et al. (2018))
+- **Instructional Conversation (IC) theory of change: conversational, cognitively demanding small-group pedagogy improves ELL achievement through interaction of cognitive and second-language development**: The Instructional Conversation is described as "a complete classroom pedagogy that focuses on teaching through small-group dialogue with students allowing responsive instruction for each student." Its theory of change predicts that once the IC's critical components are well implemented, responsive assistance can significantly improve ELL academic achievement, working through the interaction of cognitive and second-language development produced by conversational experiences framed around specific academic goals. The model aims to promote higher-order thinking skills contributing to reading comprehension through mediated learning activities, and is anchored by cognitive-developmental and cultural-historical theory (Vygotsky). (Portes et al. (2016))
 
 ### Claims
 - [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](../claims/ic-ll-english-language-development-unconfirmed.md) [+W]
@@ -36,6 +37,8 @@ A programme developed by William Saunders and Claude Goldenberg for English lang
 - [Instructional Conversations and Literature Logs produce statistically significant positive effects on factual and interpretive story comprehension in a short-term randomized trial with English language learners](../claims/ic-ll-significant-story-comprehension-rct.md) [+W]
 - [When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention](../claims/ic-ll-single-component-effects-nonsignificant.md) [+W]
 - [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](../claims/fast-forword-improvement-index-eld-reading.md) [+W]
+- [ELL students taught by IC teachers outperform ELL control students in English Language Arts by .25 (p<.001)](../claims/ic-ell-ela-outperformance.md) [+M]
+- [No differences between IC experimental and control non-ELL students in any content area](../claims/ic-no-effect-non-ell-students.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -44,6 +47,7 @@ A programme developed by William Saunders and Claude Goldenberg for English lang
 - What Works Clearinghouse, U.S. Department of Education. (2006). Instructional Conversations and Literature Logs — WWC Intervention Report. http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html
 <!-- merged 2026-10-10 from elements/instructional-conversations-literature-logs-intervention ("Instructional Conversations and Literature Logs intervention for English language learners"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Portes, P. R., González Canché, M., Boada, D., & Whatley, M. E. (2018). Early Evaluation Findings From the Instructional Conversation Study: Culturally Responsive Teaching Outcomes for Diverse Learners in Elementary School. American Educational Research Journal. https://doi.org/10.3102/0002831217741089
+- Portes, P. R., Gonzalez Canche, M. S., & Stollberg, R. (2016). Early RCT Findings for ELL Elementary Student Learning Outcomes After a Two-Year Pedagogical Intervention. SREE Spring 2016 Conference.
 
 # Instructional Conversations and Literature Logs intervention for English language learners
 

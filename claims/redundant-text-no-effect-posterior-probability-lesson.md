@@ -49,3 +49,5 @@ Mixed-effects model comparing diagram-with-redundant-text and diagram-without-re
 - [Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions](diagrams-help-posttest-only-read-twice-condition.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
+- [For students who answered the pretest incorrectly, diagrams helped only in the read-twice control condition and only when the diagram information was also presented in the text](diagram-redundant-text-benefit-pretest-incorrect-read-twice.md) — related
+- [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related

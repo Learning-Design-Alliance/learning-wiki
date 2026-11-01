@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (17 for, 4 mixed) · 29 studies (14 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 29 report an effect size · 14 claims rest on one study
+> **Evidence** · 22 claims (17 for, 4 mixed, 1 against) · 30 studies (15 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 30 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Choosing a method, writing a correct equation, solving correctly, explaining why
 
 - [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [+W]
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
+- [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](../claims/sbi-did-not-moderate-growth-over-time.md) [-W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions

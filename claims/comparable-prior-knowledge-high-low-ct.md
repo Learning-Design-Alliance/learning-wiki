@@ -54,3 +54,5 @@ Independent samples t-test on pretest scores of both groups (Levene's test indic
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [The TIP and educational games groups were equivalent in prior literacy knowledge at pre-test](tip-games-groups-equivalent-pretest-literacy.md) — related
+- [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The proficiency grouping procedure produced a very large pre-test difference between high- and low-proficiency groups](proficiency-grouping-large-pretest-difference.md) — related

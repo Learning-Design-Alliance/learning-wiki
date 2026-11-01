@@ -52,3 +52,4 @@ Omnibus 2×2×2×2 mixed ANOVA (test time within; medium, complexity, engagement
 - [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — a narrower finding that bears on this claim
 - [Lab-based versus textbook-based instruction produced no significant difference in novices' quiz learning over the experiment's timecourse](no-group-effect-quiz-lab-vs-textbook.md) — related
+- [In Experiment 2, reading the textbook-plus-story produced higher quiz scores than reading either version of the textbook alone, while the story outperformed the photocopied textbook](combined-story-textbook-highest-quiz.md) — related

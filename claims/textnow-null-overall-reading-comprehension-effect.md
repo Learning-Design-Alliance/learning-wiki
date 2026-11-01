@@ -1,0 +1,51 @@
+---
+type: claim
+title: The TextNow Transition Programme did not significantly improve reading comprehension at the primary-secondary transition; participating pupils made slightly less progress than controls
+description: The TextNow Transition Programme did not significantly improve reading comprehension at the primary-secondary transition; participating pupils made slightly less progress than controls
+id: textnow-null-overall-reading-comprehension-effect
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2014
+sources:
+  - id: maxwell-2014
+    resource: "https://eric.ed.gov/?id=ED581131"
+    title: "Maxwell, B., Connolly, P., Demack, S., O'Hare, L., Stevens, A., & Clague, L. (2014). TextNow Transition Programme: Evaluation Report and Executive Summary. Education Endowment Foundation. https://eric.ed.gov/?id=ED581131"
+    author: "Maxwell, B., Connolly, P., Demack, S., O'Hare, L., Stevens, A., & Clague, L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# The TextNow Transition Programme did not significantly improve reading comprehension at the primary-secondary transition; participating pupils made slightly less progress than controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` On average, pupils who participated in the TextNow Transition Programme made slightly less progress in reading comprehension than similar pupils who did not, but the difference was not statistically significant. [→ Maxwell 2014](#maxwell-2014)
+
+## Evidence
+
+### Maxwell 2014
+
+Maxwell, B., Connolly, P., Demack, S., O'Hare, L., Stevens, A., & Clague, L. (2014). TextNow Transition Programme: Evaluation Report and Executive Summary. Education Endowment Foundation. https://eric.ed.gov/?id=ED581131
+
+`q3 · i?` · `causal · r2`
+
+Individually randomised, school-blocked controlled trial of the TextNow Transition Programme; multilevel intent-to-treat analysis of the New Group Reading Test primary outcome for 391 pupils found the intervention group made "approximately one month s less progress" than controls, not statistically significant (reported effect size -0.06, 95% CI -0.22 to +0.09).
+
+> "On average, pupils participating in the programme made less progress than those who did not. The size of the difference was small, and can be envisaged as saying that pupils who participated in the programme made approximately one month s less progress than those who did not."
+
+## Discussion
+
+
+## Related Claims
+- [The TextNow programme produced no statistically significant difference in enjoyment of reading or motivation to read compared with the comparison group](textnow-secondary-reading-attitudes-null.md) — related
+- [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](textnow-attendance-dosage-effect.md) — related
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
+- [The programme appeared more effective when coaches were highly trained, enthusiastic and committed and when secondary schools worked closely with feeder primaries](textnow-implementation-facilitators.md) — related

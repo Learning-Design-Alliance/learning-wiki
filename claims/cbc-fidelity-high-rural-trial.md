@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: sheridan-2017
     resource: "https://www.elsevier.com/journals/journal-of-school-psychology/0022-4405/guide-for-authors"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers implemented plan steps with high quality (mean overall quality 1.56 on a 0-2 scale). [→ Sheridan 2017](#sheridan-2017)

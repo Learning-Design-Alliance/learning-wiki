@@ -53,3 +53,5 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
+- [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — reports the opposite
+- [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — reports the opposite

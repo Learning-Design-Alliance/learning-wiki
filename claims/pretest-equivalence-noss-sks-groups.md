@@ -69,3 +69,6 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [A contextual teaching and learning curriculum produced no statistically significant difference in pre/posttest gain versus a scientific-basis curriculum in a postsecondary agricultural biotechnology course](ctl-no-significant-gain-difference-ag-biotech.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related
+- [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — related
+- [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
+- [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related

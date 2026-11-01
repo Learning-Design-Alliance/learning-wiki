@@ -49,3 +49,4 @@ Random-effects synthesis of the treatment categories in Table 3 (inquiry-based l
 - Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied — related
 - Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
 - [Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching](robotics-creativity-teaching-method-moderator.md) — related
+- [Demonstration strategy has the most significant effect on students’ academic performance in Electrical Installation among the four strategies compared](demonstration-most-effective-strategy-electrical-installation.md) — related

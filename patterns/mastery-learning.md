@@ -30,7 +30,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (13 for, 15 mixed, 2 against) · 26 studies (7 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 7 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 27 studies (8 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 27 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -108,6 +108,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](../claims/mastery-control-no-entry-differences.md) [~W]
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~W]
+- [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Mastery learning instructional cycle of units, formative tests, and corrective instruction"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

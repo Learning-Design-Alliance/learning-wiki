@@ -49,3 +49,4 @@ Likelihood-ratio tests of sex differences in mean EA within each of four SES gro
 - [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](timed-test-gender-gap-underpredicts-college-performance.md) — related
 - [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — related
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
+- [Descriptive results suggest the gap between high-achieving and low-achieving students narrowed during the music-mathematics intervention](music-math-intervention-reduced-achievement-gap.md) — related

@@ -47,7 +47,8 @@ Based on the pooled positive effect sizes for achievement, retention and attitud
 - [The 5E and related models significantly improve mathematics achievement (g = 0.70), though sensitivity analyses suggest the estimate may be smaller in practice](../claims/5e-model-improves-math-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers should prepare active learning environments and create 5E-based techniques across subjects](prepare-active-5e-learning-environments.md)
 
 ## Examples
 -

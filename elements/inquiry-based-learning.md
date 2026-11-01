@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (16 for, 5 mixed, 3 against) · 27 studies (9 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (16 for, 7 mixed, 3 against) · 28 studies (10 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 22 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -73,6 +73,8 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching](../claims/5e-model-large-effect-science-process-skills.md) [+W]
 - [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](../claims/blended-instruction-teaching-methods-effect-differences.md) [+W]
 - [Self- and peer-assessment showed no big differences between groups except a more intensive inquiry process in the scaffolded group](../claims/self-peer-assessment-inquiry-process-scaffolded-advantage.md) [~W]
+- [There is a significant difference in effectiveness among inquiry learning Levels 2, 3, and 4 in improving Grade X students' science process skills](../claims/significant-difference-among-inquiry-levels-2-3-4-process-skills.md) [~W]
+- [Inquiry learning Level 3 is more effective than Level 4 in improving process skills, with no significant difference between Levels 2 and 3](../claims/ill3-more-effective-than-ill4-process-skills.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

@@ -92,3 +92,4 @@ Follow-up comparison within the male-model condition: female students (M = 3.11)
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
+- [Male and female students show different tendencies in which media scaffolding they use](gender-tendencies-media-scaffolding-choice.md) — related

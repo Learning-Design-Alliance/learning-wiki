@@ -58,3 +58,5 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
 - Prior knowledge and ability levels controlled via semester evaluation score — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
+- [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related

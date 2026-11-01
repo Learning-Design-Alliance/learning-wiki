@@ -51,3 +51,4 @@ Khalid A. Alsoudi. (2017). The Effect of Using K.W.L Strategy upon Acquiring Rel
 - [No statistically significant interaction between gender and teaching strategy on acquiring religious concepts](no-gender-strategy-interaction-kwl.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
+- [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related

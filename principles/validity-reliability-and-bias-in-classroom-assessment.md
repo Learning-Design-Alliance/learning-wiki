@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 349 claims (153 for, 172 mixed, 24 against) · 261 studies (90 associational, 61 design, 45 review, 25 theoretical, 24 causal, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 261 report an effect size · 342 claims rest on one study
+> **Evidence** · 350 claims (153 for, 173 mixed, 24 against) · 262 studies (90 associational, 61 design, 45 review, 25 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 262 report an effect size · 343 claims rest on one study
 
 ## Conditional relationship
 
@@ -423,6 +423,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Morse's nasogastric tube tool assesses interpersonal skills with only four tube-preparation items and no reliability or validity data](../claims/ng-tube-tool-incomplete-procedural-assessment.md) [~W]
 - [Infant 1 and 2 students showed no statistically significant main or cross-level CREST treatment effects, which the authors attribute to low measurement reliability in ages 4-5](../claims/crest-null-effects-infant-1-2.md) [~W]
 - [The Turkish SATS-36 showed a six-factor structure with adequate fit, Rasch item parameters and acceptable-to-good reliability in this sample](../claims/sats36-turkish-six-factor-validation-sample.md) [+W]
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](../claims/sra-instrument-cronbach-alpha-82-pilot.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

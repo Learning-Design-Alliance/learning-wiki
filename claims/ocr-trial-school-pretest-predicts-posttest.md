@@ -50,3 +50,5 @@ Multilevel (student, school, district) ITT model with grand-centered school-mean
 ## Related Claims
 - [School-level assignment to the Open Court Reading (Imagine It!) curriculum does not produce a statistically significant impact on elementary students' reading achievement relative to business-as-usual control curricula in either study year](ocr-scale-up-no-significant-overall-reading-impact.md) — related
 - [The prognostic power of domain-identical pretests degrades with longer pre-posttest time lags, most strongly at the student level](ip-validity-decay-time-lags.md) — related
+- [School-mean fall GMADE pretest scores strongly predicted spring posttest math achievement in the year-one EM trial](em-school-pretest-predicts-posttest.md) — related
+- [School-mean pretest scores strongly predict spring posttest math achievement in the trial's three-level model](school-pretest-predicts-posttest-em-trial.md) — related

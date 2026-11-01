@@ -48,3 +48,4 @@ Authors' observational account from lessons conducted during the eight-week trea
 - [Teaching reading comprehension with prior knowledge questions improves primary pupils' reading comprehension performance](prior-knowledge-questions-improve-reading-comprehension.md) — related
 - [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — a broader claim this one bears on
 - [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](active-engagement-insufficient-cycle1-volume-item.md) — related
+- [JPA lessons showed increased learner involvement and participation compared with passive traditional lessons](jpa-increases-learner-involvement-participation.md) — related

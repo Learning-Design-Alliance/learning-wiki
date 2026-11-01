@@ -57,3 +57,4 @@ Independent-samples t-tests on MSLQ learning-strategy factors comparing the 67-s
 - [Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies](successful-readers-global-support-strategy-difference.md) — related
 - [Achievement, effort-related variables, (meta-)cognitive learning strategies, and goal orientations are the most frequently reported correlates of motivation regulation](most-frequent-correlates-of-motivation-regulation.md) — related
 - [Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability](effective-regulators-higher-goals-metacognition-strategies-exam.md) — related
+- [The proficiency grouping procedure produced a very large pre-test difference between high- and low-proficiency groups](proficiency-grouping-large-pretest-difference.md) — related

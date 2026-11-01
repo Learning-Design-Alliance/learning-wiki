@@ -53,3 +53,4 @@ Subgroup analysis of the cluster RCT's Progress in English 12 outcomes for FSM-e
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [A year of Learning through REAL Projects had no clear impact on Year 7 pupils' literacy attainment](pbl-real-projects-no-literacy-impact.md) — related
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related

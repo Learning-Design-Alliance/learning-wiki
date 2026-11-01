@@ -54,3 +54,4 @@ ANOVA on the problem solution criterion (same 48-student design) found the strat
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — related
+- [PBL-treated undergraduates produced more accurate problem solutions than non-PBL controls after one semester](pbl-improves-solution-accuracy-malaysian-undergraduates.md) — related

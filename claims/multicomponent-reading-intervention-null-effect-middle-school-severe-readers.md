@@ -53,3 +53,5 @@ Randomized experiment in one urban middle school: 38 students in grades 6–8 ra
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Group size in grades 4–9 reading interventions typically varies, with smaller groups in grades 4 and 5 than in middle and high school elective reading courses](reading-intervention-group-size-varies-by-grade-band.md) — related
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — reports the opposite
+- [The intervention produced no statistically significant effects on standardized measures of reading comprehension](no-transfer-to-standardized-reading-comprehension.md) — related
+- [The text-processing intervention significantly improved struggling middle school readers' identification of key words and main ideas on a proximal measure](text-processing-intervention-proximal-main-idea-gain.md) — related

@@ -45,4 +45,5 @@ OLS models with treatment, gender, grade, and two-way interactions (Tables 8 and
 
 
 ## Related Claims
--
+- [The ELL ELA gain is driven mainly by fifth-grade female ELL students (β = .342, p<.001)](ic-ell-fifth-grade-female-drivers.md) — related
+- [ELL students taught by IC teachers outperform ELL controls in Math (0.147) and Science (0.139), marginal at p<.10](ic-ell-math-science-gains.md) — related

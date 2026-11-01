@@ -58,3 +58,4 @@ One-way ANCOVAs (baseline mindset covariate) comparing intervention (n = 72) and
 - [Learning biologically primary words is rated as more enjoyable and more interesting than learning biologically secondary words](primary-words-more-enjoyable-interesting.md) — related
 - [Adults recall more biologically primary knowledge words than biologically secondary knowledge words in a paired vocabulary learning task](primary-words-recalled-better-than-secondary-words.md) — related
 - [Field experiment: strategic mindset intervention benefits academically prepared students' strategy use but not lower-performing students](strategic-mindset-field-intervention-moderated-by-preparedness.md) — related
+- [The TextNow programme produced no statistically significant difference in enjoyment of reading or motivation to read compared with the comparison group](textnow-secondary-reading-attitudes-null.md) — related

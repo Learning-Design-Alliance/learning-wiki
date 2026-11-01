@@ -26,7 +26,8 @@ A 50-item multiple-choice instrument developed and validated by AbdulRaheem et a
 - [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](../claims/5es-higher-civic-literacy-scores.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Electrical Installation Achievement Test (EIAT)](electrical-installation-achievement-test-eiat.md)
 
 ## Key Sources
 - AbdulRaheem, Y., Bello, M. B., & Odutayo, A. O. (2018). In Search of a More Effective Strategy: Using the 5E Instructional Strategy to Teach Civic Education in Senior Secondary Schools in Ilorin, Nigeria. Journal of International Social Studies, 8(1), 62-85. http://www.iajiss.org

@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 23 studies (8 associational, 6 review, 2 causal, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 23 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 24 studies (8 associational, 6 review, 3 causal, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Early-grade levels, growth across a year, later-grade achievement and the learne
 
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](../claims/calculus1-need-not-prerequisite-lower-level-cs.md) [~W]
 - [In one module, a student with an outlier course score of 41 had outer-fringe readiness comparable to groupmates scoring 64–81, illustrating readiness not captured by a unidimensional score](../claims/outlier-score-student-similar-module-readiness.md) [~W]
+- [The three study groups differed significantly in prior knowledge of electrochemical cells before instruction, with the CLMG group starting highest](../claims/pretest-differences-electrochemical-groups.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md) — once a mismatch between student readiness and task demand is identified, scaffolding is one primary response

@@ -50,3 +50,9 @@ Independent-samples t-test on post-test scores of the male and female Telegram e
 ## Related Claims
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
+- [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — related
+- [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — related
+- [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
+- [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
+- [Gender shows no significant difference in reading comprehension achievement between experimental and control groups in the Ekiti quasi-experiment](no-gender-difference-reading-comprehension-ekiti.md) — related
+- [No significant gender difference in mathematics achievement within the performance-assessment experimental group](no-gender-gap-in-pa-experimental-group.md) — related

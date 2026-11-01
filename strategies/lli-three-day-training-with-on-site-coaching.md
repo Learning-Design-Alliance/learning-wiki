@@ -47,6 +47,7 @@ The summary recommends that LLI Interventionists receive formal 3-day LLI traini
 - [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
 - [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
+- [Run an after-school literacy tutoring program pairing an existing after-school site, a structured scripted curriculum, and service-learning college student tutors](service-learning-after-school-tutoring-model.md)
 
 ## Examples
 -

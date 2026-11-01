@@ -63,6 +63,7 @@ Pretesting exploits the finding that unsuccessful retrieval attempts enhance lat
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — prequestions serve this function as a byproduct, surfacing what learners already believe about the topic
 - [Productive failure](../claims/productive-failure-improves-conceptual-learning.md) [+W] — the extended, problem-based version of pretesting used before conceptual instruction
 - [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
+- [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](pre-questioning-strategy-recipe.md)
 
 ## Examples
 - **Kornell's inductive-learning experiments** — participants guessed which painting style matched an artist before being told, and later identified artists better than a no-pretest control group ([Kornell, Hays & Bjork, 2009](https://doi.org/10.1037/a0015273))

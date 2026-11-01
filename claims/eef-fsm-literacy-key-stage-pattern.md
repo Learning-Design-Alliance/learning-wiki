@@ -50,3 +50,4 @@ Subgroup IPD meta-analysis of literacy outcomes by Key Stage (Table 9), based on
 - [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related

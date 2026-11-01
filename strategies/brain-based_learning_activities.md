@@ -64,6 +64,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 - [Brain Breaks](../strategies/brain-breaks.md) — the movement component isolated as its own routine
 - [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
 - [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
+- [Deliver explicit nursery rhyme instruction through multisensory visual, auditory, tactile-kinesthetic and hands-on activities in short weekly sessions](multisensory-nursery-rhyme-instruction-sessions.md)
 
 ## Examples
 - **[Gallery Walk](gallery-walk.md)** — learners post work on walls, circulate in small groups, and leave written feedback; combines movement, visual encoding, and peer critique

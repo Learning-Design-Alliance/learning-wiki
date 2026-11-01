@@ -54,3 +54,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses](gpt4-diagnosis-accuracy-varies-by-error-type.md) — related
 - [Longitudinal learner data reveal individual differences in grammar acquisition not apparent in aggregate data, calling for fine-grained student models](longitudinal-data-reveal-fine-grained-learner-variability.md) — related
 - [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](trace-error-patterns-misconceptions-confusion-vrts.md) — related
+- [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](salt-bridge-ion-passage-misconception-all-groups.md) — related

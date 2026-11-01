@@ -51,3 +51,4 @@ Semi-structured interviews with five randomly chosen mobile learning group stude
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
+- [Pre-service teachers liked SWBL's facilitating learning, anywhere/anytime access, just-in-time learning, ease of use, meaningful learning and reliability, but disliked reduced classroom communication and Internet dependence](swbl-liked-and-disliked-features-themes.md) — related

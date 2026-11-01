@@ -54,3 +54,4 @@ Repeated measures ANCOVAs collapsed across instructional group with the four WJ 
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — related
 - [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related
+- [Struggling K–6 readers tutored twice weekly by minimally trained college students made significantly greater gains than controls in letter-word identification, word attack, and passage comprehension](structured-tutoring-gains-wlpb.md) — related

@@ -50,3 +50,4 @@ Authors' interpretation (type e), not a tested result: a comprehensive evaluatio
 - [A single retention-test comparison found online learning more effective than offline learning (SMD = 4.64)](retention-test-online-favored-single-study.md) — related
 - [Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments](online-advantage-limited-to-simple-goals.md) — related
 - [The post-test advantage for online learning persists after excluding the single most influential study (SMD = 0.68)](post-test-advantage-persists-without-subramanian.md) — related
+- [Students' science skills and experience being matched to the instruction level explains why ILL-3 was most effective](matching-inquiry-level-to-student-competence.md) — related

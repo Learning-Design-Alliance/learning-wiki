@@ -68,3 +68,4 @@ Descriptive comparison of mean gain scores from Table 1 of the quasi-experiment:
 - [Civic education teaching in Nigerian secondary schools has been dominated by teacher-centered strategies emphasizing transmission of civic information](teacher-centered-civic-education-nigeria.md) — related
 - [The 5E instructional model produced significantly higher posttest mathematics achievement than traditional instruction in a Nigerian quasi-experiment](5e-model-improves-math-achievement-nigeria.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related

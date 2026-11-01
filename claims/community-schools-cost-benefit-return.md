@@ -48,3 +48,4 @@ The report's synthesis of 4 cost-benefit studies of community school initiatives
 - [Cost analyses find community schools return $3 to $15 for every dollar spent](community-schools-return-on-investment.md) — related
 - [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related
 - Education interventions across early childhood, secondary, higher education, integration, and comprehensive programs generate net taxpayer benefits of approximately $2 to over $10 per dollar invested. — a broader claim this one bears on
+- [The SET intervention's benefits per participant ($7,510) outweigh its costs ($540), yielding a benefit-cost ratio of 14:1 and a net present value of $6,970](set-benefit-cost-ratio-14-to-1.md) — related

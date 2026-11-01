@@ -51,3 +51,5 @@ Subgroup IPD meta-analysis by intervention type (Table 11; 24 one-to-one, 17 sma
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](cmc-small-group-sizes-largest-effect.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
+- [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — related
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related

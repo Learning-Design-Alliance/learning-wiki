@@ -51,3 +51,4 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [Excel-based statistics instruction improved pre-service teachers' attitudes towards statistics more than theoretical instruction on all six SATS-36 factors](excel-instruction-improves-attitudes-towards-statistics.md) — related
 - [Control and experiment groups did not differ significantly in attitudes towards statistics before instruction](pretest-no-attitude-differences-control-experiment.md) — possibly the same claim (merge candidate)
+- [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related

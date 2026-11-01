@@ -71,3 +71,6 @@ The review reports Wolf et al. (2010) found "teaching additional courses during 
 - [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](lower-initial-self-efficacy-predicts-peer-help.md) — related
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
 - [Increasing math self-efficacy co-occurs with increasing verbal persuasion, vicarious experiences, and mastery experiences and decreasing negative arousal](increasing-se-social-sources-support.md) — reports the opposite
+- [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](false-sense-of-mathematics-self-efficacy-social-comparison.md) — related
+- [The MTIS treatment did not significantly change preservice agricultural teachers' mathematics teaching efficacy, though experimental-group scores descriptively declined](mtis-no-effect-mathematics-teaching-efficacy.md) — related
+- [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](mtis-no-effect-personal-teaching-efficacy.md) — related

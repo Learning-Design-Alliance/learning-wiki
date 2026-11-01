@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (44 for, 57 mixed, 4 against) · 81 studies (38 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 81 report an effect size · 96 claims rest on one study
+> **Evidence** · 106 claims (45 for, 57 mixed, 4 against) · 82 studies (39 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 82 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [~W] — attached 2026-10-30 from Korving et al. (2016), which proposed "Use a large lecturer video for weblectures longer than 15 minutes; use large slides for shorter weblectures".
 - [Natural frequencies combined with graphical aids produced the highest proportion of correct post-test probability estimates in one RCT](../claims/natural-frequencies-graphical-aids-highest-correct-estimates.md) [+W] — attached 2026-11-01 from Whiting Penny F et al. (2015), which proposed "Use visual aids alongside frequency or probability formats to further improve post-test probability estimation"; tests this page's relationship.
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Use animation models to clarify persistent science misconceptions and support achievement where traditional instruction leaves them intact"; tests this page's relationship.
+- [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Integrate educationally valid pictures purposefully into ESP reading textbooks"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

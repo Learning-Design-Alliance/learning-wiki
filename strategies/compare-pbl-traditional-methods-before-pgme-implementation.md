@@ -58,6 +58,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 - [Use both qualitative and quantitative research designs, including longitudinal follow-up, to clarify which aspects of residency training best prepare doctors](mixed-methods-longitudinal-residency-outcomes-research.md)
 - [Conduct multi-centre, multi-country randomised controlled trials with adequate confounding adjustment to clarify PBL-career associations](multicentre-rct-pbl-career-recommendation.md)
+- [Compare discovery-based activities to a lecture on identical content to isolate the benefit of direct manipulation](compare-daa-to-lecture-same-content.md)
 
 ## Examples
 -

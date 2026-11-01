@@ -57,3 +57,4 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — a narrower finding that bears on this claim
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](mmls-outperformed-conventional-efl.md) — related
+- [University EFL students taught with VSSPlus significantly outperformed students taught with VSS on a post vocabulary achievement test](vssplus-outperformed-vss-post-vat.md) — related

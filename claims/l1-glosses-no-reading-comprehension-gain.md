@@ -55,3 +55,4 @@ Reading comprehension posttest (5 multiple-choice items) for the combined 135 pa
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
+- [The review reports that pre-reading activities have received abundant empirical support for enhancing EFL reading comprehension across contexts](prereading-activities-enhance-comprehension-empirical-support.md) — related

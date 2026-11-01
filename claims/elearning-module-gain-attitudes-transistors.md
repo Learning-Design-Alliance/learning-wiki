@@ -49,3 +49,4 @@ Quasi-experimental Solomon-three study: independent-sample t-test comparing atti
 - [No significant post-test attitude difference was found between the e-learning-taught group and the conventionally taught group when both were pre-tested](elearning-vs-conventional-posttest-no-difference.md) — related
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
 - [ANCOVA on post-test attitude scores with KCSE covariates found a statistically significant overall difference among the three groups](ancova-posttest-attitudes-significant.md) — related
+- [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related

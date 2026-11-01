@@ -52,3 +52,4 @@ Observation of math instruction across grades 2, 5, 8, 9, and 10 found introduct
 - [Observed differentiation took place mainly through student independence and working pace, with lesson goals largely the same across groups](implementation-differentiation-independence-pace.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related
+- [The operation of time as a mechanism of change produced better pacing and sequencing of lessons, better curriculum coverage, and the imposition of routines](time-mechanism-pacing-coverage-routines.md) — reports the opposite

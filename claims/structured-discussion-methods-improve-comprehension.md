@@ -192,3 +192,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [High-structured articulation studies report elaborated arguments while dialectic deliberation studies report integrated arguments](pattern2-elaborated-pattern4-dialectic-gains.md) — a narrower finding that bears on this claim
 - [Critical culturalized comprehension is reasoning engaged to resist or recast textual values into counternarratives](critical-culturalized-comprehension-counternarratives.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
+- [The experimental class outperformed the control class on five of six critical thinking indicators, but the control class scored higher on asking and answering questions that require a reason](laps-heuristic-indicator-level-critical-thinking-pattern.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ The brief reports impacts from the district's randomized controlled trial of LLI
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related
 - [In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)](lli-no-discernible-alphabetics-effects.md) — related
 - There were no randomized controlled trials or systematic reviews in the identified papers — related
+- [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](textnow-attendance-dosage-effect.md) — related

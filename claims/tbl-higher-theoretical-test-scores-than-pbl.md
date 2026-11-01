@@ -62,3 +62,4 @@ Meta-analysis of ten randomized controlled trials (944 participants reported for
 - [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](pbl-higher-theoretical-scores-chinese-radiology.md) — related
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — related
 - [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](tbl-increases-theoretical-examination-scores-china.md) — related
+- [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — related

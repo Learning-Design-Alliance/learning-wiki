@@ -54,3 +54,4 @@ Baseline comparison in the quasi-experiment with non-equivalent groups (pretest 
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [The TIP and educational games groups were equivalent in prior literacy knowledge at pre-test](tip-games-groups-equivalent-pretest-literacy.md) — related
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
+- [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related

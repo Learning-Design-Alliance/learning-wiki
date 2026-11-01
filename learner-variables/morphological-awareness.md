@@ -13,7 +13,7 @@ generated:
 # Morphological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (11 show a difference, 7 mixed, 3 no difference) · 10 studies (5 quant-synthesis, 3 causal, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 10 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (11 show a difference, 8 mixed, 3 no difference) · 11 studies (5 quant-synthesis, 4 causal, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 11 report an effect size · 21 claims rest on one study
 
 ## Description
 Morphological awareness is recognising and using morphemes, the smallest meaningful parts of words, such as the root and prefix in *replay*. This page also covers morphological knowledge, the LVN's name for the same capacity in older children. Learners who understand morphemes can treat them as building blocks, recognising, understanding and producing longer, more complex words when reading and writing. It also includes knowing how stress and pronunciation change between related words (*sign* and *signature*) and how some morphemes carry grammatical meaning (adding *-ed* for the past tense). It is measured with tasks in which learners choose or complete the right word form, such as picking the suffix that fits a sentence.
@@ -62,6 +62,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [No significant subgroup difference was found in the magnitude of the direct effect of MA on reading comprehension for any moderator (except lower elementary non-significance)](../claims/no-subgroup-difference-direct-effect.md) [-M] — learners who differ on it differ in outcomes
 - [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](../claims/age-grade-moderates-indirect-effects.md) [~M] — learners who differ on it differ in outcomes
 - [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](../claims/ma-reading-comprehension-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](../claims/mi-descriptive-pre-post-means.md) [~M] — instruction changes it
 
 ## Measures
 - **The Suffix Choice Test** (Nagy et al., 2003): recognising, understanding and using morphemes by choosing the right suffixed form.

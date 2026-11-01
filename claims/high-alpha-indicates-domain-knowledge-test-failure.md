@@ -63,3 +63,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [Single-item effort ratings show high internal consistency but their reliability is difficult to establish](single-item-effort-rating-reliability-problematic.md) — related
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related

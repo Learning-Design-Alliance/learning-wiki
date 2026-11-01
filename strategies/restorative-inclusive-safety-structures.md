@@ -54,6 +54,7 @@ The brief recommends that secondary schools replace structures that segregate an
 - [Empathic Discipline](empathic-discipline.md)
 - [Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps](six-strategies-reduce-exclusionary-discipline.md)
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
+- [Use extracurricular activities such as learners' conferences and seminars to overcome lesson-time limits for biographies](extracurricular-activities-for-biography-study.md)
 
 ## Examples
 -

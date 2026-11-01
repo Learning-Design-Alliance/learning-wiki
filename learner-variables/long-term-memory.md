@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 207 claims (122 show a difference, 52 mixed, 33 no difference) · 131 studies (64 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 49 of 131 report an effect size · 199 claims rest on one study
+> **Evidence** · 208 claims (123 show a difference, 52 mixed, 33 no difference) · 132 studies (65 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 132 report an effect size · 200 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -242,6 +242,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Mean retention scores were highest for PF, followed by PM and least for PC, in both urban and rural locations](../claims/pf-highest-retention-then-pm-then-pc.md) [+M] — instruction changes it
 - [School location shows no significant difference in chemistry retention scores](../claims/location-null-retention-chemistry.md) [-M] — instruction changes it
 - [The strategy-by-location interaction is not significant for retention, indicating similar retention across strategies in both locations](../claims/strategy-location-interaction-null-retention.md) [-M] — instruction changes it
+- [Transportation into the discourse accounted for long-term retention of the material but not for the initial advantage of the story over the textbook](../claims/transportation-mediation-of-retention.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -49,3 +49,4 @@ Pilot evaluation with 10 students from the same recruitment pool, run with the s
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [An abbreviated 12-item RPM subset predicts sentence recognition in CI users with comparable validity to the full 48-item test](abbreviated-12-item-rpm-predicts-ci-sentence-recognition.md) — related
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related

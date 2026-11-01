@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 208 claims (125 show a difference, 59 mixed, 24 no difference) · 166 studies (51 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 25 of 166 report an effect size · 191 claims rest on one study
+> **Evidence** · 218 claims (127 show a difference, 61 mixed, 30 no difference) · 171 studies (56 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 27 of 171 report an effect size · 201 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -256,6 +256,16 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [School-mean pretest scores predict posttest reading achievement in the OCR trial](../claims/ocr-trial-school-pretest-predicts-posttest.md) [+M] — learners who differ on it differ in outcomes
 - [In Experiment 1, the effect of worked-example assignments did not differ between low and high prior knowledge students](../claims/exp1-no-prior-knowledge-interaction.md) [-M] — an instructional effect differs with it
 - [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](../claims/prior-knowledge-moderates-worked-example-benefit.md) [+M] — an instructional effect differs with it
+- [Answers to embedded questions and elaborative interrogations were of poor quality, and elaborative-interrogation answer quality correlated with posttest scores only for pretest-incorrect students](../claims/poor-question-answer-quality-elaborative-interrogation-correlation.md) [~M] — an instructional effect differs with it
+- [Class-level initial background knowledge does not moderate effects on content reading comprehension](../claims/class-background-knowledge-no-moderation-reading-comprehension.md) [-M] — an instructional effect differs with it
+- [Class-level initial background knowledge does not moderate PACT's effect on social studies content knowledge acquisition](../claims/class-background-knowledge-no-moderation-pact-knowledge.md) [-M] — an instructional effect differs with it
+- [Class-level initial reading achievement does not moderate effects on content reading comprehension](../claims/class-reading-achievement-no-moderation-comprehension.md) [-M] — an instructional effect differs with it
+- [Class-level initial reading achievement does not moderate PACT's effect on content knowledge acquisition](../claims/class-reading-achievement-no-moderation-knowledge.md) [-M] — an instructional effect differs with it
+- [For students who answered the pretest incorrectly, reading the lesson twice yielded higher posttest scores than either embedded questioning or elaborative interrogation](../claims/read-twice-beats-questioning-pretest-incorrect.md) [~M] — an instructional effect differs with it
+- [School-mean fall GMADE pretest scores strongly predicted spring posttest math achievement in the year-one EM trial](../claims/em-school-pretest-predicts-posttest.md) [+M] — learners who differ on it differ in outcomes
+- [School-mean pretest scores strongly predict spring posttest math achievement in the trial's three-level model](../claims/school-pretest-predicts-posttest-em-trial.md) [+M] — learners who differ on it differ in outcomes
+- [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](../claims/pretest-covariate-nonsignificant-fathom-ancova.md) [-M] — learners who differ on it differ in outcomes
+- [There were no differences in answer quality between pretest-correct and pretest-incorrect students for either questioning type, and no association between embedded-question accuracy and posttest scores](../claims/no-answer-quality-differences-by-pretest-accuracy.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

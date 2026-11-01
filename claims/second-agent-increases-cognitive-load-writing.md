@@ -58,3 +58,4 @@ Post-task self-report perceptions in Experiment-2 (confidence, helpfulness, idea
 - [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
+- [The article reports open questions on cognitive load, disorientation, and automated learning-object recommendation in SWBL](swbl-future-research-cognitive-load-disorientation.md) — related

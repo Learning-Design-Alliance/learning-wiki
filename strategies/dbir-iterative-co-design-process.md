@@ -50,6 +50,7 @@ The article followed DBIR's four principles: common commitment to solving proble
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
 - [Design interventions at teacher and test levels to reduce content bias in math tests](teacher-and-test-level-bias-reduction-interventions.md)
+- [Iteratively improve pre-session homework by adding explanations of thesaurus structure and revising assessments based on demonstrated student difficulties](iterative-improvement-pre-session-materials.md)
 
 ## Examples
 -

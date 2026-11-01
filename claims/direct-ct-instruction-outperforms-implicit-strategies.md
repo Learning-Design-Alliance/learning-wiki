@@ -73,3 +73,4 @@ This is the review's synthesis of the direct instruction category of its 33 incl
 - [Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject](critical-thinking-transfer-better-alongside-content.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
+- [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related

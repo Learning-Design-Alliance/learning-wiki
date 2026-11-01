@@ -70,3 +70,4 @@ Omnibus QM test of the joint regression coefficients for task type, training, an
 - Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related
 - [Peer supporter training duration ranged from a few hours to 192 hours, was most often in person, and intensive six-week training led all recruited peers to resign in one trial](peer-supporter-training-duration-and-burden.md) — related
 - [Class size and disciplinary domain do not significantly moderate POGIL's achievement effect, leaving residual heterogeneity unexplained](pogil-achievement-moderators-nonsignificant.md) — related
+- [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — a narrower finding that bears on this claim

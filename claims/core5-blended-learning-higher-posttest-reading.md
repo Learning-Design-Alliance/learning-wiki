@@ -48,3 +48,4 @@ Quasi-experimental ANCOVA with 2217 treatment and 1504 control students in kinde
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
 - [The blended learning treatment effect on reading scores did not differ as a function of grade](core5-treatment-effect-uniform-across-grades.md) — related
 - [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](core5-promising-effects-low-ses-students.md) — related
+- [All three instructional groups improved from pretest to posttest, with the blended learning group showing the highest mean gain score](mean-gain-scores-blended-elearning-traditional.md) — related

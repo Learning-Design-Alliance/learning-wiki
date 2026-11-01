@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (21 for, 12 mixed) · 35 studies (17 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 35 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (24 for, 12 mixed) · 37 studies (19 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 37 report an effect size · 32 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -69,6 +69,9 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](../claims/music-av-use-group-differences.md) [~W]
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Learner-controlled web animation of the electron transport system and ATP synthesis with student-authored animation models"; tests this page's relationship.
 - [The experimental group showed a significant pre-test to post-test gain in communicative skill after using the Interactive Multimedia Package](../claims/multimedia-package-experimental-group-significant-gain.md) [+W] — attached 2026-11-01 from G. Singaravelu (2014), which proposed "Interactive Multimedia Package for learning communicative skill in English".
+- [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](../claims/wondershare-quizcreator-multimedia-higher-posttest-listening.md) [+W] — attached 2026-11-01 from Andi Tenri Ampa (2015), which proposed "Interactive multimedia listening materials built with Wondershare Quizcreator"; tests this page's relationship.
+- [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](../claims/humorous-video-clips-improve-efl-idiom-achievement.md) [+W] — attached 2026-11-01 from Malihe Neissari et al. (2017), which proposed "BBC "The Teacher" English Idiom Series humorous video clips"; tests this page's relationship.
+- [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](../claims/preliminary-survey-students-interested-multimedia-materials.md) [+W]
 
 ## The evidence by question
 

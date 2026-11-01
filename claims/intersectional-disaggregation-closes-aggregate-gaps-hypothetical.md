@@ -51,3 +51,4 @@ Hypothetical MAP Growth data example (Example 4.1) illustrating that in a large 
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](subgroup-categories-mask-within-category-variation.md) — related
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](subgroup-differences-reflect-opportunities-to-learn.md) — a broader claim this one bears on
 - [When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts](within-race-comparison-erases-cps-gaps.md) — a narrower finding that bears on this claim
+- [Everyday Mathematics effects do not reliably differ by student sex, race, FRPL status, or baseline pretest in the scale-up trial](em-no-subgroup-effects-sex-race-frpl-pretest.md) — related

@@ -54,3 +54,4 @@ One-way ANOVA by proficiency level: VocTest 1 p = .011 (Level 2) and p = .003 (L
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
+- [The review reports that readers' proficiency, not the kind of schemata activated, moderates the benefit of pre-reading approaches](proficiency-moderates-prereading-benefit.md) — related

@@ -78,3 +78,5 @@ Yeh (2003) print knowledge finding from a letter-sound matching measure; the ear
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
+- [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](nursery-rhyme-instruction-improves-pals-scores.md) — related
+- [Gains from nursery rhyme training were greatest in rhyme awareness and least in beginning sound awareness](rhyme-awareness-gains-exceed-beginning-sound-gains.md) — related

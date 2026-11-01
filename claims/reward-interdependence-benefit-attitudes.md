@@ -66,3 +66,4 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related
 - [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related
 - [Learner–learner interaction was perceived as significantly more work than learner–content interaction in an online asynchronous undergraduate course](learner-learner-interaction-perceived-more-work-than-learner-content.md) — related
+- [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](cooperative-program-social-skill-development-observation.md) — related

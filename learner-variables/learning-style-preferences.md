@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (19 show a difference, 8 mixed, 7 no difference) · 18 studies (6 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 18 report an effect size · 33 claims rest on one study
+> **Evidence** · 37 claims (20 show a difference, 9 mixed, 8 no difference) · 19 studies (7 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 19 report an effect size · 36 claims rest on one study
 
 ## Bottom line
 
@@ -72,6 +72,9 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [A technique helped students identify their own cognitive learning styles and adjust to mismatched courses](../claims/learning-style-identification-mismatched-course-adjustment.md) [+W] — instruction changes reported style
 - [Cognitive load shows a triple interaction with visual cognitive style, pacing, and visualization, driven by the static pictures condition](../claims/cognitive-load-triple-interaction-visual-style.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [No significant effects of verbal cognitive style on learning outcome in the pacing and visualization experiment](../claims/verbal-cognitive-style-null-learning-outcome.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Before intervention, mathematics performance differed by cognitive style, with field independent students scoring highest and field dependent students lowest](../claims/math-pretest-field-dependence-gradient.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](../claims/cooperative-learning-math-equivalent-across-cognitive-styles.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [In language, a significant methodology-by-cognitive-style interaction emerged, apparently favoring field independent students](../claims/language-posttest-style-interaction-favors-field-independent.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/u-pace-greater-learning-proctored-cumulative-exam.md
+---
+
+# Revision history: [claims/u-pace-greater-learning-proctored-cumulative-exam](../claims/u-pace-greater-learning-proctored-cumulative-exam.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from eric-ej1191485 (Increasing Undergraduate Success: A Randomized Controlled Trial of "U-Pace" Instruction) via eval_harness.py + ingest_extractions.py

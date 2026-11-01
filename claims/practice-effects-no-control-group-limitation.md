@@ -49,3 +49,4 @@ This is the authors' stated limitation, not a tested result. They note randomize
 - [Learning from concept-motivated versus English-motivated ASL lessons showed no significant difference in pre-to-post score gains](no-signing-style-difference-pre-post-gains.md) — a narrower finding that bears on this claim
 - [Adult ASL-fluent participants significantly improved STEM test scores by about 22% after watching four-to-six-minute ASL video lessons](asl-stem-video-lessons-pre-post-learning-gain.md) — possibly the same claim (merge candidate)
 - [Producing more concept-motivated signs in signed summaries predicted higher test scores, especially post-test, while English-motivated sign use did not](cm-sign-production-predicts-post-test-scores.md) — related
+- [A no-instruction control group showed no knowledge change over the six-week period, ruling out testing and external influences](control-group-no-knowledge-change-six-weeks.md) — related

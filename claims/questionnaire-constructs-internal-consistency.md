@@ -68,3 +68,4 @@ collaboration."
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related

@@ -52,3 +52,4 @@ LMM with gender, math anxiety, and intervention group as fixed factors: "a main 
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Gender moderation of the math anxiety–STEM outcome relations did not reach traditional significance, though effects were near threshold (d ≈ .28)](gender-moderation-anxiety-stem-nonsignificant.md) — related
 - [No GPA difference between male and female older learners, or across faculties](no-gender-faculty-gpa-difference-older-learners.md) — related
+- [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related

@@ -82,3 +82,4 @@ HLM moderator analysis (Model 1) across the 46-study SCED meta-analysis compared
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related
 - [DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase](dtt-fidelity-increases-with-observations.md) — related
 - [Educator training improves implementation fidelity of interventions for students with disabilities, with a large mean effect size of g = 1.08](educator-training-large-effect-implementation-fidelity-g108.md) — related
+- [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related

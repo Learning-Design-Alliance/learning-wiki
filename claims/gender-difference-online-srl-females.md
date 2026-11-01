@@ -72,3 +72,4 @@ Mann–Whitney U test on age in the same survey found "a lack of substantial age
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
 - [No significant differences between Polish and Turkish students in perceived importance and improvement of SRL with applications, and no differences in frequency of use](no-national-difference-use-frequency-importance.md) — related
+- [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related

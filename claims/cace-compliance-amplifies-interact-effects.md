@@ -47,3 +47,4 @@ CACE mixture-model analyses of the cluster RCT, classifying compliers by a binar
 ## Related Claims
 - [Observed classroom engagement showed a small ITT effect and a medium CACE effect, neither statistically significant](observed-engagement-effects-nonsignificant.md) — related
 - [The INTERACT teacher coaching intervention produced small, statistically significant ITT improvements in student-perceived emotional support, classroom organization, and instructional support in upper secondary school](interact-itt-significant-tsi-improvements.md) — related
+- [Delivering Concept Cat as intended (CACE) is associated with up to three months of additional progress in early conceptual vocabulary, but this estimate has low robustness](concept-cat-cace-three-months-low-robustness.md) — related

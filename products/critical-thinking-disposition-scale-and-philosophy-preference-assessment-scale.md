@@ -27,6 +27,7 @@ A paired set of Likert-type instruments comprising the Ricketts and Rudd Critica
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale as paired measurement instruments**: The study deploys two Likert-type instruments: the Critical Thinking Disposition Scale (Ricketts & Rudd, Turkish adaptation by Demircioglu) with Cognitive Maturity, Innovation and Engagement subscales, and the Philosophy Preference Assessment Scale (Cetin, Ilhan and Arslan) measuring traditional versus contemporary philosophy preference. In this sample, "Cronbach's alpha coefficients of the Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale were determined to be .87 and .80, respectively." The CTDS ranges from 25 to 125 and the PPAS from 39 to 195. (Aybek et al. (2017))
+- **Malaysia Critical Thinking Instrument (MACTI)**: MACTI is a critical thinking disposition instrument developed by a local researcher (Akbariah Mahdzir, 2008) and used as the pre-test and post-test measure in this study. The article states that "validity and reliability test has been carried out" during its development, and because no changes were made and it had been used in a past study, no new validity and reliability test was carried out for this research. (Norazlinda Mohd Darby et al. (2017))
 
 ### Claims
 
@@ -35,8 +36,8 @@ A paired set of Likert-type instruments comprising the Ricketts and Rudd Critica
 
 ## Key Sources
 - Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403
-
 <!-- merged 2026-10-10 from elements/ctds-ppas-measurement-instruments ("Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale as paired measurement instruments"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Norazlinda Mohd Darby & Abdullah Mat Rashid. (2017). Critical Thinking Disposition: The Effects of Infusion Approach in Engineering Drawing. Journal of Education and Learning, 6(3). https://doi.org/10.5539/jel.v6n3p305
 
 # Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale as paired measurement instruments
 

@@ -43,6 +43,7 @@ After clarifying the writing task, the teacher presents a model text and “put 
 
 - [Teach Writing Based On Reading](../principles/process-based-writing.md)
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](three-stage-noticing-writing-task.md)
+- [Direct students' attention to relating Themes and Rhemes to preceding and succeeding text when writing in English](direct-attention-to-theme-rheme-relations.md)
 
 ## Examples
 -

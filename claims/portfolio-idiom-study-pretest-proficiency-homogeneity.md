@@ -53,3 +53,8 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [The two groups did not differ significantly in vocabulary knowledge before the intervention](pbl-vocabulary-groups-equivalent-pretest.md) — related
+- [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
+- [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
+- [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
+- [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related

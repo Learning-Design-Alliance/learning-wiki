@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (112 show a difference, 45 mixed, 28 no difference) · 138 studies (74 associational, 31 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 138 report an effect size · 184 claims rest on one study
+> **Evidence** · 186 claims (112 show a difference, 46 mixed, 28 no difference) · 139 studies (74 associational, 32 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 139 report an effect size · 185 claims rest on one study
 
 ## How to read this page
 
@@ -270,6 +270,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [For pupils entitled to free school meals, Butterfly Phonics showed no statistically significant effects on any outcome (NGRT g = 0.16, SWRT g = 0.42, PhAB g = 0.18)](../claims/butterfly-phonics-fsm-subgroup-non-significant.md) [-M] — an instructional effect differs by group
 - [Pupils receiving Tutor Trust tuition made marginally less progress in English and mathematics than matched comparison pupils, with differences not statistically significant](../claims/tutor-trust-primary-no-significant-attainment-effect.md) [-W] — an instructional effect differs by group
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](../claims/pbl-negative-fsm-literacy-impact.md) [+W] — an instructional effect differs by group
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](../claims/textnow-fsm-differential-effect.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

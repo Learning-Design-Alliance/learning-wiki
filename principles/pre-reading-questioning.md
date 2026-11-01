@@ -160,11 +160,13 @@ The present evidence establishes no number of questions, no length of attempt, n
 - [Pretesting (Prequestions Before Study)](pretesting.md)
 
 ## Examples
+
 - **Prediction and purpose prompts**: Learners answer a small set of questions before reading and revisit them afterward.
 - **Question-generation warm-up**: Learners create their own questions from a title, heading set, or opening image.
 - **KWL-style framing**: Learners identify what they know, want to know, and later what they learned.
 - **Source anticipation**: Before reading a document, learners predict what perspective, evidence, or problem the text might contain.
 - Concrete forms in the wiki: [prequestions](../strategies/prequestions.md), [pretesting](../strategies/pretesting.md), [anticipation guide](../strategies/anticipation-guide.md), [KWL](../strategies/kwl.md), [generating questions before reading](../strategies/pre-reading-generating_questions.md), and the [pre-reading questioning element](../elements/pre-reading-questioning.md).
+- [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](../strategies/pre-questioning-strategy-recipe.md)
 
 ## Key Sources
 - Ajideh, P. (2003). Schema theory-based pre-reading tasks: A neglected essential in the ESL reading class. *The Reading Matrix, 3*(1).

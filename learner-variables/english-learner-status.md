@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (63 show a difference, 26 mixed, 19 no difference) · 73 studies (29 associational, 16 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 73 report an effect size · 107 claims rest on one study
+> **Evidence** · 112 claims (65 show a difference, 27 mixed, 20 no difference) · 75 studies (29 associational, 18 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 13 of 75 report an effect size · 111 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -138,6 +138,10 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [Bilingual immunology teaching significantly improves professional English proficiency among Chinese undergraduates](../claims/bilingual-immunology-teaching-improves-professional-english-proficiency.md) [+M] — instruction changes it
 - [Bilingual immunology teaching significantly improves undergraduates' competence in English application](../claims/bilingual-immunology-teaching-improves-english-application.md) [+M] — instruction changes it
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](../claims/bilingual-immunology-benefits-vary-by-grade-level.md) [~M] — an instructional effect differs with it
+- [ELL students taught by IC teachers outperform ELL control students in English Language Arts by .25 (p<.001)](../claims/ic-ell-ela-outperformance.md) [+M] — an instructional effect differs with it
+- [ELL students taught by IC teachers outperform ELL controls in Math (0.147) and Science (0.139), marginal at p<.10](../claims/ic-ell-math-science-gains.md) [+M] — an instructional effect differs with it
+- [In kindergarten, English learner students benefited more from the embedded intervention in phonological awareness while non–English learner students benefited more from the standalone intervention in word reading](../claims/kindergarten-english-learner-status-interactions.md) [~W] — an instructional effect differs with it
+- [No differences between IC experimental and control non-ELL students in any content area](../claims/ic-no-effect-non-ell-students.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

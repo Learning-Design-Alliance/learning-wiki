@@ -70,3 +70,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related
 - [A pilot mixed-method trial with 71 participants found students valued the system along three dimensions: career exploration, personalisation, and skill awareness/self-reflection](c3-ioc-pilot-three-value-dimensions.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related

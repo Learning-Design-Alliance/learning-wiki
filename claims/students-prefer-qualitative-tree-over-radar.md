@@ -52,3 +52,4 @@ Interview study with three teachers and twelve students: "The interviews reveale
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
 - [Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections](teachers-prefer-whole-class-visualizations.md) — related
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
+- [Students preferred charts and props over visual media because they found them more practical and more helpful for understanding](students-prefer-charts-props-over-visual.md) — related

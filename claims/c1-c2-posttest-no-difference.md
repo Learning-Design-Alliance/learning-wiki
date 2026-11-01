@@ -49,3 +49,4 @@ Null pairwise comparison between conventionally taught C1 and e-learning-taught 
 - [The only significant pairwise post-test difference in attitudes was between two e-learning-taught groups differing only in pre-test exposure, favouring the pre-tested group](pretest-presence-drove-attitude-difference.md) — possibly the same claim (merge candidate)
 - [No significant post-test attitude difference was found between the e-learning-taught group and the conventionally taught group when both were pre-tested](elearning-vs-conventional-posttest-no-difference.md) — related
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
+- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related

@@ -53,3 +53,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis; PBL appea
 - [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](pbl-improves-critical-thinking-versus-traditional-teaching.md) — related
 - [PBL methods produce significantly better radiographic interpretation skills than traditional teaching among dental students (pooled MD 0.54)](pbl-improves-radiographic-interpretation-skills.md) — related
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — related
+- [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related

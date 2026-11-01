@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 8 claims (7 show a difference, 1 mixed) · 6 studies (4 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (7 show a difference, 2 mixed, 2 no difference) · 7 studies (5 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -44,6 +44,9 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [Students varied in the speed of their developmental progressions but all reached the highest phase](../claims/varied-progression-speed-area-reasoning.md) [+M] — instruction changes it
 - [Students who could solve basic shape problems still showed misconceptions on composite shape problems mid-intervention](../claims/composite-shape-misconceptions-persist-mid-intervention.md) [~M] — instruction changes it
 - [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](../claims/meac-student-work-line-angle-understanding.md) [+W] — instruction changes it
+- [VR and conventional teaching produce equivalent medium-term learning success after one month](../claims/vr-unit-equivalent-medium-term-learning-success.md) [-M] — instruction changes it
+- [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](../claims/vr-unit-equivalent-short-term-learning-success.md) [-M] — instruction changes it
+- [VR unit effectiveness differed by content type: tasks on linear measures were solved better by the experimental group and hollow-measure tasks by the control group](../claims/vr-linear-versus-hollow-measures-effectiveness.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

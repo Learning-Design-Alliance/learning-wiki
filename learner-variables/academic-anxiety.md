@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (119 show a difference, 42 mixed, 23 no difference) · 116 studies (43 associational, 25 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 116 report an effect size · 177 claims rest on one study
+> **Evidence** · 187 claims (122 show a difference, 42 mixed, 23 no difference) · 117 studies (43 associational, 26 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 117 report an effect size · 180 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -220,6 +220,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](../claims/negative-academic-emotions-sometimes-improve-learning.md) [~M] — learners who differ on it differ in outcomes
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](../claims/iss-ntos-outcomes-mixed-controlled-comparisons.md) [~M] — instruction changes it
 - [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](../claims/pbl-game-self-evaluation-presentation-anxiety.md) [+W] — learners who differ on it differ in outcomes
+- [Conventional curriculum instruction also produced significant pretest-posttest gains in verbal skills and reductions in speech anxiety](../claims/conventional-instruction-also-improves-verbal-skills-and-anxiety.md) [+M] — instruction changes it
+- [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](../claims/drama-instruction-reduces-speech-anxiety-more-than-conventional.md) [+M] — instruction changes it
+- [Within the drama group, speech anxiety decreased significantly from intermediate to very low level](../claims/drama-group-speech-anxiety-pretest-posttest-decrease.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

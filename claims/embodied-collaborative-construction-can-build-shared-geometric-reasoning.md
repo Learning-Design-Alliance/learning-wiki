@@ -82,3 +82,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](social-technological-scaffolding-synergy-area-reasoning.md) — related
 - [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — a narrower finding that bears on this claim
 - [Pupils reported generally positive perceptions of learning two-dimensional shape properties with Logo](logo-positive-pupil-perceptions-2d-shapes.md) — related
+- [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — related

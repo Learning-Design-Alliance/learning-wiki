@@ -47,6 +47,7 @@ The article recommends that instructors use short quizzes at the beginning of fa
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Flipped Classroom](flipped-classroom.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
+- [Iteratively improve pre-session homework by adding explanations of thesaurus structure and revising assessments based on demonstrated student difficulties](iterative-improvement-pre-session-materials.md)
 
 ## Examples
 -

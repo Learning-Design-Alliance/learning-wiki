@@ -50,3 +50,4 @@ Pre-specified subgroup analysis on the primary outcome using a model with everFS
 ## Related Claims
 - [Passive dissemination of research summaries and evidence-based literacy materials to primary schools showed no evidence of improving pupils' Key Stage 2 English attainment compared with control](passive-dissemination-no-ks2-english-impact.md) — related
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
+- [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related

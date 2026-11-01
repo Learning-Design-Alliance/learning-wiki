@@ -57,9 +57,11 @@ Drawing works because it is generative: learners must select critical informatio
 4. Review drawings for accuracy and address misconceptions; optionally have learners revise their drawings after feedback.
 
 ## Related Strategies
+
 - [Sketchnoting](sketchnoting.md) — sustained drawing-plus-annotating during lectures and reading
 - [Dual Coding](dual-coding.md) — the broader principle of combining verbal and visual channels
 - [Retrieval Practice](retrieval-practice-activities.md) — drawing from memory doubles as a retrieval event
+- [ESP teachers themselves furnish materials with pictorial context when textbooks lack face validity](teachers-furnish-esp-materials-with-pictures.md)
 
 ## Examples
 - **Vocabulary learning** — learners draw a quick picture for each new term alongside the definition; Wammes et al. found drawn words were recalled nearly twice as often as written ones.

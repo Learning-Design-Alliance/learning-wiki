@@ -1,0 +1,50 @@
+---
+type: claim
+title: Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test
+description: Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test
+id: problem-solving-approach-beats-expository-secondary-math
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2010
+sources:
+  - id: kousar-perveen-2010
+    resource: "https://eric.ed.gov/?id=EJ1072552"
+    title: "Kousar Perveen. (2010). Effect Of The Problem-Solving Approach On Academic Achievement Of Students In Mathematics At The Secondary Level. Contemporary Issues In Education Research, 3(3). https://eric.ed.gov/?id=EJ1072552"
+    author: Kousar Perveen
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` After six weeks of instruction, the experimental (problem-solving) group's post-test mean of 57.17 was significantly higher than the control (expository) group's mean of 37.92 (t = 9.25, p < .001). [→ Kousar Perveen 2010](#kousar-perveen-2010)
+
+## Evidence
+
+### Kousar Perveen 2010
+
+Kousar Perveen. (2010). Effect Of The Problem-Solving Approach On Academic Achievement Of Students In Mathematics At The Secondary Level. Contemporary Issues In Education Research, 3(3). https://eric.ed.gov/?id=EJ1072552
+
+`q2 · i?` · `causal · r1`
+
+Pre-test/post-test equivalent-group study of 48 tenth-grade girls (24 per group) at Government Pakistan Girls High School Rawalpindi; Table 2 reports experimental mean 57.17 (SD 14.12) vs control 37.92 (SD 10.35), t = 9.25, p < .001, "the difference being highly in favor of the experimental group".
+
+> "It appears from Table 2 that the difference between the two means was found to be highly significant. Null hypothesis 5 is therefore to be rejected. Hence, both groups were found to be different in post -test achievement scores, the difference being highly in favor of the experimental group."
+
+## Discussion
+
+
+## Related Claims
+- [Grade VIII students taught with a contextual learning model show higher increases in mathematical problem-solving ability than students taught with expository learning](contextual-learning-higher-problem-solving-gain.md) — related
+- [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — related
+- [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related

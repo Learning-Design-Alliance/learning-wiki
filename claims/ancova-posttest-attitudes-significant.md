@@ -50,3 +50,4 @@ Omnibus ANCOVA on post-test attitude scores for the three groups, with students'
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
+- [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related

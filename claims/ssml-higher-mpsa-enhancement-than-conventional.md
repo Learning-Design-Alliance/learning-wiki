@@ -52,3 +52,4 @@ Quasi-experimental pretest-posttest control group study of 135 grade VII student
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
 - [There is no interaction between learning approach (SSML vs CL) and school level (high vs middle) on enhancement of MPSA](no-interaction-approach-school-level-mpsa.md) — related
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](ssml-advantage-significant-only-middle-mpk.md) — related
+- [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related

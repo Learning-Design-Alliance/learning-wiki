@@ -73,6 +73,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Follow-up supports for integrated computing PD: technical programming coursework, professional learning communities, and student-outcome study](integrated-computing-pd-followup-supports.md)
 - [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
 - [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
+- [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 
 ## Examples
 -

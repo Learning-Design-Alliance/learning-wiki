@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 12 mixed, 3 against) · 26 studies (7 review, 6 quant-synthesis, 5 causal, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 26 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (14 for, 12 mixed, 3 against) · 28 studies (7 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 28 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -84,6 +84,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [The mark of failure is not a ranking mark but an indication that a student should not proceed without repeating the subject](../claims/failure-mark-not-a-ranking-mark.md) [+W] — attached 2026-10-24 from Kohl et al. (1911), which proposed "Design instruction and student progress so that no student needs to fail".
 - [Proficiency-based training, including mastery learning, is effective for achieving competence in neuraxial access](../claims/proficiency-based-training-effective-neuraxial-competence.md) [+W] — attached 2026-10-31 from Nielsen Martine Siw et al. (2025), which proposed "Training should be proficiency-based, requiring all trainees to continue practising until skills are ensured using valid assessment tools"; tests this page's relationship.
+- [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
+- [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](../claims/mastery-learning-score-distribution-shift-chemistry.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -107,6 +109,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
 - [A plateau in performance does not necessarily equate to high-quality performance, so 'overcome' thresholds may misrepresent surgeon mastery](../claims/plateau-does-not-equate-high-quality-performance.md) [~W]
+- [U-Pace instruction produced greater academic success in final course grades of A or B than face-to-face instruction](../claims/u-pace-greater-final-grades-ab-than-face-to-face.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

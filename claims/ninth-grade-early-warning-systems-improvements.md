@@ -57,3 +57,4 @@ The agenda summarizes prior Consortium research (citing Allensworth, Gwynne, Hea
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Pre-admission data (2018–2022) contain sufficient information to identify early patterns of dropout or course failure in first-year engineering mathematics subjects](pre-admission-data-identify-early-dropout-failure-patterns.md) — related
+- [EWIMS reduced the percentage of students who failed one or more courses after one year](ewims-reduced-course-failure-one-year.md) — a narrower finding that bears on this claim

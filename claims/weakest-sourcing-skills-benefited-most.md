@@ -51,3 +51,4 @@ Individual-level Reliable Change Index analysis of intervention-group students' 
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
 - [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](individual-level-rci-credibility-change.md) — related
 - [Basic reading skills were associated with change in confirming credibility but not with change in questioning or justifying credibility](reading-skills-rci-group-association.md) — related
+- [Upper-secondary students show a low initial level of inquiry skills under prevalent teacher-centred teaching](low-initial-inquiry-skills-slovak-students.md) — related

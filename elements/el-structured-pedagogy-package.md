@@ -18,7 +18,7 @@ sources:
 # Structured pedagogy package: student books, teachers' guides, and teacher professional development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief describes structured pedagogy as "a coordinated approach to improving classroom instruction that involves provision of student materials and lesson plans, training, and continuous support." Its components include student books and textbooks, structured teachers' guides varying from scripts specifying "what teachers are expected to say" to suggested activities, and both pre- and in-service teacher professional development, which the brief calls essential. Programs "introduce skills gradually, building incrementally on the skills and knowledge students already have."
@@ -40,6 +40,7 @@ The brief describes structured pedagogy as "a coordinated approach to improving 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Teacher participation in the MACE professional development program added no measurable effect on any student outcome](../claims/mace-pd-no-student-effect.md) [-W]
+- [The EGRS RCT found that the structured pedagogy model combining on-site coaching, quality materials, and scripted lesson plans was the most effective of the tested models for improving early grade reading outcomes](../claims/egrs-coaching-model-most-effective-rct.md) [+W]
 
 ## Related Elements
 

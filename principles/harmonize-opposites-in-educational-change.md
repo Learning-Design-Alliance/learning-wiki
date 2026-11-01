@@ -189,6 +189,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Luminous Science Transdisciplinary Curriculum](../designs/luminous-science-transdisciplinary-curriculum.md)
 - [Mixed genetic algorithm fitness function balancing homogeneous and heterogeneous grouping components](../designs/mixed-genetic-algorithm-homogeneous-heterogeneous-fitness.md)
 - [Chilean national English curriculum combines the Communicative Approach with Natural Approach, Cooperative Learning, Content-Based Instruction and Task-Based Language Teaching](../designs/chilean-efl-curriculum-four-communicative-approaches.md)
+- [Adopt an eclectic approach combining diverse vocabulary instruction types in early foreign language teaching](../strategies/eclectic-approach-preschool-vocabulary-teaching.md)
 
 ## Key Sources
 - Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319
