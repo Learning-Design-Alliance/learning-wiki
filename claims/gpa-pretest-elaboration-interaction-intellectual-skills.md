@@ -58,3 +58,4 @@ Three-way ANOVA (Table 5) in the same experiment. The joint effect on posttest (
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related
 - [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) — related
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
+- [Pretest and posttest scores correlated significantly (r=0.21, p<0.05), justifying the pretest covariate](pretest-posttest-correlation-r021.md) — related

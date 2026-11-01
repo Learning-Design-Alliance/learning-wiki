@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 420 claims (237 show a difference, 89 mixed, 94 no difference) · 274 studies (150 associational, 70 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 274 report an effect size · 412 claims rest on one study
+> **Evidence** · 425 claims (240 show a difference, 90 mixed, 95 no difference) · 279 studies (150 associational, 75 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 279 report an effect size · 417 claims rest on one study
 
 ## How to read this page
 
@@ -459,6 +459,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex showed no significant effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms (no interaction was tested)](../claims/sex-no-moderating-effect-numeracy-retention.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex has no significant effect on pupils' numeracy performance under meta-cognitive training in computer-mediated classrooms](../claims/sex-no-significant-effect-numeracy-performance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The ASSISTments homework intervention effect on TerraNova math scores varied by gender: boys benefited more, narrowing the gender gap](../claims/assistments-intervention-benefited-boys-more.md) [+M] — an instructional effect differs by group
+- [A higher percentage of girls than boys in the robotics class scored above NYSED benchmarks, with the largest gaps in Algebra and Geometry](../claims/girls-above-benchmark-algebra-geometry.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys outperformed girls in chemistry achievement in both the discussion and lecture groups](../claims/boys-outperform-girls-both-methods.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students were more ethically sensitive than male students regardless of educational context group](../claims/females-more-ethically-sensitive.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Number relationships instruction shows no differential benefit by gender](../claims/no-gender-moderation-number-relationships.md) [-M] — an instructional effect differs by group
+- [Within the experimental group, female participants responded better to humour-based teaching than male participants](../claims/female-participants-respond-better-humour.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

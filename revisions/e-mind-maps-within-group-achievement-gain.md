@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/e-mind-maps-within-group-achievement-gain.md
+---
+
+# Revision history: [claims/e-mind-maps-within-group-achievement-gain](../claims/e-mind-maps-within-group-achievement-gain.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from eric-ej1164128 (The Effectiveness of Electronic Mind Maps in Developing Academic Achievement and the Attitude towards Learning English among Primary School Students) via eval_harness.py + ingest_extractions.py

@@ -50,3 +50,4 @@ One-way ANOVA on post-test SADQ attitude scores of all 300 students in the four 
 - [The null hypothesis of no attitude difference between PI-taught and conventionally taught students was rejected](pi-null-hypothesis-rejected-attitude.md) — possibly the same claim (merge candidate)
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
 - [The conventionally taught pre-tested group and the e-learning-taught unpre-tested group did not differ significantly in post-test attitudes](c1-c2-posttest-no-difference.md) — related
+- [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related

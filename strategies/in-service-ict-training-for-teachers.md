@@ -51,6 +51,7 @@ The article recommends ongoing professional development so teachers can handle I
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
+- [Sponsor teachers to attend workshops and seminars on the effective use of the demonstration teaching method](teacher-workshops-on-demonstration-method.md)
 
 ## Examples
 -

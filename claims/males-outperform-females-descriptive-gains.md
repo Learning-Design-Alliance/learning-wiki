@@ -53,3 +53,4 @@ Descriptive mean gain percentages from Table 1: males 55.6% vs females 40.6% (un
 - [Male and female students show no significant difference in understanding of Light waves](no-gender-difference-understanding-light-waves.md) — reports the opposite
 - [Male and female students show no significant difference in analysis of Light waves](no-gender-difference-analysis-light-waves.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
+- [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related

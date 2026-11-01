@@ -60,3 +60,4 @@ Between-group comparison at post-test (table 3): Regular group mean 90.93 (SD 4.
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](logo-posttest-outperformed-control-2d-shapes.md) — related
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
+- [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related

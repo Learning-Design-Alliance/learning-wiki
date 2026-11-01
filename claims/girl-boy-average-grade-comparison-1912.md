@@ -51,3 +51,4 @@ Comparison of average grades of 18 girls and 14 boys across the six tabulated su
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — reports the opposite
+- [A higher percentage of girls than boys in the robotics class scored above NYSED benchmarks, with the largest gaps in Algebra and Geometry](girls-above-benchmark-algebra-geometry.md) — a narrower finding that bears on this claim

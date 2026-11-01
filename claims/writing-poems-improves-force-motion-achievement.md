@@ -49,3 +49,5 @@ Quasi-experimental post-test comparison of EG1 (writing poems, N = 11, mean rank
 - [Keeping a journal as a writing-to-learn activity showed no statistically significant achievement difference from conventional instruction](journal-keeping-no-achievement-effect.md) — related
 - [The three groups did not differ in prior achievement before the Force and Motion intervention](pretest-homogeneity-writing-groups.md) — related
 - [Poem-enhanced instruction produced higher posttest interest than game-enhanced and modified lecture instruction](peis-beats-geis-and-mlis-interest.md) — related
+- [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
+- [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — related

@@ -52,3 +52,4 @@ Pretest check in the same quasi-experiment: the TUCE was administered before the
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [Before treatment, the Logo and control groups showed no statistically significant difference in achievement on two-dimensional shapes](logo-pretest-no-significant-difference.md) — related
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
+- [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related

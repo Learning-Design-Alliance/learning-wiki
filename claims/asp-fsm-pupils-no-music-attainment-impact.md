@@ -55,3 +55,4 @@ Subgroup analysis of the RCT restricted to FSM-eligible pupils, re-estimating th
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — a broader claim this one bears on
 - [The evaluation found no differential impact of PLC for pupils eligible for free school meals or with low prior attainment](plc-no-differential-impact-fsm-low-prior-attainment.md) — related
+- [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related

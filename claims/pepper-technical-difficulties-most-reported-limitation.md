@@ -60,3 +60,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — related
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
+- [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim

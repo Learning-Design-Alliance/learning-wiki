@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: tran-2014
     resource: "https://doi.org/10.5430/ijhe.v3n2p131"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After eight weeks, the experimental group (M = 77.36, SD = 4.52) significantly outscored the control group (M = 67.00, SD = 6.60) on the psychology achievement posttest, with a printed ES of 0.46. [→ Tran 2014](#tran-2014)

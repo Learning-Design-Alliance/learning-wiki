@@ -52,3 +52,4 @@ The study's qualitative data revealed a limitation of the VR condition: "VR part
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Domain-specific challenges and authentic environmental prompting in the VR simulation fostered both experiential and vicarious learning of teaching](vr-authentic-prompting-fosters-experiential-vicarious-learning.md) — related
 - [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related
+- [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — reports the opposite

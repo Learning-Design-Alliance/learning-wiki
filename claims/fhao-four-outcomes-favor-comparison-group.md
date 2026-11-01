@@ -53,3 +53,4 @@ WWC table shows ethnic identity ES -0.19 (improvement index -7), moral reasoning
 - [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related
 - [The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design](fhao-limited-evidence-base-one-quasi-experiment.md) — related
 - [One item-level attitude finding, on teachers helping students who need extra help, was statistically significant in the randomized trial](lessons-in-character-teacher-help-item-significant.md) — related
+- [General work experience, not accounting-specific experience, was associated with higher levels of moral reasoning](work-experience-moral-reasoning.md) — related

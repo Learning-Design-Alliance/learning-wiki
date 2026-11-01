@@ -49,3 +49,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [Teachers' ICT knowledge was above the general average in both groups after the intervention](ict-knowledge-above-average-both-groups.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
+- [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related

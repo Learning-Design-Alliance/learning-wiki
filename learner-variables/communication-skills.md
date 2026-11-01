@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (79 show a difference, 23 mixed, 18 no difference) · 98 studies (26 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 16 of 98 report an effect size · 118 claims rest on one study
+> **Evidence** · 123 claims (80 show a difference, 23 mixed, 20 no difference) · 100 studies (28 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 16 of 100 report an effect size · 121 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -161,6 +161,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
 - [The Experimental group significantly outperformed the Control group on each post-test variable, including Content, Organization, Expression and Mechanical Accuracy](../claims/process-approach-posttest-all-variables.md) [+M] — instruction changes it
 - [The trial group improved a shortened FCE-style interview overall (p = 0.024), with significant gains in pronunciation, discourse and lexis but not grammar](../claims/phonics-prosody-course-improves-interview-skills.md) [+M] — instruction changes it
+- [Initial preschool language skill did not moderate the LLLI intervention effect on kindergarten expressive vocabulary](../claims/no-moderation-expressive-vocabulary.md) [-M] — an instructional effect differs with it
+- [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](../claims/cl-interviews-anxiety-participation.md) [+W] — instruction changes it
+- [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

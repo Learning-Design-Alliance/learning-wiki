@@ -65,6 +65,7 @@ Visual representations exploit the capacity of the visual channel to carry infor
 - [Annotating](../principles/annotating.md) — learner-generated marks and notes that can take graphical form
 - [Chunking](../principles/chunking.md) — the working-memory principle that visual grouping enacts
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
+- [Replace lecture-only English instruction with mind-map-based presentation of the whole chapter in a single diagram](mind-map-whole-chapter-single-diagram-english.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — concept summaries and diagrams accompanying video lessons in science and economics.

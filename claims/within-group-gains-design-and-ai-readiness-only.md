@@ -74,3 +74,4 @@ Paired-samples t-tests within the control group (n = 26) in the same quasi-exper
 - [Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)](socratic-genai-ct-gains-vary-by-group.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
+- [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related

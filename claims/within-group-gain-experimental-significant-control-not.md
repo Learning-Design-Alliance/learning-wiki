@@ -56,3 +56,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [At-risk grade 2 experimental students made significant within-group gains in Applied Problems, but these gains were not significantly larger than their non-at-risk peers' gains](chisanbop-applied-problems-grade2-atrisk.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — reports the opposite
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
+- [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related

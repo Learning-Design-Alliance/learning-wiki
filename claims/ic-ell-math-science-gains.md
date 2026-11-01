@@ -52,3 +52,4 @@ OLS models of standardized CRCT Math (Table 8, Treatment 0.147, SE 0.076) and Sc
 - [ELL students taught by IC teachers outperform ELL control students in English Language Arts by .25 (p<.001)](ic-ell-ela-outperformance.md) — related
 - [IC treatment students outperform controls in English Language Arts across the full sample (β = .120, p<.05)](ic-treatment-ela-gain-full-sample.md) — related
 - [The treatment-by-grade interaction indicates treated fifth graders outperformed treated third graders, not that treatment harmed third graders](ic-treatment-grade-interaction-fifth-graders.md) — related
+- [First-grade ELL students taught through traditional small-group instruction significantly outperformed IC-JPA-taught students on math achievement when controlling for initial ability](icjpa-traditional-outperformed-math-achievement.md) — reports the opposite

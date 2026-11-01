@@ -77,3 +77,4 @@ The review reports Harrington et al. (2025) found that, despite identical instit
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Canadian and Korean students did not differ significantly in overall opinions about GenAI's impact on academic integrity and learning quality, and academic progress did not affect scenario judgments](no-country-difference-in-overall-genai-opinions-or-year-of-study.md) — a narrower finding that bears on this claim
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
+- [Female students were more ethically sensitive than male students regardless of educational context group](females-more-ethically-sensitive.md) — related

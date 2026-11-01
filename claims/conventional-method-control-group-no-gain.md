@@ -71,3 +71,6 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [The Control and Experimental groups were homogeneous in essay-writing performance at pre-test](process-approach-pretest-homogeneity.md) — related
 - [VFT-taught students significantly outperformed conventionally taught students on the essay item for Colonization and Succession in Mangrove Ecosystems](vft-significant-essay-item.md) — related
 - [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](cai-gain-exceeds-cim-voice-grammar.md) — related
+- [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
+- [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
+- [Skill-based teaching alone produced no statistically significant pre-to-post gain in reading comprehension in the control group](skill-based-teaching-no-significant-gain.md) — a narrower finding that bears on this claim

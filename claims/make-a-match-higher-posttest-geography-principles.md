@@ -51,3 +51,4 @@ Quasi-experiment with non-equivalent pre-test/post-test control group design: cl
 - [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
 - [Prior studies cited by the article also report that make a match improves student learning outcomes](prior-studies-make-a-match-improves-outcomes.md) — related
 - [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — related
+- [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related

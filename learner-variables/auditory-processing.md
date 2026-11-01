@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (29 show a difference, 16 mixed, 8 no difference) · 28 studies (13 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 12 of 28 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (35 show a difference, 16 mixed, 8 no difference) · 32 studies (17 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 13 of 32 report an effect size · 57 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -89,6 +89,12 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [RMT use improves speech recognition in noise for inattentive children with listening difficulties during a 4-week crossover RCT](../claims/rmt-improves-speech-recognition-inattentive-children.md) [+M] — instruction changes it
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](../claims/rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) [+M] — instruction changes it
 - [Listening proficiency is the strongest predictor of L2 listening comprehension](../claims/listening-proficiency-strongest-comprehension-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Both instructed and regular listening classes produce significant within-group gains in general listening comprehension over a 10-week course](../claims/both-groups-gain-listening-over-course.md) [+M] — instruction changes it
+- [EFL learners taught with dictogloss tasks significantly outperform learners taught with dicto-phrase tasks on listening comprehension posttests](../claims/dictogloss-outperforms-dicto-phrase-listening.md) [+M] — instruction changes it
+- [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](../claims/iwb-visual-within-group-gain.md) [+M] — instruction changes it
+- [Explicit reduced-forms instruction improves Iranian EFL learners' overall listening comprehension more than regular listening instruction alone](../claims/reduced-forms-instruction-improves-listening-comprehension.md) [+M] — instruction changes it
+- [Interactive whiteboard lessons supported by visual materials produce higher listening comprehension achievement than regular 2018 Turkish Course Curriculum teaching in middle school students](../claims/iwb-visual-materials-improve-listening-comprehension.md) [+M] — instruction changes it
+- [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](../claims/listening-comprehension-predicts-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

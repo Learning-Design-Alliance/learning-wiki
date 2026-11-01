@@ -30,7 +30,7 @@ sources:
 # Reading Recovery
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 8 report an effect size · 12 claims rest on one study
 
 ## Description
 Reading Recovery is a one-to-one early-literacy tutoring programme for low-achieving first-grade readers, delivered by specially trained teachers through daily individual lessons and progress monitoring.
@@ -43,6 +43,7 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - **Daily assessment-driven one-on-one tutoring session with targeted, multisensory literacy components**: Each daily 30-minute one-on-one session provides a balanced literacy block including fluency building, daily assessments, phonological awareness and word study, sentence writing, and vocabulary development. "Program components are targeted at individual student needs," and tutors "use daily assessments to inform daily instruction within a sequential framework." Components are also multisensory, "incorporating visual, auditory, kinesthetic and tactile teaching methods." (Reading Go! (formerly Reading Rescue) (2021))
 - **Interactive individualized lesson structure combining reading, letter/word work, and story writing**: Each Reading Recovery lesson follows a recurring structure: "reading familiar or novel stories, manipulating letters and words, and writing and assembling stories." Lessons are "interactive between the teacher and student, with the teacher carefully monitoring each student's reading behavior," and teachers tailor instruction to accommodate each student's needs. This pattern combines text reading, orthographic work, and composing within a single one-on-one session, with continuous teacher observation guiding what each lesson contains. (Reading Recovery® (2013))
 - **Reading Recovery training cascade: university-affiliated teacher training sites, teacher leaders, and certified teachers**: Reading Recovery® sustains implementation through a three-level training infrastructure. Teacher training sites in public schools, affiliated with partnering universities, house teacher leaders who train teachers. Teacher leaders complete a yearlong training of graduate coursework and supervised practicums, and are expected to "provide initial training for up to 15 teacher candidates and provide ongoing support for 40 to 60 Reading Recovery® teachers or teachers in training annually." Teachers complete a yearlong graduate-credit training and must maintain registration by teaching at least eight students per year and participating in ongoing professional development. (page:designs/reading-recovery-training-cascade)
+- **Reading Recovery i3 multi-site randomized trial**: Reading Recovery is "an early reading intervention for first-graders who are reading substantially below grade level", in which students receive one-to-one lessons with a reading specialist for 30 minutes each day for up to 20 weeks. The i3 Scale-Up evaluation is a $55 million effort; at the start of the 2012-13 school year 2,085 teachers had been trained or were in training, mostly in high-need schools. The evaluation matched up to eight students per school into pairs by pretest text reading level and English language learner status, randomly assigning one member of each pair to treatment. (Henry May (2014))
 
 ### Claims
 - [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](../claims/reading-recovery-improves-grade1-literacy.md) [+M]
@@ -56,6 +57,7 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](../claims/reading-recovery-potentially-positive-alphabetics.md) [+W]
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](../claims/reading-recovery-potentially-positive-comprehension.md) [+W]
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](../claims/reading-recovery-potentially-positive-reading-fluency.md) [+W]
+- [The Reading Recovery i3 multi-site RCT finds large positive overall effects on reading outcomes with substantial variation in impacts across sites](../claims/reading-recovery-i3-large-positive-effects-site-variation.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -66,12 +68,12 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org
 - Reading Go! (formerly Reading Rescue). (2021). Evidence for ESSA program description (no publication date printed on page). https://www.evidenceforessa.org
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023, June). Reading Recovery® Intervention Report | English Language Arts Topic Area. https://whatworks.ed.gov
-
 <!-- merged 2026-10-10 from elements/reading-recovery-daily-30-minute-lessons ("Reading Recovery daily 30-minute individual tutoring lessons"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023, June). Reading Recovery® Intervention Report | English Language Arts Topic Area. https://ies.ed.gov/ncee/wwc/InterventionReport/730
 - Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org
 - Reading Go! (formerly Reading Rescue). (2021). Evidence for ESSA program description (no publication date printed on page). https://www.evidenceforessa.org
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023, June). Reading Recovery® Intervention Report | English Language Arts Topic Area. https://whatworks.ed.gov
+- Henry May. (2014). Distortions in Distributions of Impact Estimates in Multi-Site Trials: The Central Limit Theorem is Not Your Friend. SREE Fall 2014 Conference. https://www.sree.org/
 
 # Reading Recovery daily 30-minute individual tutoring lessons
 

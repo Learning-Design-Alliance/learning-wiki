@@ -52,3 +52,6 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related
+- [Game-based vocabulary interventions outperformed control conditions in several reviewed studies](game-interventions-outperform-controls-vocabulary.md) — related
+- [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
+- [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a sentence-structure post-test](whatsapp-group-outperformed-control-sentence-structure.md) — related

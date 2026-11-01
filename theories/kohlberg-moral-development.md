@@ -12,7 +12,7 @@ generated:
 # Kohlberg's Stages of Moral Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Lawrence Kohlberg (1927–1987), building directly on Piaget's [Stages of Cognitive Development](stages-of-cognitive-development.md), proposed that moral *reasoning* — not moral behavior or the specific choice a person makes — develops through three levels and six stages. Kohlberg assessed stage using the **Moral Judgment Interview**, a semi-structured interview (established in his 1958 dissertation) that scores the structure of a person's justification for a moral choice, not the choice itself. His signature instrument is the **Heinz dilemma**: a man, Heinz, cannot afford a drug that could save his dying wife; should he steal it? The "right" answer is irrelevant to scoring — a person can justify either "steal it" or "don't steal it" from any of the six stages, and it is the *form* of the justification that reveals the stage.
@@ -52,6 +52,8 @@ Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former st
 ## Claims
 
 - [A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture](../claims/dilemma-discussion-meta-analysis-moderate-effect.md) [+M]
+- [General work experience, not accounting-specific experience, was associated with higher levels of moral reasoning](../claims/work-experience-moral-reasoning.md) [+W]
+- [Among hotline callers, the untrained comparison group exhibited higher moral reasoning than the accounting context group, with no difference involving the ethical context group](../claims/comparison-group-higher-moral-reasoning.md) [~W]
 
 ## Related Theories
 

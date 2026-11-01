@@ -48,3 +48,4 @@ The review's outcome synthesis reports that in the single digital-versus-paper c
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — related
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
+- [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related

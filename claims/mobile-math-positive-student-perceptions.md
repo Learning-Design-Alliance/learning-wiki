@@ -68,3 +68,4 @@ Descriptive analysis of end-activity evaluation semantic-differential ratings sh
 - [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
+- [A majority (65.5%) of the experimental group gave positive remarks that VRS exposure helped their actual practice, most often citing learning proper sequence (94.7%)](vrs-students-positive-remarks-proper-sequence.md) — related

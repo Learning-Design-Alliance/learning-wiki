@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (94 show a difference, 27 mixed, 13 no difference) · 70 studies (24 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 70 report an effect size · 132 claims rest on one study
+> **Evidence** · 138 claims (98 show a difference, 27 mixed, 13 no difference) · 71 studies (25 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 71 report an effect size · 136 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -169,6 +169,10 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](../claims/ati-outperforms-pbl-math-creative-thinking.md) [+M] — instruction changes it
 - [The article reports that PBL raised the average creative thinking ability of its participants above the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — instruction changes it
 - [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](../claims/tfcs-prepost-nonsignificant-descriptive-divergence.md) [~M] — instruction changes it
+- [Across all three inquiry levels, the experimental group's critical and creative thinking gains exceeded the control group's gains](../claims/three-level-inquiry-worksheets-overall-effectiveness.md) [+M] — instruction changes it
+- [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/guided-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
+- [Open inquiry-based worksheets in plant physiology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/open-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
+- [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

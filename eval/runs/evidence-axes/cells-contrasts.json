@@ -59534,5 +59534,445 @@
  "worked-examples\tincorrect worked examples for low-prior-knowledge students\tproblem-solving practice": {
   "label": "incorrect worked examples vs problem-solving",
   "treatment_is_a": true
+ },
+ "active-learning\tActive Learning Methodology\tpre-test before instruction": {
+  "label": "Active learning instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tFCI-assigned group before treatment\ttraditional-instruction-assigned group before treatment": {
+  "label": "Flipped-classroom assignment vs traditional-instruction assignment before treatment",
+  "treatment_is_a": true
+ },
+ "active-learning\tFlipped Classroom Instruction (FCI)\ttraditional instruction": {
+  "label": "Flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tIC-JPA math instruction\ttraditional math instruction and centers": {
+  "label": "Instructional Conversations with Joint Productive Activities vs traditional math instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tInstructional Conversations with Joint Productive Activities\ttraditional math instruction and centers": {
+  "label": "Instructional Conversations with Joint Productive Activities vs traditional math instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw cooperative-learning laboratory\tconfirmatory laboratory": {
+  "label": "Jigsaw cooperative-learning laboratory vs confirmatory laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative listening instruction\tthe same students’ pretest performance": {
+  "label": "Learning Together cooperative listening instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative listening instruction\ttraditional teaching approach": {
+  "label": "Learning Together cooperative listening instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tQuest whole-year literacy programme with co-operative learning\tbusiness-as-usual English teaching": {
+  "label": "Quest cooperative-learning programme vs business-as-usual English teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tQuest’s co-operative learning structure\tbusiness-as-usual English teaching": {
+  "label": "Quest cooperative-learning structure vs business-as-usual English teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning instruction post-test\tactive learning instruction pre-test": {
+  "label": "Active learning instruction post-test vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning across the semester\tpretest baseline before cooperative learning": {
+  "label": "Cooperative learning during the semester vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning during the semester\tthe experiment class’s pretest baseline": {
+  "label": "Cooperative learning during the semester vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in listening class\ttraditional teaching in listening class": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in listening classes\ttraditional teaching": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in listening classes\ttraditional teaching in listening classes": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning strategy\tindividualistic learning strategy": {
+  "label": "Cooperative learning vs individualistic learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning with group discussion and peer interaction\tteacher-dominated passive listening in prior classes": {
+  "label": "Cooperative learning with group discussion and peer interaction vs teacher-dominated passive listening",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration method\tlecture method": {
+  "label": "Demonstration method vs lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration method for female students\tlecture method for female students": {
+  "label": "Demonstration method vs lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration method for male students\tlecture method for male students": {
+  "label": "Demonstration method vs lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiscussion method\tlecture method": {
+  "label": "Discussion method vs lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom instruction\ttraditional instruction": {
+  "label": "Flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom instruction with pre-class videos and in-class group and pair work\ttraditional teacher-centered instruction": {
+  "label": "Flipped classroom vs traditional teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom instruction with pre-class videos and in-class group and pair work\ttraditional teacher-led instruction": {
+  "label": "Flipped classroom vs traditional teacher-led instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinverted classroom with self-paced online videos, quizzes, and problem-based learning\ttraditional lecture-homework classroom": {
+  "label": "Flipped classroom vs traditional lecture-homework classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-test after Active Learning Methodology\tpre-test before Active Learning Methodology": {
+  "label": "Active learning instruction post-test vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\treciprocal teaching procedure\tconventional reading instruction": {
+  "label": "Reciprocal teaching vs conventional reading instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treciprocal-teaching strategy\ttraditional teaching method": {
+  "label": "Reciprocal teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\treciprocal-teaching strategy\ttraditional teaching methods": {
+  "label": "Reciprocal teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents assigned to the flipped-classroom group\tstudents assigned to the traditional-instruction group before treatment": {
+  "label": "Flipped-classroom assignment vs traditional-instruction assignment before treatment",
+  "treatment_is_a": true
+ },
+ "active-learning\tsupervised peer tutoring\tconventional lecture demonstration": {
+  "label": "Supervised peer tutoring vs conventional lecture-demonstration",
+  "treatment_is_a": true
+ },
+ "active-learning\tsupervised peer tutoring\tconventional lecture-demonstration method": {
+  "label": "Supervised peer tutoring vs conventional lecture-demonstration",
+  "treatment_is_a": true
+ },
+ "active-learning\tsupervised peer tutoring\tlecture demonstration method": {
+  "label": "Supervised peer tutoring vs conventional lecture-demonstration",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 weeks of explicit reduced-forms instruction\tregular classes": {
+  "label": "explicit reduced-forms instruction vs regular classes",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAcademic writing course without the formulaic-sequence intervention\tControl-group midterm writing": {
+  "label": "academic writing without formulaic-sequence intervention vs control-group writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEditing target formulaic sequences into paragraphs and learners’ own texts\tMidterm writing before Stage 2 intervention": {
+  "label": "editing target formulaic sequences in paragraphs and learners’ own texts vs pre-intervention writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFusion Tier 2 mathematics intervention\tstandard district practice": {
+  "label": "Fusion Tier 2 mathematics intervention vs standard district practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStage 1 target-formula familiarization exercises\tsame course without the intervention": {
+  "label": "target-form familiarization exercises vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTreatment group academic writing course with Stage 1 familiarization and Stage 2 editing intervention\tControl group at the midterm": {
+  "label": "combined target-form familiarization and editing intervention vs control-group writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcomputer game with simultaneous teacher instruction\tcomputer game only": {
+  "label": "computer game plus simultaneous teacher instruction vs computer game only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional instruction\tpre-test condition": {
+  "label": "conventional instruction vs pre-test condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcurrent-curriculum instruction at posttest\tcurrent-curriculum pretest": {
+  "label": "current-curriculum instruction at posttest vs current-curriculum pretest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tediting target formulaic sequences into paragraphs\tsame course without the intervention": {
+  "label": "editing target formulaic sequences into paragraphs vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction\tcomparison conditions": {
+  "label": "explicit instruction vs comparison conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reading strategy instruction\tconventional skill-based reading teaching": {
+  "label": "explicit reading strategy instruction vs conventional skill-based teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reading strategy instruction\texperimental group pre-test performance": {
+  "label": "explicit reading strategy instruction vs pre-intervention performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reading strategy instruction\tskill-based teaching": {
+  "label": "explicit reading strategy instruction vs skill-based teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reduced-forms instruction\tregular classes": {
+  "label": "explicit reduced-forms instruction vs regular classes",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reduced-forms instruction\tregular classes without reduced-forms instruction": {
+  "label": "explicit reduced-forms instruction vs regular classes without reduced-forms instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprocessing instruction\ttraditional instruction": {
+  "label": "processing instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional teaching during the semester\tthe control class’s pretest baseline": {
+  "label": "traditional teaching during the semester vs control-class pretest baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tadditional teacher and principal performance measures with feedback\tdistrict evaluations and measures without the study's additional feedback": {
+  "label": "additional feedback vs usual practice without additional feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfrequent classroom-practice feedback based on observation rubrics\tusual district performance feedback": {
+  "label": "additional feedback vs usual practice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback based on classroom observations\tno study performance-feedback intervention": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback based on classroom-practice observations\tcontrol condition without the study intervention": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback intervention\tcontrol condition": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback intervention for teachers and principals\tcontrol condition": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback provided to teachers and principals\tusual practice without the intervention": {
+  "label": "feedback vs usual practice without the intervention",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback to principals\tcontrol condition": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback using the CLASS rubric\tcontrol condition without the study's performance-feedback intervention": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance feedback using the FFT rubric\tcontrol condition without the study's performance-feedback intervention": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance measures with feedback\texisting district performance evaluation": {
+  "label": "additional feedback vs usual practice evaluation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance measures with feedback\tusual district evaluation without added study feedback": {
+  "label": "additional feedback vs usual practice evaluation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tperformance-feedback treatment teachers\tcontrol teachers": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpostfeedback revised draft\tprefeedback first draft": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tprincipal leadership feedback based on a leadership measure\tusual district performance feedback": {
+  "label": "additional feedback vs usual practice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tprincipal leadership performance measure with feedback\texisting district performance evaluation": {
+  "label": "additional feedback vs usual practice evaluation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trevised draft after instructor feedback\tfirst draft before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstudy performance feedback measures and sessions\tusual district performance feedback": {
+  "label": "additional feedback vs usual practice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstudy performance feedback with ratings and written narrative\tdistrict comparison condition": {
+  "label": "additional feedback vs usual practice",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstudy performance measures with feedback\tdistrict existing performance evaluations and measures": {
+  "label": "additional feedback vs usual practice evaluation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tteacher and principal performance measures with feedback\tno additional study performance measures": {
+  "label": "additional feedback vs no additional feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tteacher and principal performance measures with feedback\tusual district performance evaluation and measures": {
+  "label": "additional feedback vs usual practice evaluation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tVAL-ED 360-degree feedback\tprior district feedback": {
+  "label": "360-degree feedback vs prior district feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toral feedback\toral and written feedback": {
+  "label": "oral feedback vs oral and written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toral feedback\toral plus written feedback": {
+  "label": "oral feedback vs oral and written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toral feedback\twritten feedback": {
+  "label": "oral feedback vs written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpostfeedback draft after teacher feedback\tprefeedback draft": {
+  "label": "postfeedback draft vs prefeedback draft",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstudy classroom observation feedback\tdistrict official feedback": {
+  "label": "classroom observation feedback vs district official feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\twritten feedback\toral and written feedback": {
+  "label": "oral and written feedback vs written feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\twritten feedback\toral plus written feedback": {
+  "label": "oral and written feedback vs written feedback",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tResearch-based early writing intervention within a DBI framework\tBusiness-as-usual writing instruction": {
+  "label": "Research-based early writing intervention within a DBI framework vs business-as-usual writing instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tearly writing intervention within a DBI framework\tbusiness-as-usual writing instruction": {
+  "label": "Research-based early writing intervention within a DBI framework vs business-as-usual writing instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone-minute paper class equation\twithout-one-minute-paper class equation": {
+  "label": "One-minute paper vs no one-minute paper",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone-minute paper with instruction adjusted using student feedback\tno one-minute paper": {
+  "label": "One-minute paper with instruction adjusted using student feedback vs no one-minute paper",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone-minute paper with instructor review of muddy points\tclass without one-minute paper": {
+  "label": "One-minute paper with instructor review of muddy points vs no one-minute paper",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone-minute paper with instructor review of muddy points\tno one-minute paper": {
+  "label": "One-minute paper with instructor review of muddy points vs no one-minute paper",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tone-minute paper with instructor review of muddy points and subsequent clarification\tclass without the one-minute paper": {
+  "label": "One-minute paper with instructor review of muddy points and subsequent clarification vs no one-minute paper",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tportfolio-based instruction\tnon-portfolio instruction": {
+  "label": "Portfolio-based instruction vs non-portfolio instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tportfolio-based instruction with RAP reading charts, self-assessment, peer feedback, and teacher conferences\tnon-portfolio instruction": {
+  "label": "Portfolio-based instruction with RAP reading charts, self-assessment, peer feedback, and teacher conferences vs non-portfolio instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearch-based early writing intervention within a DBI framework\tbusiness-as-usual writing instruction": {
+  "label": "Research-based early writing intervention within a DBI framework vs business-as-usual writing instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry teaching method\tconventional method": {
+  "label": "guided inquiry vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tActive learning methodology post-test\tActive learning methodology pre-test": {
+  "label": "post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "media-design\tMultimedia approach\tActive learning methodology": {
+  "label": "multimedia approach vs active learning methodology",
+  "treatment_is_a": true
+ },
+ "media-design\tMultimedia approach post-test\tMultimedia approach pre-test": {
+  "label": "post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia approach\tactive learning methodology": {
+  "label": "multimedia approach vs active learning methodology",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia approach\tpre-test before multimedia instruction": {
+  "label": "multimedia approach vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia approach using a 76-slide package\tActive Learning Methodology": {
+  "label": "multimedia approach vs active learning methodology",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia instruction post-test\tmultimedia instruction pre-test": {
+  "label": "post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "practice-amount\tCLIL applications with 610 additional minutes of English exposure\tnon-CLIL instruction with less English exposure": {
+  "label": "more practice/exposure vs less practice/exposure",
+  "treatment_is_a": true
+ },
+ "prompts\tself-monitoring strategies during or after Social Studies lessons\tformal curriculum teaching": {
+  "label": "self-monitoring prompts vs standard instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic assessment instruction\tnon-dynamic instruction": {
+  "label": "dynamic assessment instruction vs non-dynamic instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic assessment instruction\tpretest baseline": {
+  "label": "dynamic assessment instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic-assessment instruction\tnon-dynamic instruction": {
+  "label": "dynamic assessment instruction vs non-dynamic instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic-assessment instruction\tpre-treatment performance": {
+  "label": "dynamic assessment instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tCathSim virtual reality simulation\ttraditional instruction using a simulated plastic arm": {
+  "label": "virtual reality simulation vs plastic-arm simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tCathSim virtual reality simulation\ttraditional simulated plastic arm": {
+  "label": "virtual reality simulation vs plastic-arm simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tCathSim virtual reality simulation training\ttraditional simulated-plastic-arm training": {
+  "label": "virtual reality simulation vs plastic-arm simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tdrama-based physical simulation of matter and heat transfer\ttraditional science teaching": {
+  "label": "physical simulation vs traditional teaching",
+  "treatment_is_a": true
  }
 }

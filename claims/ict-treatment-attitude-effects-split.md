@@ -70,3 +70,4 @@ Independent-samples t-tests on the social studies attitude scale (Cronbach's alp
 - [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
 - [iPod inquiry teaching produced significantly more positive scientific attitudes than regular teaching for third graders](ipod-inquiry-improves-scientific-attitudes.md) — related
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
+- [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both experimental groups (concept mapping and cooperative learning) gained more from pre-test to post-test than the control group taught traditionally. [→ T. D. Bot & John E. Eze 2016](#t-d-bot-john-e-eze-2016)
@@ -71,3 +71,5 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](concept-mapping-gender-advantage-males-trigonometry.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
 - [Descriptive post-test means numerically favoured the spider concept mapping group, though not significantly](spider-concept-map-descriptive-mean-advantage.md) — related
+- [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
+- [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related

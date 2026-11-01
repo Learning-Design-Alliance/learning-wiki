@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (19 for, 6 mixed, 3 against) · 36 studies (17 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (21 for, 6 mixed, 3 against) · 37 studies (18 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 26 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -76,6 +76,8 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [In triadic robot-mediated problem solving, children spontaneously embodied early mathematics and science knowledge, using gestures and whole-body movement to represent properties, processes, and reasoning sequences](../claims/embodied-early-math-science-reasoning.md) [+W]
 - [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](../claims/ile-psychomotor-design-characteristics-embodied-actions.md) [+W]
 - [Deictic gestures improve transfer performance in Experiment 2 but not in Experiment 1, where no significant transfer effect was found](../claims/deictic-gestures-transfer-mixed.md) [~W]
+- [Drama-based science teaching improved seventh-grade students' understanding of scientific concepts compared with traditional teaching](../claims/drama-teaching-improved-scientific-concept-understanding.md) [+W] — attached 2026-11-01 from Osama H. Abed (2016), which proposed "Body-as-model physical simulation drama activities for the Heat unit"; tests this page's relationship.
+- [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](../claims/drama-teaching-improved-attitudes-towards-science.md) [+W] — attached 2026-11-01 from Osama H. Abed (2016), which proposed "Body-as-model physical simulation drama activities for the Heat unit".
 
 ## The evidence by question
 

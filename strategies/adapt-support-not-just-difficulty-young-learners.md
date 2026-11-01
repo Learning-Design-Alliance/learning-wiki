@@ -41,7 +41,8 @@ Drawing on their null findings, the authors recommend that "future adaptive syst
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Balance on- and off-computer mathematics activities in early childhood classrooms](balance-on-and-off-computer-math-activities.md)
 
 ## Examples
 -

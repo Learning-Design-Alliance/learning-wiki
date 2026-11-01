@@ -54,3 +54,5 @@ Paired-samples t-tests on pre- and post-SLA-D scores reported in the Results. Th
 - [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md) — related
 - [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
+- [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
+- [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](vhpi-significant-mean-score-gain-paired-ttest.md) — related

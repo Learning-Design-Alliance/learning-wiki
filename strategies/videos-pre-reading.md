@@ -57,9 +57,11 @@ Video pre-reading works because it activates relevant prior knowledge before lea
 5. Briefly collect one prediction or question per pair to frame the reading task, then assign the reading ([Advance Organizers](../elements/advance-organizers.md))
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the general principle this strategy enacts through video
 - [Anticipation Guides](../strategies/anticipation-guides.md) — a text-based alternative that similarly primes predictions before reading
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the discussion structure most often paired with this strategy
+- [Begin each science unit with science-fiction reading to draw attention to the subject](unit-opener-scifi-reading.md)
 
 ## Examples
 - Before reading an article on rainforest ecology, a short documentary segment on biodiversity and deforestation is shown; pairs discuss "What does the video suggest about why deforestation spreads?" before reading a text that develops the economic and policy dimensions the video omitted.

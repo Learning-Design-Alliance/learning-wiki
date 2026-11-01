@@ -69,3 +69,4 @@ Dependent samples t-test on the 29 control students' scores; means were 43.75 (p
 - [In ABSI-taught lessons, student turn-taking frequency is high (71%) while in conventionally taught lessons it is low (14%), with the teacher dominant in the control group](absi-raises-student-dialogue-share.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — possibly the same claim (merge candidate)
 - [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — possibly the same claim (merge candidate)
+- [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related

@@ -49,3 +49,4 @@ Experiment 3A, a pre-registered within-participant crossover with 110 sixth grad
 - [In a two-hour randomized experiment, sixth graders in a jigsaw condition did not outperform those in an individualistic condition on a mathematics learning test](jigsaw-vs-individualistic-null-math-e1.md) — related
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
+- [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](cooperative-group-higher-final-exam-chemistry-lab.md) — related

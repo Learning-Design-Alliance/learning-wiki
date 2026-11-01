@@ -43,6 +43,7 @@ The brief recommends lessons in which students read, write, listen, and speak to
 ## Related Strategies
 
 - [Language Experience Approach](language_experience_approach.md)
+- [Use dictogloss tasks in listening lessons to raise motivation and integrate all four language skills](dictogloss-for-motivation-and-skills-integration.md)
 
 ## Examples
 -

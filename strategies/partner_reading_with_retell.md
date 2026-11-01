@@ -59,9 +59,11 @@ The strategy combines two well-supported mechanisms: repeated and modeled oral r
 5. Close with a brief whole-class or pair reflection on one retell, connecting the summary to story structure.
 
 ## Related Strategies
+
 - Reciprocal Teaching — shares the summarizing-and-dialogue structure but uses adult-led group roles rather than pairs
 - Repeated Reading — isolates the fluency mechanism without the comprehension retell
 - Think-Pair-Share — a general discussion structure that Partner Reading with Retell embeds within a reading task
+- [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 
 ## Examples
 - **PALS Reading (Vanderbilt University)** — the source program, classwide and validated across Grades K–6: https://iris.peabody.vanderbilt.edu/modules/pals/

@@ -49,3 +49,4 @@ Random effects meta-analysis of correlations between individual station scores a
 - [Canada (excluding Quebec) is the only country of 17 requiring a clinical competency examination for licensure of domestic physical therapy graduates](canada-only-country-clinical-competency-exam-pt-licensure.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — related
+- [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related

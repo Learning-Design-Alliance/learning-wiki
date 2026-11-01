@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 354 claims (156 for, 174 mixed, 24 against) · 266 studies (90 associational, 61 design, 45 review, 29 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 266 report an effect size · 347 claims rest on one study
+> **Evidence** · 356 claims (156 for, 176 mixed, 24 against) · 267 studies (90 associational, 61 design, 45 review, 30 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 267 report an effect size · 349 claims rest on one study
 
 ## Conditional relationship
 
@@ -428,6 +428,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](../claims/basic-science-process-skills-test-reliability-0876.md) [+W]
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](../claims/inter-rater-reliability-writing-scores.md) [+W]
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](../claims/self-developed-test-reliability-069.md) [~W]
+- [Year-averaged classroom observation scores provided only modest reliability for identifying teachers needing support, and dimension-level differences were too unreliable to signal specific areas for improvement](../claims/observation-scores-limited-reliability-dimensions.md) [~W]
+- [Year-averaged classroom observation scores provided reliable information to distinguish overall teacher performance (reliabilities .53–.61 and .70–.77), but dimension-level differences had limited reliability (.35–.43 and .18–.30)](../claims/observation-scores-reliable-overall-not-dimension.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

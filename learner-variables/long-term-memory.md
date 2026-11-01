@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (125 show a difference, 54 mixed, 35 no difference) · 136 studies (69 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 136 report an effect size · 206 claims rest on one study
+> **Evidence** · 216 claims (127 show a difference, 54 mixed, 35 no difference) · 138 studies (71 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 138 report an effect size · 208 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -249,6 +249,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [On a delayed delayed-post-test covering all 30 items, the PBL group (mean 23.80) outperformed the control group (mean 17.15)](../claims/pbl-delayed-delayed-posttest-outperformance.md) [+M] — instruction changes it
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](../claims/pbl-improves-efl-vocabulary-recall.md) [+M] — instruction changes it
 - [PBL-taught learners showed significantly higher vocabulary retention on delayed post-tests in all modules except module 3](../claims/pbl-improves-efl-vocabulary-retention.md) [~M] — instruction changes it
+- [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](../claims/joke-telling-improves-retention-equivocal-words.md) [+M] — instruction changes it
+- [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](../claims/keyword-method-delayed-recall-advantage.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

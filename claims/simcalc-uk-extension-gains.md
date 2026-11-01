@@ -60,3 +60,4 @@ UK analysis of gain scores by free-school-meal poverty and prior achievement; hi
 - [SimCalc scale-up study showed significant positive impacts on curriculum-aligned conceptual items but no significant difference on state test items](simcalc-aligned-vs-state-test-impacts.md) — related
 - [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](adaptive-teaching-units-learning-gains-moderated.md) — related
 - [Mean effect sizes of technology-enhanced mathematics learning vary by didactical functionality from small to medium, with the largest variation for developing conceptual understanding](effect-sizes-vary-by-didactical-functionality-math.md) — related
+- [Additional mathematics instruction received by six intervention children did not produce significantly different posttest scores](extra-math-instruction-six-children-no-significant-difference.md) — related

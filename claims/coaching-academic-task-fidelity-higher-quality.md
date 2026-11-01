@@ -51,3 +51,4 @@ Review discussion comparing quality-indicator adherence across the 16 studies. T
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
 - [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
+- [FSN coaches and teachers implemented core program components with excellent adherence, with implementation quality lower during the teacher phase than the coach phase](fsn-high-fidelity-teacher-phase-quality-lower.md) — related

@@ -53,3 +53,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — reports the opposite
 - [VR design review simulation improves construction students' error detection compared with 2D drawings](vr-design-review-improves-error-detection.md) — related
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — possibly the same claim (merge candidate)
+- [No significant difference was found between the traditional-method control group and the VRS experimental group on any of five phlebotomy performance metrics measured on actual patients](no-significant-difference-traditional-vs-vrs-phlebotomy-metrics.md) — related

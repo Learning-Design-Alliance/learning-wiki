@@ -111,3 +111,4 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [Working memory, orthographic, phonological, and morphological training each show significant medium effects on Chinese children's literacy](medium-effects-wm-ortho-phono-morph-training.md) — related
 - [Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)](ma-direct-effect-reading-comprehension.md) — related
 - [Effect sizes for the intervention were less than g = .03 on most outcomes, with small comprehension effects of g = 0.15 and g = 0.19](small-comprehension-effect-sizes-g-015-019.md) — related
+- [Prior work found positive intention-to-treat STARI effects on word reading, morphological awareness, and efficiency of basic reading](stari-prior-positive-effects-reading-domains.md) — related

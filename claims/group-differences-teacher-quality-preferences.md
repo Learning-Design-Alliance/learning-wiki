@@ -50,3 +50,4 @@ Comparison of frequency percentages across the three surveyed groups (139 high s
 ## Related Claims
 - [High school and normal school pupils rank kindness, fairness, sociability, sense of humor, good temper, ability to discipline, neatness, patience, adequate preparation, and ability to impart information as the ten most important teacher qualities.](pupils-rank-social-virtues-top-teacher-qualities.md) — related
 - [Opinions of boys, girls, and normal school students about the best teacher qualities correlate highly (r = .80 between high school girls and boys; r = .88 between normal school girls and high school girls).](high-correlation-pupil-group-opinions.md) — related
+- [Textual analysis of student blogs showed girls wrote with higher relative frequency about mentors, while boys' use of \"team\" surpassed \"group\"](blog-textual-analysis-gender-differences.md) — related

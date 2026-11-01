@@ -51,3 +51,5 @@ Second set of partially clustered time × condition models comparing ROOTS stude
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
+- [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
+- [ROOTS participation reduced the achievement gap between at-risk and non-at-risk students within intervention classrooms on the TEMA](roots-closed-achievement-gap-tema.md) — related

@@ -50,3 +50,4 @@ Formative and summative evaluation findings on the iGuides system: "the repeated
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — a broader claim this one bears on
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
+- [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim

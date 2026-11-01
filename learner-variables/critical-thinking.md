@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (88 show a difference, 25 mixed, 14 no difference) · 88 studies (31 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 17 of 88 report an effect size · 125 claims rest on one study
+> **Evidence** · 132 claims (93 show a difference, 25 mixed, 14 no difference) · 91 studies (34 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 17 of 91 report an effect size · 130 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -167,6 +167,11 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Under conventional learning, pre-service teachers at all ability levels obtain the lowest critical thinking scores, with upper and middle groups statistically equal](../claims/conventional-learning-lowest-critical-thinking-scores.md) [+W] — instruction changes it
 - [Critical thinking disposition progress did not differ significantly among the four groups, and the teacher-only group gained the most](../claims/ctd-progress-no-group-difference-teacher-only-largest-gain.md) [-W] — instruction changes it
 - [Prior knowledge and type of contextualized learning environment each moderately predicted logic learning, but environment type did not interact with critical thinking disposition](../claims/covariate-prior-knowledge-environment-ctd-logic.md) [-M] — an instructional effect differs with it
+- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills](../claims/six-plus-one-trait-model-critical-thinking-posttest-advantage.md) [+M] — instruction changes it
+- [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/guided-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
+- [Open inquiry-based worksheets in plant physiology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/open-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
+- [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](../claims/rcl-critical-thinking-posttest-higher-than-pbl.md) [+M] — instruction changes it
+- [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

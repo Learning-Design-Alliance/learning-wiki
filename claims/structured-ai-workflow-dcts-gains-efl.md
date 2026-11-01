@@ -78,3 +78,4 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — related
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
+- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills](six-plus-one-trait-model-critical-thinking-posttest-advantage.md) — related

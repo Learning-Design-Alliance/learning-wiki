@@ -56,3 +56,5 @@ Partially nested RCT in 36 Boston-area kindergarten classrooms; 319 students wit
 - [ROOTS students made greater gains than their not-at-risk peers, reducing the achievement gap](roots-students-exceed-not-at-risk-peers-gains.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
 - [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related
+- [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
+- [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related

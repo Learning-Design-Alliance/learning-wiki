@@ -52,3 +52,4 @@ Control group of 20 students at GJSS Makera received normal reading comprehensio
 - [Telegram-group instruction yields significantly larger reading comprehension gain scores than traditional classroom instruction, with a printed effect size of .50](telegram-group-instruction-larger-reading-gain-scores.md) — related
 - [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related
+- [Skill-based teaching alone produced no statistically significant pre-to-post gain in reading comprehension in the control group](skill-based-teaching-no-significant-gain.md) — possibly the same claim (merge candidate)

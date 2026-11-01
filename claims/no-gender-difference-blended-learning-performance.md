@@ -61,3 +61,4 @@ ANCOVA on the blended learning group (n = 30 per Table 2) with pretest as covari
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — reports the opposite
 - [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related
+- [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related

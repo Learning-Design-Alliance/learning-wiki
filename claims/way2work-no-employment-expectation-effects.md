@@ -60,3 +60,4 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
 - [The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment](promise-impacts-measured-18-months.md) — related
 - Longitudinal program evaluation strategies were described in only three studies — related
+- [PS-ASD participants acquired community-based competitive employment at far higher rates than high-school-services-as-usual controls (90.3% vs 5.9% at 3 months; 87.1% vs 11.1% at 12 months)](psasd-competitive-employment-rct.md) — related

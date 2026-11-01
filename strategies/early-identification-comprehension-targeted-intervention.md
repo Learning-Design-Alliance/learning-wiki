@@ -49,6 +49,7 @@ The article recommends early identification of children with specific comprehens
 
 - [Specifically assess mathematics in educational evaluations of children with reading difficulties, especially reading comprehension difficulties](assess-mathematics-when-reading-difficulties-present.md)
 - [Use a 30-minute neurophysiological assessment of consonants-in-noise coding for early identification of children at risk for language and literacy problems](early-neurophysiological-screening-for-literacy-risk.md)
+- [Use vocabulary screening in early childhood and fluency or vocabulary screening after comprehension tests to catch foundational deficits](vocabulary-screening-early-and-fluency-follow-up-screening.md)
 
 ## Examples
 -

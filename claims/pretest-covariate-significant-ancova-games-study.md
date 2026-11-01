@@ -52,3 +52,4 @@ Secondary analysis within the same ANCOVA of the three groups (n = 90 as printed
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](pretest-covariate-nonsignificant-fathom-ancova.md) — reports the opposite
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
+- [Pretest and posttest scores correlated significantly (r=0.21, p<0.05), justifying the pretest covariate](pretest-posttest-correlation-r021.md) — possibly the same claim (merge candidate)

@@ -47,3 +47,4 @@ Quasi-experimental pre-test/post-test study; Table 3 reports the experimental gr
 ## Related Claims
 - [Percentage scores on all eight tested communicative skills were higher after the Interactive Multimedia Package than after conventional method](skill-wise-percentage-gains-multimedia-package.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related

@@ -113,3 +113,4 @@ The evidence recorded above comes from single-case designs with students with or
 - [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
 - [Monitoring tools produce a moderate effect on academic achievement (d = 0.42), supporting a reactivity effect](monitoring-tools-achievement-d042.md) — related
 - [Instituting TCSM produced larger Phi effects (Md = 0.74) than removing TCSM in reversal designs (Md = 0.32)](tcsm-instituting-larger-phi-than-removing.md) — related
+- [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](qualitative-views-self-monitoring-strategies.md) — reports the opposite

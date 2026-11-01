@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (21 for, 27 mixed, 1 against) · 41 studies (16 quant-synthesis, 14 causal, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 41 report an effect size · 42 claims rest on one study
+> **Evidence** · 51 claims (23 for, 27 mixed, 1 against) · 42 studies (16 quant-synthesis, 15 causal, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 42 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -81,6 +81,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative learning is more effective for grade 11 than grade 10 vocational high school mathematics students](../claims/cooperative-learning-grade-11-more-effective-than-grade-10.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](../claims/cooperative-learning-small-class-size-more-effective.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](../claims/cooperative-learning-higher-math-gain-scores-eighth-standard.md) [+W] — attached 2026-11-01 from K. Thiyagu (2012), which proposed "Use cooperative learning as an alternative to traditional lecture-based mathematics teaching, combined with whole-group instruction and individual work"; tests this page's relationship.
+- [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](../claims/cooperative-learning-higher-lab-report-scores-chemistry.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Adopt cooperative learning strategies in laboratory teaching to improve performance, social interaction skills, and metacognition"; tests this page's relationship.
+- [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](../claims/cooperative-group-higher-final-exam-chemistry-lab.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Adopt cooperative learning strategies in laboratory teaching to improve performance, social interaction skills, and metacognition"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

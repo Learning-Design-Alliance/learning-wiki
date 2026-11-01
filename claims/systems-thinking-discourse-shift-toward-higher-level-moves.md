@@ -51,3 +51,4 @@ Descriptive analysis of 469 Knowledge Forum notes coded with the four-level syst
 - [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](kbm-domain-knowledge-gains-earth-science.md) — related
 - [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](st3-feedback-universal-across-st-literature.md) — related
 - [Discourse shifted significantly from sharing-oriented toward argument- and integration-oriented moves between early and later stages](discourse-shift-toward-integration-and-argument.md) — related
+- [Stage 2 activities appeared to reinforce in addition to as a chunk and to shift use away from the less genre-appropriate thanks to](stage2-reinforces-chunks-and-substitutions.md) — related

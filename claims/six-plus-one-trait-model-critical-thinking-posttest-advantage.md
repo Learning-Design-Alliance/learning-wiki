@@ -1,0 +1,54 @@
+---
+type: claim
+title: ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills
+description: ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills
+id: six-plus-one-trait-model-critical-thinking-posttest-advantage
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2018
+sources:
+  - id: ali-a-qoura-faten-a-zahran-2018
+    resource: "https://doi.org/10.5539/elt.v11n9p68"
+    title: "Ali A. Qoura & Faten A. Zahran. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68"
+    author: "Ali A. Qoura & Faten A. Zahran"
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of critical thinking skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The experimental group's post-test critical thinking mean (30.10) exceeded the control group's (24.07), a statistically significant difference favoring the experimental group. [→ Ali A. Qoura & Faten A. Zahran 2018](#ali-a-qoura-faten-a-zahran-2018)
+
+## Evidence
+
+### Ali A. Qoura & Faten A. Zahran 2018
+
+Ali A. Qoura & Faten A. Zahran. (2018). The Effect of the 6+1 Trait Writing Model on ESP University Students Critical Thinking and Writing Achievement. English Language Teaching, 11(9). https://doi.org/10.5539/elt.v11n9p68
+
+`q2 · i?` · `causal · r2`
+
+Quasi-experimental comparison of first-year pharmacy students randomly assigned to an experimental group (N = 35) taught via the 6+1 trait model and a control group receiving regular teaching. Table 1 reports experimental post-test mean 30.10 (SD 2.82) versus control 24.07 (SD 4.09), t value 9.100, Sig. 0.001. The article reports "the higher mean score is for the post administration of the experimental group post-test".
+
+> "Results in Table 1 shows that the higher mean score is for the post administration of the experimental group post-test. The increase in students' level in the experimental group could be interpreted that students were trained to use the 6+1 trait writing model that helped students to think critically."
+
+## Discussion
+
+
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
+## Related Claims
+- [ESP university students taught with the 6+1 trait writing model scored significantly higher than control-group peers on a post-test of writing performance](six-plus-one-trait-model-writing-posttest-advantage.md) — related
+- [Students taught with a structured AI-supported writing workflow rated their own digital critical thinking and AI literacy much higher at posttest than traditionally taught students](structured-ai-workflow-dcts-gains-efl.md) — related
+- [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
+- [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — related

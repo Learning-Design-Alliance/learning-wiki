@@ -52,3 +52,4 @@ RCT with random assignment blocking on classrooms, conducted in 29 Oregon kinder
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
 - [Feasibility studies showed larger narrative gains for SKILL classrooms and high-risk children, with a large effect in a small-scale RCT](skill-feasibility-studies-effects.md) — related
+- [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related

@@ -47,6 +47,7 @@ The program's staffing model uses local trainers to prepare paraprofessional tut
 - [Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction](hoot-reading-tutor-qualification-and-training-strategy.md)
 - [Select tutors with adequate content expertise and prepare all tutors in cognitive and social congruence, on the job](tutor-selection-expertise-preparation-congruence.md)
 - [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
+- [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 
 ## Examples
 -

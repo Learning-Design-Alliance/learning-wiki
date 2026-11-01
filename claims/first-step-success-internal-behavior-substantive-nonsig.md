@@ -54,3 +54,4 @@ RCT of 46 kindergarten children in Eugene, Oregon randomly assigned to intervent
 - [Teachers rated PATHS intervention children as less socially withdrawn than controls at year end](paths-preschool-reduces-social-withdrawal-teacher-rated.md) — related
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](lovaas-model-no-discernible-social-emotional-effects.md) — related
 - [BEST in CLASS reduced the percentage of children in the clinical or borderline range on all three C-TRF problem-behavior subscales](best-in-class-reduced-clinical-range-c-trf.md) — related
+- [First Step Next significantly improves pro-social behavior in at-risk preschoolers, with Hedges' g effect sizes from .34 to .91](fsn-prosocial-gains-preschool-rct.md) — related

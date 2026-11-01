@@ -54,6 +54,7 @@ The article describes a support model in which interventionists attended two fiv
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
+- [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 
 ## Examples
 -

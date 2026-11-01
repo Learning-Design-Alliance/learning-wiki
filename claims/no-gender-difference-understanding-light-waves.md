@@ -53,3 +53,4 @@ A 4x2 ANCOVA of students' understanding of Light waves classified by instruction
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — reports the opposite
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
 - [Male and female students show no significant difference in analysis of Light waves](no-gender-difference-analysis-light-waves.md) — related
+- [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related

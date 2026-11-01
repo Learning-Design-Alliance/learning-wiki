@@ -74,3 +74,4 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 - [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — related
 - [Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA](rasch-infit-rater-selection-increases-reliability.md) — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
+- [Feedback delivery method (oral, written, or combined) made no statistically significant difference in developmental writing students' rubric-scored revisions](feedback-method-no-difference-rubric-revisions.md) — related

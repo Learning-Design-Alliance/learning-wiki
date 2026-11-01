@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (32 for, 13 mixed, 1 against) · 58 studies (17 review, 16 causal, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 19 of 58 report an effect size · 32 claims rest on one study
+> **Evidence** · 48 claims (33 for, 14 mixed, 1 against) · 60 studies (18 causal, 17 review, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 19 of 60 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -173,6 +173,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](../claims/sel-effects-vary-by-risk-level.md) [~W]
 - [Only three reviewed SEL studies measured classroom-level outcomes, and effects on CLASS-measured classroom environments ranged from moderate to large](../claims/sel-classroom-level-class-effects.md) [~W]
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](../claims/sel-meta-analyses-significant-positive-effects.md) [+M]
+- [On-treatment fidelity analysis found low-fidelity schools improved outcomes relative to non-implementers, but the pattern was inconsistent across higher fidelity groups](../claims/quest-fidelity-rating-inconsistent-outcome-pattern.md) [~W]
+- [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](../claims/sci-a-fidelity-exceeds-bau-instruction.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

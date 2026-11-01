@@ -47,3 +47,4 @@ The study's stated null hypothesis was tested at the 0.05 alpha level using the 
 ## Related Claims
 - [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — possibly the same claim (merge candidate)
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
+- [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related

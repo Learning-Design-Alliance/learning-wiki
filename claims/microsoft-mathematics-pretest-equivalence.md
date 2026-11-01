@@ -61,3 +61,5 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [First-year Calculus students taught with Microsoft Mathematics showed a larger pre-to-post test gain than conventionally taught controls](microsoft-mathematics-larger-pre-post-gain-calculus.md) — related
 - [Students taught with Microsoft Mathematics reported more positive mathematics-confidence attitudes than controls](microsoft-mathematics-positive-math-confidence-attitudes.md) — related
 - [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — a narrower finding that bears on this claim
+- [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
+- [Before the experiment, the control and experimental groups differed in previous-year fine art marks but not in previous-year mathematics marks](pre-experiment-group-equivalence-mathematics.md) — related

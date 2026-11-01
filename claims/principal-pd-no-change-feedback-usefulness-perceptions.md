@@ -48,3 +48,4 @@ In the same randomized teacher-survey comparison, the study reports teachers in 
 - [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — related
 - [Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not](principal-pd-teachers-report-less-instructional-support.md) — related
 - [The principal professional development program did not improve student achievement in English language arts or math](principal-pd-no-student-achievement-improvement.md) — related
+- [Treatment teachers and principals received substantially more frequent feedback with ratings than control educators (teachers: 3.0 versus 0.7 sessions in Year 1; principals: 1.0 versus 0.4)](treatment-educators-received-more-frequent-feedback.md) — related

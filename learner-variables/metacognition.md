@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (99 show a difference, 31 mixed, 20 no difference) · 109 studies (44 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 109 report an effect size · 149 claims rest on one study
+> **Evidence** · 153 claims (100 show a difference, 32 mixed, 21 no difference) · 110 studies (45 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 110 report an effect size · 152 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -192,6 +192,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](../claims/clinical-reasoning-errors-four-areas.md) [+W] — learners who differ on it differ in outcomes
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M] — instruction changes it
 - [Pre-service teachers' open-ended responses most frequently attribute to mind-map planning effects on metacognitive self-regulation, concentration and planned study](../claims/mind-map-planning-qualitative-views-metacognition.md) [+W] — instruction changes it
+- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+M] — instruction changes it
+- [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [~W] — instruction changes it
+- [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](../claims/strategy-timing-no-significant-difference.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

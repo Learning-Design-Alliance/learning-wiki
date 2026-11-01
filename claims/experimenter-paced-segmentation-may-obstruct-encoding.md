@@ -48,3 +48,4 @@ Authors' post hoc interpretation (type e) in the Discussion, citing eye-tracking
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — reports the opposite
 - [In a randomised experiment, young children who watched geography videos with whole-body movements showed no greater knowledge recall than children who watched the same videos seated](movement-videos-no-knowledge-gain-young-children.md) — related
+- [The authors attribute CAVI's vocabulary advantage to individualised pacing, instant feedback, low-anxiety interaction and motivating game features](cavi-advantage-attributed-to-feedback-autonomy-motivation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (85 show a difference, 31 mixed, 27 no difference) · 98 studies (30 associational, 22 review, 21 causal, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 31 of 98 report an effect size · 140 claims rest on one study
+> **Evidence** · 153 claims (92 show a difference, 32 mixed, 29 no difference) · 103 studies (30 associational, 26 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 32 of 103 report an effect size · 150 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -180,6 +180,16 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Oral narrative advantage is maintained five months after intervention on the researcher-designed rubric but not on the norm-referenced TNL-2](../claims/skill-oral-narration-followup-maintenance.md) [~M] — instruction changes it
 - [SKILL intervention significantly improves oral narrative comprehension and production immediately after treatment in at-risk Grade 1–4 students](../claims/skill-improves-oral-narration-posttest.md) [+M] — instruction changes it
 - [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](../claims/youtube-language-learning-reviewed-benefits.md) [+W] — instruction changes it
+- [Both instructed and regular listening classes produce significant within-group gains in general listening comprehension over a 10-week course](../claims/both-groups-gain-listening-over-course.md) [+M] — instruction changes it
+- [EFL learners taught with dictogloss tasks significantly outperform learners taught with dicto-phrase tasks on listening comprehension posttests](../claims/dictogloss-outperforms-dicto-phrase-listening.md) [+M] — instruction changes it
+- [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](../claims/iwb-visual-within-group-gain.md) [+M] — instruction changes it
+- [Explicit reduced-forms instruction improves Iranian EFL learners' overall listening comprehension more than regular listening instruction alone](../claims/reduced-forms-instruction-improves-listening-comprehension.md) [+M] — instruction changes it
+- [Explicit reduced-forms instruction increases EFL learners' ability to recognize reduced forms in spoken language, while regular instruction alone does not](../claims/reduced-forms-instruction-improves-recognition.md) [+M] — instruction changes it
+- [Initial preschool language skill did not moderate the LLLI intervention effect on kindergarten expressive vocabulary](../claims/no-moderation-expressive-vocabulary.md) [-M] — an instructional effect differs with it
+- [Interactive whiteboard lessons supported by visual materials produce higher listening comprehension achievement than regular 2018 Turkish Course Curriculum teaching in middle school students](../claims/iwb-visual-materials-improve-listening-comprehension.md) [+M] — instruction changes it
+- [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](../claims/listening-comprehension-predicts-vocabulary.md) [+M] — learners who differ on it differ in outcomes
+- [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
+- [The kindergarten benefits of the LLLI intervention on decoding and reading comprehension were conditional on children's initial preschool language skill, favoring children with high language skill](../claims/llli-moderated-by-initial-language-skill.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

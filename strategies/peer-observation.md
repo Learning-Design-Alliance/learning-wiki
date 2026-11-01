@@ -89,6 +89,8 @@ Peer observation works by making the normally private, tacit dimensions of teach
 - Teaching portfolios — observation notes and reflections become portfolio evidence of developmental growth
 - [Peer review of cooperative learning sessions: instructors observe a colleague's session and complete a peer review form](peer-review-of-cooperative-learning-sessions.md)
 - [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
+- [Accompany content teachers with a CLIL-specialist teacher using the LOCIT structure of lesson observation and critical incident feedback](locit-teacher-accompaniment-strategy.md)
+- [Peer teaching and debrief of curriculum lessons within teacher professional development workshops](peer-teaching-debrief-in-pd-workshops.md)
 
 ## Examples
 - A mathematics department runs reciprocal observations focused on questioning techniques; each teacher is observed twice per term with a shared protocol, and debriefs feed into department meetings.

@@ -49,3 +49,5 @@ Baseline comparison of the two assigned groups using the independent samples t-t
 - [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — reports the opposite
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
+- [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
+- [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related

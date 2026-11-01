@@ -52,6 +52,7 @@ The article discusses existing recommendations that teachers should work on thei
 ## Related Strategies
 
 - [Teachers displaying enthusiasm during instruction to foster student enjoyment](display-enthusiasm-foster-enjoyment.md)
+- [Classroom strategies from brain-based learning: positive emotion, student choice and responsibility, and the joy of success](bbl-classroom-strategies-positive-emotion-choice-success.md)
 
 ## Examples
 -

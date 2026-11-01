@@ -55,3 +55,4 @@ Pre-post facilitator training surveys (Table II.4) showed gains on five self-reg
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
 - [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related
+- [CBT training raised primary teachers' brain-based learning management competency from pre-test to post-test with statistical significance at .05](cbt-training-raises-teachers-brain-based-competency-pre-post.md) — related

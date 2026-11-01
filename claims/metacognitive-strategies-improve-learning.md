@@ -139,3 +139,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](vle-learners-need-metacognitive-scaffolding.md) — related
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Prior quasi-experimental evidence: metacognitive strategy instruction raised Dutch Grade 6 students' reading comprehension (review-reported)](houtveen-grift-metacognitive-instruction-dutch-students.md) — a narrower finding that bears on this claim
+- [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](qualitative-views-self-monitoring-strategies.md) — reports the opposite

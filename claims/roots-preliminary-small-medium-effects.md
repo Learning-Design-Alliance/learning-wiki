@@ -49,3 +49,4 @@ Preliminary analysis from an earlier 2009-2010 investigation of ROOTS in 29 kind
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — related
 - [ROOTS and control students were statistically equivalent at pretest on all measures](roots-replication-pretest-equivalence.md) — related
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
+- [Fusion produced no statistically significant gains on proximal procedural fluency (EN-CBM) or distal (SAT-10) measures, though effect sizes were small and positive](fusion-no-significant-gains-en-cbm-sat10.md) — related

@@ -68,3 +68,5 @@ Wilcoxon Signed Rank Test on the control group's (n=21) pre-test and post-test s
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related
+- [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
+- [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related

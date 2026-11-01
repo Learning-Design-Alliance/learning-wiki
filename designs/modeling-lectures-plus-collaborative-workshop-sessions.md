@@ -44,6 +44,10 @@ This pattern describes the structure of the experimental technical mathematics c
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](../claims/cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) [~W]
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](../claims/cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) [~W]
 
+## Related Designs
+
+- [CIS 102Q Problem Solving Using LEGO Robotics service-learning course with four cooperative labs](cis102q-lego-robotics-service-learning-course.md)
+
 ## Related Patterns
 
 - [Workshop Model](../patterns/workshop-model.md)

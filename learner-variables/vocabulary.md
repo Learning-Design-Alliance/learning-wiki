@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (85 show a difference, 20 mixed, 15 no difference) · 85 studies (30 causal, 26 associational, 15 quant-synthesis, 9 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 85 report an effect size · 117 claims rest on one study
+> **Evidence** · 127 claims (90 show a difference, 20 mixed, 17 no difference) · 89 studies (33 causal, 26 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 20 of 89 report an effect size · 124 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -161,6 +161,13 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](../claims/videogame-classroom-vocabulary-gains-puerto-rico.md) [~W] — instruction changes it
 - [Graphic-organizer instruction produces higher productive word knowledge (VKS Stage 4) than the C(2)QU contextual process](../claims/gos-instruction-higher-vks-stage-4-word-knowledge.md) [+M] — instruction changes it
 - [Preschoolers learn almost no challenging vocabulary from hearing stories without embedded lessons](../claims/storybook-exposure-alone-little-learning.md) [-M] — instruction changes it
+- [Educational computer games are effective for vocabulary acquisition in foreign language learning, per a systematic review of six studies](../claims/computer-games-effective-vocabulary-acquisition-efl.md) [+M] — instruction changes it
+- [High game interactivity hinders vocabulary acquisition: players recalled significantly less vocabulary than watchers](../claims/high-interactivity-hinders-vocabulary-acquisition.md) [+M] — instruction changes it
+- [Inference-based computer games produce better vocabulary learning than traditional hardcopy word lists](../claims/inference-based-games-better-than-word-lists.md) [+M] — instruction changes it
+- [Initial preschool language skill did not moderate the LLLI intervention effect on kindergarten expressive vocabulary](../claims/no-moderation-expressive-vocabulary.md) [-M] — an instructional effect differs with it
+- [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](../claims/performing-arts-knowledge-permanence.md) [+M] — instruction changes it
+- [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](../claims/iwb-visual-persistence-of-learning.md) [+M] — instruction changes it
+- [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

@@ -54,3 +54,4 @@ Pre-test comparison of the two intact classes (N=40 each) on the AAT before trea
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
+- [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related

@@ -50,3 +50,4 @@ Pre-test Mann-Whitney analysis of both twenty-student groups on the EFL Teaching
 - [No significant difference existed between the graphic-novel and control groups on the pre-test](no-pretest-difference-graphic-novel-control.md) — related
 - [Mann-Whitney tests found no significant difference in the number of answers between clicker and non-clicker groups in either experimental period](no-significant-clicker-nonclicker-answer-difference.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in water-cycle mental model levels](no-pretest-difference-water-cycle-drawings.md) — related
+- [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](inverted-classroom-no-difference-force-momentum-impulse.md) — related

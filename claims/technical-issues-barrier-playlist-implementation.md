@@ -85,3 +85,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Perceived barriers to website use include internet connection difficulties, insufficiently interactive material, and preference for paper-based materials](website-use-barriers-connection-interactivity-paper-preference.md) — related
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — related
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — related
+- [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim

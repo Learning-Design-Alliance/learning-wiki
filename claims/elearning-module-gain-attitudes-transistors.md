@@ -52,3 +52,4 @@ Quasi-experimental Solomon-three study: independent-sample t-test comparing atti
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [The experimental group's pretest-to-post-test attitude gain was significantly larger than the control group's, but the behavior dimension showed no significant difference](eas-gain-score-significant-behavior-not.md) — related
 - [Both groups improved in achievement from pretest to post-test, but only the experimental group showed significant attitude gains](within-group-prepost-gains.md) — related
+- [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related

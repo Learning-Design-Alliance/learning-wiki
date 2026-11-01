@@ -63,3 +63,4 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — reports the opposite
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — reports the opposite
 - [Treatment and control schools differed significantly at baseline, motivating a difference-in-differences identification strategy](primr-baseline-imbalance-did-motivation.md)
+- [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — a broader claim this one bears on

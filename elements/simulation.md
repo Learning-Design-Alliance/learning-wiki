@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 241 claims (137 for, 88 mixed, 16 against) · 152 studies (77 review, 38 quant-synthesis, 18 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 29 of 152 report an effect size · 231 claims rest on one study
+> **Evidence** · 242 claims (137 for, 89 mixed, 16 against) · 153 studies (77 review, 38 quant-synthesis, 19 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 29 of 153 report an effect size · 232 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -296,6 +296,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [For reaction outcomes (satisfaction and learning attitudes), high-fidelity simulation shows a larger effect size than low-fidelity simulation](../claims/hfs-larger-reaction-outcome-than-lfs.md) [~W]
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 - [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](../claims/prior-studies-computer-aided-instruction-more-effective.md) [+W]
+- [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](../claims/mixed-prior-evidence-vrs-versus-traditional-training.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 244 claims (113 for, 114 mixed, 17 against) · 182 studies (70 causal, 36 review, 26 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 46 of 182 report an effect size · 220 claims rest on one study
+> **Evidence** · 245 claims (114 for, 114 mixed, 17 against) · 183 studies (71 causal, 36 review, 26 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 46 of 183 report an effect size · 221 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -292,6 +292,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [For the sample as a whole, elaborative feedback and knowledge of response feedback showed no significant difference in enhancing online L2 reading comprehension](../claims/no-overall-difference-elaborative-vs-kor-feedback-l2-reading.md) [~W] — attached 2026-11-01 from Andy Bown (2017), which proposed "Online reading comprehension exercise with two feedback versions delivered via Blackboard"; tests this page's relationship.
 - [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](../claims/wcf-improves-preposition-accuracy-immediate-posttest.md) [+W]
 - [Preposition accuracy gains from written corrective feedback are retained two weeks after treatment](../claims/wcf-gains-retained-delayed-posttest.md) [+W]
+- [The feedback intervention improved teachers' classroom practice as measured by the CLASS rubric (50th to 57th percentile) but had no statistically significant impact on practice measured by the FFT rubric](../claims/feedback-improved-classroom-practice-class-not-fft.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

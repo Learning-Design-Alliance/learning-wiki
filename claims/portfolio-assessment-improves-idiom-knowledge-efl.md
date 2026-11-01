@@ -51,3 +51,5 @@ Quasi-experimental study of 30 upper-intermediate EFL learners (15 per group) ta
 - [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [Portfolio-based writing assessment produced higher final examination writing scores than traditional non-portfolio assessment in an EFL composition course](portfolio-assessment-higher-efl-writing-exam-scores.md) — related
+- [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
+- [Portfolio-based instruction raises EFL learners' motivation in reading comprehension courses](portfolio-assessment-raises-efl-motivation.md) — related

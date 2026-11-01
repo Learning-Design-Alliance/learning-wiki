@@ -74,6 +74,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
 - [Brief professional development plus sequenced curriculum units with videoed implementation to support Pre-K teachers' engineering teaching](sos-pd-and-sequenced-implementation-strategy.md)
+- [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 
 ## Examples
 -

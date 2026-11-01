@@ -50,3 +50,4 @@ In the ABSA qualitative analysis, the Efficiency & Speed category showed positiv
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
 - [Borup et al. (2015) found video feedback more convenient for student support and text-based feedback more convenient for exploratory feedback](borup-2015-video-affective-text-efficiency.md) — related
 - [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](text-video-feedback-equal-value-efficiency-preferred.md) — related
+- [Voice recording during DA sessions was stressful for learners and affected their performance, especially in initial sessions](voice-recording-stress-mediation-problem-da.md) — related

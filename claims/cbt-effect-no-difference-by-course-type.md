@@ -87,3 +87,4 @@ Moderator analysis of 77 studies (one foreign-language study excluded) in four s
 - [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related
 - [Effectiveness of educational materials does not differ significantly across subject matters](material-effect-no-difference-subject.md) — related
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
+- [Students judged mathematics unsuitable for performing-arts teaching (f = 13) while endorsing social studies, theology, science, Turkish, and English](student-views-subject-suitability-performing-arts.md) — related

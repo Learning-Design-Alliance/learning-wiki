@@ -52,3 +52,4 @@ Independent samples t-test on post-test scores of 55 experimental and 29 control
 - [ADI-based laboratory instruction does not significantly change pre-service teachers' argumentativeness compared to traditional laboratory instruction](adi-no-change-argumentativeness.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [The jigsaw and control groups did not differ on material recognition or usage pre-tests](jigsaw-no-pretest-difference.md) — related
+- [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related

@@ -130,3 +130,5 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — related
+- [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
+- [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related

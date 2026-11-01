@@ -77,3 +77,4 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related
 - [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
+- [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — related

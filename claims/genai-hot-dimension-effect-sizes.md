@@ -59,3 +59,4 @@ Subgroup meta-analysis across the three HOT dimensions (Table 4): problem-solvin
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — possibly the same claim (merge candidate)
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — reports the opposite
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
+- [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related

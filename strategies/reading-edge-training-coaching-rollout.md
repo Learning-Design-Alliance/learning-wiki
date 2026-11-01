@@ -58,6 +58,7 @@ The program's professional development model combines an initial workshop with o
 - [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 - [Follow-up supports for integrated computing PD: technical programming coursework, professional learning communities, and student-outcome study](integrated-computing-pd-followup-supports.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
+- [Coach-led initial implementation followed by teacher phase transition](coach-phase-teacher-phase-transition.md)
 
 ## Examples
 -

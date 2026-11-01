@@ -67,3 +67,4 @@ Secondary outcome analysis in the same intention-to-treat model. The printed row
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](vefp-no-significant-impact-reading-ability.md) — a broader claim this one bears on
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — related
 - [Secondary outcomes (sentence completion and passage comprehension subscales) showed no significant effects for either intervention](chatterbooks-secondary-outcomes-null.md) — related
+- [The Quest programme showed no statistically significant effect on Year 7 reading comprehension, with a small negative point estimate (Hedges g = -0.04)](quest-no-significant-reading-comprehension-effect.md) — related

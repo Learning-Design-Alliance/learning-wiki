@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: ourania-miliou-2024
     resource: "https://doi.org/10.1007/s11423-023-10314-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both teachers and students reported that the tool's conceptualisations of skills helped students learn what the skills are and identify them during making activities. [→ Ourania Miliou 2024](#ourania-miliou-2024)

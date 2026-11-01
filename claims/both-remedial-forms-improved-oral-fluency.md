@@ -55,3 +55,4 @@ Paired-samples t-tests on one-minute oral reading assessments for 25 experimenta
 - [RT remedial instruction produced significantly higher English self-efficacy than regular remedial instruction at post-test](rt-remedial-self-efficacy-greater-than-control.md) — related
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](weekly-within-passage-fluency-increases.md) — related
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related
+- [Both instructed and regular listening classes produce significant within-group gains in general listening comprehension over a 10-week course](both-groups-gain-listening-over-course.md) — related

@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 53 claims (35 for, 14 mixed, 4 against) · 47 studies (11 review, 10 qualitative, 9 causal, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 47 report an effect size · 47 claims rest on one study
+> **Evidence** · 55 claims (36 for, 15 mixed, 4 against) · 48 studies (11 review, 10 causal, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 48 report an effect size · 49 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [~W]
 - High Hours Professional Development Linked Reform Practice [+M]
 - [Prior meta-analyses report moderate positive pooled effect sizes of teacher PD on instructional practice and teacher knowledge outcomes](../claims/prior-pd-teacher-practice-meta-analyses-moderate-effects.md) [+M]
+- [Most treatment teachers and principals rated the study's feedback as more useful, specific, objective, and actionable than their districts' existing feedback](../claims/educators-rated-study-feedback-more-useful.md) [+W]
+- [The performance measures were implemented largely as planned, with teachers receiving nearly the intended four feedback sessions per year, though fewer than half accessed online growth reports in Year 1](../claims/feedback-measures-implemented-as-planned.md) [~W]
 
 ## Related Patterns
 

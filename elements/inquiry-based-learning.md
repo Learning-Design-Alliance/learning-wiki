@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (17 for, 9 mixed, 3 against) · 29 studies (11 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 30 studies (12 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 30 report an effect size · 26 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -78,6 +78,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](../claims/webquest-improves-science-achievement-grade-7.md) [+W] — attached 2026-11-01 from Ahmet Unal (2016), which proposed "WebQuest: an inquiry-oriented, Internet-based lesson format with six essential parts"; tests this page's relationship.
 - [WebQuest instruction improves 7th-graders' attitudes towards web supported education more than classical teaching](../claims/webquest-improves-attitude-web-supported-education.md) [~W] — attached 2026-11-01 from Ahmet Unal (2016), which proposed "WebQuest: an inquiry-oriented, Internet-based lesson format with six essential parts".
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](../claims/webquest-no-gain-attitude-towards-science.md) [~W]
+- [Prior Nigerian studies on guided inquiry versus conventional teaching report mixed results, with one study finding the conventional method superior](../claims/guided-inquiry-prior-evidence-mixed.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

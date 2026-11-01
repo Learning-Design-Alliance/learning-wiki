@@ -52,6 +52,7 @@ The article recommends that "pre-service teachers should plan classroom activiti
 ## Related Strategies
 
 - [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
+- [Train English teachers through workshops to design and apply electronic mind maps](teacher-workshops-emindmap-training.md)
 
 ## Examples
 -

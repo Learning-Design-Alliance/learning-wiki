@@ -89,3 +89,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [Oral exam scores correlate only modestly with written exams and OSCEs (r = 0.10–0.74), suggesting oral exams assess distinct skills](oral-exam-distinct-validity-correlations.md) — related
 - [Improvement in Orthopaedic In-Training Examination scores showed no significant correlation with OSCE scores](oite-improvement-no-osce-correlation.md) — related
 - [The correlation between number of questions answered and attainment shift was only very slight (r = 0.13; r = 0.10), so the relationship was not clearly linear](weak-correlation-questions-attainment-shift.md) — related
+- [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related

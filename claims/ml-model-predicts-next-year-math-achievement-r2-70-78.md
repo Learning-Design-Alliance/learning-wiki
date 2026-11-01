@@ -49,3 +49,4 @@ Next-year prediction analysis of PALMA data: Elastic Net and Random Forest model
 - [Predictor variables beyond prior achievement and school track add predictive value for next-year math achievement, with the smallest added effects for the final-year outcome](predictors-beyond-prior-achievement-add-predictive-value.md) — related
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
 - Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue — a broader claim this one bears on
+- [In auxiliary Texas school data, a random forest with all predictors predicts math TAKS passing rates better than OLS with the pretest alone](rf-all-predictors-beats-pretest-auxiliary.md) — related

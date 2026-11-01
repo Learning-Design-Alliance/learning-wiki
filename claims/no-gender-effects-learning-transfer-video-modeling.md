@@ -49,3 +49,4 @@ Mixed ANOVA on learning scores in the 2 (Model: Female/Male) x 2 (Observer: Fema
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
 - [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](jol-accuracy-unaffected-by-gender-video-modeling.md) — related
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
+- [Number relationships instruction shows no differential benefit by gender](no-gender-moderation-number-relationships.md) — related

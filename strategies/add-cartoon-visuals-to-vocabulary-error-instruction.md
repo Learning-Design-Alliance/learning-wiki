@@ -41,7 +41,8 @@ The article recommends that language instructors who mainly follow verbal approa
 - [Dual Coding Theory L2 Lexical Application](../theories/dual-coding-theory-l2-lexical-application.md)
 
 ## Related Strategies
-- 
+
+- [Teach equivocal words (false friends) by embedding each target term in a short humorous story that makes the false-friend reading nonsensical](joke-embedding-false-friends-strategy.md)
 
 ## Examples
 -

@@ -52,6 +52,7 @@ The program's implementation model pairs classroom teachers with a designated Sp
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
 - [Provide multi-year professional development with instructional coaching before and during implementation of a comprehensive reading program](fusion-multi-year-pd-with-coaching-strategy.md)
+- [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 
 ## Examples
 -

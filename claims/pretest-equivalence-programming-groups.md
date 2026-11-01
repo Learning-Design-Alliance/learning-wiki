@@ -56,3 +56,4 @@ Three open-ended pretest questions administered to both groups before the 10-wee
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
 - [The three groups did not differ in prior achievement before the Force and Motion intervention](pretest-homogeneity-writing-groups.md) — related
+- [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related

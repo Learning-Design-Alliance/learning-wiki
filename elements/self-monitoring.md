@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (6 for, 13 mixed) · 17 studies (7 causal, 6 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 17 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (8 for, 13 mixed) · 18 studies (8 causal, 6 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 18 report an effect size · 17 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -45,6 +45,8 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Task performance does not affect primary school students' monitoring accuracy awareness](../claims/task-performance-no-effect-monitoring-awareness.md) [~W]
 - [Task performance does not affect primary school students' regulation accuracy awareness](../claims/task-performance-no-effect-regulation-awareness.md) [~W]
 - [Monitoring activities and metacomprehension accuracy serially mediated the effect of in-between versus after-study explaining on conceptual learning (Experiment 1)](../claims/monitoring-metacomprehension-serial-mediation-explaining-timing.md) [+W]
+- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' academic achievement compared to formal curriculum teaching](../claims/self-monitoring-strategies-improve-achievement.md) [+W] — attached 2026-11-01 from Arslantas et al. (2017), which proposed "Set of self-monitoring strategies for Social Studies lessons (checklists, rubrics, self-created graphics, self-evaluation)"; tests this page's relationship.
+- [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' self-monitoring levels compared to formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+W] — attached 2026-11-01 from Arslantas et al. (2017), which proposed "Set of self-monitoring strategies for Social Studies lessons (checklists, rubrics, self-created graphics, self-evaluation)"; tests this page's relationship.
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

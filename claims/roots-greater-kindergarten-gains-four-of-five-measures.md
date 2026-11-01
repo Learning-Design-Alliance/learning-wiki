@@ -57,3 +57,5 @@ Randomized block trial with 290 at-risk kindergartners in 37 classrooms; student
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
 - [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
+- [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — a narrower finding that bears on this claim
+- [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related

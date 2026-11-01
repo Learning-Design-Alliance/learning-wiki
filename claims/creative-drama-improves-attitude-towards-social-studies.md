@@ -51,3 +51,5 @@ ANCOVA on the Attitude Towards Social Studies Scale (35 items, reliability .88 i
 - [Descriptively, the creative drama group's retention scores were higher than the control group's despite the non-significant test](creative-drama-descriptive-retention-advantage.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [iPod inquiry teaching produced significantly more positive scientific attitudes than regular teaching for third graders](ipod-inquiry-improves-scientific-attitudes.md) — related
+- [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
+- [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related

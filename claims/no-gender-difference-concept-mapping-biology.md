@@ -56,3 +56,5 @@ ANCOVA on post-test scores of male and female students within the concept mappin
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — reports the opposite
+- [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
+- [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related

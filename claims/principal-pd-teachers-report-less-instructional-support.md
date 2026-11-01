@@ -54,3 +54,4 @@ In the randomized comparison of the 100 elementary schools, teacher survey repor
 - Comparison-group contamination occurred in the Balanced Leadership® trial — related
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
 - [Principals with elementary school teaching experience reported providing more extensive direct instructional support to teachers](teaching-experience-principals-more-direct-support.md) — related
+- [Treatment teachers and principals received substantially more frequent feedback with ratings than control educators (teachers: 3.0 versus 0.7 sessions in Year 1; principals: 1.0 versus 0.4)](treatment-educators-received-more-frequent-feedback.md) — related

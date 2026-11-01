@@ -55,3 +55,6 @@ Paired-samples t-test on the CAVI experimental group (n=16) in a quasi-experimen
 - [World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study](world-of-words-sorting-task-large-effect.md) — related
 - [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
 - [No significant difference in preschool vocabulary gain between computer assisted and traditional vocabulary instruction](no-difference-cavi-tvi-preschool-vocabulary.md) — related
+- [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for intermediate Iranian EFL learners](cavi-outperforms-teacher-led-intermediate-vocabulary.md) — related
+- [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for pre-intermediate Iranian EFL learners](cavi-outperforms-teacher-led-pre-intermediate-vocabulary.md) — related
+- [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related

@@ -54,3 +54,4 @@ Semi-experimental study with 40 EFL learners aged 16-18 in Rasht, Iran, randomly
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — possibly the same claim (merge candidate)
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](pbl-recall-advantage-moderated-by-word-class.md) — a narrower finding that bears on this claim
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related

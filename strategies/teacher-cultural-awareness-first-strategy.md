@@ -41,6 +41,7 @@ The article recommends that language teachers first enrich their own cultural aw
 
 - [Developing Cultural Awareness](develop_cultural_awareness.md)
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
+- [Build teacher awareness of 21st century skills as the first step toward integrating them into language classrooms](teacher-awareness-first-step-21cs-integration.md)
 
 ## Examples
 -

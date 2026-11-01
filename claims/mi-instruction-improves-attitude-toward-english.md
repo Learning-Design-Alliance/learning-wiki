@@ -53,3 +53,5 @@ ANCOVA on the researcher-made 15-item Likert attitude scale for the experimental
 - [E-platform in-service training produced more positive attitudes toward teaching Scratch programming than traditional training](eplatform-training-improves-attitudes-teaching-programming.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
+- [The experimental group showed significantly more positive attitudes towards learning English than the control group on the post-test attitude scale](e-mind-maps-attitude-posttest-advantage.md) — related
+- [Participants expressed overall agreement (positive attitudes) towards using e-Mind Maps in teaching the English curriculum, with a general mean of 2.15 out of 3.00](positive-attitudes-toward-e-mind-maps-descriptive.md) — related

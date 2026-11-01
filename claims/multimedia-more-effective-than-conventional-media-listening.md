@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: tagor-pangaribuan-2017
     resource: "https://doi.org/10.5539/elt.v10n12p212"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught listening comprehension with a multimedia application scored significantly higher than students taught with conventional media (Tcount = 14.68 > Ttable = 2.02, df 38, α 0.05). [→ Tagor Pangaribuan 2017](#tagor-pangaribuan-2017)
@@ -55,3 +56,6 @@ Quasi-experimental classroom study with three experimental and three control cla
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
+- [Cooperative learning produced significantly higher posttest listening scores than traditional teaching in this study](cl-posttest-higher-than-traditional-listening.md) — related
+- [EFL learners taught with dictogloss tasks significantly outperform learners taught with dicto-phrase tasks on listening comprehension posttests](dictogloss-outperforms-dicto-phrase-listening.md) — related
+- [Students taught listening with suggestopedia outperformed students taught with conventional methods on a posttest of English listening ability](suggestopedia-improves-listening-skill.md) — related

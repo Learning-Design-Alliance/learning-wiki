@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (14 for, 5 mixed, 2 against) · 27 studies (12 causal, 4 associational, 4 qualitative, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 2 of 27 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (16 for, 5 mixed, 2 against) · 28 studies (13 causal, 4 associational, 4 qualitative, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 3 of 28 report an effect size · 19 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -71,6 +71,8 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Students producing high-quality revisions spent more time addressing higher order comments](../claims/high-quality-revisers-more-time-higher-order-comments.md) [+W]
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](../claims/process-product-feedback-strongest-performance-gains.md) [+W]
 - [Students tended to make more edits than substantive revisions when responding to MI Write's automated feedback](../claims/more-edits-than-revisions-mi-write.md) [-W]
+- [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](../claims/drafts-improved-significantly-raters-scores.md) [+W]
+- [Revised drafts were significantly longer than first drafts, with significant effects of COMPASS score and treatment condition on word count](../claims/word-count-increased-significantly-revisions.md) [+W]
 
 ## The evidence by question
 - *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]

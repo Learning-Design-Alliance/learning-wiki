@@ -59,3 +59,4 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 - [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related
 - [Linear regression shows automated grade predicts manual grade (R² = 0.829)](regression-automated-predicts-manual-grade-r2-0829.md) — related
+- [Seemingly Unrelated Regression on Fall 2005 sections confirms the one-minute paper as equally effective](one-minute-paper-sur-confirmation.md) — related

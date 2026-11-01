@@ -81,6 +81,7 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 - [Use Worked Examples](worked-examples-first.md) — demonstrations can be enacted on manipulatives before learners act independently
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
+- [Balance on- and off-computer mathematics activities in early childhood classrooms](balance-on-and-off-computer-math-activities.md)
 
 ## Examples
 - **Cognitively Guided Instruction** ([CGI for Math](../principles/responsive-teaching.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.

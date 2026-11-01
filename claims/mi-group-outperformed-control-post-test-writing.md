@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: zennure-elgün-gündüz-2016
     resource: "https://doi.org/10.13189/ujer.2016.040722"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Zennure Elgün Gündüz 2016: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-01)
 
 ## Subclaims
@@ -53,3 +54,7 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
 - [Portfolio-based writing assessment produced higher final examination writing scores than traditional non-portfolio assessment in an EFL composition course](portfolio-assessment-higher-efl-writing-exam-scores.md) — related
+- [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related
+- [Processing instruction significantly improves Iranian EFL learners' writing ability from pre-test to post-test](pi-significant-pre-post-writing-gain-iranian-efl.md) — related
+- [Students' science process skills improve significantly across three assessments under the MI-based strategy](sps-improve-across-three-assessments.md) — related
+- [Traditional instruction also significantly improves Iranian EFL learners' writing ability from pre-test to post-test](ti-significant-pre-post-writing-gain-iranian-efl.md) — related

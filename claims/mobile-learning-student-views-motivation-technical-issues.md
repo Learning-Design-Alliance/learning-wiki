@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: kadir-demir-2018
     resource: "http://dx.doi.org/10.17220/mojet.2018.04.004"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Five randomly chosen experimental-group students described quick access to information, anywhere and anytime learning, and motivation gains, but reported Internet connection and notification problems. [→ Kadir DEMIR 2018](#kadir-demir-2018)

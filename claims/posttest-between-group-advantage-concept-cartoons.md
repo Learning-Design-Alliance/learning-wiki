@@ -48,3 +48,4 @@ Independent-group t-test comparing post-test scores of the experimental (n=46) a
 - [Teaching with concept cartoons produced a statistically significant increase in 7th graders' mathematics self-efficacy perceptions within the experimental group](concept-cartoons-increase-math-self-efficacy-experimental-group.md) — related
 - [The control group taught by teacher-centred instruction showed no statistically significant change in mathematics self-efficacy perceptions](control-group-no-self-efficacy-change.md) — related
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
+- [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related

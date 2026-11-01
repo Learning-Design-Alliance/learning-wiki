@@ -52,3 +52,4 @@ Meta-analysis of four trials assessing learner skill acquisition on patients or 
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [Simulation-based training produces a small improvement in behavior performance compared with non-simulation based training for airway management](sbt-small-behavior-performance-benefit-airway.md) — related
+- [Both the control and experimental groups demonstrated a perfect success rate in completing phlebotomy on actual patients](both-groups-perfect-phlebotomy-success-rate.md) — a narrower finding that bears on this claim

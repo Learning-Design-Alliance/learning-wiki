@@ -76,3 +76,5 @@ The review reports, citing Wouters et al. (2013) and Clark et al. (2016), that s
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — reports the opposite
 - [A serious game simulation complementing CPR instruction improved theoretical knowledge but not CPR skills](serious-game-improves-cpr-knowledge-not-skills.md) — a narrower finding that bears on this claim
 - [Students who used AR in STEM had improved outcomes compared to those who received traditional instruction, per the Mystakidis et al. review](ar-stem-improved-outcomes-vs-traditional.md) — related
+- [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related
+- [Inference-based computer games produce better vocabulary learning than traditional hardcopy word lists](inference-based-games-better-than-word-lists.md) — a narrower finding that bears on this claim

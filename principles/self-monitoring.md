@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (10 for, 17 mixed, 3 against) · 33 studies (13 causal, 8 quant-synthesis, 6 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (10 for, 18 mixed, 3 against) · 34 studies (14 causal, 8 quant-synthesis, 6 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ None of these measures whether a self-monitoring habit persists after prompts ar
 - [Providing grade estimates after each exam improved secondary students' calibration accuracy over a school year, regardless of the level of reflection support](../claims/grade-estimates-improve-calibration-secondary.md) [+W] — attached 2026-10-19 from Nederhand et al. (2020), which proposed "Ask students for grade estimates after each exam as an easy-to-implement way to improve calibration accuracy in secondary education"; tests this page's relationship.
 - [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](../claims/whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) [+W] — attached 2026-10-21 from Noortje Janssen · Ard W. Lazonder (2024), which proposed "For problem-solving tasks, use whole-task, metacognitive knowledge, or external standard interventions and avoid timing interventions".
 - [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+W] — attached 2026-10-21 from Waldeyer et al. (2024), which proposed "Inform learners about the to-be-monitored self-assessment cue before, not after, the problem-solving phase".
+- [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [~W] — attached 2026-11-01 from Arslantas et al. (2017), which proposed "Equip teachers with the competence to use self-monitoring strategies and inform students of their purpose, or the strategies' benefit is limited".
 
 ## Objective and learner-valued goal
 

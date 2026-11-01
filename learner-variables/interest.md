@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 238 claims (169 show a difference, 42 mixed, 27 no difference) · 161 studies (65 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 161 report an effect size · 232 claims rest on one study
+> **Evidence** · 239 claims (170 show a difference, 42 mixed, 27 no difference) · 162 studies (66 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 162 report an effect size · 233 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -273,6 +273,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Instructional strategy has a significant main effect on primary students’ posttest interest in mathematics](../claims/instructional-strategy-main-effect-interest-mathematics.md) [+M] — instruction changes it
 - [Students with high curiosity achieved higher reading comprehension scores than students with low curiosity](../claims/high-curiosity-higher-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — an instructional effect differs with it
+- [Students reported that individual science-fiction books piqued their curiosity about science, with most students in the experimental group stating each book increased their science curiosity](../claims/diaries-report-books-pique-curiosity.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

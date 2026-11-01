@@ -78,11 +78,13 @@ Graphic organizers exploit the dual-channel capacity of working memory: presenti
 5. Close by having students use the completed organizer to answer an integrative question or predict a related case ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the pre-lecture variant: presenting structure before content rather than building it during
 - [Concept Mapping](../elements/concept-mapping.md) — the student-generated variant, shifting the cognitive work to learners
 - [Structured Note-Taking](../strategies/guided-notes.md) — complementary scaffold for the verbal channel of the lecture
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a skeletal organizer at the start of a lecture doubles as a prior-knowledge activation prompt
 - [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
+- [Replace lecture-only English instruction with mind-map-based presentation of the whole chapter in a single diagram](mind-map-whole-chapter-single-diagram-english.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the organizer delivered before instruction to frame what follows

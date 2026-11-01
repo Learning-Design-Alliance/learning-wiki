@@ -68,3 +68,4 @@ ANCOVA on post-test scores of the experimental and control groups, as reported i
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
 - [Educational trips produced higher adjusted environmental knowledge scores than service learning, which in turn exceeded control](educational-trips-most-effective-environmental-knowledge.md) — related
+- [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related

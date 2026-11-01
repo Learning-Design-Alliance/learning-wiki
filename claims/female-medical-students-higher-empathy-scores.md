@@ -52,3 +52,4 @@ Synthesis across the review's 30 included studies. The review reports "Female st
 
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
+- [Female students were more ethically sensitive than male students regardless of educational context group](females-more-ethically-sensitive.md) — related

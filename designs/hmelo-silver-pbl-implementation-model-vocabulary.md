@@ -41,7 +41,8 @@ The article used Hmelo-Silver's (2004) model for practical implementation of PBL
 - [Pbl Tasks Improve Vocabulary Recall Efl](../claims/pbl-tasks-improve-vocabulary-recall-efl.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-step Physics problem-based learning cycle used for classroom assessment in both conditions](four-step-physics-pbl-cycle.md)
 
 ## Examples
 -

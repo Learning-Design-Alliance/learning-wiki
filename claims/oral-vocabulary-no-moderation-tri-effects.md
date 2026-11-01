@@ -53,3 +53,4 @@ Model 2 moderation analysis in the RCT of 108 ELs, testing fall TOLD-P:4 Oral Vo
 - [TRI treatment did not significantly improve spring Passage Comprehension for struggling English learners](tri-no-passage-comprehension-effect.md) — related
 - [Control struggling English learners showed slower word-level growth than control nonstruggling peers, while treatment struggling ELs gained at a similar but not catching-up rate](struggling-els-growth-gap-not-closed.md) — related
 - [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](vip-no-treatment-language-status-interaction.md) — related
+- [The amount of language growth children made during the preschool intervention year did not predict kindergarten outcomes and did not alter the moderated treatment effects](language-gain-score-not-significant-predictor.md) — related

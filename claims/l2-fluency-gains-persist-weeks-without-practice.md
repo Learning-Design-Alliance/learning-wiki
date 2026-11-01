@@ -101,3 +101,5 @@ Nothing here says where retention falls off.
 - [The number of new words learned during the evaluation month was roughly equivalent to a typical prior month](new-vocabulary-learning-equivalent-to-prior-month.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — related
 - [Across the synthesized corpus, 34 studies reported affective gains while 17 found statistically significant listening or fluency improvements and 21 reported no fluency outcomes](fluency-outcomes-uneven-reporting.md) — related
+- [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
+- [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](keyword-method-delayed-recall-advantage.md) — a narrower finding that bears on this claim

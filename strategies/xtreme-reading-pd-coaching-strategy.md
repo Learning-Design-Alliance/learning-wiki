@@ -39,6 +39,7 @@ The review describes a specific professional development model: training is "con
 ## Related Strategies
 
 - [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
+- [Coach-led initial implementation followed by teacher phase transition](coach-phase-teacher-phase-transition.md)
 
 ## Examples
 -

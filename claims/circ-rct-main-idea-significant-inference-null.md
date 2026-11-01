@@ -62,3 +62,4 @@ Same cluster randomized trial (Stevens et al., 1991), WWC calculations for the a
 ## Related Claims
 - [The cooperative learning component's added benefit over direct instruction alone with CIRC materials was not statistically significant on main idea identification](circ-cooperative-component-benefit-unconfirmed.md) — related
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — related
+- [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related

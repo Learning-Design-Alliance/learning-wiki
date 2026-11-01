@@ -69,3 +69,4 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
 - [Teacher education workshop paired with robot curriculum improves teachers' relevance and self-efficacy beliefs](teacher-workshop-improves-relevance-and-self-efficacy.md) — related
+- [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 49 claims (26 for, 22 mixed, 1 against) · 47 studies (26 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 47 report an effect size · 44 claims rest on one study
+> **Evidence** · 51 claims (28 for, 22 mixed, 1 against) · 48 studies (27 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 48 report an effect size · 46 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -85,6 +85,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](../claims/cbmp-outperformed-conventional-posttest.md) [+W] — attached 2026-11-01 from Abiola Lateef Olori et al. (2016), which proposed "Computer-based multimedia maize breeding packages (CBMBP)"; tests this page's relationship.
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](../claims/multimedia-more-effective-than-conventional-media-listening.md) [+W] — attached 2026-11-01 from Tagor Pangaribuan et al. (2017), which proposed "Researcher-designed CD-ROM multimedia application for listening comprehension"; tests this page's relationship.
 - [Students rated the interactive multimedia listening materials 'Good' overall, with a mean quality score of 79.00](../claims/multimedia-materials-rated-good-mean-79.md) [+W] — attached 2026-11-01 from Tagor Pangaribuan et al. (2017), which proposed "Researcher-designed CD-ROM multimedia application for listening comprehension".
+- [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](../claims/multimedia-package-higher-posttest-mathematics-prospective-teachers.md) [+W] — attached 2026-11-01 from D.R. Robert Joan et al. (2012), which proposed "Multimedia Learning Package for Mathematics for prospective teachers"; tests this page's relationship.
+- [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](../claims/multimedia-group-significant-pre-post-gain-mathematics.md) [+W] — attached 2026-11-01 from D.R. Robert Joan et al. (2012), which proposed "Multimedia Learning Package for Mathematics for prospective teachers"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

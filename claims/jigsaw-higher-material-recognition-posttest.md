@@ -48,3 +48,4 @@ Quasi-experimental pre-test/post-test control-group study of 63 science-educatio
 - [Jigsaw cooperative learning produced higher laboratory material usage post-test scores than traditional instruction](jigsaw-higher-material-usage-posttest.md) — related
 - [The jigsaw and control groups did not differ on material recognition or usage pre-tests](jigsaw-no-pretest-difference.md) — related
 - [Weekly laboratory skills ratings of the jigsaw group exceeded the scale midpoint across all experiment stages](jigsaw-lses-skills-above-midpoint.md) — related
+- [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](cooperative-learning-higher-lab-report-scores-chemistry.md) — related

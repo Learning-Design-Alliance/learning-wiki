@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (24 for, 23 mixed, 1 against) · 53 studies (13 causal, 13 quant-synthesis, 8 review, 5 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 40 claims rest on one study
+> **Evidence** · 51 claims (27 for, 23 mixed, 1 against) · 54 studies (14 causal, 13 quant-synthesis, 8 review, 5 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 13 of 54 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ Claims that bear on peer learning but do not change the model above, each with w
 - [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](../claims/prompt-revision-increased-feedback-specificity.md) [+W] (not about this page): concerns the prompt for AI feedback across a semester, with no peer condition.
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W] (not about this page): compares teacher feedback with two kinds of AI feedback; no peer condition.
 - [This issue's peer-review study is reported to find fine-grained matching by prior performance is needed to yield a significant effect of pairing, unlike coarse-grained matching](../claims/fine-grained-skill-matching-needed-peer-review.md) [~W]: read 2026-10-19 (wave 2). A journal editorial's one-sentence report of a secondary analysis of peer review in three large classes, with no statistics, and it does not say which way the matching ran (similar or different prior performance); it suggests that how reviewers are paired by prior performance matters but cannot set a pairing rule, so the advanced-learner row and the pattern's mixed-attainment assignment stand.
+- [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](../claims/peer-tutoring-biology-posttest-achievement.md) [+W] — attached 2026-11-01 from Irfan Ullah et al. (2018), which proposed "Use peer tutoring as a supplementary, highly structured and supervised instructional technique"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -191,6 +192,8 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](../claims/sixth-graders-poor-peer-tutors.md) [-W]
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](../claims/tutor-tutee-synergistic-effect.md) [+W]
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](../claims/peer-teaching-ultrasound-comparable-to-faculty.md) [+W]
+- [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
+- [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

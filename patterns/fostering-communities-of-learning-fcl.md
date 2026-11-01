@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (15 for, 13 mixed) · 43 studies (13 quant-synthesis, 12 review, 8 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 43 report an effect size · 17 claims rest on one study
+> **Evidence** · 30 claims (15 for, 15 mixed) · 44 studies (13 quant-synthesis, 12 review, 9 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 44 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,8 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](../claims/test-review-brings-expertise-to-open.md) [~W]
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](../claims/supporting-learning-process-competencies.md) [+W]
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](../claims/jigsaw-iv-significant-pre-post-gain.md) [~W]
+- [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](../claims/jigsaw-group-opinions-expert-roles-and-drawbacks.md) [~W]
+- [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

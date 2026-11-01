@@ -66,6 +66,7 @@ Paragraph Shrinking operationalizes summarization as a generative learning strat
 - [Peer Tutoring](../strategies/peer-tutoring.md) — the broader family of structured peer-role activities; Paragraph Shrinking is the summarization-specific instance
 - [Summarization](summarizing.md) — the general strategy; Paragraph Shrinking is a constrained, peer-delivered implementation
 - [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
+- [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 
 ## Examples
 - **PALS Reading (Vanderbilt Kennedy Center / IRIS Center)** — Paragraph Shrinking is Activity 2 in the PALS sequence, following partner reading and preceding prediction relay; implementation materials are distributed through the [IRIS Center](https://iris.peabody.vanderbilt.edu) and [Kansas IRIS](https://kc.vanderbilt.edu/pals/).
