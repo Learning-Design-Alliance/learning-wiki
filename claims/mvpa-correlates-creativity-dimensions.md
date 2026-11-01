@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-01
 sources:
   - id: romance-2023
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` MVPA correlates positively with FLU (r = 202, p < 0.05), O (r = 168, p < 0.01), FLE (r = 242, p < 0.01) and creativity in general (r = 154, p < 0.01). [→ Romance 2023](#romance-2023)

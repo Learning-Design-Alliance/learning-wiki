@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 23 studies (5 causal, 5 quant-synthesis, 5 review, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (11 for, 9 mixed, 1 against) · 25 studies (7 causal, 5 quant-synthesis, 5 review, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 18 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -89,6 +89,8 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Per-exercise analysis accuracy improved from 15 of 27 exercises above 80% to all 27 above 80% in the third version](../claims/php-its-per-exercise-accuracy-improvement.md) [+W]
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](../claims/questionnaire-wording-affects-lda-topics.md) [~W]
 - [Evidence on online activity as a predictor of learning outcomes is mixed: 54% of studies measuring activity found no relationship with outcomes](../claims/online-activity-outcome-correlations-mixed.md) [~W]
+- [Time spent on online assignments was associated with grades: students under 11 hours earned D grades while heavy users earned C, B or A](../claims/online-time-on-task-grades-association.md) [+W]
+- [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](../claims/story-friends-iterative-revision-findings.md) [~W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

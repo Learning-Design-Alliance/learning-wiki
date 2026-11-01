@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 21 studies (9 quant-synthesis, 8 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 21 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 22 studies (9 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 22 report an effect size · 25 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -78,6 +78,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Scaffolded Think-Group-Share learning produced significantly higher learner satisfaction than Group Investigation and Learning Together in Indonesian elementary EFL classes](../claims/stgs-higher-satisfaction-than-gi-lt.md) [+W] — attached 2026-11-01 from Octavia Mantik (2017), which proposed "Scaffolded Think-Group-Share learning: a three-step cooperative method with an individual hard-scaffolding worksheet before group work".
 - [Scaffolded Think-Group-Share students significantly outperformed Group Investigation and Learning Together students on all three comprehension tests, with the smallest margin against Group Investigation on the third test](../claims/stgs-outperformed-on-comprehension-tests.md) [+W] — attached 2026-11-01 from Octavia Mantik (2017), which proposed "Scaffolded Think-Group-Share learning: a three-step cooperative method with an individual hard-scaffolding worksheet before group work".
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](../claims/posttest-descriptive-means-cooperative-vs-control.md) [+W]
+- [The article reports that involvement in cooperative learning is a strong predictor of undergraduate academic performance](../claims/cooperative-learning-predicts-performance.md) [+W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

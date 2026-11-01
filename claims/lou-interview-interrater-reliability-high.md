@@ -57,3 +57,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
+- [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related

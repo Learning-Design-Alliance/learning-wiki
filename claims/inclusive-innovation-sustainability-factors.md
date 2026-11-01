@@ -78,3 +78,4 @@ Thematic analysis of semi-structured interviews and focus groups conducted in sp
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — a broader claim this one bears on
+- [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](story-friends-iterative-revision-findings.md) — related

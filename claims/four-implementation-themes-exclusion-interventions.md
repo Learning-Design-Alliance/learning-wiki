@@ -55,3 +55,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Barriers to mentoring as a KT intervention included staff resistance and shortage, lack of time, lack of knowledge and skills, and inadequate guidance from mentors; enablers included leadership support, staff involvement, and available mentors](mentoring-kt-barriers-and-enablers.md) — related
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](youth-united-implementation-conditions.md) — related
+- [Staff views of the interventions were more positive in schools with experienced TAs, senior staff support, and a dedicated delivery space.](reach-staff-views-favourable-implementation-conditions.md) — related

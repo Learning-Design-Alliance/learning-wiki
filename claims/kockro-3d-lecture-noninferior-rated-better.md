@@ -67,3 +67,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related
+- [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related

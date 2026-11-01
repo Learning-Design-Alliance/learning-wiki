@@ -50,3 +50,4 @@ Paired t-test comparison of pre-test and post-test scores for the 40 Experimenta
 - [The Control and Experimental groups were homogeneous in essay-writing performance at pre-test](process-approach-pretest-homogeneity.md) — related
 - [Process Approach instruction produced significantly better overall essay-writing performance than the Product Approach in Nigerian ESL senior secondary students](process-approach-better-essay-performance-esl.md) — a broader claim this one bears on
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related

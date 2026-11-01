@@ -47,3 +47,4 @@ Tobit models used to parse the estimated impact of random assignment into a dich
 ## Related Claims
 - [Random assignment to Head Start increases children's access to formal care and the quality of formal care relative to control](head-start-increases-formal-care-access-and-quality.md) — related
 - [The original Head Start Impact Study threshold-variable method conflates low quality with missing data and discards continuous variance](threshold-variable-conflates-missing-and-low-quality.md) — related
+- [Head Start's impacts on children's enrollment in Head Start, center-based care, and high-quality care vary substantially across sites](head-start-enrollment-impacts-vary-across-sites.md) — related

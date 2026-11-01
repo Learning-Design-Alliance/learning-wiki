@@ -13,7 +13,7 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 13 studies (6 causal, 3 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 14 studies (7 causal, 3 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 14 report an effect size · 11 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
@@ -62,6 +62,7 @@ Summarization is one of the most consistently supported study strategies, but on
 - [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [~W]
 - [Nearly half of sixth graders' written products from multiple texts show poor integration quality](../claims/poor-integration-quality-sixth-graders-written-products.md) [+W]
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](../claims/snippet-selection-predicts-integration-above-reading-skills.md) [+W]
+- [The 3-2-1 strategy shows no statistically significant effect on EFL students' ability to summarize the text](../claims/3-2-1-strategy-no-effect-on-summarization.md) [-M] — attached 2026-11-01 from Hashem Ahmed Alsamadani (2011), which proposed "The 3-2-1 reading strategy"; tests this page's relationship.
 
 ## The evidence by question
 - *Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?* [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]

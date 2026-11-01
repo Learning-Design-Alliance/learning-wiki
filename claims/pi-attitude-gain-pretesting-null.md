@@ -55,3 +55,5 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 - [Both groups improved in achievement from pretest to post-test, but only the experimental group showed significant attitude gains](within-group-prepost-gains.md) — related
 - [When pretest scores were controlled, the posttest attitude difference between the visual-materials and traditional groups was not statistically significant, though the experimental group's adjusted mean was higher](ancova-no-significant-group-attitude-difference.md) — related
 - [Visual-materials instruction produced a statistically significant within-group increase in global warming attitudes (d = 0.93), while traditional instruction did not (d = 0.33)](visual-materials-attitude-gain-significant.md) — related
+- [Unpretested groups showed no significant difference between their own post-test and retention test scores](7e-unpretested-posttest-retention-stability.md) — related
+- [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related

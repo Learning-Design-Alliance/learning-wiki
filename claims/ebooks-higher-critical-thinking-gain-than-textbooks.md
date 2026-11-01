@@ -51,3 +51,4 @@ Non-parametric Mann-Whitney test (SPSS 18) on N-gain scores from a nonrandomized
 - [A debate model in yellow book learning can increase students' critical thinking skills relative to conventional learning models](debate-model-increases-critical-thinking-yellow-book.md) — related
 - [Students taught with the LAPS-Heuristic model show higher critical thinking skills than students taught conventionally on demand and supply material in vocational economics](laps-heuristic-improves-critical-thinking-vocational-economics.md) — related
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — a broader claim this one bears on
+- [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related

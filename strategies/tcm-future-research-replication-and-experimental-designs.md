@@ -46,6 +46,7 @@ Based on the meta-analysis and review, the authors recommend that "future resear
 - [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 - [Examine the causal relationship between arts involvement and academic performance with experimental designs controlling for IQ and motivation](experimental-design-arts-transfer-causality.md)
 - [Future mGBL research should avoid research to prove and embrace research to improve](mgbl-research-to-improve-not-prove.md)
+- [Repeat flipped-learning studies across diverse subject areas and contexts before generalising effects](repeat-flipped-learning-studies-diverse-contexts-strategy.md)
 
 ## Examples
 -

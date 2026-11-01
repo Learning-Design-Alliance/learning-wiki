@@ -91,6 +91,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Introduce LLM tools at later stages of programming education, after students have acquired basic coding principles](../strategies/introduce-llms-after-basic-coding-principles.md)
 - [Ensure learners master lower task layers before allowing AI automation of those components](../strategies/master-lower-layers-before-ai-automation.md)
 - [Provide necessary learning resources and simplify non-critical aspects of complex practice](../strategies/simplify-non-critical-aspects-of-complex-practice.md)
+- [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

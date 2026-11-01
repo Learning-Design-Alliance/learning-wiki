@@ -48,3 +48,4 @@ One-way independent ANOVAs on two post-test-only essay tasks not used in either 
 ## Related Claims
 
 - [Variation-theory-based teaching produces significantly larger gains than control teaching in 9th-grade students' alternations of points of view on a taught societal issue](variation-theory-teaching-gains-alternating-points-of-view-taught-task.md)
+- [Intervention transfers to an integrative number knowledge task with ES = 0.27](intervention-transfer-number-knowledge-es-027.md) — a narrower finding that bears on this claim

@@ -60,3 +60,4 @@ The report states its scope: the quantitative methods for varying treatment effe
 - [Instructional design methods cannot always be universally applied across cultures because their effects vary across contexts](instructional-design-effects-vary-across-cultural-contexts.md) — related
 - [The Reading Recovery i3 multi-site RCT finds large positive overall effects on reading outcomes with substantial variation in impacts across sites](reading-recovery-i3-large-positive-effects-site-variation.md) — a narrower finding that bears on this claim
 - [Head Start shows larger effects on cognitive outcomes relative to non-center care than relative to center care, with non-zero effects only for Non-Center Compliers](head-start-larger-effect-noncenter-compliers.md) — related
+- [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](cross-site-variation-in-cognitive-outcome-impacts.md) — related

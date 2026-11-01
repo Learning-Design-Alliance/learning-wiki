@@ -49,3 +49,4 @@ Theoretical claim reported in this review paper, attributed to Vygotsky (1978), 
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](children-imitate-beyond-independent-capability.md) — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — a narrower finding that bears on this claim
+- [The study's theoretical framework anchored gardening-based entrepreneurship instruction in Vygotsky's theory of social influence on cognitive development](vygotsky-framework-gardening-entrepreneurship.md) — related

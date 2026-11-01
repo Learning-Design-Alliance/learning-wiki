@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (40 for, 28 mixed, 1 against) · 56 studies (19 quant-synthesis, 18 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 56 report an effect size · 61 claims rest on one study
+> **Evidence** · 70 claims (41 for, 28 mixed, 1 against) · 57 studies (19 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 57 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -174,6 +174,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](../claims/tgt-attitude-shifts-two-statements.md) [~W]
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](../claims/gender-method-interaction-effects-trigonometry.md) [~W]
+- [Interviewed learners in experimental schools preferred the group approach and valued peer explanation, while control school learners reported teacher-dominated lessons](../claims/learners-preferred-group-approach-peer-explanations.md) [+W]
 
 ## Related Patterns
 

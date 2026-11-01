@@ -51,3 +51,4 @@ Internal validation through model usability tests with the instructional design 
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related
 - [The IDR methodology and workshop model were iteratively developed and refined through use by a project team and at international conferences](idr-iterative-development-and-refinement.md) — related
+- [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](story-friends-iterative-revision-findings.md) — a narrower finding that bears on this claim

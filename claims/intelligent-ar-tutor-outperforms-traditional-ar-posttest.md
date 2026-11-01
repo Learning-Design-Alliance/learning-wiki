@@ -67,3 +67,7 @@ Normalized learning gains were 0.66 (SD 0.26) for the experimental group and 0.4
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](intelligent-ar-faster-unassisted-assembly-no-error-difference.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — a broader claim this one bears on
+- [AR-based instruction increases computer hardware course achievement compared to print materials in vocational education](ar-increases-vet-hardware-achievement.md) — related
+- [AR instruction has no significant effect on motherboard assembly skills self-efficacy](ar-no-effect-assembly-skills-self-efficacy.md) — related
+- [AR instruction has no significant effect on motherboard assembly theoretical-knowledge self-efficacy](ar-no-effect-theoretical-self-efficacy.md) — related
+- [AR-supported learners complete motherboard assembly in shorter time and with less help than print-material learners](ar-shorter-assembly-less-help.md) — related

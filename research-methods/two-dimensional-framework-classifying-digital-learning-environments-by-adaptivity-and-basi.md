@@ -20,6 +20,7 @@ The article frames web-based learning environments along two dimensions: "the ex
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Two-dimensional framework classifying digital learning environments by adaptivity and basis in an explicit model of learning**: The article frames web-based learning environments along two dimensions: "the extent to which they adaptively respond to student behavior and (2) the extent to which they are based on a careful cognitive model". Static environments deliver fixed-order content with identical feedback; dynamic environments track behavior (errors, error rates, time-on-problem) and use a programmed decision tree to select problem sets and feedback based on estimated skill mastery; cognitively-based dynamic systems additionally encode the cognitive processing needed for skill acquisition and can adapt and fade scaffolds. Examples named include ALEKS, Khan Academy, ActiveMath, and Cognitive Tutor. (Shandy Hauk et al. (2017))
+- **Two-dimensional framework of learning environments: adaptability and basis in an explicit model of learning**: The article proposes that learning environments vary along two dimensions: "the extent to which they adaptively respond to student behavior and (2) the extent to which they are based on a careful cognitive model." Crossing these yields static environments (non-adaptive, no cognitive model, e.g., online problem sets giving "Correct" or "Incorrect" feedback), dynamic environments that track student behavior and use programmed decision trees to select problem sets and feedback (e.g., ALEKS, Khan Academy mastery challenges), and cognitively-based "intelligent" tutoring systems (e.g., Cognitive Tutor) whose scaffolds are informed by a theoretical model of the cognitive processing needed for skill acquisition and can themselves be adaptive and faded. (Shandy Hauk (2017))
 
 ### Claims
 
@@ -31,3 +32,4 @@ The article frames web-based learning environments along two dimensions: "the ex
 
 ## Key Sources
 - Shandy Hauk, Bryan Matlen, Larry Thomas. (2017). Exploration of the Factors that Support Learning: Web-based Activity and Testing Systems in Community College Algebra. 20th Annual Conference on Research in Undergraduate Mathematics Education. https://sigmaa.maa.org/rume
+- Shandy Hauk, Bryan Matlen. (2017). Exploration of the Factors that Support Learning: Web-based Activity and Testing Systems in Community College Algebra. WestEd. https://www.wested.org

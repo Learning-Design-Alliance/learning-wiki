@@ -46,3 +46,7 @@ Pretest/post-test control-group quasi-experiment with 35 experimental and 35 con
 
 ## Related Claims
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
+- [Computer-based science and technology instruction produces significantly higher corrected post-test achievement than traditional teaching in the Earth, Sun and Moon unit](cbi-improves-earth-sun-moon-achievement.md) — related
+- [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
+- [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related
+- [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related

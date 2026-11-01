@@ -50,3 +50,4 @@ Content analysis of questionnaire responses on motivation factors; Table 12 prin
 - [Students most frequently reported active participation, student-teacher interaction, flexibility, repetitive watching, and peer interaction as advantages of the flipped classroom](flipped-classroom-perceived-advantages.md) — related
 - [Students named access to recorded live lessons at any time as the most important factor of their success](recorded-live-lessons-most-important-success-factor.md) — related
 - [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md) — related
+- [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related

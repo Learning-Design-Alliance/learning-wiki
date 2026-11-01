@@ -65,3 +65,5 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
 - [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — related
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related
+- [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — a narrower finding that bears on this claim
+- [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related

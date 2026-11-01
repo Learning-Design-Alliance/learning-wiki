@@ -54,3 +54,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
 - [Teaching science and mathematics through human modeling and collaborative cross-border projects can serve the purpose of developing tolerance and international understanding](science-teaching-modeling-international-understanding.md) — related
 - [Evolved disciplinary modules produced more motivating and more efficient learning outcomes closer to employer expectations](evolved-modules-more-motivating-efficient-employer-aligned.md) — related
+- [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related

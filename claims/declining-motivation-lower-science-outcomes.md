@@ -73,3 +73,4 @@ School-record grade comparison across trajectory groups reported in the results;
 - [A majority of adolescents (about 63%) followed stable trajectories of physics and chemistry motivation across middle and high school](stable-motivation-majority-adolescents.md) — related
 - [Adolescents' ability self-concept and task values in physics and chemistry changed in tandem over time, regardless of trajectory group](self-concept-task-values-interlinked-science.md) — related
 - [Online engagement at any single time-point is not a consistent indicator of high achievement across a full program, whereas longitudinal patterns of engagement and grades forecast stable academic trajectories](single-timepoint-engagement-not-consistent-achievement-indicator.md) — related
+- [Survey responses showed a sharp decline in aspiration to attend higher education, with only limited evidence of increases in determination and aspiration](thinkforward-aspiration-decline-survey.md) — related

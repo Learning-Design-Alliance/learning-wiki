@@ -51,3 +51,4 @@ The article's introduction attributes this to prior studies (Baghaei et al. 2007
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Students tended to ignore adaptive prompts while collaborating, motivating socially sensitive or implicit support](students-ignore-adaptive-prompts-collaborating.md) — related
+- [Prior studies reported promise for cognitively-based dynamic learning environments in post-secondary mathematics](cognitively-based-environments-promise-postsecondary-math.md) — related

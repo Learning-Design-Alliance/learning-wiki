@@ -47,3 +47,4 @@ Eta square computed from the T-value comparing the two groups of 15 on the post-
 ## Related Claims
 - [The effect of using electronic mind maps on ninth-graders' reading comprehension was medium in size](emindmap-medium-effect-size-reading.md) — related
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
+- [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related

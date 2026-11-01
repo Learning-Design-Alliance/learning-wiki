@@ -58,3 +58,5 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
+- [Experimental group post-test speaking scores reached the high category while control group scores stayed in the average category](demonstration-posttest-high-category-versus-control-average.md) — related
+- [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related

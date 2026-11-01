@@ -43,7 +43,8 @@ The authors close by recommending that primary EFL instructors promote task-base
 - [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](../claims/pairing-language-interaction-nom-l2-only.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Devote class time for EFL students to interact, express understanding, and discuss comprehension with peers](devote-time-for-peer-discussion-of-comprehension.md)
 
 ## Examples
 -

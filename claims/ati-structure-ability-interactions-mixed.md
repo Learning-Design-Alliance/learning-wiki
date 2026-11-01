@@ -56,3 +56,4 @@ Narrative review of the aptitude-by-treatment interaction literature, citing Cra
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — a narrower finding that bears on this claim
 - [The effect of Tekster does not depend on students' initial writing proficiency](tekster-effect-independent-of-writing-proficiency.md) — related
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related
+- [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related

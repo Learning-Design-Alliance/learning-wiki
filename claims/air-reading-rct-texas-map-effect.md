@@ -58,3 +58,6 @@ A randomized study of nearly 400 grade 1-6 students in six rural Texas elementar
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related
 - [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
+- [High-dosage Air Reading students (56+ sessions) showed larger significant gains (ES +0.32) than low-dosage students (ES +0.26), both significant versus control](air-reading-dosage-related-to-gains.md) — related
+- [Air Reading virtual tutoring significantly improved early literacy in a full-year RCT, with an effect size of +0.29 SD](air-reading-full-year-rct-positive-impact.md) — related
+- [Full-year Air Reading implementation produced larger effects (ITT ES = 0.29) than a prior semester-long implementation (ITT ES = +0.12)](full-year-tutoring-larger-effects-than-semester.md) — related

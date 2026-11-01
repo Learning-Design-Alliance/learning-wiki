@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: nneka-justina-eze-2015
     resource: "https://eric.ed.gov/?id=EJ1079076"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among students taught with the cloze approach, the difference between male and female mean Igbo reading comprehension scores is not statistically significant. [→ Nneka Justina Eze 2015](#nneka-justina-eze-2015)
@@ -56,3 +57,5 @@ ANCOVA on treatment-group-only data (21 males, 26 females) by gender. Adjusted m
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
+- [The article reports a significant mediating effect of gender on the role of sight translation in reading ability acquisition, while its own printed posttest means for females and males are nearly identical](gender-mediating-effect-sight-translation-reading.md) — related
+- [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related

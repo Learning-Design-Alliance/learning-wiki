@@ -52,3 +52,4 @@ Questionnaire administered only to the experimental group (n=24 responses), anal
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students reported behavior and awareness changes after the performing-arts unit, most often about spitting on the ground and protecting natural beauties](performing-arts-awareness-behavior-change.md) — related
 - [A majority (65.5%) of the experimental group gave positive remarks that VRS exposure helped their actual practice, most often citing learning proper sequence (94.7%)](vrs-students-positive-remarks-proper-sequence.md) — related
+- [Students reported that news about people in difficulty — especially a poor Turkish child sending 1 lira to Pakistan after the earthquake — attracted the most attention in the unit](student-attention-elements-global-education-unit.md) — related

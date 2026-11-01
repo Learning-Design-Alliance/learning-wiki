@@ -19,7 +19,7 @@ sources:
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 6 mixed, 3 against) · 28 studies (10 quant-synthesis, 6 causal, 6 review, 4 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (19 for, 6 mixed, 3 against) · 29 studies (10 quant-synthesis, 6 causal, 6 review, 5 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 29 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Claims bearing on the page that were read but not used as core evidence above.
 - [EF training demands must keep increasing as children improve, or few gains will be seen](../claims/progressive-challenge-ef-training.md) [~W]
 - [Tools of the Mind curriculum effects are mixed across evaluations: null in prekindergarten, substantial in high-poverty kindergarten schools](../claims/tools-of-the-mind-mixed-evaluation-results.md) [~W]
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](../claims/tools-montessori-curricula-improve-efs.md) [+W]
+- [Teacher vocabulary used in related turns (following the child's lead) is more strongly related to child within-session vocabulary use than vocabulary in any utterance](../claims/related-turns-stronger-vocabulary-relation.md) [+W] — attached 2026-11-01 from Ragan H. McLeod et al. (2019), which proposed "Teach vocabulary in play contexts by following the child's lead and using vocabulary supports"; tests this page's relationship.
+- [Teacher use of vocabulary support strategies during EMT play sessions is significantly related to child target word use within the session](../claims/vocabulary-supports-related-child-target-tokens.md) [+W] — attached 2026-11-01 from Ragan H. McLeod et al. (2019), which proposed "Teach vocabulary in play contexts by following the child's lead and using vocabulary supports".
 
 ## Objective and learner-valued goal
 

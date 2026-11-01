@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (29 for, 24 mixed, 1 against) · 51 studies (30 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 51 report an effect size · 49 claims rest on one study
+> **Evidence** · 57 claims (30 for, 25 mixed, 2 against) · 54 studies (33 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 54 report an effect size · 52 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -90,6 +90,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Gender did not significantly influence achievement among students taught Geography with PowerPoint presentation](../claims/powerpoint-no-gender-difference-geography.md) [~W]
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
+- [Three-dimensional visual objects produced higher post-test drawing performance than two-dimensional visual objects, and both experimental groups outperformed the control group](../claims/three-dimensional-objects-outperform-two-dimensional-drawing.md) [+W]
+- [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]
+- [Gender has no influence on performance under video-based individualized or conventional instruction in geometry](../claims/no-gender-difference-ivip-cvip.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -48,3 +48,4 @@ Basic 3-level HLM on 2,756 students from 44 schools with prior achievement and g
 - [The ASSISTments homework intervention effect on TerraNova math scores varied by gender: boys benefited more, narrowing the gender gap](assistments-intervention-benefited-boys-more.md) — related
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related
 - [Among students performing proficiently or above, high-performing girls spent marginally significantly more time on homework than high-performing boys](high-performing-girls-more-homework-time.md) — related
+- [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related

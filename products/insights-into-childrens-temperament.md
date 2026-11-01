@@ -19,7 +19,7 @@ sources:
 # INSIGHTS into Children's Temperament
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 INSIGHTS into Children's Temperament is an evidence-based intervention programme that equips educators, parents, and young children to understand and respond to children's temperament through professional development, classroom sessions, and facilitated parent lessons.
@@ -28,14 +28,16 @@ INSIGHTS into Children's Temperament is an evidence-based intervention programme
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+- [INSIGHTS improved math and reading achievement for low parent dosage participants, with no average impacts for high dosage participants](../claims/insights-achievement-impacts-low-parent-dosage.md) [+M]
+- [Growth in sustained attention was faster and disruptive behavior reductions faster for INSIGHTS students, with larger growth effects for the low parent participation group](../claims/insights-growth-effects-larger-low-parent-dosage.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - INSIGHTS into Children's Temperament. (2010). Program description and evidence summary. https://www.evidencebasedprograms.org/programs/insights-into-childrens-temperament/
-
 <!-- merged 2026-10-10 from elements/insights-into-childrens-temperament-program ("INSIGHTS into Children's Temperament program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- McCormick, M. P., Cappella, E., O'Connor, E. E., Hill, J., & McClowry, S. G. (2016). Do Effects of Social-Emotional Learning Programs Vary by Level of Parent Participation? Evidence from a Randomized Trial. SREE Spring 2016 Conference Abstract.
 
 # INSIGHTS into Children's Temperament program
 

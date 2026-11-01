@@ -64,3 +64,4 @@ Quasi-experimental comparison of a mobile learning group (n=15) and a traditiona
 - [Cooperative learning produced significantly higher posttest listening scores than traditional teaching in this study](cl-posttest-higher-than-traditional-listening.md) — related
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — a narrower finding that bears on this claim
 - [Students taught Ottoman Turkish readings with an augmented reality application achieved higher academic success than students taught with the classical method](ar-ottoman-turkish-higher-achievement-than-classical.md) — a narrower finding that bears on this claim
+- [AR-based instruction increases computer hardware course achievement compared to print materials in vocational education](ar-increases-vet-hardware-achievement.md) — related

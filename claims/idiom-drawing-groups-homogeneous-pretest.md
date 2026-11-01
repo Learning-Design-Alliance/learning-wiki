@@ -137,3 +137,5 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
 - [Mode of teaching idioms has a statistically significant effect on EFL learners’ idiomatic competence](teaching-mode-significant-effect-idiomatic-competence.md) — related
 - [Before instruction, the experimental and control groups showed no statistically significant difference in vocabulary knowledge](tmm-study-groups-equivalent-at-pretest.md) — related
+- [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
+- [The experimental and control groups were homogeneous in grammar knowledge before the intervention](pretest-homogeneity-call-grammar-study.md) — related

@@ -60,3 +60,4 @@ Independent-samples t-test on post-test scores of the male and female Telegram e
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
+- [The article reports a significant mediating effect of gender on the role of sight translation in reading ability acquisition, while its own printed posttest means for females and males are nearly identical](gender-mediating-effect-sight-translation-reading.md) — related

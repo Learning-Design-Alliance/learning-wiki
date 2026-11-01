@@ -81,6 +81,8 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 
 ## Examples
 
+- [Structural method of teaching vocabulary (SMTV)](../designs/structural-method-teaching-vocabulary.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Morphological Awareness (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/morphological-awareness-literacy-pk-3/summary). Licensed CC BY-NC 4.0.
 - Digital Promise. *Learner Variability Navigator*: Morphological Knowledge (Building Literacy 4-6). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-4-6/factors/morphological-knowledge-literacy-4-6/summary). Licensed CC BY-NC 4.0.

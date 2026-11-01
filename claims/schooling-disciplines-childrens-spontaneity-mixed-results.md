@@ -48,3 +48,4 @@ Theoretical argument in the review about the developmental role of schooling: ch
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
 - [The creativity-related component of flexibility is spontaneous flexibility, the ability to generate diverse responses driven by internal stimuli](spontaneous-flexibility-creativity-children.md) — related
 - [Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action](pedagogical-inference-extends-to-overheard-child-instruction.md) — related
+- [The study's theoretical framework anchored gardening-based entrepreneurship instruction in Vygotsky's theory of social influence on cognitive development](vygotsky-framework-gardening-entrepreneurship.md) — related

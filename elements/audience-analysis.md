@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (21 for, 13 mixed, 1 against) · 43 studies (12 associational, 11 causal, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 43 report an effect size · 30 claims rest on one study
+> **Evidence** · 36 claims (22 for, 13 mixed, 1 against) · 44 studies (13 associational, 11 causal, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 44 report an effect size · 31 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -84,6 +84,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Teachers perceived Literacy Plus and Sounds-Write as less appropriate or less essential than VEIP, with Sounds-Write aimed at a younger audience than Year 7](../claims/vefp-teacher-perceptions-components-less-appropriate.md) [+W]
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](../claims/three-learner-types-error-attitudes.md) [~W]
 - [Latent class analysis using three comprehension measures identified 180 of 233 students as below-average or well-below-average comprehenders](../claims/lca-identified-180-low-comprehenders-from-233.md) [+W]
+- [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](../claims/teacher-criteria-selecting-authentic-listening-materials.md) [+W]
 
 ## The evidence by question
 

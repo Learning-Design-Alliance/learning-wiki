@@ -49,3 +49,4 @@ Paired samples t-tests comparing pre and post scores for each group; the experim
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — a broader claim this one bears on
 - [Students reported positive perceptions of GeoGebra for learning circles, with lower confidence in using the software](geogebra-circles-positive-perceptions.md) — related
+- [Both groups improved significantly from pre- to post-test, with greater progress in the test group](pre-post-gains-both-groups-test-greater.md) — possibly the same claim (merge candidate)

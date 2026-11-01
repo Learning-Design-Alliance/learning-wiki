@@ -43,6 +43,7 @@ Based on their synthesis, the authors recommend that "interventions should be la
 ## Related Strategies
 
 - [Introduce SDL intentionally as the primary educational strategy with structured facilitator support balanced against learner autonomy](sdl-intentional-primary-strategy-with-facilitator-support.md)
+- [Balance learning autonomy with teacher guidance when aiming to develop mathematical curiosity](balance-autonomy-with-teacher-guidance-for-curiosity.md)
 
 ## Examples
 -

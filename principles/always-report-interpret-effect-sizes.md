@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (18 for, 10 mixed) · 29 studies (12 quant-synthesis, 7 causal, 5 review, 5 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 27 claims rest on one study
+> **Evidence** · 29 claims (18 for, 11 mixed) · 30 studies (12 quant-synthesis, 8 causal, 5 review, 5 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](../claims/fsm-maths-primary-secondary-outcome-split.md) [~W]
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](../claims/lad-achievement-effects-confounded.md) [~W]
 - [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](../claims/tutor-trust-fsm-subgroup-effects.md) [+W]
+- [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](../claims/air-reading-gender-difference-not-significant.md) [~W]
 
 ## Related Principles
 

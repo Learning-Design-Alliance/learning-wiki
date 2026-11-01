@@ -71,3 +71,5 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — a narrower finding that bears on this claim
+- [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related

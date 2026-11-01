@@ -56,3 +56,4 @@ Sub-group analyses of the same school-led RCT using the same effect-size calcula
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — reports the opposite
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
+- [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related

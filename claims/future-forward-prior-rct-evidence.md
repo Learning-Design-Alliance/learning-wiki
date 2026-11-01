@@ -87,3 +87,4 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 - [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
 - [SPARK significantly improved early-grade literacy (PALS), with an overall effect of 5.7 scale points (g = .35)](spark-improves-pals-literacy.md) — related
 - [SPARK significantly improved school attendance, with students averaging 5.8 fewer absences over two years (g = .25)](spark-improves-school-attendance.md) — related
+- [Switch-on Reading produces a small positive impact on reading (+0.24) for Year 7 weak readers in a waiting-list RCT](switch-on-reading-overall-effect-024.md) — related

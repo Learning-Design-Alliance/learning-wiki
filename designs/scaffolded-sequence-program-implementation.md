@@ -17,7 +17,7 @@ sources:
 # The scaffolded sequence of program implementation: fidelity-focused phase followed by a structured adaptive phase
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 A conceptual model in which schools first implement an evidence-based program with fidelity so teachers internalize the program theory and achieve proficiency, then transition to a structured adaptive phase in which teachers collaboratively tailor the program to their context. The article describes it as "a structure for chronologically organizing the fidelity-focused and adaptive approaches," grounded in a Vygotskyan scaffolding perspective and Frank et al.'s focus, fiddle, friends progression. The present study tests it by interacting condition with teachers' prior Core READS experience.

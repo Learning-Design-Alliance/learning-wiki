@@ -84,3 +84,4 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Constructive feedback through an error analysis system improves EFL students' writing more than traditional feedback methods](cfb-eas-beats-traditional-feedback-writing.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
+- [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related

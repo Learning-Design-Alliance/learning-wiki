@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 47 claims (22 for, 22 mixed, 3 against) · 49 studies (17 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 40 claims rest on one study
+> **Evidence** · 49 claims (23 for, 22 mixed, 4 against) · 51 studies (19 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 51 report an effect size · 42 claims rest on one study
 
 ## Description and scope
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit teaching of pragmatic routines was more effective than implicit teaching, with implicit-group scores decreasing from pre- to post-test](../claims/explicit-teaching-beats-implicit-for-pragmatic-routines.md) [+M] — attached 2026-11-01 from Üstünbaş (2017), which proposed "Teach pragmatic routines explicitly in EFL programs where learners lack exposure to real target-language use"; tests this page's relationship.
 - [EDI qualitatively outperformed DI on MMA normalized gain, though both groups' gains were in the low category](../claims/edi-mma-gain-outperforms-di.md) [~W] — attached 2026-11-01 from Mansyur et al. (2016), which proposed "Enhanced Direct Instruction (EDI) stages for introductory physics integrating DI patterns with macro- and micro-strategy"; tests this page's relationship.
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](../claims/strategy-instruction-significant-prepost-gain-efl.md) [+W] — attached 2026-11-01 from Bogale (2018), which proposed "Explicit reading strategy instruction cycle: describe, model, guided practice, independent use".
+- [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](../claims/demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) [+W] — attached 2026-11-01 from Muhammad Husnu (2018), which proposed "Teachers should use the demonstration technique to teach speaking to EFL learners".
 
 ## Illustrative design instance and observation record
 
@@ -196,10 +197,12 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Mixed responding (individual plus choral) was slightly more effective than choral responding alone in the one study that tested it](../claims/mixed-td-otr-slightly-more-effective.md) [~W]
 - [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](../claims/students-enjoy-demonstration-method-step-by-step-explanation.md) [~W]
 - [Explicit reduced-forms instruction increases EFL learners' ability to produce reduced forms in their own speech, while regular instruction alone does not](../claims/reduced-forms-instruction-improves-production.md) [+W]
+- [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](../claims/pblccs-better-n-gain-each-mct-indicator.md) [-W]
 
 ## Examples
 
 - [Detailed lesson scripts capturing expert teachers' instructional decision-making](../designs/genie2-lesson-scripts.md)
+- [Teach speech acts explicitly with attention to cross-cultural differences in EFL programs](../strategies/explicit-speech-act-teaching-efl-programs.md)
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

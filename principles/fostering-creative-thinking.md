@@ -28,7 +28,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (19 for, 9 mixed, 2 against) · 29 studies (10 causal, 7 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational, 1 qualitative), `q1`–`q4` · 9 of 29 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (19 for, 10 mixed, 2 against) · 30 studies (11 causal, 7 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](../claims/rewards-reduce-task-performance.md) [+W]
 - [Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural](../claims/ideation-training-domain-specific-transfer.md) [~W]
 - [SCAMPER prompts marginally increase persistence of individually generated ideas in hybrid brainstorming](../claims/scamper-prompts-increase-persistence-marginal.md) [+W]
+- [Within the CREACT group, flexibility and originality improved significantly while fluency and elaboration did not](../claims/creact-experimental-subcomponent-mixed-gains.md) [~W]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

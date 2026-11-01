@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 25 studies (7 causal, 7 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 9 of 25 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (12 for, 3 mixed, 1 against) · 26 studies (8 causal, 7 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 10 of 26 report an effect size · 11 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -62,6 +62,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](../claims/vgp-improved-inference-auditory-task.md) [+W]
 - [In School B the practised group outscored the non-practised group in final reasoning tests, but the author judged the gain unsafe evidence of transfer](../claims/winch-1910-school-b-small-reasoning-advantage.md) [~W]
 - [Near-transfer to untaught text structures is non-significant with wide uncertainty (g = 0.62, CI crossing near zero)](../claims/tsi-near-transfer-untaught-structure-nonsignificant.md) [-W]
+- [Intervention transfers to an integrative number knowledge task with ES = 0.27](../claims/intervention-transfer-number-knowledge-es-027.md) [+W]
 
 ## The evidence by question
 

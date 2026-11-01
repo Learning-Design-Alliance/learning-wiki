@@ -49,3 +49,4 @@ Repeated measures ANOVA over pretest, immediate and delayed posttests for 92 lea
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
 - [Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — a narrower finding that bears on this claim
+- [Posttest grammar scores differed significantly among the three feedback groups (omnibus ANOVA)](posttest-anova-significant-group-difference-grammar.md) — related

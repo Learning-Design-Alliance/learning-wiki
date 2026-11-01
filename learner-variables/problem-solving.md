@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (82 show a difference, 15 mixed, 16 no difference) · 96 studies (47 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 26 of 96 report an effect size · 111 claims rest on one study
+> **Evidence** · 117 claims (85 show a difference, 15 mixed, 17 no difference) · 98 studies (49 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 27 of 98 report an effect size · 115 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -151,6 +151,10 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [The review attributes to Burton et al. (1999) that primary students participating in an arts curriculum showed significantly greater creativity, perception, problem solving, risk-taking and collaboration than students without arts education](../claims/burton-arts-curriculum-greater-creativity.md) [+W] — instruction changes it
 - [Including free-body diagrams in mechanics problem statements significantly impeded first-year physics students' problem-solving performance](../claims/fbds-in-problem-statements-impede-problem-solving.md) [+M] — instruction changes it
 - [Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation](../claims/coaching-improves-executive-functioning-skills-six-ways.md) [+M] — instruction changes it
+- [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](../claims/cbi-improves-problem-solving-skills.md) [+M] — instruction changes it
+- [Experimental group students significantly outperformed control group students on the post-test of problem solving skills](../claims/layered-curriculum-posttest-group-difference.md) [+M] — instruction changes it
+- [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](../claims/layered-curriculum-prepost-gain.md) [+M] — instruction changes it
+- [The existing Science and Technology curriculum produced no significant pre-to-post change in 6th graders' problem solving skills test scores](../claims/existing-curriculum-no-problem-solving-gain.md) [-M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

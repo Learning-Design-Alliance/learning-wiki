@@ -65,6 +65,7 @@ The individual-first phase is the design's key move: it guarantees every student
 - Gallery Walk — a natural follow-on for the public comparison phase
 - Productive Failure — shares the design logic of individual attempts before collective resolution [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 - [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](heterogeneous-pair-cps-individual-then-revise.md)
+- [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 
 ## Examples
 - A 5th-grade teacher uses Stick-It Together to review fraction addition: students solve ¾ + ⅚ individually, then groups must agree on one method and one answer, exposing the "add both numerators and denominators" misconception during negotiation.

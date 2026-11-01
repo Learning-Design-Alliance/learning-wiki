@@ -54,3 +54,5 @@ Baseline comparison in the same pre-test post-test control group experiment (n=3
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — a narrower finding that bears on this claim
+- [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related

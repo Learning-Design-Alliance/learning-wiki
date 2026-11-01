@@ -60,3 +60,4 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — a broader claim this one bears on
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [Teachers in ALCs use more student-centred and collaborative pedagogies than in traditional classrooms](alc-student-centred-pedagogy.md) — related
+- [The authors report an 18% increase in performance in the experimental group attributed to use of the interaction model](performance-increase-18-percent.md) — related

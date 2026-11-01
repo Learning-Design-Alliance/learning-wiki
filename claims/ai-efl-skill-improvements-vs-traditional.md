@@ -51,3 +51,4 @@ This is the review's cross-study synthesis of the 22 included empirical studies,
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
+- [The Small Group Activity group outperformed the Individual Activity group on all five measured speaking aspects (vocabulary, fluency, grammar, pronunciation, comprehension)](small-group-video-all-five-speaking-aspects.md) — related

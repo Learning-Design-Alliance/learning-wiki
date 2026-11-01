@@ -45,7 +45,8 @@ Within task-based language teaching, Ellis's distinction separates tasks designe
 - [Proactive vs. reactive focus on form: two timing alternatives for grammar attention within communicative teaching](proactive-reactive-fof-distinction.md)
 
 ## Examples
--
+
+- [Use focused audio-appended reading tasks with highlighted target forms to promote L2 grammatical accuracy](../strategies/focused-audio-appended-reading-task-strategy.md)
 
 ## Key Sources
 - Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63(1), 315–347. https://portal.issn.org/resource/ISSN/2287-0024 [doi:10.58837/chula.pasaa.63.1.12](https://doi.org/10.58837/chula.pasaa.63.1.12)

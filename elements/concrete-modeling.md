@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (3 for, 4 mixed, 3 against) · 7 studies (3 quant-synthesis, 2 causal, 2 review), `q1`–`q4` · 3 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (5 for, 4 mixed, 3 against) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 3 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -33,6 +33,8 @@ Concrete modeling is the element in which physical or tangible representations a
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](../claims/3dpam-not-superior-in-seven-studies.md) [-W] — attached 2026-11-01 from Brumpt Eléonore et al. (2023), which proposed "3D-printed anatomical models (3DPAMs) for teaching normal human anatomy"; tests this page's relationship.
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](../claims/3dpam-better-test-results-than-dry-bones.md) [~W]
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](../claims/construction-dgs-equals-manipulatives-beat-traditional.md) [+W]
+- [Pupils with hearing impairment taught reading with the embossed picture technique significantly outperformed pupils taught with the look-and-say method](../claims/embossed-picture-technique-beats-look-and-say-reading.md) [+W] — attached 2026-11-01 from Sella Munyendo et al. (2010), which proposed "Embossed picture technique materials for teaching reading to pupils with hearing impairment"; tests this page's relationship.
+- [Students taught with two- or three-dimensional visual objects identified visual objects significantly better than conventionally taught students](../claims/visual-objects-improve-object-identification.md) [+W]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

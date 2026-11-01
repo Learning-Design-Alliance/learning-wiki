@@ -46,7 +46,8 @@ The article argues that dynamic assessment is slowly embraced because "teachers 
 - [The number of prompts children needed during training predicted mathematics and technical reading achievement, while static pre- and post-test scores did not](../claims/prompt-count-predicts-math-reading.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use dynamic testing with graduated prompts scenarios as part of psycho-educational assessment to tailor instruction to individual needs](dynamic-testing-graduated-prompts-assessment-strategy.md)
 
 ## Examples
 -

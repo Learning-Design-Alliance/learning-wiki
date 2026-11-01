@@ -56,3 +56,4 @@ Qualitative interviews with ten randomly selected students after post-testing, p
 - [MI-based instruction significantly improved the structure sub-skill of General English relative to traditional instruction](mi-instruction-improves-structure-subskill.md) — related
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Student interviews were consistent with the quantitative findings: experiment group students reported excitement and goal achievement, while two control group students reported being unable to achieve their learning goal](interviews-consistent-gis-mastery-goal.md) — related
+- [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — possibly the same claim (merge candidate)

@@ -54,3 +54,4 @@ Follow-up scores were available for 118 of the 198 participants (mean attendance
 - [The omnibus multivariate tests detected significant differences among the three groups at both post-test and postponed test](omnibus-manconva-group-differences.md) — related
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
 - [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](mancova-group-differences-rate-not-comprehension.md) — related
+- [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related

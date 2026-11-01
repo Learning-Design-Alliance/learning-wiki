@@ -38,7 +38,7 @@ The article's recommendations section calls for training teachers on using iPad 
 
 ## Claims
 
-- [Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group](../claims/ipad-games-learning-retention-delayed-test.md) [+W]
+- [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](../claims/ipad-games-learning-retention-delayed-test.md) [+W]
 - [Educational games-based iPad applications produced statistically significant higher post-test social studies achievement than traditional teaching in a quasi-experiment with 48 sixth graders](../claims/ipad-games-post-achievement-significant.md) [+W]
 
 ## Related Strategies

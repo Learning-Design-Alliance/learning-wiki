@@ -56,3 +56,4 @@ The review's executive summary and findings heading state that "effectiveness in
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
+- [Adaptive READS teachers were more likely than Traditional READS teachers to report that 'friends' and 'fiddle' learning experiences were more helpful to their implementation than 'focus' activities](adaptive-teachers-prefer-friends-fiddle.md) — related

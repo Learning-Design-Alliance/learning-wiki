@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (15 for, 29 mixed, 3 against) · 48 studies (17 review, 9 theoretical, 8 quant-synthesis, 7 causal, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 38 claims rest on one study
+> **Evidence** · 48 claims (15 for, 30 mixed, 3 against) · 49 studies (17 review, 9 theoretical, 8 causal, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 49 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](../claims/time-constraints-top-physician-sdl-barrier.md) [~W]
 - [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](../claims/sdl-cpd-five-barrier-facilitator-levels.md) [~W]
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [~W]
+- [Self-directed learning scores increased significantly within all three groups over the course](../claims/sdl-gains-significant-in-all-groups.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

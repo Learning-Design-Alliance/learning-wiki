@@ -55,3 +55,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — a narrower finding that bears on this claim
+- [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — reports the opposite

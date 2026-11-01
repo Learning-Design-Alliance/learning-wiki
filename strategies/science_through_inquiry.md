@@ -69,6 +69,7 @@ Inquiry can produce strong conceptual gains, but only when it is scaffolded: ung
 - [Predict-Observe-Explain](predict-observe-explain.md) — a compact inquiry routine that surfaces misconceptions before investigation
 - [Run laboratory investigations as ADI cycles: design a method, argue, write, peer review, revise](adi-lab-cycle-implementation-strategy.md)
 - [Use scientific visualization to link the aims of education to the practices of science through exploratory, inquiry-driven learning](scivis-inquiry-driven-learning-strategy.md)
+- [Targeted low-resource revisions that raise the inquiry level of existing laboratory activities](targeted-inquiry-revision-strategies.md)
 
 ## Related Elements
 - [Question Formulation](../elements/question-formulation.md) — the entry point; question quality constrains everything downstream

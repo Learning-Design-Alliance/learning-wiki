@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-01
 sources:
   - id: afaf-m-aljaser-2017
     resource: "https://doi.org/10.5539/ies.v10n12p80"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's post-achievement mean ranks (20.90) were significantly higher than the control group's (10.10), z = -3.362, p = 0.000. [→ Afaf M. Aljaser 2017](#afaf-m-aljaser-2017)
@@ -53,3 +54,5 @@ Quasi-experiment with 30 fifth-grade female students in two groups of 15; Mann-W
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [VIII standard students taught English grammar with mind mapping showed significantly higher gain scores than control-group students taught by the conventional method](mind-mapping-english-gain-scores-significant.md) — related
 - [Post-test scores for knowledge, understanding and application were significantly higher in the mind-mapping group than the control group](mind-mapping-english-posttest-significant.md) — related
+- [Undergraduate students taught circular and rotational motion with concept mapping achieved significantly higher post-test scores than students taught with tutorial sheets](concept-mapping-outperforms-tutorial-sheets-achievement.md) — related
+- [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related

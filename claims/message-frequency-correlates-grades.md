@@ -47,3 +47,4 @@ Correlation analysis (Table 7, N = 173): Total messages r = .17 and Replies r = 
 ## Related Claims
 - [Positive emotion expressions in discussion messages positively correlate with project grades](positive-emotion-correlates-grades.md) — related
 - [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related
+- [Collaborative Marketing Plan Project grades correlated strongly and positively with flipped total assessment grades](marketing-plan-project-grade-correlation.md) — related

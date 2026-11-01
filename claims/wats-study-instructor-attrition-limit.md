@@ -47,3 +47,4 @@ Authors' stated limitation of the first-cohort cluster randomized trial: "high i
 ## Related Claims
 - [Using a WATS in community college elementary algebra corresponds to a statistically significant 2.59-point post-test gain (Hedges g = 0.32) controlling for pretest](wats-community-college-algebra-posttest-gain.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
+- [Adaptive web-based system treatment showed a small, statistically non-significant advantage over control on elementary algebra post-test scores (Hedges' g = .12)](adaptive-system-small-nonsignificant-algebra-posttest-effect.md) — related

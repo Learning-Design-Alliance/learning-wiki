@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (89 show a difference, 26 mixed, 16 no difference) · 86 studies (28 associational, 23 causal, 22 quant-synthesis, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 29 of 86 report an effect size · 126 claims rest on one study
+> **Evidence** · 134 claims (89 show a difference, 26 mixed, 19 no difference) · 88 studies (28 associational, 25 causal, 22 quant-synthesis, 8 review, 3 design, 2 theoretical), `q1`–`q4` · 30 of 88 report an effect size · 129 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -172,6 +172,9 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](../claims/phonics-prosody-course-improves-l2-pronunciation.md) [+M] — instruction changes it
 - [An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition](../claims/spontaneous-signing-in-context-study-aid.md) [+W] — instruction changes it
 - [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](../claims/asl-signing-higher-sight-word-posttest-accuracy.md) [+M] — instruction changes it
+- [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](../claims/rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) [-M] — instruction changes it
+- [Number Rockets participation shows no significant effect on grade 1 reading achievement (WJ-III Letter/Word)](../claims/no-reading-effect-wj-letter-word.md) [-M] — instruction changes it
+- [Rapid Phonics showed no detectable effect on single word reading and no summer fall-back in word reading](../claims/rapid-phonics-no-single-word-reading-effect.md) [-M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

@@ -48,6 +48,7 @@ The article demonstrates a concrete feedback procedure: after each learner finis
 ## Related Strategies
 
 - [Embed metalinguistic corrective feedback briefly within communicative tasks without disrupting communicative flow](brief-metalinguistic-feedback-in-communicative-tasks.md)
+- [Use explicit correction rather than or-choice feedback with beginner EFL learners working on tense markers](explicit-correction-for-beginner-tense-markers-strategy.md)
 
 ## Examples
 -

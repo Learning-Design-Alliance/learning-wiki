@@ -55,3 +55,4 @@ Pretest equivalence check on the 60 matched and randomly assigned teachers: Leve
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related

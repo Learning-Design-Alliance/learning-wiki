@@ -129,6 +129,7 @@ Cooperative learning reliably improves achievement when both interdependence and
 - [Gallery Walk](gallery-walk.md) — movement-based critique and idea-sharing variant
 - [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 - [Mitigate the free-rider phenomenon in TBL through peer assessment and individual accountability](tbl-free-rider-mitigation-peer-assessment.md)
+- [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 
 ## Examples
 - **[Jigsaw Classroom](jigsaw-classroom.md)** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org

@@ -56,3 +56,4 @@ Pre-specified subgroup analysis on the primary outcome for the 66 intervention a
 - [For pupils entitled to free school meals, Butterfly Phonics showed no statistically significant effects on any outcome (NGRT g = 0.16, SWRT g = 0.42, PhAB g = 0.18)](butterfly-phonics-fsm-subgroup-non-significant.md) — related
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](passive-dissemination-no-impact-everfsm-subgroup.md) — related
+- [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related

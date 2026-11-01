@@ -31,7 +31,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (14 for, 13 mixed, 2 against) · 35 studies (12 causal, 8 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 35 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (15 for, 13 mixed, 2 against) · 36 studies (13 causal, 8 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 36 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,7 @@ Claims read against the model on 2026-10-15 and found not to bear on its relatio
 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — read 2026-10-15: bears on what goal a learner sets (process before outcome, for a novice writing-revision skill), not on how assessment evidence is used; adjacent to the repeated-drafts row, not a basis for it. Not settled: the text available could not confirm the entries (abstract)
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](../claims/immediate-adaptive-test-results-enable-differentiation.md) [+W] — read 2026-10-15: an author's assertion with no reported data (Freeman 2014, q1); it restates the teacher-side loop modelled on the formative assessment page and tests nothing here.
+- [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](../claims/rubric-instruction-improves-efl-writing-performance.md) [+W] — attached 2026-11-01 from Turgut et al. (2015), which proposed "Share and teach assessment criteria with students rather than keeping grading criteria private"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

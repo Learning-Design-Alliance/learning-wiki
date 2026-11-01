@@ -19,7 +19,7 @@ sources:
 # CREACT
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 CREACT is a five-step discussion-based teaching framework for creative thinking, developed by Sak and usable across lessons and topics.
@@ -29,14 +29,15 @@ CREACT is a five-step discussion-based teaching framework for creative thinking,
 
 ### Claims
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](../claims/creact-improves-creative-thinking-drawing-arts.md) [+M]
+- [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](../claims/creact-between-group-subcomponents-significant.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Akar, İ., & Şengil-Akar, Ş. (2013). The effectiveness of the Creative Reversal Act (CREACT) on students' creative thinking: Further evidence from Turkey. TOJET: The Turkish Online Journal of Educational Technology, 12(4). https://eric.ed.gov/?id=EJ1272859
-
 <!-- merged 2026-10-10 from theories/creact-teaching-tool ("CREACT: a five-step discussion-based teaching tool for creative thinking based on the Janusian process"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Tulin KARACA, Ozlem KORAY. (2017). The Effect of Using the Creative Reversal Act in Science Education on Middle School Students’ Creativity Levels. Eurasian Journal of Educational Research 67 (2017) 199-214. http://dx.doi.org/10.14689/ejer.2017.67.12
 
 # CREACT: a five-step discussion-based teaching tool for creative thinking based on the Janusian process
 

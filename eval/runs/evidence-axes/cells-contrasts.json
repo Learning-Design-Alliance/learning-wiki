@@ -60434,5 +60434,381 @@
  "test-format\tinteractive tests\tclassic tests": {
   "label": "interactive tests vs classic tests",
   "treatment_is_a": true
+ },
+ "active-learning\t3-2-1 reading strategy\tregular reading instruction without strategy training": {
+  "label": "3-2-1 reading strategy vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\t3-2-1 reading strategy with summarizing, sharing, and peer discussion\tteacher-manual instruction with silent reading and group exercises": {
+  "label": "3-2-1 reading strategy vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tAdaptive READS, emphasizing colleague discussions ('friends')\tTraditional READS, emphasizing focused training and implementation ('focus')": {
+  "label": "Adaptive discussion-focused READS vs traditional implementation-focused READS",
+  "treatment_is_a": true
+ },
+ "active-learning\tCATM chemical-hazard training\tpre-training test": {
+  "label": "CATM training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tCATM training using reception and selection strategies\timmediate post-training test": {
+  "label": "CATM reception-and-selection training vs immediate post-training assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tCATM training using reception and selection strategies\tpre-training baseline": {
+  "label": "CATM reception-and-selection training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tCATM-trained cleaners\tcleaners with vocational certificates and workplace supervisors": {
+  "label": "CATM training vs vocational certification and workplace supervision",
+  "treatment_is_a": true
+ },
+ "active-learning\tCATM-trained cleaning workers\tvocationally certified cleaners and supervisors": {
+  "label": "CATM training vs vocational certification and workplace supervision",
+  "treatment_is_a": true
+ },
+ "active-learning\tbrainstorming method\ttraditional method of teaching": {
+  "label": "Brainstorming vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tbrainstorming strategy\ttraditional teaching": {
+  "label": "Brainstorming vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcardiac-cycle dramatization\tpretest before dramatization": {
+  "label": "Dramatization vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcombined flipped-classroom and collaborative-learning course\ttraditional lecture-based course": {
+  "label": "Flipped and collaborative learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcombined flipped-classroom and collaborative-learning course with a collaborative marketing plan\ttraditional classes with lectures and exams": {
+  "label": "Flipped and collaborative learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization\tlecture alone": {
+  "label": "Dramatization vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization\tpretest confidence": {
+  "label": "Dramatization vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization alone\tlecture followed by dramatization": {
+  "label": "Dramatization alone vs lecture followed by dramatization",
+  "treatment_is_a": false
+ },
+ "active-learning\tdramatization alone before posttest\tlecture followed by dramatization": {
+  "label": "Dramatization alone vs lecture followed by dramatization",
+  "treatment_is_a": false
+ },
+ "active-learning\tdramatization and lecture\tthe alternative instructional sequence": {
+  "label": "Dramatization plus lecture vs alternative instructional sequence",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization followed by lecture\tlecture followed by dramatization": {
+  "label": "Dramatization-first vs lecture-first sequence",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization-based instruction\tpretest confidence before instruction": {
+  "label": "Dramatization vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tdramatization-first sequence\tlecture-first sequence": {
+  "label": "Dramatization-first vs lecture-first sequence",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped college algebra\ttraditional lecture college algebra": {
+  "label": "Flipped instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped college algebra\ttraditional lecture courses": {
+  "label": "Flipped instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped college algebra\ttraditional lecture-based course": {
+  "label": "Flipped instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped college algebra classes\ttraditional lecture-based classes": {
+  "label": "Flipped instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped college algebra course\ttraditional lecture-based course": {
+  "label": "Flipped instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning with pre-class videos and in-class group activities\ttraditional in-class lectures": {
+  "label": "Flipped and collaborative learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour weeks of group work in integration tutorials\ttraditional instruction without group work": {
+  "label": "Group-work tutorials vs traditional individualistic instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup approach\tdidactic, teacher-dominated teaching": {
+  "label": "Group-based instruction vs teacher-dominated instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup approach instruction\tnon-group approach instruction": {
+  "label": "Group-based instruction vs non-group instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup approach instruction\tnon-group conventional instruction": {
+  "label": "Group-based instruction vs non-group instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup approach learning environment\tpre-intervention baseline": {
+  "label": "Group-based instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup approach with peer discussion and assigned roles\tnon-group conventional teaching": {
+  "label": "Group-based instruction vs non-group instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion and problem solving\tconventional non-group instruction": {
+  "label": "Group discussion and problem solving vs conventional non-group instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup review using IF-AT scratch-off cards\tinstructor-led lecture review": {
+  "label": "Team scratch-off review vs instructor-led lecture review",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup review with IF-AT scratch-off cards and consensus discussion\tinstructor-led traditional lecture review": {
+  "label": "Team scratch-off review vs instructor-led lecture review",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup review with immediate-feedback scratch-off cards\tinstructor-led lecture review without scratch-off cards": {
+  "label": "Team scratch-off review vs instructor-led lecture review",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work during integration tutorials\tnormal class arrangements without group work": {
+  "label": "Group-work tutorials vs traditional individualistic instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work during integration tutorials\ttraditional tutorial arrangements": {
+  "label": "Group-work tutorials vs traditional tutorial instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work during mathematics tutorials\ttraditional individualistic arrangements": {
+  "label": "Group-work tutorials vs traditional individualistic instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup-work tutorials during integration\ttraditional tutorial arrangements without group work": {
+  "label": "Group-work tutorials vs traditional tutorial instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup-work tutorials on integration\ttraditional or individualistic learning": {
+  "label": "Group-work tutorials vs traditional individualistic instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstruction including dramatization\tpre-instruction baseline": {
+  "label": "Dramatization-based instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstruction including dramatization\tpretest before the activity": {
+  "label": "Dramatization-based instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinvolvement in cooperative learning\tless or no involvement in cooperative learning": {
+  "label": "Cooperative learning involvement vs little or no cooperative learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tperceived mathematics teaching using group work\tother listed teaching approaches": {
+  "label": "Group-work instruction vs other teaching approaches",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam scratch-off review exercise\tinstructor-led lecture review": {
+  "label": "Team scratch-off review vs instructor-led lecture review",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo clips with small group activities\tvideo clips with individual activities": {
+  "label": "Small-group activities vs individual activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo clips with small-group activities\tvideo clips with individual activities": {
+  "label": "Small-group activities vs individual activities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tLayered Curriculum activities with student choice\tprevious Science and Technology lessons": {
+  "label": "autonomy-supportive choice vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice among layered activities\tprevious Science and Technology lessons": {
+  "label": "autonomy-supportive choice vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t3-2-1 reading-strategy instruction\tregular reading instruction without strategy training": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAir Reading virtual tutoring\tbusiness-as-usual literacy instruction": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRapid Phonics synthetic phonics tuition\twaitlist business-as-usual schooling": {
+  "label": "explicit instruction vs waitlist/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRapid Phonics tuition\tusual schooling; waitlist control": {
+  "label": "explicit instruction vs waitlist/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRapid Phonics tuition\twaitlist business-as-usual": {
+  "label": "explicit instruction vs waitlist/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit metapragmatic instruction on request speech acts\tusual institute syllabus without explicit metapragmatic instruction": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit metapragmatic instruction on requests\tusual institute syllabus": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonetic transcription instruction using dictionaries\tlisten-and-repeat practice without dictionaries or transcription": {
+  "label": "explicit instruction vs practice without explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlecture before pretest\tno instruction before pretest": {
+  "label": "instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonetic transcription with explicit stress instruction\tlistening and repetition without transcription": {
+  "label": "explicit instruction vs practice without explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic pronunciation instruction and monitor-strategy training\tregular classes without the extra instruction and monitor-strategy course": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic pronunciation instruction plus monitor strategies\tpre-test before instruction": {
+  "label": "explicit instruction vs pre-instruction performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic pronunciation instruction plus monitor-strategy training\texperimental-group pre-test performance": {
+  "label": "explicit instruction vs pre-instruction performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic pronunciation instruction plus monitor-strategy training\tregular classes without the extra course": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic pronunciation instruction plus monitor-strategy training\tregular classes without the extra instruction and monitor-strategy course": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tten sessions with immediate explicit correction feedback\tpretest before the instructional period": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tten sessions with immediate or-choice feedback\tpretest before the instructional period": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tanalogy-based corrective feedback\tcontrol group without target-grammar feedback": {
+  "label": "analogy-based corrective feedback vs no target-grammar feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tanalogy-based corrective feedback\tmetalinguistic feedback": {
+  "label": "analogy-based corrective feedback vs metalinguistic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tanalogy-based corrective feedback\tno target-form feedback control": {
+  "label": "analogy-based corrective feedback vs no target-grammar feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tanalogy-based corrective feedback\tno target-grammar feedback control": {
+  "label": "analogy-based corrective feedback vs no target-grammar feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit correction feedback\timplicit or-choice feedback": {
+  "label": "explicit correction feedback vs or-choice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit correction feedback\tor-choice feedback": {
+  "label": "explicit correction feedback vs or-choice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit correction feedback\tpretest performance": {
+  "label": "explicit correction feedback vs pretest performance",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit correction group\tor-choice group": {
+  "label": "explicit correction feedback vs or-choice feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic feedback\tcontrol group without target-grammar feedback": {
+  "label": "metalinguistic feedback vs no target-grammar feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tor-choice feedback\tpretest performance": {
+  "label": "or-choice feedback vs pretest performance",
+  "treatment_is_a": true
+ },
+ "guided-discovery\trevised higher-inquiry laboratory\ttraditional lower-inquiry laboratory": {
+  "label": "higher-inquiry vs lower-inquiry laboratory",
+  "treatment_is_a": true
+ },
+ "media-design\tembossed picture technique\tlook and say method": {
+  "label": "embossed picture technique vs look-and-say method",
+  "treatment_is_a": true
+ },
+ "media-design\tmore favorable software interface and content design\tless favorable software interface and content design": {
+  "label": "more favorable software interface and content design vs less favorable software interface and content design",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-supported 7E materials\ttraditional curriculum methods and models": {
+  "label": "multimedia-supported 7E materials vs traditional curriculum methods and models",
+  "treatment_is_a": true
+ },
+ "media-design\tthree-dimensional visual objects\tconventional classroom teaching method": {
+  "label": "three-dimensional visual objects vs conventional classroom teaching method",
+  "treatment_is_a": true
+ },
+ "media-design\tthree-dimensional visual objects\tconventional method without visual objects": {
+  "label": "three-dimensional visual objects vs conventional method without visual objects",
+  "treatment_is_a": true
+ },
+ "media-design\tthree-dimensional visual objects\ttwo-dimensional visual objects": {
+  "label": "three-dimensional visual objects vs two-dimensional visual objects",
+  "treatment_is_a": true
+ },
+ "media-design\ttwo-dimensional visual objects\tconventional method without visual objects": {
+  "label": "two-dimensional visual objects vs conventional method without visual objects",
+  "treatment_is_a": true
+ },
+ "practice-amount\tAir Reading tutoring with 56 or more sessions\tbusiness-as-usual control": {
+  "label": "higher practice amount vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "practice-amount\tAir Reading tutoring with fewer than 56 sessions\tbusiness-as-usual control": {
+  "label": "lower practice amount vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher school-average number of Number Rockets sessions\tlower school-average number of Number Rockets sessions": {
+  "label": "higher practice amount vs lower practice amount",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater training series\tearlier training series": {
+  "label": "later training series vs earlier training series",
+  "treatment_is_a": true
+ },
+ "prompts\tfifth problem series\tfirst problem series": {
+  "label": "later problem series vs earlier problem series",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmore teacher vocabulary supports\tfewer teacher vocabulary supports": {
+  "label": "more teacher vocabulary supports vs fewer teacher vocabulary supports",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmultiprotocol graduated-prompts training\tregular classroom instruction": {
+  "label": "graduated-prompts training vs regular classroom instruction",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ test format\twritten short-answer test format": {
+  "label": "multiple-choice vs written short-answer",
+  "treatment_is_a": true
  }
 }

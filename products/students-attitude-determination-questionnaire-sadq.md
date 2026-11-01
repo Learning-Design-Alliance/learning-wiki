@@ -25,7 +25,8 @@ A validated 16-item Likert-scale questionnaire developed by M. J. Wangila et al.
 - [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](../claims/pi-higher-posttest-attitude-sapt.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
 
 ## Key Sources
 - M. J. Wangila, W. Martin, M. Ronald. (2015). Effect of Programmed Instruction on Students' Attitude Towards Structure of the Atom and the Periodic Table among Kenyan Secondary Schools. Science Education International, Vol. 25, Issue 4, 488-500. https://eric.ed.gov/?q=Science+Education+International

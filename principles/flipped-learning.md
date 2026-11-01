@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (43 for, 41 mixed, 2 against) · 61 studies (21 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 61 report an effect size · 78 claims rest on one study
+> **Evidence** · 88 claims (44 for, 42 mixed, 2 against) · 63 studies (23 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 63 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -220,6 +220,8 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](../claims/active-learning-gains-across-bloom-difficulty-levels.md) [+W]
 - [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](../claims/flipped-classroom-higher-achievement-preservice-math.md) [+W]
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](../claims/fci-implementation-barriers-iraq.md) [~W]
+- [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](../claims/flipped-learning-affordances-constraints-perceptions.md) [+W]
+- [The difference in ratings of 'The instructor created an environment conducive to the learning process' between flipped and traditional sections was not statistically significant (p = .09)](../claims/environment-item-no-significant-difference.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

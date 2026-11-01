@@ -53,3 +53,4 @@ Proportion of class time devoted to group work 0.04 0.01 **"
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Faculty-signaled classroom climate relates to engagement: courses where instructors treat no question as too elementary and own responsibility for student success show more engaged students](faculty-climate-signals-engage-students.md) — related
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](mixed-evidence-network-density-course-outcomes.md) — related
+- [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related

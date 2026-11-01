@@ -74,3 +74,5 @@ This is the review's synthesis of the direct instruction category of its 33 incl
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
 - [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related
+- [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](pblccs-better-n-gain-each-mct-indicator.md) — related
+- [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related

@@ -50,3 +50,4 @@ Friedman's Two-Way ANOVA on the 26 experimental children across three measuremen
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
 - [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](iwb-visual-within-group-gain.md) — related
 - [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](experimental-group-prepost-engagement-gain.md) — related
+- [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related

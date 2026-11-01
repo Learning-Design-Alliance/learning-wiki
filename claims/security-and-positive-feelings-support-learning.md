@@ -56,3 +56,4 @@ Design Principle 1 section, a narrative research synthesis, states that "childre
 - [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — a narrower finding that bears on this claim
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
+- [ThinkForward's theory of change holds that a stable relationship with a dedicated coach guides young people towards further education, training and employment](thinkforward-theory-of-change-coaching.md) — a narrower finding that bears on this claim

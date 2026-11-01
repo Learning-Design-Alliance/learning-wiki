@@ -53,3 +53,4 @@ Within the cooperative learning group (Table 6: 37 males, 33 females), females' 
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related

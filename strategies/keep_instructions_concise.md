@@ -59,9 +59,11 @@ Concise instructions reduce extraneous cognitive load, freeing limited working-m
 6. Keep the full instruction set visible somewhere (poster, handout, LMS page) so learners can re-check without asking.
 
 ## Related Strategies
+
 - Model one instruction at a time with a worked demonstration so learners see the step executed, not just described
 - Pair concise instructions with a visual of the end product so learners hold a goal image, not just a step list
 - Pre-teach key vocabulary before the task so instruction language is already decodable
+- [Design and teaching recommendations for CAMI-based music appreciation instruction](cami-design-and-teaching-recommendations.md)
 
 ## Examples
 - **Elementary science lab:** instead of reading all eight steps aloud, the teacher gives the instruction for setting up materials, waits, then gives the instruction for the first measurement — one phase at a time.

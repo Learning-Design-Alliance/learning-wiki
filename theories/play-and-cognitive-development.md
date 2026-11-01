@@ -80,6 +80,8 @@ Vygotsky treated pretend play as central to development in its own right: it let
 
 ## Examples
 
+- [Support children's attention development by sharing time playing various games and puzzles](../strategies/play-games-with-children-to-support-attention.md)
+
 ## Key Sources
 - Piaget, J. (1952). *The origins of intelligence in children*. International Universities Press.
 - Vygotsky, L. S. (1967). Play and its role in the mental development of the child. *Soviet Psychology, 5*(6), 6-18.

@@ -49,3 +49,4 @@ Secondary analysis repeating the primary multilevel model with reading score as 
 - [The intervention had no statistically significant effect on spelling and grammar scores](srsd-no-significant-spelling-grammar-effect.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [Pupils at Level 4a and above, who received the intervention only in Year 6, showed no significant writing benefit](srsd-no-effect-level-4a-above-year6-only.md) — related
+- [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related

@@ -66,3 +66,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](ma-reading-comprehension-correlation.md) — related
 - [Vocabulary test scores correlate moderately with teachers' final Latin grades, averaging .56 for Latin-English and .66 for English-Latin](latin-vocabulary-test-teacher-grade-correlations.md) — related
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
+- [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related

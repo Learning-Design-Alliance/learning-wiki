@@ -55,3 +55,4 @@ Narrative review of the ATI literature: the article reports that the vast majori
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — a narrower finding that bears on this claim
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
 - [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](ati-pbl-descriptive-creative-thinking-scores.md) — a narrower finding that bears on this claim
+- [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Secondary analysis repeating the primary model using only pupils at Level 4a and
 - [SRSD combined with memorable experiences produced a large, statistically significant improvement in extended writing for pupils predicted Level 3 or insecure Level 4 at the primary-secondary transition](srsd-memorable-experiences-improve-transition-writing.md) — related
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The intervention had no statistically significant effect on reading scores](srsd-no-significant-reading-effect.md) — related
+- [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related

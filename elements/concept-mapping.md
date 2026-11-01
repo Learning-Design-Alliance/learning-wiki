@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (12 for, 8 mixed, 2 against) · 15 studies (7 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 9 of 15 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (14 for, 8 mixed, 2 against) · 16 studies (8 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 9 of 16 report an effect size · 21 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -63,6 +63,8 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](../claims/e-mind-maps-achievement-posttest-advantage.md) [+W] — attached 2026-11-01 from Afaf M. Aljaser (2017), which proposed "E-Mind Maps instructional unit for fifth-grade English (I Mind Maps software with a reviewed teacher guide)".
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](../claims/e-mind-maps-within-group-achievement-gain.md) [+W]
 - [Participants expressed overall agreement (positive attitudes) towards using e-Mind Maps in teaching the English curriculum, with a general mean of 2.15 out of 3.00](../claims/positive-attitudes-toward-e-mind-maps-descriptive.md) [+W]
+- [Interviews indicated that students whose post-test scores improved showed interest in and understanding of concept mapping, while poor performers did not, though stated usefulness did not always match achievement](../claims/interview-attitude-achievement-consistency-concept-mapping.md) [+W]
+- [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](../claims/positive-attitude-toward-concept-mapping-likert.md) [+W]
 
 ## The evidence by question
 

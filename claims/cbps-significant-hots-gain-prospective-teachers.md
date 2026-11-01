@@ -49,3 +49,4 @@ Quasi-experiment with pre-test/post-test control group design; 18 prospective te
 - [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related
+- [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related

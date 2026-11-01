@@ -59,3 +59,5 @@ Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interac
 - [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related
 - [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](higher-creativity-pa-negative-cognitive-flexibility.md) — related
 - [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](tfcs-prepost-nonsignificant-descriptive-divergence.md) — related
+- [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
+- [Within the CREACT group, flexibility and originality improved significantly while fluency and elaboration did not](creact-experimental-subcomponent-mixed-gains.md) — related

@@ -58,9 +58,11 @@ AR reduces the split-attention cost of consulting separate documentation during 
 5. Fade the overlay — from full guidance to on-demand prompts to no support — and verify performance unaided ([Application](../elements/application.md))
 
 ## Related Strategies
+
 - [Simulation-Based Training](simulation-based-training.md) — AR is a form of simulation embedded in the real workspace rather than a separate simulator
 - [Just-in-Time Learning](just-in-time-learning.md) — AR delivers guidance at the moment of need during real task performance
 - [Video-Based Instruction](video-based-instruction.md) — a lower-cost, less spatially integrated alternative for the same procedural content
+- [Use AR applications with natural hardware markers for applied assembly and practice topics in vocational courses](ar-natural-markers-applied-vet-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — AR's value comes from guiding performance of the real task, not from viewing content

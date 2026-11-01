@@ -18,7 +18,7 @@ sources:
 # Pre-Class Preparation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.
@@ -44,6 +44,7 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [+W]
 - [TBL requires more student preparation time than LBL](../claims/tbl-requires-more-preparation-time-than-lbl.md) [~W]
 - [Most treatment-group students successfully or partially successfully completed the pre-session homework exercise](../claims/high-completion-pre-session-homework.md) [+W] — attached 2026-11-01 from Goetz et al. (2015), which proposed "Pre-session ERIC thesaurus homework worksheet for standalone information literacy sessions".
+- [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](../claims/flipped-learning-affordances-constraints-perceptions.md) [+W]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md)

@@ -68,3 +68,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](diagram-decoration-graph-as-picture-risk.md) — related
 - [Research on pictures and graphs as aids to learning from print has focused on which aids are chosen or liked, leaving retention, learner, and material questions largely unaddressed](picture-graph-research-neglected-questions.md) — related
+- [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](story-friends-iterative-revision-findings.md) — related

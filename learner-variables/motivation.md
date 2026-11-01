@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 349 claims (230 show a difference, 84 mixed, 35 no difference) · 254 studies (90 associational, 78 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 69 of 254 report an effect size · 337 claims rest on one study
+> **Evidence** · 350 claims (231 show a difference, 84 mixed, 35 no difference) · 255 studies (90 associational, 79 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 255 report an effect size · 338 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -399,6 +399,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students' mathematical representation ability differs by self-efficacy level, with high self-efficacy students scoring highest](../claims/self-efficacy-level-differentiates-mathematical-representation.md) [+M] — learners who differ on it differ in outcomes
 - [The think-talk-write advantage over expository teaching holds at every self-efficacy level and is largest among low self-efficacy students](../claims/ttw-advantage-at-every-self-efficacy-level.md) [+M] — an instructional effect differs with it
 - [Competence expectancy declined slightly across all conditions and did not increase as a result of the incorrect examples intervention](../claims/competence-expectancy-slight-decline.md) [-W] — instruction changes it
+- [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](../claims/reading-comprehension-self-efficacy-moderate-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

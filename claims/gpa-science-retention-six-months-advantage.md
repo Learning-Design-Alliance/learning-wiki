@@ -69,3 +69,4 @@ Bonferroni tests on the retention test showed all three experimental groups sign
 - [On the EPA retention test, only the group taught concepts during the activities significantly outperformed the control group](epa-retention-during-activities-advantage.md) — related
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
+- [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related

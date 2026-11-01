@@ -53,3 +53,4 @@ Narrative synthesis of five studies (Studies 7, 16, 20, 22, 26) on speaking flue
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
+- [The Small Group Activity group outperformed the Individual Activity group on all five measured speaking aspects (vocabulary, fluency, grammar, pronunciation, comprehension)](small-group-video-all-five-speaking-aspects.md) — related

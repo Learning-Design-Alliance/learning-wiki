@@ -90,3 +90,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — related
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
 - [Students still want teachers' help and do not want all control handed over to them](students-still-want-teacher-support-under-autonomy.md) — related
+- [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related

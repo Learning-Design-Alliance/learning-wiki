@@ -55,3 +55,4 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — related
 - [The difference in mean topography test scores between the digital-map experimental group and the paper-map control group was not statistically significant](digital-blind-map-mean-difference-not-significant.md) — related
 - [The PI group performed significantly better than the TI group on the writing post-test after equivalent pre-tests](pi-outperforms-ti-writing-posttest.md) — related
+- [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related

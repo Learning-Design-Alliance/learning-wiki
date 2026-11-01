@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (93 show a difference, 25 mixed, 14 no difference) · 91 studies (34 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 17 of 91 report an effect size · 130 claims rest on one study
+> **Evidence** · 135 claims (95 show a difference, 25 mixed, 15 no difference) · 93 studies (36 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 17 of 93 report an effect size · 133 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -172,6 +172,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Open inquiry-based worksheets in plant physiology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/open-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
 - [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](../claims/rcl-critical-thinking-posttest-higher-than-pbl.md) [+M] — instruction changes it
 - [Structured inquiry-based worksheets in plant morphology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](../claims/structured-inquiry-worksheets-critical-creative-thinking.md) [+M] — instruction changes it
+- [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](../claims/pblccs-improves-mct-more-than-edi.md) [+M] — instruction changes it
+- [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](../claims/group-work-positive-student-perceptions-mathematics.md) [+M] — instruction changes it
+- [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](../claims/students-obstacles-critical-thinking-number-theory.md) [-W] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

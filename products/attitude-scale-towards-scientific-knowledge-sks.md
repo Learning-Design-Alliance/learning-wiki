@@ -35,7 +35,8 @@ The SKS is a 25-item five-point Likert assessment developed by Ayvacı (2007) to
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
 
 ## Key Sources
 - Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190

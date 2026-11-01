@@ -56,3 +56,4 @@ Paired-sample t-test on the control group (n=40) in a 15-week quasi-experiment a
 - [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
+- [The paper-based control group showed no statistically significant change in reading test scores over the term](control-group-no-within-group-gain-reading.md) — related

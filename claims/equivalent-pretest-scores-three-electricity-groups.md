@@ -75,3 +75,5 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
 - [Before the cooperative strategy was applied, the experimental and control groups showed no significant difference in laboratory report scores](baseline-equivalence-cooperative-chemistry-lab-groups.md) — related
 - [Online and in-class students do not statistically significantly differ in academic achievement](online-in-class-no-achievement-difference.md) — related
+- [Before treatment, focused, unfocused, and control groups did not differ significantly in accuracy for either structure type](pretest-accuracy-group-equivalence.md) — related
+- [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related

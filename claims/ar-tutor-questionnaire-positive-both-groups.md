@@ -46,3 +46,4 @@ A post-study questionnaire with Likert-scale items covered tutor effectiveness, 
 
 ## Related Claims
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](intelligent-ar-faster-unassisted-assembly-no-error-difference.md) — related
+- [AR instruction has no significant effect on motherboard assembly skills self-efficacy](ar-no-effect-assembly-skills-self-efficacy.md) — related

@@ -51,3 +51,4 @@ ANCOVA on post-test scores with pre-test as covariate in a randomized pre-test-p
 - [Cooperative TGT significantly improves Grade 11 students' mathematics communication compared with conventional teaching](tgt-improves-mathematics-communication.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
+- [Grade 10 learners taught financial mathematics with a group approach significantly outperformed learners taught with conventional non-group instruction](group-approach-outperforms-non-group-grade10-financial-maths.md) — related

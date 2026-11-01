@@ -57,6 +57,7 @@ Dynamic assessment is presented as a Vygotskian alternative to psychometric test
 - [Assess children's cognitive development both when performing alone and when assisted](../principles/multiple-methods-of-assessment.md)
 - [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
 - [Emotionalized dynamic assessment (EDA): dynamic assessment mediation loaded with Goleman's emotional intelligence framework](../designs/emotionalized-dynamic-assessment-eda.md)
+- [Use dynamic testing with graduated prompts scenarios as part of psycho-educational assessment to tailor instruction to individual needs](../strategies/dynamic-testing-graduated-prompts-assessment-strategy.md)
 
 ## Key Sources
 - Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925

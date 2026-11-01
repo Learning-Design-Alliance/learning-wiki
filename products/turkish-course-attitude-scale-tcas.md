@@ -25,7 +25,8 @@ A 20-item five-point Likert self-report scale developed from Turkey's Middle Sch
 - [Jigsaw I produced no significant difference in attitudes toward the Turkish course compared with conventional teaching](../claims/jigsaw-i-no-attitude-difference-turkish-course.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
 
 ## Key Sources
 - Akif ARSLAN. (2016). Effect of Jigsaw I technique on teaching Turkish grammar. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2709

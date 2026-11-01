@@ -65,6 +65,7 @@ Cooperative activities outperform purely competitive or individualistic structur
 - [Group roles](../elements/group-roles.md) — role assignment as a participation-equalizing mechanism
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 - [Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents](group-based-cash-reward-structure.md)
+- [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 
 ## Examples
 - **[Jigsaw classroom](jigsaw-classroom.md)** — Aronson's original desegregation design: students become "experts" on one segment of material in expert groups, then teach it to their home teams.

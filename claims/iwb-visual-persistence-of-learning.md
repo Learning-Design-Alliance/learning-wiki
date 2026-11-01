@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: abdulkadir-kırbas-2018
     resource: "https://doi.org/10.13189/ujer.2018.061120"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group's persistence test score four weeks later (75.08) differed significantly but only slightly from its post-test score (76.94). [→ Abdulkadir Kırbas 2018](#abdulkadir-krbas-2018)
@@ -53,3 +54,5 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related
+- [Students taught with smart board support retained more information four weeks after instruction than students taught with the 2005 curriculum](smart-board-higher-retention-four-weeks.md) — related
+- [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related

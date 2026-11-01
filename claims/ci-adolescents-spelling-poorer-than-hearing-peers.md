@@ -55,3 +55,4 @@ Group comparison on the Picture Spelling Test between 112 CI-HS students and 46 
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
 - [Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school](ci-students-maintain-reading-standing-over-time.md) — related
+- [No significant age effect on reading performance of pupils with hearing impairment taught with the embossed picture technique](no-age-effect-embossed-picture-reading.md) — related

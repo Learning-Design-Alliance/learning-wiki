@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: jun-j-2014
     resource: "https://doi.org/10.2196/jmir.3240"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` IWB group participants engaged in more adaptive decision-making behavior earlier than the traditional whiteboard group, leading to shared understandings and more effective patient management. [→ Jun J 2014](#jun-j-2014)

@@ -102,3 +102,4 @@ Ngo et al. (2024) support the general claim that ASR practice improves pronuncia
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
 - [The Korean meta-analysis's overall effect (.80) differs from Flower et al.'s (2007) near-zero finding, attributed to age, combined formats, and longer duration](korean-results-differ-from-flower-2007-attributed-age-format-duration.md) — related
 - [The trial group improved a shortened FCE-style interview overall (p = 0.024), with significant gains in pronunciation, discourse and lexis but not grammar](phonics-prosody-course-improves-interview-skills.md) — related
+- [The control group showed no significant improvement in pronunciation accuracy without instruction or monitor training](control-group-no-pronunciation-improvement.md) — related

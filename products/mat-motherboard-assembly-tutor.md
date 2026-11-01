@@ -27,7 +27,8 @@ A constraint-based intelligent tutoring system combined with a spatially registe
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](../claims/intelligent-ar-faster-unassisted-assembly-no-error-difference.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [HardwareAR marker-based mobile augmented reality application](hardwarear-marker-based-mobile-augmented-reality-application.md)
 
 ## Key Sources
 - Giles Westerfield, Antonija Mitrovic & Mark Billinghurst. (2015). Intelligent Augmented Reality Training for Motherboard Assembly. Int J Artif Intell Educ 25:157–172. https://doi.org/10.1007/s40593-014-0032-x

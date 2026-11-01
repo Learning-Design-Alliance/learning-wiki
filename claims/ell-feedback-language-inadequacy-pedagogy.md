@@ -51,3 +51,4 @@ Lexical comparison of feedback generated with ELL-designated prompts versus base
 - [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](feedback-quality-no-language-status-difference.md) — related
 - [Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools](turkish-prompts-yield-poorer-edbl-alignment-than-english.md) — related
 - [Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback](prompted-attributes-increase-marked-pedagogy-concentration.md) — related
+- [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](rubrics-liberate-from-grammar-not-authority.md) — related

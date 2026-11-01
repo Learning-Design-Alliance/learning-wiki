@@ -56,3 +56,4 @@ This is a descriptive exposition in the article's summary of Vygotsky's concepts
 - [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related
 - [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](fod-communication-associated-with-metacognition-except-planning.md) — related
 - The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs — related
+- [The study's theoretical framework anchored gardening-based entrepreneurship instruction in Vygotsky's theory of social influence on cognitive development](vygotsky-framework-gardening-entrepreneurship.md) — related

@@ -52,3 +52,4 @@ Exposure-only comparison condition in the cluster randomized trial; comparison c
 - [Embedded comprehension lessons did not improve story comprehension relative to story exposure alone](no-comprehension-effect-asc.md) — related
 - [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — related
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
+- [Story Friends treatment participants had greater vocabulary gains than comparison participants on unit tests, with large effect sizes](story-friends-large-vocabulary-gains.md) — related

@@ -83,6 +83,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 - [Cumulative review and distributed practice](../strategies/cumulative-review.md) — the retention mechanism multisensory programs rely on
 - [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
 - [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
+- [Four-step tactile reading lesson sequence: matching, finger spelling, word reading, sentence reading](four-step-tactile-reading-lesson-sequence.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the teacher models sound production and letter formation before learners attempt it

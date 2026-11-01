@@ -62,3 +62,4 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
+- [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related

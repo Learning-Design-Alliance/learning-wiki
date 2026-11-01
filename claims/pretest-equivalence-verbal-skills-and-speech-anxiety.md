@@ -69,3 +69,4 @@ Independent samples t-test on SAS pretest scores; both groups at intermediate an
 - [Within the drama group, Turkish verbal skills improved significantly from pretest to posttest](drama-group-verbal-skills-pretest-posttest-gain.md) — related
 - [Drama instruction produced higher posttest Turkish verbal skills than conventional curriculum instruction in a randomized pretest-posttest experiment](drama-instruction-beats-conventional-turkish-verbal-skills.md) — related
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](drama-instruction-reduces-speech-anxiety-more-than-conventional.md) — related
+- [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related

@@ -47,3 +47,4 @@ Bonferroni-adjusted main-effect contrasts for time on the oral production task. 
 ## Related Claims
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
+- [The short-term effect of audio input enhancement on intensifier knowledge is not stable over a three-week delay](audio-input-enhancement-effect-not-stable-delayed-test.md) — related

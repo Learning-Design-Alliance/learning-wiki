@@ -55,3 +55,4 @@ Moderation analyses within the experimental group of the cluster randomized tria
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — related
+- [Story Friends showed no significant generalized effects on norm-referenced receptive vocabulary (PPVT-IV) or core language (CELF-P) measures](no-distal-language-effects-ppvt-celf.md) — related

@@ -51,3 +51,4 @@ One-way ANCOVA on post-test scores of a 30-item teacher-made achievement test, c
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
 - [MI-based teaching strategy produces significantly higher MI gain scores than traditional teaching in junior high science](mi-strategy-higher-mi-gain-than-traditional.md) — related
 - [Cognitive conflict strategy improves Science achievement more than traditional teaching among intermediate second-grade students](cognitive-conflict-improves-science-achievement-intermediate.md) — related
+- [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related

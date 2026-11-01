@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (15 for, 10 mixed, 6 against) · 34 studies (16 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (16 for, 10 mixed, 6 against) · 35 studies (17 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 27 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -77,6 +77,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](../claims/classroom-learning-more-comprehensive-than-recorded-video.md) [-W]
 - [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](../claims/live-lecture-better-comprehension-questions.md) [-W]
 - [Students performed comparably on exam questions from live lectures and pre-recorded lectures overall, including on memory questions](../claims/prl-vs-live-lecture-no-overall-difference.md) [+W]
+- [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](../claims/flipped-learning-affordances-constraints-perceptions.md) [+W]
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]

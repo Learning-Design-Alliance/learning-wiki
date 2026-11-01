@@ -69,3 +69,5 @@ Error counts in the physical post-test were 0.50 (SD 0.93) for the experimental 
 - [Participants rated both AR tutors positively, with no significant between-group differences in questionnaire ratings](ar-tutor-questionnaire-positive-both-groups.md) — related
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
+- [AR instruction has no significant effect on motherboard assembly skills self-efficacy](ar-no-effect-assembly-skills-self-efficacy.md) — related
+- [AR-supported learners complete motherboard assembly in shorter time and with less help than print-material learners](ar-shorter-assembly-less-help.md) — related
