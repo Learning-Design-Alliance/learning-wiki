@@ -52,3 +52,4 @@ Review synthesis of Rowe (2002), a predictive-validity evaluation of the AccuTou
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — related
 - [Flexible bronchoscopy simulation-based training improves novice trainees' skills when evaluated in a simulation setting](fb-sbt-effective-simulation-setting.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
+- [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related

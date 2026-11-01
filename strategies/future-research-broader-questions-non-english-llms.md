@@ -46,6 +46,7 @@ The review's forward-looking recommendations call for expanding evidence beyond 
 
 - [Broaden instruments, methods, and expert judgment in psychometric LLM evaluation research](broaden-psychometric-llm-evaluation-research.md)
 - [Standardize reporting of LLM versions, processing dates, input selection criteria, and data quality protocols in future MCQ benchmarking research](standardized-llm-benchmarking-reporting-strategy.md)
+- [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
 
 ## Examples
 -

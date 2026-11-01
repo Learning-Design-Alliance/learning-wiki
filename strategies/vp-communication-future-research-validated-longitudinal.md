@@ -56,6 +56,9 @@ The review recommends that future research prioritize standardized and validated
 - [Improve SBE reporting detail and involve LMIC perspectives in developing future reporting standards](improve-sbe-reporting-lmic-inclusive-standards.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
+- [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
+- [Evaluate interactive, simulation-based, spaced and mobile forms of digital education for guideline adoption, reporting skills, behaviour, patient and cost outcomes](strategy-future-digital-education-guidelines-research.md)
+- [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 
 ## Examples
 -

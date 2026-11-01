@@ -13,7 +13,7 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 15 studies (4 quant-synthesis, 4 review, 3 theoretical, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 16 studies (5 review, 4 quant-synthesis, 3 theoretical, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 16 report an effect size · 5 claims rest on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
@@ -55,6 +55,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](../claims/numeracy-measurable-54-months-three-competencies.md) [~W]
+- [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
 
 ## The evidence by question
 

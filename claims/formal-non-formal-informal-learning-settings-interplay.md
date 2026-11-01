@@ -55,3 +55,4 @@ A descriptive statement of the ISEE Assessment's third key question (where we le
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — a narrower finding that bears on this claim
 - [Schools and teachers unintentionally communicate identity messages to adolescents through the hidden curriculum](hidden-curriculum-unintentional-identity-messages.md) — related
 - [A majority of CMC studies (79%) produced effect sizes favoring CMC, while 21% favored face-to-face or non-computer-mediated communication](cmc-79-percent-positive-21-negative.md) — a narrower finding that bears on this claim
+- [VP collection may convey a hidden curriculum through unrepresentative demographics](vp-collection-hidden-curriculum.md) — a narrower finding that bears on this claim

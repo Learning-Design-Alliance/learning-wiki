@@ -48,6 +48,7 @@ The authors recommend that "Future studies should prioritize using objective out
 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
+- [Study empathy in clinical encounters using observational and qualitative methods rather than self-report alone](observational-qualitative-empathy-research-strategy.md)
 
 ## Examples
 -

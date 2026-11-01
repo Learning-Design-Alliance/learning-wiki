@@ -45,6 +45,7 @@ Publication-bias analysis of the 28 datasets: funnel plot asymmetry, Begg and Ma
 
 
 ## Related Claims
+
 - [Flipped learning has a medium positive effect on students' academic achievement in Turkish experimental studies after publication-bias correction (Hedges's g = 0.713)](flipped-learning-medium-effect-turkey-meta-analysis.md) — possibly the same claim (merge candidate)
 - [Across 28 datasets, the pooled effect of flipped learning on success is positive and statistically significant, with 20 of 28 individual datasets significant](flipped-learning-pooled-effect-28-datasets.md) — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related

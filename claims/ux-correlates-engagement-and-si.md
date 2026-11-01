@@ -67,3 +67,4 @@ The same cross-sectional survey analysis reports a printed effect size of r = .6
 - [Elementary students' situational interest in a blended video-based math lesson is significantly and moderately positively correlated with their perceived learning engagement](si-correlates-perceived-engagement-blended-math.md) — related
 - [Situational interest and user experience jointly predict perceived learning engagement, accounting for 40.7% of its variance](si-ux-predict-engagement-regression.md) — related
 - [Thematic analysis of students' open-ended responses identified four themes about the blended course experience, including that LXD enhanced engagement and that the teacher's use of multiple solution strategies had pedagogical value](qualitative-four-themes-blended-lxd.md) — related
+- [Blended learning shows a positive effect on teaching introductory programming and is perceived to support learning](blended-learning-positive-effect-intro-programming.md) — related

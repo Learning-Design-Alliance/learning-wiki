@@ -47,3 +47,4 @@ The review's discussion of risks of onboard gamification features, drawing on th
 ## Related Claims
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](hf-simulation-transfer-untested.md) — related

@@ -43,6 +43,7 @@ The review's implications section recommends that future work conduct longitudin
 - [Conduct methodologically comparable experimental studies of acute PA and attention in school settings](comparable-school-setting-pa-attention-studies.md)
 - [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md)
 - [Design future non-cognitive factor research as multivariate, dual-setting, and interprofessional with shared instruments](future-non-cognitive-research-multivariate-dual-setting.md)
+- [Support teachers and schools to increase physical activity through training, practical guidance, and intersectoral policy approaches](school-pa-implementation-support-strategy.md)
 
 ## Examples
 -

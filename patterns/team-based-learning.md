@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 57 claims (32 for, 22 mixed, 3 against) · 36 studies (14 quant-synthesis, 8 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 11 of 36 report an effect size · 49 claims rest on one study
+> **Evidence** · 73 claims (46 for, 24 mixed, 3 against) · 39 studies (17 quant-synthesis, 8 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 39 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,22 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](../claims/tbl-superior-lecture-short-term-cognitive.md) [+W]
 - [Team formation and size are the most studied TBL elements, with smaller team sizes linked to better content knowledge outcomes](../claims/tbl-team-size-formation-most-studied.md) [~W]
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
+- [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](../claims/grat-scores-higher-than-irat-tbl-meta-analysis.md) [+W]
+- [Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects](../claims/heterogeneity-sources-tbl-meta-regression.md) [~W]
+- [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](../claims/tbl-effect-robustness-sensitivity.md) [+W]
+- [TBL improves theoretical test scores in both experiments-oriented and theory-oriented pharmacy courses](../claims/tbl-effective-experiments-and-theory-oriented-courses.md) [+W]
+- [Among female-only medical college (3-year program) students, TBL significantly increased examination scores with minimal heterogeneity (SMD = 0.47)](../claims/tbl-female-medical-college-subgroup-effect.md) [+W]
+- [Nursing-only TBL subgroups show a larger GRAT–IRAT difference (SMD = 2.368) than other health-professions subgroups, though the subgroup test is not significant](../claims/nursing-only-subgroup-larger-grat-irat-difference.md) [~W]
+- [TBL enhances students' communication skills more than LBL according to student questionnaires](../claims/tbl-enhances-communication-skills-questionnaires.md) [+W]
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](../claims/tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) [+W]
+- [TBL benefits pharmacy students in both 4-year university and 3-year college programs, with a larger pooled effect in colleges](../claims/tbl-benefits-university-and-college-pharmacy-students.md) [+W]
+- [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](../claims/tbl-increases-learning-attitude.md) [+W]
+- [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](../claims/tbl-increases-learning-enthusiasm-questionnaires.md) [+W]
+- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [+W]
+- [TBL develops more students' self-study ability than LBL according to student questionnaires](../claims/tbl-increases-self-study-ability-questionnaires.md) [+W]
+- [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](../claims/tbl-increases-learning-skill.md) [+W]
+- [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](../claims/tbl-increases-theoretical-examination-scores-china.md) [+W]
+- [In nonrandomized studies of undergraduate (5-year program) students, TBL showed a large positive effect on examination scores with reduced heterogeneity (SMD = 4.39)](../claims/tbl-undergraduate-subgroup-effect.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

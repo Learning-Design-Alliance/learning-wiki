@@ -45,6 +45,7 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 
 
 ## Related Claims
+
 - Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis — related
 - [The pooled burnout–dropout intentions effect appears robust to outliers and minimally influenced by publication bias](meta-analysis-robustness-burnout-dropout.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related

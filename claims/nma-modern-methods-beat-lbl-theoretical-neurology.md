@@ -45,6 +45,7 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 
 
 ## Related Claims
+
 - [CBL is the most effective method overall for both theoretical and practical neurology teaching outcomes, with no evidence of publication bias](cbl-optimal-strategy-neurology-nma.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — related
 - The evidence network comprised 31 RCTs with 2,124 subjects and only direct two-arm comparisons, with no closed loops — related
@@ -64,3 +65,4 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on
 - [PBL-based teaching yields higher knowledge scores than LBL in Chinese standardized residency training](pbl-higher-knowledge-scores-chinese-srt.md) — related
 - [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related
+- [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md)

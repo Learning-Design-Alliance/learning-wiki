@@ -46,3 +46,4 @@ Subgroup meta-analysis by intervention type reported in the review's results (Fi
 
 ## Related Claims
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — a broader claim this one bears on
+- [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](digital-education-guidelines-skills-mixed.md) — related

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (57 show a difference, 14 mixed, 7 no difference) · 46 studies (18 associational, 13 causal, 9 review, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (58 show a difference, 15 mixed, 7 no difference) · 47 studies (18 associational, 13 causal, 10 review, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 79 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -114,6 +114,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](../claims/allen-spatial-ability-correlates-neuroanatomy-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Game-based digital interventions significantly improve visuospatial short-term memory in children and adolescents with ADHD](../claims/game-based-interventions-improve-visuospatial-short-term-memory-adhd.md) [+W] — instruction changes it
 - [Game-based digital interventions significantly improve visuospatial working memory in children and adolescents with ADHD](../claims/game-based-interventions-improve-visuospatial-working-memory-adhd.md) [+W] — instruction changes it
+- [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](../claims/mental-rotation-influences-mis-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

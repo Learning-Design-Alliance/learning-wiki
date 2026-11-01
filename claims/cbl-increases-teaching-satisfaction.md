@@ -48,3 +48,4 @@ Meta-analysis of dichotomous teaching-satisfaction data from 8 RCTs (340 CBL and
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — possibly the same claim (merge candidate)
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
+- [PBL+LBL raises satisfactory teaching effect but not general or poor teaching effect ratings](pbl-lbl-teaching-satisfaction-effects.md) — related

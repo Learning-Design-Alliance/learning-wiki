@@ -64,6 +64,7 @@ Sub-group meta-analysis by mathematics skill type. Math tests showed a significa
 
 
 ## Related Claims
+
 - [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](acute-physical-activity-improves-language-performance.md) — related
 - [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](acute-physical-activity-improves-overall-academic-outcomes.md) — a broader claim this one bears on
 - [Including behavior change techniques in acute physical activity interventions is the only moderator associated with larger academic effects (g = 0.54 vs 0.23)](behavior-change-techniques-moderate-acute-pa-academic-effects.md) — related
@@ -72,3 +73,4 @@ Sub-group meta-analysis by mathematics skill type. Math tests showed a significa
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related
+- [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md)

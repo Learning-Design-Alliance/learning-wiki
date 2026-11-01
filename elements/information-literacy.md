@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (10 for, 9 mixed, 3 against) · 22 studies (8 causal, 5 qualitative, 3 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (10 for, 10 mixed, 3 against) · 23 studies (8 causal, 5 qualitative, 4 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 22 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -58,6 +58,7 @@ Information literacy is the element in which learners identify information needs
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [+W]
 - [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](../claims/individual-level-rci-credibility-change.md) [~W]
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](../claims/unguided-llm-use-critical-appraisal-erosion.md) [+W]
+- [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](../claims/ebp-skills-gains-fluctuations.md) [~W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

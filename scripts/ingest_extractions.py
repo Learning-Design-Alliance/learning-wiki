@@ -481,6 +481,22 @@ def drop_unfound_quotes(parsed: dict, article_id: str) -> list:
     return notes
 
 
+_RESOLVE = None
+
+
+def retired_slug_owner(kind, slug):
+    """The current page a retired slug (an alias) resolves to in this kind, or None. Read from the
+    committed wiki-index.json resolve map, which holds every id and alias per kind."""
+    global _RESOLVE
+    if _RESOLVE is None:
+        try:
+            _RESOLVE = json.loads((WIKI_ROOT / "wiki-index.json").read_text(encoding="utf-8")).get("resolve", {})
+        except (OSError, ValueError):
+            _RESOLVE = {}
+    target = _RESOLVE.get(kind or "", {}).get(slug)
+    return target if target and target != slug else None
+
+
 def ingest_record(record: dict, actor: str, dry_run: bool, candidates: list = None,
                   run_id: str = "") -> list:
     """Returns a list of (folder, slug) pages actually written (or that
@@ -515,6 +531,14 @@ def ingest_record(record: dict, actor: str, dry_run: bool, candidates: list = No
         if page_path.exists():
             print(f"  [SKIP] {folder}/{slug}.md already exists — not auto-merging, "
                   f"leave for manual review", file=sys.stderr)
+            continue
+        owner = retired_slug_owner(fm.get("type"), slug)
+        if owner:
+            # The slug is an alias of another page (a claim merged into it, a page renamed):
+            # writing it would make one slug resolve two ways, which build_wiki_index.py
+            # refuses, failing the whole ingest at its last step (j-scrsyn-8, 2026-11-01).
+            print(f"  [SKIP] {folder}/{slug}.md: '{slug}' is an alias of {owner} — not writing "
+                  f"a second page for it, leave for manual review", file=sys.stderr)
             continue
 
         text = ok.dump_frontmatter(fm) + "\n" + body

@@ -50,3 +50,4 @@ Synthesis across the 17 included studies in this scoping review. The review repo
 - [Multi-component CPD interventions outperform single-approach strategies in improving patient outcomes](multicomponent-cpd-outperforms-single-approach.md) — related
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — related
 - [Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation](coaching-absence-undermines-hqim-implementation.md) — related
+- [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — related

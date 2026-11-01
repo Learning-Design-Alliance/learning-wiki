@@ -71,3 +71,4 @@ Linear mixed-effects model on cognitive load during task execution. Match condit
 - [Full alignment of recording, expected, and task angles yields significantly higher task performance than any non-full-alignment configuration](full-three-angle-alignment-higher-performance.md) — related
 - [First-person video modeling examples yield better task performance than third-person videos regardless of expected or task angle, supporting the Embodied Resonance Hypothesis](first-person-recording-angle-performance-advantage.md) — related
 - [Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment](mental-rotation-moderates-alignment-benefit.md) — related
+- [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related

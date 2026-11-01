@@ -53,3 +53,4 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — a narrower finding that bears on this claim
 - Review identifies limitations including restricted timeframe, limited full-text availability, and absence of formal quality assessment — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
+- [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related

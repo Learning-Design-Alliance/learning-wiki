@@ -45,6 +45,7 @@ Heterogeneity analysis within the same meta-analysis of 53 studies. The article 
 
 
 ## Related Claims
+
 - [No study or participant characteristic (publication type, research design, sample size, grade level, reading difficulties) significantly moderated effects of technology-delivered literacy instruction](no-study-participant-moderators.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — a broader claim this one bears on
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related

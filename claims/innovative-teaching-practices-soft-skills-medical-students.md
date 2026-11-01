@@ -84,3 +84,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — a narrower finding that bears on this claim
 - [Clinical placement experiences, including early placement and patient interactions, enhance SDL](clinical-placement-enhances-sdl.md) — related
 - [Demonstrating compassion in serious illness conversations is more challenging via telehealth because the whole person cannot be seen](sic-compassion-telehealth-challenge.md) — related
+- [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](nm-qualitative-evaluations-competency-impacts.md) — a narrower finding that bears on this claim

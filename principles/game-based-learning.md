@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (43 for, 41 mixed, 1 against) · 65 studies (20 causal, 18 quant-synthesis, 15 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 65 report an effect size · 79 claims rest on one study
+> **Evidence** · 88 claims (43 for, 43 mixed, 2 against) · 67 studies (20 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 67 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -206,6 +206,9 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Game-based mathematics teaching favored experimental groups in 30 of 31 included effect sizes](../claims/game-math-30-of-31-positive-effect-sizes.md) [+W]
 - [The effect of games on mathematics achievement does not differ significantly by implementation period](../claims/game-math-effect-no-difference-implementation-period.md) [~W]
 - [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](../claims/gamification-negative-transfer-risk.md) [~W]
+- [Game implementations were mostly single-institution and single-setting, limiting evidence quality and diffusion](../claims/single-institution-single-setting-implementations.md) [-W]
+- [The quality of evidence on the effectiveness of serious games in medical education is moderate as assessed by MERSQI](../claims/serious-games-medical-education-moderate-evidence.md) [~W]
+- [A serious game simulation complementing CPR instruction improved theoretical knowledge but not CPR skills](../claims/serious-game-improves-cpr-knowledge-not-skills.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

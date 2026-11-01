@@ -45,6 +45,7 @@ Visual inspection of funnel plots for both outcomes suggested publication bias. 
 
 
 ## Related Claims
+
 - Included RCTs of flipped classrooms in Chinese clinical practice show high risk of methodological bias — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related

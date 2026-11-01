@@ -45,7 +45,9 @@ The review's own quality appraisal of the six included RCTs using RoB 2; all stu
 
 
 ## Related Claims
+
 - Evidence quality is limited: high risk of bias in allocation concealment and blinding, small samples, subjective outcome measures, and limited generalizability — a broader claim this one bears on
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
 - [Students report generally high satisfaction with AI-powered PBL/CBL](ai-pbl-cbl-high-satisfaction.md) — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
+- [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — related

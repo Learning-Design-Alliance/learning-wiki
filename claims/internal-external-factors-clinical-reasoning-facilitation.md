@@ -47,3 +47,4 @@ The review maps factors affecting facilitation across included studies, reportin
 ## Related Claims
 - [Clinical teachers hold four key responsibilities for facilitating clinical reasoning in clinical settings](clinical-teacher-responsibilities-clinical-reasoning-facilitation.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
+- [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (51 show a difference, 16 mixed, 5 no difference) · 65 studies (19 review, 12 qualitative, 11 causal, 9 design, 5 quant-synthesis, 5 theoretical, 4 associational), `q1`–`q4` · 7 of 65 report an effect size · 68 claims rest on one study
+> **Evidence** · 73 claims (52 show a difference, 16 mixed, 5 no difference) · 66 studies (20 review, 12 qualitative, 11 causal, 9 design, 5 quant-synthesis, 5 theoretical, 4 associational), `q1`–`q4` · 7 of 66 report an effect size · 69 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -113,6 +113,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [The transition to OBL delivery may situate many teachers as novice learners needing to focus exclusively on context, curriculum, and students](../claims/teachers-as-novice-learners-ob-transition.md) [+W] — instruction changes it
 - [Seven domains of alignment are needed for successful use of the Knowledge Building Model and Knowledge Forum](../claims/seven-domains-knowledge-building-alignment.md) [~W] — an instructional effect differs with it
 - [Students were more engaged in SDL when it was an assessed activity with anticipated outcomes and relevance to their future profession](../claims/assessment-relevance-engage-sdl.md) [+M] — learners who differ on it differ in outcomes
+- [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

@@ -83,6 +83,7 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 
 
 ## Related Claims
+
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — related
 - [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) — related
@@ -91,3 +92,4 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](pa-interventions-improve-fluid-intelligence-childhood.md) — related
 - [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related
+- [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md)

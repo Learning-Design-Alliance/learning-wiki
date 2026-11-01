@@ -86,3 +86,6 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Integrative SDL frameworks combining individual motivation with structured organizational support yielded the best outcomes in fostering lifelong learning among healthcare professionals](integrative-sdl-frameworks-best-outcomes.md) — related
 - [Research education is a mainstay, individual-level strategy within multidimensional research capacity building initiatives in health settings](research-education-mainstay-rcb-strategy.md) — related
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — related
+- [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](sdl-cpd-five-barrier-facilitator-levels.md) — related
+- [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related

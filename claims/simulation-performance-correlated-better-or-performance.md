@@ -49,3 +49,4 @@ Narrative synthesis of the 45 transferability studies. Operating room performanc
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — reports the opposite
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [Three of four studies demonstrated transfer of surgical skills from robotic VR simulators to the operating room measured by time and technical surgical performance](vr-simulator-skill-transfer-three-of-four-studies.md) — related
+- [A systematic review identified 131 original studies describing 93 different ophthalmic simulation models, distributed across virtual reality, wet-lab, dry-lab and e-learning modalities.](131-studies-93-ophthalmic-simulators-four-modalities.md) — related

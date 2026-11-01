@@ -48,6 +48,8 @@ Meta-analytic moderation analysis of mathematics subskill category across the 21
 - [Writing Skills](../learner-variables/writing-skills.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Mathematics and writing skills are moderately correlated overall (r = 0.48) across 211 studies](math-writing-moderate-overall-correlation.md) — related
 - [In primary grades, lower order writing and lower order mathematics skills show the strongest relation (r = 0.59); in adulthood the higher order pair is weak (r = 0.26)](subskill-pairs-relation-varies-by-grade.md) — related
 - [The mathematics–writing correlation is stronger in primary grades (r = 0.52) than in university and beyond (r = 0.30)](math-writing-relation-stronger-primary-grades.md) — related
+- [Preterm children show deficits in all mathematics subskills, with the higher-order skill of applied problems most associated with preterm birth](preterm-mathematics-subskill-deficits.md)

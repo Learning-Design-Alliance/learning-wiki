@@ -53,3 +53,4 @@ Exploratory subgroup analysis within the pooled score-based synthesis, stratifie
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
 - [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — related
+- [TBL improves theoretical test scores in both experiments-oriented and theory-oriented pharmacy courses](tbl-effective-experiments-and-theory-oriented-courses.md) — related

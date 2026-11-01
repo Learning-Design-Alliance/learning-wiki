@@ -64,6 +64,7 @@ Methods/risk-of-bias section: two authors independently assessed five bias domai
 
 
 ## Related Claims
+
 - [Cycling desks increase students' classroom energy expenditure by around 36% relative to normal class hours](cycling-desks-increase-classroom-energy-expenditure-36-percent.md) — related
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related

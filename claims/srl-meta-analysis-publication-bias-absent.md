@@ -129,3 +129,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
 - [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related
+- [After correcting for publication bias, no evidential value remains for an effect of red color on intellectual performance](red-color-publication-bias-no-evidential-value.md) — reports the opposite

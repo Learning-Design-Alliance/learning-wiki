@@ -46,8 +46,10 @@ Thematic analysis of challenges across the 102 included studies, coded into six 
 
 
 ## Related Claims
+
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related
 - [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related
 - [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](spld-qualitative-challenges-emotional-burden.md) — related
 - [Structured oral examinations show higher reliability than traditional formats, with median Cronbach's alpha of 0.75 across studies](soe-outperform-traditional-reliability.md) — related
+- [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](interview-reliability-042-limits-validity.md)

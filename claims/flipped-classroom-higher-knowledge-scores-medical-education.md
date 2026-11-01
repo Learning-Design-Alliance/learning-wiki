@@ -59,3 +59,4 @@ Meta-analysis of 127 studies (21,171 participants; 90 observational studies and 
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — a narrower finding that bears on this claim
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — a narrower finding that bears on this claim
 - [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](flipped-pharmacy-country-subgroup.md) — a narrower finding that bears on this claim
+- [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related

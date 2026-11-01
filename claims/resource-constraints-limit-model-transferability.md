@@ -56,3 +56,5 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Low pre-reading compliance and resource demands hinder TBL implementation](tbl-implementation-barriers.md) — a narrower finding that bears on this claim
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — related
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — a narrower finding that bears on this claim
+- [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — reports the opposite

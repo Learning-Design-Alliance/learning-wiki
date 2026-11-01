@@ -64,3 +64,4 @@ Narrative attribution in the discussion: the article reports, citing reference 2
 - [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](acute-physical-activity-improves-language-performance.md) — related
 - [Acute physical activity improves mathematics performance in school-aged youth (Hedge's g = 0.29 multivariate)](acute-physical-activity-improves-mathematics-performance.md) — related
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — reports the opposite
+- [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](chronic-pa-medium-acute-pa-null-effect.md) — related

@@ -45,6 +45,7 @@ The study calls for institutional and policy-level adoption of AI-PBL frameworks
 
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
+- [Train teachers in the TGfU model before implementation to avoid applying it without respecting its essential characteristics](tgfu-teacher-training-before-implementation.md)
 
 ## Examples
 -

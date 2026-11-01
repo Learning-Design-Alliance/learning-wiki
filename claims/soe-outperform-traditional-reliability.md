@@ -45,9 +45,11 @@ Systematic review synthesis of reliability data across the 102 included studies 
 
 
 ## Related Claims
+
 - [Student and examiner satisfaction is high for structured and virtual oral formats (72–96% agreement), with preference for SOEs over traditional viva](high-satisfaction-structured-oral.md) — related
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related
 - [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related
 - [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — a narrower finding that bears on this claim
 - [Structured viva shows higher internal consistency reliability (Cronbach alpha 0.75–0.80) than traditional viva (alpha 0.50)](structured-viva-cronbach-alpha-higher-than-traditional.md) — a narrower finding that bears on this claim
 - [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — a narrower finding that bears on this claim
+- [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](interview-reliability-042-limits-validity.md)

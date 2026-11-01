@@ -57,9 +57,11 @@ Pre training works by splitting learning into two manageable phases: first acqui
 5. Follow with [Practice](../elements/practice.md) on the integrated material.
 
 ## Related Strategies
+
 - [Advance Organizers](use-advance-organizers.md) — a structural frame before instruction; pre training goes further by teaching actual prerequisite content
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — retrieves existing knowledge rather than building new component knowledge
 - [Chunking](../principles/chunking.md) — the segmentation logic that pre training applies to the *sequence* of instruction
+- [Train teachers in the TGfU model before implementation to avoid applying it without respecting its essential characteristics](tgfu-teacher-training-before-implementation.md)
 
 ## Examples
 - **Mayer's pump experiments** — learners first studied the names and characteristics of a tire pump's components, then received a multimedia explanation of how it works; pre-trained learners outperformed controls on transfer tests (Mayer, Mathias, & Wetzell, 2002).

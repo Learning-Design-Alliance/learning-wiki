@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 11 mixed, 3 against) · 25 studies (6 quant-synthesis, 6 review, 5 causal, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (11 for, 12 mixed, 3 against) · 26 studies (7 review, 6 quant-synthesis, 5 causal, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 26 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -106,6 +106,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
+- [A plateau in performance does not necessarily equate to high-quality performance, so 'overcome' thresholds may misrepresent surgeon mastery](../claims/plateau-does-not-equate-high-quality-performance.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

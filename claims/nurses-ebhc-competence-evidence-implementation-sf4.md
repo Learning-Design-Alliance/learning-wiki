@@ -54,3 +54,4 @@ JBI meta‐aggregation synthesising 30 findings from the included qualitative st
 - [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
 - [Nurses expressed no experiences or perceptions of evidence synthesis, so the review's findings map to four rather than five EBHC sub‐dimensions](nurses-no-experiences-evidence-synthesis.md) — related
+- [The framework adapts Benner's novice-to-expert model because UK nurses now enter practice at degree level with baseline clinical competencies already attained](benner-model-adapted-degree-entry-nurses.md) — related

@@ -50,3 +50,4 @@ Random-effects meta-analysis of 12 studies (from 11 articles) comparing competen
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — a narrower finding that bears on this claim
 - [Self-regulated versus instructor-guided feedback in competency-based simulation shows a negligible, non-significant pooled difference](self-regulated-vs-instructor-feedback-negligible.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related

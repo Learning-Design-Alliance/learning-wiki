@@ -49,3 +49,4 @@ Conceptual analysis in the review's methodological-implications section: authent
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
+- [Red color effects, if they exist, may be limited to low-stakes laboratory research and may not generalize to applied testing settings](red-color-low-stakes-limits.md) — a narrower finding that bears on this claim

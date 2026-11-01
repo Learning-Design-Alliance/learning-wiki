@@ -50,3 +50,4 @@ Observational comparison (Methley et al., 2014) of identical search terms combin
 - [PICO versus truncated PIC in PubMed: PICO showed higher median sensitivity and precision on the first 40 records, but PIC showed higher sensitivity on the full output](pico-vs-pic-pubmed-median-sensitivity.md) — related
 - [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](search-block-count-impacts-sensitivity-precision.md) — a broader claim this one bears on
 - [In a randomized crossover trial, PICO searching yielded higher average sensitivity and lower average precision than unguided searching, not statistically significant](pico-vs-unguided-sensitivity-precision.md) — related
+- [TGfU school-implementation research 2014–2019 comprises only 12 school-based studies despite many publications](tgfu-review-12-school-implementation-studies.md) — related

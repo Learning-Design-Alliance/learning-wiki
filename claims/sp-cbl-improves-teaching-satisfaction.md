@@ -50,3 +50,4 @@ Meta-analysis of 8 RCTs (n=543) using a fixed effects model after finding no het
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — related
 - [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
+- [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related

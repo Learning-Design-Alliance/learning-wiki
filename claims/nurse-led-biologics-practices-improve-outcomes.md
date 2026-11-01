@@ -48,3 +48,4 @@ This is the review authors' synthesis of the background literature, reported as 
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related
 - [Twenty-two studies support health education as a key nursing competency in biologics therapy](twenty-two-studies-health-education-competency.md) — related
+- [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md) — a broader claim this one bears on

@@ -45,6 +45,7 @@ Fixed-effects meta-analysis of 10 studies (low heterogeneity, I2 = 13.7%) compar
 
 
 ## Related Claims
+
 - [Flipped classroom improves cooperation and communication skills (pooled RR 1.60)](fc-cooperation-communication-rr-160.md) — related
 - [Flipped classroom improves teacher-student interaction (pooled RR 1.35), based on few studies](fc-teacher-student-interaction-rr-135.md) — related
 - [Flipped classroom improves independent learning and thinking ability (pooled RR 1.51)](fc-independent-learning-thinking-rr-151.md) — related

@@ -44,6 +44,7 @@ The authors recommend that future primary research on PBL be conducted "at sever
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
+- [Medical schools should frequently evaluate students' perceptions of the educational environment and adapt methods flexibly](frequent-environment-evaluation-flexible-methods.md)
 
 ## Examples
 -

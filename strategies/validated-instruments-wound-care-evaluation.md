@@ -42,7 +42,8 @@ The review recommends that educators "use validated instruments for the evaluati
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](../claims/online-interprofessional-courses-subjective-knowledge-gains.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use the observational metric for assessment, learner self- and peer-assessment, educational programme evaluation, and clinical audit of wound-dressing performance](metric-based-assessment-self-peer-audit-strategy.md)
 
 ## Examples
 -

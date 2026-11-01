@@ -53,6 +53,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Treat CPD as a strategic investment in quality improvement rather than a regulatory checkbox](cpd-strategic-investment-quality-improvement.md)
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Integrate structured team-based IPE training programs and community-based placements in healthcare curricula](integrate-structured-team-based-ipe-training.md)
+- [Align CPD activities, programs, and systems so they function in collaboration to support physician SDL](align-cpd-systems-for-sdl-engagement.md)
 
 ## Examples
 -

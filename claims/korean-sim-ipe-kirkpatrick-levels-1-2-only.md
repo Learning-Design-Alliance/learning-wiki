@@ -64,6 +64,7 @@ The review's Discussion reports satisfaction averages across studies and caution
 
 
 ## Related Claims
+
 - [Korean simulation-based IPE employed role-playing, standardized patients (including holographic), and high-fidelity simulators, with no single method dominant](korean-sim-ipe-methods-role-play-standardized-high-fidelity.md) — related
 - [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) — related
 - The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes — related
@@ -71,3 +72,5 @@ The review's Discussion reports satisfaction averages across studies and caution
 - Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related
 - [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on
+- [E-learning interventions for registered nurses in continuing education are evaluated almost exclusively at Kirkpatrick levels 1 and 2, with no reported outcomes on practice change and almost none on patient outcomes](e-learning-nursing-ce-outcomes-limited-to-reactions-and-learning.md)
+- [Most included trials were conducted in simulated settings at Kirkpatrick evaluation level two, which may limit application to routine clinical practice](feedback-trials-mostly-simulated-kirkpatrick-level-two.md) — related

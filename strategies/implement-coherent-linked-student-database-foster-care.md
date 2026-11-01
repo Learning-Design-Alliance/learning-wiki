@@ -42,6 +42,7 @@ The experts' recommendation on data sharing is action rather than study: "We don
 - [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](cross-system-data-sharing-agreement-foster-care.md)
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
 - [Link education and child welfare data systems to make the foster care achievement gap visible and trackable](link-education-child-welfare-data-systems.md)
+- [Use linked longitudinal administrative data with nuanced CSC-contact categorisation and appropriate control groups to study educational outcomes of children in contact with social care](longitudinal-linked-admin-data-csc-research.md)
 
 ## Examples
 -

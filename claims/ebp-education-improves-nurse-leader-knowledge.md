@@ -51,3 +51,4 @@ Meta-analysis of two studies measuring knowledge with instruments including the 
 - [Educational interventions for nurse leaders improve organizational readiness (SMD = 0.65)](nurse-leader-ebp-education-improves-organizational-readiness.md) — related
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) — related
 - Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
+- [Theory-based EBP teaching produced significant knowledge gains in two nursing studies and one medical-study summative assessment](theory-based-ebp-teaching-knowledge-gains.md) — related

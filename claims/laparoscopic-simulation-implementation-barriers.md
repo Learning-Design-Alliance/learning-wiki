@@ -55,3 +55,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Educators reported challenges including lacking confidence, feeling nervous, and requiring significant training and expertise when using online simulation approaches](educators-report-confidence-training-challenges-online-simulation.md) — related
 - [Resource availability and addressing technical and financial limitations are emphasized as facilitating conditions for XR in surgical training](xr-facilitating-conditions-resources-costs.md) — related
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — related

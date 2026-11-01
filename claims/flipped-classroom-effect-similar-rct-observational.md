@@ -48,3 +48,4 @@ Univariate metaregression across 127 studies found no significant association be
 - Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates. — related
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classroom advantage holds across research designs but is much smaller in quasi-experiments than historical-control studies](flipped-pharmacy-design-subgroups.md) — related
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](flipped-effect-robust-to-design-and-equivalence-controls.md) — related

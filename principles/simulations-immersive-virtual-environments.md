@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 238 claims (119 for, 106 mixed, 13 against) · 149 studies (62 review, 32 causal, 29 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 33 of 149 report an effect size · 233 claims rest on one study
+> **Evidence** · 261 claims (132 for, 114 mixed, 15 against) · 164 studies (72 review, 34 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 35 of 164 report an effect size · 256 claims rest on one study
 
 ## Conditional relationship
 
@@ -472,6 +472,31 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](../claims/simulation-higher-osce-scores-zhang.md) [+W]
 - [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](../claims/residents-performance-2d-3d-vr-no-difference.md) [~W]
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](../claims/vr-neurosurgical-simulators-low-haptic-fidelity.md) [~W]
+- [In a randomised controlled trial reported within the review, trainees who trained with the Eyesi achieved significant improvements in wet-lab capsulorhexis performance compared with a no-training control group.](../claims/eyesi-training-improved-capsulorhexis-versus-no-training-control.md) [+W]
+- [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](../claims/hf-simulation-retention-controversial.md) [~W]
+- [Cadaveric simulation training is superior to no simulation training for surgical skill acquisition, per three RCTs](../claims/cadaveric-simulation-superior-to-no-training.md) [+W]
+- [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](../claims/digital-education-guidelines-skills-mixed.md) [+W]
+- [E-learning improves nurses' skills in continuing education, but effects are mixed, with worse defibrillation performance under long-distance learning and lower first-attempt cannulation success with computer-based simulation](../claims/e-learning-nurse-skills-mixed-effects.md) [~W]
+- [High-fidelity simulation produces a large short-term benefit in neonatal resuscitation skill performance in single-arm pre-post studies (pooled SMD 1.34)](../claims/hf-simulation-large-skill-benefit-pre-post.md) [+W]
+- [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](../claims/hf-vs-traditional-skill-knowledge-benefit.md) [+W]
+- [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](../claims/hf-simulation-transfer-untested.md) [-W]
+- [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](../claims/hf-vs-lf-small-moderate-benefit.md) [~W]
+- [Most included trials were conducted in simulated settings at Kirkpatrick evaluation level two, which may limit application to routine clinical practice](../claims/feedback-trials-mostly-simulated-kirkpatrick-level-two.md) [~W]
+- [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](../claims/high-fidelity-simulation-cpr-gains-retained-3-months.md) [+W]
+- [No evidence currently supports transfer of simulator-based VRS training to the operating room](../claims/no-evidence-vrs-simulator-transfer-operating-room.md) [-W]
+- [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](../claims/sble-group-stronger-than-seminar-eol-preparedness.md) [+W]
+- [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](../claims/sp-cst-positive-effects-confidence-performance.md) [+W]
+- [Simulation-based learning using electronic stethoscopes showed mixed results for heart sound and murmur detection](../claims/simulation-electronic-stethoscopes-mixed-detection-results.md) [~W]
+- [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](../claims/vrs-simulator-performance-curves-improve.md) [+W]
+- [Virtual patients show larger effects when replacing passive traditional education (lectures, reading) than when replacing active learning (group discussion, mannequin-based)](../claims/vp-passive-versus-active-comparison.md) [~W]
+- [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](../claims/vr-surgery-training-improves-knowledge-self-confidence.md) [+W]
+- [Voice advisory mannequin training produces better CPR skill acquisition than other training resources among health science students, though not in every comparison](../claims/vam-training-better-cpr-skills-health-students.md) [~W]
+- [Effectiveness evidence for ophthalmic simulators mostly stops at level 2 (contained effects), with isolated exceptions at level 3 (Sophocle) and level 5 (Eyesi for cataract surgery).](../claims/simulator-effectiveness-mostly-level-2-rare-downstream-target-effects.md) [~W]
+- [Virtual patient simulations more effectively improve skills than traditional education (pooled SMD=0.90)](../claims/vp-traditional-skills-advantage.md) [+W]
+- [A randomised controlled trial reported within the review found virtual reality training was comparable to wet-lab training for residents' first capsulorhexis in the operating room.](../claims/virtual-reality-training-comparable-to-wet-lab-capsulorhexis.md) [+W]
+- [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](../claims/simulation-plus-teamtraining-reduced-adverse-outcomes.md) [+W]
+- [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W]
+- [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

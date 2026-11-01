@@ -70,3 +70,5 @@ Among the 24 studies with validity evidence, the review reports "construct valid
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — related
 - [Almost no trauma simulation studies used automated evaluation; checklists and questionnaires dominated assessment](trauma-simulation-automated-evaluation-gap.md) — related
+- [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](few-high-quality-ebp-instruments-used.md) — related
+- [The 105 included studies of orthopaedic technical-skills assessment were predominantly conducted in simulated settings with 2,088 resident participants](orthopaedic-skills-assessment-review-105-studies-mostly-simulated.md) — related

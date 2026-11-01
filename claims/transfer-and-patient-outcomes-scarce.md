@@ -45,6 +45,7 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 
 
 ## Related Claims
+
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — related
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
@@ -68,3 +69,8 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - [In-situ simulation is used in healthcare for four mapped purposes: assessment, system readiness and safety culture, clinical skills and patient outcomes, and non-technical skills, knowledge and confidence](iss-four-purpose-mapping-categories.md) — related
 - [VIST endovascular simulator training transferred to real-world performance, with improved technical skill metrics on real patients (LoE 3/5)](vist-training-transfers-to-patients.md) — related
 - [Three of four studies demonstrated transfer of surgical skills from robotic VR simulators to the operating room measured by time and technical surgical performance](vr-simulator-skill-transfer-three-of-four-studies.md) — related
+- [Grief training outcomes were usually measured by immediate self-assessment showing increased knowledge and comfort, with few studies measuring patient care, physician well-being or longitudinal effects](grief-training-outcomes-self-assessed-few-longitudinal.md)
+- [No included systematic review reported outcomes on nurses' practice change (Kirkpatrick level 3), so the transfer of e-learning to practice remains unknown](no-behavior-outcomes-e-learning-nursing-ce.md)
+- [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md)
+- [All five pre-defined-curriculum WhatsApp studies assessed Kirkpatrick level 2 knowledge outcomes, while a majority of remaining studies reported only level 1 attitudes](curriculum-whatsapp-studies-kirkpatrick-level-2.md) — a narrower finding that bears on this claim
+- [Evidence for mental practice impacts in surgery does not exceed Kirkpatrick level 3, and no study reported system-level (level 4) change](mp-evidence-capped-kirkpatrick-level-3.md) — reports the opposite

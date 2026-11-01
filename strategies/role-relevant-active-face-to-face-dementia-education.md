@@ -43,6 +43,7 @@ This strategy directs program designers to tailor dementia education to what par
 ## Related Strategies
 
 - [Segment security-training content by learner age group to maximize personal relevance](age-segmented-security-training-content.md)
+- [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
 
 ## Examples
 -

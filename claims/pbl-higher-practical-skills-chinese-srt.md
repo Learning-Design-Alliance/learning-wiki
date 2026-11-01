@@ -66,3 +66,4 @@ Meta-analysis of 22 publications involving 1096 residents (intervention 547, LBL
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — a broader claim this one bears on
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](pbl-no-advantage-diagnostic-imaging-skills.md) — related
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related

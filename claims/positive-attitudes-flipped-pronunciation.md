@@ -45,7 +45,10 @@ Post-instruction survey of 40 intermediate Turkish learners of English in a flip
 
 
 ## Related Claims
+
 - [Learner-generated materials produced with user-friendly authoring tools seem to be a good option for learners to get involved in research in a flipped class](learner-generated-materials-flipped-inquiry.md) — related
 - [Higher and lower Moodle scorers viewed flipped learning as almost equally valuable, but higher scorers talked more positively about how the course was delivered](moodle-score-flipped-attitude-delivery.md) — related
 - [Radical changes from the flipped model, new software, and a research-and-production lesson sequence constitute a major challenge for students accustomed to traditional methods](flipped-radical-change-challenges-traditional-learners.md) — related
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
+- [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)
+- [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](online-heavy-models-first-year-challenge.md) — related

@@ -55,3 +55,5 @@ Meta-analysis of 15 RCTs reporting knowledge at course conclusion, synthesized i
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](hfs-learning-satisfaction-practising-nurses.md) — related
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
 - [Participant seniority moderates the benefit of HF simulation: residents and third/fourth-year students benefit, first-year students do not](participant-seniority-moderates-hf-benefit.md) — a narrower finding that bears on this claim
+- [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](hf-vs-lf-small-moderate-benefit.md) — related
+- [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related

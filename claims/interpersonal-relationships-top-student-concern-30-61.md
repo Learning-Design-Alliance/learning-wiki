@@ -51,3 +51,4 @@ Qualitative thematic interviews with 671 students, coded by keyword extraction a
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
 - [Prominent quantitative measures of belonging focus overwhelmingly on social connectedness and general fit, with only 1 of 70 items assessing resource fit](belonging-measures-focus-social-fit-content-analysis.md) — related
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
+- [Medical students prioritize medical competence over teaching competence](students-prioritize-medical-competence.md) — related

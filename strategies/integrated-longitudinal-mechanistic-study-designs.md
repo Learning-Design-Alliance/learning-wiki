@@ -44,7 +44,8 @@ The review's central forward-looking recommendation is that future research move
 - [Gut microbiota-related pathways remain a preliminary, largely theoretical area in student populations, with very few studies directly assessing microbiota-related variables](../claims/gut-microbiota-pathways-emerging-gap-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Include mediation analysis of sleep, physical activity, diet and co-morbidities in future longitudinal studies](future-mediation-analysis-health-factors.md)
 
 ## Examples
 -

@@ -70,3 +70,5 @@ Meta-analysis of three samples (n = 585) from two studies for attention performa
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [In-classroom physical activity breaks show no significant effect on primary school children's mathematics performance](icpab-no-effect-mathematics.md) — related
 - [In-classroom physical activity breaks show no significant effect on children's test anxiety](icpab-no-effect-test-anxiety.md) — related
+- [Active classrooms show no clear effect on executive function or fluid intelligence](active-classrooms-no-executive-function-effect.md) — related
+- [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — a broader claim this one bears on

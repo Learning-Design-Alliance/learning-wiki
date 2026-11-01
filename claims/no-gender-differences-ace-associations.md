@@ -62,3 +62,5 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Girls scored significantly higher than boys on writing quality, handwriting fluency, and attitude toward writing](girls-outperform-boys-on-grade-2-writing-measures.md) — related
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
 - [Higher socioeconomic index predicts better pressure scores, but gender does not](ses-predicts-pressure-scores-gender-does-not.md) — related
+- [Within included studies, ACS was positively associated with cognitive performance and academic achievement in adolescent girls but not adolescent boys](acs-sex-specific-association-adolescent-girls.md) — reports the opposite
+- [Subgroup analyses by mode of ACS, age, and sex show no significant differences in pooled effect sizes for academic outcomes](acs-subgroup-analyses-no-significant-differences.md) — related

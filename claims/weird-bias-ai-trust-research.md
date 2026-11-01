@@ -45,6 +45,7 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 
 
 ## Related Claims
+
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related
 - Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
@@ -63,3 +64,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - [Western-developed instruments dominated measurement, with cultural adaptation reported in only five of 22 Global South studies of resilience](instrument-context-mismatch-global-south-resilience.md) — related
 - Of the nine included studies with human participants, the mean sample size was 160.4 participants, with a median of 72 ranging from 1 to 782. — related
 - PP–SL/FL research is dominated by university students (76%) and quantitative methods (~49%) — related
+- [Nine of 30 studies reported a propensity towards lower mean empathy scores in non-Western compared to Western countries, all applying the JSPE-S](non-western-lower-mean-empathy-scores.md)

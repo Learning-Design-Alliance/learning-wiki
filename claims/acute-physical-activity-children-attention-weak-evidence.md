@@ -59,3 +59,4 @@ Systematic review per PRISMA of English studies from PubMed, Sportdiscus and Psy
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
 - [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](acute-physical-activity-improves-overall-academic-outcomes.md) — reports the opposite
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — related
+- [Eight of thirteen reviews concluded physical activity benefits cognitive performance, five reported mixed or inconclusive evidence, and none suggested worse cognition](pa-cognition-eight-beneficial-five-mixed.md) — related

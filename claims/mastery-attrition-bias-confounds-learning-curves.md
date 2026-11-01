@@ -50,3 +50,4 @@ Analysis in the Attrition Bias section: the article names the "mastery attrition
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
 - COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
+- [A plateau in performance does not necessarily equate to high-quality performance, so 'overcome' thresholds may misrepresent surgeon mastery](plateau-does-not-equate-high-quality-performance.md) — related

@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (27 for, 30 mixed, 1 against) · 43 studies (13 causal, 13 quant-synthesis, 8 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 12 of 43 report an effect size · 53 claims rest on one study
+> **Evidence** · 59 claims (28 for, 30 mixed, 1 against) · 44 studies (14 quant-synthesis, 13 causal, 8 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 44 report an effect size · 54 claims rest on one study
 
 ## Description and scope
 
@@ -172,6 +172,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](../claims/cbl-subgroup-course-types-heterogeneity.md) [+W]
 - [Sensitivity and publication-bias analyses indicate the pooled CBL effect is stable despite slight publication bias](../claims/cbl-meta-analysis-stability-publication-bias.md) [~W]
 - [ECHO case-based sessions led most responding physicians to report new learning and many case presenters to change patient care plans](../claims/echo-case-learning-care-plan-changes.md) [+W]
+- [Interactive online learning designs with rich feedback, matched task difficulty and case-based strategies may explain larger online learning effects](../claims/interactive-design-drives-online-advantage.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

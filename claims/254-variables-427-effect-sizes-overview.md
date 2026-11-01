@@ -64,6 +64,7 @@ Systematic review of meta-analyses, distribution of the 272 effect-size values b
 
 
 ## Related Claims
+
 - [Classroom-based physical activity has a huge effect on academic achievement (ES = 2.987) and computer-aided teaching shows huge positive effects (ES = 1.690), while school mobility has a medium negative effect (ES = -.748)](school-educational-technology-effects-academic-achievement-meta-review.md) — a narrower finding that bears on this claim
 - [Psychological variables show a wide range of effects on academic achievement, with self-efficacy showing a huge positive effect (ES = 1.173) and negative low-arousal emotions showing a medium negative effect (ES = -.799)](psychological-variables-effects-academic-achievement-meta-review.md) — a narrower finding that bears on this claim
 - [Several learning theories and teaching strategies have very large positive effects on academic achievement (e.g., creative drama ES = 1.453), while the surface approach to learning has a small negative effect (ES = -.366)](teaching-strategies-effects-academic-achievement-meta-review.md) — a narrower finding that bears on this claim
@@ -72,3 +73,4 @@ Systematic review of meta-analyses, distribution of the 272 effect-size values b
 - [Teacher variables relate to academic achievement, with teachers' judgments of students' academic achievement (ES = 1.622) and intelligence (ES = 1.540) showing very large effects and teacher-child conflicts a small negative effect (ES = -.408)](teacher-variables-effects-academic-achievement-meta-review.md) — a narrower finding that bears on this claim
 - [Special education and violence variables relate to academic achievement, with absence of reading disability (ES = 1.266) showing very large effects and peer victimization (ES = -.292) a medium negative effect](special-education-violence-effects-academic-achievement-meta-review.md) — a narrower finding that bears on this claim
 - [Creative drama method has a very large positive effect on Social Studies course achievement in favor of experimental groups (random-effects d = 1.171)](creative-drama-large-positive-effect-social-studies-achievement.md) — related
+- [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md)

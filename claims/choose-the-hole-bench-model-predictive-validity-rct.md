@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: mccarthy-roisin-2026
     resource: "https://doi.org/10.1016/j.bja.2026.01.027"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an RCT, participants who trained on the 'choose-the-hole' bench model significantly outperformed those receiving didactic teaching alone in a real clinical environment. [→ McCarthy Roisin 2026](#mccarthy-roisin-2026)
@@ -52,3 +53,4 @@ Review synthesis of Naik (2001), a randomised trial of a low-fidelity bench mode
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite
+- [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related

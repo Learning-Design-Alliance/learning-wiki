@@ -58,3 +58,4 @@ Heterogeneity assessment of all pooled ER–burnout associations using Q and I²
 - [Curriculum alignment with ICO guidelines is 65% overall, with inconsistent compliance (65%, I² = 99.2%)](ico-alignment-compliance-65-percent.md) — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
+- [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md) — a broader claim this one bears on

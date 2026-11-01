@@ -45,6 +45,7 @@ Publication-bias assessment in the review's search-results section: the funnel p
 
 
 ## Related Claims
+
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related
@@ -57,3 +58,4 @@ Publication-bias assessment in the review's search-results section: the funnel p
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — reports the opposite
 - Funnel plots suggest potential publication bias across the meta-analysis outcomes — a broader claim this one bears on
+- [Funnel plot asymmetry indicates potential publication bias in trials of verbal feedback versus no feedback](feedback-funnel-plot-publication-bias.md) — related

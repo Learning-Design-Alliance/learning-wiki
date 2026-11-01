@@ -73,3 +73,5 @@ Exploratory model for cognitive load during the task: MRT main effect significan
 - [Participants informed in advance about a misaligned task angle performed worse and reported higher video cognitive load than those surprised by the misalignment](informed-misalignment-worse-performance.md) — related
 - [Mismatch between recording angle and expected angle increases cognitive load both during video observation and during task execution](expectation-mismatch-increases-cognitive-load.md) — related
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
+- [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related
+- [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](mental-rotation-influences-mis-performance.md) — related

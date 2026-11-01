@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (69 show a difference, 20 mixed, 15 no difference) · 85 studies (23 review, 16 causal, 16 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 14 of 85 report an effect size · 102 claims rest on one study
+> **Evidence** · 106 claims (71 show a difference, 20 mixed, 15 no difference) · 87 studies (23 review, 18 quant-synthesis, 16 causal, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 14 of 87 report an effect size · 104 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -145,6 +145,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Publication year has a positive effect on communication skill outcomes favoring virtual simulations in more recent studies](../claims/publication-year-positive-communication-skills.md) [+M] — instruction changes it
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](../claims/scenario-simulation-improves-doctor-patient-communication.md) [+M] — instruction changes it
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](../claims/vs-rp-no-difference-communication-skills.md) [-M] — instruction changes it
+- [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](../claims/pbl-questionnaire-positive-outcomes-radiology.md) [+M] — instruction changes it
+- [TBL enhances students' communication skills more than LBL according to student questionnaires](../claims/tbl-enhances-communication-skills-questionnaires.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

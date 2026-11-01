@@ -84,3 +84,5 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — a narrower finding that bears on this claim
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — related
+- [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
+- [Self-administered and observed empathy measures can yield opposite trajectories during clinical training, as one longitudinal study found declining self-reported but improving observed empathy](self-report-versus-observed-empathy-divergence.md) — related

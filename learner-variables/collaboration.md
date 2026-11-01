@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (72 show a difference, 12 mixed, 7 no difference) · 77 studies (23 review, 16 causal, 11 qualitative, 9 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 9 of 77 report an effect size · 91 claims rest on one study
+> **Evidence** · 93 claims (73 show a difference, 13 mixed, 7 no difference) · 79 studies (24 review, 16 causal, 11 qualitative, 10 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 9 of 79 report an effect size · 93 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -133,6 +133,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](../claims/tbl-improves-teamwork-skills-versus-pbl.md) [+M] — instruction changes it
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](../claims/pbl-questionnaire-advantages-chinese-srt.md) [+M] — instruction changes it
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](../claims/cbl-positive-student-evaluations-psychology.md) [+M] — instruction changes it
+- [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](../claims/hf-simulation-teamwork-mixed.md) [~W] — instruction changes it
+- [Performance support tools (briefings, handoffs, and checklists) introduced in the work setting produced sustained improvements in teamwork processes for 6 to 18 months after implementation](../claims/support-tools-sustained-process-improvements.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

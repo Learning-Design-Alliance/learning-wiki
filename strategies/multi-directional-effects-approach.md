@@ -47,6 +47,7 @@ The article argues effect studies "do not have to exclusively focus on curriculu
 ## Related Strategies
 
 - [When evaluating curriculum materials, consider additional influential factors beyond curricular design features](consider-additional-factors-beyond-curriculum-design.md)
+- [Medical schools should frequently evaluate students' perceptions of the educational environment and adapt methods flexibly](frequent-environment-evaluation-flexible-methods.md)
 
 ## Examples
 -

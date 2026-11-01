@@ -51,6 +51,8 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
+- [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 
 ## Examples
 -

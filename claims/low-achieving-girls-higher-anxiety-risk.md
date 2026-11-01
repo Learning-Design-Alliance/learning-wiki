@@ -53,3 +53,4 @@ Authors' interpretive conclusion (abstract and discussion) drawn from the concur
 - [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](girls-higher-evaluation-math-anxiety.md) — a narrower finding that bears on this claim
 - [Higher sixth-grade mathematical competence predicts lower evaluation anxiety and better mathematics attitudes in seventh grade for girls but not boys](competence-predicts-girls-anxiety-attitudes.md) — possibly the same claim (merge candidate)
 - [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — a broader claim this one bears on
+- [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md) — related

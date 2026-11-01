@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 365 claims (214 show a difference, 80 mixed, 71 no difference) · 245 studies (150 associational, 44 causal, 17 review, 15 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 245 report an effect size · 357 claims rest on one study
+> **Evidence** · 368 claims (215 show a difference, 82 mixed, 71 no difference) · 247 studies (150 associational, 44 causal, 19 review, 15 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 247 report an effect size · 360 claims rest on one study
 
 ## How to read this page
 
@@ -404,6 +404,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](../claims/gender-exam-pass-rate-gaps-mixed.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students reported higher confidence in using VR simulation technology independently than female students](../claims/gender-gap-vr-confidence-orthodontics.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](../claims/iron-stores-school-performance-sex-differences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female medical students were reported to have higher empathy scores than male students in 18 of the included studies, with no gender differences found in seven cross-sectional studies](../claims/female-medical-students-higher-empathy-scores.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](../claims/obesity-associated-lower-maths-adolescent-girls.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

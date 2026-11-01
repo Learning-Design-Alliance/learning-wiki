@@ -16,7 +16,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 29 studies (9 quant-synthesis, 8 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 29 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 30 studies (10 quant-synthesis, 8 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,10 @@ Record: **learner's unaided starting piece → strategy taught in each mini-less
 [Demonstration](../elements/demonstration.md), [think-aloud](../elements/think-aloud.md), [check-in](../elements/check-in.md), [class discussion](../elements/class-discussion.md), [feedback](../elements/feedback.md), [coaching](../elements/coaching.md), [scaffolding](../elements/scaffolding.md), [articulation](../elements/articulation.md) and [reflection](../elements/reflection.md). Principles the pattern draws on: [Active Learning](../principles/active-learning.md), [Clear Structure](../principles/clear-structure.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Collaborative Learning](../principles/collaborative-learning.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md), [Guided Practice](../principles/guided-practice.md) and [Process-Based Writing](../principles/process-based-writing.md).
 
 This pattern is scoped to building skill in a practice learners can carry out at their own level, with an adult free to confer. Content that must be covered uniformly, learners who cannot yet work alone, and very short periods need other configurations or the adjustments above ([direct instruction](direct-instruction.md), [cognitive apprenticeship](cognitive-apprenticeship.md)). The structure supports observation and design reasoning; whether a workshop produces better unaided work than the same strategies and practice time organized another way, for which learners and at what cost in coverage, remains to be tested.
+
+## Claims
+
+- [Individual studies excluded from meta-analysis mostly showed no significant between-group differences, with single exceptions favouring the workshop for practical skills and online for satisfaction](../claims/excluded-studies-single-exceptions-favour-each-arm.md) [~W]
 
 ## Related Patterns
 

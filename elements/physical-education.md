@@ -13,7 +13,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 16 studies (5 causal, 5 quant-synthesis, 5 review, 1 associational), `q1`–`q4` · 5 of 16 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 18 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 18 report an effect size · 10 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
@@ -60,6 +60,9 @@ Effective PE instruction sequences observation, guided practice, and application
 - [An external focus of attention (on movement effects rather than body movements) enhances motor performance and learning](../claims/external-focus-attention-enhances-motor-learning.md) [+W]
 - [A motor skill learned from one point of view is best performed when the viewpoint during performance is the same](../claims/same-viewpoint-performance-film-motor-skill.md) [~W]
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-commitment-behaviour-learning.md) [~W]
+- [TGfU implementations in schools are typically short-term, which the review judges too short to achieve significant outcomes](../claims/tgfu-short-implementation-duration-limitation.md) [~W]
+- [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [~W]
+- [Motor and cognitive domains are the most frequent TGfU learning outcomes studied; the social domain is rare and often negative](../claims/tgfu-outcomes-motor-cognitive-dominant-social-rare.md) [~W]
 
 ## The evidence by question
 - *Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](../claims/feedback-outcome-measure-moderator-cognitive-physical.md) [+M]

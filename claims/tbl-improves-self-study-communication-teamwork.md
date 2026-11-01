@@ -73,3 +73,6 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [PBL-based teaching shows no significant advantage over LBL for self-directed learning, communication ability, or hands-on ability in Chinese standardized residency training](pbl-no-advantage-self-directed-communication-hands-on.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
+- [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](tbl-increases-learning-attitude.md) — related
+- [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related
+- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related

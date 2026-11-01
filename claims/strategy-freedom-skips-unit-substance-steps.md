@@ -49,3 +49,4 @@ An exploratory log-data analysis of practice transactions showed that when unit 
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](procedural-gains-no-difference-between-scaffolding-levels.md) — related
 - [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](students-prefer-low-scaffolded-strategy-free-tutor.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — a broader claim this one bears on
+- [The supplemental model risks students skipping online work and course overload](supplemental-model-challenges.md) — related

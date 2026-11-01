@@ -295,61 +295,69 @@ def run(args) -> None:
               f"fetched successfully ===", flush=True)
 
     if args.model:
-        state["status"] = "generating"
-        _save_state(state)
-        print(f"\n=== generating with {args.model} (prompt version: "
-              f"{args.prompt_version or 'CURRENT'}) ===", flush=True)
-        gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
-                   "--models", args.model, "--run-id", args.label,
-                   "--manifest", args.out, "--max-tokens", "24000",
-                   "--judges", "--concurrency", str(args.concurrency),
-                   # Quotes and citations are checked inside the correction loop, so a
-                   # paraphrased quote is fixed from the article (the retry is shown the
-                   # closest passage) rather than dropped at ingest, and a DOI of another
-                   # work is caught before anything is written. The GPT judge does not
-                   # gate: it cost 1.7x the extraction on batch 7 ($0.0047 vs $0.0027 an
-                   # article), which a full ERIC run cannot carry. It spot-checks a 5%
-                   # sample instead, and --judge-gate gpt restores gating for a run that
-                   # can afford it.
-                   "--require-source-quotes", "--ground-truth",
-                   "--judge-sample", "0.05", "--judge-sample-with", "gpt",
-                   "--max-correction-attempts", str(args.max_correction_attempts)]
-        if not args.resume:
-            gen_cmd.append("--overwrite")
-        if args.prompt_version:
-            gen_cmd += ["--prompt-version", args.prompt_version]
-        gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
-        if gen_rc != 0:
-            state["status"] = "error"
-            state["error_detail"] = f"Generation step exited {gen_rc} — see console log."
-            state["finished_at"] = _now()
+        # --post-only (2026-11-01): a batch whose ingest wrote its pages but stopped before
+        # the steps below (j-scrsyn-8: build_wiki_index refused a slug collision at the end of
+        # ingest) gets those steps exactly as written here, instead of a hand-kept copy of
+        # them that drifts out of date. Generation and ingest are skipped, so no record is
+        # regenerated and no manifest entry is written twice.
+        if args.post_only:
+            print(f"\n=== post-ingest steps only for {args.label!r} ===", flush=True)
+        else:
+            state["status"] = "generating"
             _save_state(state)
-            print(f"=== scrape batch {args.label!r} stopped: generation failed (exit {gen_rc}) ===", flush=True)
-            return
+            print(f"\n=== generating with {args.model} (prompt version: "
+                  f"{args.prompt_version or 'CURRENT'}) ===", flush=True)
+            gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
+                       "--models", args.model, "--run-id", args.label,
+                       "--manifest", args.out, "--max-tokens", "24000",
+                       "--judges", "--concurrency", str(args.concurrency),
+                       # Quotes and citations are checked inside the correction loop, so a
+                       # paraphrased quote is fixed from the article (the retry is shown the
+                       # closest passage) rather than dropped at ingest, and a DOI of another
+                       # work is caught before anything is written. The GPT judge does not
+                       # gate: it cost 1.7x the extraction on batch 7 ($0.0047 vs $0.0027 an
+                       # article), which a full ERIC run cannot carry. It spot-checks a 5%
+                       # sample instead, and --judge-gate gpt restores gating for a run that
+                       # can afford it.
+                       "--require-source-quotes", "--ground-truth",
+                       "--judge-sample", "0.05", "--judge-sample-with", "gpt",
+                       "--max-correction-attempts", str(args.max_correction_attempts)]
+            if not args.resume:
+                gen_cmd.append("--overwrite")
+            if args.prompt_version:
+                gen_cmd += ["--prompt-version", args.prompt_version]
+            gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
+            if gen_rc != 0:
+                state["status"] = "error"
+                state["error_detail"] = f"Generation step exited {gen_rc} — see console log."
+                state["finished_at"] = _now()
+                _save_state(state)
+                print(f"=== scrape batch {args.label!r} stopped: generation failed (exit {gen_rc}) ===", flush=True)
+                return
 
-        state["status"] = "ingesting"
-        _save_state(state)
-        print(f"\n=== ingesting {args.label!r} results into wiki pages ===", flush=True)
-        # safe_model_dirname, not the raw slug. eval_harness writes results to
-        # eval/runs/<label>/<model with "/" -> "__">/, and ingest_extractions
-        # takes that DIRECTORY name. Passing "z-ai/glm-5.3-flash" made it look
-        # in eval/runs/<label>/z-ai/glm-5.3-flash — a path that never exists —
-        # so every dashboard scrape launched WITH a model got through discover,
-        # fetch and generate and then failed at ingest, having paid for the
-        # generation. Only a model slug with no "/" in it would have worked,
-        # and OpenRouter slugs all have one.
-        ingest_cmd = [sys.executable, "-u", "scripts/ingest_extractions.py",
-                      "--run-id", args.label,
-                      "--model", eval_harness_safe_model_dirname(args.model),
-                      "--by", "process:wiki-ingest"]
-        ingest_rc = _run_chained_step(ingest_cmd, SCRAPE_CONSOLE_LOG_PATH)
-        if ingest_rc != 0:
-            state["status"] = "error"
-            state["error_detail"] = f"Ingest step exited {ingest_rc} — see console log."
-            state["finished_at"] = _now()
+            state["status"] = "ingesting"
             _save_state(state)
-            print(f"=== scrape batch {args.label!r} stopped: ingest failed (exit {ingest_rc}) ===", flush=True)
-            return
+            print(f"\n=== ingesting {args.label!r} results into wiki pages ===", flush=True)
+            # safe_model_dirname, not the raw slug. eval_harness writes results to
+            # eval/runs/<label>/<model with "/" -> "__">/, and ingest_extractions
+            # takes that DIRECTORY name. Passing "z-ai/glm-5.3-flash" made it look
+            # in eval/runs/<label>/z-ai/glm-5.3-flash — a path that never exists —
+            # so every dashboard scrape launched WITH a model got through discover,
+            # fetch and generate and then failed at ingest, having paid for the
+            # generation. Only a model slug with no "/" in it would have worked,
+            # and OpenRouter slugs all have one.
+            ingest_cmd = [sys.executable, "-u", "scripts/ingest_extractions.py",
+                          "--run-id", args.label,
+                          "--model", eval_harness_safe_model_dirname(args.model),
+                          "--by", "process:wiki-ingest"]
+            ingest_rc = _run_chained_step(ingest_cmd, SCRAPE_CONSOLE_LOG_PATH)
+            if ingest_rc != 0:
+                state["status"] = "error"
+                state["error_detail"] = f"Ingest step exited {ingest_rc} — see console log."
+                state["finished_at"] = _now()
+                _save_state(state)
+                print(f"=== scrape batch {args.label!r} stopped: ingest failed (exit {ingest_rc}) ===", flush=True)
+                return
 
         # --skip-doi here: Crossref resolution is cached, but a batch with
         # many freshly-cited DOIs would still pay full per-DOI latency on
@@ -409,7 +417,14 @@ def run(args) -> None:
         verify_rc = _run_chained_step(
             [sys.executable, "-u", "scripts/verify_citation_edits.py"],
             SCRAPE_CONSOLE_LOG_PATH)
-        if verify_rc != 0:
+        if verify_rc != 0 and args.verified:
+            # --verified: a person or agent has read the flagged edits (hand fixes in the tree,
+            # a merge's new evidence entry) and found them legitimate. The batch carries on with
+            # every step below, as written here; the old hand-kept postverify.sh had drifted and
+            # skipped the sort, removal, merges and validity checks added since.
+            print("=== flagged edits off citation lines were checked by hand (--verified); "
+                  "continuing ===", flush=True)
+        elif verify_rc != 0:
             state["status"] = "error"
             state["error_detail"] = (
                 "A citation pass edited a line that is not a citation — see the console "
@@ -657,7 +672,17 @@ def main() -> None:
                               "articles with no record under this --label; then ingest and validate as "
                               "usual. For a batch stopped after fetch, or one whose bad records were "
                               "deleted to be regenerated.")
+    parser.add_argument("--post-only", action="store_true",
+                         help="Run only the steps after ingest, for a batch whose ingest wrote its pages "
+                              "and stopped (needs --label and --model; implies --resume). The batch's "
+                              "new pages must be untracked, as the --new steps find them in the tree.")
+    parser.add_argument("--verified", action="store_true",
+                         help="The edits verify_citation_edits.py flags have been read and found legitimate: "
+                              "continue past that gate instead of stopping (with --post-only, to finish a "
+                              "batch that stopped there).")
     args = parser.parse_args()
+    if args.post_only:
+        args.resume = True
     if args.resume and not (args.label and args.model):
         parser.error("--resume needs the --label and --model of the batch being resumed")
     if not args.label:

@@ -3,14 +3,14 @@ type: claim
 title: Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)
 description: Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)
 id: vp-traditional-skills-advantage
-aliases: [vp-vs-traditional-skills-favored]
+aliases: [vp-vs-traditional-skills-favored, vp-vs-traditional-skills-smd-090]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-18
+source_checked: 2026-11-01
 sources:
   - id: kononowicz-aa-2019
     resource: "https://doi.org/10.2196/14676"
@@ -20,19 +20,29 @@ sources:
     i: 2
     kind: quant-synthesis
     rigour: 3
+  - id: kononowicz-a-a-2019
+    resource: "https://doi.org/10.2196/preprints.14676"
+    title: "Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/preprints.14676"
+    author: Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N.
+    q: 3
+    i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
 `q3 i2` Pooled analysis favors virtual patients over traditional education for skills (SMD=0.90, 95% CI 0.49 to 1.32), with improvements in clinical reasoning, procedural skills, and mixed procedural and team skills. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 `q3 i3` Pooled analysis favors virtual patients over traditional education for skills (SMD=0.90, 95% CI 0.49 to 1.32), a moderate to large effect. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
+
+`q3 i2` Pooled analysis favors virtual patients over traditional education for skills (SMD=0.90, 95% CI 0.49 to 1.32), with improvements in clinical reasoning, procedural skills, and a mix of procedural and team skills. [→ Kononowicz AA 2019](#kononowicz-aa-2019)
 
 ## Evidence
 
@@ -47,6 +57,18 @@ Random-effects meta-analysis of RCTs comparing virtual patients with traditional
 > "The pooled effect on skills outcomes was (SMD=0.90, 95% CI 0.49 to 1.32, I2=88%, n=897; Figure 4). Overall, this suggests that virtual patients have moderate to large positive effects in comparison with traditional education in the investigated types of skills."
 
 <!-- merged: same study as Kononowicz AA 2019 (preprint DOI)
+
+<!-- merged 2026-11-01 from vp-vs-traditional-skills-smd-090: that page's entry for this study, which differed from the one above, kept verbatim.
+### Kononowicz AA 2019
+
+Kononowicz AA, Woodham LA, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/14676
+
+`q3 · i2`
+
+Random-effects meta-analysis of trials comparing virtual patients with traditional education for skills outcomes; pooled SMD=0.90 (moderate to large), with very high heterogeneity (I2=88%). In 9 of 14 studies the virtual patient intervention produced better skills outcomes.
+
+> "The pooled effect on skills outcomes was (SMD=0.90, 95% CI 0.49 to 1.32, I2=88%, n=897; Figure 4). Overall, this suggests that virtual patients have moderate to large positive effects in comparison with traditional education in the investigated types of skills."
+-->
 ### Kononowicz A A 2019
 
 Kononowicz A A, Woodham L A, Edelbring S, Stathakarou N, Davies D, Saxena N, Tudor Car L, Carlstedt-Duke J, Car J, Zary N. (2019). Virtual Patient Simulations in Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research. https://doi.org/10.2196/preprints.14676
@@ -78,3 +100,4 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [Virtual simulations and mannequins or real persons show no significant difference in fostering clinical reasoning, but the evidence is inconclusive](vs-mannequin-rp-no-difference-clinical-reasoning.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — reports the opposite
+- [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md) — related

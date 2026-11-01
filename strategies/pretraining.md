@@ -56,9 +56,11 @@ Pretraining reduces extraneous cognitive load during the main lesson: when learn
 5. Proceed to the main explanation, now freed of terminology load ([Clear Structure](../principles/clear-structure.md))
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — a broader framing device; pretraining is a specific, content-focused variant
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — retrieves existing knowledge; pretraining builds missing knowledge
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — the language-focused application in literacy instruction
+- [Train teachers in the TGfU model before implementation to avoid applying it without respecting its essential characteristics](tgfu-teacher-training-before-implementation.md)
 
 ## Examples
 - **Mayer's lightning lesson**: learners first study a multimedia presentation naming the components of a lightning formation (updraft, downdraft, charged regions), then receive the causal explanation — pretrained learners outperformed controls on transfer tests

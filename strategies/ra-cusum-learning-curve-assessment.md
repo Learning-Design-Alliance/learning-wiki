@@ -46,6 +46,7 @@ The review recommends using risk-adjusted cumulative sum (RA-CUSUM) analysis to 
 ## Related Strategies
 
 - [Incorporate quality control measures with standardized photographic or video-based assessments using predefined anatomic landmarks](quality-control-photographic-video-llnd.md)
+- [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
 
 ## Examples
 -

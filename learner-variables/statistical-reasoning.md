@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (14 show a difference, 4 mixed, 1 no difference) · 8 studies (4 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 8 report an effect size · 19 claims rest on one study
+> **Evidence** · 20 claims (15 show a difference, 4 mixed, 1 no difference) · 9 studies (4 causal, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 9 report an effect size · 20 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -57,6 +57,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Acting on graphs while observing racetrack behaviour improved students' graph interpretation more than racing cars while observing automatic graph construction](../claims/embodied-graph-interaction-asymmetry.md) [+W] — instruction changes it
 - [Decorating curriculum diagrams with pictorial elements may engender 'graph-as-picture' misconceptions in students](../claims/diagram-decoration-graph-as-picture-risk.md) [+W] — instruction changes it
 - [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](../claims/clair-no-effect-deepening-reasoning.md) [-M] — instruction changes it
+- [Reasoning test performance was significantly lower in the red condition (Δ = -0.34), but the omnibus test across cognitive measures was not significant](../claims/red-color-reasoning-tests-effect.md) [+W] — instruction changes it
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

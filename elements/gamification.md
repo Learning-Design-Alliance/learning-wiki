@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (20 for, 14 mixed, 3 against) · 25 studies (8 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 36 claims rest on one study
+> **Evidence** · 38 claims (20 for, 15 mixed, 3 against) · 26 studies (8 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 37 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -61,6 +61,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](../claims/gamification-mixed-als-algorithm-knowledge.md) [-W]
 - [Review reports contradictory findings in prior literature on whether gamification yields long-term benefits for motivation and learning outcomes](../claims/prior-literature-contradictory-long-term-benefits-gamification.md) [~W]
 - [Scoping review of 33 studies finds increased motivation was the most frequently reported outcome of gamified applications in TEFL](../claims/scoping-review-gamification-tefl-motivation-most-reported-outcome.md) [+W]
+- [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](../claims/hfps-leave-one-out-sensitivity-pattern.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

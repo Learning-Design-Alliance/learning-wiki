@@ -52,7 +52,8 @@ The review recommends grounding classroom activity-break interventions in behavi
 - [Classroom active breaks show no reliable effect on mathematical fluency](../claims/active-breaks-null-effect-mathematical-fluency.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Refocus physical activity research on study quality, transparent reporting, fidelity monitoring and differentiation of intervention characteristics](pa-field-refocus-quality-transparency-strategy.md)
 
 ## Examples
 -

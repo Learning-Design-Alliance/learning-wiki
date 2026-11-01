@@ -51,6 +51,7 @@ The review's forward-looking recommendation is that future research should focus
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
 - [Develop a standardised simulation assessment template incorporating both subjective and objective validation assessments, adapted per neurosurgical skill](simulation-assessment-template-subjective-objective-validity.md)
 - [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
+- [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 
 ## Examples
 -

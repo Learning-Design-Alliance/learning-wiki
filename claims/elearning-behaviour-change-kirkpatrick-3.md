@@ -49,3 +49,4 @@ The review reports this from Schneider et al.'s randomised study of the CASUS vi
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [Video review improves resident behaviours in clinical practice (Kirkpatrick level 3), including leadership, prescribing accuracy and communication](video-review-kirkpatrick-level-3-behaviour.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [Educational interventions for FM residents targeting the informal curriculum rarely produced behavior change: most were evaluated only at Kirkpatrick level 2 and study quality was low](informal-curriculum-interventions-low-kirkpatrick-quality.md) — related

@@ -52,3 +52,4 @@ Meta-analysis of 40 publications involving 2190 residents (intervention 1111, LB
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
 - [Residents report greater satisfaction with PBL-based teaching than with LBL in Chinese standardized residency training](pbl-higher-teaching-satisfaction-chinese-srt.md) — related
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related

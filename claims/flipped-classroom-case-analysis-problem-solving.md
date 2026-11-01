@@ -76,3 +76,4 @@ Leave-one-out sensitivity analysis for case analysis/problem-solving ability: po
 - [Flipped classroom increases learning interest (pooled RR 1.42) but this pooled estimate shows significant publication bias](fc-learning-interest-rr-142-with-publication-bias.md) — related
 - [Flipped classroom improves teacher-student interaction (pooled RR 1.35), based on few studies](fc-teacher-student-interaction-rr-135.md) — related
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
+- [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related

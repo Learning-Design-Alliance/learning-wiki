@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (15 for, 25 mixed, 3 against) · 47 studies (16 review, 9 theoretical, 8 quant-synthesis, 7 causal, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 47 report an effect size · 34 claims rest on one study
+> **Evidence** · 47 claims (15 for, 29 mixed, 3 against) · 48 studies (17 review, 9 theoretical, 8 quant-synthesis, 7 causal, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,10 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Theoretical SDL shows a significant pooled advantage over TDL, while practical SDL does not reach statistical significance](../claims/sdl-theoretical-significant-practical-not.md) [~W]
 - [Internally-developed perception surveys are the most common SDL assessment method in undergraduate health professions education, followed by internally-developed knowledge exams](../claims/perception-surveys-most-common-sdl-assessment.md) [~W]
 - [Most SDL activity studies report positive or mixed/neutral outcomes, with negative outcomes rare](../claims/sdl-outcomes-mostly-positive-mixed.md) [+W]
+- [Fear of appearing incompetent acts as both a barrier and a facilitator to physicians' engagement in feedback-related SDL](../claims/fear-of-incompetence-dual-role-sdl-feedback.md) [~W]
+- [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](../claims/time-constraints-top-physician-sdl-barrier.md) [~W]
+- [Barriers and facilitators to SDL in CPD occur at five levels: individual, program, technological, environmental, and workplace/organizational](../claims/sdl-cpd-five-barrier-facilitator-levels.md) [~W]
+- [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

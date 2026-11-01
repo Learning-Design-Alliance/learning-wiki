@@ -58,3 +58,6 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — a broader claim this one bears on
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — a narrower finding that bears on this claim
+- [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](tbl-increases-learning-skill.md) — related
+- [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](tbl-increases-theoretical-examination-scores-china.md) — possibly the same claim (merge candidate)

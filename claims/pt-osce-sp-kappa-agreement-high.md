@@ -67,3 +67,4 @@ Random effects meta-analysis of kappa coefficients for intra-rater reliability o
 ## Related Claims
 - [Canada (excluding Quebec) is the only country of 17 requiring a clinical competency examination for licensure of domestic physical therapy graduates](canada-only-country-clinical-competency-exam-pt-licensure.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
+- [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related

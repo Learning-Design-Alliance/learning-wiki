@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (37 for, 52 mixed, 6 against) · 65 studies (24 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 16 of 65 report an effect size · 90 claims rest on one study
+> **Evidence** · 108 claims (42 for, 58 mixed, 8 against) · 70 studies (29 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 18 of 70 report an effect size · 103 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,19 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](../claims/pbl-subgroup-duration-region-heterogeneity.md) [~W]
 - [PBL teaching yields higher total scores than traditional teaching in orthopaedics education](../claims/pbl-higher-total-scores-orthopaedics.md) [~W]
 - [Students were generally satisfied with the PBL approach across the included studies](../claims/pbl-medical-psychology-student-satisfaction.md) [+W]
+- [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](../claims/pbl-adoption-barriers-chinese-pediatric-education.md) [~W]
+- [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](../claims/pbl-higher-theoretical-scores-chinese-radiology.md) [+W]
+- [The pooled PBL advantage on DREEM was robust in sensitivity analyses excluding the largest, heaviest, and smallest studies](../claims/pbl-dreem-sensitivity-analysis-robust.md) [+W]
+- [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](../claims/pbl-increases-theoretical-knowledge-scores-pediatric-china.md) [~W]
+- [Evidence for PBL's DREEM advantage comes from six small Chinese RCTs with randomization and blinding weaknesses](../claims/pbl-dreem-evidence-limited-chinese-rcts.md) [~W]
+- [PBL significantly increases skill scores compared with LBL in Chinese pediatric medical education (SMD 1.56)](../claims/pbl-increases-skill-scores-pediatric-china.md) [+W]
+- [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](../claims/pbl-higher-skill-scores-chinese-radiology.md) [~W]
+- [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](../claims/pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) [-W]
+- [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](../claims/pbl-questionnaire-positive-outcomes-radiology.md) [+W]
+- [PBL significantly increases case analysis scores compared with LBL in Chinese pediatric medical education (SMD 1.54)](../claims/pbl-increases-case-analysis-scores-pediatric-china.md) [-W]
+- [PBL+LBL significantly increases comprehensive ability scores compared with LBL alone](../claims/pbl-lbl-increases-comprehensive-ability-scores.md) [~W]
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](../claims/pbl-higher-dreem-than-lbl.md) [+W]
+- [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

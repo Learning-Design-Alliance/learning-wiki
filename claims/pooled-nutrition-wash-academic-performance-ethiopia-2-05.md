@@ -48,6 +48,7 @@ Random-effects meta-analysis of 19 studies (16 cross-sectional, 3 prospective co
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [Chronic iodine deficiency shows the strongest association with academic performance among the reviewed exposures (effect size 4.490)](chronic-iodine-deficiency-strongest-academic-association.md) — a narrower finding that bears on this claim
 - [Food insecurity is significantly associated with academic performance (pooled effect size 2.810)](food-insecurity-academic-performance-ethiopia.md) — related

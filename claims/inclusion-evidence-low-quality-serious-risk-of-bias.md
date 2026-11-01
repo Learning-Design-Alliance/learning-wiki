@@ -46,6 +46,7 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 
 
 ## Related Claims
+
 - Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes — related
 - Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies — related

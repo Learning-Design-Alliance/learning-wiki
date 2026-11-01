@@ -47,3 +47,4 @@ One-Way ANOVA with Tukey's HSD on the 69 studies using one assessment type (42 p
 ## Related Claims
 
 - [Internally-developed perception surveys are the most common SDL assessment method in undergraduate health professions education, followed by internally-developed knowledge exams](perception-surveys-most-common-sdl-assessment.md)
+- [The quality of evidence on the effectiveness of serious games in medical education is moderate as assessed by MERSQI](serious-games-medical-education-moderate-evidence.md) — related

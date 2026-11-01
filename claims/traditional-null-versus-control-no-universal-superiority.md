@@ -56,3 +56,4 @@ Under-18 primary network meta-analysis results section. The authors conclude: "T
 - [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](cooperative-rank-single-study-artifact.md) — related
 - [In the adolescent subgroup network, Functional games had the highest P-score (0.830; SMD 2.568), but rankings differed by age stratum and inconsistency remained significant](adolescent-subgroup-functional-games-highest.md) — related
 - [The treatment ordering is sensitive to outcome definition, participant age, and individual studies, including the reconstructed Orangi effect](ranking-sensitive-to-outcome-age-and-studies.md) — related
+- [TGfU studies generally report positive results for game performance and understanding, but reveal weaknesses in the social domain relative to other models](tgfu-positive-results-with-social-domain-weakness.md) — related

@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (14 for, 16 mixed, 2 against) · 31 studies (5 causal, 5 review, 5 associational, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 2 of 31 report an effect size · 31 claims rest on one study
+> **Evidence** · 43 claims (19 for, 22 mixed, 2 against) · 36 studies (7 quant-synthesis, 7 review, 5 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 3 of 36 report an effect size · 42 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -68,6 +68,17 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](../claims/digital-platforms-enhance-orthodontic-knowledge-retention.md) [+W]
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](../claims/videoconference-most-implemented-psychiatric-education.md) [+W]
 - [Among 42 reviewed e-learning interventions in undergraduate clinical medicine, the most common types were multimedia platforms and case-based learning, and most were interactive, asynchronous and home-accessible](../claims/elearning-review-42-studies-intervention-characteristics.md) [~W]
+- [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](../claims/dlrs-increase-prescribing-knowledge-test-scores.md) [+W]
+- [Digital learning resources show no between-group difference compared with clinical practice guidelines in most studies](../claims/dlr-versus-guidelines-no-difference.md) [~W]
+- [Online learning produces higher post-test knowledge and skill scores than offline learning in undergraduate medical education (SMD = 0.81)](../claims/online-learning-higher-post-test-scores-ume.md) [+W]
+- [The effect of offline computer-based digital education on cognitive skill gain compared with text-based learning is uncertain (very low grade evidence)](../claims/ocde-vs-text-based-cognitive-skills-uncertain.md) [~W]
+- [Offline computer-based digital education may improve medical doctors' knowledge gain compared with no intervention (low grade evidence)](../claims/ocde-vs-no-intervention-knowledge-gain.md) [+W]
+- [The effect of offline computer-based digital education on doctors' cognitive skills versus no intervention is uncertain, and a cluster RCT showed no difference in patient outcomes versus no intervention](../claims/ocde-vs-no-intervention-skills-and-patient-outcomes.md) [~W]
+- [The effect of offline computer-based digital education on medical doctors' cognitive skill gain compared with face-to-face learning is uncertain (very low grade evidence)](../claims/ocde-vs-face-to-face-cognitive-skills-uncertain.md) [~W]
+- [The effect of offline computer-based digital education on medical doctors' knowledge gain compared with face-to-face learning is uncertain (very low grade evidence)](../claims/ocde-vs-face-to-face-knowledge-uncertain.md) [~W]
+- [Caregivers valued e-learning for flexibility, accessibility, personalization, user-friendliness, and cost-effectiveness](../claims/e-learning-caregiver-benefits-flexibility-accessibility.md) [+W]
+- [Digital education on clinical practice guidelines produces little or no change in healthcare professionals' behaviour, except email-delivered spaced education](../claims/digital-education-guidelines-behaviour-null-except-spaced.md) [~W]
+- [A single retention-test comparison found online learning more effective than offline learning (SMD = 4.64)](../claims/retention-test-online-favored-single-study.md) [+W]
 
 ## Related Elements
 

@@ -86,3 +86,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](ivr-single-study-affective-outcomes-mixed.md) — related
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [Positive academic emotions generally promote learning effects, especially in high school and college students](positive-academic-emotions-promote-learning.md) — related
+- [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related

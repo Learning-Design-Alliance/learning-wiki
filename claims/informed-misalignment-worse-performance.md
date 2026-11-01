@@ -49,3 +49,4 @@ Exploratory analysis of the subsample of 128 participants who performed the task
 - [Mismatch between recording angle and expected angle increases cognitive load both during video observation and during task execution](expectation-mismatch-increases-cognitive-load.md) — related
 - [Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment](mental-rotation-moderates-alignment-benefit.md) — related
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
+- [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related

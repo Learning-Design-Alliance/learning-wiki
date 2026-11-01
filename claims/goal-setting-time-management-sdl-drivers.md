@@ -50,3 +50,4 @@ The review synthesises findings from multiple included studies and reports that 
 ## Related Claims
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — related
 - [Curricular elements such as learning activities and opportunities are associated with improving the student learning experience in SDL](curricular-elements-improve-sdl-experience.md) — related
+- [Clinical students' SRL behaviour falls into five distinct patterns, all showing little-planned SRL behaviour and limited goal setting](five-patterns-clinical-srl-behavior.md) — related

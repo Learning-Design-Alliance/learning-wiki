@@ -56,3 +56,4 @@ A moderator analysis of achievement-measure type in the meta-analysis found the 
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related
 - [Social and temporal comparison effects are stronger in studies using grades rather than test scores as achievement indicators](ipd-meta-grades-stronger-social-temporal-effects-than-test-scores.md) — related
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
+- [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](parental-involvement-positive-fv-all-outcomes.md) — related

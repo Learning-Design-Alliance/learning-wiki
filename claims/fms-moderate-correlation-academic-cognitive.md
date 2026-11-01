@@ -45,6 +45,7 @@ Multilevel null mixed-effects meta-analysis of 1110 effect sizes from 143 sample
 
 
 ## Related Claims
+
 - [Age and age variance do not moderate FMS–academic-cognitive links, inconsistent with a maturation account](age-does-not-moderate-fms-links.md) — a narrower finding that bears on this claim
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Writing shows the strongest FMS correlation among academic domains, exceeding reading](writing-strongest-academic-domain-fms.md) — related
@@ -56,3 +57,8 @@ Multilevel null mixed-effects meta-analysis of 1110 effect sizes from 143 sample
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — a narrower finding that bears on this claim
 - [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related
 - [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite
+- [Manual dexterity shows a significant positive very weak to weak association with mathematical skills, despite mixed findings](manual-dexterity-weak-positive-mathematics-association.md)
+- [Fine motor integration shows a significant very weak to strong positive association with mathematics performance, the strongest-supported fine motor component](fine-motor-integration-positive-mathematics-association.md) — a narrower finding that bears on this claim
+- [Fine motor integration shows a significant very weak to strong positive relationship with reading performance, but its unique contribution diminishes when other predictors are controlled](fine-motor-integration-reading-association-covariate-limited.md) — a narrower finding that bears on this claim
+- [Total fine motor scores are significantly and positively associated with mathematics performance in school-aged children, with strong review-level evidence](total-fine-motor-scores-positive-mathematics-association.md) — a narrower finding that bears on this claim
+- [Total gross motor scores show a very weak to moderate positive association with mathematical skills despite conflicting findings](total-gross-motor-scores-mathematics-association.md) — related

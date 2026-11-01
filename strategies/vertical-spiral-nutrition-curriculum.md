@@ -49,6 +49,7 @@ The review recommends curricular innovations that embed nutrition across all yea
 - [Provide dedicated nutrition counselling slots, extended consultations and postgraduate nutrition pathways including lifestyle medicine curricula and nutrition subspecialties](clinical-integration-postgraduate-nutrition-pathways.md)
 - [Adopt a dietitian–clinician co-teacher model and multidisciplinary teaching teams to clarify roles and increase appropriate referrals](dietitian-clinician-co-teacher-model.md)
 - [Integrate culinary medicine into compulsory German medical curricula with prevention and interprofessional learning contexts](integrate-cm-into-german-medical-curricula.md)
+- [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 
 ## Examples
 -

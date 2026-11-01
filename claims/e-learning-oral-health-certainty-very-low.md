@@ -48,3 +48,4 @@ GRADE certainty assessment of the five pooled outcomes using GRADEpro GDT. Plaqu
 - [E-learning shows no significant overall effect on gingival index compared with conventional oral health education](e-learning-no-effect-gingival-index.md) — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
 - [E-learning shows no significant overall effect on plaque index compared with conventional oral health education](e-learning-no-effect-plaque-index.md) — related
+- [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md) — related

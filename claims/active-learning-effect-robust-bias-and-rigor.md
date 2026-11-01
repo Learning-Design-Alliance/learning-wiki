@@ -50,3 +50,4 @@ Sensitivity analyses of the examination-score dataset across four categories of 
 - [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — a broader claim this one bears on
 - Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs — related
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](flipped-effect-robust-to-design-and-equivalence-controls.md) — related

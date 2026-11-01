@@ -45,6 +45,7 @@ Theoretical argument in the Theory of Learning section: the author roots DL2F in
 
 
 ## Related Claims
+
 - Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation — related
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity — related
@@ -54,3 +55,4 @@ Theoretical argument in the Theory of Learning section: the author roots DL2F in
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
 - [Included studies grounded their learning environments in diverse learning theories, and the review argues no single theory suffices](diverse-learning-theories-complementary-use.md) — related
+- [Included studies rarely articulated learning theories explicitly, yet their CAI activities aligned with contemporary theories of learning](learning-theories-rarely-explicit-cai.md)

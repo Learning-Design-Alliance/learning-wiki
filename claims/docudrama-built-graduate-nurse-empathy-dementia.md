@@ -54,3 +54,4 @@ Scoping review of studies on graduate nurses caring for people living with demen
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — related
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](no-studies-assess-graduate-nurse-dementia-knowledge.md) — related
+- [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](tdl-virtual-reality-improved-empathy-confidence.md) — related

@@ -49,3 +49,4 @@ Qualitative subtheme from interviews across three participant groups; participan
 - [Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training](basic-perioperative-competencies-transfer-readily-neurosurgical-nurses.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
+- [The framework adapts Benner's novice-to-expert model because UK nurses now enter practice at degree level with baseline clinical competencies already attained](benner-model-adapted-degree-entry-nurses.md) — related

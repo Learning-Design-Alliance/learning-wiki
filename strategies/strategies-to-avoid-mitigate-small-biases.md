@@ -41,7 +41,9 @@ The paper's second stated purpose is to "recommend strategies researchers can us
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
 
 ## Related Strategies
+
 - [Asymdystopia Small Biases False Inferences](../theories/asymdystopia-small-biases-false-inferences.md)
+- [Improve robustness of color-effect research through statistical power, open practices, and multi-lab collaborations](color-research-power-open-practices-strategy.md)
 
 ## Examples
 -

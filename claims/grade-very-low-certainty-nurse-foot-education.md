@@ -45,6 +45,7 @@ The review's own GRADE assessment across nine studies (589 participants for know
 
 
 ## Related Claims
+
 - [Educational programmes are consistently associated with statistically significant improvements in nurses' knowledge of diabetic foot care across nine quasi-experimental studies, with very low certainty of evidence](educational-programmes-improve-nurse-diabetic-foot-knowledge.md) — a narrower finding that bears on this claim
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
@@ -60,3 +61,5 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
 - Methodological quality of included studies is generally low, with only one RCT rated high quality — related
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
+- [GRADE quality of evidence is very low for knowledge and low for skills](aee-grade-quality-very-low-knowledge-low-skills.md)
+- [The evidence base on online versus alternative training for licensed health professionals is limited by small samples, high risk of bias, and imprecise effect estimates](online-training-evidence-base-limited-quality.md) — a narrower finding that bears on this claim

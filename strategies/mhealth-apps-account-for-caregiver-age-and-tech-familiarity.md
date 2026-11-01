@@ -47,6 +47,7 @@ The review recommends that developers of mobile health applications for informal
 ## Related Strategies
 
 - [Investigate the quality of learning acquired through the internet in future studies](investigate-quality-of-internet-acquired-learning.md)
+- [Provide professional training to informal caregivers in the technology when implementing e-learning support](professional-training-informal-caregivers-e-learning.md)
 
 ## Examples
 -

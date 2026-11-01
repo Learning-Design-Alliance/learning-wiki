@@ -83,6 +83,8 @@ Independent t-test across the 92 studies comparing creativity ratings for PE tea
 
 
 ## Related Claims
+
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
+- [Most interventions with significant positive academic performance effects (13 of 20) were delivered by staff with higher professional qualifications](thirteen-of-twenty-positive-interventions-high-qualification-staff.md)

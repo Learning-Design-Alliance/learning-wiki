@@ -49,7 +49,8 @@ The review documents that educators incorporate activities to promote reflection
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](../claims/reflective-capacity-essential-professional-competence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate role modeling, time for reflection, and social small-group strategies into undergraduate EBP curricula](ebp-curricula-role-modeling-reflection-social-strategies.md)
 
 ## Examples
 -

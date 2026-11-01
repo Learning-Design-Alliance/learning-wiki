@@ -55,6 +55,7 @@ The review recommends that tertiary educators incorporate CMB (brief 4–10 min 
 
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 
 ## Examples
 -

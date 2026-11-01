@@ -55,3 +55,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related
 - [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](acute-physical-activity-improves-language-performance.md) — related
 - [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related
+- [Studies showing positive academic performance effects used longer weekly intervention times than studies with null or negative effects](longer-weekly-intervention-time-in-positive-effect-studies.md) — related

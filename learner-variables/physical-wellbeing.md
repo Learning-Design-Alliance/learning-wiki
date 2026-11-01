@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (76 show a difference, 23 mixed, 11 no difference) · 54 studies (19 causal, 13 review, 11 associational, 7 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 12 of 54 report an effect size · 106 claims rest on one study
+> **Evidence** · 119 claims (77 show a difference, 28 mixed, 14 no difference) · 60 studies (19 causal, 14 review, 12 quant-synthesis, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 12 of 60 report an effect size · 115 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -147,6 +147,15 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](../claims/acute-physical-activity-improves-overall-academic-outcomes.md) [+W] — learners who differ on it differ in outcomes
 - [Acute physical activity increases on-task classroom behavior, with off-task behavior patterns differing by time of day](../claims/acute-physical-activity-increases-on-task-behavior.md) [~M] — learners who differ on it differ in outcomes
 - [In-classroom physical activity breaks produce a large significant increase in primary school children's moderate-to-vigorous physical activity levels](../claims/icpab-increase-mvpa-primary-children.md) [+M] — instruction changes it
+- [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](../claims/obesity-achievement-indirect-attitude-perception.md) [~M] — learners who differ on it differ in outcomes
+- [Chronic physical activity shows a medium positive effect on academic achievement while acute physical activity shows a null effect](../claims/chronic-pa-medium-acute-pa-null-effect.md) [~M] — learners who differ on it differ in outcomes
+- [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](../claims/classroom-physical-activity-no-effect-overall-pa.md) [-M] — instruction changes it
+- [Cooking, taste-testing, games, role-playing, and gardening had the greatest effects on nutrition outcomes in primary school children](../claims/cooking-taste-testing-games-role-playing-gardening-effective-primary-school.md) [+M] — instruction changes it
+- [Evidence for physical activity benefits on academic achievement in youth is inconsistent: six of twelve reviews concluded benefits, six mixed or inconclusive](../claims/pa-academic-evidence-inconsistent-six-six.md) [~M] — learners who differ on it differ in outcomes
+- [Increased physical activity does not negatively affect academic performance, but academic performance is not caused solely by increased physical activity](../claims/pa-does-not-harm-academic-performance-not-sole-cause.md) [-M] — learners who differ on it differ in outcomes
+- [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](../claims/little-evidence-obesity-reading-science-attainment.md) [-M] — learners who differ on it differ in outcomes
+- [Obesity is associated with lower maths attainment in adolescent girls but not younger girls or boys](../claims/obesity-associated-lower-maths-adolescent-girls.md) [~M] — learners who differ on it differ in outcomes
+- [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](../claims/psychosocial-executive-mediation-obesity-achievement.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

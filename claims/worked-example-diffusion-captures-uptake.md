@@ -57,3 +57,4 @@ A single fictional network scenario with printed centrality values (Table 1): no
 - Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies — related
 - A citation analysis of 276 articles citing the DEGREE 2000 paper identifies six groups of aspects the community referred to, sampled from 53 articles — related
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related
+- [Game implementations were mostly single-institution and single-setting, limiting evidence quality and diffusion](single-institution-single-setting-implementations.md) — related

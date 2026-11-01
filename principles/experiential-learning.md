@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (30 for, 11 mixed) · 45 studies (12 causal, 9 quant-synthesis, 9 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 45 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (31 for, 12 mixed) · 47 studies (12 causal, 10 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 47 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Experiential learning interventions improve physical activity behaviour in school-aged children, with six of eight studies showing medium to large effects](../claims/experiential-learning-improves-child-pa-behaviour.md) [+W]
 - [Heterogeneity of experiential learning intervention effects is high for behaviour outcomes and low for attitude outcomes, with minimal publication bias](../claims/heterogeneity-publication-bias-experiential-pa.md) [~W]
 - [Half of the reviewed research education programs included a mentoring component and programs were often multifaceted with experiential learning](../claims/research-education-programs-mentoring-experiential.md) [+W]
+- [Pre-training practical evaluation with instructor feedback improved CPR skill performance except hand placement](../claims/pre-training-evaluation-feedback-improves-skills.md) [+W]
+- [Taste-testing showed large effects on behavioral outcomes but was usually combined with other experiential strategies](../claims/taste-testing-large-behavioral-effects-usually-combined.md) [~W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

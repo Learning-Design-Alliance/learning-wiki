@@ -59,9 +59,11 @@ Physical activity breaks leverage the link between aerobic movement and subseque
 5. Periodically offer student choice of activity to sustain motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M], and evaluate timing against on-task behavior afterward ([Assessment](../elements/assessment.md) of the routine itself).
 
 ## Related Strategies
+
 - [Active Transitions](../strategies/active-transitions.md) — embeds the same movement principle into the transition itself rather than a separate break
 - [Active Recess](../strategies/active-recess.md) — extends structured movement to unstructured time; complements rather than replaces in-class breaks
 - [Act It Out](../strategies/act_it_out.md) — movement in service of content encoding rather than attention restoration
+- [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — Free classroom platform with channels such as *Moose Tube* (energizing dance), *Flow* and *Think About It* (mindfulness and breathing), and *Maximo* (stretching with vocabulary), used in the majority of U.S. elementary schools.

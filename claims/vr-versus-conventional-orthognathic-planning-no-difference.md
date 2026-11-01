@@ -49,3 +49,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](vr-surgery-training-improves-knowledge-self-confidence.md) — related

@@ -45,6 +45,7 @@ The same pooled meta-analysis reported very high heterogeneity across included s
 
 
 ## Related Claims
+
 - [EdTech's direct effect on student attitudes is small and non-significant (d = 0.1308), but attitudes correlate significantly with attainment (r = 0.694)](edtech-attitudes-non-significant-but-correlate-attainment.md) — a narrower finding that bears on this claim
 - [EdTech interventions significantly improve student motivation (d = 0.375), but motivation does not significantly correlate with attainment (r = 0.608, p = 0.2763)](edtech-motivation-effect-no-attainment-correlation.md) — related
 - [Intensive mathematics interventions for K-3 students with or at risk for MD yield an overall pooled mean effect size of β = 0.61 with substantial heterogeneity](pooled-effect-early-math-interventions.md) — a broader claim this one bears on

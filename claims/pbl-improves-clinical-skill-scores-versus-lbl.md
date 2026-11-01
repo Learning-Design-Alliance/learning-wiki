@@ -105,3 +105,11 @@ Umbrella review reports the Li et al. meta-analysis of 76 RCTs in Chinese standa
 - [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](pbl-no-advantage-diagnostic-imaging-skills.md) — a narrower finding that bears on this claim
 - [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](pbl-no-significant-critical-thinking-first-year.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
+- [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
+- [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — a narrower finding that bears on this claim
+- [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](pbl-higher-theoretical-scores-chinese-radiology.md) — related
+- [PBL significantly increases case analysis scores compared with LBL in Chinese pediatric medical education (SMD 1.54)](pbl-increases-case-analysis-scores-pediatric-china.md) — related
+- [PBL significantly increases skill scores compared with LBL in Chinese pediatric medical education (SMD 1.56)](pbl-increases-skill-scores-pediatric-china.md) — possibly the same claim (merge candidate)
+- [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
+- [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — related
+- [PBL+LBL significantly increases medical writing scores compared with LBL alone](pbl-lbl-increases-medical-writing-scores.md) — related

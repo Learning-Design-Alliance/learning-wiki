@@ -44,7 +44,8 @@ Based on identified gaps, the review recommends that researchers move beyond sel
 
 
 ## Related Strategies
-- 
+
+- [Study empathy in clinical encounters using observational and qualitative methods rather than self-report alone](observational-qualitative-empathy-research-strategy.md)
 
 ## Examples
 -

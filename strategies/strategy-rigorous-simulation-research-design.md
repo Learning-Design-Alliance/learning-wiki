@@ -56,6 +56,8 @@ The review recommends that future research strengthen study designs through adeq
 - [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 - [Develop comprehensive, standardized e-learning programs for nurses in hospitals and clinics, with standardized content and assessment tools](standardized-elearning-programs-pressure-injury-nurse-training.md)
 - [Employ standardized, validated UX questionnaires and commercial HMDs to strengthen and scale XR education research](standardized-ux-surveys-and-hmds-for-xr-research.md)
+- [Enhance SBLE quality by applying standards, specifying objectives, using externally validated scenarios, and employing rigorous evaluation](four-recommendations-quality-sble-communication.md)
+- [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 
 ## Examples
 -

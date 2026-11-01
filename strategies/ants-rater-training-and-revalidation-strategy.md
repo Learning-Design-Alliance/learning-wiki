@@ -48,7 +48,8 @@ Based on the review's findings, the authors recommend that raters receive system
 - [Validity evidence for the ANTS system was reported in 94% of studies, but no single study reported all four validity evidence sources](../claims/ants-validity-evidence-94-percent-incomplete.md) [+W]
 
 ## Related Strategies
-- 
+
+- [EBP educators should map assessment tools to targeted EBP domains and develop tools for assessment gaps such as the apply step](map-ebp-assessment-tools-to-domains.md)
 
 ## Examples
 -

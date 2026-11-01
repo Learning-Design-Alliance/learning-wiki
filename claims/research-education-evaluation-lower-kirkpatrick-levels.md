@@ -64,6 +64,7 @@ The review reports that organisational and practice outcomes were rarely measure
 
 
 ## Related Claims
+
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — a narrower finding that bears on this claim
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — a narrower finding that bears on this claim
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — a narrower finding that bears on this claim
@@ -71,3 +72,5 @@ The review reports that organisational and practice outcomes were rarely measure
 - [PBL in family medicine residency programs is associated with high learner satisfaction, though not always rated above lectures](pbl-high-learner-satisfaction-family-medicine-pgme.md) — related
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [Research education programs in health settings often fail to account for adult learning principles and theories and are not always formally evaluated](research-education-programs-adult-learning-principles-gap.md) — related
+- [Educational interventions for FM residents targeting the informal curriculum rarely produced behavior change: most were evaluated only at Kirkpatrick level 2 and study quality was low](informal-curriculum-interventions-low-kirkpatrick-quality.md)
+- [No included systematic review reported outcomes on nurses' practice change (Kirkpatrick level 3), so the transfer of e-learning to practice remains unknown](no-behavior-outcomes-e-learning-nursing-ce.md) — related

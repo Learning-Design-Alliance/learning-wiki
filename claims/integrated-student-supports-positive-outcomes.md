@@ -52,3 +52,4 @@ This is the report's synthesis finding for Pillar 1, based on 27 studies of inte
 - [One-on-one service delivery may not be the only way to target services to individual student needs](targeting-possible-without-one-on-one-delivery.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- [Children in contact with Children's Social Care services perform worse than their peers on all examined educational outcomes](csc-contact-worse-educational-outcomes.md) — related

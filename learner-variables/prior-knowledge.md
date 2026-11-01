@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (123 show a difference, 58 mixed, 23 no difference) · 163 studies (49 causal, 34 review, 28 associational, 23 theoretical, 11 design, 9 quant-synthesis, 9 qualitative), `q1`–`q4` · 24 of 163 report an effect size · 187 claims rest on one study
+> **Evidence** · 205 claims (123 show a difference, 59 mixed, 23 no difference) · 164 studies (49 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 24 of 164 report an effect size · 188 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -252,6 +252,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](../claims/low-prior-knowledge-greatest-gains-multi-agent.md) [+M] — learners who differ on it differ in outcomes
 - [An expertise reversal pattern: AR provides substantial benefits to novices with diminishing returns for experienced surgeons](../claims/ar-expertise-reversal-effect.md) [+M] — an instructional effect differs with it
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](../claims/vrs-performance-gains-novice-intermediate-only.md) [~M] — an instructional effect differs with it
+- [Student expertise level and course type explain heterogeneity in PBL+LBL versus LBL effects](../claims/expertise-and-course-type-heterogeneity-pbl-lbl.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

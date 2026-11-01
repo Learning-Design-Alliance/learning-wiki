@@ -45,8 +45,10 @@ Thematic analysis of verbatim transcripts of four nominal group meetings with 20
 
 
 ## Related Claims
+
 - [Existing digital prescribing-education resources are largely restricted to local universities and unknown to teachers elsewhere, showing little collaboration among CPT educators](cpt-resources-locally-restricted-little-collaboration.md) — related
 - [European CPT teachers rank prescribing scenarios for clinical cases as the most needed online problem-based teaching resource](prescribing-scenarios-ranked-most-needed-cpt-resource.md) — related
 - [Teach-the-teacher materials on problem-based learning were the top-ranked suggestion in the first nominal group meeting](teach-the-teacher-top-ranked-first-meeting.md) — related
 - [International differences in guidelines, regulations and prescribing attitudes may reduce applicability of shared resources, which the authors argue can be overcome by adaptable materials aimed at common prescribing elements](adaptable-materials-overcome-international-differences.md) — related
 - [The planetary health impact of prescribing emerged as a new learning outcome for clinical pharmacology and therapeutics education](planetary-health-new-cpt-learning-outcome.md) — a narrower finding that bears on this claim
+- [There is no clear consensus among CPT teachers on which prescribing competencies medical students should have when they graduate](no-consensus-cpt-teachers-prescribing-competencies.md)

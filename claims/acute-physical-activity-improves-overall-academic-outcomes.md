@@ -49,8 +49,12 @@ Random-effects univariate meta-analysis (restricted maximum likelihood) pooling 
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](acute-physical-activity-improves-language-performance.md) — a narrower finding that bears on this claim
 - [Acute physical activity improves mathematics performance in school-aged youth (Hedge's g = 0.29 multivariate)](acute-physical-activity-improves-mathematics-performance.md) — a narrower finding that bears on this claim
 - [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related
 - [Including behavior change techniques in acute physical activity interventions is the only moderator associated with larger academic effects (g = 0.54 vs 0.23)](behavior-change-techniques-moderate-acute-pa-academic-effects.md) — related
 - [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](acute-physical-activity-children-attention-weak-evidence.md) — reports the opposite
+- [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md)
+- [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — related
+- [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — related

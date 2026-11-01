@@ -51,3 +51,4 @@ The commentary's audit of systematic reviews and meta-analyses in the topical co
 - General chemistry assessment research is geographically concentrated in developed countries and published in a small set of high-quartile chemistry education journals — a narrower finding that bears on this claim
 - Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe — related
 - [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim
+- [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — related

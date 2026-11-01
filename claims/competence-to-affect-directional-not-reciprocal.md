@@ -54,3 +54,4 @@ Nested model comparison in the cross-lagged path analysis of the longitudinal su
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — reports the opposite
 - [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](girls-higher-evaluation-math-anxiety.md) — related
 - [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](low-achieving-girls-higher-anxiety-risk.md) — a narrower finding that bears on this claim
+- [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md) — reports the opposite

@@ -15,7 +15,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 31 studies (9 quant-synthesis, 7 causal, 7 theoretical, 6 review, 2 associational), `q1`–`q4` · 8 of 31 report an effect size · 13 claims rest on one study
+> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 33 studies (9 quant-synthesis, 8 review, 7 causal, 7 theoretical, 2 associational), `q1`–`q4` · 8 of 33 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,8 @@ This pattern is scoped to a course or unit in which control is handed to learner
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](../claims/motivational-apprenticeship-three-phases.md) [~W]
 - [Personalized learning systems that assume high student self-regulation can overburden students, so low performers learn less despite receiving skill-appropriate content](../claims/self-regulatory-burden-harms-low-performers.md) [~W]
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](../claims/teacher-control-versus-student-autonomy-online.md) [~W]
+- [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](../claims/time-constraints-top-physician-sdl-barrier.md) [~W]
+- [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](../claims/learning-plans-effects-limited-goal-setting.md) [~W]
 
 ## Related Patterns
 - [Self-Regulated Learning](self-regulated-learning.md) — the within-task plan–monitor–act prompting this pattern uses in its teaching step

@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 15 studies (9 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 6 of 15 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (12 for, 13 mixed, 1 against) · 16 studies (10 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 7 of 16 report an effect size · 25 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -46,6 +46,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](../claims/flipped-classroom-effect-similar-rct-observational.md) [~W]
 - [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](../claims/flipped-pharmacy-country-subgroup.md) [~W]
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](../claims/flipped-effect-robust-to-design-and-equivalence-controls.md) [+W]
+- [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](../claims/flipped-classroom-studies-high-heterogeneity.md) [~W]
+- [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](../claims/flipped-classroom-small-significant-advantage-health-professions.md) [+W]
+- [About 70% of surveyed students prefer flipped to traditional classrooms](../claims/students-prefer-flipped-classroom-survey.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

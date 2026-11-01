@@ -46,5 +46,7 @@ In the review's analysis of primary CA contexts, it reports that "Four studies e
 
 
 ## Related Claims
+
 - [Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding](only-four-ca-studies-apply-learning-theories.md) — possibly the same claim (merge candidate)
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](splashlearn-agency-gamification-alignment.md) — related
+- [Included studies rarely articulated learning theories explicitly, yet their CAI activities aligned with contemporary theories of learning](learning-theories-rarely-explicit-cai.md)

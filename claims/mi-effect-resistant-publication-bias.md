@@ -45,6 +45,7 @@ Publication-bias assessment of the meta-analysis using funnel scatter plot, clip
 
 
 ## Related Claims
+
 - Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis — related
 - Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies — related
 - [The meta-analytic effect of learning stations is resistant to publication bias](learning-stations-publication-bias-resistance.md) — related

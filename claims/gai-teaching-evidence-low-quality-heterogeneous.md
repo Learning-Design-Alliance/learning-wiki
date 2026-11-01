@@ -47,3 +47,4 @@ Risk-of-bias assessment with the Cochrane tool and GRADE rating across the 11 in
 ## Related Claims
 - [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — related
 - Evidence quality is limited by heterogeneity in VR platforms, publication bias, and unclear randomization in included trials — related
+- [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — related

@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (27 for, 18 mixed, 1 against) · 31 studies (10 causal, 9 associational, 5 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 7 of 31 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (28 for, 18 mixed, 1 against) · 32 studies (10 causal, 9 associational, 6 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 7 of 32 report an effect size · 46 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -105,6 +105,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Neither choice nor utility value manipulations improve end-of-session regression test performance, and the two manipulations do not interact](../claims/no-performance-effects-no-uv-choice-interaction.md) [-W]
 - [Subjective task value and cost emerge as two distinct factors in daily motivational appraisals of vocabulary learning](../claims/value-cost-two-distinct-factors-daily-appraisals.md) [+W]
 - [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](../claims/enjoyment-predicts-willingness-to-wait.md) [~W] — attached 2026-10-27 from Amrita Bains et al. (2023), which proposed "Liking/wanting decomposition of reward as applied to reading motivation".
+- [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [+W]
 
 ## Related Theories
 

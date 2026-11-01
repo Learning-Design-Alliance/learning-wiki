@@ -40,6 +40,7 @@ Based on student perceptions in this study, the authors conclude that "AI videos
 
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
 - [Survey students on preferences before designing instructional videos](survey-student-preferences-before-video-design.md)
+- [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 
 ## Examples
 

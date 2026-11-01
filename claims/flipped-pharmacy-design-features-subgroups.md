@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-01
 sources:
   - id: cui-he-2023
     resource: "https://doi.org/10.1186/s12909-023-04865-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Subgroups of flipped classrooms with a quiz at the start of class (SMD = 3.91), patient case discussion in-class (SMD = 2.14), and short recorded pre-class videos under 18 minutes (SMD = 0.63) each showed advantages over traditional approaches. [→ Cui He 2023](#cui-he-2023)
@@ -52,3 +53,4 @@ Subgroup meta-analyses of flipped-classroom design features (Table 3 and text). 
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
+- [Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions](in-class-quiz-moderator-flipped-classroom-effect.md) — related

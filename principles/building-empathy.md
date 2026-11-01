@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (12 for, 4 mixed) · 27 studies (10 causal, 8 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 10 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 30 studies (10 causal, 8 quant-synthesis, 7 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +107,10 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - [Personas developed without care and empathy can create stereotypes](../claims/personas-risk-stereotypes-without-empathy.md) [~W]
 - [A combined intervention of positive information about peers with disabilities plus imagined contact improved all measured outcomes in elementary school children](../claims/combined-information-imagined-contact-improves-attitudes-toward-peers-with-disabilities.md) [+W]
 - [In-person group formats were more effective than online or independent formats for empathy training](../claims/in-person-group-format-empathy-training.md) [+W]
+- [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](../claims/nm-qualitative-evaluations-competency-impacts.md) [+W]
+- [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](../claims/role-play-benefits-and-artificiality-cst.md) [+W]
+- [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
+- [Among well-described quantitative NM programme evaluations, statistically significant impacts were reported for increased empathy (three programmes) and increased perspective-taking/reflection (one programme)](../claims/nm-significant-gains-empathy-perspective-taking.md) [+W]
 
 ## Related Principles
 - [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — empathy often grows when learners examine the same issue from more than one position.

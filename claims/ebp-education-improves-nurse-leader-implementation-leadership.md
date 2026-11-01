@@ -51,3 +51,4 @@ Meta-analysis of three studies measuring implementation leadership with instrume
 - [Educational interventions for nurse leaders improve implementation climate (SMD = 1.60)](nurse-leader-ebp-education-improves-implementation-climate.md) — related
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) — related
 - Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
+- [Most evaluated EBP educational interventions teach only some of the five EBP steps, with critical appraisal (Step 3) taught most frequently](ebp-interventions-focus-on-critical-appraisal-step.md) — related

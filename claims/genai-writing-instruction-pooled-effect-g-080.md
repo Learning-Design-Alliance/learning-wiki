@@ -63,6 +63,7 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 
 
 ## Related Claims
+
 - Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Sample size category (21–40 vs. >40 participants) does not significantly moderate GenAI writing effects](sample-size-nonsignificant-moderator-genai-writing.md) — related

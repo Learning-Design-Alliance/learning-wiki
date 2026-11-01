@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 45 studies (13 quant-synthesis, 12 review, 11 causal, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 45 report an effect size · 18 claims rest on one study
+> **Evidence** · 32 claims (22 for, 8 mixed, 2 against) · 48 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 48 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,9 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](../claims/ivr-debriefing-knowledge-subgroup-trend.md) [~W]
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](../claims/feedback-debriefing-most-important-simulation-components.md) [+W]
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](../claims/debriefing-positive-effect-on-nts-ability.md) [+W]
+- [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](../claims/debriefing-central-sble-palliative-communication.md) [+W]
+- [Roundtable debriefing in the emergency department produced no statistically significant reduction in patient fall rates](../claims/roundtable-debriefing-no-fall-reduction.md) [-W]
+- [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](../claims/trainees-value-reflective-and-bereaved-caregiver-involvement.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action

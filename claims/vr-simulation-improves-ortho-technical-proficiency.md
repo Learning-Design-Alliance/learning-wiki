@@ -57,3 +57,4 @@ Thematic synthesis of the review's VR simulation theme, drawing on a systematic 
 - [Computer vision and machine learning enable objective, automated surgical skill assessment](computer-vision-objective-skill-assessment.md) — related
 - [Automated scoring and feedback technologies help trainees save time and self-monitor progress, but VR assessment may measure efficiency rather than safe practices](automated-feedback-efficiency-limitation.md) — related
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — a broader claim this one bears on
+- [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — a broader claim this one bears on

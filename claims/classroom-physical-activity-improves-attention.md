@@ -144,3 +144,7 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [On-task behavior increased immediately after a 25-minute recess in a small uncontrolled pre-post study](on-task-behavior-increases-after-recess.md) — a narrower finding that bears on this claim
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
+- [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related
+- [Acute on-task behaviour improvements from classroom-based physical activity may dissipate over time, with no chronic between-group difference in behaviour incidents](behaviour-gains-dissipate-chronic-follow-up.md) — related
+- [Classroom-based physical activity improves on-task behaviour and reduces off-task behaviour in primary school children (pooled SMD = 0.60)](classroom-physical-activity-improves-on-task-behaviour.md) — possibly the same claim (merge candidate)
+- [Increased physical activity does not negatively affect academic performance, but academic performance is not caused solely by increased physical activity](pa-does-not-harm-academic-performance-not-sole-cause.md) — related

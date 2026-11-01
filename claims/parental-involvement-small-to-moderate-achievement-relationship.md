@@ -58,3 +58,4 @@ The article's meta-analysis of the quantitative literature on parental involveme
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Children show high unassisted home engagement with the training, comparable to supervised settings](prosodiya-high-home-engagement.md) — related
+- [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](parental-involvement-positive-fv-all-outcomes.md) — a narrower finding that bears on this claim

@@ -50,6 +50,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
 - [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
 - [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
+- [Improve robustness of color-effect research through statistical power, open practices, and multi-lab collaborations](color-research-power-open-practices-strategy.md)
 
 ## Examples
 -

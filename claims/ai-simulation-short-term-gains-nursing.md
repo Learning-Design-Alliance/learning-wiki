@@ -73,3 +73,5 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
 - [Knowledge acquisition is the most frequently examined outcome of asynchronous e-learning for clinical nurses](knowledge-acquisition-most-common-outcome-nurse-elearning.md) — related
 - [Across the review's randomised controlled trials, e-learning showed no significant differences in knowledge mastery versus controls, but greater short-term learner satisfaction](rcts-no-knowledge-difference-higher-satisfaction.md) — related
+- [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
+- [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related

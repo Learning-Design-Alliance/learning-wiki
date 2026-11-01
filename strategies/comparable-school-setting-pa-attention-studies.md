@@ -49,6 +49,7 @@ The review's central recommendation is that future research should strengthen th
 
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
+- [Future research should establish causality of the PA-academic achievement relationship with high-quality RCTs, standardised outcome measures, and attention to moderators](pa-aa-future-research-priorities.md)
 
 ## Examples
 -

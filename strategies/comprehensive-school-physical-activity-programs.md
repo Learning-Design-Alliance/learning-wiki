@@ -62,6 +62,7 @@ CSPAP operationalizes the recognition that health behaviors and learning are int
 - [Active Learning](../principles/active-learning.md) — classroom movement strategies double as engagement techniques
 - [Community-Based Learning](../principles/community-based-learning.md) — the family/community engagement component extends learning beyond school walls
 - [School and community sports programs that maintain healthy weight may support children's academic performance](school-weight-maintenance-programs-academic-performance.md)
+- [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 
 ## Examples
 - **[CDC CSPAP Framework](https://www.cdc.gov/healthyschools/physicalactivity/cspap.htm)** — the official framework, training materials, and school assessment tools

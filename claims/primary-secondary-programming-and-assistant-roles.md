@@ -68,3 +68,4 @@ Primary/secondary results state robots "mainly have the role of teaching assista
 - [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — a broader claim this one bears on
 - [Edutainment, entertainment, programming instruction, and psychological support are the most prevalent functions of educational social robots](prevalent-functions-edutainment-entertainment-programming-psychological-support.md) — related
 - [In special education, robots most often act as teachers delivering lessons, with psychological support the most relevant function](special-education-robots-as-teachers-psychological-support.md) — related
+- [Medical games are used mainly as complementary devices reinforcing traditional teaching rather than replacing it](games-complementary-not-replacement.md) — related

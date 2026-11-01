@@ -41,7 +41,8 @@ This strategy pairs dementia education with a structured tool or guideline that 
 - [Common features distinguish more efficacious dementia educational programs, including role relevance, active face-to-face participation, theory-underpinned practice learning, experienced facilitation, and support for applying learning in practice](../claims/common-features-efficacious-dementia-education-programs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
 
 ## Examples
 -

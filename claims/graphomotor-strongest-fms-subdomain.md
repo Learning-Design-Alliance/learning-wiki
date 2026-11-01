@@ -45,6 +45,7 @@ Post-hoc ANOVA comparisons within the multilevel meta-regression of FMS subdomai
 
 
 ## Related Claims
+
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Writing shows the strongest FMS correlation among academic domains, exceeding reading](writing-strongest-academic-domain-fms.md) — related
@@ -52,3 +53,4 @@ Post-hoc ANOVA comparisons within the multilevel meta-regression of FMS subdomai
 - [Among motor subskills, general FiMS and graphomotor skills show the strongest links to overall academic-cognitive skills, and miscellaneous GMS and balance the strongest among GMS subskills](motor-subskill-differential-links.md) — related
 - [Finger gnosia is associated with arithmetic skills in some studies but not others, with age and cognitive profile moderating the relation](finger-gnosia-arithmetic-mixed-evidence.md) — related
 - [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite
+- [Manual dexterity shows a significant positive very weak to weak association with mathematical skills, despite mixed findings](manual-dexterity-weak-positive-mathematics-association.md)

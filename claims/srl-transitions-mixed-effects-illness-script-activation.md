@@ -71,3 +71,4 @@ Expertise predictor in the same per-case regression models showed no significant
 - [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](dropping-known-items-no-learning-advantage.md) — related
 - [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related
 - [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](third-phase-episodic-memories-diagnosis.md) — related
+- [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — related

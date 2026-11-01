@@ -50,3 +50,4 @@ Random-effects meta-analysis of three samples (n = 617 students) from two RCTs f
 - [In-classroom physical activity breaks show no significant effect on primary school children's mathematics performance](icpab-no-effect-mathematics.md) — related
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — reports the opposite
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
+- [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — related

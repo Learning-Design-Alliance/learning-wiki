@@ -51,3 +51,4 @@ The authors' stated limitation that using multiple-choice question scores as the
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Effects of TBL on clinical decision-making and clinical reasoning are mixed across studies and seminar topics](tbl-clinical-decision-making-mixed-effects.md) — related
+- [Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments](online-advantage-limited-to-simple-goals.md) — related

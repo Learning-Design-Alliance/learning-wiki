@@ -68,3 +68,4 @@ Participant narrative on anthropometry (evaluation) in CSE; public recording of 
 - [Discriminatory teacher attitudes, including sexism and fat-phobia, were identified as negative emotional triggers in participants' PE narratives](discriminatory-teacher-attitudes-pe.md) — related
 - [Joy was the predominant emotion in compulsory primary education PE, linked to diverse content, cooperative games, absence of competitiveness and cathartic release](joy-predominant-cpe-pe.md) — related
 - [Participants' emotional trajectories shifted progressively from predominantly positive emotions in primary PE to more negative, intense and frequent emotions in secondary PE](negative-emotional-shift-cpe-to-cse.md) — related
+- [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](weight-teasing-pe-adolescent-girls-obesity.md) — related

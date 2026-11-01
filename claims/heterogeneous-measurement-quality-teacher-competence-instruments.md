@@ -58,3 +58,5 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related
 - [Procedure-specific assessment tools hold greater educational potential than readily available global tools, though few provide benchmark scores](procedure-specific-tools-educational-potential.md) — related
+- [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](few-high-quality-ebp-instruments-used.md) — a narrower finding that bears on this claim
+- [Final-product analysis and procedure time have mixed validity evidence and are unlikely to be useful in isolation as measures of technical proficiency](final-product-and-procedure-time-mixed-validity-adjunctive.md) — a narrower finding that bears on this claim

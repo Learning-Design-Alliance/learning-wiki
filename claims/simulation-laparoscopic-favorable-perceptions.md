@@ -45,6 +45,7 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 
 
 ## Related Claims
+
 - [Favorable learner perception of laparoscopic simulation should not be equated with competence, clinical readiness or transfer of learning](laparoscopic-simulation-perception-not-competence.md) — related
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — related
 - [Only one of 11 included studies directly addressed Surgical Instrumentation students, making most evidence indirect for that field](surgical-instrumentation-evidence-limited-one-study.md) — related
@@ -56,3 +57,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Only 35 of 2814 identified studies describe data-driven assessment tools implemented in laparoscopic skills training curricula for surgical residents](35-of-2814-studies-data-driven-assessment-curricula.md) — related
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
 - [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related
+- [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md)

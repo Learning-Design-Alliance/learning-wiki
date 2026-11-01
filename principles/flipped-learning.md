@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (34 for, 35 mixed, 1 against) · 54 studies (17 quant-synthesis, 16 causal, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 21 of 54 report an effect size · 62 claims rest on one study
+> **Evidence** · 75 claims (36 for, 38 mixed, 1 against) · 56 studies (18 quant-synthesis, 16 causal, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 56 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,11 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](../claims/flipped-classroom-effect-similar-rct-observational.md) [~W]
 - [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](../claims/flipped-pharmacy-country-subgroup.md) [~W]
+- [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](../claims/flipped-classroom-small-significant-advantage-health-professions.md) [+W]
+- [Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions](../claims/in-class-quiz-moderator-flipped-classroom-effect.md) [~W]
+- [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](../claims/online-heavy-models-first-year-challenge.md) [~W]
+- [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](../claims/flipped-effect-robust-to-design-and-equivalence-controls.md) [+W]
+- [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](../claims/flipped-classroom-studies-high-heterogeneity.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term
