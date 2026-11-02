@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Adding a whole-number-strategy misconception to a fraction tutor&#x27;s student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="adding-a-whole-number-strategy-misconception-to-a-fraction-tutors-student-model-improved-its-fit-to-the-data-and-gave-per-student-misconception-estimates-that-tracked-pre-test-errors">Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors<a class="headerlink" href="#adding-a-whole-number-strategy-misconception-to-a-fraction-tutors-student-model-improved-its-fit-to-the-data-and-gave-per-student-misconception-estimates-that-tracked-pre-test-errors" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · associational <code>r1</code> · <code>q2</code> · n=40 students<br />
+<strong>Currency</strong> · newest study 2016 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<p>The student models that choose the next problem in an intelligent tutor usually track only skills that help a learner succeed. This claim is about whether a model can also track a misconception: a strategy that gives correct answers on some problems and wrong answers on others. In the independent whole-number strategy, a learner applies the operation to the two numerators and the two denominators separately (1/2 + 2/3 gives 3/5). This gives correct answers to fraction multiplication problems and wrong ones to most addition problems.</p>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Adding a misconception knowledge component for the independent whole-number strategy to an Additive Factors Model of 40 students' fraction-tutor data lowered AIC from 4238 to 4119 and BIC from 4328 to 4216, a significantly better fit (p &lt; 0.0001); separate terms for chances to strengthen and to weaken the misconception improved it further (AIC 4093, BIC 4203). <a href="#liu-patel-koedinger-2016">→ Liu, Patel &amp; Koedinger 2016</a></p>
+<p><code>q2 i?</code> In that model, each problem step where the strategy happened to give a correct answer increased the misconception's estimated weight (0.038 per opportunity), and each step where it gave a wrong answer and drew negative feedback decreased it (−0.052 per opportunity). <a href="#liu-patel-koedinger-2016">→ Liu, Patel &amp; Koedinger 2016</a></p>
+<p><code>q2 i?</code> Each student's model-estimated misconception strength correlated with the proportion of that student's pre-test errors that followed the strategy (Spearman R = 0.46, p = 0.002), which the authors read as evidence that the estimates are externally valid. <a href="#liu-patel-koedinger-2016">→ Liu, Patel &amp; Koedinger 2016</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="liu-patel-koedinger-2016">Liu, Patel &amp; Koedinger 2016<a class="headerlink" href="#liu-patel-koedinger-2016" title="Permanent link">&para;</a></h3>
+<p>Liu, R., Patel, R., &amp; Koedinger, K. R. (2016). Modeling common misconceptions in learning process data. In <em>Proceedings of the Sixth International Conference on Learning Analytics &amp; Knowledge (LAK '16)</em> (pp. 369–377). ACM. <a href="https://doi.org/10.1145/2883851.2883967">doi:10.1145/2883851.2883967</a></p>
+<p><code>q2 · secondary analysis of tutor log data, model comparison</code> · <code>i? · fit statistics and a correlation, no treatment effect</code> · <code>n=40 students</code> · <code>associational · r1</code></p>
+<p>A modelling study on a public dataset of 40 students who used a fraction arithmetic tutor and met the problem types in a mixed (interleaved) order. Each student did 24 multiplication problems, 10 additions with the same denominators and 14 with different denominators. The authors compared three logistic Additive Factors Models fitted with lme4: the original expert-built model with six skills; that model plus an intercept for a misconception knowledge component, coded +1 on steps where the independent whole-number strategy yields the right answer, −1 where it yields a wrong one and 0 where it does not apply; and a version that also gave the misconception separate learning slopes for opportunities to strengthen and to weaken it. Both additions improved fit (chi-square tests, p &lt; 0.0001). The misconception model predicted poor performance on one step that the original model treated as equivalent to another, which shifts the instructional implication from more practice on equivalent fractions to addressing the misconception. Per-student misconception intercepts, fitted as random effects, correlated with each student's proportion of strategy-consistent errors at pre-test (Spearman R = 0.46). The authors note that the strategy accounted for about 25% of non-hint errors in the data, and they found no other misconception accounting for a large share. They list these limits: one misconception modelled in one dataset; a misconception component must predict a pattern no combination of the regular skills can, which needs a fine-grained tutor interface; and the logistic model credits a correct multiplication step to both the multiplication skill and the misconception, which is probably wrong. The learners' ages and setting are not given in the article.</p>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<p>This is evidence about a component an adaptive tutor could rely on, a student-model term for a misconception, not a test of teaching. The strengthen and weaken slopes are what the model estimates from the order in which students happened to meet problems, not the result of an experiment that varied that order. The authors' suggested uses, such as giving a student with a high estimated misconception weight more problems where the strategy fails, or showing erroneous examples, are proposals that the article does not test.</p>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../fraction-accuracy-masks-distinct-misconceptions/">Equal accuracy on fraction comparison items can mask fundamentally different misconceptions</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:article-ingest</code> on <code>2026-11-02</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>
