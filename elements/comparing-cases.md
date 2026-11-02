@@ -16,12 +16,16 @@ sources:
     resource: "https://doi.org/10.1016/j.learninstruc.2014.04.006"
     title: "Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146"
     author: "Ziegler, E., & Stern, E"
+  - id: ziegler-stern-2016
+    resource: "https://doi.org/10.1016/j.learninstruc.2015.09.006"
+    title: "Ziegler, E., & Stern, E. (2016). Consistent advantages of contrasted comparisons: Algebra learning under direct instruction. *Learning and Instruction, 41*, 41–51"
+    author: "Ziegler, E., & Stern, E"
 ---
 
 # Comparing Cases
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles. It is useful when the goal is abstraction, discrimination, or transfer beyond a single instance.
@@ -66,3 +70,4 @@ Comparing cases is the element in which learners inspect two or more examples, s
 ## Key Sources
 - Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146. [doi:10.1016/j.learninstruc.2014.04.006](https://doi.org/10.1016/j.learninstruc.2014.04.006)
 - Rittle-Johnson, B., Star, J. R., & Durkin, K. (2009). The importance of prior knowledge when comparing examples. *Educational Psychology Review, 21*(4), 321-344. [https://doi.org/10.1037/a0016026](https://doi.org/10.1037/a0016026)
+- Ziegler, E., & Stern, E. (2016). Consistent advantages of contrasted comparisons: Algebra learning under direct instruction. *Learning and Instruction, 41*, 41–51. [doi:10.1016/j.learninstruc.2015.09.006](https://doi.org/10.1016/j.learninstruc.2015.09.006)
