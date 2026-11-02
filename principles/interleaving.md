@@ -51,7 +51,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 33 studies (16 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 17 of 33 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 34 studies (17 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 18 of 34 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
