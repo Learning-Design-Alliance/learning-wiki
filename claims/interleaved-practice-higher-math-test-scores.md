@@ -5,8 +5,8 @@ description: Interleaved practice produces higher mathematics test scores than b
 id: interleaved-practice-higher-math-test-scores
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-13
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: strong
 newest_evidence: 2015
 sources:
@@ -44,6 +44,9 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 
 ## Discussion
 
+**Design, from the article (Rohrer, Dedrick & Stershic 2015).** The study ran in nine seventh-grade classes of three teachers at one public middle school in Tampa, Florida (2013–2014); 126 of the 150 consenting students attended both the review and the test day and were analysed. Each student received interleaved practice for one kind of problem (graphing a linear equation, or finding a slope from two points) and blocked practice for the other, counterbalanced by class: two honours classes were split between the groups and the other seven were assigned at random, with each teacher having classes in both groups where possible. The two groups scored alike on a pre-study test of six national assessment items (76% vs. 79%, d = 0.12). Ten practice assignments over about three months held 12 problems of each kind; blocked practice put all 12 in one assignment, interleaved practice put four in the first and spread the other eight over later ones. All students then had the same review, with one problem of each kind, so the delay from the last practice problem to the test was the same in both conditions. An unannounced test followed 1 or 30 days later (delay randomised within class), was scored by two raters blind to condition, and had reliabilities (Cronbach's α) of .89 and .77 for the two kinds of problem.
+
+**Limits the authors state.** Interleaving here also spaced each kind of problem across assignments, and the authors say the large effect probably reflects the spacing effect in part; the review gave the blocked condition some spacing too. The test problems had the same format as the practice problems, so effects might be smaller on a test requiring more transfer, and a review with more than one problem of each kind might have helped the blocked condition more. They do not argue for avoiding blocked practice altogether: a small block at the start of an assignment may help right after a kind of problem is introduced (see [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](../strategies/small-initial-block-then-interleave.md)). Teachers' views are on [Teachers implemented interleaved practice without training and mostly judged it useful](teacher-survey-interleaving-feasibility.md).
 
 ## Related Claims
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — related
