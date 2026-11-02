@@ -3,8 +3,8 @@ type: claim
 title: Spaced Practice Improves Retention
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-25
+  by: "process:article-ingest"
+  at: 2026-11-02
 id: spaced-practice-improves-retention
 aliases: [spaced-practice-improves-long-term-retention, spacing-improves-long-term-retention, spacing-improves-retention, distributed-practice-improves-retention, spacing-effect-robust-verbal-recall, spaced-repetition-improves-retention]
 evidence_strength:
@@ -55,13 +55,22 @@ sources:
     n: 128
     kind: causal
     rigour: "?"
+  - id: rohrer-taylor-2007
+    resource: "https://doi.org/10.1007/s11251-007-9015-8"
+    title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)"
+    author: "Rohrer, D., & Taylor, K."
+    q: 3
+    i: "?"
+    n: 60 analysed (66 completed all sessions)
+    kind: causal
+    rigour: 2
 ---
 
 # Spaced Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 5 studies · 3 quant-synthesis `r?`, 2 causal `r2` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2022 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 6 studies · 3 causal `r2`, 3 quant-synthesis `r?` · `q3`–`q4` · `i2`–`i3`
+> **Currency** · newest study 2022 · 3 of 6 entries checked against their sources (automated) · not reviewed by a person
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
@@ -86,6 +95,8 @@ Practicing or reviewing material across multiple sessions separated in time prod
 `q4 i?` Across 271 massed-versus-spaced comparisons in verbal recall tasks, spaced presentation raised final-test recall from 36.7% to 47.3% correct with study time held equal, and only 12 comparisons showed no or a negative spacing effect; the benefit appeared at short as well as long retention intervals. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
 
 `q3 i?` In a single study of more than 1,350 people learning facts, the review gap that maximised final-test performance grew as the test delay grew, but shrank as a proportion of it: from about 20–40% of a 1-week delay to about 5–10% of a 1-year delay. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
+
+`q3 i?` With mathematics practice (counting the arrangements of a letter string), undergraduates who split four practice problems across two sessions a week apart scored 74% on a test one week after their last problem, against 49% for those who worked all four in one session and 46% for those who worked two; the article prints only an omnibus effect size (partial η² = .11). [→ Rohrer & Taylor 2007](#rohrer-taylor-2007)
 
 ## Evidence
 
@@ -200,6 +211,14 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 128 Japanese college students studied 20 English–Japanese word pairs under expanding or equal spacing, with the amount of spacing set at massed, short, medium or long. The main effect of the amount of spacing was significant and, in the author's words, produced large effect sizes; the author concludes that introducing spacing may matter more than whether it expands. Read from the abstract only: it prints no effect sizes, retention intervals or group sizes, and does not say how learners were assigned to conditions.
 
+### Rohrer & Taylor 2007
+
+Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
+
+`q3 · randomised experiment, not pre-registered` · `i? · only an omnibus partial η² = .11 across three groups is printed; no pairwise effect size` · `n=60 analysed (66 completed all sessions)` · `causal · r2`
+
+Experiment 1 of the article. Undergraduates at a US university learned to count the distinct orderings of a letter string with a repeated letter (a procedure the authors' survey of 50 students from the same pool found none could do), after a three-minute tutorial. Spacers worked two practice problems (each set began with two worked examples with feedback) in each of two sessions a week apart; Massers worked the same four problems in the first session; Light Massers worked only the first two. Everyone was tested on five new problems one week after their last practice problem, so the retention interval was equal. Spacers scored 74% (SE 8%), Massers 49% (SE 10%) and Light Massers 46% (SE 7%) (F(2, 57) = 3.59, p < .05, partial η² = .11); Spacers beat both other groups (Holm–Sidak, p < .05 each), while second-set practice accuracy was about equal for Spacers and Massers (83% vs. 82%). Fourteen students who attended only the first session and six who answered neither of the first two practice problems were excluded; group sizes are not printed.
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -300,6 +319,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 ## Related Claims
 
+- [Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure](extra-massed-math-practice-no-test-benefit.md) — same experiment (Rohrer & Taylor 2007): extra massed practice did not help where spacing did
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another encoding-side strategy that changes how material is packaged across study episodes
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — spacing is one scheduling lever for managing load across sessions
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — spacing often requires overriding learner-preferred (massed) schedules

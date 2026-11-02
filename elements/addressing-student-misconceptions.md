@@ -6,14 +6,14 @@ description: Students of all ages carry misleading or outright wrong prior belie
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-08-29
+  by: "process:article-ingest"
+  at: 2026-11-02
 ---
 
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (28 for, 11 mixed, 2 against) · 32 studies (17 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (29 for, 11 mixed, 2 against) · 33 studies (17 causal, 6 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 38 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -86,6 +86,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](../claims/interview-path-difference-understanding-difference.md) [~W]
 - [Misconceptions about atoms, compounds and mixtures detected at pre-test persisted or re-emerged at post-test in both experimental and control groups](../claims/misconceptions-persist-posttest-both-groups.md) [-W]
 - [Experimental-group students' opinions on concept cartoons clustered into five themes: learning, applicability to other lessons, correcting missing and false information, persistence, and being funny or different](../claims/student-opinions-concept-cartoons-five-themes.md) [~W]
+- [Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors](../claims/misconception-kc-improves-fraction-student-model.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
@@ -109,3 +110,4 @@ Just-In-Time Teaching's WarmUps are one concrete mechanism for surfacing misconc
 - Owens, K. D. (2003). *Common misconceptions in science*.
 - Hyde, J. S., & Linn, M. C. (2006). Gender similarities in mathematics and science. *Science, 314*(5799), 599-600.
 - Arduini-Van Hoose, N. (2020). Delivering instruction. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Liu, R., Patel, R., & Koedinger, K. R. (2016). Modeling common misconceptions in learning process data. In *Proceedings of the Sixth International Conference on Learning Analytics & Knowledge (LAK '16)* (pp. 369–377). ACM. [doi:10.1145/2883851.2883967](https://doi.org/10.1145/2883851.2883967)

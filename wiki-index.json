@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":43576,
+"claim":43578,
 "design":2068,
 "element":1057,
 "learner-variable":75,
@@ -72946,7 +72946,7 @@
 "aliases":["comparing-contrasting-cases-improve-learning","multiple-contrasting-cases-support-abstraction","analogical-reasoning-improves-transfer"],
 "description":"",
 "id":"comparing-contrasting-cases-improves-learning",
-"newest_evidence":"2013",
+"newest_evidence":"2016",
 "path":"claims/comparing-contrasting-cases-improves-learning.md",
 "status":"review",
 "title":"Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge",
@@ -137511,6 +137511,16 @@
 "type":"claim"
 },
 {
+"description":"In one experiment, undergraduates who worked four practice problems of a new mathematics procedure in a single session scored no better a week later than those who worked two (49% vs. 46%), while spreading the same four problems over two sessions did raise scores.",
+"evidence_strength":"weak",
+"id":"extra-massed-math-practice-no-test-benefit",
+"newest_evidence":"2007",
+"path":"claims/extra-massed-math-practice-no-test-benefit.md",
+"status":"review",
+"title":"Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure",
+"type":"claim"
+},
+{
 "description":"Additional mathematics instruction received by six intervention children did not produce significantly different posttest scores",
 "evidence_strength":"weak",
 "id":"extra-math-instruction-six-children-no-significant-difference",
@@ -200454,7 +200464,7 @@
 "description":"Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial",
 "evidence_strength":"moderate",
 "id":"interleaved-practice-beats-blocked-delayed-test-rohrer-2019",
-"newest_evidence":"2019",
+"newest_evidence":"2020",
 "path":"claims/interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md",
 "status":"review",
 "title":"Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial",
@@ -200749,7 +200759,6 @@
 "id":"interleaving-not-spacing-persists-over-delay",
 "newest_evidence":"2021",
 "path":"claims/interleaving-not-spacing-persists-over-delay.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests",
 "type":"claim"
@@ -200778,7 +200787,7 @@
 "description":"A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial",
 "evidence_strength":"moderate",
 "id":"interleaving-pilot-study-large-effect",
-"newest_evidence":"2019",
+"newest_evidence":"2020",
 "path":"claims/interleaving-pilot-study-large-effect.md",
 "status":"review",
 "title":"A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial",
@@ -200828,7 +200837,7 @@
 "description":"The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction",
 "evidence_strength":"moderate",
 "id":"interleaving-significant-hlm-teacher-controlled",
-"newest_evidence":"2019",
+"newest_evidence":"2020",
 "path":"claims/interleaving-significant-hlm-teacher-controlled.md",
 "status":"review",
 "title":"The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction",
@@ -247304,6 +247313,16 @@
 "path":"claims/misconception-feedback-affective-benefits.md",
 "status":"review",
 "title":"Misconception-based adaptive feedback reduced mathematics anxiety and supported motivation without cognitive outcome differences",
+"type":"claim"
+},
+{
+"description":"In logged data from 40 students using a fraction arithmetic tutor, a knowledge component coded +1 where the independent whole-number strategy gives the right answer and -1 where it gives a wrong one improved the Additive Factors Model's fit, and each student's estimated misconception strength correlated with the share of their pre-test errors that followed that strategy (Spearman R = 0.46).",
+"evidence_strength":"weak",
+"id":"misconception-kc-improves-fraction-student-model",
+"newest_evidence":"2016",
+"path":"claims/misconception-kc-improves-fraction-student-model.md",
+"status":"review",
+"title":"Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors",
 "type":"claim"
 },
 {
@@ -408458,7 +408477,7 @@
 "description":"Teachers implemented interleaved practice without training and, surveyed before learning the results, mostly judged it useful and viable though slightly harder and more time-consuming",
 "evidence_strength":"moderate",
 "id":"teacher-survey-interleaving-feasibility",
-"newest_evidence":"2019",
+"newest_evidence":"2020",
 "path":"claims/teacher-survey-interleaving-feasibility.md",
 "status":"review",
 "title":"Teachers implemented interleaved practice without training and, surveyed before learning the results, mostly judged it useful and viable though slightly harder and more time-consuming",
@@ -611029,6 +611048,7 @@
 "externalizing-preschoolers-comorbid-adhd-risk-subgroup":"externalizing-preschoolers-comorbid-adhd-risk-subgroup",
 "extinction-utensil-differential-mouth-clean":"extinction-utensil-differential-mouth-clean",
 "extra-cost-of-test-without-strengthening":"extra-cost-of-test-without-strengthening",
+"extra-massed-math-practice-no-test-benefit":"extra-massed-math-practice-no-test-benefit",
 "extra-math-instruction-six-children-no-significant-difference":"extra-math-instruction-six-children-no-significant-difference",
 "extra-school-year-no-improvement-traits":"extra-school-year-no-improvement-traits",
 "extra-ten-days-training-no-impact":"extra-ten-days-training-no-impact",
@@ -621750,6 +621770,7 @@
 "misconception-accuracy-increases-with-age":"misconception-accuracy-increases-with-age",
 "misconception-addressing-techniques-science-review":"misconception-addressing-techniques-science-review",
 "misconception-feedback-affective-benefits":"misconception-feedback-affective-benefits",
+"misconception-kc-improves-fraction-student-model":"misconception-kc-improves-fraction-student-model",
 "misconception-reduction-stable-delayed-testing":"misconception-reduction-stable-delayed-testing",
 "misconception-refutation-conceptual-change-strategies":"misconception-refutation-conceptual-change-strategies",
 "misconception-slower-reading-refutation-law-sentences":"misconception-slower-reading-refutation-law-sentences",

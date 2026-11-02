@@ -20,3 +20,6 @@ Ingested from pmc-13613611 (Ears for examinations: a multicentre quasi-experimen
 
 ### 2026-08-30 · correction · claude/unspecified
 Absorbed the duplicate at principles/principle-slug.md: linked Related Principles and Claims, fixed an internal Rohrer & Taylor DOI conflict
+
+### 2026-11-02 · ingest · process:article-ingest
+Rohrer & Taylor (2007), The shuffling of mathematics problems improves learning, doi:10.1007/s11251-007-9015-8
