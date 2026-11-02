@@ -49,7 +49,7 @@ Kruskal-Wallis H tests on post-test scores of the remaining five SMTML dimension
 - [Using the geometric functions approach with dynamic mathematics software significantly raises ninth-graders' achievement goal motivation toward mathematics relative to software-only and traditional teaching](geometric-functions-approach-achievement-goal-motivation.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related
 - [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related

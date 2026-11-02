@@ -71,5 +71,5 @@ Dependent samples t-test on the same scale for the control group (n=48). The art
 - [Within the drama group, speech anxiety decreased significantly from intermediate to very low level](drama-group-speech-anxiety-pretest-posttest-decrease.md) — related
 - [Writing self-efficacy increased significantly in both the Facebook experimental group and the control group](writing-self-efficacy-increased-both-groups.md) — related
 - [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](drama-instruction-reduces-speech-anxiety-more-than-conventional.md) — related

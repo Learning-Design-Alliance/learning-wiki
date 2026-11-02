@@ -218,7 +218,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (1st activity)](../claims/phased-listening-no-difference-activity1.md) [-M] — instruction changes it
 - [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (2nd activity)](../claims/phased-listening-no-difference-activity2.md) [-M] — instruction changes it
 - [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
-- [Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners](../claims/video-based-tasks-improve-listening-comprehension.md) [+M] — instruction changes it
+- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

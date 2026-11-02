@@ -23,8 +23,8 @@ A teacher-led paired oral-reading intervention in which a teacher and learner re
 - **Neurological Impress Method (NIM) as a paired simultaneous-reading fluency technique**: The Neurological Impress Method is an intervention in which teacher and student read aloud together, repeatedly and directly, so the student stays "at the same rhythm of the teacher tone with every repeated statement". The student sits slightly in front of the teacher so the voice is clear and direct to the student's ear, reads along with the teacher's expressive voice, and the teacher does not stop to correct errors but simply rereads poorly read portions until improvement is visible. The article applies NIM to fourth-grade students with learning disabilities in Jordan, focusing on fluency rather than accuracy, and requires a quiet environment. (Ayed H. Ziadat et al. (2018))
 
 ### Claims
-- [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+M]
-- [The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students](../claims/nim-reading-fluency-gender-difference.md) [~M]
+- [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+W]
+- [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](../claims/nim-reading-fluency-gender-difference.md) [~W]
 
 ## Related Products and Programmes
 -

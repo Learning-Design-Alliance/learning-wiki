@@ -17,7 +17,7 @@ sources:
 # Disseminate conceptual change texts through teacher training and curriculum materials
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on their findings, the authors recommend extending conceptual change texts beyond this unit through several channels. They suggest that "Various conceptual change texts can be prepared and used for different Social Studies units and topics", that teachers receive in-service training on preparing and implementing CCTs, that teacher candidates be trained about them, and that Social Studies textbooks include CCTs as alternative activities to help overcome misconceptions.

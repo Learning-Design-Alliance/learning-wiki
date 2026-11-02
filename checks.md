@@ -8,16 +8,16 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 42,588, from 10,468 sources |
+| Claims | 42,585, from 10,468 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 6,366 claims (15%) |
-| Claims citing at least one DOI | 31,600 claims (74%) |
+| Every evidence entry compared with its source by the faithfulness judge | 6,372 claims (15%) |
+| Claims citing at least one DOI | 31,597 claims (74%) |
 | Sources whose citations went through the Crossref identity gate | 9,693 of 10,468 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
 | Claims past their recheck year (fast-ageing kinds only) | 3,995 of 8,615 with one |
-| Claims removed by a check, all time | 5,965 |
+| Claims removed by a check, all time | 5,968 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 31,600 of 42,588 claims (74%) cite a DOI; 2,880 claims removed for having none.
+**Coverage.** 31,597 of 42,585 claims (74%) cite a DOI; 2,880 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 6,366 claims (15%) have had every evidence entry compared with its source and passed; 166 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 6,372 claims (15%) have had every evidence entry compared with its source and passed; 166 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -67,7 +67,7 @@ Added 2026-10-25, after an audit of AI-in-education meta-analyses found that a s
 
 **Cannot catch.** Invented references that carry no DOI and no anachronism; errors that leave the arithmetic consistent; a source whose text was not available (abstract only).
 
-**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 16 findings decided: 7 confirmed and acted on, 9 false alarms. 4 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
+**Coverage.** 6,251 of 7,135 sources read (2026-10-25): 43 with a finding, 4 high severity. Reference DOIs: 6,519 DOIs from 610 AI-era sources resolved; 202 sources have one that does not resolve or names another work, listed for a person but not acted on automatically, because text extracted from a PDF breaks DOIs across lines and most of these are layout, not invention. 18 findings decided: 9 confirmed and acted on, 9 false alarms. 4 retracted sources found; of 6,793 DOIs the wiki cites, 0 were registered at neither Crossref nor DataCite when last checked (2026-10-25).
 
 ### 7. Does the study measure what the claim says?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 50,630 evidence entries; 7,394 rest on a printed effect size and 43,264 report none (`i?`); 45,326 carry a rigour rating.
+**Coverage.** 50,627 evidence entries; 7,390 rest on a printed effect size and 43,265 report none (`i?`); 45,323 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -121,7 +121,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Source cannot be believed (impossible statistics, invented references, retraction) | 12 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |
 | Misfiled or thin page folded or dropped | 239 |
-| Other (see eval/removed/pages.ndjson) | 8 |
+| Other (see eval/removed/pages.ndjson) | 11 |
 
 ## What no check here does
 

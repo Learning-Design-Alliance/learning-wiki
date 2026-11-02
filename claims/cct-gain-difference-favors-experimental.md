@@ -15,7 +15,7 @@ sources:
     title: "Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838"
     author: Orhan Dağdelen, İlker Kösterelioğlu
     q: 2
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -23,11 +23,11 @@ sources:
 # The pre-to-post achievement gain was significantly larger in the conceptual change text group than in the control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` The difference between pre and post-test achievement gains favored the experimental group significantly, with a high effect size as reported. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
+`q2 i?` The difference between pre and post-test achievement gains favored the experimental group significantly. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838
 
-`q2 · i3` · `causal · r2`
+`q2 · i?` · `causal · r2`
 
-Independent samples t-test comparing the mean achievement differences of the two groups (Machexp= 4.35 vs Machcontroll= 1.43). The article reports the size effect "in favour of experimental group ... is high level (η2= 14.1)".
+Independent samples t-test comparing the mean achievement differences of the two groups (Machexp= 4.35 vs Machcontroll= 1.43). The article reports the size effect "in favour of experimental group ... is high level (η2= 14.1)". That value cannot be an eta squared, which is at most 1; read as a percentage it still does not match the printed statistics (the experimental group's t(22) = 5.04 implies η² ≈ .54, against a reported 36.5), so no effect size is coded from it (source-validity check, 2026-11-02).
 
 > "While there was a significant increase in both groups in favour of post-tests, mean achievement difference was found to be in favour of the experimental group ( t(44)= -2.696; p< 0.01)."
 

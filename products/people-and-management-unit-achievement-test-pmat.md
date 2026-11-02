@@ -13,7 +13,7 @@ generated:
 # People and Management Unit Achievement Test (PMAT)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A researcher-developed 18-item multiple-choice assessment created for Orhan Dağdelen’s 2015 study to measure fourth-grade students’ learning and misconceptions about social studies concepts.

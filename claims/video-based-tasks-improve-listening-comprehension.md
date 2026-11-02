@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners
-description: Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners
+title: Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
+description: Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
 id: video-based-tasks-improve-listening-comprehension
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 sources:
   - id: sarani-et-al-2014
     resource: "https://portal.issn.org/resource/ISSN/1692-5777"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners
+# Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group taught with video-based tasks showed a significant difference between pre-test and post-test listening comprehension scores (sig. .000). [→ Sarani et al. 2014](#sarani-et-al-2014)
@@ -37,7 +38,7 @@ Abdullah Sarani, Esmail Zare Behtash and Saieed Moslemi Nezhad Arani. (2014). Th
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experiment with an experimental group of 20 pre-intermediate EFL learners taught through ten sessions of video-based tasks drawn from Top Notch TV materials. Paired-samples t-test in SPSS gave a sig. (2-tailed) of .000, which the authors read as "the valid progression of students in the experimental group."
+Two-group experiment: after a placement test, 40 pre-intermediate EFL learners at universities in Zahedan were assigned randomly to an experimental class (20; ten 60-minute sessions of video-based tasks drawn from Top Notch TV materials) or a control class (20; the same objectives with audio-only material). The groups took different tests (video-based versus audio-based), and the authors analysed each group only with its own paired-samples t-test; no between-group comparison is reported. In the experimental group the pre-to-post difference gave a sig. (2-tailed) of .000, which the authors read as "the valid progression of students in the experimental group"; the control group's did not reach significance (sig. .279).
 
 > "the mean obtained for the pre-test is 37.4500, and the computed mean for post-test shows 51.0000"
 

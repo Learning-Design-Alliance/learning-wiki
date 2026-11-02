@@ -15,7 +15,7 @@ sources:
     title: "Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838"
     author: Orhan Dağdelen, İlker Kösterelioğlu
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -23,11 +23,11 @@ sources:
 # Traditional teaching also produced a significant pre-to-post achievement gain in the control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Control group students improved significantly from pre-test to post-test under traditional teaching, with a middle-level effect size as reported. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
+`q2 i?` Control group students improved significantly from pre-test to post-test under traditional teaching. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838
 
-`q2 · i2` · `causal · r1`
+`q2 · i?` · `causal · r1`
 
-Dependent samples t-test comparing control group PMAT pre-test (M= 10.22) and post-test (M= 11.65), mean difference 1.43. The article reports "the size effect of meaningful difference in favour of control group is middle level (η2= 9.98)".
+Dependent samples t-test comparing control group PMAT pre-test (M= 10.22) and post-test (M= 11.65), mean difference 1.43. The article reports "the size effect of meaningful difference in favour of control group is middle level (η2= 9.98)". That value cannot be an eta squared, which is at most 1; read as a percentage it still does not match the printed statistics (t(22) = 5.04 implies η² ≈ .54), so no effect size is coded from it (source-validity check, 2026-11-02).
 
 > "This result points to meaningful increase for the control group students as a result of teaching via traditional methods ( t(22)= -2.208; p< 0.05)."
 

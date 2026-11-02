@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: ayed-h-ziadat-mohammad-soud-a-al-awan-2018
     resource: "https://doi.org/10.5539/ies.v11n1p165"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's post-test reading mean (2.44) exceeded the control group's (1.84), with a significant group effect (F = 46.54, p < .05). [→ Ayed H. Ziadat & Mohammad Soud A. AL-Awan 2018](#ayed-h-ziadat-mohammad-soud-a-al-awan-2018)
@@ -37,7 +38,7 @@ Ayed H. Ziadat & Mohammad Soud A. AL-Awan. (2018). The Effectiveness of Neurolog
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experiment in four public primary schools in Amman: two experimental groups and one control group of twenty students each, taught for about sixteen weeks, five days a week for 45 minutes. Two Way ANCOVA on pre/post reading scores showed the variance was "in favor of the post measurement for the experimental group". No effect size is printed.
+Quasi-experiment in four public primary schools in Amman with forty fourth-grade students with learning disabilities (ages 10–12): one NIM group and one no-treatment control group of twenty students each (ten boys and ten girls), N = 40. The methodology section also mentions "two experimental groups", but the sample tables and analyses compare a single experimental group with the control group. NIM sessions ran about sixteen weeks, five days a week for 45 minutes. Two Way ANCOVA on pre/post reading scores showed the variance was "in favor of the post measurement for the experimental group". No effect size is printed.
 
 > "Table 3 shows that (F) value for group was (46.54), and it's significant at level of (0.05), this explains that there were statistically significant differences among the different students groups (controlled and experimental in the post measurement)"
 
@@ -49,5 +50,5 @@ Quasi-experiment in four public primary schools in Amman: two experimental group
 
 ## Related Claims
 - [Control-group students who received no intervention showed no improvements in reading fluency](control-group-no-improvement-reading-fluency.md) — related
-- [The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students](nim-reading-fluency-gender-difference.md) — related
+- [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](nim-reading-fluency-gender-difference.md) — related
 - [The group-by-gender interaction on reading fluency was not statistically significant](nim-group-gender-interaction-null.md) — related

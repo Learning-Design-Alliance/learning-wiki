@@ -46,6 +46,6 @@ Paired-samples t-test within the 15-member experimental group using educational 
 
 ## Related Claims
 - [Video-based instruction improves reading comprehension of Iranian intermediate EFL learners more than conventional instruction](video-materials-improve-reading-comprehension-iranian-efl.md) — related
-- [Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners](video-based-tasks-improve-listening-comprehension.md) — related
+- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](video-based-tasks-improve-listening-comprehension.md) — related
 - [The experimental group showed a significant pre-to-post gain in reading comprehension after presentation strategy instruction](experimental-group-pre-post-reading-gain.md) — related
 - [Experimental group's reading scores improved significantly from pretest to posttest under genre-based instruction](gbi-pre-post-gain-experimental-group.md) — related

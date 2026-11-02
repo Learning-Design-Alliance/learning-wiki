@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged
-description: In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged
+title: In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant
+description: In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant
 id: grid-model-private-school-test-anxiety-decrease
 status: review
 generated:
@@ -9,8 +9,9 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
-  - id: neşe-kutlu-abu-2018
+  - id: kutlu-abu-gökdere-2018
     resource: "https://doi.org/10.13189/ujer.2018.060312"
     title: "Neşe Kutlu Abu, Murat Gökdere. (2018). The Effect of Differentiated Science Curriculum on Students' Motivational Regulations. Universal Journal of Educational Research 6(3): 455-465. https://doi.org/10.13189/ujer.2018.060312"
     author: Neşe Kutlu Abu, Murat Gökdere
@@ -20,18 +21,18 @@ sources:
     rigour: 1
 ---
 
-# In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged
+# In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Experimental group II showed a significant pre-to-post decrease in test anxiety and no significant change in the other motivation sub-dimensions. [→ Neşe Kutlu Abu 2018](#nese-kutlu-abu-2018)
+`q2 i?` Experimental group II showed a significant pre-to-post decrease in test anxiety and no significant change in the other motivation sub-dimensions. [→ Kutlu Abu & Gökdere 2018](#kutlu-abu-gokdere-2018)
 
 ## Evidence
 
-### Neşe Kutlu Abu 2018
+### Kutlu Abu & Gökdere 2018
 
 Neşe Kutlu Abu, Murat Gökdere. (2018). The Effect of Differentiated Science Curriculum on Students' Motivational Regulations. Universal Journal of Educational Research 6(3): 455-465. https://doi.org/10.13189/ujer.2018.060312
 

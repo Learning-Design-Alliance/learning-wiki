@@ -23,7 +23,7 @@ A researcher-developed 20-item, three-point teacher-rating questionnaire validat
 - **Twenty-item Likert-type teacher-evaluation questionnaire for reading fluency (test-retest reliability 0.73)**: The study's main instrument was a specially formulated questionnaire of twenty items rated on a three-point scale (Excellent 3, Good 2, Bad 1) using Likert scoring procedures, used to evaluate students' reading-fluency performance before and after implementing NIM via teachers' evaluations. It was evaluated by ten professionals from different Jordanian Universities and revised before implementation. The test-retest reliability coefficient was measured to be 0.73, which the authors note exceeds the 0.60 benchmark they cite. (Ayed H. Ziadat et al. (2018))
 
 ### Claims
-- [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+M]
+- [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+W]
 
 ## Related Products and Programmes
 -

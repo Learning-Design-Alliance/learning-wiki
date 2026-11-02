@@ -15,7 +15,7 @@ sources:
     title: "Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838"
     author: Orhan Dağdelen, İlker Kösterelioğlu
     q: 2
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -23,11 +23,11 @@ sources:
 # Conceptual change texts produced a significant pre-to-post achievement gain in the experimental group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Experimental group students improved significantly from pre-test to post-test after teaching with conceptual change texts, with a high effect size as reported. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
+`q2 i?` Experimental group students improved significantly from pre-test to post-test after teaching with conceptual change texts. [→ Dağdelen and Kosterelioglu 2015](#dagdelen-and-kosterelioglu-2015)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Orhan Dağdelen, İlker Kösterelioğlu. (2015). Effect of Conceptual Change Texts for Overcoming Misconceptions in “People and Management” Unit. International Electronic Journal of Elementary Education, 8(1), 99-112. https://eric.ed.gov/?id=EJ1078838
 
-`q2 · i3` · `causal · r1`
+`q2 · i?` · `causal · r1`
 
-Dependent samples t-test comparing experimental group PMAT pre-test (M= 10.00) and post-test (M= 14.35), mean difference 4.35, t(22)= -5.036; p< 0.05. The article reports "size effect of meaningful difference is high level (η2= 36.5)".
+Dependent samples t-test comparing experimental group PMAT pre-test (M= 10.00) and post-test (M= 14.35), mean difference 4.35, t(22)= -5.036; p< 0.05. The article reports "size effect of meaningful difference is high level (η2= 36.5)". That value cannot be an eta squared, which is at most 1; read as a percentage it still does not match the printed statistics (t(22) = 5.04 implies η² ≈ .54), so no effect size is coded from it (source-validity check, 2026-11-02).
 
 > "This finding points to significant increase in achievement for experimental group students as a result of teaching with the help of conceptual change texts."
 

@@ -48,7 +48,7 @@ Same two-way ANCOVA on post-achievement for the gender factor (27 males and 27 f
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students](nim-reading-fluency-gender-difference.md) — related
+- [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](nim-reading-fluency-gender-difference.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related

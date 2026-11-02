@@ -39,7 +39,7 @@ The article's example drama lesson is organized into named phases: "Preparation"
 - communication and collaboration skills
 
 ### Claims
-- [Creative Drama Higher It Achievement Than Computer Based](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
+- [Creative drama instruction gave the highest pre-test-adjusted post-test achievement of three groups in the IT unit \"Tomorrow's Technology\" among sixth graders, ahead of computer-based instruction and standard curriculum, in a significant ANCOVA group effect with no pairwise tests reported](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
 
 ## Related Designs
 - 

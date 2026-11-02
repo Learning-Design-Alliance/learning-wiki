@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":42588,
+"claim":42585,
 "design":1959,
 "element":1057,
 "learner-variable":75,
@@ -52983,7 +52983,6 @@
 "id":"cct-posttest-favors-experimental-group",
 "newest_evidence":"2015",
 "path":"claims/cct-posttest-favors-experimental-group.md",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"Fourth graders taught with conceptual change texts scored significantly higher on the post-test than peers taught with traditional methods",
 "type":"claim"
@@ -80041,16 +80040,6 @@
 "type":"claim"
 },
 {
-"description":"Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners",
-"evidence_strength":"moderate",
-"id":"cooperative-competitive-strategies-beat-traditional-vocabulary-instruction",
-"newest_evidence":"2016",
-"path":"claims/cooperative-competitive-strategies-beat-traditional-vocabulary-instruction.md",
-"status":"review",
-"title":"Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners",
-"type":"claim"
-},
-{
 "description":"Cooperative concept mapping produces better meaningful learning than individualistic concept mapping",
 "evidence_strength":"weak",
 "id":"cooperative-concept-mapping-better-than-individual",
@@ -80617,16 +80606,6 @@
 "source_checked":"2026-10-31",
 "status":"review",
 "title":"Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning",
-"type":"claim"
-},
-{
-"description":"Cooperative learning instruction produced better English vocabulary acquisition than competitive learning instruction among Iranian intermediate EFL learners",
-"evidence_strength":"mixed",
-"id":"cooperative-outperforms-competitive-vocabulary-learning",
-"newest_evidence":"2016",
-"path":"claims/cooperative-outperforms-competitive-vocabulary-learning.md",
-"status":"review",
-"title":"Cooperative learning instruction produced better English vocabulary acquisition than competitive learning instruction among Iranian intermediate EFL learners",
 "type":"claim"
 },
 {
@@ -86291,13 +86270,14 @@
 "type":"claim"
 },
 {
-"description":"Creative drama instruction produced significantly higher post-test achievement in the IT unit \\\"Tomorrow's Technology\\\" than computer-based instruction and standard curriculum among sixth graders",
+"description":"Creative drama instruction gave the highest pre-test-adjusted post-test achievement of three groups in the IT unit \\\"Tomorrow's Technology\\\" among sixth graders, ahead of computer-based instruction and standard curriculum, in a significant ANCOVA group effect with no pairwise tests reported",
 "evidence_strength":"moderate",
 "id":"creative-drama-higher-it-achievement-than-computer-based",
 "newest_evidence":"2016",
 "path":"claims/creative-drama-higher-it-achievement-than-computer-based.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Creative drama instruction produced significantly higher post-test achievement in the IT unit \\\"Tomorrow's Technology\\\" than computer-based instruction and standard curriculum among sixth graders",
+"title":"Creative drama instruction gave the highest pre-test-adjusted post-test achievement of three groups in the IT unit \\\"Tomorrow's Technology\\\" among sixth graders, ahead of computer-based instruction and standard curriculum, in a significant ANCOVA group effect with no pairwise tests reported",
 "type":"claim"
 },
 {
@@ -168609,13 +168589,14 @@
 "type":"claim"
 },
 {
-"description":"In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged",
+"description":"In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant",
 "evidence_strength":"moderate",
 "id":"grid-model-private-school-test-anxiety-decrease",
 "newest_evidence":"2018",
 "path":"claims/grid-model-private-school-test-anxiety-decrease.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged",
+"title":"In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant",
 "type":"claim"
 },
 {
@@ -258337,18 +258318,20 @@
 "id":"nim-improves-reading-fluency-learning-disabilities",
 "newest_evidence":"2018",
 "path":"claims/nim-improves-reading-fluency-learning-disabilities.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group",
 "type":"claim"
 },
 {
-"description":"The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students",
+"description":"In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender",
 "evidence_strength":"moderate",
 "id":"nim-reading-fluency-gender-difference",
 "newest_evidence":"2018",
 "path":"claims/nim-reading-fluency-gender-difference.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students",
+"title":"In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender",
 "type":"claim"
 },
 {
@@ -266167,6 +266150,7 @@
 "id":"no-severity-difference-or-interaction-post-application",
 "newest_evidence":"2013",
 "path":"claims/no-severity-difference-or-interaction-post-application.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Teacher application of instructional methods did not differ significantly by autism severity level, and no treatment-by-severity interaction emerged at post-test",
 "type":"claim"
@@ -303910,16 +303894,6 @@
 "type":"claim"
 },
 {
-"description":"Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group",
-"evidence_strength":"weak",
-"id":"posthoc-no-difference-between-experimental-groups",
-"newest_evidence":"2016",
-"path":"claims/posthoc-no-difference-between-experimental-groups.md",
-"status":"review",
-"title":"Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group",
-"type":"claim"
-},
-{
 "description":"A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions",
 "evidence_strength":"weak",
 "id":"posthumanist-literacy-tension-humanistic-assumptions",
@@ -325703,6 +325677,7 @@
 "id":"reading-curricula-no-impacts-one-year-after-implementation",
 "newest_evidence":"2010",
 "path":"claims/reading-curricula-no-impacts-one-year-after-implementation.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).",
 "type":"claim"
@@ -426276,13 +426251,14 @@
 "type":"claim"
 },
 {
-"description":"Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners",
+"description":"Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported",
 "evidence_strength":"moderate",
 "id":"video-based-tasks-improve-listening-comprehension",
 "newest_evidence":"2014",
 "path":"claims/video-based-tasks-improve-listening-comprehension.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Video-based task instruction produces a statistically significant pre-to-post improvement in listening comprehension for Iranian pre-intermediate EFL learners",
+"title":"Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported",
 "type":"claim"
 },
 {
@@ -592795,7 +592771,6 @@
 "cooperation-versus-individualistic-effort-outcomes":"cooperation-versus-individualistic-effort-outcomes",
 "cooperative-cai-higher-physics-motivation":"cooperative-cai-higher-physics-motivation",
 "cooperative-collaborative-larger-effects-than-pbl-peer-led":"cooperative-collaborative-larger-effects-than-pbl-peer-led",
-"cooperative-competitive-strategies-beat-traditional-vocabulary-instruction":"cooperative-competitive-strategies-beat-traditional-vocabulary-instruction",
 "cooperative-concept-mapping-better-than-individual":"cooperative-concept-mapping-better-than-individual",
 "cooperative-conceptual-change-chemistry-misconceptions":"cooperative-conceptual-change-chemistry-misconceptions",
 "cooperative-group-higher-final-exam-chemistry-lab":"cooperative-group-higher-final-exam-chemistry-lab",
@@ -592854,7 +592829,6 @@
 "cooperative-learning-value-components-motivation":"cooperative-learning-value-components-motivation",
 "cooperative-learning-versus-individual-endeavors":"cooperative-learning-versus-individual-endeavors",
 "cooperative-learning-vhs-math-medium-effect":"cooperative-learning-vhs-math-medium-effect",
-"cooperative-outperforms-competitive-vocabulary-learning":"cooperative-outperforms-competitive-vocabulary-learning",
 "cooperative-play-replicated-study2-interaction":"cooperative-play-replicated-study2-interaction",
 "cooperative-program-social-skill-development-observation":"cooperative-program-social-skill-development-observation",
 "cooperative-rank-single-study-artifact":"cooperative-rank-single-study-artifact",
@@ -614661,7 +614635,6 @@
 "posterior-prediction-correlations-dynamic-across-groups":"posterior-prediction-correlations-dynamic-across-groups",
 "posterior-probabilities-increase-with-norm-consistent-behaviors":"posterior-probabilities-increase-with-norm-consistent-behaviors",
 "postgraduate-training-availability-regional-variation":"postgraduate-training-availability-regional-variation",
-"posthoc-no-difference-between-experimental-groups":"posthoc-no-difference-between-experimental-groups",
 "posthumanist-literacy-tension-humanistic-assumptions":"posthumanist-literacy-tension-humanistic-assumptions",
 "posting-null-model-degree-not-clustering":"posting-null-model-degree-not-clustering",
 "postpolicy-retention-effect-smaller-but-larger-impact":"postpolicy-retention-effect-smaller-but-larger-impact",

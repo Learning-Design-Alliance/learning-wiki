@@ -41,7 +41,7 @@ Based on the finding that creative drama outperformed comparison methods, the au
 
 ## Claims
 
-- [Creative drama instruction produced significantly higher post-test achievement in the IT unit \"Tomorrow's Technology\" than computer-based instruction and standard curriculum among sixth graders](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
+- [Creative drama instruction gave the highest pre-test-adjusted post-test achievement of three groups in the IT unit \"Tomorrow's Technology\" among sixth graders, ahead of computer-based instruction and standard curriculum, in a significant ANCOVA group effect with no pairwise tests reported](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
 - [In the creative drama group, students interacted more intensely, listened more diligently, and showed more harmonious and enthusiastic behavior than in the comparison groups](../claims/creative-drama-group-more-interaction-enthusiasm.md) [+M]
 
 ## Related Strategies

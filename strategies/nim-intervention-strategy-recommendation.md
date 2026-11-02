@@ -44,7 +44,7 @@ Based on their findings, the authors recommend that educators and teachers pursu
 
 - [Control-group students who received no intervention showed no improvements in reading fluency](../claims/control-group-no-improvement-reading-fluency.md) [+W]
 - [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+W]
-- [The effect of NIM on reading fluency of students with learning disabilities differed by gender, favoring male students](../claims/nim-reading-fluency-gender-difference.md) [~W]
+- [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](../claims/nim-reading-fluency-gender-difference.md) [~W]
 
 ## Related Strategies
 

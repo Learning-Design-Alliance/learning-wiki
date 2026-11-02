@@ -65,5 +65,5 @@ Dependent-groups t-tests: experimental motivation fell from 56.53 to 53.13, t (1
 
 ## Related Claims
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [A 14-week digital writing workshop produced significantly greater story-writing gains than regular curriculum lessons in fourth-grade students](digital-writing-workshop-improves-story-writing.md) — related

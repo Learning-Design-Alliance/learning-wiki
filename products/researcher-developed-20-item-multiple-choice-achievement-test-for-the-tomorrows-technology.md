@@ -23,7 +23,7 @@ A 20-item multiple-choice achievement test developed and piloted by the study re
 - **Researcher-developed 20-item multiple-choice achievement test for the "Tomorrow's Technology" unit (KR-20 = 0.70)**: An achievement test developed by the researcher to collect data in the study. It began as "23 multiple-choice questions", was reviewed by a Turkish teacher, an IT teacher and an educational sciences specialist, and piloted with 43 sixth-grade students; after item analysis "3 questions in the test were excluded from the test since they exhibited low distinctiveness in item analysis", leaving 20 items with "reliability coefficient was found to be 0.70" (KR-20). (Müzeyyen Bulut Özek (2016))
 
 ### Claims
-- [Creative drama instruction produced significantly higher post-test achievement in the IT unit \"Tomorrow's Technology\" than computer-based instruction and standard curriculum among sixth graders](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
+- [Creative drama instruction gave the highest pre-test-adjusted post-test achievement of three groups in the IT unit \"Tomorrow's Technology\" among sixth graders, ahead of computer-based instruction and standard curriculum, in a significant ANCOVA group effect with no pairwise tests reported](../claims/creative-drama-higher-it-achievement-than-computer-based.md) [+M]
 - [All three instruction groups (creative drama, computer-based, standard curriculum) showed statistically significant pre-test to post-test achievement gains](../claims/all-three-it-methods-improved-pre-post-scores.md) [+M]
 
 ## Related Products and Programmes

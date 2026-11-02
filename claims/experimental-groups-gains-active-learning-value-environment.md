@@ -49,7 +49,7 @@ Wilcoxon signed-rank comparisons of pretest-posttest SMTML scores within each gr
 - [The three teaching methods showed no significant post-test differences on the other five SMTML motivation dimensions](no-between-group-differences-other-motivation-dimensions.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [At-risk grade 2 experimental students made significant within-group gains in Applied Problems, but these gains were not significantly larger than their non-at-risk peers' gains](chisanbop-applied-problems-grade2-atrisk.md) — related
 - [Item-level gains differed by group: the experimental group improved significantly on items E and F while the control group did not, and vice versa for items A and C](clil-item-level-gain-differences-by-group.md) — related
 - [Ranks of ethical and individualistic values rose in the experimental group but changed little in the control group](value-ranks-rose-eg-not-cg.md) — related
