@@ -151,6 +151,7 @@ This pattern is scoped to a short question routine applied to an experience or t
 - [Structured discussions that anchor new vocabulary in students' personal experience](../strategies/structured-discussion-vocabulary-anchoring.md)
 - [Prompts & Questions](../strategies/prompts-questions.md)
 - [Question students about why a correct answer was chosen, rather than why an error was made](../strategies/question-correct-answers-not-errors.md) — the source's teacher move for responding to answers
+- [Expose students to learning through exploration, questioning, and writing down questions and answers](../strategies/srl-exploration-questioning-writing-strategy.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

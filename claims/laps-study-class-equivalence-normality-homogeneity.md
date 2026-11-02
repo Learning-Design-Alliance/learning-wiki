@@ -59,3 +59,5 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
+- [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
+- [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related

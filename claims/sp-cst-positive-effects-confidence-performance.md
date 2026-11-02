@@ -57,3 +57,4 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [SP+CBL pedagogy significantly improves theoretical knowledge achievement compared with LBL in Chinese clinical education.](sp-cbl-improves-theoretical-knowledge.md) — related
 - [Faculty and standardized patient evaluations of student professionalism differed significantly in relationship-building and information-sharing domains](faculty-sp-professionalism-score-discrepancies.md) — related
 - [Most CBL interventions report positive effects on knowledge, attitudes, and skills, but studies finding no positive effect were often randomized controlled trials](cbl-outcomes-mostly-positive-rcts-often-null.md) — related
+- [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — a narrower finding that bears on this claim

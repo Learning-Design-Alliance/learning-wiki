@@ -49,3 +49,4 @@ Scheffe post hoc analysis across the four strategy groups. Demonstration showed 
 - [Demonstration strategy produces significantly better academic performance in Electrical Installation than inquiry strategy](demonstration-beats-inquiry-electrical-installation.md) — related
 - [Demonstration strategy has the most significant effect on students’ academic performance in Electrical Installation among the four strategies compared](demonstration-most-effective-strategy-electrical-installation.md) — a broader claim this one bears on
 - [Discussion strategy produces significantly better academic performance in Electrical Installation than lecture strategy](discussion-beats-lecture-electrical-installation.md) — related
+- [Guided discovery most effectively facilitates transfer of knowledge in physics, followed by demonstration, with expository least effective](guided-discovery-most-effective-physics-transfer.md) — reports the opposite

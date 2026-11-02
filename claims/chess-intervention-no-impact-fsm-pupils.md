@@ -65,3 +65,5 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
 - [The MathsFlip effect on KS2 maths for FSM-eligible pupils was slightly higher than for all pupils but not statistically significant](mathsflip-fsm-subgroup-effect.md) — related
+- [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
+- [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related

@@ -51,3 +51,4 @@ Quasi-experimental matching-only pretest-posttest control group study in two Gun
 - [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Multimedia-supported 7E model materials produced significantly higher post-test achievement than traditional teaching in fifth-grade science](multimedia-7e-posttest-advantage.md) — related
 - [Experimental classes taught with local-wisdom-based social studies materials scored higher on knowledge than control classes after one semester](local-wisdom-materials-higher-knowledge-ttest.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

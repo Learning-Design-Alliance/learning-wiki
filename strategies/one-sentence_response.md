@@ -58,9 +58,12 @@ One-sentence response is a low-cost implementation of [Active Learning](../princ
 5. Follow with [Class Discussion](../elements/class-discussion.md) or targeted reteaching based on what the responses revealed, then optionally have learners revise their sentence — a built-in [Practice](../elements/practice.md) cycle with immediate feedback.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the oral sibling; one-sentence response adds a written artifact and universal participation
 - [Exit Tickets](exit-ticket.md) — the same mechanism positioned as end-of-lesson formative assessment
 - [Wait Time](wait-time.md) — the questioning practice that gives written responses time to form
+- [Expose students to learning through exploration, questioning, and writing down questions and answers](srl-exploration-questioning-writing-strategy.md)
+- [Implement the ticket to retention: distribute one to five target questions, have students write answers, discuss with two classmates, listen, revise, and submit](ticket-to-retention-procedure.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the natural follow-on where sampled responses seed whole-class dialogue

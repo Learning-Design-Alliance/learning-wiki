@@ -45,7 +45,8 @@ A delivery strategy drawn from the staff reports in the process evaluation: each
 - [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](../claims/successful-intervention-features-multiple-strategies-parents-intensity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Appoint a dedicated coordinator to monitor the accuracy and frequency of parent texts](dedicated-coordinator-for-parent-texting.md)
 
 ## Examples
 -

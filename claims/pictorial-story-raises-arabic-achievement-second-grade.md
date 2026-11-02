@@ -48,3 +48,4 @@ Semi-experimental post-measure study of 100 second-graders (50 experimental, 50 
 - [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
+- [First graders taught Arabic literacy with the systemic approach scored higher on a reading achievement test than traditionally taught peers](systemic-approach-improves-first-grade-reading-achievement.md) — related

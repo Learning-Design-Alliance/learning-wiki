@@ -57,3 +57,4 @@ Quasi-experiment with 53 first graders in two intact sections (experimental n=26
 - [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related
 - [The pre-test covariate had no statistically significant effect on post-test concept acquisition](pretest-covariate-nonsignificant-jigsaw-study.md) — related
 - [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](web-quest-improves-geographic-concept-acquisition.md) — related
+- [Teaching with the created didactic set of high-tech educational laboratory equipment produced higher acquisition of the course's basic concepts than traditional teaching in control groups](high-tech-lab-equipment-higher-concept-acquisition.md) — related

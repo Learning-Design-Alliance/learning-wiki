@@ -60,3 +60,4 @@ The review reports, citing Durlak et al. (2022)'s review of meta-analyses of edu
 - [Positive changes in student attitude, behavior, and mentality and improved cognitive, physical, and social-emotional development were observed](gamified-vr-positive-changes-attitude-behavior-development.md) — related
 - [Experiential learning interventions show medium effects on children's physical activity attitudes in two of three studies](experiential-learning-child-pa-attitudes.md) — related
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — related
+- [Universal school intervention programs typically show small average effect sizes, with median effects between d = 0.07 and d = 0.16 per a cited review of 74 meta-analyses](universal-interventions-median-effect-sizes-small.md) — related

@@ -42,7 +42,8 @@ The article recommends that teachers consider integrating digital games into the
 - [Gameplay lowered participants' affective barriers to learning English in a fifteen-week game-based program](../claims/gameplay-lowered-affective-barriers-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer interactive digital games like PàN as one option in teachers' pedagogical toolboxes for L2 vocabulary and engagement](interactive-games-as-pedagogical-toolbox-option.md)
 
 ## Examples
 -

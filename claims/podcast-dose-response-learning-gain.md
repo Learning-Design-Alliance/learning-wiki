@@ -69,3 +69,4 @@ Same multivariable regression (Table 7): Centre 2 carried an unadjusted associat
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related
 - [Most interviewed HIL students perceived that effortfully replaying podcasts enhanced their learning](podcast-replaying-effortful-engagement.md) — related
+- [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related

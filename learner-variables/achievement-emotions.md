@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (131 show a difference, 53 mixed, 17 no difference) · 119 studies (41 associational, 34 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 119 report an effect size · 198 claims rest on one study
+> **Evidence** · 202 claims (132 show a difference, 53 mixed, 17 no difference) · 120 studies (41 associational, 35 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 120 report an effect size · 199 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -236,6 +236,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](../claims/nasa-tlx-frustration-perceived-performance-ar.md) [+W] — instruction changes it
 - [Learners in the Wikipedia classroom reported higher motivation, sense of communal work, collaboration, and pleasure, and less confusion than learners in the traditional classroom](../claims/wikipedia-classroom-motivation-collaboration.md) [+W] — instruction changes it
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+M] — instruction changes it
+- [Teacher observations indicated sustained engagement in cartoon lessons versus diminishing excitement and reported boredom in bibliotherapy lessons](../claims/cartoon-lessons-engagement-versus-bibliotherapy-boredom.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

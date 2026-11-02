@@ -53,3 +53,4 @@ Quasi-experimental pretest-posttest study with 96 fifth graders in three groups 
 ## Related Claims
 - [Self-monitoring strategies used during or at the end of Social Studies lessons significantly improved fifth-graders' academic achievement compared to formal curriculum teaching](self-monitoring-strategies-improve-achievement.md) — related
 - [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](strategy-timing-no-significant-difference.md) — related
+- [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](srl-reading-education-improves-self-regulation-skills.md) — related

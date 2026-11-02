@@ -19,7 +19,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 12 studies (5 quant-synthesis, 2 causal, 2 review, 2 design, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 2 design, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 11 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -60,6 +60,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](../claims/high-teaching-guidance-larger-concept-map-effects.md) [~W]
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](../claims/teacher-feedback-tu-improvements.md) [+W]
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
+- [No significant gender difference in transfer of knowledge in physics under guided discovery, demonstration or expository teaching](../claims/no-gender-difference-physics-transfer-strategies.md) [~W]
 
 ## The evidence by question
 - *Does discovery with guidance (prompts, feedback, worked examples, elicited explanations) produce more learning than unassisted discovery or other instruction?* [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]
@@ -78,6 +79,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - Learners compare several examples and infer the governing rule from prompts.
 - Students explore a data set with questions that guide them toward a key relationship.
 - [Structure experimental work so students discover physics rules, keeping them in a loop of higher-order thinking](../strategies/structured-experiments-higher-order-thinking-loop.md)
+- [Adopt guided discovery and other student-centred strategies for teaching physics concepts](../strategies/adopt-guided-discovery-student-centred-physics.md)
 
 ## Key Sources
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)

@@ -56,3 +56,4 @@ Post-test independent t-tests (n = 36 per group) on expectancy components: contr
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — related
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](cooperative-learning-lower-test-anxiety.md) — related
 - [No significant pre-test differences existed between the cooperative learning and lecture-based groups on any motivational component](no-pretest-motivation-differences-groups.md) — related
+- [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — related

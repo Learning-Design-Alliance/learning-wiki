@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (100 show a difference, 32 mixed, 23 no difference) · 112 studies (47 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 112 report an effect size · 154 claims rest on one study
+> **Evidence** · 161 claims (104 show a difference, 34 mixed, 23 no difference) · 114 studies (49 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 114 report an effect size · 160 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -197,6 +197,12 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](../claims/strategy-timing-no-significant-difference.md) [-M] — instruction changes it
 - [Neither training type significantly changes social strategy use, and the memory-trained group shows no significant metacognitive-strategy-use difference](../claims/strategy-training-no-social-metacognitive-effect.md) [-M] — instruction changes it
 - [No significant difference in metacognitive awareness listening strategy use between online and traditional classroom learners](../claims/no-significant-difference-malq-strategies.md) [-M] — instruction changes it
+- [A metacognition-based instructional practice produced higher post-test metacognitive awareness than current training in planning, awareness, regulation and questioning sub-dimensions and scale-wide among prospective teachers](../claims/metacognition-practice-posttest-group-differences.md) [+M] — instruction changes it
+- [Prospective teachers’ overall metacognition awareness (MAI) rose significantly from pre-test to post-test after inquiry learning in three classes with no control group, at moderate overall n-gain in each class](../claims/inquiry-learning-increases-metacognition-awareness-mai.md) [+W] — instruction changes it
+- [Prospective teachers’ metacognition knowledge rose significantly from pre-test to post-test after inquiry learning about fluid in three classes with no control group, with high n-gain in Group A and moderate n-gain in Groups B and C](../claims/inquiry-learning-increases-metacognition-knowledge-prospective-teachers.md) [+W] — instruction changes it
+- [Metacognition gains after inquiry learning differed across three classes: knowledge gains differed among all three, while awareness gains differed only between Group A and Groups B and C, not between B and C](../claims/inquiry-impact-inconsistent-across-groups.md) [~W] — instruction changes it
+- [Under current training, the control group improved significantly only on the questioning sub-dimension, with no significant change on other sub-dimensions or the scale overall](../claims/control-group-questioning-only-gain.md) [~M] — instruction changes it
+- [Within the experimental group, metacognitive awareness increased significantly from pre-test to post-test on the planning, awareness and questioning sub-dimensions](../claims/experimental-group-within-group-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

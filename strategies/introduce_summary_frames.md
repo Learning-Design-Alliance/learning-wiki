@@ -66,6 +66,7 @@ Summarizing is a generative task: producing a condensed restatement requires sel
 - **Annotating** — margin notes made during reading supply raw material for the frame slots ([Annotating](../principles/annotating.md))
 - [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](teach-students-frame-slot-questions.md)
 - [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
+- [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each read-then-summarize cycle is a spaced practice opportunity

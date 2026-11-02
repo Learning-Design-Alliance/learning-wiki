@@ -69,3 +69,4 @@ Material experts' judgement with three validators. Scores of 3.16, 3.04 and 3.64
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [Preliminary study found textbook-only teaching and students whose geometry ability was limited to the visual skill](preliminary-visual-skill-only-finding.md) — related
+- [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related

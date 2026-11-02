@@ -44,7 +44,8 @@ The article recommends self-guiding STEM activity kits designed for parent-child
 - [Parent STEM talk has been linked to better child STEM outcomes in prior research, per the authors](../claims/parent-stem-talk-linked-child-stem-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adult and peer scaffolding to sustain young children's interest and persistence with computer tasks](adult-peer-scaffolding-computer-tasks.md)
 
 ## Examples
 -

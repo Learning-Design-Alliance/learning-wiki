@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (39 for, 51 mixed, 6 against) · 96 studies (25 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 96 report an effect size · 90 claims rest on one study
+> **Evidence** · 98 claims (41 for, 51 mixed, 6 against) · 97 studies (26 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 97 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](../claims/heterogeneous-groups-greater-achievement.md) [+W] — attached 2026-10-29 from Jeroen Janssen (2020), which proposed "CCLT-based design guidelines for CSCL environments: strengthen the collective working memory effect while minimizing transaction costs".
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](../claims/group-work-higher-integration-performance-ratio.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](../claims/group-work-positive-student-perceptions-mathematics.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
+- [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+W] — attached 2026-11-02 from Behjat (2013), which proposed "Orient out-of-class reading toward peer interaction and collaboration rather than individualistic self-study"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -197,6 +198,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](../claims/model-condition-higher-collaboration-rate.md) [~W]
 - [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](../claims/treatment-more-student-pair-collaboration.md) [+W]
 - [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](../claims/post-test-means-three-classes-jumping-sharing-conventional.md) [~W]
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](../claims/comprehension-enhanced-through-collaboration-interpretation.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

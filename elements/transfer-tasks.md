@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 18 studies (10 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 19 studies (11 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 12 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -62,6 +62,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](../claims/vgp-improved-inference-auditory-task.md) [+W]
 - [Training-specific generalization: Extent training promotes transfer to novel amplitudes whereas Angular training supports transfer to novel directions](../claims/training-specific-generalization-extent-angular.md) [~W]
 - [In experiment 1, novel movement transitions were performed better in the Compatible and Incompatible groups than in the New group, while initially learned transitions were retained better in the Same group.](../claims/exp1-learned-novel-transition-performance.md) [~W]
+- [The largest experimental–control difference appeared at the specific transfer level](../claims/hypertext-text-specific-transfer-advantage.md) [+W]
 
 ## The evidence by question
 

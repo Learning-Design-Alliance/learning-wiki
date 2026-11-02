@@ -68,3 +68,5 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
 - [Control-group students who experienced sample analogies after the post-test mostly supported using analogies in lectures](control-students-support-analogies-after-exposure.md) — related
 - [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](detailed-analogies-improve-computer-hardware-learning.md) — related
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [Post-test scores were significantly higher for the combined-method group than the lecture-only group](combined-method-outperformed-lecture-posttest.md) — related

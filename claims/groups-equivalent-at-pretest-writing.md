@@ -57,3 +57,5 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [The PI group performed significantly better than the TI group on the writing post-test after equivalent pre-tests](pi-outperforms-ti-writing-posttest.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](facebook-writing-achievement-control-decreased-experimental-unchanged.md) — related
+- [Facebook-supplemented instruction benefited medium-skilled (50-80%) students most, while the highest-ability students improved less than traditionally taught peers](facebook-gains-concentrated-medium-skilled.md) — related
+- [Tertiary EFL students whose instruction was supplemented with Facebook tasks showed almost double the average test improvement of a traditionally taught comparison group over one semester](facebook-supplemented-efl-larger-average-improvement.md) — related

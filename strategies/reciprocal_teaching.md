@@ -66,6 +66,7 @@ Reciprocal Teaching works because it combines explicit strategy instruction with
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 - [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
 - [Gradually shifting leadership responsibility to students through peer coaching and cross-age tasks](gradual-shift-to-peer-coaching-leadership.md)
+- [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
 
 ## Examples
 - **Palincsar & Brown (1984)** — seventh-grade poor comprehenders improved from roughly 30% to 70–80% on comprehension assessments after ~20 sessions of reciprocal teaching dialogue.

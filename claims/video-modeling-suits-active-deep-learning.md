@@ -52,3 +52,4 @@ The authors' own classroom experience using Tracker with their students, framed 
 - Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video — a narrower finding that bears on this claim
 - [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — a narrower finding that bears on this claim
+- [For a fixed initial velocity and no air resistance, projectile range is maximized at an elevation angle of π/4 radians](projectile-maximum-range-pi-over-four.md) — related

@@ -50,3 +50,4 @@ Pre-test analysis of the 60 selected learners (30 per group, selected from 140 a
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
+- [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — related

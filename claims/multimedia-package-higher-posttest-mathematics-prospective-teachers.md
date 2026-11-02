@@ -56,3 +56,4 @@ Randomized pre-test post-test experiment with 60 prospective teachers in two gro
 - [Percentage scores on all eight tested communicative skills were higher after the Interactive Multimedia Package than after conventional method](skill-wise-percentage-gains-multimedia-package.md) — related
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
 - [Pupils taught with DLP achieved slightly higher average gain scores than pupils taught with Computer/laptop, and both ICT groups outperformed Chart and Chalk Talk groups](dlp-and-computer-outperform-chart-and-chalk-talk.md) — related
+- [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related

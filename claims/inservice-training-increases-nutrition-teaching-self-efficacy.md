@@ -70,3 +70,5 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
 - [Teacher education workshop paired with robot curriculum improves teachers' relevance and self-efficacy beliefs](teacher-workshop-improves-relevance-and-self-efficacy.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
+- [The PD effect on teacher efficacy persists at a delayed post-test, indicating the gains are not transient](pd-efficacy-gains-stable-delayed-posttest.md) — related
+- [Participation in multi-model professional development significantly raises EFL teachers' overall sense of efficacy relative to an untreated control group](pd-raises-efl-teacher-efficacy-overall.md) — related

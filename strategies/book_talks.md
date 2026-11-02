@@ -60,9 +60,11 @@ Book talks convert private reading into a social, communicative act, leveraging 
 6. **Iterate**: repeat on a regular cycle so talks become routine rather than event.
 
 ## Related Strategies
+
 - Literature circles — book talks can serve as the entry routine that launches a cycle of peer-led discussion
 - Reading conferences — one-on-one talks that complement the public format of book talks
 - Peer tutoring — shares the mechanism of learners teaching learners
+- [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
 
 ## Examples
 - **Penny Kittle's Book Love framework** (https://pennykittle.net) — uses daily student book talks to build volume reading in secondary classrooms; students track pages read and recommend books to peers.

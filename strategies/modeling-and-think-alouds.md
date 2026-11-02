@@ -63,6 +63,7 @@ Modeling works because observation of a competent model provides a template for 
 - [Self-explanation prompting](self-explanation-prompts.md) — converts observed models into generative learner processing
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
+- [Use the thinking loudly strategy to move students out of isolation and build self-expression during reading lessons](thinking-loudly-strategy-arabic-reading.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — teachers model predicting, questioning, clarifying, and summarizing while reading, then transfer each strategy to student-led groups; a canonical think-aloud intervention with strong comprehension effects.

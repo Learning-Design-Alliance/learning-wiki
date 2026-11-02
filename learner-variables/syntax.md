@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (47 show a difference, 10 mixed, 19 no difference) · 56 studies (30 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 6 of 56 report an effect size · 73 claims rest on one study
+> **Evidence** · 79 claims (47 show a difference, 12 mixed, 20 no difference) · 57 studies (31 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 6 of 57 report an effect size · 76 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -114,6 +114,9 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Computer-assisted educational games raised 6th-grade grammar achievement more than the existing curriculum over 12 weeks](../claims/caeg-grammar-achievement-posttest-advantage.md) [+M] — instruction changes it
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](../claims/flipped-classroom-grammar-achievement-gains-esl-efl.md) [+M] — instruction changes it
 - [Perceived grammar-skill improvement did not differ between flipped and nonflipped students, and the confidence change was larger in the control group](../claims/perceived-grammar-skills-no-group-difference.md) [-M] — instruction changes it
+- [L2 pre-college students taught X-Word Grammar showed larger improvement in verb construct accuracy than students taught traditional grammar, borderline significant](../claims/xword-grammar-larger-verb-construct-improvement.md) [~M] — instruction changes it
+- [Sentence-pattern accuracy improved more under X-Word Grammar than traditional grammar, but the difference was not statistically significant](../claims/xword-sentence-pattern-improvement-not-significant.md) [-M] — instruction changes it
+- [X-Word Grammar students improved significantly more on subject-verb agreement, borderline on tense, and not significantly on aspect/verb forms](../claims/xword-significant-subject-verb-agreement-gain.md) [~M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.
@@ -136,6 +139,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Reading Fluency](reading-fluency.md): a working knowledge of basic syntax is one of the skills that fluent reading rests on.
 
 ## Examples
+
+- [Use grammar correction symbols cumulatively across practice and editing to connect grammar instruction with real texts](../strategies/cumulative-correction-symbol-labelling-strategy.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Syntax (Building Literacy 4-6, Building Literacy 7-12, Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-4-6/factors/syntax-literacy-4-6/summary). Licensed CC BY-NC 4.0.

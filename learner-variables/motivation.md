@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 355 claims (234 show a difference, 84 mixed, 37 no difference) · 258 studies (91 associational, 81 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 258 report an effect size · 343 claims rest on one study
+> **Evidence** · 361 claims (239 show a difference, 84 mixed, 38 no difference) · 261 studies (91 associational, 84 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 261 report an effect size · 349 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -405,6 +405,12 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The association between classroom engagement and school readiness growth is stronger for children with low initial engagement (significant child-by-classroom engagement interaction)](../claims/engagement-interaction-low-initial-benefit-most.md) [+M] — an instructional effect differs with it
 - [High-interest students outperformed medium- and low-interest students, while medium- and low-interest students did not differ](../claims/high-interest-beats-medium-low-medium-equals-low.md) [+M] — learners who differ on it differ in outcomes
 - [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [-M] — an instructional effect differs with it
+- [Control-group students showed no significant change in intrinsic motivation over the same semester](../claims/control-group-no-motivation-change.md) [-M] — instruction changes it
+- [PAIKEM with high-motivation students produced the highest results, and conventional teaching of high-motivation students outperformed PAIKEM with low-motivation students](../claims/paikem-high-motivation-highest-cell-mean.md) [+M] — an instructional effect differs with it
+- [Reflective teaching significantly enhances the intrinsic motivation of Iranian upper-intermediate female EFL learners](../claims/reflective-teaching-enhances-intrinsic-motivation.md) [+W] — instruction changes it
+- [Students with high motivation achieved higher mathematics learning results than students with low motivation](../claims/high-motivation-higher-mathematics-results.md) [+M] — learners who differ on it differ in outcomes
+- [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](../claims/journal-writing-self-assessment-increased-intrinsic-motivation.md) [+M] — instruction changes it
+- [Within both the PAIKEM and the conventional method, high-motivation students scored significantly higher than low-motivation students](../claims/motivation-gap-within-each-method.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

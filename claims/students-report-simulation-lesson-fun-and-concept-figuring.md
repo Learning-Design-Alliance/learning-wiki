@@ -108,3 +108,7 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [The authors interpret web-based virtual simulation as shifting the pilgrimage lesson from teacher-centred to student-centred learning consistent with constructivist learning theory](virtual-simulation-supports-student-centred-learning.md) — related
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](favorable-student-perceptions-spirometry-lab.md) — related
 - [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related
+- [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
+- [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related
+- [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
+- [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related

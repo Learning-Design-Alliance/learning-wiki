@@ -91,3 +91,5 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [Effects of text structure instruction are maintained over time (g = 0.57 at delayed posttest)](tsi-maintenance-temporal-transfer.md) — a narrower finding that bears on this claim
 - [Students overwhelmingly prefer focused written corrective feedback targeting specific errors at a time](students-prefer-focused-wcf.md) — related
 - [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — reports the opposite
+- [Explicit form focus instruction with metalinguistic corrective feedback significantly improves adult ESL learners' explicit grammatical knowledge](metalinguistic-feedback-improves-explicit-knowledge-esl.md) — a narrower finding that bears on this claim
+- [Explicit form focus instruction with metalinguistic corrective feedback significantly improves adult ESL learners' implicit grammatical knowledge](metalinguistic-feedback-improves-implicit-knowledge-esl.md) — a narrower finding that bears on this claim

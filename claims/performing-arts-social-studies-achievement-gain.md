@@ -55,3 +55,4 @@ Quasi-experimental pretest-posttest control group study with 5 experimental (n =
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Students judged mathematics unsuitable for performing-arts teaching (f = 13) while endorsing social studies, theology, science, Turkish, and English](student-views-subject-suitability-performing-arts.md) — related
 - [Fourth graders taught science and social studies through the project method achieved higher final-test knowledge than peers taught in the usual way](project-method-higher-final-knowledge-young-learners.md) — related
+- [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](strategy-training-posttest-group-differences.md) — related

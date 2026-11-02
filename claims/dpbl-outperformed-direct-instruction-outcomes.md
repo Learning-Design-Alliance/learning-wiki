@@ -56,3 +56,4 @@ Quasi-experimental group pre-test and post-test comparison of 276 third-year Com
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
 - [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
+- [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related

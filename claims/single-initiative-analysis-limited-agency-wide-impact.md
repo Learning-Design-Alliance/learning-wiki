@@ -76,3 +76,4 @@ Authors' interpretation from the case-study interviews, hedged with "It appears 
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
 - [Districts with data systems in place still face challenges in the strategic use of data](districts-face-strategic-data-use-challenges-despite-systems.md) — related
 - [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](gap-mined-data-learning-interpretation.md) — related
+- [Directors of pupils' project and research works report that about 50% of school children lack skills to self-dependently propose hypotheses, plan activity, search and analyze information, and present results](half-pupils-lack-self-dependent-research-skills.md) — related

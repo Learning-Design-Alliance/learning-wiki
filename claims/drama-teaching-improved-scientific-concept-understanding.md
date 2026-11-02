@@ -49,3 +49,4 @@ Pre-test/post-test quasi-experiment with 87 seventh-grade male students (46 expe
 - [The effect of drama-based teaching on concept understanding did not interact with students' achievement level, benefiting high, average, and low achievers alike](drama-concept-gains-no-achievement-interaction.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
+- [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related

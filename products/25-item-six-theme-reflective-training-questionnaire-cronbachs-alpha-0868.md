@@ -27,7 +27,8 @@ A five-point Likert questionnaire developed by Ali Al-Issa et al. to assess stud
 - [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](../claims/trainee-trainer-response-contradiction-ten-items.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Behzadpour (2007) Reflective Teaching Questionnaire](behzadpour-2007-reflective-teaching-questionnaire.md)
 
 ## Key Sources
 - Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/

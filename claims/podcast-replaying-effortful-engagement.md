@@ -47,3 +47,4 @@ Interviews with three students per section, selected to cover low, medium and hi
 ## Related Claims
 - [Content Acquisition Podcasts produced significantly higher posttest scores than textbook-based instruction for preservice teachers](caps-experiment-higher-posttest-preservice-teachers.md) — related
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
+- [Participants held predominantly positive perceptions of podcasts as learning tools](positive-learner-perceptions-podcasts.md) — related

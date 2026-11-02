@@ -44,6 +44,7 @@ Because integrating ICT effectively into teaching is not straightforward, the ar
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
 - [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
+- [Adopt brain-based learning methods and teacher workshops in chemistry and science teaching](adopt-bbl-methods-and-teacher-workshops.md)
 
 ## Examples
 -

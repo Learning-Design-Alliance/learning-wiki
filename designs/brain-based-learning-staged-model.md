@@ -40,7 +40,8 @@ The article defines brain based learning as "a learning process that is aligned 
 - [Bbl Improves Polyhedron Conceptual Understanding](../claims/bbl-improves-polyhedron-conceptual-understanding.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-stage model of brain-based learning instruction](bbl-five-stage-instruction-model.md)
 
 ## Examples
 -

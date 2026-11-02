@@ -60,3 +60,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [In face-to-face scenarios, workspace monitoring data yields a better estimate of academic achievement than LMS forum data](workspace-monitoring-beats-lms-forum-prediction.md) — related
 - [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](time-task-days-handin-word-forum-related-to-marks.md) — related
 - [Online learners' chat engagement and question quality improved over the five days of the online module](chat-engagement-improved-over-five-days.md) — related
+- [Semester control-question results correlated positively (r = 0.5530) with final-test results, supporting the evaluation system's predictive accuracy](control-question-results-correlate-final-test.md) — related

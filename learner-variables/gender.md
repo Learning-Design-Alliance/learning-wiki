@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 445 claims (246 show a difference, 94 mixed, 105 no difference) · 297 studies (151 associational, 92 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 297 report an effect size · 437 claims rest on one study
+> **Evidence** · 449 claims (248 show a difference, 95 mixed, 106 no difference) · 300 studies (151 associational, 95 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 300 report an effect size · 441 claims rest on one study
 
 ## How to read this page
 
@@ -484,6 +484,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](../claims/gender-no-effect-stad-physics-retention.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Post-training communication skills did not differ significantly between male and female participants](../claims/cort-breadth-no-sex-difference-communication.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The teaching method by gender interaction on chemistry achievement was not significant](../claims/no-method-gender-interaction-chemistry-achievement.md) [-M] — an instructional effect differs by group
+- [Female students in the blog-based collaborative reading group showed the largest reading comprehension gains, and the gender null hypothesis was rejected](../claims/female-blog-readers-largest-comprehension-gains.md) [+M] — an instructional effect differs by group
+- [Females in the experimental group enhanced spiritual intelligence more than female and male control groups](../claims/female-experimental-greatest-spiritual-intelligence-gain.md) [+M] — an instructional effect differs by group
+- [Literacy achievement differences showed no statistically significant effect of gender or of the method-by-gender interaction](../claims/no-gender-effect-systemic-approach-literacy.md) [-M] — an instructional effect differs by group
+- [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](../claims/scheffe-gain-pairwise-blog-reading.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -70,3 +70,4 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
+- [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related

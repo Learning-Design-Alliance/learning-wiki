@@ -63,6 +63,7 @@ Grades function as feedback and as a motivational signal; when they mix academic
 - Reassessment and revision policies — the mechanism that makes grades reflect current rather than historical performance
 - Separate conduct reporting — removes behavior from the academic grade without abandoning accountability
 - [Safeguard equity in performance assessment systems through non-negotiables, clear rubrics, normed scoring, multiple pathways, and inclusive design](equity-safeguards-performance-assessment-implementation.md)
+- [Interweave equity content throughout each intervention practice rather than siloing it as a separate module](interweave-equity-throughout-intervention-practices.md)
 
 ## Examples
 - **Feldman's Grading for Equity framework** (Crescendo Education Group, https://crescendoedgroup.org) — a widely adopted professional-development model built on three pillars: accuracy, bias-resistance, and intrinsic motivation; piloted in districts including those in California and Washington, D.C.

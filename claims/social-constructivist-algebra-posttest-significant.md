@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-02
 sources:
   - id: bhutto-muhammad-ilyas-2013
     resource: "https://eric.ed.gov/?id=EJ1085370"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Bhutto Muhammad Ilyas 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-01)
 
 ## Subclaims
@@ -55,3 +56,4 @@ Posttest t-test analysis of the same two intact sections (control N 26, treatmen
 - [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Experiential learning-based Mathematics teaching material improves fifth-graders' Mathematics cognitive ability more than conventional teaching material](experiential-material-improves-math-cognitive-ability.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

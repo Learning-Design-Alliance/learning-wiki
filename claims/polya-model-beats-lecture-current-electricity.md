@@ -50,3 +50,4 @@ Quasi-experimental, non-randomized non-equivalent pre-test post-test control gro
 - [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
+- [Preliminary testing found most General Physics students could not get beyond the plan-making stage of Polya problem solving](preliminary-study-polya-stage-failure.md) — related

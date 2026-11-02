@@ -51,3 +51,6 @@ Quasi-experimental posttest comparison of two intact classes (N = 35 each) after
 - [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related
 - [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related
 - [NLP instruction significantly improves ESP reading comprehension of Iranian undergraduate EFL learners](nlp-instruction-improves-esp-reading-comprehension.md) — related
+- [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related
+- [Presentation strategy instruction produces significantly higher reading comprehension post-test scores than ordinary strategy-based instruction for Iranian intermediate EFL learners](presentation-strategy-improves-efl-reading-comprehension.md) — related

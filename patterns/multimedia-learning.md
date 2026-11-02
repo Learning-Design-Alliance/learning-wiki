@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 109 claims (45 for, 60 mixed, 4 against) · 85 studies (53 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 85 report an effect size · 100 claims rest on one study
+> **Evidence** · 110 claims (45 for, 61 mixed, 4 against) · 86 studies (54 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 86 report an effect size · 101 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,7 @@ Claims linked to this page later go here until they are read against the model.
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [+W] — read 2026-10-19: vocabulary glosses, reported second-hand; scoped out with the item above.
 - [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W] — read 2026-10-19: "segmentation" here is printing text in phrase units for children's reading, not dividing a narrated presentation, so it does not bear on the segmentation rule.
 - [Motion in pictures is of no value for teaching foreign vocabulary measured by written recall](../claims/motion-in-pictures-no-value-vocabulary.md) [~W] — attached 2026-10-29 from Kale et al. (1955), which proposed "Use still pictures instead of motion pictures for film-based vocabulary instruction to avoid production expense"; tests this page's relationship.
+- [No statistically significant difference was found between planar still images and animated stereo images as visual glosses for learning preposition senses](../claims/no-difference-planar-animated-visual-glosses.md) [~W] — attached 2026-11-02 from Takeshi Sato et al. (2012), which proposed "Optimize visual glosses according to the learning target rather than assuming technologically advanced glosses are better".
 
 ## Illustrative design instance and observation record
 

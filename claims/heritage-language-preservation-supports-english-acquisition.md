@@ -129,3 +129,4 @@ The underlying mechanism these three findings share is that a heritage language,
 - [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](international-mother-tongue-programs-better-off.md) — related
 - [The review reports that students acquire literacy most efficiently in their native language and that expecting literacy in a foreign language hampers academic achievement](literacy-most-efficient-native-language.md) — related
 - [Children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](mother-tongue-better-start-better-performance.md) — related
+- [Bilingual learners may fail to notice even obvious cross-language cognates unless explicitly trained in language similarity awareness](bilinguals-miss-cognates-without-awareness-training.md) — related

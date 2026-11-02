@@ -59,3 +59,4 @@ Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or contro
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related
 - [Parental attendance dose was not associated with pupil outcomes: more sessions attended did not yield more impact](attendance-dose-no-outcome-link.md) — related
+- [Intervention parents were more likely than control parents to ask their child about revising for upcoming tests](pep-parents-more-likely-ask-about-revision.md) — related

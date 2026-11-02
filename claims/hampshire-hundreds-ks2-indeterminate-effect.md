@@ -57,3 +57,4 @@ Additional (non-protocol) intention-to-treat analysis using national Key Stage 2
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
 - [A regression model yields a treatment coefficient of 0.13, agreeing with the direction of the headline trial finding](ar-regression-treatment-coefficient.md) — related
 - [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](mathematics-mastery-year1-small-nonsignificant-positive-effect.md) — related
+- [Mind the Gap showed no statistically significant effect on the primary outcome of combined reading and numeracy attainment in Year 4 pupils](mind-the-gap-no-attainment-effect.md) — related

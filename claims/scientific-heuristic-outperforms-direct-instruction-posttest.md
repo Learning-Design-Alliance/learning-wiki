@@ -63,3 +63,4 @@ Quasi-experimental comparison of two intact College Algebra classes taught by th
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Students in emporium college algebra sections scored approximately 12 points higher on the posttest than students in traditional lecture sections](emporium-higher-posttest-college-algebra.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
+- [Problem solving strategy is more effective than the scientific approach for 10th-grade students' mathematical communication ability](problem-solving-strategy-more-effective-communication.md) — related

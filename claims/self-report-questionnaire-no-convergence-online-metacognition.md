@@ -58,3 +58,4 @@ Correlational analysis of three metacognition measures in a grade 5 sample (effe
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — reports the opposite
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
 - [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](flexibility-explains-word-problem-gains.md) — related
+- [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — related

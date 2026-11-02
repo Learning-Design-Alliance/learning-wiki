@@ -55,3 +55,4 @@ Wilcoxon Signed Rank Test on the experimental group's (n=12) SPST pretest-postte
 - [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](facts-improve-inquiry-skills-teacher-centred.md) — related
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
+- [The experimental group's science process skills improved significantly from pre-test to post-test after four weeks of place-based teaching](place-based-group-significant-pre-post-gain.md) — related

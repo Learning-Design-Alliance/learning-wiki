@@ -77,3 +77,5 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](rti-subgroup-effects-fsm-boys-not-secure.md) — related
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
+- [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
+- [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related

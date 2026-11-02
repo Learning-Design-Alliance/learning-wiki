@@ -44,6 +44,7 @@ The authors propose that single studies of instructional technology cannot valid
 ## Related Strategies
 
 - [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
+- [Replicate an intervention with the same teachers to isolate teacher experience, and embed fidelity measurement to identify critical program components](replication-with-fidelity-component-strategy.md)
 
 ## Examples
 -

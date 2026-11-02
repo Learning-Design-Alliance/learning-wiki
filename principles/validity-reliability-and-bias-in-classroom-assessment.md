@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 359 claims (157 for, 178 mixed, 24 against) · 270 studies (90 associational, 61 design, 45 review, 33 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 270 report an effect size · 352 claims rest on one study
+> **Evidence** · 362 claims (159 for, 179 mixed, 24 against) · 273 studies (90 associational, 61 design, 45 review, 36 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 23 of 273 report an effect size · 355 claims rest on one study
 
 ## Conditional relationship
 
@@ -433,6 +433,9 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Correlations among group rating totals supported the design: A-C correlated 0.8253401 (same subjects) and B-D 0.80017335 (same subjects post-intervention), while A-B showed only 0.26428556](../claims/correlation-checks-group-identity-pronunciation-study.md) [~W]
 - [PET speaking scores showed significant inter-rater agreement between the two raters](../claims/pet-speaking-inter-rater-reliability-significant.md) [+W]
 - [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](../claims/cat-instrument-kr20-0-78.md) [~W]
+- [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](../claims/dbs-level-determination-exam-reliability.md) [+W]
+- [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](../claims/prosody-test-retest-reliability-94.md) [+W]
+- [Start and End test scores correlated strongly within both groups, with a higher coefficient for the Control group (0.88868) than the Experiment group (0.74317)](../claims/start-end-score-correlations-groups.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

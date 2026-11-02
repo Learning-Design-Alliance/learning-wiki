@@ -50,3 +50,4 @@ The review reports Motallebzadeh and Ganjali's (2011) study of 40 Iranian EFL le
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners — related
 - [Prior SMS-based vocabulary studies reviewed found posttest advantages for mobile groups but inconsistent delayed-posttest results](sms-vocabulary-studies-posttest-advantage-mixed-delayed.md) — related
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related

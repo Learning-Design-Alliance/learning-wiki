@@ -51,3 +51,4 @@ One-way ANOVA on writing pre-test scores reported in Table 2 (Between Groups F=1
 - [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related
+- [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related

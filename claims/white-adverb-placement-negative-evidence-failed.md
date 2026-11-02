@@ -55,3 +55,5 @@ The paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), tha
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
+- [Cross-linguistic consciousness-raising significantly improves EFL learners' proper use of adverb position in translation](cross-linguistic-cr-improves-adverb-translation.md) — related
+- [Cross-linguistic consciousness-raising significantly reduces written errors in adverb position in learners' writing production](cross-linguistic-cr-reduces-adverb-writing-errors.md) — reports the opposite

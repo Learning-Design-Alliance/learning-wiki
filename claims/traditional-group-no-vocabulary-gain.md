@@ -51,3 +51,5 @@ Paired-sample t-test on the 25 control-group students taught technical vocabular
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related
 - [Traditional instruction also significantly improves Iranian EFL learners' writing ability from pre-test to post-test](ti-significant-pre-post-writing-gain-iranian-efl.md) — reports the opposite
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
+- [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related
+- [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — reports the opposite

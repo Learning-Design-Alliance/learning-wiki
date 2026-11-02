@@ -68,3 +68,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
 - [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related
 - [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](kahoot-engagement-decline-leaderboard-trailing.md) — related
+- [Teacher observations indicated sustained engagement in cartoon lessons versus diminishing excitement and reported boredom in bibliotherapy lessons](cartoon-lessons-engagement-versus-bibliotherapy-boredom.md) — related

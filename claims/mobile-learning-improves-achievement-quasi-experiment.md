@@ -69,3 +69,5 @@ Quasi-experimental comparison of a mobile learning group (n=15) and a traditiona
 - [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — reports the opposite
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](pbl-beats-traditional-mixtures-achievement.md) — related

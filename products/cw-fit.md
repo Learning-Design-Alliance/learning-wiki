@@ -18,13 +18,14 @@ sources:
 # CW-FIT
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (5 causal, 2 quant-synthesis), `q4` · 5 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 8 studies (6 causal, 2 quant-synthesis), `q3`–`q4` · 6 of 8 report an effect size · 7 claims rest on one study
 
 ## Description
 CW-FIT is a class-wide classroom-management programme developed by its intervention research team for prekindergarten through grade 12 settings, combining behavioral skill lessons, team-based contingencies, praise, rewards, and targeted supports.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **CW-FIT multi-tiered classroom management program**: CW-FIT (Class-wide Function-Related Intervention Teams) is a "multi-tiered classroom management program" incorporating PBIS strategies at tier 1 (social skills instruction, interdependent group contingencies, and praise) and tier 2 (self-management and help cards) to improve classroom management and student behavior during typical academic instruction. Teachers directly teach social skills in 10-min lessons, set daily point goals, use a timer at approximately 3-min intervals, divide classes into teams of two to six students, and reward teams meeting point goals. The article evaluates its effects on teacher ratings in an RCT. (Caldarella et al. (2017))
 
 ### Claims
 - [In a multisite randomized replication trial, CW-FIT increased the percentage of time on-task in classes in kindergarten through grade 6](../claims/cw-fit-increases-on-task-behavior-wills-2018.md) [+M]
@@ -32,14 +33,17 @@ CW-FIT is a class-wide classroom-management programme developed by its intervent
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](../claims/cw-fit-positive-effects-student-behavior.md) [+M]
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](../claims/cw-fit-positive-effects-teacher-practice.md) [+M]
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](../claims/cw-fit-reduces-disruptive-behaviors-wills-2016.md) [+M]
+- [CW-FIT improves teacher-rated social skills of elementary students at risk for EBD, with small effect sizes](../claims/cw-fit-improves-teacher-rated-social-skills.md) [+M]
+- [CW-FIT improves teacher-rated academic competence on SSBS-2 and CPS-E but not on the SSIS Academic Competence scale](../claims/cw-fit-improves-academic-competence-ratings.md) [+M]
+- [CW-FIT shows no significant effect on teacher ratings of problem behaviors at post-test](../claims/cw-fit-no-effect-teacher-rated-problem-behaviors.md) [~M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023, May). Class-Wide Function-Related Intervention Teams (CW-FIT). https://ies.ed.gov/ncee/wwc/InterventionReport/729
-
 <!-- merged 2026-10-10 from elements/cw-fit-program-element ("CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Caldarella, P., Larsen, R. A., Williams, L., Wills, H. P., Kamps, D., & Wehby, J. (2017). Effects of CW-FIT on teachers’ ratings of elementary school students at risk for emotional and behavioral disorders. Journal of Positive Behavior Interventions. Advance online publication. https://doi.org/10.1177/1098300717723353
 
 # CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards
 

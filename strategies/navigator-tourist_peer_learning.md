@@ -66,6 +66,7 @@ The strategy works through two mechanisms that operate in opposite directions fo
 - Think-Pair-Share — a lighter-weight peer structure that can precede formal navigator-tourist pairing
 - Cross-age tutoring programs (e.g., Reading Recovery–style buddy reading) — the same mechanism across grade levels
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
+- [Deploying a high-performing former student as an in-class peer teaching assistant during guided practice](student-learning-assistant-guided-practice-strategy.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core activity navigators perform

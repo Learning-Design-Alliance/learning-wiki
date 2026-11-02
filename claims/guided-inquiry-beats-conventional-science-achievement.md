@@ -49,3 +49,4 @@ Two-way ANOVA in a quasi-experimental 2×2 factorial study of fifth graders (exp
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — a narrower finding that bears on this claim
 - [Teaching model and cognitive style interact significantly in their effect on science achievement](teaching-model-cognitive-style-interaction.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

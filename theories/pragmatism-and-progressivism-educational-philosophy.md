@@ -12,7 +12,7 @@ generated:
 # Pragmatism and Progressivism (Educational Philosophy)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Like Realism, Pragmatism requires empirical observation of the real world; unlike Realism and Idealism, however, that world is not an unchanging whole but is evolving and changing according to how thought is applied to action on a problem. Thought should not merely describe or represent reality — it should be applied practically to problems as they arise, so that the universe is always evolving according to newly applied thoughts turned into action. Pragmatism's founder, Charles Sanders Peirce, held that thought must produce action toward an ever-changing universe.
@@ -41,6 +41,7 @@ Like Realism, Pragmatism requires empirical observation of the real world; unlik
 ## Claims
 
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
+- [Using the PBE curriculum did not automatically produce a more hands-on, exploratory classroom style in observed classrooms](../claims/pbe-did-not-enforce-exploratory-style.md) [~W]
 
 ## Related Theories
 

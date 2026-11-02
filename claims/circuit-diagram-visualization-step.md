@@ -48,3 +48,4 @@ Qualitative finding from facilitator fieldnotes during the project development p
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Sequencing generated drawing before viewing a provided visual improves transfer, suggesting provided visuals work best as feedback](drawing-before-provided-visual-improves-transfer.md) — related
 - [A four-hour e-textile workshop significantly increased young novices' ability to draw a functional circuit, from 12 of 22 (55%) at pre-test to 19 of 22 (86%) at post-test](four-hour-etextile-workshop-functional-circuit-gain.md) — related
+- [Roundhouse Diagrams helped reveal student misconceptions, which students generally reflected in the visuals they drew](roundhouse-diagrams-reveal-misconceptions.md) — related

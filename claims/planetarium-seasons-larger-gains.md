@@ -66,3 +66,6 @@ Figure 3 plots Cont-Pre gains with 95% confidence intervals; the authors report 
 ## Related Claims
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](classroom-visualization-no-advantage.md) — related
 - [The planetarium group's Post-Pre gain advantage is robust against the classroom group but not against the small-n control group, whose wide confidence interval encompasses the planetarium CI](postpre-robustness-limits.md) — related
+- [The flat-screen visualization group matched the planetarium group's immediate gains but lost almost all of them by the delayed post-test](flat-screen-gains-lost-by-post-test.md) — related
+- [Undergraduates taught Solar System moon content in an immersive fulldome planetarium retained a moderate gain (ES = 0.371) at delayed post-test, while non-immersive and no-visualization groups retained almost none](fulldome-immersion-greater-retention-moons.md) — related
+- [All treatment groups showed positive gains immediately after instruction, followed by losses between the contemporaneous and post-instruction assessments](immediate-gains-then-decay-all-groups.md) — related

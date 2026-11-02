@@ -58,3 +58,4 @@ ANCOVA of posttest scores by gender, with pretest as covariate, over all 120 stu
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
 - [Gender was a statistically significant source of variance in passive-voice post-test achievement](gender-significant-grammar-achievement.md) — related
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
+- [No significant gender difference in transfer of knowledge in physics under guided discovery, demonstration or expository teaching](no-gender-difference-physics-transfer-strategies.md) — related

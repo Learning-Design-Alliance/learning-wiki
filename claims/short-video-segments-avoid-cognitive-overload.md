@@ -1,43 +1,44 @@
 ---
 type: claim
-title: Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload
-description: Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload
+title: Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload
+description: Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload
 id: short-video-segments-avoid-cognitive-overload
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: weak
-newest_evidence: 2014
+newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
-  - id: zari-saeedi-and-aso-biri-2014
+  - id: saeedi-and-biri-2016
     resource: "https://www.tewtjournal.org"
-    title: "Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
-    author: Zari Saeedi and Aso Biri
+    title: "Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
+    author: "Saeedi, Z., & Biri, A."
     q: 2
     i: "?"
     kind: causal
     rigour: 1
 ---
 
-# Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload
+# Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students found fast speech hard to follow and preferred short episodes, consistent with the article's argument that brief segments prevent cognitive overload. [→ Zari Saeedi and Aso Biri 2014](#zari-saeedi-and-aso-biri-2014)
+`q2 i?` In interviews, two students said the characters spoke very fast, which made the sitcom hard to follow, and some other students suggested that the episodes shown be short; the authors read this as consistent with Swaffar and Vlatten's (1997) argument that brief segments avoid cognitive overload. [→ Saeedi and Biri 2016](#saeedi-and-biri-2016)
 
 ## Evidence
 
-### Zari Saeedi and Aso Biri 2014
+### Saeedi and Biri 2016
 
-Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
+Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
 
 `q2 · i?` · `causal · r1`
 
-Interview responses from experimental-group students; some also suggested episodes be short. The article links this to Swaffar and Vlatten's (1997) point that "cognitive overload" from excessive information is a problem for L2 learners exposed to video.
+Interview responses from the 17 experimental-group students, who were already shown shorter segments rather than whole episodes, with English subtitles added because of the speech-speed concern. The difficulty reported was fast speech (two students); the episodes' length was not reported as a difficulty, but some other students suggested that the episodes shown be short. The article links this to Swaffar and Vlatten's (1997) point that "cognitive overload" from excessive information is a problem for L2 learners exposed to video; the study did not compare segment lengths.
 
 > "Two of the students believed that the characters were spea king very fast, which made it difficult for them to understand what was happening."
 

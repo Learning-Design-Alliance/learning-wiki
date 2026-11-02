@@ -89,6 +89,7 @@ Peer tutoring works largely because explaining material to another person forces
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 - [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 - [Facilitator-led pedagogical intervention pairing slow learners with proficient peers and giving feedback](facilitator-pedagogical-intervention-oct.md)
+- [Deploying a high-performing former student as an in-class peer teaching assistant during guided practice](student-learning-assistant-guided-practice-strategy.md)
 
 ## Examples
 - **[Classwide Peer Tutoring](../products/classwide-peer-tutoring.md)** (Juniper Gardens Children's Project, University of Kansas) — weekly role switching, point systems, and teacher monitoring; extensively validated in elementary reading and math, including with students with disabilities.

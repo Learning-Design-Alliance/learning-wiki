@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (105 show a difference, 33 mixed, 30 no difference) · 114 studies (36 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 114 report an effect size · 165 claims rest on one study
+> **Evidence** · 175 claims (111 show a difference, 34 mixed, 30 no difference) · 116 studies (38 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 116 report an effect size · 172 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -205,6 +205,13 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Language classes using PeLe mobile testing with enquiry-based post-test activities improved final-test scores while a pen-and-paper control group's scores fell, though the gain is not attributable to PeLe specifically](../claims/pele-support-improves-final-test-performance.md) [+W] — instruction changes it
 - [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](../claims/ubc-no-significant-child-outcomes.md) [-W] — instruction changes it
 - [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](../claims/oct-61-percent-improved.md) [+M] — instruction changes it
+- [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](../claims/vocabulary-gains-persist-five-month-follow-up.md) [+M] — instruction changes it
+- [Interviewed learners unanimously perceived improvement in their listening comprehension and valued podcasts as a supplementary tool](../claims/interview-themes-listening-achievement-supplementary.md) [+W] — instruction changes it
+- [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](../claims/posttest-between-group-expressive-significant-receptive-null.md) [~M] — instruction changes it
+- [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
+- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
+- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [The podcast group significantly outperformed the control group on the listening comprehension post-test](../claims/podcast-group-outperformed-control-listening-posttest.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

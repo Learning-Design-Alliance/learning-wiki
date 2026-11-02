@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (17 for, 4 mixed, 1 against) · 30 studies (15 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 30 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (18 for, 4 mixed, 1 against) · 31 studies (16 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 31 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Learners, tasks and outcomes differ across these claims (seventh-grade algebra, 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — cited by the earlier page as a reason that strategy routines can organise problem solving and that too many strategies at once can overload; the claim is about working-memory limits in general (4 distinct studies in its table) and bears on this page only by inference, for example on limiting the number of methods per session.
 - [MLD children switch between direct subtraction and subtraction by addition only when the numerical distance between subtrahend and difference is large](../claims/mld-strategy-switching-limited-to-large-distance-problems.md) [+W] — attached 2026-10-22 from Peters et al. (2014), which proposed "Supplement routine direct-subtraction instruction for children with MLD with explicit teaching of subtraction by addition".
+- [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](../claims/problem-solving-strategy-more-effective-creativity.md) [+W] — attached 2026-11-02 from Hardi Tambunan (2019), which proposed "Prefer problem solving strategy over the scientific approach when the goal is students' higher order thinking skills in mathematics".
 
 ## Objective and learner-valued goal
 

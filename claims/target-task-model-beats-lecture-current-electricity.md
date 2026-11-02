@@ -59,3 +59,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related
+- [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related

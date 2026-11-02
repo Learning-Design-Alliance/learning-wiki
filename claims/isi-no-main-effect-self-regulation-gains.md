@@ -53,3 +53,4 @@ Cluster randomized control field trial with 445 first graders in 46 classrooms a
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — related
 - [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](isi-teachers-stronger-classroom-management.md) — related
+- [No significant effects of the intervention were detected on children's behavioral self-regulation (HTKS)](transmedia-math-supplement-no-htks-effect.md) — related

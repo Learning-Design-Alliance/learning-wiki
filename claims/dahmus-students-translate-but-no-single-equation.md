@@ -56,3 +56,4 @@ Authors' interpretation from examining test papers: "a large majority of the DM 
 - [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Two types of equation in school mathematics are easily confused and the confusion can be avoided by suggested means](two-types-of-equation-confusion.md) — related
+- [Preliminary testing found most General Physics students could not get beyond the plan-making stage of Polya problem solving](preliminary-study-polya-stage-failure.md) — related

@@ -51,3 +51,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
+- [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related

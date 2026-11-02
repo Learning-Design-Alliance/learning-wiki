@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 421 claims (188 for, 177 mixed, 56 against) · 288 studies (107 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 59 of 288 report an effect size · 405 claims rest on one study
+> **Evidence** · 422 claims (188 for, 178 mixed, 56 against) · 289 studies (108 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 59 of 289 report an effect size · 406 claims rest on one study
 
 ## Description and scope
 
@@ -402,6 +402,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](../claims/overreliance-superficial-learning-risk.md) [~W]
 - [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](../claims/personalized-feedback-top-benefit.md) [+W]
 - [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](../claims/reminders-most-common-dialogue-support.md) [~W]
+- [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](../claims/volta-attitudes-positive-with-ta-mixed-without.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

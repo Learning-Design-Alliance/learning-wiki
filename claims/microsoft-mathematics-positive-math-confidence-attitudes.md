@@ -50,3 +50,4 @@ Questionnaire data from the experimental group using a validated attitude instru
 - [Students taught with Microsoft Mathematics reported more positive mathematics and computer confidence attitudes than control students](microsoft-mathematics-positive-confidence-attitudes.md) — possibly the same claim (merge candidate)
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
+- [Children in the seven-month computer intervention reported more positive computer attitudes post-intervention, including doubled confidence](computer-intervention-increased-positive-attitudes.md) — related

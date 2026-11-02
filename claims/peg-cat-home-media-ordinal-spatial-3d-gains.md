@@ -50,3 +50,4 @@ Randomized controlled trial, two conditions, 197 four- and five-year-olds analyz
 - [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](peg-cat-parent-confidence-and-attitude-gains.md) — related
 - [A higher proportion of intervention parents reported engaging in problem-solving strategies with their children at study close](peg-cat-parent-problem-solving-strategies.md) — related
 - [Teacher-rated approaches to learning and math concepts and problem solving showed no differences between intervention and comparison children](peg-cat-no-teacher-rated-atl-mcps-differences.md) — related
+- [Children in the PBS KIDS Transmedia Math Supplement condition scored significantly higher on the Supplement-based Assessment than children in the Business as Usual condition](transmedia-math-supplement-sba-beats-business-as-usual.md) — related

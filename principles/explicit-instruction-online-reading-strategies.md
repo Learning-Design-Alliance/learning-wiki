@@ -22,7 +22,7 @@ sources:
 # Explicit Instruction: Online Reading Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (15 for, 10 mixed) · 40 studies (15 causal, 10 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 15 claims rest on one study
+> **Evidence** · 26 claims (16 for, 10 mixed) · 41 studies (16 causal, 10 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims read for this rewrite that bear on the page less directly. Every claim th
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — students' own comments from the same study's experimental group; no comparison.
 - [Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text](../claims/explicit-instruction-highest-cognitive-strategy-use.md) [+M] and [Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group](../claims/strategy-instruction-increases-metacognitive-strategy-use.md) [+M] — one qualitative multiple-case study (29 preservice teachers, print text); strategy use, not comprehension.
 - [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](../claims/cft-hypertext-design-higher-achievement-scores.md) [~M] — about course design, not reading instruction, and the two groups studied different software, so the difference cannot be attributed to the design.
+- [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](../claims/strategy-training-posttest-group-differences.md) [+W] — attached 2026-11-02 from Xiaoling Yang (2017), which proposed "Reading classrooms should focus on teaching students how to read strategically and autonomously"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

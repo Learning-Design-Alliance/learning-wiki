@@ -21,6 +21,7 @@ The Teachers' Sense of Efficacy Scale is a 24-item self-report assessment develo
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Teachers' Sense of Efficacy Scale (TSES, 24-item long form) as the self-efficacy measure**: The study used the TSES long form to measure self-efficacy across classroom management, student engagement, and instructional practices: 'The long form of the scale used in this study consists of 24 items, divided equally across these three dimensions, with responses provided on a 5-point Likert scale (1 = Nothing, 5 = A Great Deal)'. In this sample, 'Reliability coefficients ranged from 0.84 to 0.90 (α) and 0.85 to 0.91 (ω) at pre-test, and from 0.88 to 0.96 (α) and 0.89 to 0.96 (ω) at post-test'. (Ismael I et al. (2026))
+- **Teacher Sense of Efficacy Scale (Tschannen-Moran & Woolfolk Hoy, 2001) as the outcome measure**: The study measured teacher efficacy with the 24-item Teacher Sense of Efficacy Scale, rated on a 9-point continuum from 1 (Nothing) to 9 (A Great Deal), with three 8-item subscales: Efficacy for Instructional Strategies, Efficacy for Classroom Management, and Efficacy for Student Engagement. The article notes it "is becoming a standard instrument in research on teacher efficacy and has had high reliability in previous administrations", with subscale reliabilities of .86 to .90 and full-scale reliabilities of .92 to .95 in previous research. (Mohammad Nabi Karimi (2011))
 
 ### Claims
 
@@ -31,3 +32,4 @@ The Teachers' Sense of Efficacy Scale is a 24-item self-report assessment develo
 
 ## Key Sources
 - Ismael I, Luo X and Li S (2026). An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence. Front. Psychol. 17:1853510. https://doi.org/10.3389/fpsyg.2026.1853510
+- Mohammad Nabi Karimi. (2011). The Effects of Professional Development Initiatives on EFL Teachers' Degree of Self Efficacy. Australian Journal of Teacher Education, Vol 36, 6, May 2011.

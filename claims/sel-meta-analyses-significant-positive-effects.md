@@ -53,3 +53,4 @@ The article's synthesis of two comprehensive meta-analytic reviews of school-bas
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a narrower finding that bears on this claim
+- [Universal school intervention programs typically show small average effect sizes, with median effects between d = 0.07 and d = 0.16 per a cited review of 74 meta-analyses](universal-interventions-median-effect-sizes-small.md) — related

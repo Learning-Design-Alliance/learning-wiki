@@ -61,3 +61,4 @@ Quasi-experimental study with non-equivalent groups (20 experimental, 20 control
 - [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related
 - [5E-model teaching of lamp brightness produced higher posttest achievement than traditional teaching in a quasi-experiment with 62 11th-grade students](5e-model-lamp-brightness-posttest-achievement.md) — a narrower finding that bears on this claim
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

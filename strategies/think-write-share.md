@@ -63,6 +63,7 @@ The strategy operationalizes active participation for all learners rather than t
 - [Cold Calling](cold-call.md) — often combined after the write phase so every learner can be called on with a prepared answer
 - [Exit Tickets](exit-ticket.md) — the written component can double as a formative artifact collected at the end of class
 - [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
+- [Expose students to learning through exploration, questioning, and writing down questions and answers](srl-exploration-questioning-writing-strategy.md)
 
 ## Examples
 - A fourth-grade teacher asked "What is an equivalent fraction?" Students wrote their responses, shared with partners, and then revised their written definitions after a class discussion surfaced the misconception that equivalence means "looks the same."

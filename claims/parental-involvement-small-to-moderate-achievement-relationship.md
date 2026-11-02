@@ -59,3 +59,4 @@ The article's meta-analysis of the quantitative literature on parental involveme
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Children show high unassisted home engagement with the training, comparable to supervised settings](prosodiya-high-home-engagement.md) — related
 - [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](parental-involvement-positive-fv-all-outcomes.md) — a narrower finding that bears on this claim
+- [Texting parents about tests, homework and lesson content produced a small positive effect on maths attainment (ES 0.067) in a cluster RCT](pep-texting-small-maths-attainment-gain.md) — a narrower finding that bears on this claim

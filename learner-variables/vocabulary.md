@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (106 show a difference, 21 mixed, 21 no difference) · 104 studies (47 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 104 report an effect size · 145 claims rest on one study
+> **Evidence** · 154 claims (111 show a difference, 22 mixed, 21 no difference) · 106 studies (49 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 106 report an effect size · 151 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -189,6 +189,12 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+M] — instruction changes it
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](../claims/audiovisual-group-stable-retention-weeks.md) [-M] — instruction changes it
 - [The inductive vocabulary intervention produced a significant overall effect on ITBS Vocabulary achievement in grades 3-5](../claims/inductive-vocabulary-model-itbs-vocabulary-effect.md) [+W] — instruction changes it
+- [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](../claims/vocabulary-gains-persist-five-month-follow-up.md) [+M] — instruction changes it
+- [In an ESP context, Focus on Form instruction via dictogloss produced significantly higher productive vocabulary posttest scores than both Focus on Meaning and Focus on Forms instruction](../claims/fof-dictogloss-beats-fom-and-fofs-esp-vocabulary.md) [+M] — instruction changes it
+- [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](../claims/posttest-between-group-expressive-significant-receptive-null.md) [~M] — instruction changes it
+- [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
+- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
+- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

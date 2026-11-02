@@ -49,3 +49,5 @@ Paired-samples t-test on the 40 experimental participants' pre and posttest scor
 - [Seventh-grade Thai students taught with applied instruction through the genre-based approach achieved significantly higher English reading comprehension post-test scores than students taught with the teacher's manual](genre-based-approach-reading-comprehension-thai-grade7.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — reports the opposite
 - [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related
+- [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
+- [The experimental group showed a significant pre-to-post gain in reading comprehension after presentation strategy instruction](experimental-group-pre-post-reading-gain.md) — related

@@ -49,3 +49,4 @@ Delphi round 1 with 18 international experts rated each of seven preliminary ena
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md) — related
 - [Delphi experts reached 80% or higher consensus on all major CSM-SU components](delphi-consensus-csm-su-components.md) — related
 - Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related
+- [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — related

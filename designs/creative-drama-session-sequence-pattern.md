@@ -48,6 +48,7 @@ The article's drama treatment was organised as a sequence of sessions aligned to
 - [Drama sessions structured in three stages: warm-up, impersonation, and assessment](drama-three-stage-session-structure.md)
 - [Fourteen-week blended course structure pairing weekly sessions with peer-teaching practice and staged assignments](fourteen-week-peer-teaching-methods-course-structure.md)
 - [Six-session weaving workshop with graduated math goals from shape recognition to sequence exploration](six-session-weaving-workshop-graduated-math-goals.md)
+- [Five warm-up and game-based speaking activities used in the ABL treatment](abl-speaking-activities-set.md)
 
 ## Examples
 -

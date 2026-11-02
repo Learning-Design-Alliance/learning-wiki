@@ -59,8 +59,10 @@ Skepticism develops through repeated, structured opportunities to evaluate claim
 6. Repeat across varied contexts (news, science claims, historical accounts, advertising) so the disposition generalizes rather than attaching to one topic.
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — companion approach to evaluating factual claims
 - [3-Source Rule](3-source_rule.md) — a concrete corroboration habit students can apply when evaluating claims
+- [Use the exploration strategy: have students discuss, criticize and review ideas in the material before seeking knowledge](exploration-discussion-strategy-arabic-reading.md)
 
 ## Examples
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)): free lessons in which students evaluate real tweets, websites, and news sources; classroom studies show lateral-reading instruction improves source evaluation well beyond checklist approaches.

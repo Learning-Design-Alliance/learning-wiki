@@ -158,6 +158,7 @@ Comprehension of new texts, the practised disciplinary thinking skill, disciplin
 
 - [Driving Task Prompt sequenced literacy journey](../designs/driving-task-prompt-sequenced-literacy-journey.md) — middle school units built around one disciplinary writing task
 - [Project READI](../products/project-readi.md)
+- [Record discipline-specific writing videos and scholar interviews online so students in unstreamed first-year courses can access writing instruction relevant to their field](../strategies/recorded-disciplinary-writing-videos-interviews.md)
 
 ### Illustrative
 

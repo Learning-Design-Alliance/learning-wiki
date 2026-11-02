@@ -55,6 +55,7 @@ The article recommends practical adjustments for integrating web-based game play
 - [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
 - [Home-based summer game play with parent notification and periodic follow-up](home-summer-game-play-parent-followup.md)
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
+- [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The article recommends that teachers use PBL-based techniques such as the origin
 ## Related Strategies
 
 - [Implementation recommendations for adopting project-based learning in higher education classrooms](pobl-classroom-implementation-recommendations.md)
+- [Recommend PBL for high school chemistry teaching with daily-life scenarios](recommend-pbl-high-school-chemistry-scenarios.md)
 
 ## Examples
 -

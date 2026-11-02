@@ -49,6 +49,7 @@ The article recommends that the Ministry of Education organise seminars, confere
 - [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 - [Adopt constructivist/inquiry strategies (7E and CBL) in chemistry teaching with adequate teacher preparation](adopt-7e-cbl-chemistry-strategy.md)
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
+- [Adopt brain-based learning methods and teacher workshops in chemistry and science teaching](adopt-bbl-methods-and-teacher-workshops.md)
 
 ## Examples
 -

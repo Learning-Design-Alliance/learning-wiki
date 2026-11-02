@@ -41,7 +41,8 @@ The article contrasts the Infusion approach, in which students are explicitly tr
 - [First Principles No Domain General Ct Gain](../claims/first-principles-no-domain-general-ct-gain.md) [~M]
 
 ## Related Designs
-- 
+
+- [Embedding eight research skills into regular subject lessons through subject-specific task lists](subject-embedded-research-skill-tasks.md)
 
 ## Examples
 -

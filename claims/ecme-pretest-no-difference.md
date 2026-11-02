@@ -59,3 +59,4 @@ Baseline comparison on the 20-item multiple-choice pretest; Table 2 reports t = 
 - [The explicit correction and or-choice groups were statistically equivalent on the tense-marker pretest before instruction](feedback-groups-equivalent-at-pretest.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

@@ -52,3 +52,4 @@ Pearson correlation analysis comparing each of the 12 human raters' scores on th
 - [AEEGS and human raters produced similarly shaped score distributions, with most students' scores clustered around the mean in the 'good' band](aeegs-human-score-distributions-similar.md) — related
 - [The response-level confidence score correlates positively and significantly with scoring accuracy](confidence-score-correlates-scoring-accuracy.md) — related
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
+- [Start and End test scores correlated strongly within both groups, with a higher coefficient for the Control group (0.88868) than the Experiment group (0.74317)](start-end-score-correlations-groups.md) — related

@@ -38,6 +38,8 @@ Perkins and Salomon's research on transfer of learning identified two complement
 
 ## Related Strategies
 
+- [Promote transfer through varied examples, over-learning, generalization, similarity and common components](five-strategies-promoting-transfer.md)
+
 ## Examples
 - After learning to solve a certain class of algebra problems, a teacher has students brainstorm (bridging) other domains where the same underlying structure appears, while also practicing the skill under conditions that mimic a real assessment's time pressure and format (hugging).
 

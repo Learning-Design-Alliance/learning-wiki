@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 61 claims (28 for, 32 mixed, 1 against) · 46 studies (14 quant-synthesis, 13 causal, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 56 claims rest on one study
+> **Evidence** · 63 claims (30 for, 32 mixed, 1 against) · 47 studies (14 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 47 report an effect size · 58 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](../claims/both-interventions-increase-theory-based-knowledge-usage.md) [+M] — attached 2026-10-18 from Baier et al. (2021), which proposed "Use text-based cases to connect scientific theory to real-world classroom situations in teacher education, but treat them as one option rather than a panacea against inert knowledge"; tests this page's relationship.
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](../claims/cbl-higher-exam-scores-than-lbl-pharmacy.md) [+W] — attached 2026-10-31 from Chen Min et al. (2025), which proposed "Pharmacy courses suited to CBL over LBL require integrating theory with practice in complex, context-dependent scenarios"; tests this page's relationship.
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](../claims/cbl-improves-problem-solving-abilities.md) [+W] — attached 2026-10-31 from Chen Min et al. (2025), which proposed "Pharmacy courses suited to CBL over LBL require integrating theory with practice in complex, context-dependent scenarios"; tests this page's relationship.
+- [Case-based instruction significantly improves 10th-grade students' perceived motivation toward chemistry compared with traditional instruction (overall multivariate effect)](../claims/cbl-improves-chemistry-motivation-manova.md) [+W] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Case-based instruction with small-group discussion of daily-life cases"; tests this page's relationship.
+- [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [+W] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Case-based instruction with small-group discussion of daily-life cases"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

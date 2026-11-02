@@ -69,3 +69,4 @@ Total-test row of the delayed-test ANOVA table (Table 8) prints F = 43.09, signi
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Delayed-posttest retention scores did not significantly differ by digital storytelling, though experimental-group means were higher](digital-storytelling-math-delayed-posttest-no-significant-difference.md) — related
 - [In the first six weeks, comprehension gains on the Checkpoints measure did not differ significantly between intervention and comparison groups](checkpoints-no-six-week-difference.md) — related
+- [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related

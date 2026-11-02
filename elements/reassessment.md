@@ -13,7 +13,7 @@ generated:
 # Reassessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (7 causal, 5 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 15 studies (8 causal, 5 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Reassessment asks learners to revisit and revise their own answers after discussion, feedback, or additional instruction. It converts an initial response — right or wrong — into an object of reflection, making the gap between first thinking and improved thinking visible and revisable.
@@ -53,6 +53,8 @@ Reassessment leverages the testing effect a second time: the initial response fu
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [~W]
+- [Log-file analysis links the greatest post-Opener gains to revisiting an evidence page and spending more time revising initial work](../claims/revisiting-evidence-after-opener-predicts-gains.md) [+W]
+- [Students who participate in an Opener are significantly more likely to revisit and revise their embedded-assessment work than students with no Opener](../claims/openers-increase-revision-of-embedded-assessment-work.md) [+W]
 
 ## The evidence by question
 - *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]

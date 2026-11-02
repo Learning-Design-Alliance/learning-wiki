@@ -35,7 +35,8 @@ A validated 17-item, four-factor Likert questionnaire developed by Mahmoodarabi 
 - [Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors](../claims/experience-correlates-critical-pedagogy-awareness.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Behzadpour (2007) Reflective Teaching Questionnaire](behzadpour-2007-reflective-teaching-questionnaire.md)
 
 ## Key Sources
 - Mahmoodarabi, M., & Khodabakhsh, M. R. (2015). Critical Pedagogy: EFL Teachers' Views, Experience and Academic Degrees. English Language Teaching, 8(6). https://doi.org/10.5539/elt.v8n6p100

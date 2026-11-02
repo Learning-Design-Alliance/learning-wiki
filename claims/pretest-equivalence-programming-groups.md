@@ -58,3 +58,4 @@ Three open-ended pretest questions administered to both groups before the 10-wee
 - [The three groups did not differ in prior achievement before the Force and Motion intervention](pretest-homogeneity-writing-groups.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
+- [Prior interest in programming was higher in the control group than in the experimental group before the treatment](prior-programming-interest-group-difference.md) — related

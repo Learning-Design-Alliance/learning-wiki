@@ -44,6 +44,7 @@ Drawing on its participation findings, the article recommends that schools count
 ## Related Strategies
 
 - [Leverage culturally-specific engagement strengths: support school participation for Spanish-speaking families and oral storytelling for English-speaking families](culturally-specific-engagement-outreach-strategies.md)
+- [Schools should clearly communicate the animation course's aims and promote the potential benefits of participation to increase family sign-up](clear-communication-to-boost-family-sign-up.md)
 
 ## Examples
 -

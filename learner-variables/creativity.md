@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (104 show a difference, 27 mixed, 14 no difference) · 75 studies (29 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 75 report an effect size · 143 claims rest on one study
+> **Evidence** · 146 claims (105 show a difference, 27 mixed, 14 no difference) · 76 studies (30 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 76 report an effect size · 144 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -180,6 +180,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [High and average creative-ability students significantly outperformed low creative-ability students, but high and average did not differ](../claims/scheffe-high-average-beat-low-creative-ability.md) [+M] — learners who differ on it differ in outcomes
 - [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](../claims/lecturers-rated-dpbl-appropriate-and-effective.md) [+W] — instruction changes it
 - [The interaction between instructional method and creative ability on sculpture post-test performance was not significant](../claims/instruction-method-creative-ability-interaction-null.md) [-M] — an instructional effect differs with it
+- [A 10-week Enriched Creative Activities Program supported with the Aytürk Technique produced a significant pretest-to-posttest increase in creativity scores of fourth-grade experimental-group students](../claims/ayturk-program-pretest-posttest-creativity-gain.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -67,3 +67,4 @@ Secondary outcome analysis using Key Stage 1 points derived from teacher-assesse
 - [The PAL pilot found no differences in literacy or numeracy attainment between intervention and control pupils at post-test](pal-pilot-no-attainment-differences.md) — related
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
+- [SPOKES showed a positive effect on Key Stage 1 teacher-based literacy measures, an outcome not pre-specified in the trial protocol](spokes-positive-ks1-literacy-effect.md) — reports the opposite

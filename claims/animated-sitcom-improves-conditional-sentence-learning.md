@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: moderate
-newest_evidence: 2014
+newest_evidence: 2016
 sources:
-  - id: zari-saeedi-and-aso-biri-2014
+  - id: saeedi-and-biri-2016
     resource: "https://www.tewtjournal.org"
-    title: "Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
-    author: Zari Saeedi and Aso Biri
+    title: "Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
+    author: "Saeedi, Z., & Biri, A."
     q: 2
     i: "?"
     kind: causal
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Iranian intermediate EFL learners exposed to the animated sitcom treatment showed a statistically significant pretest-to-posttest gain in conditional-sentence knowledge. [→ Zari Saeedi and Aso Biri 2014](#zari-saeedi-and-aso-biri-2014)
+`q2 i?` Iranian intermediate EFL learners exposed to the animated sitcom treatment showed a statistically significant pretest-to-posttest gain in conditional-sentence knowledge. [→ Saeedi and Biri 2016](#saeedi-and-biri-2016)
 
 ## Evidence
 
-### Zari Saeedi and Aso Biri 2014
+### Saeedi and Biri 2016
 
-Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
+Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
 
 `q2 · i?` · `causal · r1`
 

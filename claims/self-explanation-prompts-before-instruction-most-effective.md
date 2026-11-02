@@ -50,3 +50,4 @@ The review reports a meta-analysis by Bisra et al. (2018) that found "self-expla
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [Students suggested improvements to place-based teaching including visiting more places, applying it in other courses, and increasing allocated time](student-suggestions-place-based-improvement.md) — related

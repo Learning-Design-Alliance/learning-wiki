@@ -70,3 +70,4 @@ One-way ANOVA comparing the two conditions after the study found the experimenta
 - [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](story-mapping-pretest-posttest-gain.md) — related
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related

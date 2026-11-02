@@ -52,3 +52,4 @@ Quasi-experimental pretest-posttest control group study of two grade VIII classe
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](interaction-learning-kam-self-confidence.md) — related
+- [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](problem-solving-strategy-more-effective-problem-solving.md) — related

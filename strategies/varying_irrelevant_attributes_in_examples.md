@@ -58,9 +58,11 @@ Varied examples support schema formation by helping learners abstract the genera
 5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/worked-example-problem-sequences.md) [+W].
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — varied worked examples are the standard vehicle for this strategy in problem-solving domains
 - [Non-Examples](../elements/non-examples.md) — near-miss non-examples do the complementary work of isolating defining attributes
 - [Interleaving](interleaving.md) — mixing concept categories compounds the discrimination benefits of varied examples
+- [Promote transfer through varied examples, over-learning, generalization, similarity and common components](five-strategies-promoting-transfer.md)
 
 ## Examples
 - **Tennyson & Park's rational set framework** — the classic instructional design prescription: an "example set" with wide irrelevant variation plus a "non-example set" matched on irrelevant attributes.

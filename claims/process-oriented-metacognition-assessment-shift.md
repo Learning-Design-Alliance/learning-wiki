@@ -65,3 +65,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a narrower finding that bears on this claim
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim
 - [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related
+- [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — related

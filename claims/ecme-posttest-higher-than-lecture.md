@@ -51,3 +51,4 @@ Quasi-experiment with 60 general physicians and assistants randomly assigned to 
 - [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related

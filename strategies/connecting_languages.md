@@ -58,8 +58,10 @@ Cross-linguistic transfer is a well-documented resource for second-language lear
 5. Have students apply the connection — use the cognate in writing, or apply the structural insight to a new word ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the general case; Connecting Languages applies it to linguistic knowledge specifically
 - [Accessible Syntax](../strategies/accessible_syntax.md) — complementary support for making English input comprehensible while home-language knowledge is activated
+- [Teach vocabulary by explicitly instructing learners in cognate structures between their first language and English](explicit-cognate-awareness-instruction-strategy.md)
 
 ## Examples
 - A third-grade class builds a cognate wall during a science unit on animals: *elefante/elephant*, *océano/ocean* — Spanish-speaking students verify the pairs and flag false cognates they discover.

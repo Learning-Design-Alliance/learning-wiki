@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (85 show a difference, 29 mixed, 4 no difference) · 86 studies (25 review, 15 causal, 15 associational, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 86 report an effect size · 113 claims rest on one study
+> **Evidence** · 119 claims (85 show a difference, 29 mixed, 5 no difference) · 87 studies (25 review, 16 causal, 15 associational, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 87 report an effect size · 114 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -155,6 +155,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Rural seventh-grade mentees receiving cross-age peer mentoring showed a statistically significant increase on the \"Self-in-Future\" connectedness subscale](../claims/camp-self-in-future-subscale-significant-increase.md) [+M] — instruction changes it
 - [The literature reviewed attributes protective academic and behavioral benefits to positive school connectedness](../claims/school-connectedness-protective-factor-literature.md) [+W] — learners who differ on it differ in outcomes
 - [Sense of belonging to math declined only in the problem-solving control condition, with no condition main effect on belonging](../claims/belonging-declined-only-in-control.md) [~W] — instruction changes it
+- [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](../claims/e-emr-no-significant-main-effects-high-school.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

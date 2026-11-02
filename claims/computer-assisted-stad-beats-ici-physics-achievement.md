@@ -49,3 +49,4 @@ ANCOVA of post-test scores for 84 students in two intact classes (46 STAD, 38 IC
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](stad-highest-mean-gain-achievement.md) — related
 - [Gender showed no significant difference in post-test performance among students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
 - [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related
+- [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related

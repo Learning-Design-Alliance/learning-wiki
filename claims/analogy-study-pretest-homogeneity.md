@@ -57,3 +57,5 @@ Independent-samples t-test on pre-test scores of the two groups (43 each). The a
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [Pre-test listening proficiency was equivalent between the online and traditional classroom groups](pre-test-proficiency-equivalent-groups.md) — related
+- [The experimental and control groups were statistically comparable in reading comprehension before the treatment began](pretest-equivalence-presentation-strategy-groups.md) — related
+- [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related

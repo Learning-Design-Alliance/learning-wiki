@@ -54,3 +54,4 @@ A 4x2 ANCOVA of students' understanding of Light waves classified by instruction
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
 - [Male and female students show no significant difference in analysis of Light waves](no-gender-difference-analysis-light-waves.md) — related
 - [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related
+- [No significant gender difference in transfer of knowledge in physics under guided discovery, demonstration or expository teaching](no-gender-difference-physics-transfer-strategies.md) — related

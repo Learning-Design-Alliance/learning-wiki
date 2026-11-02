@@ -76,3 +76,4 @@ Descriptive results in Table 2 from the quasi-experiment: experimental group pos
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — a narrower finding that bears on this claim
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — related
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
+- [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related

@@ -57,3 +57,5 @@ Quasi-experimental comparison of two intact groups of Iranian female intermediat
 - [Computer-based audio gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](audio-gloss-improves-reading-comprehension.md) — related
 - [Intermediate EFL learners using the Digital Kitchen achieved significantly higher immediate post-test vocabulary gains than learners using a printed recipe in a normal kitchen](digital-kitchen-post-test-vocabulary-gains.md) — related
 - [Interactive multimedia CD-ROM self-learning produced higher achievement than online self-learning with mentor support, with no significant differences between CD and print or between print and online](imm-cd-higher-achievement-than-online-ignou.md) — related
+- [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related

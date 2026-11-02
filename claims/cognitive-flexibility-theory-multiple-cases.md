@@ -105,3 +105,4 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — a broader claim this one bears on
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](case-comparisons-higher-learning-gain-low-prior-knowledge.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
+- [Experimental-group pupils outperformed control-group pupils at the non-specific transfer level](hypertext-text-non-specific-transfer-advantage.md) — related

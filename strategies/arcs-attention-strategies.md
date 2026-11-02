@@ -49,6 +49,7 @@ Attention is the first ARCS component, described as strategies "for arousing and
 - [Gain Attention](../elements/gain-attention.md)
 - Attention
 - [Use teacher-developed digital stories at introduction, progress, and conclusion stages of mathematics lessons](digital-stories-at-introduction-progress-conclusion-stages.md)
+- [Use instructional technology to manage situational interest by matching learning styles, leveraging difficulty, segmenting goals, and arousing curiosity](technology-manage-situational-interest-four-factors.md)
 
 ## Examples
 -

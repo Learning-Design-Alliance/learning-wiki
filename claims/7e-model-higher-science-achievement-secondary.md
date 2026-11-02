@@ -110,3 +110,6 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [Multimedia-supported 7E model materials improved five-week retention of learned science content relative to traditional teaching](multimedia-7e-retention-advantage.md) — related
 - [Experiential learning-based Mathematics teaching material improves fifth-graders' Mathematics cognitive ability more than conventional teaching material](experiential-material-improves-math-cognitive-ability.md) — related
 - [5E-model teaching of lamp brightness produced higher posttest achievement than traditional teaching in a quasi-experiment with 62 11th-grade students](5e-model-lamp-brightness-posttest-achievement.md) — related
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [First-year university students studying projectile motion with a Mathematica program achieve higher post-test scores than students using a projectile motion experiment set](mathematica-program-higher-projectile-achievement.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

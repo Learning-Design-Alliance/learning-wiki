@@ -50,3 +50,4 @@ Authors' interpretation based on field notes of classroom observations, offered 
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
 - [Students perceive conversational-agent interventions as disruptive and react to the automatic disruptions differently](agent-interruptions-perceived-disruption-varies.md) — related
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
+- [The authors interpret the Vitamin-based triangles teaching as more effective because multi-sensory materials raise attention and motivation](multisensory-materials-attention-motivation-interpretation.md) — related

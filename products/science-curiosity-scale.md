@@ -27,6 +27,7 @@ A 30-item, five-point Likert self-report instrument developed by Harty and Beall
 ## Related Products and Programmes
 
 - [State epistemic curiosity measure](state-epistemic-curiosity-measure.md)
+- [Raudsepp “How Creative Are You?” creativity scale (Turkish adaptation)](raudsepp-how-creative-are-you-creativity-scale-turkish-adaptation.md)
 
 ## Key Sources
 - Karadeniz, E. & Degirmencay, Ş. A. (2020). The Effect of the Science-Fiction Books on Arousing Curiosity about Science in Secondary School Students. Journal of Turkish Science Education, 17(2), 225-241. https://doi.org/10.36681/tused.2020.23

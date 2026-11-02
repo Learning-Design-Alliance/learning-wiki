@@ -98,3 +98,4 @@ The review reports Petersen, Divitini, and Chabert's (2009) evaluation of a mobi
 - Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts — related
 - [Blog commenting promoted interaction among participants but did not achieve collaboration for social construction of knowledge or higher-order competencies such as coaching](blog-commenting-interaction-not-knowledge-construction.md) — related
 - [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](other-technologies-mixed-null-effects.md) — related
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related

@@ -48,3 +48,4 @@ Retention test with the same 25-item achievement test applied four weeks after t
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
+- [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related

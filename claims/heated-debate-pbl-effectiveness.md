@@ -47,3 +47,4 @@ The authors' framing statement motivating the meta-synthesis: PBL is "extensivel
 ## Related Claims
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](pbl-potential-flexible-understanding-lifelong-learning.md) — related
+- [Prior chemistry studies cited by the authors also favor PBL over traditional methods](prior-pbl-chemistry-studies-favor-pbl.md) — related

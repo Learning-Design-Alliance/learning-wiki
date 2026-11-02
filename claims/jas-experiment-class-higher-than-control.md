@@ -56,3 +56,4 @@ The review's Conclusion, summarising 106 research reports of several designs (qu
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
 - [A meta-analysis of 103 JAS studies reports the approach's effectiveness in 97% of researches](jas-meta-analysis-97-percent-effective.md) — related
 - [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — a narrower finding that bears on this claim
+- [Polytechnic knowledge and skills in experimental classes increased on average by 16% relative to control classes](polytechnic-development-16-percent-increase.md) — related

@@ -200,6 +200,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
 - [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-and-guided-notes-processing-speed.md)
 - [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](../strategies/rti-tablet-reading-strategies-strategy.md)
+- [Provide scaffolding (fill in the map) plus explicit instruction and feedback when teaching concept mapping for reading comprehension](../strategies/scaffolding-feedback-cm-instruction-strategy.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.

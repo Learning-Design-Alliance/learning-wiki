@@ -59,3 +59,4 @@ Quasi-experimental study comparing an experimental group receiving AI-supported 
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md) — related
 - [Inquiry-based instruction produces higher argumentation skills than the subject matter approach in secondary agriscience students](inquiry-based-instruction-higher-argumentation-skills-agriscience.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
+- [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related

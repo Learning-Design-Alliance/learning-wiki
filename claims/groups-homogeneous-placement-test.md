@@ -63,3 +63,5 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related
 - [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related
 - [Gloss type significantly affects reading comprehension, with the extended audio gloss group significantly outperforming the other groups](gloss-type-anova-extended-audio-outperforms.md) — related
+- [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
+- [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related

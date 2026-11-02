@@ -54,3 +54,4 @@ Network meta-analysis of learning interest from 16 studies, covering 7 teaching 
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — a broader claim this one bears on
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
+- [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related

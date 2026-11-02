@@ -88,3 +88,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

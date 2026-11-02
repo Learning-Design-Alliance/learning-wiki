@@ -52,3 +52,4 @@ Cluster characterization from feature means in the n=131 dataset. Text reproduce
 - [Current ChatGPT users were overrepresented among text reconstructors and underrepresented among text integrators (Cramér's V = 0.26)](current-chatgpt-use-associated-with-reconstructors.md) — related
 - [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — related
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
+- [Intervention students' essays conveyed personal voice and agency, while control students tended to reproduce textbook content](intervention-essays-personal-voice-vs-textbook.md) — related

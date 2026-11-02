@@ -78,3 +78,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](limited-reliability-procedural-tools-kappa-range.md) — related
+- [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](prosody-test-retest-reliability-94.md) — related

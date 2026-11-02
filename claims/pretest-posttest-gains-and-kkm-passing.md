@@ -49,3 +49,4 @@ Pretest-posttest descriptive results in the quasi-experiment: experimental avera
 - [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](tgt-outperformed-lecture-posttest.md) — related
 - [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](absi-within-group-gain-significant.md) — related
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](2010-posttest-means-experimental-vs-control.md) — related
+- [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related

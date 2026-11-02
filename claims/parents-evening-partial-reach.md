@@ -70,3 +70,4 @@ The authors note the self-selection problem: attending parents were already invo
 - [Active parental involvement via a joint homework task improved boys' safe behavior on SNSs, with a gender interaction](active-parental-involvement-boys-behavior.md) — related
 - [The initially developed SNS safety course increased awareness of contact risks but did not change attitudes or behavior](initial-sns-course-awareness-only.md) — related
 - [Adding individual reflection to the SNS safety course produced changes in attitudes and behavior that the collaborative version did not](individual-reflection-improves-attitudes-behavior.md) — related
+- [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related

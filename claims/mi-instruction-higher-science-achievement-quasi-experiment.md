@@ -52,3 +52,4 @@ One-way ANCOVA on post-test scores of a 30-item teacher-made achievement test, c
 - [MI-based teaching strategy produces significantly higher MI gain scores than traditional teaching in junior high science](mi-strategy-higher-mi-gain-than-traditional.md) — related
 - [Cognitive conflict strategy improves Science achievement more than traditional teaching among intermediate second-grade students](cognitive-conflict-improves-science-achievement-intermediate.md) — related
 - [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related
+- [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related

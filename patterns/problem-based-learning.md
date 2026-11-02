@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 145 claims (52 for, 82 mixed, 11 against) · 80 studies (32 quant-synthesis, 20 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 80 report an effect size · 140 claims rest on one study
+> **Evidence** · 148 claims (54 for, 83 mixed, 11 against) · 82 studies (32 quant-synthesis, 22 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 82 report an effect size · 143 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,8 @@ The twelve claims listed here before that wave were read against the model on 20
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](../claims/pbl-process-evaluation-skills-benefits.md) [+W] — attached 2026-11-01 from Menzies et al. (2016), which proposed "REAL Projects structure: essential question, academic content, drafts with critique, student-created product, exhibition and authentic audience"; tests this page's relationship.
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-recall-efl.md) [+W] — attached 2026-11-01 from Fateme Shir Mohammadi (2017), which proposed "Authentic problem-based vocabulary task cycle: scenario, group hypothesis, word search, conversation creation, and peer-teacher evaluation"; tests this page's relationship.
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-retention-efl.md) [+W] — attached 2026-11-01 from Fateme Shir Mohammadi (2017), which proposed "Authentic problem-based vocabulary task cycle: scenario, group hypothesis, word search, conversation creation, and peer-teacher evaluation"; tests this page's relationship.
+- [Problem Based Economics improves students' economics problem-solving skills on open-ended performance tasks (effect size 0.27)](../claims/pbe-improves-performance-task-skills.md) [+W] — attached 2026-11-02 from Finkelstein et al. (2011), which proposed "Problem Based Economics unit structure: seven interrelated problem-solving phases with a facilitative teacher"; tests this page's relationship.
+- [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](../claims/pbl-beats-traditional-mixtures-achievement.md) [+W] — attached 2026-11-02 from Musa Üce (2016), which proposed "PBL unit pattern: real-life ill-structured problem case driving group investigation and laboratory work"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -237,6 +239,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](../claims/pbl-authentic-environment-difficult-words-interpretation.md) [+W]
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
 - [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
+- [PBE-trained teachers report significantly higher satisfaction with teaching materials and methods than control teachers (effect size 1.09)](../claims/pbe-teachers-more-satisfied-materials-methods.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

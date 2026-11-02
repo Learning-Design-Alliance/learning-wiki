@@ -55,3 +55,4 @@ Descriptive comparison of control-group pre- and post-test scores in the quasi-e
 - [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](jpa-group-outperformed-traditional-group-post-test.md) — related
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
+- [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related

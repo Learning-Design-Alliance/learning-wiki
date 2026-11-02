@@ -67,3 +67,6 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Project-method learners significantly outperformed control learners on the final test's reproduction-level questions](project-method-reproduction-level-final-test.md) — related
 - [PBL produced better social science learning outcomes than Direct Instruction in fourth-grade elementary students](pbl-beats-direct-instruction-social-science-elementary.md) — related
 - [Post-test SUSSI scores of pre-service science teachers taught through project-based HNOS training are significantly higher than those of the control group taught by conventional method](pbl-hnos-higher-posttest-sussi.md) — a narrower finding that bears on this claim
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) — related
+- [Prior chemistry studies cited by the authors also favor PBL over traditional methods](prior-pbl-chemistry-studies-favor-pbl.md) — a broader claim this one bears on

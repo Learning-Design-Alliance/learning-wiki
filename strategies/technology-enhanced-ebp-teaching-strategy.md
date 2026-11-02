@@ -46,6 +46,7 @@ The review recommends that future studies take advantage of technology improveme
 - [Investigate the quality of learning acquired through the internet in future studies](investigate-quality-of-internet-acquired-learning.md)
 - [Develop mobile health applications that account for caregiver age and technology familiarity](mhealth-apps-account-for-caregiver-age-and-tech-familiarity.md)
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
+- [Deliver worked examples through mobile learning applications to support independent physics study](mobile-delivery-of-worked-examples-strategy.md)
 
 ## Examples
 -

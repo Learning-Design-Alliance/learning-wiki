@@ -49,3 +49,4 @@ Qualitative analysis of interns' anecdotal observations and field notes across t
 - [ELL first graders who learned ASL signs with sight vocabulary moved from zero pretest words to perfect posttest scores](asl-sight-vocabulary-ell-students-perfect-posttest.md) — related
 - [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
+- [Students' journal entries and observed behaviour suggested increased writing self-confidence and interest](journal-excerpts-confidence-interest.md) — related

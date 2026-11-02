@@ -44,6 +44,7 @@ Because most districts waited until school was nearly over to promote the progra
 - [Zoom Family Hours](zoom_family_hours.md)
 - [Publicize Volunteer Opportunities and Student Involvement](publicize_volunteer_opportunities_and_student_involvement.md)
 - [Distinguish product users from purchasers and recruit representative users through school-like community settings](edu-ux-user-recruiting-and-customer-clarity.md)
+- [Schools should clearly communicate the animation course's aims and promote the potential benefits of participation to increase family sign-up](clear-communication-to-boost-family-sign-up.md)
 
 ## Examples
 -

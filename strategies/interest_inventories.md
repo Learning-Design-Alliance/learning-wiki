@@ -85,12 +85,14 @@ Interest inventories operationalize personal relevance, which raises task value 
 5. Revisit the inventory at natural breakpoints (new unit, new term) to update groupings and topic choices.
 
 ## Related Strategies
+
 - Choice-based reading workshops — inventories supply the data that makes book choice efficient
 - Project-based learning — inventories seed authentic project topics
 - Learning clubs / literature circles — the grouping structure inventories typically feed
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — interests are a form of prior knowledge; inventories surface material that later serves as an activation hook
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the structural mechanism through which inventoried interests become learner decisions
 - [Action Planning](action_planning.md) — learners translate interests into goals and steps
+- [Assign intelligence-matched art activities to student groups identified by an MI inventory](intelligence-matched-art-activities-strategy.md)
 
 ## Examples
 - Reading interest inventories in elementary classrooms (e.g., the "Reading Interest-A-Lyzer" style surveys from the reading workshop tradition) used to build classroom libraries and match students to independent-reading books.

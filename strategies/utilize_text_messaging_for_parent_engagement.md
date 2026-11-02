@@ -73,6 +73,7 @@ Texting works because it lowers the behavioral cost of engagement: parents act o
 - [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
 - [Favor instructive over restrictive parental mediation to reduce adolescents' cyberhate victimization risk](instructive-parental-mediation-strategy.md)
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
+- [Appoint a dedicated coordinator to monitor the accuracy and frequency of parent texts](dedicated-coordinator-for-parent-texting.md)
 
 ## Examples
 - **[READY4K](https://ready4k.parentpowered.com)** (Stanford-developed, now ParentPowered) — weekly texted literacy tips matched to classroom curriculum; a large randomized trial in San Francisco showed gains in early literacy [~S].

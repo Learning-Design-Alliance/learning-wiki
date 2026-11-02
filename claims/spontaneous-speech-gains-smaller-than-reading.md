@@ -49,3 +49,4 @@ Spontaneous-speech task (T4) administered only to the experimental group one day
 - [Combining pronunciation instruction with monitor-strategy training greatly improves pronunciation accuracy in adult English majors](instruction-plus-monitor-improves-pronunciation-accuracy.md) — related
 - [Instruction plus monitor training produced positive transfer of pronunciation knowledge to uninstructed words](positive-transfer-pronunciation-knowledge.md) — related
 - [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — a broader claim this one bears on
+- [Gains were largest in stress and pronunciation, smallest in speech-sound articulation, and about 10% of experimental students showed no progress](component-level-prosodic-gain-pattern.md) — related

@@ -53,3 +53,4 @@ Descriptive statistics from Table 1 of the pretest-posttest-delayed posttest stu
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](clicker-vote-patterns-null-on-homework-explanations.md) — related
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](delayed-posttest-vocabulary-decline-off-list-words.md) — related
+- [Individual differences produced highly variable vocabulary gains among PàN players, with some participants benefiting far more than others](pan-individual-differences-vocabulary-gains.md) — a narrower finding that bears on this claim

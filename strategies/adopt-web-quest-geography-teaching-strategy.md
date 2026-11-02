@@ -45,7 +45,8 @@ Based on the study's positive results, the author recommends "Using the Web Ques
 - [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](../claims/web-quest-improves-geographic-concept-acquisition.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate WebQuests into teachers' class planning with teacher training](webquest-class-planning-teacher-training-strategy.md)
 
 ## Examples
 -

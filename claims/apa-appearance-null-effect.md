@@ -57,3 +57,4 @@ Review reports Moreno et al.'s (2001) detailed comparison of two learning condit
 - [Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging](emotional-feedback-engaging-not-performance.md) — related
 - [Including videos of the students' own human teacher giving motivational feedback was more effective than an animated pedagogical agent and improved homework completion rates](teacher-videos-beat-pedagogical-agent-motivation.md) — related
 - [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — related
+- [No statistically significant difference was found between planar still images and animated stereo images as visual glosses for learning preposition senses](no-difference-planar-animated-visual-glosses.md) — related

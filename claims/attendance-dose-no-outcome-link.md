@@ -53,3 +53,4 @@ Secondary CACE-style analysis of the trial estimating the intervention effect ta
 - [Financial incentives of £30 per session increased parental attendance at Parent Academy sessions](financial-incentives-increase-parent-attendance.md) — related
 - [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](textnow-attendance-dosage-effect.md) — related
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
+- [Mind the Gap showed no statistically significant effect on secondary outcomes including reading, general maths, mental arithmetic and pupils' feelings about their relationship with their parents](mind-the-gap-null-secondary-outcomes.md) — related

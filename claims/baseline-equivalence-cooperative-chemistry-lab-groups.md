@@ -48,3 +48,4 @@ Pre-application analysis of report scores during the first three experiments, wh
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](cooperative-learning-higher-lab-report-scores-chemistry.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](cooperative-group-higher-final-exam-chemistry-lab.md) — related
+- [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related

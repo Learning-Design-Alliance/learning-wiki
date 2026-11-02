@@ -98,6 +98,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Teach a four-step verbalized problem-solving strategy (identify problem, propose solution, implement, evaluate)](four-step-self-regulated-problem-solving-strategy.md)
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](video-modeling-examples-train-self-assessment-task-selection.md)
+- [Use the thinking loudly strategy to move students out of isolation and build self-expression during reading lessons](thinking-loudly-strategy-arabic-reading.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component; modeling adds the reasoning narration

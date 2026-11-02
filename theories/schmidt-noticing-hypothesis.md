@@ -19,7 +19,7 @@ sources:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (12 for, 6 mixed, 2 against) · 18 studies (5 quant-synthesis, 4 review, 3 qualitative, 2 causal, 2 design, 2 theoretical), `q1`–`q3` · 1 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (14 for, 6 mixed, 2 against) · 20 studies (5 quant-synthesis, 4 causal, 4 review, 3 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 1 of 20 report an effect size · 20 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -65,6 +65,8 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](../claims/carousel-task-immediate-repetition-benefits.md) [+W]
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](../claims/immediate-repetition-benefits-oral-performance.md) [+W]
 - [Focused audio-appended reading tasks produced significantly higher written accuracy than unfocused tasks for the rule-bound structure (passive voice) on the posttest](../claims/focused-outperformed-unfocused-rule-bound-accuracy.md) [+W] — attached 2026-11-01 from Alavinia et al. (2018), which proposed "Noticing hypothesis and implicit focus-on-form as the explanatory account for the focused-task advantage".
+- [Cross-linguistic consciousness-raising significantly improves EFL learners' recognition of adverb-position errors](../claims/cross-linguistic-cr-improves-adverb-error-recognition.md) [+W] — attached 2026-11-02 from Seyyed Yavar Hosseininik et al. (2014), which proposed "Consciousness-raising as a form-focused technique that develops explicit awareness of target-language features".
+- [The authors attribute the dictogloss advantage to depth of processing, discovery learning, pushed output, noticing, awareness raising, negotiation, and collaboration](../claims/dictogloss-advantage-processing-noticing-negotiation-account.md) [+W]
 
 ## The evidence by question
 - *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]

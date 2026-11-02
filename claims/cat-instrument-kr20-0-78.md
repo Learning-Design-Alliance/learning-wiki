@@ -49,3 +49,4 @@ Instrument-development report: the CAT's content validity was established with a
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](mastery-learning-higher-quantitative-chemistry-posttest.md) — related
+- [The researcher-built two-stage Mixtures Achievement Test showed high reliability in the pilot and research groups](mixtures-achievement-test-reliability.md) — related

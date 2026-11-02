@@ -62302,5 +62302,389 @@
  "technology-tool\tAssessmake21 self-assessment through tagged skills followed by challenges\tno comparison condition stated": {
   "label": "Assessmake21 tagged self-assessment with follow-up challenges vs no comparison condition",
   "treatment_is_a": true
+ },
+ "active-learning\tPAIKEM learning\tconventional learning": {
+  "label": "PAIKEM learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPAIKEM learning model\tconventional learning model": {
+  "label": "PAIKEM learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPAIKEM learning, high motivation\tconventional learning, high motivation": {
+  "label": "PAIKEM learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tProblem Based Economics curriculum\tcontrol instruction": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based learning\tconventional language teaching": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based learning\ttraditional language teaching": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based learning for high achievers\ttraditional language teaching for high achievers": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity based learning for low achievers\ttraditional language teaching for low achievers": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based hands-on teaching\ttraditional instruction": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based hands-on teaching\ttraditional lecture instruction": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based learning\ttraditional language teaching": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based teaching\tlecture-based teaching": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based teaching\ttraditional teaching": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based teaching with hands-on activities\ttraditional instruction": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based teaching with hands-on activities\ttraditional lecture-based instruction": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based instruction in small groups\ttraditional teacher- and textbook-based instruction": {
+  "label": "Case-based instruction in small groups vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based instruction in small groups\ttraditional teacher-led instruction": {
+  "label": "Case-based instruction in small groups vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based instruction in small groups\ttraditional teacher/textbook instruction": {
+  "label": "Case-based instruction in small groups vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcombined traditional plus active-learning method group\ttraditional lecture group": {
+  "label": "Lecture plus active-learning activities vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcombined traditional plus active-learning teaching\tpre-test baseline": {
+  "label": "Lecture plus active-learning activities vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical and active-learning lessons\tlecture-only course": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical and active-learning lessons designed to increase racial doubt\tlecture-only course without interactive lessons": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical and active-learning lessons with discussion and projects\tlecture-only course without interactive lessons": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical and active-learning lessons, females\tpre-lesson assessment at Time 1": {
+  "label": "Critical-thinking and active-learning lessons vs pre-lesson baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical and active-learning lessons, males\tpre-lesson assessment at Time 1": {
+  "label": "Critical-thinking and active-learning lessons vs pre-lesson baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical-thinking and active-learning lessons\tlecture-only lessons": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical-thinking and active-learning lessons\tstudents’ pre-lesson responses": {
+  "label": "Critical-thinking and active-learning lessons vs pre-lesson baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activity-based teaching\ttraditional lecture-based instruction": {
+  "label": "Activity-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive lessons, group discussions, and shared personal narratives\tlecture-based instruction without interactive activities": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture plus active-learning activities\ttraditional lecture only": {
+  "label": "Lecture plus active-learning activities vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer observation and feedback activity\tpresenting before teachers without the peer-group context": {
+  "label": "Peer observation and feedback vs teacher-only presentation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer teaching strategy\tinstruction without peer teaching": {
+  "label": "Peer teaching vs instruction without peer teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer teaching with a student teaching assistant\tinstruction without peer teaching": {
+  "label": "Peer teaching vs instruction without peer teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tpresenting before and receiving feedback from peers\tpresenting in front of teachers": {
+  "label": "Peer feedback and observation vs teacher-only presentation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpresenting before peer observers\tpresenting before teachers": {
+  "label": "Peer feedback and observation vs teacher-only presentation",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tteacher-centered traditional method": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tteacher-centered traditional teaching": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tticket to retention with writing and peer discussion\twithout the TtR": {
+  "label": "Writing and peer discussion for retention vs no writing and peer discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional lecture plus active-learning activities\tthe same learners before instruction": {
+  "label": "Lecture plus active-learning activities vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional lecture plus active-learning activities\ttraditional lecture only": {
+  "label": "Lecture plus active-learning activities vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttreated course assigned critical and active-learning lessons\tnon-treated course with lecture only": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttreated course with critical and active-learning lessons\tnon-treated lecture course": {
+  "label": "Critical-thinking and active-learning lessons vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\textensive reading\tdirect instruction without extensive reading": {
+  "label": "Extensive reading vs direct instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\textensive reading with free choice of books\tdirect instruction without extensive reading": {
+  "label": "Free-choice extensive reading vs direct instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\textensive reading with library access\tdirect instruction without extensive reading": {
+  "label": "Library-access extensive reading vs direct instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\texplicit cross-linguistic consciousness-raising comparing Persian and English\ttraditional deductive grammar teaching": {
+  "label": "explicit cross-linguistic consciousness-raising vs traditional grammar teaching",
+  "treatment_is_a": true
+ },
+ "case-comparison\texplicit cross-linguistic consciousness-raising comparing Persian and English\ttraditional grammar teaching": {
+  "label": "explicit cross-linguistic consciousness-raising vs traditional grammar teaching",
+  "treatment_is_a": true
+ },
+ "case-comparison\tresearcher-designed knowledge-integration Opener\tteacher-designed Opener": {
+  "label": "researcher-designed knowledge-integration Opener vs teacher-designed Opener",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCognate-awareness instruction for Kurdish-Turkish bilinguals\tMeaning instruction without cognate-awareness instruction for Kurdish-Turkish bilinguals": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCognate-awareness instruction for Kurdish-Turkish bilinguals\tMeaning instruction without cognate-awareness instruction for Turkish monolinguals": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKurdish-English cognate awareness instruction\tTurkish monolinguals receiving word-meaning slides without cognate instruction": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKurdish-English cognate awareness instruction\tTurkish-Kurdish bilinguals receiving word-meaning slides without cognate instruction": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKurdish-Turkish bilinguals instructed about English-Kurdish cognates\tTurkish monolingual control group without cognate instruction": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKurdish-Turkish bilinguals instructed about English-Kurdish cognates\tTurkish-Kurdish bilingual control group without cognate instruction": {
+  "label": "Cognate-awareness instruction vs meaning instruction without cognate-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tX-Word Grammar instruction\ttraditional grammar instruction": {
+  "label": "X-Word Grammar instruction vs traditional grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcross-linguistic consciousness-raising\ttraditional grammar teaching": {
+  "label": "Cross-linguistic consciousness-raising vs traditional grammar teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstration\texpository": {
+  "label": "Demonstration vs expository instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit cross-linguistic consciousness-raising comparing Persian and English\ttraditional grammar teaching": {
+  "label": "Cross-linguistic consciousness-raising vs traditional grammar teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-week reading-strategy training\ttraditional bottom-oriented reading instruction": {
+  "label": "Reading-strategy training vs traditional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-week reading-strategy training with explanation, demonstration, guided application, and peer practice\ttraditional text-based reading instruction without strategy training": {
+  "label": "Reading-strategy training vs traditional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tproblem-based learning\tdirect instruction": {
+  "label": "Problem-based learning vs direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treading-strategy training\tpretest before training": {
+  "label": "Reading-strategy training vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture only\tthe same learners before instruction": {
+  "label": "Lecture instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tusual control-group instruction\tpretest before instruction": {
+  "label": "Usual instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfocused tasks with metalinguistic feedback\tfocused tasks with no feedback": {
+  "label": "metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tmetalinguistic corrective feedback\tno feedback": {
+  "label": "metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tmetalinguistic feedback\tno feedback": {
+  "label": "metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tmetalinguistic feedback during focused tasks\tno feedback during focused tasks": {
+  "label": "metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured observation and feedback format\tpeer observation without proper guidance": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured observation-and-feedback format\tunguided observation and feedback": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured peer-feedback format\tunguided peer feedback": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured peer-observation feedback format\tunguided peer observation and feedback": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured peer-observation feedback format\tunstructured peer feedback": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstructured peer-observation feedback format\tunstructured peer feedback without observation guidance": {
+  "label": "structured vs unstructured peer feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tOpener\tno Opener": {
+  "label": "Opener vs no Opener",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearcher-designed knowledge-integration Opener\tteacher-designed Opener": {
+  "label": "Researcher-designed knowledge-integration Opener vs teacher-designed Opener",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tteacher- or researcher-designed Opener\tno Opener": {
+  "label": "Opener vs no Opener",
+  "treatment_is_a": true
+ },
+ "guided-discovery\texploration strategy\ttraditional control": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\texploration strategy\ttraditional method": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided discovery\tdemonstration": {
+  "label": "guided discovery vs demonstration",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided discovery\texpository": {
+  "label": "guided discovery vs expository instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tanimated stereo images\tplanar still images": {
+  "label": "animated stereo images vs planar still images",
+  "treatment_is_a": true
+ },
+ "media-design\tplanar still images\tanimated stereo images": {
+  "label": "animated stereo images vs planar still images",
+  "treatment_is_a": false
+ },
+ "prompts\teligibility for the animation course\tnot eligible for the animation course": {
+  "label": "eligible for the animation course vs not eligible",
+  "treatment_is_a": true
+ },
+ "prompts\teligibility for the parental engagement animation course\tnot eligible for the animation course": {
+  "label": "eligible for the parental engagement animation course vs not eligible for the animation course",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognition-based instructional practice\tcurrent training program": {
+  "label": "metacognition-based instructional practice vs current training program",
+  "treatment_is_a": true
+ },
+ "self-explanation\tthinking loudly strategy\ttraditional control": {
+  "label": "thinking aloud/self-explanation vs traditional control",
+  "treatment_is_a": true
+ },
+ "simulation\tStatecraft X game with dialogic pedagogy\ttraditional classroom instruction": {
+  "label": "simulation game-based instruction vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "simulation\trole-play activity before real-patient interviews\ttraditional teaching without role-play": {
+  "label": "role-play-based instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\trole-play activity training before real-patient interviews\ttraditional teaching without role-play intervention": {
+  "label": "role-play-based instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\trole-play activity with doctor, standardized-patient and evaluator roles\ttraditional teaching without role-play intervention": {
+  "label": "role-play-based instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "worked-examples\tmobile WEIEC worked-example application\tcontrol group instruction": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tmobile WEIEC worked-example application\tcontrol-group instruction": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tmobile learning WEIEC worked-example application\tcontrol group": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tmobile learning based WEIEC worked-example application\tcontrol group": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tmobile learning based Worked Example in Electric Circuits (WEIEC) application\tcontrol group": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
  }
 }
