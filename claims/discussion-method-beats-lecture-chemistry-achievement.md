@@ -57,3 +57,4 @@ Non-equivalent pretest-posttest control quasi-experiment with 118 SSII students 
 - [Retention scores differed significantly between students taught with discussion and lecture methods](retention-difference-discussion-lecture.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
 - [Students taught a week about discussions scored significantly higher on the first exam than control students, with the advantage gone by the second exam](discussion-week-first-exam-advantage.md) — related
+- [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related

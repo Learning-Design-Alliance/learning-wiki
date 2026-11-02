@@ -69,3 +69,4 @@ External control group (n = 30) in a different school without the tool was teste
 
 ## Related Claims
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [Students in experimental classrooms showed consistent pre-post gains on curriculum-based story vocabulary tests](story-based-prepost-gains-grades-3-5.md) — related

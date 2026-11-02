@@ -64,3 +64,8 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Students taught with the Science Learning Cycle method show better conceptual understanding gains in physics than students taught with conventional methods](slc-better-conceptual-understanding-gain.md) — related
 - [Prior flipped-classroom studies report mixed achievement results, with some finding gains and others no significant differences](flipped-classroom-literature-mixed-achievement-results.md) — a broader claim this one bears on
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — related
+- [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
+- [The interactive method C significantly improved first-year students' physics knowledge compared with traditional teaching in the 2010 experiment](interactive-method-c-significant-knowledge-gain.md) — related
+- [In the authors' conditions P&E outperformed both Interactive Lecture Demonstrations and Peer Instruction](pe-outperformed-ild-and-pi.md) — related
+- [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
+- [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related

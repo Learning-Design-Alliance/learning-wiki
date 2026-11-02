@@ -55,3 +55,4 @@ Narrative review attribution in the Person dimension section: the article states
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
 - [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related
 - [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related
+- [The multicultural education programme showed no significant effect on students' attitude towards cultural diversity](multicultural-education-no-effect-cultural-diversity.md) — related

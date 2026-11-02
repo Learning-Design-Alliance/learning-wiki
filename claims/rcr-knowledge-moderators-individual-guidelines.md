@@ -50,3 +50,4 @@ Meta-regression of knowledge-related learning from the included RCR studies; the
 - [Repeated practice and blended learning showed no advantage in RCR course effectiveness, failing to replicate prior review findings](rcr-repetition-blended-null-results.md) — related
 - [High-school students and researchers tended to learn more from RCR training than higher-education students and non-research professionals](rcr-learner-group-differences-judgment.md) — related
 - [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related
+- [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](attitudes-after-one-supervised-use.md) — related

@@ -56,3 +56,4 @@ The guide cites research at primary and secondary educational levels as the basi
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
 - [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](cooperative-learning-more-effective-than-competitive-structures.md) — related
+- [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](cooperative-learning-literature-more-effective.md) — related

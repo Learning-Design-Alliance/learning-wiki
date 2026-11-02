@@ -48,3 +48,4 @@ A randomized two-group experiment with 59 pre-service teachers (28 flipped, 31 c
 - [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](flipped-learning-no-posttest-advantage-video-production.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related
+- [Blended e-learning did not significantly affect vocational students' achievement test scores compared with traditional learning after five weeks](blended-elearning-no-achievement-test-difference.md) — related

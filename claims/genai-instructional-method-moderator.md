@@ -60,3 +60,4 @@ Moderator analysis (Table 5) of instructional method: lecture-based N = 6, proje
 - [PBL effect sizes on science achievement do not differ significantly across educational levels](pbl-effect-similar-across-educational-levels.md) — related
 - [Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching](robotics-creativity-teaching-method-moderator.md) — related
 - [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](blended-instruction-teaching-methods-effect-differences.md) — related
+- [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related

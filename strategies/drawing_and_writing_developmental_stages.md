@@ -80,6 +80,7 @@ Stage-matched activities prevent the twin failure modes of tasks that are too de
 - [Act It Out](../strategies/act_it_out.md) — dramatization and drawing both support children's symbolic representation
 - [Stage-matched early writing instruction: match teaching to the child's position on the writing-feature continuum](stage-matched-early-writing-instruction.md)
 - [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
+- [Adapt assessment formats to preschoolers' incomplete psychomotor skills: cut-and-paste, matching, and play-dough tasks](cut-paste-matching-assessment-preschool.md)
 
 ## Examples
 - **Head Start / Early Head Start classrooms** — teachers use developmental checklists (based on frameworks like [Teaching Strategies GOLD](https://teachingstrategies.com/product/gold/)) to place drawing and writing behaviors on a birth-to-kindergarten continuum and plan small-group activities accordingly.

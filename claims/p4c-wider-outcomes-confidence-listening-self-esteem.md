@@ -55,3 +55,4 @@ Process-evaluation evidence from informal interviews during 30 evaluator visits 
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — a narrower finding that bears on this claim
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
+- [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related

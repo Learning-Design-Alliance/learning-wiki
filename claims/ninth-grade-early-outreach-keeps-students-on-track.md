@@ -73,3 +73,4 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [Monitoring drop-out rates at specific pages identified difficult text, and revising those pages lowered drop-out rates back to normal](dropout-monitoring-guided-text-revision.md) — related
 - [For disengaged starters, starting low and failing to improve engagement was consequential, associated with a high probability of early drop-out, though about half improved](disengaged-starters-nonimproving-engagement-dropout.md) — related
 - [Attendance and dropout improved after year one of the intervention and reverted after the project ended](attendance-dropout-rose-then-reverted.md) — related
+- [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — a narrower finding that bears on this claim

@@ -65,6 +65,7 @@ Reading narrative fiction requires tracking characters' goals, beliefs, and emot
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — builds the emotion vocabulary that analysis depends on
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting character emotions to students' own experiences is a form of prior-knowledge activation
 - [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
+- [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — makes the emotion-inference process visible for novices

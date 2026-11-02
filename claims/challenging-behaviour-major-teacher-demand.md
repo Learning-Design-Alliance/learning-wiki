@@ -71,3 +71,4 @@ The review reports this experimental class-grouping study from the school sector
 - [Larger class size linked to poorer student and teacher performance (review attribution)](larger-class-size-poorer-performance.md) — related
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
 - [Parental recognition or referral request and comorbid behaviour problems predicted GP recognition and referral of child hyperactivity in a London community sample](parent-request-predicts-gp-adhd-recognition.md) — related
+- [Child problem behavior was not associated with teacher implementation of BEST in CLASS](child-problem-behavior-null-implementation.md) — related

@@ -72,3 +72,4 @@ Mann-Whitney U comparison of experiment-related support perceptions found no sig
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
 - [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — related
+- [Students using real programmable robots enjoyed learning more and found the material less difficult than control students](robot-learning-enjoyment-difficulty.md) — related

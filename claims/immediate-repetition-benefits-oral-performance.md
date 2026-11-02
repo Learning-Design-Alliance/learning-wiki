@@ -61,3 +61,5 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — a narrower finding that bears on this claim
 - [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](pbl-improves-efl-speaking-proficiency.md) — related
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
+- [Task performance varied significantly across the nine oral communicative tasks on all speaking components](oct-anova-task-variance.md) — related
+- [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related

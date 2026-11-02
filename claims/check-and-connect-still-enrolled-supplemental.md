@@ -50,3 +50,4 @@ Supplemental finding from the 2005 replication RCT that does not factor into the
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — a broader claim this one bears on
 - [Check & Connect shows no discernible effect on on-time high school completion](check-and-connect-no-effect-on-time-completion.md) — related
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — a broader claim this one bears on
+- [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — reports the opposite

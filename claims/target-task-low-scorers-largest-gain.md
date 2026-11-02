@@ -50,3 +50,4 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by scorin
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Achievement level significantly differentiated posttest performance among students taught with PowerPoint, with high achievers outperforming medium and low achievers](ppt-achievement-level-main-effect.md) — related
 - [Sidak post-hoc comparisons show high achievers significantly outperformed medium and low achievers, and medium achievers outperformed low achievers, under PowerPoint instruction](sidak-pairwise-achievement-levels-ppt.md) — related
+- [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related

@@ -54,3 +54,4 @@ Descriptive usage data from the Wang and Woodworth (2011) RCT, conducted mid-Oct
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
 - [Gains were achieved with a relatively small tutoring dose: about 27 sessions averaging 25–45 minutes, roughly 15–19 hours across one school year](tutoring-dose-27-sessions-15-19-hours.md) — related
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
+- [Requiring school-level commitments to technology access in year two roughly quintupled the share of students meeting recommended usage](access-commitments-increased-fidelity-usage-year-two.md) — related

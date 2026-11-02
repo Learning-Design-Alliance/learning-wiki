@@ -52,3 +52,5 @@ Descriptive fidelity results from 756 BiCACS observations across both conditions
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
+- [Teacher adherence to BEST in CLASS increased on average across the six implementation-phase observation points](bic-adherence-increased-over-time.md) — related
+- [Teacher competence of BEST in CLASS delivery increased on average across the six implementation-phase observation points](bic-competence-increased-over-time.md) — related

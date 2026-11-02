@@ -69,3 +69,4 @@ Re-analysis of the same randomized experiment after regression imputation for 17
 - [The XBA and C/DM PSW methods show chance-level agreement (kappa = -.10) in identifying LD among fourth graders with reading comprehension deficits](psw-xba-cdm-poor-agreement-ld-identification.md) — related
 - [Despite an average of 94 well-implemented intervention sessions, students remained about one standard deviation below national norms in reading comprehension with low vocabulary](students-remained-sd-behind-norms-after-94-sessions.md) — related
 - [For the C/DM, only short-term memory deficit status significantly predicted posttest word reading](cdm-gsm-deficit-word-reading-predictor.md) — related
+- [Fourth graders receiving multi-component social studies vocabulary instruction made significantly greater vocabulary gains on a curriculum-based measure than comparison peers](multicomponent-vocab-cbm-gains.md) — related

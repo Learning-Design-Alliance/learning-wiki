@@ -60,3 +60,5 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by gender
 - [Male students significantly outperformed female students in the video-based competitive instructional strategy](males-outperformed-females-comvip.md) — related
 - [A training programme consolidating process training and task analysis improved maths achievement of female pupils with learning disorders more than ordinary teaching in KSA](process-task-analysis-programme-improves-maths-achievement-learning-disorders.md) — related
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
+- [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related
+- [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related

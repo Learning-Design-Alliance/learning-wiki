@@ -54,3 +54,4 @@ Sociogram and centrality analysis (in-/out-degree, UCINET) of interaction patter
 - [In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories](informal-social-scenes-emergent-traces.md) — related
 - [3D VR co-creation forms a more connected, centralized, and reciprocal aggregate social network with fewer cliques than 2D digital co-creation](vr-cocreation-denser-more-centralized-networks.md) — related
 - [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related
+- [Most cyber leaders rated their contribution as Level 7 on Hart's Ladder of Participation, initiating and directing their own ideas with adults in advisory roles](cyber-leaders-hart-ladder-level-7.md) — related

@@ -55,3 +55,5 @@ Follow-up scores were available for 118 of the 198 participants (mean attendance
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
 - [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](mancova-group-differences-rate-not-comprehension.md) — related
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related
+- [Control group participants who completed the posttest showed little change in comprehensibility or fluency ratings](control-group-little-change-ratings.md) — related
+- [The comprehension advantage of the intervention group emerged only at the 12-week follow-up, suggesting a prolonged effect past the intervention](delayed-comprehension-emergence.md) — related

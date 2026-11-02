@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (32 for, 45 mixed, 5 against) · 60 studies (30 causal, 13 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 60 report an effect size · 77 claims rest on one study
+> **Evidence** · 84 claims (34 for, 45 mixed, 5 against) · 61 studies (31 causal, 13 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 61 report an effect size · 79 claims rest on one study
 
 ## Description
 
@@ -160,6 +160,8 @@ The examples are local design instances, not additional observations from those 
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [+W]
 - [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](../claims/schedule-gpa-gender-moderators-college-algebra.md) [~W]
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](../claims/dramatization-six-month-retention-equal-groups.md) [-W]
+- [ARTS's efficiency advantage over the Atkinson algorithm persists at one-week delayed post-test](../claims/arts-efficiency-advantage-persists-delayed-test.md) [+W]
+- [ARTS yields higher post-test accuracy than the Atkinson algorithm apart from trials invested](../claims/arts-higher-posttest-accuracy-than-atkinson.md) [+W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

@@ -52,3 +52,4 @@ Sensitivity analysis for the 98 FSM-eligible pupils using raw gain scores; the p
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [The Switch-on Reading effect is confirmed when analysed as a post-test-only design (+0.24)](switch-on-post-test-only-confirmation.md) — related
 - [The reading test's floor threshold at a pre-test score of 69 constrains measured gains for the lowest-scoring pupils](switch-on-pretest-threshold-69-underestimate.md) — related
+- [At pre-test there was no statistically significant difference in non-verbal reasoning between School 21 and control school students](ravens-baseline-no-significant-difference-school21-control.md) — related

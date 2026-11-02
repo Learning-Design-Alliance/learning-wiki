@@ -60,9 +60,11 @@ Discussion after reading works because verbalizing interpretations forces elabor
 6. Close with brief summarization and synthesis: what is the most important idea, and what evidence supports it?
 
 ## Related Strategies
+
 - [Pre-reading activation](../strategies/activating-prior-knowledge.md) — supplies the questions and predictions the post-reading discussion returns to
 - [Annotating](../principles/annotating.md) — gives learners concrete textual evidence to bring into the discussion
 - [Reciprocal teaching](../principles/cognitive-activation.md) — a discussion routine that rotates comprehension-strategy roles among learners
+- [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
 
 ## Examples
 - **[Literature circles](literature-circles.md)** (e.g., as implemented in Fountas & Pinnell's *Guiding Readers and Writers*) — small groups discuss a shared novel using rotating roles such as discussion director and literary luminary.

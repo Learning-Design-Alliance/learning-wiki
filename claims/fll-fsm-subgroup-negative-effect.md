@@ -56,3 +56,4 @@ Subgroup analysis by FSM eligibility in the cluster RCT. The executive summary t
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — related
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — related
+- [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related

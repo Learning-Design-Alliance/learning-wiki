@@ -50,3 +50,4 @@ Process evaluation drawing on five instruments (staff interviews, online surveys
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Success of e-learning implementation depends on facilities, management ability, learners' 21st-century technology skills, ease of use, pedagogic focus, collaboration, content quality, and user satisfaction](e-learning-success-factors-vet.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Successful implementation of both interventions was supported by a training programme emphasising fidelity and consistency with ongoing project-team support](abra-implementation-training-fidelity-support.md) — related

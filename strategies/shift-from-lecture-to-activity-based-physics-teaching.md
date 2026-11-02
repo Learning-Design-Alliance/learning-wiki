@@ -50,6 +50,7 @@ Based on the finding that the Target-Task group significantly outperformed the l
 
 - [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 - [Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls](prefer-active-learning-over-lecturing-stem.md)
+- [Adopt Polya problem-solving teaching in senior secondary physics and train teachers in it](adopt-polya-model-physics-teaching-strategy.md)
 
 ## Examples
 -

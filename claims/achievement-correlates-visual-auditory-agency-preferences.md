@@ -54,3 +54,4 @@ Pearson correlation analyses between Scientific Knowledge and Skills Test scores
 - [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](auditory-preference-predicts-achievement-beyond-gender-ld.md) — related
 - [Science learning-preference levels did not differ significantly between students with and without learning disabilities](no-preference-differences-by-learning-disability.md) — related
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
+- [Auditory learners are the highest scorers under both teaching styles but gain no significant benefit from the experiment format](auditory-learners-highest-scorers-no-experiment-gain.md) — related

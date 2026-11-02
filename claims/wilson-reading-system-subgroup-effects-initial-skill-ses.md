@@ -57,3 +57,4 @@ Subgroup analyses reported in the alphabetics appendix of the Torgesen et al. (2
 - [The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students](focus-high-schools-promotion-increase-special-education.md) — related
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Kindergarten students eligible for free or reduced-price lunch scored 16 standard points lower on receptive vocabulary than non-eligible students, regardless of LD status](frl-kindergarten-vocabulary-gap-16-points.md) — related
+- [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](ses-gap-westest-reading-sixth-grade.md) — related

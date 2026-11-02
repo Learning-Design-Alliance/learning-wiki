@@ -50,3 +50,4 @@ ANCOVA on the 20-item nutrition attitude questionnaire (Cronbach's α = 0.85) wi
 - [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](no-gender-differences-game-based-nutrition.md) — related
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related
+- [Computer-assisted educational games improved attitudes toward the Turkish course more than the existing curriculum](caeg-turkish-course-attitude-advantage.md) — related

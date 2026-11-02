@@ -80,3 +80,5 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — reports the opposite
 - [Goal-setting skills training improved English language performance among Senior Secondary II students compared to a waiting control group](goal-setting-training-improves-english-performance-enugu.md) — related
 - [Students taught with the origin test and extreme points technique acquired linear programming skills significantly better than students taught with conventional methods](pbl-origin-test-extreme-points-skill-acquisition.md) — related
+- [Experimental-group LD students taught through CAI show a significant pre-test to post-test achievement gain in English](cai-significant-pre-post-gain-ld-students.md) — related
+- [Classroom-teacher students taught with a selective thinking strategy showed statistically significant pre-to-post gains in acquiring basic mathematical concepts](selective-thinking-strategy-significant-pre-post-gains.md) — related

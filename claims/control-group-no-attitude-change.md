@@ -50,3 +50,4 @@ Repeated-measures ANOVA on the 30-student control group taught only per the Scie
 - [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [Including out-of-school learning environments in 6th-grade science instruction produces significantly higher attitudes toward the science course than curriculum-only instruction at posttest](out-of-school-environments-raise-science-attitudes-posttest.md) — related
+- [Control group showed no significant pretest-to-posttest change except a decline in attitude toward the internet](control-group-within-group-null-results.md) — related

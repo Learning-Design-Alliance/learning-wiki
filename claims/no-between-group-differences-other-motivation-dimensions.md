@@ -52,3 +52,4 @@ Kruskal-Wallis H tests on post-test scores of the remaining five SMTML dimension
 - [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related
 - [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related
+- [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related

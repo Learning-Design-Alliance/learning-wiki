@@ -49,3 +49,4 @@ Mann Whitney U test on TCAS post-test scores of the same 56-student quasi-experi
 - [Jigsaw I produced no significant difference in grammar success scores compared with conventional teacher-centered teaching in grade-8 Turkish grammar](jigsaw-i-no-success-difference-turkish-grammar.md) — related
 - [Self-regulated jigsaw IV did not significantly increase students' attitudes towards the English course; the significant gain-score difference reflected a control-group decline](jigsaw-iv-attitude-no-significant-increase.md) — related
 - [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](constructivist-approach-positive-attitudes-meta-analysis.md) — related
+- [Attitudes toward grammar correlate positively and moderately with attitudes toward the Turkish course](grammar-attitude-turkish-course-attitude-correlation.md) — related

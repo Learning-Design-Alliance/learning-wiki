@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (33 for, 17 mixed, 3 against) · 35 studies (9 design, 8 review, 6 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 35 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (33 for, 17 mixed, 4 against) · 36 studies (9 design, 8 review, 7 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 36 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](../claims/network-as-source-of-tpd-rationale.md) [~W]
 - [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](../claims/raise-teacher-impacts-increased-year1-to-year2.md) [+W]
 - [Ongoing technical and pedagogical support plus ample mathematics resources were the two elements teachers identified as key to successful implementation](../claims/mathsflip-implementation-support-resources.md) [+W]
+- [CSC coaching produced no statistically significant improvement in standardized instructional strategy counts](../claims/csc-coaching-no-significant-instructional-count-gains.md) [-W]
 
 ## Related Principles
 

@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 106 claims (55 for, 45 mixed, 6 against) · 84 studies (17 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 84 report an effect size · 96 claims rest on one study
+> **Evidence** · 108 claims (55 for, 47 mixed, 6 against) · 86 studies (19 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 86 report an effect size · 98 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,8 @@ This pattern is scoped to support around self-paced online courses and programme
 - [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](../claims/elearning-learner-preceptor-characteristics.md) [+W]
 - [Students who self-selected into coaching began with lower pretest scores than comparison students on all three measures, and all intervention students improved post-test](../claims/coaching-self-selected-lower-pretest-all-improved.md) [~W]
 - [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](../claims/coaching-self-selectors-higher-academic-risk.md) [~W]
+- [Mentors provided intensive interventions to a majority of students regardless of whether students were designated high risk](../claims/intensive-interventions-regardless-of-risk-designation.md) [~W]
+- [Discussion forum questions posted by online learners rose steadily across the five days and were all answered by mentors](../claims/discussion-forum-questions-rose-all-answered.md) [~W]
 
 ## Related Patterns
 

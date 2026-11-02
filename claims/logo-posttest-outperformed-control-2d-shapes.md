@@ -57,3 +57,4 @@ Non-equivalent quasi-experiment with 18 pupils per group; independent samples t-
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related
 - [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related
+- [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related

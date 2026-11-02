@@ -53,3 +53,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [The 40-sample stereoscopic grading scale is highly reliable: sample grades correlate .98 with values from other judges, and individual placement correlates .92 with true scale placement](merit-scale-reliability-98-and-92.md) — related
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](otis-1922-true-score-sd-formula.md) — related
 - Reliability evidence in prescribing assessment studies generally employs Classical Test Theory — related
+- [The Hungarian analytic scoring scale showed high reliability (Cronbach's Alpha 0.83) in this study](hungarian-analytic-scale-reliability-083.md) — related

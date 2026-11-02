@@ -80,3 +80,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — a narrower finding that bears on this claim
 - [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](blended-learning-limited-interaction-distractions.md) — related
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — a narrower finding that bears on this claim
+- [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — a narrower finding that bears on this claim

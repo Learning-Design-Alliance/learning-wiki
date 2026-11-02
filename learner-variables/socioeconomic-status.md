@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (116 show a difference, 52 mixed, 46 no difference) · 166 studies (74 associational, 59 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 166 report an effect size · 213 claims rest on one study
+> **Evidence** · 217 claims (118 show a difference, 52 mixed, 47 no difference) · 169 studies (74 associational, 62 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 169 report an effect size · 216 claims rest on one study
 
 ## How to read this page
 
@@ -299,6 +299,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](../claims/breakfast-club-effects-larger-non-fsm.md) [+M] — an instructional effect differs by group
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](../claims/units-of-sound-fsm-subgroup-more-negative.md) [~M] — an instructional effect differs by group
 - [Switch-on showed no effect on reading outcomes for pupils eligible for free school meals](../claims/switch-on-no-effect-fsm-pupils.md) [-M] — an instructional effect differs by group
+- [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](../claims/abra-fsm-subgroup-five-months-progress.md) [+M] — an instructional effect differs by group
+- [PATHS produced no differential gains in academic attainment for children eligible for free school meals](../claims/paths-no-fsm-differential-gains.md) [-W] — an instructional effect differs by group
+- [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](../claims/ses-gap-westest-reading-sixth-grade.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -47,3 +47,4 @@ Authors' interpretation based on learner feedback reported in the Discussion; bo
 ## Related Claims
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — related
 - [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](traditional-instruction-better-short-term-vocabulary-retention.md) — related
+- [Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related

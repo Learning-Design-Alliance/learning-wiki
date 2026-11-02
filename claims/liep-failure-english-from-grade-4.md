@@ -45,3 +45,4 @@ Under research question 1, the review reports, citing Taylor (2007) and Kamwanga
 - [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](teachers-code-switch-english-to-mother-tongue.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — a broader claim this one bears on
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — a broader claim this one bears on
+- [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related

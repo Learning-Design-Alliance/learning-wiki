@@ -72,3 +72,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](pictured-letters-mnemonics-follow-up-retention.md) — related
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](audiovisual-group-stable-retention-weeks.md) — related
+- [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](multimedia-vocabulary-effectiveness-reported.md) — related

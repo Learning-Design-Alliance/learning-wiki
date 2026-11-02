@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 219 claims (129 show a difference, 54 mixed, 36 no difference) · 141 studies (74 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 141 report an effect size · 211 claims rest on one study
+> **Evidence** · 221 claims (130 show a difference, 55 mixed, 36 no difference) · 143 studies (76 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 143 report an effect size · 213 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -254,6 +254,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](../claims/technology-supported-teaching-higher-retention-four-months.md) [+M] — instruction changes it
 - [Unpretested groups showed no significant difference between their own post-test and retention test scores](../claims/7e-unpretested-posttest-retention-stability.md) [-M] — instruction changes it
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](../claims/subtitled-videos-better-long-term-vocabulary-retention.md) [+M] — instruction changes it
+- [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](../claims/stad-ici-retention-mixed-reporting.md) [~M] — instruction changes it
+- [The article reports that students taught with animated instructional material showed retention ability beyond those taught without it](../claims/animated-material-retention-advantage-bauchi.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

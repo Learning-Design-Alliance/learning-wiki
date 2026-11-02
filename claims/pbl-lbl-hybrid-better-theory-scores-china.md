@@ -58,3 +58,4 @@ Meta-analysis of the 20 included RCTs reporting the clinical theory assessment s
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — possibly the same claim (merge candidate)
 - [Effects of PBL+LBL differ between practical and theoretical courses for some outcomes](pbl-lbl-subgroup-practical-theoretical-courses.md) — related
 - [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](pbl-lbl-combination-no-significant-pass-rate-gain.md) — related
+- [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related

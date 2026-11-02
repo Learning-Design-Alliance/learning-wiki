@@ -40,6 +40,7 @@ The article recommends that teachers "choose games that allow as many students a
 
 - [Games For Fluency Practice](games-for-fluency-practice.md)
 - [Classroom Games](classroom_games.md)
+- [Balance entertainment and educational elements when designing or selecting educational games](balance-entertainment-educational-elements-strategy.md)
 
 ## Examples
 -

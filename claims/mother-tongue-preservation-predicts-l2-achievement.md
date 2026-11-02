@@ -53,3 +53,6 @@ The review reports the UNESCO investigation by Skutnabb-Kangas and Toukomaa (197
 - Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator — related
 - [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
+- [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](international-mother-tongue-programs-better-off.md) — related
+- [Children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](mother-tongue-better-start-better-performance.md) — related
+- [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related

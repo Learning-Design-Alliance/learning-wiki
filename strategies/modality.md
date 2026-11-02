@@ -58,10 +58,12 @@ When learners must read text and simultaneously view an animation, both compete 
 6. For static, self-paced content, prefer text-and-graphics layout over forced audio.
 
 ## Related Strategies
+
 - [Segmenting](../strategies/segmenting.md) — controls pacing of transient narration
 - [Redundancy Avoidance](../strategies/redundancy-avoidance.md) — the complementary rule: don't duplicate narration as on-screen text
 - [Signaling](../strategies/signaling.md) — directs attention within the narrated visual
 - [Coherence](../strategies/coherence.md) — removes extraneous material that competes for the freed channel
+- [Accompany animated instructional material with guide flyers or booklets explaining its functioning principles](guide-booklets-accompany-animated-materials.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated problem-solving videos with handwritten-style visuals; words are spoken, not displayed as paragraphs.

@@ -49,3 +49,4 @@ Retention test administered five weeks after the post-test to the same 81 studen
 - [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
 - [Creative drama instruction produces significantly higher social studies achievement than traditional instruction when pre-test scores are controlled](creative-drama-improves-social-studies-achievement.md) — related
 - [The drama approach has a strong positive effect on students' academic achievement in social studies courses compared with traditional teaching](drama-approach-strong-positive-effect-social-studies-achievement.md) — related
+- [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related

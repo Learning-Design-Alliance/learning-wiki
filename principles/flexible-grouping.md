@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 44 studies (13 causal, 11 quant-synthesis, 9 review, 3 associational, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 9 of 44 report an effect size · 28 claims rest on one study
+> **Evidence** · 40 claims (19 for, 18 mixed, 3 against) · 45 studies (13 causal, 11 quant-synthesis, 9 review, 4 qualitative, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 9 of 45 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,7 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](../claims/cpse-cs-major-groups-higher-collaborative.md) [~W]
 - [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](../claims/process-mining-heterogeneous-yellow-group-more-efficient.md) [~W]
 - [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](../claims/group-composition-productivity-effects.md) [~W]
+- [The process evaluation suggested both interventions may be best delivered in groups of similar rather than mixed ability](../claims/abra-similar-ability-grouping-suggestion.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — flexible grouping often structures when and how peer talk happens

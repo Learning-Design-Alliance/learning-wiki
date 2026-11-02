@@ -49,3 +49,4 @@ Qualitative essays from 14 of 35 voluntary experimental-group students, coded by
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
+- [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related

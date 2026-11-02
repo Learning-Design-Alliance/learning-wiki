@@ -75,3 +75,4 @@ Follow-up analysis comparing bottom, middle, and top thirds of the interest/arou
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](observed-shame-predicts-school-readiness.md) — related
 - [Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills](observed-help-seeking-unrelated-to-school-readiness.md) — related
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](observed-social-skill-gains-jigsaw-preschool.md) — related

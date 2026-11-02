@@ -72,3 +72,4 @@ Same longitudinal curriculum evaluation; Fresno test scores increased from basel
 - [A multifaceted EBM course for pharmacy students significantly improved overall EBM test scores (11.4 vs. 12.6, P<0.0001)](pharmacy-ebm-workshop-test-score-gain.md) — related
 - [Medical students who received multifaceted EBM training and searched PubMed or Medline more than three times per week increased from 9.7% to 31.7% (P<0.001)](search-frequency-increased-after-ebm-training.md) — related
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
+- [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related

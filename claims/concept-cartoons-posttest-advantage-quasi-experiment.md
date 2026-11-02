@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: michaela-minárechová-2016
     resource: "https://eric.ed.gov/?id=EJ1107824"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Posttest scores differed significantly between the experimental group taught by concept cartoons© (M = 4,18) and the control group taught traditionally (M = 3,55), t = 3.88, p = 0.0005. [→ Michaela Minárechová 2016](#michaela-minarechova-2016)
@@ -72,3 +73,4 @@ Baseline comparison of the same quasi-experiment: the pretest t-test gave "P‐v
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [Natural-monument misconceptions (e.g., \"It is the name used for mausoleums\") were largely eliminated post-test, with 18 experimental and 12 control students reaching complete understanding](natural-monument-misconceptions-eliminated-posttest.md) — related
 - [The paired t-test on the two groups' achievement scores showed a statistically significant difference favouring the experimental group](paired-ttest-significant-difference-elearning-groups.md) — related
+- [Fourth-grade students using the interactive web-based workbook scored significantly higher on the academic success test than the control group at posttest](interactive-workbook-higher-academic-success.md) — related

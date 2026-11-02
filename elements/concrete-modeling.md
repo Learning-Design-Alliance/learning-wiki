@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (5 for, 4 mixed, 3 against) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 3 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (7 for, 4 mixed, 3 against) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 10 report an effect size · 14 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -35,6 +35,8 @@ Concrete modeling is the element in which physical or tangible representations a
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](../claims/construction-dgs-equals-manipulatives-beat-traditional.md) [+W]
 - [Pupils with hearing impairment taught reading with the embossed picture technique significantly outperformed pupils taught with the look-and-say method](../claims/embossed-picture-technique-beats-look-and-say-reading.md) [+W] — attached 2026-11-01 from Sella Munyendo et al. (2010), which proposed "Embossed picture technique materials for teaching reading to pupils with hearing impairment"; tests this page's relationship.
 - [Students taught with two- or three-dimensional visual objects identified visual objects significantly better than conventionally taught students](../claims/visual-objects-improve-object-identification.md) [+W]
+- [Junior high students taught algebra with algebra tiles scored significantly higher on the overall posttest than students taught with conventional methods](../claims/algebra-tiles-significant-posttest-advantage.md) [+W] — attached 2026-11-02 from Ernest Larbi (2016), which proposed "Algebra tile manipulatives for junior high algebra instruction"; tests this page's relationship.
+- [Students taught with algebra tiles demonstrated significantly more proficient skills in factoring algebraic expressions than control-group peers](../claims/algebra-tiles-factoring-significant-difference.md) [+W] — attached 2026-11-02 from Ernest Larbi (2016), which proposed "Algebra tile manipulatives for junior high algebra instruction"; tests this page's relationship.
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

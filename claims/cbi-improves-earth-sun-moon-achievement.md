@@ -49,3 +49,4 @@ ANCOVA in a pre-test/post-test control group experiment with 26 experimental and
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — a broader claim this one bears on
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](simulation-method-higher-posttest-human-body-unit.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
+- [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related

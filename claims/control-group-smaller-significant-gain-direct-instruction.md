@@ -50,3 +50,6 @@ Wilcoxon Signed Ranks Test on the 41-student control group taught by direct inst
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — reports the opposite
 - [Post-test comprehension scores did not differ significantly between the strategy-instruction and skill-based groups despite a higher experimental mean](between-group-posttest-not-significant.md) — related
 - [Technology-supported teaching of global-education attainments produced higher post-test academic achievement than teacher-centered direct instruction in 6th-grade social studies](technology-supported-global-education-higher-posttest-achievement.md) — related
+- [Control-group gains were under 1 point per dimension and non-significant only in debugging](control-group-debugging-gain-nonsignificant.md) — reports the opposite
+- [The control group's academic achievement also increased significantly from pre-test to post-test under face-to-face problem-based collaborative learning](control-group-pretest-posttest-gain.md) — related
+- [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related

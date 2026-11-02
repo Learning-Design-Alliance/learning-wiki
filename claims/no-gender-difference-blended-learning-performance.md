@@ -64,3 +64,4 @@ ANCOVA on the blended learning group (n = 30 per Table 2) with pretest as covari
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted Learning Together](no-gender-difference-cai-ltm-achievement.md) — a narrower finding that bears on this claim
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
+- [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](gender-no-effect-stad-physics-retention.md) — related

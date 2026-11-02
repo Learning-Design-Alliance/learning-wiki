@@ -51,3 +51,4 @@ Random-effects meta-analysis of 23 studies (26 alpha values) categorized by stat
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — a narrower finding that bears on this claim
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
+- [The Hungarian analytic scoring scale showed high reliability (Cronbach's Alpha 0.83) in this study](hungarian-analytic-scale-reliability-083.md) — related

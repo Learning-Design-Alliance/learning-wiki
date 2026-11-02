@@ -53,3 +53,4 @@ Two paired-samples t-tests, one per group of 25, on the general listening compre
 - [Both RT and regular remedial instruction significantly improved underachievers' oral reading fluency over 15 weeks](both-remedial-forms-improved-oral-fluency.md) — related
 - [Explicit reduced-forms instruction increases EFL learners' ability to produce reduced forms in their own speech, while regular instruction alone does not](reduced-forms-instruction-improves-production.md) — related
 - [Explicit reduced-forms instruction increases EFL learners' ability to recognize reduced forms in spoken language, while regular instruction alone does not](reduced-forms-instruction-improves-recognition.md) — related
+- [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — possibly the same claim (merge candidate)

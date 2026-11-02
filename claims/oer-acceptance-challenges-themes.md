@@ -68,3 +68,4 @@ Thematic analysis found most participants (n = 19) cited time constraints and mo
 - [Qualitative findings indicate OEP cultivated authentic OER awareness, increased self-efficacy, and fostered positive attitudes among K-12 teachers](oep-qualitative-benefits-awareness-efficacy-attitude.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
+- [Learner and teacher constraints shaped OCT implementation, including fear of failure, peer discouragement, limited contact hours and exam-focused priorities](oct-implementation-constraints.md) — related

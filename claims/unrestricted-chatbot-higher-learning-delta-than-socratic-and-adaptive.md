@@ -92,3 +92,4 @@ Linear mixed model on all 500 per-question learning-delta change scores with par
 - [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related
 - [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts](tutor-tactics-three-attempt-bottom-out.md) — related
+- [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related

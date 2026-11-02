@@ -53,3 +53,5 @@ Paired-samples t test within the control group (n=36): t = -16.621, p = .000, si
 - [The control group taught with non-authentic materials also improved significantly from pre-test to post-test in listening comprehension](control-group-prepost-gain-listening.md) — related
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — possibly the same claim (merge candidate)
 - [Both groups improved significantly from pre- to post-test, with greater progress in the test group](pre-post-gains-both-groups-test-greater.md) — related
+- [Control-group gains were under 1 point per dimension and non-significant only in debugging](control-group-debugging-gain-nonsignificant.md) — reports the opposite
+- [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related

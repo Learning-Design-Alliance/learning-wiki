@@ -62,3 +62,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed — reports the opposite
 - [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — a narrower finding that bears on this claim
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
+- [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related

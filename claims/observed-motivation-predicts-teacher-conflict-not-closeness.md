@@ -75,3 +75,4 @@ Regression on STRS conflict scores (R2 = .19); "less persistence predicted great
 - [Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills](observed-help-seeking-unrelated-to-school-readiness.md) — related
 - [Children showing high levels of negative externalizing emotions during the challenge task are rated as less socially competent, more hyperactive, and with poorer interpersonal and self-regulatory skills](negative-externalizing-emotions-predict-poorer-readiness.md) — related
 - [Teacher–student conflict correlated negatively with math achievement, and closeness correlated positively in third grade](conflict-closeness-math-correlations.md) — related
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](observed-social-skill-gains-jigsaw-preschool.md) — related

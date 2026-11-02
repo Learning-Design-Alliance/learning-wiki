@@ -56,3 +56,4 @@ Findings from the two-year ToTAL randomized control trial in Haiti, in which ove
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](combined-lnls-letter-sound-gains-over-control.md) — related
 - [In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)](lli-no-discernible-alphabetics-effects.md) — related
+- [Only a small minority of Haitians are truly French/Creole bilingual, making French effectively a foreign language for most students](few-haitians-truly-bilingual-french-foreign.md) — related

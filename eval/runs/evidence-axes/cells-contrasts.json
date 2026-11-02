@@ -61890,5 +61890,417 @@
  "simulation\tPowerPoint with web-based virtual simulation\tPowerPoint without web-based virtual simulation": {
   "label": "simulation vs no simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tJigsaw cooperative learning\tTraditional teaching": {
+  "label": "Jigsaw cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tRound-robin instructional strategy\tconventional method": {
+  "label": "Round-robin instructional strategy vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tRound-robin instructional strategy\tconventional teaching method": {
+  "label": "Round-robin instructional strategy vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive outdoor and indoor learning activities\ttraditional lecture teaching": {
+  "label": "Active learning activities vs traditional lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive outdoor and indoor learning methods\ttraditional lecture teaching": {
+  "label": "Active learning activities vs traditional lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive outdoor and indoor teaching methods\ttraditional lecture teaching": {
+  "label": "Active learning activities vs traditional lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive spirometry lab\tother midterm concepts": {
+  "label": "Active spirometry lab vs other midterm concepts",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive spirometry lab\tpassive textbook lab": {
+  "label": "Active spirometry lab vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive spirometry lab using student-generated data\tstandard passive lab using textbook questions": {
+  "label": "Active spirometry lab with student-generated data vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning spirometry lab\tstandard passive respiratory labs": {
+  "label": "Active spirometry lab vs passive respiratory lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD cooperative learning\tindividualized computer instruction": {
+  "label": "Computer-assisted STAD cooperative learning vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning using the jigsaw technique\ttraditional teacher-centered teaching": {
+  "label": "Jigsaw cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiment-based learning\ttraditional lecture-based instruction": {
+  "label": "Experiment-based learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiment-based learning for kinesthetic learners\ttraditional lecture-based instruction for kinesthetic learners": {
+  "label": "Experiment-based learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiment-based learning, nonwhite–white gain contrast\ttraditional instruction, nonwhite–white gain contrast": {
+  "label": "Experiment-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiment-based public-goods learning with clickers\ttraditional lecture-based instruction": {
+  "label": "Public-goods experiment-based learning with clickers vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive P&E method with new study materials\ttraditional method": {
+  "label": "Interactive P&E method vs traditional method",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive method C with problem tasks, experiments, discussion, analysis, and conclusions\ttraditional lectures and seminars": {
+  "label": "Interactive method C vs traditional lectures and seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive method C: block instruction, problem tasks, discussion, analysis and experiments\ttraditional lectures, seminars and laboratory measurements": {
+  "label": "Interactive method C vs traditional lectures, seminars, and laboratory measurements",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive method C: problem tasks, experiments, discussion, analysis and conclusion\ttraditional lectures and seminars": {
+  "label": "Interactive method C vs traditional lectures and seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive method C: problem-based blocks, discussion, analysis and experiments\ttraditional lectures and seminars": {
+  "label": "Interactive method C vs traditional lectures and seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive methods used across the 2007–2012 series\ttraditional teaching": {
+  "label": "Interactive teaching methods vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive physics methods with problem tasks and experiments\ttraditional lectures, seminars, and laboratory teaching": {
+  "label": "Interactive physics methods vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw cooperative learning\ttraditional teacher-centered teaching": {
+  "label": "Jigsaw cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw cooperative learning\ttraditional teaching": {
+  "label": "Jigsaw cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tmethod C: block-based lectures with problem tasks, discussion, analysis and conclusions, plus problem-and-experiment seminars\ttraditional lectures and seminars": {
+  "label": "Interactive method C vs traditional lectures and seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation as peer teachers in PAL tutorials\tstudents not involved in the PAL program": {
+  "label": "Peer-assisted learning with students as peer teachers vs no peer-assisted learning participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer teachers participating in PAL tutorials\tstudents not involved in the PAL program": {
+  "label": "Peer-assisted learning with students as peer teachers vs no peer-assisted learning participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpublic-goods experiment\ttraditional lecture": {
+  "label": "Public-goods experiment vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpublic-goods experiment class\ttraditional lecture control class": {
+  "label": "Public-goods experiment vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpublic-goods experiment with clickers\ttraditional lecture": {
+  "label": "Public-goods experiment with clickers vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\treciprocal teaching strategy\tstudents’ previous regular teaching activities": {
+  "label": "Reciprocal teaching vs regular teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tspirometry data-acquisition lab with simulated respiratory diseases\tpassive textbook-based respiratory lab": {
+  "label": "Active spirometry data-acquisition lab vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tspirometry data-acquisition lab with student-generated data\tpassive textbook-based respiratory lab": {
+  "label": "Active spirometry data-acquisition lab with student-generated data vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tspirometry lab with real-time student-generated data\tpassive textbook-based respiratory lab": {
+  "label": "Active spirometry lab with real-time student-generated data vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tspirometry-based active-learning lab with student-generated data\tstandard passive respiratory physiology lab": {
+  "label": "Active spirometry lab with student-generated data vs passive respiratory physiology lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered environmental teaching methods and activities\ttraditional lecture teaching": {
+  "label": "Student-centered active learning methods vs traditional lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-generated spirometry data with active analysis\tpassive textbook-based lab activities": {
+  "label": "Active spirometry lab with student-generated data and analysis vs passive textbook-based lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tauthentic student leadership opportunities\tlimited or no authentic leadership opportunities": {
+  "label": "authentic student leadership opportunities vs limited or no authentic leadership opportunities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tauthentic student leadership opportunities\tno authentic leadership opportunities": {
+  "label": "authentic student leadership opportunities vs limited or no authentic leadership opportunities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tauthentic student leadership opportunities with school support\tlimited staff support or constrained student agency": {
+  "label": "supported authentic student leadership vs constrained or unsupported student agency",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tauthentic student-led participation with supportive adults\tless authentic or unsupported participation": {
+  "label": "supported authentic student-led participation vs less authentic or unsupported participation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topportunities for authentic student leadership\tno or less authentic participation in decisions affecting students": {
+  "label": "authentic student leadership opportunities vs limited or no participation in decisions affecting students",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tschool staff support for student cyber leaders\tlack of school-staff support": {
+  "label": "school staff support for student leaders vs lack of school-staff support",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t150 minutes of explicit contrastive-stress instruction over three weeks\tusual language tasks without contrastive-stress instruction": {
+  "label": "contrastive-stress instruction vs other language tasks without contrastive-stress instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL2 English reading-strategy instruction\tregular classroom materials only": {
+  "label": "L2 reading-strategy instruction vs regular classroom materials only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL2 reading strategy instruction\tregular classroom materials only": {
+  "label": "L2 reading-strategy instruction vs regular classroom materials only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL2 reading-strategy instruction\tregular classroom materials only": {
+  "label": "L2 reading-strategy instruction vs regular classroom materials only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL2 reading-strategy instruction with modeling, scaffolding, and CSR\tregular classroom materials only": {
+  "label": "L2 reading-strategy instruction vs regular classroom materials only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMetadiscourse instruction\tNo metadiscourse instruction": {
+  "label": "metadiscourse instruction vs no metadiscourse instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMetadiscourse instruction\tPretest before instruction": {
+  "label": "metadiscourse instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcontrastive-stress instruction\tother language tasks without contrastive-stress instruction": {
+  "label": "contrastive-stress instruction vs other language tasks without contrastive-stress instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeductive instruction in conditional sentences\tpretest baseline": {
+  "label": "deductive instruction in conditional sentences vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tessay instruction plus textual-metafunction instruction\tessay instruction alone": {
+  "label": "textual-metafunction instruction plus essay instruction vs essay instruction alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tessay writing plus textual metafunction instruction\tessay writing instruction only": {
+  "label": "textual-metafunction instruction plus essay instruction vs essay instruction alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetadiscourse instruction\texperimental-group pretest baseline": {
+  "label": "metadiscourse instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetadiscourse instruction\tno metadiscourse instruction": {
+  "label": "metadiscourse instruction vs no metadiscourse instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetadiscourse instruction\tpre-instruction baseline": {
+  "label": "metadiscourse instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetadiscourse instruction, posttest\tmetadiscourse instruction, pretest": {
+  "label": "metadiscourse instruction posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified cognitive strategy problem-solving intervention\ttypical classroom math problem-solving instruction": {
+  "label": "modified cognitive-strategy problem-solving instruction vs typical classroom mathematics problem-solving instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified cognitive strategy problem-solving intervention taught by general education math teachers\ttypical classroom instruction in math problem solving": {
+  "label": "modified cognitive-strategy problem-solving instruction vs typical classroom mathematics problem-solving instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified problem-solving intervention\ttypical mathematics instruction": {
+  "label": "modified problem-solving instruction vs typical mathematics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmulti-component explicit vocabulary instruction\tregular classroom instruction": {
+  "label": "multi-component explicit vocabulary instruction vs regular classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tno metadiscourse instruction\tpre-instruction baseline": {
+  "label": "no metadiscourse instruction posttest vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tno metadiscourse instruction control condition\tcontrol-group pretest baseline": {
+  "label": "no metadiscourse instruction posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tno metadiscourse instruction, posttest\tno metadiscourse instruction, pretest": {
+  "label": "no metadiscourse instruction posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpostsemester in-class grammar lessons\tpresemester confidence": {
+  "label": "in-class grammar instruction postsemester vs presemester baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-week multi-component vocabulary instruction\tregular classroom instruction": {
+  "label": "multi-component explicit vocabulary instruction vs regular classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-week instruction on contrastive stress\tcontrol group completing other language tasks without contrastive-stress instruction": {
+  "label": "contrastive-stress instruction vs other language tasks without contrastive-stress instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-week instruction on contrastive stress\tpre-instruction performance": {
+  "label": "contrastive-stress instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCSC 4-session coaching after formative assessment\tbaseline before coaching": {
+  "label": "formative-assessment-informed coaching vs baseline before coaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCSC 4-session formative-assessment coaching\tbaseline assessment": {
+  "label": "formative-assessment-informed coaching vs baseline assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCSC 4-session instructional coaching using teacher formative-assessment data\tno comparison reported": {
+  "label": "formative-assessment-informed coaching vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCSC instructional coaching using CSAS data\tbaseline before coaching": {
+  "label": "assessment-data-informed coaching vs baseline before coaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdata-driven Classroom Strategies Coaching using teacher formative-assessment data\tbaseline teaching before coaching": {
+  "label": "formative-assessment-informed coaching vs baseline teaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdata-driven teacher coaching using formative assessment\tbaseline teaching before coaching": {
+  "label": "formative-assessment-informed coaching vs baseline teaching",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer-assisted educational games\texisting curriculum activities": {
+  "label": "gamified learning activities vs existing curriculum activities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tredesigned tutor with split forward/backward skills\tcontrol tutor with merged shape-area skills": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tReflectED metacognitive reflection programme\tusual teaching": {
+  "label": "metacognitive reflection prompts/programme vs usual teaching",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsupport from school staff\tlack of support from school staff": {
+  "label": "school staff support vs no school staff support",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulation\tlecture method": {
+  "label": "simulation vs lecture",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations\tlecture method": {
+  "label": "simulation vs lecture",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations projected by the teacher\tlecture method": {
+  "label": "simulation vs lecture",
+  "treatment_is_a": true
+ },
+ "technology-tool\t50% face-to-face and 50% online blended learning using Moodle\ttraditional instruction using chalk-and-talk": {
+  "label": "Moodle blended learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-week face-to-face problem-based collaborative learning, post-test\tface-to-face problem-based collaborative learning, pre-test": {
+  "label": "Post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tABRA ICT intervention\tstandard literacy provision": {
+  "label": "ABRA ICT intervention vs standard literacy provision",
+  "treatment_is_a": true
+ },
+ "technology-tool\tABRA online literacy programme delivered by teaching assistants\tstandard literacy provision": {
+  "label": "ABRA online literacy programme with teaching assistants vs standard literacy provision",
+  "treatment_is_a": true
+ },
+ "technology-tool\tABRA online literacy programme with TA small-group tuition\tstandard literacy provision": {
+  "label": "ABRA online literacy programme with TA small-group tuition vs standard literacy provision",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS at recommended usage level\tbusiness-as-usual instruction": {
+  "label": "ALEKS at recommended usage vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS supplemental mathematics software use\tbusiness-as-usual instruction without the grant technology": {
+  "label": "ALEKS supplemental mathematics software vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS use at the provider-recommended fidelity level\tbusiness-as-usual instruction without the grant technology": {
+  "label": "ALEKS at recommended fidelity vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS used at the provider-recommended fidelity level\tbusiness-as-usual comparison students": {
+  "label": "ALEKS at recommended fidelity vs business-as-usual students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS used at the provider-recommended fidelity level\tbusiness-as-usual matched students": {
+  "label": "ALEKS at recommended fidelity vs business-as-usual matched students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS used at the provider-recommended fidelity level\tbusiness-as-usual students matched by propensity score": {
+  "label": "ALEKS at recommended fidelity vs business-as-usual propensity-score-matched students",
+  "treatment_is_a": true
+ },
+ "technology-tool\tALEKS with any usage\tbusiness-as-usual instruction": {
+  "label": "Any ALEKS usage vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tARTS adaptive multiplication module\tpretest": {
+  "label": "ARTS adaptive multiplication module vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tARTS adaptive multiplication module\tstandard math lessons": {
+  "label": "ARTS adaptive multiplication module vs standard mathematics lessons",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAccelerated Reader\tbusiness as usual": {
+  "label": "Accelerated Reader vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAccelerated Reader programme\tbusiness as usual": {
+  "label": "Accelerated Reader vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnimated Instructional Visual Aid DVD\toral classroom teaching": {
+  "label": "Animated instructional visual-aid DVD vs oral classroom teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnimated Instructional Visual Aid DVD\toral classroom teaching without the DVD": {
+  "label": "Animated instructional visual-aid DVD vs oral classroom teaching without the DVD",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAssessmake21 digital self-assessment with tagging and reflection challenges\tearlier use during the pilot": {
+  "label": "Assessmake21 tagged self-assessment with reflection challenges vs earlier pilot use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAssessmake21 self-assessment through tagged skills followed by challenges\tno comparison condition stated": {
+  "label": "Assessmake21 tagged self-assessment with follow-up challenges vs no comparison condition",
+  "treatment_is_a": true
  }
 }

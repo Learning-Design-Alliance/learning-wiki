@@ -48,3 +48,4 @@ Independent-samples t-test (df=107) comparing post-test scores of the experiment
 - [The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean](comprehension-no-significant-difference-mixed-ga.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — related
+- [In the first six weeks, comprehension gains on the Checkpoints measure did not differ significantly between intervention and comparison groups](checkpoints-no-six-week-difference.md) — related

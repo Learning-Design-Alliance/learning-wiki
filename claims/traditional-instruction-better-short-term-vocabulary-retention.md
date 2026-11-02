@@ -50,3 +50,4 @@ Independent t test comparing post-test scores of 18 control and 18 experimental 
 ## Related Claims
 - [Authentic use of authentic materials motivated learners more than traditional teaching of the same materials](authentic-use-motivates-more-than-traditional-teaching.md) — related
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — related
+- [Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related

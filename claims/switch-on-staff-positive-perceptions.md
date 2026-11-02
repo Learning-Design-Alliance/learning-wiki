@@ -55,3 +55,4 @@ Findings from the process evaluation interviews and case studies with TAs, class
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — related
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — related
+- [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related

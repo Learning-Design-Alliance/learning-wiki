@@ -13,7 +13,7 @@ recheck_by: 2018
 sources:
   - id: pavlik-jr-2015
     resource: "https://doi.org/10.1007/s40593-015-0039-y"
-    title: "Pavlik Jr, P. I., Yudelson, M., & Koedinger, K. R. (2015). A Measurement Model of Microgenetic Transfer for Improving Instructional Outcomes. International Artificial Intelligence in Education Society. https://doi.org/10.1007/s40593-015-0039-y"
+    title: "Pavlik Jr, P. I., Yudelson, M., & Koedinger, K. R. (2015). A Measurement Model of Microgenetic Transfer for Improving Instructional Outcomes. *International Journal of Artificial Intelligence in Education, 25*(3), 346–379. https://doi.org/10.1007/s40593-015-0039-y"
     author: "Pavlik Jr, P. I., Yudelson, M., & Koedinger, K. R."
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Pavlik Jr 2015
 
-Pavlik Jr, P. I., Yudelson, M., & Koedinger, K. R. (2015). A Measurement Model of Microgenetic Transfer for Improving Instructional Outcomes. International Artificial Intelligence in Education Society. https://doi.org/10.1007/s40593-015-0039-y
+Pavlik Jr, P. I., Yudelson, M., & Koedinger, K. R. (2015). A Measurement Model of Microgenetic Transfer for Improving Instructional Outcomes. *International Journal of Artificial Intelligence in Education, 25*(3), 346–379. https://doi.org/10.1007/s40593-015-0039-y
 
 `q2 · i?` · `design · r2`
 

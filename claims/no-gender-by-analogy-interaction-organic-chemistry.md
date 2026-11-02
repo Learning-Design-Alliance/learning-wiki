@@ -50,3 +50,4 @@ ANCOVA interaction term (Group X Gender: sum of squares .445, df 1, F = .413, Si
 - [No significant interaction between teaching method and gender on Arabic oral skills achievement](vtm-method-gender-interaction-null.md) — related
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
+- [The teaching method by gender interaction on chemistry achievement was not significant](no-method-gender-interaction-chemistry-achievement.md) — related

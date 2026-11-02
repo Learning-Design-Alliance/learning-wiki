@@ -62,3 +62,4 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [No statistically significant gender difference in first graders' scientific concepts acquisition](no-gender-difference-game-based-concept-acquisition.md) — related
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — reports the opposite
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related

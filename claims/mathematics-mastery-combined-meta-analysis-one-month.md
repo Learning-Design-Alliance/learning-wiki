@@ -46,3 +46,4 @@ Meta-analysis of two EEF-funded randomised controlled trials of Mathematics Mast
 
 ## Related Claims
 - [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](mathematics-mastery-year1-small-nonsignificant-positive-effect.md) — related
+- [Year 5 pupils taught ReflectED made an average of four months' additional progress in maths compared to control pupils, but the difference was not statistically significant](reflected-four-months-maths-progress-not-significant.md) — related

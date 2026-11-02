@@ -48,3 +48,4 @@ Growth-curve analysis of the cluster-randomized trial found a significant linear
 - [The Positive Action program produced more favorable change over time in school self-esteem among low-income urban youth](positive-action-improved-school-self-esteem-trajectories.md) — related
 - [The Positive Action program increased students' use of adaptive self-esteem formation and maintenance strategies](positive-action-increased-adaptive-self-esteem-processes.md) — related
 - [The Positive Action program showed no significant effects on global, family, appearance, or sports self-esteem](positive-action-no-effect-global-family-appearance-sports-self-esteem.md) — related
+- [Positive Action mitigated the age-related decline in social-emotional and character development skills in both trials and a third small trial](positive-action-slows-secd-decline.md) — related

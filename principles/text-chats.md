@@ -18,7 +18,7 @@ sources:
 # Text Chats
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (12 for, 11 mixed, 1 against) · 21 studies (7 causal, 7 qualitative, 2 review, 2 design, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 21 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 22 studies (8 causal, 7 qualitative, 2 review, 2 design, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 22 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Participation in the chat, the share of negotiated turns, self-correction, unaid
 - [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](../claims/danmaku-collective-flow-vs-threaded-small-groups.md) [~W]
 - [CSCL research on collaboration through chat has primarily been studied in dyadic settings, leaving small group chat underexamined](../claims/cscl-chat-research-primarily-dyadic.md) [~W]
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](../claims/ofd-implementation-challenges.md) [~W]
+- [Online learners' chat engagement and question quality improved over the five days of the online module](../claims/chat-engagement-improved-over-five-days.md) [+W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — text chat is one medium for structured peer exchange.

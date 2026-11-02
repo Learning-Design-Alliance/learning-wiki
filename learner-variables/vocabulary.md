@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (105 show a difference, 21 mixed, 21 no difference) · 103 studies (46 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 103 report an effect size · 144 claims rest on one study
+> **Evidence** · 148 claims (106 show a difference, 21 mixed, 21 no difference) · 104 studies (47 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 104 report an effect size · 145 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -188,6 +188,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](../claims/word-engine-vst-gains-ancova.md) [+W] — instruction changes it
 - [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+M] — instruction changes it
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](../claims/audiovisual-group-stable-retention-weeks.md) [-M] — instruction changes it
+- [The inductive vocabulary intervention produced a significant overall effect on ITBS Vocabulary achievement in grades 3-5](../claims/inductive-vocabulary-model-itbs-vocabulary-effect.md) [+W] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

@@ -47,6 +47,7 @@ Among the article's recommendations, teachers should be sponsored by government 
 
 - [Provide in-service training, workshops, seminars and conferences on ICT utilization for teachers](in-service-ict-training-for-teachers.md)
 - [Adopt active-participation strategies such as CRAIS for mathematics teaching and train teachers through seminars and workshops](adopt-crais-via-teacher-training-seminars-workshops.md)
+- [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 
 ## Examples
 -

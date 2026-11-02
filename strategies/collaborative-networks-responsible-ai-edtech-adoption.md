@@ -50,6 +50,7 @@ The brief recommends that state and district leaders scale and sustain AI-enable
 - [Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed](educator-collaboration-sharing-genai-tool-insights.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
+- [Build school staff capacity to support student leaders and sustain cyber leader networks across schools](staff-capacity-and-cyber-leader-networks-strategy.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The article recommends a set of good practices for introducing modern board-game
 
 - [Games + Structured Activity](games-structured-activity.md)
 - [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
+- [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 
 ## Examples
 -

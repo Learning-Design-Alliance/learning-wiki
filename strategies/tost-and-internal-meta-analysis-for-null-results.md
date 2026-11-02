@@ -46,7 +46,8 @@ The article recommends and demonstrates a cumulative-evidence workflow for inter
 - [Equivalence testing (TOST) indicated the observed jigsaw effect sizes were statistically equivalent to zero in the single-session experiments](../claims/tost-equivalence-zero-jigsaw-effect.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Redesign classroom experiments and assessment to reduce demographic disadvantages and test higher-order retention](experiment-redesign-equity-retention-strategy.md)
 
 ## Examples
 -

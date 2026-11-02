@@ -59,3 +59,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](abbreviated-ctt-reliability-primary-school.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
+- [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](cat-instrument-kr20-0-78.md) — related

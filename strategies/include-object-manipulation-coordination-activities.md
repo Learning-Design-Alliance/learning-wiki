@@ -43,7 +43,8 @@ The article recommends that during games and physical activities lessons, primar
 - [At post-test the experimental group significantly outperformed the control group on all six motor tests, at significance levels varying from p<0.05 to p<0.001](../claims/post-test-experimental-outperforms-control-motor-tests.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design coordination activities as games without losers so all children participate actively](gaming-without-losers-coordination-activities.md)
 
 ## Examples
 -

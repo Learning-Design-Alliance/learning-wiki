@@ -47,3 +47,4 @@ Paired-samples t-test on the 14 experimental-group learners' pretest and post-te
 ## Related Claims
 - [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related
 - [Dynamic assessment procedures produce significant effects on mathematics achievement among elementary school students](dynamic-assessment-improves-elementary-math-achievement.md) — related
+- [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related

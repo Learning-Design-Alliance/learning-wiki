@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 60 claims (33 for, 25 mixed, 2 against) · 56 studies (35 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 56 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (36 for, 25 mixed, 3 against) · 58 studies (37 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 58 report an effect size · 59 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -96,6 +96,10 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [First-year architecture and civil construction students taught isometric transformations with interactive multimedia lessons scored significantly higher than traditionally taught peers](../claims/multimedia-lessons-higher-isometric-transformations-scores.md) [+W] — attached 2026-11-01 from Marina Milovanoviü et al. (2013), which proposed "Macromedia Flash multimedia lessons on isometric transformations and regular polyhedra"; tests this page's relationship.
 - [Students taught regular polyhedra with multimedia lessons scored significantly higher than traditionally taught peers at both faculties](../claims/multimedia-lessons-higher-regular-polyhedra-scores.md) [+W] — attached 2026-11-01 from Marina Milovanoviü et al. (2013), which proposed "Macromedia Flash multimedia lessons on isometric transformations and regular polyhedra"; tests this page's relationship.
 - [Intermediate EFL learners using the Digital Kitchen achieved significantly higher immediate post-test vocabulary gains than learners using a printed recipe in a normal kitchen](../claims/digital-kitchen-post-test-vocabulary-gains.md) [+W] — attached 2026-11-02 from Nor Fadzlinda Ishak et al. (2012), which proposed "The Digital Kitchen: a sensor-equipped instrumented kitchen giving step-by-step spoken cooking instructions for task-based language learning".
+- [A science learning video integrated with a local MHP plant improves junior high students' science process skills more than PowerPoint images-narration](../claims/mhp-video-improves-sps-gain.md) [+W] — attached 2026-11-02 from Wilujeng et al. (2020), which proposed "Expert-validated science learning video integrating the Wukirsari Village MHP plant, released on YouTube"; tests this page's relationship.
+- [A science learning video integrated with a local MHP plant improves junior high students' concept mastery more than PowerPoint images-narration](../claims/mhp-video-improves-concept-mastery-gain.md) [+W] — attached 2026-11-02 from Wilujeng et al. (2020), which proposed "Expert-validated science learning video integrating the Wukirsari Village MHP plant, released on YouTube"; tests this page's relationship.
+- [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](../claims/multimedia-vocabulary-effectiveness-reported.md) [+W]
+- [80% of students did not agree to integrate multimedia-based vocabulary instruction into their curriculum despite its reported effectiveness](../claims/multimedia-curriculum-integration-rejected.md) [-W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

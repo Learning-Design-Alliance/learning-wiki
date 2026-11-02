@@ -52,3 +52,4 @@ Item-level paired analysis of the researcher-developed pre/post tests. The artic
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [The cooperative learning component's added benefit over direct instruction alone with CIRC materials was not statistically significant on main idea identification](circ-cooperative-component-benefit-unconfirmed.md) — related
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
+- [Heuristic-methodological instruction increases pupils' singling out of main concepts and ideas from a text](heuristic-instruction-singling-out-concepts.md) — related

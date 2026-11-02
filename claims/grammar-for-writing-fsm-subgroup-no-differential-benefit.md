@@ -54,3 +54,4 @@ Pre-specified subgroup analysis adding an interaction term to the primary cluste
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related
 - [Small-group delivery of Grammar for Writing outperforms whole-class delivery on extended writing (effect size 0.21)](small-group-outperforms-whole-class-grammar-writing.md) — related
+- [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related

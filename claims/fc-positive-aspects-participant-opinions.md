@@ -48,3 +48,4 @@ Qualitative focus-group interviews with 18 students (4 male, 14 female), analyze
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — related
+- [Flipped ESL/EFL students completed about 77.75% of out-of-class assignments on average, with completion dipping mid-semester and higher in Macau than the US](flipped-assignment-completion-buy-in.md) — related

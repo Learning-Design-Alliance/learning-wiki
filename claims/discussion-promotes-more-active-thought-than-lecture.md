@@ -154,3 +154,5 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related
 - [Civic education teaching in Nigerian secondary schools has been dominated by teacher-centered strategies emphasizing transmission of civic information](teacher-centered-civic-education-nigeria.md) — related
 - [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related
+- [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
+- [In the authors' conditions P&E outperformed both Interactive Lecture Demonstrations and Peer Instruction](pe-outperformed-ild-and-pi.md) — related

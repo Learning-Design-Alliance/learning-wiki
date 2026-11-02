@@ -68,3 +68,5 @@ Scheffe post-hoc analysis of group mean scores in the same ANCOVA study. The art
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](stad-highest-mean-gain-achievement.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted Learning Together](no-gender-difference-cai-ltm-achievement.md) — related
+- [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](computer-assisted-stad-beats-ici-physics-achievement.md) — related
+- [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related

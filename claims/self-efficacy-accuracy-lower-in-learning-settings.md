@@ -71,3 +71,4 @@ Accuracy of self-appraisal section comparing Bandura's phobic research (84-92 pe
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related
 - [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](ai-literacy-confidence-knowledge-gap.md) — related
 - [Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels](teacher-competency-efficacy-unrelated-achievement.md) — related
+- [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](peg-cat-parent-confidence-and-attitude-gains.md) — related

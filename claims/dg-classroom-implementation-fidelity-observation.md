@@ -48,3 +48,4 @@ DGOP/CGOP observations in 16 classrooms (8 per group), each visited by two obser
 ## Related Claims
 - [Students of DG-group teachers scored significantly higher on a geometry achievement test than students of control-group teachers (p = .002), with effect size .45 and a larger effect at the Regular Geometry level](dg-approach-raises-student-geometry-achievement.md) — related
 - [A weeklong DG-centered summer institute improved teachers' conjecturing-proving knowledge, with a statistically significant average gain of 1.37 points (p = .003)](dg-pd-improves-teacher-conjecturing-proving-knowledge.md) — related
+- [Geometry content knowledge growth did not differ significantly between treatment and control groups despite a significant main effect of time](no-significant-grouping-interaction-geometry-growth.md) — related

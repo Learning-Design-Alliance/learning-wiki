@@ -49,3 +49,4 @@ Scheffe multiple-comparison test on post-test achievement scores of the experime
 
 ## Related Claims
 - [Visual learners retained mathematics knowledge better than auditory and tactile learners under reform-based instruction](visual-learners-best-retention-reform-based.md) — related
+- [Auditory learners are the highest scorers under both teaching styles but gain no significant benefit from the experiment format](auditory-learners-highest-scorers-no-experiment-gain.md) — related

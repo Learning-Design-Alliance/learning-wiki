@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: ahmed-yousif-abdelraheem-abdelrahman-mohammed-ahmed-2015
     resource: "https://eric.ed.gov/?id=EJ1097417"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Ahmed Yousif Abdelraheem & Abdelrahman Mohammed Ahmed 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-01)
 
 ## Subclaims
@@ -54,3 +55,4 @@ Quasi-experimental study of two randomly assigned sections of 26 students in TEC
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](5es-higher-civic-literacy-scores.md) — related
 - [Sri Lankan senior secondary students taught Oriental Music under a blended learning approach scored significantly higher on Ordinary Level competency achievement tests than students taught by traditional methods](blended-learning-improves-oriental-music-achievement-secondary.md) — related
+- [Blended e-learning did not significantly affect vocational students' achievement test scores compared with traditional learning after five weeks](blended-elearning-no-achievement-test-difference.md) — related

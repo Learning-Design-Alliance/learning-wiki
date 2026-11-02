@@ -51,6 +51,7 @@ Based on the findings, the article recommends that science teachers, especially 
 - [Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials](employ-varied-effective-chemistry-pedagogies.md)
 - [Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.](strategy-constructivist-approach-recommendations.md)
 - [Adopt guided inquiry teaching method for light and sound waves with adequate teacher training](adopt-gitm-with-teacher-training-strategy.md)
+- [Organise seminars, conferences and workshops on modern instructional strategies such as Round-robin for chemistry teachers](seminars-workshops-on-round-robin-strategy.md)
 
 ## Examples
 -

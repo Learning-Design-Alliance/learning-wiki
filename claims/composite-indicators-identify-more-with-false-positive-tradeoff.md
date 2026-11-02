@@ -71,3 +71,4 @@ Table 1 analysis of composite thresholds. The report states this approach "also 
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — a broader claim this one bears on
 - [A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation](ethnic-studies-pilot-gains-attendance-grades.md) — related
+- [Mentors provided intensive interventions to a majority of students regardless of whether students were designated high risk](intensive-interventions-regardless-of-risk-designation.md) — related

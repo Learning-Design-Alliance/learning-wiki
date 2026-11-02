@@ -57,3 +57,4 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 - [Visual-materials instruction produced a statistically significant within-group increase in global warming attitudes (d = 0.93), while traditional instruction did not (d = 0.33)](visual-materials-attitude-gain-significant.md) — related
 - [Unpretested groups showed no significant difference between their own post-test and retention test scores](7e-unpretested-posttest-retention-stability.md) — related
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
+- [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related

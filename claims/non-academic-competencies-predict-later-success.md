@@ -54,3 +54,4 @@ The issue brief's own summary of its analysis of how students' high school compe
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
+- [The programme was reportedly more effective for students with an internal locus of control than an external locus of control](internal-locus-of-control-benefits-from-multicultural-programme.md) — related

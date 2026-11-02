@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 13 studies (3 theoretical, 2 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 13 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (6 for, 5 mixed, 2 against) · 14 studies (3 causal, 3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 14 report an effect size · 12 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -53,6 +53,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
 - [Interactive open learner modelling can foster reflective thinking](../claims/iolm-fosters-reflective-thinking.md) [+W]
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Gbenga-Akanmu & Jegede (2019), which proposed "Meta-cognitive Training Manual (MCTM) with the CRIME strategy acronym"; tests this page's relationship.
+- [Heuristic-methodological instruction shows no significant effect on pupils' reported learning planning](../claims/heuristic-instruction-no-effect-learning-planning.md) [-W]
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

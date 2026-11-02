@@ -59,9 +59,11 @@ The model preserves the core benefit of flipped instruction — shifting first-e
 5. **Close with individual reflection or a quick check** so students and teacher can see what was learned and what needs revisiting.
 
 ## Related Strategies
+
 - [Flipped Classroom](../principles/flipped-learning.md) — the adolescent/adult model this adapts; the faux variant moves the video segment back into class
 - [Blended Learning](../patterns/blended-learning.md) — the broader family of models combining digital instruction with face-to-face teaching
 - [Direct Instruction](../patterns/direct-instruction.md) — the video segment functions as a scripted, rewatchable form of explicit teaching
+- [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 
 ## Examples
 - Elementary classrooms using the model popularized by teacher-bloggers after Bergmann and Sams's flipped work: a second-grade math class watches a 4-minute teacher video on regrouping at a station, then rotates into practice while the teacher works individually with students who stalled.

@@ -47,3 +47,4 @@ Secondary, exploratory analysis of the trial testing spill-over hypotheses on no
 ## Related Claims
 - [Teacher-reported pupil behaviour and concentration improved in breakfast club schools, suggesting benefits spillover to pupils who do not attend the club](breakfast-club-teacher-reported-behaviour-concentration.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [Control pupils within treatment schools outperformed pupils in pure control schools, consistent with spillover effects](abra-spillover-to-within-school-controls.md) — related

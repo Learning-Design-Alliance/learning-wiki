@@ -19,7 +19,7 @@ sources:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (31 for, 5 mixed, 1 against) · 28 studies (7 review, 6 associational, 5 theoretical, 4 quant-synthesis, 3 causal, 3 qualitative), `q1`–`q3` · 3 of 28 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (34 for, 5 mixed, 1 against) · 29 studies (7 review, 6 associational, 5 theoretical, 4 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 3 of 29 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ Claims this page cited before, or found while rewriting it, that bear on it less
 - [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](../claims/strategy-use-not-group-status-explains-listening-success.md) [+W]
 - [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](../claims/reversed-perceptions-textbook-listening-activities.md) [+W]
 - [Spanish-speaking language-minority preschoolers show a common underlying proficiency for phonological awareness, with bifactor models fitting better than correlated-factors models](../claims/common-underlying-proficiency-phonological-awareness.md) [+W] — attached 2026-10-24 from Goodrich J. Marc (2017), which proposed "Evidence-based instruction in either language should build code-related skills in both languages for language-minority preschoolers, but language instruction benefits only the language of instruction"; tests this page's relationship.
+- [Children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](../claims/mother-tongue-better-start-better-performance.md) [+M] — attached 2026-11-02 from Behrmann (2018), which proposed "Use students' mother tongue as the medium of instruction so they can grasp concepts and later transfer knowledge to other languages"; tests this page's relationship.
+- [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](../claims/international-mother-tongue-programs-better-off.md) [+M] — attached 2026-11-02 from Behrmann (2018), which proposed "Use students' mother tongue as the medium of instruction so they can grasp concepts and later transfer knowledge to other languages"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -159,6 +161,7 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 - [No specific age bracket is established for teaching home language; the article recommends starting as early as birth and using home language in primary school](../claims/no-age-bracket-home-language-teaching.md) [+W]
 - [Review-reported study: translanguaging and effective integration of L1 suggested as effective core practices for teaching English in Chile](../claims/review-reported-translanguaging-l1-core-practice.md) [+W]
 - [In the ToTAL trial, instruction in the mother tongue of Haitian Creole was associated with gains in French on skills that were not explicitly taught.](../claims/haitian-creole-instruction-french-gains.md) [+W]
+- [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](../claims/mother-tongue-fundamental-years-detrimental-impact.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

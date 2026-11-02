@@ -49,3 +49,4 @@ Self-reported behaviors (advice giving, checking credit score/report, taking ste
 - [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Workflow condition is associated with students' self-assessment confidence](workflow-condition-self-assessment-confidence-effect.md) — related
+- [Parents' educational level shows no significant influence on pupils' metacognitive-ability test results](parents-education-no-influence-metacognitive-results.md) — related

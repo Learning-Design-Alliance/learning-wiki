@@ -7,3 +7,6 @@ page: ../claims/positive-action-reduces-absenteeism.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-1608 (Positive Action – Attendance) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-02 · ingest · process:wiki-ingest
+Ingested from eric-ed562840 (Replication of Effects of the "Positive Action" Program in Randomized Trials in Hawai'i and Chicago Schools) via eval_harness.py + ingest_extractions.py

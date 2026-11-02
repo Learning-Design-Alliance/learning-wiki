@@ -56,3 +56,4 @@ A randomized controlled trial of 219 eighth graders in nine middle schools in on
 - [The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition](twelve-together-single-rct-attrition-reservations.md) — related
 - [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — a broader claim this one bears on
 - [External incentives improved fifth-graders' rate of improvement on school tasks, with the motivated group standing ten points higher than the unmotivated by the ninth period](chapman-feeler-external-incentive-improvement.md) — related
+- [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related

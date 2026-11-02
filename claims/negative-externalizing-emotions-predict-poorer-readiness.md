@@ -56,3 +56,4 @@ Follow-up t-test comparison of N = 43 children in the top quartile for anger or 
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
 - [Observed motivation indicators predict student-teacher conflict but not closeness: less persistence, greater task competence, and more interest/arousal predict greater conflict](observed-motivation-predicts-teacher-conflict-not-closeness.md) — related
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](observed-social-skill-gains-jigsaw-preschool.md) — related

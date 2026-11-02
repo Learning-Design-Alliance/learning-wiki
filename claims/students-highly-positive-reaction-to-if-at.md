@@ -49,3 +49,4 @@ Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitu
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
+- [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related

@@ -44,6 +44,7 @@ Based on the finding that the CAI group's gain exceeded the CIM group's, the aut
 ## Related Strategies
 
 - [Train teachers to develop computer-based science software with tools such as Macromedia Flash and Adobe Photoshop](teacher-training-develop-cbi-software-strategy.md)
+- [Employ new technologies in teaching English language skills and incorporate them into syllabi and teaching practice](employ-technologies-english-teaching-strategy.md)
 
 ## Examples
 -

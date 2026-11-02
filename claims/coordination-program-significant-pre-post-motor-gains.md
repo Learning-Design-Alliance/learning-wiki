@@ -47,3 +47,4 @@ Paired-samples t tests on the experimental group (n=30 per the table rows) acros
 ## Related Claims
 - [The control group following the regular Games and Physical Activities course showed no statistically significant pre-to-post change on any motor test](control-group-no-significant-motor-change.md) — related
 - [At post-test the experimental group significantly outperformed the control group on all six motor tests, at significance levels varying from p<0.05 to p<0.001](post-test-experimental-outperforms-control-motor-tests.md) — related
+- [The content of coordination programs that most effectively improves agility remains unclear](coordination-program-content-effectiveness-unclear.md) — related

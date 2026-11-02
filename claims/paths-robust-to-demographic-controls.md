@@ -54,3 +54,4 @@ Robustness SEM with control variables in the same 547-student sample; the model 
 - [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related
 - [The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model](six-path-model-structurally-incomplete-exploratory-pnt-paths.md) — related
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
+- [In the PLS inner model, maternal judgement has the largest significant path coefficient to interaction, and all six paths are significant](pls-inner-model-significant-paths-judgement-strongest.md) — related

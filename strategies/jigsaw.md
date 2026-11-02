@@ -64,6 +64,7 @@ Jigsaw operationalizes positive interdependence and individual accountability �
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — rotates the teaching role within one shared text rather than across segments
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Start an RTS in a basic form, then add CLS mechanisms only as evaluation shows necessity](start-basic-rts-then-add-mechanisms.md)
+- [Implementation prerequisites for jigsaw: teacher preparation, student briefing, target setting, and active observation](jigsaw-implementation-prerequisites-strategy.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) — the interdependent group structure that makes jigsaw work

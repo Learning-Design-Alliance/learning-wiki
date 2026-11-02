@@ -99,6 +99,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Virtual Collaborative Research Institute (VCRI) CSCL environment](../products/virtual-collaborative-research-institute-vcri-cscl-environment.md)
 - [Constructive alignment (Biggs & Tang) as a student-centered framework for aligning learning outcomes, teaching-and-learning activities, and assessment tasks](../designs/constructive-alignment-biggs-tang-framework.md)
 - [Three-theory design framework for the VFT module: constructivism, information processing, and Mayer's Cognitive Theory of Multimedia Learning](../designs/vft-module-three-theory-design-framework.md)
+- [Use real programmable robots with constructivist methods to teach programming basics to novices](../strategies/real-robots-constructivist-programming-strategy.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

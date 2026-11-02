@@ -50,3 +50,4 @@ Randomized control trial reanalysis of 194 fourth graders (n = 97 per condition)
 - [Despite an average of 94 well-implemented intervention sessions, students remained about one standard deviation below national norms in reading comprehension with low vocabulary](students-remained-sd-behind-norms-after-94-sessions.md) — related
 - [The intervention produced no statistically significant effects on standardized measures of reading comprehension](no-transfer-to-standardized-reading-comprehension.md) — related
 - [Passport to Literacy produced a small positive but nonsignificant effect on GMRT reading comprehension (g = 0.28) relative to business-as-usual comparison](passport-literacy-gmrt-comprehension-small-nonsignificant-effect.md) — related
+- [Fourth graders receiving multi-component social studies vocabulary instruction made significantly greater vocabulary gains on a curriculum-based measure than comparison peers](multicomponent-vocab-cbm-gains.md) — related

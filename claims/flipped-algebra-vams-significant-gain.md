@@ -47,3 +47,4 @@ External field evaluation of a 15-week flipped algebra course designed with the 
 ## Related Claims
 - [Students in the flipped algebra course showed significant increases in quality of reflections and satisfaction](flipped-algebra-reflection-satisfaction-gains.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
+- [Preservice elementary teachers reported limited and distorted perceptions of geometry, exemplified by 2-D-only examples and an algebra-dominated view of mathematics](preservice-limited-distorted-geometry-perceptions.md) — related

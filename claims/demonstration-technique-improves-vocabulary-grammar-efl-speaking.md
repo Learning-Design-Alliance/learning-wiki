@@ -52,3 +52,4 @@ True-experimental study with 32 experimental (class IIA) and 32 control (class I
 - [Experimental group post-test speaking scores reached the high category while control group scores stayed in the average category](demonstration-posttest-high-category-versus-control-average.md) — a narrower finding that bears on this claim
 - [After demonstration-technique treatment, students were more active and more confident expressing their ideas than at pre-test](demonstration-treatment-increased-activity-confidence.md) — related
 - [WSDC debate instruction significantly improved tenth-grade EFL students' speaking skill achievement within the experimental group](wsdc-debate-improves-efl-speaking-skill.md) — related
+- [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related

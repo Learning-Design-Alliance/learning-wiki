@@ -68,3 +68,4 @@ Wilcoxon effect sizes for the experimental group's pre-post gains were calculate
 - Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower — related
 - [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
+- [In the experimental group, all sub-tests showed at least a medium effect, with large effects for coordination and verbal expression](intervention-large-effects-coordination-verbal-expression.md) — related

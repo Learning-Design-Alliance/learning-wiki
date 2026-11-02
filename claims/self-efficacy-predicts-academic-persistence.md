@@ -210,3 +210,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [The article argues that challenging alcohol expectancies alone may be insufficient, and that drinking refusal self-efficacy is a more salient cognitive construct to target](refusal-self-efficacy-more-salient-than-expectancies.md) — a narrower finding that bears on this claim
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](false-sense-of-mathematics-self-efficacy-social-comparison.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](interaction-learning-kam-self-confidence.md) — related
+- [Teacher self-efficacy did not predict adherence, and higher Student Engagement self-efficacy predicted lower growth in competence](self-efficacy-not-predicting-integrity.md) — related

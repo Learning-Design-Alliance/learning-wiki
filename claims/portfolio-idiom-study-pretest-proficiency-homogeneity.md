@@ -79,3 +79,5 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — a narrower finding that bears on this claim
 - [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related
+- [The experimental and control groups were statistically homogeneous in speaking ability before the treatment](groups-homogeneous-speaking-pretest.md) — related
+- [The experimental and control classes did not differ significantly on the listening pre-test](otil-pretest-equivalence-classes.md) — related

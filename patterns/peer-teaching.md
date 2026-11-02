@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 25 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 25 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (23 for, 18 mixed, 4 against) · 26 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 42 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 - [No achievement difference between staff- and peer-tutored groups in the first curriculum year](../claims/no-achievement-difference-year-one-peer-staff.md) [~W] — attached 2026-10-18 from Schmidt et al. (1995), which proposed "In early problem-based curriculum years, peer tutors can substitute for staff tutors without achievement loss"; tests this page's relationship.
 - [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](../claims/peer-teacher-training-course-based-median-ten-days.md) [~W] — attached 2026-11-01 from Winter Lone et al. (2024), which proposed "Develop comprehensive guidelines for peer tutor education to standardize training and ensure minimum standards".
 - [Peer tutoring produced statistically significant post-test gains in non-verbal communication for children with ASD relative to a control group](../claims/peer-tutoring-improves-nonverbal-communication-asd-posttest.md) [+W] — attached 2026-11-01 from Wael Alshurman (2015), which proposed "Peer-pair role structure: peers as teachers, students with autism as lesson recipients"; tests this page's relationship.
+- [Peer teachers reported mixed apprehension about the teaching requirement and discomfort assessing junior students, while feeling comfortable teaching them](../claims/mixed-apprehension-assessment-discomfort-peer-teachers.md) [~W] — attached 2026-11-02 from Williams et al. (2014), which proposed "Prepare peer teachers with training before PAL sessions, since inadequate preparation produced apprehension and unclear session content".
 
 ## Illustrative design instance and observation record
 
@@ -140,6 +141,8 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Peer tutoring significantly improved achievement at the knowledge level of the cognitive domain](../claims/peer-tutoring-knowledge-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](../claims/teacher-reported-high-fidelity-peer-tutoring-implementation.md) [+W]
+- [Final year paramedic students who participated as peer teachers in a pilot PAL program obtained higher final clinical examination marks than randomly selected non-PAL peers in both 2011 and 2012](../claims/pal-peer-teachers-higher-clinical-exam-marks-paramedic.md) [+W]
+- [Qualitative feedback indicated peer teaching helped paramedic students consolidate their own clinical skills and knowledge and increased interest in future PAL sessions](../claims/qualitative-consolidation-of-own-skills-knowledge.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

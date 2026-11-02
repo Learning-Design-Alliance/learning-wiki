@@ -57,3 +57,5 @@ Independent sample t-test comparing posttest scores of the 20-student experiment
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [Second-grade students taught Arabic with pictorial stories significantly outperformed traditionally taught controls on an achievement test, with a large group effect](pictorial-story-raises-arabic-achievement-second-grade.md) — related
+- [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
+- [EFL students taught literature with the integrated approach achieved significantly higher literature achievement scores than control students at both universities](integrated-approach-higher-efl-literature-achievement.md) — related

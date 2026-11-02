@@ -52,3 +52,4 @@ Two-way ANCOVA of Chemistry Retention Test performance with pretest as covariate
 - [The strategy-by-location interaction is not significant for retention, indicating similar retention across strategies in both locations](strategy-location-interaction-null-retention.md) — related
 - [Mean retention scores were highest for PF, followed by PM and least for PC, in both urban and rural locations](pf-highest-retention-then-pm-then-pc.md) — related
 - [School location has no significant main effect on primary pupils' environmental knowledge](school-location-no-main-effect-environmental-knowledge.md) — related
+- [Among the three Bauchi locations, location II showed the highest experimental mean performance, followed by location III and then location I](location-two-highest-mean-performance-air.md) — related

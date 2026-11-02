@@ -65,6 +65,7 @@ Structured SEL questioning operationalizes the self-awareness and relationship-s
 - [Activating prior knowledge](activating-prior-knowledge.md) — the same reflection-before-discussion structure applied to academic content
 - [Check-in routines](../principles/check-ins.md) — the broader family of opening routines into which SEL questions fit
 - [Guide student teachers' AI prompts with a shared three-element structure (context, challenge, requested support) while leaving wording individual](three-element-ai-prompt-structure.md)
+- [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
 
 ## Examples
 - **RULER approach (Yale Center for Emotional Intelligence)** — the Mood Meter prompts daily emotion-labeling questions ("Where are you on the Mood Meter, and why?"), a metaphor-and-vocabulary variant of SEL questioning. https://ei.yale.edu/ruler

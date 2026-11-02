@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 294 claims (151 for, 126 mixed, 17 against) · 176 studies (75 review, 39 quant-synthesis, 36 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 176 report an effect size · 289 claims rest on one study
+> **Evidence** · 295 claims (152 for, 126 mixed, 17 against) · 177 studies (75 review, 39 quant-synthesis, 37 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 177 report an effect size · 290 claims rest on one study
 
 ## Conditional relationship
 
@@ -347,6 +347,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [ANCOVA on final test scores showed a significant difference favoring the simulation-based group, with a printed effect size of 0.90](../claims/ancova-final-test-simulation-advantage.md) [+W] — attached 2026-11-01 from Timur Koparan (2015), which proposed "Use simulation-based environments to teach experimental probability because visualizing variability improves inference skills"; tests this page's relationship.
 - [After simulation-based instruction, prospective teachers gave more flexible answers accounting for variability and revised incorrect probability ideas](../claims/simulation-post-variability-answers.md) [+W] — attached 2026-11-01 from Timur Koparan (2015), which proposed "Use simulation-based environments to teach experimental probability because visualizing variability improves inference skills".
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](../claims/simulation-method-higher-posttest-human-body-unit.md) [+W] — attached 2026-11-01 from Teke et al. (2015), which proposed "Use simulations to make science topics concrete and observable when live demonstration is impossible"; tests this page's relationship.
+- [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](../claims/computer-simulation-beats-lecture-chemistry-achievement.md) [+W] — attached 2026-11-02 from Okwuduba Emmanuel Nkemakolam; Offiah Francisca Chinelo; Madichie Chinyere Jane (2018), which proposed "Use computer simulations to teach hazardous chemistry concepts that cannot be safely practiced hands-on"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

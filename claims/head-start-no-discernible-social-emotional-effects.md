@@ -56,3 +56,4 @@ In the DHHS ACF (2010) randomized controlled trial, three social-emotional outco
 - The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal — related
 - [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
+- [Teacher-rated approaches to learning and math concepts and problem solving showed no differences between intervention and comparison children](peg-cat-no-teacher-rated-atl-mcps-differences.md) — related

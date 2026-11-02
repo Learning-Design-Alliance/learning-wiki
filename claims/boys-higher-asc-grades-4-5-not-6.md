@@ -52,3 +52,4 @@ Descriptive t-tests in the longitudinal sample (N = 679) showed "boys reported m
 - [Academic self-concept levels are relatively high and stable from fourth to sixth grade of elementary school](asc-stable-fourth-to-sixth-grade.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
+- [Girls significantly outperformed boys on the sixth-grade Westest reading/language arts scaled scores, with a moderate effect size of .47](gender-gap-westest-reading-sixth-grade.md) — related

@@ -75,3 +75,4 @@ The same cross-group comparison found no significant difference for boys, t(23) 
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related
+- [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](female-students-significantly-higher-experiment-group.md) — related

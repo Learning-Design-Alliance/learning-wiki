@@ -51,3 +51,4 @@ Meta-analytic comparison by proficiency designation (Table 3: beginner input mea
 - [Output-based FFI was more effective than input-based FFI for complex clausal grammatical features, a difference the article characterizes as a large effect](output-ffi-advantage-clausal.md) — reports the opposite
 - [L1 transfer may moderate FFI effectiveness: features similar to Persian benefit more from input, while disparate features benefit more from output](l1-transfer-moderates-ffi-effectiveness.md) — related
 - [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related
+- [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related

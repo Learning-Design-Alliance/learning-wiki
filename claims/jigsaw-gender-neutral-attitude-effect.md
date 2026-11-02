@@ -53,3 +53,4 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [The jigsaw group's post-test attitude mean (24.96) exceeded the conventional group's (17.65) in estimated marginal means](jigsaw-higher-post-mean-than-conventional.md) — related
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related

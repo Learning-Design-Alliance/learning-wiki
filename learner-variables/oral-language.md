@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (104 show a difference, 33 mixed, 30 no difference) · 113 studies (35 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 113 report an effect size · 164 claims rest on one study
+> **Evidence** · 168 claims (105 show a difference, 33 mixed, 30 no difference) · 114 studies (36 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 114 report an effect size · 165 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -204,6 +204,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Goal-setting skills training improved English language performance among Senior Secondary II students compared to a waiting control group](../claims/goal-setting-training-improves-english-performance-enugu.md) [+M] — instruction changes it
 - [Language classes using PeLe mobile testing with enquiry-based post-test activities improved final-test scores while a pen-and-paper control group's scores fell, though the gain is not attributable to PeLe specifically](../claims/pele-support-improves-final-test-performance.md) [+W] — instruction changes it
 - [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](../claims/ubc-no-significant-child-outcomes.md) [-W] — instruction changes it
+- [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](../claims/oct-61-percent-improved.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

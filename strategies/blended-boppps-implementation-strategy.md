@@ -54,7 +54,8 @@ The article recommends popularizing the online and offline blended BOPPPS teachi
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](../claims/minor-differences-among-novel-strategies-pairwise.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assess blended e-learning outcomes with both achievement tests and self-assessment](assess-both-achievement-test-and-self-assessment.md)
 
 ## Examples
 -

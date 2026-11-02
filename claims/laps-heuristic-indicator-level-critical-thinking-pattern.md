@@ -54,3 +54,4 @@ Indicator-level analysis of the post-test (Table 6) in the same quasi-experiment
 - [Evaluative questions elicit more historical reasoning than explanatory questions](evaluative-questions-elicit-more-historical-reasoning.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
 - [A 40-hour critical thinking workshop intervention significantly increases educators' use of higher-order questions compared with a control group](ct-workshop-increases-higher-order-questions.md) — related
+- [Experiment-class students outperform control students on the question requiring application of non-rivalry and non-excludability to classify goods](experiment-class-better-goods-classification-q2.md) — related

@@ -50,3 +50,4 @@ Wilcoxon Signed Ranks Test on the 44-student experimental group's pre- and post-
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](absi-within-group-gain-significant.md) — related
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related
+- [The control group's academic achievement also increased significantly from pre-test to post-test under face-to-face problem-based collaborative learning](control-group-pretest-posttest-gain.md) — related

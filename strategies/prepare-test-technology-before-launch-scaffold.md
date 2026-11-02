@@ -39,6 +39,7 @@ The report's program lessons recommend that teachers using emerging technologies
 ## Related Strategies
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Build teacher media skills and classroom media facilities through training, resource centres and equipment provision](teacher-media-training-and-facilities-strategy.md)
 
 ## Examples
 - [360 Filmmakers Challenge](../products/360-filmmakers-challenge.md)

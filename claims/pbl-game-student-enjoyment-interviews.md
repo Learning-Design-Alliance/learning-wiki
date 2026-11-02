@@ -53,3 +53,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Most experimental-group students wanted similar WhatsApp applications used in their other courses](students-want-whatsapp-in-other-courses.md) — related
 - [Students interviewed after jumping task based on CPS lessons reported enthusiasm and found the problems challenging](interview-positive-response-jumping-task-cps.md) — related
 - [Most experimental-group pre-service teachers viewed the project-based HNOS course positively and recommended carrying it out through project activities](participants-endorse-pbhnos.md) — related
+- [Students using real programmable robots enjoyed learning more and found the material less difficult than control students](robot-learning-enjoyment-difficulty.md) — related

@@ -56,3 +56,5 @@ Dependent-sample t-tests for experimental group II (Sd = 15): exam anxiety t = 2
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Within the mind-map planning group, pre-to-post gains are significant on most self-regulation strategies and motivational beliefs, including a significant test-anxiety decrease](mind-map-group-within-group-prepost-gains.md) — a broader claim this one bears on
 - [Writing anxiety decreased significantly in both the Facebook experimental group and the control group](writing-anxiety-decreased-both-groups.md) — related
+- [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](no-test-anxiety-decrease-without-relaxation-training.md) — related
+- [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — a broader claim this one bears on

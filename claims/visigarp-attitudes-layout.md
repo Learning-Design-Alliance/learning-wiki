@@ -54,3 +54,4 @@ A 14-item attitude questionnaire (1 = negative to 5 = positive) administered aft
 - [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](molh-formative-evaluation-positive-ratings.md) — related
 - [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
+- [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related

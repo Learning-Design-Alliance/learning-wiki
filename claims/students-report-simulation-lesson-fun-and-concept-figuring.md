@@ -106,3 +106,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students interviewed after jumping task based on CPS lessons reported enthusiasm and found the problems challenging](interview-positive-response-jumping-task-cps.md) — related
 - [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related
 - [The authors interpret web-based virtual simulation as shifting the pilgrimage lesson from teacher-centred to student-centred learning consistent with constructivist learning theory](virtual-simulation-supports-student-centred-learning.md) — related
+- [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](favorable-student-perceptions-spirometry-lab.md) — related
+- [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related

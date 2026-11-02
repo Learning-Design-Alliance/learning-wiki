@@ -55,3 +55,4 @@ Subgroup results table from the cluster-randomised controlled trial comparing FS
 - [Breakfast club provision showed no evidence of an impact on the body mass index of Year 6 students](breakfast-club-no-bmi-impact.md) — related
 - [Providing schools with support to run a free universal before-school breakfast club raised Year 2 (KS1) attainment by around two months' additional progress in maths, reading and writing](ks1-attainment-gains-breakfast-club.md) — related
 - [For Year 6 pupils, breakfast club provision produced around two months' additional progress on writing and English measures, while effects on KS2 reading and maths were positive but could have occurred by chance](ks2-writing-english-gains-breakfast-club.md) — related
+- [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related

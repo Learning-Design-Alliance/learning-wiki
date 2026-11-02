@@ -51,3 +51,4 @@ Survey and interview data on sync feature use. The sync utilizes ACR technology 
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
 - [44.8% of families used the sync feature; most of those enjoyed it, while 37.5% of non-users reported technical difficulties](sync-feature-usage-and-difficulties.md) — related
 - [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related
+- [Family engagement with the intervention resources declined over the 12 weeks and most families diverged from the suggested sequence](peg-cat-usage-declined-diverged-from-sequence.md) — related

@@ -47,3 +47,4 @@ Independent-samples t-tests comparing the two experimental groups across profici
 ## Related Claims
 - [Explicit instruction of the apology speech act significantly improves Iranian EFL learners' appropriate use of apology strategies at both intermediate and advanced proficiency levels](explicit-apology-instruction-improves-pragmatic-appropriateness.md) — related
 - [Before instruction, control and experimental groups showed no significant difference in apology speech act performance at either proficiency level](pretest-equivalence-apology-groups.md) — related
+- [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related

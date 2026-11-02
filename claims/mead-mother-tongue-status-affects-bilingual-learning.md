@@ -56,3 +56,6 @@ The report quotes Mead's 1971 article "Early Childhood Experience and Later Educ
 - [Exceptional mismatches between test rank and school grade are explicable by social circumstances](test-grade-mismatches-explained-by-home-conditions.md) — related
 - [African children are primarily schooled in English from Grade 4 onwards, and the language-in-education policy has failed to promote indigenous African languages](liep-failure-english-from-grade-4.md) — a narrower finding that bears on this claim
 - [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](teachers-code-switch-english-to-mother-tongue.md) — related
+- [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](international-mother-tongue-programs-better-off.md) — related
+- [Children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](mother-tongue-better-start-better-performance.md) — related
+- [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related

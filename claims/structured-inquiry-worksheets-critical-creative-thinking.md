@@ -53,3 +53,4 @@ Quasi-experiment with 40 experimental and 40 control students; Mann-Whitney U po
 - [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](guided-inquiry-worksheets-critical-creative-thinking.md) — related
 - [Open inquiry-based worksheets in plant physiology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](open-inquiry-worksheets-critical-creative-thinking.md) — related
 - [Across all three inquiry levels, the experimental group's critical and creative thinking gains exceeded the control group's gains](three-level-inquiry-worksheets-overall-effectiveness.md) — a broader claim this one bears on
+- [The integrated approach produced significantly greater critical thinking skill improvement than the conventional method at both universities](integrated-approach-critical-thinking-improvement.md) — related

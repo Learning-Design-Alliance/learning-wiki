@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 358 claims (157 for, 177 mixed, 24 against) · 269 studies (90 associational, 61 design, 45 review, 32 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 269 report an effect size · 351 claims rest on one study
+> **Evidence** · 359 claims (157 for, 178 mixed, 24 against) · 270 studies (90 associational, 61 design, 45 review, 33 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 270 report an effect size · 352 claims rest on one study
 
 ## Conditional relationship
 
@@ -432,6 +432,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Year-averaged classroom observation scores provided reliable information to distinguish overall teacher performance (reliabilities .53–.61 and .70–.77), but dimension-level differences had limited reliability (.35–.43 and .18–.30)](../claims/observation-scores-reliable-overall-not-dimension.md) [~W]
 - [Correlations among group rating totals supported the design: A-C correlated 0.8253401 (same subjects) and B-D 0.80017335 (same subjects post-intervention), while A-B showed only 0.26428556](../claims/correlation-checks-group-identity-pronunciation-study.md) [~W]
 - [PET speaking scores showed significant inter-rater agreement between the two raters](../claims/pet-speaking-inter-rater-reliability-significant.md) [+W]
+- [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](../claims/cat-instrument-kr20-0-78.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

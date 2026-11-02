@@ -54,3 +54,6 @@ Gender comparison within the same quasi-experiment, reported in Table 2. The art
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — related
 - [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
+- [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](female-students-significantly-higher-experiment-group.md) — related
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — a narrower finding that bears on this claim
+- [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related

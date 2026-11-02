@@ -19,7 +19,7 @@ sources:
 # Collaborative Strategic Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 6 claims (6 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 A structured reading-comprehension program developed by Janette K. Klingner and Sharon Vaughn that combines metacognitive comprehension strategies with small-group cooperative learning during English-language arts or content-area instruction.
@@ -28,10 +28,13 @@ A structured reading-comprehension program developed by Janette K. Klingner and 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Collaborative Strategic Reading (CSR) program for reading comprehension**: CSR is a reading comprehension program in which students work in small cooperative learning groups while teachers focus on metacognitive comprehension strategies. The article describes it as teaching "strategies such as activating prior knowledge, identifying breakdowns in understanding, finding the main idea, and generating questions." It runs during regular English language arts or content area instruction. (Collaborative Strategic Reading (2024))
 - **Free online CSR teacher support materials**: The article states that "Online teacher support materials are available for free" and enumerates their contents: study modules for each CSR component, a video library featuring teachers using CSR in their classrooms, introductory mini lessons to introduce the CSR strategies to students, and resources to help teachers scaffold instruction for learners from diverse learning and language backgrounds. (Collaborative Strategic Reading (2024))
+- **Collaborative Strategic Reading (CSR) with four strategies and five cooperative group roles**: The study adopted and adapted the Collaborative Strategic Reading model of Klingner and Vaughn, which combines reciprocal teaching with cooperative learning. It "consists of four comprehension strategies that students apply before, during, and after reading in small cooperative groups": preview, click and clunk, get the gist, and wrap-up. Students worked in groups of five with assigned roles (leader, clunk expert, gist expert, announcer, reporter) that rotated regularly, while the teacher circulated to keep groups on task. (Seyed Hassan Talebi (2012))
 
 ### Claims
 - Gist statements frequently degrade into copying sentences verbatim or listing details rather than synthesizing main ideas [-M] — this requires ongoing teacher feedback at the process level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - Mixed-ability groups: higher-achieving students deepen understanding by explaining strategies to peers [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- [Reading strategy instruction in L2 (English) produced significantly greater gains in English reading comprehension than regular instruction](../claims/l2-strategy-instruction-improves-english-reading-comprehension.md) [+M]
+- [Reading strategy instruction in L2 (English) transferred to improve L1 (Persian) reading comprehension](../claims/l2-strategy-instruction-transfers-to-l1-reading-comprehension.md) [+M]
 
 ## Using it in practice
 <!-- The classroom recipe from the strategy page folded into this one (2026-10-20), shown here so it stays readable; the full old body is in the merged comment below. -->
@@ -66,8 +69,8 @@ A structured reading-comprehension program developed by Janette K. Klingner and 
 - Vaughn, S., Klingner, J. K., Swanson, E., Boardman, A. G., Roberts, G., Mohammed, S. S., & Stillman-Spisak, S. J. (2011). Efficacy of collaborative strategic reading with middle school students. *American Educational Research Journal, 48*(4), 937–964. [doi:10.3102/0002831211410305](https://doi.org/10.3102/0002831211410305)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Boardman, A. G., Klingner, J. K., Buckley, P., Annamma, S., & Lasser, C. J. (2015). The efficacy of Collaborative Strategic Reading in middle school science and social studies classrooms. *Journal of Research on Educational Effectiveness, 8*(4), 520–563. [doi:10.1007/s11145-015-9570-3](https://doi.org/10.1007/s11145-015-9570-3)
-
 <!-- merged 2026-10-10 from elements/collaborative-strategic-reading-program ("Collaborative Strategic Reading (CSR) program for reading comprehension"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Seyed Hassan Talebi. (2012). Reading in L2 (English) and L1 (Persian): An Investigation into Reveres Transfer of Reading Strategies. English Language Teaching, 5(3). https://doi.org/10.5539/elt.v5n3p217
 
 # Collaborative Strategic Reading (CSR) program for reading comprehension
 

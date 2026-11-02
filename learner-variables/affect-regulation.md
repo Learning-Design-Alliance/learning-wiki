@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (175 show a difference, 45 mixed, 23 no difference) · 154 studies (52 associational, 34 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 154 report an effect size · 237 claims rest on one study
+> **Evidence** · 248 claims (177 show a difference, 46 mixed, 25 no difference) · 157 studies (52 associational, 37 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 157 report an effect size · 242 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -283,6 +283,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](../claims/cooperative-learning-lower-test-anxiety.md) [+M] — instruction changes it
 - [CARE for Teachers improved teachers' adaptive emotion regulation, mindfulness, psychological distress, and time urgency in a cluster randomized trial](../claims/care-teachers-improves-teacher-social-emotional-outcomes.md) [+M] — instruction changes it
 - [IY TCM improves elementary students' emotional regulation](../claims/iytcm-improves-emotional-regulation.md) [+M] — instruction changes it
+- [Gains were largest on self-esteem, internal locus of control, sense of humor and stress coping skills, and lowest on creativity](../claims/resilience-gains-vary-by-protective-factor.md) [+M] — instruction changes it
+- [IYT benefited emotion regulation only for kindergarteners receiving free/reduced lunch](../claims/iyt-emotion-regulation-kindergarten-frl-benefit.md) [~M] — instruction changes it
+- [Post-test test-anxiety scores did not differ significantly between the relaxation-trained subgroups and the control group](../claims/post-test-experimental-control-difference-nonsignificant.md) [-M] — instruction changes it
+- [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](../claims/relaxation-training-reduces-test-anxiety-third-graders.md) [+M] — instruction changes it
+- [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](../claims/no-test-anxiety-decrease-without-relaxation-training.md) [-M] — instruction changes it
 
 ## The evidence by question
 

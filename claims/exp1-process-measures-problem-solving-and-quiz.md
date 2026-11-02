@@ -77,3 +77,4 @@ Quade ANCOVA of embedded video-quiz scores in Experiment 1, controlling for prio
 - [Receiving instruction before problem solving improves procedural fluency more than problem solving before instruction when both phases are otherwise identical](instruction-first-better-procedural-fluency.md) — related
 - [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — related
 - [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](multiple-strategies-prompt-outperformed-other-conditions.md) — related
+- [The modified problem-solving intervention group improved at a significantly higher rate than the comparison group during the first phase of the school year (d = .43)](modified-intervention-first-phase-significant-growth.md) — related
