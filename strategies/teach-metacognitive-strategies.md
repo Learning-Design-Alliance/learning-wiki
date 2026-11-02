@@ -92,6 +92,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 - [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 - [Teach metacognitive reading strategies as a before-during-after cycle of planning, self-monitoring through thinking aloud, and self-evaluation](metacognitive-reading-strategy-instruction-cycle.md)
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
+- [Teach metacognitive writing strategies through direct instruction, teacher modelling with thinking out loud, and guided application](direct-instruction-modelling-guided-application-metacognitive-writing.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups rotate leading four comprehension strategies (predicting, questioning, clarifying, summarizing) with teacher modeling fading over ~20 sessions; large comprehension gains for struggling readers.

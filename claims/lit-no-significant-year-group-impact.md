@@ -57,3 +57,4 @@ Randomized controlled trial comparing all Year 7 pupils in 19 treatment schools 
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](lit-teacher-views-benefits-and-limits.md) — related
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related
+- [The two-year LRS cohort showed no evidence of benefit, with point estimates slightly negative for maths](lrs-no-impact-cohort-b-ks2.md) — related

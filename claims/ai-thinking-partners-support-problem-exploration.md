@@ -57,3 +57,4 @@ Focus group interviews with 35 graduate students in seven cross-institutional te
 - [Chatbot instruction appeared effective for participants lacking prior knowledge of posing questions for improvement (path J, n = 16)](path-j-chatbot-instruction-effective-questions.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
 - [Teachers perceived the Task-First Approach as providing an authentic assessment opportunity revealing student knowledge without scaffolding](task-first-authentic-assessment.md) — related
+- [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related

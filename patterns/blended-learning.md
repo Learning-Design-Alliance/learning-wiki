@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (36 for, 21 mixed, 1 against) · 43 studies (14 quant-synthesis, 11 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 43 report an effect size · 56 claims rest on one study
+> **Evidence** · 62 claims (39 for, 22 mixed, 1 against) · 46 studies (14 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 60 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](../claims/blended-teq-above-program-average.md) [+W] — attached 2026-11-02 from Stouck (2019), which proposed "Use blended scheduling to restore one-on-one feedback and small-group workshop time lost in large composition classes".
 - [Blended instruction produced higher course achievement than face-to-face instruction in a university elective music course](../claims/blended-music-course-higher-achievement-than-ftf.md) [+W] — attached 2026-11-02 from Adileh (2012), which proposed "Combine face-to-face sessions with an online course website providing multimedia-rich materials and interaction tools".
 - [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](../claims/blended-music-course-more-positive-attitudes-than-ftf.md) [+W] — attached 2026-11-02 from Adileh (2012), which proposed "Combine face-to-face sessions with an online course website providing multimedia-rich materials and interaction tools".
+- [University students in a blended learning German course showed significantly greater achievement gains than students in a traditional face-to-face course over 10 weeks](../claims/blended-learning-greater-german-achievement-gains.md) [+W] — attached 2026-11-02 from Isiguzel (2014), which proposed "Blended foreign language course pattern combining weekly online activities with face-to-face instruction"; tests this page's relationship.
+- [Grade-10 students taught via a lab-rotation blended learning model scored significantly higher on a mathematics conceptual understanding post-test than students taught conventionally](../claims/blended-learning-lab-rotation-improves-math-conceptual-understanding.md) [+W] — attached 2026-11-02 from Abdissa et al. (2024), which proposed "Lab-rotation blended learning via Google Classroom for secondary mathematics"; tests this page's relationship.
+- [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](../claims/blended-learning-within-group-gain-math-conceptual-understanding.md) [+W] — attached 2026-11-02 from Abdissa et al. (2024), which proposed "Integrate blended learning elements into secondary mathematics curricula and support teachers with training"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -163,6 +166,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Self-regulated learning scores increased significantly within the blended group and Control 1 but not significantly within Control 2](../claims/srl-within-group-gains-mixed-across-controls.md) [~W]
 - [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](../claims/tblt-more-effective-than-blended-learning-for-rps.md) [-W]
 - [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](../claims/blended-teaching-third-grade-maths-achievement.md) [+W]
+- [Applying learning roadmaps across universities showed junior students lack readiness for self-educational activity in blended learning, while senior students embrace blended learning principles yet prefer traditional forms](../claims/junior-senior-readiness-blended-learning-roadmaps.md) [~W]
 
 ## Examples
 

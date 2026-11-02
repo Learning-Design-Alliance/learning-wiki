@@ -76,3 +76,4 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Receiving elaborate explanations benefits learning only when the receiver can apply the explanation in a related task](receiving-explanations-effective-when-applicable.md) — related
 - [Self-explanation benefits learning across ages, but evidence is mixed for elementary-school children and effects shrink when time on task is equated](self-explanation-mixed-elementary.md) — related
 - [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related
+- [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](poor-brainstorming-use-underlining-planning-efl-writers.md) — related

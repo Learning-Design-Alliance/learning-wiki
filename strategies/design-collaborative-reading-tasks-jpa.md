@@ -48,6 +48,7 @@ The article recommends that teachers design instructional activities in reading 
 - Jpa Collaborative Lesson Pattern
 - [Collaborative Storytelling](collaborative_storytelling.md)
 - [Dramatic Play](dramatic_play.md)
+- [Use post-reading group discussion to broaden thinking and strengthen comprehension and inference](post-reading-group-discussion-reading.md)
 
 ## Examples
 -

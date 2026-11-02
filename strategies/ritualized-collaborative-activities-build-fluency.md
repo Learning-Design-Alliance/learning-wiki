@@ -37,7 +37,8 @@ The primer recommends, following Kolodner (2003) and Kolodner et al. (2003), tur
 - Fluency in collaboration routines and broadened understanding from learning from peers
 
 ## Related Strategies
-- 
+
+- [Use post-reading group discussion to broaden thinking and strengthen comprehension and inference](post-reading-group-discussion-reading.md)
 
 ## Examples
 -

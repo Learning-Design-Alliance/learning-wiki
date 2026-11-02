@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 65 claims (31 for, 33 mixed, 1 against) · 48 studies (15 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 60 claims rest on one study
+> **Evidence** · 67 claims (32 for, 34 mixed, 1 against) · 49 studies (16 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [+W] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Case-based instruction with small-group discussion of daily-life cases"; tests this page's relationship.
 - [Case-study-based teaching in 6th-grade social studies produces higher post-test environmental attitudes than existing-curriculum teaching](../claims/case-study-teaching-higher-environmental-attitudes.md) [+W] — attached 2026-11-02 from Hamza AKENGİN (2012), which proposed "Use the case-study method in social studies to develop positive environmental attitudes and raise knowledge, values and skills"; tests this page's relationship.
 - [Within the experimental group, environmental attitudes improved significantly from pre-test to post-test after case-study instruction](../claims/experimental-group-pre-post-attitude-gain.md) [~W] — attached 2026-11-02 from Hamza AKENGİN (2012), which proposed "Use the case-study method in social studies to develop positive environmental attitudes and raise knowledge, values and skills".
+- [Case-based learning groups achieved significantly higher post-test acquisition scores than control groups in an Introduction to Educational Science course](../claims/cbl-higher-posttest-than-control-teacher-education.md) [+W] — attached 2026-11-02 from Dilek İlhan-Beyaztaş (2018), which proposed "Case-based curriculum implemented in two sequences: presentation-then-cases (CBL1) and cases-then-presentation (CBL2)"; tests this page's relationship.
+- [CBL1 and CBL2 implementations did not differ significantly from each other in post-test acquisition scores](../claims/cbl1-cbl2-no-significant-difference.md) [~W] — attached 2026-11-02 from Dilek İlhan-Beyaztaş (2018), which proposed "Case-based curriculum implemented in two sequences: presentation-then-cases (CBL1) and cases-then-presentation (CBL2)".
 
 ## Illustrative design instance and observation record
 

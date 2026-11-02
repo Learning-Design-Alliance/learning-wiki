@@ -63,3 +63,4 @@ Quasi-experimental study with non-equivalent groups (20 experimental, 20 control
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related
+- [Active learning activities produce higher post-test achievement than traditional direct instruction in a fifth-grade English unit](active-learning-higher-posttest-achievement-my-town-unit.md) — related

@@ -70,3 +70,4 @@ Dependent samples t-test on the Facebook experimental group's essays (n=48) in t
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Writing self-efficacy increased significantly in both the Facebook experimental group and the control group](writing-self-efficacy-increased-both-groups.md) — related
 - [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — related
+- [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related

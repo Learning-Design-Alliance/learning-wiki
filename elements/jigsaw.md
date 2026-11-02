@@ -13,7 +13,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 against) · 4 studies (2 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 5 studies (3 causal, 1 review, 1 associational), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
@@ -28,6 +28,7 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](../claims/jigsaw-iv-vs-ii-no-posttest-difference.md) [~W]
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](../claims/no-gender-difference-posttest-jigsaw.md) [~W]
+- [Students most frequently cited increased course success as the jigsaw technique's main advantage](../claims/student-reported-jigsaw-advantages-success-and-cooperation.md) [+W]
 
 ## Examples
 

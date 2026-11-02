@@ -69,3 +69,4 @@ Unpaired t test comparing L2 control (M=34.29, SD=19.02) and L2 experimental (M=
 - [Heritage learners of Spanish enter Spanish courses with high pragmatic competence in recognizing appropriate compliment strategies](heritage-learners-high-compliment-pragmatic-competence.md) — related
 - [Pragmatic lessons produced descriptive but not statistically significant gains in the L2 experimental group's request performance](pragmatic-lessons-l2-nonsignificant-gains.md) — related
 - [Pragmatic lessons on requests did not significantly improve SHL learners' pragmatic request competence, with scores decreasing from pre- to post-test](pragmatic-lessons-no-shl-gain.md)
+- [Both explicit and implicit pragmatic instruction significantly improved EFL learners' use of compliments and compliment responses while the uninstructed control group's patterns did not change](explicit-implicit-instruction-improve-compliments-crs.md) — related

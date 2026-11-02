@@ -75,3 +75,4 @@ Authors' interpretation (type e) drawn from the product analysis: novice IDC gro
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related
 - [In-service mathematics teachers in the online TPACK program shifted from teacher-centered to valuing student-centered instructional strategies for teaching with technologies](online-tpack-program-shift-student-centered-strategies.md) — related
 - [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
+- [The effectiveness of the technologies shifts across school stages: 'I want to learn' decreased at secondary school while 'I can learn' increased](technology-effectiveness-shifts-across-school-stages.md) — related

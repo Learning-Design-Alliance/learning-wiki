@@ -50,3 +50,4 @@ Meta-analysis of 31 theses' control-group pretest-posttest data using Cohen's d 
 - [Most individual studies favor posttest over pretest: 24 of 31 show statistically significant gains and 28 of 31 favor posttest](forest-plot-24-of-31-significant-posttest.md) — related
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
+- [Experimental class showed a larger gain on the state standardized geometry assessment than the control class](state-assessment-gain-experimental-larger.md) — related

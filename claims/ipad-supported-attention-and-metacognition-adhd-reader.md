@@ -48,3 +48,6 @@ Qualitative observation from the case study. During initial testing Josh could n
 - [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](insert-strategy-independent-use-transfer-case.md) — related
 - [Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud](self-recorded-reading-playback-improved-accuracy-case.md) — related
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
+- [After five weeks of iPad use, the treatment group's reading rate was significantly slower than the control group's, a gap that widened over the study](ipad-group-slower-reading-rate.md) — related
+- [Both groups showed equal motivation to learn, but iPad-using students reported greater focus and participation during the reading activities](ipads-focus-participation-engagement.md) — related
+- [An overwhelming majority (82 percent) of students who used iPads as e-readers would recommend them, citing e-reader features such as adjustable font, dictionary and pronunciation of unknown text](students-recommend-ipad-ereaders.md) — related

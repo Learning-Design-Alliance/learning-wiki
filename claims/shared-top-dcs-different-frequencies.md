@@ -56,3 +56,4 @@ Quantitative profile from Table 4 of the top ten DCs in each of the four sub-cor
 - [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](l2-overuse-tendency-limited-dc-range.md) — related
 - [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](thai-overuse-because-l1-influence.md) — related
 - [Counting the connective 'and' separately from other basic connectives highlights immature writing and identifies a writer's stage](and-connective-count-flags-immature-writing.md) — related
+- [Virtual and face-to-face collaborative writers differ in discourse: control groups use cohesive devices and paragraphing more, virtual groups add more new relevant ideas](discourse-differences-telecollaborative-vs-face-to-face-essays.md) — related

@@ -57,3 +57,5 @@ Reading comprehension posttest (5 multiple-choice items) for the combined 135 pa
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
 - [The review reports that pre-reading activities have received abundant empirical support for enhancing EFL reading comprehension across contexts](prereading-activities-enhance-comprehension-empirical-support.md) — related
 - [All three gloss conditions, traditional and multimedia, outperformed no gloss on reading comprehension](all-gloss-conditions-beat-no-gloss.md) — reports the opposite
+- [L1 glossing produces a medium-to-large overall improvement in L2 reading comprehension (g = .68) across experimental and quasi-experimental studies](l1-glossing-overall-effect-size-068.md) — reports the opposite
+- [In Salem's (2006) CALL study, adding more gloss types beyond L1 textual glosses progressively lowered reading comprehension scores](salem-more-gloss-types-lower-scores.md) — related

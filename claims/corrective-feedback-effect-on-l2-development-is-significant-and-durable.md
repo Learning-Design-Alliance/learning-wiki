@@ -152,3 +152,5 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [The authors interpret the experimental group's score increase as larger than the control group's, suggesting a possible but unsatisfied effect of error correction](experimental-gain-larger-than-control-interpretation.md) — a narrower finding that bears on this claim
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — reports the opposite
 - [Grammatical accuracy gains from written corrective feedback are retained at delayed post-test, but lexical accuracy gains are not](wcf-retention-grammar-lexical-split.md) — a narrower finding that bears on this claim
+- [Learners perceived instructor corrective feedback delivered through Voice Thread as helpful for improving grammar accuracy](online-instructor-feedback-perceived-helpful.md) — related
+- [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related

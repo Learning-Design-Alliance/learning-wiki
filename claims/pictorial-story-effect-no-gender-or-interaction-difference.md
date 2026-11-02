@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: hamdan-2017
     resource: "https://eric.ed.gov/?id=EJ1139826"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` ANCOVA showed no statistically significant differences due to gender (F=.053, p=.818, η²=.001) or group*gender (F=.524, p=.471, η²=.006) at the 0.05 level. [→ Hamdan 2017](#hamdan-2017)
@@ -57,3 +58,5 @@ Same ANCOVA on the 100-student sample: gender η²=.001 and group*gender η²=.0
 - [Treatment and gender do not interact significantly in their effect on mathematics achievement](no-treatment-gender-interaction-mathematics-achievement.md) — related
 - [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — possibly the same claim (merge candidate)
 - [No significant interaction between gender and ability level on achievement under reflective inquiry](no-gender-ability-interaction-reflective-inquiry.md) — related
+- [No statistically significant gender difference in direct achievement of scientific concepts](no-gender-difference-direct-achievement-modules-study.md) — related
+- [No statistically significant gender difference or gender-by-method interaction in postponed achievement](no-gender-difference-postponed-achievement-modules-study.md) — related

@@ -48,3 +48,4 @@ Wilcoxon signed-rank comparison of early vs. later stage knowing frequencies for
 - [Discourse shifted significantly from sharing-oriented toward argument- and integration-oriented moves between early and later stages](discourse-shift-toward-integration-and-argument.md) — related
 - [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](intrinsic-motivation-higher-order-metacognition.md) — related
 - [Sharing-oriented discourse was necessary but not sufficient for developing sense of promisingness](sharing-necessary-not-sufficient-promisingness.md) — related
+- [The effectiveness of the technologies shifts across school stages: 'I want to learn' decreased at secondary school while 'I can learn' increased](technology-effectiveness-shifts-across-school-stages.md) — related

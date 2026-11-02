@@ -42,7 +42,8 @@ The article's instructional pattern organizes each weekly reading lesson into a 
 - [Learning Style Activities Improve Efl Reading Comprehension](../claims/learning-style-activities-improve-efl-reading-comprehension.md) [+M]
 
 ## Related Designs
-- 
+
+- [Ten-phase JiTT lesson sequence for English reading and writing with vocational students](jitt-ten-phase-english-lesson-pattern.md)
 
 ## Examples
 -

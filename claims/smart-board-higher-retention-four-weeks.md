@@ -50,3 +50,4 @@ Retention test with the same 25-item achievement test applied four weeks after t
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related

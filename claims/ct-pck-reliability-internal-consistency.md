@@ -60,3 +60,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](abbreviated-ctt-reliability-primary-school.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
 - [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](cat-instrument-kr20-0-78.md) — related
+- [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related

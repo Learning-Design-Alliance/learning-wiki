@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (28 for, 22 mixed, 4 against) · 53 studies (21 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 47 claims rest on one study
+> **Evidence** · 56 claims (29 for, 23 mixed, 4 against) · 54 studies (22 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 54 report an effect size · 49 claims rest on one study
 
 ## Description and scope
 
@@ -203,6 +203,8 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](../claims/pblccs-better-n-gain-each-mct-indicator.md) [-W]
 - [Prior meta-analytic evidence reported by the article indicates direct instruction succeeds in teaching academic skills to students with special needs](../claims/kinder-meta-analysis-direct-instruction-special-needs.md) [+W]
 - [Direct instruction strategy improves attitudes toward mathematics among students with learning difficulties](../claims/direct-instruction-improves-math-attitudes.md) [+W]
+- [Explicitly instructed learners deployed almost all compliment and compliment-response strategies, with 79.93% using at least 9 of 11 strategies](../claims/explicit-group-nine-of-eleven-strategies.md) [+W]
+- [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](../claims/instruction-type-comparison-inconclusive-implicit-slight-edge.md) [~W]
 
 ## Examples
 

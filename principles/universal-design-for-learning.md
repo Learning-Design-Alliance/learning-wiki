@@ -177,6 +177,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 - [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md)
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](../strategies/student-autonomy-default-access-edtech-supports.md)
+- [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](../strategies/optional-choice-based-fonf-activities.md)
 
 ### Illustrative
 

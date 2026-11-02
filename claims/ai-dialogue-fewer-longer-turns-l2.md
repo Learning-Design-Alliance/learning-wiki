@@ -52,3 +52,4 @@ Paired comparison of 78 learners' human-human vs. AI dialogues in a counterbalan
 - [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](teaching-sessions-conclude-within-30-turns.md) — related
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
 - [Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades](ai-conversational-dominance-lower-student-contribution.md) — related
+- [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related

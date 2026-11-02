@@ -65,3 +65,4 @@ Moderator analysis of treatment duration across six coded bands in the 29 studie
 - [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
 - [Delivery-quality improvements are highest in the medium term (6–12 months) and decrease by 12 months](delivery-quality-improvements-highest-medium-term-decrease-long-term.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [Frequency of explicit mediational strategies decreased dramatically by the last G-DA session](explicit-mediation-decreased-last-session.md) — related

@@ -58,9 +58,11 @@ Question generation transforms reading from comprehension into evaluation, and s
 4. Facilitate discussion of the strongest questions, then have students revisit and revise their interpretations through [Reassessment](../elements/reassessment.md) — noting what changed in their reading of the text and why.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — margin notes are a natural vehicle for recording challenge questions during reading
 - [Cognitive Activation](../principles/cognitive-activation.md) — challenge questions are a form of cognitive activation that pushes students beyond surface processing
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking questions ("How would this event read from the other side?") connect critique to empathy
+- [Integrate the discourse analysis method into language and literature lessons as the primary textual analysis instruction](integrate-discourse-analysis-in-literature-lessons.md)
 
 ## Examples
 - A middle school class reading a textbook account of westward expansion generates questions about whose voices are absent (Indigenous nations, women), then compares the account with a primary source from a displaced community.

@@ -41,7 +41,8 @@ The structural method of teaching vocabulary is an approach based on "the morpho
 - [Smtv Outperforms Dmtv Retention](../claims/smtv-outperforms-dmtv-retention.md) [+M]
 
 ## Related Designs
-- 
+
+- [Contextual and structural approaches as two contrasting methods of vocabulary teaching](contextual-vs-structural-vocabulary-methods.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ One-way ANOVA by proficiency level: VocTest 1 p = .011 (Level 2) and p = .003 (L
 - [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — related
 - [Students of different proficiency levels use computer textual glosses in a similar pattern, with no statistically significant difference in number of clicks](gloss-use-no-proficiency-difference-clicks.md) — related
 - [High-proficiency students made the largest vocabulary gains from gloss use, followed by mid and low proficiency students, in both productive and receptive knowledge](high-proficiency-largest-gloss-gains.md) — related
+- [L1 glossing produces a medium-to-large overall improvement in L2 reading comprehension (g = .68) across experimental and quasi-experimental studies](l1-glossing-overall-effect-size-068.md) — related

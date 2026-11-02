@@ -55,3 +55,4 @@ Multigroup multilevel mediation model for the teacher confidence and enthusiasm 
 - [The TRIAD intervention raised teachers' observed expectations and responsiveness to developmental needs (b = 0.10, p = .05)](triad-raised-teacher-expectations-developmental-appropriateness.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
 - [Instructor enthusiasm ratings did not differ between the arousal and no-arousal groups, providing some evidence enthusiasm did not moderate the effect](instructor-enthusiasm-no-group-difference.md) — related
+- [The control group improved more than the intervention group on only two items, instructor enthusiasm and helpful feedback, without surpassing intervention post-ratings](control-group-gains-enthusiasm-feedback.md) — related

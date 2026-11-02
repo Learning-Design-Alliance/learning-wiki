@@ -68,3 +68,5 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
 - [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — related
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related
+- [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related

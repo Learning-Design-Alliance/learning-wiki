@@ -165,3 +165,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
 - [Prior reviews and meta-analyses of manipulative use yielded conflicting findings, with mean effect sizes ranging from zero to 1.03](prior-manipulatives-meta-analyses-conflicting.md) — related
+- [Varied grouping scaffolds produced significantly higher daily-task scores than graphic-organizer-only instruction in sixth-grade geometry](grouping-scaffolds-significant-daily-task-gain.md) — a narrower finding that bears on this claim

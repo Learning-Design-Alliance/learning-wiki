@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 141 claims (76 for, 57 mixed, 8 against) · 122 studies (47 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 122 report an effect size · 140 claims rest on one study
+> **Evidence** · 149 claims (79 for, 60 mixed, 10 against) · 127 studies (52 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 127 report an effect size · 148 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -176,6 +176,14 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [The classroom teacher reported that the experimental group was more engaged than the control group and that the technology caused little to no disruption](../claims/teacher-reported-higher-engagement-experimental-group.md) [+W]
 - [Blog-assisted life education instruction significantly enhances students' collaborative learning attitudes and attitudes toward blog use](../claims/blog-life-education-enhances-learning-attitudes.md) [+W]
 - [Post-test achievement of gadget-taught experimental groups did not differ significantly between the aided and the government school](../claims/gadget-gains-similar-across-school-types.md) [~W]
+- [Even schools with high LRS usage showed insufficient evidence of a positive effect](../claims/lrs-dose-analysis-no-effect.md) [-W]
+- [Both groups showed equal motivation to learn, but iPad-using students reported greater focus and participation during the reading activities](../claims/ipads-focus-participation-engagement.md) [+W]
+- [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](../claims/mobile-app-resolved-vt-upload-difficulties.md) [~W]
+- [Using iPads as e-readers and applications for five weeks did not significantly influence middle-school students' overall reading achievement (comprehension, accuracy and rate combined)](../claims/ipads-no-influence-reading-achievement.md) [-W]
+- [Khan Academy supplemental instruction produced no difference in test scores compared with traditional teacher-led supplemental mathematics instruction](../claims/khan-academy-no-worse-than-traditional-supplement.md) [~W]
+- [Vocational students taught with JiTT through web technologies showed significantly higher writing ability than conventionally taught students at the .01 level](../claims/jitt-web-writing-ability-significant.md) [~W]
+- [Vocational students taught with JiTT through web technologies showed significantly more positive attitudes toward English learning than control students](../claims/jitt-web-attitudes-significant.md) [+W]
+- [iPad-using students reported higher satisfaction that the set activities enhanced their learning, confidence and understanding than control-group students](../claims/ipad-higher-perceived-learning-confidence.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

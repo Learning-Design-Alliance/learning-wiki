@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 61 claims (38 for, 20 mixed, 3 against) · 68 studies (24 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 22 of 68 report an effect size · 47 claims rest on one study
+> **Evidence** · 62 claims (38 for, 21 mixed, 3 against) · 69 studies (25 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 22 of 69 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -188,6 +188,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Positive Action improved academic outcomes in Hawai'i and selected academic outcomes in Chicago, with very large effects for African American boys](../claims/positive-action-improves-academic-outcomes.md) [+M]
 - [No significant effects of the intervention were detected on children's behavioral self-regulation (HTKS)](../claims/transmedia-math-supplement-no-htks-effect.md) [-W]
 - [Modeling games and conflict resolution skills alone was insufficient to increase children's confidence to overcome barriers to active recess play](../claims/modeling-games-alone-insufficient-recess-self-efficacy.md) [~W]
+- [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](../claims/sarp-implementation-challenges.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

@@ -55,3 +55,4 @@ Khalid A. Alsoudi. (2017). The Effect of Using K.W.L Strategy upon Acquiring Rel
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
+- [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related

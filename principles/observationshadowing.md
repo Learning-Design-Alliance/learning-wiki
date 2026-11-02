@@ -168,6 +168,7 @@ What the observer can describe, what they can explain, their confidence, their o
 - **Model observation before performance**: Learners observe a complete authentic task before attempting their own version.
 - Strategy recipes: [Preparation activities for shadowing](../strategies/prep_activities_for_shadowing.md), [Structured observation protocol](../strategies/structured_observation_protocol.md), [Peer observation](../strategies/peer-observation.md), [Peer observation and feedback](../strategies/peer-observation-and-feedback.md), [Lesson study](../strategies/lesson-study.md) and [Video-based feedback cycle for teacher teams](../strategies/video-based-feedback-cycle-for-teacher-teams.md); the element [Observation](../elements/observation.md); and the [Cognitive Apprenticeship pattern](../patterns/cognitive-apprenticeship.md), which opens with observation and modelling.
 - [Record ECHO sessions for later viewing and add clinical shadowing and non-physician staff involvement to address time barriers](../strategies/echo-session-recordings-and-support-improvements.md)
+- [Give pre-service teachers feedback on their teaching practice through focus group discussions based on their diaries and observation records](../strategies/feedback-via-focus-group-discussions-strategy.md)
 
 ## Key Sources
 - Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1). [doi:10.53761/1.9.1.7](https://doi.org/10.53761/1.9.1.7)

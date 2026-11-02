@@ -58,9 +58,11 @@ Comprehension checks convert reading from passive input into retrieval practice,
 6. Fade the external checks over time, teaching learners to generate their own questions — consistent with [Assessment for Learning](../principles/assessment-for-learning.md)
 
 ## Related Strategies
+
 - [Reciprocal Teaching](reciprocal_teaching.md) — learners take over the questioning role
 - [Question-Answer Relationships](question-answer-relationships.md) — teaches learners to classify and answer question types
 - [Stop-and-Jot](stop-and-jot.md) — a minimal written variant of the check
+- [Use post-reading group discussion to broaden thinking and strengthen comprehension and inference](post-reading-group-discussion-reading.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups rotate predicting, questioning, clarifying, and summarizing roles during reading; the questioning role is a learner-run comprehension check

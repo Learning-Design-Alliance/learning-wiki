@@ -61,3 +61,5 @@ Baseline comparison on the 20-item multiple-choice pretest; Table 2 reports t = 
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
+- [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
+- [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related

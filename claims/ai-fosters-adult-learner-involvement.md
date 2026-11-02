@@ -64,3 +64,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](menu-based-learning-companion-encourages-reflection-articulation.md) — related
 - [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
+- [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related

@@ -49,3 +49,4 @@ Z-tests comparing stage proportions of the three discourse-move types among 32 p
 - [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
 - [Sharing-oriented discourse was necessary but not sufficient for developing sense of promisingness](sharing-necessary-not-sufficient-promisingness.md) — related
 - [Stage 2 activities appeared to reinforce in addition to as a chunk and to shift use away from the less genre-appropriate thanks to](stage2-reinforces-chunks-and-substitutions.md) — related
+- [The effectiveness of the technologies shifts across school stages: 'I want to learn' decreased at secondary school while 'I can learn' increased](technology-effectiveness-shifts-across-school-stages.md) — related

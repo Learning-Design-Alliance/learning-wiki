@@ -70,3 +70,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related
+- [The reliability of the IELTS-based proficiency test used for participant selection was supported by a Cronbach's Alpha of 0.81](ielts-proficiency-test-alpha-081.md) — related

@@ -52,3 +52,4 @@ Descriptive survey of the 33 EG participants using a modified 15-item Attitude/M
 - [Iranian EFL learners held predominantly positive attitudes toward blended vocabulary learning, citing flexible timing, personalized learning, and the systematic app design](positive-attitudes-memrise-blended-learning.md) — related
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
+- [Participants in the experimental group held positive attitudes toward explicit instruction of lexical chunks](positive-attitudes-toward-lexical-chunks-instruction.md) — related

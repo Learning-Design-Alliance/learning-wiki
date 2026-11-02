@@ -53,3 +53,4 @@ Meta-analysis of three of nine questionnaire-survey studies (1,181 students eval
 - [Trainees report higher satisfaction with simulation-based learning than with non-simulation-based learning in endocrinology education](sbl-higher-satisfaction-endocrinology.md) — related
 - [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — possibly the same claim (merge candidate)
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related
+- [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related

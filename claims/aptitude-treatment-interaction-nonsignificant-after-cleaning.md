@@ -59,3 +59,4 @@ Updated quantitative analyses on the cleaned practice-semester dataset from the 
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — related
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — related
 - [Treatment but not control instructors reported an increase in their ability to use technology for teaching mathematics after a practice semester, though not statistically significant](treatment-instructor-technology-ability-increase-nonsignificant.md) — related
+- [Explicit language learning strategy instruction did not have a statistically significant effect on language progress as measured by the OPT in mixed-ability higher-education groups](explicit-strategy-instruction-no-opt-effect-mixed-groups.md) — related

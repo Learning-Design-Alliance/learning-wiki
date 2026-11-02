@@ -54,6 +54,7 @@ The article explains its findings within skill acquisition theory (citing DeKeys
 ## Examples
 
 - [Use metalinguistic naught CF (rule explanations without error marking) to ease teachers' corrective feedback workload while retaining long-term effectiveness.](../strategies/mn-cf-teacher-workload-strategy.md)
+- [Provide clear, simple metalinguistic explanations with rules and examples alongside written corrective feedback](../strategies/metalinguistic-explanation-with-written-cf.md)
 
 ## Key Sources
 - Jang, Sung-Soo. (2020). The efficacy of different types of metalinguistic information in L2 written corrective feedback. English Teaching, 75(4), 33-56. https://doi.org/10.15858/engtea.75.4.202012.33

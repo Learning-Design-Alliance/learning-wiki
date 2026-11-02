@@ -50,3 +50,4 @@ Post-hoc multiple comparisons on the ANOVA of the 30 learners' posttest DCT scor
 - [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](scheffe-gain-pairwise-blog-reading.md) — related
 - [Explicit instruction of the speech act of thanking produced significantly higher DCT performance than implicit instruction among Iranian intermediate EFL learners](explicit-instruction-thanking-outperforms-implicit-iranian-efl.md) — a broader claim this one bears on
 - [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related
+- [CDA-based reading instruction does not differ significantly between male and female EFL students](cda-instruction-no-gender-difference.md) — related

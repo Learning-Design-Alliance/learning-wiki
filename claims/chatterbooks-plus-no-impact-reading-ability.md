@@ -54,3 +54,4 @@ Pupil-randomised controlled trial comparing Chatterbooks Plus against a waitlist
 - [Secondary outcomes (sentence completion and passage comprehension subscales) showed no significant effects for either intervention](chatterbooks-secondary-outcomes-null.md) — related
 - [The Quest programme showed no statistically significant effect on Year 7 reading comprehension, with a small negative point estimate (Hedges g = -0.04)](quest-no-significant-reading-comprehension-effect.md) — related
 - [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
+- [The two-year LRS cohort showed no evidence of benefit, with point estimates slightly negative for maths](lrs-no-impact-cohort-b-ks2.md) — related

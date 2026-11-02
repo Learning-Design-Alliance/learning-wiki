@@ -68,3 +68,4 @@ Practice-effect control analysis using a randomly chosen comparison section (n =
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — related
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
 - [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related
+- [Students reported cognitive benefits of case-based learning, with CBL2 frequencies higher but time-management problems reported](cbl-cognitive-impact-student-opinions.md) — related

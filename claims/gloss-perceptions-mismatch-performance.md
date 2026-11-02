@@ -57,3 +57,4 @@ Descriptive questionnaire (24 items, in Chinese) administered to all subjects af
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — related
 - [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](embedded-aids-improve-reading-comprehension.md) — related
 - [Journal writing generated positive attitudes and intrinsic motivation for writing among EFL students](journal-writing-generates-writing-motivation.md) — related
+- [In Salem's (2006) CALL study, adding more gloss types beyond L1 textual glosses progressively lowered reading comprehension scores](salem-more-gloss-types-lower-scores.md) — related

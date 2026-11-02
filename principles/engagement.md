@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (17 for, 18 mixed, 1 against) · 55 studies (21 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 7 of 55 report an effect size · 25 claims rest on one study
+> **Evidence** · 37 claims (17 for, 19 mixed, 1 against) · 56 studies (22 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 7 of 56 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](../claims/ptr-yc-increases-engaged-time-vs-bau.md) [+W]
 - [72% of treatment students found the CALL teacher's method interesting and motivating, while 28% disliked it due to unfamiliarity](../claims/call-teacher-method-perceived-motivating.md) [+W]
 - [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](../claims/mobile-use-increases-classroom-engagement.md) [+W]
+- [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

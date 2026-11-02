@@ -50,3 +50,4 @@ The WWC review reports the staying in school domain finding from the Kemple & Sn
 - [MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains](career-academies-mdrc-male-earnings-gains.md) — related
 - [Attendance and dropout improved after year one of the intervention and reverted after the project ended](attendance-dropout-rose-then-reverted.md) — related
 - [School dropout differed by school type, with sponsor-led academies dropping out at nearly half the rate of community schools](lit-differential-school-attrition-by-type.md) — related
+- [The percentage of alternative school returnees no longer in school at year's end was lower in the intervention year (14%) than the prior year (59%)](retention-rate-improved-after-intervention-year.md) — related

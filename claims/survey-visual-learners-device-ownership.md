@@ -68,3 +68,4 @@ The same survey asked respondents whether they owned a technology-enabled device
 - [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](smartphone-tablet-ar-dominates-k12-stem-devices.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
+- [The experimental class was dominated by sequential (85%), visual (77.5%) and dependent (77.5%) learning-style preferences, and group heterogeneity helped sequential learners absorb holistic reading strategies](cl-learning-styles-distribution.md) — related

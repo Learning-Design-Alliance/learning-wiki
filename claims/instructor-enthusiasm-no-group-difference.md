@@ -46,3 +46,4 @@ Because instructor enthusiasm had been shown to impact learning and might act as
 
 ## Related Claims
 - [The intervention raised observed teacher confidence and enthusiasm, with partial mediation via this dimension for African American students only, though the group difference was not significant](teacher-confidence-enthusiasm-mediation-mixed.md) — related
+- [The control group improved more than the intervention group on only two items, instructor enthusiasm and helpful feedback, without surpassing intervention post-ratings](control-group-gains-enthusiasm-feedback.md) — related

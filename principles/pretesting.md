@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (9 for, 19 mixed, 4 against) · 31 studies (16 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 31 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (10 for, 19 mixed, 4 against) · 32 studies (17 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 32 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](../claims/training-time-null-covariate-latimier.md) [+W]
 - [Both groups improved significantly on harder-to-guess questions, and the experimental group outperformed the control group on them at post-test](../claims/se-prompts-harder-to-guess-questions.md) [+W]
 - [Addressing did not enhance transfer performance in study 1](../claims/addressing-no-transfer-effect.md) [-W]
+- [Only the experimental group showed a significant pretest-to-posttest change in difference scores](../claims/gda-difference-scores-only-experimental-changed.md) [+W]
 
 ## Related Principles
 

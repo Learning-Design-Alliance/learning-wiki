@@ -68,3 +68,4 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
+- [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related

@@ -66,6 +66,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 - [Teach IELTS listening through explicit strategies and tips alongside task-based materials](ielts-listening-strategies-tips-instruction.md)
 - [Two-stage song-work technique: pre-listening word work, then work during and after listening](two-stage-song-work-technique.md)
 - [Use online audiovisual excerpts to introduce new vocabulary in an authentic target-language context, followed by transcript-based identification and communicative practice](audiovisual-excerpts-vocabulary-introduction-strategy.md)
+- [Set pre-reading questions spanning macroscopic background and textual detail to lead top-down and bottom-up reading](pre-reading-questions-top-down-bottom-up.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — frame the purpose before exposure

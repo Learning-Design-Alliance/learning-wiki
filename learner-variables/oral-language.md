@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (123 show a difference, 37 mixed, 35 no difference) · 130 studies (50 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 37 of 130 report an effect size · 192 claims rest on one study
+> **Evidence** · 198 claims (126 show a difference, 37 mixed, 35 no difference) · 132 studies (52 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 37 of 132 report an effect size · 195 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -232,6 +232,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Students gained more productive than receptive vocabulary knowledge, a disparity the authors attribute to the design and format of the tests](../claims/productive-exceeds-receptive-test-format.md) [+W] — instruction changes it
 - [The 20-week version of NELI improved language skills by an estimated two months of progress, though the evidence is less secure than for the 30-week version](../claims/neli-20-week-language-effect.md) [~M] — instruction changes it
 - [The 30-week Nuffield Early Language Intervention improved the language skills of children with low language ability, equivalent to about four months of additional progress](../claims/neli-30-week-language-effect.md) [+M] — instruction changes it
+- [Eleventh-grade students taught with the discourse analysis method showed larger pretest-to-posttest gains in use of language skill than the traditionally taught control group](../claims/discourse-analysis-improves-use-of-language.md) [+M] — instruction changes it
+- [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

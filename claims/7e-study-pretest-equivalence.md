@@ -61,3 +61,5 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
+- [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
+- [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related

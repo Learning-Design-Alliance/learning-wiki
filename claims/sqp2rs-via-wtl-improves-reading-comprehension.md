@@ -52,3 +52,4 @@ Quasi-experimental study of 139 tenth graders in two Bethlehem schools, experime
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related
 - [Gender × pre-achievement interaction favored males in the high achievement group](gender-level-interaction-favor-male-high-achievement.md) — related
 - [Computer-assisted teaching of the passive voice produced significantly higher post-test achievement than traditional instruction among Jordanian first-secondary EFL pupils](call-passive-voice-beats-traditional-jordan.md) — related
+- [Third-semester English students taught with CIRC achieved significantly higher reading comprehension post-test scores than students taught with the traditional method](circ-beats-traditional-method-reading-comprehension.md) — related

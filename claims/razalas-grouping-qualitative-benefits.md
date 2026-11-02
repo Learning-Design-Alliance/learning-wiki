@@ -49,3 +49,4 @@ Qualitative analysis of math journals and follow-up group interviews from both g
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
+- [Experimental-group students described literature lessons using the discourse analysis method as enjoyable and confidence-building, reporting increased interest and participation](discourse-analysis-increases-interest-and-participation.md) — related

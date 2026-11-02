@@ -19,7 +19,7 @@ sources:
 # Universal Design for Learning (UDL) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression.
@@ -29,12 +29,14 @@ CAST's framework for designing flexible instruction around learner variability t
 - **Universal Design for Learning framework: three principles for supporting learner variability**: The UDL framework, developed by CAST, is organized around three brain networks and their aligned principles. As the report states, "Those networks are aligned with three principles: provide multiple means of Engagement, Representation, and Action & Expression," with Guidelines and Checkpoints offering implementation suggestions. The report uses UDL as its conceptual framework, grounding its research questions, coding categories, and analysis of how digital math tools can support inclusive mathematics instruction. Each checkpoint is described as grounded in learning sciences research with a supporting bibliography. (McMahon et al. (2024))
 - **Universal Design for Learning as a design lens grounded in learner variability**: The statement grounds LUDIA in CAST's Universal Design for Learning framework, which supports educators in designing learning experiences and environments for the full range of learners, "anticipating and embracing variability from the start, rather than focusing on perceived deficits in learners". CAST states the premise as "there is no average brain. Variability is the dominant feature of the nervous system" and describes three principles — Engagement, Representation, and Action and Expression — as aligning to affective, recognition, and strategic networks, a framing CAST itself calls a simplified model useful for thinking about design rather than a claim about how the brain works. The Guidelines are a lens for finding barriers in existing designs, not a prescription or checklist, and Guidelines 3.0 positions UDL alongside asset-based approaches such as Funds of Knowledge and Disability Studies. (Stark et al. (2026))
 - **Universal Design for Learning: three pillars of multiple means of engagement, representation, and action and expression**: Universal Design for Learning (UDL) is an inclusive pedagogy, inspired by universal design in architecture, that seeks to design learning environments accessible to as many learners as possible. Following its three pillars, "teachers should aim to provide: multiple means of engagement, or motivation, with course material; multiple means of representation... and, multiple means of action and expression, or diverse assessment methods". The study uses UDL as the framework against which faculty awareness and implementation of twenty techniques is assessed. (Gurher Sidhu et al. (2025))
+- **Universal Design for Learning: three principles grounded in cognitive neuroscience**: UDL is defined by the article as composed of three principles: "multiple means of representation", "multiple means of student action and expression", and "multiple means of student engagement". The framework holds that these principles map onto three groups of neural networks — recognition, strategic, and affective — whose interaction creates a model of cognition during learning episodes. The article distinguishes UDL from other universal design adaptations by its cognitive neuroscience foundation and its codification in federal law, and uses it as the training content and measurement frame for the intervention study. (Davies et al. (2013))
 
 ### Claims
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](../claims/equatio-udl-practice-low-baseline-usage.md) [+M]
 - [After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio](../claims/professional-learning-expanded-equatio-use.md) [+M]
 - [Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time](../claims/equatio-time-saver-workflow.md) [+W]
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
+- [UDL instructor training significantly increased students' reported observation of representation-related UDL strategies in intervention sections but not control sections](../claims/udl-training-increases-representation-strategies.md) [+M]
 
 ## Related Products and Programmes
 
@@ -46,6 +48,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)
 - Gurher Sidhu, Fatima Atif, Franz Newland. (2025). "AI is reducing options I had used": exploring faculty perceptions of accessible course design in a ChatGPT world. York University. https://www.yorku.ca
 - Marvin Roski, Ratan Sebastian, Ralph Ewerth, Anett Hoppe, Andreas Nehring. (2024). Learning analytics and the Universal Design for Learning (UDL): A clustering approach. Computers & Education 214 (2024) 105028. https://doi.org/10.1016/j.compedu.2024.105028
+- Davies, P. L., Schelly, C. L., & Spooner, C. L. (2013). Measuring the Effectiveness of Universal Design for Learning Intervention in Postsecondary Education. Journal of Postsecondary Education and Disability, 26(3), 195-220. http://accessproject.colostate.edu/udl
 
 # Universal Design for Learning framework: three principles for supporting learner variability
 

@@ -55,3 +55,5 @@ Baseline check in the quasi-experiment: after the shared first intervention, pre
 - [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — related
 - [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](scp-higher-computational-fluency-gains-than-traditional-drill.md) — related
 - [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related
+- [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
+- [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related

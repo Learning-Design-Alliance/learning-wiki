@@ -51,3 +51,4 @@ ANCOVA on weekly formative quiz scores for three intact class sections (N = 90),
 - [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
+- [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related

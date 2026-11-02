@@ -44,6 +44,7 @@ The article recommends capacity-building that focuses on improving instruction r
 
 - [Policy actions to build collaborative professional capacity through PLCs](plc-supportive-staffing-and-policy-actions.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
 
 ## Examples
 -

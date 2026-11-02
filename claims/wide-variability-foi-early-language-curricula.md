@@ -99,3 +99,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Intervention fidelity was high, with 100% adherence to allocated topic time and 78% of students attending all five lectures](high-fidelity-attendance-metalinguistic-coursework.md) — a narrower finding that bears on this claim
 - [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related
 - [Treatment teachers implemented proportional problem solving instruction with substantially higher fidelity to SBI practices than control teachers](sbi-fidelity-implementation-differences.md) — related
+- [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related

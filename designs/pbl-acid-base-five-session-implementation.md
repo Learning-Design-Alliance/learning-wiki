@@ -44,7 +44,9 @@ An instructional element in which first-year pre-service teachers in five small 
 - [Pbl No Difference Critical Thinking Disposition](../claims/pbl-no-difference-critical-thinking-disposition.md) [~M]
 
 ## Related Designs
+
 - Problem Based Learning
+- [Modified Top Notch series with conversations omitted and problem-scenarios added for cognition-based PBL instruction](modified-top-notch-problem-scenarios.md)
 
 ## Examples
 -

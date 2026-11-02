@@ -57,3 +57,6 @@ Paired Sample t-test within the experimental group (n=29) comparing post-test an
 - [Written corrective feedback reduces grammatical errors in EFL post-test writing](wcf-reduces-grammatical-errors-posttest.md) — related
 - [Written corrective feedback reduces lexical errors in EFL post-test writing](wcf-reduces-lexical-errors-posttest.md) — related
 - [Grammatical accuracy gains from written corrective feedback are retained at delayed post-test, but lexical accuracy gains are not](wcf-retention-grammar-lexical-split.md) — related
+- [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
+- [Learners perceived instructor corrective feedback delivered through Voice Thread as helpful for improving grammar accuracy](online-instructor-feedback-perceived-helpful.md) — related
+- [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related

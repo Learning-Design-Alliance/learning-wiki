@@ -75,3 +75,4 @@ Subgroup analyses for self-directed learning ability (Fig. 4B–D) found no betw
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related
 - [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](heterogeneous-suturing-tools-preclude-meta-analysis.md) — related
+- [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](flipped-course-toeic-gain-exceeds-control.md) — a narrower finding that bears on this claim

@@ -48,6 +48,7 @@ The article recommends that faculty start JiTT in small pieces, using course man
 ## Related Strategies
 
 - [Adopt Blackboard-based blended teaching in universities with faculty training and equipped classrooms](adopt-blackboard-blended-faculty-training-classrooms.md)
+- [Design JiTT web exercises as small clusters of open-ended questions tied to learning outcomes and misconceptions](jitt-open-ended-question-clusters-strategy.md)
 
 ## Examples
 -

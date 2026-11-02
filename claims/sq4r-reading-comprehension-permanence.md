@@ -53,3 +53,4 @@ Permanence test applied to both groups four weeks after the post-test. The artic
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Students taught with smart board support retained more information four weeks after instruction than students taught with the 2005 curriculum](smart-board-higher-retention-four-weeks.md) — related
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
+- [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related

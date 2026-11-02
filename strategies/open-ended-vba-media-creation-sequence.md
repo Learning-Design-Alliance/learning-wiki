@@ -47,6 +47,7 @@ The article describes an open-ended approach in which "Students can bring up var
 
 - [Teach a four-step verbalized problem-solving strategy (identify problem, propose solution, implement, evaluate)](four-step-self-regulated-problem-solving-strategy.md)
 - [Three Act Tasks](three-act-tasks.md)
+- [Adapt TPRS question techniques and prop use for very young learners' limited attention spans](tprs-adaptations-very-young-learners.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Paired-samples t-test within the control class (N=53): pretest mean 58.68, postt
 - [Experimental-group students improved significantly in listening proficiency under the zero class hour model over two months](zero-class-hour-improved-listening-proficiency.md) — related
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — possibly the same claim (merge candidate)
 - [Paired t-tests show a statistically significant pretest-to-posttest increase in analytical thinking skills in all four classes at α = 0.05](cbl-analytical-thinking-significant-paired-t-test.md) — a narrower finding that bears on this claim
+- [Only the experimental group showed a significant pretest-to-posttest change in difference scores](gda-difference-scores-only-experimental-changed.md) — related

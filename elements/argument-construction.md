@@ -82,6 +82,7 @@ Argument construction supports learning because generating and defending a posit
 - **[Structured Academic Controversy](../patterns/structured-academic-controversy.md) (Johnson & Johnson)** — pairs argue an assigned position, reverse positions mid-activity, then synthesize a joint position.
 - **[Debate](../patterns/debate.md) formats in public speaking courses** — timed construction and delivery of claim–evidence–rebuttal cases under explicit rubrics.
 - [Use educational discussion and debate to form ecological and moral convictions](../strategies/discussion-debate-ecological-convictions.md)
+- [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
 
 ## Key Sources
 - Toulmin, S. E. (2003). *The Uses of Argument* (Updated ed.). Cambridge University Press. [doi:10.1017/CBO9780511840005](https://doi.org/10.1017/CBO9780511840005)

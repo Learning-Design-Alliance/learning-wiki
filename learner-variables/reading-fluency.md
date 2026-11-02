@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (76 show a difference, 25 mixed, 18 no difference) · 75 studies (34 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 75 report an effect size · 118 claims rest on one study
+> **Evidence** · 124 claims (80 show a difference, 25 mixed, 19 no difference) · 77 studies (36 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 77 report an effect size · 123 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -159,6 +159,11 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](../claims/positive-attitudes-toward-syntactic-parsing-instruction.md) [+W] — instruction changes it
 - [Timed reading activity significantly improves the reading speed of intermediate EFL learners compared to untimed reading of the same passages](../claims/timed-reading-improves-reading-speed.md) [+M] — instruction changes it
 - [The Edmark Reading Program produced significantly larger gains in estimated oral reading fluency than regular classroom reading instruction in third-grade students with disabilities](../claims/edmark-program-increased-orf-gains-third-grade-disabilities.md) [+M] — instruction changes it
+- [After five weeks of iPad use, the treatment group's reading rate was significantly slower than the control group's, a gap that widened over the study](../claims/ipad-group-slower-reading-rate.md) [+M] — instruction changes it
+- [Control-group students who received no vision-span training show no significant change in reading speed](../claims/control-group-no-speed-change.md) [-M] — instruction changes it
+- [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](../claims/between-group-speed-difference-post-training.md) [+M] — instruction changes it
+- [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](../claims/wpm-gain-39-percent-vision-span.md) [+M] — instruction changes it
+- [Training in expansion of vision span significantly increases the reading speed of EFL undergraduates from pre-test to post-test](../claims/vision-span-training-increases-efl-reading-speed.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.
