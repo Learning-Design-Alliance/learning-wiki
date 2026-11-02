@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**42920 entries** · 0 stable · 42920 in review · 0 drafts
+**42921 entries** · 0 stable · 42921 in review · 0 drafts
 
 ---
 
@@ -9590,6 +9590,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) - Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits
 * [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) - Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services
 * [Doubling recess to two 15-minute periods was followed by increased discipline referrals but improved math achievement](doubled-recess-discipline-referrals-math-achievement.md) - Doubling recess to two 15-minute periods was followed by increased discipline referrals but improved math achievement
+* [Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure](extra-massed-math-practice-no-test-benefit.md) - In one experiment, undergraduates who worked four practice problems of a new mathematics procedure in a single session scored no better a week later than those who worked two (49% vs. 46%), while spreading the same four problems over two sessions did raise scores.
 * [Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level](doubly-latent-multilevel-sem-discipline-effects.md) - Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level
 * [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) - Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task
 * [Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed](oms-download-time-barrier.md) - Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed

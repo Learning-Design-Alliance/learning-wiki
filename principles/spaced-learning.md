@@ -7,8 +7,8 @@ description: "A conditional model relating learner state, activity and subsequen
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-19
+  by: "process:article-ingest"
+  at: 2026-11-02
 sources:
   - id: benjamin-2010
     resource: "https://doi.org/10.1016/j.cogpsych.2010.05.004"
@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (41 for, 38 mixed, 3 against) · 56 studies (28 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 16 of 56 report an effect size · 75 claims rest on one study
+> **Evidence** · 82 claims (41 for, 38 mixed, 3 against) · 58 studies (30 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 58 report an effect size · 74 claims rest on one study
 
 ## Description
 
@@ -269,7 +269,10 @@ Spaced practice trades short-term performance for long-term retention: massed st
 ## Examples
 
 ### Validated
+- **Rohrer & Taylor (2007) mathematics practice study** — In Experiment 1, undergraduates who split four permutation practice problems across two sessions a week apart scored 74% on a test one week after their last problem, against 49% when the same four were worked in one session and 46% when only two were; practice accuracy was about equal across the spaced and massed groups. The shuffling of problem types was a separate experiment (Experiment 2) — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S], [Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure](../claims/extra-massed-math-practice-no-test-benefit.md) [~W].
+<!-- deprecated 2026-11-02 (the permutation problems in Experiment 1 were spaced, not shuffled; rewritten from the article):
 - **Rohrer & Taylor (2007) mathematics practice study** — Learners who practiced permutation problems in a spaced, shuffled arrangement across sessions outperformed massed-practice peers on a delayed test one week later, despite equal or lower immediate performance [Rohrer & Taylor, 2007](https://doi.org/10.1007/s11251-007-9015-8) [+S].
+-->
 
 ### Illustrative
 

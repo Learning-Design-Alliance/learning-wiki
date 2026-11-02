@@ -35,3 +35,6 @@ Evidence filled from Crossref-verified sources, read by an in-session agent (ful
 
 ### 2026-10-13 · ingest · process:wiki-ingest
 Ingested from syn-cepeda-2006-distributed-practice-in-verbal-recall (Distributed practice in verbal recall tasks: A review and quantitative synthesis.) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-02 · ingest · process:article-ingest
+Rohrer & Taylor (2007), The shuffling of mathematics problems improves learning, doi:10.1007/s11251-007-9015-8
