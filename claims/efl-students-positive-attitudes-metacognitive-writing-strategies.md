@@ -46,5 +46,5 @@ Qualitative in-depth interviews with 10 purposively selected EFL secondary stude
 
 ## Related Claims
 - [Some EFL students experience difficulties implementing metacognitive writing strategies and report needing more training time](metacognitive-strategy-implementation-difficulties-efl-writers.md) — related
-- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — a narrower finding that bears on this claim
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — a narrower finding that bears on this claim
 - [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) — a narrower finding that bears on this claim

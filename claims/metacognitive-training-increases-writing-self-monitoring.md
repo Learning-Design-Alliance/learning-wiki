@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress"
-description: "Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress"
+title: "EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress"
+description: "EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress"
 id: metacognitive-training-increases-writing-self-monitoring
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: al-jarrah-2018
     resource: "https://doi.org/10.5539/elt.v11n10p162"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress
+# EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` On monitoring, students reported learning to be more self-reliant, and the article states metacognitive strategies increase students' abilities to monitor their writing processes and progress. [→ Al-Jarrah 2018](#al-jarrah-2018)
+`q2 i?` In interviews after the training, students described becoming more self-reliant in monitoring their writing; the article's statement that the strategies increase monitoring ability rests on these self-reports, with no pre/post measure or comparison group. [→ Al-Jarrah 2018](#al-jarrah-2018)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Al-Jarrah, T. M., Mansor, N., Ab Rashid, R., Bashir, I., & Al-Jarrah, J. M. (201
 
 `q2 · i?` · `qualitative · r2`
 
-Discussion-section finding from the interview study: students described self-questioning and revision techniques for monitoring production and comprehension; the article says this confirms Muchyidin's (2013) findings. No effect size is printed.
+Discussion-section finding from an interview study of 10 Jordanian secondary-school EFL students, all from the group that received the training, interviewed immediately after it: students described self-questioning and revision techniques for monitoring production and comprehension, and the article says this confirms Muchyidin's (2013) findings. The finding is the students' own perception: no monitoring ability was measured before and after, and no comparison group was interviewed, so the study does not show that the training increased monitoring. No effect size is printed.
 
 > "Meanwhile, on monitoring, students showed that they learned to be more self-reliant. Metacognitive strategies increase students’ abilities to monitor their writing processes and progress."
 

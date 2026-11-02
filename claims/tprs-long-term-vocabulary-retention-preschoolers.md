@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later"
-description: "TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later"
+title: "Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group"
+description: "Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group"
 id: tprs-long-term-vocabulary-retention-preschoolers
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: kara-and-eveyik-aydin-2019
     resource: "https://doi.org/10.7575/aiac.alls.v.10n.1p.135"
@@ -28,15 +29,15 @@ sources:
     rigour: 1
 ---
 
-# TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later
+# Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Receptive vocabulary mean scores on delayed posttests remained the same or increased relative to immediate posttests. [→ Kara and Eveyik-Aydin 2019](#kara-and-eveyik-aydin-2019)
-`q2 i?` Productive delayed posttest means showed a slight decrease, yet retention percentages remained high, including 63% production of the hardest item lettuce. [→ Kara and Eveyik-Aydin 2019 (2)](#kara-and-eveyik-aydin-2019-2)
+`q2 i?` Receptive vocabulary means on the delayed posttests were the same as or slightly above the immediate posttests in four of five weeks and slightly lower in one (week 4: 3.00 to 2.95); with a single group and no control, retention cannot be attributed to TPRS alone. [→ Kara and Eveyik-Aydin 2019](#kara-and-eveyik-aydin-2019)
+`q2 i?` Productive delayed posttest means fell slightly in three of five weeks (and rose or held in the other two), yet retention percentages remained high, including 63% production of the hardest item lettuce. [→ Kara and Eveyik-Aydin 2019 (2)](#kara-and-eveyik-aydin-2019-2)
 
 ## Evidence
 
@@ -46,7 +47,7 @@ Ketevan Kara, Evrim Eveyik-Aydın. (2019). Effects of TPRS on Very Young Learner
 
 `q2 · i?` · `causal · r1`
 
-Delayed posttests administered two weeks after each weekly cycle with the same 19 children. The article reports receptive means "remained the same or even increased"; no statistical test was applied.
+Single-group pretest, immediate posttest and delayed posttest design with 19 four-year-olds in one bilingual kindergarten class in Istanbul; no control group. Delayed posttests were given two weeks after each weekly cycle. The article says receptive means "remained the same or even increased", but its Table 1 shows one week where the delayed mean fell slightly (week 4: 3.00 immediate, 2.95 delayed, out of 3); the other four weeks held or rose. No statistical test was applied, and without a comparison group the retention cannot be attributed to TPRS rather than to other exposure or testing.
 
 > "The results presented in Table 1 also confirm the long-term effects of the TPRS treatment on receptive knowledge of L2 vocabulary, as the mean scores remained the same or even increased."
 

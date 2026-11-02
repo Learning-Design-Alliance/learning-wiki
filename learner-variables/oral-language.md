@@ -234,7 +234,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [The 30-week Nuffield Early Language Intervention improved the language skills of children with low language ability, equivalent to about four months of additional progress](../claims/neli-30-week-language-effect.md) [+M] — instruction changes it
 - [Eleventh-grade students taught with the discourse analysis method showed larger pretest-to-posttest gains in use of language skill than the traditionally taught control group](../claims/discourse-analysis-improves-use-of-language.md) [+M] — instruction changes it
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
-- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+M] — instruction changes it
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

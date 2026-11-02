@@ -211,7 +211,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [~M] — instruction changes it
 - [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
 - [Experimental-group learners show significantly higher awareness than control-group learners on both the potency and the evaluative dimensions in pairwise comparisons](../claims/pairwise-dimension-differences-favor-semantic-mapping.md) [+W] — instruction changes it
-- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+M] — instruction changes it
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

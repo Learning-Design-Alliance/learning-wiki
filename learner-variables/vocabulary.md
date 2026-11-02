@@ -225,7 +225,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W] — instruction changes it
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](../claims/sms-outperforms-dictionary-delayed-retention.md) [+M] — instruction changes it
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
-- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+M] — instruction changes it
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
 - [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+M] — instruction changes it
 
 ## Measures

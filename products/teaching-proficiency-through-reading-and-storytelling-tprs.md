@@ -27,7 +27,7 @@ TPRS is a language-teaching method developed by Ray and Seely that uses comprehe
 - [Reading proficiency improved across all performance groups, with low performers reaching Grade 3b reading standards and top performers reaching Grade 6a–7a levels by Cycle 3](../claims/tprs-mtss-reading-proficiency-gains.md) [+W]
 - [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](../claims/tprs-mtss-storytelling-publication-growth.md) [+W]
 - [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+M]
-- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+M]
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W]
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M]
 
 ## Related Products and Programmes

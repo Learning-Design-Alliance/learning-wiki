@@ -44,7 +44,7 @@ The article recommends incorporating metacognitive instruction into writing clas
 
 - [EFL students who received metacognitive-strategy writing training report positive attitudes because the strategies improve their writing and cultivate learning autonomy](../claims/efl-students-positive-attitudes-metacognitive-writing-strategies.md) [+W]
 - [Some EFL students experience difficulties implementing metacognitive writing strategies and report needing more training time](../claims/metacognitive-strategy-implementation-difficulties-efl-writers.md) [~W]
-- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W]
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W]
 - [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](../claims/poor-brainstorming-use-underlining-planning-efl-writers.md) [~W]
 - [Time management is the most overwhelming writing difficulty reported by the EFL students, alongside spelling and grammatical mistakes](../claims/time-management-overwhelming-efl-writing-difficulty.md) [~W]
 

@@ -362,6 +362,13 @@ waves 1–7 in `eval/page-triage/`):
 
 **Housekeeping:**
 
+- **Merge main with `python3 scripts/merge_main.py`, never by hand** (2026-11-02). Every PR commits the
+  same generated files and appends to the same logs, so two branches that each add pages conflict on
+  a dozen files whose content never touched. The script keeps both sides of the append-only logs,
+  rebuilds the generated files from the merged tree, merges README.md around its count block, and
+  stops on anything else, which is a real content conflict for whoever reads both sides. Run it
+  before opening a PR and again before merging one if `main` has moved. `.gitattributes` marks the
+  logs `merge=union` for plain local merges.
 - **Branch lists in prose go stale; run the command.** Every remote ref against `main`:
   `for b in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin); do echo "$(git rev-list --count origin/main..$b) $b"; done | sort -rn`
 - If something merged and the site does not show it, check the `Deploy Docs` run first.

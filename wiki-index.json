@@ -207087,6 +207087,7 @@
 "id":"jigsaw-and-control-both-gain-significantly-pre-to-post",
 "newest_evidence":"2017",
 "path":"claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group",
 "type":"claim"
@@ -243930,13 +243931,14 @@
 "type":"claim"
 },
 {
-"description":"Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress",
+"description":"EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress",
 "evidence_strength":"weak",
 "id":"metacognitive-training-increases-writing-self-monitoring",
 "newest_evidence":"2018",
 "path":"claims/metacognitive-training-increases-writing-self-monitoring.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress",
+"title":"EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress",
 "type":"claim"
 },
 {
@@ -388370,6 +388372,7 @@
 "id":"structural-method-outperforms-contextual-posttest-vocabulary",
 "newest_evidence":"2011",
 "path":"claims/structural-method-outperforms-contextual-posttest-vocabulary.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest",
 "type":"claim"
@@ -421806,13 +421809,14 @@
 "type":"claim"
 },
 {
-"description":"TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later",
+"description":"Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group",
 "evidence_strength":"weak",
 "id":"tprs-long-term-vocabulary-retention-preschoolers",
 "newest_evidence":"2019",
 "path":"claims/tprs-long-term-vocabulary-retention-preschoolers.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later",
+"title":"Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group",
 "type":"claim"
 },
 {

@@ -49,5 +49,5 @@ Pretest-treatment-immediate posttest study with 19 four-year-olds in a Turkish k
 - [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
-- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](tprs-long-term-vocabulary-retention-preschoolers.md) — related
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](tprs-long-term-vocabulary-retention-preschoolers.md) — related
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](tprs-receptive-outperforms-productive-preschoolers.md) — related

@@ -296,7 +296,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
 - [In the experimental group, 9% of pupils reached the 4th level in self-analysis, self-goal-setting and self-planning, 15% in self-organizing and 5% in self-assessing, while self-correction was the hardest skill to achieve](../claims/experimental-group-level-gains-self-correction-hardest.md) [+M] — instruction changes it
 - [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](../claims/reciprocity-shifted-toward-self-regulation.md) [+M] — instruction changes it
-- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+M] — instruction changes it
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

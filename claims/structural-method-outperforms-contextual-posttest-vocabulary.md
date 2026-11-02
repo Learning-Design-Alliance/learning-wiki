@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-02
 sources:
   - id: malik-behlol-mohammad-munir-kaini-2011
     resource: "http://www.ccsenet.org/elt"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the posttest, the structural method group (M = 66.82) scored significantly higher than the contextual method group (M = 55.75), t(54) = 3.302, p = .002. [→ Malik Behlol & Mohammad Munir Kaini 2011](#malik-behlol-mohammad-munir-kaini-2011)

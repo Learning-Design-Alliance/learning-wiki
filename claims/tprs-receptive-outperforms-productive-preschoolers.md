@@ -50,5 +50,5 @@ Comparison of receptive and productive means in Table 1 across all five weekly c
 - [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
-- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](tprs-long-term-vocabulary-retention-preschoolers.md) — related
+- [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](tprs-long-term-vocabulary-retention-preschoolers.md) — related
 - [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related

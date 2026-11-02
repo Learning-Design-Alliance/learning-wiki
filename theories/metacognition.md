@@ -535,7 +535,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students' self-assessed performance on the main test was higher than their actual scores indicated](../claims/student-self-assessment-exceeds-actual-performance.md) [-W]
 - [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](../claims/meeting-deadlines-self-assessment-calibration.md) [~W]
 - [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](../claims/poor-brainstorming-use-underlining-planning-efl-writers.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
-- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
 
 ## The evidence by question
 
