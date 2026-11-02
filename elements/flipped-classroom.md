@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (20 for, 19 mixed, 5 against) · 25 studies (11 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 25 report an effect size · 43 claims rest on one study
+> **Evidence** · 46 claims (21 for, 20 mixed, 5 against) · 27 studies (13 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 27 report an effect size · 45 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -68,6 +68,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The MathsFlip effect on KS2 maths for FSM-eligible pupils was slightly higher than for all pupils but not statistically significant](../claims/mathsflip-fsm-subgroup-effect.md) [~W]
 - [Lesson observations indicated MathsFlip was delivered well, with class behaviour reflecting key components of a flipped learning approach](../claims/mathsflip-fidelity-observations-hots.md) [+W]
 - [No significant difference in teacher–student interaction ratings between the flipped and conventional OCW classroom groups](../claims/no-interaction-difference-flipped-conventional-ocw.md) [-W]
+- [Both flipped and nonflipped ESL/EFL students showed statistically significant increases in self-reported grammar confidence over the semester](../claims/grammar-confidence-increased-both-groups.md) [~W]
+- [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](../claims/2010-posttest-means-experimental-vs-control.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

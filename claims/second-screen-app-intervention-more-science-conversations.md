@@ -52,3 +52,4 @@ Digital Promise field study, a quasi-experimental study with an intervention and
 - [Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing than comparison children](app-child-initiated-science-conversations-higher.md) — related
 - [Intervention families had a larger proportion of science-related conversations than comparison families, most strongly after episode viewing (64% vs 32%)](app-higher-proportion-science-related-conversations.md) — related
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](app-promotes-question-and-check-talk-moves.md) — related
+- [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](peg-cat-parent-confidence-and-attitude-gains.md) — related

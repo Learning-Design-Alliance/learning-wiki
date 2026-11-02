@@ -64,7 +64,8 @@ Transfer-appropriate processing holds that performance is best when initial lear
 - 
 
 ## Examples
--
+
+- [Adapt assessment formats to preschoolers' incomplete psychomotor skills: cut-and-paste, matching, and play-dough tasks](../strategies/cut-paste-matching-assessment-preschool.md)
 
 ## Key Sources
 - Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9

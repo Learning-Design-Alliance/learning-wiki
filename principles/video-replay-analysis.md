@@ -179,6 +179,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 - [Use immediate video tape playback to give new instructors insight into their teaching errors](../strategies/immediate-video-tape-playback-instructor-training.md)
 - [Adjust the fluency workshop by removing the marking-pauses activity for conversational dialogues and allocating structured class time for reflection on role-play recordings](../strategies/fluency-workshop-adjustments-marking-pauses-reflection.md)
+- [Combine mentoring, video/audio self-evaluation, and iterative target-setting cycles to change classroom talk](../strategies/mentoring-video-iterative-cycles-classroom-talk.md)
 
 ## Key Sources
 - Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.992905](https://doi.org/10.1080/09500782.2014.992905)

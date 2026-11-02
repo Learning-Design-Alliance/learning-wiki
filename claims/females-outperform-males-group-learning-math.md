@@ -66,3 +66,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [A training programme consolidating process training and task analysis improved maths achievement of female pupils with learning disorders more than ordinary teaching in KSA](process-task-analysis-programme-improves-maths-achievement-learning-disorders.md) — related
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related

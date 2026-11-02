@@ -78,3 +78,4 @@ Method comparison within the same secondary review. The authors speculated that 
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related
 - [Teaching electrochemical cells via STAD cooperative learning combined with models raises undergraduate achievement more than STAD alone or traditional teaching](stad-with-models-beats-stad-and-traditional-electrochemical-cells.md) — a narrower finding that bears on this claim
 - [Evidence on cooperative learning in Asian contexts is mixed relative to Western findings](cooperative-learning-asian-context-mixed-evidence.md) — a narrower finding that bears on this claim
+- [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](cooperative-learning-literature-more-effective.md) — related

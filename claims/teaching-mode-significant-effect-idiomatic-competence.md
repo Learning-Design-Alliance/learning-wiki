@@ -48,3 +48,4 @@ Quasi-experimental study of 47 Iranian language learners at two institutes rando
 - [Role-play was the most effective idiom-teaching mode, with effectiveness descending through movie, sentence-use, and definition modes](role-play-most-effective-idiom-teaching-mode.md) — a narrower finding that bears on this claim
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [Learning mode had a statistically significant overall effect on achievement test scores in the three-treatment experiment](anova-significant-mode-effect-achievement-ignou.md) — related

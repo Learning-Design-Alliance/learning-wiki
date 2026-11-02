@@ -62,3 +62,5 @@ Independent-samples t-test on post-test scores of the male and female Telegram e
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [The article reports a significant mediating effect of gender on the role of sight translation in reading ability acquisition, while its own printed posttest means for females and males are nearly identical](gender-mediating-effect-sight-translation-reading.md) — related
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
+- [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — a narrower finding that bears on this claim

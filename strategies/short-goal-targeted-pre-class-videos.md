@@ -55,6 +55,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 - [Design and teaching recommendations for CAMI-based music appreciation instruction](cami-design-and-teaching-recommendations.md)
+- [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 
 ## Examples
 -

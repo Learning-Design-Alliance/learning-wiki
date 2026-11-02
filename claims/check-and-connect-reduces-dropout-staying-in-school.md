@@ -78,3 +78,4 @@ Replication RCT with 144 ninth-graders with emotional or behavioral disabilities
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
 - [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — related
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
+- [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related

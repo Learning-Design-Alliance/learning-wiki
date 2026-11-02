@@ -50,3 +50,4 @@ In the same randomized experiment, retention of the eight lightning-formation st
 - [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
+- [The article reports that students taught with animated instructional material showed retention ability beyond those taught without it](animated-material-retention-advantage-bauchi.md) — related

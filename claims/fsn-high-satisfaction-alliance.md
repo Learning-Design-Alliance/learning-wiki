@@ -50,3 +50,4 @@ Process measures collected from intervention-condition participants at the end o
 - [First Step Next reduces relational aggression and child-teacher conflict in at-risk preschoolers](fsn-relational-aggression-teacher-conflict-reduction.md) — related
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — related
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
+- [Teachers rated the CSC coaching as highly satisfactory (TCES total M = 89.92)](high-teacher-satisfaction-csc-coaching.md) — related

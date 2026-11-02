@@ -68,3 +68,4 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [University EFL students taught with VSSPlus significantly outperformed students taught with VSS on a post vocabulary achievement test](vssplus-outperformed-vss-post-vat.md) — related
 - [Computer-based audio gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](audio-gloss-improves-reading-comprehension.md) — related
 - [Non-CALL marginal L2 gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](marginal-gloss-improves-reading-comprehension.md) — related
+- [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](multimedia-vocabulary-effectiveness-reported.md) — related

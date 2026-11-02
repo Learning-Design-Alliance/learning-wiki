@@ -50,3 +50,5 @@ Paired-samples t-test within the control group (n=40); the article reports the p
 ## Related Claims
 - [Conventional curriculum instruction also produced significant pretest-posttest gains in verbal skills and reductions in speech anxiety](conventional-instruction-also-improves-verbal-skills-and-anxiety.md) — related
 - [The experimental group's grammar scores rose significantly from pretest to posttest under TBLT](tblt-within-group-grammar-gain.md) — related
+- [A significant group-by-time interaction shows grammar gains over the semester occurred only for the flipped groups](flipped-by-time-interaction-grammar-gains.md) — reports the opposite
+- [Perceived grammar-skill improvement did not differ between flipped and nonflipped students, and the confidence change was larger in the control group](perceived-grammar-skills-no-group-difference.md) — related

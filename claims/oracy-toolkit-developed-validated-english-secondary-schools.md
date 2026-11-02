@@ -47,3 +47,4 @@ The article reports development and validation of the Toolkit 'with children and
 
 ## Related Claims
 - [No comparable teacher-friendly instrument for assessing oracy existed before the Cambridge Oracy Assessment Toolkit](no-comparable-teacher-friendly-oracy-instrument.md) — related
+- [The prototype Oracy Assessment Toolkit gave a tentative indication that the intervention positively impacted students' oracy skills](oracy-assessment-toolkit-tentative-positive-impact.md) — related

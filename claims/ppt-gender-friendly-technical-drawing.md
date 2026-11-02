@@ -60,3 +60,4 @@ ANCOVA on the 45-student PPT group with pretest as covariate compared male and f
 - [No significant difference was found in drawing-skill acquisition between male and female students taught with two- and three-dimensional visual objects](no-gender-difference-drawing-visual-objects.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
+- [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related

@@ -65,6 +65,7 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 - [Encourage Active Learning](../principles/active-learning.md) — cooperation is a primary vehicle for active engagement
 - [Encourage Contacts Between Students and Faculty](contacts-between-students-and-faculty.md) — cooperative structures create natural interaction channels
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
+- [Heterogeneous team grouping with peer tutoring within CBI lessons](heterogeneous-team-grouping-peer-tutoring-cbi.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the lowest-overhead cooperative format

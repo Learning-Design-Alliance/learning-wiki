@@ -48,3 +48,4 @@ One-way ANCOVA comparing IEG (n = 29) and AEG (n = 28) grammar posttest scores w
 - [EFL learners receiving proactive intensive FFI significantly outperform no-FFI control learners on grammatical knowledge](ffi-groups-outperform-control-grammar.md) — related
 - [Proactive intensive FFI significantly improves the grammatical knowledge of both intermediate and advanced Iranian EFL learners](proactive-intensive-ffi-improves-grammar-intermediate-advanced.md) — related
 - [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — a broader claim this one bears on
+- [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related

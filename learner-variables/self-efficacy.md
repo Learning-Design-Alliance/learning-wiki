@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (168 show a difference, 31 mixed, 24 no difference) · 178 studies (58 associational, 45 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 178 report an effect size · 219 claims rest on one study
+> **Evidence** · 224 claims (168 show a difference, 32 mixed, 24 no difference) · 179 studies (59 associational, 45 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 179 report an effect size · 220 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -254,6 +254,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers perceived improved communication between tutoring pairs, with Year 7 students showing more confidence in communication](../claims/peer-tutoring-improved-pair-communication.md) [+M] — instruction changes it
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](../claims/reading-behaviour-proxy-indicators-confidence-vocabulary.md) [+M] — instruction changes it
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](../claims/switch-on-staff-positive-perceptions.md) [+M] — instruction changes it
+- [Teacher self-efficacy did not predict adherence, and higher Student Engagement self-efficacy predicted lower growth in competence](../claims/self-efficacy-not-predicting-integrity.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

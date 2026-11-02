@@ -48,3 +48,4 @@ Systematic review of sensory dimensions across included studies. The review repo
 - [Environmental design is the most used presence-enhancement method (89.7% of studies), followed by multimodal sensory and avatar design (57.7% each)](environment-design-dominant-presence-method.md) — related
 - [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related
 - [Visual dominance predominates in both VPT and FT schoolchildren, and sensory dominance does not differ between groups](visual-dominance-both-groups-vpt-ft.md) — related
+- [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](kinesthetic-learners-worse-off-experiment-class.md) — related

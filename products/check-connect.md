@@ -19,13 +19,14 @@ sources:
 # Check & Connect
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 against) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Check & Connect is a dropout-prevention programme developed and implemented through monitored student performance, individualized mentoring, case management, and coordinated support from school, family, and community partners.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Check & Connect theory of action: student engagement as the primary mediator linking mentoring to school completion**: The article describes a theory of action in which trained mentors' persistent support improves students' behavioral, affective, and cognitive engagement, which improves interim academic outcomes (persistence, course performance, credit accrual, achievement) and ultimately on-time graduation. Engagement is described as "a primary mediator for promoting school completion" and as multidimensional, spanning behavioral, affective, and cognitive engagement. The framework draws on research on resiliency, systems theory, cognitive-behavioral theory, and intrinsic motivation, and is depicted in Figure 1 with some cyclical interrelationships. (Heppen et al. (2017))
 
 ### Claims
 - [Check & Connect shows no significant effect on completion by one year after expected graduation (supplemental fifth-year finding)](../claims/check-and-connect-fifth-year-completion-null.md) [-W]
@@ -33,14 +34,15 @@ Check & Connect is a dropout-prevention programme developed and implemented thro
 - [Check & Connect shows no discernible effect on on-time high school completion](../claims/check-and-connect-no-effect-on-time-completion.md) [-W]
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](../claims/check-and-connect-reduces-dropout-staying-in-school.md) [+W]
 - [Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)](../claims/check-and-connect-still-enrolled-supplemental.md) [+W]
+- [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](../claims/check-connect-no-impact-general-education-at-risk.md) [-M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Dropout Prevention intervention report: Check & Connect. (2015). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/78
-
 <!-- merged 2026-10-10 from elements/check-and-connect-program ("Check & Connect: monitored mentoring dropout-prevention program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Heppen, J. B., Zeiser, K., Holtzman, D. J., O'Cummings, M., Christenson, S., & Pohl, A. (2017). Efficacy of the Check & Connect Mentoring Program for At-Risk General Education High School Students. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2017.1318990
 
 # Check & Connect: monitored mentoring dropout-prevention program
 

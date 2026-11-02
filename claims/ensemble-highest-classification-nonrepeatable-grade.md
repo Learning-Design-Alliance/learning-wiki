@@ -50,3 +50,4 @@ Classification comparison for the non-repeatable grade outcome using an averaged
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
 - [Optimal ensemble threshold value is 0.7, with accuracy declining beyond it](ensemble-threshold-0-7-optimal.md) — reports the opposite
+- [ROC curve analysis placed all gain-score curves above the diagonal, separating experimental from control children](roc-curves-above-diagonal-ct-gains.md) — related

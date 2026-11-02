@@ -45,6 +45,7 @@ The report's implications section recommends actions for intermediaries and scho
 - [Structure R&D teams for student critical mass, processing time, and collaboration to dispel intimidation](student-critical-mass-structuring.md)
 - [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
+- [Build school staff capacity to support student leaders and sustain cyber leader networks across schools](staff-capacity-and-cyber-leader-networks-strategy.md)
 
 ## Examples
 -

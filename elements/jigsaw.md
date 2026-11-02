@@ -13,7 +13,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 3 studies (2 causal, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 mixed, 1 against) · 4 studies (2 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
@@ -27,6 +27,7 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [-M]
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](../claims/jigsaw-iv-vs-ii-no-posttest-difference.md) [~W]
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](../claims/no-gender-difference-posttest-jigsaw.md) [~W]
 
 ## Examples
 

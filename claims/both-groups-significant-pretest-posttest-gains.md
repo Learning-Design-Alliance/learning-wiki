@@ -57,3 +57,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Both groups improved significantly from pretest to posttest on the BLAT](blat-within-group-gains-both-groups.md) — possibly the same claim (merge candidate)
 - [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — a narrower finding that bears on this claim
 - [Students in both the experimental and control groups improved on all four outcomes from pretest to posttest](both-groups-pre-to-post-gains.md) — related
+- [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related

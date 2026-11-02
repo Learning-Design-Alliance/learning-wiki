@@ -73,3 +73,4 @@ Mann-Whitney test on questionnaire pretest scores; mean ranks were 42.04 (experi
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — possibly the same claim (merge candidate)
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [TBLT increased EFL junior high students' motivation significantly more than traditional instruction](tblt-increases-motivation-efl-junior-high.md) — related
+- [The experimental and control groups were statistically homogeneous in speaking ability before the treatment](groups-homogeneous-speaking-pretest.md) — related

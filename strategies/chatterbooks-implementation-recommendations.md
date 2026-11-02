@@ -48,6 +48,7 @@ The report's key conclusions set out what would need to change for future implem
 - [Adapt DLG materials and routines to include students with special educational needs](dlg-special-education-adaptation-strategies.md)
 - [Dialogic Reading](dialogic_reading.md)
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
+- [Implement ReflectED as a whole-school programme and allow more than one year for it to become embedded](reflected-whole-school-implementation-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Paired-samples t-test of the control group's (n = 25) pretest and posttest score
 - [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](cl-gain-significant-control-null.md) — possibly the same claim (merge candidate)
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — reports the opposite
 - [The experimental group showed a statistically significant vocabulary gain from pretest to posttest under the flash card treatment](vfc-experimental-group-significant-pre-post-gain.md) — related
+- [Explicit instruction alone produced no statistically significant pretest-to-posttest gain in conditional sentences (p=.18)](explicit-instruction-no-significant-gain-conditionals.md) — related

@@ -56,3 +56,4 @@ Ponniah (2011) experiment reported in the review: adult ESL experimental subject
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
 - [Half the students could produce simple two- or three-word Chinese sentences by the end of the evaluation, a skill developed through Environment 1](environment-1-simple-sentence-production.md) — related
 - [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related
+- [Students in experimental classrooms showed consistent pre-post gains on curriculum-based story vocabulary tests](story-based-prepost-gains-grades-3-5.md) — related

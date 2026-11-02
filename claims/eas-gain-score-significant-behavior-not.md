@@ -68,3 +68,4 @@ Same gain-score analysis on the behavior sub-scale. The article reports "no sign
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — reports the opposite
+- [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related

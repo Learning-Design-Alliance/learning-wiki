@@ -55,3 +55,6 @@ ANCOVA of posttest scores by gender, with pretest as covariate, over all 120 stu
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
+- [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
+- [Gender was a statistically significant source of variance in passive-voice post-test achievement](gender-significant-grammar-achievement.md) — related
+- [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related

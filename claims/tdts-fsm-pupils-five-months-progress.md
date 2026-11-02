@@ -75,3 +75,5 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](rti-subgroup-effects-fsm-boys-not-secure.md) — related
+- [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
+- [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related

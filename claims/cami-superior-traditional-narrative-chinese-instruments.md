@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-02
 sources:
   - id: lou-2011
     resource: "https://eric.ed.gov/?id=EJ926553"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-test scores of the CAMI experimental group were significantly superior to those of the traditional narrative teaching control group after ANCOVA adjustment for pre-test scores. [→ Lou 2011](#lou-2011)
@@ -53,3 +54,4 @@ Quasi-experimental pretest-posttest non-equivalent control group study with 228 
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
 - [Multiple-intelligences-based science instruction produced significantly higher post-test achievement than traditional instruction in a quasi-experiment with fifth graders](mi-instruction-higher-science-achievement-quasi-experiment.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
+- [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related

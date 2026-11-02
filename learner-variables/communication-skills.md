@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (80 show a difference, 24 mixed, 20 no difference) · 101 studies (29 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 17 of 101 report an effect size · 122 claims rest on one study
+> **Evidence** · 128 claims (84 show a difference, 24 mixed, 20 no difference) · 104 studies (32 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 17 of 104 report an effect size · 126 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -165,6 +165,10 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](../claims/cl-interviews-anxiety-participation.md) [+W] — instruction changes it
 - [LLLI exposure in preschool produced no statistically significant main effects on kindergarten expressive vocabulary, decoding, or passage comprehension](../claims/llli-no-main-effect-kindergarten-outcomes.md) [-M] — instruction changes it
 - [Head Start's impacts on receptive vocabulary are larger in urban than rural communities, while impacts on oral comprehension are larger in rural communities](../claims/urban-rural-moderation-of-head-start-impacts.md) [~M] — instruction changes it
+- [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](../claims/oct-61-percent-improved.md) [+M] — instruction changes it
+- [A four-week CoRT BREADTH training program was followed by statistically significant pre-to-post gains in university students' communication skills](../claims/cort-breadth-improves-communication-skills-pre-post.md) [+M] — instruction changes it
+- [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](../claims/oct-post-task-outperformed-control.md) [+M] — instruction changes it
+- [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](../claims/robotics-social-skills-interpretation.md) [+W] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

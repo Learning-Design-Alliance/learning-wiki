@@ -57,3 +57,4 @@ Mediation covariate path in the 213-participant experiment; self-efficacy was me
 - [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](correctness-confidence-did-not-predict-recall.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
+- [Teacher self-efficacy did not predict adherence, and higher Student Engagement self-efficacy predicted lower growth in competence](self-efficacy-not-predicting-integrity.md) — related

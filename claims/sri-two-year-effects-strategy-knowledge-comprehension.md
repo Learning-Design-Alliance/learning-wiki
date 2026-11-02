@@ -66,3 +66,4 @@ The abstract states that at the end of Grade 4 "there were also positive interve
 ## Related Claims
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](sri-implementation-observations-modeling-evaluation.md) — related
 - [The SRI program produced a statistically significant positive effect on knowledge of reading strategies after one year of intervention in Grade 3](sri-positive-effect-strategy-knowledge-grade-3.md) — related
+- [The intervention's advantage over control grew with grade level, though control students outperformed experimental students in grade 3 Reading](treatment-grade-interaction-magnified-advantage.md) — related

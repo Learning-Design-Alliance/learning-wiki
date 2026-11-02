@@ -58,3 +58,4 @@ Sub-group analyses of the same school-led RCT using the same effect-size calcula
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](rti-subgroup-effects-fsm-boys-not-secure.md) — related
+- [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related

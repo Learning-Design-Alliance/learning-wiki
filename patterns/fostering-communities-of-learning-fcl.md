@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (16 for, 15 mixed) · 45 studies (13 quant-synthesis, 12 review, 10 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 45 report an effect size · 20 claims rest on one study
+> **Evidence** · 36 claims (20 for, 16 mixed) · 48 studies (13 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 48 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,9 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — (not about this page) carried over from the merged jigsaw page, where it was listed as contradicting. Its studies are list-recall experiments on memory capacity; none tests instruction, peer teaching or how large a subtopic should be.
 - [In a two-hour randomized experiment, sixth graders in a jigsaw condition did not outperform those in an individualistic condition on a mathematics learning test](../claims/jigsaw-vs-individualistic-null-math-e1.md) [~W] — attached 2026-10-25 from Arnaud Stanczak et al. (2022), which proposed "The classical three-step jigsaw procedure: jigsaw groups on subtopics, expert groups, then teaching back to the jigsaw group"; tests this page's relationship.
 - [Fourth graders taught science with the Jigsaw strategy acquired more scientific concepts than peers taught the traditional way](../claims/jigsaw-improves-scientific-concept-acquisition-fourth-grade.md) [+W] — attached 2026-11-01 from Dr. Qaseem Mohammad Salim Hamadneh (2017), which proposed "Jigsaw cooperative learning: expert-part groups each master a content part and teach it back to build the full picture"; tests this page's relationship.
+- [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](../claims/jigsaw-higher-achievement-science-within-time.md) [+W] — attached 2026-11-02 from Hakkı Yapıcı (2016), which proposed "Jigsaw implementation pattern: home groups, expert subtopics, and peer teaching within a five-week unit"; tests this page's relationship.
+- [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](../claims/jigsaw-better-retention-eleven-weeks.md) [+W] — attached 2026-11-02 from Hakkı Yapıcı (2016), which proposed "Jigsaw implementation pattern: home groups, expert subtopics, and peer teaching within a five-week unit"; tests this page's relationship.
+- [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](../claims/jigsaw-outperforms-traditional-preschool-sense-organs.md) [+W] — attached 2026-11-02 from Nilüfer Okur Akçay (2016), which proposed "Jigsaw structure for preschoolers: five-person basic groups, five expert topics, expert groups, then return and joint product"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -137,6 +140,8 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](../claims/jigsaw-iv-significant-pre-post-gain.md) [~W]
 - [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](../claims/jigsaw-group-opinions-expert-roles-and-drawbacks.md) [~W]
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
+- [Most experiment students judged reciprocal teaching more effective than their previous comprehension activities, citing ease, effectiveness and fun](../claims/student-opinions-reciprocal-teaching-effectiveness.md) [~W]
+- [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](../claims/jigsaw-opinions-erzurum-7th-grade.md) [+W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

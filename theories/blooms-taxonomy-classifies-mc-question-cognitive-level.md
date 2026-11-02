@@ -51,6 +51,7 @@ The article uses Bloom's Taxonomy as the classification scheme for the cognitive
 ## Examples
 
 - [TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric](../products/tsmtdf-form-for-determining-objective-oriented-taxonomy-strategy-and-method-techniques-wit.md)
+- [Researcher-developed 65-item Academic Achievement Test](../products/researcher-developed-65-item-academic-achievement-test.md)
 
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120

@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 441 claims (246 show a difference, 93 mixed, 102 no difference) · 293 studies (151 associational, 88 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 293 report an effect size · 433 claims rest on one study
+> **Evidence** · 445 claims (246 show a difference, 94 mixed, 105 no difference) · 297 studies (151 associational, 92 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 297 report an effect size · 437 claims rest on one study
 
 ## How to read this page
 
@@ -480,6 +480,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Boys in the treatment group improved BNST results at both post-tests compared with boys in the control group](../claims/wm-training-boys-bnst-improved-t2-and-t3.md) [+M] — an instructional effect differs by group
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](../claims/gender-differences-english-app-usage.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](../claims/male-outperform-female-tblt-vocabulary.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](../claims/female-students-significantly-higher-experiment-group.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](../claims/gender-no-effect-stad-physics-retention.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Post-training communication skills did not differ significantly between male and female participants](../claims/cort-breadth-no-sex-difference-communication.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The teaching method by gender interaction on chemistry achievement was not significant](../claims/no-method-gender-interaction-chemistry-achievement.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

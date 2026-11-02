@@ -47,3 +47,4 @@ Attitude Scale Toward Mobile Learning (45 items, four factors, Cronbach's alpha 
 ## Related Claims
 - [Attitude toward science and self-belief show no significant change in either condition](no-change-attitude-self-belief.md) — related
 - [Intervention and control groups did not differ significantly in attitudes towards statistics at pre-test](pbl-statistics-attitude-no-pretest-difference.md) — related
+- [Attitudes towards the teacher did not change notably in either group during the semester](teacher-attitude-no-change.md) — related

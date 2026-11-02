@@ -54,3 +54,4 @@ Descriptive analysis (Table 7) of post-treatment drawing scores by gender within
 - [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](vtm-arabic-oral-skills-no-gender-effect.md) — related
+- [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 108 claims (44 for, 60 mixed, 4 against) · 84 studies (52 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 84 report an effect size · 99 claims rest on one study
+> **Evidence** · 109 claims (45 for, 60 mixed, 4 against) · 85 studies (53 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 85 report an effect size · 100 claims rest on one study
 
 ## Description and scope
 
@@ -173,6 +173,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [The benefit of fine art integration was greatest for Powers and smallest for Perimeter, a topic the authors note is already visual by nature](../claims/art-integration-effect-varies-by-topic-visuality.md) [~W]
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]
+- [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](../claims/multimedia-vocabulary-effectiveness-reported.md) [+W]
 
 ## Examples
 

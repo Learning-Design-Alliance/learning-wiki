@@ -52,3 +52,4 @@ Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (
 - [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
+- [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — reports the opposite

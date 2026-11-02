@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 9 studies (6 causal, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 10 studies (6 causal, 2 quant-synthesis, 2 associational), `q1`–`q4` · 1 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -62,6 +62,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the knowledge level of the cognitive domain](../claims/peer-tutoring-knowledge-level-achievement.md) [+W]
+- [Final year paramedic students who participated as peer teachers in a pilot PAL program obtained higher final clinical examination marks than randomly selected non-PAL peers in both 2011 and 2012](../claims/pal-peer-teachers-higher-clinical-exam-marks-paramedic.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

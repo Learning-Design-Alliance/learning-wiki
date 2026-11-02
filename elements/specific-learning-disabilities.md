@@ -60,7 +60,9 @@ Because a specific learning disability affects one narrow academic area rather t
 ## Related Elements
 
 ## Examples
+
 A single struggling student can often be understood through more than one theoretical lens, each suggesting a different intervention. Consider a tenth-grader who adds two-digit numbers without carrying (42 + 59 = "911" rather than 101), correctly on some problems and not others: a [Behaviorism](../theories/behaviorism.md) lens suggests the incorrect strategy has simply been intermittently reinforced by occasional correct answers, so instructional credit should shift toward showing correct carrying work, not just the final answer; a [Metacognition](../theories/metacognition.md) lens suggests the student is responding too impulsively and not reflectively enough (see [Cognitive Styles](../principles/cognitive-styles.md)), so having the student "think aloud" through each problem may help; and a [Self-Regulated Learning](../theories/self-regulated-learning.md)/sociocultural lens suggests the student has learned the correct procedure but not consolidated it without support, calling for mentored practice within the student's zone of proximal development rather than more independent repetition.
+- [DIET-level orientation to help teachers identify and combat learning disabilities early](../strategies/diet-level-orientation-ld-awareness.md)
 
 ## Key Sources
 - National Institute of Neurological Disorders and Stroke. (2016). *Dyslexia information page*.

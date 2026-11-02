@@ -65,3 +65,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
+- [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related

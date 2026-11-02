@@ -50,3 +50,4 @@ Scheffe multiple-comparison test on retention scores of the experimental group. 
 ## Related Claims
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — a broader claim this one bears on
 - [Among reform-based instruction students, visual learners achieved significantly higher mathematics scores than tactile learners](visual-learners-highest-achievement-reform-based.md) — related
+- [Auditory learners are the highest scorers under both teaching styles but gain no significant benefit from the experiment format](auditory-learners-highest-scorers-no-experiment-gain.md) — reports the opposite

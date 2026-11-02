@@ -50,3 +50,4 @@ Quasi-experimental study of pre-clerkship medical students in a Chinese clinical
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — reports the opposite
 - [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](simulation-improves-biomedical-skills-learning-curve.md) — related
+- [The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation](od3r-increases-practical-skills.md) — related

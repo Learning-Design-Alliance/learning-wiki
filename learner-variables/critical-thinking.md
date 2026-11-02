@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (98 show a difference, 26 mixed, 15 no difference) · 96 studies (39 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 19 of 96 report an effect size · 137 claims rest on one study
+> **Evidence** · 141 claims (99 show a difference, 27 mixed, 15 no difference) · 97 studies (40 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 97 report an effect size · 139 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -179,6 +179,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Critical thinking skills and problem solving skills are highly positively and significantly correlated in preservice elementary teachers](../claims/cts-pss-high-positive-correlation-preservice-teachers.md) [+M] — learners who differ on it differ in outcomes
 - [Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques scored higher than traditionally taught students on pretest-adjusted posttests of global warming knowledge, awareness, decreasing behavior and critical thinking, except in the deduction aspect](../claims/fnt-metacognitive-outperforms-traditional-global-warming.md) [~M] — instruction changes it
 - [POGIL instruction produces significantly higher posttest critical thinking skills than traditional lecture among preservice elementary teachers](../claims/pogil-raises-posttest-critical-thinking-preservice-elementary-teachers.md) [+M] — instruction changes it
+- [The effect of the integrated approach on critical thinking differed between the two universities (three-way interaction)](../claims/integrated-approach-critical-thinking-school-interaction.md) [~W] — instruction changes it
+- [The integrated approach produced significantly greater critical thinking skill improvement than the conventional method at both universities](../claims/integrated-approach-critical-thinking-improvement.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

@@ -54,3 +54,4 @@ Quasi-experiment with 38 intermediate-level university EFL students: treatment g
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
+- [Teaching the textual metafunction significantly improved Iranian EFL learners' essay coherence and cohesion ratings compared with essay-writing instruction alone](textual-metafunction-instruction-improves-efl-writing.md) — related

@@ -71,3 +71,4 @@ Bonferroni tests on the retention test showed all three experimental groups sign
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — a narrower finding that bears on this claim
+- [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related

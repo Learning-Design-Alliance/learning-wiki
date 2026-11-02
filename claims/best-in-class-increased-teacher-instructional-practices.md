@@ -50,3 +50,4 @@ Multisite cluster randomized trial of 186 early childhood teachers (92 BEST in C
 - [BEST in CLASS improved observed classroom quality on all three CLASS domains, with effect sizes .50 or larger](best-in-class-improved-classroom-quality.md) — related
 - [The treatment effect on social skills was moderated by a significant Condition × Pretest × State interaction, significant only in State A](social-skills-condition-pretest-state-interaction.md) — related
 - [BEST in CLASS raised teacher self-efficacy on all four TEBS subscales, with the Maintaining Positive Classroom Climate effect larger for teachers with lower pretest self-efficacy](best-in-class-raised-tebs-self-efficacy.md) — related
+- [Child problem behavior was not associated with teacher implementation of BEST in CLASS](child-problem-behavior-null-implementation.md) — related

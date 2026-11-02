@@ -48,3 +48,4 @@ Post-test only comparison on the 16-item Student Opinion Scale (reliability 0,94
 - [Control group students valued laboratory group work but also reported boredom with the number and simplicity of experiments](control-group-opinions-groupwork-benefits-drawbacks.md) — related
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [The Jigsaw and control groups differed significantly in scientific process skills before treatment](spst-pretest-group-difference.md) — related
+- [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](jigsaw-opinions-erzurum-7th-grade.md) — related

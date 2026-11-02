@@ -53,3 +53,6 @@ Quasi-experimental nonequivalent-groups study of 28 fourth graders (control n = 
 - [Posttest accuracy scores did not differ significantly between the treatment and control groups](posttest-accuracy-no-group-difference.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
 - [Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations](alternative-ac-grouping-no-added-benefit.md) — reports the opposite
+- [ARTS treatment outperformed standard instruction in accuracy and fluency gains in the online-school deployment](arts-outperforms-standard-instruction-multiplication.md) — reports the opposite
+- [Third graders using ARTS mastered basic multiplication facts in about two hours with large pretest-to-posttest gains](arts-third-graders-multiplication-two-hours.md) — related
+- [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related

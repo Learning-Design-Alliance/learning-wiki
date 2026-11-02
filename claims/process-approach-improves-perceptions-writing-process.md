@@ -69,3 +69,4 @@ Between-group ANOVA on post-questionnaire scores; the article reports significan
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
 - [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related
+- [The experimental group showed increased motivation and improved communication skills after citation-based lessons, while the control group remained virtually unchanged](citation-lessons-motivation-communication-gains.md) — related

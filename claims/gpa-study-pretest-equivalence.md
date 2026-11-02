@@ -50,3 +50,4 @@ One-way ANOVA on the 15-item achievement pretest administered before the five-we
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
 - [A one-way ANOVA found no significant difference in writing proficiency among the five pre-test groups](pretest-anova-five-groups-no-difference.md) — related
 - [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related
+- [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related

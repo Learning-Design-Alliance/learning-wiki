@@ -47,3 +47,4 @@ Conclusion from the process evaluation of the 12 intervention schools, based on 
 ## Related Claims
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies](probation-support-implementation-constraints.md) — related
+- [Successful implementation of both interventions was supported by a training programme emphasising fidelity and consistency with ongoing project-team support](abra-implementation-training-fidelity-support.md) — related

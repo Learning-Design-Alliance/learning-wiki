@@ -35,7 +35,8 @@ Mangomon is a CEFR-based role-playing gamification mobile application developed 
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [I Love English Vocabulary (ILEV)](i-love-english-vocabulary-ilev.md)
 
 ## Key Sources
 - Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620

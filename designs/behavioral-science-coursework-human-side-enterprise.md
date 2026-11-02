@@ -39,6 +39,10 @@ The monograph recommends that teacher educators design or select courses describ
 ### Claims
 - [Industrial Arts Teacher Education Technical And Human Sides](../claims/industrial-arts-teacher-education-technical-and-human-sides.md) [+W]
 
+## Related Designs
+
+- [Three-perspective organizational site analysis: systems theory, action science, and change theory](systems-action-science-change-site-analysis.md)
+
 ## Related Principles
 - 
 

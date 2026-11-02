@@ -48,3 +48,4 @@ Authors' observational account of the experimental group's TMM sessions, in whic
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — a broader claim this one bears on
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
+- [Teachers reported general satisfaction with the mathematics products but made limited use of the performance-management and data-reporting features](teacher-satisfaction-high-data-feature-use-low.md) — related

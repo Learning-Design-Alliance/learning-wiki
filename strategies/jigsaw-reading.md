@@ -79,10 +79,12 @@ Jigsaw converts reading comprehension into a social obligation: because each mem
 6. Close with an individual accountability task — a quiz, synthesis writing, or concept map — that requires knowledge of *all* segments, so no member can opt out of teaching or listening.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the structure of learners taking turns leading comprehension of a text, but rotates roles rather than partitioning content
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight discussion structure often used within the expert-group phase
 - [Text-Based Collaborative Learning](../strategies/text-based_collaborative_learning.md) — broader family of discussion-centered reading activities
 - [Text-Based Discussion Protocols](text-based-discussion-protocols.md) — norms that improve the quality of the teaching phase
+- [Implementation prerequisites for jigsaw: teacher preparation, student briefing, target setting, and active observation](jigsaw-implementation-prerequisites-strategy.md)
 
 ## Examples
 - **The Jigsaw Classroom** ([jigsaw.org](https://www.jigsaw.org)) — Elliot Aronson's original implementation, developed for desegregated classrooms in Austin, TX, using expository text segments on historical figures.

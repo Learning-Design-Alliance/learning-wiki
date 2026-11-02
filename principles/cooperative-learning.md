@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (27 for, 27 mixed, 1 against) · 44 studies (17 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 44 report an effect size · 48 claims rest on one study
+> **Evidence** · 56 claims (28 for, 27 mixed, 1 against) · 45 studies (18 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 45 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -85,6 +85,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](../claims/cooperative-group-higher-final-exam-chemistry-lab.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Adopt cooperative learning strategies in laboratory teaching to improve performance, social interaction skills, and metacognition"; tests this page's relationship.
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Adopt cooperative learning as the instructional approach for teaching financial accounting in secondary schools"; tests this page's relationship.
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](../claims/cai-stad-ltm-outperform-ici-physics-achievement.md) [+W] — attached 2026-11-01 from Amosa Isiaka Gambari et al. (2015), which proposed "Use computer-assisted STAD cooperative teaching to enhance achievement, retention and motivation in physics"; tests this page's relationship.
+- [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](../claims/jigsaw-outperforms-traditional-preschool-sense-organs.md) [+W] — attached 2026-11-02 from Nilüfer Okur Akçay (2016), which proposed "Preschool teachers should use varied, active methods and be trained to organize cooperative learning".
 
 ## Objective and learner-valued goal
 

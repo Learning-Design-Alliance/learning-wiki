@@ -49,3 +49,5 @@ Process evaluation combining lesson observations (13 lessons in 8 schools), faci
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
 - [Some control schools implemented similar approaches such as teacher observation, so the trial may underestimate Lesson Study's impact relative to schools with no similar activity](lesson-study-control-contamination.md) — related
+- [Most teachers felt longer than two terms was needed to embed Dialogic Teaching, so observed effect sizes may underestimate potential impact](dialogic-teaching-embedding-needs-longer-than-two-terms.md) — related
+- [Implementation fidelity and dosage of PATHS were unrelated to academic outcomes in this trial](paths-fidelity-dosage-unrelated.md) — related

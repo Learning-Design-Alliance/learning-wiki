@@ -57,3 +57,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Cooperative learning raised value-component motivation (intrinsic goal orientation, extrinsic goal orientation, task value) more than lecture-based teaching](cooperative-learning-value-components-motivation.md) — related
 - [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related
 - [Cooperative learning and self-assessment produced posttest changes in self-motivation with a significant main effect of teaching method](teaching-method-main-effect-self-motivation.md) — related
+- [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related

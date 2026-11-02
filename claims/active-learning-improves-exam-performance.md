@@ -177,3 +177,4 @@ The article reports this as a summary of a recent National Academies consensus s
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](pogil-confirms-freeman-meta-analysis.md) — related
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — a narrower finding that bears on this claim
 - [A larger share of the group-work class (47.8%) than the control class (37.5%) scored better on integration questions than on the rest of the exam](group-work-larger-share-better-integration.md) — a narrower finding that bears on this claim
+- [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related

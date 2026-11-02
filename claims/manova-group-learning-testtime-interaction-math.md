@@ -51,3 +51,4 @@ MANOVA with repeated measures over the 15-week intervention; Table 5 reports Wil
 - [Gain-score MANOVA shows a significant between-group difference in multiplication fact fluency favoring the control group on completion time, with a large multivariate effect size](mathletics-gain-manova-control-faster.md) — related
 - [The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row](intervention-group-15-percent-performance-variation.md) — related
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](cooperative-learning-improves-financial-accounting-achievement.md) — related
+- [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related

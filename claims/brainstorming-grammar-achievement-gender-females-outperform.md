@@ -52,3 +52,4 @@ T-test comparing experimental-group post-test scores by gender: males (n = 70) m
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
+- [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related

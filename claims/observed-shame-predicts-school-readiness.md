@@ -73,3 +73,4 @@ Regression on teacher-rated academic competence; the article notes emotion expre
 - [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third](observed-interest-arousal-predicts-poorer-readiness.md) — related
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](observed-anxiety-predicts-lower-work-self-regulation.md) — related
 - [Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills](observed-help-seeking-unrelated-to-school-readiness.md) — related
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](observed-social-skill-gains-jigsaw-preschool.md) — related

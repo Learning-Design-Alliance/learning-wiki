@@ -74,3 +74,4 @@ Within-group pre-post comparison on the 20-point RCT for the same 49 experimenta
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — reports the opposite
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — reports the opposite
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
+- [The experimental group's RCT mean-score increment exceeded the control group's increment (53.26 to 59.63 versus 54.14 to 55.34)](elbrcs-larger-mean-increment-than-control.md) — related

@@ -87,3 +87,4 @@ Posttest comparison for low achievers (n = 10 per group; pretest difference p = 
 - [Ninth-grade students taught vocabulary with the structural method significantly outperformed students taught with the definitional method on the posttest](smtv-outperforms-dmtv-posttest.md) — a broader claim this one bears on
 - [The SMTV group significantly outperformed the DMTV group on the delayed retention test](smtv-outperforms-dmtv-retention.md) — related
 - [High-achievement students taught with web-based virtual simulation significantly outperformed high-achievement controls on the pilgrimage topic](virtual-simulation-high-achievers-significant-gain.md) — related
+- [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](2010-posttest-means-experimental-vs-control.md) — related

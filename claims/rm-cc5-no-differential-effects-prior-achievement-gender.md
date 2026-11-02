@@ -66,3 +66,4 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 - [Treatment and gender do not interact significantly in their effect on mathematics achievement](no-treatment-gender-interaction-mathematics-achievement.md) — related
 - [Small group size functions as a manipulable proxy for treatment intensity in early mathematics interventions, though its intensity advantage did not improve outcomes in this trial](group-size-as-treatment-intensity-proxy.md) — related
 - [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related
+- [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](female-students-significantly-higher-experiment-group.md) — related

@@ -77,6 +77,7 @@ Coaching applies the same learning science that governs novice skill acquisition
 - [Develop the professional knowledge base through joint practice development by teachers and researchers](joint-practice-development-knowledge-utilisation.md)
 - [Design training opportunities to combine modeling with performance feedback, ideally as an initial workshop followed by one-to-one coaching](modeling-plus-feedback-workshop-coaching-package.md)
 - [Peer teaching and debrief of curriculum lessons within teacher professional development workshops](peer-teaching-debrief-in-pd-workshops.md)
+- [Combine mentoring, video/audio self-evaluation, and iterative target-setting cycles to change classroom talk](mentoring-video-iterative-cycles-classroom-talk.md)
 
 ## Examples
 - **[MyTeachingPartner](https://curry.virginia.edu/myteachingpartner)** (University of Virginia) — web-mediated coaching in which teachers submit classroom video and receive consultant feedback on teacher–student interactions; replicated RCTs show gains in interaction quality and student achievement.

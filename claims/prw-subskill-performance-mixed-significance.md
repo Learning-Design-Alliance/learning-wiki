@@ -70,3 +70,4 @@ Independent samples t-tests on each of the seven sub-skills of inferential compr
 ## Related Claims
 - [The study rejects the null hypothesis that writing-based pre-reading tasks have no impact on sub-skills of inferential reading comprehension](prw-null-hypothesis-rejected.md) — related
 - [ESL students who completed writing-based pre-reading tasks scored significantly higher on total inferential reading comprehension than control students](anova-verifies-prw-total-score-advantage.md) — related
+- [In the experimental group, all sub-tests showed at least a medium effect, with large effects for coordination and verbal expression](intervention-large-effects-coordination-verbal-expression.md) — related

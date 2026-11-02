@@ -68,3 +68,4 @@ Correlational analysis of post-questionnaire ratings against EEG engagement. Per
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
 - [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related
 - [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold](socratic-more-attempts-many-never-reach-mastery.md) — related
+- [Learning mode had a statistically significant overall effect on achievement test scores in the three-treatment experiment](anova-significant-mode-effect-achievement-ignou.md) — related

@@ -49,3 +49,4 @@ ANCOVA on achievement of male and female students within the LTM group (Table 7)
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](cai-stad-ltm-outperform-ici-physics-achievement.md) — related
 - [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](cooperative-cai-higher-physics-motivation.md) — related
 - [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — a broader claim this one bears on
+- [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](gender-no-effect-stad-physics-retention.md) — related

@@ -46,3 +46,4 @@ Post-trial survey evidence from 11 completed control-school surveys on fidelity;
 
 ## Related Claims
 - [Few, if any, schools implemented Quest as designed, with low implementation possibly diluting any impact](quest-low-implementation-fidelity.md) — related
+- [Most teachers felt longer than two terms was needed to embed Dialogic Teaching, so observed effect sizes may underestimate potential impact](dialogic-teaching-embedding-needs-longer-than-two-terms.md) — related

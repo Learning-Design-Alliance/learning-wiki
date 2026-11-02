@@ -48,3 +48,4 @@ Paired-samples t-tests on EAS scores within groups (Table 6). "a significant inc
 - [The experimental group's pretest-to-post-test attitude gain was significantly larger than the control group's, but the behavior dimension showed no significant difference](eas-gain-score-significant-behavior-not.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
+- [Within the experimental group, pre-post gains were significant only for attitudes and uses, while the control group showed no significant change on any dimension](within-group-prepost-gains-experimental-only-attitudes-uses.md) — related

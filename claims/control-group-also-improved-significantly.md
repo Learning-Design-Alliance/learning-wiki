@@ -49,3 +49,5 @@ Paired sample t-test on the 20-student control group receiving routine English i
 - [Experimental-group students taught through short stories made statistically significant gains in both speaking and writing achievement from pretest to posttest](short-stories-improve-speaking-writing-within-group.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [Descriptively, the experimental group reached a good achievement category in speaking and writing while the control group reached only average](descriptive-achievement-levels-groups.md) — related
+- [The control group showed no statistically significant change in speaking scores from pretest to posttest](control-group-no-significant-speaking-change.md) — reports the opposite
+- [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related

@@ -45,6 +45,7 @@ When each student reads something different, the article recommends activities t
 - [Sharing and Discussion of Independent Reading](sharing_and_discussion_of_independent_reading.md)
 - [Use structured CL techniques such as Showdown and Trade-A-Problem when the whole class reads the same book](showdown-trade-a-problem-class-readers.md)
 - [Offer instructor-familiar graphic novel options to reduce preparation burden when implementing the comic-book assignment](instructor-familiar-graphic-novel-options.md)
+- [Organise seminars, conferences and workshops on modern instructional strategies such as Round-robin for chemistry teachers](seminars-workshops-on-round-robin-strategy.md)
 
 ## Examples
 -

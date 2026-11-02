@@ -58,9 +58,11 @@ Quotation instruction works because it makes the abstract norm of "support your 
 5. Fade the frame and assess independent integration in full essays ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
+
 - [Annotating texts](../principles/annotating.md) — annotation during reading is the upstream habit that makes strong quote selection possible
 - [Argumentation](../elements/argumentation.md) — quoting is the evidence component of the broader argument-building skill
 - [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] — the commentary step is self-explanation applied to writing
+- [Have a different student open each lesson with a self-chosen quotation to stimulate interest and motivation](student-chosen-opening-quotation-strategy.md)
 
 ## Examples
 - **Reading and Writing Project (Teachers College, Columbia University)** — argument units in which students collect "boxes and bullets" evidence from texts, then draft essays where each box becomes a claim supported by a quoted passage. https://www.readingandwritingproject.org

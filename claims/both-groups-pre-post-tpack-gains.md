@@ -55,3 +55,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
 - [Knowledge scores increased significantly from pretest to immediate posttest in both instruction-order groups](dramatization-pretest-posttest-gain-both-groups.md) — related
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
+- [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related

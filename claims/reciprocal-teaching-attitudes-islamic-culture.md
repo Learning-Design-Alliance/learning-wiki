@@ -51,3 +51,5 @@ Experimental 40  99,62  3,81"
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
 - [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](constructivist-approach-positive-attitudes-meta-analysis.md) — a broader claim this one bears on
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
+- [Students taught with the integrated approach showed significantly more positive attitudes toward reading literature than control students](integrated-approach-attitudes-toward-reading-literature.md) — related
+- [The multicultural education programme showed no significant effect on students' attitude towards cultural diversity](multicultural-education-no-effect-cultural-diversity.md) — related

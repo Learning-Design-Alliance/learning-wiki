@@ -17,7 +17,7 @@ sources:
 # Joyce and Showers' technical coaching: a cyclical training extension for transferring new teaching skills
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 quant-synthesis, 1 review, 1 qualitative), `q2` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The paper analyzes Joyce and Showers' model, which borrows coaching from athletics and treats it as the next step after training. Drawing on their empirical work and a meta-analysis of training and staff development, they claim "the coaching process enables nearly all teachers to sustain practice and gain executive control over a large range of curricular and instructional practices." Effective training first has teachers study the rationale, see demonstrations, practice, and get feedback; coaching then supports transfer, first checking performance against an expert model with clinical assessment forms, then shifting to joint inquiry and collaborative lesson planning. Peer coaching can also build a professional learning community.
@@ -42,6 +42,7 @@ The paper analyzes Joyce and Showers' model, which borrows coaching from athleti
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
 - [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](../claims/coaching-pooled-achievement-effect-0-18-sd.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
 - [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](../claims/instruction-achievement-weak-link-coaching.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
+- [CSC coaching significantly reduced teachers' need for change in instructional practices (IS discrepancy scores, d = .88)](../claims/csc-reduced-instructional-discrepancy-scores.md) [+W]
 
 ## The evidence by question
 

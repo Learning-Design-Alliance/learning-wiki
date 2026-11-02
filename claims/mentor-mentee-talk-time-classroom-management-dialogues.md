@@ -71,3 +71,4 @@ Subset analysis of classroom-management talk in the five video sessions (Table 1
 - [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) — a broader claim this one bears on
 - [School membership and time of recording showed negligible association with dialogue measures](school-and-timing-effects-on-dialogue-negligible.md) — related
 - [Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades](ai-conversational-dominance-lower-student-contribution.md) — related
+- [Discussion forum questions posted by online learners rose steadily across the five days and were all answered by mentors](discussion-forum-questions-rose-all-answered.md) — related

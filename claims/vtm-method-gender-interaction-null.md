@@ -56,3 +56,4 @@ ANCOVA on the 48-student quasi-experiment tested the Group*Gender interaction on
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related
 - [No statistically significant main effect of gender on Arabic grammar achievement](no-gender-main-effect-arabic-grammar-achievement.md) — related
 - [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related
+- [The teaching method by gender interaction on chemistry achievement was not significant](no-method-gender-interaction-chemistry-achievement.md) — related

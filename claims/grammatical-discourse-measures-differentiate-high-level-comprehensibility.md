@@ -52,3 +52,4 @@ Same correlational analysis of 40 French L2 speakers' speech with 60 listeners' 
 - [Five speech measures clearly distinguish L2 learners at different comprehensibility levels after data triangulation](five-speech-measures-distinguish-comprehensibility-levels.md) — a broader claim this one bears on
 - [Lexical richness and fluency measures differentiate between low-level L2 learners' comprehensibility](lexical-richness-fluency-differentiate-low-level-comprehensibility.md) — related
 - [Word stress errors discriminate between L2 learners of all comprehensibility levels](word-stress-errors-discriminate-all-comprehensibility-levels.md) — related
+- [The authors attribute the comprehensibility improvement to both better contrastive stress and better use of grammatical frames, and cannot separate the two contributions](improvement-attributed-to-stress-and-grammatical-frames.md) — related

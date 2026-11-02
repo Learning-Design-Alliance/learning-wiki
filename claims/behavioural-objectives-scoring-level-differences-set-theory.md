@@ -51,3 +51,4 @@ Analysis of Covariance on the experimental group (n = 88) categorized into low, 
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
 - [Medium and low achievement students benefited most from storytelling in fraction teaching, while high achievers showed no significant difference](storytelling-benefits-medium-low-achievers-fractions.md) — related
+- [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related

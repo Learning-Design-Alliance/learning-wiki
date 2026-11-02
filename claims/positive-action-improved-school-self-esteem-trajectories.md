@@ -49,3 +49,4 @@ Growth-curve analysis in the same cluster-randomized trial found a significant T
 - [The Positive Action program increased students' use of adaptive self-esteem formation and maintenance strategies](positive-action-increased-adaptive-self-esteem-processes.md) — related
 - [Effects of the Positive Action program on maladaptive self-esteem processes showed a complex pattern with only a small endpoint difference](positive-action-maladaptive-self-esteem-complex-pattern.md) — related
 - [The Positive Action program showed no significant effects on global, family, appearance, or sports self-esteem](positive-action-no-effect-global-family-appearance-sports-self-esteem.md) — related
+- [In the Chicago trial, Positive Action improved a range of social-emotional, mental health and health-related outcomes](positive-action-improves-social-emotional-health-outcomes.md) — related

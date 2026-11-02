@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (47 for, 43 mixed, 4 against) · 67 studies (27 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 23 of 67 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (48 for, 44 mixed, 4 against) · 68 studies (28 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 24 of 68 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](../claims/experimental-group-prepost-engagement-gain.md) [+W] — attached 2026-11-01 from Ayçiçek et al. (2018), which proposed "Use the flipped classroom model to enhance classroom engagement, with teacher preparation and technical capacity planning".
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](../claims/fci-improves-iraqi-efl-writing-posttest.md) [+W] — attached 2026-11-01 from Ramyar O. Qader et al. (2019), which proposed "Flipped writing course pattern: pre-class videos plus in-class collaborative practice"; tests this page's relationship.
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](../claims/pre-service-teacher-aversion-to-flipped-learning.md) [~W] — attached 2026-11-02 from Faisal M. Almutairi et al. (2020), which proposed "Exercise care when structuring pre-service teacher education courses that apply flipped learning".
+- [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](../claims/flipped-classroom-grammar-achievement-gains-esl-efl.md) [+M] — attached 2026-11-02 from Webb et al. (2016), which proposed "Flipped ESL/EFL grammar module: out-of-class video lesson, online quiz, and discussion post per grammatical principle"; tests this page's relationship.
+- [Flipped ESL/EFL students completed about 77.75% of out-of-class assignments on average, with completion dipping mid-semester and higher in Macau than the US](../claims/flipped-assignment-completion-buy-in.md) [~M] — attached 2026-11-02 from Webb et al. (2016), which proposed "Flipped ESL/EFL grammar module: out-of-class video lesson, online quiz, and discussion post per grammatical principle".
 
 ## Objective and learner-valued goal
 
@@ -252,6 +254,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Start each face-to-face class with a verification quiz or Q&A to link online preparation to classroom activity](../strategies/flipped-verification-quiz-entry-ticket.md)
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](../strategies/flipped-classroom-instructional-redesign-strategy.md)
 - [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](../designs/ocw-flipped-classroom-two-stage-design.md)
+- [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](../strategies/gradual-flipped-classroom-adoption-strategy.md)
 
 ### Illustrative
 

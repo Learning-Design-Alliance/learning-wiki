@@ -67,3 +67,4 @@ ANCOVA on post-test scores (20 items) with pre-test as covariate in the same 120
 - [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](remediation-path-efficiency-baselines.md) — related
 - [Providing key features during case comparison reduces learning time](key-features-reduce-learning-time.md) — related
 - [In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores](experimental-group-steeper-learning-trajectory.md) — related
+- [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related

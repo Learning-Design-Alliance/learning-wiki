@@ -49,3 +49,4 @@ One-way MANOVA testing the joint effect on independence and writing competence; 
 - [Self-assessment has a significant positive effect on seventh-grade EFL students' writing competence compared with conventional teacher assessment](self-assessment-significant-effect-writing-competence-efl.md) — a narrower finding that bears on this claim
 - [Learning method significantly influences conceptual understanding and learning independence simultaneously in physics learning](learning-method-manova-omnibus-effect.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — related
+- [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related

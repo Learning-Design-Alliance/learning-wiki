@@ -49,3 +49,5 @@ Quasi-experimental pre-test/post-test control-group study of 63 science-educatio
 - [The jigsaw and control groups did not differ on material recognition or usage pre-tests](jigsaw-no-pretest-difference.md) — related
 - [Weekly laboratory skills ratings of the jigsaw group exceeded the scale midpoint across all experiment stages](jigsaw-lses-skills-above-midpoint.md) — related
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](cooperative-learning-higher-lab-report-scores-chemistry.md) — related
+- [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
+- [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](jigsaw-outperforms-traditional-preschool-sense-organs.md) — a narrower finding that bears on this claim

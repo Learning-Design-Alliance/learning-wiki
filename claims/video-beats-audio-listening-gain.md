@@ -47,3 +47,4 @@ True experimental pre-test/post-test control-group study with 32 eleventh-grade 
 ## Related Claims
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related
+- [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related

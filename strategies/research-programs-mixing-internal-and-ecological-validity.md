@@ -43,6 +43,7 @@ The commentary concludes that the dual goal of use-inspired basic research proba
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Target motivation and achievement improvement efforts across student, home, and school levels in large-scale assessment programs](multi-level-efforts-improve-motivation-numeracy.md)
 - [Use interactive VR to study cognition under realistic, controlled boundary conditions](vr-interactive-cognition-research-strategy.md)
+- [Use a repeated-trials research model, repeating intervention studies within the same schools to build fidelity and cumulative validity](repeated-trials-research-model.md)
 
 ## Examples
 -

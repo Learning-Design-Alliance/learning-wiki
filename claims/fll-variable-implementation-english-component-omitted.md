@@ -50,3 +50,4 @@ Process evaluation using training observations, unit completion records, teacher
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
+- [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](paths-dosage-shortfall-time.md) — related

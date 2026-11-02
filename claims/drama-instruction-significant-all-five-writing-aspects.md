@@ -49,3 +49,4 @@ Post-test analysis of the five components (Table 4, n=40 per group) shows higher
 - [Wording and cohesion showed the largest improvement of the five writing aspects under drama-based instruction](wording-cohesion-largest-drama-gain.md) — a narrower finding that bears on this claim
 - [The unity component showed a statistically significant but smaller difference than the other aspects](unity-aspect-smaller-drama-effect.md) — a narrower finding that bears on this claim
 - [Collaborative writing improves each of the five writing components (content, organization, grammar, vocabulary, mechanics) in low-intermediate EFL students](collaborative-writing-improves-all-writing-components.md) — related
+- [Teaching the textual metafunction significantly improved Iranian EFL learners' essay coherence and cohesion ratings compared with essay-writing instruction alone](textual-metafunction-instruction-improves-efl-writing.md) — related

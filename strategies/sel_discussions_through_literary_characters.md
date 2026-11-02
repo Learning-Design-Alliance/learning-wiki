@@ -64,6 +64,7 @@ Literature functions as a [Case Study](../elements/case-study.md) of human socia
 - [Acting/Role-Play](../strategies/acting-role-play.md) — enacting character dilemmas deepens perspective-taking beyond discussion
 - [Case-Based Learning](../strategies/case-based-learning.md) — literature here functions as narrative case material for reasoning about human problems
 - [Use metacognitive characters and teacher follow-up to support transfer of trained inhibition strategies](metacognitive-characters-teacher-followup-transfer.md)
+- [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
 
 ## Examples
 - Using Lois Lowry's *The Giver* to discuss community, conformity, and responsibility; exploring conflict resolution in *From the Mixed-Up Files of Mrs. Basil E. Frankweiler*.

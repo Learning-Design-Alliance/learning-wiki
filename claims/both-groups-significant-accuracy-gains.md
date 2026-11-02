@@ -54,3 +54,5 @@ Within-subject paired t-tests from the repeated measures analysis in the Finding
 - [Gain-score MANOVA shows a significant between-group difference in multiplication fact fluency favoring the control group on completion time, with a large multivariate effect size](mathletics-gain-manova-control-faster.md) — related
 - [Control-group pre-K children showed no statistically significant change on either measure over the ten-week period](control-group-no-significant-change-phonological-measures.md) — related
 - [Both an effective-instruction intervention and the same intervention plus alternative AC grouping produce significant pre-to-post gains in multiplication and division fact fluency for students with LD or MID](effective-instruction-improves-ac-fluency-ld-mid.md) — related
+- [ARTS treatment outperformed standard instruction in accuracy and fluency gains in the online-school deployment](arts-outperforms-standard-instruction-multiplication.md) — related
+- [Third graders using ARTS mastered basic multiplication facts in about two hours with large pretest-to-posttest gains](arts-third-graders-multiplication-two-hours.md) — related

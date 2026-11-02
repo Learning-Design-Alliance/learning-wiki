@@ -73,3 +73,4 @@ Group-composition comparison in the same two undergraduate variance-invention st
 - [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Students with very different prior math achievement generate similar numbers of representations and solution methods during Productive Failure](prior-achievement-weakly-associated-inventive-production.md) — related
+- [The process evaluation suggested both interventions may be best delivered in groups of similar rather than mixed ability](abra-similar-ability-grouping-suggestion.md) — reports the opposite

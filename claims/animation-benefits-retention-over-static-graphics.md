@@ -52,3 +52,4 @@ The authors report findings from their three-factor between-subjects experiment 
 - [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — a narrower finding that bears on this claim
 - [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related
+- [The article reports that students taught with animated instructional material showed retention ability beyond those taught without it](animated-material-retention-advantage-bauchi.md) — related

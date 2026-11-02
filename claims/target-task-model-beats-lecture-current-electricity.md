@@ -58,3 +58,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
 - [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
+- [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related

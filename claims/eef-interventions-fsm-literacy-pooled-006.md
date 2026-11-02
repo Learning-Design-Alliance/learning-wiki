@@ -63,3 +63,4 @@ IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel
 - [P4C gains at Key Stage 2 were greater for FSM-eligible pupils in all subjects](p4c-gains-greater-for-fsm-pupils.md) — related
 - [The Perry Beeches Coaching Programme had a positive impact on Year 7 pupils' reading, spelling and grammar attainment, equivalent to approximately five additional months' progress](perry-beeches-coaching-positive-impact-reading-spelling-grammar.md) — a narrower finding that bears on this claim
 - [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — a narrower finding that bears on this claim
+- [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related

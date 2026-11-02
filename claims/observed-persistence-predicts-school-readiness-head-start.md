@@ -78,3 +78,4 @@ Same regression models predicting teacher-rated learning-related behaviors; "Inc
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
 - [Academic readiness and adaptive behaviors at school entry predict higher academic achievement at the end of first grade](school-readiness-predicts-first-grade-achievement-latino.md) — related
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](observed-social-skill-gains-jigsaw-preschool.md) — related

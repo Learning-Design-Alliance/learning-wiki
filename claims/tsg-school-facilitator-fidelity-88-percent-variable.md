@@ -48,3 +48,4 @@ Fidelity observational analysis of 20% of TSG sessions in the replication trial.
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
+- [Teachers implemented the inductive vocabulary model with fidelity in regular classroom settings](vocabulary-intervention-implementation-fidelity.md) — related

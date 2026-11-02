@@ -157,3 +157,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related
 - [Integrating external knowledge improves the quality and complexity of generated questions](external-knowledge-improves-question-quality.md) — related
 - [Treatment teachers more often evaluated student understanding via leveled questions, while control teachers more often monitored student performance](treatment-leveled-questions-vs-control-monitoring.md) — related
+- [The experiment group teacher credited small-group work, interaction, modelling and student question-writing for improved comprehension and recall](teacher-opinions-reciprocal-teaching-benefits.md) — related

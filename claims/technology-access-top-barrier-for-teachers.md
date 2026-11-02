@@ -51,3 +51,4 @@ Content analysis of coded responses to a survey question about barriers to using
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
+- [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related

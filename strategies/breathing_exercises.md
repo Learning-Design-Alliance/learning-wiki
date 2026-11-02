@@ -64,6 +64,7 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Use exhale-dominant and inhale-dominant breathing to tune alertness to the calm-alert range for learning](breathing-techniques-tune-alertness.md)
+- [Teach elevator breathing and guided relaxation in short school-based sessions over five weeks](school-based-elevator-breathing-guided-relaxation-strategy.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — a school-based curriculum in which a daily three-minute "brain break" breathing practice anchors each lesson across K–8 classrooms. https://mindup.org

@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (87 show a difference, 18 mixed, 7 no difference) · 93 studies (27 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 93 report an effect size · 112 claims rest on one study
+> **Evidence** · 114 claims (89 show a difference, 18 mixed, 7 no difference) · 95 studies (29 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 95 report an effect size · 114 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -154,6 +154,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [The review attributes to Burton et al. (1999) that primary students participating in an arts curriculum showed significantly greater creativity, perception, problem solving, risk-taking and collaboration than students without arts education](../claims/burton-arts-curriculum-greater-creativity.md) [+W] — instruction changes it
 - [Video-group students scored higher than audio-group students on all observed instructional-process aspects (motivation, response, teamwork, participation)](../claims/video-higher-process-observation-means.md) [+M] — instruction changes it
 - [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](../claims/lecturers-rated-dpbl-appropriate-and-effective.md) [+W] — instruction changes it
+- [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](../claims/robotics-social-skills-interpretation.md) [+W] — instruction changes it
+- [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](../claims/observed-social-skill-gains-jigsaw-preschool.md) [+W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

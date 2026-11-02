@@ -85,3 +85,4 @@ Third item of the same questionnaire; 78.03% (f=32) answered Yes. The article co
 ## Related Claims
 - [Post-test SUSSI scores of pre-service science teachers taught through project-based HNOS training are significantly higher than those of the control group taught by conventional method](pbl-hnos-higher-posttest-sussi.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
+- [All pre-service teachers planned to teach environmental education, but only the experimental group specified concrete student-centered methods and outdoor activities](future-teaching-plans-methods-specified-experimental-only.md) — related

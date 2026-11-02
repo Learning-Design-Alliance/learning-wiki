@@ -48,3 +48,4 @@ Secondary outcome from the cluster-randomised controlled trial, measured through
 - [Breakfast club provision improved school attendance, resulting in about 26 fewer half-days of absence per year for a class of 30](breakfast-club-improved-attendance.md) — related
 - [Breakfast club provision showed no evidence of an impact on the body mass index of Year 6 students](breakfast-club-no-bmi-impact.md) — related
 - [Secondary analysis suggests possible spill-over effects of Switch-on on non-participating pupils, tentatively negative for eligible non-selected pupils and positive for ineligible classmates](switch-on-spillover-non-participating-pupils.md) — related
+- [Control pupils within treatment schools outperformed pupils in pure control schools, consistent with spillover effects](abra-spillover-to-within-school-controls.md) — related

@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (23 for, 12 mixed, 1 against) · 37 studies (15 causal, 9 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 37 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (24 for, 13 mixed, 1 against) · 39 studies (17 causal, 9 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 39 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Word items transfer to Story items but Story items show no significant transfer to Word items in LCM practice](../claims/word-to-story-asymmetric-transfer.md) [~W]
 - [Near-transfer to untaught text structures is non-significant with wide uncertainty (g = 0.62, CI crossing near zero)](../claims/tsi-near-transfer-untaught-structure-nonsignificant.md) [-W]
 - [Schema-based multiplicative word-problem instruction transfers to additive word problems, but additive instruction does not transfer to multiplicative problems](../claims/multiplicative-word-problem-instruction-superior.md) [+W]
+- [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](../claims/traditional-teaching-worst-on-transfer-tasks.md) [+W]
+- [The redesigned condition completed more backward circle and square area items while the control completed more forward items, a significant condition-by-item-type interaction](../claims/condition-item-type-practice-interaction.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

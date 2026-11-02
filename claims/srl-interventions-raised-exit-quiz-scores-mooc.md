@@ -50,3 +50,4 @@ One-way ANOVA on the 20-item course exit quiz across control (M = 8.46, SD = 7.6
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
+- [Learning mode had a statistically significant overall effect on achievement test scores in the three-treatment experiment](anova-significant-mode-effect-achievement-ignou.md) — related

@@ -45,6 +45,7 @@ Based on the study's findings, the author recommends "Adopting a teaching method
 
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 - [Adopt jigsaw to complement conventional lecture in Social Studies to prepare students for communal living](adopt-jigsaw-complement-lecture-social-studies.md)
+- [Adopt the selective thinking strategy in mathematics teaching and train teachers in its steps](adopt-selective-thinking-mathematics-teaching.md)
 
 ## Examples
 -

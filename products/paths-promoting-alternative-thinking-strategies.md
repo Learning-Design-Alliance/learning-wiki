@@ -23,7 +23,7 @@ sources:
 # PATHS (Promoting Alternative THinking Strategies)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (1 causal, 1 theoretical), `q2`–`q4` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 against) · 3 studies (2 causal, 1 theoretical), `q2`–`q4` · 0 of 3 report an effect size · 9 claims rest on one study
 
 ## Description
 The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-delivered social-emotional learning program developed for teaching emotional understanding, communication, friendship skills, self-control, and social problem solving.
@@ -33,6 +33,8 @@ The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-
 - **PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track**: The Promoting Alternative THinking Strategies (PATHS) curriculum is the classroom-based component of Fast Track, delivered by teachers. The report states it "is intended to develop emotional communication, social understanding, self-control, and problem solving" and that "Lessons are delivered, on average, two to three times a week." An adapted version covered four skill domains: emotional understanding and communication, friendship building, self-control, and social problem solving. It was not delivered in the Durham, North Carolina schools because administrators would not allow it. (Fast Track: Elementary School (2014))
 - **PATHS (Promoting Alternative THinking Strategies) emotional literacy curriculum**: PATHS is an experimental-based emotional literacy curriculum initially designed for deaf children, developed by Greenberg, Kusché, and associates, and designed for kindergarten through grade 6. The article quotes its purpose: "to enhance social and emotional competence and understanding in children, as well as to develop a caring, prosocial context that facilitates educational processes in the classroom." It serves as both an intervention program for children with problems and a prevention program for regular children, employing methods such as dialoguing, role-playing, story-telling, simulation, modeling, and verbal mediation. (Wu (2000))
 - **Affective-Behavioral-Cognitive-Dynamic (ABCD) theoretical model underlying PATHS**: The ABCD model is the theoretical foundation of the PATHS curriculum, integrating diverse theories of human behavior and development including developmental social cognition, cognitive developmental theory, psychoanalytic developmental psychology, attachment theory, and cognitive-behavior therapy. The article states the "ABCD model emphasizes the dynamic relationship among affect, behavior, and cognition, integrating these three aspects so as to facilitate children's positive and healthy personality development and social functioning throughout their different developmental phases." It grounds PATHS's wholistic approach to educating the whole child. (Wu (2000))
+- **The Affective-Behavioural-Cognitive-Developmental (ABCD) model underpinning PATHS**: The ABCD model is the developmental theory on which the PATHS curriculum is based. It "emphasizes the developmental integration of a ffect, emotion language, behaviour and cognitive understanding to promote social and emotional co mpetence". The programme logic model proposes that core components (a taught curriculum, generalisation activities and techniques, and parent materials) decrease risk factors such as impulsive behaviour and increase protective factors, leading to improved emotion knowledge, self-control and social problem-solving, with academic attainment viewed as a by-product of implementation. (Alexandra Barlow et al. (2015))
+- **PATHS curriculum packs and supporting materials**: PATHS is delivered through curriculum packs provided for each class, containing "lessons and send-home activities that covered topics such as identifying and labelling fe elings, controlling impulses, reducing stress and understanding other people's perspectives", plus physical resources such as posters and 'feelings dictionaries'. Each lesson includes objectives, materials required and procedural notes with suggested teacher wording. Lessons follow a common format of teacher introduction, main activity and plenary, and the programme uses a 'spiral' curriculum model in which topics are revisited and developmentally sequenced. In the UK the packs are distributed by Barnardo's. (Alexandra Barlow et al. (2015))
 
 ### Claims
 - [Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures](../claims/fast-track-external-behavior-mixed-measures.md) [+W]
@@ -43,6 +45,7 @@ The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-
 - [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W]
 - [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](../claims/paths-topical-sequencing-four-guidelines.md) [+W]
 - [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W]
+- [PATHS did not improve academic attainment in a UK cluster-randomised trial, with one significant negative effect on Year 6 English favouring control schools](../claims/paths-no-academic-attainment-impact-uk-rct.md) [-M]
 
 ## Related Products and Programmes
 -
@@ -50,9 +53,9 @@ The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-
 ## Key Sources
 - Fast Track: Elementary School. (2014). WWC Intervention Report, U.S. Department of Education, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc/InterventionReport/628
 - Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
-
 <!-- merged 2026-10-10 from elements/paths-curriculum-fast-track-classroom-lessons ("PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
+- Alexandra Barlow, Michael Wigelsworth, Ann Lendrum, Kirsty Pert, Craig Joyce, Emma Stephens, Lawrence Wo, Garry Squires, Kevin Woods, Rachel Calam, Mark Harrison, Alex Turner, and Neil Humphrey. (2015). Promoting Alternative Thinking Strategies (PATHS) Evaluation report and Executive summary. Education Endowment Foundation. https://www.educationendowmentfoundation.org.uk
 
 # PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track
 

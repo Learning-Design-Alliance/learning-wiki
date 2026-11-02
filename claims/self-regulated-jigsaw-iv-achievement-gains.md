@@ -52,3 +52,5 @@ Quasi-experimental non-equivalent control group pre-test/post-test study with 40
 - [Self-regulated jigsaw IV did not significantly increase students' attitudes towards the English course; the significant gain-score difference reflected a control-group decline](jigsaw-iv-attitude-no-significant-increase.md) — related
 - [EFL students taught grammar and vocabulary with Pixton comic strips scored significantly higher on a post-test than control students taught without Pixton](pixton-comic-strips-improve-efl-grammar-vocabulary-posttest.md) — related
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](jigsaw-iv-significant-pre-post-gain.md) — related
+- [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](jigsaw-higher-achievement-science-within-time.md) — related
+- [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](jigsaw-outperforms-traditional-preschool-sense-organs.md) — a narrower finding that bears on this claim

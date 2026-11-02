@@ -57,3 +57,4 @@ Two-way ANCOVA (teaching methods and gender with interaction effect) on overall 
 - [No significant interaction between gender and instructional method on basic science achievement](no-gender-method-interaction-basic-science.md) — related
 - [No significant interaction between teaching method and gender on conceptual understanding of electric circuits](no-method-gender-interaction-electric-circuits.md) — related
 - [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related
+- [The teaching method by gender interaction on chemistry achievement was not significant](no-method-gender-interaction-chemistry-achievement.md) — related

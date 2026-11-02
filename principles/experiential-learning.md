@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (33 for, 12 mixed) · 49 studies (13 causal, 11 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 9 of 49 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (35 for, 12 mixed) · 51 studies (14 causal, 11 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 51 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](../claims/ece-improves-clinical-skills.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
 - [Most medical students report that early clinical exposure improves their communication skills](../claims/ece-improves-communication-skills-perceptions.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](../claims/ece-improves-knowledge-motivation.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
+- [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](../claims/outdoor-education-posttest-advantage-attitudes-uses-concern.md) [+W] — attached 2026-11-02 from Aysegul Derman et al. (2016), which proposed "Use outdoor education with active, student-centered methods to improve pre-service teachers' environmental literacy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -177,6 +178,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Taste-testing showed large effects on behavioral outcomes but was usually combined with other experiential strategies](../claims/taste-testing-large-behavioral-effects-usually-combined.md) [~W]
 - [Experiential learning approaches improve fruit and vegetable consumption or preference (Md = 0.68), within the Zone of Desired Effects](../claims/experiential-learning-fv-consumption-md-0-68.md) [+W]
 - [Students taught with the Experiential Learning Approach scored significantly higher on the Mathematical Creativity Test than students taught with Conventional Teaching Methods](../claims/ela-higher-mathematical-creativity-than-ctm.md) [+W]
+- [A model routing maternal interaction through Experiential Learning Care fits independence outcomes better than direct interaction alone](../claims/elc-path-model-better-fit-than-direct-interaction.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

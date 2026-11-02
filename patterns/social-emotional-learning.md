@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 50 claims (34 for, 15 mixed, 1 against) · 61 studies (18 causal, 18 review, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 20 of 61 report an effect size · 36 claims rest on one study
+> **Evidence** · 57 claims (37 for, 18 mixed, 2 against) · 65 studies (21 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 21 of 65 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -177,6 +177,13 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](../claims/sci-a-fidelity-exceeds-bau-instruction.md) [+W]
 - [In the FSN elementary efficacy RCT (Walker et al., 2009), effect sizes ranged from 0.44 to 0.87 with all intervention-control differences significant](../claims/fsn-rct1-efficacy-effect-sizes.md) [+W]
 - [FSN's impact was less robust when delivered by school personnel than by research staff](../claims/fsn-efficacy-versus-effectiveness-delivery.md) [~W]
+- [Higher initial Emotional Support predicted higher initial competence and greater growth in both adherence and competence](../claims/emotional-support-predicts-integrity-growth.md) [~W]
+- [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](../claims/paths-dosage-shortfall-time.md) [~W]
+- [Higher levels of reach (proportion of pupils present at PATHS lessons) were associated with better academic outcomes](../claims/paths-reach-associated-outcomes.md) [+W]
+- [Implementation fidelity and dosage of PATHS were unrelated to academic outcomes in this trial](../claims/paths-fidelity-dosage-unrelated.md) [~W]
+- [In the Chicago trial, Positive Action improved a range of social-emotional, mental health and health-related outcomes](../claims/positive-action-improves-social-emotional-health-outcomes.md) [+W]
+- [Second-grade control teachers showed greater improvement in TCI Competence ratings than second-grade intervention teachers](../claims/iyt-tci-competent-second-grade-reversed.md) [-W]
+- [Positive Action improved academic outcomes in Hawai'i and selected academic outcomes in Chicago, with very large effects for African American boys](../claims/positive-action-improves-academic-outcomes.md) [+M]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

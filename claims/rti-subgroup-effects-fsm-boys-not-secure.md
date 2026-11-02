@@ -49,3 +49,4 @@ Sub-group analyses of the NGRT post-test in the same trial (FSM-eligible n=96, +
 - [RTI showed a small positive headline effect of +0.19 on the New Group Reading Test, but the spoilt trial means it should not be taken as indicative of impact](rti-ngrt-headline-effect-019-insecure.md) — related
 - [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — related
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
+- [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related

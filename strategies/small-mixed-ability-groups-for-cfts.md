@@ -46,6 +46,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Assign trained teaching assistants to large virtual classes to support course management, grading, discussion monitoring and extra help for learners](teaching-assistants-large-virtual-class-support.md)
 - [Distribute SLC group roles and tasks according to each member's capability so students exchange information](tailor-slc-roles-to-student-capability.md)
 - [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
+- [Facilitator-led pedagogical intervention pairing slow learners with proficient peers and giving feedback](facilitator-pedagogical-intervention-oct.md)
 
 ## Examples
 -

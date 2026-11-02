@@ -47,6 +47,7 @@ Exploratory RQ4 descriptive analysis of RM-CC5 system use metrics for 881 of 940
 
 
 ## Related Claims
+
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
 - [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — related
@@ -57,3 +58,4 @@ Exploratory RQ4 descriptive analysis of RM-CC5 system use metrics for 881 of 940
 - [Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively](pl-effects-accumulate-third-year.md) — related
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
+- [Only about nine percent of students using the mathematics products met the providers' recommended usage benchmarks in year one](only-nine-percent-met-usage-benchmark-year-one.md)

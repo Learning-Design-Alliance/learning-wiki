@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 73 claims (43 for, 29 mixed, 1 against) · 60 studies (22 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 60 report an effect size · 65 claims rest on one study
+> **Evidence** · 75 claims (45 for, 29 mixed, 1 against) · 62 studies (24 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 62 report an effect size · 67 claims rest on one study
 
 ## Description and scope
 
@@ -123,6 +123,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](../claims/jigsaw-laboratory-higher-science-process-skills.md) [+W] — attached 2026-11-01 from Ataman Karacop (2017), which proposed "Integrate the Jigsaw technique into laboratory practices to develop learners' cognitive skills"; tests this page's relationship.
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Slavin's Student Teams-Achievement Divisions (STAD) three-day cycle for cooperative learning"; tests this page's relationship.
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](../claims/cooperative-learning-higher-motivation-vietnamese-higher-ed.md) [+W] — attached 2026-11-02 from Van Dat Tran (2019), which proposed "Nine-step lecturer-guided cooperative learning procedure replicated per course chapter"; tests this page's relationship.
+- [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](../claims/computer-assisted-stad-beats-ici-physics-achievement.md) [+W] — attached 2026-11-02 from Amosa Isiaka Gambarı (2015), which proposed "Computer-assisted STAD activity structure: team tasks, individual and team quizzes, team scores, and recognition"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -178,6 +179,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Interviewed learners in experimental schools preferred the group approach and valued peer explanation, while control school learners reported teacher-dominated lessons](../claims/learners-preferred-group-approach-peer-explanations.md) [+W]
 - [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](../claims/cooperative-cai-higher-physics-motivation.md) [+W]
 - [Two-student ROOTS groups produced higher rates of individual practice opportunities and lower rates of group practice opportunities than five-student groups, with no differences on other instructional interactions](../claims/group-size-instructional-interaction-rates.md) [~W]
+- [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](../claims/cooperative-learning-literature-more-effective.md) [+W]
 
 ## Related Patterns
 
@@ -209,6 +211,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
 - [ARDESOS-DIAPROVE program](../products/ardesos-diaprove-program.md)
 - [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](../designs/fraction-face-off-cooperative-lesson-structure.md)
+- [Heterogeneous team grouping with peer tutoring within CBI lessons](../strategies/heterogeneous-team-grouping-peer-tutoring-cbi.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

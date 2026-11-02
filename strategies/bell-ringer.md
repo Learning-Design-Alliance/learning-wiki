@@ -61,9 +61,11 @@ Bell ringers exploit the opening minutes of class, when attention is unclaimed a
 6. Vary the format (question, image, error to fix, prediction) to keep attention engaged ([Attention](../elements/attention.md)).
 
 ## Related Strategies
+
 - [Exit Ticket](exit-ticket.md) — the closing counterpart; together they bracket the lesson with retrieval
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — bell ringers are a natural vehicle for scheduling spaced review
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the activation-type bell ringer is a classroom implementation of this strategy
+- [Have a different student open each lesson with a self-chosen quotation to stimulate interest and motivation](student-chosen-opening-quotation-strategy.md)
 
 ## Examples
 - A middle-school math teacher opens each class with two problems from material taught 1–3 weeks earlier, exploiting the spacing effect; this is the core routine in many [Direct Instruction](../patterns/direct-instruction.md) classrooms.

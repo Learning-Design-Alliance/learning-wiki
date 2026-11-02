@@ -49,3 +49,4 @@ Posttest scores disaggregated by pretest-derived ability subgroups (advanced, in
 - [CHLS self-study produced no statistically significant overall improvement in English posttest performance compared with regular classroom instruction alone](chls-no-overall-achievement-effect.md) — related
 - [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
+- [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related

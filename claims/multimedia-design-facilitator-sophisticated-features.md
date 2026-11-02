@@ -70,3 +70,4 @@ The review reports, citing one included study, that "e-modules with more sophist
 - [Visual sophistication of emotional design materials varies substantially and may act as a boundary condition for emotional design effects](design-sophistication-boundary-condition.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Interactive online modules and videos are the most commonly used enabling technologies in asynchronous e-learning for clinical nurses](interactive-modules-videos-most-common-enabling-technologies-nurses.md) — related
+- [CD-group learners perceived the interactive multimedia CD module as a whole as more effective than face-to-face teaching, print, and online learning](cd-group-perceived-cd-module-more-effective.md) — related

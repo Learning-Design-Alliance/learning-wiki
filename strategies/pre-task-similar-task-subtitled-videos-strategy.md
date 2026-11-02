@@ -41,6 +41,7 @@ Before completing a communicative task, learners watch short subtitled videos of
 - [Videos](videos.md)
 - [Use keyword-only subtitles instead of full-sentence subtitles when targeting vocabulary learning](keyword-only-subtitles-strategy.md)
 - [Combine traditional explicit vocabulary instruction with subtitled authentic video viewing to serve both short- and long-term retention](combine-explicit-instruction-with-subtitled-video-viewing.md)
+- [Teach a grammar structure by pausing and replaying subtitled short segments of an authentic animated sitcom and having students produce sentences](pause-replay-sitcom-segments-grammar-strategy.md)
 
 ## Examples
 -

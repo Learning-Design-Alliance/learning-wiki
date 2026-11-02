@@ -41,7 +41,8 @@ Concept cartoons© present an everyday situation visually with dialog bubbles fr
 - [Concept Cartoons Posttest Advantage Quasi Experiment](../claims/concept-cartoons-posttest-advantage-quasi-experiment.md) [+M]
 
 ## Related Designs
-- 
+
+- [Dortmund approach to physics teacher education emphasizing preconceptions and cognitive conflict](dortmund-approach-preconceptions-cognitive-conflict.md)
 
 ## Examples
 -

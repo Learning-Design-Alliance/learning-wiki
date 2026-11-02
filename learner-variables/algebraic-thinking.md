@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (40 show a difference, 16 mixed, 10 no difference) · 46 studies (28 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 9 of 46 report an effect size · 63 claims rest on one study
+> **Evidence** · 67 claims (40 show a difference, 16 mixed, 11 no difference) · 47 studies (29 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 9 of 47 report an effect size · 64 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -103,6 +103,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Adaptive web-based system treatment showed a small, statistically non-significant advantage over control on elementary algebra post-test scores (Hedges' g = .12)](../claims/adaptive-system-small-nonsignificant-algebra-posttest-effect.md) [-M] — instruction changes it
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](../claims/aptitude-treatment-interaction-nonsignificant-after-cleaning.md) [-M] — an instructional effect differs with it
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](../claims/flipped-college-algebra-higher-final-exam-scores.md) [+M] — instruction changes it
+- [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](../claims/lecture-no-significant-gain-ld-students.md) [-M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

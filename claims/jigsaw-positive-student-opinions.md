@@ -50,3 +50,5 @@ Open-ended Jigsaw Opinion Scale given only to the 32-student jigsaw group at the
 - [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](student-opinions-concept-cartoon-lessons.md) — related
 - [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](jigsaw-group-opinions-expert-roles-and-drawbacks.md) — related
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](no-opinion-difference-between-laboratory-approaches.md) — related
+- [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](jigsaw-opinions-erzurum-7th-grade.md) — related
+- [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related

@@ -125,6 +125,8 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Graduated levels of AI integration aligned with Bloom's taxonomy and the AI Assessment Scale](../designs/graduated-ai-integration-levels-blooms.md)
 - [Add situational judgement tests to prescribing competence assessment practices](../strategies/recommend-situational-judgement-tests-prescribing.md)
 - [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](../strategies/blooms-taxonomy-question-conversion-training.md)
+- [Mapping each OD3R stage to learning domains: orientation builds affective motivation, decision trains design, do trains psychomotor skills, discuss develops communication, reflect assesses attitudes](../designs/od3r-stage-domain-mapping.md)
+- [Researcher-developed 65-item Academic Achievement Test](../products/researcher-developed-65-item-academic-achievement-test.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

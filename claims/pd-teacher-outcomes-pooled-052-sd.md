@@ -51,3 +51,4 @@ Meta-analysis of 46 randomized experiments of PK-12 mathematics and science PD, 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
 - [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — related
+- [The PD improved teachers' Richness of Mathematics in classroom instruction but not Student Participation or Errors and Imprecision](pd-improved-richness-of-mathematics-practice.md) — a narrower finding that bears on this claim

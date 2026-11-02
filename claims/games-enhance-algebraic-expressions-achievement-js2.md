@@ -76,3 +76,5 @@ Quasi-experimental pre-test, post-test, non-randomized control group study of 24
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related
+- [Students taught with algebra tiles demonstrated significantly more proficient skills in factoring algebraic expressions than control-group peers](algebra-tiles-factoring-significant-difference.md) — related
+- [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related

@@ -49,7 +49,8 @@ The article recommends that "future educational video resources could benefit fr
 - [Pseudo-interactive responses showed significantly more repetition: a lower type-token ratio than interactive responses (t = 3.371, p = .001)](../claims/pseudo-interactive-repetition-type-token.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use local-potential-integrated science videos to replace costly, risky, and inefficient site visits](local-potential-video-replaces-site-visits.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Quasi-experimental control group study: four schools randomly assigned, 207 mast
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](cooperative-group-higher-final-exam-chemistry-lab.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
+- [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](cat-instrument-kr20-0-78.md) — related

@@ -215,6 +215,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - [Scaffolding](../strategies/scaffolding.md)
 - [Run summer reading camps with the attributes of high-gain summer learning programs](../strategies/summer-reading-camps-design-attributes.md)
+- [Adapt assessment formats to preschoolers' incomplete psychomotor skills: cut-and-paste, matching, and play-dough tasks](../strategies/cut-paste-matching-assessment-preschool.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)

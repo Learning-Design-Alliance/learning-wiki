@@ -50,3 +50,4 @@ Two equivalent-group pretest-posttest experiment with 30 students per group; Tab
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
 - [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](cai-gain-exceeds-cim-voice-grammar.md) — related
 - [Sixth-grade students taught English grammar with the brainstorming method achieved significantly higher post-test scores than students taught with traditional methods](brainstorming-improves-english-grammar-achievement-sixth-grade.md) — related
+- [Both teaching methods improved bump pass scores, but the mind map group's total bump pass success score was significantly higher](mind-map-bump-pass-success.md) — related

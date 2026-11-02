@@ -26,7 +26,8 @@ A researcher-developed pair of 30-item multiple-choice reading-comprehension tes
 - [Skill-based teaching alone produced no statistically significant pre-to-post gain in reading comprehension in the control group](../claims/skill-based-teaching-no-significant-gain.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Reading Comprehension Test (RCT) constructed on Barrett's Taxonomy](reading-comprehension-test-rct-constructed-on-barretts-taxonomy.md)
 
 ## Key Sources
 - Bogale, Y. N. (2018). Conceptualizing Reading to Learn: Strategy Instruction and EFL Students' Reading Comprehension. International Journal of Curriculum and Instruction 10(2), 93–117. http://ijci.wcci-international.org

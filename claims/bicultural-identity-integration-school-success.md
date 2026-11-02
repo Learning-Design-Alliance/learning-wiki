@@ -74,3 +74,4 @@ The review reports, citing Phalet and Andriessen (in press), a study of ethnic m
 - [The immigrant optimism hypothesis holds in some cultural contexts but not in others, depending on cultural congruence, cooperative learning, and family educational investment](immigrant-optimism-holds-conditionally.md)
 - [Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)](young-latino-children-emerging-ethnic-identity-prevalence.md) — related
 - [Ethnic constancy and knowledge are associated with better adaptive behavior at home, with no moderation by gender or ethnicity](ethnic-constancy-knowledge-better-adaptive-behavior-home.md) — reports the opposite
+- [A multicultural education programme showed no significant effect on high school students' attitude towards national integration](multicultural-education-no-effect-national-integration.md) — related

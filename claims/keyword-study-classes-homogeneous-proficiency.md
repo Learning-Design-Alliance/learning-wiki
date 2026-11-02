@@ -56,3 +56,4 @@ Independent-samples t-test comparing the two intact classes on an English profic
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — a narrower finding that bears on this claim
 - [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related
+- [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — related
