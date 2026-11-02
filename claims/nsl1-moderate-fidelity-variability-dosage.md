@@ -66,3 +66,4 @@ Gameplay metrics served as an additional fidelity and dosage measure. The articl
 ## Related Claims
 - [No relationship was found between treatment dosage variables and students' response to the NS1 intervention](nsl1-no-dose-response-relationship.md) — related
 - [The NS1 gaming intervention produced significant effects favoring the treatment group on proximal measures of whole-number concepts and skills in first-grade students at risk for mathematics difficulties](nsl1-significant-proximal-whole-number-effects.md) — related
+- [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related

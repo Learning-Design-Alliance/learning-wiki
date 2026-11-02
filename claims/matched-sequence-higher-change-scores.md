@@ -69,3 +69,4 @@ The authors' summary of the three main findings from the quasi-experiment, state
 - [On the soil science unit, cognitive sequence of instruction interacted with student preference for grasping information in predicting pretest-to-posttest change scores](soil-unit-grasping-sequence-interaction.md) — related
 - [On the water science unit, student preference for grasping information interacted with cognitive sequence of instruction in predicting pretest-to-posttest change scores](water-unit-grasping-sequence-interaction.md) — related
 - [Cognitive sequence of instruction had a large main effect on change scores on both STEM units](sequence-main-effect-change-scores.md) — related
+- [In an adaptive e-learning system, students whose actual learning mode matches their profile achieve higher test scores than mismatched students](matched-learning-mode-higher-scores-aes.md) — related

@@ -52,3 +52,4 @@ Comparison of survey perceptions with expert ratings in the pilot found students
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related
+- [Explicit strategy instruction did not significantly enhance self-assessed language progress in mixed-ability groups](explicit-strategy-instruction-no-self-assessment-effect.md) — related

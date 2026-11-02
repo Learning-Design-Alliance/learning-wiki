@@ -52,3 +52,5 @@ Paired samples t-test on gain for each group: experimental t(119) = 17.852, cont
 - [Blended e-learning did not significantly affect vocational students' achievement test scores compared with traditional learning after five weeks](blended-elearning-no-achievement-test-difference.md) — related
 - [Blended instruction produced higher course achievement than face-to-face instruction in a university elective music course](blended-music-course-higher-achievement-than-ftf.md) — related
 - [Using music and musical information in English classes somewhat improved formation of communicative skills relative to traditional methods](music-use-improves-communicative-skills-formation.md) — related
+- [University students in a blended learning German course showed significantly greater achievement gains than students in a traditional face-to-face course over 10 weeks](blended-learning-greater-german-achievement-gains.md) — related
+- [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related

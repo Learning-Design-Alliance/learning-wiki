@@ -51,3 +51,4 @@ Paired-samples t-test within the 15-student experimental group receiving corpus-
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
 - [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
+- [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related

@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (29 for, 16 mixed) · 56 studies (15 causal, 13 quant-synthesis, 13 review, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 17 of 56 report an effect size · 33 claims rest on one study
+> **Evidence** · 46 claims (29 for, 17 mixed) · 57 studies (16 causal, 13 quant-synthesis, 13 review, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 57 report an effect size · 34 claims rest on one study
 
 ## Description
 
@@ -276,6 +276,7 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Measures of what an individual does reveal little about his achievement, whereas measures of what he can do help locate his difficulties and virtues](../claims/capacity-measures-diagnose-difficulties-and-virtues.md) [+W]
 - [Education level does not significantly moderate the effect of formative assessment on student learning](../claims/education-level-no-moderation-formative-assessment.md) [~W]
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](../claims/structured-hapa-feedback-form-outperforms-unstructured.md) [+W]
+- [Prior smaller studies of the QfL learner response strategy reported positive effects on maths and grammar](../claims/qfl-prior-studies-positive-effects.md) [~W]
 
 ## Key Sources
 

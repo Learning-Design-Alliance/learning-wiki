@@ -74,3 +74,4 @@ Review synthesis of six experimental stereotype threat studies with 270 particip
 - [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md) — related
 - [Associations between SLD stigma and academic performance are small, less robust, and based on very few studies](sld-stigma-academic-outcomes-small-few-studies.md) — related
 - [Greater SLD stigma is generally associated with less optimal psychological adjustment, though most outcomes could not be meta-analyzed](sld-stigma-psychological-adjustment-heterogeneous.md) — related
+- [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related

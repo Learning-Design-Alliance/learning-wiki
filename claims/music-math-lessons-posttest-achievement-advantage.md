@@ -50,3 +50,4 @@ Independent t-test on the researcher-designed 28-item achievement test (adopted 
 - [Musical training remains a significant predictor of overall marks in multiple regression with income and grade, which have higher partial correlations](music-predictor-multiple-regression-school-marks.md) — related
 - [Music-mathematics integrated lessons produced statistically significant improvements in first- and third-grade students' MSA mathematical ability levels](music-math-integration-improves-msa-abilities.md) — related
 - [Both teachers integrated a variety of music activities spanning all five California mathematics content areas over the ten lessons](teachers-integrated-varied-music-activities-all-content-areas.md) — related
+- [Music-based song instruction improves Iranian children's stress pattern recognition more than teacher-read song instruction](music-improves-children-stress-pattern-recognition.md) — related

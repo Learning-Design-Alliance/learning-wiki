@@ -50,3 +50,4 @@ the three literacy outcome measures were assessed"
 ## Related Claims
 - [Tutoring with Alphie showed a small positive but statistically non-significant effect on Year 6 reading comprehension (g=0.11) in the EEF trial](tutoring-with-alphie-small-nonsignificant-reading-effect.md) — related
 - [Prior US studies cited in the report suggest RTI has modest positive effects on literacy for transition-age pupils, but the evidence base is mixed and small-scale](prior-us-rti-evidence-modest-mixed.md) — related
+- [Prior randomised trials of book-gifting programmes have shown little evidence of effects on children's reading skills](book-gifting-rcts-little-evidence.md) — a broader claim this one bears on

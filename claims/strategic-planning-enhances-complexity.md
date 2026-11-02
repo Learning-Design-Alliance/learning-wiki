@@ -48,3 +48,4 @@ Narrative review section 5.1.2: the review reports Crookes (1989) found "10- min
 - [The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions](strategic-planning-accuracy-mixed.md) — related
 - [Strategic pre-task planning enhances learners' fluency in task-based performance](strategic-planning-enhances-fluency.md) — related
 - [Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall](planning-in-test-contexts-mixed-effects.md) — related
+- [Written-complexity, accuracy, and fluency measures show non-significant changes after one year of EMI, with descriptive shifts toward more subordinate clauses and longer sentences](emi-caf-writing-non-significant.md) — related

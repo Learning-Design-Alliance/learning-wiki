@@ -52,6 +52,7 @@ Because all interviewed teachers found the curriculum overwhelming in their init
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 - [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
 - [Implementation recommendations for adopting project-based learning in higher education classrooms](pobl-classroom-implementation-recommendations.md)
+- [Provide teachers with time, resources and professional development to explore iPads before implementation](teacher-pd-time-for-ipad-implementation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Eye-tracker fixation heatmap analysis from 156 trials per landmark condition acr
 - [VGL support improves pointing accuracy, reducing angular errors in spatial knowledge retrieval](vgl-reduces-pointing-angular-errors.md) — related
 - [VGL support speeds up pointing responses for spatial retrieval](vgl-speeds-pointing-responses.md) — related
 - [VGL support reduces distance travelled in wayfinding but not wayfinding response times](vgl-shortens-wayfinding-distance-not-time.md) — related
+- [Experimental participants used orientation problem-solving strategies more, including three times more landmarks and four times more going-back-to-starting-point](blindaid-more-problem-solving-strategies-landmarks.md) — related

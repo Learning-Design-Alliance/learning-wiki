@@ -58,9 +58,11 @@ Activation works because comprehension depends on linking new information to exi
 5. Require learners to use the activated knowledge immediately in discussion or writing ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general-purpose version of this strategy across domains
 - [Activate Background Knowledge](activate_background_knowledge.md) — closely related routine with overlapping techniques
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic counterpart focused on eliciting what learners bring
+- [Set pre-reading questions spanning macroscopic background and textual detail to lead top-down and bottom-up reading](pre-reading-questions-top-down-bottom-up.md)
 
 ## Examples
 - **[Anticipation guides](anticipation-guides.md)** — Before reading a history text, learners agree/disagree with statements about its themes, then revise answers after reading; widely used in adolescent literacy programs.

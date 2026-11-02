@@ -43,6 +43,7 @@ The article recommends that ESP educators design language programs emphasizing a
 
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](autonomy-supportive-context-components.md)
 - [Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility](low-risk-high-reward-teacher-agency-opportunities.md)
+- [Vary test types in grammar classes to reduce monotony and foster learner autonomy](vary-test-types-grammar-classes-strategy.md)
 
 ## Examples
 -

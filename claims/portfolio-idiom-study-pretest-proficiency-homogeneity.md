@@ -89,3 +89,6 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related
 - [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — related
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
+- [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related
+- [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related

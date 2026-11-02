@@ -61,6 +61,7 @@ Pre-reading purpose questions function as a form of [Activation](../principles/a
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends purpose-setting into learner-led questioning
 - [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
 - [Employ combined Pre-question and genre-based instruction in EAP reading for science students](combined-prequestion-genre-eap-reading-strategy.md)
+- [Set pre-reading questions spanning macroscopic background and textual detail to lead top-down and bottom-up reading](pre-reading-questions-top-down-bottom-up.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a related pre-reading structure that frames rather than questions

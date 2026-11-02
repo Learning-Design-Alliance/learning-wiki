@@ -48,3 +48,4 @@ Baseline comparison in the same quasi-experimental study: pre-test means were 48
 - [Ten weeks of Kahoot! clicker use produced significantly higher ESP post-test scores than the same instruction without clickers](clicker-use-higher-esp-posttest-scores.md) — related
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — possibly the same claim (merge candidate)
 - [The experimental group's ESP scores improved significantly from pre-test to post-test under clicker use, while the control group's did not](clicker-group-significant-pre-post-gain.md) — related
+- [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](between-group-speed-difference-post-training.md) — related

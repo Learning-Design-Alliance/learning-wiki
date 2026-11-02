@@ -53,3 +53,4 @@ Detailed item-level comparison across Tables 6-8 of individual DC frequencies in
 - [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](thai-overuse-because-l1-influence.md) — related
 - [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](shared-top-dcs-different-frequencies.md) — related
 - [The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing](and-multifunctional-l1-essays.md) — related
+- [Learners' overuse and misuse of discourse markers is attributed to first-language translation, and uninstructed learners may overuse DMs believing this makes text more cohesive](dm-misuse-from-l1-translation-and-overuse.md) — a narrower finding that bears on this claim

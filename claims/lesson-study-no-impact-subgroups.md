@@ -51,3 +51,4 @@ Pre-specified subgroup analyses in the cluster RCT, using interaction terms of t
 - [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](tdts-fsm-pupils-five-months-progress.md) — related
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](passive-dissemination-no-impact-everfsm-subgroup.md) — related
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
+- [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related

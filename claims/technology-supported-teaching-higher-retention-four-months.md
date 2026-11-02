@@ -77,3 +77,4 @@ Single-factor repeated-measures ANOVA for the control group; printed means pre-t
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
 - [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related
+- [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related

@@ -58,3 +58,6 @@ Pretest comparison in the same quasi-experiment: independent-samples t-test gave
 - [Interactive whiteboard lessons supported by visual materials produce higher listening comprehension achievement than regular 2018 Turkish Course Curriculum teaching in middle school students](iwb-visual-materials-improve-listening-comprehension.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [Audio-only listening instruction produced no statistically significant pre-to-post change in listening comprehension in the control group](audio-only-instruction-no-significant-gain.md) — related
+- [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — a broader claim this one bears on
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related
+- [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related

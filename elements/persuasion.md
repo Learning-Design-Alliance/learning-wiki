@@ -76,6 +76,7 @@ Persuasion tasks integrate knowledge by requiring learners to select, organize, 
 **Model United Nations** — Delegates draft and deliver persuasive position papers and speeches to advance national interests, combining research, rhetoric, and real-time negotiation.
 
 **[Toastmasters International](https://www.toastmasters.org)** — A structured practice community where members deliver persuasive speeches and receive criterion-based feedback on delivery and audience impact.
+- [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

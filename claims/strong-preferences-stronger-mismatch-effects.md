@@ -52,3 +52,5 @@ Theoretical foundation section attributing this finding to Kinshuk and Graf (200
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — reports the opposite
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [A technique helped students identify their own cognitive learning styles and adjust to mismatched courses](learning-style-identification-mismatched-course-adjustment.md) — related
+- [The match advantage appears in both adaptive and non-adaptive online course versions](match-advantage-both-adaptive-and-non-adaptive.md) — related
+- [In a non-adaptive e-learning system, students whose learning mode matches the presentation mode achieve higher test scores than mismatched students](matched-learning-mode-higher-scores-non-aes.md) — related

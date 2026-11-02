@@ -51,3 +51,4 @@ Paired sample t-test on the 20-student experimental group taught through short s
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
+- [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Test of homogeneity of variances (Levene statistic .171, df 82, sig .826) on the
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — a narrower finding that bears on this claim
 - [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
 - [The experimental and control groups did not differ significantly in reading comprehension at pretest](pretest-equivalence-animation-reading-study.md) — related
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — possibly the same claim (merge candidate)

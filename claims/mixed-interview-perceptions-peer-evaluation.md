@@ -48,3 +48,4 @@ Qualitative follow-up interviews with six experimental-group students selected b
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
 - [Access to spell check and editing tools without explicit instruction did not improve, and may have reduced, control students' error correction](tool-access-alone-insufficient-editing.md) — related
 - [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](journal-writing-builds-rapport-and-cooperation.md) — related
+- [Time management is the most overwhelming writing difficulty reported by the EFL students, alongside spelling and grammatical mistakes](time-management-overwhelming-efl-writing-difficulty.md) — related

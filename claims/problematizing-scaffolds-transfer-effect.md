@@ -51,3 +51,4 @@ Planned comparison between problematizing and structuring conditions on a near t
 - [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — reports the opposite
 - [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related
 - [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related
+- [Varied grouping scaffolds produced significantly higher daily-task scores than graphic-organizer-only instruction in sixth-grade geometry](grouping-scaffolds-significant-daily-task-gain.md) — related

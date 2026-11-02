@@ -52,3 +52,4 @@ Pretest-posttest equivalent groups experiment with two Madurai schools; 40 exper
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](multimedia-package-higher-posttest-attitude-mathematics.md) — related
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
+- [E-learning-enriched physics teaching significantly improved scientific thinking scores from pre-test to post-test in the experimental group of intermediate girls](e-learning-enrichment-improves-scientific-thinking-pre-post.md) — related

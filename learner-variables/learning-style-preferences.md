@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (26 show a difference, 11 mixed, 13 no difference) · 26 studies (13 causal, 6 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 26 report an effect size · 49 claims rest on one study
+> **Evidence** · 52 claims (28 show a difference, 11 mixed, 13 no difference) · 28 studies (15 causal, 6 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 10 of 28 report an effect size · 51 claims rest on one study
 
 ## Bottom line
 
@@ -88,6 +88,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](../claims/kinesthetic-learners-worse-off-experiment-class.md) [+M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [The review reports that students' views of the blended learning process differ according to their learning styles](../claims/blended-learning-views-differ-by-learning-style-review.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [The authors report that experimental-group students' learning styles did not change from pre-test to post-test](../claims/learning-styles-unchanged-pre-post-experimental.md) [-W] — instruction changes reported style
+- [Kolb learning-style measures, as a system, are significantly related to student motivation, with Active Experimentation the highest-correlated subscale](../claims/learning-styles-related-to-motivation.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [The experimental class was dominated by sequential (85%), visual (77.5%) and dependent (77.5%) learning-style preferences, and group heterogeneity helped sequential learners absorb holistic reading strategies](../claims/cl-learning-styles-distribution.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

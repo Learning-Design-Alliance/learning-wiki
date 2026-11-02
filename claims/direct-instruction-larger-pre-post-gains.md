@@ -48,3 +48,4 @@ Descriptive pre-test/post-test means on the 80-item achievement test for both gr
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
+- [Eleventh-grade students taught literature with the discourse analysis method showed larger pretest-to-posttest gains in reading comprehension than the traditionally taught control group](discourse-analysis-improves-reading-comprehension.md) — related

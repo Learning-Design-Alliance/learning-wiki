@@ -48,3 +48,4 @@ ANOVA results on the 120-item schema-based cloze MCIT: pretest means 35.20 (cont
 - [Undergraduate medical students taught via schema-based instruction significantly outperformed translation-based instruction students on an unseen achievement test of general English](sbi-outperforms-tbi-achievement-test-medical-students.md) — related
 - [Schema-based instruction produced significantly higher reading comprehension than translation-based instruction](sbi-significantly-higher-reading-comprehension.md) — related
 - [Schema-based instruction produced significantly higher structure knowledge than translation-based instruction](sbi-significantly-higher-structure-knowledge.md) — related
+- [Learners' overuse and misuse of discourse markers is attributed to first-language translation, and uninstructed learners may overuse DMs believing this makes text more cohesive](dm-misuse-from-l1-translation-and-overuse.md) — related

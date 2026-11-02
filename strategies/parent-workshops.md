@@ -70,6 +70,7 @@ Parent workshops work when they change what parents *do*, not just what they kno
 - [Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority](parent-support-freshman-attendance-priority.md)
 - [Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts](reciprocal-teaching-parent-persuasion-strategy.md)
 - [Implement home-based digital SEC trainings with screen-time limits and family-participation options](digital-sec-training-implementation-safeguards.md)
+- [Combine written take-home packets, make-and-take workshops, and supervised parent training programs](three-component-parent-training-strategy.md)
 
 ## Examples
 - **Dialogic reading workshops** based on Whitehurst's shared-reading research: parents learn to ask expansion questions ("What happened next? Why?") during read-alouds; randomized trials show gains in children's expressive language when parents are trained with modeling and feedback.

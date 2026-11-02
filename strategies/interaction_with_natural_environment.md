@@ -67,6 +67,7 @@ Nature exposure functions as a low-cost lever on the attentional resources that 
 - [Provide autonomy-supportive outdoor play in nature-rich settings to foster children's creativity](autonomy-supportive-nature-play-creativity.md)
 - [Incorporate self-regulation or classroom-management components into mathematics interventions for lower-achieving students](self-regulation-components-for-low-attention-math-students.md)
 - [Use outdoor experiential activities engaging the five senses to activate adult learners' affective domain in environmental education](outdoor-five-senses-experiential-activities-adults.md)
+- [Incorporate outdoor school ground lessons into primary science teaching and curriculum as an additional instructional method](outdoor-school-ground-lessons-in-science-curriculum.md)
 
 ## Examples
 - **Li & Sullivan classroom window study (2016)**: high school students in classrooms with views of greenery showed significantly better attention test scores and stress recovery than peers facing built views or windowless walls

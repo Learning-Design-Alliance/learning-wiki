@@ -51,3 +51,4 @@ Independent-Samples T-test on pre-test means of the two intact classes (46 stude
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — possibly the same claim (merge candidate)
 - [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — related
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
+- [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related

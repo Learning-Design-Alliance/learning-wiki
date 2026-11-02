@@ -84,3 +84,4 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — reports the opposite
 - [Number of treatment sessions received was not associated with end-of-treatment performance](dosage-not-associated-with-outcomes.md) — related
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
+- [Locomotor skill gains plateau after about 4 weeks of the high-dosage intervention, while object control gains continue between weeks 4 and 8](motor-intervention-dosage-plateau-pattern.md) — related

@@ -57,3 +57,4 @@ Pre-specified subgroup analysis of the pupil-randomised trial comparing pupils c
 - [SPOKES showed a positive effect on Key Stage 1 teacher-based literacy measures, an outcome not pre-specified in the trial protocol](spokes-positive-ks1-literacy-effect.md) — related
 - [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
+- [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related

@@ -95,3 +95,4 @@ Paired sample t-tests on pre/post CPS scores for both groups (n = 30 each). The 
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — related
+- [Pupils taught with the learning technologies reached a higher complex assessment of educational skills than control pupils (63.4% vs 50.4% of maximum)](learning-technologies-higher-complex-assessment-experimental-group.md) — related

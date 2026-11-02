@@ -76,10 +76,12 @@ Graphic organizers reduce extraneous cognitive load by offloading intermediate p
 5. Fade the organizer: partial templates, then blank paper with a prompt to "draw the structure yourself."
 
 ## Related Strategies
+
 - [Schema-Based Instruction](schema-based-instruction.md) — the word-problem variant of math graphic organizers, with the strongest evidence base
 - [Worked Examples](worked-examples-first.md) — a completed organizer on a solved problem functions as a worked example of the representation itself
 - [Annotating](../principles/annotating.md) — marking up problems shares the goal of making structure visible
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — teacher modeling of organizer use makes expert problem-reading visible
+- [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](combine-organizer-with-varied-grouping-scaffolds.md)
 
 ## Examples
 - **Schema diagrams in Jitendra's word-problem instruction** — students classify a problem as "change," "group," or "compare" and complete the matching diagram before solving; validated across elementary intervention studies.

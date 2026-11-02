@@ -42,6 +42,7 @@ The article's suggestions section sets out steps teachers should take before and
 - [Implementation safeguards when applying jigsaw in laboratory courses](jigsaw-lab-implementation-safeguards.md)
 - [Jigsaw](jigsaw.md)
 - [Jigsaw Reading](jigsaw-reading.md)
+- [Explain the jigsaw technique's aim and steps to students beforehand and guide them during implementation](explain-jigsaw-steps-and-guide-implementation.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Delayed posttest results for dictogloss writing accuracy in the four-session exp
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — related
 - [On a paired focused communication task measuring implicit knowledge, the FCT group significantly outperformed both the control group and the CPA group at delayed posttest](fct-outperformed-cpa-paired-communication-task.md) — related
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — reports the opposite
+- [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related

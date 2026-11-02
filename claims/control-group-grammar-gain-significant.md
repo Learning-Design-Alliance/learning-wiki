@@ -56,3 +56,4 @@ Paired-samples t-test within the control group (n=40); the article reports the p
 - [The control group's grammar scores also increased significantly from pretest to posttest without any error correction session](control-group-significant-prepost-gain.md) — related
 - [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — related
 - [Conventional grammar teaching produced no significant pre-to-post change in the control group](conventional-method-no-gain-control-group-grammar.md) — reports the opposite
+- [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related

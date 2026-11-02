@@ -58,3 +58,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
 - [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related
+- [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related

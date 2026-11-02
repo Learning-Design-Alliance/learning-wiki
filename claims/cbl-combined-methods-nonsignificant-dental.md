@@ -59,3 +59,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis of 29 RCTs
 - [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — reports the opposite
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
+- [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related

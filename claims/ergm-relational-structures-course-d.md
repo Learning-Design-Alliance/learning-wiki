@@ -66,3 +66,4 @@ Same ERGM analysis across course groups. The authors interpret this as "a lower 
 ## Related Claims
 - [Twenty online courses cluster into four quadrants of individual participation and interactivity derived from posting-activity indicators](courses-four-quadrants-participation-interactivity.md) — related
 - [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md) — related
+- [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](reciprocity-shifted-toward-self-regulation.md) — related

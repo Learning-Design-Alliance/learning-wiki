@@ -69,3 +69,6 @@ Pre-specified subgroup analysis on the primary reading outcome using free school
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related
 - [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related
 - [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related
+- [The two-year LRS cohort showed no evidence of benefit, with point estimates slightly negative for maths](lrs-no-impact-cohort-b-ks2.md) — related
+- [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](sarp-enjoyment-fsm-differential.md) — related
+- [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — related

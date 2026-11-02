@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (51 for, 30 mixed, 1 against) · 67 studies (29 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 67 report an effect size · 74 claims rest on one study
+> **Evidence** · 83 claims (52 for, 30 mixed, 1 against) · 68 studies (30 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 68 report an effect size · 75 claims rest on one study
 
 ## Description and scope
 
@@ -130,6 +130,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - Cooperative learning instruction produced better English vocabulary acquisition than competitive learning instruction among Iranian intermediate EFL learners [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
 - Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
 - [Co-operative learning produces significantly higher English grammar achievement than conventional methods in secondary students](../claims/cooperative-learning-beats-conventional-english-grammar-secondary.md) [+W] — attached 2026-11-02 from G. Singaravelu (2010), which proposed "A seven-activity co-operative learning sequence for grammar lessons"; tests this page's relationship.
+- [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](../claims/cooperative-learning-activities-improve-efl-oral-fluency.md) [+W] — attached 2026-11-02 from Hassan Alrayah (2018), which proposed "Train EFL teachers in Cooperative Learning activities and generalize their use in English language teaching"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -222,6 +223,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](../designs/fraction-face-off-cooperative-lesson-structure.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](../strategies/heterogeneous-team-grouping-peer-tutoring-cbi.md)
 - [Rotate heterogeneous cooperative learning clusters across distinct cooperative techniques and topics throughout a unit](../strategies/rotate-heterogeneous-clusters-cooperative-techniques.md)
+- [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

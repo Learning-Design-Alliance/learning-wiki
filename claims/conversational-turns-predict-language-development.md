@@ -112,3 +112,4 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
 - [Reliable dynamic-video social feedback produces more widespread cortical activation, better positive/negative feedback differentiation, and greater impact on word learning than symbolic feedback](dynamic-social-feedback-boosts-word-learning.md) — related
+- [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related

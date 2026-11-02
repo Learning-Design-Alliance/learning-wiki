@@ -152,3 +152,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
+- [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related

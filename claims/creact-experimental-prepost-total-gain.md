@@ -49,3 +49,4 @@ Dependent samples t-test within the 19-student CREACT group after four weeks of 
 - [Within the CREACT group, flexibility and originality improved significantly while fluency and elaboration did not](creact-experimental-subcomponent-mixed-gains.md) — a narrower finding that bears on this claim
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related
 - [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](model-pretest-posttest-gains-creative-thinking-achievement.md) — related
+- [Creative action increased in both experimental groups, with learners working creatively only fragmentally rising sharply](creative-action-increased-experimental-groups.md) — related

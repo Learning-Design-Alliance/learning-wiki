@@ -53,3 +53,4 @@ Implementation detail from the DiLeo (2007) cluster randomized trial. In two sch
 - [Students who met the recommended usage benchmark for i-Ready showed a statistically significant and educationally large advantage in mathematics proficiency](iready-fidelity-sample-significant-proficiency-advantage.md)
 - [Only about nine percent of students using the mathematics products met the providers' recommended usage benchmarks in year one](only-nine-percent-met-usage-benchmark-year-one.md)
 - [Most intervention teachers implemented CMP2 at levels consistent with publisher recommendations on class time and units completed](cmp2-implementation-fidelity.md) — related
+- [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related

@@ -49,3 +49,4 @@ Further investigation of the nature of incorrect analyses in the evaluation data
 - [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
+- [Teachers and pupils identified weaknesses in the LRS: no showing of working, mis-programmed answers, and small handsets](lrs-implementation-weaknesses.md) — related

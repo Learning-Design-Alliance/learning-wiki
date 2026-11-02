@@ -63,3 +63,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related
 - [Within the experimental group, van Hiele levels differed significantly across the three posttests, increasing from right to acute to obtuse angle tests](repeated-measures-increase-across-posttests-gsp.md) — a narrower finding that bears on this claim
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related
+- [A 2×2 mixed ANOVA showed a significant time-by-group interaction in narrative writing scores favoring DS-integrated instruction over traditional writing instruction](ds-integrated-writing-instruction-interaction-advantage.md) — related

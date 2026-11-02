@@ -144,6 +144,7 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — resource interdependence: each member holds one segment the group needs; add an individual check so teaching, not only presenting, is rewarded
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](../strategies/cooperative-learning-group-work-recommendation.md)
 - [Constructive competition through Social Interdependence Theory](../designs/constructive-competition-social-interdependence.md) — low-stakes Kahoot competition with fair rules and no grade impact in an undergraduate course
+- [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [https://doi.org/10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

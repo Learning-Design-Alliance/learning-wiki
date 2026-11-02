@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: salazar-2015
     resource: "https://eric.ed.gov/?id=EJ1082724"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Wilcoxon Sign Rank Tests showed significant pretest-to-posttest differences within both groups, and a Mann-Whitney Test showed a significant between-group posttest difference. [→ Salazar 2015](#salazar-2015)
@@ -55,3 +56,4 @@ Within-group Wilcoxon tests (control W=-28; experimental W=-231, z-observed 4.01
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
 - [At-risk grade 3 students taught with the Problem Patterns approach showed significantly higher posttest ranks than control students](pp-approach-grade3-posttest-significant.md) — related
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
+- [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](blended-learning-within-group-gain-math-conceptual-understanding.md) — related

@@ -75,3 +75,4 @@ Elizabeth Forward Amplify usage data shown in Figure 8; the report states these 
 - [Additional time on EdTech decreases schoolchildren's motivation and engagement in subject material](additional-edtech-time-decreases-motivation-engagement.md) — related
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
 - [Mean new vocabulary learned per hour declined as students increased difficulty level, so time spent was not the primary determinant of learning](productivity-declines-with-difficulty-level.md) — related
+- [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related

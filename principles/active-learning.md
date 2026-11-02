@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (41 for, 30 mixed, 3 against) · 60 studies (23 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 60 report an effect size · 66 claims rest on one study
+> **Evidence** · 76 claims (43 for, 30 mixed, 3 against) · 61 studies (24 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 61 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [On a delayed delayed-post-test covering all 30 items, the PBL group (mean 23.80) outperformed the control group (mean 17.15)](../claims/pbl-delayed-delayed-posttest-outperformance.md) [+W] — attached 2026-11-01 from Shafaei et al. (2015), which proposed "Replace rote, translation-based vocabulary teaching with interactive, project-based methods"; tests this page's relationship.
 - [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](../claims/tblt-reading-outperforms-traditional-instruction-iranian-efl.md) [+W] — attached 2026-11-02 from Mozhgan Madhkhan et al. (2017), which proposed "Replace traditional post-reading comprehension questions with pre-planned task-based reading activities"; tests this page's relationship.
 - [The read-note-and-discuss task type ranked highest, followed by read-and-discuss, with read-and-think and read-and-write equal](../claims/read-note-discuss-task-type-highest-reading-performance.md) [+W] — attached 2026-11-02 from Mozhgan Madhkhan et al. (2017), which proposed "Replace traditional post-reading comprehension questions with pre-planned task-based reading activities".
+- [Active learning activities produce higher post-test achievement than traditional direct instruction in a fifth-grade English unit](../claims/active-learning-higher-posttest-achievement-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
+- [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](../claims/active-learning-permanence-effect-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

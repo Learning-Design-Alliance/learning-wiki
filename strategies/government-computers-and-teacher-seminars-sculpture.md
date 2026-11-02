@@ -47,7 +47,8 @@ The article recommends two implementable actions to enhance sculpture education:
 - [High and average creative-ability students significantly outperformed low creative-ability students, but high and average did not differ](../claims/scheffe-high-average-beat-low-creative-ability.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
 
 ## Examples
 -

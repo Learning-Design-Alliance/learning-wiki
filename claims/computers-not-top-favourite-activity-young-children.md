@@ -48,3 +48,4 @@ Descriptive analysis of interview responses from 52 children aged 44-79 months, 
 - [Mere home access to computers did not sustain young children's interest, which declined for home-only users](access-alone-does-not-sustain-computer-interest.md) — related
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
 - [Children in the seven-month computer intervention reported more positive computer attitudes post-intervention, including doubled confidence](computer-intervention-increased-positive-attitudes.md) — related
+- [Low-motivated pupils compensated learning failures mainly through friends (35%), television and computer (21%), no hobbies (31%) and sport (13%)](low-motivated-pupils-compensation-activities.md) — related

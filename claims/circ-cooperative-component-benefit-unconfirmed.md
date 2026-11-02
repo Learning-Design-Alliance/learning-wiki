@@ -51,3 +51,5 @@ Alternate contrast from the same cluster randomized trial (Appendix D.3): CIRC v
 - [Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34](grades36-comprehension-programs-es-034.md) — related
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
+- [The authors observed that CIRC students gained vocabulary, became more able to identify main ideas and references, and worked in an enjoyable, enthusiastic group climate](circ-observed-vocabulary-and-climate-gains.md) — related
+- [Post-test reading comprehension means were 81.45 for the CIRC group versus 76.09 for the control group](circ-posttest-means-81-45-vs-76-09.md) — related

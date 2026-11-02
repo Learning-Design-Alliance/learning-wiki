@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (30 show a difference, 8 mixed, 4 no difference) · 23 studies (15 causal, 4 review, 4 associational), `q1`–`q4` · 7 of 23 report an effect size · 41 claims rest on one study
+> **Evidence** · 45 claims (33 show a difference, 8 mixed, 4 no difference) · 26 studies (18 causal, 4 review, 4 associational), `q1`–`q4` · 7 of 26 report an effect size · 44 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -78,6 +78,9 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [The prw group scored higher on six of seven inferential-comprehension sub-skills, but only the sequence sub-skill difference was statistically significant](../claims/prw-subskill-performance-mixed-significance.md) [~M] — instruction changes it
 - [The study rejects the null hypothesis that writing-based pre-reading tasks have no impact on sub-skills of inferential reading comprehension](../claims/prw-null-hypothesis-rejected.md) [+M] — instruction changes it
 - [iSTART training enhanced deep comprehension on a transfer task, shown by higher bridging inference scores](../claims/istart-transfer-bridging-inference-gains.md) [+M] — instruction changes it
+- [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](../claims/discourse-analysis-student-reported-thinking-gains.md) [+W] — instruction changes it
+- [The pre-inquiry class improved specific science process subskills — measuring, inferencing, controlling variables and generalization — but not observing, classifying or predicting](../claims/pre-inquiry-subskill-gains-measuring-inferencing.md) [+M] — instruction changes it
+- [Within the eco-hunt group, all six science process skill dimensions improved significantly, with classifying improving most (39.3%) and predicting least (9.2%)](../claims/sps-dimension-gains-classifying-most-predicting-least.md) [+M] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

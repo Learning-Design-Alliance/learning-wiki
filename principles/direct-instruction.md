@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (24 for, 18 mixed, 4 against) · 52 studies (22 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 52 report an effect size · 38 claims rest on one study
+> **Evidence** · 47 claims (24 for, 19 mixed, 4 against) · 53 studies (23 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 53 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](../claims/pf-no-advantage-young-students-conceptual-knowledge.md) [+W]
 - [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](../claims/guidance-moderates-digital-inquiry.md) [~W]
 - [Prior meta-analytic evidence reported by the article indicates direct instruction succeeds in teaching academic skills to students with special needs](../claims/kinder-meta-analysis-direct-instruction-special-needs.md) [+W]
+- [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](../claims/instruction-type-comparison-inconclusive-implicit-slight-edge.md) [~W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

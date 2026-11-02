@@ -48,3 +48,4 @@ Semi-experimental ANCOVA on post-test scores of 70 fourth graders (experimental 
 - [The jigsaw group's post-test attitude mean (24.96) exceeded the conventional group's (17.65) in estimated marginal means](jigsaw-higher-post-mean-than-conventional.md) — related
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
 - [The pre-test covariate had no statistically significant effect on post-test concept acquisition](pretest-covariate-nonsignificant-jigsaw-study.md) — related
+- [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related

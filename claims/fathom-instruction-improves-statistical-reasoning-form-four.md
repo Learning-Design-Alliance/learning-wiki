@@ -72,3 +72,4 @@ Descriptive ANCOVA-adjusted posttest means for the same 72-student quasi-experim
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
 - [Experimental and control groups were similar on pretests but differed vastly on posttests, with experimental posttest means near triple control means](pp-pretest-posttest-means-contrast.md) — related
+- [The experimental and control groups did not differ significantly at pre-test but the experimental group outperformed the control group at post-test](ds-posttest-between-group-outperformance.md) — related

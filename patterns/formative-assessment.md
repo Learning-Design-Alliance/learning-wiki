@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 50 claims (22 for, 26 mixed, 2 against) · 57 studies (17 causal, 14 quant-synthesis, 12 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 57 report an effect size · 39 claims rest on one study
+> **Evidence** · 51 claims (22 for, 27 mixed, 2 against) · 58 studies (17 causal, 15 quant-synthesis, 12 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 58 report an effect size · 40 claims rest on one study
 
 ## Description
 
@@ -218,6 +218,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](../claims/kluger-denis-feedback-worse-50-of-131.md) [~M]
 - [Feedback and validation, including feedback on actions taken and provision of examples and explanations, are perceived as enabling critical thinking development in SBL using technology](../claims/feedback-validation-enabler-sbl.md) [~W]
 - [Trainee feedback is an inappropriate measure of teacher quality because it may not measure teaching goals, lacks actionable information, and can be manipulated](../claims/trainee-feedback-inappropriate-teacher-quality-measure.md) [~W]
+- [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](../claims/wcf-inconclusive-predictor-long-term-accuracy.md) [~W]
 
 ## Key Sources
 

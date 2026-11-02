@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 490 claims (233 for, 231 mixed, 26 against) · 260 studies (128 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 86 of 260 report an effect size · 483 claims rest on one study
+> **Evidence** · 492 claims (235 for, 231 mixed, 26 against) · 261 studies (128 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 86 of 261 report an effect size · 485 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -534,6 +534,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Prospective teachers’ overall metacognition awareness (MAI) rose significantly from pre-test to post-test after inquiry learning in three classes with no control group, at moderate overall n-gain in each class](../claims/inquiry-learning-increases-metacognition-awareness-mai.md) [+W] — attached 2026-11-02 from Asy’ari et al. (2019), which proposed "Metacognition knowledge and metacognition awareness as distinct, measurable components of metacognition".
 - [Students' self-assessed performance on the main test was higher than their actual scores indicated](../claims/student-self-assessment-exceeds-actual-performance.md) [-W]
 - [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](../claims/meeting-deadlines-self-assessment-calibration.md) [~W]
+- [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](../claims/poor-brainstorming-use-underlining-planning-efl-writers.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
+- [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
 
 ## The evidence by question
 

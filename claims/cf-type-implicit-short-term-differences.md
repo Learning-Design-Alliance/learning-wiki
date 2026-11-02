@@ -53,3 +53,4 @@ Tukey post-hoc results for dictogloss writing accuracy, the measure of implicit 
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — related
+- [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related

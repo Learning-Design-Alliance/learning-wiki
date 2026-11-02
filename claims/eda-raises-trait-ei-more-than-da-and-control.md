@@ -51,3 +51,4 @@ Quasi-experimental pretest-treatment-posttest study with three intact classes (E
 
 ## Related Claims
 - [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related
+- [G-DA instruction improved L2 writing performance: the experimental group outperformed the control group on the posttest](gda-outperformed-control-writing-posttest.md) — related

@@ -51,3 +51,4 @@ Process evaluation collecting feedback from teachers, pupils and parents about m
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — a broader claim this one bears on
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [Pupils who attended the Saturday school showed positive engagement, improved behaviour, confidence, and social skills per the process evaluation](hsom-positive-engagement-attenders.md) — a narrower finding that bears on this claim
+- [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](sarp-implementation-challenges.md) — related

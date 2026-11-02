@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (52 for, 44 mixed, 4 against) · 70 studies (30 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 25 of 70 report an effect size · 92 claims rest on one study
+> **Evidence** · 101 claims (53 for, 44 mixed, 4 against) · 71 studies (31 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 26 of 71 report an effect size · 93 claims rest on one study
 
 ## Conditional relationship
 
@@ -234,6 +234,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Experimental-class students gave significantly higher course evaluation ratings than control students on all selected questions](../claims/discussion-week-higher-course-evaluations.md) [+W]
 - [Experimental-class students earned significantly higher term paper grades than control students](../claims/discussion-week-term-paper-grades.md) [+W]
 - [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
+- [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](../claims/flipped-course-toeic-gain-exceeds-control.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

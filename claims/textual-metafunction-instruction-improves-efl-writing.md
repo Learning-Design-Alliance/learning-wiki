@@ -49,3 +49,4 @@ True-experimental pre-post study: 60 intermediate Iranian EFL learners randomly 
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](supplementary-exercises-improve-organized-efl-writing.md) — related
+- [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](dm-instruction-improves-cohesive-writing.md) — related
