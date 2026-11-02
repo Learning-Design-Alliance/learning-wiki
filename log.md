@@ -12,6 +12,7 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-02
 
+* **Ingest**: [claims/parent-involvement-improves-achievement](claims/parent-involvement-improves-achievement.md) — [Parental involvement in middle school: A meta-analytic assessment of the strategies that promote achievement, doi:10.1037/a0015362] — evidence entry checked against the full article and extended
 * **Ingest**: claims/blended-learning-groups-equivalent-at-pretest (removed 2026-11-02) — Ingested from eric-ej1444055 (Effect of Blended Learning Educational Model on Secondary School Students' Mathematics Conceptual Understanding) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/blended-learning-within-group-gain-math-conceptual-understanding](claims/blended-learning-within-group-gain-math-conceptual-understanding.md) — Ingested from eric-ej1444055 (Effect of Blended Learning Educational Model on Secondary School Students' Mathematics Conceptual Understanding) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/blended-learning-lab-rotation-improves-math-conceptual-understanding](claims/blended-learning-lab-rotation-improves-math-conceptual-understanding.md) — Ingested from eric-ej1444055 (Effect of Blended Learning Educational Model on Secondary School Students' Mathematics Conceptual Understanding) via eval_harness.py + ingest_extractions.py
