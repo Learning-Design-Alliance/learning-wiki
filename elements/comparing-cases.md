@@ -25,7 +25,7 @@ sources:
 # Comparing Cases
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles. It is useful when the goal is abstraction, discrimination, or transfer beyond a single instance.
