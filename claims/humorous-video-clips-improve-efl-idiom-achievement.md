@@ -50,3 +50,4 @@ Quasi-experimental nonequivalent intact-groups study at the University of Bojnor
 - [Before treatment, the experimental and control groups did not differ significantly on idiom pretest scores](idiom-drawing-groups-homogeneous-pretest.md) — possibly the same claim (merge candidate)
 - [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related
 - [Exposure to TV-series video clips did not produce a statistically significant advantage in immediate learning of formulaic sequences](tv-clips-no-significant-fs-learning-difference.md) — related
+- [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related

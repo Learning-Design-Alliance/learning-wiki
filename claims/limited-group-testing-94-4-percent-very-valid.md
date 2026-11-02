@@ -47,3 +47,4 @@ Limited product tryout questionnaire given to six students classified as high, m
 
 ## Related Claims
 - [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related
+- [Preliminary field testing with nine students of mixed ability rated the NGSS worksheet 3.22, indicating it could be understood across ability levels](ngss-worksheet-preliminary-field-test-mixed-ability.md) — related

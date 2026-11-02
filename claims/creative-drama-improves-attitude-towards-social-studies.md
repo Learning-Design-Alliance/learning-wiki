@@ -53,3 +53,4 @@ ANCOVA on the Attitude Towards Social Studies Scale (35 items, reliability .88 i
 - [iPod inquiry teaching produced significantly more positive scientific attitudes than regular teaching for third graders](ipod-inquiry-improves-scientific-attitudes.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
+- [Direct instruction strategy improves attitudes toward mathematics among students with learning difficulties](direct-instruction-improves-math-attitudes.md) — related

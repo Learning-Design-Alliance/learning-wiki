@@ -52,3 +52,4 @@ Omnibus ANCOVA on post-test attitude scores for the three groups, with students'
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
+- [Students using the CSTPP in class without parental participation showed no significant pre-post change in overall attitudes to learning English](cstpp-no-parental-participation-no-attitude-change.md) — related

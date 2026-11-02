@@ -54,3 +54,4 @@ Subgroup perception reported from the parent interviews: families without prior 
 - [Preschool attendance, home learning activities, and parental support buffer the association between low SES and lower cognitive and language outcomes](preschool-home-learning-parental-support-buffer.md) — related
 - [Concept Cat facilitated parents' involvement in the setting and their understanding of children's learning, and all surveyed lead practitioners intended to continue the programme](concept-cat-parent-involvement-and-sustainability.md) — related
 - [Teachers and parents reported that ATC's Home Links videos improved home-to-school interactions and student engagement](atc-home-links-engagement-home-school.md) — related
+- [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related

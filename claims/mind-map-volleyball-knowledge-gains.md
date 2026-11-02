@@ -66,3 +66,4 @@ Wilcoxon Signed-Rank comparison of pretest and posttest Volleyball Knowledge Tes
 ## Related Claims
 - [Underhand serve success scores did not differ significantly between the mind map and conventional-method groups](mind-map-underhand-serve-null.md) — related
 - [The mind map group's total volleyball success score was significantly higher than the control group's, with a large printed effect size](mind-map-total-volleyball-success.md) — related
+- [The experimental group improved significantly from pre-test to post-test while the control group did not](pbl-within-group-achievement-gain.md) — related

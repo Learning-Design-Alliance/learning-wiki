@@ -61,6 +61,7 @@ The packet operationalizes Cummins's and Canale & Swain's theories using Steve K
 - [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/accessible-vocabulary-syntax.md)
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
+- [Use comprehensible-input strategies in CLIL: visuals, synonyms and paraphrasing in L2, and code-switching to L1](../strategies/clil-comprehensible-input-strategies.md)
 
 ## Key Sources
 - Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607

@@ -57,3 +57,4 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — a broader claim this one bears on
 - [Students preferred online simulation approaches that provide clear instruction, correction and caring feedback](students-prefer-clear-instruction-correction-caring-feedback.md) — related
+- [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related

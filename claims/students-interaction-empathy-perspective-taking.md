@@ -81,3 +81,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — related
 - [Blog commenting promoted interaction among participants but did not achieve collaboration for social construction of knowledge or higher-order competencies such as coaching](blog-commenting-interaction-not-knowledge-construction.md) — related
 - [A social collaborative VR-based construction safety education system enhances experiential safety learning](social-collaborative-vr-enhances-safety-learning.md) — related
+- [Students valued experiential learning most about how they learned, citing community interviews and intercultural teamwork as powerful learning moments](experiential-learning-valued-most-sis.md) — related

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (113 show a difference, 37 mixed, 28 no difference) · 126 studies (46 causal, 44 associational, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 126 report an effect size · 175 claims rest on one study
+> **Evidence** · 179 claims (113 show a difference, 37 mixed, 29 no difference) · 127 studies (47 causal, 44 associational, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 127 report an effect size · 176 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -214,6 +214,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Reasoning ability moderated the word-problem intervention's effect, which did not compensate for very low reasoning: the WP advantage was nonsignificant 1.81 SDs below the sample mean](../claims/reasoning-moderator-word-problem-effect-not-compensatory.md) [~M] — an instructional effect differs with it
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](../claims/baseline-pretest-predicts-game-performance-better-than-cmt.md) [+M] — learners who differ on it differ in outcomes
 - [Improvement in mathematical analogical ability differs significantly by students' initial ability category, with higher initial ability associated with higher gain](../claims/initial-ability-category-analogical-gain-differences.md) [+M] — an instructional effect differs with it
+- [No significant achievement difference between high- and low-ability students taught with reflective inquiry](../claims/no-ability-level-difference-reflective-inquiry.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

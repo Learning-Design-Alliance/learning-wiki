@@ -63,3 +63,6 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Paired t-tests show a statistically significant pretest-to-posttest increase in analytical thinking skills in all four classes at α = 0.05](cbl-analytical-thinking-significant-paired-t-test.md) — a narrower finding that bears on this claim
 - [All four groups showed statistically significant pretest-to-posttest achievement gains, but gains differed greatly in size](all-groups-gained-unequally-pretest-posttest.md) — related
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
+- [Both CLIL and L1 groups improved significantly in science content knowledge within each experiment](content-knowledge-gains-both-groups.md) — related
+- [The conventionally instructed control group also improved significantly from pretest to posttest in all three teaching-skill domains](control-group-prepost-gains.md) — a narrower finding that bears on this claim
+- [The WebQuest experimental group improved significantly from pretest to posttest in planning, implementation and evaluation teaching skills](webquest-group-prepost-gains.md) — a narrower finding that bears on this claim

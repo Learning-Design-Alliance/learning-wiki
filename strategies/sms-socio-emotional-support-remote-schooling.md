@@ -54,6 +54,8 @@ The article recommends that, beyond curricular remediation, public school system
 ## Related Strategies
 
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
+- [Pair print texts with app-based digital activities and text-message nudges to parents to support at-home reading](pairing-print-and-digital-content-strategy.md)
+- [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 
 ## Examples
 -

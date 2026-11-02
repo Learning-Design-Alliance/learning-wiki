@@ -42,7 +42,8 @@ Education RCTs often use pretest-posttest designs because including pretests imp
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](../claims/proxy-pretest-difference-driven-by-bias-not-precision.md) [~W]
 
 ## Related Research Methods
--
+
+- [Late pretest decontamination procedure](late-pretest-decontamination-procedure.md)
 
 ## Key Sources
 - Peter Z. Schochet. (2010). The Late Pretest Problem in Randomized Control Trials of Education Interventions. Journal of Educational and Behavioral Statistics, vol. 35, no. 4. https://www.mathematica.org

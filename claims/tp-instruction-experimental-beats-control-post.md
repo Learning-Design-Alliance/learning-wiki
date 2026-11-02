@@ -50,3 +50,5 @@ Independent t-tests comparing CSE and CSC post-essays (30 per group): linear pro
 - [The experimental group moved closer to native speakers in constant progression, though less significantly than in linear progression or new Themes](tp-instruction-constant-progression-partial-convergence.md) — related
 - [Instruction in thematic progression significantly reduced Chinese college students' use of new Themes between pre- and post-essays](tp-instruction-reduces-new-themes.md) — related
 - [Instruction in thematic progression significantly increased Chinese college students' use of linear progressions between pre- and post-essays](tp-instruction-increases-linear-progressions.md) — related
+- [After instruction, the experimental class used more thematic progression patterns and less constant-pattern predominance than the controlled class](posttest-tp-pattern-distribution-shift.md) — related
+- [Sample analysis indicates good compositions are distinguished by varied, well-linked theme choices and thematic progression patterns](theme-choice-distinguishes-good-compositions.md) — related

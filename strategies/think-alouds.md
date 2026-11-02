@@ -65,6 +65,7 @@ Think-alouds are a form of cognitive modeling: they convert tacit comprehension 
 - Reciprocal Teaching — a group-based extension in which students lead the think-aloud themselves
 - [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
 - [Use chunking, gaze training and think-aloud cognitive rehearsal to support VWM capacity in surgical trainees](chunking-gaze-training-think-aloud-mis.md)
+- [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 
 ## Examples
 - A middle-school teacher reads a news article on a current event aloud, pausing to question the author's claims and connect them to prior class discussions; students then repeat the process in pairs with a second article.

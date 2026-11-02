@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (25 for, 22 mixed, 4 against) · 52 studies (20 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 44 claims rest on one study
+> **Evidence** · 54 claims (28 for, 22 mixed, 4 against) · 53 studies (21 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -118,6 +118,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](../claims/demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) [+W] — attached 2026-11-01 from Muhammad Husnu (2018), which proposed "Teachers should use the demonstration technique to teach speaking to EFL learners".
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](../claims/strategy-instruction-improves-grade11-esl-reading-comprehension.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](../claims/explicit-instruction-increases-reading-strategy-use.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
+- [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](../claims/direct-instruction-improves-math-achievement-learning-difficulties.md) [+W] — attached 2026-11-02 from Ahmad Abdulhameed Aufan Al-Makahleh (2011), which proposed "Eight-step direct instruction lesson sequence for skill mastery"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -200,6 +201,8 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](../claims/students-enjoy-demonstration-method-step-by-step-explanation.md) [~W]
 - [Explicit reduced-forms instruction increases EFL learners' ability to produce reduced forms in their own speech, while regular instruction alone does not](../claims/reduced-forms-instruction-improves-production.md) [+W]
 - [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](../claims/pblccs-better-n-gain-each-mct-indicator.md) [-W]
+- [Prior meta-analytic evidence reported by the article indicates direct instruction succeeds in teaching academic skills to students with special needs](../claims/kinder-meta-analysis-direct-instruction-special-needs.md) [+W]
+- [Direct instruction strategy improves attitudes toward mathematics among students with learning difficulties](../claims/direct-instruction-improves-math-attitudes.md) [+W]
 
 ## Examples
 

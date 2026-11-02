@@ -71,3 +71,4 @@ Same quasi-experiment: the overall final grade comparison was not significant (t
 - [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](flipped-learning-no-posttest-advantage-video-production.md) — reports the opposite
+- [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](mobile-3g-use-higher-achievement-scores.md) — a narrower finding that bears on this claim

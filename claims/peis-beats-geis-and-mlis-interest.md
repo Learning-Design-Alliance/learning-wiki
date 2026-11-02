@@ -49,3 +49,4 @@ Scheffe post-hoc comparisons following the ANCOVA on estimated marginal means: P
 - [Verbal ability has a significant main effect on primary students’ interest in mathematics, with higher verbal ability groups scoring higher](verbal-ability-main-effect-interest-mathematics.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Writing poems as a writing-to-learn activity produced significantly higher Force and Motion achievement than conventional instruction in fifth-grade students](writing-poems-improves-force-motion-achievement.md) — related
+- [The retention advantage of a pre-lecture external stimulus does not differ significantly by stimulus type (poem, game, or puzzle)](stimulus-type-no-retention-difference.md) — related

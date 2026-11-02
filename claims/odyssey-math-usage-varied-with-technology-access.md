@@ -52,3 +52,4 @@ Implementation detail from the DiLeo (2007) cluster randomized trial. In two sch
 - [Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students](rm-cc5-student-engagement-implementation-fidelity.md) — related
 - [Students who met the recommended usage benchmark for i-Ready showed a statistically significant and educationally large advantage in mathematics proficiency](iready-fidelity-sample-significant-proficiency-advantage.md)
 - [Only about nine percent of students using the mathematics products met the providers' recommended usage benchmarks in year one](only-nine-percent-met-usage-benchmark-year-one.md)
+- [Most intervention teachers implemented CMP2 at levels consistent with publisher recommendations on class time and units completed](cmp2-implementation-fidelity.md) — related

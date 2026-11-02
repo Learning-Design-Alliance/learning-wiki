@@ -83,3 +83,4 @@ Paired-samples t-test within the control group (n=21) receiving regular curricul
 - [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related
 - [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim
 - [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — possibly the same claim (merge candidate)
+- [Strategy instruction increases Turkish course achievement, attributed by the authors to metacognitive skill use](strategy-instruction-increases-turkish-achievement.md) — related

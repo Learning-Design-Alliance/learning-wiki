@@ -53,3 +53,4 @@ The article's conceptual argument at the formal education level states that a de
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
 - [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — related
 - [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related
+- [The course produced no measurable increase in civic engagement or political action, and scores on both were low](sis-course-no-civic-engagement-effect.md) — related

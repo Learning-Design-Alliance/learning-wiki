@@ -54,3 +54,4 @@ Same two-way ANCOVA on post-achievement for the gender factor (27 males and 27 f
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — reports the opposite
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
+- [Gender significantly affects Electronic Works achievement, favouring boys](gender-effect-favouring-boys-electronic-works.md) — related

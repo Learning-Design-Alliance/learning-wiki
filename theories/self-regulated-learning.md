@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 270 claims (125 for, 130 mixed, 15 against) · 200 studies (61 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 200 report an effect size · 254 claims rest on one study
+> **Evidence** · 274 claims (128 for, 131 mixed, 15 against) · 202 studies (63 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 202 report an effect size · 258 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -317,6 +317,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W] — attached 2026-11-02 from El-Sakka (2016), which proposed "Zimmerman's three-phase cyclical model of self-regulated learning as the framework for speaking instruction".
 - [Students' self-assessed performance on the main test was higher than their actual scores indicated](../claims/student-self-assessment-exceeds-actual-performance.md) [-W]
 - [Using learning journals produces statistically significant gains in pre-service teachers' self-regulated learning relative to traditional instruction](../claims/learning-journals-improve-self-regulated-learning.md) [+W] — attached 2026-11-02 from Dr. Saleh Mohammad Abu Jado (2015), which proposed "Zimmerman's three-phase model of self-regulated learning".
+- [SRL through an intelligent tutoring system significantly improves EFL learners' speaking ability compared with traditional instruction](../claims/srl-its-improves-efl-speaking.md) [+W] — attached 2026-11-02 from Mohammadzadeh et al. (2018), which proposed "Self-regulatory learning (Zimmerman): strategic processes and two classroom strategies for computer-assisted speaking"; tests this page's relationship.
+- [The self-monitoring strategy of SRL had a larger effect on EFL speaking performance than the seeking-help strategy](../claims/self-monitoring-outperforms-seeking-help-speaking.md) [~W] — attached 2026-11-02 from Mohammadzadeh et al. (2018), which proposed "Self-regulatory learning (Zimmerman): strategic processes and two classroom strategies for computer-assisted speaking".
+- [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [+W] — attached 2026-11-02 from Muhittin ÇALIŞKAN et al. (2011), which proposed "Self-instructed learners as a metacognitive cycle of planning, strategy choice, monitoring, and revision".
+- [Both SRL strategies improved speaking from pre-test to immediate and delayed post-tests, with gains persisting in the long run](../claims/srl-strategies-short-long-run-speaking-gains.md) [+W]
 
 ## The evidence by question
 

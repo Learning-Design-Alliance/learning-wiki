@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (105 show a difference, 35 mixed, 24 no difference) · 117 studies (52 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 117 report an effect size · 163 claims rest on one study
+> **Evidence** · 168 claims (107 show a difference, 37 mixed, 24 no difference) · 119 studies (53 causal, 18 associational, 16 review, 11 theoretical, 9 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 119 report an effect size · 167 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -206,6 +206,10 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control](../claims/sss-no-effect-self-regulation-scales.md) [-W] — instruction changes it
 - [Learning approach and KAM show a significant interaction effect on teachers' mathematical questioning ability, though the article's text is internally inconsistent about it](../claims/learning-kam-interaction-questioning-ability.md) [~M] — an instructional effect differs with it
 - [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+M] — instruction changes it
+- [Learning strategies instruction increases sixth graders' awareness of learning strategies](../claims/strategy-instruction-increases-strategy-awareness.md) [+M] — instruction changes it
+- [Learning strategies instruction increases students' metacognitive knowledge](../claims/strategy-instruction-increases-metacognitive-knowledge.md) [+M] — instruction changes it
+- [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [~M] — instruction changes it
+- [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

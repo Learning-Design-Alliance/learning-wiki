@@ -51,3 +51,4 @@ Multiple regression models with cluster-robust standard errors in MPlus regresse
 - [Girls and FARM-enrolled students report higher mathematics anxiety at year's end, controlling for fall anxiety](girls-farm-higher-math-anxiety.md) — related
 - [Students' content-area anxiety is stable across the year, with within- and cross-content-area positive correlations](student-anxiety-stability-correlations.md) — related
 - [Teachers' years of experience correlate negatively with their mathematics and ELA anxiety but show no association with science anxiety](teacher-experience-math-ela-anxiety-correlation.md) — related
+- [The two groups were homogeneous in anxiety control at the start of the study, differing only at the end](groups-homogeneous-anxiety-control-baseline.md) — related

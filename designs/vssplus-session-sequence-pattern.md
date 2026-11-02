@@ -42,7 +42,8 @@ The article's training sessions follow a repeated design: teams read a text, sel
 - [Vssplus Pre Post Vat Gain](../claims/vssplus-pre-post-vat-gain.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three text types for environmental education, with problem-definition-without-solution texts most valued](three-text-types-environmental-education.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (51 show a difference, 13 mixed, 20 no difference) · 60 studies (34 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 6 of 60 report an effect size · 81 claims rest on one study
+> **Evidence** · 86 claims (53 show a difference, 13 mixed, 20 no difference) · 61 studies (35 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 7 of 61 report an effect size · 83 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -122,6 +122,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Lesson observations found authentic tasks and materials contributed positively to grammatical, textual, and illocutionary competence in four of five interventions, and to sociolinguistic competence in three of five](../claims/observations-authentic-tasks-competence-contributions.md) [~M] — instruction changes it
 - [The control group's grammar scores also increased significantly from pretest to posttest without any error correction session](../claims/control-group-significant-prepost-gain.md) [+M] — instruction changes it
 - [The experimental group's grammar scores increased significantly from pretest to posttest after the error correction session](../claims/exp-group-significant-prepost-gain-past-tense.md) [+M] — instruction changes it
+- [Experimental-group students' syntactic parsing ability improved significantly from pretest to posttest after the 12-week instruction](../claims/syntactic-parsing-ability-improved-pretest-posttest.md) [+M] — instruction changes it
+- [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](../claims/syntactic-parsing-ability-correlates-with-efl-reading-rate.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

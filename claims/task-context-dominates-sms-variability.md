@@ -69,3 +69,4 @@ Pairwise comparison within the same extended LMM: the 150 bpm metronome (M = 1.0
 - [Across all three task types, joint tapping yields modestly but reliably lower synchronization variability than solo tapping in 4–5-year-olds](joint-tapping-main-effect-variability.md) — related
 - [A co-tapping partner reduces synchronization variability significantly more at 150 bpm metronome (near children's SMT) than in music or slow bimanual tasks](social-scaffolding-sms-smt-aligned-contexts.md) — related
 - [Slow 50 bpm bimanual tapping in the solo condition is selectively associated with inhibitory control, working memory, and overall EF, though associations do not survive FDR correction](slow-solo-tapping-executive-function-link.md) — related
+- [Students with dyslexia anticipate a metronome signal by intervals two to three times longer than typical same-age peers](dyslexia-longer-metronome-anticipation-intervals.md) — related

@@ -74,3 +74,4 @@ Impact analysis across the 11 reading measures in the same program-level randomi
 - [In a large RCT (n = 871), Fusion Reading produced a small significant effect on word reading efficiency (Glass Δ = 0.11) but no significant differences on reading comprehension measures](fusion-striving-readers-rct-small-effects.md) — related
 - [Units of Sound showed no statistically significant effect on spelling (SWST), with a negative non-significant effect size of -0.07](units-of-sound-no-significant-spelling-effect.md) — related
 - [ATC produced no statistically significant difference from business-as-usual controls on the confirmatory Word Attack measure over two years](atc-no-significant-word-attack-impact.md) — related
+- [Native-speaker judges' fluency ratings showed no significant between-group difference (p = .051, d = 1.0)](native-speaker-fluency-ratings-not-significant.md) — related

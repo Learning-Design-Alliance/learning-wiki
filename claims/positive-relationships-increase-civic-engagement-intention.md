@@ -76,3 +76,4 @@ The discussion section synthesizes survey and focus group findings, reporting th
 - [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
 - [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [The course produced no measurable increase in civic engagement or political action, and scores on both were low](sis-course-no-civic-engagement-effect.md) — related

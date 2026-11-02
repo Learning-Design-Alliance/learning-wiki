@@ -76,10 +76,12 @@ Argument construction supports learning because generating and defending a posit
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners construct arguments from case evidence, as in law school's IRAC method
 
 ## Examples
+
 - **[3-Source Rule](../strategies/3-source_rule.md)** — requires each claim in a written argument to be supported by at least three independent sources, enforcing evidence-gathering before drafting.
 - **[A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md)** — teaches learners to evaluate source quality before using evidence in an argument.
 - **[Structured Academic Controversy](../patterns/structured-academic-controversy.md) (Johnson & Johnson)** — pairs argue an assigned position, reverse positions mid-activity, then synthesize a joint position.
 - **[Debate](../patterns/debate.md) formats in public speaking courses** — timed construction and delivery of claim–evidence–rebuttal cases under explicit rubrics.
+- [Use educational discussion and debate to form ecological and moral convictions](../strategies/discussion-debate-ecological-convictions.md)
 
 ## Key Sources
 - Toulmin, S. E. (2003). *The Uses of Argument* (Updated ed.). Cambridge University Press. [doi:10.1017/CBO9780511840005](https://doi.org/10.1017/CBO9780511840005)

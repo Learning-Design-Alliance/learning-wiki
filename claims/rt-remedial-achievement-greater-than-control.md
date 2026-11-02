@@ -52,3 +52,4 @@ Quasi-experimental study comparing semester grades of 25 RT-exposed and 24 contr
 - [RT remedial instruction did not reduce English learning anxiety more than regular remedial instruction](rt-remedial-no-anxiety-reduction-advantage.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — reports the opposite
+- [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related

@@ -47,3 +47,4 @@ Multiple regression (bootstrapped, 2,000 samples) on grade points (A=4 to F=0) f
 
 ## Related Claims
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](focus-intervention-lower-course-withdrawal.md) — related
+- [Beginning Algebra students who completed the month-long ITS program passed at 65.6% versus 22.2% for the non-ITS control group](its-pass-rate-versus-control-beginning-algebra.md) — related

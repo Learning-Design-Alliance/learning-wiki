@@ -70,3 +70,5 @@ Same posttest-only quasi-experiment; the PC factor (z=-1,183, p=.237) showed no 
 ## Related Claims
 - [Academic achievement in the CP course did not correlate with problem-solving perceptions](achievement-uncorrelated-with-psi.md) — related
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
+- [PBL and traditional teaching have different effects on pre-service teachers’ perceptions of problem-solving ability, with PBL more influential](pbl-difference-problem-solving-perception.md) — related
+- [Pre-service teachers’ perceptions of problem-solving ability are generally at a middle level](preservice-teachers-middle-psi-levels.md) — related

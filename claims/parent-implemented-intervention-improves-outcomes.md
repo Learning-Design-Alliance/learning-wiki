@@ -120,3 +120,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
+- [A brief multi-component communication intervention immediately improves initiated joint attention in preverbal preschoolers with autism](multicomponent-intervention-improves-joint-attention-post.md) — related

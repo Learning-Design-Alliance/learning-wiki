@@ -43,6 +43,7 @@ The article recommends drawing on Web 2.0, or social software, in education: wik
 
 - [Direct future wiki and blog research toward native-language and writing teaching, and conduct separate meta-analyses per environment](web20-future-research-native-language-writing.md)
 - [Use communication technologies (newspapers, television, video, news blogs) in teaching global-education attainments to raise attention, achievement and retention](communication-technologies-global-education-teaching-strategy.md)
+- [Recommended uses of blogs for language learning: teacher's blog, other skills, and e-portfolio](blog-language-learning-recommendations.md)
 
 ## Examples
 -

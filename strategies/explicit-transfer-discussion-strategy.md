@@ -40,6 +40,7 @@ The article recommends that training groups explicitly discuss how trained strat
 
 - [Consider integrating mathematics and writing instruction by explicitly promoting transfer of shared language and cognitive skills](integrated-math-writing-instruction-transfer.md)
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
+- [Program for generalization by coaching practices across different times of day and activities](program-generalization-across-activities.md)
 
 ## Examples
 -

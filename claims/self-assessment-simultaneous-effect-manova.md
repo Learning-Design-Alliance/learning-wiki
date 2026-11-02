@@ -50,3 +50,4 @@ One-way MANOVA testing the joint effect on independence and writing competence; 
 - [Learning method significantly influences conceptual understanding and learning independence simultaneously in physics learning](learning-method-manova-omnibus-effect.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
+- [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related

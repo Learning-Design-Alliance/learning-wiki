@@ -66,3 +66,4 @@ Authors' summary of individual progress in the experimental group: "Roughly, 10%
 ## Related Claims
 - [Pronunciation gains from instruction plus monitoring are smaller in spontaneous speech than in vocabulary and sentence reading](spontaneous-speech-gains-smaller-than-reading.md) — related
 - [Native-speaker raters of Arabic-accented English speech focused more on prosodic elements (stress, rhythm, intonation, speech rate, sentence melody) than on individual sounds](ns-raters-focus-on-prosodic-elements.md) — related
+- [All three groups improved over ten weeks, with intonation gains preceding gains in timing and segmental pronunciation](intonation-gains-precede-timing-pronunciation-gains.md) — related

@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (41 for, 51 mixed, 6 against) · 97 studies (26 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 97 report an effect size · 92 claims rest on one study
+> **Evidence** · 99 claims (41 for, 52 mixed, 6 against) · 98 studies (27 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 98 report an effect size · 93 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](../claims/group-work-higher-integration-performance-ratio.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](../claims/group-work-positive-student-perceptions-mathematics.md) [+W] — attached 2026-11-01 from Anastasia Sofroniou et al. (2016), which proposed "Use group work in higher-education mathematics tutorials to improve performance and learning experience, with the educator actively facilitating"; tests this page's relationship.
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+W] — attached 2026-11-02 from Behjat (2013), which proposed "Orient out-of-class reading toward peer interaction and collaboration rather than individualistic self-study"; tests this page's relationship.
+- [TAPPS produced no significant difference in troubleshooting success rate compared with working silently among secondary-level CTE students](../claims/tapps-no-success-rate-difference-secondary-cte.md) [~W] — attached 2026-11-02 from Michael L. Pate (2011), which proposed "Adopt TAPPS at the secondary level for purposes other than raising success rate or reducing completion time"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (16 for, 10 mixed, 2 against) · 32 studies (10 review, 7 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 32 report an effect size · 20 claims rest on one study
+> **Evidence** · 30 claims (17 for, 11 mixed, 2 against) · 33 studies (10 review, 8 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 33 report an effect size · 22 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -72,6 +72,8 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Use of a previously validated coaching model yields significantly higher change scores but not significantly higher final performance scores](../claims/validated-coaching-model-change-scores-only.md) [~W]
 - [Video-based coaching produces significantly higher final surgical technical performance scores than control feedback methods](../claims/vbc-higher-final-performance-scores.md) [+W]
 - [Video-based coaching produces significantly larger improvement from baseline to final assessment than control feedback](../claims/vbc-larger-change-scores-baseline.md) [+W]
+- [Teachers rated the coaching process positively and agreed they would continue using the Pyramid Model practices](../claims/teachers-rate-pyramid-coaching-positively.md) [+W]
+- [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

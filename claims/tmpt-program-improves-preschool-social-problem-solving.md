@@ -53,3 +53,4 @@ Pre-test/post-test control group experiment with 32 experimental and 38 control 
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [Teachers reported positive opinions about the TMPT Program's age-appropriateness and application](teacher-positive-opinions-tmpt.md) — related
 - [Directed educational games significantly improve overall social skills of 8-12-year-old educable mentally retarded girls compared with conventional class instruction](educational-games-improve-social-skills-mentally-retarded-girls.md) — related
+- [The Peaceful Life Skills Education Program produced higher posttest social adaptation and skills scores than the conventional curriculum in 5-year-old kindergartners](peaceful-life-skills-program-higher-posttest-social-adaptation.md) — related

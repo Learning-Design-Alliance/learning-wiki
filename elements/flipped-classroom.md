@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (22 for, 20 mixed, 5 against) · 28 studies (14 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 28 report an effect size · 46 claims rest on one study
+> **Evidence** · 51 claims (26 for, 20 mixed, 5 against) · 30 studies (16 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 10 of 30 report an effect size · 50 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -71,6 +71,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Both flipped and nonflipped ESL/EFL students showed statistically significant increases in self-reported grammar confidence over the semester](../claims/grammar-confidence-increased-both-groups.md) [~W]
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](../claims/2010-posttest-means-experimental-vs-control.md) [+W]
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](../claims/students-strongly-prefer-flipped-courses.md) [+W]
+- [University students taught with a Blackboard-Mashup flipped classroom strategy scored significantly higher on an achievement test than students taught traditionally](../claims/fcrs-achievement-beats-traditional-instruction.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Blackboard Learn Mashup sources (YouTube, Flickr, SlideShare, PDF portfolios, Word documents) used to deliver out-of-class flipped content"; tests this page's relationship.
+- [Students taught with the flipped classroom strategy scored significantly higher on a self-regulated learning skills scale than traditionally taught students](../claims/fcrs-raises-srls-versus-control.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Blackboard Learn Mashup sources (YouTube, Flickr, SlideShare, PDF portfolios, Word documents) used to deliver out-of-class flipped content"; tests this page's relationship.
+- [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
+- [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](../claims/flipped-learning-significant-writing-gains-nfe-group.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

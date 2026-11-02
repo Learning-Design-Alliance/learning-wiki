@@ -65,3 +65,4 @@ Paired t-test of pre-/post-test scores in the 80-student controlled experiment. 
 - [Tertiary EFL students whose instruction was supplemented with Facebook tasks showed almost double the average test improvement of a traditionally taught comparison group over one semester](facebook-supplemented-efl-larger-average-improvement.md) — a narrower finding that bears on this claim
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — related
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
+- [Within-group pre-to-post gains were much larger for the direct instruction group than for the traditionally taught control group](direct-instruction-larger-pre-post-gains.md) — related

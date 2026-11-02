@@ -54,3 +54,4 @@ The article's retrospective section reports this as accumulated experience citin
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — a narrower finding that bears on this claim
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — related
+- [Students in the sports education model report enjoying non-player roles and gaining responsibility and empathy](sem-students-enjoy-non-player-roles-responsibility.md) — related

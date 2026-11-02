@@ -58,3 +58,4 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related
+- [The sports education model raises students' interest/enjoyment in physical education lessons more than the direct teaching model](sem-raises-interest-enjoyment-over-direct-teaching.md) — related

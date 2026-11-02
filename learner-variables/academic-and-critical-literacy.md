@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (43 show a difference, 18 mixed, 10 no difference) · 57 studies (25 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 57 report an effect size · 68 claims rest on one study
+> **Evidence** · 72 claims (44 show a difference, 18 mixed, 10 no difference) · 58 studies (26 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 58 report an effect size · 69 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -109,6 +109,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](../claims/word-generation-boston-quasi-experiment-gains.md) [+M] — instruction changes it
 - [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](../claims/narrow-instruction-supports-broader-competencies-hypothesis.md) [~M] — instruction changes it
+- [Observation of CLIL science lessons showed meaningful language use, teacher scaffolding, code-switching, and development of both social and academic language](../claims/clil-lesson-observation-processes.md) [+W] — instruction changes it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

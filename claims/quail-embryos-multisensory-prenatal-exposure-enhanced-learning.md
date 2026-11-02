@@ -47,3 +47,4 @@ Animal-model work in bobwhite quail, a species sensitive to intersensory redunda
 ## Related Claims
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](autism-temporal-precision-links-language-symptoms.md) — related
 - [Prenatal risk indices were not significantly associated with cognitive flexibility or theory of mind outcomes in this sample](prenatal-risk-not-associated-with-ef-tom-outcomes.md) — related
+- [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related

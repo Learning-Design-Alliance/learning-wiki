@@ -51,3 +51,4 @@ Latent change score models in Study 1a (N = 1,004) tested predictive effects of 
 - [Students experienced a motivational shock between Weeks 2 and 3 coinciding with first performance feedback on mandatory math worksheets](motivational-shock-weeks-2-3-performance-feedback.md) — related
 - [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
 - [Test performance, but not test-specific motivational beliefs, predicts end-of-term exam performance in math-intensive STEM courses](math-test-performance-predicts-end-of-term-stem-exam.md) — reports the opposite
+- [Uptake of the pre-grading option was high but declined over the semester, from 85% on the first assignment to 70% on the last](pre-grading-uptake-high-declining.md) — related

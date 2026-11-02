@@ -58,3 +58,4 @@ Quasi-experiment with availability (non-random) sampling: 62 Iranian EFL student
 - [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — a narrower finding that bears on this claim
 - [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related
 - [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related
+- [The experimental blog group showed statistically significant pre-to-post gains in reading skills over the two-month treatment](blog-group-prepost-reading-gains.md) — related

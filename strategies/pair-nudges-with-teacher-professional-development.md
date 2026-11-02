@@ -48,6 +48,8 @@ Based on the trial results, the authors recommend that low-cost, message-based n
 ## Related Strategies
 
 - [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
+- [Pair print texts with app-based digital activities and text-message nudges to parents to support at-home reading](pairing-print-and-digital-content-strategy.md)
+- [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 
 ## Examples
 -

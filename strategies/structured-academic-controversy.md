@@ -80,10 +80,12 @@ The procedure operationalizes the finding that structured argumentation improves
 6. **Debrief**: whole-class discussion of what changed in students' thinking and which evidence proved decisive ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Debate](debate.md) — the competitive cousin; SAC differs by mandating perspective reversal and consensus rather than adjudication
 - [Jigsaw](jigsaw.md) — both are Johnson-influenced cooperative structures with interdependent roles; jigsaw distributes expertise, SAC distributes positions
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight discussion structure that can precede a SAC as preparation
 - [Case-Based Learning](case-based-learning.md) — contested cases can supply the issue for a SAC
+- [Boomeranging technique: argue both sides of a topic before drafting an argumentative essay](boomeranging-dual-stance-argumentation-strategy.md)
 
 ## Examples
 - **Teaching American History SACs** ([stanfordhistoryeducationgroup](https://sheg.stanford.edu)) — Stanford History Education Group's Document-Based SACs (e.g., "Was the New Deal a success?") have students read documents from both sides, argue, reverse, and reach consensus; widely used in US history classrooms.

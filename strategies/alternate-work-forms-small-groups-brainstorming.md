@@ -42,6 +42,7 @@ The article recommends varying the forms of students' work, noting that "enginee
 - [Student Presentation of Collaborative Work](student_presentation_of_collaborative_work.md)
 - [Brainstorming](brainstorming.md)
 - [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](paired-alternating-presentation-and-critique.md)
+- [Form project groups so each student works with at least one friend](group-formation-with-at-least-one-friend.md)
 
 ## Examples
 -

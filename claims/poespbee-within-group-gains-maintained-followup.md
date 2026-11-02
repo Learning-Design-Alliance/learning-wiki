@@ -70,3 +70,4 @@ Repeated measures ANOVA on the experimental group's (n=34) BSTE scores across th
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — possibly the same claim (merge candidate)
+- [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related

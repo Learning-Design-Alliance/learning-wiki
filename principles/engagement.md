@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (16 for, 18 mixed, 1 against) · 54 studies (20 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 7 of 54 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (17 for, 18 mixed, 1 against) · 55 studies (21 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 7 of 55 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](../claims/blogging-positive-engagement-mixed-experimental.md) [+W]
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](../claims/ptr-yc-increases-engaged-time-vs-bau.md) [+W]
 - [72% of treatment students found the CALL teacher's method interesting and motivating, while 28% disliked it due to unfamiliarity](../claims/call-teacher-method-perceived-motivating.md) [+W]
+- [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](../claims/mobile-use-increases-classroom-engagement.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

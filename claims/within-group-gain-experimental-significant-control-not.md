@@ -66,3 +66,5 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — possibly the same claim (merge candidate)
 - [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related
 - [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — related
+- [The experimental blog group showed statistically significant pre-to-post gains in reading skills over the two-month treatment](blog-group-prepost-reading-gains.md) — related
+- [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — a narrower finding that bears on this claim

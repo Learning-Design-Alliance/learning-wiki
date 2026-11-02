@@ -49,7 +49,8 @@ The article describes a concrete implementation recipe used in the treatment gro
 - [Evidence on cooperative learning in Asian contexts is mixed relative to Western findings](../claims/cooperative-learning-asian-context-mixed-evidence.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Open the adaptation process with a briefing session introducing criteria for adapting listening materials, then keep the teacher available as consultant](briefing-session-then-teacher-consultant-role.md)
 
 ## Examples
 -

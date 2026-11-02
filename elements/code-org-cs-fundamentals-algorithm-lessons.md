@@ -47,6 +47,7 @@ The deck recommends five named Code.org CS Fundamentals lessons for introducing 
 
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](../strategies/when-to-teach-algorithms-five-contexts.md)
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](../strategies/phased-unplugged-to-plugged-progression.md)
+- [Introduce programming with online algorithm visualization before formal coding instruction](../strategies/oav-before-coding-instruction.md)
 
 ## Key Sources
 - Computational Thinking Boosters: Algorithmic Thinking 3-8. (2021). Presentation dated Jan. 12, 2021, supported by NSF grant award #1923314. https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923314

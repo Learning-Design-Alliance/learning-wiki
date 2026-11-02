@@ -60,3 +60,4 @@ Dependent-sample t-tests for experimental group II (Sd = 15): exam anxiety t = 2
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](no-test-anxiety-decrease-without-relaxation-training.md) — related
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — a broader claim this one bears on
 - [Contrary to expectations, the digital writing workshop significantly decreased fourth-graders' writing motivation while control-group motivation did not change](digital-writing-workshop-decreases-writing-motivation.md) — related
+- [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](anxiety-control-change-within-groups.md) — related

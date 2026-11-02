@@ -49,3 +49,4 @@ Correlational analysis linking each student's question specificity (fraction of 
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](question-specificity-rises-over-socratic-ai-dialogue.md) — related
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
 - [The correlation between number of questions answered and attainment shift was only very slight (r = 0.13; r = 0.10), so the relationship was not clearly linear](weak-correlation-questions-attainment-shift.md) — related
+- [Scores on a four-problem arithmetic survey given on the first day of class positively correlated with final course grade](arithmetic-survey-score-correlates-with-final-grade.md) — related

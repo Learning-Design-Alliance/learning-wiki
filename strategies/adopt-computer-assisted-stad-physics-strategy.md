@@ -45,7 +45,8 @@ Based on its findings, the article recommends that "Physics teachers should expo
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](../claims/stad-highest-mean-gain-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide CAI packages across school subjects in school computer labs with dedicated time, staffing and funding](schools-provide-cai-packages-computer-labs.md)
 
 ## Examples
 -

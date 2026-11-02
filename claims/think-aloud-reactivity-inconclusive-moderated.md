@@ -85,3 +85,4 @@ The review reports, citing Yoshida (2008), the only study examining latency: thi
 
 ## Related Claims
 - [Confidence ratings improve short-term accuracy for high prospective-confidence older adults but impair it for low prospective-confidence adults](cr-mean-accuracy-moderated-by-prospective-confidence.md) — related
+- [TAPPS produced no significant difference in troubleshooting completion time compared with working silently among successful secondary-level students](tapps-no-completion-time-difference-secondary-cte.md) — related

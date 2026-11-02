@@ -58,3 +58,4 @@ Semi-structured interviews with five randomly chosen mobile learning group stude
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Experimental-group students perceived the MPS as increasing interactivity, supporting multimodal-integrated learning, and making instruction more student-centered](mps-perceived-interactivity-student-centered.md) — related
 - [Experimental-group students reported that the blended environment offered rich content, easy accessibility, effective guidance and motivation](student-perceptions-blended-rich-content-accessibility-guidance-motivation.md) — related
+- [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](mobile-classroom-issues-off-task-network-design.md) — related

@@ -54,3 +54,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
 - [Students taught with activity-based posters scored significantly higher on a retention test 21 days after the post-test than the control group](activity-based-posters-higher-retention-21-days.md) — related
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
+- [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related

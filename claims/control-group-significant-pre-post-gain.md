@@ -52,3 +52,4 @@ Paired comparison of the control group's pre-test (mean 8.03, SS = 3.28) and pos
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
 - [Control-group students also improved significantly from pre-test to post-test under the 2018 Turkish Course Curriculum, gaining about 9 points](control-group-curriculum-gain.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
+- [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related

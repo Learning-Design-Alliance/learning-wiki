@@ -13,7 +13,7 @@ generated:
 # WebQuest
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q2` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (4 causal), `q2`–`q3` · 1 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A technology-supported inquiry-oriented teaching framework introduced by Bernie Dodge that structures learning activities through introduction, task, process, resources, evaluation, and conclusion.
@@ -30,6 +30,7 @@ A technology-supported inquiry-oriented teaching framework introduced by Bernie 
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](../claims/teacher-themes-webquest-benefits-math.md) [+M]
 - [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](../claims/web-quest-improves-geographic-concept-acquisition.md) [+M]
 - [Authentic learning activities produce higher 5th-grade social studies achievement than the available program](../claims/authentic-learning-higher-achievement-than-available-program.md) [+M]
+- [PE teacher candidates taught via a WebQuest significantly outperformed lectured-and-modeled peers on posttest teaching performance in planning, implementation and evaluation skills](../claims/webquest-outperforms-lecture-pe-teaching-performance.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -38,3 +39,4 @@ A technology-supported inquiry-oriented teaching framework introduced by Bernie 
 - Yenmez, A. A., Özpinar, İ., & Gökçe, S. (2017). Use of WebQuests in Mathematics Instruction: Academic Achievement, Teacher and Student Opinions. Universal Journal of Educational Research 5(9). https://doi.org/10.13189/ujer.2017.050913
 - AL-Edwan, Zaid Suleiman. (2014). Effectiveness of Web Quest Strategy in acquiring geographic concepts among eighth grade students in Jordan. International Journal of Education and Development using Information and Communication Technology, 10(4), 31-46. http://ijedict.dec.uwi.edu/viewarticle.php?id=1874
 - Fitnat Gürgil. (2018). The Effect of Authentic Learning Approach in Social Studies Teaching on the Academic Success. Universal Journal of Educational Research 6(10): 2061-2068. https://doi.org/10.13189/ujer.2018.061002
+- Haythem Abdel Mageed Mohamed & Rasha Nageh Ali Abd El Rheem. (2008). The Web Quest: Its Impact on Developing Teaching Skills of Physical Education Student Teachers. Journal of Research, volume 5, issue 1. https://eric.ed.gov/?q=The+Web+Quest+Its+Impact+on+Developing+Teaching+Skills+of+Physical+Education+Student+Teachers

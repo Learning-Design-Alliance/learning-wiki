@@ -54,3 +54,5 @@ Quasi-experimental pretest-posttest nonequivalent control group study of 107 pre
 - [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](qasee-equalizes-critical-thinking-across-ability-levels.md) — related
 - [Critical thinking skills differ by academic ability, with upper academic ability pre-service teachers scoring highest](academic-ability-main-effect-critical-thinking.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related
+- [Post-test critical thinking scores significantly higher than pre-test after model instruction](pretest-posttest-critical-thinking-gain.md) — related

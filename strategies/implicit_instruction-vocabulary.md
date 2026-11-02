@@ -58,9 +58,11 @@ Incidental acquisition is the primary source of vocabulary growth in first and s
 5. Periodically check inferred meanings with quick, low-stakes tasks and correct entrenched misinferences explicitly.
 
 ## Related Strategies
+
 - **Explicit vocabulary instruction** — the complementary mode; direct definition teaching is more efficient per word but scales poorly to the thousands of words learners need
 - **Extensive reading** — the highest-volume delivery vehicle for implicit acquisition
 - **Spaced retrieval of vocabulary** — adds deliberate practice on top of incidental exposure for high-value words
+- [Use OPS-English vocabulary-based activities across the school day to reinforce word meaning where direct instruction time is limited](ops-english-vocabulary-activities-reinforce-word-meaning.md)
 
 ## Examples
 - **Dialogic reading with preschoolers** — adults prompt children to talk about story words ("What does *ferocious* mean here?"), producing vocabulary gains far beyond plain read-alouds [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]

@@ -51,3 +51,4 @@ Within-group pre-post comparison for the 30-student control group taught with Ac
 - [Control-group students also improved significantly from pre-test to post-test under the 2018 Turkish Course Curriculum, gaining about 9 points](control-group-curriculum-gain.md) — related
 - [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](multimedia-group-significant-pre-post-gain-mathematics.md) — related
 - [The multimedia and Active Learning Methodology groups did not differ significantly in pre-test Mathematics scores](no-pretest-difference-multimedia-versus-active-learning-groups.md) — related
+- [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related

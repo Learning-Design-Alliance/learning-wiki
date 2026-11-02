@@ -13,7 +13,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 18 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 18 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 19 studies (6 causal, 6 review, 5 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 19 report an effect size · 11 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
@@ -63,6 +63,7 @@ Effective PE instruction sequences observation, guided practice, and application
 - [TGfU implementations in schools are typically short-term, which the review judges too short to achieve significant outcomes](../claims/tgfu-short-implementation-duration-limitation.md) [~W]
 - [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](../claims/weight-teasing-pe-adolescent-girls-obesity.md) [~W]
 - [Motor and cognitive domains are the most frequent TGfU learning outcomes studied; the social domain is rare and often negative](../claims/tgfu-outcomes-motor-cognitive-dominant-social-rare.md) [~W]
+- [The direct teaching group shows higher (more negative) work perception scores than the sports education group](../claims/sem-lower-work-perception-scores-than-direct-teaching.md) [+W]
 
 ## The evidence by question
 - *Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](../claims/feedback-outcome-measure-moderator-cognitive-physical.md) [+M]

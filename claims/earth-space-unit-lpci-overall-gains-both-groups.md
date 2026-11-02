@@ -70,3 +70,4 @@ Repeated measures ANOVA on the control group's LPCI pre-post scores (N=66), taug
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related
 - [Mental rotation scores (PSVT-Rot) increased significantly for all groups except experimental males, in both curricula](psvt-rot-gains-all-but-experimental-males.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
+- [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related

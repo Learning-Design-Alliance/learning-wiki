@@ -48,3 +48,4 @@ Pilot quasi-experiment using a two-cut-point regression discontinuity design wit
 - [The PAL pilot found no differences in literacy or numeracy attainment between intervention and control pupils at post-test](pal-pilot-no-attainment-differences.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
 - [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — a broader claim this one bears on
+- [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related

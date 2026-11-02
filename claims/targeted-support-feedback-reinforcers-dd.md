@@ -53,3 +53,4 @@ Thematic synthesis of qualitative extracts. Teachers checked closely on learners
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
 - [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) — a broader claim this one bears on
 - [Whole-class inclusive strategies were recommended and common, but some differentiation and extra-support practices created unhelpful divisions](whole-class-approach-unhelpful-divisions.md) — related
+- [Data collectors reported that segregated settings differed from inclusive settings in curriculum challenge, paraeducator support style, and academic feedback/expectations](segregated-settings-lower-curriculum-support-expectations.md) — related

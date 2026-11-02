@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (53 show a difference, 11 mixed, 11 no difference) · 59 studies (17 associational, 12 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 10 of 59 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (54 show a difference, 11 mixed, 11 no difference) · 60 studies (17 associational, 13 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 10 of 60 report an effect size · 74 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -109,6 +109,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [-W] — learners who differ on it differ in outcomes
 - [The review finds that pedagogical innovations in digital environments improved motivation, self-regulation, academic performance, and digital skills in higher education](../claims/pedagogical-innovation-digital-environments-gains-higher-education.md) [+M] — instruction changes it
 - [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](../claims/sdt-explanation-motivation-decrease-digital-workshop.md) [+W] — learners who differ on it differ in outcomes
+- [OLC students demonstrated digital literacy skills more frequently than face-to-face students, especially locating art resources online](../claims/olc-improved-digital-literacy-practice.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

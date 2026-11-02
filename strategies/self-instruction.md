@@ -73,10 +73,12 @@ Self-instruction converts executive control from external (teacher prompts) to i
 5. **Reflect and transfer** — learner reviews which statements helped and adapts them to new tasks ([Individual Reflection](../elements/individual-reflection.md), [Application](../elements/application.md))
 
 ## Related Strategies
+
 - [Self-Monitoring](self-monitoring-strategies.md) — self-instruction supplies the verbal mechanism that drives monitoring
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the instructional method for teaching self-statements
 - [Goal Setting](../elements/goal-setting.md) — problem-definition statements operationalize goals into task talk
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a structured dialogue format in which students take turns leading the same self-questioning moves
+- [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 
 ## Examples
 - **SRSD for writing (Graham & Harris)** — struggling writers learn self-statements ("Who will read this? What do they need to know?") alongside planning strategies; a widely replicated intervention in elementary writing instruction

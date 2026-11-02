@@ -48,6 +48,7 @@ The article concludes that WhatsApp use in the education process should be encou
 ## Related Strategies
 
 - [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
+- [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 
 ## Examples
 -

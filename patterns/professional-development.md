@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 57 claims (36 for, 17 mixed, 4 against) · 50 studies (12 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 50 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (36 for, 18 mixed, 4 against) · 51 studies (13 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 51 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -183,6 +183,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [The performance measures were implemented largely as planned, with teachers receiving nearly the intended four feedback sessions per year, though fewer than half accessed online growth reports in Year 1](../claims/feedback-measures-implemented-as-planned.md) [~W]
 - [CSC coaching produced no statistically significant improvement in standardized instructional strategy counts](../claims/csc-coaching-no-significant-instructional-count-gains.md) [~W]
 - [The 93-hour PD was implemented with high fidelity, and treatment teachers received 95 more hours of math-related PD than controls](../claims/pd-implemented-with-high-fidelity-95-hour-contrast.md) [~W]
+- [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 
 ## Related Patterns
 

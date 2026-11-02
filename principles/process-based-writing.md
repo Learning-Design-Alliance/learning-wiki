@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (23 for, 18 mixed, 1 against) · 58 studies (21 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 58 report an effect size · 32 claims rest on one study
+> **Evidence** · 44 claims (25 for, 18 mixed, 1 against) · 59 studies (22 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 59 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [Revision skill was not related to writing quality in either grade group](../claims/revision-not-related-writing-quality.md) [~W] — attached 2026-10-24 from Limpo et al. (2013), which proposed "Teach transcription to automaticity and promote planning, revising, and self-efficacy in the middle grades"; tests this page's relationship.
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](../claims/process-approach-improves-efl-writing-vietnamese-secondary.md) [+W] — attached 2026-11-01 from Ngo et al. (2011), which proposed "Graduated responsibility writing lesson sequence: modeling, collaborative practice, then individual practice with fading support"; tests this page's relationship.
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](../claims/brainstorming-improves-efl-writing-performance.md) [+W] — attached 2026-11-01 from Amoush (2015), which proposed "EFL writing instruction should adopt brainstorming strategy and instructors should be trained in it".
+- [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](../claims/process-writing-improves-academic-writing-success.md) [+W] — attached 2026-11-02 from Nihat BAYAT (2014), which proposed "Five-stage process writing cycle with peer and self evaluation in small groups"; tests this page's relationship.
+- [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+W] — attached 2026-11-02 from Nihat BAYAT (2014), which proposed "Five-stage process writing cycle with peer and self evaluation in small groups".
 
 ## Objective and learner-valued goal
 

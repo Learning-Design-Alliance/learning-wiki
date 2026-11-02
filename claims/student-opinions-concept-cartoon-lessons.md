@@ -51,3 +51,4 @@ Descriptive analysis of written answers to the open question about teaching via 
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — related
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
 - [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](absl-favorite-activities-ranking.md) — related
+- [Experimental-group students' opinions on concept cartoons clustered into five themes: learning, applicability to other lessons, correcting missing and false information, persistence, and being funny or different](student-opinions-concept-cartoons-five-themes.md) — related

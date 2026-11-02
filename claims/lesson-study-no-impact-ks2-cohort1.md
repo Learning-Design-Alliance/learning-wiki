@@ -47,3 +47,4 @@ Intention-to-treat analysis of the cluster RCT comparing treated and control sch
 ## Related Claims
 - [Two years of the Lesson Study programme shows no evidence of improving KS2 maths and reading attainment compared to control](lesson-study-no-impact-ks2-cohort2.md) — related
 - [Lesson Study shows no impact on secondary outcomes (individual maths and reading, SPAG, science) twelve months after the programme ends](lesson-study-no-impact-secondary-outcomes.md) — related
+- [The programme showed no positive effects on secondary outcomes of maths attainment and attitudes to reading, maths, music, and school](hsom-no-impact-maths-attitudes.md) — related

@@ -45,6 +45,7 @@ The article's recommendations section advises teams planning classroom video to 
 ## Related Strategies
 
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
+- [Supervise students' online assessment habits and equip schools with wireless broadband before scaling cloud learning](supervise-online-assessment-habits-and-wireless-budgets.md)
 
 ## Examples
 -

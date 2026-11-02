@@ -52,3 +52,4 @@ Meta-analytic moderator analysis comparing nine high-entertainment samples (N = 
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md) — related
 - [Simulation games are more effective when they actively rather than passively convey course material](simulation-games-effective-when-instruction-active.md) — related
 - [Basing educational game design on well-established learning and instructional theories is argued to reduce the risk of games failing their educational goals](theory-based-game-design-reduces-failure-risk.md) — reports the opposite
+- [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](teacher-views-authentic-childhood-games.md) — reports the opposite

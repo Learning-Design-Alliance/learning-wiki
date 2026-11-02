@@ -51,3 +51,4 @@ Independent samples t-test on pre-SPMAT scores of the 38 students (18 experiment
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — a broader claim this one bears on
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
+- [Experimental and control 7th-grade students did not differ significantly on achievement pre-test scores before the particulate nature of matter unit](concept-cartoon-study-pretest-equivalence.md) — possibly the same claim (merge candidate)

@@ -51,3 +51,4 @@ Three-level Likert attitude survey (8 items, N=146) administered face-to-face to
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](cft-hypertext-design-more-perfect-scores.md) — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — a broader claim this one bears on
+- [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related

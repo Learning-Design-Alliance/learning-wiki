@@ -42,6 +42,7 @@ In the qualifying study, the intervention was delivered "as a whole class and in
 
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Schedule CSR within regular ELA and content-area instruction, spreading sessions across teachers in secondary settings](csr-embedded-scheduling-strategy.md)
+- [Deliver targeted small-group instruction to low-scoring children during existing centers time with counterbalanced teacher assignment](centers-time-small-group-targeted-instruction.md)
 
 ## Examples
 -

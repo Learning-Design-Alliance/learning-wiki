@@ -50,3 +50,4 @@ Randomized experiment with 60 pre-intermediate learners (30 per group) homogeniz
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — related
+- [OPS-English intervention produced a significant post-test difference in speaking scores favouring the experimental group over the control group](ops-english-post-test-significant-speaking-gain.md) — related

@@ -52,3 +52,4 @@ Qualitative conclusion from the curriculum design studies conducted in ABE class
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
 - [A meta-analysis of 18 repeated reading studies found moderate mean fluency gains and smaller comprehension gains, with adult implementation, speed cueing, and three to four readings as effective components](therrien-meta-analysis-repeated-reading-components.md) — related
+- [Timed reading activity significantly improves the reading speed of intermediate EFL learners compared to untimed reading of the same passages](timed-reading-improves-reading-speed.md) — related

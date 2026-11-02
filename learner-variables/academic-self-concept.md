@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (88 show a difference, 30 mixed, 11 no difference) · 65 studies (33 associational, 14 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 16 of 65 report an effect size · 126 claims rest on one study
+> **Evidence** · 130 claims (89 show a difference, 30 mixed, 11 no difference) · 66 studies (33 associational, 15 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 16 of 66 report an effect size · 127 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -164,6 +164,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [CPS-ALM instruction produces greater statistical self-concept enhancement (medium category, N-gain 0.33) than expository learning (low category, N-gain 0.16)](../claims/cps-alm-self-concept-n-gain-medium-vs-low.md) [+W] — instruction changes it
 - [Experimental-class students rated their own knowledge and discussion abilities significantly higher on a 12-question self-assessment](../claims/discussion-week-higher-self-assessment.md) [+M] — instruction changes it
 - [Programming self-concept developed significantly in the robot group while remaining stable in the control group](../claims/robot-programming-self-concept-gain.md) [+M] — instruction changes it
+- [53% of experimental students considered themselves sufficient at describing terms, most often citing ability of expressing](../claims/orchetaboo-self-sufficiency-expressing.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

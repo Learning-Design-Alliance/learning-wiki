@@ -39,7 +39,8 @@ Based on the studies reviewed, the authors encourage L2 teachers to design activ
 - production and recognition of speech acts such as requests and refusals
 
 ## Related Strategies
-- 
+
+- [Supplement task-based lessons with explicit noticing, corpus examples, and production practice of formulaic sequences](explicit-fs-noticing-and-production-strategy.md)
 
 ## Examples
 -

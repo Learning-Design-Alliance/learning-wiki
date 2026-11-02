@@ -114,3 +114,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related
 - [Students taught with simulation methods reported satisfaction with simulation-based biology education.](simulation-biology-student-satisfaction.md) — related
 - [The classroom teacher judged the application successful and positive, recommending its extension to all lessons](mesnevi-values-education-teacher-views-positive.md) — related
+- [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — related
+- [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](teacher-views-authentic-childhood-games.md) — related

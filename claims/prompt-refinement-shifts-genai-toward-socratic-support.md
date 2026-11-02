@@ -52,3 +52,4 @@ Participatory design study in which two K-12 interns gave daily and weekly feedb
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related
 - [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related
 - [Wizard prompts that waited for delivery and a growing lexicon improved the robot's responsiveness over iterations](wizard-prompt-waiting-improved-responsiveness.md) — related
+- [Most ITS participants (95.3%) continued tutorial support after the intervention, and the authors observed improved attitudes toward learning](its-participants-continued-tutorial-support-attitude-change.md) — related

@@ -41,6 +41,7 @@ A clinical-instructor routine in which candidates submit written post-teaching a
 - [Revision And Resubmission](revision-and-resubmission.md)
 - [Revision_Cycles](revision-cycles.md)
 - [Equitable Assessment Rubrics](equitable_assessment_rubrics.md)
+- [Offer pre-grading with corrective comments and resubmission before the due date, supported by an automated grader](pre-grading-resubmission-strategy.md)
 
 ## Examples
 -

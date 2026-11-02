@@ -62,3 +62,4 @@ ANCOVA on post-test EAS with RT as covariate in the same quasi-experimental stud
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [Teaching based on the existing curriculum produced no statistically significant change in students' environmental attitudes](existing-curriculum-no-attitude-change.md) — related
+- [After adjusting for pre-test differences, there was no statistically significant difference in writing improvement between students of experienced and inexperienced flipped-learning teachers](no-teacher-experience-difference-flipped-ancova.md) — related

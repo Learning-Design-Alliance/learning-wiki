@@ -72,3 +72,4 @@ Survey helpfulness ratings for the Activities section. These are descriptive ave
 - [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — related
 - [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related
+- [Parents reported reading about 7 of the 10 provided books with children, and guided questions were the most frequently used app feature](parent-survey-print-book-engagement.md) — related

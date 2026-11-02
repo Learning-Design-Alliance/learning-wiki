@@ -50,3 +50,4 @@ Omnibus one-way MANOVA comparing the two self-selected format groups on five cor
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
 - [Case-based instruction significantly improves 10th-grade students' perceived motivation toward chemistry compared with traditional instruction (overall multivariate effect)](cbl-improves-chemistry-motivation-manova.md) — related
+- [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related

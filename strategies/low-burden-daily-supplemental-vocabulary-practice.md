@@ -40,6 +40,7 @@ The article recommends using computer-based spaced repetition as a supplementary
 
 - [Daily Review](daily_review.md)
 - [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](technology-facilitates-not-replaces-face-to-face.md)
+- [Use OPS-English vocabulary-based activities across the school day to reinforce word meaning where direct instruction time is limited](ops-english-vocabulary-activities-reinforce-word-meaning.md)
 
 ## Examples
 -

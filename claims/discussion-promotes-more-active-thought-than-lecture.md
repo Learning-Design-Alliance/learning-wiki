@@ -156,3 +156,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
 - [In the authors' conditions P&E outperformed both Interactive Lecture Demonstrations and Peer Instruction](pe-outperformed-ild-and-pi.md) — related
+- [Lecture only, lecture plus seeing peer BSDS responses, and lecture plus the BSDS activity were equally effective at shifting student attitudes](three-teaching-methods-equally-effective.md) — a narrower finding that bears on this claim

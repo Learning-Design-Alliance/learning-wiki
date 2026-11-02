@@ -53,3 +53,4 @@ Scheffe follow-ups on attitude Items 7 and 8 (practice helpfulness and opportuni
 - [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
 - [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related
 - [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related
+- [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — related

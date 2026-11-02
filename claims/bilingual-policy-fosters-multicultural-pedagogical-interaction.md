@@ -53,3 +53,4 @@ In the findings' language-and-bilingual-policy-in-practice section, the meta-ana
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
 - [In bilingual education, scaffolding denotes support that allows learners to engage with content in a language they only partially know](scaffolding-support-partially-known-language-bilingual-education.md) — related
 - [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](teachers-code-switch-english-to-mother-tongue.md) — related
+- [Observation of CLIL science lessons showed meaningful language use, teacher scaffolding, code-switching, and development of both social and academic language](clil-lesson-observation-processes.md) — related

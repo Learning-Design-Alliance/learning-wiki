@@ -53,3 +53,4 @@ ANCOVA on the 45-student PPT group using pretest scores of the three achievement
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
 - [The teaching-method effect on achievement was statistically alike across groups despite a significant main effect](achievement-interaction-not-significant.md) — related
 - [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related
+- [No significant interaction between gender and ability level on achievement under reflective inquiry](no-gender-ability-interaction-reflective-inquiry.md) — related

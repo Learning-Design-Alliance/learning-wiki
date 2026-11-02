@@ -49,3 +49,4 @@ In the pre-post study, the ANOVA for focus on students was significant, F(2,406)
 - [Complete and faded double-content examples did not differentially affect student teachers' professional vision](fading-no-differential-effect-pvcm.md) — related
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — related
 - [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](flipped-resources-no-effect-except-technology-classroom-year.md) — related
+- [Position affects post-test TQM perceptions: principals rated applicability higher, significantly in management structure and overall but not the cultural dimension](position-effect-tqm-perceptions-principals-higher.md) — related

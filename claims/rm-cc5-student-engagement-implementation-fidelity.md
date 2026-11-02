@@ -59,3 +59,4 @@ Exploratory RQ4 descriptive analysis of RM-CC5 system use metrics for 881 of 940
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
 - [Only about nine percent of students using the mathematics products met the providers' recommended usage benchmarks in year one](only-nine-percent-met-usage-benchmark-year-one.md)
+- [Most intervention teachers implemented CMP2 at levels consistent with publisher recommendations on class time and units completed](cmp2-implementation-fidelity.md) — related

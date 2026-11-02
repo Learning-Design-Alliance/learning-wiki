@@ -67,6 +67,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 - [Require students to arrive with their own reasoning, expose it to AI challenge, and account for what changed](require-own-reasoning-expose-to-challenge-account-for-change.md)
 - [Guide a teacher-led classroom discussion of concept-map differences before students answer reflection prompts individually](teacher-guided-discussion-before-individual-reflection-prompts.md)
+- [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion of a text, articulating predicting, questioning, clarifying, and summarizing moves; the discussion makes comprehension strategies visible and reflective.

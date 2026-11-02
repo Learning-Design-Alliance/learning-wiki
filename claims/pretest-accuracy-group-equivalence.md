@@ -50,3 +50,4 @@ Pretest comparisons: rule-bound t = 0.28, p = .78 (M = 0.42 vs 0.40); non-rule-b
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [On the non-rule-bound posttest, focused outperformed both unfocused and control groups, and unfocused outperformed control](three-group-non-rule-bound-posttest-ordering.md) — related
 - [On the rule-bound posttest, focused outperformed both unfocused and control groups, and unfocused outperformed control](three-group-rule-bound-posttest-ordering.md) — related
+- [A between-subjects ANOVA on average pretest-posttest scores showed a significant difference between treatment and control groups](between-subjects-anova-treatment-control-difference.md) — related

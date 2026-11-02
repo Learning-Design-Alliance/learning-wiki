@@ -67,3 +67,4 @@ Review synthesis noting boundary conditions of social presence effects. The revi
 - [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
+- [Students attributed the parallel-teaching experiment's failure to distraction, noise, shyness, and unchanged co-teacher roles](student-reported-reasons-parallel-teaching-failure.md) — related

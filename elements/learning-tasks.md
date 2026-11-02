@@ -13,7 +13,7 @@ generated:
 # Learning Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 18 studies (6 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 19 studies (6 causal, 5 review, 4 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 3 claims rest on one study
 
 ## Description
 A learning task is the integrated unit of work around which instruction is organized: a problem to solve, a case to analyze, a project to complete, or a performance to produce. Rather than decomposing content into isolated topics presented before application, task-centered design places learners in a meaningful, whole task from the start, with supporting information and part-task practice organized around it Merrill's first principles identify task-centeredness as the core condition for effective instruction..
@@ -54,6 +54,7 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- [Teachers perceived the Task-First Approach as providing an authentic assessment opportunity revealing student knowledge without scaffolding](../claims/task-first-authentic-assessment.md) [+W]
 
 ## The evidence by question
 - *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]

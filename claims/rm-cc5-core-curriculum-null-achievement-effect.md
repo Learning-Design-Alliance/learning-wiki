@@ -60,3 +60,4 @@ Confirmatory RQ1 analysis of the MCIS randomized controlled trial: two-level hie
 - [After one year of implementation at scale, school-level assignment to Everyday Mathematics produced no statistically significant impact on students' math achievement relative to business-as-usual control schools](em-year1-no-significant-itt-impact.md) — related
 - [Small group size functions as a manipulable proxy for treatment intensity in early mathematics interventions, though its intensity advantage did not improve outcomes in this trial](group-size-as-treatment-intensity-proxy.md) — related
 - [No statistically significant differences in end-of-grade reading and math achievement between trained and waitlist schools](tips-pd-no-achievement-effect.md) — related
+- [CMP2 had no statistically significant effect on grade 6 students' perceived task value of mathematics](cmp2-no-significant-ptv-effect.md) — related

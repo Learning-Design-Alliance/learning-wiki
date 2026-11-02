@@ -50,3 +50,5 @@ Main-effects analysis from the parent RCT (Fogarty et al., 2017) using latent va
 - [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](pretest-orf-moderates-cct-comprehension-effects.md) — related
 - [Pretest word identification efficiency (SWE) and vocabulary knowledge did not moderate the intervention's effects on reading comprehension](swe-vocabulary-no-moderation.md) — related
 - [The intervention showed no significant effects on distal, norm-referenced reading measures](plug-in-no-distal-effects-norm-referenced.md) — reports the opposite
+- [CCT lessons provided suggestive evidence of greater science vocabulary and content learning than LT lessons](cct-suggestive-science-vocabulary-gain.md) — reports the opposite
+- [Partially mastering the instructed skills helped students with high-functioning ASD improve reading comprehension, with a moderate effect size](comprehension-moderate-effect-hfasd-pilot.md) — related

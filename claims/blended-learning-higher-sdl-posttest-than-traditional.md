@@ -49,3 +49,4 @@ Kruskal-Wallis comparison of self-directed learning post-test scores across the 
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related
+- [Students taught with the flipped classroom strategy scored significantly higher on a self-regulated learning skills scale than traditionally taught students](fcrs-raises-srls-versus-control.md) — related

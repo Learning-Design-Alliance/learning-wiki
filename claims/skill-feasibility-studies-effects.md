@@ -69,3 +69,4 @@ Small-scale RCT with 20 elementary-age children with developmental language diso
 ## Related Claims
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
 - [Oral narration gains generalize to written narration at posttest and are maintained at follow-up](skill-written-narration-gains.md) — related
+- [Talk of the Town showed no evidence of improving oral language skills among children with weaker reading comprehension (ACE secondary outcome)](tott-no-impact-oral-language-ace.md) — related

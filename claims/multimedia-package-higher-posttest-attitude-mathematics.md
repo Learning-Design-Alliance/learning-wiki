@@ -47,3 +47,4 @@ Pre-test/post-test equivalent-group experiment with 21 control and 21 experiment
 ## Related Claims
 - [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](experimental-group-significant-attitude-gain.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Learning the physics unit Work, Power and Energy through a CAI package produced significantly higher posttest achievement than traditional teaching among IX standard students](cai-package-improves-ix-physics-achievement.md) — related

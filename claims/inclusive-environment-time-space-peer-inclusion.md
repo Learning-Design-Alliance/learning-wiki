@@ -49,3 +49,4 @@ Thematic synthesis of qualitative extracts. Teachers "sensitised typically devel
 - [Whole-class inclusive strategies were recommended and common, but some differentiation and extra-support practices created unhelpful divisions](whole-class-approach-unhelpful-divisions.md) — related
 - [Inviting students to share everyday experiences contributed to a safe, inclusive classroom climate in which students willingly shared personal experiences in life skills conversations.](safe-inclusive-climate-supports-sharing-everyday-experiences.md) — related
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [Fully inclusive classrooms scored higher than less inclusive classrooms on observed peer membership and classroom climate](inclusive-classrooms-higher-membership-and-climate.md) — related

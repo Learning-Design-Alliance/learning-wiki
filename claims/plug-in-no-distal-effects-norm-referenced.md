@@ -49,3 +49,4 @@ Same randomized trial, ANOVA/ANCOVA on distal norm-referenced and fluency measur
 - [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](initial-fluency-not-consistent-response-predictor.md) — related
 - [The CCT treatment effect on comprehension was statistically significant only for students with pretest ORF up to 0.20 SD above the sample mean (64.0% of the sample), and not for higher-fluency students](orf-region-of-significance-cct-effect.md) — related
 - [Some students showed strong standardized-score response while others remained below 90 on WIAT Reading Comprehension](wiat-standard-score-responder-patterns.md) — related
+- [K–2 children receiving conceptually coherent texts performed similarly to children receiving leveled texts on standardized reading comprehension outcomes](cct-versus-lt-similar-reading-comprehension.md) — related

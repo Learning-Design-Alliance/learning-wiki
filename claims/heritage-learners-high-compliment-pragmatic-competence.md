@@ -48,3 +48,4 @@ Pretest analysis of the heritage control and experimental groups at site two usi
 ## Related Claims
 - [Pragmatic lessons on compliments produce no statistically significant improvement in heritage learners' recognition of compliment strategies](pragmatic-lessons-no-impact-heritage-learners.md) — related
 - [Pragmatic lessons on compliments produce statistically significant, very large gains in beginner L2 learners' recognition of compliment strategies](pragmatic-lessons-large-gains-l2-learners.md) — related
+- [U.S. heritage learners of Spanish scored above the 70% proficiency threshold on request DCT pre-tests, showing no negative pragmatic transfer from English](shl-no-negative-pragmatic-transfer-requests.md) — related

@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (23 for, 18 mixed, 3 against) · 52 studies (25 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 33 claims rest on one study
+> **Evidence** · 46 claims (25 for, 18 mixed, 3 against) · 53 studies (26 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 53 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](../claims/group-story-mapping-higher-comprehension-scores.md) [+W] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Teach graphic organizer use explicitly and have students practice it repeatedly across different texts"; tests this page's relationship.
 - [Graphic organizer strategy instruction improved vocabulary building scores of Jordanian university EFL students compared with traditional instruction](../claims/go-strategy-improved-efl-vocabulary-building.md) [+W] — attached 2026-11-02 from Al-Hinnawi (2012), which proposed "Teach vocabulary items through a graphic organizer that visually maps eight word features around the target word"; tests this page's relationship.
 - [Graphic organizer strategy produced greater incremental growth in vocabulary building over time than traditional instruction](../claims/go-strategy-incremental-vocabulary-growth.md) [+W] — attached 2026-11-02 from Al-Hinnawi (2012), which proposed "Teach vocabulary items through a graphic organizer that visually maps eight word features around the target word"; tests this page's relationship.
+- [Graphic organiser treatment has a significant main effect on students' achievement in algebraic word problems, accounting for 23.5% of post-test variance](../claims/graphic-organiser-significant-main-effect-algebraic-word-problems.md) [+W] — attached 2026-11-02 from Josiah Owolabi et al. (2015), which proposed "Use graphic organisers, and prefer having students design their own, when teaching algebraic word problems"; tests this page's relationship.
+- [The group taught to design graphic organisers (Experimental group B) scored statistically higher than both the prepared-organiser group and the control group](../claims/design-your-own-organiser-group-outperformed.md) [+W] — attached 2026-11-02 from Josiah Owolabi et al. (2015), which proposed "Use graphic organisers, and prefer having students design their own, when teaching algebraic word problems"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -53,3 +53,4 @@ In the quasi-experimental comparison, the Mathematics Attitude Questionnaire (38
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [Traditional textbook-based statistics instruction produced no significant change in students' attitudes towards statistics](traditional-instruction-no-attitude-change-statistics.md) — related
 - [Interviewed students reported that VMs supported learning (understanding, quick feedback, correcting mistakes) and independence from the teacher, but also reported fatigue, stress, distraction, and repetitive examples](vm-interview-themes-positive-and-negative.md) — related
+- [Project based learning improved students' attitudes toward mathematics more than traditional teaching](pbl-improved-mathematics-attitudes.md) — related

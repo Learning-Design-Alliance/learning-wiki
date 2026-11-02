@@ -74,3 +74,4 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 - [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related
+- [Total recorded incidents decreased 47.76% over the intervention, with significant decreases in behavior, teacher-sent, self-sent, and aggression incidents but not group incidents](incident-frequency-decrease-paired-t-tests.md) — related

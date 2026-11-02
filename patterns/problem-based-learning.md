@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 148 claims (54 for, 83 mixed, 11 against) · 82 studies (32 quant-synthesis, 22 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 82 report an effect size · 143 claims rest on one study
+> **Evidence** · 149 claims (54 for, 83 mixed, 12 against) · 83 studies (32 quant-synthesis, 22 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 83 report an effect size · 144 claims rest on one study
 
 ## Description and scope
 
@@ -240,6 +240,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
 - [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
 - [PBE-trained teachers report significantly higher satisfaction with teaching materials and methods than control teachers (effect size 1.09)](../claims/pbe-teachers-more-satisfied-materials-methods.md) [~W]
+- [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](../claims/teach-first-focused-efficient.md) [-W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

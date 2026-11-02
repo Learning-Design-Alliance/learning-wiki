@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (15 for, 8 mixed, 2 against) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 11 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (15 for, 9 mixed, 2 against) · 12 studies (6 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 12 report an effect size · 26 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -70,6 +70,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Post-test content acquisition favoured the MIT-based group descriptively, but the reported ANOVA p-value of 0.34 does not reach significance](../claims/mit-knowledge-posttest-not-significant.md) [-W]
 - [MIT-based teaching produced significantly higher success-test scores than conventional teaching in 8th-grade visual arts (miniature picture topic)](../claims/mit-teaching-higher-success-scores-visual-arts.md) [+W] — attached 2026-11-02 from Şeyda Eraslan Taşpınar (2016), which proposed "Multiple Intelligence Theory (Gardner): eight mental dimensions guiding differentiated instruction".
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](../claims/mit-teaching-higher-permanence-scores-visual-arts.md) [+W] — attached 2026-11-02 from Şeyda Eraslan Taşpınar (2016), which proposed "Multiple Intelligence Theory (Gardner): eight mental dimensions guiding differentiated instruction".
+- [Interpersonal intelligence development was higher in regular schools while intrapersonal development was higher in top schools](../claims/school-level-personal-intelligence-development-differences.md) [~W]
 
 ## Related Theories
 

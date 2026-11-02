@@ -55,3 +55,4 @@ Paired samples t-test on the control group (n=21); means were 4.56 pre-test and 
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [The paper-based control group showed no statistically significant gain from pre-test to post-test](control-group-no-significant-pretest-posttest-gain.md) — related
 - [No significant difference between the control group's post-test and its 21-day retention test scores](control-group-posttest-retention-no-difference.md) — related
+- [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related

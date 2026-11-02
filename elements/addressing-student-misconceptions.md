@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (28 for, 10 mixed, 1 against) · 31 studies (16 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 31 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (28 for, 11 mixed, 2 against) · 32 studies (17 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 37 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -84,6 +84,8 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](../claims/alternative-conceptions-persist-emerge-posttest.md) [+W]
 - [Semi-structured interviews with 110 undergraduates confirmed factual preconceptions about moons, including confusing moons with stars and asteroids and believing moons originate only as captured asteroids](../claims/student-moon-preconceptions-interviews.md) [+W]
 - [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](../claims/interview-path-difference-understanding-difference.md) [~W]
+- [Misconceptions about atoms, compounds and mixtures detected at pre-test persisted or re-emerged at post-test in both experimental and control groups](../claims/misconceptions-persist-posttest-both-groups.md) [-W]
+- [Experimental-group students' opinions on concept cartoons clustered into five themes: learning, applicability to other lessons, correcting missing and false information, persistence, and being funny or different](../claims/student-opinions-concept-cartoons-five-themes.md) [~W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

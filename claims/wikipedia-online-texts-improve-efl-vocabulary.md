@@ -55,3 +55,4 @@ Randomised experiment: 36 intermediate female EFL learners aged 16 to 22 at a la
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](storytelling-approach-vocabulary-posttest-advantage-young-efl.md) — related
 - [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
+- [Iranian intermediate EFL learners who learned adjectives through authentic tasks outperformed learners who studied dictionary extracts on a vocabulary post-test](authentic-task-outperformed-dictionary-extract-adjectives.md) — related

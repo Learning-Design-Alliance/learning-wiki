@@ -51,3 +51,4 @@ Separate moderation models were run for each pretest moderator with the same bas
 ## Related Claims
 - [The CCT intervention produced statistically significant main effects favoring CCT on reading comprehension (ES = 0.14), TOSREC (ES = 0.28), and taught vocabulary (ES = 0.43), but not on SWE or ORF](cct-main-effects-comprehension-tosrec-vocabulary.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
+- [CCT lessons provided suggestive evidence of greater science vocabulary and content learning than LT lessons](cct-suggestive-science-vocabulary-gain.md) — related

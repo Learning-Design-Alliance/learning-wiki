@@ -53,3 +53,4 @@ MANOVA with repeated measures over the 15-week intervention; Table 5 reports Wil
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](cooperative-learning-improves-financial-accounting-achievement.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
 - [Time-by-method interaction shows authentic learning and the available program differ in achievement growth](time-method-interaction-achievement-growth.md) — possibly the same claim (merge candidate)
+- [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related

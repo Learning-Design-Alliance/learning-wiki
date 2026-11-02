@@ -78,3 +78,4 @@ Descriptive results in Table 2 from the quasi-experiment: experimental group pos
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related
 - [The inquiry-based integrated thematic model was implemented at a very good level (mean RPP implementation score 92) versus good (83) for thematic instruction](implementation-fidelity-inquiry-thematic-model.md) — related
+- [Reflective inquiry instructional technique produces significantly higher achievement in Electronic Works trade than conventional teaching method](reflective-inquiry-beats-conventional-electronic-works.md) — related

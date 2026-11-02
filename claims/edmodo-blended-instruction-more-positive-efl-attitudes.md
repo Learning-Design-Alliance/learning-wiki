@@ -50,3 +50,4 @@ Field quasi-experiment with 42 female second-grade students (21 experimental, 21
 - [Experimental students' perceptions of Edmodo were highly positive, ranking pedagogical purposes highest and social interaction lowest](highly-positive-student-perceptions-of-edmodo.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
+- [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related

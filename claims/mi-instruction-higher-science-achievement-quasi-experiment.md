@@ -53,3 +53,4 @@ One-way ANCOVA on post-test scores of a 30-item teacher-made achievement test, c
 - [Cognitive conflict strategy improves Science achievement more than traditional teaching among intermediate second-grade students](cognitive-conflict-improves-science-achievement-intermediate.md) — related
 - [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
+- [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related

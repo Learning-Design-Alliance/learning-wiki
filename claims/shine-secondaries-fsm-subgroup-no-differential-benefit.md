@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: victoria-menzies-2015
     resource: "https://eric.ed.gov/?id=ED581429"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A pre-specified subgroup analysis found no evidence the intervention differentially benefited FSM-eligible pupils. [→ Victoria Menzies 2015](#victoria-menzies-2015)
@@ -73,3 +74,4 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
 - [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — related
+- [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related

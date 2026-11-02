@@ -98,3 +98,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — related
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related
 - [Teachers most frequently use generic technologies (presentation tools, e-text readers) and rarely use subject-specific or formative assessment technologies](generic-tech-dominates-classroom-use.md) — related
+- [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related

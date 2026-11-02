@@ -73,6 +73,8 @@ Texting works because it lowers the cost of the school-to-family information flo
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 - [Appoint a dedicated coordinator to monitor the accuracy and frequency of parent texts](dedicated-coordinator-for-parent-texting.md)
 - [Add explicit parental interview, data sharing, and weekly progress sharing steps to existing field-based assignments](explicit-parent-interview-data-sharing-steps.md)
+- [Pair print texts with app-based digital activities and text-message nudges to parents to support at-home reading](pairing-print-and-digital-content-strategy.md)
+- [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 
 ## Examples
 - **[TalkingPoints](https://www.talkingpts.org)** — two-way translated family messaging used widely in U.S. districts; families and teachers exchange texts in their own languages.

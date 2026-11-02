@@ -87,3 +87,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [The combined Climate and Preventure (CAP) trial showed no significant difference in cannabis use or cannabis-related harms between groups at any follow-up, despite greater cannabis-knowledge gains](cap-climate-preventure-no-cannabis-use-effect.md) — related
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
+- [The course showed no significant pre-post interaction effects on intercultural sensitivity, with only a marginal endpoint difference on acceptance and adaptation](sis-course-no-intercultural-sensitivity-interaction.md) — related

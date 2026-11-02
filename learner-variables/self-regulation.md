@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (172 show a difference, 39 mixed, 31 no difference) · 171 studies (60 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 33 of 171 report an effect size · 233 claims rest on one study
+> **Evidence** · 245 claims (173 show a difference, 41 mixed, 31 no difference) · 173 studies (61 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 8 qualitative, 3 design), `q1`–`q4` · 33 of 173 report an effect size · 236 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -291,6 +291,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Perceived reading strategy use positively affected reading comprehension among Grade 11 ESL learners](../claims/strategy-use-positively-affects-comprehension-grade11-esl.md) [+M] — learners who differ on it differ in outcomes
 - [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+M] — instruction changes it
 - [Using learning journals produces statistically significant gains in pre-service teachers' self-regulated learning relative to traditional instruction](../claims/learning-journals-improve-self-regulated-learning.md) [+M] — instruction changes it
+- [Learning strategies instruction increases sixth graders' awareness of learning strategies](../claims/strategy-instruction-increases-strategy-awareness.md) [+M] — instruction changes it
+- [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [~M] — instruction changes it
+- [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

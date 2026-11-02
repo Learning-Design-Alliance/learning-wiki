@@ -50,3 +50,4 @@ One-way MANOVA with learning tactics as the independent variable and nine learni
 - [Learning tactics shaped by instructional cues are embedded in different units of study in the MOOC](instructional-cues-embed-tactics-units.md) — related
 - [Sciences-oriented students reported significantly higher estimated understanding of the sorting strategy, while humanities-oriented students overestimated their understanding after the seeing phases until doing phases corrected it](estimated-understanding-group-differences-doing-phases.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
+- [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related
