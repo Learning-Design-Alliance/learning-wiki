@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (28 for, 11 mixed, 2 against) · 32 studies (17 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (29 for, 11 mixed, 2 against) · 33 studies (17 causal, 6 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 38 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
