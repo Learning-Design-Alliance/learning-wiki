@@ -52,3 +52,4 @@ Quasi-experimental comparison of two naturally occurring groups of 38 second-yea
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
 - [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](students-view-detailed-analogies-positively.md) — related
+- [Online algorithm visualization treatment produced higher achievement-test scores than traditional instruction in an introduction to programming course](oav-higher-achievement-than-traditional.md) — related

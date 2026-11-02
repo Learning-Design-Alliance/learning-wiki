@@ -49,3 +49,4 @@ Paired-samples t-tests on Mathematics Attitude Questionnaire scores (n=30 per gr
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](tgt-attitude-shifts-two-statements.md) — related
 - [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](journal-writing-wtl-positive-science-attitude-change.md) — related
+- [Project based learning improved students' attitudes toward mathematics more than traditional teaching](pbl-improved-mathematics-attitudes.md) — related

@@ -57,9 +57,11 @@ Question generation is one of the better-supported comprehension strategies: int
 4. **Fading:** Progressively remove stems and modeling as learners internalize the strategy, moving toward independent use across texts and subjects [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the best-validated multi-strategy package that includes question generation
 - [Summarization](summarizing.md) — question generation identifies the main ideas that summaries must capture
 - [Self-Explanation](../elements/self-explanation.md) — a sibling generative strategy; questions prompt the explanations
+- [Teach main idea identification with two repeated questions: who or what is the paragraph about, and what happens in the paragraph](two-questions-main-idea-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small reading groups rotate a "questioner" role, generating questions about each text segment before discussing answers; produced large comprehension gains with seventh-grade struggling readers.

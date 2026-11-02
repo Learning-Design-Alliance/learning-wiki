@@ -13,7 +13,7 @@ generated:
 # Supporting Students with Intellectual Disabilities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 23 studies (10 quant-synthesis, 6 review, 5 causal, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 24 studies (10 quant-synthesis, 6 review, 5 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Assisted success in practice, unaided performance in class, performance in the r
 ## Claims
 
 - [Whole-class inclusive strategies were recommended and common, but some differentiation and extra-support practices created unhelpful divisions](../claims/whole-class-approach-unhelpful-divisions.md) [~W]
+- [Data collectors reported that segregated settings differed from inclusive settings in curriculum challenge, paraeducator support style, and academic feedback/expectations](../claims/segregated-settings-lower-curriculum-support-expectations.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — intellectual disability classification depends on IQ scores read alongside adaptive functioning, precisely because IQ alone is an incomplete measure

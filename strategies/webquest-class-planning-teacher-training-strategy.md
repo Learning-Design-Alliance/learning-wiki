@@ -46,6 +46,7 @@ The authors recommend, in light of their results, that technologies such as WebQ
 - [Adopt Web Quest Strategy in geography teaching and train teachers in its use](adopt-web-quest-geography-teaching-strategy.md)
 - [Employ new technologies in teaching English language skills and incorporate them into syllabi and teaching practice](employ-technologies-english-teaching-strategy.md)
 - [Train teachers and develop university courses on VTM as a student-centred methodology](vtm-teacher-training-workshops-strategy.md)
+- [Incorporate WebQuest procedures into teacher-preparation methodology sessions and adapt them per sport](webquest-in-methodology-sessions-strategy.md)
 
 ## Examples
 -

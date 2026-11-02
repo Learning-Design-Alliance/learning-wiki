@@ -78,3 +78,5 @@ Theoretical analysis in the paper's framing of the problem: pretests collected a
 - Results for high school achievement are less clear because data limitations precluded a credible impact analysis — related
 - [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related
 - [The SSS evaluation used a cluster-randomized design with 4,321 fifth grade students in 235 classrooms across 60 schools, with data collected at baseline, 6 weeks, and 30 weeks](sss-cluster-randomized-design-4321-students.md) — related
+- [The Building Blocks condition showed sizeable early treatment effects on pretest measures collected after the school year began](bb-sizeable-early-impacts-late-pretests.md) — a narrower finding that bears on this claim
+- [For BBSSR, early treatment effects were much smaller, so controlling for late pretests changes estimates little and yields a larger precision boost](bbssr-late-pretests-less-problematic.md) — related

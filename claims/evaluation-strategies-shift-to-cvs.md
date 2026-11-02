@@ -51,3 +51,4 @@ Strategy-fit analysis of the experiment evaluation test: each student's 10 answe
 - [Group CVS performance on classroom worksheets rose after instruction, and experimentation alone without instruction produced no significant gain](classroom-worksheet-cvs-gains.md) — related
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
 - [Instruction increased students' ability to evaluate experiments designed by others on a paper-and-pencil test](experiment-evaluation-gains.md) — related
+- [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](strategy-instruction-improves-metacognitive-skill-use.md) — related

@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 297 claims (181 show a difference, 50 mixed, 66 no difference) · 202 studies (71 causal, 51 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 45 of 202 report an effect size · 288 claims rest on one study
+> **Evidence** · 302 claims (185 show a difference, 50 mixed, 67 no difference) · 206 studies (75 causal, 51 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 206 report an effect size · 293 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -348,6 +348,11 @@ What a learner can read without effort, and whether the language of instruction 
 - [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](../claims/initial-fluency-not-consistent-response-predictor.md) [-M] — learners who differ on it differ in outcomes
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](../claims/paired-reading-no-impact-overall-reading-ability.md) [-M] — instruction changes it
 - [Both English-only and language minority students maintained and even improved knowledge of taught words over a second school year](../claims/word-generation-knowledge-retained-year-two.md) [-W] — learners who differ on it differ in outcomes
+- [Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/direct-method-improves-efl-childrens-vocabulary.md) [+M] — instruction changes it
+- [In a randomized pilot study, students with high-functioning ASD receiving explicit vocabulary instruction showed a very strong effect size on knowledge of definitions compared with control peers](../claims/vocabulary-instruction-strong-effect-hfasd-pilot.md) [+M] — instruction changes it
+- [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](../claims/syntactic-parsing-ability-correlates-with-efl-reading-rate.md) [+M] — learners who differ on it differ in outcomes
+- [Timed reading activity does not significantly improve the reading comprehension of intermediate EFL learners](../claims/timed-reading-not-effective-comprehension.md) [-M] — instruction changes it
+- [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/tpr-improves-iranian-efl-childrens-vocabulary.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

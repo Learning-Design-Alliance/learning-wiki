@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (128 show a difference, 64 mixed, 31 no difference) · 176 studies (61 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 28 of 176 report an effect size · 206 claims rest on one study
+> **Evidence** · 224 claims (128 show a difference, 65 mixed, 31 no difference) · 177 studies (62 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 28 of 177 report an effect size · 207 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -271,6 +271,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Classroom prior achievement moderates the treatment-implementation relationship: implementation gaps between high- and low-achieving classrooms appear only in the CS condition](../claims/class-prior-achievement-moderates-implementation.md) [~M] — an instructional effect differs with it
 - [The effect of Mathematics Mastery did not differ significantly between children with different levels of prior achievement](../claims/mathematics-mastery-no-differential-effect-by-prior-achievement.md) [-M] — an instructional effect differs with it
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](../claims/interleaved-worked-examples-novice-lab-findings.md) [~M] — an instructional effect differs with it
+- [The effect of TAPPS may depend on student maturity, experience, and domain-specific knowledge](../claims/tapps-effect-may-depend-on-maturity-and-domain-knowledge.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

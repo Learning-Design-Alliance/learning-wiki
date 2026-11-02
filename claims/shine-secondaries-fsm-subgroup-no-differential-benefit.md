@@ -73,3 +73,4 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
 - [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — related
+- [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related

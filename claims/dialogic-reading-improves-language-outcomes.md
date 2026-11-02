@@ -127,3 +127,5 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [AI-powered reading assistants enhanced student expression, personalized reading pathways and supported teacher feedback in literacy education](ai-reading-assistants-literacy-supportive-not-substitutive.md) — related
 - [In the I Can Read case, alignment with the Science of Reading was high for four of the five Big Ideas but low for Vocabulary, prompting revision of vocabulary activities](icanread-vocabulary-low-alignment-revision.md) — related
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
+- [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](dialogic-reading-increases-ell-children-expressive-vocabulary.md) — related
+- [Dialogic reading training increases ELL parents' access-giving and question-posing behaviors during shared reading more than traditional read-aloud](dialogic-reading-training-increases-ell-parent-interactive-behaviors.md) — a narrower finding that bears on this claim

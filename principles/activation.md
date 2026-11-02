@@ -28,7 +28,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (12 for, 15 mixed, 2 against) · 33 studies (15 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 21 claims rest on one study
+> **Evidence** · 30 claims (13 for, 15 mixed, 2 against) · 34 studies (16 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,6 +100,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](../claims/pbl-discussion-prior-to-text-increases-free-recall.md) [+W] — attached 2026-10-18 from W.S. de Grave et al. (2001), which proposed "Activate prior knowledge through small-group problem discussion before assigning a text to study"; tests this page's relationship.
 - [Teaching reading comprehension with prior knowledge questions improves primary pupils' reading comprehension performance](../claims/prior-knowledge-questions-improve-reading-comprehension.md) [+W] — attached 2026-11-01 from Hanna Onyi Yusuf et al. (2013), which proposed "Curriculum planners and textbook writers should embed prior knowledge questions in reading comprehension materials"; tests this page's relationship.
+- [Topic preparation produced the highest listening comprehension scores among the four treatment groups](../claims/topic-preparation-highest-listening-scores.md) [+W] — attached 2026-11-02 from Rouhi et al. (2014), which proposed "Activate learners' schematic background knowledge of the topic before a listening task"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

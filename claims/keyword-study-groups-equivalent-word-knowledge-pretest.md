@@ -51,3 +51,4 @@ Independent-samples t-test on the 60-item word knowledge pretest checklist admin
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Experimental and control groups were equivalent in vocabulary knowledge before the intervention](pretest-equivalence-authentic-games-study.md) — possibly the same claim (merge candidate)

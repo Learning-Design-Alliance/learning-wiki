@@ -17,7 +17,7 @@ sources:
 # Three-paradigm theoretical framework for SMS as learning support (behaviorism, cognitivism, constructivism)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 The article argues SMS can facilitate learning from three major learning paradigms. Behaviorally, educational SMS can serve as a "stimulus-response tool as well as reinforcement"; cognitively, it can move content from short-term to long-term memory through repetition and connect prior learning to new content; constructivistically, it can stimulate learner-centered engagement and collaboration outside class, providing modeling, coaching and scaffolding support. The study's three message types (reviews, hints, triggering questions) were designed against these theories.

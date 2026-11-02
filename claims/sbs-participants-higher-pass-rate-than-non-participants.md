@@ -49,3 +49,4 @@ Comparison of final grades of 2012 and 2013 at-risk students depending on whethe
 - [Buddies and Buddy Leaders evaluated the SBS scheme very positively, with all 28 survey respondents agreeing sessions were an effective way to learn in a non-threatening environment](sbs-evaluation-survey-overwhelmingly-positive.md) — related
 - [Buddies reported that the SBS scheme gave reassurance of not being alone and a friendly, non-intimidating learning environment](buddies-reported-reassurance-and-non-intimidating-environment.md) — related
 - [Buddy Leaders reported consolidation of their own learning, developing networks, and improved team and leadership skills as benefits of leading SBS groups](buddy-leaders-reported-consolidation-and-leadership-benefits.md) — related
+- [Beginning Algebra students who completed the month-long ITS program passed at 65.6% versus 22.2% for the non-ITS control group](its-pass-rate-versus-control-beginning-algebra.md) — related

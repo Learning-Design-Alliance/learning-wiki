@@ -71,3 +71,4 @@ The article's second conclusion reports "a bigger improvement within experiment 
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [Boys outperformed girls in chemistry achievement in both the discussion and lecture groups](boys-outperform-girls-both-methods.md) — related
 - [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — reports the opposite
+- [The CAI package on Work, Power and Energy significantly improved physics achievement for boys in the IX standard experimental group](cai-improves-ix-physics-boys.md) — related

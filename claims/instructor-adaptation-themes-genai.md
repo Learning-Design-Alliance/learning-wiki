@@ -68,3 +68,4 @@ Instructor-reported assessment redesign summarized in Table 7, contrasting tradi
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
+- [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](mobile-use-shifts-lecturer-to-facilitator.md) — related

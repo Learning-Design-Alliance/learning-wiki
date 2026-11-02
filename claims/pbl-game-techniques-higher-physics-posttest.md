@@ -72,3 +72,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Prior chemistry studies cited by the authors also favor PBL over traditional methods](prior-pbl-chemistry-studies-favor-pbl.md) — a broader claim this one bears on
 - [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related
 - [Secondary students taught physics with experiments achieved higher final-test scores than students taught by traditional method](experiment-method-higher-physics-achievement-viscosity.md) — related
+- [Kindergarten students taught English vocabulary through authentic childhood games achieve significantly higher post-test scores than students taught through traditional methods](authentic-childhood-games-improve-english-vocabulary-success.md) — related

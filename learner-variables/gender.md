@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 462 claims (252 show a difference, 96 mixed, 114 no difference) · 311 studies (151 associational, 106 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 311 report an effect size · 454 claims rest on one study
+> **Evidence** · 469 claims (257 show a difference, 96 mixed, 116 no difference) · 314 studies (151 associational, 109 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 314 report an effect size · 461 claims rest on one study
 
 ## How to read this page
 
@@ -501,6 +501,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No statistically significant interaction between teaching method and gender on post-achievement](../claims/no-method-gender-interaction-third-grade-science.md) [-M] — an instructional effect differs by group
 - [Post-achievement differed significantly by gender in favor of males](../claims/post-achievement-gender-difference-favoring-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The group-by-gender interaction on reading fluency was not statistically significant](../claims/nim-group-gender-interaction-null.md) [-M] — an instructional effect differs by group
+- [Gender showed no significant effect on achievement, and the group-by-gender interaction was not significant](../claims/no-gender-effect-oav-achievement.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students showed no performance differences by condition in either study](../claims/male-students-no-condition-differences.md) [-M] — an instructional effect differs by group
+- [Reading a brief online female role model letter raised course grades for women in an introductory psychology course (d = .24)](../claims/role-model-letter-higher-psychology-grades.md) [+M] — an instructional effect differs by group
+- [The CAI package on Work, Power and Energy significantly improved physics achievement for boys in the IX standard experimental group](../claims/cai-improves-ix-physics-boys.md) [+M] — an instructional effect differs by group
+- [The role model letter lowered the DEW (fail/withdraw) rate for women in introductory psychology (OR = .38)](../claims/role-model-letter-lower-psychology-dew.md) [+M] — an instructional effect differs by group
+- [The role model letter lowered the DEW rate for women in introductory chemistry (OR = .23)](../claims/role-model-letter-lower-chemistry-dew.md) [+M] — an instructional effect differs by group
+- [The role model letter raised course grades for women in introductory chemistry with a medium-to-large effect (d = .66)](../claims/role-model-letter-higher-chemistry-grades.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

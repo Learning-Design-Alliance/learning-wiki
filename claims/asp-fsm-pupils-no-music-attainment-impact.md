@@ -58,3 +58,4 @@ Subgroup analysis of the RCT restricted to FSM-eligible pupils, re-estimating th
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related

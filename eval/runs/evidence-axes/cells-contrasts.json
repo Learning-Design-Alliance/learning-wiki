@@ -63750,5 +63750,473 @@
  "technology-tool\tAugmented reality simulation\tAugmented virtuality simulation": {
   "label": "augmented reality simulation vs augmented virtuality simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tBSDS activity condition\tDisplay and Control conditions": {
+  "label": "BSDS activity vs display/control conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\tBSDS activity condition\tlecture-only control condition": {
+  "label": "Active BSDS activity vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tBSDS activity condition\tpeer-response display condition": {
+  "label": "BSDS activity vs peer-response display",
+  "treatment_is_a": true
+ },
+ "active-learning\tBSDS standing activity with class discussion\tlecture-only control": {
+  "label": "Active BSDS activity with discussion vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tBogardus Social Distance Scale activity\tlecture-only control": {
+  "label": "Active BSDS activity vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tBogardus Social Distance Scale activity with peer-response display and discussion\tlecture-only control": {
+  "label": "Active BSDS activity with peer discussion vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCMP2 instructional practices\tcontrol-school instructional practices": {
+  "label": "Active instructional practices vs control-school practices",
+  "treatment_is_a": true
+ },
+ "active-learning\tCollaborative CAPT practice with peers using MyET\tIndependent CAPT practice using MyET": {
+  "label": "Collaborative peer practice vs independent practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tInternational blended honors course\tHonors students who did not participate": {
+  "label": "Blended course participation vs nonparticipation",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBLCS learning model\ttraditional learning strategies": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBLCS learning model\ttraditional learning strategies (PT)": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdisplay of classmates’ Bogardus Social Distance Scale responses\tlecture-only control": {
+  "label": "Peer-response display vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiversity instruction including lecture, BSDS display or activity, and discussion\tpretest": {
+  "label": "Active-learning diversity instruction vs pretest/no instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline-learning component with peer discussion groups\tface-to-face classroom instruction": {
+  "label": "Online peer-discussion learning vs face-to-face instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpracticing MyET independently\tpracticing MyET with peers": {
+  "label": "Collaborative peer practice vs independent practice",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\t10-week explicit main-idea and text-structure instruction\tregular reading instruction only": {
+  "label": "explicit main-idea and text-structure instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week explicit reading-comprehension intervention\tregular reading instruction only": {
+  "label": "explicit reading-comprehension instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week explicit vocabulary and reading-comprehension intervention\tregular reading instruction only": {
+  "label": "explicit vocabulary and reading-comprehension instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-week syntactic parsing instruction\tnormal instruction": {
+  "label": "syntactic parsing instruction vs normal instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-week syntactic parsing instruction\tpre-instruction baseline": {
+  "label": "syntactic parsing instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-week syntactic parsing instruction\tpretest baseline": {
+  "label": "syntactic parsing instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t15 weeks of direct learning-strategies instruction\tno strategy-teaching course": {
+  "label": "direct learning-strategies instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t15 weeks of direct learning-strategies instruction\tno strategy-teaching course or strategy recommendation": {
+  "label": "direct learning-strategies instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t15-week direct instruction in learning strategies\tno strategy-teaching course": {
+  "label": "direct learning-strategies instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t15-week direct instruction in learning strategies during Turkish lessons\tusual instruction without strategy teaching": {
+  "label": "direct learning-strategies instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t15-week direct instruction in repetition, interpretation, and organization strategies\tno strategy-teaching course": {
+  "label": "direct learning-strategies instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDirect Instruction Strategy\ttraditional teaching": {
+  "label": "direct instruction strategy vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDirect Instruction Strategy\ttraditional teaching method": {
+  "label": "direct instruction strategy vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit teaching and practice of formulaic sequences\tTask-based instruction without explicit formulaic-sequence focus": {
+  "label": "explicit formulaic-sequence instruction and practice vs task-based instruction without formulaic-sequence focus",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTheme Theory and thematic progression instruction\tnormal writing instruction focused on vocabulary, grammar, syntax, and diction": {
+  "label": "Theme Theory instruction vs normal writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTheme Theory instruction on thematic structure and progression\tnormal writing instruction focused on vocabulary, grammar, syntax, and diction": {
+  "label": "Theme Theory instruction vs normal writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTheme Theory instruction on thematic structure and thematic progression\tnormal writing instruction focused on vocabulary, grammar, syntax, and diction": {
+  "label": "Theme Theory instruction vs normal writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTheme Theory instruction on theme, rheme, and thematic progression\tnormal writing instruction focused on vocabulary, grammar, syntax, and diction": {
+  "label": "Theme Theory instruction vs normal writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTheme Theory instruction plus normal writing instruction\tnormal writing instruction focused on vocabulary, grammar, syntax, and diction": {
+  "label": "Theme Theory instruction plus normal writing instruction vs normal writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdialogic reading parent training\ttraditional Family Time read-aloud with no dialogic instruction": {
+  "label": "dialogic reading parent training vs traditional read-aloud",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit affective strategy instruction\tno special affective-strategy instruction": {
+  "label": "explicit affective-strategy instruction vs no affective-strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit affective strategy instruction\tplacebo with no special affective-strategy instruction": {
+  "label": "explicit affective-strategy instruction vs no affective-strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit affective strategy instruction\tplacebo with no strategy training": {
+  "label": "explicit affective-strategy instruction vs no affective-strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit affective strategy training\tplacebo with no strategy training": {
+  "label": "explicit affective-strategy instruction vs no affective-strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit formulaic-sequence instruction and practice\ttask-based instruction without formulaic-sequence focus": {
+  "label": "explicit formulaic-sequence instruction and practice vs task-based instruction without formulaic-sequence focus",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit formulaic-sequence instruction with noticing and speaking practice\ttask-based instruction focused on isolated vocabulary and grammar": {
+  "label": "explicit formulaic-sequence instruction with noticing and speaking practice vs task-based vocabulary-and-grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction and guided practice identifying paragraph main ideas\tregular reading instruction only": {
+  "label": "explicit paragraph-main-idea instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction and practice identifying anaphoric relations\tregular reading instruction only": {
+  "label": "explicit anaphoric-relations instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction and practice identifying pronoun referents\tregular reading instruction only": {
+  "label": "explicit pronoun-referent instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in identifying main ideas and text structure\tregular reading instruction only": {
+  "label": "explicit main-idea and text-structure instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in identifying pronoun referents\tregular reading instruction only": {
+  "label": "explicit pronoun-referent instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in vocabulary, main ideas, text structure, and anaphoric relations\tregular reading instruction only": {
+  "label": "explicit vocabulary, main-idea, text-structure, and anaphoric-relations instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit main-idea identification and text-structure instruction\tregular reading instruction only": {
+  "label": "explicit main-idea and text-structure instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit vocabulary instruction integrated with text reading\tregular reading instruction only": {
+  "label": "explicit vocabulary instruction integrated with reading vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught and practiced formulaic sequences\ttask-based instruction focusing on isolated vocabulary and grammar": {
+  "label": "explicit formulaic-sequence instruction and practice vs task-based instruction without formulaic-sequence focus",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tparent dialogic reading training\ttraditional Family Time read-aloud with no dialogic instruction": {
+  "label": "dialogic reading parent training vs traditional read-aloud",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured explicit main-idea and text-structure instruction\tregular reading instruction only": {
+  "label": "explicit main-idea and text-structure instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured explicit vocabulary instruction\tregular reading instruction only": {
+  "label": "structured explicit vocabulary instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured vocabulary instruction with definitions, examples, and review\tregular reading instruction only": {
+  "label": "structured explicit vocabulary instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsyntactic parsing instruction\tpre-instruction performance": {
+  "label": "syntactic parsing instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsyntactic parsing instruction\tpretest before instruction": {
+  "label": "syntactic parsing instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsyntactic parsing instruction group\tnormal instruction control group": {
+  "label": "syntactic parsing instruction vs normal instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsyntactic parsing instruction integrated into normal teaching\tnormal instruction": {
+  "label": "syntactic parsing instruction vs normal instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttheory-based explicit reading-comprehension intervention\tregular reading instruction only": {
+  "label": "explicit reading-comprehension instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttheory-based reading-comprehension instruction targeting vocabulary, main ideas, anaphoric relations, and text structure\tregular reading instruction only": {
+  "label": "explicit vocabulary, main-idea, text-structure, and anaphoric-relations instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttheory-based reading-comprehension intervention\tregular reading instruction only": {
+  "label": "explicit reading-comprehension instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish request strategies\tpre-intervention performance": {
+  "label": "pragmatic instruction in Spanish request strategies vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish request strategies\tpre-intervention performance before pragmatic lessons": {
+  "label": "pragmatic instruction in Spanish request strategies vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish request strategies\tpretest before pragmatic lessons": {
+  "label": "pragmatic instruction in Spanish request strategies vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish requests\tregular instruction without pragmatic lessons": {
+  "label": "pragmatic instruction in Spanish requests vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-week training based on TQM principles\tno training": {
+  "label": "TQM-based training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lectures using a projector and textbook multimedia\tpre-intervention attitudes": {
+  "label": "traditional multimedia lecturing vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lectures with projector and textbook multimedia CD\tpretest baseline": {
+  "label": "traditional multimedia lecturing vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecturing, modeling, and peer-teaching\tpre-instruction baseline": {
+  "label": "traditional lecturing with modeling and peer teaching vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining to notice formulaic sequences\tno attention directed to formulaic sequences": {
+  "label": "formulaic-sequence noticing instruction vs no directed attention to formulaic sequences",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinclusive staff gave academic feedback and held children to accuracy standards\tsegregated staff rarely praised correct academic responding or provided corrective feedback": {
+  "label": "Academic/corrective feedback vs little or no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tearly project submission with rapid feedback and resubmission\tno pre-grading before the test": {
+  "label": "formative feedback and resubmission vs no pre-grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpre-grading with feedback and resubmission\tno pre-grading before the test": {
+  "label": "formative feedback and resubmission vs no pre-grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpre-grading with feedback and resubmission before the due date\tno pre-grading before the test": {
+  "label": "formative feedback and resubmission vs no pre-grading",
+  "treatment_is_a": true
+ },
+ "gamification\tOrCheTaboo functional-groups game\torganic chemistry laboratory experiments without the game": {
+  "label": "OrCheTaboo game vs organic chemistry laboratory experiments",
+  "treatment_is_a": true
+ },
+ "gamification\tOrCheTaboo game\torganic chemistry laboratory experiments": {
+  "label": "OrCheTaboo game vs organic chemistry laboratory experiments",
+  "treatment_is_a": true
+ },
+ "gamification\tOrCheTaboo game plus laboratory experiments\tlaboratory experiments without OrCheTaboo": {
+  "label": "OrCheTaboo game plus laboratory experiments vs laboratory experiments only",
+  "treatment_is_a": true
+ },
+ "gamification\tOrCheTaboo game plus organic chemistry laboratory experiments\torganic chemistry laboratory experiments only": {
+  "label": "OrCheTaboo game plus laboratory experiments vs laboratory experiments only",
+  "treatment_is_a": true
+ },
+ "gamification\tOrganic chemistry laboratory plus OrCheTaboo game\tOrganic chemistry laboratory only": {
+  "label": "OrCheTaboo game plus laboratory experiments vs laboratory experiments only",
+  "treatment_is_a": true
+ },
+ "gamification\tauthentic childhood games\texperimental group pre-test before the study": {
+  "label": "Authentic childhood games vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tauthentic childhood games\ttraditional methods": {
+  "label": "Gamification via authentic childhood games vs traditional methods",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification + text-message reminders\tgamification only": {
+  "label": "Gamification plus learner text-message reminders vs gamification alone",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification plus text messages to parents\tgamification alone": {
+  "label": "Gamification plus parent text-message reminders vs gamification alone",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tWSTTG guided exploration\tWSTT non-guided exploration": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tWSTTG self-training with guided exploration\tWSTT self-training without guided exploration": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tpatterning instruction with individual mastery before advancing\treading, mathematics, or social studies instruction": {
+  "label": "mastery learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "other\t03.42-minute listening text divided into three phases\t03.42-minute listening text heard all at once": {
+  "label": "Three-phase listening vs all-at-once listening",
+  "treatment_is_a": true
+ },
+ "other\t1-year lag school-level science pretest\t1-year lag school-level mathematics pretest": {
+  "label": "Science pretest vs mathematics pretest",
+  "treatment_is_a": true
+ },
+ "other\t1-year lag school-level science pretest\t1-year lag school-level reading pretest": {
+  "label": "Science pretest vs reading pretest",
+  "treatment_is_a": true
+ },
+ "other\t10 conceptually coherent texts plus app activities\t10 leveled texts plus app activities": {
+  "label": "Conceptually coherent texts vs leveled texts",
+  "treatment_is_a": true
+ },
+ "other\t10 hours of metalinguistic coursework\tpreservice teachers without focused metalinguistic content": {
+  "label": "Focused metalinguistic coursework vs no focused metalinguistic coursework",
+  "treatment_is_a": true
+ },
+ "other\t10 hours of metalinguistic coursework embedded in a literacy course\tin-service teachers with 30 hours of focused metalinguistic professional development": {
+  "label": "Embedded metalinguistic coursework vs focused metalinguistic professional development",
+  "treatment_is_a": true
+ },
+ "other\t10 hours of metalinguistic coursework embedded in a literacy course\tin-service teachers without specific metalinguistic professional development": {
+  "label": "Embedded metalinguistic coursework vs no specific metalinguistic professional development",
+  "treatment_is_a": true
+ },
+ "other\t10 hours of metalinguistic coursework embedded in a literacy course\tpreservice teachers without focused metalinguistic coursework": {
+  "label": "Embedded metalinguistic coursework vs no focused metalinguistic coursework",
+  "treatment_is_a": true
+ },
+ "other\t10 hours of metalinguistic coursework with spelling-analysis practice\tpreservice teachers without focused metalinguistic content": {
+  "label": "Metalinguistic coursework with spelling-analysis practice vs no focused metalinguistic content",
+  "treatment_is_a": true
+ },
+ "other\t10 weeks of coordinated teaching activities\tregular Games and Physical Activities course": {
+  "label": "Coordinated teaching activities vs regular Games and Physical Activities course",
+  "treatment_is_a": true
+ },
+ "other\t10 weeks of working-memory vocabulary strategies\tusual English instruction without the strategies": {
+  "label": "Working-memory vocabulary strategies vs usual English instruction",
+  "treatment_is_a": true
+ },
+ "other\t10-month daily Chisanbop finger-calculation instruction\tusual mathematics instruction without Chisanbop": {
+  "label": "Chisanbop finger-calculation instruction vs usual mathematics instruction",
+  "treatment_is_a": true
+ },
+ "other\t10-month daily Chisanbop instruction\tusual mathematics instruction": {
+  "label": "Chisanbop instruction vs usual mathematics instruction",
+  "treatment_is_a": true
+ },
+ "other\t10-session group play therapy\tcontrol group": {
+  "label": "Group play therapy vs control",
+  "treatment_is_a": true
+ },
+ "other\t10-session multiplication-facts intervention\tno-treatment historical comparison": {
+  "label": "Multiplication-facts intervention vs no-treatment comparison",
+  "treatment_is_a": true
+ },
+ "other\t10-session patience training program\tno training control": {
+  "label": "Patience training vs no training",
+  "treatment_is_a": true
+ },
+ "other\t10-session patience training program\tno training control group": {
+  "label": "Patience training vs no training",
+  "treatment_is_a": true
+ },
+ "other\t10-week Enriched Creative Activities Program supported with Aytürk Technique\tordinary music lessons and school education": {
+  "label": "Enriched creative activities with Aytürk Technique vs ordinary music lessons",
+  "treatment_is_a": true
+ },
+ "other\t10-week coordinated teaching activities\tregular Games and Physical Activities course": {
+  "label": "Coordinated teaching activities vs regular Games and Physical Activities course",
+  "treatment_is_a": true
+ },
+ "other\t10-week coordinated teaching method activities\tregular Games and Physical Activities course": {
+  "label": "Coordinated teaching-method activities vs regular Games and Physical Activities course",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigh-dosage tutoring (56 or more sessions)\tbusiness-as-usual control": {
+  "label": "high-dosage tutoring vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigh-dosage tutoring (56 or more sessions)\tlow-dosage tutoring (0 to 56 sessions)": {
+  "label": "high-dosage tutoring vs low-dosage tutoring",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlow-dosage tutoring (0 to 56 sessions)\tbusiness-as-usual control": {
+  "label": "low-dosage tutoring vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "problem-first\tTask-First Approach\tTeach-First Approach": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tTask-First Approach: challenging task before instruction\tTeach-First Approach: instruction and routine work before the challenging task": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tTask-First Approach: challenging task before instruction\tTeach-First Approach: instruction before challenging task": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tTask-First Approach: students solve the challenging task before instruction\tTeach-First Approach: teacher-facilitated instruction and routine work before the challenging task": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tTeach-First Approach\tTask-First Approach": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": false
+ },
+ "problem-first\tchallenging task before instruction\tteacher-facilitated instruction before challenging task": {
+  "label": "Task-first vs teach-first",
+  "treatment_is_a": true
+ },
+ "prompts\tTAPPS with listener prompts to verbalize reasoning\tworked alone silently": {
+  "label": "prompted verbalization vs silent individual work",
+  "treatment_is_a": true
+ },
+ "prompts\tTAPPS with listener prompts while troubleshooting\tworking alone without TAPPS": {
+  "label": "prompted verbalization vs silent individual work",
+  "treatment_is_a": true
  }
 }

@@ -64,3 +64,4 @@ Observation coding for the Ramps Unit: 88% of observed ramps activities promoted
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
 - [Students successfully performed quantitative data analysis in spreadsheets, though this unit was the most challenging](spreadsheet-data-analysis-unit-outcomes.md) — related
+- [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related

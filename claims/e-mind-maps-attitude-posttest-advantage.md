@@ -51,3 +51,4 @@ Mann-Whitney test comparing the two 15-student groups on the 33-item attitude to
 - [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
 - [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related
+- [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related

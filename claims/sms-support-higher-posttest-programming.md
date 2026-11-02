@@ -3,12 +3,14 @@ type: claim
 title: Students receiving SMS learning support scored significantly higher on the programming posttest than control students
 description: Students receiving SMS learning support scored significantly higher on the programming posttest than control students
 id: sms-support-higher-posttest-programming
+aliases: [sms-support-improves-programming-achievement]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-02
 sources:
   - id: al-mothana-m-gasaymeh-osamah-m-aldalalah-2013
     resource: "https://doi.org/10.5539/ies.v6n10p112"
@@ -26,17 +28,28 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
+  - id: kert-2011
+    resource: "https://eric.ed.gov/?id=EJ932245"
+    title: "Kert, S. B. (2011). The use of SMS support in programming education. The Turkish Online Journal of Educational Technology, 10(2). https://eric.ed.gov/?id=EJ932245"
+    author: Kert, S. B.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students receiving SMS learning support scored significantly higher on the programming posttest than control students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` The experimental group's posttest mean was significantly higher than the control group's (t(50) = -2.64, p = .011). [→ Al-Mothana M. Gasaymeh & Osamah M. Aldalalah 2013](#al-mothana-m-gasaymeh-osamah-m-aldalalah-2013)
 `q2 i?` After controlling for pretest scores as a covariate, posttest differences between the two groups remained statistically significant (F(1,49) = 12.55, p < .05). [→ Al-Mothana M. Gasaymeh & Osamah M. Aldalalah 2013 (2)](#al-mothana-m-gasaymeh-osamah-m-aldalalah-2013-2)
+
+`q2 i?` University students who received SMS support in a programming course scored significantly higher on the posttest than students who did not (t = 3.067, p < .05). [→ Kert 2011](#kert-2011)
 
 ## Evidence
 
@@ -60,9 +73,22 @@ ANCOVA with pretest as covariate and teaching method (control vs experimental gr
 
 > "The results indicate that after controlling for pretest scores, the differences  in posttest scores are statistically significantly different between the two groups, F(1,49)=12.55, p < .05."
 
+### Kert 2011
+
+Kert, S. B. (2011). The use of SMS support in programming education. The Turkish Online Journal of Educational Technology, 10(2). https://eric.ed.gov/?id=EJ932245
+
+`q2 · i?` · `causal · r1`
+
+Independent groups t-test comparing posttest scores of the experimental group (mean 23,30) and control group (mean 19,85), each with 20 students, after a seven-week application in which only the experimental group received SMS support. The article reports "t:3,067; p<,05".
+
+> "Table 5 indicates that there exists a significant difference between the posttest academic achievement mean scores of the experimental and control groups (t:3,067; p<,05)."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Both the SMS and control groups improved significantly from pretest to posttest in the programming course](both-groups-pretest-posttest-gains.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
+- [The SMS-supported experimental group's posttest achievement scores were significantly higher than its own pretest scores](sms-group-pretest-posttest-gain.md) — related

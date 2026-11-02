@@ -58,3 +58,4 @@ From the provider strategy analysis: partners' professional development consiste
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
 - [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](minimal-books-workshop-intervention-insufficient.md) — related
+- [Caregivers trained via workshops and coaching acquire language facilitation strategies and maintain most of them at follow-up](caregivers-acquire-maintain-strategies.md) — related

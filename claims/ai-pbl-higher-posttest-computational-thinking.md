@@ -87,3 +87,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — related
 - [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](pbl-civic-pretest-posttest-gain.md) — related
+- [A between-subjects ANOVA on average pretest-posttest scores showed a significant difference between treatment and control groups](between-subjects-anova-treatment-control-difference.md) — related

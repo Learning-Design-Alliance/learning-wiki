@@ -58,3 +58,4 @@ Kindergarten follow-up from the PCER Consortium (2008) randomized controlled tri
 - REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency — related
 - Randomized trials of Success for All find significant positive impacts on K-2 early reading, strongest for students starting with lower achievement — related
 - [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
+- [Patterning and reading groups both scored higher than mathematics and social studies groups on TOWRE Word and TERA reading measures, and patterning exceeded mathematics and social studies on the GORT](patterning-boosts-some-reading-measures.md) — related

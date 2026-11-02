@@ -62,3 +62,4 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by gender
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
 - [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
+- [Gender significantly affects Electronic Works achievement, favouring boys](gender-effect-favouring-boys-electronic-works.md) — related

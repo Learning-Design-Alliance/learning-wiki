@@ -50,6 +50,7 @@ The article distills participants' recommendations for making flipped-classroom 
 - [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
+- [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 
 ## Examples
 -

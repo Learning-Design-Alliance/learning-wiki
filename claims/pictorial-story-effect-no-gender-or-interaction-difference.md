@@ -56,3 +56,4 @@ Same ANCOVA on the 100-student sample: gender η²=.001 and group*gender η²=.0
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [Treatment and gender do not interact significantly in their effect on mathematics achievement](no-treatment-gender-interaction-mathematics-achievement.md) — related
 - [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — possibly the same claim (merge candidate)
+- [No significant interaction between gender and ability level on achievement under reflective inquiry](no-gender-ability-interaction-reflective-inquiry.md) — related

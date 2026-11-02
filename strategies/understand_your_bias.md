@@ -65,6 +65,7 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 - [Building Empathy](../principles/building-empathy.md) — the dispositional goal that sustained bias work serves
 - [Perspective-Taking](../principles/building-empathy.md) — related but distinct; perspective-taking exercises target understanding others, this strategy targets seeing oneself
 - [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
+- [Use the Bogardus Social Distance Scale as an active classroom activity to engage students in learning about prejudice and diversity](bsd-social-distance-classroom-activity.md)
 
 ## Examples
 - **[Project Implicit](https://implicit.harvard.edu)** — Harvard-hosted Implicit Association Tests widely used in diversity education; learners complete a test and reflect on their results in facilitated sessions.

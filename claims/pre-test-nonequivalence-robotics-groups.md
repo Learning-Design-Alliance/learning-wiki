@@ -50,3 +50,4 @@ Pre-test equivalence check comparing intact groups formed by the school; the art
 - [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — reports the opposite
 - [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — reports the opposite
+- [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — related

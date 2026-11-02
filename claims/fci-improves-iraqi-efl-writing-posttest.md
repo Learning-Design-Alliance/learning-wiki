@@ -77,3 +77,5 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](fc-descriptive-mean-shifts.md) — reports the opposite
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](flipped-classroom-grammar-achievement-gains-esl-efl.md) — related
 - [Flipped classroom instruction produces higher functional writing skills than traditional teaching among third-year ESP business majors](flipped-classroom-improves-functional-writing-esp-business-majors.md) — related
+- [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — related
+- [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](flipped-learning-significant-writing-gains-nfe-group.md) — related

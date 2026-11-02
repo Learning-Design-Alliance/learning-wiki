@@ -50,3 +50,4 @@ Composite CCTDI results for the 189-respondent sample, using the interpretive gu
 - [The ambivalent profile reported the highest OMR strategy use but achieved the lowest OMR performance, while the positive profile scored highest](ambivalent-high-strategy-lowest-performance.md) — related
 - [The disorientation strategy negatively predicted OMR performance in the moderate and ambivalent profiles but not in the positive profile](disorientation-negative-effect-moderate-ambivalent.md) — related
 - [Malaysian undergraduates scored a mean of 71.20 (SD 10.88) on the overall IRFI, with 183 of 189 scoring above the midpoint of 50](malaysian-undergraduates-irfi-mean-71-20.md)
+- [Pre-service teachers’ critical thinking dispositions are generally low, with none scoring high on the CCTDI](preservice-teachers-low-cctdi-levels.md) — related

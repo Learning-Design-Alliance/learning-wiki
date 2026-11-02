@@ -66,6 +66,7 @@ Test anxiety is a situational form of state anxiety that consumes working-memory
 - [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 - [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
+- [Introduce affective strategies to reduce anxiety before pushing oral practice, and build relaxed, supportive classrooms](introduce-affective-strategies-before-forced-oral-practice.md)
 
 ## Examples
 - **Ramirez & Beilock (2011)**: Ninth-grade students wrote about their exam worries for 10 minutes before final exams; anxious students' performance improved to match non-anxious peers. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)

@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (33 for, 17 mixed, 4 against) · 36 studies (9 design, 8 review, 7 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 36 report an effect size · 52 claims rest on one study
+> **Evidence** · 56 claims (35 for, 17 mixed, 4 against) · 37 studies (9 design, 8 causal, 8 review, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 37 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Read against the model on 2026-10-19. Of the 25 claims that had gathered here in
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](../claims/technology-training-spending-inadequate.md) [+W] — read 2026-10-19: 1998–99 spending projections from the same report. A budget comparison, not evidence about ongoing against occasional PD; a designer pricing a technology rollout may still use it as a prompt to budget for follow-up.
 - [Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions](../claims/air-tutors-tutor-ubuntu-attendance-high.md) [~W] — (not about this page) read 2026-10-19: attendance of tutors (not teachers) at a series of three sessions in one tutoring programme's evaluation. Attendance at occasional sessions is neither an ongoing structure nor a change in practice.
 - [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](../claims/minimal-books-workshop-intervention-insufficient.md) [+W] — attached 2026-11-01 from Leyva et al. (2014), which proposed "Professional development that pairs content-focused training with continuous classroom coaching can improve teaching practices where minimal supports fail"; tests this page's relationship.
+- [Training and coaching with performance feedback increased three preschool teachers' use of targeted Pyramid Model practices, establishing a functional relation](../claims/coaching-performance-feedback-increases-pyramid-model-practices.md) [+W] — attached 2026-11-02 from Mary Louise Hemmeter et al. (2015), which proposed "Plan for intensive coaching dosage when supporting teachers to implement Pyramid Model practices at criterion"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -173,6 +174,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](../claims/raise-teacher-impacts-increased-year1-to-year2.md) [+W]
 - [Ongoing technical and pedagogical support plus ample mathematics resources were the two elements teachers identified as key to successful implementation](../claims/mathsflip-implementation-support-resources.md) [+W]
 - [CSC coaching produced no statistically significant improvement in standardized instructional strategy counts](../claims/csc-coaching-no-significant-instructional-count-gains.md) [-W]
+- [Teachers rated the coaching process positively and agreed they would continue using the Pyramid Model practices](../claims/teachers-rate-pyramid-coaching-positively.md) [+W]
 
 ## Related Principles
 

@@ -66,6 +66,7 @@ Structured dilemma discussions work because they require learners to articulate 
 - [Discussion-based learning](../principles/collaborative-learning.md) — the broader family of discussion formats this strategy draws on
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](integrate-reason-feeling-self-relationship-concept-context.md)
 - [Design and implement ethics games with attention to facilitation, clarity of instructions, alignment of goals, and social dynamics](ethics-game-design-recommendations-facilitation-goals-social.md)
+- [Use educational discussion and debate to form ecological and moral convictions](discussion-debate-ecological-convictions.md)
 
 ## Related Elements
 - [Case Study](../elements/case-study.md) — the dilemma itself is a short case with an ethical core

@@ -53,3 +53,4 @@ Written practicality survey administered before the effectiveness test to 16 ins
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
 - [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](tefa-t-improves-metacognitive-skills.md) — related
+- [Teachers rated current student critical thinking as moderate and need for the model as highest](teacher-needs-survey-critical-thinking.md) — related

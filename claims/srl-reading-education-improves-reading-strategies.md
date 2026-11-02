@@ -50,3 +50,4 @@ Independent samples t-test on Reading Strategies Cognitive Awareness Scale post-
 - [Self-regulation based reading education significantly raises 5th graders' reading motivation relative to the current program](srl-reading-education-improves-reading-motivation.md) — related
 - [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](srl-reading-education-improves-self-regulation-skills.md) — related
 - [A metacognition-based instructional practice produced higher post-test metacognitive awareness than current training in planning, awareness, regulation and questioning sub-dimensions and scale-wide among prospective teachers](metacognition-practice-posttest-group-differences.md) — related
+- [Learning strategies instruction increases sixth graders' awareness of learning strategies](strategy-instruction-increases-strategy-awareness.md) — related

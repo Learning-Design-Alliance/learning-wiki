@@ -48,3 +48,4 @@ Randomized controlled trial with 33 mother-child dyads of children ages three to
 - [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — a broader claim this one bears on
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
+- [Dialogic reading training increases ELL parents' access-giving and question-posing behaviors during shared reading more than traditional read-aloud](dialogic-reading-training-increases-ell-parent-interactive-behaviors.md) — related

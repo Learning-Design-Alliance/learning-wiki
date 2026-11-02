@@ -17,7 +17,7 @@ sources:
 # Push-mode SMS support with three message types sent on non-class days
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 3 studies (3 causal), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's implementable recipe: use the push mode, in which "the instructor sending educational SMS to the students", sending three messages per week on three different days over 12 weeks (36 messages total), on weekdays without class meetings between 4 pm and 7 pm. Messages contain reviews of concepts already discussed in class, hints for assignments and projects, and triggering questions for upcoming classes. This kept integration simple for first-time educational SMS users.

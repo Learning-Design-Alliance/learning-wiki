@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (15 for, 5 mixed, 1 against) · 28 studies (10 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 29 studies (11 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 21 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -81,6 +81,11 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Etymological elaboration improves EFL learners' one-week retention of idioms](../claims/etymological-elaboration-improves-idiom-retention.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
 - [Strategy training improves the quality as well as the quantity of strategies learners deploy](../claims/strategy-training-improves-strategy-quality.md) [+W]
 - [Fourth-grade students taught with the SQ4R technique scored significantly higher on reading comprehension post-tests than control-group students](../claims/sq4r-improves-reading-comprehension-posttest.md) [+W] — attached 2026-11-02 from Başar et al. (2017), which proposed "SQ4R technique (Survey, Question, Read, Reflect, Recite, Review)".
+- [In grade 7 inclusive classrooms, combined strategy instruction outperformed regular instruction on narrative text comprehension](../claims/grade7-combined-strategy-narrative-outperformed.md) [+W] — attached 2026-11-02 from Ghada M. Awada et al. (2017), which proposed "Combined strategy instruction package of ten reading strategies"; tests this page's relationship.
+- [In grade 8 inclusive classrooms, combined strategy instruction outperformed regular instruction on narrative text comprehension](../claims/grade8-combined-strategy-narrative-outperformed.md) [+W] — attached 2026-11-02 from Ghada M. Awada et al. (2017), which proposed "Combined strategy instruction package of ten reading strategies"; tests this page's relationship.
+- [In grade 9 expository-text classrooms, combined strategy instruction showed no significant effect while public-school students outperformed private-school students](../claims/grade9-expository-no-treatment-public-advantage.md) [~W] — attached 2026-11-02 from Ghada M. Awada et al. (2017), which proposed "Combined strategy instruction package of ten reading strategies"; tests this page's relationship.
+- [Combined strategy instruction under inclusion is effective for narrative texts but not for expository texts](../claims/narrative-effective-expository-not.md) [~W]
+- [No gender differences in reading comprehension appeared in any grade level under inclusive combined strategy instruction](../claims/no-gender-differences-all-grades.md) [~W]
 
 ## The evidence by question
 

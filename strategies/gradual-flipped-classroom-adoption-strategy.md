@@ -49,6 +49,7 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Faux-Flipped Classroom](faux-flipped_classroom.md)
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [Teacher training and preparation recommendations for implementing the flipped classroom strategy](fcrs-teacher-training-and-tool-preparation-strategy.md)
 
 ## Examples
 -

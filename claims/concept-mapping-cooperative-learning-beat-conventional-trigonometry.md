@@ -81,3 +81,4 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](cooperative-learning-lower-test-anxiety.md) — related
 - [Form four students taught linear programming with the origin test and extreme points technique achieved significantly higher post-test scores than students taught with conventional methods](pbl-origin-test-extreme-points-higher-achievement.md) — related
 - Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group — related
+- [Descriptive mean gains favoured Experimental group B (33.7) over Experimental group A (26.5) and the control group (22.1)](mean-gains-by-treatment-descriptive.md) — related

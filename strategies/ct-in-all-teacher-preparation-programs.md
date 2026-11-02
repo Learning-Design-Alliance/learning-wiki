@@ -40,7 +40,8 @@ Based on the study's observations and taxonomy, the authors recommend "incorpora
 - [4P4Ct Four Pedagogies For Ct Framework](../theories/4p4ct-four-pedagogies-for-ct-framework.md)
 
 ## Related Strategies
-- 
+
+- [Incorporate WebQuest procedures into teacher-preparation methodology sessions and adapt them per sport](webquest-in-methodology-sessions-strategy.md)
 
 ## Examples
 -

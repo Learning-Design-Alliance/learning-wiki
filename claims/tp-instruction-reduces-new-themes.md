@@ -50,3 +50,5 @@ Paired-samples t-test on the experimental group's pre- and post-essays (n=30). N
 - [Instruction in thematic progression significantly increased Chinese college students' use of linear progressions between pre- and post-essays](tp-instruction-increases-linear-progressions.md) — related
 - [The experimental group moved closer to native speakers in constant progression, though less significantly than in linear progression or new Themes](tp-instruction-constant-progression-partial-convergence.md) — related
 - [After TP instruction, the experimental group's linear progression use no longer differed significantly from native speakers'](tp-instruction-closes-linear-gap-to-native-speakers.md) — related
+- [After instruction, the experimental class used more thematic progression patterns and less constant-pattern predominance than the controlled class](posttest-tp-pattern-distribution-shift.md) — related
+- [Sample analysis indicates good compositions are distinguished by varied, well-linked theme choices and thematic progression patterns](theme-choice-distinguishes-good-compositions.md) — related

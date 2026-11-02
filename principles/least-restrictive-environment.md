@@ -23,7 +23,7 @@ sources:
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 17 studies (7 associational, 4 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (13 for, 13 mixed, 2 against) · 18 studies (7 associational, 4 causal, 3 quant-synthesis, 3 qualitative, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,8 @@ Placement, the instruction delivered in each setting, achievement, adjustment an
 - [Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes](../claims/ci-regression-predictors-of-outcomes.md) [~W]
 - [Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms](../claims/cps-eleven-high-change-schools-concentration-and-separation.md) [-W]
 - [Special education students in treatment schools were more likely to be immersed in regular math classrooms, an association the authors link to ASSISTment use](../claims/assistments-associated-special-education-immersion.md) [+W]
+- [Data collectors reported that segregated settings differed from inclusive settings in curriculum challenge, paraeducator support style, and academic feedback/expectations](../claims/segregated-settings-lower-curriculum-support-expectations.md) [+W]
+- [Fully inclusive classrooms scored higher than less inclusive classrooms on observed peer membership and classroom climate](../claims/inclusive-classrooms-higher-membership-and-climate.md) [~W]
 
 ## Related Principles
 - [Flexible Grouping](flexible-grouping.md) — temporary small groups inside a class are often how specially designed instruction can be delivered without removing a student from it

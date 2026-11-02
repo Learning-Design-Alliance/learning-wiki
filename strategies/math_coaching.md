@@ -66,6 +66,7 @@ Math Coaching converts word-problem practice into structured peer tutoring, comb
 - Peer Tutoring — the broader family of strategies; Math Coaching is a math-specific, flashcard-structured variant
 - Reciprocal Teaching — analogous role rotation and dialogue structure applied to reading comprehension; Math Coaching adapts its predict–question–clarify–summarize cycle to operation selection
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
+- [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the core interaction; the coach role is a peer enactment of guided support

@@ -52,3 +52,4 @@ Post-regression F-tests in the same 781-child regression models compare the stan
 - [Gains in counting and cardinality during the preschool year are associated with roughly half a standard deviation higher fifth grade mathematics achievement](preschool-counting-gains-predict-fifth-grade.md) — related
 - [The association between preschool competencies and fifth grade achievement does not differ across the achievement distribution](no-slope-differences-across-achievement-distribution.md) — related
 - [Content domain shows little association with effect sizes, except fractions in mathematics](content-domain-little-effect-fractions-exception.md) — related
+- [Patterning and mathematics groups outperformed the other groups on Woodcock-Johnson Mathematics Concepts, and patterning exceeded the other groups on all Key Math scales except Geometry and Multiplication](patterning-boosts-math-concepts-scales.md) — related

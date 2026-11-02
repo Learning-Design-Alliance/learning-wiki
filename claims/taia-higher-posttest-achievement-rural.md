@@ -73,3 +73,4 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related
 - [The integrated approach produced significantly greater critical thinking skill improvement than the conventional method at both universities](integrated-approach-critical-thinking-improvement.md) — related
 - [Control group students showed score improvement attributed to after-lecture worksheets, with some showing less improvement](control-group-worksheets-improvement.md) — related
+- [PE teacher candidates taught via a WebQuest significantly outperformed lectured-and-modeled peers on posttest teaching performance in planning, implementation and evaluation skills](webquest-outperforms-lecture-pe-teaching-performance.md) — related

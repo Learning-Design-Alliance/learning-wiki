@@ -48,3 +48,4 @@ Descriptive comparison of fall and spring observations for Cohort 1, with spring
 - [Baseline classroom observations show roughly half of students off-task and a minority disruptive or aggressive](gbg-cohort1-baseline-behavior-rates.md) — related
 - [Impact analysis of the GBG PD conditions on observed behavior was not yet conducted at the time of this paper](gbg-pd-impact-analysis-pending.md) — related
 - [Observed aggressive behavior positively correlates with teacher-reported aggressive/disruptive behavior](observed-teacher-reported-aggressive-behavior-correlation.md) — related
+- [Total recorded incidents decreased 47.76% over the intervention, with significant decreases in behavior, teacher-sent, self-sent, and aggression incidents but not group incidents](incident-frequency-decrease-paired-t-tests.md) — related

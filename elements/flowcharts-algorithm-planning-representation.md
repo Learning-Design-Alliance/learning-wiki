@@ -42,7 +42,8 @@ The deck introduces flowcharts as a planning representation, defining them as "A
 - [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 
 ## Examples
--
+
+- [Introduce programming with online algorithm visualization before formal coding instruction](../strategies/oav-before-coding-instruction.md)
 
 ## Key Sources
 - Computational Thinking Boosters: Algorithmic Thinking 3-8. (2021). Presentation dated Jan. 12, 2021, supported by NSF grant award #1923314. https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923314

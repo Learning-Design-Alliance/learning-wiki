@@ -51,3 +51,4 @@ Review discussion of maintenance across the included studies: Duchaine et al. (2
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — a broader claim this one bears on
 - [Students' baseline performance of target behaviors was low (0% to 20%) and rose to 100%, maintained by Andy, Jane, and Joan during the maintenance condition](baseline-low-performance-maintained-100-percent.md) — related
+- [Coaching on specific practices improved teachers' global fidelity of Pyramid Model implementation as measured by the TPOT](tpot-global-scores-improve-with-targeted-coaching.md) — related

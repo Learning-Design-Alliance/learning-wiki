@@ -55,3 +55,4 @@ Pretest-posttest quasi-experiment with 53 Taiwanese college students (experiment
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
 - [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](self-assessment-improves-efl-self-efficacy.md) — related
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
+- [Learning strategies instruction increases students' metacognitive knowledge](strategy-instruction-increases-metacognitive-knowledge.md) — related

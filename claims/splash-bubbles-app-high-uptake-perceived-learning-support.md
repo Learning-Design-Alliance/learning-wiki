@@ -80,3 +80,5 @@ Survey ratings on a 1 (not very helpful) to 5 (very helpful) scale of app suppor
 - [89.28% of parents reported the app was very or somewhat different from other apps they have used](station-study-app-novelty-perception.md) — related
 - [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related
 - [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](peg-cat-parent-confidence-and-attitude-gains.md) — related
+- [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](low-app-takeup-26-percent.md) — related
+- [Parents reported reading about 7 of the 10 provided books with children, and guided questions were the most frequently used app feature](parent-survey-print-book-engagement.md) — related

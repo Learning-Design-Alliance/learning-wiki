@@ -88,3 +88,4 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related
 - [Experimental and control groups did not differ significantly on the stoichiometry pre-test](stoichiometry-pretest-no-significant-group-difference.md) — related
+- [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — related

@@ -72,3 +72,5 @@ Survey ratings among 26 families using Dive In. Most rated the Let's Talk About 
 - [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related
 - 79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%) — related
 - [89.28% of parents reported the app was very or somewhat different from other apps they have used](station-study-app-novelty-perception.md) — related
+- [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](low-app-takeup-26-percent.md) — related
+- [Parents reported reading about 7 of the 10 provided books with children, and guided questions were the most frequently used app feature](parent-survey-print-book-engagement.md) — related

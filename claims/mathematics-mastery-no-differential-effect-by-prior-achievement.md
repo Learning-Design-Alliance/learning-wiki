@@ -51,3 +51,4 @@ Secondary-outcome analysis of the same clustered RCT: a second OLS regression in
 - [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](mathematics-mastery-quantile-regression-little-heterogeneity.md) — related
 - [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](mathematics-mastery-year1-small-nonsignificant-positive-effect.md) — related
 - [No strong evidence that Mathematics Mastery had a greater impact on lower-attaining than higher-attaining pupils](maths-mastery-no-differential-effect-by-attainment.md) — possibly the same claim (merge candidate)
+- [Post-test achievement and post-attitude did not differentiate by gender or pre-study mathematical attitude](pbl-outcomes-no-gender-attitude-differentiation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (88 show a difference, 25 mixed, 20 no difference) · 107 studies (35 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 18 of 107 report an effect size · 130 claims rest on one study
+> **Evidence** · 135 claims (89 show a difference, 25 mixed, 21 no difference) · 109 studies (37 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 19 of 109 report an effect size · 132 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -174,6 +174,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Problem solving strategy is more effective than the scientific approach for 10th-grade students' mathematical communication ability](../claims/problem-solving-strategy-more-effective-communication.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](../claims/dialogic-reading-increases-ell-children-expressive-vocabulary.md) [+M] — instruction changes it
+- [Talk of the Town showed no evidence of improving oral language skills among children with weaker reading comprehension (ACE secondary outcome)](../claims/tott-no-impact-oral-language-ace.md) [-M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

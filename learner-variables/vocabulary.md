@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (116 show a difference, 24 mixed, 23 no difference) · 110 studies (53 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 110 report an effect size · 160 claims rest on one study
+> **Evidence** · 169 claims (122 show a difference, 24 mixed, 23 no difference) · 115 studies (58 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 115 report an effect size · 166 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -204,6 +204,12 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](../claims/game-based-tasks-improve-young-learner-vocabulary-achievement.md) [+M] — instruction changes it
 - [No significant difference in vocabulary achievement between male and female young learners learning vocabulary through games](../claims/no-gender-difference-game-based-vocabulary-learning.md) [-M] — instruction changes it
 - [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](../claims/word-generation-boston-quasi-experiment-gains.md) [~M] — instruction changes it
+- [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](../claims/dialogic-reading-increases-ell-children-expressive-vocabulary.md) [+M] — instruction changes it
+- [CLIL instruction through L2 was significantly better than teaching through L1 in promoting L2 vocabulary development across two experiments](../claims/clil-better-than-l1-for-l2-vocabulary.md) [+M] — instruction changes it
+- [Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/direct-method-improves-efl-childrens-vocabulary.md) [+M] — instruction changes it
+- [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](../claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md) [+M] — instruction changes it
+- [In a randomized pilot study, students with high-functioning ASD receiving explicit vocabulary instruction showed a very strong effect size on knowledge of definitions compared with control peers](../claims/vocabulary-instruction-strong-effect-hfasd-pilot.md) [+M] — instruction changes it
+- [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/tpr-improves-iranian-efl-childrens-vocabulary.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

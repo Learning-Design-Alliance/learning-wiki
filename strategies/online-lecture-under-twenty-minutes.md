@@ -54,6 +54,7 @@ The article synthesizes FL literature recommendations that online lectures shoul
 - [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 - [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
+- [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 
 ## Examples
 -

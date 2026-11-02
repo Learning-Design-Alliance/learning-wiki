@@ -66,3 +66,4 @@ Dosage analysis within the same trial: the report found no indication that schoo
 ## Related Claims
 - [One year of the Edge Hill Lesson Study programme shows no evidence of improving KS2 maths and reading attainment compared to control](lesson-study-no-impact-ks2-cohort1.md) — related
 - [Two years of the Lesson Study programme shows no evidence of improving KS2 maths and reading attainment compared to control](lesson-study-no-impact-ks2-cohort2.md) — related
+- [The programme showed no positive effects on secondary outcomes of maths attainment and attitudes to reading, maths, music, and school](hsom-no-impact-maths-attitudes.md) — possibly the same claim (merge candidate)

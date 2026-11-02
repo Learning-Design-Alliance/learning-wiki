@@ -61,9 +61,11 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 6. **Refresh and involve students** — rotate displays monthly, add student-requested titles, and invite student curators to feature books.
 
 ## Related Strategies
+
 - Independent reading with conferring — the instructional routine that makes a curated library consequential
 - Text sets for content units — curation applied to disciplinary reading
 - Book talks and read-alouds — the promotion layer that drives circulation of curated titles
+- [Select books with detailed, varied, culturally relevant illustrations for dialogic reading with young children](select-detailed-culturally-relevant-books-for-dialogic-reading.md)
 
 ## Examples
 - **DonorsChoose / First Book Marketplace** (https://www.firstbook.org) — common channels teachers use to fund and acquire diverse, low-cost titles for classroom collections.

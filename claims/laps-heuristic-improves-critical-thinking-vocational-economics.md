@@ -54,3 +54,4 @@ Quasi-experiment with class X APK students at SMK Negeri 1 Ngawi: 32 experimenta
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Students taught Elementary Algebra with e-books showed significantly higher mathematical critical thinking gains than students taught with conventional textbooks](ebooks-higher-critical-thinking-gain-than-textbooks.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
+- [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related

@@ -49,3 +49,4 @@ Descriptive analysis of the second questionnaire item answered by the experiment
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related

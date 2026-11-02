@@ -51,3 +51,4 @@ Synthesis of criterion validity evidence for screeners against the correlation t
 - [The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool](irla-concurrent-validity-screening-rti.md) — related
 - [Only 15 of the identified measurement tools met common acceptability thresholds for more than two areas of psychometric evidence](only-15-tools-meet-two-plus-thresholds.md) — a broader claim this one bears on
 - [Only one mathematical assessment and one screener (NSS) met the acceptability threshold for predictive validity](predictive-validity-rarely-established.md) — related
+- [Patterning and mathematics groups outperformed the other groups on Woodcock-Johnson Mathematics Concepts, and patterning exceeded the other groups on all Key Math scales except Geometry and Multiplication](patterning-boosts-math-concepts-scales.md) — related

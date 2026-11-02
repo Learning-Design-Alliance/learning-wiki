@@ -67,3 +67,4 @@ Correlation between pre-to-post gains in speech rate and gains in multiword expr
 - [The fluency workshop did not increase trimmed speech rate significantly more than a general English class, though the experimental group alone showed a significant pre-to-post increase](fluency-workshop-speech-rate-not-significantly-better-than-control.md) — related
 - [The fluency workshop did not increase use of target multiword expressions in speech significantly more than a general English class](fluency-workshop-mwe-use-in-speech-not-significant.md) — related
 - [A 6-week fluency workshop increases EFL learners' cued recall of target multiword expressions significantly more than a general English class](fluency-workshop-increases-cued-recall-multiword-expressions.md) — related
+- [Posttest FS use correlates with fluency: r = 0.54 with speech rate and r = 0.28 with mean length of run](fs-use-correlates-with-fluency-measures.md) — related

@@ -45,6 +45,7 @@ After clarifying the writing task, the teacher presents a model text and “put 
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](three-stage-noticing-writing-task.md)
 - [Direct students' attention to relating Themes and Rhemes to preceding and succeeding text when writing in English](direct-attention-to-theme-rheme-relations.md)
 - [Use grammar correction symbols cumulatively across practice and editing to connect grammar instruction with real texts](cumulative-correction-symbol-labelling-strategy.md)
+- [A staged 10-week writing instruction sequence: two weeks on theme/rheme, three weeks on TP patterns, then consolidation through reading and model-text analysis](staged-theme-theory-writing-instruction-sequence.md)
 
 ## Examples
 -

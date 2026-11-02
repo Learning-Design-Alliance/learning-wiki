@@ -50,3 +50,4 @@ Analysis of teachers' self-reports; the article observes that "reports of transf
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — related
 - [30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching](thirty-percent-teachers-transformative-practices-plans.md) — related
+- [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](mobile-use-shifts-lecturer-to-facilitator.md) — a narrower finding that bears on this claim

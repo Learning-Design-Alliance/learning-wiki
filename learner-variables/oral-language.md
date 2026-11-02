@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (113 show a difference, 36 mixed, 33 no difference) · 120 studies (42 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 34 of 120 report an effect size · 179 claims rest on one study
+> **Evidence** · 190 claims (119 show a difference, 36 mixed, 35 no difference) · 127 studies (49 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 36 of 127 report an effect size · 187 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -219,6 +219,14 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (2nd activity)](../claims/phased-listening-no-difference-activity2.md) [-M] — instruction changes it
 - [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
 - [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — instruction changes it
+- [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](../claims/dialogic-reading-increases-ell-children-expressive-vocabulary.md) [+M] — instruction changes it
+- [Explicit affective strategy training significantly improved Iranian pre-intermediate EFL learners' oral language proficiency compared with a placebo control group](../claims/affective-strategy-training-improves-oral-proficiency-iranian-efl.md) [+M] — instruction changes it
+- [Humorous-song listening improves EFL learners' listening comprehension test scores more than regular instruction alone](../claims/humorous-song-improves-efl-listening-comprehension.md) [+M] — instruction changes it
+- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](../claims/scu-ccx-maintained-at-follow-up.md) [+W] — instruction changes it
+- [Peer cooperative self-access listening materials adaptation improves EFL learners' listening comprehension performance more than teacher-selected materials](../claims/cooperative-materials-adaptation-improves-listening-comprehension.md) [+M] — instruction changes it
+- [Previewing questions alone did not appear to influence learners' listening comprehension performance](../claims/previewing-questions-no-influence-listening.md) [-M] — instruction changes it
+- [Talk of the Town showed no evidence of improving oral language skills among children with weaker reading comprehension (ACE secondary outcome)](../claims/tott-no-impact-oral-language-ace.md) [-W] — instruction changes it
+- [Topic preparation produced the highest listening comprehension scores among the four treatment groups](../claims/topic-preparation-highest-listening-scores.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

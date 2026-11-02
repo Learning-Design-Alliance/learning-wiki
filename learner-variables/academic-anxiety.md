@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (138 show a difference, 43 mixed, 28 no difference) · 131 studies (43 associational, 40 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 31 of 131 report an effect size · 202 claims rest on one study
+> **Evidence** · 212 claims (141 show a difference, 43 mixed, 28 no difference) · 133 studies (43 associational, 42 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 31 of 133 report an effect size · 205 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -245,6 +245,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](../claims/speaking-proficiency-anxiety-negative-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](../claims/sss-reduced-test-anxiety-growth-fifth-grade.md) [+M] — instruction changes it
 - [Instruction through the situated learning model significantly reduces mathematics anxiety of seventh-grade students compared with traditional teaching](../claims/situated-learning-reduces-mathematics-anxiety.md) [+M] — instruction changes it
+- [Explicit affective strategy training significantly raised Iranian EFL learners' level of anxiety control relative to the control group by the end of the study](../claims/affective-strategy-training-raises-anxiety-control.md) [+M] — instruction changes it
+- [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](../claims/anxiety-control-change-within-groups.md) [+M] — instruction changes it
+- [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -49,6 +49,7 @@ The article cites Hew's recommendation that "limiting the total duration of vide
 - [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
+- [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 
 ## Examples
 -

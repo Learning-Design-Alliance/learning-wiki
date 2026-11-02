@@ -51,3 +51,4 @@ Quasi-experiment with 44 Syariah and Law Faculty students (22 control, 22 experi
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — reports the opposite
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — reports the opposite
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
+- [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related

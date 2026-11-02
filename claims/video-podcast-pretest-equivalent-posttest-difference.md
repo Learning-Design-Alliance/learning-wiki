@@ -53,3 +53,5 @@ Pre-test/post-test comparison in the 48-student equivalent group design. Pre-tes
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite
 - [Teaching based on the existing curriculum produced no statistically significant change in students' environmental attitudes](existing-curriculum-no-attitude-change.md) — related
+- [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related
+- [Post-test critical thinking scores significantly higher than pre-test after model instruction](pretest-posttest-critical-thinking-gain.md) — related

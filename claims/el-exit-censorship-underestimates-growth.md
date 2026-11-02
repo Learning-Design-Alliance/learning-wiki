@@ -52,3 +52,4 @@ Chapter I's Limitations section explains that faster-progressing, higher-attaini
 - [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
 - More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related
+- [Among treated schools, those that exited intervention status had better prior performance and more favorable schooling conditions than watch and fail groups](exit-schools-better-prior-conditions-resources.md) — related

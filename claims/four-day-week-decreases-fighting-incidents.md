@@ -51,3 +51,4 @@ The same Oklahoma difference-in-differences panel analysis reports that 4-day sc
 - [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — reports the opposite
 - [Four-day school weeks have no detectable effect on high school students' ACT scores](four-day-week-no-effect-act-scores.md) — related
 - [University High School's suspensions dropped 78% and fights fell from more than 10 per semester to one in the 2023–24 school year after adopting the community school strategy](university-high-suspensions-fights-declined-community-school.md) — related
+- [Total recorded incidents decreased 47.76% over the intervention, with significant decreases in behavior, teacher-sent, self-sent, and aggression incidents but not group incidents](incident-frequency-decrease-paired-t-tests.md) — related

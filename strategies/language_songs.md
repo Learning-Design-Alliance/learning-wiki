@@ -63,6 +63,7 @@ Songs provide multiple redundant memory pathways: verbal content is encoded alon
 - [Act It Out](../strategies/act_it_out.md) — gestural accompaniment adds a second encoding channel to sung language
 - [Carefully select songs for EFL teaching, since only carefully selected songs evidently support vocabulary and grammar acquisition](careful-song-selection-for-efl.md)
 - [Implement song education through in-class guided listening and lyric analysis plus out-of-class singing and appreciation](guided-song-education-procedure.md)
+- [Play humorous songs immediately after regular course-material listening, without follow-up questioning, to keep learners relaxed](humorous-song-after-listening-no-questions.md)
 
 ## Examples
 - **Super Simple Songs** (https://supersimple.com) — EFL songs for young learners with printable lyrics and gesture guides, widely used in early-literacy classrooms.

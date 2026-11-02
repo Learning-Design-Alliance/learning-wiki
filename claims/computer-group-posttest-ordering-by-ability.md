@@ -49,3 +49,4 @@ Descriptive comparison of post-test means in the computer-graphics group of the 
 - [Students' creative ability level has a significant main effect on post-test performance in sculpture skill development in the OAU quasi-experiment](creative-ability-main-effect-sculpture-performance.md) — related
 - [The interaction between instructional method and creative ability on sculpture post-test performance was not significant](instruction-method-creative-ability-interaction-null.md) — related
 - [The study reports no significant difference in sculpture creative ability between computer instructional and conventional approaches, while its ANCOVA table marks the instructional methods main effect significant](no-significant-difference-computer-versus-conventional.md) — related
+- [No significant achievement difference between high- and low-ability students taught with reflective inquiry](no-ability-level-difference-reflective-inquiry.md) — related

@@ -51,3 +51,4 @@ Random effects meta-analysis using Robust Variance Estimation of 18 RCTs with 11
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](metacognitive-training-significant-numeracy-effect.md) — a narrower finding that bears on this claim
+- [Prior meta-analyses report small or no effects of out-of-school programmes on literacy and maths achievement under rigorous designs](out-of-school-programmes-small-or-no-effects.md) — related

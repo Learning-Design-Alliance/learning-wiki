@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (45 show a difference, 18 mixed, 12 no difference) · 51 studies (33 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 11 of 51 report an effect size · 72 claims rest on one study
+> **Evidence** · 77 claims (47 show a difference, 18 mixed, 12 no difference) · 53 studies (35 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 12 of 53 report an effect size · 74 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -112,6 +112,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Grades 3-4 students in an EALP-based early algebra intervention made significant improvements in constructing function tables and outperformed control students at posttest](../claims/ealp-intervention-improves-function-table-construction-grades-3-4.md) [+M] — instruction changes it
 - [On a 'far' prediction to 10 tables, both conditions improved with no significant posttest differences in correctness, but the experimental group increasingly used a function rule as its strategy](../claims/far-prediction-no-difference-but-functional-strategy-use-increased.md) [~M] — instruction changes it
 - [The authors conclude that elementary students are capable of sophisticated functional thinking and that this calls into question the lack of focus on covarying quantities in many elementary curricula and standards](../claims/elementary-students-capable-of-sophisticated-functional-thinking.md) [+M] — instruction changes it
+- [Beginning Algebra students who completed the month-long ITS program passed at 65.6% versus 22.2% for the non-ITS control group](../claims/its-pass-rate-versus-control-beginning-algebra.md) [+M] — instruction changes it
+- [Graphic organiser treatment has a significant main effect on students' achievement in algebraic word problems, accounting for 23.5% of post-test variance](../claims/graphic-organiser-significant-main-effect-algebraic-word-problems.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

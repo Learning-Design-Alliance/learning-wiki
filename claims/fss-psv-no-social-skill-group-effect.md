@@ -54,3 +54,4 @@ sources:
 - [FSS-PSV significantly decreased externalized problem behaviors of experimental-group children, its basic aim](fss-psv-decreases-externalized-problem-behaviors.md) — related
 - [VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches](vr-and-lego-sce-increase-elementary-social-competence.md) — related
 - [Teachers and parents reported positive social validity of FSS-PSV, with most happy with the program and willing to recommend it](fss-psv-positive-social-validity.md) — related
+- [Control-group children also improved significantly on social adaptation and skills, but their gains included negative-rank changes unlike the study group](control-group-gains-mixed-ranks.md) — related

@@ -60,3 +60,4 @@ Pilot quasi-experiment with four groups of Spanish B1 learners (36 English, 36 G
 - [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [Teaching English grammar with humorous activities produced more correct quiz answers than traditional instruction in a small classroom experiment](humour-teaching-improves-grammar-quiz-results.md) — related
+- [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related

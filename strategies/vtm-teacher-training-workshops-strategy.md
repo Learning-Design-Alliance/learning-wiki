@@ -49,6 +49,7 @@ Based on their findings, the authors recommend holding training workshops for te
 - [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
 - [Integrate WebQuests into teachers' class planning with teacher training](webquest-class-planning-teacher-training-strategy.md)
 - [Train teachers to prepare and use computerized educational packages and establish supervised Arabic educational websites](teacher-training-computerized-packages-strategy.md)
+- [Incorporate WebQuest procedures into teacher-preparation methodology sessions and adapt them per sport](webquest-in-methodology-sessions-strategy.md)
 
 ## Examples
 -

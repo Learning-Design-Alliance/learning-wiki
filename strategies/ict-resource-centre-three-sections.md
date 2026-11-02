@@ -46,6 +46,7 @@ To put ICT tools infrastructure in place, the authors recommend that School Mana
 
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Five-component systemwide support infrastructure for capacity building under next generation accountability](five-component-capacity-building-infrastructure.md)
+- [Provide CAI packages across school subjects in school computer labs with dedicated time, staffing and funding](schools-provide-cai-packages-computer-labs.md)
 
 ## Examples
 -

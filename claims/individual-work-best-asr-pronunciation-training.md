@@ -79,3 +79,4 @@ Ngo et al. (2024) point the other way from this claim: across ASR studies, pract
 - [Mixed responding (individual plus choral) was slightly more effective than choral responding alone in the one study that tested it](mixed-td-otr-slightly-more-effective.md) — related
 - [Within ASR-based pronunciation practice, individual work produced higher post-test scores than pair work and group work](individual-work-best-for-asr-pronunciation.md) — related
 - [The process evaluation suggested both interventions may be best delivered in groups of similar rather than mixed ability](abra-similar-ability-grouping-suggestion.md) — related
+- [Mediation type (self-access CAPT, collaborative CAPT, or MP3) produced no statistically significant difference in posttest reading performance across pronunciation, intonation, timing, or overall ratings](capt-mediation-type-no-significant-group-difference.md) — related

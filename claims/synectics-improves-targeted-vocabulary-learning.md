@@ -53,3 +53,4 @@ True-experimental pretest-posttest study with two experimental and two control g
 - [Synectics-based teaching leads students to learn far more words indirectly during the process, with significantly higher learning levels of those words](synectics-increases-indirectly-learned-vocabulary.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [Supplemental blended learning with the Memrise app produced significantly higher post-test vocabulary scores than face-to-face instruction in Iranian EFL learners](memrise-blended-learning-vocabulary-posttest-gain.md) — related
+- [Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](direct-method-improves-efl-childrens-vocabulary.md) — related

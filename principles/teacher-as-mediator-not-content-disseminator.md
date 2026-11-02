@@ -68,7 +68,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (35 for, 18 mixed, 1 against) · 50 studies (11 qualitative, 10 review, 10 theoretical, 9 quant-synthesis, 6 causal, 3 associational, 1 design), `q1`–`q4` · 5 of 50 report an effect size · 49 claims rest on one study
+> **Evidence** · 55 claims (36 for, 18 mixed, 1 against) · 51 studies (11 qualitative, 10 review, 10 theoretical, 9 quant-synthesis, 7 causal, 3 associational, 1 design), `q1`–`q4` · 5 of 51 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -215,6 +215,7 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Instructors reported role transformation toward facilitation, shifted assessment toward performance-based formats, and identified professional development and integrity needs](../claims/instructor-adaptation-themes-genai.md) [+W]
 - [Teachers' lack of explicit references to guiding strategies in the CLE classroom indicates a need for better understanding of guidance of student learning and classroom social structure](../claims/teachers-lack-references-to-guiding-strategies-in-cle-classroom.md) [~W]
 - [Facilitation competencies for IPE include commitment, credibility, role modeling, understanding of interactive learning methods, group dynamics knowledge, flexibility with professional differences, and balancing individual and group needs](../claims/ipe-facilitation-competencies-seven-areas.md) [+W]
+- [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](../claims/mobile-use-shifts-lecturer-to-facilitator.md) [+W]
 
 ## Related Principles
 - [Constructivism](cognitive-activation.md)

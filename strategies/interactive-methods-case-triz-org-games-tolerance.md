@@ -50,7 +50,8 @@ The article recommends centering tolerance formation on three interactive method
 - [Ranks of ethical and individualistic values rose in the experimental group but changed little in the control group](../claims/value-ranks-rose-eg-not-cg.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use educational discussion and debate to form ecological and moral convictions](discussion-debate-ecological-convictions.md)
 
 ## Examples
 -

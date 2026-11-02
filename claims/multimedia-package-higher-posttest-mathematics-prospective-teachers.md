@@ -59,3 +59,4 @@ Randomized pre-test post-test experiment with 60 prospective teachers in two gro
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
 - [The multimedia-based methodology produced a significantly higher share of students reaching high and medium levels of the integrative cognitive independence indicator than traditional teaching](multimedia-methodology-higher-integrative-cognitive-independence.md) — related
 - [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related
+- [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related

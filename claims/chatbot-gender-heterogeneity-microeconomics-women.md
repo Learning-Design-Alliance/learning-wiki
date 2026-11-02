@@ -57,3 +57,4 @@ Subgroup ITT analysis in the Microeconomics RCT (915 randomized students) with f
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
 - [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](genai-group-better-course-performance.md) — related
 - [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](peer-tutoring-final-grade-advantage.md) — related
+- [ITS program completers earned an average final course grade of 2.18 on a 4.0 scale (SD = 1.388, N = 39)](its-completers-average-course-grade-2-18.md) — related

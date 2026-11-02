@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 38 studies (19 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 9 of 38 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (17 for, 15 mixed, 2 against) · 39 studies (19 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 9 of 39 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most](../claims/working-memory-compensatory-moderator-self-explaining.md) [+W] — attached 2026-10-23 from Fuchs et al. (2016), which proposed "Use supported self-explaining to compensate for weak working memory in at-risk learners".
 - [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — attached 2026-10-23 from Fuchs et al. (2016), which proposed "Use supported self-explaining to compensate for weak working memory in at-risk learners"; tests this page's relationship.
 - [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](../claims/diy-prediction-better-conceptual-learning-than-yoked-observation.md) [+W] — attached 2026-10-26 from Brod et al. (2025), which proposed "Even minimal volitional acts such as generating predictions support conceptual learning beyond the informational content of the evidence"; tests this page's relationship.
+- [Teachers perceived that beginning a lesson with a challenging task fosters more creative and empowered mathematical thinking in students](../claims/task-first-fosters-creativity-empowerment.md) [+W] — attached 2026-11-02 from James Russo (2017), which proposed "For teachers new to challenging tasks, incorporating cognitively demanding tasks in any capacity may be the more dramatic shift than the choice of lesson structure".
 
 ## Objective and learner-valued goal
 

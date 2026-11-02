@@ -49,3 +49,4 @@ CEG evaluation study, an in-home evaluation of app use "out-of-the-box" without 
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related
 - [89.28% of parents reported the app was very or somewhat different from other apps they have used](station-study-app-novelty-perception.md) — related
+- [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](low-app-takeup-26-percent.md) — related

@@ -49,3 +49,4 @@ Independent-samples t-test on the posttest of 20 experimental and 20 control par
 - [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](humorous-video-clips-improve-efl-idiom-achievement.md) — related
 - [Instructional video clips improved macroeconomics test scores relative to control](instructional-video-clips-improve-macroeconomics-test-scores.md) — related
+- [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — related

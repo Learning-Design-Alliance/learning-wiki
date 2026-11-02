@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (32 for, 10 mixed, 3 against) · 50 studies (22 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 50 report an effect size · 35 claims rest on one study
+> **Evidence** · 46 claims (33 for, 10 mixed, 3 against) · 51 studies (23 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 51 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Fourth graders receiving multi-component social studies vocabulary instruction made significantly greater vocabulary gains on a curriculum-based measure than comparison peers](../claims/multicomponent-vocab-cbm-gains.md) [+W] — attached 2026-11-02 from Graham et al. (2015), which proposed "Teach content-area vocabulary explicitly and multi-componentally because comprehension of content depends on understanding its vocabulary"; tests this page's relationship.
 - [Corpus-based instruction using COCA concordance lines improved EFL students' verb-noun collocation recognition more than traditional instruction](../claims/corpus-based-activities-improve-verb-noun-collocation-learning.md) [+W] — attached 2026-11-02 from Uçar et al. (2015), which proposed "Use corpus-based concordance activities to teach verb-noun collocations in EFL classes".
 - [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+W] — attached 2026-11-02 from Coyne et al. (2019), which proposed "Extended vocabulary instruction: high-utility words, student-friendly definitions, multiple exposures, and deep processing"; tests this page's relationship.
+- [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](../claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md) [+W] — attached 2026-11-02 from Lin et al. (2013), which proposed "Use hierarchy vocabulary exercises rather than copying exercises after explicit vocabulary instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -203,6 +204,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 - [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](../strategies/select-high-leverage-academic-vocabulary.md)
 - [Use a pre-task stage with vocabulary review, clear instructions, a model task, and useful-language recall before reading tasks](../strategies/pre-task-stage-model-and-instructions-reading-tasks.md)
+- [Use OPS-English vocabulary-based activities across the school day to reinforce word meaning where direct instruction time is limited](../strategies/ops-english-vocabulary-activities-reinforce-word-meaning.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)

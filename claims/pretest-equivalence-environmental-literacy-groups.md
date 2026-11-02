@@ -50,3 +50,4 @@ Independent samples t-tests on pre-test Environmental Literacy Scale scores (Tab
 - [The experimental group's pretest-to-post-test attitude gain was significantly larger than the control group's, but the behavior dimension showed no significant difference](eas-gain-score-significant-behavior-not.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
+- [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related

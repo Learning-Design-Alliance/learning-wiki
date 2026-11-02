@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (48 for, 44 mixed, 4 against) · 68 studies (28 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 24 of 68 report an effect size · 88 claims rest on one study
+> **Evidence** · 100 claims (52 for, 44 mixed, 4 against) · 70 studies (30 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 25 of 70 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](../claims/pre-service-teacher-aversion-to-flipped-learning.md) [~W] — attached 2026-11-02 from Faisal M. Almutairi et al. (2020), which proposed "Exercise care when structuring pre-service teacher education courses that apply flipped learning".
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](../claims/flipped-classroom-grammar-achievement-gains-esl-efl.md) [+M] — attached 2026-11-02 from Webb et al. (2016), which proposed "Flipped ESL/EFL grammar module: out-of-class video lesson, online quiz, and discussion post per grammatical principle"; tests this page's relationship.
 - [Flipped ESL/EFL students completed about 77.75% of out-of-class assignments on average, with completion dipping mid-semester and higher in Macau than the US](../claims/flipped-assignment-completion-buy-in.md) [~M] — attached 2026-11-02 from Webb et al. (2016), which proposed "Flipped ESL/EFL grammar module: out-of-class video lesson, online quiz, and discussion post per grammatical principle".
+- [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](../claims/fcrs-pre-post-achievement-gain.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Two-phase flipped classroom pattern: online multimedia at home, collaborative problem-solving class activities with immediate feedback".
+- [Experimental-group students' self-regulated learning skills scores rose significantly from pre-test to post-test under the flipped classroom strategy](../claims/fcrs-pre-post-srls-gain.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Two-phase flipped classroom pattern: online multimedia at home, collaborative problem-solving class activities with immediate feedback".
+- [Students taught by an experienced flipped-learning teacher also showed statistically significant improvements in EFL composition writing proficiency](../claims/flipped-learning-significant-writing-gains-fe-group.md) [+W] — attached 2026-11-02 from Adrian Leis et al. (2018), which proposed "Flipped classroom structure: content explanation moved before class, practice under teacher supervision during class, review after class".
 
 ## Objective and learner-valued goal
 
@@ -230,6 +233,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Lesson observations indicated MathsFlip was delivered well, with class behaviour reflecting key components of a flipped learning approach](../claims/mathsflip-fidelity-observations-hots.md) [+W]
 - [Experimental-class students gave significantly higher course evaluation ratings than control students on all selected questions](../claims/discussion-week-higher-course-evaluations.md) [+W]
 - [Experimental-class students earned significantly higher term paper grades than control students](../claims/discussion-week-term-paper-grades.md) [+W]
+- [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

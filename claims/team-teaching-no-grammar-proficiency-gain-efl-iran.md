@@ -52,3 +52,5 @@ Quasi-experimental study of 58 male first-level junior-high EFL students in Ilam
 - [Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-beginners-grammar.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — related
+- [The co-instructor perceived co-teaching as culturally unnatural in Iran's single-teacher educational system](co-instructor-cultural-unfamiliarity-co-teaching.md) — related
+- [Parallel teaching did not produce significantly better general language proficiency than traditional single-teacher instruction in Iranian junior-high EFL learners](parallel-teaching-no-significant-proficiency-gain-efl.md) — related

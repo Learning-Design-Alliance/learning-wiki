@@ -20,6 +20,7 @@ The Flipped Learning Network's framework for implementing flipped learning throu
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **FLIP framework: flexible environment, learning philosophy, intentional content, professional educator**: The article presents the flipped classroom approach as having four elements known as FLIP, attributed to the Flipped Learning Network (2014). As printed: "FCR approach has four different elements: "FLIP" ("F"lexible Environment), It refers to facility of place, time and of learning. ("L"earning Philosophy), overlapping from teacher-centered teaching into student-centered learning. ("I"ntentional Content): The educators manage media to develop a cognitive understanding of students and provide fluency education. ("P"rofessional Educator): The educators always give more attention to engage students in course learning, evaluate and feedback them than the traditional approach". The article also frames FCRS as a special type of blended learning combining constructivism and behaviorism. (El-Senousy et al. (2017))
 
 ### Claims
 
@@ -31,3 +32,4 @@ The Flipped Learning Network's framework for implementing flipped learning throu
 
 ## Key Sources
 - Aydin, M., Okmen, B., Sahin, S., & Kilic, A. (2021). The Meta-Analysis of the Studies About the Effects of Flipped Learning on Students' Achievement. Turkish Online Journal of Distance Education-TOJDE, 22(1), Article 3. https://tojde.anadolu.edu.tr
+- El-Senousy, H. & Alquda, J. (2017). The effect of Flipped Classroom Strategy using Blackboard Mash-Up Tools in enhancing achievement and Self–Regulated Learning skills of university students. World Journal on Educational Technology: Current Issues, 9(3), 144-157. https://sproc.org/ojs/index.php/wjet

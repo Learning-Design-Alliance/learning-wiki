@@ -50,3 +50,4 @@ Independent samples t-tests on the 53 students' PKT and swtAT pre-test scores sh
 - [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
 - [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](jigsaw-higher-achievement-science-within-time.md) — related
 - [Pretest achievement scores did not differ between the jigsaw and control groups before instruction](no-pretest-difference-jigsaw-control-groups.md) — related
+- [Experimental and control 7th-grade students did not differ significantly on achievement pre-test scores before the particulate nature of matter unit](concept-cartoon-study-pretest-equivalence.md) — related

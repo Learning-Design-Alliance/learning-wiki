@@ -50,6 +50,7 @@ The article's recommendations section advises instructors to "consider using the
 - [Design flipped classroom instruction according to subject type, knowledge type, and students' independent learning ability](design-flips-by-subject-knowledge-and-self-learning.md)
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
+- [Teacher training and preparation recommendations for implementing the flipped classroom strategy](fcrs-teacher-training-and-tool-preparation-strategy.md)
 
 ## Examples
 -

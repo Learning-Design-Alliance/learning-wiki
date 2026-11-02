@@ -51,3 +51,4 @@ End-of-semester questionnaire given to the 52 experiment-class students, ten ite
 - [Cooperative learning produced significantly higher posttest listening scores than traditional teaching in this study](cl-posttest-higher-than-traditional-listening.md) — related
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
+- [Before the treatment, students held an overall negative attitude toward listening](pretest-negative-attitude-toward-listening.md) — reports the opposite

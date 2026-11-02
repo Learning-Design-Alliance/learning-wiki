@@ -50,3 +50,4 @@ Authors' interpretive conclusion (type e) from the merged qualitative and quanti
 - [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md)
 - [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — related
 - [Teachable agents in educational games can help achieve deeper levels of learning that transfer outside the game](teachable-agents-deeper-learning-transfer.md) — related
+- [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](teacher-views-authentic-childhood-games.md) — related

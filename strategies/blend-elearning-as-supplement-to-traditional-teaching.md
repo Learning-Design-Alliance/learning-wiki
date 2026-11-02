@@ -53,6 +53,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
+- [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
 
 ## Examples
 -

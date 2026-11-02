@@ -66,6 +66,7 @@ Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former st
 
 ## Examples
 <!-- Candidate future pages, not yet created: a principle on moral/developmental classroom climate, and a claim page on moral-stage-vs-behavior correlation (e.g., cheating). -->
+- [Use educational discussion and debate to form ecological and moral convictions](../strategies/discussion-debate-ecological-convictions.md)
 
 ## Key Sources
 - Ashton, P., & Huitt, W. (1980). Egocentrism-sociocentrism: The dynamic interplay in moral development. In J. Magary, P. Taylor, & G. Lubin (Eds.), *Piagetian theory and the helping professions* (Vol. 9, pp. 293-297). Association for the Study of Piagetian Theory.

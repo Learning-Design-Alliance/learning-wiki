@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 108 claims (58 for, 41 mixed, 9 against) · 108 studies (33 review, 24 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 108 report an effect size · 103 claims rest on one study
+> **Evidence** · 109 claims (59 for, 41 mixed, 9 against) · 109 studies (33 review, 24 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 109 report an effect size · 104 claims rest on one study
 
 ## Conditional relationship
 
@@ -218,6 +218,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [The pooled effect of adaptive e-learning on knowledge is moderate-to-large but not statistically significant, with very high heterogeneity](../claims/aee-knowledge-effect-not-significant.md) [~W]
 - [An interactive, tailored Web-based smokeless tobacco intervention achieved higher quit rates than a linear, text-based website](../claims/interactive-tailored-website-higher-quit-rates.md) [+W]
 - [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
+- [Teacher-participants differed considerably in their preferred lesson structure, with one teacher conceptualising structure as best fit for a given student rather than best practice](../claims/teacher-preferences-differ-lesson-structure.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

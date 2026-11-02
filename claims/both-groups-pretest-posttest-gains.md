@@ -67,3 +67,4 @@ Dependent-samples t-test for the 29-student SMS-supported experimental section; 
 - [Students receiving SMS learning support scored significantly higher on the programming posttest than control students](sms-support-higher-posttest-programming.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — a broader claim this one bears on
 - [Students taught programming with self-explanation supported by worked examples significantly outperformed traditionally taught students on the technical skills posttest of writing program code](self-explanation-worked-examples-improve-programming-skills.md) — related
+- [The SMS-supported experimental group's posttest achievement scores were significantly higher than its own pretest scores](sms-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim

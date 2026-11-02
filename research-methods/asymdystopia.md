@@ -25,7 +25,8 @@ Asymdystopia is the authors' named concept for a context in which increasing sam
 ### Claims
 
 ## Related Research Methods
--
+
+- [Small-bias mitigation in highly powered education impact evaluations](small-bias-mitigation-in-highly-powered-education-impact-evaluations.md)
 
 ## Key Sources
 - John Deke, Thomas Wei, and Tim Kautz. (2018). Asymdystopia: The threat of small biases in evaluations of education interventions that need to be powered to detect small impacts. SREE Spring 2018 Conference Abstract. https://www.sree.org

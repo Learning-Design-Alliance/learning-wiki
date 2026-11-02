@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (119 show a difference, 34 mixed, 22 no difference) · 131 studies (44 causal, 31 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 131 report an effect size · 170 claims rest on one study
+> **Evidence** · 178 claims (121 show a difference, 35 mixed, 22 no difference) · 133 studies (46 causal, 31 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 26 of 133 report an effect size · 173 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -213,6 +213,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [A child's engagement relative to classroom peers positively predicts spring school readiness, while relative attention-impulse control does not](../claims/relative-engagement-status-predicts-readiness.md) [-M] — learners who differ on it differ in outcomes
 - [Classroom-level attention-impulse control does not significantly predict preschool school readiness skills, and neither peer measure predicts language growth](../claims/peer-attention-impulse-control-null-preschool.md) [-M] — learners who differ on it differ in outcomes
 - [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](../claims/blended-learning-limited-interaction-distractions.md) [+W] — instruction changes it
+- [A brief multi-component communication intervention immediately improves initiated joint attention in preverbal preschoolers with autism](../claims/multicomponent-intervention-improves-joint-attention-post.md) [+W] — instruction changes it
+- [Children whose parents received dialogic reading training hold the book, pose and solicit questions, and sustain attention significantly more at post-test](../claims/dialogic-reading-children-hold-book-questions-attention.md) [+M] — instruction changes it
+- [The joint attention advantage of the intervention group does not maintain at 4-month follow-up](../claims/joint-attention-effect-not-maintained-follow-up.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

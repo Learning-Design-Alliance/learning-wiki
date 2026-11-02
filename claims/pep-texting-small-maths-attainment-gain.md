@@ -53,3 +53,4 @@ Results table of a two-armed multi-site cluster randomised controlled trial (ran
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on
 - [The absenteeism reduction appeared larger in the Key Stage 4 cohort than in Key Stage 3](pep-absenteeism-effect-larger-ks4.md) — related
+- [For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone](gamification-plus-texting-beats-gamification-only.md) — related

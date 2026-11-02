@@ -50,3 +50,4 @@ Quasi-experimental pretest-posttest control group study; 38 seventh graders (18 
 - [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related
 - [PBL produced better social science learning outcomes than Direct Instruction in fourth-grade elementary students](pbl-beats-direct-instruction-social-science-elementary.md) — related
 - [No significant difference between inquiry-based and subject matter groups on the first unit posttest](no-first-unit-teaching-method-difference.md) — related
+- [Project based learning produced higher post-test achievement than traditional teaching in the ratio, proportion and percentage unit](pbl-higher-posttest-achievement-ratio-proportion.md) — related

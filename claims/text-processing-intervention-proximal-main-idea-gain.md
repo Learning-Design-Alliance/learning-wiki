@@ -47,3 +47,4 @@ One-way ANCOVA on the 12-point key word and main idea proximal measure, scored w
 ## Related Claims
 - [The text-processing intervention significantly improved struggling middle school readers' performance on a proximal vocabulary measure](text-processing-intervention-proximal-vocabulary-gain.md) — related
 - [A 13-week multicomponent small-group reading intervention did not produce significantly better word reading, comprehension, or fluency outcomes than typical remedial instruction for middle school students with severe reading difficulties](multicomponent-reading-intervention-null-effect-middle-school-severe-readers.md) — related
+- [Main idea identification instruction showed a moderate effect size in students with high-functioning ASD, suggesting the strategy is feasible to teach but the approach could be improved](main-idea-instruction-moderate-effect-hfasd.md) — related

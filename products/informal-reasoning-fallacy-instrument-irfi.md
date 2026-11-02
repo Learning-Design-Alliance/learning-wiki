@@ -28,7 +28,8 @@ A 50-item multiple-choice assessment developed by Ramasamy to measure undergradu
 - [Among undergraduates who fell into a fallacy trap, false analogy was the most common and slippery slope the least common](../claims/false-analogy-most-common-fallacy-trap.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [WTAILS — WebOPAC Training Assessment Information Literacy Skills instrument](wtails-webopac-training-assessment-information-literacy-skills-instrument.md)
 
 ## Key Sources
 - Ramasamy, S. (2011). An Analysis of Informal Reasoning Fallacy and Critical Thinking Dispositions among Malaysian Undergraduates. Asia e University. https://www.aeu.edu.my

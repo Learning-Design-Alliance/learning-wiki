@@ -59,3 +59,4 @@ Second-hand summary: the paper quotes Kuh's foreword to Eynon and Gambino's book
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — a narrower finding that bears on this claim
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — related
+- [ITS program completers earned an average final course grade of 2.18 on a 4.0 scale (SD = 1.388, N = 39)](its-completers-average-course-grade-2-18.md) — related

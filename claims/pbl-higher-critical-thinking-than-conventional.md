@@ -47,3 +47,4 @@ Only-posttest static-group comparison of 140 grade-ten students (70 PBL, 70 CL) 
 ## Related Claims
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
+- [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related

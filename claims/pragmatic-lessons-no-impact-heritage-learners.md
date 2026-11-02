@@ -45,5 +45,9 @@ Paired t test comparing pre and post MCDCT scores of the heritage experimental g
 
 
 ## Related Claims
+
 - [Heritage learners of Spanish enter Spanish courses with high pragmatic competence in recognizing appropriate compliment strategies](heritage-learners-high-compliment-pragmatic-competence.md) — related
 - [Pragmatic lessons on compliments produce statistically significant, very large gains in beginner L2 learners' recognition of compliment strategies](pragmatic-lessons-large-gains-l2-learners.md) — related
+- [Pragmatic lessons produced descriptive but not statistically significant gains in the L2 experimental group's request performance](pragmatic-lessons-l2-nonsignificant-gains.md) — related
+- [U.S. heritage learners of Spanish scored above the 70% proficiency threshold on request DCT pre-tests, showing no negative pragmatic transfer from English](shl-no-negative-pragmatic-transfer-requests.md) — related
+- [Pragmatic lessons on requests did not significantly improve SHL learners' pragmatic request competence, with scores decreasing from pre- to post-test](pragmatic-lessons-no-shl-gain.md)

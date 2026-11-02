@@ -67,3 +67,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related
 - [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — related
 - [Students' self-assessed performance on the main test was higher than their actual scores indicated](student-self-assessment-exceeds-actual-performance.md) — related
+- [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](strategy-instruction-improves-metacognitive-skill-use.md) — related

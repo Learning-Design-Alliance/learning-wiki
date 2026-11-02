@@ -54,3 +54,4 @@ Wilcoxon Signed Ranks Test on the 41-student control group taught by direct inst
 - [The control group's academic achievement also increased significantly from pre-test to post-test under face-to-face problem-based collaborative learning](control-group-pretest-posttest-gain.md) — related
 - [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related
 - [Traditional teaching also produced a significant pre-to-post achievement gain in the control group](control-group-significant-gain.md) — related
+- [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related

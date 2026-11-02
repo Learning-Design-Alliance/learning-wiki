@@ -56,3 +56,4 @@ Controlled comparison reported in the study abstract: a class in a serious virtu
 - [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related
 - [Mobile VR-based music genre learning improves genre characterization learning compared to traditional lessons with printed materials and passive listening](mobile-vr-improves-music-genre-characterization-learning.md) — related
 - [A serious digital game produced no statistically significant effect on secondary students' mathematics achievement, as measured by a standardized mathematics examination, compared with lecture and discussion](dgbl-no-significant-effect-mathematics-achievement.md) — related
+- [The retention advantage of a pre-lecture external stimulus does not differ significantly by stimulus type (poem, game, or puzzle)](stimulus-type-no-retention-difference.md) — related

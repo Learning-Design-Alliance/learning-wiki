@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (24 for, 26 mixed, 3 against) · 45 studies (12 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 5 of 45 report an effect size · 52 claims rest on one study
+> **Evidence** · 56 claims (25 for, 27 mixed, 4 against) · 47 studies (14 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 47 report an effect size · 55 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -89,6 +89,9 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Adoption of the four teaching methods depends on teachers' technical competence, and the DLP option was judged most feasible for Chhattisgarh schools facing low teacher motivation and competence](../claims/teacher-technical-competence-gates-ict-method-adoption.md) [~W]
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](../claims/favorable-student-perceptions-spirometry-lab.md) [+W]
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](../claims/mbio-motivates-and-positive-attitudes.md) [+W]
+- [An online-learning component with peer discussion groups did not significantly raise eighth-grade art project scores compared with face-to-face instruction, though a small practical effect was found](../claims/olc-no-significant-art-achievement-difference.md) [~W] — attached 2026-11-02 from Lovin et al. (2014), which proposed "Online-Learning Component (OLC) with peer discussion groups".
+- [OLC students demonstrated digital literacy skills more frequently than face-to-face students, especially locating art resources online](../claims/olc-improved-digital-literacy-practice.md) [+W] — attached 2026-11-02 from Lovin et al. (2014), which proposed "Online-Learning Component (OLC) with peer discussion groups".
+- [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](../claims/mobile-classroom-issues-off-task-network-design.md) [-W]
 
 ## Related Elements
 

@@ -72,3 +72,4 @@ Scheffe multi-comparison tests showed gains from pre to post and pre to follow-u
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [A 5-week phonological awareness training program significantly improves word recognition ability in children with Autism Spectrum Disorder compared to no training](pa-training-improves-word-recognition-asd.md) — related
+- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](scu-ccx-maintained-at-follow-up.md) — related

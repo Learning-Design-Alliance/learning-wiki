@@ -85,3 +85,4 @@ Interview question on effects on success in social studies; permanent learning w
 ## Related Claims
 - [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](absl-favorite-activities-ranking.md) — related
 - [Students reported difficulties with the ABSL implementation, most commonly problems in the discussion process and difficulties creating arguments in concept cartoon and migration story activities](absl-student-views-difficulties.md) — related
+- [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Two Way ANCOVA on post-test scores of the same 119-student two-group quasi-exper
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
 - [No statistically significant gender difference in first graders' scientific concepts acquisition](no-gender-difference-game-based-concept-acquisition.md) — related
+- [Eighth-grade students taught with Mapping the Beat music workshops showed greater growth in geographic knowledge than control students (effect size=.854)](music-workshops-increase-geographic-knowledge.md) — related

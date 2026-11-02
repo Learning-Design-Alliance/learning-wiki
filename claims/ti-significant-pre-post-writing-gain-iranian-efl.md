@@ -50,3 +50,4 @@ Paired-samples t-test on the TI group (n=15) in the same quasi-experimental stud
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — reports the opposite
 - [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — related
+- [Instruction in Theme Theory improves EFL students' writing coherence more than traditional form-focused writing instruction](theme-theory-instruction-improves-writing-coherence.md) — related

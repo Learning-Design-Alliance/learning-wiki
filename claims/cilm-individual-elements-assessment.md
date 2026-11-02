@@ -54,3 +54,4 @@ Expert assessment of the model's individual elements on a five-level rating scal
 - [Five professionals approved the model as appropriate at a high level](stem-ict-model-professional-approval-high.md) — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
 - [Students in the cloud-based constructivism and connectivism model created 21 educational innovations, four accepted for academic publication](students-create-21-educational-innovations.md) — related
+- [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related

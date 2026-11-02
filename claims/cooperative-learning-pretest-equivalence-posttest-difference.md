@@ -53,3 +53,4 @@ Pre/post comparison in the same quasi-experiment (N=20 per group). Table 3 repor
 - [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related
 - [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — reports the opposite
 - [The experimental group closed the prior-knowledge gap: control started with significantly higher ACT scores, but post-ACT scores showed no significant difference](experimental-closed-prior-knowledge-gap.md) — related
+- [Course participants scored higher on social awareness than controls at the end of the course, though the pre-post interaction was not significant](sis-course-social-awareness-endpoint-difference.md) — related

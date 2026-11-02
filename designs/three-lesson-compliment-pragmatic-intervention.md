@@ -43,7 +43,8 @@ The intervention consisted of three classroom lessons of approximately 15 minute
 - [Pragmatic Lessons No Impact Heritage Learners](../claims/pragmatic-lessons-no-impact-heritage-learners.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-part pragmatic lesson sequence on Spanish request strategies](three-pragmatic-lessons-request-strategies.md)
 
 ## Examples
 -

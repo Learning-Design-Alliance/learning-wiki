@@ -38,7 +38,8 @@ The program prescribes intensive daily use: "Intensity of the program ranges fro
 - reading achievement
 
 ## Related Strategies
-- 
+
+- [Spread OPS-English teaching throughout the school year rather than compressing it into six months](spread-ops-english-throughout-school-year.md)
 
 ## Examples
 -

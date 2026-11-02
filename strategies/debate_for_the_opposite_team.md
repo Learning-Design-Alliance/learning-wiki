@@ -47,3 +47,7 @@ Arguing a position one disagrees with forces deeper processing of the opposing v
 
 ### Target Learning Goals
 - Perspective
+
+## Related Strategies
+
+- [Boomeranging technique: argue both sides of a topic before drafting an argumentative essay](boomeranging-dual-stance-argumentation-strategy.md)

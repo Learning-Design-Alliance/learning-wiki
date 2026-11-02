@@ -81,3 +81,4 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 - [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](chattutor-trust-enjoyment-intentions-study1.md) — related
 - [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related
 - [Students reported growing confidence in using AI after the lessons](students-perceived-ai-proficiency-gain.md) — related
+- [The sports education model raises students' interest/enjoyment in physical education lessons more than the direct teaching model](sem-raises-interest-enjoyment-over-direct-teaching.md) — related

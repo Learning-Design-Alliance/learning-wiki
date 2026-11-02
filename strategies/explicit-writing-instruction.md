@@ -60,9 +60,11 @@ Explicit writing instruction is among the most consistently supported approaches
 6. **Assess and reteach.** Use writing samples to identify which sub-skill broke down, and reteach that component [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M]
 
 ## Related Strategies
+
 - [Sentence Combining](sentence-combining.md) — a high-impact explicit technique for syntactic fluency
 - [Process Writing Workshop](process-writing-workshop.md) — the workshop structure into which explicit minilessons are embedded
 - [Retrieval Practice](retrieval-practice-activities.md) — spaced retrieval of taught structures supports maintenance
+- [Teach learning strategies through direct instruction with practice on texts two or three grades below the students' level](direct-instruction-strategy-teaching-lower-grade-texts.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — the most researched explicit writing framework; e.g., POW+TREE for persuasive writing, with strong meta-analytic support ([ThinkSRSD resources](https://srsdresearch.org)) [+S]

@@ -58,3 +58,4 @@ Pretest equivalence check on the 60 matched and randomly assigned teachers: Leve
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
 - [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
+- [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related

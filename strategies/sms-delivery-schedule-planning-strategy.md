@@ -50,6 +50,7 @@ The article's pedagogical implications advise that "delivery schedules should be
 - [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
 - [Reach out to families with low-cost SMS socio-emotional support during remote or disrupted schooling](sms-socio-emotional-support-remote-schooling.md)
 - [Text Chats in Instruction](text_chats_in_instruction.md)
+- [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 
 ## Examples
 -

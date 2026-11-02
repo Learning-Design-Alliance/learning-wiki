@@ -30,7 +30,8 @@ A battery of L1 and L2 linguistic knowledge, fluency, metacognitive knowledge, a
 - [Writing proficiency components were studied and compared across L1 and L2 using the same modeling framework](../claims/cross-language-comparison-writing-components-sem.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Four-measure battery for assessing strategy awareness, metacognitive knowledge, metacognitive skill use, and achievement](four-measure-battery-for-assessing-strategy-awareness-metacognitive-knowledge-metacognitiv.md)
 
 ## Key Sources
 - R. Schoonen, A. van Gelderen, K. de Glopper, J. Hulstijn, A. Simis, P. Snellings, M. Stevenson. (2003). First language and second language writing: the role of linguistic knowledge, speed of processing, and metacognitive knowledge. Language Learning, 53(1), 165-202. https://doi.org/10.1111/1467-9922.00213

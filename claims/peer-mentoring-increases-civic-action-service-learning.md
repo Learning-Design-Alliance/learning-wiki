@@ -53,3 +53,4 @@ A MANOVA compared posttest CASQ scores between mentored (n = 60) and non-mentore
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — a broader claim this one bears on
 - [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
+- [The course produced no measurable increase in civic engagement or political action, and scores on both were low](sis-course-no-civic-engagement-effect.md) — related

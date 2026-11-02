@@ -59,3 +59,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of words among third-grade intermediate students, with eta squared of 0.93](linguistic-activities-words-gains.md) — related
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
 - [Synectics-based vocabulary teaching produces significantly higher retention of targeted vocabulary than the direct method five weeks after instruction](synectics-improves-targeted-vocabulary-retention.md) — related
+- [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related

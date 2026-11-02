@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/advance-organizers-improve-poetry-achievement.md
+---
+
+# Revision history: [claims/advance-organizers-improve-poetry-achievement](../claims/advance-organizers-improve-poetry-achievement.md)
+
+### 2026-11-02 · ingest · process:wiki-ingest
+Ingested from eric-ej1122519 (Using Advance Organizers to Enhance Pupils' Achievement in Learning Poetry in English Language) via eval_harness.py + ingest_extractions.py

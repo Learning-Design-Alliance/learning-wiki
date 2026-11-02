@@ -50,3 +50,4 @@ Paired samples t-test on the experimental group (n = 38) in this experimental st
 ## Related Claims
 - [EFL junior-high students taught listening comprehension with authentic materials scored significantly higher on a post-test than students taught with non-authentic materials](authentic-materials-improve-listening-comprehension-posttest.md) — related
 - [The control group taught with non-authentic materials also improved significantly from pre-test to post-test in listening comprehension](control-group-prepost-gain-listening.md) — related
+- [The experimental group improved significantly from pre-test to post-test while the control group did not](pbl-within-group-achievement-gain.md) — related

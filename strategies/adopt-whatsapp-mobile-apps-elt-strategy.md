@@ -54,6 +54,8 @@ The article closes with recommendations to integrate mobile applications into En
 
 - [Use micro-modules pairing short audio lessons with reflection texts and interactive quizzes for adult ELL mobile learning](cell-ed-micro-module-recipe.md)
 - [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
+- [Adopt mobile learning and train faculty to produce mobile-fitted teaching materials](adopt-mobile-learning-train-faculty-strategy.md)
+- [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
 
 ## Examples
 -

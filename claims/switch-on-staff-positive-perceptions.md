@@ -59,3 +59,4 @@ Findings from the process evaluation interviews and case studies with TAs, class
 - [Staff reported extremely positive perceptions of CtG professional development and collaboration](ctg-staff-positive-perceptions.md) — related
 - [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](lit-teacher-views-benefits-and-limits.md) — related
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related
+- [Teachers, senior leaders, speech and language therapists and local authority managers perceived that Talk of the Town had a positive effect on pupil learning and confidence](tott-staff-perceived-positive-effects.md) — related

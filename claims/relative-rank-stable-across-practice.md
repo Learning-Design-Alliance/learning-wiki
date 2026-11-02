@@ -50,3 +50,4 @@ Conclusions section, based on the class practice-series records (rank correlatio
 - [Pupil standing in one school subject correlates with standing in other subjects, most perfectly among the highest- and lowest-ranked pupils and least among pupils of medium ability](cross-subject-correlation-of-excellence-1912.md) — related
 - [Initial test trials sit on variable and treacherous ground, while practice limits indicate both relative standing and general performance](practice-limits-signal-standing-and-performance.md) — related
 - [One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times](one-month-retention-rank-stability.md) — related
+- [Scores on a four-problem arithmetic survey given on the first day of class positively correlated with final course grade](arithmetic-survey-score-correlates-with-final-grade.md) — related

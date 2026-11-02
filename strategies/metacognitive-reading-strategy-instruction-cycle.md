@@ -49,6 +49,7 @@ The article's instructional recipe walks learners through planning before readin
 - [Metacognitive Strategies](metacognitive_strategies.md)
 - [Teach Metacognitive Strategies](teach-metacognitive-strategies.md)
 - [Metacognitive Strategy Instruction](metacognitive-strategy-instruction.md)
+- [Teach learning strategies through direct instruction with practice on texts two or three grades below the students' level](direct-instruction-strategy-teaching-lower-grade-texts.md)
 
 ## Examples
 -

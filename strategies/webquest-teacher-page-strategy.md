@@ -43,6 +43,7 @@ Teachers recommended an informative page letting them study the WebQuest's learn
 ## Related Strategies
 
 - [Use a bilingual WebQuest with authentic materials on measurement to develop ideas of new length units and conversion ways](bilingual-webquest-authentic-measurement-units-strategy.md)
+- [Incorporate WebQuest procedures into teacher-preparation methodology sessions and adapt them per sport](webquest-in-methodology-sessions-strategy.md)
 
 ## Examples
 -

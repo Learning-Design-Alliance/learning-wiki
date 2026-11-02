@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (111 show a difference, 27 mixed, 14 no difference) · 79 studies (33 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 79 report an effect size · 150 claims rest on one study
+> **Evidence** · 153 claims (112 show a difference, 27 mixed, 14 no difference) · 80 studies (33 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 80 report an effect size · 151 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -187,6 +187,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Virtual learning instruction produced significantly greater creative thinking gains than traditional classroom instruction in Iranian female EFL learners](../claims/vli-greater-creative-thinking-gains-than-tci.md) [+M] — instruction changes it
 - [Intertextual reading advantages on Originality of Ideas and Vocabulary Richness appear at each midtest during the intervention](../claims/intertextual-reading-midtest-advantages.md) [+M] — instruction changes it
 - [Intertextual reading instruction raises fifth-graders' Originality of Ideas scores in creative writing relative to conventional instruction](../claims/intertextual-reading-originality-of-ideas.md) [+M] — instruction changes it
+- [Teachers perceived that beginning a lesson with a challenging task fosters more creative and empowered mathematical thinking in students](../claims/task-first-fosters-creativity-empowerment.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

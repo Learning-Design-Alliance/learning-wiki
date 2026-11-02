@@ -66,3 +66,5 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — related
+- [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related

@@ -66,3 +66,4 @@ Pupil survey returns from 11 of 21 schools; pupils also reported frustration wit
 ## Related Claims
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — related
 - [Tutoring with Alphie showed a small positive but statistically non-significant effect on Year 6 reading comprehension (g=0.11) in the EEF trial](tutoring-with-alphie-small-nonsignificant-reading-effect.md) — related
+- [Teachers, senior leaders, speech and language therapists and local authority managers perceived that Talk of the Town had a positive effect on pupil learning and confidence](tott-staff-perceived-positive-effects.md) — related

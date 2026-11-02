@@ -50,3 +50,4 @@ Control group of 91 students taught songs traditionally from the educational mus
 - [Before the application, students held moderately positive attitudes to music lessons, with lowest points on items about teacher instrument use and technology](pretest-moderate-attitudes-teacher-instrument-technology-items-low.md) — related
 - [The largest attitude increase in the experimental group was on the item about use of technological facilities in music lessons, attributed to karaoke recordings](karaoke-recordings-largest-increase-technology-item.md) — related
 - [Using music and musical information in English classes somewhat improved formation of communicative skills relative to traditional methods](music-use-improves-communicative-skills-formation.md) — related
+- [Music workshop students developed more positive geography-related attitudes than controls (effect size=.569)](music-workshops-improve-geography-attitudes.md) — related
