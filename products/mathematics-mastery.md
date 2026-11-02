@@ -26,9 +26,8 @@ Mathematics Mastery is Ark's whole-school mastery-based mathematics curriculum, 
 ### Claims
 - [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](../claims/mathematics-mastery-year1-small-nonsignificant-positive-effect.md) [+W]
 - [Combining this Year 1 trial with a second randomised controlled trial of Mathematics Mastery in Year 7 yields a statistically significant average impact of one additional month's progress](../claims/mathematics-mastery-combined-meta-analysis-one-month.md) [+M]
-- [Year 7 pupils in schools adopting Mathematics Mastery made a small, non-significant amount more progress than control pupils (effect size +0.06, about one month)](../claims/maths-mastery-secondary-itt-effect-non-significant.md) [+W]
-- [Process evaluation found a shift away from teaching procedures towards problem-solving, with increased use of discussion, objects and diagrams, but wide variation across schools](../claims/maths-mastery-process-shift-to-problem-solving.md) [+M]
 - [Year 7 pupils in schools adopting Mathematics Mastery made a small, non-significant amount more progress than control pupils (effect size +0.06, about one month)](../claims/maths-mastery-secondary-itt-effect-non-significant.md) [+M]
+- [Process evaluation found a shift away from teaching procedures towards problem-solving, with increased use of discussion, objects and diagrams, but wide variation across schools](../claims/maths-mastery-process-shift-to-problem-solving.md) [+M]
 
 ## Related Products and Programmes
 -

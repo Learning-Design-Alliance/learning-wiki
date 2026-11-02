@@ -46,7 +46,8 @@ When asked in which other courses Layered Curriculum could be used, interviewed 
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](../claims/students-choose-enjoyable-feasible-activities.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Implement the layered curriculum with teacher-as-guide, choice-based activity lists and point-based progression](layered-curriculum-implementation-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Cross-tabulation of risk-category transitions from pretest to posttest for the 1
 - [Kindergartners with mathematics difficulties randomly assigned to the ROOTS intervention made significantly greater fall-to-spring gains than control students on the NSB, ASPENS, TEMA-3, and RAENS](roots-replication-significant-gains-four-measures.md) — related
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [ROOTS and control students were statistically equivalent at pretest on all measures](roots-replication-pretest-equivalence.md) — related
+- [By the end of first grade, 45% of treatment students versus 22% of comparison students were no longer at risk for mathematics difficulties on the spring TEMI-PM](tier2-numeracy-risk-status-reduction.md) — related

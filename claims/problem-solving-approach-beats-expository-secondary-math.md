@@ -61,3 +61,4 @@ Pre-test/post-test equivalent-group study of 48 tenth-grade girls (24 per group)
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](problem-solving-strategy-more-effective-problem-solving.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical reasoning ability](problem-solving-strategy-more-effective-reasoning.md) — related
+- [Grade-ten students taught with problem-based learning achieved higher mathematics critical thinking scores than students taught with conventional learning](pbl-higher-critical-thinking-than-conventional.md) — related

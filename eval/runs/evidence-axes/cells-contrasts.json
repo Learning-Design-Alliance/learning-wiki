@@ -63338,5 +63338,417 @@
  "worked-examples\tworked-example worksheets in groups\tquestion-and-answer session": {
   "label": "worked examples vs question-and-answer sessions",
   "treatment_is_a": true
+ },
+ "active-learning\t24-week Word Generation program with discussion and debate\tcontrol condition": {
+  "label": "Word Generation active-learning program vs control condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tHB1 course after SBS implementation\tHB1 course before SBS implementation": {
+  "label": "SBS implementation/post-implementation vs pre-implementation",
+  "treatment_is_a": true
+ },
+ "active-learning\tHuman Body 1 course after implementation of Study Buddy Support\tHuman Body 1 course before implementation of Study Buddy Support": {
+  "label": "SBS implementation/post-implementation vs pre-implementation",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive case method, discussions, games, training, and inventive-problem methods\tRegular curriculum without the proposed methods": {
+  "label": "Active-learning methods vs regular curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tStudy Buddy Support participation\tat-risk students not participating": {
+  "label": "Study Buddy Support participation vs non-participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tStudy Buddy Support participation\tnon-participation in SBS": {
+  "label": "Study Buddy Support participation vs non-participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation\tother schools receiving only pre- and post-testing": {
+  "label": "Word Generation vs testing-only control",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation for language minority students\tWord Generation for other students": {
+  "label": "Word Generation for language-minority students vs other students",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation for students still classified as limited in English proficiency\tother schools receiving only pre- and post-testing": {
+  "label": "Word Generation for limited-English-proficiency students vs testing-only control",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation with extended discussion\tearlier performance before the second school year": {
+  "label": "Extended Word Generation discussion vs pre-extension baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation with high-quality discussion\tWord Generation with low-quality or absent discussion": {
+  "label": "High-quality discussion vs low-quality or absent discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tWord Generation with small-group work and weekly whole-class debate\tcontrol-group instruction": {
+  "label": "Small-group work and whole-class debate vs control-group instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based posters plus standard materials\tpre-test baseline before intervention": {
+  "label": "Activity-based posters plus standard materials vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tactivity-based posters plus usual materials\tteacher guidebook, course book and workbooks": {
+  "label": "Activity-based posters plus usual materials vs conventional course materials",
+  "treatment_is_a": true
+ },
+ "active-learning\tcohort after SBS implementation\tcohort before SBS implementation": {
+  "label": "SBS implementation/post-implementation vs pre-implementation",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional lectures": {
+  "label": "Flipped classroom vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive social-tolerance training\tusual curriculum without the proposed methods": {
+  "label": "Interactive social-tolerance training vs usual curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring during the 11-week English unit\tthe same students' initial English grade before peer tutoring": {
+  "label": "Peer tutoring vs pre-tutoring baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring through class-note comparison, feedback, and clarification of doubts\tlow-performing students without peer-tutoring support": {
+  "label": "Peer tutoring support vs no peer-tutoring support",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led group teaching\tclinical educator-led group teaching": {
+  "label": "Peer-led teaching vs clinical-educator-led teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led teaching\tclinical-educator-led teaching": {
+  "label": "Peer-led teaching vs clinical-educator-led teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-taught content\tclinical-educator-taught content": {
+  "label": "Peer-taught content vs clinical-educator-taught content",
+  "treatment_is_a": true
+ },
+ "active-learning\tsame-year Study Buddy Support peer-coaching\tat-risk students who did not participate": {
+  "label": "Study Buddy Support participation vs non-participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-taught and presented content\tclinical-educator-taught content": {
+  "label": "Self-taught and presented content vs clinical-educator-taught content",
+  "treatment_is_a": true
+ },
+ "active-learning\tself-taught and presented content\tpeer-taught content": {
+  "label": "Self-taught and presented content vs peer-taught content",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered guest lecturing\ttraditional guest lecturing": {
+  "label": "Student-centered guest lecturing vs traditional guest lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-monitored peer tutoring with note comparison, feedback, and doubt clarification\tlow-performing students without peer tutoring": {
+  "label": "Peer tutoring support vs no peer-tutoring support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlayered curriculum with student activity choice\tnot reported": {
+  "label": "student choice vs no student choice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week instruction in thematic choice\tregular essay-writing instruction": {
+  "label": "thematic-choice instruction vs regular essay-writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week thematic-choice instruction\tregular essay-writing instruction": {
+  "label": "thematic-choice instruction vs regular essay-writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week thematic-choice instruction\tregular essay-writing lessons": {
+  "label": "thematic-choice instruction vs regular essay-writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCE post-instruction thematic-choice instruction\tCE pre-instruction writing": {
+  "label": "post-instruction thematic-choice writing vs pre-instruction writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdiscovery learning method\texpository teaching method": {
+  "label": "expository teaching vs discovery learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tearly numeracy Tier 2 intervention\tbusiness-as-usual mathematics instruction": {
+  "label": "early numeracy Tier 2 intervention vs business-as-usual mathematics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit reading strategy instruction\tnormal lessons without strategy instruction": {
+  "label": "explicit reading-strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinterlanguage pragmatics instruction\tcontrol group without interlanguage pragmatics instruction": {
+  "label": "interlanguage-pragmatics instruction vs no interlanguage-pragmatics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of teacher's guidebook, course book and workbook instruction\tpre-test baseline before instruction": {
+  "label": "coursebook-based instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy conditions\tcontrol condition": {
+  "label": "strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching interlanguage pragmatic features\ttraditional interpretation teaching without ILP features": {
+  "label": "interlanguage-pragmatics instruction vs traditional interpretation teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching interlanguage pragmatics\tno interlanguage-pragmatics instruction": {
+  "label": "interlanguage-pragmatics instruction vs no interlanguage-pragmatics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree months of explicit reading-strategy instruction\tnormal lessons without strategy instruction": {
+  "label": "explicit reading-strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree standardized video design lessons\tpretest before the lessons": {
+  "label": "standardized video-design lessons vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree standardized video-design lessons\tpre-instruction baseline": {
+  "label": "standardized video-design lessons vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraining in skimming and scanning strategies\tno speed-reading-strategy training": {
+  "label": "skimming-and-scanning strategy training vs no speed-reading-strategy training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal plus visual strategy instruction\tcontrol": {
+  "label": "verbal-plus-visual strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal strategy instruction\tcontrol": {
+  "label": "verbal strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual strategy instruction\tcontrol": {
+  "label": "visual strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual-only diagramming strategy, high WMC\tcontrol, high WMC": {
+  "label": "visual-only diagramming strategy vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual-only diagramming strategy, high WMC\tverbal-only strategy, high WMC": {
+  "label": "visual-only diagramming strategy vs verbal-only strategy",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual-only diagramming strategy, low WMC\tcontrol, low WMC": {
+  "label": "visual-only diagramming strategy vs control",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tremedial explicit oral grammar error-correction session\tno error-correction session": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trevised second process map after feedback\tfirst process-map attempt": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond submission after feedback\tfirst submission before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tadditional feedback: metacognitive cues, expert-map review, or both\taccuracy score only": {
+  "label": "Additional feedback vs accuracy-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tadditional feedback: metacognitive cues, expert-map review, or both\tscores-only feedback": {
+  "label": "Additional feedback vs accuracy-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit oral grammar error correction session\tno error correction session": {
+  "label": "Explicit oral error correction vs no error correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit oral grammar error correction session\tpretest before the session": {
+  "label": "Explicit oral error correction vs pretest",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetacognitive cues, expert-map review, or both\taccuracy scores only (control)": {
+  "label": "Additional feedback vs accuracy-only feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tANet data-based instructional program\tcontrol schools": {
+  "label": "data-based instructional supports vs usual school supports",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tANet interim assessments and data-use supports\tcontrol schools’ usual district or school supports": {
+  "label": "data-based instructional supports vs usual school supports",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAchievement Network program\tcontrol schools receiving usual district or school data-related support": {
+  "label": "data-based instructional supports vs usual school supports",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tR-I-Z-A self-evaluation and formative assessment activities\tlearners' abilities at the beginning of the experiment": {
+  "label": "formative assessment and self-evaluation vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmore frequent teacher use of interim assessment data to inform instruction\tless frequent teacher use of interim assessment data to inform instruction": {
+  "label": "more frequent vs less frequent use of formative assessment data",
+  "treatment_is_a": true
+ },
+ "gamification\tStates Level 3 game\tStates Level 6 game": {
+  "label": "Level 6 game vs Level 3 game",
+  "treatment_is_a": false
+ },
+ "gamification\tStates Level 6 game\tStates Level 3 game": {
+  "label": "Level 6 game vs Level 3 game",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based vocabulary tasks\ttraditional vocabulary instruction": {
+  "label": "Game-based vocabulary tasks vs traditional vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tvocabulary games\tteacher-led traditional instruction": {
+  "label": "Game-based vocabulary tasks vs traditional vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning method\texpository method": {
+  "label": "guided discovery vs expository instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning method\texpository teaching": {
+  "label": "guided discovery vs expository instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning method\texpository teaching method": {
+  "label": "guided discovery vs expository instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved assignments\tblocked assignments": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tWBES-based supportive education\ttraditional supportive education": {
+  "label": "WBES-based supportive education vs traditional supportive education",
+  "treatment_is_a": true
+ },
+ "practice-amount\tECRI intervention schools with group practice at approximately 1.8 or more opportunities per minute\tComparison schools at the same practice rate": {
+  "label": "group practice vs comparison practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated game play\tfirst attempts": {
+  "label": "repeated practice vs initial practice",
+  "treatment_is_a": true
+ },
+ "prompts\treflective writing after experimental work\tno reflective writing": {
+  "label": "reflective writing vs no reflective writing",
+  "treatment_is_a": true
+ },
+ "prompts\treflective writing after the lab experiment\tno reflective writing": {
+  "label": "reflective writing vs no reflective writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-minute video about AMOLED displays\t10-minute written texts about AMOLED displays": {
+  "label": "video vs written text",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-lesson Find yourself program using a sensory room\tcontrol group": {
+  "label": "sensory-room program vs control",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-lesson sensory room program “Find yourself”\tcontrol group without the program": {
+  "label": "sensory-room program vs control",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-lesson sensory-room program “Find yourself”\tcontrol group without the program": {
+  "label": "sensory-room program vs control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAffordable Online Maths Tuition\tbusiness as usual teaching": {
+  "label": "online maths tuition vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAffordable Online Maths Tuition\tbusiness-as-usual teaching and support": {
+  "label": "online maths tuition vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAffordable Online Maths Tuition for pupils eligible for free school meals\tbusiness as usual teaching": {
+  "label": "online maths tuition vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlice software combined with the 4C-ID instructional model\tpre-treatment baseline": {
+  "label": "Alice software with 4C-ID vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlice software with the 4C-ID model\tpre-treatment ECDL baseline": {
+  "label": "Alice software with 4C-ID vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlice with 4C-ID intervention\tpre-intervention ECDL baseline": {
+  "label": "Alice software with 4C-ID vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAround the Corner multimedia component\tCuriosity Corner and KinderCorner without interactive multimedia": {
+  "label": "multimedia-enhanced program vs program without interactive multimedia",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAround the Corner multimedia program\tCuriosity Corner and KinderCorner without interactive multimedia": {
+  "label": "multimedia-enhanced program vs program without interactive multimedia",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAround the Corner multimedia program\tCuriosity Corner and KinderCorner without multimedia": {
+  "label": "multimedia-enhanced program vs program without multimedia",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAround the Corner with embedded multimedia\tCuriosity Corner and KinderCorner without multimedia": {
+  "label": "multimedia-enhanced program vs program without multimedia",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAssistive Technology implementation\tnot stated": {
+  "label": "assistive technology vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAssistive Technology use\tnot stated": {
+  "label": "assistive technology vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAstus episodic-tree error diagnosis\tconventional MTT error handling": {
+  "label": "episodic-tree error diagnosis vs conventional MTT error handling",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAstus knowledge representation with episodic-tree contextualization\ttraditional MTTs with task-authored hint content": {
+  "label": "episodic-tree contextualization vs traditional MTT hint content",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAstus knowledge-based MTT framework\tTDK and CTAT MTT frameworks": {
+  "label": "Astus knowledge-based MTT framework vs TDK/CTAT MTT frameworks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAsuka’s posthumanist framing of ChatGPT as a collaborative actant\thumanistic framing of AI as an inanimate tool": {
+  "label": "posthumanist collaborative AI actant vs humanistic AI-as-tool framing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAttentionRank applied to lecture slides\tAttentionRank applied to general documents": {
+  "label": "AttentionRank on lecture slides vs AttentionRank on general documents",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAttentive system\tnot stated": {
+  "label": "attentive system vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAugmented Reality instruction using tablets\tTraditional instruction without AR": {
+  "label": "tablet-based augmented-reality instruction vs traditional instruction without AR",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAugmented Reality instruction using tablets\tpre-test before Augmented Reality instruction": {
+  "label": "tablet-based augmented-reality instruction vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAugmented Reality instruction using tablets\ttraditional instruction without Augmented Reality": {
+  "label": "tablet-based augmented-reality instruction vs traditional instruction without AR",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAugmented Reality lessons using tablets\tTraditional teaching without AR": {
+  "label": "tablet-based augmented-reality instruction vs traditional instruction without AR",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAugmented reality simulation\tAugmented virtuality simulation": {
+  "label": "augmented reality simulation vs augmented virtuality simulation",
+  "treatment_is_a": true
  }
 }

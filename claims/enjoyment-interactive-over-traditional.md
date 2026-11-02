@@ -48,3 +48,4 @@ A repeated measures analysis with Greenhouse-Geisser correction found "a signifi
 - [Males significantly favored writing interactive stories over traditional stories at school, while females showed no significant difference.](males-favor-interactive-females-no-difference.md) — reports the opposite
 - [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](preference-interactive-stories.md) — related
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
+- [Students rated both map games favorably, with an overall weighted mean of 2.34 on the writing prompt](students-rate-map-games-favorably.md) — related

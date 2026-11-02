@@ -45,6 +45,7 @@ The report concludes that "community colleges can mobilize to address the needs 
 
 - [Provide on-campus one-stop benefits screening, application assistance, and case management to reduce nonacademic barriers to persistence](one-stop-benefits-screening-case-management.md)
 - [Wraparound student supports: navigator, financial supports, and job placement assistance](ibest-navigator-and-support-services-strategy.md)
+- [Extend game-based financial literacy instruction to students with substantial debt and low-to-moderate income adults](extend-finance-games-to-debt-burdened-and-low-income-groups.md)
 
 ## Examples
 -

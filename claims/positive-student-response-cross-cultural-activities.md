@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2001
+source_checked: 2026-11-02
 sources:
   - id: murray-2001
     resource: "https://doi.org/10.18806/tesl.v19i1.920"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2001 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Japanese university EFL students reported enjoying and valuing e-mail exchanges, guest speaker interviews, Internet searches, and the video project. [→ Murray 2001](#murray-2001)
@@ -54,3 +55,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](forums-serial-monologues-mandatory-participation.md) — related
 - [A majority (65.5%) of the experimental group gave positive remarks that VRS exposure helped their actual practice, most often citing learning proper sequence (94.7%)](vrs-students-positive-remarks-proper-sequence.md) — related
 - [Experimental-group participants responded positively to the Digital Kitchen session: all reported enjoying it and learning new words, and most could follow the instructions](digital-kitchen-positive-participant-feedback.md) — related
+- [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related

@@ -65,6 +65,7 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 - [Retrieval Practice](retrieval-practice-activities.md) — each clicker vote is a low-stakes retrieval event
 - [Combine HOCS clicker questions with other critical-thinking techniques rather than relying on them alone](combine-hocs-clickers-with-critical-thinking-techniques.md)
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
+- [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

@@ -52,3 +52,4 @@ Pre-post comparison on the LAS for the 23-child experimental group taught Arabic
 - [Control-group children taught by the traditional method also showed a small but statistically significant pre-to-post change in lack of attention scores](control-group-small-prepost-las-change.md) — related
 - [The experimental Mind Maps group showed a significantly greater reduction in lack of attention than the control group](mind-maps-outperform-traditional-las-modification.md) — related
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](vtm-arabic-oral-skills-no-gender-effect.md) — related
+- [Children aged 48-60 months who worked with mind maps for 10 weeks achieved better maths skills post-test scores than children who did not](mind-maps-improve-preschool-maths-skills.md) — related

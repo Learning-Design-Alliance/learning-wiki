@@ -60,3 +60,4 @@ Partially nested RCT in 36 Boston-area kindergarten classrooms; 319 students wit
 - [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related
 - [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
+- [First-graders with mathematics difficulties receiving the Tier 2 early numeracy intervention outperformed comparison students on the aligned TEMI-PM Total Score progress-monitoring measure (g* = .50)](tier2-early-numeracy-intervention-temi-pm-total-gain.md) — related

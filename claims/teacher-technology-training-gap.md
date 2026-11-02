@@ -55,3 +55,4 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related
 - [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — possibly the same claim (merge candidate)
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related
+- [Teachers face substantial obstacles implementing thematic and character education curricula, with many reporting unreadiness](teacher-obstacles-thematic-character-implementation.md) — related

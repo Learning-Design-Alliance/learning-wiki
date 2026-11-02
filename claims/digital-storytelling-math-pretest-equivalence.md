@@ -57,3 +57,4 @@ Pretest analysis of the 14-question Achievement Test in the quasi-experimental s
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
+- [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related

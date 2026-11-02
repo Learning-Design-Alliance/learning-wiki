@@ -63,3 +63,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [No statistically significant interaction between gender and teaching method on eighth-grade mathematics achievement](no-gender-method-interaction-math-achievement.md) — related
 - [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — reports the opposite
 - [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related
+- [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — reports the opposite

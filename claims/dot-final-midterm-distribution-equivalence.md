@@ -47,3 +47,4 @@ Analysis of the 78 students' final exam scores on the DOT platform against the m
 ## Related Claims
 - [In a real undergraduate final exam, the DOT optimized question assignment reduced the average collusion gain to 0.0073% from 19.23% under the conventional simultaneous common-question scenario.](dot-final-exam-collusion-gain-three-orders-reduction.md) — related
 - [A post-exam survey found the DOT-format online exam well received: 76.9% of students rated time sufficiency 3 or above and 80.8% rated interface convenience 3 or above on 5-point scales.](dot-post-exam-survey-reception.md) — related
+- [A Mann-Whitney U test also showed the game-based session's scores differed statistically from the traditional session's](mann-whitney-confirms-game-session-difference.md) — related

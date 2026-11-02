@@ -48,3 +48,4 @@ Two-semester quasi-experiment (fall control n = 34, spring experimental n = 42) 
 - [Discussion scores improved across the semester in both classes with no significant difference between the taught-about-discussions and control classes](discussion-scores-no-semester-difference.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
+- [CPS sections improved at a higher rate across lecture exams than the control group, with a third-exam exception](cps-higher-lecture-exam-improvement.md) — related

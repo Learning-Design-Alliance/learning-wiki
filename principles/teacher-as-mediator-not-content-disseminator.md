@@ -246,6 +246,8 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Adopt a facilitator role and prepare students for active participation in sociocultural L2 writing instruction](../strategies/facilitator-role-sociocultural-l2-writing.md)
 - [University teachers should act as role models by explicitly communicating lecture goals and time plans and reminding students to start exam preparation early](../strategies/teachers-role-models-communicate-goals-time-plans.md)
 - [Teacher acts as a non-knower co-participant who attributes boredom to the materials rather than the students](../strategies/teacher-as-non-knower-co-participant.md)
+- [Instructor acts as facilitator in student-centered guest lecturing: select speakers, set expectations, monitor, but avoid dominating each stage](../strategies/instructor-facilitator-role-guest-lecturing.md)
+- [Use concrete props and algebraic patterns to scaffold analogical skill in geometry discovery lessons](../strategies/props-and-algebraic-patterns-analogy-scaffolding.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org

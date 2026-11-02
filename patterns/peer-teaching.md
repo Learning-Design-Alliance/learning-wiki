@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (23 for, 18 mixed, 4 against) · 26 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 42 claims rest on one study
+> **Evidence** · 46 claims (24 for, 18 mixed, 4 against) · 27 studies (10 quant-synthesis, 9 causal, 3 design, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 27 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,7 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](../claims/teacher-reported-high-fidelity-peer-tutoring-implementation.md) [+W]
 - [Final year paramedic students who participated as peer teachers in a pilot PAL program obtained higher final clinical examination marks than randomly selected non-PAL peers in both 2011 and 2012](../claims/pal-peer-teachers-higher-clinical-exam-marks-paramedic.md) [+W]
 - [Qualitative feedback indicated peer teaching helped paramedic students consolidate their own clinical skills and knowledge and increased interest in future PAL sessions](../claims/qualitative-consolidation-of-own-skills-knowledge.md) [+W]
+- [Buddies and Buddy Leaders evaluated the SBS scheme very positively, with all 28 survey respondents agreeing sessions were an effective way to learn in a non-threatening environment](../claims/sbs-evaluation-survey-overwhelmingly-positive.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

@@ -49,3 +49,4 @@ Descriptive comparison in Table 2 (N = 45 per group): experimental means 53.26 (
 - [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](practical-work-mean-gain-26-versus-2-8.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
 - [ELBRCS intervention produced a significant group-by-interval interaction in Reading Comprehension Test scores favouring the experimental group over the control group](elbrcs-significant-interaction-rct-scores.md) — related
+- [Post-test reading comprehension means were 87.72 for the trained group versus 72.32 for the control group](speed-reading-posttest-means-87-72-vs-72-32.md) — related

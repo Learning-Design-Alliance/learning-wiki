@@ -51,3 +51,4 @@ Descriptive survey of the 33 EG participants using a modified 15-item Attitude/M
 - [Caricature animations in the online learning environment did not significantly change students' attitudes toward humor](caricature-animation-no-attitude-toward-humor-effect.md) — related
 - [Iranian EFL learners held predominantly positive attitudes toward blended vocabulary learning, citing flexible timing, personalized learning, and the systematic app design](positive-attitudes-memrise-blended-learning.md) — related
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
+- [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related

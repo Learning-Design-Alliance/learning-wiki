@@ -50,3 +50,4 @@ Quasi-experimental pre-test comparison of 18 experimental and 17 control B2 lear
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related
 - [The experiment assessed communicative-skill formation across seven printed criteria with groups similar at assertion stage](seven-criteria-assertion-stage-similar-groups.md) — related
+- [Test and control groups showed no significant pretest difference in creative writing](intertextual-reading-pretest-equivalence.md) — related

@@ -49,6 +49,7 @@ The article's implementation recipe: after administering an MI inventory, studen
 ## Related Strategies
 
 - [Interest Inventories](interest_inventories.md)
+- [Increase Multiple Intelligence Theory-based activities in elementary school mathematics curricula](increase-mi-activities-elementary-math-curricula.md)
 
 ## Examples
 -

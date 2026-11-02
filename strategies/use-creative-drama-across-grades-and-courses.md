@@ -56,6 +56,7 @@ The authors recommend that educators apply creative drama — improvisational, p
 - [Arts Integration](arts_integration.md)
 - [Use role-play and drama techniques after reading to deepen understanding through lifelike language use](role-play-drama-reading-comprehension.md)
 - [Raise stakeholder awareness of drama-based instruction's utility and investigate teacher and student attitudes toward it](raise-stakeholder-awareness-drama-instruction.md)
+- [Integrate creative drama activities into primary IT teaching, especially for hard-to-grasp topics like programming and algorithm creation](integrate-creative-drama-into-it-course.md)
 
 ## Examples
 -

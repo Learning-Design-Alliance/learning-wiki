@@ -74,3 +74,4 @@ Mixed between-within ANOVA on experimental-group scores with time and gender as 
 - [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md) — related
 - [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](female-low-achiever-general-track-highest-gain.md) — related
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](analytic-phonics-boys-inferior-spelling-comprehension.md) — related
+- [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](no-strategy-gender-interaction-maths-achievement.md) — related

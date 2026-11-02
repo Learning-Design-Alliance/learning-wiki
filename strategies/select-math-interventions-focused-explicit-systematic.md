@@ -47,6 +47,7 @@ The article recommends that educators adopting intervention programs examine whe
 ## Related Strategies
 
 - [Deliver at-risk fourth graders' fraction intervention in small groups using systematic, explicit instruction centered on fractions magnitude understanding](small-group-explicit-fraction-magnitude-intervention.md)
+- [Schools should conduct systematic progress monitoring and small-group Tier 2 early mathematics instruction for struggling first-graders](systematic-progress-monitoring-small-group-tier2-math-strategy.md)
 
 ## Examples
 -

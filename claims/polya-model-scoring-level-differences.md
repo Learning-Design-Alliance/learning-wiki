@@ -52,3 +52,4 @@ ANCOVA on post-test scores of the 60 experimental-group students grouped by term
 - [Sidak post-hoc comparisons show high achievers significantly outperformed medium and low achievers, and medium achievers outperformed low achievers, under PowerPoint instruction](sidak-pairwise-achievement-levels-ppt.md) — related
 - [All achievement levels benefited from PowerPoint instruction, with mean gains for high, medium and low achievers alike](ppt-benefits-all-achievement-levels.md) — related
 - [Preliminary testing found most General Physics students could not get beyond the plan-making stage of Polya problem solving](preliminary-study-polya-stage-failure.md) — related
+- [ANCOVA confirmed a significant effect of the problem-solving instructional strategies on stoichiometry problem-solving performance](ancova-significant-problem-solving-instruction-effect.md) — related

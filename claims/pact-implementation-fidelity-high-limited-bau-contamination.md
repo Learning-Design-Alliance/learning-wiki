@@ -71,3 +71,4 @@ Coders rated BAU comparison audio recordings with the same protocol; elements of
 - [Class-level initial background knowledge does not moderate PACT's effect on social studies content knowledge acquisition](class-background-knowledge-no-moderation-pact-knowledge.md) — related
 - [On-treatment fidelity analysis found low-fidelity schools improved outcomes relative to non-implementers, but the pattern was inconsistent across higher fidelity groups](quest-fidelity-rating-inconsistent-outcome-pattern.md) — related
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related
+- [Quality of classroom discussion mediated an important portion of Word Generation's impact on academic word learning](discussion-quality-mediates-word-generation-impact.md) — related

@@ -51,3 +51,4 @@ Qualitative interview component of the mixed methods study. Students reported pr
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
+- [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related

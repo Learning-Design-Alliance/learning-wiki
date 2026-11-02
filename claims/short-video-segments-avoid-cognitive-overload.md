@@ -51,3 +51,4 @@ Interview responses from the 17 experimental-group students, who were already sh
 - [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](traditional-instruction-better-short-term-vocabulary-retention.md) — related
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — related
 - [Authentic use of authentic materials motivated learners more than traditional teaching of the same materials](authentic-use-motivates-more-than-traditional-teaching.md) — related
+- [Turkish B1 students report focusing on single words and fast speech as more frequent listening difficulties than text length](single-words-and-speech-rate-outweigh-length.md) — related

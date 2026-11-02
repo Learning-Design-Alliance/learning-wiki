@@ -67,3 +67,5 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
+- [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
+- [Experimental and control groups did not differ significantly on the stoichiometry pre-test](stoichiometry-pretest-no-significant-group-difference.md) — related

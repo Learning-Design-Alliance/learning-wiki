@@ -53,6 +53,7 @@ The article recommends that chemistry teachers and educators adopt the teaching 
 - [Use computer-based simulations to teach chemistry topics that are difficult to demonstrate, as a gender-friendly bridge of the achievement gap](cbs-gender-friendly-chemistry-strategy.md)
 - [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 - [Adopt constructivist/inquiry strategies (7E and CBL) in chemistry teaching with adequate teacher preparation](adopt-7e-cbl-chemistry-strategy.md)
+- [Chemistry educators should analyse student difficulties and implement problem-solving instruction in stoichiometry](analyse-difficulties-then-problem-solving-instruction.md)
 
 ## Examples
 -

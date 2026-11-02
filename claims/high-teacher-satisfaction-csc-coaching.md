@@ -50,3 +50,5 @@ Descriptive TCES results (α = .91 in this study) from the 32 teachers; item mea
 - [CSC coaching significantly reduced teachers' need for change in instructional practices (IS discrepancy scores, d = .88)](csc-reduced-instructional-discrepancy-scores.md) — related
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
 - [Experts rated the OTIL Model as appropriate and satisfactory (overall mean 4.92)](otil-model-expert-evaluation-appropriate-satisfactory.md) — related
+- [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — related
+- [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related

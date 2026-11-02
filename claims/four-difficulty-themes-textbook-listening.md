@@ -52,3 +52,5 @@ Qualitative thematic analysis of open-ended questionnaire explanations from both
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — related
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
+- [Students associate length difficulty with forgetting beginning content by the end of long listening texts](length-difficulty-linked-to-forgetting.md) — related
+- [Turkish B1 students report focusing on single words and fast speech as more frequent listening difficulties than text length](single-words-and-speech-rate-outweigh-length.md) — related

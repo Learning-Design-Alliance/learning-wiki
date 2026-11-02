@@ -70,3 +70,4 @@ Bootstrap mediation for task type in the same model: only the autonomy pathway w
 - [Teacher beliefs about individual students relate to differentiated need support: students with higher teacher-reported expectations perceive more need support](teacher-expectations-relate-to-perceived-need-support.md) — related
 - [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related
 - [Design for learning works indirectly: designed tasks are resources for activity, not determinants of it](design-works-indirectly-tasks-are-resources.md) — related
+- [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](sdt-explanation-motivation-decrease-digital-workshop.md) — related

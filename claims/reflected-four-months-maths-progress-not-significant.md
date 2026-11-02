@@ -49,3 +49,4 @@ Class-randomised controlled trial (38 intervention classes, 32 control classes) 
 - [Combining this Year 1 trial with a second randomised controlled trial of Mathematics Mastery in Year 7 yields a statistically significant average impact of one additional month's progress](mathematics-mastery-combined-meta-analysis-one-month.md) — related
 - [Pupils who participated in ReflectED made an average of two months' less progress in reading compared to pupils who did not](reflected-two-months-less-reading-progress.md) — related
 - [Pupils who participated in ReflectED developed a more positive attitude towards maths compared to the control group](reflected-more-positive-attitude-maths.md) — related
+- [Year 5 pupils receiving growth mindset workshops made an average of two additional months' progress in English and maths, but the differences were not statistically significant](pupil-mindset-workshops-two-months-progress-not-significant.md) — related

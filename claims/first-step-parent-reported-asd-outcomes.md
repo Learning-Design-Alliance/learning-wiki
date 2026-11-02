@@ -53,3 +53,5 @@ Parent-report outcomes from the covariate-adjusted regression models in the rand
 ## Related Claims
 - [In a responder analysis, 38% of intervention versus 7% of control children recovered or improved on parent-reported autism symptoms, a non-significant difference](first-step-responder-analysis-asd-risk.md) — related
 - [Preschool First Step reduced teacher-reported ASD symptoms and problem behaviors in children at risk for ASD, with Hedges' g from -0.65 to -1.12](first-step-reduces-teacher-reported-asd-symptoms.md) — related
+- [The ASD-risk subsample differed from the non-identified sample on all parent-reported baseline outcomes but on only one teacher-reported measure (SSiS Empathy)](asd-risk-subsample-baseline-differences.md) — related
+- [Parents of children at risk of ASD reported significantly greater reductions in autism symptoms and improved empathy after First Step, with non-significant medium effects on communication and cooperation](first-step-parent-reported-outcomes-asd-risk.md) — possibly the same claim (merge candidate)

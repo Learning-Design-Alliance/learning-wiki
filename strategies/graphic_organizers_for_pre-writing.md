@@ -89,12 +89,14 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 5. Fade the organizer over successive tasks, moving toward independent planning ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [SRSD (Self-Regulated Strategy Development)](../products/self-regulated-strategy-development-srsd.md) — embeds graphic organizers within a full self-regulation framework for writing
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the generation phase of an organizer doubles as activation
 - [Collaborative Writing](collaborative-writing.md) — co-constructed planning precedes joint drafting [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration step that makes organizer use learnable
 - [Peer Feedback](../elements/peer-feedback.md) — a natural follow-on once drafts exist
 - [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
+- [Pair and group writing exercises: categorizing items, completing outline skeletons, and discussing paragraphs with a partner](pair-group-writing-exercise-strategy.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham & Harris's widely researched framework uses genre-specific planning sheets (e.g., POW+TREE for persuasive writing: Topic, Reasons, Explain, Ending) as a core planning tool. Overview: [https://srsd.uncg.edu](https://srsd.uncg.edu)

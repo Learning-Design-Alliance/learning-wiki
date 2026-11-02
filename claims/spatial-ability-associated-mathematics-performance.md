@@ -55,3 +55,4 @@ Narrative review attributing this to Sorby and Panther (2020): PISA mathematics 
 - [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](ef-and-spatial-predict-70-percent-preschool-math-variance.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — a broader claim this one bears on
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — a narrower finding that bears on this claim
+- [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](baseline-pretest-predicts-game-performance-better-than-cmt.md) — related

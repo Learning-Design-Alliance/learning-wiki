@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (21 for, 10 mixed, 1 against) · 39 studies (15 qualitative, 8 causal, 4 review, 4 associational, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 1 of 39 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (22 for, 10 mixed, 1 against) · 40 studies (16 qualitative, 8 causal, 4 review, 4 associational, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 1 of 40 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Ties formed, ties used, reduced isolation, persistence, and employment or settle
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](../claims/all-staff-family-communication-channels.md) [~W]
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](../claims/west-kern-student-climate-survey-outcomes.md) [~W]
 - [The social network perspective rests on three assumptions: interdependence, relationships as resource exchanges, and structure enabling or constraining access to resources](../claims/social-network-perspective-three-assumptions.md) [+W]
+- [Buddies reported that the SBS scheme gave reassurance of not being alone and a friendly, non-intimidating learning environment](../claims/buddies-reported-reassurance-and-non-intimidating-environment.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

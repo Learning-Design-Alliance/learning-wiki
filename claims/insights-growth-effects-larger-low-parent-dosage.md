@@ -71,3 +71,4 @@ Coefficient-difference tests in the trial's results section show the low parent 
 ## Related Claims
 - [Growth in math and reading achievement was faster for both high- and low-participation INSIGHTS students, with larger effects for the low participation group](insights-achievement-growth-both-dosage-groups.md) — related
 - [INSIGHTS improved math and reading achievement for low parent dosage participants, with no average impacts for high dosage participants](insights-achievement-impacts-low-parent-dosage.md) — related
+- [INSIGHTS slowed growth in behavior problems for the full sample of low-income kindergarten and first-grade students](insights-slower-growth-behavior-problems-full-sample.md) — related

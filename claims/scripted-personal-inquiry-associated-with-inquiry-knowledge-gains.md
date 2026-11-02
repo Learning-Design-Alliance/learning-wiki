@@ -58,3 +58,4 @@ This is design-based research reporting on toolkit feasibility and one confounde
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
+- [Students reported transferring informed consumer behaviors learned in class to non-school settings](consumer-behavior-transfer-nonschool-settings.md) — related

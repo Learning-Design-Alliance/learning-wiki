@@ -71,3 +71,4 @@ Experiment 1 ANOVA on problem-solving performance (rated solutions to four probl
 - [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](mental-effort-negative-correlation-self-assessments.md) — related
 - [The predictive value of cognitive load ratings for problem performance was mixed: mental effort predicted performance in Experiment 1, perceived difficulty in Experiment 2, but never both at once](mixed-performance-prediction-effort-versus-difficulty.md) — related
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](cue-type-timing-no-interaction-accuracy.md) — related
+- [Feedback type (metacognitive cues, expert map review, both, or scores only) produced no statistically significant difference in mean accuracy change on either technical problem](concept-map-feedback-type-no-effect-diagnostic-accuracy.md) — related

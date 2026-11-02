@@ -71,3 +71,4 @@ Final exam (maximum 113) comparison in the same crossover study; the article als
 - [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — related
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — reports the opposite
 - [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](no-performance-gains-personalized-feedback.md) — related
+- [The informal letter-writing assignment significantly improved scores on a midterm exam containing both multiple-choice and essay components](letter-writing-improves-mc-essay-midterm.md) — related

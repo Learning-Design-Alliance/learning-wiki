@@ -56,3 +56,5 @@ Pretest equivalence check on the 60 matched and randomly assigned teachers: Leve
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
+- [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
+- [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related

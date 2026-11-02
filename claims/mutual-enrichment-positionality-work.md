@@ -47,3 +47,4 @@ A reflective claim from the abstract asserting reciprocal benefits of positional
 ## Related Claims
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
 - [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](super-talk-multifaceted-understanding-cross-community.md) — related
+- [The experimental group teacher reported that authentic materials enriched her teaching practices and fostered less controlled interaction, and that tasks rather than materials per se provoke learning](teacher-perception-materials-enhance-teaching-practices.md) — related

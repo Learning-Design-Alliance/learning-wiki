@@ -67,3 +67,4 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — a narrower finding that bears on this claim
 - [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related
+- [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related

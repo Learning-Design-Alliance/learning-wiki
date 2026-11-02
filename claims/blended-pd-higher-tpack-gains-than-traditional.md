@@ -49,3 +49,5 @@ Quasi-experimental pretest-posttest non-equivalent groups study of 60 in-service
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [Teachers' ICT knowledge was above the general average in both groups after the intervention](ict-knowledge-above-average-both-groups.md) — related
+- [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
+- [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related

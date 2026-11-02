@@ -49,3 +49,4 @@ Secondary outcome analysis of the clustered RCT covering Key Stage 2 English (re
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
 - [The null English trial result contrasts with positive chess effects reported in Italy and Denmark](chess-null-result-contrasts-italy-denmark.md) — related
+- [The intervention showed no evidence of impact on the Key Stage 2 reading test, a secondary outcome](tsl-no-impact-ks2-reading.md) — possibly the same claim (merge candidate)

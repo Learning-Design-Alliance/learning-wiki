@@ -64,6 +64,7 @@ Skimming works because it activates relevant prior knowledge and gives readers a
 - [Annotating](../principles/annotating.md) — the natural close-read follow-on, guided by questions generated during the skim
 - [Advance Organizers](../elements/advance-organizers.md) — the skim functions as a self-generated organizer drawn from the text itself
 - [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
+- [Train students extensively on the use of speed reading strategies (skimming and scanning)](train-students-extensively-speed-reading-strategies.md)
 
 ## Examples
 - **[SQ3R](sq3r.md) (Robinson, 1946)** — the classic study routine whose first two steps (Survey, Question) are a structured pre-reading skim; still widely taught in academic study-skills courses.

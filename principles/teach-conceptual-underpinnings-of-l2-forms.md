@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 16 studies (5 theoretical, 3 causal, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 16 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (11 for, 8 mixed, 2 against) · 18 studies (5 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 18 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Learners, forms and sources differ across these claims, so do not rank them by l
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](../claims/monitoring-improves-learnable-rule-accuracy.md) [~W] — the same single-learner study as the preposition finding above, for rule-like forms; bears on which forms conscious checking helps.
 - [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](../claims/l2-overuse-tendency-limited-dc-range.md) [+W] — the same corpus as the Thai finding; used above in the observation table.
 - [Traditional form-focused instruction produces significant gains in production but not in comprehension](../claims/traditional-instruction-gains-production-only.md) [+W] — attached 2026-10-21 from Bill VanPatten et al. (1993), which proposed "Design explicit grammar instruction around input processing rather than output practice".
+- [Both CI and SI groups significantly outperformed the control group on recognizing English request hedges, with no significant difference between the two treatments](../claims/both-treatments-beat-control-ajt.md) [~W] — attached 2026-11-02 from Takimoto (2014), which proposed "Design input-based pragmatics tasks so learners process both pragmalinguistic and sociopragmatic features, and repeat the tasks".
 
 ## Objective and learner-valued goal
 
@@ -146,6 +147,7 @@ Understanding the core sense, choosing correctly on practice items, choosing cor
 ## Claims
 
 - [The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing](../claims/and-multifunctional-l1-essays.md) [+W]
+- [After instruction, the experimental group used more conjunctions and fewer conjunctive adjuncts in Theme position, moving toward native-speaker-like patterns](../claims/conjunction-conjunctive-adjunct-shift-after-instruction.md) [+W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — learners studying errors beside correct examples; the teacher's analysis of learner language is the diagnostic step here.

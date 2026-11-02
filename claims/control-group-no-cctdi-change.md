@@ -53,3 +53,5 @@ Paired samples t-test on the control group (n=21); means were 4.56 pre-test and 
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
+- [The paper-based control group showed no statistically significant gain from pre-test to post-test](control-group-no-significant-pretest-posttest-gain.md) — related
+- [No significant difference between the control group's post-test and its 21-day retention test scores](control-group-posttest-retention-no-difference.md) — related

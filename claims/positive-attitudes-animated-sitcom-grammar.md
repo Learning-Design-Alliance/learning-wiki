@@ -48,3 +48,4 @@ Interview study with the 17 experimental-group participants, conducted in Persia
 - [Experimental-group EFL learners taught conditional sentences via an animated sitcom improved significantly from pretest to posttest (p=.003)](animated-sitcom-improves-conditional-sentence-learning.md) — related
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
 - [Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related
+- [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related

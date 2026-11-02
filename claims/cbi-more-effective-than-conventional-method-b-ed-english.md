@@ -52,3 +52,4 @@ Quasi-experimental control-group pretest–post-test study with 30 learners per 
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related
+- [E-learning strategy produced higher post-test achievement in English than conventional methods among low-scoring in-service B.Ed distance teachers](elearning-strategy-more-effective-english-inservice-bed.md) — related

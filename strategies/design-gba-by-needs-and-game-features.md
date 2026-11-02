@@ -43,6 +43,7 @@ The review recommends that practitioners "design GBA according to their educatio
 
 - [Use GBA data to identify perfunctory game moments and redesign them as reflective practices embedded in game-flow](gba-data-informs-reflective-redesign.md)
 - [Design recommendations for game-based performance assessment of professional competencies](serious-game-assessment-design-recommendations.md)
+- [Use game-based tasks in the final portion of lessons to teach and practice new vocabulary interactively](game-based-vocabulary-task-strategy.md)
 
 ## Examples
 -

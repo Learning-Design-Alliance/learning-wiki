@@ -84,3 +84,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [In the combined sample, ADHD status showed a small negative correlation with all assessed skills except vocabulary](adhd-negative-correlation-arithmetic-skills.md) — related
 - [The confounded variance of prior knowledge and intelligence predicts learning outcome and expertise better than either variable alone](prior-knowledge-and-intelligence-conjoint-prediction.md) — related
 - [Non-verbal IQ mildly predicts the reading fluency advantage obtained during SFA-On periods, with lower-IQ students benefiting more](iq-predicts-soundfield-effect-score.md) — a narrower finding that bears on this claim
+- [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related

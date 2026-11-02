@@ -55,3 +55,4 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — possibly the same claim (merge candidate)
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
+- [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related

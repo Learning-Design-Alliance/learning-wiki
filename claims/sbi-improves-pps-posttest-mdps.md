@@ -71,3 +71,4 @@ Two-level HLM analysis of PPS total posttest scores for 806 students with MD-PS 
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — a broader claim this one bears on
 - [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related
+- [The schema-building portion of PP instruction contributed most to the experimental groups' performance advantage](schema-building-largest-contribution.md) — related

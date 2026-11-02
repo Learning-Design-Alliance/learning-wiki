@@ -42,7 +42,8 @@ This professional development pattern compresses in-person practice-based PD int
 - [Srsd Pow Tree Increases Persuasive Elements Rural](../claims/srsd-pow-tree-increases-persuasive-elements-rural.md) [+M]
 
 ## Related Designs
-- 
+
+- [Virtual classroom delivery of the SBS scheme for external students](virtual-classroom-sbs-external-students.md)
 
 ## Examples
 -

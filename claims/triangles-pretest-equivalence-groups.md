@@ -55,3 +55,4 @@ Independent Samples t Test on pre-test scores of the same 37-student quasi-exper
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
 - [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
+- [Both groups started with similar pre-test skill levels, with visibly low listening and speaking performance](a2-groups-similar-low-pretest-listening-speaking.md) — related

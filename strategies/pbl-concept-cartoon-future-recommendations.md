@@ -49,6 +49,7 @@ The article closes with three recommendations: future studies should "allow suff
 - [Have students draw their own cartoons to express concerns and consolidate understanding of an issue](students-draw-own-cartoons.md)
 - [Implement concept cartoons© by following the inquiry working procedure, praising all views, supporting discussion, and letting students practically verify their own assumptions](concept-cartoons-implementation-recommendations.md)
 - [Concept cartoon discussion routine: present, debate viewpoints, then student research without teacher explanation](concept-cartoon-discussion-research-routine.md)
+- [Develop challenging mathematics teaching materials that trigger cognitive conflict alongside PBL implementation](challenging-materials-trigger-cognitive-conflict.md)
 
 ## Examples
 -

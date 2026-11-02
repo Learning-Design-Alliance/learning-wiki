@@ -74,6 +74,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 5. State or elicit the general rule, then ask learners to apply it to a new, dissimilar case ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Analogies](analogies.md) — a concrete example drawn from a familiar domain, used explicitly for structural mapping
 - [Case-Based Learning](case-based-learning.md) — extended, authentic examples as the primary vehicle of instruction
 - [Worked Examples](worked-examples-first.md) — concrete examples applied to problem-solving procedures
@@ -81,6 +82,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 - Use analogies and analogical comparison — a special case where the example comes from a different, familiar domain
 - Use contrasting cases — the multi-example variant that guards against overgeneralization
 - Teach with case studies — extended narrative examples used for complex, ill-structured domains
+- [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](twa-step-by-step-analogy-teaching-strategy.md)
 
 ## Examples
 - **Kaminski, Sloutsky & Heckler's math learning studies (2008)** — demonstrated that novices learning an abstract mathematical group structure from a concrete "mixing liquids" cover story transferred less well than those learning from abstract symbols, a caution about unexamined concreteness.

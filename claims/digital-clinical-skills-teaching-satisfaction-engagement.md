@@ -55,3 +55,4 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
 - [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](digital-asthma-tools-patient-preference.md) — related
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — a narrower finding that bears on this claim
+- [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related

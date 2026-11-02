@@ -52,3 +52,4 @@ Wilcoxon signed-rank comparisons of pretest-posttest SMTML scores within each gr
 - [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
 - [At-risk grade 2 experimental students made significant within-group gains in Applied Problems, but these gains were not significantly larger than their non-at-risk peers' gains](chisanbop-applied-problems-grade2-atrisk.md) — related
 - [Item-level gains differed by group: the experimental group improved significantly on items E and F while the control group did not, and vice versa for items A and C](clil-item-level-gain-differences-by-group.md) — related
+- [Ranks of ethical and individualistic values rose in the experimental group but changed little in the control group](value-ranks-rose-eg-not-cg.md) — related

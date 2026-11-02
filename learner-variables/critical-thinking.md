@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (102 show a difference, 27 mixed, 16 no difference) · 98 studies (41 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 98 report an effect size · 143 claims rest on one study
+> **Evidence** · 146 claims (103 show a difference, 27 mixed, 16 no difference) · 99 studies (42 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 99 report an effect size · 144 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -185,6 +185,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Experimental group's critical thinking disposition improved significantly from pre-test to post-test](../claims/experimental-group-cctdi-pre-post-gain.md) [+M] — instruction changes it
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](../claims/moodle-online-argumentation-critical-thinking-disposition.md) [+M] — instruction changes it
 - [Teacher candidates most frequently reported critical thinking among personal-development benefits of the online argumentation implementation](../claims/candidates-report-critical-thinking-benefit.md) [+W] — instruction changes it
+- [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](../claims/flipped-learning-improves-hots-business-esp-students.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

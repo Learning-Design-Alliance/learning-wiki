@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (36 for, 31 mixed, 7 against) · 56 studies (14 causal, 13 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 56 report an effect size · 70 claims rest on one study
+> **Evidence** · 75 claims (36 for, 32 mixed, 7 against) · 57 studies (15 causal, 13 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 57 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](../claims/coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) [+W]
 - [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](../claims/perry-beeches-coaching-delivery-variation-across-schools.md) [~W]
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](../claims/perry-beeches-coaching-pupil-engagement-sessions.md) [~W]
+- [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](../claims/first-step-satisfaction-alliance-asd-subsample.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

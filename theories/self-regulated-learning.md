@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 269 claims (124 for, 130 mixed, 15 against) · 199 studies (60 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 199 report an effect size · 253 claims rest on one study
+> **Evidence** · 270 claims (125 for, 130 mixed, 15 against) · 200 studies (61 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 200 report an effect size · 254 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -316,6 +316,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](../claims/srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) [+W] — attached 2026-11-02 from El-Sakka (2016), which proposed "Zimmerman's three-phase cyclical model of self-regulated learning as the framework for speaking instruction".
 - [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W] — attached 2026-11-02 from El-Sakka (2016), which proposed "Zimmerman's three-phase cyclical model of self-regulated learning as the framework for speaking instruction".
 - [Students' self-assessed performance on the main test was higher than their actual scores indicated](../claims/student-self-assessment-exceeds-actual-performance.md) [-W]
+- [Using learning journals produces statistically significant gains in pre-service teachers' self-regulated learning relative to traditional instruction](../claims/learning-journals-improve-self-regulated-learning.md) [+W] — attached 2026-11-02 from Dr. Saleh Mohammad Abu Jado (2015), which proposed "Zimmerman's three-phase model of self-regulated learning".
 
 ## The evidence by question
 

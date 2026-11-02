@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 26 studies (13 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 26 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (20 for, 12 mixed, 1 against) · 27 studies (14 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 27 report an effect size · 31 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -84,6 +84,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](../claims/round-robin-electrochemistry-interest-no-gender-difference.md) [~W]
 - [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
 - [Buzz group pre-writing technique improves descriptive writing scores more than conventional teaching](../claims/buzz-group-improves-descriptive-writing-scores.md) [~W]
+- [Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group](../claims/posthoc-no-difference-between-experimental-groups.md) [~W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

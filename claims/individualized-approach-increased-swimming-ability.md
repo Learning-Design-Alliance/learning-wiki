@@ -47,3 +47,4 @@ Authors' summary of the pedagogical experiment comparing control (traditional me
 ## Related Claims
 - [Differentiated exercise sets produce significantly larger improvements in swimming technique than traditional instruction for students in complex-coordination sports](differentiated-swimming-exercises-complex-coordination-gains.md) — a narrower finding that bears on this claim
 - [Students of different sports specializations enter swimming courses with different initial levels and sport-specific technique errors, complicating instruction under limited allocated hours](sport-specialization-specific-swimming-errors.md) — related
+- [After the experimental system of specialized courses, engineering students' research competency levels were high versus their levels at the initial stage](research-competency-higher-after-single-problem-course-system.md) — related

@@ -13,7 +13,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 11 studies (7 review, 2 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 12 studies (7 review, 2 causal, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
@@ -32,6 +32,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](../claims/risk-factors-for-developing-math-anxiety.md) [~W]
 - [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](../claims/high-stress-simulation-impairs-performance.md) [+W]
 - [Voice recording during DA sessions was stressful for learners and affected their performance, especially in initial sessions](../claims/voice-recording-stress-mediation-problem-da.md) [+W]
+- [Buddies and Buddy Leaders evaluated the SBS scheme very positively, with all 28 survey respondents agreeing sessions were an effective way to learn in a non-threatening environment](../claims/sbs-evaluation-survey-overwhelmingly-positive.md) [+W]
 
 ## The evidence by question
 

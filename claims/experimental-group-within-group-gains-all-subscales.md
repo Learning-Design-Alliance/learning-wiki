@@ -52,3 +52,4 @@ Within-group paired-samples t-test analysis (Table 4) of the experimental group 
 - [Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing](control-group-gains-limited-reading-total.md) — related
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
 - [Both instructional programmes improved children's literacy performance from pre-test to post-test](both-programmes-improved-literacy-pre-post.md) — related
+- [All three instruction groups (creative drama, computer-based, standard curriculum) showed statistically significant pre-test to post-test achievement gains](all-three-it-methods-improved-pre-post-scores.md) — related

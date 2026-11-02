@@ -177,6 +177,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Scaffold cross-representational integration by sequencing discussion of pictures with concepts from the text before ordering them](../strategies/scaffold-text-visual-integration-sequencing.md)
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 - [Complementary interdisciplinary lesson pairing in which biology explains PE processes and PE visualises biology content](../designs/complementary-biology-pe-lesson-pairing.md)
+- [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](../strategies/hots-lesson-design-five-components-strategy.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

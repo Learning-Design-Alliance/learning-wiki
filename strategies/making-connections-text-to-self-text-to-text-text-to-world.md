@@ -78,12 +78,14 @@ Connections work because they activate and integrate prior knowledge with new te
 6. **Apply independently.** Learners write a short response built on their strongest connection, then evaluate which connection type deepened their understanding most ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-reading counterpart; connections extend activation into and beyond reading
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — packages connection-making with predicting, questioning, and clarifying in a peer-dialogue routine
 - [Question-Answer Relationships](question-answer-relationships.md) — complementary strategy for linking questions to text-based and knowledge-based sources
 - [Annotating Texts](annotating-texts.md) — the written medium through which connections are often recorded
 - [Annotating Text](../principles/annotating.md) — a recording format that pairs naturally with connection-making during reading
 - [Question-Answer Relationships](../strategies/question-answering.md) — complementary comprehension strategy focused on text-based rather than experience-based reasoning
+- [Teach coursebook texts through four intertextual connection categories before creative writing tasks](four-intertextual-connection-categories-strategy.md)
 
 ## Examples
 - **Mosaic of Thought comprehension curriculum (Keene & Zimmermann, 1997)** — the source framework that popularized the three connection types in workshop-model reading instruction.

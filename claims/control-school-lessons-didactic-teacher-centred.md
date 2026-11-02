@@ -47,3 +47,4 @@ The first author observed one lesson per control teacher (four teachers) to clas
 
 ## Related Claims
 - [Interviewed learners in experimental schools preferred the group approach and valued peer explanation, while control school learners reported teacher-dominated lessons](learners-preferred-group-approach-peer-explanations.md) — related
+- [In the frontal-instruction control lesson, teacher attention concentrated on the student at the blackboard and most students remained passive](frontal-lesson-blackboard-attention-passive-students.md) — related

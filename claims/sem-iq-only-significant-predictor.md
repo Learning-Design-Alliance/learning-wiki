@@ -77,3 +77,4 @@ SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
 - [Intelligence and working memory predicted seventh-grade mathematics before prior achievement was controlled, but their direct effects were masked by sixth-grade competence](intelligence-working-memory-masked-by-prior-knowledge.md) — related
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — reports the opposite
+- [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related

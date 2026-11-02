@@ -65,3 +65,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [EdTech effects for disadvantaged pupils are smaller and inconsistent: no significant impact in disadvantaged-focused subgroups (d = 0.0527) and a smaller significant effect in partial-subset studies (d = 0.1624)](edtech-disadvantaged-pupils-smaller-mixed-effects.md) — related
 - [Children with lower baseline achievement, lower IQ or lower school engagement may benefit more from school-based PA interventions, though evidence is mixed](pa-math-benefits-low-baseline-learners.md) — related
 - [ITS effects are similar for low-achieving students and the general student population](its-effects-similar-low-achievers-general-population.md) — related
+- [Pupils in both interventions achieved higher growth mindset scores than controls, but with low security](mindset-scores-higher-low-security.md) — a narrower finding that bears on this claim

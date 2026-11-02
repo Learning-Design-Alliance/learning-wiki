@@ -54,3 +54,4 @@ Paired pre-test/post-test comparison of the 15-student control group under conve
 - [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related
 - [Conventional teaching produces a smaller writing score gain than either experimental technique](conventional-teaching-smaller-writing-gain.md) — related
 - [Traditional course-book instruction showed no significant pre-to-post achievement change in the control group](traditional-instruction-no-significant-change.md) — reports the opposite
+- [Traditional teaching also produced a significant pre-to-post achievement gain in the control group](control-group-significant-gain.md) — related

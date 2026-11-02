@@ -49,3 +49,4 @@ In the same binary logistic regression of A or B grades, the pairwise contrasts 
 - [Neither concept mastery alone nor amplified assistance alone produced greater learning than face-to-face instruction](single-components-no-learning-advantage-over-face-to-face.md) — related
 - [U-Pace instruction produced greater academic success in final course grades of A or B than face-to-face instruction](u-pace-greater-final-grades-ab-than-face-to-face.md) — related
 - [U-Pace instruction produced greater learning on a proctored cumulative exam than concept mastery, amplified assistance, and face-to-face instruction in an RCT](u-pace-greater-learning-proctored-cumulative-exam.md) — related
+- [Acting as a Language Teacher Assistant did not significantly change successful students' English achievement in either direction](assistant-role-no-achievement-effect.md) — related

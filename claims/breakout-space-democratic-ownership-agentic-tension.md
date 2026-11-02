@@ -49,3 +49,4 @@ Ethnographic observations and field interviews found students described the brea
 - [The type 2 configuration creates a 'bridge' hour of self-directed pedagogic potential between formal teaching in which students discuss difficult lecture content](bridge-period-self-directed-pedagogic-potential.md) — related
 - [The fixed power dynamic of the lecture theatre produces 'failed', hidden and postponed pedagogic interactions among confused students](failed-hidden-postponed-pedagogic-interactions.md) — related
 - [In an observational comparison of timetable configurations, 43% of students meaningfully engaged in off-ramp transitions during the type 2 'bridge' configuration versus 19% in type 1](type2-timetable-off-ramp-engagement-43-vs-19.md) — related
+- [Buddies reported that the SBS scheme gave reassurance of not being alone and a friendly, non-intimidating learning environment](buddies-reported-reassurance-and-non-intimidating-environment.md) — related

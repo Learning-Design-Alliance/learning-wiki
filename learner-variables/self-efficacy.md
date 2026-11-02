@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (172 show a difference, 32 mixed, 25 no difference) · 183 studies (59 associational, 49 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 36 of 183 report an effect size · 225 claims rest on one study
+> **Evidence** · 231 claims (173 show a difference, 32 mixed, 26 no difference) · 185 studies (59 associational, 51 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 37 of 185 report an effect size · 227 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -260,6 +260,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](../claims/ssc-motivation-changes-test-anxiety-self-efficacy.md) [+W] — instruction changes it
 - [SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control](../claims/sss-no-effect-self-regulation-scales.md) [-M] — instruction changes it
 - [Teachers who took the course reported significantly higher confidence in their ability to teach force and motion (effect size = 0.49)](../claims/msos-teacher-confidence-gains.md) [+M] — instruction changes it
+- [No treatment outperformed modeling on adult encouragement barrier self-efficacy](../claims/no-treatment-outperformed-modeling-barrier-self-efficacy.md) [-M] — instruction changes it
+- [Post-test measures of teacher knowledge, self-efficacy, self-reported use, and application were significantly and positively intercorrelated, with the strongest link between self-efficacy and self-reported use](../claims/post-measure-correlations-positive.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (53 show a difference, 13 mixed, 7 no difference) · 42 studies (19 causal, 13 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 71 claims rest on one study
+> **Evidence** · 75 claims (53 show a difference, 14 mixed, 8 no difference) · 44 studies (21 causal, 13 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 44 report an effect size · 73 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -110,6 +110,8 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Treatment condition had a significant omnibus effect on children's number sense and place value skills in pre-kindergarten](../claims/mtp-ms-omnibus-number-sense-place-value.md) [+M] — instruction changes it
 - [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](../claims/both-interventions-beat-control-naep-number-line-calculations.md) [+M] — instruction changes it
 - [Pupils made more progress on material covered by the programme, and no negative side-effects appeared on calculator questions despite calculator use being excluded from Year 7](../claims/maths-mastery-secondary-outcomes-covered-and-calculator.md) [+M] — instruction changes it
+- [Children without MD benefited from strategy conditions on operation span but not on solution or calculation accuracy](../claims/nmd-benefit-operationspan-only.md) [-M] — instruction changes it
+- [The intervention produced significant effects on the Addition/Subtraction Combinations, Place Value, and Number Sequences subtests but not on Magnitude Comparisons](../claims/temi-pm-subtest-effects-asc-pv-ns.md) [~M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

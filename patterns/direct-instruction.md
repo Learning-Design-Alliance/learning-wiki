@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (23 for, 22 mixed, 4 against) · 51 studies (19 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 51 report an effect size · 42 claims rest on one study
+> **Evidence** · 51 claims (25 for, 22 mixed, 4 against) · 52 studies (20 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 44 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [EDI qualitatively outperformed DI on MMA normalized gain, though both groups' gains were in the low category](../claims/edi-mma-gain-outperforms-di.md) [~W] — attached 2026-11-01 from Mansyur et al. (2016), which proposed "Enhanced Direct Instruction (EDI) stages for introductory physics integrating DI patterns with macro- and micro-strategy"; tests this page's relationship.
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](../claims/strategy-instruction-significant-prepost-gain-efl.md) [+W] — attached 2026-11-01 from Bogale (2018), which proposed "Explicit reading strategy instruction cycle: describe, model, guided practice, independent use".
 - [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](../claims/demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) [+W] — attached 2026-11-01 from Muhammad Husnu (2018), which proposed "Teachers should use the demonstration technique to teach speaking to EFL learners".
+- [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](../claims/strategy-instruction-improves-grade11-esl-reading-comprehension.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
+- [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](../claims/explicit-instruction-increases-reading-strategy-use.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

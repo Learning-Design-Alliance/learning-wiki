@@ -47,3 +47,4 @@ Repeated-measures ANOVA (used because the small sample did not allow MANOVA) of 
 ## Related Claims
 - [Descriptive results suggest the gap between high-achieving and low-achieving students narrowed during the music-mathematics intervention](music-math-intervention-reduced-achievement-gap.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
+- [Music-mathematics integrated lessons produced statistically significant improvements in first- and third-grade students' MSA mathematical ability levels](music-math-integration-improves-msa-abilities.md) — a narrower finding that bears on this claim

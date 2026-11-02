@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 296 claims (181 show a difference, 50 mixed, 65 no difference) · 201 studies (71 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 45 of 201 report an effect size · 287 claims rest on one study
+> **Evidence** · 297 claims (181 show a difference, 50 mixed, 66 no difference) · 202 studies (71 causal, 51 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 45 of 202 report an effect size · 288 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -347,6 +347,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Tier-2 vocabulary intervention had no effect on standardized measures of overall vocabulary knowledge (posttest PPVT)](../claims/tier2-intervention-no-effect-standardized-vocabulary.md) [-M] — instruction changes it
 - [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](../claims/initial-fluency-not-consistent-response-predictor.md) [-M] — learners who differ on it differ in outcomes
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](../claims/paired-reading-no-impact-overall-reading-ability.md) [-M] — instruction changes it
+- [Both English-only and language minority students maintained and even improved knowledge of taught words over a second school year](../claims/word-generation-knowledge-retained-year-two.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

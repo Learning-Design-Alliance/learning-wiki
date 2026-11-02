@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 63 claims (30 for, 32 mixed, 1 against) · 47 studies (14 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 47 report an effect size · 58 claims rest on one study
+> **Evidence** · 65 claims (31 for, 33 mixed, 1 against) · 48 studies (15 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 60 claims rest on one study
 
 ## Description and scope
 
@@ -141,6 +141,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](../claims/cbl-improves-problem-solving-abilities.md) [+W] — attached 2026-10-31 from Chen Min et al. (2025), which proposed "Pharmacy courses suited to CBL over LBL require integrating theory with practice in complex, context-dependent scenarios"; tests this page's relationship.
 - [Case-based instruction significantly improves 10th-grade students' perceived motivation toward chemistry compared with traditional instruction (overall multivariate effect)](../claims/cbl-improves-chemistry-motivation-manova.md) [+W] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Case-based instruction with small-group discussion of daily-life cases"; tests this page's relationship.
 - [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [+W] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Case-based instruction with small-group discussion of daily-life cases"; tests this page's relationship.
+- [Case-study-based teaching in 6th-grade social studies produces higher post-test environmental attitudes than existing-curriculum teaching](../claims/case-study-teaching-higher-environmental-attitudes.md) [+W] — attached 2026-11-02 from Hamza AKENGİN (2012), which proposed "Use the case-study method in social studies to develop positive environmental attitudes and raise knowledge, values and skills"; tests this page's relationship.
+- [Within the experimental group, environmental attitudes improved significantly from pre-test to post-test after case-study instruction](../claims/experimental-group-pre-post-attitude-gain.md) [~W] — attached 2026-11-02 from Hamza AKENGİN (2012), which proposed "Use the case-study method in social studies to develop positive environmental attitudes and raise knowledge, values and skills".
 
 ## Illustrative design instance and observation record
 

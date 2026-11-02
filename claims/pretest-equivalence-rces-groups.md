@@ -48,3 +48,4 @@ Independent samples t-tests on pre-test RCES scores of 26 experiment and 28 cont
 - [Regular curriculum instruction improved intratextual and nontextual comprehension but not intertextual comprehension in control students](curriculum-instruction-no-intertextual-gain.md) — related
 - [Reciprocal teaching produced significantly greater expository text comprehension gains than regular curriculum instruction in fourth graders over 11 weeks](reciprocal-teaching-expository-comprehension-gains.md) — related
 - [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
+- [Intertextual reading advantages on Originality of Ideas and Vocabulary Richness appear at each midtest during the intervention](intertextual-reading-midtest-advantages.md) — related

@@ -53,3 +53,5 @@ Within-group Wilcoxon tests (control W=-28; experimental W=-231, z-observed 4.01
 - [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — possibly the same claim (merge candidate)
 - [Posttest creativity scores differed between the experimental and control groups in favor of the experimental group, though the text and Table 6 print conflicting statistics](ayturk-posttest-group-difference.md) — related
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
+- [At-risk grade 3 students taught with the Problem Patterns approach showed significantly higher posttest ranks than control students](pp-approach-grade3-posttest-significant.md) — related
+- [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related

@@ -54,3 +54,4 @@ Quasi-experimental posttest comparison of two intact classes (N = 35 each) after
 - [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
 - [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related
 - [Presentation strategy instruction produces significantly higher reading comprehension post-test scores than ordinary strategy-based instruction for Iranian intermediate EFL learners](presentation-strategy-improves-efl-reading-comprehension.md) — related
+- [The authors interpret the experimental group's score increase as larger than the control group's, suggesting a possible but unsatisfied effect of error correction](experimental-gain-larger-than-control-interpretation.md) — related

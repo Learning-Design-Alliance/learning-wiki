@@ -49,3 +49,4 @@ Pretest-posttest control group experiment with 24 students per group at an Anato
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Prior chemistry studies cited by the authors also favor PBL over traditional methods](prior-pbl-chemistry-studies-favor-pbl.md) — a broader claim this one bears on
+- [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-02
 sources:
   - id: chou-2013
     resource: "http://english.moe.gov.tw/ct.asp?xItem=7773&ctNode=516&mp=1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within both the experimental and control groups, oral fluency improved significantly from pretest to posttest (paired t-values -15.72 and -7.69, both p<.001). [→ Chou 2013](#chou-2013)
@@ -56,3 +57,5 @@ Paired-samples t-tests on one-minute oral reading assessments for 25 experimenta
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](weekly-within-passage-fluency-increases.md) — related
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related
 - [Both instructed and regular listening classes produce significant within-group gains in general listening comprehension over a 10-week course](both-groups-gain-listening-over-course.md) — related
+- [Control-group students who received no intervention showed no improvements in reading fluency](control-group-no-improvement-reading-fluency.md) — reports the opposite
+- [Peer-supported low-achieving university students significantly outperformed unsupported controls on English posttest scores after a 15-week LTA program](peer-support-raises-low-achievers-english-posttest.md) — related

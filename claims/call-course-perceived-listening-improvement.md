@@ -50,3 +50,4 @@ Post-course questionnaire of the 25 treatment-group students on perceived listen
 - [TOEIC listening scores improved significantly from pre-test to post-test regardless of group (test-type effect, partial eta-squared = .231)](toeic-listening-pre-post-improvement-significant.md) — related
 - [Treatment students preferred communicative CALL tasks or a combination of methods over traditional teacher/CD-player listening (48% preferred both, 36% preferred CALL)](students-prefer-communicative-call-tasks.md) — related
 - [Before the course, 72% of surveyed students held no English certificate and Part IV (Short Talks) was the most commonly reported weak TOEIC listening part (46%)](toeic-students-weak-part-iv-no-certificate.md) — related
+- [Students held positive perceptions of authentic materials (71% interesting, 70% useful), though 34% found them difficult to understand](survey-positive-perception-authentic-materials.md) — related

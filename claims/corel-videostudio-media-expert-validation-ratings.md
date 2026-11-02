@@ -52,3 +52,4 @@ Validation study of the developed multimedia module using expert questionnaires 
 - [Expert panels and 31 experienced physics teachers rated the software favourably, with reliability of Cronbach's alpha .843 across 24 items](expert-evaluation-motion-vector-software-reliability.md) — related
 - [Teachers and students judged the geometry media practical in individual and limited-scale trials](ispring-sketchup-geometry-media-practical-trials.md) — related
 - [Expert lecturers and teachers rated the developed learning material as an excellent learning resource meeting BSNP criteria](exposition-material-validation-rating.md) — related
+- [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](riza-competence-profiles-satisfactory-outcomes.md) — related

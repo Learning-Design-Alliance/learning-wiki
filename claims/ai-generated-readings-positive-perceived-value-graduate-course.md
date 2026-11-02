@@ -52,3 +52,4 @@ Descriptive analysis of an end-of-course survey completed by 24 consenting stude
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related
 - [Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive](variable-engagement-positive-feedback-ai-course.md) — related
 - [Despite implementation problems, teaching assistants and students rated Units of Sound positively, with 81% of surveyed students saying it helped them read better](units-of-sound-positive-perceptions.md) — related
+- [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related

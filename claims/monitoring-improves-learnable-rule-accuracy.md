@@ -60,3 +60,4 @@ A pilot study by Mary Ciske elicited four contextual styles (free writing, readi
 - [Past copula style shifting occurs only between planned speech and unplanned speech](past-copula-shifting-speech-conditions-only.md) — related
 - [Irregular past shows little style shifting across planning conditions](irregular-past-little-style-shifting.md) — related
 - [X-Word Grammar students improved significantly more on subject-verb agreement, borderline on tense, and not significantly on aspect/verb forms](xword-significant-subject-verb-agreement-gain.md) — related
+- [TTS-based instruction and teacher-led instruction produce similar RPT production outcomes in EFL learners](tts-and-teacher-led-instruction-similar-rpt-production.md) — a narrower finding that bears on this claim

@@ -82,3 +82,4 @@ ANCOVA row from Table 10 for the critical thinking dimension in the same RCT, sh
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — a narrower finding that bears on this claim
 - [The POED-based VR approach improved students' problem-solving tendency more than the POEE-based VR approach](poed-vr-improves-problem-solving-tendency.md) — related
 - [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](game-construction-higher-order-thinking-midrange.md) — related
+- [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](flipped-learning-improves-hots-business-esp-students.md) — related

@@ -82,11 +82,13 @@ The strategy converts passive reading into generative processing: selecting key 
 7. Students individually reflect on how the heading process aided comprehension and how it connects to the unit's driving question.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](reciprocal_teaching.md) — a related dialogue-driven comprehension routine with role rotation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the underlying pair-discussion structure applied to reading
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the structure of collaborative, strategy-mediated reading of difficult text with explicit justification
 - [Text-Based Collaborative Annotation](../strategies/collaborative-annotation.md) — the highlighting phase generalized to ongoing social annotation
 - [Summarization](summarizing.md) — the heading task is a constrained form of summarizing
+- [Pair and group writing exercises: categorizing items, completing outline skeletons, and discussing paragraphs with a partner](pair-group-writing-exercise-strategy.md)
 
 ## Examples
 - A middle school social studies class reads a primary-source excerpt on the American Revolution in Google Docs; pairs produce four-word headings ("Colonists Reject Taxation"), defend them against a rival pair's "No Representation, Resistance," and the class consolidates a student-built outline of the document.

@@ -54,3 +54,4 @@ Controlled observational comparison of 206 adults with ADHD and 123 adults witho
 - [Extreme DESR in adults with ADHD is linked to worse social adjustment on most SAS-SR domains](extreme-desr-worse-social-adjustment-sassr.md) — related
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [The article reports three main effects of self-regulation: calming, refreshing, and activating](three-effects-of-self-regulation.md) — related

@@ -51,3 +51,4 @@ Narrative review attributing this to Leopold and Leutner (2002): students of dif
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related
 - [Youth text reading experience correlates modestly with narrative comprehension; current text and youth comic experience do not](youth-text-reading-experience-correlates-with-comprehension.md) — related
+- [Perceived reading strategy use positively affected reading comprehension among Grade 11 ESL learners](strategy-use-positively-affects-comprehension-grade11-esl.md) — reports the opposite

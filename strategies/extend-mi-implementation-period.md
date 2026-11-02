@@ -42,7 +42,8 @@ Based on the moderator finding that effect sizes rise from 0,868 (3 weeks and le
 - [The effect of multiple intelligence practices on achievement increases as the implementation period becomes longer](../claims/mi-effect-increases-with-implementation-period.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Increase Multiple Intelligence Theory-based activities in elementary school mathematics curricula](increase-mi-activities-elementary-math-curricula.md)
 
 ## Examples
 -

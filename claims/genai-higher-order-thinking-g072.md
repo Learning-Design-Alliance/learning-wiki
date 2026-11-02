@@ -77,3 +77,4 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related
 - [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related
 - [Gamification of web-based learning improves creative thinking among primary school students learning English](gamification-web-learning-improves-creative-thinking.md) — related
+- [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](flipped-learning-improves-hots-business-esp-students.md) — related

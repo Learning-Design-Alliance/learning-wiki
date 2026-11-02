@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (10 for, 12 mixed) · 28 studies (12 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (11 for, 12 mixed) · 29 studies (13 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 4 of 29 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](../claims/analogy-strategy-improves-organic-chemistry-achievement.md) [+W] — attached 2026-11-01 from Nawaf Ahmad Hasan Samara (2016), which proposed "Teach abstract organic chemistry concepts with explicit analogies in which students actively relate analog and target concepts"; tests this page's relationship.
 - [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](../claims/detailed-analogies-improve-computer-hardware-learning.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Human-body analogy mapping for computer hardware parts".
 - [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](../claims/students-view-detailed-analogies-positively.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Pilot-test analogies, use multiple analogies per concept, and support them with pictures, videos, and figures".
+- [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](../claims/analogical-instruction-higher-electric-concept-achievement.md) [+W] — attached 2026-11-02 from Gokhan Ugur et al. (2012), which proposed "Use analogical instruction systematically in science classrooms to enhance understanding and eliminate misconceptions".
 
 ## Objective and learner-valued goal
 
@@ -159,6 +160,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
 - [A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness](../designs/twelve-activity-model-remoteness-abstractness.md)
 - [Hybrid productive failure with analogical comparison: schema abstraction through comparing contrasting models](../designs/hybrid-pf-analogical-comparison-schema-abstraction.md)
+- [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](../strategies/twa-step-by-step-analogy-teaching-strategy.md)
 
 ### Illustrative
 

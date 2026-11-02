@@ -45,7 +45,8 @@ The article's concluding pedagogical recommendation is that "teachers should pro
 - [Experimental group scores continued to rise from Post-test I to Post-test II](../claims/posttest1-to-posttest2-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide explicit listening strategy training for EFL learners](explicit-listening-strategy-training.md)
 
 ## Examples
 -

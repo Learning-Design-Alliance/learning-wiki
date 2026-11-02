@@ -42,6 +42,7 @@ The article recommends preselecting and preteaching target grammar forms integra
 ## Related Strategies
 
 - [Pre-teach target language forms deductively before journal entries incorporate them](pre-teach-forms-before-journal-entries.md)
+- [In same-language EFL classes, use intervals of the students' native language with jocular comparisons to explicate difficult grammar points](native-language-intervals-with-jocular-comparisons.md)
 
 ## Examples
 -

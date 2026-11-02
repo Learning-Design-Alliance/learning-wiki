@@ -56,3 +56,4 @@ The review's coding found misconception-addressing work concentrated in science,
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](prior-knowledge-can-hinder-credibility-evaluation.md) — related
 - [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related
+- [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — a narrower finding that bears on this claim

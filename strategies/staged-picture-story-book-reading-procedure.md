@@ -46,6 +46,7 @@ The article describes a concrete classroom procedure for using picture story boo
 
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 - [Shared Reading](shared-reading.md)
+- [Use embodied role-play and picture-based story writing with humour devices to teach difficult grammar distinctions](humour-roleplay-and-picture-story-grammar-activities.md)
 
 ## Examples
 -

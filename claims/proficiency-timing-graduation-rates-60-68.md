@@ -51,3 +51,4 @@ Co-author Julia Gwynne states "Only 60 percent of Hispanic ELL students who gain
 - Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
 - [Timing of English learner reclassification is associated with later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — a broader claim this one bears on
+- [In the San Francisco multisite randomized study, Word Generation students learned more words than controls, and former ELLs outperformed English-only classmates for four years after reclassification, with the gap diminishing yearly](word-generation-san-francisco-ell-advantage.md) — related

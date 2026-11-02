@@ -49,3 +49,4 @@ Two-way ANOVA on enhancement of MPSA (Table 2): interaction F = 0.021, Sig. 0.88
 - [Overall, students receiving soft skill-based metacognitive learning show significantly higher enhancement of mathematical problem solving ability than students receiving conventional learning](ssml-higher-mpsa-enhancement-than-conventional.md) — related
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](ssml-advantage-significant-only-middle-mpk.md) — related
 - [Two-way ANOVA: teaching model significantly affected literacy gains, but school location and the model-by-location interaction did not](model-significant-location-interaction-null.md) — related
+- [Learning approach and school level each had a significant main effect on mathematics critical thinking ability in a two-way ANOVA](anova-main-effects-learning-and-school-level.md) — related

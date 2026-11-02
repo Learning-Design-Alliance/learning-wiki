@@ -49,3 +49,4 @@ Item 4 of MAT 2 tested forming linear inequalities, getting a linear equation fr
 - [Linear programming is hardly taught in Kenyan secondary schools, with only 10 of 352 KCSE examination questions testing it between 2002 and 2010](linear-programming-hardly-taught-kenya.md) — related
 - [Form four students taught linear programming with the origin test and extreme points technique achieved significantly higher post-test scores than students taught with conventional methods](pbl-origin-test-extreme-points-higher-achievement.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
+- [Post-test performance differed sharply between groups, with the experimental group scoring 80% and the control group 20%](posttest-80-versus-20-percent-groups.md) — related

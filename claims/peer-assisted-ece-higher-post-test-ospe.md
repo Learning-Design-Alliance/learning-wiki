@@ -48,3 +48,4 @@ The review reports, citing Hande et al., that the peer-assisted group "had highe
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — a broader claim this one bears on
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
+- [Peer-led and clinical educator-led group teaching produce no significant difference in student test scores in clinical physiotherapy placements](peer-vs-educator-led-clinical-group-teaching-no-score-difference.md) — reports the opposite

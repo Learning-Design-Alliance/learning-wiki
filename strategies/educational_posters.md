@@ -60,8 +60,10 @@ Posters work as external memory aids: they offload reference information from wo
 6. Audit the total visual environment periodically: remove displays that no longer serve current learning goals to limit clutter [~M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — posters can serve as persistent advance organizers that cue prior learning at the start of a lesson
 - [Advance Organizers](../elements/advance-organizers.md) — a poster can function as a standing organizer for a unit's structure
+- [Use activity-based posters in English classes to support achievement, retention and positive attitudes](use-activity-based-posters-english-classes.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — posters often enact this function persistently rather than at a single lesson opening

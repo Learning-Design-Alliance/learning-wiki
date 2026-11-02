@@ -49,3 +49,4 @@ In a classroom experiment with 599 4th- and 5th-graders using the Fractions Tuto
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [The experimental group's advantage persisted on a delayed posttest one week later, with scores 8.19% higher than the control group and a small-to-medium effect (d = −0.40) that was not statistically significant](audiovisual-listening-delayed-posttest-advantage.md) — related

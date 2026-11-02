@@ -56,3 +56,4 @@ This is the reviewer's own narrative synthesis of the four studies (Andrews 2007
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — a narrower finding that bears on this claim
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — a narrower finding that bears on this claim
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
+- [Writing activities matter more than grammar instruction for developing EFL writing](writing-activities-over-grammar-instruction.md) — related

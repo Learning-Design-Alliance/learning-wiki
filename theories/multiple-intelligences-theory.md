@@ -83,6 +83,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Develop lesson plans covering all learning objectives across various intelligences](../strategies/comprehensive-lesson-plans-all-objectives-intelligences.md)
 - [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](../strategies/mi-activities-content-based-efl-strategy.md)
 - [Teachers should schedule Technology activities with special attention to each Intelligence Style](../strategies/attend-to-intelligence-styles-when-scheduling.md)
+- [Increase Multiple Intelligence Theory-based activities in elementary school mathematics curricula](../strategies/increase-mi-activities-elementary-math-curricula.md)
 
 ## Key Sources
 - Gardner, H. (1983). *Frames of mind: The theory of multiple intelligences*. Basic Books.

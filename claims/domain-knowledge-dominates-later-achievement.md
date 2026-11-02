@@ -95,3 +95,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](prior-knowledge-predicts-outcomes-not-gains.md) — related
 - [Student-level variables significantly predict GPA change in the control condition, with prior GPA and self-reported grades as top predictors.](student-variables-predict-control-condition-gpa-change.md) — a narrower finding that bears on this claim
 - [Higher observed preschool quality in the mathematical domain is associated with better mathematics at age 12, over and above earlier numerical skills](preschool-math-quality-predicts-age-12-math.md) — related
+- [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related

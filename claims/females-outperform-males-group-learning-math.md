@@ -68,3 +68,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
 - [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — related
+- [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — related

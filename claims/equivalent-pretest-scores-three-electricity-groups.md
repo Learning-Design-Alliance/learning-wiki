@@ -84,3 +84,7 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Using the mobile WEIEC application produced a significantly larger pretest-posttest gain in electric circuit interpretation ability than the control condition, with a reported 85.8% effective contribution](weiec-improves-electric-circuit-interpretation-ability.md) — related
 - [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [Feedback type (metacognitive cues, expert map review, both, or scores only) produced no statistically significant difference in mean accuracy change on either technical problem](concept-map-feedback-type-no-effect-diagnostic-accuracy.md) — related
+- [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
+- [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related
+- [Experimental and control groups did not differ significantly on the stoichiometry pre-test](stoichiometry-pretest-no-significant-group-difference.md) — related

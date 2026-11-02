@@ -56,3 +56,4 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
 - [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](lecturaagents-student-survey-perceptions.md) — related
 - [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related
+- [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related

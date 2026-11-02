@@ -56,3 +56,4 @@ Independent samples t-test on pre-test scores in the quasi-experiment: experimen
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — related
+- [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related

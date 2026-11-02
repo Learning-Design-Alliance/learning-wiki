@@ -54,3 +54,4 @@ The review reports Nipaspong and Chinokul's (2010) three-group study (explicit f
 - [Five weeks of instruction in pragmatic routines significantly improved EFL learners' pragmatic competence relative to a control group](pragmatic-routine-instruction-improves-pragmatic-competence.md) — related
 - [Explicit metapragmatic instruction on requests raises request speech act awareness of intermediate EFL learners relative to regular institute instruction](explicit-metapragmatic-instruction-improves-request-awareness.md) — related
 - [The authors interpret their results as showing that explicit metapragmatic instruction provides input enhancement that facilitates interlanguage pragmatic development](input-enhancement-facilitates-pragmatic-development.md) — related
+- [Teaching interlanguage pragmatic features improves Iranian translation students' interpretation ability](ilp-instruction-improves-interpretation-ability.md) — a narrower finding that bears on this claim

@@ -78,3 +78,8 @@ Paired-samples t-test within the control group (n=21) receiving regular curricul
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — possibly the same claim (merge candidate)
 - [The one-size-fits-all method produced no statistically significant change in the control group's achievement from pre-test to post-test](one-size-fits-all-no-significant-change.md) — related
 - [Traditional course-book instruction showed no significant pre-to-post achievement change in the control group](traditional-instruction-no-significant-change.md) — related
+- [Control-group students showed no improvement in using ILP features while interpreting without instruction](control-group-no-ilp-improvement.md) — related
+- [Control-group teachers showed no significant pre-test to post-test achievement change under conventional methods](control-group-no-significant-prepost-change-english.md) — related
+- [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related
+- [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim
+- [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — possibly the same claim (merge candidate)

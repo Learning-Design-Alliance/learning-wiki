@@ -46,6 +46,7 @@ The article describes forming mutual learning teams by distributing students acc
 ## Related Strategies
 
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](heterogeneous-team-grouping-peer-tutoring-cbi.md)
+- [Compose discovery groups mixing high, medium, and low ability so peers support lower-ability students](mixed-ability-discovery-grouping-strategy.md)
 
 ## Examples
 -

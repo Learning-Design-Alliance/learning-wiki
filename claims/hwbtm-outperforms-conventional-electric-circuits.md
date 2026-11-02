@@ -53,3 +53,4 @@ Quasi-experimental 2x2 factorial study of 273 eighth graders in four Jordanian s
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
 - [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related
+- [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related

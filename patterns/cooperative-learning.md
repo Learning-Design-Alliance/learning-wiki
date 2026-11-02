@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 80 claims (49 for, 30 mixed, 1 against) · 65 studies (27 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 65 report an effect size · 72 claims rest on one study
+> **Evidence** · 83 claims (51 for, 31 mixed, 1 against) · 66 studies (28 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 66 report an effect size · 75 claims rest on one study
 
 ## Description and scope
 
@@ -127,6 +127,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative learning improved sixth graders' decision-making skill more than traditional teaching in a Jordanian geometry unit](../claims/cooperative-learning-improves-decision-making-skill.md) [+W] — attached 2026-11-02 from Asha et al. (2016), which proposed "Employ cooperative learning in mathematics teaching because it develops decision-making skill and academic achievement".
 - [Cooperative learning improved sixth graders' academic achievement in mathematics more than traditional teaching](../claims/cooperative-learning-improves-math-achievement.md) [+W] — attached 2026-11-02 from Asha et al. (2016), which proposed "Employ cooperative learning in mathematics teaching because it develops decision-making skill and academic achievement".
 - [No significant post-test achievement differences between cooperative learning, systematic teaching, and constructivist groups](../claims/no-posttest-difference-between-instructional-approaches.md) [~W] — attached 2026-11-02 from Korkmaz Toklucu et al. (2016), which proposed "Use cooperative learning and systematic teaching alongside the constructivist approach to enhance achievement and retention in social studies".
+- [Cooperative learning instruction produced better English vocabulary acquisition than competitive learning instruction among Iranian intermediate EFL learners](../claims/cooperative-outperforms-competitive-vocabulary-learning.md) [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
+- [Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners](../claims/cooperative-competitive-strategies-beat-traditional-vocabulary-instruction.md) [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
 
 ## Illustrative design instance and observation record
 
@@ -185,6 +187,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](../claims/cooperative-learning-literature-more-effective.md) [+W]
 - [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
+- [Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group](../claims/posthoc-no-difference-between-experimental-groups.md) [~W]
 
 ## Related Patterns
 

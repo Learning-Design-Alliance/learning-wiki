@@ -72,3 +72,4 @@ Effect-size analysis of the exam performance ratios from the two classes, comput
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [Polytechnic knowledge and skills in experimental classes increased on average by 16% relative to control classes](polytechnic-development-16-percent-increase.md) — related
 - [The libre teacher observed a 60% improvement in the results of the experimental class compared with the control class and past performance](team-teaching-60-percent-improvement-libre-teacher.md) — related
+- [CPS sections improved at a higher rate across lecture exams than the control group, with a third-exam exception](cps-higher-lecture-exam-improvement.md) — related

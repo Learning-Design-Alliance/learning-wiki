@@ -50,3 +50,5 @@ ANCOVA results table row (n = 120) for the group*gender source: F = 1.455, Sig. 
 ## Related Claims
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
+- [The group-by-gender interaction on reading fluency was not statistically significant](nim-group-gender-interaction-null.md) — related
+- [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](no-strategy-gender-interaction-maths-achievement.md) — related

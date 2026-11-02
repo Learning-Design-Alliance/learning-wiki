@@ -87,3 +87,5 @@ Paired-samples t-test for the experimental group (n=27): mean EPT scores rose fr
 - [No significant achievement difference was found between laboratory-only and analogy-based simulation-only environments](no-difference-laboratory-versus-analogy-simulation.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](prior-studies-computer-aided-instruction-more-effective.md) — related
+- [All three instruction groups (creative drama, computer-based, standard curriculum) showed statistically significant pre-test to post-test achievement gains](all-three-it-methods-improved-pre-post-scores.md) — related
+- [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related

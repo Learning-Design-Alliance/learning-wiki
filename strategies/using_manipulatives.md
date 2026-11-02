@@ -61,9 +61,11 @@ Manipulatives work as *symbols* for mathematical ideas, not as self-interpreting
 6. Assess transfer with symbolic problems the manipulative did not directly model.
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — a teacher's worked demonstration with a manipulative gives learners a model of the object–concept mapping before independent use
 - [Self-Explanation](../elements/self-explanation.md) — prompts learners to articulate the mapping between object and symbol, the step most often skipped
 - [Comparing Cases](../elements/comparing-cases.md) — contrasting two manipulative representations of the same concept supports abstraction
+- [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
 
 ## Examples
 - **Base-10 blocks for regrouping**: learners trade ten units for one "long" while recording the symbolic exchange in the same step, then solve subtraction problems with blocks removed.

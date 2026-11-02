@@ -71,3 +71,4 @@ Raw-score comparison of the two course sections on the final exam. The article r
 - [On the midterm, interleaving significantly reduced the gap between URM and non-URM students relative to blocked homework](interleaving-reduces-urm-gap-midterm.md) — related
 - [On the final exam, interleaving reduced gaps for URM students, first-generation students, students with lower mother's education, and students with weaker high school mathematics preparation](interleaving-reduces-prior-knowledge-gaps-final-exam.md) — related
 - [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — related
+- [College students assigned free online games as homework scored significantly higher on the midterm than students given traditional assignments](online-games-homework-higher-midterm-personal-finance.md) — related

@@ -48,3 +48,4 @@ Results for the 43-student control group taught by the lecture method: "no signi
 - [Achievement goal motivation declined significantly in the control group over the four-week traditional teaching period](control-group-achievement-goal-decline.md) — related
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](tgt-significant-achievement-gain-grade-eight.md) — related
 - [Control-group pre-K children showed no statistically significant change on either measure over the ten-week period](control-group-no-significant-change-phonological-measures.md) — related
+- [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — reports the opposite

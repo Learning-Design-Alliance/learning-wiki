@@ -106,6 +106,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 - [Use broad-based tier-two behavioral interventions as a vehicle to begin services before formal ASD diagnosis](begin-services-before-formal-asd-diagnosis.md)
 - [Supplement whole-class SRSD instruction with intensive Tier II or Tier III support for struggling writers](tier2-tier3-supplemental-support-struggling-writers.md)
+- [Schools should conduct systematic progress monitoring and small-group Tier 2 early mathematics instruction for struggling first-graders](systematic-progress-monitoring-small-group-tier2-math-strategy.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

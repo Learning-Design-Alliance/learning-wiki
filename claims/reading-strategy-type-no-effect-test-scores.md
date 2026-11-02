@@ -47,3 +47,4 @@ One-way ANOVA on the experiment group's reading test scores with MARSI-derived s
 ## Related Claims
 - [Most learners used an amalgam of all three metacognitive strategy types rather than favoring a single strategy](amalgam-strategy-use-dominates-learners.md) — related
 - [Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies](successful-readers-global-support-strategy-difference.md) — related
+- [Feedback type (metacognitive cues, expert map review, both, or scores only) produced no statistically significant difference in mean accuracy change on either technical problem](concept-map-feedback-type-no-effect-diagnostic-accuracy.md) — related

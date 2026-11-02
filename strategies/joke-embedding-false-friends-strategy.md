@@ -46,6 +46,7 @@ The strategy presents each confusing L2 term inside a joke or humorous anecdote 
 ## Related Strategies
 
 - [Add humorous cartoon visuals to verbal vocabulary instruction targeting confusing lexical items](add-cartoon-visuals-to-vocabulary-error-instruction.md)
+- [Use embodied role-play and picture-based story writing with humour devices to teach difficult grammar distinctions](humour-roleplay-and-picture-story-grammar-activities.md)
 
 ## Examples
 -

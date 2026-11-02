@@ -47,3 +47,4 @@ Quasi-experimental comparison of intact classes taught with demonstration versus
 ## Related Claims
 - [Scheffe multiple comparisons rank the four strategies: demonstration highest, then inquiry, then discussion, with lecture lowest](scheffe-strategy-ordering-electrical-installation.md) — related
 - [Demonstration strategy has the most significant effect on students’ academic performance in Electrical Installation among the four strategies compared](demonstration-most-effective-strategy-electrical-installation.md) — possibly the same claim (merge candidate)
+- [Inquiry-based integrated thematic instruction produces significantly higher character education scores than thematic instruction in primary school students](inquiry-integrated-thematic-beats-thematic-character-education.md) — related

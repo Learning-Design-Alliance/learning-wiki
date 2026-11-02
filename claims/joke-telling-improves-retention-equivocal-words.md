@@ -59,3 +59,4 @@ Pilot quasi-experiment with four groups of Spanish B1 learners (36 English, 36 G
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
+- [Teaching English grammar with humorous activities produced more correct quiz answers than traditional instruction in a small classroom experiment](humour-teaching-improves-grammar-quiz-results.md) — related

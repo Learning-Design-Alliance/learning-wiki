@@ -50,3 +50,4 @@ Omnibus ANCOVA table row for the Treatment x Gender interaction in the 3x2 facto
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related
 - [No statistically significant interaction between gender and teaching strategy on acquiring religious concepts](no-gender-strategy-interaction-kwl.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — related
+- [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](no-strategy-gender-interaction-maths-achievement.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: nawaf-ahmad-hasan-samara-2016
     resource: "https://eric.ed.gov/?id=EJ1095360"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a six-week treatment, the experimental analogy group (mean 15.05) scored significantly higher than the control group (mean 14.29) on the NOCAT post-test (t = 3.278, Sig. = 0.002). [→ Nawaf Ahmad Hasan Samara 2016](#nawaf-ahmad-hasan-samara-2016)
@@ -71,3 +72,5 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
 - [Post-test scores were significantly higher for the combined-method group than the lecture-only group](combined-method-outperformed-lecture-posttest.md) — related
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
+- [Analogical instruction had almost no effect on students' attitudes towards physics](analogical-instruction-no-attitude-effect.md) — related
+- [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related

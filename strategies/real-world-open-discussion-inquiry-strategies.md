@@ -47,6 +47,7 @@ The article names three concrete classroom strategies for promoting higher order
 - [Methodological orientations and strategies for professors to promote integrated learning of civic competence](il-methodological-orientations-strategies.md)
 - [Encourage Active Learning](encourage_active_learning.md)
 - [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
+- [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](hots-lesson-design-five-components-strategy.md)
 
 ## Examples
 -

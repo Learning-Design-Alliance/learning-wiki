@@ -53,3 +53,4 @@ Pre-registered cluster randomized controlled trial: 54 seventh-grade classes nes
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — a narrower finding that bears on this claim
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
 - [The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction](interleaving-significant-hlm-teacher-controlled.md) — related
+- [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related

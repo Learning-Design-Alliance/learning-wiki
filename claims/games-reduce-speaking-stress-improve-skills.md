@@ -59,3 +59,4 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 - [Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
+- [The authors report that humorous instruction changed students' mood, encouraged oral participation and reduced hesitation in speaking English](humour-instruction-improves-classroom-mood-and-speaking-confidence.md) — related

@@ -53,3 +53,5 @@ Descriptive statistics and ANOVA summary tables from the SPSS version 21 analysi
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
 - [Both groups improved from pretest to posttest, with most experimental students passing the KKM threshold of 60](pretest-posttest-gains-and-kkm-passing.md) — related
+- [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
+- [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related

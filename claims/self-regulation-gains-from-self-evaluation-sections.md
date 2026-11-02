@@ -1,0 +1,58 @@
+---
+type: claim
+title: Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
+description: Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
+id: self-regulation-gains-from-self-evaluation-sections
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-02
+evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-11-02
+sources:
+  - id: feola-2016
+    resource: "https://doi.org/10.13189/ujer.2016.040929"
+    title: "Elvia Ilaria Feola. (2016). Digital Literacy and New Technological Perspectives. Universal Journal of Educational Research 4(9): 2174-2180. https://doi.org/10.13189/ujer.2016.040929"
+    author: Elvia Ilaria Feola
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+
+## Subclaims
+`q2 i?` Through self-evaluation sections administered to each learner, students achieved the ability to monitor the problem-solving process, check adopted strategies and correct them when not relevant, resulting in increased performance. [→ Feola 2016](#feola-2016)
+
+## Evidence
+
+### Feola 2016
+
+Elvia Ilaria Feola. (2016). Digital Literacy and New Technological Perspectives. Universal Journal of Educational Research 4(9): 2174-2180. https://doi.org/10.13189/ujer.2016.040929
+
+`q2 · i?` · `causal · r1`
+
+Self-regulation-structures component of the R-I-Z-A evaluation in the one-group study, implemented through self-evaluation sections administered to each individual learner. The article reports students "achieved the ability to monitor the process useful for the solution of a problem" and to correct irrelevant strategies. No effect size is printed.
+
+> "Students achieved the ability to monitor the process useful for the solution of a problem, to check out the strategies adopted and correct them, if they are not relevant, resul ting in increased performance."
+
+## Discussion
+
+
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
+## Related Claims
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — a broader claim this one bears on
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related
+- [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related

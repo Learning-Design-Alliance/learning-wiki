@@ -28,6 +28,7 @@ SEMA is a 20-item, face-supported self-report questionnaire developed by Wu et a
 ## Related Products and Programmes
 
 - [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
+- [Mathematics Anxiety Scale by Sharma and Sansanwal (2011)](mathematics-anxiety-scale-by-sharma-and-sansanwal-2011.md)
 
 ## Key Sources
 - Wu SS, Barth M, Amin H, Malcarne V and Menon V (2012) Math anxiety in second and third graders and its relation to mathematics achievement. Front. Psychology 3:162. https://doi.org/10.3389/fpsyg.2012.00162

@@ -42,6 +42,7 @@ The strategy is a classroom implementation recipe drawn from INSIGHTS: children 
 
 - [Puppet Shows to Explore Emotions](puppet_shows_to_explore_emotions.md)
 - [Videos: SEL Topics](videos-sel_topics.md)
+- [Teach adults the 3Rs (Recognize, Reframe, Respond) and 2Ss (Scaffold, Stretch) for temperament-matched behavior management](insights-3rs-2ss-temperament-strategies.md)
 
 ## Examples
 -
