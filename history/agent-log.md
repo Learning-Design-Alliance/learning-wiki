@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-02 · merging main is now a script, not a hand job
+
+**What changed.** `scripts/merge_main.py` merges `origin/main`, or any `--ref`, into the current branch. It settles the conflicts that are not really conflicts and stops on the ones that are:
+- **Append-only logs** (the source manifest, the authorities and retraction ledgers, the load-bearing, duplicate, claim-merge, candidate and missing-DOI decision logs, removed pages, `log.md`): every line from both sides is kept.
+- **Generated files** (every `index.md`, `checks.md`, `evidence.md`, `reverse-index.json`, `wiki-index.json`, `situation-index.json`): rebuilt from the merged tree.
+- **`README.md`**: merged with its generated page-count block blanked on all three sides, then rebuilt.
+- **Any other conflicting file**: the merge is aborted and the file is named.
+
+The merge commits only at lint 0. `.gitattributes` marks the same logs `merge=union`, so a plain local `git merge` keeps both sides of them too.
+
+**Why.** Every PR commits the same generated files and appends to the same logs. Two branches that each add pages therefore conflict on about a dozen files, even when their content never touches. On 2026-11-02 the source sweep's PR (#469) conflicted twice with seven small ingest PRs (#461 to #467) from another session, and each time needed a hand merge in a separate worktree. GitHub runs no checks on a conflicted PR, so each conflict showed only as a PR with no check runs.
+
+**Tested.** I replayed that conflict from the PR's pre-merge head. The script's result is byte-identical to both hand merges, including the manifest (14,191 lines; 80 from the branch and 6 from main were added in the first merge), and lint is 0. The source sweep's driver now runs it after every batch, on its own branch's remote copy and then on main.
+
+**Also in this commit.** `stat_checks.anova_rows` now reads degrees of freedom written as arithmetic ("2-1=1", "200-2=198") as their result. Across the cached sources this removes the 2 false findings it caused (eric-ej1112852) and adds none.
+
 ## 2026-11-01 — evidence headings take the surname from the source record
 
 The extraction model copies author names as an article's front page prints them ("Mohammad Mahmoud

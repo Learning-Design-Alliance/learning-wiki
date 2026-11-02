@@ -46,3 +46,4 @@ Same quasi-experiment: 48 sixth-grade female students taught a 16-lesson geometr
 
 ## Related Claims
 - [Cooperative learning improved sixth graders' decision-making skill more than traditional teaching in a Jordanian geometry unit](cooperative-learning-improves-decision-making-skill.md) — related
+- [Review evidence cited in the article: in 67 studies of achievement impacts, 61% found greater achievement in cooperative than in traditionally taught control groups](cl-achievement-review-evidence.md) — a broader claim this one bears on

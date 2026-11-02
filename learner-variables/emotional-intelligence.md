@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (53 show a difference, 18 mixed, 9 no difference) · 55 studies (19 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 55 report an effect size · 79 claims rest on one study
+> **Evidence** · 82 claims (55 show a difference, 18 mixed, 9 no difference) · 56 studies (20 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 81 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -116,6 +116,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Positive Action mitigated the age-related decline in social-emotional and character development skills in both trials and a third small trial](../claims/positive-action-slows-secd-decline.md) [+M] — instruction changes it
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](../claims/iy-tcm-reduced-emotional-dysregulation.md) [+M] — instruction changes it
+- [A school-based social-emotional skills program produced significant pre-post gains in interpersonal relationships and defining goals, while a waiting-list group showed no significant change](../claims/isc-program-improves-interpersonal-relationships-and-goal-definition.md) [+M] — instruction changes it
+- [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

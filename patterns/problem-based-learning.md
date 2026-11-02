@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 149 claims (54 for, 83 mixed, 12 against) · 83 studies (32 quant-synthesis, 22 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 83 report an effect size · 144 claims rest on one study
+> **Evidence** · 152 claims (56 for, 84 mixed, 12 against) · 85 studies (32 quant-synthesis, 24 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 85 report an effect size · 147 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ The twelve claims listed here before that wave were read against the model on 20
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-retention-efl.md) [+W] — attached 2026-11-01 from Fateme Shir Mohammadi (2017), which proposed "Authentic problem-based vocabulary task cycle: scenario, group hypothesis, word search, conversation creation, and peer-teacher evaluation"; tests this page's relationship.
 - [Problem Based Economics improves students' economics problem-solving skills on open-ended performance tasks (effect size 0.27)](../claims/pbe-improves-performance-task-skills.md) [+W] — attached 2026-11-02 from Finkelstein et al. (2011), which proposed "Problem Based Economics unit structure: seven interrelated problem-solving phases with a facilitative teacher"; tests this page's relationship.
 - [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](../claims/pbl-beats-traditional-mixtures-achievement.md) [+W] — attached 2026-11-02 from Musa Üce (2016), which proposed "PBL unit pattern: real-life ill-structured problem case driving group investigation and laboratory work"; tests this page's relationship.
+- [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](../claims/pbl-cognition-tasks-increase-speaking-proficiency.md) [+W] — attached 2026-11-02 from Loghman Ansarian et al. (2016), which proposed "PBL tutorial cycle: minimal-information problem presentation, learner questioning, and reflection at completion".
 
 ## Illustrative design instance and observation record
 
@@ -241,6 +242,8 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
 - [PBE-trained teachers report significantly higher satisfaction with teaching materials and methods than control teachers (effect size 1.09)](../claims/pbe-teachers-more-satisfied-materials-methods.md) [~W]
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](../claims/teach-first-focused-efficient.md) [-W]
+- [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
+- [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

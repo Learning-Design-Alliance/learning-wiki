@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (20 for, 16 mixed) · 48 studies (13 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 48 report an effect size · 25 claims rest on one study
+> **Evidence** · 38 claims (21 for, 16 mixed, 1 against) · 49 studies (14 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 49 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,8 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
 - [Most experiment students judged reciprocal teaching more effective than their previous comprehension activities, citing ease, effectiveness and fun](../claims/student-opinions-reciprocal-teaching-effectiveness.md) [~W]
 - [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](../claims/jigsaw-opinions-erzurum-7th-grade.md) [+W]
+- [Students also reported disadvantages of the jigsaw technique, most often that it is time consuming and boring](../claims/student-reported-jigsaw-disadvantages-time-consuming.md) [-W]
+- [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

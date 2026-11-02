@@ -86,3 +86,4 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
 - [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](cognitive-load-negatively-predicts-problem-solving.md) — related
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](ps-di-higher-intrinsic-in-scenario-cognitive-load.md) — a narrower finding that bears on this claim
+- [Most students found probability difficult, mainly because of difficulty grasping its fundamental concepts](students-find-probability-difficult-concept-grasp.md) — related

@@ -42,6 +42,7 @@ UC Irvine Extension online courses require instructors to participate actively i
 - [Instructor Presence In Discussions](instructor-presence-in-discussions.md)
 - [Facilitating Discourse (Online)](facilitating-discourse-online.md)
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
+- [Examine learners' attitudes toward CALL and blend synchronous with face-to-face speaking tasks](examine-call-attitudes-blend-synchronous-face-to-face.md)
 
 ## Examples
 -

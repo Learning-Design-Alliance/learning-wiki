@@ -62,3 +62,4 @@ FSM Ever 6 subgroup analysis within the same RCT, run because EEF requires a sep
 - [The dissemination interventions showed no impact on attainment for pupils who had ever been eligible for free school meals](literacy-octopus-no-impact-everfsm.md) — reports the opposite
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
+- [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — reports the opposite

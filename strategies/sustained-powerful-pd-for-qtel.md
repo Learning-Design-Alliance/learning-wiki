@@ -43,6 +43,7 @@ Walqui cautions that schools and districts must give teachers time to explore an
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 - [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
+- [Provide teachers with time, resources and professional development to explore iPads before implementation](teacher-pd-time-for-ipad-implementation.md)
 
 ## Examples
 -

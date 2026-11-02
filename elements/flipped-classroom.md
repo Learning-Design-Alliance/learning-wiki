@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 51 claims (26 for, 20 mixed, 5 against) · 30 studies (16 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 10 of 30 report an effect size · 50 claims rest on one study
+> **Evidence** · 52 claims (27 for, 20 mixed, 5 against) · 31 studies (17 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 31 report an effect size · 51 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -75,6 +75,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Students taught with the flipped classroom strategy scored significantly higher on a self-regulated learning skills scale than traditionally taught students](../claims/fcrs-raises-srls-versus-control.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Blackboard Learn Mashup sources (YouTube, Flickr, SlideShare, PDF portfolios, Word documents) used to deliver out-of-class flipped content"; tests this page's relationship.
 - [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
 - [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](../claims/flipped-learning-significant-writing-gains-nfe-group.md) [+W]
+- [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](../claims/flipped-course-toeic-gain-exceeds-control.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

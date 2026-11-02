@@ -65,3 +65,4 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [A semantic-mapping treatment produced a significantly larger vocabulary size than the control group at post-test in Turkish undergraduate EFL learners](semantic-mapping-treatment-larger-vocabulary-size-posttest.md) — related
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](sms-outperforms-dictionary-delayed-retention.md) — related
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — reports the opposite
+- [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — related

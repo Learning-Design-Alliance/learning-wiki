@@ -48,3 +48,4 @@ Within-group pre-post comparison for the 21 multimedia-taught experimental stude
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](multimedia-package-higher-posttest-attitude-mathematics.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — related
+- [At post-test, the e-learning experimental group significantly outperformed the control group in attitude toward physics](e-learning-outperforms-control-attitude.md) — related

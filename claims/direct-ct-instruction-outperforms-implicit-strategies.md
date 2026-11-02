@@ -76,3 +76,4 @@ This is the review's synthesis of the direct instruction category of its 33 incl
 - [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related
 - [PBLCCS produces better N_Gain than EDI on each critical thinking indicator](pblccs-better-n-gain-each-mct-indicator.md) — related
 - [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related
+- [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](instruction-type-comparison-inconclusive-implicit-slight-edge.md) — reports the opposite

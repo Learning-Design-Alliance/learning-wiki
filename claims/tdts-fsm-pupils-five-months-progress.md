@@ -81,3 +81,5 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [Any English benefit of the summer school extended to FSM-eligible pupils and boys, with no apparent benefit in maths for these groups](future-foundations-english-benefit-boys-fsm.md) — related
 - [Success for All showed some evidence of benefiting pupils eligible for free school meals, particularly at mid-point (g=0.22, p=0.03)](sfa-fsm-subgroup-benefit.md) — related
+- [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — reports the opposite
+- [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — related

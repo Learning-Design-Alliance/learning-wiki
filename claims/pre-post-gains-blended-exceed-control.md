@@ -52,3 +52,5 @@ Descriptive analysis of pre/post means on the 30-item achievement test: blended 
 - [Both groups improved from pretest to posttest, with most experimental students passing the KKM threshold of 60](pretest-posttest-gains-and-kkm-passing.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — related
+- [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](blended-learning-within-group-gain-math-conceptual-understanding.md) — related
+- [Eleventh-grade students taught with the discourse analysis method showed larger pretest-to-posttest gains in textual analysis skill than the traditionally taught control group](discourse-analysis-improves-textual-analysis.md) — a narrower finding that bears on this claim

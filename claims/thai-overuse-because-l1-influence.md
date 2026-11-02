@@ -49,3 +49,4 @@ Corpus analysis of causal DCs (Section 4.2.4, Table 8), where because occurs 314
 - [Hong Kong and Singaporean L2 students underuse discourse connectives overall compared with L1 writers, while Thai students do not differ significantly](hk-sin-l2-underuse-dcs-overall.md) — related
 - [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](l2-overuse-tendency-limited-dc-range.md) — related
 - [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](shared-top-dcs-different-frequencies.md) — related
+- [Learners' overuse and misuse of discourse markers is attributed to first-language translation, and uninstructed learners may overuse DMs believing this makes text more cohesive](dm-misuse-from-l1-translation-and-overuse.md) — a broader claim this one bears on

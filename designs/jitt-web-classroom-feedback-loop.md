@@ -47,7 +47,8 @@ JiTT is a teaching and learning approach that combines traditional in-class inst
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](../claims/jitt-newtons-third-law-question-gains.md) [+W]
 
 ## Related Designs
-- 
+
+- [Ten-phase JiTT lesson sequence for English reading and writing with vocational students](jitt-ten-phase-english-lesson-pattern.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Control group of 12 special education students in a co-teach English class recei
 - [Repeated reading shows no discernible effects on reading fluency for students with learning disabilities](repeated-reading-no-discernible-fluency-effects.md) — related
 - [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md) — related
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](weekly-within-passage-fluency-increases.md) — related
+- [No treatment effects transferred to independent reading: treatment groups performed no better than controls on the transfer passage](no-transfer-to-independent-reading.md) — related

@@ -59,3 +59,4 @@ Quasi-experimental comparison of 40 experimental and 40 control participants aft
 - [Comic reading materials improve EFL reading comprehension more than general texts and pictures](comic-materials-improve-efl-reading-comprehension.md) — related
 - [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](tblt-reading-outperforms-traditional-instruction-iranian-efl.md) — related
 - [EFL learners taught reading comprehension with animation films outperformed traditionally taught controls on a posttest](animation-films-improve-efl-reading-comprehension-posttest.md) — related
+- [Eleventh-grade students taught literature with the discourse analysis method showed larger pretest-to-posttest gains in reading comprehension than the traditionally taught control group](discourse-analysis-improves-reading-comprehension.md) — related

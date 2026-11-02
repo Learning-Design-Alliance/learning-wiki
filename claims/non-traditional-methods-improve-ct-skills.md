@@ -54,3 +54,4 @@ Meta-analysis using random effects model of six CCTST datasets from five studies
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
 - [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](tps-posttest-subscale-significant.md) — a narrower finding that bears on this claim
 - [Students reported their thinking had improved after induction to the critical thinking module](students-perceived-thinking-improvement-after-module.md) — a narrower finding that bears on this claim
+- [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](discourse-analysis-student-reported-thinking-gains.md) — related

@@ -13,7 +13,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (8 for, 3 mixed) · 15 studies (4 causal, 4 quant-synthesis, 3 qualitative, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 16 studies (5 causal, 4 quant-synthesis, 3 qualitative, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 16 report an effect size · 11 claims rest on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
@@ -48,6 +48,9 @@ Group work is the element in which learners work together on a shared task, prod
 - [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](../claims/cultural-diversity-cooperative-task-increases-childrens-creativity.md) [~W]
 - [Strength-based learning groups support educators to create equitable learning environments for economically marginalized students](../claims/strength-based-learning-groups-equitable-environments.md) [+W] — attached 2026-10-24 from Silverman et al. (2025), which proposed "Strength-based learning groups".
 - [Perceived satisfaction correlates strongly and negatively with work imbalance (Gini index), and willingness to collaborate again correlates with group productivity](../claims/satisfaction-gini-correlation.md) [+W]
+- [EFL students writing a collaborative essay in Google Docs produce more words than peers writing the same task with pen and paper](../claims/google-docs-collaborative-essay-higher-word-count.md) [~W] — attached 2026-11-02 from Martínez-Sáez et al. (2018), which proposed "Google Docs telecollaborative collaborative-essay task for EFL undergraduates".
+- [Virtual collaborative writing yields higher clout, emotional tone and function-word scores than face-to-face pen-and-paper collaborative writing](../claims/telecollaborative-writing-higher-clout-tone-function-words.md) [~W] — attached 2026-11-02 from Martínez-Sáez et al. (2018), which proposed "Google Docs telecollaborative collaborative-essay task for EFL undergraduates".
+- [Face-to-face pen-and-paper collaborative writing yields higher analytic, authentic, words-per-sentence and long-word scores than virtual collaborative writing](../claims/pen-paper-collaborative-writing-higher-analytic-authentic.md) [~W] — attached 2026-11-02 from Martínez-Sáez et al. (2018), which proposed "Google Docs telecollaborative collaborative-essay task for EFL undergraduates".
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

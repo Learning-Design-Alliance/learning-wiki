@@ -53,3 +53,4 @@ Paired-sample t-test on the 25 control-group students taught technical vocabular
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related
 - [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — reports the opposite
+- [Traditional teaching also produced a statistically significant pre-to-post gain in scientific thinking in the control group](traditional-teaching-significant-scientific-thinking-gain.md) — related

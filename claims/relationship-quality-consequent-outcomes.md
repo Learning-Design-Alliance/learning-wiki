@@ -50,3 +50,4 @@ The review summarises quantitative research on consequent variables of relations
 - [Same-gender coach-athlete dyads perceive higher relationship quality (closeness, commitment, complementarity) than other-gender dyads](same-gender-dyads-higher-relationship-quality.md) — related
 - Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — related
+- [Athletes and their coach reported in interviews that the PST program improved team cohesion and self-confidence and transferred to life beyond sport](pst-qualitative-athlete-coach-themes.md) — related

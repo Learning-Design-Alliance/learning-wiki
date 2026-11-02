@@ -64,6 +64,7 @@ One-on-one interaction allows instruction to be calibrated precisely to the indi
 - [Check-ins](../principles/check-ins.md) — brief structured conversations that share office hours' relationship-building function at classroom scale
 - Structured peer tutoring — extends the same one-on-one diagnostic help when instructor time is the bottleneck
 - [Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning](cohort-peer-coaching-office-hours-pd-model.md)
+- [Weekly need-based e-mentoring messages via LINE combined with weekly in-class self-evaluations](line-e-mentoring-with-in-class-self-evaluation.md)
 
 ## Examples
 - **Required early-semester interviews** in large introductory STEM courses: each student signs up for a 5–10 minute individual meeting in the first three weeks; instructors report sharply increased voluntary attendance and better name recognition afterward.

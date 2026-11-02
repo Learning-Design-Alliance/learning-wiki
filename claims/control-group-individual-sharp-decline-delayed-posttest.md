@@ -82,3 +82,5 @@ Descriptive analysis of the control group's week-two retention results after con
 - [After traditional supportive education, completely learned students decreased in the remembering and analysis levels of the control group](traditional-supportive-education-level-declines.md) — related
 - [Hierarchy vocabulary exercises produced significantly better one-week word retention than copying exercises, and both groups' scores declined over the week](hierarchy-exercises-better-delayed-vocabulary-retention.md) — related
 - [Text production in text-oriented vocabulary exercises improves short-term (30-minute) retention of new GFL vocabulary](text-production-improves-short-term-vocabulary-retention.md) — related
+- [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related
+- [Vocabulary learned by phonetic association was retained better in the second week than vocabulary learned conventionally](phonetic-association-better-retention-week-two.md) — related

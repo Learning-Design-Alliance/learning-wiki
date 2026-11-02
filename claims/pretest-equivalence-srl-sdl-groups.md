@@ -47,3 +47,4 @@ Pre-test comparisons on 167 students: self-regulated learning gave chi-square = 
 ## Related Claims
 - [The three groups did not differ in prior achievement before the Force and Motion intervention](pretest-homogeneity-writing-groups.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [At the beginning of the experiment the experimental and control groups showed no significant differences in integrative collaboration](no-baseline-differences-integrative-collaboration.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Small randomized controlled trial: 19 treatment and 15 control students screened
 - [Struggling English learners in TRI classrooms significantly outperformed control struggling ELs on spring Word Attack (g = .45)](tri-struggling-els-word-attack-gain.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [The SMT intervention did not produce statistically significant post-test differences on Letter-Word Identification or Passage Comprehension](smt-no-effect-letter-word-passage-comprehension.md) — reports the opposite
+- [Weekly gain scores favored the treatment group throughout the course, rising from the low 40s to the low 60s while control stayed near 30 points](equity-pedagogy-weekly-gain-scores-higher.md) — related

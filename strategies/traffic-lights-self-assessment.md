@@ -44,7 +44,9 @@ One classroom-culture precondition matters here: self and peer assessment work a
 4. Maintain a classroom culture oriented toward incremental ability and learning goals — without it, the color-coding will tend to inflate rather than inform.
 
 ## Related Strategies
+
 - [Rubrics](rubrics.md) — the explicit-criteria tool that makes both the self-assessment and the peer evaluation groups' work reliable rather than an unstructured guess
+- [Agree on clear assessment criteria with students before using self-assessment](self-assessment-clear-criteria-agreement.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (2006). Assessment for learning in the classroom. In J. Gardner (Ed.), *Assessment and learning* (pp. 9-25). Sage.

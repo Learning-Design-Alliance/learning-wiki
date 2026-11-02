@@ -53,3 +53,4 @@ Repeated measures ANOVA in the 61-student experiment; gender favored boys at eve
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
 - [Girls rate the female agent as a significantly better model than boys do](girls-rate-agent-better-model.md) — related
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — related
+- [Both girls and boys achieved pedagogically significant self-esteem gains despite pre-test baseline differences, with the educator's gender showing no effect](self-esteem-gains-both-genders-male-educator.md) — related

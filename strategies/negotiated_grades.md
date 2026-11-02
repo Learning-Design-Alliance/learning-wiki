@@ -63,6 +63,7 @@ Negotiated grades build on the finding that assessment improves learning when st
 - [Contract grading](contract_grading.md) — a pre-negotiated variant where grade bands are agreed at course start
 - [Portfolio assessment](portfolio-assessment.md) — the evidence base that makes grade negotiation concrete
 - [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
+- [Agree on clear assessment criteria with students before using self-assessment](self-assessment-clear-criteria-agreement.md)
 
 ## Examples
 - **Iowa Writers' Workshop-style contract grading** — graduate creative writing courses where students negotiate semester goals and grade expectations with faculty at the outset, then assess against them in end-of-term conferences.

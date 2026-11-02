@@ -52,3 +52,4 @@ Quasi-experiment of 18 third-grade classrooms (392 students) in eight rural sout
 - Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading — related
 - [Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects](circ-comprehension-findings-mixed-across-two-quasi-experiments.md) — related
 - [Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points](reading-mastery-no-discernible-comprehension-adolescents.md) — related
+- [The authors observed that CIRC students gained vocabulary, became more able to identify main ideas and references, and worked in an enjoyable, enthusiastic group climate](circ-observed-vocabulary-and-climate-gains.md) — related

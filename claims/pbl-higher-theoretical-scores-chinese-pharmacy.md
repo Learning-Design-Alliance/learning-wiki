@@ -53,3 +53,4 @@ Meta-analysis of 16 randomized controlled trials (17 outcome reports) in Chinese
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
 - [No difference between PBL and traditional groups in subjective evaluations of pharmacy students](pbl-no-difference-subjective-evaluations.md) — related
 - [Heterogeneity among pooled PBL trials in Chinese pharmacy education is high (I2 = 93%)](pbl-pharmacy-meta-analysis-high-heterogeneity.md) — related
+- [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](meta-analysis-pbl-pharmacy-exam-performance-advantage.md) — related

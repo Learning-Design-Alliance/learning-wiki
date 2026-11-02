@@ -50,3 +50,4 @@ Same quasi-experimental study's ANCOVA on retention scores: "the calculated f-ra
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — a broader claim this one bears on
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](cooperative-learning-higher-math-gain-scores-eighth-standard.md) — related
 - [GSP-taught students retained significantly more geometry learning one month after instruction than traditionally taught students](gsp-dynamic-geometry-higher-retention-one-month.md) — a narrower finding that bears on this claim
+- [LTM-taught students retain chemistry learning significantly better than traditionally taught students one month later](ltm-better-retention-chemistry.md) — a narrower finding that bears on this claim

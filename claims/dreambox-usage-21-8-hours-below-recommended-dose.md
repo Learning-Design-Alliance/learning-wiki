@@ -55,3 +55,4 @@ Descriptive usage data from the Wang and Woodworth (2011) RCT, conducted mid-Oct
 - [Gains were achieved with a relatively small tutoring dose: about 27 sessions averaging 25–45 minutes, roughly 15–19 hours across one school year](tutoring-dose-27-sessions-15-19-hours.md) — related
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
 - [Requiring school-level commitments to technology access in year two roughly quintupled the share of students meeting recommended usage](access-commitments-increased-fidelity-usage-year-two.md) — related
+- [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related

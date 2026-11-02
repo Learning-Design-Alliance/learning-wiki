@@ -55,3 +55,4 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — a narrower finding that bears on this claim
 - [The reviewer argues that the dynamic character of appetites and desires must be considered in any thoroughgoing character-development plan](appetites-desires-character-development.md) — related
 - [Formative reflection led to dropping the group reciprocal-teaching stage from the EDI structure](edi-group-reciprocal-teaching-dropped.md) — related
+- [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](reciprocity-shifted-toward-self-regulation.md) — a narrower finding that bears on this claim

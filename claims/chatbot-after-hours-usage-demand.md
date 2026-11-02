@@ -49,3 +49,4 @@ Observational analysis of chatbot system analytics (Fig. 2, 24-h usage patterns)
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
+- [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related

@@ -68,3 +68,4 @@ Paired-samples t-tests on trimmed speech rate (syllables per minute) for each gr
 - [A 6-week fluency workshop increases EFL learners' cued recall of target multiword expressions significantly more than a general English class](fluency-workshop-increases-cued-recall-multiword-expressions.md) — related
 - [The fluency workshop did not increase use of target multiword expressions in speech significantly more than a general English class](fluency-workshop-mwe-use-in-speech-not-significant.md) — related
 - [Fluency showed a trend toward significance for the treatment group between pre- and post-tests (p=.055), suggesting digital game pressure may push learners to speak faster](pan-fluency-trend-toward-significance.md) — related
+- [The control group showed no significant change in speaking fluency from pre-test to post-test](control-group-no-fluency-change.md) — related

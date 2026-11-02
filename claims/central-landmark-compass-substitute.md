@@ -50,3 +50,4 @@ Post hoc comparison from the fixation heatmap analysis (Supplementary Table 2) i
 - [VGL support reduces distance travelled in wayfinding but not wayfinding response times](vgl-shortens-wayfinding-distance-not-time.md) — related
 - [VGL support speeds up pointing responses for spatial retrieval](vgl-speeds-pointing-responses.md) — related
 - [AI-predicted attention heatmaps and user eye-tracking hotspots both located fixations centrally](ai-predicted-heatmaps-match-eye-tracking-centrality.md) — related
+- [Experimental participants used orientation problem-solving strategies more, including three times more landmarks and four times more going-back-to-starting-point](blindaid-more-problem-solving-strategies-landmarks.md) — related

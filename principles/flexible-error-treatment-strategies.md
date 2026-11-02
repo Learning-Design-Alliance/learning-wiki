@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (19 for, 21 mixed, 1 against) · 31 studies (14 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 31 report an effect size · 37 claims rest on one study
+> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 32 studies (14 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 32 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,8 @@ Claims bearing on the page that have not been read against the model above; each
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](../claims/wcf-alone-insufficient-need-metalinguistic-explanation.md) [+W] — attached 2026-11-01 from Ahmed Ali Saleh Al Ajmi (2015), which proposed "Provide direct, focused written corrective feedback supported by metalinguistic explanation when targeting specific linguistic error categories".
 - [Explicit correction was more effective than implicit or-choice feedback for beginner Iranian EFL learners' production of English tense markers](../claims/explicit-correction-outperforms-or-choice-tense-markers.md) [+W] — attached 2026-11-01 from Somayeh Kazemi Tari (2008), which proposed "Ten-session communicative treatment with immediate oral corrective feedback on target tense markers"; tests this page's relationship.
 - [Accuracy gains from unfocused WCF during revision do not extend to a new piece of writing after a one-month interval at the elementary level](../claims/unfocused-wcf-gains-do-not-extend-to-delayed-posttest.md) [~W] — attached 2026-11-02 from Mobin Khanlarzadeh (2016), which proposed "Treat WCF as one option among several, with teachers making professional decisions based on context".
+- [Focused written corrective feedback showed positive effect sizes in all cases, while comprehensive feedback showed negative effects for direct CF and mixed results for indirect CF](../claims/focused-feedback-positive-comprehensive-negative.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
+- [In the Sheen et al. (2009) study, focused direct CF produced a large positive effect while unfocused (comprehensive) direct CF produced a large negative effect](../claims/sheen-focused-versus-unfocused-dcf-mixed.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -56,3 +56,4 @@ Null finding from the same randomized evaluation of 29 schools using acceleromet
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — related
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](playworks-girls-recess-activity-types.md) — related
+- [The motor skill intervention does not significantly change accelerometer-measured physical activity levels in young children with ASD](motor-intervention-no-pa-change-asd.md) — related

@@ -66,6 +66,7 @@ The matching mechanic forces retrieval of each word's location and identity, and
 - Choral Reading of Songs — builds the shared context from which game sentences are drawn
 - Word Wall Routines — provides the reference display that supports the game's target words
 - [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
+- [Supplementary games and practice forms to extend vocabulary practice after the core game](supplementary-games-and-practice-forms.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card flip is a retrieval attempt; the game is structured practice in game form

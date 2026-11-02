@@ -56,3 +56,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](pbl-higher-satisfaction-interest.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related
+- [A 15-week small-group PBL model in clinical practice sites significantly increased 5th-year pharmacy students' self-assessed competencies on all 17 evaluated items (P < 0.05)](pbl-clinical-model-increased-pharmacy-competencies-all-items.md) — related

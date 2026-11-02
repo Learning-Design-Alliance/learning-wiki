@@ -54,3 +54,4 @@ Qualitative content analysis (Table 5) of answers to why pre-service teachers ch
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related
 - [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](teacher-themes-webquest-benefits-math.md) — related
+- [Pre-service teachers' teaching-practice problems cluster into planning, student participation, teaching strategies, and classroom management themes](pst-practice-problems-four-themes.md) — related

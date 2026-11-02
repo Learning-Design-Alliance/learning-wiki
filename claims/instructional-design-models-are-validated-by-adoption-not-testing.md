@@ -81,3 +81,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it — related
 - [Empirical research on university teachers' habitual design practices is sparse; interview studies show design thought shaped by beliefs and pragmatic constraints](sparse-research-teacher-design-practices.md) — related
 - Reporting of the validity source consequences is largely absent from identified assessment studies — a narrower finding that bears on this claim
+- [The article concludes Relevance Theory-based reading teaching has advantages over traditional teaching but leaves evaluation questions open](relevance-theory-reading-conclusion-advantages.md) — related

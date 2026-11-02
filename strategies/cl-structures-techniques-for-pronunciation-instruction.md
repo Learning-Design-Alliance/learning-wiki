@@ -53,6 +53,7 @@ The article describes concrete techniques for delivering phonetic and phonologic
 
 - [Collaborative Learning](collaborative-learning.md)
 - [Use team-produced learner-generated materials built with user-friendly authoring tools as the in-class inquiry activity in a flipped language class](team-learner-generated-materials-strategy.md)
+- [Use a needs-analysis-informed mix of games, role-play, group work, and student-made materials to teach a foreign-language unit](needs-analysis-informed-active-learning-activity-mix.md)
 
 ## Examples
 -

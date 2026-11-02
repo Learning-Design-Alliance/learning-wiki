@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (94 show a difference, 18 mixed, 7 no difference) · 98 studies (32 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 98 report an effect size · 119 claims rest on one study
+> **Evidence** · 121 claims (96 show a difference, 18 mixed, 7 no difference) · 100 studies (34 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 100 report an effect size · 121 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -161,6 +161,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Teacher candidates completing the Family Collaboration Project scored significantly higher on the joining (collaboration) subscale of the PTRS than comparison peers](../claims/family-collaboration-project-higher-ptrs-joining.md) [+M] — instruction changes it
 - [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](../claims/journal-writing-builds-rapport-and-cooperation.md) [+W] — instruction changes it
 - [Teacher-assessed group working behavior was rated at a high level and student self-assessment at a high to highest level under Learning Together](../claims/lt-group-working-behavior-high-ratings.md) [+M] — instruction changes it
+- [Students reported that case-based learning positively affected socialization, communication and cooperative working](../claims/cbl-social-impact-student-opinions.md) [+M] — instruction changes it
+- [Working in a team changed significantly in the experimental groups, with learners who worked only individually within the team dropping sharply](../claims/working-in-team-changed-experimental-groups.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

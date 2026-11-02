@@ -48,3 +48,4 @@ Qualitative component: two semi-structured interview sessions with 5 randomly se
 - [Patients experience healthcare professionals as competent in digital counselling when they support self-management through tailored guidance and disease-specific information](patients-experience-hcp-competence-self-management-support.md) — related
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](sbar-simulation-divergent-other-outcomes.md) — related
 - [Students reported their thinking had improved after induction to the critical thinking module](students-perceived-thinking-improvement-after-module.md) — related
+- [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](discourse-analysis-student-reported-thinking-gains.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 38 studies (12 causal, 9 review, 9 design, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 38 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (19 for, 12 mixed, 1 against) · 39 studies (13 causal, 9 review, 9 design, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 39 report an effect size · 28 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -91,6 +91,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](../claims/elearning-usability-evaluations-all-positive.md) [+W]
 - [93% of students rated usability and control as important to their learning](../claims/usability-and-control-rated-important-by-93-percent.md) [+W]
 - [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](../claims/eduxr-reviews-reveal-interface-motion-sickness-affordances.md) [~W]
+- [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](../claims/mobile-app-resolved-vt-upload-difficulties.md) [~W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

@@ -47,3 +47,4 @@ The report's background synthesis, citing Kidron & Lindsay (2014), Lauer et al. 
 ## Related Claims
 - [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](prior-meta-analyses-small-positive-effects.md) — related
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — related
+- [Prior smaller studies of the QfL learner response strategy reported positive effects on maths and grammar](qfl-prior-studies-positive-effects.md) — related

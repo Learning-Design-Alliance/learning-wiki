@@ -50,3 +50,4 @@ Ward-method cluster analysis on the four pre-questionnaire scales (TSaff, TScog,
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](three-motivational-profiles-pe-cluster-analysis.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
+- [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related

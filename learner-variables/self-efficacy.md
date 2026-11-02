@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 235 claims (177 show a difference, 32 mixed, 26 no difference) · 189 studies (59 associational, 53 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 189 report an effect size · 231 claims rest on one study
+> **Evidence** · 237 claims (178 show a difference, 33 mixed, 26 no difference) · 191 studies (59 associational, 55 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 191 report an effect size · 233 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -266,6 +266,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers perceived the Teach-First Approach as better supporting less confident and lower-achieving students to be successful](../claims/teach-first-supports-lower-achievers.md) [+M] — an instructional effect differs with it
 - [The sports education model raises students' perceived competence in physical education more than the direct teaching model](../claims/sem-raises-perceived-competence-over-direct-teaching.md) [+M] — instruction changes it
 - [Following school-wide Double Check professional development, all teachers reported improved culturally responsive teaching self-efficacy, multicultural efficacy, behavior management self-efficacy, and lower stress](../claims/double-check-pd-improves-teacher-efficacy-prepost.md) [+M] — instruction changes it
+- [Self-assessed language competence increased in both groups, but perceived progress diverged among low-level students in the contrast group](../claims/self-assessed-competence-increased-both-groups.md) [~W] — instruction changes it
+- [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](../claims/debate-larger-communicative-competence-gain.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -56,3 +56,4 @@ K-means clustering on Phase 0 LMS trace data from 94 students, using the Ye and 
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
 - [The three LMS-derived engagement states (Active, Average, Disengaged) differed significantly on all eight LMS activity indicators](three-engagement-states-differ-lms-indicators.md) — related
 - [Four distinct LMS interaction patterns with different final marks were found among 140 undergraduates in an authentic Moodle course.](four-lms-interaction-patterns-different-final-marks.md) — related
+- [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related

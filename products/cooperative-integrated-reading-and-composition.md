@@ -22,7 +22,7 @@ sources:
 # Cooperative Integrated Reading and Composition®
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 8 studies (6 causal, 2 quant-synthesis), `q2`–`q3` · 3 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 9 studies (7 causal, 2 quant-synthesis), `q2`–`q3` · 3 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 A grades 2–6 cooperative reading, comprehension, language arts, and writing curriculum developed by Robert Slavin and Nancy Madden at Johns Hopkins University and distributed by the Success for All Foundation.
@@ -31,6 +31,7 @@ A grades 2–6 cooperative reading, comprehension, language arts, and writing cu
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Cooperative Integrated Reading and Composition® (CIRC) program**: CIRC is a reading and writing program for students in grades 2–6, developed in 1983 by Robert Slavin and Nancy Madden at Johns Hopkins University and distributed by the Success for All Foundation. It has "three principal elements: story-related activities, direct instruction in reading comprehension, and integrated language arts/writing." Daily 90-minute lessons have mixed-ability students work in pairs and cooperative teams of four to read to each other, predict story endings, summarize, clarify vocabulary, reread for fluency, and draft, revise, and edit one another's writing, with team-based rewards for motivation. A Spanish version exists for grades 2–5, and the program costs approximatel (Cooperative Integrated Reading and Composition (CIRC))
 - **Cooperative Integrated Reading and Composition® (CIRC) reading and writing program**: CIRC is a reading and writing program for students in grades 2 through 6 with three principal elements: "story-related activities, direct instruction in reading comprehension, and integrated language arts/ writing". Daily 90-minute lessons have mixed-ability teams reading, discussing, rereading for fluency, and working through drafting, revising, and editing, with team-based rewards for motivation. A Spanish version is available for grades 2 through 5, and the program is distributed by the Success for All Foundation as part of the Success for All model or stand-alone. (Cooperative Integrated Reading et al. (2010))
+- **Cooperative Integrated Reading and Composition (CIRC): a cooperative learning model for reading and writing**: CIRC is a cooperative learning program developed by Slavin and associates in the 1980s for reading and writing, in which "students are assigned to four–member heterogeneous learning teams". After a teacher-led story lesson, teams work through prescribed activities including partner reading, treasure-hunt activities, summarization, vocabulary work and composition writing. The article describes three principal elements: direct instruction in reading comprehension, Treasure Hunt activities, and integrated language arts and writing, with activities following teacher presentation, team practice, independent practice, peer pre-assessment, additional practice and test. (Erlidawati et al. (2018))
 
 ### Claims
 - [The cooperative learning component's added benefit over direct instruction alone with CIRC materials was not statistically significant on main idea identification](../claims/circ-cooperative-component-benefit-unconfirmed.md) [~W]
@@ -43,6 +44,7 @@ A grades 2–6 cooperative reading, comprehension, language arts, and writing cu
 - [Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects](../claims/circ-comprehension-findings-mixed-across-two-quasi-experiments.md) [~W] — (also cited [+W])
 - [WWC finds CIRC has potentially positive effects on general literacy achievement for adolescent learners (average improvement index +2 percentile points)](../claims/circ-potentially-positive-general-literacy-achievement.md) [+W]
 - [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](../claims/circ-potentially-positive-comprehension-adolescent-learners.md) [+W]
+- [Third-semester English students taught with CIRC achieved significantly higher reading comprehension post-test scores than students taught with the traditional method](../claims/circ-beats-traditional-method-reading-comprehension.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -50,9 +52,9 @@ A grades 2–6 cooperative reading, comprehension, language arts, and writing cu
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2012, June). Beginning Reading intervention report: Cooperative Integrated Reading and Composition®. https://ies.ed.gov/ncee/wwc/InterventionReport/109
 - Cooperative Integrated Reading and Composition®. (2010). WWC Intervention Report, Adolescent Literacy. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/111
-
 <!-- merged 2026-10-10 from elements/circ-program-element ("Cooperative Integrated Reading and Composition® (CIRC) program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Cooperative Integrated Reading and Composition®. (2010). WWC Intervention Report, Adolescent Literacy. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/111
+- Erlidawati & Syarfuni. (2018). The Effect of Cooperative Integrated Reading and Composition on Reading Comprehension of IAIN Lhokseumawe, Indonesia. Advances in Language and Literary Studies, 9(4). https://doi.org/10.7575/aiac.alls.v.9n.4p.153
 
 # Cooperative Integrated Reading and Composition® (CIRC) program
 

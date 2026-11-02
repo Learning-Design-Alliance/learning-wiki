@@ -57,3 +57,4 @@ Delayed post-tests (weeks 7-11) measured retention five weeks after each post-te
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [Length of exposure to CALL (15 vs 30 minutes) shows no significant difference in immediate grammar gain but favours the longer-exposure group on the delayed post-test](call-exposure-length-delayed-advantage.md) — related
 - [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related
+- [The structural group retained significantly more vocabulary than the contextual group on the delayed retention test, except among high achievers](retention-test-structural-advantage-except-high-achievers.md) — related

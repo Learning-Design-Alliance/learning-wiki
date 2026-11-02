@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (116 show a difference, 27 mixed, 14 no difference) · 81 studies (34 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 81 report an effect size · 155 claims rest on one study
+> **Evidence** · 158 claims (117 show a difference, 27 mixed, 14 no difference) · 82 studies (35 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 82 report an effect size · 156 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -192,6 +192,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](../claims/model-pretest-posttest-gains-creative-thinking-achievement.md) [+M] — instruction changes it
 - [Phase 1 needs assessment found mathematics teaching concentrated on traditional content-based approaches and did not foster creative thinking](../claims/phase1-teachers-lack-creative-thinking-strategies.md) [+M] — instruction changes it
 - [The authors interpret the traditional six-step approach as unable to nurture creative thinking, in contrast to the experimental model](../claims/traditional-approach-limits-creative-thinking.md) [+W] — instruction changes it
+- [Creative action increased in both experimental groups, with learners working creatively only fragmentally rising sharply](../claims/creative-action-increased-experimental-groups.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

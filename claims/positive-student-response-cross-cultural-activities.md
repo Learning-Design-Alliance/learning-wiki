@@ -57,3 +57,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Experimental-group participants responded positively to the Digital Kitchen session: all reported enjoying it and learning new words, and most could follow the instructions](digital-kitchen-positive-participant-feedback.md) — related
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
 - [Students valued experiential learning most about how they learned, citing community interviews and intercultural teamwork as powerful learning moments](experiential-learning-valued-most-sis.md) — related
+- [Most intervention participants responded favorably to the citizen science project, with being outdoors in nature the most-cited enjoyment](qualitative-favorable-citizen-science-responses.md) — related

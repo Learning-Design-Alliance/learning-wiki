@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-02
 sources:
   - id: ranjbar-2012
     resource: "https://doi.org/10.5539/ies.v5n4p243"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's writing production fluency improved significantly from pretest to posttest after a semester of lexical bundles instruction. [→ Ranjbar 2012](#ranjbar-2012)
@@ -52,3 +53,4 @@ Paired-sample t-test on the experimental group's pretest and posttest scores in 
 - [Experimental group outperformed control group on paragraph writing fluency at posttest](lexical-bundles-posttest-group-difference.md) — related
 - [Processing instruction significantly improves Iranian EFL learners' writing ability from pre-test to post-test](pi-significant-pre-post-writing-gain-iranian-efl.md) — related
 - [Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](blended-learning-improves-resumptive-pronoun-writing.md) — related
+- [Lexical chunks instruction significantly improved the speaking fluency of Iranian EFL intermediate learners compared with a control group](lexical-chunks-instruction-improves-efl-speaking-fluency.md) — related

@@ -55,3 +55,4 @@ Three-way ANOVA with one repeated measure on pretest/posttest critical thinking 
 - [Guided inquiry-based worksheets in plant ecology produce significantly higher post-test critical and creative thinking scores than conventional worksheets](guided-inquiry-worksheets-critical-creative-thinking.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [The effect of the integrated approach on critical thinking differed between the two universities (three-way interaction)](integrated-approach-critical-thinking-school-interaction.md) — related
+- [The control group taught with the conventional method showed no changes in the learning environment on the integrative collaboration criteria](control-group-no-changes-conventional-teaching.md) — related

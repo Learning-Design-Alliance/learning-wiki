@@ -49,3 +49,4 @@ True experimental pre-test/post-test control-group study with 32 eleventh-grade 
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related
 - [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related
 - [Audio-only listening instruction produced no statistically significant pre-to-post change in listening comprehension in the control group](audio-only-instruction-no-significant-gain.md) — reports the opposite
+- [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related

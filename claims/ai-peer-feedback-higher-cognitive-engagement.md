@@ -58,3 +58,4 @@ One-way ANCOVA on posttest cognitive engagement with pretest covariate in the qu
 - [AI-enabled EFL teaching maps onto all three domains of Bloom's Taxonomy — cognitive, affective, and behavioral — per the review's analysis](ai-efl-blooms-taxonomy-mapping.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](self-assessment-improves-efl-self-efficacy.md) — related
+- [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related

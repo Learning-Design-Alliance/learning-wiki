@@ -48,3 +48,4 @@ Randomized pre-test/post-test control group experiment with N = 18 second-year m
 ## Related Claims
 - [Item-level analysis attributes the experimental group's gains specifically to the target polyrhythmic structures (3:2, 4:3, 8:3, 5:4, 3:5)](item-level-gains-target-polyrhythms.md) — a narrower finding that bears on this claim
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related
+- [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](between-group-speed-difference-post-training.md) — related

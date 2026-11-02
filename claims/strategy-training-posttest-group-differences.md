@@ -70,3 +70,4 @@ Posttest subjective (summarizing) test: experimental mean 17.392 (SD 3.342) vs c
 - [Students trained with both backward worked examples and backward problem solving significantly outperformed control and BWE-only students on posttest problem scores](bwe-bps-training-improves-posttest-problem-scores.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Post-test scores for knowledge, understanding and application were significantly higher in the mind-mapping group than the control group](mind-mapping-english-posttest-significant.md) — related
+- [Students taught with Relevance Theory applications reported reading more quickly and understanding more adequately](relevance-theory-student-reported-reading-gains.md) — related

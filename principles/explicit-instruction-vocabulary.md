@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (33 for, 10 mixed, 3 against) · 51 studies (23 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 51 report an effect size · 36 claims rest on one study
+> **Evidence** · 49 claims (35 for, 11 mixed, 3 against) · 53 studies (25 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 53 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Corpus-based instruction using COCA concordance lines improved EFL students' verb-noun collocation recognition more than traditional instruction](../claims/corpus-based-activities-improve-verb-noun-collocation-learning.md) [+W] — attached 2026-11-02 from Uçar et al. (2015), which proposed "Use corpus-based concordance activities to teach verb-noun collocations in EFL classes".
 - [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+W] — attached 2026-11-02 from Coyne et al. (2019), which proposed "Extended vocabulary instruction: high-utility words, student-friendly definitions, multiple exposures, and deep processing"; tests this page's relationship.
 - [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](../claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md) [+W] — attached 2026-11-02 from Lin et al. (2013), which proposed "Use hierarchy vocabulary exercises rather than copying exercises after explicit vocabulary instruction"; tests this page's relationship.
+- [Explicit definitions drove the largest definition-recall gains: definition-trained groups recalled 62–63% of meanings (ds > 2) versus 36% for strategy-trained students (d = 0.95)](../claims/explicit-definitions-largest-definition-recall-gains.md) [+W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
+- [No treatment effects transferred to independent reading: treatment groups performed no better than controls on the transfer passage](../claims/no-transfer-to-independent-reading.md) [~W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -180,6 +182,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Large positive effect on not-standardized language/comprehension measures (mean ES = 1.03) rests on only six studies, so confidence is limited.](../claims/tier2-k3-not-standardized-language-es-1-03-six-studies.md) [~W]
 - [The standalone intervention significantly improved grade 2 FRA Sentence Comprehension only among cohort 1 students with a low vocabulary baseline (0.38 standard deviation)](../claims/grade2-sentence-comprehension-low-vocabulary-cohort1.md) [~W]
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
+- [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](../claims/structural-method-outperforms-contextual-posttest-vocabulary.md) [+W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

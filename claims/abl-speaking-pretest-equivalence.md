@@ -52,3 +52,4 @@ Pre-test check in the equivalent group design: the two groups of 25 were formed 
 - [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — related
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
 - [Both groups started with similar pre-test skill levels, with visibly low listening and speaking performance](a2-groups-similar-low-pretest-listening-speaking.md) — related
+- [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related

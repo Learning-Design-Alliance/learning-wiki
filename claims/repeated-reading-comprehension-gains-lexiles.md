@@ -71,3 +71,4 @@ Author's comparison of SRI lexile gains between the small-group treatment class 
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — related
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](weekly-within-passage-fluency-increases.md) — related
+- [An overwhelming majority (82 percent) of students who used iPads as e-readers would recommend them, citing e-reader features such as adjustable font, dictionary and pronunciation of unknown text](students-recommend-ipad-ereaders.md) — related

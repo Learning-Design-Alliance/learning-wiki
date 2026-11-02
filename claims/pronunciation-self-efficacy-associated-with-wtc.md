@@ -69,3 +69,4 @@ Direct path estimated in the same CB-SEM path analysis with bias-corrected boots
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
 - [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](motivation-associated-better-pronunciation-outcomes.md) — related
 - [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](anxiety-competence-wtc-correlation.md) — related
+- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](debate-and-pi-increase-esl-wtc.md) — related
