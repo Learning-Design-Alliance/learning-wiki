@@ -6,14 +6,14 @@ description: Encourages learners to apply new knowledge or skills through struct
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: "process:article-ingest"
+  at: 2026-11-02
 ---
 
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (33 for, 14 mixed, 5 against) · 64 studies (29 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 64 report an effect size · 39 claims rest on one study
+> **Evidence** · 53 claims (33 for, 15 mixed, 5 against) · 65 studies (30 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 14 of 65 report an effect size · 40 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -64,6 +64,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~W]
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](../claims/spaced-repetition-supplement-triples-vocabulary-retention.md) [+M]
 - [Interleaving Improves Discrimination](../claims/interleaving-improves-discrimination.md) [+S]
+- [Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure](../claims/extra-massed-math-practice-no-test-benefit.md) [~W]
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
 - [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+M]
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
@@ -138,7 +139,7 @@ Practice is one of the most consistently supported instructional elements: activ
 ### Blocked or mixed practice?
 - **Default:** mix confusable problem types or categories in practice once each has been introduced; interleaving helped learners tell categories apart and pick the right strategy, and shuffled mathematics practice beat blocked practice on a delayed test despite worse performance during practice — [Interleaving Improves Discrimination](../claims/interleaving-improves-discrimination.md) [+S]
 - **Changes when:** the material is word-based categories, or categories that are easy to tell apart → the benefit shrinks or reverses (overall g = 0.42; paintings 0.67, mathematics 0.34, word categories −0.39) — [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
-- **Tested with:** perceptual category learning (paintings, photographs) and mathematics practice; the claim pages do not record the learners' ages.
+- **Tested with:** perceptual category learning (paintings, photographs) and mathematics practice, including undergraduates learning volume formulas in a laboratory (Rohrer & Taylor 2007: 63% vs. 20% one week later, n = 18); the other claim pages do not record the learners' ages.
 - **Not settled:** how much blocked exposure should come first; the claims' Discussion sections advise it, but none of their evidence tests it. No claim tests interleaving of L2 grammar or clinical scenarios.
 
 ### Examples first or problems first, and when to fade?
@@ -159,6 +160,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - **Changes when:** the course is self-paced → mastery programmes may add time on task and often lowered completion rates in self-paced college classes — [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [~M]
 - **Changes when:** the domain lacks well-defined tasks and fast feedback → accumulated deliberate practice explained 18–26% of performance variance in games, music and sports but 4% in education and under 1% in professions — [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [~M]
 - **Changes when:** judging dose by minutes per session → in one ASR pronunciation study practice frequency and session length showed no observable difference, but across ASR studies total programme length did (1–4 weeks g = 0.07, 5–8 weeks g = 1.01, 9 weeks or more g = 0.72) — [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](../claims/no-dose-response-asr-practice-time.md) [~M]
+- **Changes when:** the extra practice is more problems of the same kind worked straight after the learner can solve them → in one experiment, doubling such problems in one session from two to four did not raise one-week test scores (49% vs. 46%), while splitting the same four over two sessions did (74%) — [Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure](../claims/extra-massed-math-practice-no-test-benefit.md) [~W]
 - **Tested with:** medical trainees on procedural skills (simulation), college, high-school and upper-elementary students (mastery), ESL/EFL learners using ASR, Korean English learners (dose).
 - **Not settled:** a minimum daily dose for any of these settings; no claim here gives one.
 

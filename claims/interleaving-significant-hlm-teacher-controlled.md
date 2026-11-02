@@ -5,17 +5,18 @@ description: The interleaving effect on delayed test scores remained significant
 id: interleaving-significant-hlm-teacher-controlled
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-01
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: moderate
-newest_evidence: 2019
+newest_evidence: 2020
 sources:
   - id: doug-rohrer-2019
-    resource: "https://osf.io/pfeg4/"
-    title: "Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/"
-    author: Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung
-    q: 3
+    resource: "https://doi.org/10.1037/edu0000367"
+    title: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)"
+    author: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N."
+    q: 4
     i: "?"
+    n: 787 students in 54 classes
     kind: causal
     rigour: 3
 ---
@@ -23,20 +24,22 @@ sources:
 # The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r3` · `q4` · n=787 students in 54 classes
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A two-level random-intercept model found a significant effect of interleaving (p < .001) controlling for teacher effects. [→ Doug Rohrer 2019](#doug-rohrer-2019)
-`q3 i?` The teacher-by-condition interaction was not statistically significant (p > .05). [→ Doug Rohrer 2019](#doug-rohrer-2019)
+`q4 i?` A two-level random-intercept model found a significant effect of interleaving (p < .001) controlling for teacher effects. [→ Doug Rohrer 2019](#doug-rohrer-2019)
+`q4 i?` The teacher-by-condition interaction was not statistically significant (p > .05). [→ Doug Rohrer 2019](#doug-rohrer-2019)
 
 ## Evidence
 
 ### Doug Rohrer 2019
 
-Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/
+Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)
 
-`q3 · i?` · `causal · r3`
+`q4 · pre-registered cluster randomised trial` · `i? · no effect size printed for this model` · `n=787 students in 54 classes` · `causal · r3`
+
+<!-- deprecated 2026-11-02 (recoded q4: the article reports a pre-registered cluster randomised trial): `q3 · i?` · `causal · r3` -->
 
 Multilevel modeling analysis fitting a two-level model (students within classes) with HLM using REML; the class model included a condition dummy and 14 teacher dummies. "we found a significant effect of interleaving (p < .001)"; no effect size printed for this model.
 
