@@ -12,3 +12,6 @@ Evidence filled from Crossref-verified sources (gap-fill)
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+### 2026-11-02 · ingest · agent:article-ingest
+[Parental involvement in middle school: A meta-analytic assessment of the strategies that promote achievement, doi:10.1037/a0015362] — evidence entry checked against the full article and extended
