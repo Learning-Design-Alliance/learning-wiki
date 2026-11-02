@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (17 for, 18 mixed, 2 against) · 49 studies (23 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 49 report an effect size · 29 claims rest on one study
+> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 50 studies (24 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 50 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -157,6 +157,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Topics treated explicitly produced large knowledge gains, while sketchily or indirectly treated topics were not learned by most reservists](../claims/explicit-treatment-large-gains-sketchy-not-learned.md) [+W]
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](../claims/teachers-fail-to-activate-prior-knowledge.md) [~W]
+- [Instruction with the explanation assisted REACT strategy significantly eliminated some alternative conceptions about impulse, momentum and collisions](../claims/react-explanation-eliminates-some-conceptions.md) [+W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

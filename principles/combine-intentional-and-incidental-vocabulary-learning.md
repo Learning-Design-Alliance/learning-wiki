@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 19 studies (7 quant-synthesis, 6 causal, 5 review, 1 associational), `q2`–`q3` · 3 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (16 for, 11 mixed, 2 against) · 20 studies (7 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 3 of 20 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - [Extensive reading benefits vocabulary learning across all age groups, with the largest effect for children (d = 5.18), though most subgroup estimates rest on very few studies](../claims/extensive-reading-vocabulary-across-age-groups.md) [~W]
 - [Extensive reading has a very large positive effect on English vocabulary learning in between-group comparisons (d = 1.32)](../claims/extensive-reading-large-effect-vocabulary-group-contrasts.md) [~W]
 - [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
+- [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
 
 ## Related Principles
 - 
@@ -152,9 +153,11 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — which words to remove from a text or task so that it can be read at all.
 
 ## Examples
--
+
 - **Pre-teach, read, keep**: 3–5 key words taught before a glossed graded reader chapter, then learners keep and use 3 words they met.
 - **App-based extensive reading**: graded stories with tap-to-see glosses, saved words returned on a spaced schedule.
+- [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](../strategies/explicit-vocabulary-instruction-intentional-environment-recipe.md)
+- [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 
 ## Key Sources
 - Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957

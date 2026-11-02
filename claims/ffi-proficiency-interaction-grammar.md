@@ -53,3 +53,4 @@ Two-way ANOVA interaction term (PL*Groups) on posttest grammar scores of 110 lea
 - [Grammatical complexity and L2 proficiency interact: complex features benefit more from input at low proficiency, while simple features benefit more from output at high proficiency](complexity-proficiency-interaction-ffi.md) — related
 - [L1 transfer may moderate FFI effectiveness: features similar to Persian benefit more from input, while disparate features benefit more from output](l1-transfer-moderates-ffi-effectiveness.md) — related
 - [Proactive intensive FFI significantly improves the grammatical knowledge of both intermediate and advanced Iranian EFL learners](proactive-intensive-ffi-improves-grammar-intermediate-advanced.md) — related
+- [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related

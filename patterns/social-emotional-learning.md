@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (33 for, 14 mixed, 1 against) · 60 studies (18 causal, 17 review, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 19 of 60 report an effect size · 34 claims rest on one study
+> **Evidence** · 50 claims (34 for, 15 mixed, 1 against) · 61 studies (18 causal, 18 review, 16 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 20 of 61 report an effect size · 36 claims rest on one study
 
 ## Description and scope
 
@@ -175,6 +175,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](../claims/sel-meta-analyses-significant-positive-effects.md) [+M]
 - [On-treatment fidelity analysis found low-fidelity schools improved outcomes relative to non-implementers, but the pattern was inconsistent across higher fidelity groups](../claims/quest-fidelity-rating-inconsistent-outcome-pattern.md) [~W]
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](../claims/sci-a-fidelity-exceeds-bau-instruction.md) [+W]
+- [In the FSN elementary efficacy RCT (Walker et al., 2009), effect sizes ranged from 0.44 to 0.87 with all intervention-control differences significant](../claims/fsn-rct1-efficacy-effect-sizes.md) [+W]
+- [FSN's impact was less robust when delivered by school personnel than by research staff](../claims/fsn-efficacy-versus-effectiveness-delivery.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

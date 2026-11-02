@@ -53,3 +53,4 @@ The Key Findings list includes this higher-order questioning practice among thos
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension](word-defining-during-after-reading-related-to-growth.md) — related
 - [The experimental class outperformed the control class on five of six critical thinking indicators, but the control class scored higher on asking and answering questions that require a reason](laps-heuristic-indicator-level-critical-thinking-pattern.md) — related
+- [A 40-hour critical thinking workshop intervention significantly increases educators' use of higher-order questions compared with a control group](ct-workshop-increases-higher-order-questions.md) — a narrower finding that bears on this claim

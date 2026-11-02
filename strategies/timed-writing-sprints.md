@@ -66,6 +66,7 @@ Sprints work by reducing the working-memory load of composing: planning, transla
 - [3-2-1 reflection](3-2-1_reflection.md) — lightweight debrief structure after a sprint
 - [Achievable micro-goals](achievable_micro-goals.md) — sprint goals work best when framed as small, completable targets
 - [Use freewriting as a private, ungraded warm-up to unlock ideas and release tension](freewriting-private-ungraded-warmup.md)
+- [Run a collaborative writing session with teacher instruction followed by timed pair writing on a nominated topic](collaborative-writing-session-structure.md)
 
 ## Examples
 - **University writing centers and dissertation boot camps** (e.g., the programs popularized by the National Center for Developmental Education and by "Shut Up and Write" groups, https://www.shutupandwrite.com) use repeated 25-minute sprints with breaks to build sustained drafting output among graduate students.

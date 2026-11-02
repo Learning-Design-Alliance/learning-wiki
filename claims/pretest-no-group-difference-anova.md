@@ -46,3 +46,4 @@ One-way ANOVA on pretest scores of the three intact-class groups in the quasi-ex
 
 ## Related Claims
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — possibly the same claim (merge candidate)
+- [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related

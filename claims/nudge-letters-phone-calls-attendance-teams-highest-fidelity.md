@@ -67,3 +67,4 @@ Same descriptive fidelity analysis (figure 1): mentorship programs had the lowes
 ## Related Claims
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related
 - [Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates](secondary-schools-more-attendance-texting-grade-configuration.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

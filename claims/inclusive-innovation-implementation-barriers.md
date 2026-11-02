@@ -73,3 +73,4 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
+- [Where schools implemented changes after engaging with the interventions, this occurred through in-school collaboration, further enquiry, trying out and embedding approaches, often driven by a research champion](implementation-mechanisms-evidence-based-change.md) — related

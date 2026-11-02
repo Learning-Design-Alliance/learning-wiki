@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion section, not a tested result: they off
 - [The authors interpret the null movement effect as possibly due to experimenter-controlled video pacing obstructing children's memory encoding](experimenter-paced-segmentation-may-obstruct-encoding.md) — related
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related
 - [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
+- [The study's findings are limited to female Iranian pre-university students at one public school, with psychological factors unexamined](vfc-study-scope-limitations.md) — related

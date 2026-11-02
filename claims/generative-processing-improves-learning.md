@@ -195,3 +195,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Integrative reading prompts improve the quantity of multiple document integration compared to detailed prompts](integrative-prompts-improve-quantity-of-integration.md) — a narrower finding that bears on this claim
 - [Applying CTML to authentic online instruction exposes gaps concerning working memory duration, retrieval, organization, and affective outcomes](ctml-research-gaps-from-practice.md) — related
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related
+- [Prior studies reported that self-explanation supported by worked examples was more effective than the strategy alone and improved programming code writing and debugging](prior-self-explanation-worked-examples-evidence.md) — a narrower finding that bears on this claim

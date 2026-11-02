@@ -52,3 +52,4 @@ Cluster randomized controlled trial rated Meets WWC Group Design Standards Witho
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](building-blocks-outperformed-pre-k-mathematics-head-to-head.md) — related
 - [In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes](building-blocks-2007-geometry-significant-number-null.md) — related
+- [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](building-blocks-cai-improves-proximal-numeracy-kindergarten.md) — related

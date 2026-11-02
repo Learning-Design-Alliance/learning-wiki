@@ -52,3 +52,4 @@ Conclusion section of the quasi-experiment (n=30 per group), consistent with the
 - [Task planning with mind maps raises post-test self-regulation strategy scores of pre-service teachers relative to a control group, except for rehearsal](mind-map-planning-improves-srl-strategies-preservice-teachers.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
+- [Cooperative learning raised expectancy-component motivation (control of learning beliefs, self-efficacy for learning and performance) more than lecture-based teaching](cooperative-learning-expectancy-components-motivation.md) — related

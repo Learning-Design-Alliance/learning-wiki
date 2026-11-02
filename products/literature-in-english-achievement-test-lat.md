@@ -25,7 +25,8 @@ A 35-item four-option objective achievement test developed by Mbah to assess sen
 - [Prior knowledge of topics and instructional objectives before instruction raises Literature-in-English achievement more than conventional teaching](../claims/prior-objectives-raise-literature-achievement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Academic Performance Tests in English Language (ATEL)](academic-performance-tests-in-english-language-atel.md)
 
 ## Key Sources
 - Mbah, B. A. (2015). Effects of prior knowledge of topics and the instructional objectives on students' achievement in Literature-in-English. Journal of Education and Practice, 6(20). http://www.iiste.org

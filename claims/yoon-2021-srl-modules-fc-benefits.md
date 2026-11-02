@@ -57,3 +57,4 @@ Review's account of Yoon et al.'s (2021) study facilitating SRL in a three-week 
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
+- [The flipped classroom model did not significantly affect pre-service teachers' academic achievement compared with traditional blended learning over four weeks](fc-model-no-significant-achievement-effect.md) — related

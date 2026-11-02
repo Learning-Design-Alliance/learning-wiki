@@ -144,3 +144,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Teacher candidates who read conceptual change texts enriched with metaconceptual activities learn symmetry better than those who read plain texts](metaconceptual-cct-improves-symmetry-understanding.md) — a narrower finding that bears on this claim
 - [Prior studies report that metaconceptually enriched conceptual change texts support conceptual understanding across topics, including longer-term retention](metaconceptual-cct-supporting-literature.md) — a narrower finding that bears on this claim
 - [Students' difficulties and misconceptions about symmetry fall into four main areas](symmetry-misconceptions-four-areas.md) — related
+- [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](alternative-conceptions-persist-emerge-posttest.md) — related

@@ -39,6 +39,7 @@ The article's closing recommendation is that, despite searching national and int
 ## Related Strategies
 
 - [Use CREACT discussions in classroom environments to develop students' creative performance](use-creact-discussions-in-classroom.md)
+- [Give pop music examples a greater place in music teaching programs and lesson books](greater-pop-music-inclusion-in-programs-and-lesson-books.md)
 
 ## Examples
 -

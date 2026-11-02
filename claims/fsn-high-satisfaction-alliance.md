@@ -49,3 +49,4 @@ Process measures collected from intervention-condition participants at the end o
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [First Step Next reduces relational aggression and child-teacher conflict in at-risk preschoolers](fsn-relational-aggression-teacher-conflict-reduction.md) — related
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — related
+- [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related

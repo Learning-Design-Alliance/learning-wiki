@@ -58,9 +58,11 @@ Flash cards work because they force active retrieval rather than passive rereadi
 5. Explicitly teach the limits: present problems where the key word misleads and have students explain what the situation actually requires [Key word strategies fail on problems where the cue word contradicts the required operation.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
 
 ## Related Strategies
+
 - Word Problem Schema Instruction — teaches problem types (change, compare, combine) as the structural complement to surface vocabulary
 - Vocabulary Notebooks — the same retrieval-card mechanism applied to general academic vocabulary
 - Sort-and-Classify Activities — uses the cards as objects to be categorized rather than memorized
+- [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the cards only build durable knowledge when retrieval is followed by application to real problems

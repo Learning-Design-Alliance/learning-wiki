@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 19 claims (14 for, 4 mixed, 1 against) · 21 studies (6 qualitative, 5 causal, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (15 for, 4 mixed, 1 against) · 22 studies (6 causal, 6 qualitative, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 22 report an effect size · 18 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -50,6 +50,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Encoding L2 words through simulated social interaction activates bilateral posterior STS and right IPL, with delayed-test performance correlating with right TPJ, hippocampus, and motor activity](../claims/social-encoding-fmri-sts-tpj-hippocampus.md) [+W]
 - [L2 words learned via simulated social interaction are processed like L1 words, engaging right SMG rather than left middle frontal gyrus](../claims/social-video-l2-words-engage-right-smg-like-l1.md) [~W]
 - [Medical professionalism is discussed as learned through role models as part of the informal curriculum, with acceptable professional behavior mainly identified through observation](../claims/professionalism-learned-through-role-models-observation.md) [+W]
+- [Authentic use of authentic materials motivated learners more than traditional teaching of the same materials](../claims/authentic-use-motivates-more-than-traditional-teaching.md) [+W]
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

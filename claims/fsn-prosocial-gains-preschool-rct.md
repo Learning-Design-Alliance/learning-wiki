@@ -49,3 +49,4 @@ Cluster-randomized trial with 160 at-risk preschoolers randomized at the program
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
+- [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — a broader claim this one bears on

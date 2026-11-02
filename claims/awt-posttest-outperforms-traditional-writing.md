@@ -48,3 +48,4 @@ Post-test Mann Whitney U comparison of the 18-learner AWT group and 17-learner c
 - [Before the intervention, the AWT experimental group and the traditional-instruction control group showed no significant difference on any of the five writing-skill criteria](awt-pretest-groups-equivalent-writing-skills.md) — related
 - [The control group's writing skills also improved significantly over the 8 weeks under traditional instruction](control-group-also-improved-writing.md) — related
 - [One month of constructive-feedback remedial teaching cut experimental-group writing errors by 52% to 78% per student](cfb-remedial-teaching-error-reduction-52-78.md) — related
+- [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](inguinal-model-mean-errors-lower.md) — related

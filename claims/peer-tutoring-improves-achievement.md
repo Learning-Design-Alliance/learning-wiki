@@ -138,3 +138,5 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](variable-reciprocity-solved-problems-tutor.md) — related
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — reports the opposite
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — a narrower finding that bears on this claim
+- [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — a narrower finding that bears on this claim
+- [Teachers reported that cross-age peer tutoring improved peer relationships and social interaction between year groups](peer-tutoring-improved-cross-year-group-relationships.md) — related

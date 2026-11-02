@@ -47,3 +47,4 @@ Independent-samples t-test comparing male (n=20, M=47.38, SD 2.96) and female (n
 ## Related Claims
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
+- [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related

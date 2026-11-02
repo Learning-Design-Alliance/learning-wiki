@@ -50,3 +50,4 @@ Across 7 CPS schools, teachers reported that "Structures that facilitated person
 - Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes — related
 - [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
 - [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](colleague-collaboration-consistently-positive-practices.md) — a broader claim this one bears on
+- [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related

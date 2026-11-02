@@ -28,6 +28,7 @@ A 25-item researcher-developed chemistry achievement test measuring Senior Secon
 ## Related Products and Programmes
 
 - [Chemical Bonding Performance Test (CBPT)](chemical-bonding-performance-test-cbpt.md)
+- [Academic Performance Tests in English Language (ATEL)](academic-performance-tests-in-english-language-atel.md)
 
 ## Key Sources
 - Telimoye Leesi Mitee and Georgina N. Obaitan. (2015). Effect of Mastery Learning on Senior Secondary School Students' Cognitive Learning Outcome in Quantitative Chemistry. Journal of Education and Practice, Vol.6, No.5. https://www.iiste.org

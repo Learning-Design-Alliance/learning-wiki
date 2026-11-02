@@ -90,6 +90,8 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Intensify standard reading interventions by adjusting dosage, alignment, transfer scaffolding, behavior supports, and data-based individualization](intensify-reading-intervention-taxonomy-dimensions.md)
 - [Use content-based social studies readings for supplemental small-group reading instruction within MTSS](content-based-readings-tier2-tier3-instruction.md)
 - [Use empirically derived post-intervention benchmarks to decide who exits versus continues to intensive intervention](post-intervention-benchmarks-exit-intensive-intervention.md)
+- [Use adaptive math CAI as a low-intensity, teacher-free supplemental prevention program](low-intensity-supplemental-math-cai-prevention-strategy.md)
+- [Use nonresponse to generic tier-two preschool behavioral intervention as a trigger for formal ADHD diagnostic referral and more intensive tier-three intervention](nonresponse-triggers-adhd-diagnostic-referral-strategy.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

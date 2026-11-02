@@ -56,3 +56,4 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — reports the opposite
+- [Student drawings alone can mislead teachers about students' knowledge; accompanying text or discussion can turn a carelessly drawn sketch into a correct answer](drawings-alone-insufficient-assessment.md) — related

@@ -45,6 +45,7 @@ From its findings on the limited scope of existing TCSM research, the review iss
 ## Related Strategies
 
 - [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
+- [Replicate the audio-visual vs. audio-only listening comparison with other populations and tasks](replicate-av-audio-listening-comparison.md)
 
 ## Examples
 -

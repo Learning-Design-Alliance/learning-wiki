@@ -90,3 +90,4 @@ The review attributes to Salazar et al.'s meta-analysis the conclusion that "the
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](3dpam-not-superior-in-seven-studies.md) — reports the opposite
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — a narrower finding that bears on this claim
 - [Residents training on placenta models performed better than residents training on cadavers or only having surgical videos available](placenta-model-residents-performed-better.md) — related
+- [Medical students who built a low-cost 3D inguinal canal model committed fewer mistakes on a multiple choice test than students receiving a frontal lecture](inguinal-model-builders-fewer-test-mistakes.md) — a narrower finding that bears on this claim

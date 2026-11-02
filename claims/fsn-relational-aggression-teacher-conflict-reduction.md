@@ -68,3 +68,4 @@ Table 5 regression results report a condition effect of -6.52 (p < .001, Hedges'
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — a broader claim this one bears on
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
 - [FSN coaches and teachers implemented core program components with excellent adherence, with implementation quality lower during the teacher phase than the coach phase](fsn-high-fidelity-teacher-phase-quality-lower.md) — related
+- [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — related

@@ -68,3 +68,4 @@ Scope limit reported in the Year 5 RCT: the article states the effect "was attri
 
 ## Related Claims
 - [Decimal-fraction instruction outperforms word-problem instruction on decimal transfer items (ES 0.97 vs. contrast; ES 0.67 vs. control), but effects concentrate on near transfer](decimal-fraction-component-near-transfer.md) — possibly the same claim (merge candidate)
+- [FM intervention effects transfer to decimal number line performance even without an intervention focus on decimals](fm-intervention-transfers-decimal-number-line.md) — related

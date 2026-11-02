@@ -63,3 +63,5 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — a narrower finding that bears on this claim
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [Before the experiment, the control and experimental groups differed in previous-year fine art marks but not in previous-year mathematics marks](pre-experiment-group-equivalence-mathematics.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — possibly the same claim (merge candidate)
+- [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related

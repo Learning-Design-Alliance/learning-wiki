@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (31 for, 17 mixed, 3 against) · 33 studies (9 design, 8 review, 5 associational, 4 causal, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 33 report an effect size · 49 claims rest on one study
+> **Evidence** · 52 claims (32 for, 17 mixed, 3 against) · 34 studies (9 design, 8 review, 5 causal, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 34 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Read against the model on 2026-10-19. Of the 25 claims that had gathered here in
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](../claims/only-20-percent-teachers-prepared-integrate-technology.md) [+W] — read 2026-10-19: a 1998 national survey figure, reported in the technology-PD report folded into this page. It is the old report's reason for more PD, a dated baseline, and says nothing about which form the PD should take.
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](../claims/technology-training-spending-inadequate.md) [+W] — read 2026-10-19: 1998–99 spending projections from the same report. A budget comparison, not evidence about ongoing against occasional PD; a designer pricing a technology rollout may still use it as a prompt to budget for follow-up.
 - [Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions](../claims/air-tutors-tutor-ubuntu-attendance-high.md) [~W] — (not about this page) read 2026-10-19: attendance of tutors (not teachers) at a series of three sessions in one tutoring programme's evaluation. Attendance at occasional sessions is neither an ongoing structure nor a change in practice.
+- [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](../claims/minimal-books-workshop-intervention-insufficient.md) [+W] — attached 2026-11-01 from Leyva et al. (2014), which proposed "Professional development that pairs content-focused training with continuous classroom coaching can improve teaching practices where minimal supports fail"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

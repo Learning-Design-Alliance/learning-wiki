@@ -69,3 +69,4 @@ The fidelity analysis checked crucial tasks in sampled workbooks (26 per panel):
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
 - [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related
 - [Creative writing instruction improved creative text quality in panel 1 and showed a transfer effect on argumentative text quality moderated by Creative Self-Concept, a pattern the second panel did not replicate](cwi-transfer-to-argumentative-quality-moderated-by-csc.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

@@ -144,3 +144,4 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [The short-term effect of audio input enhancement on intensifier knowledge is not stable over a three-week delay](audio-input-enhancement-effect-not-stable-delayed-test.md) — related
 - [Both explicit correction and or-choice feedback improved beginner EFL learners' accurate use of English tense markers over a ten-session instructional period](both-feedback-types-improve-tense-markers.md) — a narrower finding that bears on this claim
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — a narrower finding that bears on this claim
+- [Length of exposure to CALL (15 vs 30 minutes) shows no significant difference in immediate grammar gain but favours the longer-exposure group on the delayed post-test](call-exposure-length-delayed-advantage.md) — related

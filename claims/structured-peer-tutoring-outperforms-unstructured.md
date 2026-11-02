@@ -93,3 +93,5 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — reports the opposite
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — related
+- [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related
+- [Teachers reported that cross-age peer tutoring improved peer relationships and social interaction between year groups](peer-tutoring-improved-cross-year-group-relationships.md) — related

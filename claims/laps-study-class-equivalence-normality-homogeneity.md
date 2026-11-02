@@ -57,3 +57,5 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [N-gain score distributions differed in normality between classes: the experimental class's N-gain was not normally distributed while the control class's was](n-gain-normality-differs-between-classes.md) — related
 - [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related

@@ -87,6 +87,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](../elements/drill-practice.md)
 - [Supplement task-based language teaching with grammar instruction and use communicative drills for automatization](../strategies/supplement-tblt-with-grammar-instruction-communicative-drills.md)
 - [Teach rules to metalinguistic criterion first, then schedule systematic comprehension and production practice](../strategies/criterion-then-systematic-practice-strategy.md)
+- [Use computer-based grammar games to provide repetition, drill, and stress-free immediate feedback for young learners](../strategies/computer-grammar-games-repetition-feedback-strategy.md)
 
 ## Key Sources
 - Anderson, J. R. (1983). *The architecture of cognition*. Harvard University Press.

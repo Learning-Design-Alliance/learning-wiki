@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (98 show a difference, 21 mixed, 20 no difference) · 96 studies (39 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 21 of 96 report an effect size · 136 claims rest on one study
+> **Evidence** · 145 claims (104 show a difference, 21 mixed, 20 no difference) · 101 studies (44 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 101 report an effect size · 142 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -180,6 +180,12 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Teacher use of vocabulary support strategies during EMT play sessions is significantly related to child target word use within the session](../claims/vocabulary-supports-related-child-target-tokens.md) [+M] — instruction changes it
 - [Teacher vocabulary input and supports were not significantly related to end-of-intervention child vocabulary outcomes on language samples or standardized measures](../claims/teacher-input-null-distal-outcomes.md) [-M] — instruction changes it
 - [Teacher vocabulary used in related turns (following the child's lead) is more strongly related to child within-session vocabulary use than vocabulary in any utterance](../claims/related-turns-stronger-vocabulary-relation.md) [+M] — instruction changes it
+- [After regular instruction on Unit 1, the class's receptive knowledge of the prescribed vocabulary was partial, averaging 14.23 out of 40 on the VKS](../claims/partial-reception-unit1-vks-average.md) [+M] — instruction changes it
+- [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+M] — instruction changes it
+- [Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest](../claims/wikipedia-online-texts-improve-efl-vocabulary.md) [+M] — instruction changes it
+- [Iranian pre-university students taught vocabulary with flash cards significantly outperformed traditionally taught students on a vocabulary posttest](../claims/vfc-outperformed-traditional-vocabulary-teaching.md) [+M] — instruction changes it
+- [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](../claims/traditional-instruction-better-short-term-vocabulary-retention.md) [+M] — instruction changes it
+- [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](../claims/word-engine-vst-gains-ancova.md) [+W] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

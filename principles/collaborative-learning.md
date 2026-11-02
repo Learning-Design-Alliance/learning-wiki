@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (39 for, 50 mixed, 6 against) · 95 studies (24 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 95 report an effect size · 89 claims rest on one study
+> **Evidence** · 96 claims (39 for, 51 mixed, 6 against) · 96 studies (25 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 96 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Students in the SCL group report greater satisfaction than those in the LBL group](../claims/scl-greater-student-satisfaction.md) [+W]
 - [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](../claims/model-condition-higher-collaboration-rate.md) [~W]
 - [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](../claims/treatment-more-student-pair-collaboration.md) [+W]
+- [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](../claims/post-test-means-three-classes-jumping-sharing-conventional.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

@@ -70,3 +70,4 @@ Paired t-tests on RC MACS pre- and post-scores for each group. "the VNT group ac
 - [Across all three experiments jointly, the interaction between treatment (contrasts versus control) and measurement occasion was significant, with a reliable quadratic trend](treatment-occasion-interaction-significant.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
 - [A significant occasion-by-group interaction in SOLO scores indicates groups behaved differently between pre- and post-test](occasion-by-group-interaction-solo.md) — related
+- [ECHOS teachers significantly improved their PreSCOT scores in predicting, investigating, and evaluating across the year while control teachers did not](echos-teachers-improved-predicting-investigating-evaluating.md) — related

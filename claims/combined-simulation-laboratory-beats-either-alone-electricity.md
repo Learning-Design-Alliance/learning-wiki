@@ -60,3 +60,6 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Control-group students who experienced sample analogies after the post-test mostly supported using analogies in lectures](control-students-support-analogies-after-exposure.md) — related
 - [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](detailed-analogies-improve-computer-hardware-learning.md) — related
+- [The article concludes there is no significant difference between knowledge acquired through real experiments and through computer-simulated experiments](no-significant-difference-real-versus-simulated-experiments.md) — related
+- [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related
+- [Pupils taught with a virtual laboratory solved tasks involving visualization elements more successfully than control-group pupils](virtual-laboratory-improves-visualization-task-performance.md) — related

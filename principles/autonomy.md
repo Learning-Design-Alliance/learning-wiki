@@ -227,6 +227,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
 - [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
 - [Target teachers first in autonomy-support interventions to foster student autonomous motivation](../strategies/autonomy-support-interventions-target-teachers-first.md)
+- [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 
 ### Illustrative
 

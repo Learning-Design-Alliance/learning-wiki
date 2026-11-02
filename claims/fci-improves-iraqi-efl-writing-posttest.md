@@ -74,3 +74,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
+- [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](fc-descriptive-mean-shifts.md) — reports the opposite

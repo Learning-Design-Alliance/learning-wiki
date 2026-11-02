@@ -53,3 +53,4 @@ Subgroup analysis in Table 2 of between-group studies of behavioral parent train
 - [In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children](pfc-parent-coaching-pilot-gains.md) — related
 - Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related
+- [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related

@@ -48,3 +48,5 @@ Quasi-experimental comparison of two intact classes of 45 senior secondary two s
 - [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related
 - [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](make-a-match-higher-posttest-geography-principles.md) — related
 - [The experimental group's Geography achievement scores rose significantly from pre-test to post-test after PowerPoint instruction](powerpoint-pre-post-gain-geography.md) — related
+- [The intervention significantly increases educators' use of lecture with slide presentation relative to control](ct-workshop-increases-slide-lecturing.md) — related
+- [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](web-quest-improves-geographic-concept-acquisition.md) — related

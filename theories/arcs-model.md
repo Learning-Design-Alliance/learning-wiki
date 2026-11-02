@@ -12,7 +12,7 @@ generated:
 # ARCS Model of Motivational Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (4 for, 3 mixed, 1 against) · 5 studies (1 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 6 studies (2 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons ([Park, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)).
@@ -64,6 +64,9 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](../claims/arcs-motivation-drives-use-behavior-not-intention.md) [~W]
 - [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](../claims/seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) [~W]
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](../claims/arcs-components-all-higher-ecme.md) [~W]
+- [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-attention-motivation.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "ARCS motivational model as a four-factor framework for measuring learning motivation".
+- [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-relevance-confidence.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "ARCS motivational model as a four-factor framework for measuring learning motivation".
+- [Satisfaction motivation did not differ significantly between OER blended learning and face-to-face classroom learning](../claims/oer-blended-quipper-satisfaction-null.md) [~W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "ARCS motivational model as a four-factor framework for measuring learning motivation".
 
 ## The evidence by question
 

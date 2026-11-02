@@ -53,3 +53,4 @@ Process evaluation using monthly coordinator ratings on 13 items rated on a 4-po
 - [NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days](nba-math-hoops-high-implementation-fidelity.md) — related
 - [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](cbc-fidelity-high-rural-trial.md) — related
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

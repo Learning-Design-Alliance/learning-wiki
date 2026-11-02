@@ -53,3 +53,4 @@ Survey evidence from the Challenge Collaborative's cohort-model implementation. 
 - [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
 - [Teachers evaluated the PD moderately positively, and about three-quarters reported actually using what they learned in their mathematics lessons](teacher-evaluation-pd-uptake.md) — related
+- [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related

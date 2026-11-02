@@ -55,3 +55,4 @@ Al-Bogami and Alahmadi (2025) measured English oral reading fluency by speed, ac
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Interventions combining repeated reading, modeled/assisted reading, and explicit feedback outperformed control groups in English reading fluency for emergent bilinguals](repeated-reading-modeling-feedback-outperform-control-eb-fluency.md) — related
 - [Effects of performance feedback during oral reading are mixed across studies, precluding clear conclusions](performance-feedback-oral-reading-mixed-effects.md) — related
+- [Third-grade EFL students taught pronunciation with ASR software significantly outperformed peers taught with regular instruction](asr-outperforms-regular-pronunciation-instruction.md) — related

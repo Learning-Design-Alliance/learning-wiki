@@ -55,3 +55,4 @@ Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the co
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
+- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — a narrower finding that bears on this claim

@@ -59,3 +59,5 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 - [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](fractions-tutor-significant-learning-gains.md) — related
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
+- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
+- [The explanation assisted REACT group retains its advantage on a delayed test nine weeks after the intervention despite score decline](react-explanation-delayed-retention.md) — related

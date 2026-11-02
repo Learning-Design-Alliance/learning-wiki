@@ -77,3 +77,7 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Online and in-class students do not statistically significantly differ in academic achievement](online-in-class-no-achievement-difference.md) — related
 - [Before treatment, focused, unfocused, and control groups did not differ significantly in accuracy for either structure type](pretest-accuracy-group-equivalence.md) — related
 - [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related
+- [One-way ANOVAs found no differences among the ASR, Non-ASR and Control groups on pretest or posttest in either /y/ production or perception](anova-no-group-differences-pre-post.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
+- [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related

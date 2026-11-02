@@ -78,3 +78,5 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — related
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — possibly the same claim (merge candidate)
 - [Undergraduate students taught circular and rotational motion with concept mapping achieved significantly higher post-test scores than students taught with tutorial sheets](concept-mapping-outperforms-tutorial-sheets-achievement.md) — a narrower finding that bears on this claim
+- [Cooperative learning reduced test anxiety relative to lecture-based teaching](cooperative-learning-lower-test-anxiety.md) — related
+- [Form four students taught linear programming with the origin test and extreme points technique achieved significantly higher post-test scores than students taught with conventional methods](pbl-origin-test-extreme-points-higher-achievement.md) — related

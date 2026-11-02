@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 242 claims (137 for, 89 mixed, 16 against) · 153 studies (77 review, 38 quant-synthesis, 19 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 29 of 153 report an effect size · 232 claims rest on one study
+> **Evidence** · 246 claims (139 for, 90 mixed, 17 against) · 156 studies (77 review, 38 quant-synthesis, 22 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 156 report an effect size · 236 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -297,6 +297,10 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 - [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](../claims/prior-studies-computer-aided-instruction-more-effective.md) [+W]
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](../claims/mixed-prior-evidence-vrs-versus-traditional-training.md) [~W]
+- [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](../claims/virtual-laboratory-improves-chemical-knowledge-acquisition.md) [+M] — attached 2026-11-01 from Nataša Rizman Herga et al. (2014), which proposed "Virtual laboratory (Crocodile Clips Chemistry) as a multimedia interactive visualization unit"; tests this page's relationship.
+- [Pupils taught with a virtual laboratory solved tasks involving visualization elements more successfully than control-group pupils](../claims/virtual-laboratory-improves-visualization-task-performance.md) [+M] — attached 2026-11-01 from Nataša Rizman Herga et al. (2014), which proposed "Virtual laboratory (Crocodile Clips Chemistry) as a multimedia interactive visualization unit".
+- [Electrostatic induction questions produced the lowest achievement of all six situations, and the Real group outperformed the Sim group despite the simulation's ability to visualize charge redistribution](../claims/induction-questions-lowest-sim-did-not-help.md) [-W] — attached 2026-11-01 from Ajredini et al. (2013), which proposed "PhET simulations Balloons and Static Electricity and John Travoltage used as the experimental apparatus for the Sim group"; tests this page's relationship.
+- [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](../claims/isia-greater-conceptual-understanding-gains.md) [~W] — attached 2026-11-01 from Xinxin Fan et al. (2018), which proposed "PhET interactive simulations (Chinese-translated physics versions)"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

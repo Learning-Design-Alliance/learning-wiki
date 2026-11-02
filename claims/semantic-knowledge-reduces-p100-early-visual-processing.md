@@ -50,3 +50,4 @@ The review describes Abdel-Rahman and Sommer's two-part ERP training paradigm in
 - [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related
 - [Verbal labels have a special status in influencing visual processing beyond mere association](verbal-labels-special-status-visual-processing.md) — related
 - [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
+- [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — related

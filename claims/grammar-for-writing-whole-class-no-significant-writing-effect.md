@@ -47,3 +47,5 @@ Primary multilevel regression analysis of the cluster-randomised trial on 1,982 
 ## Related Claims
 - [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related
 - [Small-group delivery of Grammar for Writing outperforms whole-class delivery on extended writing (effect size 0.21)](small-group-outperforms-whole-class-grammar-writing.md) — related
+- [The Discover Summer School showed no statistically significant effect on spelling and grammar attainment](discover-summer-school-no-significant-spelling-grammar-effect.md) — related
+- [The Discover Summer School showed no statistically significant effect on extended writing attainment in an underpowered randomised trial](discover-summer-school-no-significant-writing-effect.md) — related

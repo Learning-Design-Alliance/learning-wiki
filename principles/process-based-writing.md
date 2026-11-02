@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (21 for, 17 mixed, 1 against) · 56 studies (19 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 13 of 56 report an effect size · 29 claims rest on one study
+> **Evidence** · 40 claims (22 for, 17 mixed, 1 against) · 57 studies (20 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 13 of 57 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [Reading Writing Abilities Overlap](../claims/reading-writing-abilities-overlap.md) [+M]
 - [Revision skill was not related to writing quality in either grade group](../claims/revision-not-related-writing-quality.md) [~W] — attached 2026-10-24 from Limpo et al. (2013), which proposed "Teach transcription to automaticity and promote planning, revising, and self-efficacy in the middle grades"; tests this page's relationship.
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](../claims/process-approach-improves-efl-writing-vietnamese-secondary.md) [+W] — attached 2026-11-01 from Ngo et al. (2011), which proposed "Graduated responsibility writing lesson sequence: modeling, collaborative practice, then individual practice with fading support"; tests this page's relationship.
+- [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](../claims/brainstorming-improves-efl-writing-performance.md) [+W] — attached 2026-11-01 from Amoush (2015), which proposed "EFL writing instruction should adopt brainstorming strategy and instructors should be trained in it".
 
 ## Objective and learner-valued goal
 

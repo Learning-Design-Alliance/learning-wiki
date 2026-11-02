@@ -61,9 +61,11 @@ The matching mechanic forces retrieval of each word's location and identity, and
 6. Close with a quick check: each learner uses one matched word in an original sentence ([Assess performance](../elements/assess-performance.md)).
 
 ## Related Strategies
+
 - Vocabulary Quilting — another card-based vocabulary routine with production requirements
 - Choral Reading of Songs — builds the shared context from which game sentences are drawn
 - Word Wall Routines — provides the reference display that supports the game's target words
+- [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card flip is a retrieval attempt; the game is structured practice in game form

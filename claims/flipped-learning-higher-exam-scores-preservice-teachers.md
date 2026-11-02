@@ -70,3 +70,4 @@ Same quasi-experiment: the overall final grade comparison was not significant (t
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
 - [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
+- [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](flipped-learning-no-posttest-advantage-video-production.md) — reports the opposite

@@ -69,3 +69,4 @@ The review's meta-aggregation (Table 4, Category 5) includes the finding 'Virtua
 - [Caregivers want information about the disease, specific patient care, and how to be a caregiver](caregiver-information-needs-disease-care-caregiving.md) — related
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
 - [GPs widely believe evidence must be integrated with clinical experience and tailored to individual patients](gps-integrate-evidence-with-experience.md) — related
+- [Student nurses applied the seven CoRT critical thinking tools when delivering health talks to patients](cort-tools-applied-in-nursing-health-talks.md) — related

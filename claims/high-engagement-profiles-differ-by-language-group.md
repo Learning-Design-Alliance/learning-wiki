@@ -51,3 +51,4 @@ Profile-form comparison across the two language subsamples in the LPA results an
 - [Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples](three-profile-family-engagement-latino-head-start.md) — a broader claim this one bears on
 - [Higher engagement profiles related to better play interaction for Spanish-speaking children but showed no significant social outcome differences among English-speaking profiles](engagement-profiles-social-outcomes-mixed.md) — related
 - [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
+- [Parental level of education was found to be related to students' performance in English language](parental-education-related-english-performance.md) — related

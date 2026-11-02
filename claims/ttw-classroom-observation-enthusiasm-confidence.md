@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: supandi-2018
     resource: "https://doi.org/10.12973/iji.2018.1136a"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Authors' observations during three treatment sessions showed experimental-group students enthusiastic, actively questioning and competitive, while many control-group students avoided discussion and were embarrassed to answer. [→ Supandi 2018](#supandi-2018)
@@ -57,3 +58,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](kahoot-engagement-peer-study-groups-observed.md) — related
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related
 - [The authors observed higher motivation among learners doing CALL-based tasks than among those doing written-question tasks](call-tasks-higher-observed-motivation.md) — related
+- [Observations suggested pupils were engaged by and enjoyed the summer school, with the interactive poetry approach appearing to motivate writing](discover-summer-school-pupil-engagement-observations.md) — related

@@ -49,6 +49,8 @@ Based on the null result, the author recommends that "techniques bas ed on coope
 - [Implement TGT game-based cooperative learning in after-school programs with adequately trained teachers and extended treatment duration](tgt-after-school-implementation-strategy.md)
 - [Adopt cooperative TGT as an alternative mathematics teaching approach, supported by teacher training and ministry guidelines](tgt-implementation-strategy-religious-schools.md)
 - [Implementation safeguards when applying jigsaw in laboratory courses](jigsaw-lab-implementation-safeguards.md)
+- [Adopt Jigsaw in science teaching and train science teachers in its effective use](adopt-and-train-teachers-in-jigsaw-science.md)
+- [Adopt cooperative learning in place of passive lecture-based teaching in Vietnamese higher education](adopt-cooperative-learning-vietnamese-higher-ed-strategy.md)
 
 ## Examples
 -

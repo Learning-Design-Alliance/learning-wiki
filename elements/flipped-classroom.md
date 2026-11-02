@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (17 for, 18 mixed, 1 against) · 20 studies (10 quant-synthesis, 6 causal, 3 review, 1 design), `q1`–`q4` · 7 of 20 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (18 for, 18 mixed, 4 against) · 22 studies (10 quant-synthesis, 8 causal, 3 review, 1 design), `q1`–`q4` · 7 of 22 report an effect size · 39 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -60,6 +60,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](../claims/fci-implementation-barriers-iraq.md) [~W]
 - [The authors recommend extending the inverted classroom to larger samples, longer implementation periods and other basic or difficult physics topics](../claims/inverted-classroom-future-extension-recommendation.md) [+W]
 - [The difference in ratings of 'The instructor created an environment conducive to the learning process' between flipped and traditional sections was not statistically significant (p = .09)](../claims/environment-item-no-significant-difference.md) [~W]
+- [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](../claims/positive-questionnaire-feedback-flipped-activity.md) [+W] — attached 2026-11-02 from Faisal M. Almutairi et al. (2020), which proposed "Six-week flipped video-production workshop course at PAAET's College of Basic Education".
+- [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](../claims/fc-student-resistance-self-learning.md) [-W]
+- [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](../claims/flipped-learning-no-posttest-advantage-video-production.md) [-W]
+- [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](../claims/fc-descriptive-mean-shifts.md) [-W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

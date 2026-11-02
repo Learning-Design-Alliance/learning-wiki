@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (30 for, 25 mixed, 2 against) · 54 studies (33 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 54 report an effect size · 52 claims rest on one study
+> **Evidence** · 59 claims (32 for, 25 mixed, 2 against) · 55 studies (34 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 55 report an effect size · 54 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -93,6 +93,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Three-dimensional visual objects produced higher post-test drawing performance than two-dimensional visual objects, and both experimental groups outperformed the control group](../claims/three-dimensional-objects-outperform-two-dimensional-drawing.md) [+W]
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]
 - [Gender has no influence on performance under video-based individualized or conventional instruction in geometry](../claims/no-gender-difference-ivip-cvip.md) [~W]
+- [First-year architecture and civil construction students taught isometric transformations with interactive multimedia lessons scored significantly higher than traditionally taught peers](../claims/multimedia-lessons-higher-isometric-transformations-scores.md) [+W] — attached 2026-11-01 from Marina Milovanoviü et al. (2013), which proposed "Macromedia Flash multimedia lessons on isometric transformations and regular polyhedra"; tests this page's relationship.
+- [Students taught regular polyhedra with multimedia lessons scored significantly higher than traditionally taught peers at both faculties](../claims/multimedia-lessons-higher-regular-polyhedra-scores.md) [+W] — attached 2026-11-01 from Marina Milovanoviü et al. (2013), which proposed "Macromedia Flash multimedia lessons on isometric transformations and regular polyhedra"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

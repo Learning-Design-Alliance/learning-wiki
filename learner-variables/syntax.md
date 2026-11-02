@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (41 show a difference, 10 mixed, 16 no difference) · 51 studies (25 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 5 of 51 report an effect size · 64 claims rest on one study
+> **Evidence** · 68 claims (41 show a difference, 10 mixed, 17 no difference) · 52 studies (26 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 5 of 52 report an effect size · 65 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -105,6 +105,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [EFL learners doing CALL-based tasks outperform learners doing written-question tasks on a grammar post-test](../claims/call-based-tasks-beat-written-question-tasks-grammar.md) [+M] — instruction changes it
 - [Posttest grammar scores differed significantly among the three feedback groups (omnibus ANOVA)](../claims/posttest-anova-significant-group-difference-grammar.md) [+M] — instruction changes it
 - [Sixth-grade students taught English grammar with the brainstorming method achieved significantly higher post-test scores than students taught with traditional methods](../claims/brainstorming-improves-english-grammar-achievement-sixth-grade.md) [+M] — instruction changes it
+- [The Discover Summer School showed no statistically significant effect on spelling and grammar attainment](../claims/discover-summer-school-no-significant-spelling-grammar-effect.md) [-M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

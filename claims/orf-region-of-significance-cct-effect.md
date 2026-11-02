@@ -49,3 +49,4 @@ Regions-of-significance procedures in Mplus conditioned the treatment effect on 
 - [In the year 3 longitudinal comparison, the CCT effect was not significant with pretest controlled (ES = 0.13) but significant without it (ES = 0.19)](cct-year3-longitudinal-null-with-pretest.md) — related
 - [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](pretest-orf-moderates-cct-comprehension-effects.md) — possibly the same claim (merge candidate)
 - [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](cct-no-posttest-orf-effect.md) — related
+- [Intervention effects on WJIII passage comprehension were moderated by pretest: only students starting at or above the 60th percentile benefited](pretest-moderation-wjiii-passage-comprehension.md) — related

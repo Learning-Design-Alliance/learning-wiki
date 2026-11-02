@@ -51,3 +51,4 @@ The experimental study measured both moment-to-moment comprehension during input
 - [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](college-no-negotiation-vocabulary-correlation.md) — related
 - [Recognition was not associated with item difficulty](recognition-not-associated-with-item-difficulty.md) — related
+- [CAI and control groups showed no significant differences in letter recognition or vocabulary recognition gains](prek-cai-no-difference-letter-vocabulary.md) — related

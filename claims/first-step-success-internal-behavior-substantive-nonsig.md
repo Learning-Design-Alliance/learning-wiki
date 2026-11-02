@@ -55,3 +55,5 @@ RCT of 46 kindergarten children in Eugene, Oregon randomly assigned to intervent
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](lovaas-model-no-discernible-social-emotional-effects.md) — related
 - [BEST in CLASS reduced the percentage of children in the clinical or borderline range on all three C-TRF problem-behavior subscales](best-in-class-reduced-clinical-range-c-trf.md) — related
 - [First Step Next significantly improves pro-social behavior in at-risk preschoolers, with Hedges' g effect sizes from .34 to .91](fsn-prosocial-gains-preschool-rct.md) — related
+- [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — related
+- [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related

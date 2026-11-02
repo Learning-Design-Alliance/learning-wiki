@@ -51,4 +51,4 @@ T-test comparing pre-test scores by gender across the whole sample (males n = 12
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — a broader claim this one bears on
 - [Sex does not significantly influence gain in learning Voice in English Grammar in the CIM and CAI groups](sex-variable-no-effect-voice-grammar.md) — related
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related

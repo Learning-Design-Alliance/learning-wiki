@@ -13,7 +13,7 @@ generated:
 # Pre-Seminar Preparation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Pre-seminar preparation asks learners to engage with source material — readings, videos, or problem sets — before a discussion-based session, so that class time is spent applying, questioning, and debating rather than receiving first exposure. It functions as the first-exposure phase of a flipped or seminar design, shifting transmission of foundational knowledge outside the group setting.
@@ -53,7 +53,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](../claims/fc-student-resistance-self-learning.md) [-W]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the most common preparation artifact

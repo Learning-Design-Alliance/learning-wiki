@@ -71,3 +71,4 @@ Figure 3 comparison of text-messaging fidelity between the decrease group (n = 8
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
 - [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related
 - [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

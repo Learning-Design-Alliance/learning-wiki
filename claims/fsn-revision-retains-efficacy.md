@@ -48,3 +48,7 @@ Authors' interpretation comparing this RCT's effect sizes with prior First Step 
 - [First Step Next significantly improves pro-social behavior in at-risk preschoolers, with Hedges' g effect sizes from .34 to .91](fsn-prosocial-gains-preschool-rct.md) — related
 - [First Step Next reduces relational aggression and child-teacher conflict in at-risk preschoolers](fsn-relational-aggression-teacher-conflict-reduction.md) — a narrower finding that bears on this claim
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
+- [In the FSN national effectiveness trial (Sumi et al., 2013), effect sizes were smaller, ranging from 0.21 to 0.67](fsn-rct2-effectiveness-smaller-effects.md) — related
+- [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — a broader claim this one bears on
+- [FSN's impact was more robust in the school setting than in the home setting across all five RCTs](fsn-school-versus-home-impact.md) — related
+- [Parent-reported outcomes for the PFS ADHD-risk subsample improved in the medium range for both home-setting symptoms and social functioning](pfs-medium-parent-reported-effects-home-setting.md) — related

@@ -59,9 +59,11 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 6. **Fade the scaffolds.** Progressively remove the forced-choice prompts so learners internalize selection ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — the modeling vehicle for demonstrating strategy execution step by step
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the method for making strategy *selection* visible, not just execution
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a canonical instance of explicit strategy instruction with faded group practice
+- [Deliver a critical thinking module through three sequenced instructional strategies ending in applied reflection](three-strategy-critical-thinking-module-sequence.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../principles/responsive-teaching.md)).

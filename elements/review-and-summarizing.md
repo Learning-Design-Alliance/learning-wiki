@@ -13,7 +13,7 @@ generated:
 # Review And Summarizing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 5 studies (4 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Review and summarizing is an instructional element in which learners revisit previously encountered content and condense it — orally, in writing, or graphically — into their own words. It functions both as a consolidation activity, strengthening and reorganizing memory traces, and as a formative check that surfaces misconceptions and gaps for the learner and instructor alike.
@@ -57,6 +57,7 @@ Summarizing is effective because it forces generative processing: learners must 
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [+M]
 - [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](../claims/summary-writing-more-utterances-more-off-analysis.md) [~W]
 - [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [~W]
+- [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](../claims/fc-out-of-class-study-time-strategies.md) [~W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bookend: organizers structure material before learning; summaries consolidate it after

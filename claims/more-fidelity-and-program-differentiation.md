@@ -66,3 +66,4 @@ Program differentiation analysis comparing read-aloud text complexity and litera
 ## Related Claims
 - [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — related
 - [A sustained Grade 1-to-2 content literacy intervention improved science content reading comprehension (ES = .18) relative to control](more-sustained-content-literacy-science-comprehension-es18.md) — related
+- [Implementation fidelity of cognitive science principles mediates the CS intervention's effect on student achievement, with no significant direct effect remaining](cs-implementation-mediation-achievement.md) — related

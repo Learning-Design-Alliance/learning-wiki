@@ -46,6 +46,7 @@ PALS prepares teachers through a one-day training event followed by written supp
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
 - [Train teachers to create educational games with iPad applications through school workshops and an application-specific teacher manual](teacher-training-ipad-game-workshops.md)
+- [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

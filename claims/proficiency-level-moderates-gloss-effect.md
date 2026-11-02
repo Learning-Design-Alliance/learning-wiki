@@ -49,3 +49,4 @@ Moderator analysis across three proficiency subgroups (elementary N=7, intermedi
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Research design does not significantly moderate the gloss effect: randomized (ES = 1.16) versus matched (ES = 0.71) studies do not differ significantly](research-design-not-significant-gloss-moderator.md) — related
+- [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related

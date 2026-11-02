@@ -52,3 +52,4 @@ Quasi-experimental pre-test/post-test study with intact classes of 6th graders (
 - [Writing poems as a writing-to-learn activity produced significantly higher Force and Motion achievement than conventional instruction in fifth-grade students](writing-poems-improves-force-motion-achievement.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
+- [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related

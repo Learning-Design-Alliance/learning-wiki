@@ -48,3 +48,5 @@ Year 5 three-arm RCT contrasting a decimal-equivalents component (tenths and hun
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related
 - [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](supported-self-explaining-fraction-magnitudes.md) — related
 - [A decimal-fractions component improves decimal understanding, with effects attributable largely to near-transfer items](decimal-fractions-component-near-transfer.md) — possibly the same claim (merge candidate)
+- [FM intervention effects transfer to decimal number line performance even without an intervention focus on decimals](fm-intervention-transfers-decimal-number-line.md) — related
+- [Integrated intervention outperforms full fraction intervention only on decimal tasks closely paralleling those practiced during intervention](integrated-advantage-limited-to-paralleling-decimal-tasks.md) — related

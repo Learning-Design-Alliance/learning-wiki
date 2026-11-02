@@ -58,8 +58,11 @@ Songs provide multiple redundant memory pathways: verbal content is encoded alon
 5. Follow with a comprehension or production task — cloze completion, retelling, or learner-composed verses — so exposure converts to use.
 
 ## Related Strategies
+
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — pre-teaching content before the song determines whether listening is comprehensible
 - [Act It Out](../strategies/act_it_out.md) — gestural accompaniment adds a second encoding channel to sung language
+- [Carefully select songs for EFL teaching, since only carefully selected songs evidently support vocabulary and grammar acquisition](careful-song-selection-for-efl.md)
+- [Implement song education through in-class guided listening and lyric analysis plus out-of-class singing and appreciation](guided-song-education-procedure.md)
 
 ## Examples
 - **Super Simple Songs** (https://supersimple.com) — EFL songs for young learners with printable lyrics and gesture guides, widely used in early-literacy classrooms.

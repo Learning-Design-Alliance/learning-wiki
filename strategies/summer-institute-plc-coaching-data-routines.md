@@ -47,6 +47,7 @@ The article's implementable recipe is to "Conduct a 2-day Summer Institute to tr
 - [Deliver professional development through a 2-week summer institute followed by year-long on-site coaching](summer-training-plus-onsite-coaching-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Sustained, coached professional development over up to two years for RA implementation](ra-extended-pd-with-coaching.md)
+- [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 
 ## Examples
 -

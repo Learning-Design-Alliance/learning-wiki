@@ -55,3 +55,4 @@ Qualitative think-aloud study of ten German teenage learners composing an Englis
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — a narrower finding that bears on this claim
 - Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related
+- [Song education produced only slight lexico-grammatical gains, with no difference between groups on word choice and identifying good sentences](song-education-lexicogrammatical-gains-limited.md) — related

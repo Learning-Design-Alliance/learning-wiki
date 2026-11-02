@@ -49,3 +49,4 @@ Descriptive survey of the 33 EG participants using a modified 15-item Attitude/M
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related
 - [Caricature animations in the online learning environment did not significantly change students' attitudes toward humor](caricature-animation-no-attitude-toward-humor-effect.md) — related
+- [Iranian EFL learners held predominantly positive attitudes toward blended vocabulary learning, citing flexible timing, personalized learning, and the systematic app design](positive-attitudes-memrise-blended-learning.md) — related

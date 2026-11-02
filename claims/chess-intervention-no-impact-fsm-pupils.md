@@ -61,3 +61,6 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [The null English trial result contrasts with positive chess effects reported in Italy and Denmark](chess-null-result-contrasts-italy-denmark.md) — related
 - [The Chess in Primary Schools programme showed no evidence of a positive impact on Key Stage 2 mathematics attainment one year after the intervention ended](chess-primary-schools-no-impact-ks2-maths.md) — related
 - [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
+- [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
+- [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related

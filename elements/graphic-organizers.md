@@ -19,7 +19,7 @@ sources:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 10 studies (8 causal, 2 quant-synthesis), `q1`–`q4` · 6 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 11 studies (9 causal, 2 quant-synthesis), `q1`–`q4` · 6 of 11 report an effect size · 8 claims rest on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
@@ -41,6 +41,8 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](../claims/story-mapping-pretest-posttest-gain.md) [+M] — attached 2026-11-01 from Salem Saleh Khalaf Ibnian (2010), which proposed "Story-mapping technique as a graphic organizer for EFL short story writing"; tests this page's relationship.
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "IMindMap electronic mind maps designed for three Action Pack 9 reading texts"; tests this page's relationship.
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](../claims/e-mind-maps-within-group-achievement-gain.md) [~W]
+- [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](../claims/group-story-mapping-higher-comprehension-scores.md) [+M] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Group Story-Mapping Strategy with five narrative story areas"; tests this page's relationship.
+- [Experimental-group participants attributed their comprehension gains to the group story-mapping strategy in interviews](../claims/group-story-mapping-interview-endorsement.md) [+W] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Group Story-Mapping Strategy with five narrative story areas".
 
 ## The evidence by question
 - *Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]

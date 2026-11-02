@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 11 mixed) · 30 studies (12 quant-synthesis, 8 causal, 5 review, 5 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 28 claims rest on one study
+> **Evidence** · 30 claims (18 for, 12 mixed) · 31 studies (13 quant-synthesis, 8 causal, 5 review, 5 theoretical), `q1`–`q4` · 10 of 31 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](../claims/lad-achievement-effects-confounded.md) [~W]
 - [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](../claims/tutor-trust-fsm-subgroup-effects.md) [+W]
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](../claims/air-reading-gender-difference-not-significant.md) [~W]
+- [Across and within studies, researcher and developer measures show larger average effect sizes than broad and narrow measures, and narrow measures exceed broad measures by +0.07](../claims/researcher-developer-measures-larger-effect-sizes-full-sample.md) [~W]
 
 ## Related Principles
 

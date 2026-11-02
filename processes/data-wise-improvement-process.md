@@ -14,7 +14,7 @@ grain_size: program, school
 # Data Wise Improvement Process
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies (2 quant-synthesis, 2 theoretical, 1 review, 1 qualitative), `q1`–`q3` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 7 studies (2 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 qualitative), `q1`–`q3` · 2 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 The Data Wise Improvement Process, developed at the Harvard Graduate School of Education, is a structured cycle through which school teams systematically examine student learning data, connect findings to instructional practice, and act on what they learn. It organizes collaborative data work into three phases — **Prepare**, **Inquire**, and **Act** — comprising eight steps, and is deliberately scaffolded by norms and protocols so that conversations about data stay focused on evidence rather than blame. The problem it solves is common in schools: assessment data are collected extensively but rarely translated into changed instruction, because teams lack a shared process for interpreting evidence and agreeing on next steps.
@@ -65,6 +65,7 @@ Program or school — the cycle operates at the level of instructional teams, de
 
 - [Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions](../claims/data-often-fails-to-drive-education-decisions.md) [-W]
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](../claims/cross-level-team-composition-buy-in.md) [~W]
+- [Trained teams more often include timelines and implementation-integrity details (what, when, who) in solution action plans than untrained teams](../claims/trained-teams-timeline-integrity-plan-features.md) [~W]
 
 #### Supporting
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S] — the process operationalizes formative assessment at the institutional level

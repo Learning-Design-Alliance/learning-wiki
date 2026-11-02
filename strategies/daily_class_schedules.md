@@ -67,6 +67,7 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 - [Sustainable block schedule with embedded planning and professional learning time to retain teachers](block-schedule-embedded-planning-time-teacher-retention.md)
 - [Schedule relatively long (30-60 min) post-class morning naps to enhance school learning](schedule-long-post-class-morning-naps.md)
 - [Spread recess throughout the day and pair increased recess with positive behavior or conflict resolution curricula](spread-recess-throughout-day-strategy.md)
+- [Teachers should schedule Technology activities with special attention to each Intelligence Style](attend-to-intelligence-styles-when-scheduling.md)
 
 ## Examples
 - A typical elementary day: morning work on arrival, literacy block in the morning (highest attention), mathematics before lunch, science/social studies in the early afternoon, recess placed to break up the afternoon slump.

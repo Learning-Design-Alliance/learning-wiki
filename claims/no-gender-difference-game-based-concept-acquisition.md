@@ -51,3 +51,5 @@ Same quasi-experiment (53 students; 24 males, 29 females); the gender source of 
 - [No statistically significant interaction between instructional method and gender on scientific concepts acquisition](no-method-gender-interaction-concept-acquisition.md) — related
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](vtm-arabic-oral-skills-no-gender-effect.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
+- [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
+- [No statistically significant difference in geographic concepts acquisition attributable to gender](no-gender-difference-web-quest-concept-acquisition.md) — related

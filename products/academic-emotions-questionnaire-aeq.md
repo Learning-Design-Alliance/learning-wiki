@@ -28,7 +28,8 @@ The AEQ is a self-report assessment developed by Reinhard Pekrun and colleagues 
 - [Graphic-organizer instruction lowers negative achievement emotions (anxiety, boredom, anger) relative to C(2)QU, but differences in shame and hopelessness were not significant](../claims/gos-instruction-lowers-negative-achievement-emotions.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Ad hoc emotion questionnaire (Test 2)](ad-hoc-emotion-questionnaire-test-2.md)
 
 ## Key Sources
 - Reinhard Pekrun, Thomas Goetz, Wolfram Titz, & Raymond P. Perry. (2002). Academic Emotions in Students' Self-Regulated Learning and Achievement: A Program of Qualitative and Quantitative Research. https://doi.org/10.1207/s15326985ep3702_4

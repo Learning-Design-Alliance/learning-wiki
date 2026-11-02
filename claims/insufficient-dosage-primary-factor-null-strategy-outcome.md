@@ -53,3 +53,4 @@ Authors' interpretation in the Discussion, not a tested result. They note prior 
 - [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](reading-instructions-alone-insufficient-for-accurate-judgments.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
+- [The null UK trial result contrasts with two US retrospective cohort studies, possibly due to shorter duration and lower intensity and to control groups already teaching foreign languages](fll-null-contrasts-us-cohort-studies-dose.md) — related

@@ -72,3 +72,4 @@ The authors estimated the effect size for the posttest difference between the di
 - [The dictogloss and dicto-phrase groups showed no significant difference in language proficiency before treatment](dictogloss-dicto-phrase-groups-equivalent-at-pretest.md) — related
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
+- [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related

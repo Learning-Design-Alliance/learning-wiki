@@ -142,8 +142,9 @@ This pattern is scoped to pronunciation for intelligibility and comprehensibilit
 - [Formative Assessment](formative-assessment.md) — the general elicit–interpret–act–reobserve loop this pattern's diagnosis and re-observation follow
 
 ## Examples
--
+
 - *Illustrative, not a tested course:* a 12-week evening class for care workers, described under the illustrative design instance above.
+- [Integrate ASR into school pronunciation curricula and train teachers to use it](../strategies/integrate-asr-into-pronunciation-curricula.md)
 
 ## Key Sources
 - Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)

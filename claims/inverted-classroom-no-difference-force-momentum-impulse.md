@@ -49,3 +49,4 @@ Mann-Whitney U analysis of Test 1 marks for the same 76-student quasi-experiment
 - [The inverted classroom produced a significantly higher post-test mean than the traditional classroom on the Work, Energy & Power topic (Test 2) in pre-university physics](inverted-classroom-significant-post-test-work-energy-power.md) — related
 - [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — related
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related
+- [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related

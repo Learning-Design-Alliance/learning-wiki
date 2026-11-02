@@ -70,3 +70,4 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related
 - [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — a narrower finding that bears on this claim
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
+- [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related

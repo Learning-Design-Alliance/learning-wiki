@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -47,6 +47,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](../claims/only-eight-articles-el-specific-theory.md) [+W] — attached 2026-10-31 from Nagel Daniel A. et al. (2024), which proposed "Kolb's experiential learning theory (KELT) and its four-mode experiential learning cycle".
 - [The interaction of type of reflection and order of abstraction is significant for discussion scores in a secondary agriscience experiential lesson](../claims/reflection-by-abstraction-interaction-discussion-scores.md) [+W] — attached 2026-11-01 from DiBenedetto et al. (2017), which proposed "Kolb's experiential learning theory as the framework for designing concrete experiences with reflection and abstraction"; tests this page's relationship.
 - [Type of reflection and order of abstraction show no significant main effects or interaction on knowledge test scores](../claims/no-reflection-abstraction-effect-knowledge-scores.md) [~W] — attached 2026-11-01 from DiBenedetto et al. (2017), which proposed "Kolb's experiential learning theory as the framework for designing concrete experiences with reflection and abstraction"; tests this page's relationship.
+- [Experiential learning-based Mathematics teaching material improves fifth-graders' Mathematics cognitive ability more than conventional teaching material](../claims/experiential-material-improves-math-cognitive-ability.md) [+W] — attached 2026-11-02 from Mutmainah et al. (2019), which proposed "Kolb's experiential learning theory: knowledge created through transformation of experience via four stages".
 
 ## Related Theories
 

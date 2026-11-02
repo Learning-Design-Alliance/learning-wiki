@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 118 claims (60 for, 52 mixed, 6 against) · 105 studies (30 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 13 of 105 report an effect size · 117 claims rest on one study
+> **Evidence** · 120 claims (62 for, 52 mixed, 6 against) · 107 studies (32 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 14 of 107 report an effect size · 119 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -153,6 +153,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Among regular students, higher ASSISTments usage predicted higher 7th-grade MCAS performance](../claims/assistments-student-usage-predicts-mcas-regular.md) [+W]
 - [For special education students, student usage showed no effect, but students of no-usage teachers scored lower than those of some-usage teachers](../claims/special-education-usage-null-teacher-effect.md) [~W]
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](../claims/smart-board-higher-posttest-achievement-electricity-unit.md) [~W]
+- [When controlling for pre-test scores, both CAI groups scored significantly higher than the control group on the phonics post-test](../claims/prek-cai-phonics-posttest-ancova-higher.md) [+W]
+- [Higher-secondary chemistry students taught with web-based instruction scored significantly higher on the post-test than students taught by traditional method](../claims/wbi-post-test-significant-advantage-chemistry.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

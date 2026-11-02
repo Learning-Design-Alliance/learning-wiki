@@ -51,3 +51,4 @@ Authors' interpretation in the Discussion section, offered as an explanation for
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
 - [Preservice agricultural teachers were efficacious in personal mathematics and personal teaching efficacy but only moderately efficacious in mathematics teaching efficacy throughout the course](preservice-ag-teachers-math-efficacy-profile.md) — related
+- [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

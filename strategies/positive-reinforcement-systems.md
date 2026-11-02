@@ -60,8 +60,10 @@ Reinforcement works because contingent consequences increase the future frequenc
 6. Monitor behavior data; if the target behavior is not increasing, re-select the reinforcer rather than escalating the reward.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — regular one-to-one contact provides natural opportunities for contingent, specific reinforcement
 - [Choice boards](../elements/choice-boards.md) — autonomy-supportive structure that reduces the risk of reward systems displacing intrinsic motivation
+- [Pair reading interventions with a rewards system to motivate students with learning disabilities who dislike reading](rewards-system-reading-motivation.md)
 
 ## Examples
 - **[PBIS](https://www.pbis.org)** — a widely implemented school-wide framework in which positive behavior expectations are taught and reinforced with consistent acknowledgment systems across settings.

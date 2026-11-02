@@ -55,3 +55,5 @@ Primary analysis of a pragmatic randomised controlled trial using a cross-classi
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](textnow-fsm-differential-effect.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
 - [Small group teaching appears an effective strategy for raising writing skills among pupils between Levels 3c and 4b](small-group-teaching-effective-writing-levels-3c-4b.md) — related
+- [The Discover Summer School showed no statistically significant effect on spelling and grammar attainment](discover-summer-school-no-significant-spelling-grammar-effect.md) — related
+- [The Discover Summer School showed no statistically significant effect on extended writing attainment in an underpowered randomised trial](discover-summer-school-no-significant-writing-effect.md) — reports the opposite

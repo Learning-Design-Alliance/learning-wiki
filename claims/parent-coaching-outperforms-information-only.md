@@ -113,3 +113,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
 - [Training combining educational and practical elements improves more delivery-quality outcomes (52%) than education-only training (23%)](combined-educational-practical-training-more-effective-than-education-only.md) — a narrower finding that bears on this claim
 - [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](coaching-self-selectors-higher-academic-risk.md) — related
+- [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related

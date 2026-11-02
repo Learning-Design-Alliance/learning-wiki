@@ -48,3 +48,4 @@ Follow-up questionnaire and personal interview data from the 15 experimental agr
 - [Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later](science-in-cte-control-teachers-low-sustained-use.md) — related
 - [Sustained usage rates in Science-in-CTE were consistent with those reported in the Math-in-CTE follow-up study](science-in-cte-usage-consistent-with-math-in-cte.md) — related
 - [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](science-teachers-voluntary-adoption-science-in-cte.md) — related
+- [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

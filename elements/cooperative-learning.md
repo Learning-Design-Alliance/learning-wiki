@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 22 studies (9 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 22 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (19 for, 9 mixed, 1 against) · 23 studies (10 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 23 report an effect size · 27 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -79,6 +79,8 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Scaffolded Think-Group-Share students significantly outperformed Group Investigation and Learning Together students on all three comprehension tests, with the smallest margin against Group Investigation on the third test](../claims/stgs-outperformed-on-comprehension-tests.md) [+W] — attached 2026-11-01 from Octavia Mantik (2017), which proposed "Scaffolded Think-Group-Share learning: a three-step cooperative method with an individual hard-scaffolding worksheet before group work".
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](../claims/posttest-descriptive-means-cooperative-vs-control.md) [+W]
 - [The article reports that involvement in cooperative learning is a strong predictor of undergraduate academic performance](../claims/cooperative-learning-predicts-performance.md) [+W]
+- [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](../claims/cooperative-cai-higher-physics-motivation.md) [+W]
+- [No significant achievement difference between male and female students taught physics with computer-assisted Learning Together](../claims/no-gender-difference-cai-ltm-achievement.md) [~W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

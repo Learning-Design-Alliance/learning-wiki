@@ -47,3 +47,4 @@ RCT of 56 children with ADHD (30 intervention, 26 control) aged 5-9; parent ADHD
 ## Related Claims
 - [NAT significantly reduced homeroom teacher-rated inattention and hyperactivity/impulsivity relative to control](nat-teacher-rated-symptoms-improvement.md) — related
 - [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](nat-chinese-handwriting-construction-accuracy-gains.md) — related
+- [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related

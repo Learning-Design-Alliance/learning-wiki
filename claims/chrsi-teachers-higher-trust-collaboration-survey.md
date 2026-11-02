@@ -63,3 +63,4 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 - [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
 - [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](small-by-design-schools-higher-teacher-influence-and-capacity.md) — related
+- [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related

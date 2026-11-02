@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (38 show a difference, 16 mixed, 8 no difference) · 34 studies (19 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 13 of 34 report an effect size · 60 claims rest on one study
+> **Evidence** · 63 claims (38 show a difference, 16 mixed, 9 no difference) · 35 studies (20 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 13 of 35 report an effect size · 61 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -98,6 +98,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Daily journal writing was associated with higher listening and reading comprehension passing rates in two experimental MSA classes compared with a control class](../claims/journal-writing-higher-listening-reading-passing-rates.md) [+W] — instruction changes it
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](../claims/metacognitive-strategy-instruction-improves-listening-comprehension.md) [+W] — instruction changes it
 - [Struggling students in the journal-writing classes showed apparent improvement in listening and reading comprehension compared with the control class](../claims/journal-writing-helped-struggling-students.md) [+W] — instruction changes it
+- [No group improved in perception of French /y/, so production-focused ASR training did not transfer to perception](../claims/asr-production-training-no-perception-gains.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

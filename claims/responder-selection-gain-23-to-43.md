@@ -47,3 +47,4 @@ Categorization diagnostics on leave-one-out cross-validation used an optimized d
 ## Related Claims
 - [An individualized machine-learning diagnostic using LCM-based features predicts lexical categorization training benefits with moderate-to-good accuracy](ml-diagnostic-predicts-training-benefit.md) — related
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — a narrower finding that bears on this claim
+- [CCTV produced much larger percentage increases in reading speed (86% for 1.3M, 74% for 1M) than eccentric viewing training (16%, not significant)](cctv-larger-percentage-reading-speed-increases.md) — related

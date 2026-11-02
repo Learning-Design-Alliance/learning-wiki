@@ -53,3 +53,4 @@ Indicator-level analysis of the post-test (Table 6) in the same quasi-experiment
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — a broader claim this one bears on
 - [Evaluative questions elicit more historical reasoning than explanatory questions](evaluative-questions-elicit-more-historical-reasoning.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
+- [A 40-hour critical thinking workshop intervention significantly increases educators' use of higher-order questions compared with a control group](ct-workshop-increases-higher-order-questions.md) — related

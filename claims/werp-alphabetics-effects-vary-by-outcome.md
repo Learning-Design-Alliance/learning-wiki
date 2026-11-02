@@ -60,3 +60,4 @@ WWC improvement-index computation across the nine alphabetics findings in Hecht 
 - [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](werp-hecht-close-study-design.md) — related
+- [Pre-K teachers preferred Waterford Early Learning over Imagine Learning and recommended abandoning daily CAI use in favor of 2-3 sessions per week](prek-teachers-prefer-waterford-limit-cai-frequency.md) — related

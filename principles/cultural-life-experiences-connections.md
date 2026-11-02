@@ -71,7 +71,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (47 for, 10 mixed) · 53 studies (15 qualitative, 13 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 53 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (48 for, 10 mixed) · 54 studies (15 qualitative, 14 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 54 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -200,6 +200,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [+W] — attached 2026-10-21 from Florence Lespiau (2019), which proposed "Frame practice of formal reasoning in evolutionary-salient primary knowledge contexts to motivate learners"; tests this page's relationship.
 - [Experienced educators ranked experience-drawing and imagination questions highest and factual and technique questions lowest among eighteen literature study questions](../claims/expert-rankings-literature-study-questions.md) [+W] — attached 2026-10-24 from L. Z (1921), which proposed "Design literature study around sympathetic approach and imaginative picturing of the selection's experiences rather than technique and factual detail".
 - [Anchoring activities in familiar contexts, such as photos of the children's own school, immediately engaged every child](../claims/familiar-contexts-boost-engagement.md) [+W] — attached 2026-10-28 from Yanghee Kim et al. (2021), which proposed "Design robot-mediated collaboration with flexibility, friend-like communication, familiar tasks, and home languages".
+- [Android-based learning media with local cultural content produced a statistically significant difference in the increase of learners' diagrammatic and argumentative representation competence between experimental and control classes](../claims/android-local-culture-media-improves-representation-competence.md) [+W] — attached 2026-11-01 from Liliarti et al. (2018), which proposed "Use local cultural artifacts familiar to students as the context for physics learning media"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

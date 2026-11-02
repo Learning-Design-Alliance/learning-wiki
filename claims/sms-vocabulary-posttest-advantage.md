@@ -57,3 +57,4 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [EFL students taught writing through a WhatsApp group outperformed textbook-taught controls on a sentence-structure post-test](whatsapp-group-outperformed-control-sentence-structure.md) — related
 - [Students receiving SMS learning support scored significantly higher on the programming posttest than control students](sms-support-higher-posttest-programming.md) — related
 - [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related
+- [Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest](wikipedia-online-texts-improve-efl-vocabulary.md) — related

@@ -56,3 +56,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related
 - [Students taught with smart board support retained more information four weeks after instruction than students taught with the 2005 curriculum](smart-board-higher-retention-four-weeks.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
+- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related

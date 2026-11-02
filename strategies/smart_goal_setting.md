@@ -63,9 +63,11 @@ Goal-setting research shows that performance gains come primarily from **specifi
 - [Teacher performance goals are often focused on attaining measurable student achievement or learning targets](../claims/teacher-goals-focused-on-measurable-student-targets.md) [+W]
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the proximal sub-goal mechanism that makes distal SMART goals motivating
 - [Action Planning](action_planning.md) — converts an accepted goal into scheduled, concrete steps
 - [Check-Ins](../principles/check-ins.md) — the monitoring routine that keeps measurable criteria alive
+- [Students adopt SMART goals pursued vigorously to improve academic performance](smart-goals-adoption-strategy.md)
 
 ## Examples
 - **[Writing workshop](writing_workshop.md)**: a student sets "revise my persuasive essay to score 4/5 on the evidence rubric by Friday," checks progress against the rubric in a mid-week conference, and adjusts the sub-goal after the first draft review.

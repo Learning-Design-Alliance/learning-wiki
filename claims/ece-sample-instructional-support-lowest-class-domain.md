@@ -51,3 +51,5 @@ Descriptive analysis of CLASS Pre-K observation data provided by CPS and DFSS fo
 - [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related
 - [BEST in CLASS improved observed classroom quality on all three CLASS domains, with effect sizes .50 or larger](best-in-class-improved-classroom-quality.md) — related
+- [Classroom quality in government-funded Chilean preschool classrooms is low, with minimal levels on all three CLASS dimensions](chilean-preschool-classroom-quality-low.md) — related
+- [The UBC professional development program significantly improved prekindergarten classroom quality after the first year, with the largest effect on Emotional Support](ubc-improved-prek-classroom-quality-year-one.md) — related

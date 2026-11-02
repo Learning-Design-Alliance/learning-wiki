@@ -181,6 +181,8 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 
 ## Examples
 
+- [Pair reading interventions with a rewards system to motivate students with learning disabilities who dislike reading](../strategies/rewards-system-reading-motivation.md)
+
 ### Illustrative
 
 **[Learner Choice](autonomy.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.

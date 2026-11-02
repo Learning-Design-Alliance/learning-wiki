@@ -48,3 +48,4 @@ One of the quasi-experimental educational-program studies included in the review
 - [Educational programs for nurses produce a statistically significant change in attitudes toward fever management, per the review's meta-analysis](educational-programs-significant-attitude-change-fever.md) — a broader claim this one bears on
 - [Educational programs for nurses produce a statistically significant change in knowledge about fever in children, per the review's meta-analysis](educational-programs-significant-knowledge-change-fever.md) — a broader claim this one bears on
 - [Educational programs for nurses did not produce a statistically significant change in perceptions about fever management](educational-programs-no-significant-perception-change-fever.md) — related
+- [Satisfaction motivation did not differ significantly between OER blended learning and face-to-face classroom learning](oer-blended-quipper-satisfaction-null.md) — related

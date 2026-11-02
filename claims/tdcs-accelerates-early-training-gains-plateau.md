@@ -51,3 +51,4 @@ Learning-curve analysis of the capacity index (K = N*d') across ten training ses
 - [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](alpha-nf-improves-corsi-capacity.md) — related
 - [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related
 - [UP improvement over repeated XR sessions is greater and faster for ventriculostomy than for tumor resection](procedure-variability-moderates-xr-learning-gains.md) — related
+- [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related

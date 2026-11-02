@@ -47,3 +47,4 @@ Systematic literature search via EBSCO (PsycINFO and Education Research Complete
 
 ## Related Claims
 - [Programs offering the highest levels of active student participation are those aimed at generally improving the school environment (Restorative Justice and SEHER), suggesting broad, systemic scope favors student decision-making roles](broad-systemic-scope-yields-highest-asp.md) — related
+- [Recruiting elderly visually impaired participants to a multi-visit randomized trial proved extremely difficult: only 10 of 145 referred patients completed](rct-recruitment-difficulty-elderly-low-vision.md) — related

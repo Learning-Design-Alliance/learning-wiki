@@ -48,3 +48,4 @@ Semi-structured interviews with ten randomly selected SMS-group students (5 fema
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
 - [Learners' reports identify technical and pedagogical disadvantages of SMS vocabulary learning, including storage limits, segmented messages, and superficial processing](sms-vocabulary-disadvantages-reports.md) — related
 - [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related
+- [Students most valued CHLS's repeatability and easy access, while difficulty concentrating and lack of relation to schoolwork were leading disadvantages](chls-advantages-disadvantages-survey.md) — related

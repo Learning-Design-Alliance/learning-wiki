@@ -56,3 +56,4 @@ Findings table from the WWC review reporting the Scrivener et al. (2015) randomi
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
 - OneGoal students are 40% more likely to earn postsecondary degrees than students from similar backgrounds, per a University of Chicago study — related
 - [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — a broader claim this one bears on
+- [A one-semester learning community program at Kingsborough Community College increased six-year degree completion by 4.6 percentage points](kingsborough-learning-communities-six-year-degree-impact.md) — related

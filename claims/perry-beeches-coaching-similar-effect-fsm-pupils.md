@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: lord-2015
     resource: "https://eric.ed.gov/?id=ED581144"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For pupils eligible for free school meals, the effect was Hedges' g = 0.40 (95% CI 0.15 to 0.66, p < 0.01), and the difference in effect between FSM Ever 6 pupils and their peers was less than one mark. [→ Lord 2015](#lord-2015)
@@ -37,7 +38,7 @@ Lord, P., Bradshaw, S., Stevens, E. and Styles, B. (2015). Perry Beeches Coachin
 
 `q3 · i2` · `causal · r2`
 
-Pre-specified FSM subgroup analysis within the same RCT; Table 12 reports Hedges' g = 0.40, 95% CI 0.15 to 0.66, p < 0.01 for 67 intervention and 57 control FSM pupils. The report states the FSM-versus-peer difference was "less than one mark".
+FSM Ever 6 subgroup analysis within the same RCT, run because EEF requires a separate FSM analysis in every evaluation; unlike the trial's other subgroup analyses it was not pre-specified in the protocol. Table 12 reports Hedges' g = 0.40, 95% CI 0.15 to 0.66, p < 0.01 for 67 intervention and 57 control FSM pupils. The report states the FSM-versus-peer difference was "less than one mark".
 
 > "The average impact on pupils from low income families was also five additional months' progress; the differences in effect between students who had been eligible for free school meals at any point in the previous six years and their peers was less than one mark."
 
@@ -57,3 +58,5 @@ Pre-specified FSM subgroup analysis within the same RCT; Table 12 reports Hedges
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
+- [The dissemination interventions showed no impact on attainment for pupils who had ever been eligible for free school meals](literacy-octopus-no-impact-everfsm.md) — reports the opposite

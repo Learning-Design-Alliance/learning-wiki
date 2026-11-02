@@ -54,3 +54,4 @@ Secondary analysis within the same ANCOVA of the three groups (n = 90 as printed
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
 - [Pretest and posttest scores correlated significantly (r=0.21, p<0.05), justifying the pretest covariate](pretest-posttest-correlation-r021.md) — possibly the same claim (merge candidate)
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — possibly the same claim (merge candidate)
+- [The pre-test covariate had no statistically significant effect on post-test concept acquisition](pretest-covariate-nonsignificant-jigsaw-study.md) — reports the opposite

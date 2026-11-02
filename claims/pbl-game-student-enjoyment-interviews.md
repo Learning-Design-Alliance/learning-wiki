@@ -51,3 +51,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
 - [Most experimental-group students wanted similar WhatsApp applications used in their other courses](students-want-whatsapp-in-other-courses.md) — related
+- [Students interviewed after jumping task based on CPS lessons reported enthusiasm and found the problems challenging](interview-positive-response-jumping-task-cps.md) — related

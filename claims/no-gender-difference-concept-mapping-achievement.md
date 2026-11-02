@@ -59,3 +59,4 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [Interviews indicated that students whose post-test scores improved showed interest in and understanding of concept mapping, while poor performers did not, though stated usefulness did not always match achievement](interview-attitude-achievement-consistency-concept-mapping.md) — related
+- [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related

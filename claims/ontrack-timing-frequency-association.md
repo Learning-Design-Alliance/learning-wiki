@@ -49,3 +49,4 @@ Chi-square test of independence across 56 school-based sites comparing timing of
 - [Timing of tutoring was significantly associated with tutor qualifications and with student grade level and baseline risk](ontrack-timing-associations-qualifications-grade-risk.md) — related
 - Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming — related
 - [Among students who started the year most at risk for reading difficulties, none of the three implementation features (timing, frequency, tutor qualifications) was associated with end-of-year literacy progress](ontrack-no-implementation-feature-progress-association.md) — related
+- [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related

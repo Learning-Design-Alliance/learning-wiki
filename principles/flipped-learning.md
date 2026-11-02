@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (44 for, 42 mixed, 2 against) · 63 studies (23 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 63 report an effect size · 80 claims rest on one study
+> **Evidence** · 91 claims (44 for, 43 mixed, 4 against) · 65 studies (25 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 65 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](../claims/flipped-active-learning-higher-pooled-exam-scores-ap.md) [+W] — attached 2026-11-01 from Maria Entezari et al. (2016), which proposed "Flip content-intensive science courses together with in-class active learning, not video materials alone"; tests this page's relationship.
 - [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](../claims/experimental-group-prepost-engagement-gain.md) [+W] — attached 2026-11-01 from Ayçiçek et al. (2018), which proposed "Use the flipped classroom model to enhance classroom engagement, with teacher preparation and technical capacity planning".
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](../claims/fci-improves-iraqi-efl-writing-posttest.md) [+W] — attached 2026-11-01 from Ramyar O. Qader et al. (2019), which proposed "Flipped writing course pattern: pre-class videos plus in-class collaborative practice"; tests this page's relationship.
+- [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](../claims/pre-service-teacher-aversion-to-flipped-learning.md) [~W] — attached 2026-11-02 from Faisal M. Almutairi et al. (2020), which proposed "Exercise care when structuring pre-service teacher education courses that apply flipped learning".
 
 ## Objective and learner-valued goal
 
@@ -222,6 +223,8 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](../claims/fci-implementation-barriers-iraq.md) [~W]
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](../claims/flipped-learning-affordances-constraints-perceptions.md) [+W]
 - [The difference in ratings of 'The instructor created an environment conducive to the learning process' between flipped and traditional sections was not statistically significant (p = .09)](../claims/environment-item-no-significant-difference.md) [~W]
+- [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](../claims/fc-student-resistance-self-learning.md) [-W]
+- [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](../claims/flipped-learning-no-posttest-advantage-video-production.md) [-W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

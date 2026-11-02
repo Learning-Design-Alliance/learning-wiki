@@ -55,3 +55,4 @@ Quasi-experimental pre/post two-group study of 120 intermediate first-grade stud
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
+- [The pre-test covariate had no statistically significant effect on post-test concept acquisition](pretest-covariate-nonsignificant-jigsaw-study.md) — related

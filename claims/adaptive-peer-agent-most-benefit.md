@@ -51,3 +51,4 @@ In the randomized controlled between-subject experiment with fifty-nine children
 - [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](multi-agent-tutoring-superior-single-agent.md) — related
 - [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related
 - [Children exhibited slightly greater facial affect when the robot behaved as a tutee of the child](tutee-role-greater-facial-affect.md) — related
+- [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related

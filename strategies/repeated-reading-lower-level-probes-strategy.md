@@ -47,6 +47,7 @@ Based on the study's failure to transfer fluency gains to harder text, the autho
 
 - [Timed Practice With Progress Monitoring](timed-practice-with-progress-monitoring.md)
 - [Reading Fluency Practice](reading-fluency-practice.md)
+- [Pair reading interventions with a rewards system to motivate students with learning disabilities who dislike reading](rewards-system-reading-motivation.md)
 
 ## Examples
 -

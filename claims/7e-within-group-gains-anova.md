@@ -52,3 +52,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Multimedia-supported 7E model materials produced significantly higher post-test achievement than traditional teaching in fifth-grade science](multimedia-7e-posttest-advantage.md) — related
 - [Multimedia-supported 7E model materials improved five-week retention of learned science content relative to traditional teaching](multimedia-7e-retention-advantage.md) — related
+- [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](mit-emotional-posttest-advantage.md) — related

@@ -66,3 +66,4 @@ The interview describes policy-level experiments (e.g., Dept. of Education-funde
 ## Related Claims
 - [Research-validated improvements to Cognitive Tutors have been slow to be incorporated into fielded products](slow-research-uptake-into-tutor-products.md) — related
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
+- [The null results suggest simply communicating research evidence to schools is not enough to improve outcomes; transforming evidence into usable practice and school implementation conditions may matter as much](communicating-evidence-alone-insufficient.md) — related

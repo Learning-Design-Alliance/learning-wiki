@@ -56,3 +56,4 @@ Reflexive thematic analysis (Braun and Clarke's approach) of open-ended survey r
 - [Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5](eco-mode-selection-declines-with-latency.md) — related
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
+- [The intervention increased students' declared intentions to adopt eco-responsible behaviors across water economy, pollution prevention and forest preservation](intervention-increases-eco-responsible-behavior-intentions.md) — related

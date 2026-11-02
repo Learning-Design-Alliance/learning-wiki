@@ -55,3 +55,5 @@ Quasi-experiment with 53 first graders in two intact sections (experimental n=26
 - [Drama-based science teaching improved seventh-grade students' understanding of scientific concepts compared with traditional teaching](drama-teaching-improved-scientific-concept-understanding.md) — related
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related
 - [CAMI produces significantly higher learning achievement than traditional narrative teaching in a Chinese musical instruments appreciation course](cami-superior-traditional-narrative-chinese-instruments.md) — related
+- [The pre-test covariate had no statistically significant effect on post-test concept acquisition](pretest-covariate-nonsignificant-jigsaw-study.md) — related
+- [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](web-quest-improves-geographic-concept-acquisition.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (21 for, 29 mixed, 32 against) · 75 studies (25 quant-synthesis, 19 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 75 report an effect size · 74 claims rest on one study
+> **Evidence** · 84 claims (21 for, 29 mixed, 34 against) · 77 studies (25 quant-synthesis, 21 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 77 report an effect size · 76 claims rest on one study
 
 ## Description and scope
 
@@ -204,6 +204,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Exam-score advantage of active learning held on exams one and two but not on exam three](../claims/active-learning-exam-advantage-varies-by-exam.md) [~M]
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [-W]
 - [Traditional instruction also significantly improves Iranian EFL learners' writing ability from pre-test to post-test](../claims/ti-significant-pre-post-writing-gain-iranian-efl.md) [~W]
+- [Sharing task based on CPS produced better problem-solving ability than conventional lecture-based instruction](../claims/sharing-task-cps-better-than-conventional.md) [-W]
+- [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](../claims/inguinal-model-mean-errors-lower.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

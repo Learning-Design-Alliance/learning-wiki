@@ -61,9 +61,11 @@ Flash card drill targets automaticity, not initial word learning. The rationale 
 6. Monitor progress by timing and recording accuracy on the full tier periodically ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - Phonics and decoding instruction — the necessary complement; sight-word drill covers irregular words, phonics covers the generalizable patterns
 - Repeated reading of connected text — where automatic word recognition is consolidated into fluency
 - Vocabulary in context — extends recognition into meaning and use
+- [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — flash card drill is a retrieval-practice format; short, frequent, and self-paced

@@ -90,3 +90,4 @@ Descriptive analysis of attendance-related messages per month per student by gra
 - [Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish](targeted-attendance-texts-and-translation-use.md) — related
 - Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements — related
 - [AI-supported instruction is most effective at the high school level, with between-level differences statistically significant](ai-effect-highest-high-school-level.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

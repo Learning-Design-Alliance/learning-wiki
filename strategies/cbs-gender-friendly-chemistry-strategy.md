@@ -51,6 +51,7 @@ The article recommends adopting computer-based simulations for chemistry instruc
 
 - [Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials](employ-varied-effective-chemistry-pedagogies.md)
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
+- [Using virtual laboratories to enable otherwise impossible experimental work and dynamic submicroscopic visualization](virtual-laboratory-teaching-strategy-advantages.md)
 
 ## Examples
 -
