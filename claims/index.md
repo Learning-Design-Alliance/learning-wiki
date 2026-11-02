@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**43264 entries** · 0 stable · 43264 in review · 0 drafts
+**43265 entries** · 0 stable · 43265 in review · 0 drafts
 
 ---
 
@@ -1861,6 +1861,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) - Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence
 * [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) - Adding a self-explanation feature to a base game improved transfer performance
 * [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) - Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests
+* [Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors](misconception-kc-improves-fraction-student-model.md) - In logged data from 40 students using a fraction arithmetic tutor, a knowledge component coded +1 where the independent whole-number strategy gives the right answer and -1 where it gives a wrong one improved the Additive Factors Model's fit, and each student's estimated misconception strength correlated with the share of their pre-test errors that followed that strategy (Spearman R = 0.46).
 * [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) - Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability
 * [Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations](alternative-ac-grouping-no-added-benefit.md) - Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations
 * [Adding body metaphors to abstract stimuli improves mental rotation performance](body-metaphors-improve-mental-rotation.md) - Adding body metaphors to abstract stimuli improves mental rotation performance
