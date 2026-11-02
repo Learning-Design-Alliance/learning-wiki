@@ -198011,7 +198011,6 @@
 "id":"interleaving-not-spacing-persists-over-delay",
 "newest_evidence":"2021",
 "path":"claims/interleaving-not-spacing-persists-over-delay.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests",
 "type":"claim"
