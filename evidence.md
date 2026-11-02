@@ -22,9 +22,9 @@ These figures describe two things at once: what education research has produced,
 | | |
 |---|---|
 | Claims | 42,921 |
-| Evidence entries | 50,789 |
+| Evidence entries | 50,790 |
 | Distinct studies | 10,348 |
-| Claims resting on one study | 42,344 (99%) |
+| Claims resting on one study | 42,343 (99%) |
 | Claims with no coded evidence | 3 |
 | Studies reporting an effect size | 2,726 of 10,348 (26%) |
 
@@ -46,7 +46,7 @@ These figures describe two things at once: what education research has produced,
 |---|---|---|---|
 | 1,087 (11%) | 5,890 (57%) | 3,189 (31%) | 182 (2%) |
 
-**Studies per claim:** 0: 3, 1: 42,344, 2: 488, 3: 67, 4 or more: 19.
+**Studies per claim:** 0: 3, 1: 42,343, 2: 489, 3: 67, 4 or more: 19.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
