@@ -42,6 +42,7 @@ The article recommends that after making question papers, teachers verify the co
 ## Related Strategies
 
 - [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](blooms-taxonomy-question-conversion-training.md)
+- [Train teachers to demonstrate higher-order question generation before assigning the strategy](demonstrate-higher-order-question-generation-before-strategy-use.md)
 
 ## Examples
 -

@@ -67,6 +67,8 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 - [Adapt productive failure principles to large university lectures by having the lecturer discuss preparatory exercises and common misconceptions at the start of the lecture](lecturer-discusses-preparatory-exercises-large-lectures.md)
 - [Teach introductory physics with Just-in-Time Teaching, a student-centered, interactive-engagement style, to improve conceptual understanding of Newtonian concepts](just-in-time-teaching-strategy.md)
 - [Use heterogeneity simulations or real peer feedback in university teacher education to promote heterogeneity-responsive teaching beliefs](heterogeneity-simulation-teacher-education-strategy.md)
+- [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
+- [Use pre-class online discussion on Moodle followed by in-class instruction responsive to the discussion](pre-class-moodle-discussion-then-responsive-lesson.md)
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).

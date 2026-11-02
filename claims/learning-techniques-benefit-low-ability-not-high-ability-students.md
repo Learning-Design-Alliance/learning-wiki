@@ -91,3 +91,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
 - [Students still want teachers' help and do not want all control handed over to them](students-still-want-teacher-support-under-autonomy.md) — related
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related
+- [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related

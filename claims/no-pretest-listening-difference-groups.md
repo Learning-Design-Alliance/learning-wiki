@@ -86,3 +86,5 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [Pre-test listening proficiency was equivalent between the online and traditional classroom groups](pre-test-proficiency-equivalent-groups.md) — related
+- [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — possibly the same claim (merge candidate)
+- [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related

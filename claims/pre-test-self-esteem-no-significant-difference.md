@@ -52,3 +52,4 @@ Baseline comparison of the two assigned groups using the independent samples t-t
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related

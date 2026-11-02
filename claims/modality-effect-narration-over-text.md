@@ -223,3 +223,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related
+- [Screen reading is slower than reading from printed out material according to prior literature reviewed](screen-reading-slower-than-printed-reading-literature.md) — related

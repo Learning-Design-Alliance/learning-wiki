@@ -55,6 +55,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 - [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 - [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
+- [Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples](science-teachers-integrate-computational-practice.md)
 
 ## Examples
 -

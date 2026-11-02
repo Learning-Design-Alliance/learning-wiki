@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 210 claims (169 show a difference, 30 mixed, 11 no difference) · 158 studies (88 associational, 28 review, 22 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 3 of 158 report an effect size · 208 claims rest on one study
+> **Evidence** · 213 claims (171 show a difference, 30 mixed, 12 no difference) · 160 studies (88 associational, 28 review, 24 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 3 of 160 report an effect size · 211 claims rest on one study
 
 ## How to read this page
 
@@ -247,6 +247,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [In spring of fourth grade, the follow-through condition showed a marginally significant differential impact favoring African-American children (0.32 of a standard deviation)](../claims/triad-ft-differential-impact-african-american-spring-2012.md) [~M] — an instructional effect differs by group
 - [Relative impact ratios for Computer Science Principles test taking were greatest for minority students, with a more than ten-fold increase for Black students](../claims/csp-test-taking-impact-ratios-greatest-minority.md) [+M] — an instructional effect differs by group
 - [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+M] — an instructional effect differs by group
+- [Conceptual learning occurs more readily in low-minority classrooms regardless of condition](../claims/conceptual-learning-low-minority-classrooms.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Example-based assignments improve procedural performance for students in high-minority classrooms](../claims/example-based-assignments-high-minority-classrooms-procedural-gains.md) [+W] — an instructional effect differs by group
+- [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](../claims/no-trajectory-difference-cohort2.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

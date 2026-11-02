@@ -56,3 +56,4 @@ The article cites prior Thai studies (Pornviriyasakul 2011; Chaowakiratipong 201
 - [Higher education students struggle to identify appropriate data representations for AI model training](students-struggle-data-representation-ai-training.md) — related
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — related
+- [Prior studies found backward design improved pre-service teachers' planning, but the article's writing result contrasts with a prior reading-comprehension finding](backward-design-prior-evidence-teachers-vs-l2-outcomes.md) — related

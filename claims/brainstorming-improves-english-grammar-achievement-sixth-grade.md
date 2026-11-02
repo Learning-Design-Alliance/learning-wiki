@@ -51,3 +51,4 @@ Semi-experimental two-group design with pre- and post-tests in four public schoo
 ## Related Claims
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
 - [VIII standard students taught English grammar with mind mapping showed significantly higher gain scores than control-group students taught by the conventional method](mind-mapping-english-gain-scores-significant.md) — related
+- [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related

@@ -89,6 +89,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](../strategies/facilitation-protocol-probing-questions.md)
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](../strategies/protect-teachers-sociopolitical-backlash-crse.md)
 - [Use SQuILD to quantify informal talk and learning in open-ended museum settings](../strategies/squild-scoring-informal-learning-dialogues.md)
+- [Use differentiated immediate feedback, explanation of correct responses and open-ended questions in small-group social cognition sessions](../strategies/differentiated-feedback-explanation-social-cognition-sessions.md)
 
 ## Key Sources
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)

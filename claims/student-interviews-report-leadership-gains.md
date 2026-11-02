@@ -50,3 +50,4 @@ Qualitative content analysis of semi-structured interviews with 10 randomly sele
 - [The TPSR leadership program significantly improved leadership behavior scores (initiation of structure and consideration) on the LBDQ compared with the control group](tpsr-program-improves-lbdq-leadership-scores.md) — related
 - [A 16-lesson TPSR leadership program significantly improved personal and social responsibility scores of sports high school students compared with a control group](tpsr-program-improves-responsibility-scores.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
+- [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related

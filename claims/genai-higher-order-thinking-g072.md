@@ -76,3 +76,4 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](learning-by-academic-ability-interaction-critical-thinking.md) — related
 - [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related
 - [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related
+- [Gamification of web-based learning improves creative thinking among primary school students learning English](gamification-web-learning-improves-creative-thinking.md) — related

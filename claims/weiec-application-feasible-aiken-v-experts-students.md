@@ -68,3 +68,4 @@ Preliminary field testing with 35 students of class XII SMA 5 Samarinda assessin
 - [The Ispring Suite 8 geometry media with Google SketchUp 3D effects was judged valid by media and material experts](ispring-sketchup-geometry-media-expert-validated.md) — related
 - [A local-wisdom-based social studies learning model is judged feasible by expert panels, with CVR > 0 on every assessed item](local-wisdom-model-expert-feasibility-cvr.md) — related
 - [Using the mobile WEIEC application produced a significantly larger pretest-posttest gain in electric circuit interpretation ability than the control condition, with a reported 85.8% effective contribution](weiec-improves-electric-circuit-interpretation-ability.md) — related
+- [Nine experts rated the PBL-based civic education teaching material eligible for learning, with an average final score of 92%](pbl-civic-expert-validation-92-percent.md) — related

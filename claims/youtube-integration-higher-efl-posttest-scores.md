@@ -61,3 +61,5 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related
 - [A science learning video integrated with a local MHP plant improves junior high students' concept mastery more than PowerPoint images-narration](mhp-video-improves-concept-mastery-gain.md) — related
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
+- [The multimedia group's adjusted post-test mean (21.01) exceeded the teacher-centred group's (15.07)](mbio-post-mean-21-vs-15.md) — a narrower finding that bears on this claim

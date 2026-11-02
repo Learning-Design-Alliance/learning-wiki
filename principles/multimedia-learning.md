@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 116 claims (51 for, 61 mixed, 4 against) · 89 studies (46 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 89 report an effect size · 107 claims rest on one study
+> **Evidence** · 121 claims (54 for, 63 mixed, 4 against) · 92 studies (49 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 92 report an effect size · 112 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,10 @@ Claims linked to this page later go here until they are read against the model. 
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Integrate educationally valid pictures purposefully into ESP reading textbooks"; tests this page's relationship.
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](../claims/youtube-integration-higher-efl-posttest-scores.md) [+W] — attached 2026-11-01 from Alwehaibi (2015), which proposed "Treat YouTube as an effective instructional tool and teaching resource for EFL content learning"; tests this page's relationship.
 - [Instruction with visual materials rectified more global warming misconceptions than traditional instruction (about 40% versus about 12% success)](../claims/visual-materials-rectify-global-warming-misconceptions.md) [+W] — attached 2026-11-01 from Aykut Emre Bozdogan (2011), which proposed "Teach environmental topics with visual materials because they draw attention and support more permanent learning than text alone"; tests this page's relationship.
+- [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](../claims/single-video-exposure-marginal-advantage-esp-comprehension.md) [~W] — attached 2026-11-02 from Milosevic (2017), which proposed "Use audio-visual materials in ESP classes to clarify complex subject-matter and increase student motivation"; tests this page's relationship.
+- [Video podcast instruction yields higher gain scores than conventional teaching in Educational Psychology among B.Ed students](../claims/video-podcast-higher-gain-scores-bed-psychology.md) [+W] — attached 2026-11-02 from K. Thiyagu (2014), which proposed "Use video podcasts to support learning of conceptually dense theoretical content"; tests this page's relationship.
+- [Video podcast advantage appears on knowledge and understanding objectives but not application objectives](../claims/video-podcast-knowledge-understanding-not-application.md) [~W] — attached 2026-11-02 from K. Thiyagu (2014), which proposed "Use video podcasts to support learning of conceptually dense theoretical content"; tests this page's relationship.
+- [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](../claims/mbio-higher-achievement-than-tcbio.md) [+W] — attached 2026-11-02 from Koseoglu et al. (2015), which proposed "Use dynamic visualisation (simulation/animation) rather than static visuals when designing multimedia science-teaching tools".
 
 ## Objective and learner-valued goal
 
@@ -200,6 +204,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Labeling improves undergraduates' learning about posterior probability from a text-and-table lesson](../claims/labeling-improves-posterior-probability-learning.md) [~W]
 - [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](../claims/roundhouse-diagrams-higher-achievement-test-posttest.md) [+W]
 - [No interaction was found between image type and test occasion in learning preposition senses with visual glosses](../claims/no-interaction-image-type-test-occasion.md) [~W]
+- [The multimedia group's adjusted post-test mean (21.01) exceeded the teacher-centred group's (15.07)](../claims/mbio-post-mean-21-vs-15.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

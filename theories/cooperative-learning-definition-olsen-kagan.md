@@ -57,6 +57,7 @@ The chapter defines cooperative learning using Olsen and Kagan's formulation: "C
 - [Cooperative Learning Strategies](../strategies/cooperative-learning.md)
 - [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](../strategies/heterogeneous-team-grouping-peer-tutoring-cbi.md)
+- [Structure mutual learning teams with heterogeneous ability within teams and equality across teams](../strategies/mutual-learning-heterogeneous-team-formation.md)
 
 ## Key Sources
 - Kluge, David. (1999). A Brief Introduction to Cooperative Learning. https://eric.ed.gov/?id=ED437840

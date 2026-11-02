@@ -72,3 +72,4 @@ Figure 4 analysis of mean viewing times on Question #4 trials grouped by protoco
 - [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md)
 - [Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related
 - [In 38% of help episodes students never asked for help, and these episodes usually ended poorly](help-episode-outcomes-andes-protocols.md) — related
+- [Eye-gaze data and verbal reports show complementary effects of the two activity types on integration across representations](complementary-effects-eye-gaze-verbal-reports.md) — related

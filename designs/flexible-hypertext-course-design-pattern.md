@@ -46,6 +46,10 @@ This pattern describes the flexible online course design the article built on co
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](../claims/cft-hypertext-design-more-positive-attitudes.md) [+W]
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
+## Related Designs
+
+- [XERTE-built Solar System Educational Resource with interactive multimedia activities](xerte-solar-system-educational-resource.md)
+
 ## Related Patterns
 
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)

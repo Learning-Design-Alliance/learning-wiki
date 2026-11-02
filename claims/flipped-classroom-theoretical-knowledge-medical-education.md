@@ -92,3 +92,4 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — a narrower finding that bears on this claim
+- [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite

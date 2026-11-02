@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (111 show a difference, 22 mixed, 21 no difference) · 106 studies (49 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 106 report an effect size · 151 claims rest on one study
+> **Evidence** · 158 claims (113 show a difference, 23 mixed, 22 no difference) · 107 studies (50 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 23 of 107 report an effect size · 155 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -195,6 +195,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [Initial receptive vocabulary knowledge predicted response to universal Tier-1 vocabulary instruction for students receiving only classroom instruction](../claims/initial-vocabulary-predicts-tier1-response.md) [+M] — learners who differ on it differ in outcomes
+- [Initial vocabulary knowledge moderated the Tier-2 intervention effect on target word learning, favoring students with higher initial PPVT scores](../claims/initial-vocabulary-moderates-target-word-intervention-effect.md) [~M] — an instructional effect differs with it
+- [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+M] — instruction changes it
+- [Tier-2 vocabulary intervention had no effect on standardized measures of overall vocabulary knowledge (posttest PPVT)](../claims/tier2-intervention-no-effect-standardized-vocabulary.md) [-M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

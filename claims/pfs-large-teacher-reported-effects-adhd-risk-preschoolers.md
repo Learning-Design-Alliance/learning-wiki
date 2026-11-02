@@ -51,3 +51,5 @@ Covariate-adjusted regression models (Mplus 6.0, full information maximum likeli
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [In the PFS ADHD-risk subsample, 54% of intervention children versus 11% of controls responded or improved by teacher-rated clinical criteria](pfs-responder-analysis-teacher-report-clinical-response.md) — related
+- [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
+- [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related

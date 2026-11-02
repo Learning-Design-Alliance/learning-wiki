@@ -53,3 +53,4 @@ Pearson correlations between Hurst exponents and self-explanation scores at trai
 - [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](se-gaming-predicts-delayed-posttest.md) — related
 - [High-spendency students show an interaction loop alternating between generative practice games and personalizable features](spendency-practice-personalization-loop.md) — related
 - [Spendency is unrelated to prior reading ability, prior self-explanation performance, and self-reported enjoyment and motivation](spendency-unrelated-prior-ability-attitudes.md) — related
+- [iSTART training improved high school students' self-explanation quality at posttest](istart-improved-self-explanation-quality.md) — related

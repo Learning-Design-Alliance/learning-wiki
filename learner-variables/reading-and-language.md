@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 286 claims (176 show a difference, 49 mixed, 61 no difference) · 194 studies (64 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 44 of 194 report an effect size · 277 claims rest on one study
+> **Evidence** · 294 claims (181 show a difference, 50 mixed, 63 no difference) · 199 studies (69 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 45 of 199 report an effect size · 285 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -337,6 +337,14 @@ What a learner can read without effort, and whether the language of instruction 
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+M] — instruction changes it
 - [Reading strategy training improved reading comprehension for non-English majors over a five-week experiment](../claims/strategy-training-improves-reading-comprehension-non-english-majors.md) [+M] — instruction changes it
 - [Self-regulation based strategic reading education produces significantly higher reading comprehension post-test scores than the current program in 5th grade students](../claims/srl-reading-education-improves-comprehension.md) [+M] — instruction changes it
+- [Children with Autism Spectrum Disorder who had not received formal reading instruction were capable of improving word recognition ability in preparation for future reading](../claims/asd-children-capable-word-recognition-gains.md) [+M] — instruction changes it
+- [Initial receptive vocabulary knowledge predicted response to universal Tier-1 vocabulary instruction for students receiving only classroom instruction](../claims/initial-vocabulary-predicts-tier1-response.md) [+M] — learners who differ on it differ in outcomes
+- [Initial vocabulary knowledge moderated the Tier-2 intervention effect on target word learning, favoring students with higher initial PPVT scores](../claims/initial-vocabulary-moderates-target-word-intervention-effect.md) [~M] — an instructional effect differs with it
+- [Junior high students taught language-learner strategies outperform untaught peers on the BECE English examination](../claims/strategy-instruction-improves-bece-english-grades-ghana.md) [+M] — instruction changes it
+- [Question-generation strategy significantly improves Iranian female EFL learners' reading comprehension](../claims/question-generation-improves-female-efl-reading-comprehension.md) [+M] — instruction changes it
+- [Question-generation strategy significantly improves Iranian male EFL learners' reading comprehension](../claims/question-generation-improves-male-efl-reading-comprehension.md) [+M] — instruction changes it
+- [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](../claims/lit-no-significant-year-group-impact.md) [-M] — instruction changes it
+- [Tier-2 vocabulary intervention had no effect on standardized measures of overall vocabulary knowledge (posttest PPVT)](../claims/tier2-intervention-no-effect-standardized-vocabulary.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -53,3 +53,4 @@ Secondary analysis comparing ITBS learning gains of high- and low-prior-achievin
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related
 - [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](high-and-low-achievers-benefit-from-quality-assignments.md) — a broader claim this one bears on
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related
+- [Example-based assignments improve procedural performance for students in high-minority classrooms](example-based-assignments-high-minority-classrooms-procedural-gains.md) — related

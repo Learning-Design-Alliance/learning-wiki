@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (21 for, 18 mixed, 3 against) · 51 studies (24 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 51 report an effect size · 31 claims rest on one study
+> **Evidence** · 44 claims (23 for, 18 mixed, 3 against) · 52 studies (25 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Four-step electronic mind map construction pattern for reading texts"; tests this page's relationship.
 - [Undergraduate students taught circular and rotational motion with concept mapping achieved significantly higher post-test scores than students taught with tutorial sheets](../claims/concept-mapping-outperforms-tutorial-sheets-achievement.md) [+W] — attached 2026-11-01 from Dennis Luchembe et al. (2014), which proposed "Concept-mapping instructional sequence: train map construction on a familiar topic, then apply hierarchies, link words and cross-links to the target topic in groups"; tests this page's relationship.
 - [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](../claims/group-story-mapping-higher-comprehension-scores.md) [+W] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Teach graphic organizer use explicitly and have students practice it repeatedly across different texts"; tests this page's relationship.
+- [Graphic organizer strategy instruction improved vocabulary building scores of Jordanian university EFL students compared with traditional instruction](../claims/go-strategy-improved-efl-vocabulary-building.md) [+W] — attached 2026-11-02 from Al-Hinnawi (2012), which proposed "Teach vocabulary items through a graphic organizer that visually maps eight word features around the target word"; tests this page's relationship.
+- [Graphic organizer strategy produced greater incremental growth in vocabulary building over time than traditional instruction](../claims/go-strategy-incremental-vocabulary-growth.md) [+W] — attached 2026-11-02 from Al-Hinnawi (2012), which proposed "Teach vocabulary items through a graphic organizer that visually maps eight word features around the target word"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ From the practical learning support sub-theme of the interview analysis: partici
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — related
+- [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related

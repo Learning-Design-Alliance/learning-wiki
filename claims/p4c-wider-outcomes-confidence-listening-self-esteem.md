@@ -56,3 +56,4 @@ Process-evaluation evidence from informal interviews during 30 evaluator visits 
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — a narrower finding that bears on this claim
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related
+- [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related

@@ -46,3 +46,4 @@ Longitudinal follow-up into kindergarten of the cluster-randomized preschool mat
 
 ## Related Claims
 - [The amount of language growth children made during the preschool intervention year did not predict kindergarten outcomes and did not alter the moderated treatment effects](language-gain-score-not-significant-predictor.md) — related
+- [Fadeout of early mathematics intervention effects: treatment effects fade but remain significant at kindergarten follow-up](fadeout-early-math-intervention-effects-persist-but-diminish.md) — related

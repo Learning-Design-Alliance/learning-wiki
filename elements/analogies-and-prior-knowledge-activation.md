@@ -77,6 +77,7 @@ Analogies support comprehension by letting learners import a known relational st
 **[Khan Academy](https://www.khanacademy.org)** — Explanations routinely open with everyday analogies (e.g., electrical potential as water pressure) before introducing formal notation.
 
 **Case-based teaching in medicine** — Clinical teaching activates prior case knowledge ("this presents like the patient you saw last week") and uses the familiar case as an analogical source for the new one.
+- [Administer an elaboration intervention combining an advance organizer with cognitive modelling when learners work on complex worked examples](../strategies/elaboration-intervention-advance-organizer-cognitive-modelling.md)
 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)

@@ -66,3 +66,4 @@ Descriptive coding of student interview data (Table 10): 19 students gave positi
 ## Related Claims
 - [Reciprocal teaching produced significantly greater expository text comprehension gains than regular curriculum instruction in fourth graders over 11 weeks](reciprocal-teaching-expository-comprehension-gains.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
+- [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related

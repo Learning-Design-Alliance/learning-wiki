@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (38 show a difference, 15 mixed, 10 no difference) · 52 studies (20 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 52 report an effect size · 60 claims rest on one study
+> **Evidence** · 65 claims (39 show a difference, 16 mixed, 10 no difference) · 54 studies (22 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 54 report an effect size · 62 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -101,6 +101,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Standardized Language Arts and Mathematics test scores, not GPA, predicted financial knowledge gains from the camp](../claims/language-arts-scores-predict-financial-gains.md) [+M] — learners who differ on it differ in outcomes
 - [IYT showed no significant effect on STAR Math, Early Literacy, teacher-rated Academic Competence, or Conners inattention, with one contrary math interaction](../claims/iyt-null-math-and-attention-outcomes.md) [-W] — instruction changes it
 - [The review reports that students acquire literacy most efficiently in their native language and that expecting literacy in a foreign language hampers academic achievement](../claims/literacy-most-efficient-native-language.md) [+M] — instruction changes it
+- [Head Start impacts at the end of preschool were concentrated on language and literacy for 4-year-olds and on cognitive, social-emotional, health, and parenting outcomes for 3-year-olds, but faded by kindergarten and first grade](../claims/head-start-early-advantages-fade-by-kindergarten.md) [~M] — instruction changes it
+- [Language and literacy scores account for the follow-up difference between matched groups](../claims/language-literacy-account-for-matched-group-difference.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

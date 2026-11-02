@@ -51,3 +51,4 @@ Qualitative analysis of 4-item semi-structured interviews with 6 randomly select
 - [Instruction with visual materials rectified more global warming misconceptions than traditional instruction (about 40% versus about 12% success)](visual-materials-rectify-global-warming-misconceptions.md) — related
 - [When pretest scores were controlled, the posttest attitude difference between the visual-materials and traditional groups was not statistically significant, though the experimental group's adjusted mean was higher](ancova-no-significant-group-attitude-difference.md) — related
 - [Experimental-group participants named far more varied environmental issues and gave more detailed answers than control-group participants](experimental-group-varied-environmental-issues-detailed-answers.md) — related
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related

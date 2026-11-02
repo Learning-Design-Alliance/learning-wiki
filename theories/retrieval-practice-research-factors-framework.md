@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (11 for, 12 mixed) · 26 studies (17 causal, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 10 of 26 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (11 for, 13 mixed) · 27 studies (18 causal, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 10 of 27 report an effect size · 23 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -62,6 +62,7 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "The testing effect (retrieval practice)"; tests this page's relationship.
 - [Both PRL-user and PRL-non-user groups scored significantly higher on memory questions than on comprehension questions](../claims/prl-groups-higher-memory-than-comprehension.md) [~W]
+- [Experimental group gained memorization skill over time while control group did not](../claims/experimental-group-gained-memorization-skill-over-time.md) [~W]
 
 ## Related Theories
 - 

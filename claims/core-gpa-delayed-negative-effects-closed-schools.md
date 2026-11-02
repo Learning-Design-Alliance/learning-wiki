@@ -52,3 +52,4 @@ Multi-year administrative-data analysis of core GPA (English, math, science, soc
 - [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — related
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — related
 - [School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed](announcement-year-achievement-loss-school-closings.md) — related
+- [Intervention students' GPA increased by half a grade after 3 years, clinically but not statistically significant](ssstp-gpa-half-grade-increase.md) — related

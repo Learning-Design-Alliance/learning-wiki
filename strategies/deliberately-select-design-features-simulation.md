@@ -45,6 +45,7 @@ The review recommends that when developing training modules with simulators, ins
 ## Related Strategies
 
 - [Implement simulation-based education with targeted interventions, high-intensity low-dose high-frequency training, and strong integration and support](three-features-effective-sbe-programs.md)
+- [Train instructors in learner-centered practices through modules emphasizing collaboration, interaction, and caring about students](instructor-training-modules-learner-centered-practices.md)
 
 ## Examples
 -

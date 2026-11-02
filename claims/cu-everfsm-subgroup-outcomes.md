@@ -78,3 +78,4 @@ Impact table prints EverFSM effect sizes of 0.03 (reading, 0 months), 0.05 (math
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
+- [FSM-eligible pupils in CtG primary schools made two months' additional progress while FSM pupils in secondary schools made two months' less progress](ctg-fsm-subgroup-divergent-progress.md) — related

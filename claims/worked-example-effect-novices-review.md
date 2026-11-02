@@ -85,3 +85,4 @@ Narrative review reporting the accumulated worked-example research, citing Coope
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
 - [Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)](worked-examples-older-learners-cl.md) — related
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — a narrower finding that bears on this claim
+- [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — a narrower finding that bears on this claim

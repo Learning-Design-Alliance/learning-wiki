@@ -37,7 +37,8 @@ The article recommends that researchers combine NSC data with state administrati
 - Comprehensive identification and interpretation of graduates' two-year college enrollment and completion outcomes
 
 ## Related Strategies
-- 
+
+- [Develop more detailed and intelligent search systems to support researchers facing excessive publication data](edgc-intelligent-search-systems-recommendation.md)
 
 ## Examples
 -

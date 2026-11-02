@@ -52,3 +52,4 @@ Cluster-randomized classroom experiment with 220 seventh-graders in 10 classroom
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — a broader claim this one bears on
 - [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related
+- [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](worked-examples-benefit-disadvantaged-students.md) — related

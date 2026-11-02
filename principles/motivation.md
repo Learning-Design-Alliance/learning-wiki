@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 120 claims (73 for, 45 mixed, 2 against) · 108 studies (30 causal, 29 review, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 108 report an effect size · 106 claims rest on one study
+> **Evidence** · 122 claims (74 for, 46 mixed, 2 against) · 110 studies (32 causal, 29 review, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 110 report an effect size · 108 claims rest on one study
 
 ## Conditional relationship
 
@@ -210,6 +210,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](../claims/uv-third-essay-promotes-continuation-for-high-performers.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
 - [Expecting a grade for a task increases students' pretask performance-avoidance goals compared with no grade](../claims/grade-expectation-increases-performance-avoidance-goals.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2011), which proposed "Use comment-only formative feedback rather than grades when the aim is to avoid fostering performance-avoidance goals"; tests this page's relationship.
 - [The direct ARIAS learning strategy improves students’ motivation, with most students reaching the high or very high categories after learning](../claims/direct-arias-improves-motivation.md) [+W] — attached 2026-11-01 from Mustami et al. (2018), which proposed "ARIAS strategy: assurance, relevance, interest, assessment, and satisfaction components woven into lesson design".
+- [RAP strategy instruction without a motivational system produced no noteworthy reading comprehension enhancement in either group during the first three weeks](../claims/rap-alone-no-significant-gain.md) [~W] — attached 2026-11-02 from Leidig et al. (2018), which proposed "Combine strategy instruction with a multicomponent motivational system (scoring, visual feedback, attribution-based praise) rather than a token economy alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -254,6 +255,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [The hypothesized mediated moderation was not supported because motivation did not increase](../claims/mediated-moderation-not-supported.md) [-W]
 - [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](../claims/flipped-classroom-motivation-factors.md) [+W]
 - [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](../claims/mbio-motivates-and-positive-attitudes.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -61,3 +61,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [Flipped classroom effects do not differ significantly between theoretical and practical knowledge, though practical knowledge shows a slightly larger effect](flipped-classroom-knowledge-type-no-significant-difference.md) — related
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — related
+- [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite

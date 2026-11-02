@@ -52,3 +52,4 @@ Qualitative finding from group interviews with parents at the four study program
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
 - Including educator voice helps researchers understand educator, student, and system needs — related
 - [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction](explicit-family-direction-needed.md) — related

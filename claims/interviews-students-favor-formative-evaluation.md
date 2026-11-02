@@ -49,3 +49,4 @@ End-of-semester interviews with 20 randomly chosen experimental-group students (
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related

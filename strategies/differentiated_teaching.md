@@ -80,6 +80,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 - [explicit-teaching](../patterns/direct-instruction.md) — often combined with differentiation: common explicit input, varied practice
 - [competency-based-learning](../patterns/competency-based-learning.md) — differentiation taken to its logical endpoint, with pacing tied entirely to demonstrated mastery
 - [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
+- [Implement differentiated instruction via homogeneous grouping, tiered assignments and tiered instruction across content, process and product](homogeneous-grouping-tiered-assignments-tiered-instruction-strategy.md)
 
 ## Examples
 - **Tiered problem sets in mathematics** — all students work on proportional reasoning; tiers vary number complexity and context familiarity, with regrouping after each [check-in](../elements/check-in.md).

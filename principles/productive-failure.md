@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (23 for, 28 mixed, 7 against) · 33 studies (19 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 33 report an effect size · 55 claims rest on one study
+> **Evidence** · 59 claims (24 for, 28 mixed, 7 against) · 34 studies (20 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 34 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [PF advantage on condition topics did not reach significance on the final exam overall](../claims/pf-final-exam-null-overall.md) [~W]
 - [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](../claims/pf-final-exam-ability-split.md) [~W]
 - [At this age level the problem-solving method need not be more time-consuming than expository instruction](../claims/problem-solving-not-more-time-consuming.md) [~W]
+- [PFS effects did not differ by implementation site or cohort](../claims/pfs-effects-no-site-or-cohort-moderation.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

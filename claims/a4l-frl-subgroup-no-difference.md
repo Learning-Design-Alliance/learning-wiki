@@ -62,3 +62,4 @@ Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report in
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](tips-by-text-no-subgroup-differences.md) — related
 - [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](core5-promising-effects-low-ses-students.md) — related
 - [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](ses-gap-westest-reading-sixth-grade.md) — related
+- [Socioeconomic status measures attenuate the matched-group difference by 27%](ses-attenuates-matched-group-difference-27-percent.md) — related

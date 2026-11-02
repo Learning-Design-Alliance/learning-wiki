@@ -54,3 +54,4 @@ Pretest-posttest quasi-experimental control group study; 50 students taught by d
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related
 - [The null hypothesis of no attitude difference between PI-taught and conventionally taught students was rejected](pi-null-hypothesis-rejected-attitude.md) — related
 - [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](concept-mapping-beats-lecture-biology-achievement.md) — related
+- [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](mastery-learning-better-mole-concept-achievement-nigeria.md) — related

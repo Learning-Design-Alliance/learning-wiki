@@ -71,3 +71,4 @@ Same parent interviews (Figure 6). Parents expressed strongest interest in progr
 - While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions — related
 - Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it — related
 - [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](youth-advisors-report-inadequate-involvement-in-decisions.md) — related
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction](explicit-family-direction-needed.md) — related

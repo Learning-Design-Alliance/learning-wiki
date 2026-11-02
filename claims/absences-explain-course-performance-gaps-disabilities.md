@@ -78,3 +78,4 @@ Chapter 4 finding from the same explanatory models: self-reported study habits d
 - Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
 - [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [Intervention students' GPA increased by half a grade after 3 years, clinically but not statistically significant](ssstp-gpa-half-grade-increase.md) — related

@@ -48,3 +48,4 @@ Quasi-experiment with pre-post two-treatment design: 19 ELLs taught pronunciatio
 - [Phonetic and phonological instruction delivered in a cooperative learning setting significantly improved ELLs' pronunciation of target English sounds over six weeks](cl-setting-significant-pronunciation-pre-post-gain.md) — related
 - [Phonetic and phonological instruction delivered in a conventional setting also significantly improved ELLs' pronunciation of target English sounds](conventional-setting-significant-pronunciation-pre-post-gain.md) — related
 - [AI-GFCA students show better pronunciation, fluency and IELTS speaking predictor scores than AI-C students, but intonation does not differ](ai-gfca-english-speaking-skills.md) — related
+- [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related

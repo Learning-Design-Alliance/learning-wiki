@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: ramyar-o-qader-and-fadime-yalcin-arslan-2019
     resource: "https://eric.ed.gov/?id=EJ1204642"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About 68% of students agreed FCI allowed them to prepare for class in advance, and almost 71% reported better writing strategies from more in-class application time. [→ Ramyar O. Qader and Fadime Yalcin Arslan 2019](#ramyar-o-qader-and-fadime-yalcin-arslan-2019)
@@ -73,3 +74,5 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related

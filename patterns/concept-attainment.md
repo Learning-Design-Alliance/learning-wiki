@@ -15,7 +15,7 @@ grain_size: lesson, unit
 # Concept Attainment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (8 for, 3 mixed) · 20 studies (9 causal, 8 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 8 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 21 studies (10 causal, 8 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 8 of 21 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,10 @@ Record: **concept and its neighbours → instances and their order (blocked, mix
 [Non-examples](../elements/non-examples.md), [comparing cases](../elements/comparing-cases.md), [hypothesis testing](../elements/hypothesis-testing.md), [advance organizers](../elements/advance-organizers.md), [class discussion](../elements/class-discussion.md), [analogies](../elements/analogies.md), [articulation](../elements/articulation.md), [application](../elements/application.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [case studies](../elements/case-studies.md). Principles the pattern draws on: [Analogical Reasoning](../principles/analogical-reasoning.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Activation](../principles/activation.md), [Active Learning](../principles/active-learning.md), [Clear Structure](../principles/clear-structure.md) and [Chunking](../principles/chunking.md).
 
 This pattern is scoped to inducing one concept with identifiable attributes from labelled, contrasted instances. Contested concepts, rules and procedures, and ill-structured categories of practice need other configurations ([direct instruction](direct-instruction.md), [case-based learning](case-based-learning.md)). The policy supports observation and design reasoning; whether concept attainment produces better classification of new instances than a definition with examples and non-examples, for which learners, at what time cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [Students taught with concept attainment model report higher liking of instruction than traditional-method students](../claims/cam-higher-student-liking.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the definition-first alternative; concept attainment trades efficiency for deeper attribute discrimination, and the two can be sequenced (attain, then consolidate explicitly)

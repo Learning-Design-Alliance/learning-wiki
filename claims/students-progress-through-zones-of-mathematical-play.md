@@ -55,3 +55,4 @@ The authors themselves are explicit that this is a conceptual/descriptive contri
 - [Guided Play Improves Academic Outcomes](play-based-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related

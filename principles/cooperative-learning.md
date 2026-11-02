@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (28 for, 27 mixed, 1 against) · 45 studies (18 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 45 report an effect size · 49 claims rest on one study
+> **Evidence** · 59 claims (31 for, 27 mixed, 1 against) · 47 studies (20 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 47 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -86,6 +86,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Adopt cooperative learning as the instructional approach for teaching financial accounting in secondary schools"; tests this page's relationship.
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](../claims/cai-stad-ltm-outperform-ici-physics-achievement.md) [+W] — attached 2026-11-01 from Amosa Isiaka Gambari et al. (2015), which proposed "Use computer-assisted STAD cooperative teaching to enhance achievement, retention and motivation in physics"; tests this page's relationship.
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](../claims/jigsaw-outperforms-traditional-preschool-sense-organs.md) [+W] — attached 2026-11-02 from Nilüfer Okur Akçay (2016), which proposed "Preschool teachers should use varied, active methods and be trained to organize cooperative learning".
+- [Students taught through the STAD model of cooperative learning achieved significantly higher problem solving ability than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-problem-solving-than-pbl.md) [+W] — attached 2026-11-02 from Tawachai Rattanatumma et al. (2016), which proposed "Higher education administrators should motivate lecturers to adopt the STAD model of cooperative-based learning for teaching mathematics.".
 
 ## Objective and learner-valued goal
 
@@ -127,6 +128,8 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](../claims/posttest-descriptive-means-cooperative-vs-control.md) [+W]
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](../claims/stad-highest-mean-gain-achievement.md) [+W]
+- [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
+- [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
 
 ## Related Principles
 

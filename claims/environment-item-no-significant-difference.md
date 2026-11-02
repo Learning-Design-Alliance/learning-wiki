@@ -48,3 +48,4 @@ Course-evaluation item comparison between flipped (N=43) and traditional (N=34) 
 - [Students in flipped college algebra rated 'Overall, the instructor effectively facilitated my learning' significantly lower despite higher exam achievement (p = .04)](flipped-lower-facilitation-rating-despite-higher-achievement.md) — related
 - [Students in flipped college algebra rated 'The instructor encouraged my interest in the course' significantly lower than lecture-based students (p = .008)](flipped-course-lower-interest-ratings.md) — related
 - [Students in flipped college algebra rated the course overall significantly lower than lecture-based students (p = .04)](flipped-course-lower-overall-rating.md) — related
+- [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related

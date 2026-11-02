@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (11 for, 12 mixed) · 24 studies (8 review, 5 qualitative, 4 causal, 2 quant-synthesis, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (12 for, 12 mixed) · 25 studies (8 review, 5 qualitative, 4 causal, 3 design, 2 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ Claims found while converting this page that bear on it but were not used in the
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](../claims/llm-feedback-volume-vs-quality.md) [~M]: a review; more volume is not more quality, which bears on the cap on comments.
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](../claims/directive-feedback-higher-cognitive-load.md) [~M]: postgraduates with AI agents; bears on how comments are phrased, not on clarity as such.
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~M]: a lesson learned from project-based computing courses; bears on support generally, not on comments.
+- [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](../claims/unstructured-peer-feedback-vague-negative.md) [+W] — attached 2026-11-02 from V. Vijaya Vani (2015), which proposed "Give students guidance on what to observe before peer feedback so feedback is constructive rather than vague and negative".
 
 ## Objective and learner-valued goal
 

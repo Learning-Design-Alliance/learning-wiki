@@ -52,3 +52,4 @@ Reflexive thematic analysis of cards, group artifacts, voting tallies, and discu
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
+- [Qualitative interviews identify wiser engagement, greater self-efficacy, better emotion regulation, and greater resilience as perceived performance changes](qualitative-teacher-performance-changes-mbsr.md) — related

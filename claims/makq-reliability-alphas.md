@@ -69,3 +69,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
+- [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (111 show a difference, 34 mixed, 30 no difference) · 116 studies (38 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 116 report an effect size · 172 claims rest on one study
+> **Evidence** · 177 claims (111 show a difference, 36 mixed, 30 no difference) · 117 studies (39 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 34 of 117 report an effect size · 174 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -212,6 +212,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](../claims/podcast-group-outperformed-control-listening-posttest.md) [+M] — instruction changes it
+- [Tier-2 intervention closed the target word learning gap between at-risk treatment students and not-at-risk reference students, but not the listening comprehension gap](../claims/tier2-closes-target-word-gap-not-comprehension-gap.md) [~M] — an instructional effect differs with it
+- [Tier-2 intervention improved listening comprehension of passages containing taught vocabulary, but the effect was not significant for students with initial PPVT scores more than 7 points below the mean](../claims/tier2-intervention-listening-comprehension-moderated-by-initial-vocabulary.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

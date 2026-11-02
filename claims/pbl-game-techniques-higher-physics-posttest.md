@@ -70,3 +70,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
 - [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) — related
 - [Prior chemistry studies cited by the authors also favor PBL over traditional methods](prior-pbl-chemistry-studies-favor-pbl.md) — a broader claim this one bears on
+- [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related

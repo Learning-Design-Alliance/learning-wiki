@@ -43,7 +43,8 @@ An eight-lesson GIS-based instruction unit designed using ArcGIS 10.0 software, 
 - [Gis Teaching Higher Mastery Goal Underachievers](../claims/gis-teaching-higher-mastery-goal-underachievers.md) [+M]
 
 ## Related Designs
-- 
+
+- [Staged development of GIS competence across secondary grades](staged-gis-competence-formation.md)
 
 ## Examples
 -

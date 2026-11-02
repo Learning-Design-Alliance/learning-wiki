@@ -47,6 +47,7 @@ The article recommends activities outside the classroom as a strategy for foster
 - [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 - [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 - [Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues](gsa-dialogue-space-civic-issues-strategy.md)
+- [Structure disability awareness programs to include extensive personal contact, joint participation, equal status, and cooperative interdependence](structure-interaction-equal-status-cooperative-interdependence.md)
 
 ## Examples
 -

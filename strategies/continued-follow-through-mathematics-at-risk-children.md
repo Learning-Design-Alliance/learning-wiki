@@ -48,7 +48,8 @@ The article's forward-looking recommendation is that early-intervention effects 
 - [In spring of fourth grade, the follow-through condition showed a marginally significant differential impact favoring African-American children (0.32 of a standard deviation)](../claims/triad-ft-differential-impact-african-american-spring-2012.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Sustain intervention gains through subsequent high-quality interventions and attention to underlying skills](sustain-gains-subsequent-high-quality-interventions.md)
 
 ## Examples
 -

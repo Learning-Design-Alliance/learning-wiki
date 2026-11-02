@@ -13,7 +13,7 @@ generated:
 # Home Learning Environment
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (60 show a difference, 14 mixed, 8 no difference) · 65 studies (24 associational, 10 quant-synthesis, 10 review, 9 causal, 6 design, 5 qualitative, 1 theoretical), `q1`–`q4` · 13 of 65 report an effect size · 78 claims rest on one study
+> **Evidence** · 83 claims (61 show a difference, 14 mixed, 8 no difference) · 66 studies (24 associational, 10 causal, 10 quant-synthesis, 10 review, 6 design, 5 qualitative, 1 theoretical), `q1`–`q4` · 13 of 66 report an effect size · 79 claims rest on one study
 
 ## Description
 The home learning environment is what families, caregivers and communities provide outside formal instruction that helps a learner develop: books and other materials, shared reading and writing, talk, mathematics games and everyday number activity, and the values, expectations and attitudes the people around a learner hold about learning. The LVN describes it under several names by content area: the home literacy environment for early reading, the literacy environment of home, school, work and community for older students and adults, and the mathematics learning environment, where parents' and teachers' attitudes and anxiety about mathematics shape learners' own mindsets. Children who read, write and do mathematics with caregivers before school often progress more easily, and the quality of the home environment is associated with achievement and with socio-emotional well-being into adolescence. It is also where learners learn about their [identity](identity.md), culture and community, and the LVN encourages educators to learn about it and build on the knowledge learners bring from home. It is measured with parent checklists and surveys, home observation instruments, student self-reports of reading materials and practices, and print-exposure tests. Differences in the home environment that track [socioeconomic status](socioeconomic-status.md) reflect resources and circumstances, and the LVN recommends classroom supports and resources for families so that every learner has a comparable foundation. It overlaps with [social supports](social-supports.md).
@@ -119,9 +119,10 @@ The home learning environment is what families, caregivers and communities provi
 - [Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group](../claims/iy-tcm-progressors-digressors-chi-square.md) [+M] — instruction changes it
 - [Family engagement with the intervention resources declined over the 12 weeks and most families diverged from the suggested sequence](../claims/peg-cat-usage-declined-diverged-from-sequence.md) [+W] — instruction changes it
 - [Media print exposure did not differ between the ER and no-ER groups at any point, though both groups changed over time](../claims/media-reading-no-group-difference.md) [-M] — instruction changes it
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction](../claims/explicit-family-direction-needed.md) [+M] — instruction changes it
 
 ## Measures
-- **Reading Pattern Survey** (Rodrigo et al., 2014): self-report of reading attitude, habits and print exposure, including books read and library visits.
+- **Reading Pattern Survey** ([Rodrigo et al., 2014](http://nflrc.hawaii.edu/rfl)): self-report of reading attitude, habits and print exposure, including books read and library visits.
 - **Classroom Literacy Environmental Profile (CLEP)** (Wolfersberger et al., 2004): rates the richness of the literacy environment in grade 1 to 6 classrooms.
 - **Author Recognition Test (ART)** (Stanovich & West, 1989): print exposure measured by recognising real authors among foils.
 - **Home Literary Environment Survey** (Kubis, 1996): student self-report of access to reading materials and literacy practices at home.

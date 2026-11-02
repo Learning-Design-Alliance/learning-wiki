@@ -58,3 +58,4 @@ Descriptive survey results from an 18-item modified scale (Cronbach's α = 0.86)
 - [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
 - [Q methodology reveals three distinct instructional-designer perception factors toward ChatGPT integration: Pessimistic Evaluators, Optimistic Advocates, and Wary Thinkers](q-methodology-three-id-chatgpt-perception-factors.md) — related
+- [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related

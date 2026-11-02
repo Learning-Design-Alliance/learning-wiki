@@ -52,3 +52,4 @@ Random effects model analysis of 5 game-based learning studies (95% CI 0.642–2
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — a broader claim this one bears on
 - [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](game-assisted-math-medium-positive-effect-turkey.md) — related
+- [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related

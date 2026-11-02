@@ -68,3 +68,4 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — a narrower finding that bears on this claim
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — possibly the same claim (merge candidate)
+- [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — related

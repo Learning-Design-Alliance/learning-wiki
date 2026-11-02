@@ -112,3 +112,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
 - [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related
+- [Students taught with simulation methods reported satisfaction with simulation-based biology education.](simulation-biology-student-satisfaction.md) — related

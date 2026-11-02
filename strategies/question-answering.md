@@ -66,6 +66,7 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
 - [Train ChatGPT to pose a follow-up question after each answer to check learner understanding through retrieval practice](chatgpt-followup-questions-retrieval-practice.md)
 - [Challenge the challenger: students create group quiz questions and challenge the opposing group to answer them](challenge-the-challenger-technique.md)
+- [Use differentiated immediate feedback, explanation of correct responses and open-ended questions in small-group social cognition sessions](differentiated-feedback-explanation-social-cognition-sessions.md)
 
 ## Examples
 - **Recitation in Direct Instruction** — high-frequency choral and individual questioning with immediate feedback is a signature feature of [Direct Instruction](../patterns/direct-instruction.md) scripts

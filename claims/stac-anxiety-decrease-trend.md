@@ -53,3 +53,4 @@ GLM repeated measures ANOVA using the BASC-3 SRP-A Anxiety scale (sample α = .9
 - [No significant difference between STAC intervention and control groups in depression from baseline to 30-day follow-up](stac-depression-no-difference.md) — related
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
 - [Teacher enjoyment and anxiety show no significant condition differences](teacher-enjoyment-anxiety-no-significant-differences.md) — related
+- [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related

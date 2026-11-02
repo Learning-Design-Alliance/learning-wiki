@@ -48,7 +48,8 @@ The article proposes using its tablet-based assessment, which records trial-leve
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](../claims/speed-accuracy-profiles-differ-by-problem-type.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use highly individualized instruction tailored to each specific student with ASD, aligned with their level of mathematical thinking](individualized-instruction-for-asd-math.md)
 
 ## Examples
 -

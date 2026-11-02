@@ -63,3 +63,4 @@ Meta-analysis of 20 experimental/quasi-experimental studies (28 datasets) of fli
 - [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — related
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — a narrower finding that bears on this claim
 - [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](flipped-classroom-small-significant-advantage-health-professions.md) — related
+- [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite

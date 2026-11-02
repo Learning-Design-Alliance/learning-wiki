@@ -65,3 +65,4 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](flipped-classroom-studies-high-heterogeneity.md) — related
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — a narrower finding that bears on this claim
 - [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related
+- [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite

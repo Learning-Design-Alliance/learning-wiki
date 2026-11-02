@@ -48,6 +48,7 @@ The article recommends organizing CBI classes into small heterogeneous teams: th
 - [Encourage Cooperation](encourage_cooperation.md)
 - [Jigsaw Method](jigsaw_method.md)
 - [Jigsaw Classroom](jigsaw-classroom.md)
+- [Structure mutual learning teams with heterogeneous ability within teams and equality across teams](mutual-learning-heterogeneous-team-formation.md)
 
 ## Examples
 -

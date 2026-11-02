@@ -154,3 +154,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [Evidence on practice effects of VSAQs versus MCQs is mixed, with no consistent advantage for either format](vsaq-practice-effects-mixed-inconclusive.md) — related
 - [Both SRE approaches produced significant but small effects on basic story comprehension measures](sre-basic-comprehension-effects.md) — related
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
+- [Question-generation strategy produces significantly better overall reading comprehension performance than conventional instruction](question-generation-significant-overall-effect-reading-comprehension.md) — related

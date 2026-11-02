@@ -64,6 +64,7 @@ Writing workshops improve text quality by shifting instruction from product feat
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — the conferring engine of the workshop in time-constrained classrooms
 - [Process writing](../strategies/process-writing.md) — the broader research base the workshop format operationalizes
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
+- [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
 
 ## Examples
 - **Teachers College Reading & Writing Project (Calkins Units of Study)** — the most widely implemented K–8 workshop curriculum, with scripted mini-lessons, mentor texts, and conferring guides (https://readingandwritingproject.org)

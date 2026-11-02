@@ -51,3 +51,6 @@ Paired sample t-test on the 20-student control group receiving routine English i
 - [Descriptively, the experimental group reached a good achievement category in speaking and writing while the control group reached only average](descriptive-achievement-levels-groups.md) — related
 - [The control group showed no statistically significant change in speaking scores from pretest to posttest](control-group-no-significant-speaking-change.md) — reports the opposite
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
+- [Control group showed only slight speaking gains from pre-test to post-test](control-group-slight-speaking-gain.md) — reports the opposite
+- [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
+- [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related

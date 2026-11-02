@@ -74,3 +74,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - Over 85 years, the PIL knowledge base shifted from principals as chief school administrators, to the roles of principals and teachers, to more integrated investigations — related
 - [School research investigations produce a reflex benefit for principals and teachers](research-reflex-effect-school-staff.md) — related
+- [The ethical foundation directly influences effective communication, personal mastery, and authentic collaboration in the holistic leadership model.](ethical-foundation-direct-causal-influence.md) — related

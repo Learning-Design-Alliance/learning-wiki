@@ -66,3 +66,4 @@ The review reports, citing Ayci et al., a structural equation modeling result in
 ## Related Claims
 - [Prior research identifies motivational, cognitive, affective, contextual, and ethical factors influencing GenAI adoption among instructors and students](genai-adoption-influencing-factors-review.md) — a broader claim this one bears on
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related
+- [The ethical foundation directly influences effective communication, personal mastery, and authentic collaboration in the holistic leadership model.](ethical-foundation-direct-causal-influence.md) — related

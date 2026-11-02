@@ -63,3 +63,4 @@ This is a genuine, informative null result on the paper's primary target and sho
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Both student- and AI-text groups similarly affirmed contextual and character integration, with greater uncertainty in the ChatGPT-text group](contextual-character-integration-similar-groups.md) — related
+- [CLIL instruction significantly improved aviation English posttest performance compared to traditional instruction](clil-improved-aviation-english-posttest-performance.md) — related

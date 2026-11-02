@@ -52,3 +52,4 @@ Cluster randomised controlled trial with wait-list control; intention-to-treat a
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related
 - [The teacher training component alone showed no statistically significant effect on attainment](teacher-training-alone-null-effect.md) — related
+- [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related

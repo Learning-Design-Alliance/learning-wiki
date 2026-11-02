@@ -52,3 +52,4 @@ The WWC report summarizes the DHHS ACF (2010) randomized controlled trial, in wh
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](head-start-no-discernible-social-emotional-effects.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
 - [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related
+- [Head Start impacts at the end of preschool were concentrated on language and literacy for 4-year-olds and on cognitive, social-emotional, health, and parenting outcomes for 3-year-olds, but faded by kindergarten and first grade](head-start-early-advantages-fade-by-kindergarten.md) — related

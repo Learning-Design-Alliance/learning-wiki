@@ -50,3 +50,5 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [Students perceived the ACF-PA approach positively, citing technical benefits, enriched learning content, an optimized learning process, and motivation to think deeply](acf-pa-positive-student-perceptions.md) — related
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
 - [Students report that daily-life WebQuest tasks made learning fun and that group work strengthened solutions and motivation](student-opinions-webquest-daily-life-groupwork.md) — related
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related

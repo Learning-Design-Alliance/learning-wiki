@@ -53,3 +53,4 @@ One-way ANOVA on post-test CAT scores of 175 students in the Solomon Four Non-Eq
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](cbmp-outperformed-conventional-posttest.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — possibly the same claim (merge candidate)
+- [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related

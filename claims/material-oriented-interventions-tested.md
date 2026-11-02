@@ -52,3 +52,4 @@ The review presents these as examples of material-oriented interventions within 
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
 - [Signaling Improves Learning](signaling-improves-learning.md) — a narrower finding that bears on this claim
 - [When text is read aloud (reducing split visual attention), undergraduates generalize more broadly from bland than rich visualizations, but the text and visualization cues' effects do not compound](study7-bland-visualization-narration.md) — a narrower finding that bears on this claim
+- [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related

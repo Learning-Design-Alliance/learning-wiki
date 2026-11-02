@@ -245,3 +245,5 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [The hybrid approach produced a significant advantage in the problem-solving domain but not in the conceptual-understanding domain](hybrid-approach-problem-solving-domain-advantage.md) — related
 - [DAA students showed superior transfer to a variant design task even after controlling for relevant prior knowledge of the spring mechanism](daa-transfer-variant-design-controlled-prior-knowledge.md) — a narrower finding that bears on this claim
 - [DAA First students scored significantly higher than Lecture First students on the viewfinder variant design question](daa-viewfinder-variant-design-advantage.md) — a narrower finding that bears on this claim
+- [The constructive method benefited higher-performing students more, while the explicit group had a lower failure percentage](constructive-method-failure-rate-lower-performers.md) — related
+- [Working on understanding-activities reduced errors in subsequent perception-activities, with no evidence for the reverse direction](understanding-activities-reduced-subsequent-perception-errors.md) — related

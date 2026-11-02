@@ -49,3 +49,4 @@ Descriptive analysis of a revalidated five-point Likert questionnaire (Cronbach'
 - [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](flipped-learning-no-posttest-advantage-video-production.md) — related
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](pre-service-teacher-aversion-to-flipped-learning.md) — reports the opposite
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — related
+- [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related

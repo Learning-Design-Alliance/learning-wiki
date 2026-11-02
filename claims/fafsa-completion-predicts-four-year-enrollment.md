@@ -79,3 +79,4 @@ Part of the CCSR analysis of the path Chicago graduates took toward four-year en
 - [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
 - [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](fafsa-ranking-penalizes-noncollege-pathways.md) — related
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
+- [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — related

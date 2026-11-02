@@ -47,3 +47,4 @@ Repeated-measures ANOVA on 121 experimental and 119 control children on the Soci
 - [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related
 - [MIXER had no significant far-transfer effect on children's social interaction skills (MESSY)](mixer-no-messy-far-transfer.md) — related
+- [Middle-term ToM and SIP training improves preschoolers' social problem solving more than free play](middle-term-sip-training-improves-preschool-social-problem-solving.md) — related

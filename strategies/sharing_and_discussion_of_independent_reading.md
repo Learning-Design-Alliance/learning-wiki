@@ -66,6 +66,7 @@ Social interaction around text is a core driver of reading engagement and volume
 - [Read-alouds](read-alouds.md) — a complementary whole-class text experience that seeds discussion
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
 - [Devote class time for EFL students to interact, express understanding, and discuss comprehension with peers](devote-time-for-peer-discussion-of-comprehension.md)
+- [Include illustrated comic books in self-directed reading schemes](comic-books-self-directed-reading.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core interaction format for the sharing phase

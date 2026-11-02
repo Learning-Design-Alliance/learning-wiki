@@ -85,6 +85,7 @@ Direct Instruction manages working memory load by sequencing content in small st
 - [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
 - [Formative research procedure for enhancing an instructional design model](formative-research-edi-development.md)
+- [Explicit mathematics instruction with challenging questions and mathematical discourse](explicit-instruction-challenging-questions-discourse.md)
 
 ## Examples
 - **[Direct Instruction](../patterns/direct-instruction.md)** — the pattern page detailing the full instructional sequence.

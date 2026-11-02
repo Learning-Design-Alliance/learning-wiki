@@ -49,3 +49,4 @@ Baseline correlational analysis of the eight dependent variables from the six te
 - [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related
 - [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related
 - [Cognitive flexibility in children is not a unified construct](cognitive-flexibility-not-unified-construct.md) — related
+- [Components of cognitive independence were significantly intercorrelated in the experimental group but not in the control group](component-interdependence-experimental-only.md) — related

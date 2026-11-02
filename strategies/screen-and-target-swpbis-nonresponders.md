@@ -54,6 +54,7 @@ The article recommends that, given demonstrated variation in SWPBIS responsivene
 - [Use empirically derived post-intervention benchmarks to decide who exits versus continues to intensive intervention](post-intervention-benchmarks-exit-intensive-intervention.md)
 - [Use nonresponse to generic tier-two preschool behavioral intervention as a trigger for formal ADHD diagnostic referral and more intensive tier-three intervention](nonresponse-triggers-adhd-diagnostic-referral-strategy.md)
 - [Whole-class Tier 1 strategy instruction with intensified small-group follow-up for nonresponders](tier1-whole-class-strategy-instruction-with-intensification.md)
+- [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 
 ## Examples
 -

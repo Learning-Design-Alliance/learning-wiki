@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 231 claims (164 show a difference, 39 mixed, 28 no difference) · 164 studies (53 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 31 of 164 report an effect size · 222 claims rest on one study
+> **Evidence** · 233 claims (166 show a difference, 39 mixed, 28 no difference) · 165 studies (54 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 32 of 165 report an effect size · 224 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -280,6 +280,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [A metacognition-based instructional practice produced higher post-test metacognitive awareness than current training in planning, awareness, regulation and questioning sub-dimensions and scale-wide among prospective teachers](../claims/metacognition-practice-posttest-group-differences.md) [+M] — instruction changes it
 - [Efficient and non-efficient readers use strategies in general, but efficient readers favour some strategies more](../claims/efficient-readers-favour-specific-strategies.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](../claims/srl-reading-education-improves-self-regulation-skills.md) [+W] — instruction changes it
+- [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](../claims/mindfulness-mediation-teacher-self-regulation.md) [+M] — instruction changes it
+- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -55,3 +55,4 @@ Pre-test homogeneity check on the Longman TOEFL reading comprehension test (30 q
 - [A one-way ANOVA found no significant difference in writing proficiency among the five pre-test groups](pretest-anova-five-groups-no-difference.md) — related
 - [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](scheffe-gain-pairwise-blog-reading.md) — related
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
+- [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related

@@ -67,3 +67,4 @@ Exploratory factor analysis of the abbreviated CTt scores; the scree plot and el
 ## Related Claims
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [Abbreviation analysis yielded no meaningful findings despite extensive abbreviation use](edgc-abbreviation-analysis-null.md) — related

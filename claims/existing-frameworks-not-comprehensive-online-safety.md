@@ -53,3 +53,4 @@ Stage 1 rapid review appraisal of eight internationally developed frameworks (e.
 - [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related
 - [Existing cybersecurity frameworks are inadequate for children aged 8–13 because they target workforce preparation or remain too broad across school ages](existing-frameworks-inadequate-for-ages-8-13.md) — possibly the same claim (merge candidate)
 - [Games and platforms in the reviewed literature most frequently target cyberbullying, privacy and personal information, and netiquette and social media](games-platforms-frequent-topics-cyberbullying-privacy-netiquette.md) — related
+- [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related

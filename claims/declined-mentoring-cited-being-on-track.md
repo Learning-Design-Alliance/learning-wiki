@@ -46,3 +46,4 @@ Descriptive report from the preliminary findings section on students who were co
 
 ## Related Claims
 - [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related
+- [Summer support take-up required active outreach; only 2% of informed control students sought help](active-outreach-needed-for-summer-support-takeup.md) — related

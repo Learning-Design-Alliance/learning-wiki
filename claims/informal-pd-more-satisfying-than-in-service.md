@@ -63,3 +63,4 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - [Professional learning for late-career teachers is operationalised in varied ways, from formal structured programmes to informal workplace-embedded practices](late-career-professional-learning-operationalisation-varied.md) — related
 - [Teachers report that relationships with students are a primary source of enjoyment, motivation, and job satisfaction](student-relationships-primary-source-teacher-enjoyment.md) — related
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
+- [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related

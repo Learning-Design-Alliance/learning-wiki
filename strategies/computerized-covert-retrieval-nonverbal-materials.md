@@ -48,6 +48,7 @@ The authors recommend replacing standard practice in which "a learner [tries] to
 
 - [Graphic Organizers for Retrieval Practice](graphic_organizers_for_retrieval_practice.md)
 - [Interpolate metacognitive judgments or covert retrieval attempts during extended study sessions](interpolate-jols-covert-retrieval-during-study.md)
+- [Teachers can generate customized electronic contour maps by deleting selected layers and objects](custom-electronic-contour-maps.md)
 
 ## Examples
 -

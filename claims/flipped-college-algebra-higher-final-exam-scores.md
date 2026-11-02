@@ -55,3 +55,4 @@ Quasi-experimental comparison of final exam scores across four flipped college a
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — a broader claim this one bears on
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — a broader claim this one bears on
 - [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related
+- [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite

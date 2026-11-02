@@ -93,3 +93,4 @@ The evidence recorded here is second-hand. Both entries are background statement
 - [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — related
 - [Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses](multiple-glosses-large-positive-effect-l2-vocabulary.md) — a narrower finding that bears on this claim
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
+- [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](single-video-exposure-marginal-advantage-esp-comprehension.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (28 for, 17 mixed, 3 against) · 31 studies (13 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (30 for, 17 mixed, 3 against) · 32 studies (14 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 49 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -72,6 +72,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](../claims/kahoot-engagement-decline-leaderboard-trailing.md) [+W] — attached 2026-11-02 from Fotaris P et al. (2016), which proposed "Classroom version of Who Wants To Be A Millionaire? for collaborative Python revision"; tests this page's relationship.
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](../claims/gamification-higher-final-grades-python-course.md) [~W]
 - [Gamified students downloaded reference material more consistently (1.7 vs 1.2 files per student weekly) without exam-period spikes](../claims/gamification-weekly-downloads-reference-material.md) [+M]
+- [Gamification of web-based learning improves academic achievement among primary school students learning English](../claims/gamification-web-learning-improves-primary-achievement.md) [+W] — attached 2026-11-02 from Aljraiwi (2019), which proposed "ClassDojo-based gamified web-based learning environment for primary English".
+- [Gamification of web-based learning improves creative thinking among primary school students learning English](../claims/gamification-web-learning-improves-creative-thinking.md) [+W] — attached 2026-11-02 from Aljraiwi (2019), which proposed "ClassDojo-based gamified web-based learning environment for primary English".
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

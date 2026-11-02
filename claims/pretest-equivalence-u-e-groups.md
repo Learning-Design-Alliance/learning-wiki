@@ -56,3 +56,4 @@ Baseline comparison in the quasi-experiment with non-equivalent groups (pretest 
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
+- [Knowledge mastery in the informative component was equivalent between groups at the first stage but significantly higher in the experimental group at the second and third stages](informative-component-stage-differences.md) — related

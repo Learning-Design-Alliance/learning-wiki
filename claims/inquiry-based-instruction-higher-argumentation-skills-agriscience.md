@@ -67,3 +67,4 @@ Post-treatment argumentation scores measured with Schen's (2007) rubric in the q
 - [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [Inquiry-based instruction produced higher content knowledge achievement than the subject matter approach in secondary agriscience classes on six of seven unit posttests](ibi-higher-agriscience-achievement-than-subject-matter.md) — related
+- [A one-sided t-test found the difference in mean student responses between team-teaching and traditional teaching to be statistically significant](t-test-significant-difference-teaching-methods.md) — related

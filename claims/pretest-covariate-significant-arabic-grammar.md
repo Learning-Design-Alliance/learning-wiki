@@ -76,3 +76,4 @@ Table 2 of the 3-way ANCOVA lists the pretest covariate with sum of squares 314.
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

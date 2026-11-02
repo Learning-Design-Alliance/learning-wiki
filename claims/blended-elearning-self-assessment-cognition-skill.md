@@ -66,3 +66,4 @@ Same MANCOVA analysis: the attitude between-group contrast was not significant (
 ## Related Claims
 - [Blended e-learning significantly raised students' overall self-assessment scores relative to traditional learning (η2 = .129)](blended-elearning-overall-self-assessment-higher.md) — a broader claim this one bears on
 - [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related
+- [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](blended-music-course-more-positive-attitudes-than-ftf.md) — reports the opposite

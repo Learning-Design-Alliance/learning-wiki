@@ -93,3 +93,4 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 - [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](project-method-no-specific-repetition-claim.md) — related
 - [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — reports the opposite
 - [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — related
+- [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related

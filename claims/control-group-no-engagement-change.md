@@ -49,3 +49,4 @@ Wilcoxon Sign Test on the 20-student control group's pre-test and post-test scor
 - [Control-group pre-K children showed no statistically significant change on either measure over the ten-week period](control-group-no-significant-change-phonological-measures.md) — related
 - [Control group viola playing skills did not change significantly over the experimental period](control-group-viola-skills-no-significant-change.md) — related
 - [The control group showed no significant pre-test to post-test change under the current teaching program](control-group-no-pre-post-change.md) — related
+- [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related

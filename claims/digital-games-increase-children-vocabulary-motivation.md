@@ -51,3 +51,4 @@ The review reports this second-hand from Aghlara and Tamjid (2011), an Iranian s
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related
 - [Motivation increased significantly from before activity to in activity in the game-based group but showed no significant stage-to-stage change in the traditional guide group](role-playing-guide-motivation-increase-during-activity.md) — related
+- [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related

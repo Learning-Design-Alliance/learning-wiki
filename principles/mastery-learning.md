@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (14 for, 14 mixed, 3 against) · 30 studies (9 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 30 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (15 for, 15 mixed, 3 against) · 31 studies (10 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 31 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -86,6 +86,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Proficiency-based training, including mastery learning, is effective for achieving competence in neuraxial access](../claims/proficiency-based-training-effective-neuraxial-competence.md) [+W] — attached 2026-10-31 from Nielsen Martine Siw et al. (2025), which proposed "Training should be proficiency-based, requiring all trainees to continue practising until skills are ensured using valid assessment tools"; tests this page's relationship.
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](../claims/mastery-learning-score-distribution-shift-chemistry.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
+- [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](../claims/mastery-learning-better-mole-concept-achievement-nigeria.md) [+W] — attached 2026-11-02 from Bashirat T. Lamidi et al. (2015), which proposed "Teachers should consider using mastery learning instructional strategy for chemistry instruction to improve the performance of their students in chemistry examinations."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -112,6 +113,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [U-Pace instruction produced greater academic success in final course grades of A or B than face-to-face instruction](../claims/u-pace-greater-final-grades-ab-than-face-to-face.md) [+W]
 - [Gain scores by curriculum coverage diverge by material: CM learners covering 79% or more gained more, while below 79% PM learners gained more, though the latter difference is not significant](../claims/coverage-gain-divergence-by-material.md) [~W]
 - [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](../claims/mathematics-mastery-quantile-regression-little-heterogeneity.md) [~W]
+- [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](../claims/mastery-learning-gender-no-significant-effect-mole-concept.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

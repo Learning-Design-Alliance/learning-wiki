@@ -75,3 +75,4 @@ Descriptive comparison of mean gain scores from Table 1 of the quasi-experiment:
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
 - [5E-model teaching of lamp brightness produced higher posttest achievement than traditional teaching in a quasi-experiment with 62 11th-grade students](5e-model-lamp-brightness-posttest-achievement.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
+- [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](pbl-civic-pretest-posttest-gain.md) — related

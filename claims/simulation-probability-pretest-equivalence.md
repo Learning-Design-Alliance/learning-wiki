@@ -52,3 +52,4 @@ Independent t-test on pre-test scores of 28 experimental and 27 control prospect
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related

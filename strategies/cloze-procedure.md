@@ -59,9 +59,11 @@ Cloze tasks work because generation requires deeper processing than recognition:
 6. Reread the intact passage to consolidate a coherent mental model.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — a preview before a cloze task supplies the schema learners need to use context
 - [Annotating](../principles/annotating.md) — complementary active-reading move; cloze forces reconstruction where annotating forces response
 - [Chunking](../principles/chunking.md) — presenting cloze passages in manageable segments protects working memory during reconstruction
+- [Teachers can generate customized electronic contour maps by deleting selected layers and objects](custom-electronic-contour-maps.md)
 
 ## Examples
 - **Maze reading assessments** in DIBELS ([https://dibels.uoregon.edu](https://dibels.uoregon.edu)) — a three-option cloze used for curriculum-based reading measurement in K–6.

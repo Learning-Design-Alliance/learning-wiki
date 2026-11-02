@@ -85,3 +85,5 @@ ANCOVA with pre-test covariate on inquiry process skills; no sex-by-treatment in
 ## Related Claims
 - [ISIA students developed significantly greater inquiry process skills than conventional-instruction peers](isia-greater-inquiry-process-skills.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — reports the opposite
+- [No significant treatment-by-gender interaction on physics concept understanding](no-treatment-gender-interaction-physics-concepts.md) — reports the opposite
+- [No significant treatment-by-intelligence interaction on physics concept understanding](no-treatment-intelligence-interaction-physics-concepts.md) — related

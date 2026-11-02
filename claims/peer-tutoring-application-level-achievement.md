@@ -50,3 +50,4 @@ Application-level subscale of the posttest in the equivalent-group experiment; t
 - [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](peer-tutoring-comprehension-level-achievement.md) — related
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](peer-tutoring-biology-posttest-achievement.md) — a broader claim this one bears on
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related
+- [Video podcast advantage appears on knowledge and understanding objectives but not application objectives](video-podcast-knowledge-understanding-not-application.md) — related

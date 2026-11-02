@@ -42,6 +42,7 @@ Drawing on the process evaluation finding that all teachers could implement the 
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
 - [Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions](virtual-engagement-sustain-apprenticeship-systems.md)
 - [When planning mentoring to support evidence uptake, plan regular meetings over time, choose an appropriate delivery approach, establish a mentor-mentee matching process, and consider combining mentoring with other KT interventions](plan-mentoring-kt-implementation-recommendations.md)
+- [Implement CPS flexibly, adapting to teachers' curricular demands and teaching styles](cps-flexible-teacher-adaptation-strategy.md)
 
 ## Examples
 -

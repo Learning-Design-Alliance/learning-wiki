@@ -51,3 +51,5 @@ The evaluation's findings section reports no persistence gain: the messaging "di
 - [Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students](gear-up-text-messaging-no-enrollment-impact.md) — related
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](postsecondary-nsi-college-impact-not-persistent.md) — related
 - [A 7-week summer text-message nudge campaign increased fall reenrollment among first-year community college students by 7 percentage points relative to control](summer-nudge-campaign-increases-community-college-reenrollment.md) — related
+- [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related
+- [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related

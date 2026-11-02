@@ -48,3 +48,4 @@ ANCOVA of post-test CAT scores for the four groups with KCPE marks as covariate,
 - [Secondary school students taught chemistry through computer-based simulations achieve significantly higher post-test scores than students taught through regular teaching methods](cbs-beats-rtm-chemistry-achievement-kenya.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [A brain-based learning teaching-learning program produced statistically significantly higher chemistry achievement than traditional teaching for 9th-grade female students](bbl-program-improves-chemistry-achievement-grade9.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

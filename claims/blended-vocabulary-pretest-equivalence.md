@@ -54,3 +54,4 @@ Independent-samples t-test on pre-test scores of the same 40-learner randomized 
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
+- [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related

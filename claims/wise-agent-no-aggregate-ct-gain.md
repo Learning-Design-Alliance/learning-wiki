@@ -59,3 +59,4 @@ Paired-sample t-tests in SPSS 26.0 on pre/post CCTDI-adapted disposition scores 
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [Critical thinking disposition gains from one- or two-semester interventions are not sustained at two years](ct-gains-not-sustained-two-years.md) — related
+- [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related

@@ -57,3 +57,4 @@ Descriptive finding from the authors' prior analysis of the same NWEA data, repo
 - [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related
 - [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — possibly the same claim (merge candidate)
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — related
+- [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related

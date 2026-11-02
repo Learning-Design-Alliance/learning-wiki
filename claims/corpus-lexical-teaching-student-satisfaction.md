@@ -48,3 +48,4 @@ Qualitative open-ended interviews conducted by the researcher after the posttest
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
 - [Educators reported high satisfaction with Story Friends, but some found repeated listens and scheduling challenging](story-friends-social-validity-teachers.md) — related
+- [Both video and text/image groups reported satisfaction with the materials and activities in class](both-groups-satisfied-with-materials-and-activities.md) — related

@@ -48,3 +48,4 @@ Systematic review synthesis of 22 eligible studies comparing VDTs with cadaveric
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — reports the opposite
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — a narrower finding that bears on this claim
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](blended-flipped-classroom-higher-posttest-scores.md) — a narrower finding that bears on this claim
+- [Team-teaching students reported substantially higher rates of note supervision, class participation, work coverage, teacher supervision, and perceived improvement than traditional-method students](team-teaching-higher-perceived-feedback-quality.md) — related

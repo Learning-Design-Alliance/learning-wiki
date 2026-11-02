@@ -67,3 +67,4 @@ Pre-specified subgroup analysis on the primary reading outcome using free school
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
 - [Accelerated Reader shows a larger, though less secure, effect for FSM-eligible pupils (+0.38) and does not widen the poverty gap](ar-fsm-pupils-effect.md) — related
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related
+- [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related

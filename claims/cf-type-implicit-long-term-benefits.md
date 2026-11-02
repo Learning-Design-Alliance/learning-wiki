@@ -56,3 +56,4 @@ Delayed posttest results for dictogloss writing accuracy in the four-session exp
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — related
+- [On a paired focused communication task measuring implicit knowledge, the FCT group significantly outperformed both the control group and the CPA group at delayed posttest](fct-outperformed-cpa-paired-communication-task.md) — related

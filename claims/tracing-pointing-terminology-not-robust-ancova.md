@@ -67,3 +67,4 @@ ANCOVA using self-reported prior knowledge as covariate (correlated with termino
 - [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — related
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](tracing-pointing-intrinsic-motivation-null.md) — related
 - [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](tracing-pointing-no-intrinsic-load-reduction.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

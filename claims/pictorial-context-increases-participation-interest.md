@@ -48,3 +48,4 @@ Informal instructor observation reported in the conclusion section, not a system
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](pictorial-context-improves-esp-reading-comprehension.md) — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [Adolescent EFL learners perceive cartoon-based pictorial elucidation as helpful for accurate vocabulary use and engagement](students-perceive-cartoons-helpful-vocabulary-accuracy.md) — related
+- [Student participation in speaking discussions increased after pictorial aids were introduced](pictorial-aids-increase-classroom-participation.md) — possibly the same claim (merge candidate)

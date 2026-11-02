@@ -46,3 +46,4 @@ The article reports, citing prior studies, a developmental pattern in the classi
 
 ## Related Claims
 - [Meta-analytic evidence supports strong positive within-domain effects and small to moderate negative between-domain effects in the classic I/E model](moller-2020-dimensional-comparisons-path-coefficients.md) — related
+- [Primary school findings have low to moderate security while secondary school findings have low security](ctg-security-ratings-by-phase.md) — related

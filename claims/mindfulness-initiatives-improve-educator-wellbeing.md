@@ -51,3 +51,4 @@ The review's synthesis of ten studies of mindfulness-based initiatives (includin
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related
 - [No educator wellbeing initiative has been evaluated in multiple RCTs, so Level I evidence is unavailable](no-level-i-evidence-educator-wellbeing-initiatives.md) — related
 - [In RCTs, effects on stress (g=1.79) and professional burnout (g=0.82) increased at short-term follow-up, while effects on anxiety, sleep, and wellbeing were non-significant](teacher-programs-rct-short-term-followup.md) — a narrower finding that bears on this claim
+- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — a narrower finding that bears on this claim

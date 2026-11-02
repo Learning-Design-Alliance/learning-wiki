@@ -70,3 +70,4 @@ Reproduction-trial LMM (F(1,67) = 7.91, p < 0.001 for group) with post hoc compa
 - [Error Positivity amplitude increases with note information content and asynchrony, suggesting it signals event salience during rhythm production](pe-increases-with-note-surprise-and-error-size.md) — related
 - [During synchronization, Error Negativity is inversely related to note information content and larger only when errors are clear, consistent with precision-weighted prediction error](ne-reflects-precision-weighted-prediction-error.md) — related
 - [The information-content modulation of Error Negativity during synchronization disappears in reproduction trials, where only repetition and asynchrony modulate Ne](ne-ic-modulation-disappears-in-reproduction.md) — related
+- [Visual memorization techniques improved multiple specific reciting behaviors](visual-memorization-improves-specific-reciting-behaviors.md) — related

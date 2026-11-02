@@ -84,3 +84,4 @@ Independent samples t-test of post-test scores in a pre/post-test controlled exp
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
 - [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](outdoor-education-posttest-advantage-attitudes-uses-concern.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

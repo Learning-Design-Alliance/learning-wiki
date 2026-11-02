@@ -65,6 +65,7 @@ Book talks convert private reading into a social, communicative act, leveraging 
 - Reading conferences — one-on-one talks that complement the public format of book talks
 - Peer tutoring — shares the mechanism of learners teaching learners
 - [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
+- [Include illustrated comic books in self-directed reading schemes](comic-books-self-directed-reading.md)
 
 ## Examples
 - **Penny Kittle's Book Love framework** (https://pennykittle.net) — uses daily student book talks to build volume reading in secondary classrooms; students track pages read and recommend books to peers.

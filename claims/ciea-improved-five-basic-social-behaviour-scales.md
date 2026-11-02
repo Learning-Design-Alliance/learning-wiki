@@ -54,3 +54,4 @@ Quasi-experimental equivalent control-group post-test study in a Ljubljana kinde
 - [After CIEA implementation the experimental group scored significantly higher than the control group on Social Competence, Internalising Problems and General Adaptation composite scales](ciea-composite-scale-gains.md) — related
 - [Before implementation the experimental and control groups were equivalent on nearly all social-behaviour scales, differing only on Secure-Anxious](ciea-pretest-equivalence-secure-anxious-exception.md) — related
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](ciea-no-prosocial-scale-effect.md) — related
+- [Trained preschoolers were perceived as improving on the EASE non-ToM social adjustment scale](training-improves-ease-non-tom-social-adjustment.md) — related

@@ -48,3 +48,4 @@ Controlled training experiment on cancellation: trained group averaged 23.7 seco
 - [Training in cancellation of 3 and 5 produced neither transfer nor interference on cancellation of groups containing 4 and 7](cancellation-4-7-no-transfer.md) — related
 - [Where there are no identical bonds between stimulus and response in two processes, training in one produces neither transfer nor interference in the other](no-identical-bonds-no-transfer-or-interference.md) — a broader claim this one bears on
 - [Letter-cancellation practice produced only small gains and some losses in parts-of-speech cancellation, while the unpracticed control group gained on all parts of speech](kline-letter-practice-limited-transfer-parts-of-speech.md) — related
+- [Strategy training enables transfer of strategies to other curriculum subjects](strategy-training-transfers-across-subjects.md) — related

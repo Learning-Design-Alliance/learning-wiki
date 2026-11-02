@@ -48,3 +48,4 @@ Legacy data from the treatment years of the cluster-randomized trial, reported i
 ## Related Claims
 - [The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through](triad-building-blocks-legacy-positive-effects.md) — related
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
+- [Matched control children with similar post-test scores outperform matched treatment children at follow-up](matched-controls-outperform-matched-treatment-at-followup.md) — related

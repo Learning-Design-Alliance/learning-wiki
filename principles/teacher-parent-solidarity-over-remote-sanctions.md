@@ -18,7 +18,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (21 for, 7 mixed) · 22 studies (7 causal, 5 review, 4 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 8 of 22 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (22 for, 7 mixed) · 23 studies (8 causal, 5 review, 4 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 8 of 23 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims this page cited before the rewrite, and others found while rewriting it, 
 - [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](../claims/family-school-partnerships-need-staff-capacity.md) [+W] — a field guide's assertion and recommendation, `q1`; consistent with step 9, not evidence for it. Its title appears to say the opposite of its subclaim (the subclaim says the divide persists without training).
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W] and [Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.](../claims/home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) [+W] — an ERIC digest's qualitative report of teacher change through household visits, `q1`; bears on what visits do to the teacher, which [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) owns. Its studies table counts 3 distinct studies, but two of the rows are the same Mathematica home-visit study reported twice.
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](../claims/tapp-rural-trial-behavior-problems-improvement.md) [+M] — used in step 7; teacher-rated, so not independent of the teacher's view of the relationship.
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction](../claims/explicit-family-direction-needed.md) [+W] — attached 2026-11-02 from Accardo et al. (2020), which proposed "Teacher preparation programs should embed explicit family collaboration projects into clinical practice coursework".
 
 ## Objective and learner-valued goal
 

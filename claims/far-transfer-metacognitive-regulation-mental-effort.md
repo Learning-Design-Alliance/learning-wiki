@@ -52,3 +52,4 @@ Field study in six German secondary schools (37 classes of 5th/6th graders, N = 
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
 - [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — possibly the same claim (merge candidate)
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — reports the opposite
+- [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — related

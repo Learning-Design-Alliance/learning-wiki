@@ -78,3 +78,4 @@ The review reports, citing Wouters et al. (2013) and Clark et al. (2016), that s
 - [Students who used AR in STEM had improved outcomes compared to those who received traditional instruction, per the Mystakidis et al. review](ar-stem-improved-outcomes-vs-traditional.md) — related
 - [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related
 - [Inference-based computer games produce better vocabulary learning than traditional hardcopy word lists](inference-based-games-better-than-word-lists.md) — a narrower finding that bears on this claim
+- [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related

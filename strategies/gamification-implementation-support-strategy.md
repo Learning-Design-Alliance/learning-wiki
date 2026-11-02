@@ -51,6 +51,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Use regulated, supervised interactive tablet games as a low-cost stimulation support for early childhood educators](regulated-tablet-games-early-educator-support.md)
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
+- [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
 
 ## Examples
 -

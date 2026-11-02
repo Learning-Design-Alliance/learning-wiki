@@ -48,6 +48,7 @@ The article cites Hew's recommendation that "limiting the total duration of vide
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
 - [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
+- [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 
 ## Examples
 -

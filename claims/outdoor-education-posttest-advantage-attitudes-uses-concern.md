@@ -52,3 +52,4 @@ Independent samples t-tests on post-test scores of a true-experimental pretest-p
 - [The experimental group reported richer and more frequent outcomes from the environmental education course than the control group](experimental-group-richer-course-outcomes-content-analysis.md) — a narrower finding that bears on this claim
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [All pre-service teachers planned to teach environmental education, but only the experimental group specified concrete student-centered methods and outdoor activities](future-teaching-plans-methods-specified-experimental-only.md) — a narrower finding that bears on this claim
+- [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related

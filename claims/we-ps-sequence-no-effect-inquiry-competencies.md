@@ -83,3 +83,4 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
 - [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](retrieval-first-sequence-small-advantage.md) — related
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
+- [An integrated worked-example learning environment improves near transfer of applicable knowledge in empirical research methods training](worked-examples-improve-near-transfer-research-methods.md) — related

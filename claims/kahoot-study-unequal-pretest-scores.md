@@ -54,3 +54,6 @@ Baseline comparison of the two intact sections prior to intervention: the contro
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — reports the opposite
 - [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — reports the opposite
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
+- [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — reports the opposite
+- [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — reports the opposite
+- [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — reports the opposite

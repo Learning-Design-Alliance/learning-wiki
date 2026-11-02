@@ -50,3 +50,5 @@ The evaluation reports that GEAR UP students receiving the messaging showed no e
 - [Existing GEAR UP supports may have eclipsed the benefits of behavioral-nudge text messaging](gear-up-existing-supports-eclipse-nudges.md) — related
 - [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
 - [A 7-week summer text-message nudge campaign increased fall reenrollment among first-year community college students by 7 percentage points relative to control](summer-nudge-campaign-increases-community-college-reenrollment.md) — related
+- [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related
+- [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related

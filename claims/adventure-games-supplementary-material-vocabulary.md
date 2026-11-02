@@ -66,3 +66,4 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [English recall posttest scores differed significantly across three groups (video games with English language concepts, games without them, and no games) after controlling for pretest scores; the English-concept games group scored highest, but no pairwise comparisons were reported](linguistic-video-games-improve-english-recalling.md) — related
 - [Game-based vocabulary interventions outperformed control conditions in several reviewed studies](game-interventions-outperform-controls-vocabulary.md) — related
 - [High game interactivity hinders vocabulary acquisition: players recalled significantly less vocabulary than watchers](high-interactivity-hinders-vocabulary-acquisition.md) — related
+- [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related

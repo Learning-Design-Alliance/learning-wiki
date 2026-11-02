@@ -51,3 +51,4 @@ Qualitative case study of Sabrina (ACT 25, weighted GPA 3.77), who worked nearly
 - [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
 - [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
+- [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — a broader claim this one bears on

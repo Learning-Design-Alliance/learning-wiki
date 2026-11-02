@@ -51,3 +51,4 @@ Randomized controlled study in three Algebra I classrooms: 26 treatment and 25 c
 ## Related Claims
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
+- [Example-based assignments improve procedural performance for students in high-minority classrooms](example-based-assignments-high-minority-classrooms-procedural-gains.md) — related

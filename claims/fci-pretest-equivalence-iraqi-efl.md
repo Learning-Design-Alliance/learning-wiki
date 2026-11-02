@@ -52,3 +52,6 @@ Independent-sample t-test on pre-test writing scores in the quasi-experiment fou
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — possibly the same claim (merge candidate)
+- [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
+- [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related

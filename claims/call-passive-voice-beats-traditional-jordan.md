@@ -52,3 +52,4 @@ Quasi-experiment with 212 first-secondary pupils in two public schools in Zarqa;
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — a broader claim this one bears on
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [Scientific-stream students significantly outperformed literary-stream students in passive-voice achievement regardless of teaching method](scientific-stream-outperforms-literary-grammar.md) — related
+- [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite

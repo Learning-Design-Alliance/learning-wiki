@@ -51,3 +51,4 @@ Classroom experiment: 125 middle-school students randomly assigned within classr
 - [Sense of belonging to math declined only in the problem-solving control condition, with no condition main effect on belonging](belonging-declined-only-in-control.md) — related
 - [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](prior-knowledge-moderates-incorrect-examples.md) — related
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
+- [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](worked-examples-benefit-disadvantaged-students.md) — related

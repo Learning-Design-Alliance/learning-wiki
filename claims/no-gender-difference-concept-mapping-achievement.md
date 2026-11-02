@@ -63,3 +63,5 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related
 - [Among students taught Basic Science with the self-regulated learning approach, there is no significant difference between male and female achievement](no-gender-difference-srl-basic-science.md) — related
 - [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — related
+- [Male students scored higher than female students on the agricultural science achievement test under both teaching methods](male-students-outperform-female-agricultural-science.md) — reports the opposite
+- [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related

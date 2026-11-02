@@ -51,3 +51,4 @@ Retrospective subgroup construction using parent and teacher Conners' ADHD Scale
 - [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [Parent-reported outcomes for the PFS ADHD-risk subsample improved in the medium range for both home-setting symptoms and social functioning](pfs-medium-parent-reported-effects-home-setting.md) — related
+- [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related

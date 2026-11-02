@@ -56,3 +56,5 @@ Findings from the process evaluation interviews and case studies with TAs, class
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — related
 - [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related
+- [Staff reported extremely positive perceptions of CtG professional development and collaboration](ctg-staff-positive-perceptions.md) — related
+- [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](lit-teacher-views-benefits-and-limits.md) — related

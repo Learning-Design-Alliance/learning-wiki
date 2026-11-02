@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: ross-e-ohara-2019
     resource: "https://doi.org/10.1177/2332858419875715"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Assignment to the nudge intervention improved fall reenrollment by 7 percentage points over a control rate of 62% in an intent-to-treat randomized controlled trial. [→ Ross E. O'Hara 2019](#ross-e-ohara-2019)
@@ -53,3 +54,5 @@ Randomized controlled trial with 2,759 first-year students at three U.S. communi
 - [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
 - [Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students](gear-up-text-messaging-no-enrollment-impact.md) — related
 - [Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)](summer-counseling-potentially-positive-persistence.md) — related
+- [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related
+- [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related

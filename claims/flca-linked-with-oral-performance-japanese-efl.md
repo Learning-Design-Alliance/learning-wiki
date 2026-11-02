@@ -74,3 +74,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — related
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
+- [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related

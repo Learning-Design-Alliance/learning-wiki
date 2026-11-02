@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 202 claims (132 show a difference, 53 mixed, 17 no difference) · 120 studies (41 associational, 35 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 120 report an effect size · 199 claims rest on one study
+> **Evidence** · 203 claims (133 show a difference, 53 mixed, 17 no difference) · 121 studies (41 associational, 36 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 121 report an effect size · 200 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -237,6 +237,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Learners in the Wikipedia classroom reported higher motivation, sense of communal work, collaboration, and pleasure, and less confusion than learners in the traditional classroom](../claims/wikipedia-classroom-motivation-collaboration.md) [+W] — instruction changes it
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+M] — instruction changes it
 - [Teacher observations indicated sustained engagement in cartoon lessons versus diminishing excitement and reported boredom in bibliotherapy lessons](../claims/cartoon-lessons-engagement-versus-bibliotherapy-boredom.md) [+M] — instruction changes it
+- [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](../claims/tcbio-students-report-boredom-repetition-time-management.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

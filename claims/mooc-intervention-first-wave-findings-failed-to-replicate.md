@@ -69,3 +69,5 @@ Within the same four-wave experiment, an exploratory subgroup finding in wave on
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Preregistered Wave 2 replicated Wave 1's finding of poorer audio-visual associative learning in children with dyslexia](wave2-replication-av-learning-deficit-dyslexia.md) — a narrower finding that bears on this claim
 - [Student and teacher engagement with the values-affirmation exercise declined notably by the fourth administration](engagement-declines-by-fourth-exercise.md) — related
+- [A large-scale replication of self-affirmation writing exercises found no evidence of treatment benefits for potentially threatened students in the new cohort 2 study.](cohort-2-self-affirmation-null-replication.md) — related
+- [School belonging showed no statistically significant treatment effect at any wave](ssstp-school-belonging-null.md) — a narrower finding that bears on this claim

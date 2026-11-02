@@ -54,3 +54,4 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
+- [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related

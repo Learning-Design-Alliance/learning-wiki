@@ -54,3 +54,4 @@ Pearson correlation analysis of pre-game and post-game questionnaire scales in t
 - [Playing a web-based simulation game produces significantly higher deep-learning strategy use than no-game conventional teaching, controlling for pre-game strategy use](simulation-game-increases-deep-learning-strategy.md) — related
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
+- [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](pre-post-test-correlation-computational-fluency.md) — related

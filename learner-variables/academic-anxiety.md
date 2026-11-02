@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 205 claims (134 show a difference, 43 mixed, 28 no difference) · 128 studies (43 associational, 37 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 29 of 128 report an effect size · 198 claims rest on one study
+> **Evidence** · 207 claims (136 show a difference, 43 mixed, 28 no difference) · 129 studies (43 associational, 38 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 30 of 129 report an effect size · 200 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -241,6 +241,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](../claims/relaxation-training-reduces-test-anxiety-third-graders.md) [+M] — instruction changes it
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](../claims/no-test-anxiety-decrease-without-relaxation-training.md) [-M] — instruction changes it
 - [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [-M] — instruction changes it
+- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+M] — instruction changes it
+- [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](../claims/speaking-proficiency-anxiety-negative-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

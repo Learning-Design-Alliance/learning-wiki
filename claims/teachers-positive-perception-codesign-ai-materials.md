@@ -49,3 +49,4 @@ Qualitative analysis of teacher focus groups (n = 25, coded per Saldaña 2009) a
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](ownership-community-development-positive-correlations.md) — related
+- [Staff reported extremely positive perceptions of CtG professional development and collaboration](ctg-staff-positive-perceptions.md) — related

@@ -59,3 +59,4 @@ Qualitative case study of Jennie, who never spoke one-on-one with a teacher or c
 - [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related
 - [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
+- [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — a broader claim this one bears on

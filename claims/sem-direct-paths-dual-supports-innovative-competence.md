@@ -53,3 +53,4 @@ Structural equation model (maximum likelihood estimation) on the 3003-teacher su
 - [A two-level structural equation model links approaches to teaching and approaches to studying to biology achievement in high school](two-level-sem-approaches-teaching-studying-biology-achievement.md)
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related
 - [SEM shows software interface and content design positively and directly influence learning attitude and self-awareness learning results, and learning attitude influences results](sem-interface-design-attitude-self-awareness.md) — related
+- [The ethical foundation directly influences effective communication, personal mastery, and authentic collaboration in the holistic leadership model.](ethical-foundation-direct-causal-influence.md) — related

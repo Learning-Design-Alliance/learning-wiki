@@ -55,3 +55,5 @@ Single RCT in 34 elementary schools in Albuquerque. Effect sizes were 0.37 (SSRS
 - [In the FSN elementary efficacy RCT (Walker et al., 2009), effect sizes ranged from 0.44 to 0.87 with all intervention-control differences significant](fsn-rct1-efficacy-effect-sizes.md) — related
 - [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — related
 - [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related
+- [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related
+- [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related

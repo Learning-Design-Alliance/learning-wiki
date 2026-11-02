@@ -68,3 +68,4 @@ Descriptive results from the 22-item Teacher Satisfaction Survey completed by tr
 - [SBI gains in proportional problem-solving are maintained 9 weeks after the intervention for students with MD-PS](sbi-pps-gains-maintained-9-weeks.md) — related
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
 - [Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties](sbi-improves-pps-posttest-mdps.md) — related
+- [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related

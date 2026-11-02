@@ -53,3 +53,4 @@ Secondary outcome analyses from the intention-to-treat regression models in the 
 - [Chatterbooks showed no statistically significant effect on reading ability among Year 7 pupils below Level 4, with a slightly negative point estimate](chatterbooks-no-impact-reading-ability.md) — related
 - [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](vefp-fsm-subgroup-null-reading.md) — related
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
+- [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related

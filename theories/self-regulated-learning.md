@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 266 claims (122 for, 130 mixed, 14 against) · 197 studies (60 associational, 58 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 45 of 197 report an effect size · 250 claims rest on one study
+> **Evidence** · 269 claims (124 for, 130 mixed, 15 against) · 199 studies (60 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 199 report an effect size · 253 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -313,6 +313,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Junior secondary students taught Basic Science with a self-regulated learning approach achieved higher adjusted mean scores than students taught with the conventional method](../claims/srl-approach-higher-basic-science-achievement.md) [+W] — attached 2026-11-02 from Nwafor Chika E et al. (2015), which proposed "Self-regulated learning as learning guided by metacognition, strategic action, and motivation to learn".
 - [Self-regulation based strategic reading education produces significantly higher reading comprehension post-test scores than the current program in 5th grade students](../claims/srl-reading-education-improves-comprehension.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Zimmerman's three-phase sociocognitive self-regulated learning model (forethought, performance, self-reflection)".
 - [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](../claims/srl-reading-education-improves-self-regulation-skills.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Zimmerman's three-phase sociocognitive self-regulated learning model (forethought, performance, self-reflection)".
+- [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](../claims/srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) [+W] — attached 2026-11-02 from El-Sakka (2016), which proposed "Zimmerman's three-phase cyclical model of self-regulated learning as the framework for speaking instruction".
+- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W] — attached 2026-11-02 from El-Sakka (2016), which proposed "Zimmerman's three-phase cyclical model of self-regulated learning as the framework for speaking instruction".
+- [Students' self-assessed performance on the main test was higher than their actual scores indicated](../claims/student-self-assessment-exceeds-actual-performance.md) [-W]
 
 ## The evidence by question
 

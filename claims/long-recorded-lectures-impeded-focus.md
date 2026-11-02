@@ -63,3 +63,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — related
 - [Reasoning style measures (faith in intuition, need for evidence, cognitive reflection) show no significant relation to video evaluation](reasoning-style-null-video-evaluation.md) — related
 - [Technical unpredictability of recordings severely frustrated students who valued them, while staff treated technical issues as abstract and eventually solved](technical-issues-asymmetric-impact-staff-students.md) — related
+- [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — related

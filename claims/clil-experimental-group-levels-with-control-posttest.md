@@ -49,3 +49,4 @@ Quasi-experimental non-equivalent control group study with 33 experimental and 3
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [Experimental-group students received 610 more minutes of English exposure than control-group students through the CLIL applications](clil-extra-610-minutes-exposure.md) — related
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — a narrower finding that bears on this claim
+- [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — reports the opposite

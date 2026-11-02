@@ -40,7 +40,8 @@ The article applies an instructional design model that combines objectivist feat
 - [Blended Learning Improves Oriental Music Achievement Secondary](../claims/blended-learning-improves-oriental-music-achievement-secondary.md) [+M]
 
 ## Related Designs
-- 
+
+- [Tarnopolsky's constructivist blended learning approach to ESP](tarnopolsky-constructivist-blended-learning-esp.md)
 
 ## Examples
 -

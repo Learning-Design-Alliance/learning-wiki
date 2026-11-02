@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-02
 recheck_by: 2018
 sources:
   - id: schneider-2013
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students intending to enroll in college sometimes fail to actually matriculate during the summer after graduation, a phenomenon called summer melt. [→ Schneider 2013](#schneider-2013)
@@ -52,3 +53,4 @@ Background statement in the abstract's context section, attributed to prior work
 - [Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky](combined-barriers-summer-melt-marco.md) — related
 - [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
+- [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — related

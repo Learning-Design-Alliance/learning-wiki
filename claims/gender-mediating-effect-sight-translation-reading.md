@@ -48,3 +48,4 @@ Posttest comparison of the two sexes (38 females, 32 males) via Independent Samp
 ## Related Claims
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — related
+- [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related

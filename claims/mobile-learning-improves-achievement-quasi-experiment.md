@@ -71,3 +71,4 @@ Quasi-experimental comparison of a mobile learning group (n=15) and a traditiona
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — reports the opposite
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
 - [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](pbl-beats-traditional-mixtures-achievement.md) — related
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — a narrower finding that bears on this claim
