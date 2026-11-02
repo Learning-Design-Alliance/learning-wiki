@@ -59,9 +59,11 @@ The strategy leverages inference from context while protecting against the well-
 6. Re-encounter the words in the target text and schedule brief spaced reviews over subsequent sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Frayer Model](frayer-model.md) — extends a confirmed definition into a four-quadrant concept analysis
 - [Pretesting](pretesting.md) — shares the guess-then-feedback mechanism
 - [Morphological Analysis](morphological-analysis-instruction.md) — complements contextual inference with word-part analysis
+- [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](explicit-vocabulary-instruction-intentional-environment-recipe.md)
 
 ## Examples
 - **Before-reading vocabulary routine**: a middle-school science teacher presents "evaporate" in "The puddle evaporated, leaving only a faint ring of dust," collects student guesses, then confirms the definition before students read the water-cycle chapter.

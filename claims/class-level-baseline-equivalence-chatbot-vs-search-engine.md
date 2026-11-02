@@ -64,3 +64,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [Pretest analysis showed the control and treatment groups of 7th graders were parallel in previous algebra knowledge](pretest-parallel-groups-algebra-jamshoro.md) — related
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related

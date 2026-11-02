@@ -73,3 +73,4 @@ Chi-square test on the 2×4 contingency table of group by van Hiele level (VHL 0
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
 - [Pre-service teachers taught with van Hiele Phase-based Instruction attained significantly higher van Hiele levels of geometric thinking than those taught with conventional instruction](vhpi-higher-geometric-thinking-levels-than-conventional.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related

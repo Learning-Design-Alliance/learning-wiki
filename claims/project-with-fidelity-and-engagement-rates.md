@@ -69,3 +69,4 @@ Lesson-level fidelity log analysis found site staff support was the weakest impl
 - [NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days](nba-math-hoops-high-implementation-fidelity.md) — related
 - [Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4](project-with-lesson-completion-retention-effect.md) — related
 - [Structured observations showed students were frequently engaged in on-task behaviors during circle meetings](structured-observations-engagement-on-task.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

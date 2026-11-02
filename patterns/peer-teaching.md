@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (20 for, 17 mixed, 4 against) · 24 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 24 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 25 studies (10 quant-synthesis, 9 causal, 2 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 25 report an effect size · 39 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the knowledge level of the cognitive domain](../claims/peer-tutoring-knowledge-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
+- [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](../claims/teacher-reported-high-fidelity-peer-tutoring-implementation.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

@@ -66,3 +66,4 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — a broader claim this one bears on
 - [The experimental and control groups differed significantly in reading performance before the treatment](pretest-group-difference-pkbm-reading.md) — reports the opposite
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — reports the opposite
+- [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related

@@ -57,3 +57,4 @@ Subgroup analysis of the randomised controlled trial, carried out by running the
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](shine-secondaries-fsm-subgroup-no-differential-benefit.md) — related
 - [Offering parents the Parent Academy did not improve pupils' reading or mathematics outcomes in a three-arm randomised controlled trial](parent-academy-no-pupil-attainment-impact.md) — a broader claim this one bears on
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related

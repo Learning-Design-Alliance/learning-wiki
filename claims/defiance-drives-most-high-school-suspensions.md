@@ -53,3 +53,4 @@ Analysis of CPS administrative data on reasons for suspensions in the 2012-13 sc
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
 - [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related
+- [Elementary school teams most often discuss physical aggression, defiance, disruption, and disrespect, with aggression most common in unstructured settings and defiance/disruption in classrooms](problem-behavior-types-and-locations.md) — related

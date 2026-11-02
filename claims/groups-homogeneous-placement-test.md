@@ -58,3 +58,7 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
 - [Mode of teaching idioms has a statistically significant effect on EFL learners’ idiomatic competence](teaching-mode-significant-effect-idiomatic-competence.md) — related
 - [Before treatment, focused, unfocused, and control groups did not differ significantly in accuracy for either structure type](pretest-accuracy-group-equivalence.md) — related
+- [The audio-visual and audio-only groups were homogeneous in general L2 proficiency before treatment](pet-homogeneity-av-a-groups.md) — related
+- [A one-way ANOVA found no significant difference in writing proficiency among the five pre-test groups](pretest-anova-five-groups-no-difference.md) — related
+- [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related
+- [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related

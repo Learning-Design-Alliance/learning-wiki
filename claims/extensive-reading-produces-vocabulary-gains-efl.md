@@ -59,3 +59,4 @@ In the 60-participant extensive reading study over 37 weeks, even the low-level 
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
 - [Extensive reading produces a huge pre-post improvement in vocabulary learning (d = 3.26), to be interpreted cautiously without control groups](extensive-reading-huge-effect-prepost-contrasts.md) — related
+- [Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year](word-engine-vst-gains-ancova.md) — related

@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 50 claims (32 for, 13 mixed, 5 against) · 62 studies (27 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 62 report an effect size · 37 claims rest on one study
+> **Evidence** · 51 claims (33 for, 13 mixed, 5 against) · 63 studies (28 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 63 report an effect size · 38 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -104,6 +104,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Cadaveric simulation training is superior to no simulation training for surgical skill acquisition, per three RCTs](../claims/cadaveric-simulation-superior-to-no-training.md) [+W]
 - [Evidence for transfer and long-term impact of mental practice is sparse but includes positive trends: combined MP plus physical practice improved suturing transfer, and mental rehearsal lowered endovascular error rates](../claims/mp-transfer-evidence-sparse-positive.md) [+W]
 - [Simulation-based training improves suturing, cutting, and cautery skills](../claims/simulation-training-improves-suturing-cutting-cautery.md) [+W]
+- [A four-week intervention using active methods and local environmental problems raised the percentage of first-year middle school students reaching the average on an environmental knowledge test from 1.64% to 98%](../claims/local-environmental-intervention-improves-environmental-knowledge.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

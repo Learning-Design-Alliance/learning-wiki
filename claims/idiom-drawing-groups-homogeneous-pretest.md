@@ -139,3 +139,4 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [Before instruction, the experimental and control groups showed no statistically significant difference in vocabulary knowledge](tmm-study-groups-equivalent-at-pretest.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
 - [The experimental and control groups were homogeneous in grammar knowledge before the intervention](pretest-homogeneity-call-grammar-study.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — a broader claim this one bears on

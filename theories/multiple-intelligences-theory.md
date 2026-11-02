@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 9 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (13 for, 8 mixed, 2 against) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 10 report an effect size · 23 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -65,6 +65,9 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](../claims/mi-group-outperformed-control-post-test-writing.md) [+W] — attached 2026-11-01 from Zennure Elgün Gündüz (2016), which proposed "Gardner's Multiple Intelligences Theory: eight intelligences and individual profiles".
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](../claims/mi-activities-positive-student-reflections.md) [+W] — attached 2026-11-01 from Zennure Elgün Gündüz (2016), which proposed "Gardner's Multiple Intelligences Theory: eight intelligences and individual profiles".
 - [Learning strategy is a significant predictor of students' MI development, contributing 20.6% of variance](../claims/mi-strategy-regression-predictor-mi-development.md) [+W] — attached 2026-11-01 from Winarti et al. (2019), which proposed "Multiple Intelligences theoretical basis for the developed learning strategy".
+- [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+W] — attached 2026-11-01 from Jesus Sanchez-Martin et al. (2017), which proposed "Gardner's Multiple Intelligences Theory as a cognitive-and-emotional framework for designing Technology lessons".
+- [Emotional gains under MIT-based instruction varied by intelligence style, with Logical-mathematical and Spatial styles most favoured and Bodily-kinesthetic nearly unaffected](../claims/emotional-gains-vary-by-intelligence-style.md) [+W] — attached 2026-11-01 from Jesus Sanchez-Martin et al. (2017), which proposed "Gardner's Multiple Intelligences Theory as a cognitive-and-emotional framework for designing Technology lessons"; tests this page's relationship.
+- [Post-test content acquisition favoured the MIT-based group descriptively, but the reported ANOVA p-value of 0.34 does not reach significance](../claims/mit-knowledge-posttest-not-significant.md) [-W]
 
 ## Related Theories
 
@@ -77,6 +80,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 
 - [Develop lesson plans covering all learning objectives across various intelligences](../strategies/comprehensive-lesson-plans-all-objectives-intelligences.md)
 - [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](../strategies/mi-activities-content-based-efl-strategy.md)
+- [Teachers should schedule Technology activities with special attention to each Intelligence Style](../strategies/attend-to-intelligence-styles-when-scheduling.md)
 
 ## Key Sources
 - Gardner, H. (1983). *Frames of mind: The theory of multiple intelligences*. Basic Books.

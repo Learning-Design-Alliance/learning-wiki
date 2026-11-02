@@ -60,3 +60,4 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 - [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — related
 - [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related
 - [An average-scoring student rises from the 50th to the 82nd percentile after application of CAME](came-percentile-gain-50-to-82.md) — related
+- [Intervention effects on WJIII passage comprehension were moderated by pretest: only students starting at or above the 60th percentile benefited](pretest-moderation-wjiii-passage-comprehension.md) — related

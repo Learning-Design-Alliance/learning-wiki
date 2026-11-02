@@ -59,3 +59,4 @@ ANCOVA on treatment-group-only data (21 males, 26 females) by gender. Adjusted m
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [The article reports a significant mediating effect of gender on the role of sight translation in reading ability acquisition, while its own printed posttest means for females and males are nearly identical](gender-mediating-effect-sight-translation-reading.md) — related
 - [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
+- [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related

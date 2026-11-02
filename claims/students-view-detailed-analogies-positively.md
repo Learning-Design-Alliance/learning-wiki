@@ -47,3 +47,4 @@ Questionnaire given to the experimental group after the post-test assessing opin
 ## Related Claims
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
 - [Experimental-group students taught with the hybrid CFC-analogy-template approach scored significantly higher than control-group students on the overall posttest (ProKT)](hybrid-approach-improves-introductory-programming-posttest.md) — related
+- [Students reported positive views of the mobile formative assessment model, citing motivation and exam preparation benefits](pele-student-questionnaire-positive-attitudes.md) — related

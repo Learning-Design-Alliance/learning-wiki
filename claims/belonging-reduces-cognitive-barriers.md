@@ -58,3 +58,4 @@ Design Principle 2 section, a narrative synthesis, reports that "learning happen
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a narrower finding that bears on this claim
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — a narrower finding that bears on this claim
 - [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related
+- [Learners in the Wikipedia classroom reported higher motivation, sense of communal work, collaboration, and pleasure, and less confusion than learners in the traditional classroom](wikipedia-classroom-motivation-collaboration.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Delayed posttest scores from Table 1 of the two-group vocabulary study. The auth
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — reports the opposite
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related

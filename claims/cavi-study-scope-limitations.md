@@ -49,3 +49,4 @@ Authors' stated delimitations in Section 9: the population restriction, and that
 - [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for pre-intermediate Iranian EFL learners](cavi-outperforms-teacher-led-pre-intermediate-vocabulary.md) — related
 - [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for intermediate Iranian EFL learners](cavi-outperforms-teacher-led-intermediate-vocabulary.md) — related
 - [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related
+- [The study's findings are limited to female Iranian pre-university students at one public school, with psychological factors unexamined](vfc-study-scope-limitations.md) — related

@@ -49,3 +49,4 @@ Qualitative interviews with the three highest- and three lowest-performing parti
 - [For topics describing locations, depicting yielded more generated ideas than outlining](depicting-locations-topic-more-ideas.md) — related
 - [Outlining training led to higher organization-of-ideas scores than depicting training](outlining-improves-organization-more-than-depicting.md) — related
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
+- [Experimental-group participants attributed their comprehension gains to the group story-mapping strategy in interviews](group-story-mapping-interview-endorsement.md) — related

@@ -49,3 +49,4 @@ Pre-specified subgroup analyses in the intention-to-treat regression model. The 
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The Perry Beeches Coaching Programme had a positive impact on Year 7 pupils' reading, spelling and grammar attainment, equivalent to approximately five additional months' progress](perry-beeches-coaching-positive-impact-reading-spelling-grammar.md) — related
+- [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — possibly the same claim (merge candidate)

@@ -74,8 +74,10 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
+
 - Learners compare several examples and infer the governing rule from prompts.
 - Students explore a data set with questions that guide them toward a key relationship.
+- [Structure experimental work so students discover physics rules, keeping them in a loop of higher-order thinking](../strategies/structured-experiments-higher-order-thinking-loop.md)
 
 ## Key Sources
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)

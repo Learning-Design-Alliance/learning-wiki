@@ -68,3 +68,4 @@ Independent samples tests comparing the experimental and control groups on T2 an
 - [Pronunciation gains from instruction plus monitoring are smaller in spontaneous speech than in vocabulary and sentence reading](spontaneous-speech-gains-smaller-than-reading.md) — related
 - [Instruction plus monitor training produced positive transfer of pronunciation knowledge to uninstructed words](positive-transfer-pronunciation-knowledge.md) — related
 - [Phonetic and phonological instruction delivered in a cooperative learning setting significantly improved ELLs' pronunciation of target English sounds over six weeks](cl-setting-significant-pronunciation-pre-post-gain.md) — related
+- [Practice level (word, sentence, real-life dialogue) showed no significant correlation with pronunciation post-test performance, though students scored highest on dialogues](no-level-effect-dialogue-highest-descriptive.md) — related

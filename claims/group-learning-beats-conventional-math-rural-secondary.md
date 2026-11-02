@@ -54,3 +54,4 @@ Quasi-experimental equivalent pre-post test control group design with 84 experim
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — related
 - [Grade 10 learners taught financial mathematics with a group approach significantly outperformed learners taught with conventional non-group instruction](group-approach-outperforms-non-group-grade10-financial-maths.md) — related
+- [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — related

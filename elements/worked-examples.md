@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (20 for, 17 mixed, 4 against) · 44 studies (21 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 8 of 44 report an effect size · 32 claims rest on one study
+> **Evidence** · 43 claims (22 for, 17 mixed, 4 against) · 45 studies (22 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 9 of 45 report an effect size · 34 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -75,6 +75,8 @@ Worked examples are the element in which learners study complete or partial solu
 - [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](../claims/worked-examples-plus-practice-improve-note-scores.md) [+W]
 - [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](../claims/prior-knowledge-moderates-incorrect-examples.md) [+W] — attached 2026-11-01 from Barbieri et al. (2016), which proposed "Incorrect worked examples worksheets with self-explanation prompts for systems of equations"; tests this page's relationship.
+- [Freshmen high school students taught programming with self-explanation supported by worked examples achieved significantly better programming knowledge than students taught by the traditional method](../claims/self-explanation-worked-examples-improve-programming-knowledge.md) [+W] — attached 2026-11-01 from Riyadh Alhassan (2017), which proposed "Instructional units in Visual Basic Studio integrating self-explanation prompts with worked examples".
+- [Students taught programming with self-explanation supported by worked examples significantly outperformed traditionally taught students on the technical skills posttest of writing program code](../claims/self-explanation-worked-examples-improve-programming-skills.md) [+W] — attached 2026-11-01 from Riyadh Alhassan (2017), which proposed "Instructional units in Visual Basic Studio integrating self-explanation prompts with worked examples".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -53,3 +53,4 @@ Thematic analysis of the open-ended questionnaire. Students asked for rule expla
 - [On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-implicit-short-term-differences.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — related
 - [Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.](metalinguistic-cf-equivalent-not-superior-to-direct.md) — related
+- [Student drawings alone can mislead teachers about students' knowledge; accompanying text or discussion can turn a carelessly drawn sketch into a correct answer](drawings-alone-insufficient-assessment.md) — related

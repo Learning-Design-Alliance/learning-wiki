@@ -60810,5 +60810,797 @@
  "test-format\tMCQ test format\twritten short-answer test format": {
   "label": "multiple-choice vs written short-answer",
   "treatment_is_a": true
+ },
+ "active-learning\t16-week cross-age peer tutoring\tpre-programme/before intervention": {
+  "label": "cross-age peer tutoring vs pre-intervention/before programme",
+  "treatment_is_a": true
+ },
+ "active-learning\t16-week peer tutoring intervention\tno comparison reported": {
+  "label": "peer tutoring vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\t40-hour critical-thinking workshops\tno intervention": {
+  "label": "critical-thinking workshops vs no intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\t40-hour critical-thinking workshops\tno intervention during the study": {
+  "label": "critical-thinking workshops vs no intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tActive learning methods\tDogmatic method": {
+  "label": "active learning vs dogmatic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tFour-week intervention using local environmental problems, active learning and teaching aids\tRegular science sessions": {
+  "label": "environmental-problem-based active learning with teaching aids vs regular science sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw cooperative learning\tConventional learning method": {
+  "label": "jigsaw cooperative learning vs conventional/traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw cooperative learning\ttraditional teaching": {
+  "label": "jigsaw cooperative learning vs conventional/traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw strategy\ttraditional teaching": {
+  "label": "jigsaw cooperative learning vs conventional/traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw technique\tconventional learning method": {
+  "label": "jigsaw cooperative learning vs conventional/traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw technique\tconventional method": {
+  "label": "jigsaw cooperative learning vs conventional/traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPLC participation with collaborative discussion\tless or no PLC discussion": {
+  "label": "PLC participation with collaborative discussion vs less or no PLC discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning methods\tdogmatic method": {
+  "label": "active learning vs dogmatic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning methods\tlower use of active methods": {
+  "label": "higher use of active learning vs lower use of active learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative writing in pairs\tindividual writing": {
+  "label": "collaborative pair writing vs individual writing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted Learning Together\tindividualized computer instruction": {
+  "label": "computer-assisted Learning Together vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted Learning Together Model (LTM)\tindividualized computer instruction (ICI)": {
+  "label": "computer-assisted Learning Together vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted Learning Together cooperative learning\tindividualized computer instruction (ICI)": {
+  "label": "computer-assisted cooperative Learning Together vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD\tcomputer-assisted Learning Together": {
+  "label": "computer-assisted STAD vs computer-assisted Learning Together",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD\tcomputer-assisted Learning Together Model (LTM)": {
+  "label": "computer-assisted STAD vs computer-assisted Learning Together",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD\tindividualized computer instruction": {
+  "label": "computer-assisted STAD vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD\tindividualized computer instruction (ICI)": {
+  "label": "computer-assisted STAD vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD and LTM cooperative strategies\tindividualized computer instruction (ICI)": {
+  "label": "computer-assisted STAD and Learning Together cooperative strategies vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD cooperative learning\tcomputer-assisted Learning Together cooperative learning": {
+  "label": "computer-assisted STAD cooperative learning vs computer-assisted Learning Together cooperative learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted STAD cooperative learning\tindividualized computer instruction (ICI)": {
+  "label": "computer-assisted STAD cooperative learning vs individualized computer instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\tlecture-based teaching": {
+  "label": "cooperative learning vs lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcross-age peer tutoring\tbefore or earlier in the programme": {
+  "label": "cross-age peer tutoring vs pre-intervention/before programme",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with in-class Kahoot assessments and group presentations\ttraditional blended learning with instructor lectures and individual assignments": {
+  "label": "flipped classroom with active in-class assessment and group work vs traditional blended instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning\texperimental-group pre-test baseline": {
+  "label": "flipped learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning with demonstration videos\ttraditional face-to-face teaching": {
+  "label": "flipped learning with demonstration videos vs traditional face-to-face teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning with demonstration videos and hands-on activities\ttraditional lectures and direct teaching": {
+  "label": "flipped learning with demonstration videos and hands-on activities vs traditional lectures and direct teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning with pre-class videos and in-class hands-on activities\tpre-test before flipped learning": {
+  "label": "flipped learning with pre-class videos and in-class hands-on activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning with pre-class videos/readings and in-class hands-on collaborative work\ttraditional lectures and direct teaching": {
+  "label": "flipped learning with pre-class preparation and in-class collaborative work vs traditional lectures and direct teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour-week intervention linking ecological knowledge to pro-environmental behavior\tregular science sessions": {
+  "label": "ecological-knowledge intervention targeting pro-environmental behavior vs regular science sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour-week intervention using local environmental problems, active learning methods and teaching aids\tpre-intervention intentions during regular science instruction": {
+  "label": "environmental-problem-based active learning with teaching aids vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour-week intervention using local environmental problems, active learning, and teaching aids\tregular science sessions": {
+  "label": "environmental-problem-based active learning with teaching aids vs regular science sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tfour-week science intervention using local environmental problems, active learning, and teaching aids\tregular science sessions": {
+  "label": "environmental-problem-based active learning with teaching aids vs regular science sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tlocal environmental problems taught with active learning and teaching aids\tregular science sessions": {
+  "label": "environmental-problem-based active learning with teaching aids vs regular science sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-built 3D inguinal canal model\tfrontal academic lesson with slides": {
+  "label": "student-built 3D model vs frontal academic lesson with slides",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t40-hour critical-thinking training workshops\tno intervention": {
+  "label": "structured training/intervention vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit vocabulary instruction with intentional learning environment\tTeacher-led instruction without explicit vocabulary focus or intentional learning environment": {
+  "label": "explicit instruction vs implicit/non-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFM intervention variants\tbusiness-as-usual control": {
+  "label": "structured intervention vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical thinking module with related activities\tusual nursing health education and clinical training": {
+  "label": "targeted instructional module vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperimental group assigned to receive explicit apology-speech-act instruction\tcontrol group receiving regular instruction only": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit apology speech-act instruction\tregular institute instruction without extra apology instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit apology-speech-act instruction\tregular instruction without extra apology instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in apology speech-act strategies\tregular instruction without extra apology instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit vocabulary instruction with an intentional learning environment\tregular textbook lesson taught by the class teacher": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit vocabulary instruction with an intentional learning environment\tteacher-led embedded/implicit vocabulary instruction": {
+  "label": "explicit instruction vs implicit/embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprewriting-strategies instruction groups\tproduct-oriented control group": {
+  "label": "strategy-focused instruction vs product-oriented instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsubtitled videos with incidental vocabulary learning\ttraditional intentional vocabulary instruction": {
+  "label": "intentional/explicit instruction vs incidental learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tsubtitled-video vocabulary instruction\ttraditional explicit vocabulary instruction": {
+  "label": "intentional/explicit instruction vs incidental learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tsubtitled-video vocabulary learning\ttraditional explicit vocabulary instruction": {
+  "label": "intentional/explicit instruction vs incidental learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tthree pragmatic compliment-sequence lessons\tpre-intervention scores": {
+  "label": "post-instruction performance vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish compliment sequences\tL2 control group": {
+  "label": "targeted pragmatic instruction vs control instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish compliment sequences\theritage control group": {
+  "label": "targeted pragmatic instruction vs control instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree pragmatic lessons on Spanish compliment sequences\tno pragmatic lessons": {
+  "label": "targeted pragmatic instruction vs no pragmatic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lectures and direct teaching\tpre-test baseline": {
+  "label": "direct instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twatching subtitled video clips\ttraditional teaching of the same subtitles": {
+  "label": "traditional explicit instruction vs subtitled-video learning",
+  "treatment_is_a": false
+ },
+ "fading\tACCESS two-semester CBT intervention with faded maintenance support\tdelayed treatment condition": {
+  "label": "faded maintenance support vs delayed treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tanonymous images of living beings\tnames of living beings": {
+  "label": "images vs names",
+  "treatment_is_a": true
+ },
+ "media-design\tmodified and abstract pictured letters\ttraditional letter teaching": {
+  "label": "pictured/modified letters vs traditional letter teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tpictured modified and abstract letters\ttraditional letter teaching": {
+  "label": "pictured/modified letters vs traditional letter teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tpictured modified letters\ttraditional letter teaching": {
+  "label": "pictured/modified letters vs traditional letter teaching",
+  "treatment_is_a": true
+ },
+ "practice-amount\tCALL exposure for half an hour, experimental group 2\tCALL exposure for a quarter hour, experimental group 1": {
+  "label": "longer CALL exposure vs shorter CALL exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tTwo hours weekly of Word Engine\tOne hour weekly of Word Engine plus extensive reading": {
+  "label": "more Word Engine practice vs less Word Engine practice plus extensive reading",
+  "treatment_is_a": true
+ },
+ "practice-amount\thalf-hour CALL exposure\tquarter-hour CALL exposure": {
+  "label": "longer CALL exposure vs shorter CALL exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger CALL exposure (30 minutes)\tcontrol without CALL software": {
+  "label": "CALL exposure vs no CALL exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger CALL exposure (30 minutes)\tshorter CALL exposure (15 minutes)": {
+  "label": "longer CALL exposure vs shorter CALL exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore acquired vocabulary items\tfewer acquired vocabulary items": {
+  "label": "more acquired vocabulary items vs fewer acquired vocabulary items",
+  "treatment_is_a": true
+ },
+ "practice-amount\tschools delivering more Lesson Study cycles\tschools delivering fewer Lesson Study cycles": {
+  "label": "more Lesson Study cycles vs fewer Lesson Study cycles",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond experimental group with half an hour of CALL exposure\tfirst experimental group with a quarter hour of CALL exposure": {
+  "label": "longer CALL exposure vs shorter CALL exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo hours of Word Engine weekly\tone hour of Word Engine plus one hour of extensive reading weekly": {
+  "label": "more Word Engine practice vs less Word Engine practice plus extensive reading",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tPreschool First Step to Success\tusual care": {
+  "label": "Rewards/incentives vs no rewards/incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tPreschool First Step with coach, teacher, and parent components, points, praise, and rewards\tusual care": {
+  "label": "Rewards/incentives vs no rewards/incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\texperimental-group instruction using readiness-matched styles\texperimental-group pretest": {
+  "label": "readiness-matched scaffolding vs pretest/no intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\treadiness-matched situational leadership styles\ttraditional teaching": {
+  "label": "readiness-matched scaffolding vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "scaffolding\tselling style for R2 students\tR2 students' pretest": {
+  "label": "selling scaffolding vs pretest/no intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsituational leadership intervention\tpretest": {
+  "label": "situational-leadership scaffolding vs pretest/no intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsituational leadership styles matched to readiness\texperimental-group pretest": {
+  "label": "readiness-matched scaffolding vs pretest/no intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsituational leadership styles matched to readiness\ttraditional teaching methods": {
+  "label": "readiness-matched scaffolding vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttelling and selling styles\tparticipating and delegating styles": {
+  "label": "more directive scaffolding (telling/selling) vs less directive scaffolding (participating/delegating)",
+  "treatment_is_a": true
+ },
+ "self-explanation\tSelf-explanation strategy supported with worked examples\tNational Guidelines traditional teaching method": {
+  "label": "Self-explanation supported by worked examples vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation strategy supported with worked examples\ttraditional programming instruction": {
+  "label": "Self-explanation supported by worked examples vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation supported by worked examples\tpeers who did not use self-explanation": {
+  "label": "Self-explanation supported by worked examples vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tISIA inquiry with interactive simulations\tconventional instruction": {
+  "label": "interactive simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tISIA inquiry-based instruction with interactive simulations\tconventional instruction": {
+  "label": "interactive simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tISIA instruction\tconventional instruction": {
+  "label": "interactive simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tISIA with interactive simulations\tconventional instruction": {
+  "label": "interactive simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tInteractive Simulations Instructional Approach (ISIA)\tconventional instruction": {
+  "label": "interactive simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulation\tcontrol group": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulations\tcontrol instruction": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulations\treal experiments": {
+  "label": "simulation-based instruction vs real experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulations\ttraditional direct teaching": {
+  "label": "simulation-based instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tconstructing a 3-dimensional inguinal canal model\tfrontal academic lesson with slide support": {
+  "label": "3D model construction vs frontal lesson with slides",
+  "treatment_is_a": true
+ },
+ "simulation\tconstructing a 3D inguinal canal model\tfrontal lesson with slides": {
+  "label": "3D model construction vs frontal lesson with slides",
+  "treatment_is_a": true
+ },
+ "simulation\tconstructing a supervised 3D inguinal-canal model\tfrontal academic lesson with slides": {
+  "label": "3D model construction vs frontal lesson with slides",
+  "treatment_is_a": true
+ },
+ "simulation\treal experiments\tPhET simulations": {
+  "label": "simulation-based instruction vs real experiments",
+  "treatment_is_a": false
+ },
+ "technology-tool\t10-week blended instruction using Moodle plus face-to-face teaching\ttraditional face-to-face instruction": {
+  "label": "blended instruction with Moodle vs traditional face-to-face instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15 minutes daily using Imagine Learning\tregular teacher instruction without computer software": {
+  "label": "Imagine Learning vs regular teacher instruction without computer software",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15 minutes daily using Waterford Early Learning\tregular teacher instruction without computer software": {
+  "label": "Waterford Early Learning vs regular teacher instruction without computer software",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported Ottoman Turkish reading\tclassical teaching": {
+  "label": "AR-supported instruction vs classical teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAR-supported Ottoman Turkish reading instruction\tcurrent/classical teaching method": {
+  "label": "AR-supported instruction vs classical teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR pronunciation instruction using Tell Me More\tregular pronunciation instruction": {
+  "label": "ASR pronunciation instruction vs regular pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASR using Tell Me More Performance English\tregular instruction": {
+  "label": "ASR pronunciation instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments formative assessment and tutoring\tcomparison-school instruction without ASSISTments": {
+  "label": "ASSISTments vs instruction without ASSISTments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments formative assessment and tutoring\ttraditional textbook activities without educational technology": {
+  "label": "ASSISTments vs traditional textbook activities without educational technology",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online formative assessment and tutoring\ttraditional textbook activities without educational technology": {
+  "label": "ASSISTments vs traditional textbook activities without educational technology",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments use\tno ASSISTments use; traditional textbook activities": {
+  "label": "ASSISTments vs no ASSISTments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments use\tno ASSISTments; traditional textbook activities": {
+  "label": "ASSISTments vs no ASSISTments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments use in treatment schools\tno ASSISTments use in comparison school": {
+  "label": "ASSISTments vs no ASSISTments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAchieve3000 use\tdid not use Achieve3000": {
+  "label": "Achieve3000 vs no Achieve3000",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAchieve3000 users\tstudents who did not use Achieve3000": {
+  "label": "Achieve3000 vs no Achieve3000",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game (AVG)\tCombined serious non-action video game and speech therapy groups": {
+  "label": "action video game vs combined non-action-game and speech-therapy controls",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game (AVG)\tSerious non-action video game (SNAVG)": {
+  "label": "action video game vs serious non-action video game",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game (AVG)\tSpeech therapy treatment-as-usual": {
+  "label": "action video game vs speech therapy",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game (AVG)\tWaiting list": {
+  "label": "action video game vs waiting list",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game (AVG)\tWaiting list, serious non-action video game, and speech-therapy groups": {
+  "label": "action video game vs combined waiting-list, non-action-game, and speech-therapy controls",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game training\tSerious non-action video game": {
+  "label": "action video game vs serious non-action video game",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game training\tSpeech therapy": {
+  "label": "action video game vs speech therapy",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAction video game training\tWaiting list": {
+  "label": "action video game vs waiting list",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActive Grade Estimator\tstate-of-the-art automated short-answer grading methods": {
+  "label": "Active Grade Estimator vs existing automated short-answer grading methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActive Grade Estimator (AGE)\tstate-of-the-art short-answer grading methods": {
+  "label": "Active Grade Estimator vs existing automated short-answer grading methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActivities section of the app\tnot reported": {
+  "label": "Activities section of the app vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActivities selected as most helpful\tPhoto Journal selected as most helpful": {
+  "label": "Activities section vs Photo Journal section",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActivities use reported at interview\tActivities use reported at survey": {
+  "label": "Activities use reported at interview vs Activities use reported at survey",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActivity Streams for action logging\tthe Kaleidoscope common action-logging format": {
+  "label": "Activity Streams vs Kaleidoscope action-logging format",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActor’s Note AI-assisted journaling\tunassisted freewriting": {
+  "label": "AI-assisted journaling vs unassisted freewriting",
+  "treatment_is_a": true
+ },
+ "technology-tool\tActor’s Note introduced later in rehearsal\tunassisted freewriting": {
+  "label": "AI-assisted journaling vs unassisted freewriting",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaBoost using fused E3Sense EEG, eye-tracking, and EDA features\tsensor-free mode baseline": {
+  "label": "multimodal sensor-based mode vs sensor-free mode",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaPT lesson-plan adaptation system\tprior preparation workflow; not explicitly described": {
+  "label": "AdaPT lesson-plan adaptation system vs prior preparation workflow",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaPT-assisted lesson-plan adaptation\tnot stated": {
+  "label": "AdaPT-assisted lesson-plan adaptation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaPT-generated adapted lesson plans\tnot explicitly described": {
+  "label": "AdaPT-generated adapted lesson plans vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptED Stories\testablished usability benchmarks": {
+  "label": "AdaptED Stories vs established usability benchmarks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptED Stories AI-assisted story authoring\tmanual story preparation": {
+  "label": "AI-assisted story authoring vs manual story preparation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptED Stories personalized story creation\tmanual selection and preparation of story images": {
+  "label": "personalized story creation vs manual image selection and preparation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive CoLearn memory updates\tFrozen memory": {
+  "label": "adaptive memory updates vs frozen memory",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive CoLearn memory updates\tRandom-topic memory updates": {
+  "label": "adaptive memory updates vs random-topic memory updates",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive CoLearn questions\tRandom-topic questions": {
+  "label": "adaptive questions vs random-topic questions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive CoLearn targeting\tRandom-topic targeting": {
+  "label": "adaptive targeting vs random-topic targeting",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive Systems and Personalisation\tAssessment and Evaluation": {
+  "label": "Adaptive Systems and Personalisation vs Assessment and Evaluation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive Systems and Personalisation\tIntelligent Tutoring Systems": {
+  "label": "Adaptive Systems and Personalisation vs Intelligent Tutoring Systems",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive Systems and Personalisation\tOther AI applications in higher education": {
+  "label": "Adaptive Systems and Personalisation vs other AI applications in higher education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive Systems and Personalisation\tProfiling and Prediction": {
+  "label": "Adaptive Systems and Personalisation vs Profiling and Prediction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive intelligent systems\tnot stated": {
+  "label": "adaptive intelligent systems vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdaptive systems RadarMath, MathGPT, and Flexi 2.0\tNot stated": {
+  "label": "adaptive systems vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdministrative interactive chatbot campaigns\tAverage interactive chatbot campaigns": {
+  "label": "administrative chatbot campaigns vs average chatbot campaigns",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAdvanced ML/DL techniques including CNNs and RNNs\tTraditional proctoring techniques": {
+  "label": "advanced ML/DL proctoring vs traditional proctoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAgenticMath data generation, 30K samples\tMathFusion, 30K samples": {
+  "label": "AgenticMath data generation vs MathFusion data generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAgenticMath data generation, 60K samples\tDeepSeekMath-7B-RFT, 590K samples": {
+  "label": "AgenticMath data generation vs DeepSeekMath data generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAgenticMath data generation, 60K samples\tOther baseline methods trained with 60K samples": {
+  "label": "AgenticMath data generation vs other 60K-sample baselines",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAgenticMath data generation, 90K samples\tLlama3-8B-DART-Math, 590K samples": {
+  "label": "AgenticMath data generation vs Llama3-DART-Math data generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAir Reading live virtual tutoring\tbusiness-as-usual literacy instruction": {
+  "label": "Air Reading virtual tutoring vs business-as-usual literacy instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAir Reading virtual tutoring\tbusiness-as-usual literacy instruction": {
+  "label": "Air Reading virtual tutoring vs business-as-usual literacy instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgebra curriculum with embedded Algebra Cognitive Tutor\tbusiness-as-usual comparison classes": {
+  "label": "Algebra Cognitive Tutor curriculum vs business-as-usual classes",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgebra curriculum with embedded intelligent tutoring system\tbusiness-as-usual comparison classes": {
+  "label": "intelligent tutoring-system algebra curriculum vs business-as-usual classes",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgoRAG-generated answers\tinstructor reference answers": {
+  "label": "AlgoRAG-generated answers vs instructor reference answers",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgoRAG-generated answers\tinstructor-written reference answers": {
+  "label": "AlgoRAG-generated answers vs instructor-written reference answers",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgoRAG-generated responses\tNo comparison condition reported": {
+  "label": "AlgoRAG-generated responses vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgoRAG-generated responses with mathematical-notation processing\tNo comparison condition reported": {
+  "label": "AlgoRAG responses with mathematical-notation processing vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgoRAG-generated responses with retrieved practice materials\tNo comparison condition reported": {
+  "label": "AlgoRAG responses with retrieved practice materials vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgorithm based on actual health outcomes\tAlgorithm using healthcare spending as a proxy for health status": {
+  "label": "health-outcome algorithm vs spending-proxy algorithm",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlgorithms assignment\tSoftware Engineering assignment": {
+  "label": "Algorithms assignment vs Software Engineering assignment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlignment RL\tBackbone QWEN3-8B": {
+  "label": "Alignment RL vs QWEN3-8B backbone",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAlignment RL\tSFT Warmup": {
+  "label": "Alignment RL vs SFT warmup",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmico dual-mode AI-mediated educational system\tNo comparison condition reported": {
+  "label": "Amico dual-mode AI system vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmico dual-mode prototype in Italy\tAmico dual-mode prototype in China": {
+  "label": "Amico prototype in Italy vs Amico prototype in China",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmico prototype with bounded interaction and dependency safeguards\tnot reported": {
+  "label": "Amico prototype with safeguards vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmicoMio structured mode\tAmicoTuo reflective mode": {
+  "label": "AmicoMio structured mode vs AmicoTuo reflective mode",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmicoTuo reflective-supportive mode\tother interaction mode, especially AmicoMio": {
+  "label": "AmicoTuo reflective mode vs other interaction modes",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmira\tSustained Silent Reading": {
+  "label": "Amira vs sustained silent reading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmira\tmatched controls": {
+  "label": "Amira vs matched controls",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmplify Games summer program\tpre-program baseline": {
+  "label": "Amplify Games summer program vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAmplify Games/eSpark summer program\tend-of-year reading benchmark scores": {
+  "label": "Amplify Games/eSpark summer program vs end-of-year benchmark",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnatomage virtual dissection\tcadaver-based practice": {
+  "label": "Anatomage virtual dissection vs cadaver-based practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnatomage virtual dissection\tcadaveric dissection": {
+  "label": "Anatomage virtual dissection vs cadaveric dissection",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnatomage virtual dissection table\tformalin-preserved specimens": {
+  "label": "Anatomage virtual dissection table vs formalin-preserved specimens",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnatomy Glove Learning System (3D)\ttraditional 2D learning": {
+  "label": "3D anatomy learning system vs traditional 2D learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndes algebra subsystem with dimensional-unit handling\tprevious algebra approach": {
+  "label": "Andes algebra subsystem with dimensional-unit handling vs previous algebra approach",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndes1 Bayesian plan recognition\tphysics instructors’ agreed judgments": {
+  "label": "Andes Bayesian plan recognition vs instructor judgments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndes2 algebra subsystem\tnot stated": {
+  "label": "Andes2 algebra subsystem vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndes2 with the new algebra subsystem and changed correctness method\tprevious algebra-subsystem approach": {
+  "label": "new Andes2 algebra subsystem vs previous subsystem",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndroid-assisted learning media with local cultural content\tlearning the same material without the Android-assisted learning media": {
+  "label": "Android-assisted learning media vs learning without the media",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAndroid-assisted learning media with local cultural content\tlearning without the Android-assisted media": {
+  "label": "Android-assisted learning media vs learning without the media",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnnotation system\tBlackboard discussion forum": {
+  "label": "annotation system vs Blackboard discussion forum",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnonymous Forms emotional check-in\tindividual teacher conversations with students": {
+  "label": "anonymous emotional check-in vs individual teacher conversations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAnthropic Claude 3–3.7\tOpenAI GPT-4o through o1": {
+  "label": "Claude 3–3.7 vs GPT-4o through o1",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAny AI assistance at any writing stage\tNo AI support": {
+  "label": "AI assistance at any writing stage vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tApp Inventor tutorials\tno App Inventor tutorials": {
+  "label": "App Inventor tutorials vs no App Inventor tutorials",
+  "treatment_is_a": true
+ },
+ "technology-tool\tApplicants submitting AI-written essays\tApplicants submitting no AI-written essays": {
+  "label": "AI-written essays vs no AI-written essays",
+  "treatment_is_a": true
+ },
+ "technology-tool\tApplications submitted after ChatGPT availability\tApplications submitted before ChatGPT availability": {
+  "label": "post-ChatGPT applications vs pre-ChatGPT applications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tApplied and computational subjects (computer science and economics)\tNatural sciences and mathematics": {
+  "label": "applied/computational subjects vs natural sciences/mathematics",
+  "treatment_is_a": true
+ },
+ "technology-tool\tArbitrary single-tone control mapping\tchance performance": {
+  "label": "single-tone control mapping vs chance performance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAsk-Elle automated assessment\thand grading": {
+  "label": "Ask-Elle automated assessment vs hand grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAsk-Elle complete-solution support\tAsk-Elle step-size correspondence": {
+  "label": "Ask-Elle complete-solution support vs step-size correspondence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAsk-Elle diagnosis interactions\tnot stated": {
+  "label": "Ask-Elle diagnosis interactions vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAsk-Elle programming tutor\tnot stated": {
+  "label": "Ask-Elle programming tutor vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAssessmake21 digital self-assessment tool\tnot stated": {
+  "label": "Assessmake21 digital self-assessment vs unspecified comparison",
+  "treatment_is_a": true
  }
 }

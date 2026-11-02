@@ -55,3 +55,4 @@ Pre-registered randomized experiment with N = 154 seventh-graders learning at ho
 - [Inquiry learning in a virtual laboratory on Archimedes' principle produces significant conceptual knowledge gains in all three guidance conditions](significant-learning-gains-all-inquiry-conditions-archimedes.md) — a narrower finding that bears on this claim
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
+- [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related

@@ -49,6 +49,7 @@ The article recommends evaluating DAA pedagogies against traditional instruction
 ## Related Strategies
 
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
+- [Use a three-group design (two experimental, one control) to isolate the added explanation principle's effect](three-group-design-react-explanation-comparison.md)
 
 ## Examples
 -

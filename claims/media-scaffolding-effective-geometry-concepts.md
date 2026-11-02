@@ -70,3 +70,4 @@ After a Kolmogorov-Smirnov normality check on gain values, an independent t-test
 - [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — related
 - [Male and female students show different tendencies in which media scaffolding they use](gender-tendencies-media-scaffolding-choice.md) — related
 - [High versus low student attitudes and perceptions show no significant difference in geometry concept understanding](no-significant-attitude-perception-difference-geometry-understanding.md) — related
+- [Experimental-class students showed higher diagrammatic representation gains than control-class students after using the Android media](diagrammatic-gain-higher-experimental-class.md) — related

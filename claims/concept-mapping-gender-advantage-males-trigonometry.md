@@ -53,3 +53,4 @@ Within the concept mapping group of the quasi-experiment (Table 4: 38 males, 32 
 - [SSII students taught trigonometry with concept mapping or cooperative learning achieved significantly higher post-test scores than students taught with conventional methods](concept-mapping-cooperative-learning-beat-conventional-trigonometry.md) — related
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](gender-method-interaction-effects-trigonometry.md) — reports the opposite
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
+- [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/collaborative-writing-improves-all-writing-components.md
+---
+
+# Revision history: [claims/collaborative-writing-improves-all-writing-components](../claims/collaborative-writing-improves-all-writing-components.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from eric-ej1127979 (Languaging and Writing Skill: The Effect of Collaborative Writing on EFL Students' Writing Performance) via eval_harness.py + ingest_extractions.py

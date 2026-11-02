@@ -64,6 +64,7 @@ Prewriting reduces cognitive load during drafting by offloading idea generation 
 - [Collaborative Writing](../strategies/collaborative-writing.md) — prewriting is often the most productive phase for group work [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Graphic Organizers](../strategies/graphic-organizers.md) — the most common prewriting tool format
 - [Combine depicting and outlining in sequence: depict first to trigger ideas, then outline to organize them](depict-then-outline-combination-strategy.md)
+- [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
 
 ## Examples
 - **Writing Next recommendations** — Graham & Perin (2007) identify prewriting among eleven elements of effective adolescent writing instruction, with an effect size of d ≈ 0.32 when taught explicitly and paired with modeling.

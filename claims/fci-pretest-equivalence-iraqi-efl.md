@@ -49,3 +49,6 @@ Independent-sample t-test on pre-test writing scores in the quasi-experiment fou
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — possibly the same claim (merge candidate)
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
+- [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
+- [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — possibly the same claim (merge candidate)

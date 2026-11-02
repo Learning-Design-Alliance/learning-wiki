@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (31 show a difference, 14 mixed, 2 no difference) · 26 studies (10 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 8 of 26 report an effect size · 44 claims rest on one study
+> **Evidence** · 53 claims (34 show a difference, 16 mixed, 3 no difference) · 27 studies (11 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 9 of 27 report an effect size · 50 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -83,6 +83,12 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [A decimal-fractions component improves decimal understanding, with effects attributable largely to near-transfer items](../claims/decimal-fractions-component-near-transfer.md) [+M] — instruction changes it
 - [Fraction intervention students significantly outperform control students on generalized NAEP fraction items across five RCTs, with a mean ES of 0.58](../claims/fraction-intervention-naep-es-058.md) [+W] — instruction changes it
 - [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use](../claims/storytelling-specific-fraction-skills-gains.md) [~M] — instruction changes it
+- [FM intervention effects transfer to decimal number line performance even without an intervention focus on decimals](../claims/fm-intervention-transfers-decimal-number-line.md) [+M] — instruction changes it
+- [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
+- [Integrated fraction-decimal component does not provide added value over full fraction intervention on fraction outcomes](../claims/integrated-component-no-added-value-fraction-outcomes.md) [-M] — instruction changes it
+- [Integrated fraction-decimal intervention also produces significantly stronger performance than control on all four fraction outcomes](../claims/fm-dm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
+- [Integrated intervention outperforms full fraction intervention only on decimal tasks closely paralleling those practiced during intervention](../claims/integrated-advantage-limited-to-paralleling-decimal-tasks.md) [~M] — instruction changes it
+- [Integrated intervention's advantage on broader rational number outcomes is driven entirely by the near-transfer measure aligned with taught tasks](../claims/integrated-advantage-driven-by-aligned-near-transfer.md) [~M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

@@ -53,3 +53,4 @@ Fidelity analysis of the MWAP trial using classroom debrief reports and end-of-y
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [Significant positive impacts of values affirmation occurred despite low fidelity on some critical components, suggesting some delivery and stealth aspects may be less important than the original protocol defines them](impacts-despite-low-fidelity-components-less-critical.md) — related
 - [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](values-affirmation-district-trial-modest-impacts.md) — related
+- [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related

@@ -44,7 +44,8 @@ The article describes a concrete procedure for running brainstorming in writing 
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](../claims/brainstorming-improves-efl-writing-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
 
 ## Examples
 -

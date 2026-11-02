@@ -67,3 +67,5 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related
+- [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
+- [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](pre-service-teacher-aversion-to-flipped-learning.md) — reports the opposite

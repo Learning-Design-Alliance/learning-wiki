@@ -70,3 +70,4 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [Think-pair-share instruction produced higher conceptual learning in classical mechanics than conventional teacher-centered teaching in a quasi-experimental physics course](tps-improves-conceptual-learning-mbt.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
+- [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related

@@ -79,3 +79,4 @@ Thematic analysis of semi-structured interviews and focus groups conducted in sp
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — a broader claim this one bears on
 - [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](story-friends-iterative-revision-findings.md) — related
+- [Where schools implemented changes after engaging with the interventions, this occurred through in-school collaboration, further enquiry, trying out and embedding approaches, often driven by a research champion](implementation-mechanisms-evidence-based-change.md) — related

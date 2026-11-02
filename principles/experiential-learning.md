@@ -208,6 +208,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](../strategies/mixer-embed-debriefing-whole-learning-experience.md)
 - [Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment](../strategies/model-aligned-mr-pedagogical-interventions-pt.md)
 - [Deliver artistic experiential dementia education weekly over 4–8 weeks with direct interaction, guided creative expression, and facilitated reflective discussion](../strategies/art-based-dementia-education-implementation-guidelines.md)
+- [Teachers should implement the developed experiential learning-based Mathematics teaching material](../strategies/implement-experiential-math-material-strategy.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

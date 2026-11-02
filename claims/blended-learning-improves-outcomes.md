@@ -121,3 +121,4 @@ Meta-analysis of 51 contrasts (28 purely online, 23 blended per the report's spl
 - [A First Principles of Instruction-based flipped approach produced greater student achievement in three of four high school subject areas](lo-2018-fpi-fc-greater-achievement.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — a narrower finding that bears on this claim
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a narrower finding that bears on this claim
+- [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-attention-motivation.md) — related

@@ -22,7 +22,7 @@ sources:
 # Fraction Face-Off!
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (4 causal), `q3`–`q4` · 4 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (5 causal), `q3`–`q4` · 5 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Fraction Face-Off! is a structured small-group tutoring programme for at-risk fourth graders, delivered by teachers or paraprofessionals through daily supplementary fraction lessons and accompanying manuals and materials.
@@ -34,12 +34,14 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - **Deliver supplemental fraction tutoring in small groups three times weekly for 12 weeks**: The developer recommends "students use Fraction Face-Off! three times a week for 12 weeks for about 30 minutes per session." This dosage was the schedule under which the program's positive effects were demonstrated: in the contributing study, the intervention was delivered three times per week for 12 weeks between September/October and early February, in small groups at a three-to-one ratio, typically during class time or a pull-out time to supplement the math curriculum. (page:designs/fraction-face-off-dosage-three-times-weekly-12-weeks)
 - **Four-activity lesson structure combining explicit instruction, fluency games, and individual practice**: Each Fraction Face-Off! lesson follows a fixed four-activity structure: "a warm-up word problem, group work during which the teacher demonstrates fraction concepts using explicit instruction, a speed game to build fluency, and a worksheet activity that students complete individually to check their understanding of the fraction concepts." The program pairs frequent fluency practice using speed tests or flashcards with conceptual practice requiring students to explain their reasoning about fractions to the group, plus ongoing assessment through daily worksheets and a cumulative review. (page:designs/fraction-face-off-four-activity-lesson-structure)
 - **Fraction Face-Off! multi-component fraction intervention**: Fraction Face-Off! is the multi-component fraction intervention in which both the explaining and word-problem components were embedded. "Sessions occurred 3 times per week for 12 weeks with pairs of children," each 35 minutes, with 28 shared minutes focused on the measurement interpretation: comparing, ordering, placing fractions on number lines, and equivalencies. Instruction was explicit with worked examples, efficient strategies, cumulative review, and a motivation system of checkmarks, fraction dollars, and a weekly Fraction Store. (Fuchs et al. (2016))
+- **Fraction Face-Off! validated fraction magnitude intervention**: Fraction Face-Off! is a validated intervention for improving fraction magnitude understanding and applications in at-risk fourth graders. It builds fraction magnitude understanding via processing of benchmark fractions, with activities including comparing, ordering, and placing fractions on number lines and finding equivalencies. It is conducted in dyads three times per week for 12 weeks with approximately 35-minute lessons, uses an explicit instructional approach with worked examples and scaffolded practice, and incorporates a self-regulation system with timers and fraction money rewards. (Amelia S. Malone et al. (2019))
 
 ### Claims
 - [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](../claims/fraction-face-off-potentially-positive-geometry-measurement.md) [+M]
 - [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](../claims/fraction-face-off-potentially-positive-general-math-achievement.md) [+M]
 - [Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31](../claims/fraction-face-off-potentially-positive-number-operations.md) [+M]
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M]
+- [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M]
 
 ## Related Products and Programmes
 
@@ -54,6 +56,7 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2020, March). Fraction Face-Off!. Retrieved from https://ies.ed.gov/ncee/wwc/InterventionReport/702
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2020, March). Fraction Face-Off!. Retrieved from https://whatworks.ed.gov
 - Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
+- Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology.
 
 # Fraction Face-Off! small-group tutoring program for at-risk fourth graders
 

@@ -46,6 +46,7 @@ To address technological access disparities, the review recommends that "Educato
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Platform Agnostic Design](platform_agnostic_design.md)
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
+- [Enrich blended courses with varied authentic online resources and mobile-device access, per learner recommendations](enrich-blended-courses-resources-mobile-access.md)
 
 ## Examples
 -

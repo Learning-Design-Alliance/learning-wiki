@@ -58,3 +58,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](molh-formative-evaluation-positive-ratings.md) — related
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](elearning-usability-evaluations-all-positive.md) — a broader claim this one bears on
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — related
+- [Teachers perceived research evidence as most effectively communicated when interactive, accessible, relevant, balanced, credible and practice-focused](teachers-views-effective-research-communication.md) — related

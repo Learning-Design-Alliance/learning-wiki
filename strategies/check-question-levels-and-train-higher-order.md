@@ -40,7 +40,8 @@ The article recommends that after making question papers, teachers verify the co
 - [Bloom Cognitive Domain Six Levels](../theories/bloom-cognitive-domain-six-levels.md)
 
 ## Related Strategies
-- 
+
+- [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](blooms-taxonomy-question-conversion-training.md)
 
 ## Examples
 -

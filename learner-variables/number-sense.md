@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (92 show a difference, 19 mixed, 15 no difference) · 55 studies (26 associational, 20 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 23 of 55 report an effect size · 122 claims rest on one study
+> **Evidence** · 128 claims (94 show a difference, 19 mixed, 15 no difference) · 57 studies (26 associational, 22 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 25 of 57 report an effect size · 124 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -161,6 +161,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Head Start impacts on vocabulary and numeracy are larger for dual language learners, especially those with low pretest scores, than for their peers](../claims/head-start-impacts-larger-for-dll-and-low-pretest-children.md) [+M] — an instructional effect differs with it
 - [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](../claims/cross-site-variation-in-cognitive-outcome-impacts.md) [-M] — instruction changes it
 - [No significant gender difference was found in early numeracy improvement in either experimental group](../claims/no-gender-difference-numeracy-improvement.md) [-M] — learners who differ on it differ in outcomes
+- [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
+- [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](../claims/building-blocks-cai-improves-proximal-numeracy-kindergarten.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -53,3 +53,4 @@ Process-evaluation evidence from informal interviews during 30 evaluator visits 
 - [A year of weekly P4C improved Key Stage 2 progress in reading and maths relative to business-as-usual](p4c-improves-ks2-reading-and-maths.md) — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
+- [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — a narrower finding that bears on this claim

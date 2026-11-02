@@ -48,3 +48,4 @@ Non-randomized pre-test post-test non-equivalent control group study of 75 SS2 s
 - [Students reported that gardening teaching skills promoted entrepreneurial skills acquisition to a large extent (53.30%)](gardening-promoted-entrepreneurial-skills-large-extent.md) — related
 - [Students' attitudinal dispositions toward entrepreneurial skills acquisition were highly positive, with 76.00% positively disposed](students-positively-disposed-entrepreneurial-skills.md) — related
 - [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
+- [Jigsaw instruction produced more favourable student attitudes toward ethnic integration than conventional lecture in Nigerian Social Studies classrooms](jigsaw-improves-attitude-ethnic-integration-nigeria.md) — related

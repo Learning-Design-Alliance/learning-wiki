@@ -47,3 +47,4 @@ Quasi-experimental study of intact classes in ten Delta State schools (200 contr
 ## Related Claims
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
+- [Textbook use is negatively correlated with school performance while diversification of teaching aids characterizes higher-performing schools](textbook-only-teaching-indicator-less-effective-learning.md) — related

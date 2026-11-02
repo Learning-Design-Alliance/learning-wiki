@@ -81,3 +81,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [Multivariate ANOVAs showed a significant time-of-measurement by condition interaction on fractions scores in both countries](multivariate-interaction-combination-effect.md) — related
 - [Music group students' mathematics process ability (model, strategy, application) improved significantly across the intervention, with large effect sizes](music-math-process-ability-gains-time-series.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
+- [ECHOS teachers significantly improved their PreSCOT scores in predicting, investigating, and evaluating across the year while control teachers did not](echos-teachers-improved-predicting-investigating-evaluating.md) — related

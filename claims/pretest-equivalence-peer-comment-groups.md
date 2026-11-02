@@ -62,3 +62,5 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [The difference in mean topography test scores between the digital-map experimental group and the paper-map control group was not statistically significant](digital-blind-map-mean-difference-not-significant.md) — related
 - [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — possibly the same claim (merge candidate)
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
+- [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — possibly the same claim (merge candidate)

@@ -60,3 +60,4 @@ Experimental design with N = 51 first-year Ukrainian ESL students randomly assig
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
+- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related

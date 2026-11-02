@@ -50,3 +50,4 @@ Inductive thematic analysis of semi-structured interviews with experimental-cond
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
+- [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related

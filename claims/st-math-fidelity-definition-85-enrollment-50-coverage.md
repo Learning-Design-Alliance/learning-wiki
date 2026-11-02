@@ -51,3 +51,4 @@ Definitional criterion from the Method section, applied to identify the 239 of 4
 - [Grades provided with ST Math have significantly larger proportions of students advanced, or proficient or advanced, on the mathematics CST than comparison grades](st-math-itt-pooled-proficiency-proportions.md) — related
 - [Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not](st-math-itt-grade2-only-significant.md) — related
 - [Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5](st-math-provided-schools-higher-math-outcomes.md) — related
+- [Both interventions were implemented with high fidelity, good program coverage, high attendance, and low attrition](tier2-interventions-high-fidelity-implementation.md) — related

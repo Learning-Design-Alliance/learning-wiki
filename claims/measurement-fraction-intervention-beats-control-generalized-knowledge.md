@@ -63,3 +63,4 @@ Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan
 - [Fraction intervention students significantly outperform control students on generalized NAEP fraction items across five RCTs, with a mean ES of 0.58](fraction-intervention-naep-es-058.md) — related
 - [Fraction intervention students significantly outperform control students on fraction calculations across five RCTs, with a mean ES of 1.72, despite control allocating more time to computation](fraction-intervention-calculations-es-172.md) — related
 - [Intervention transfers to double-digit calculations with ES = 0.53 despite limited instructional focus](intervention-transfer-double-digit-calculations-es-053.md) — related
+- [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](fm-intervention-superior-fraction-outcomes-vs-control.md) — related

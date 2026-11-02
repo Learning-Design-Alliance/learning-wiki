@@ -72,3 +72,4 @@ Classroom observations and teacher/student interviews found NBA Math Hoops class
 - [Project With was implemented with high fidelity: 89 percent of activities were completed and youth listened during 83 percent and interacted during 76 percent of activities](project-with-fidelity-and-engagement-rates.md) — related
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related
+- [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related

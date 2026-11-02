@@ -23,7 +23,7 @@ sources:
 # Building Blocks for Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 6 studies (5 causal, 1 quant-synthesis), `q3`–`q4` · 6 of 6 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 7 studies (6 causal, 1 quant-synthesis), `q3`–`q4` · 7 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts.
@@ -36,6 +36,7 @@ A preschool mathematics curriculum from SRA Real Math that sequences instruction
 - **Building Blocks multi-context implementation pattern: whole-group, small-group, centers, computer activities, and family letters**: The curriculum distributes mathematics learning across several classroom contexts: whole-group instruction during circle time (approximately 5–15 minutes, four or five times per week), small-group instruction with 3 to 6 children (approximately 10–15 minutes, two or three times per week), hands-on center activities, and computer activities that "automatically adjust when children progress well or need additional help." Weekly family/caregiver letters describe the mathematics and home activities. This pattern lets teachers adapt activities to children's developmental levels while other children work independently. (page:designs/building-blocks-multi-context-implementation-pattern)
 - **Build early education quality on ten research-based building blocks, from whole-child assessment to quality rating and improvement systems**: Drawing on its prior report The Building Blocks of High-Quality Early Childhood Education Programs, the report specifies "the key elements of quality" in programs with exemplary results. These include "Using early learning standards and curricula that address noncognitive as well as cognitive dimensions of children's experiences," assessing the whole child, preparing and coaching teachers, attending to varying needs including English language learners, engaging families, providing sufficient learning time, small classes and low ratios, program-level assessments, and a quality rating and improvement system used for improvement and accountability. (Wechsler et al. (2016))
 - **TRIAD scale-up model centered on learning trajectories**: TRIAD (Technology-enhanced, Research-based, Instruction, Assessment, and professional Development) is a research-based model for scaling up successful interventions, created by synthesizing research and intended to generalize to other subject matter areas and age groups. Its specific goal is to increase mathematics achievement in young children, especially those at risk, by centering curriculum, pedagogy, technology, and assessments on a common core of learning trajectories: "Learning trajectories are at the core of the components of this intervention, guiding the curriculum, the instruction, the formative assessment, and the professional development." The model involves 10 research-based guidelines for scaling up. (Douglas H. Clements et al. (2013))
+- **Building Blocks Software as adaptive supplemental numeracy CAI for kindergartners**: Building Blocks Software (Clements & Sarama) is a computer assisted instruction program for early numeracy whose instruction is "adjusted to match the level of ability demonstrated by the child". In this study children worked individually during an ancillary computer block, 90 minutes a week for 21 weeks, with research assistants providing behavioral supervision and technical assistance. It was evaluated against an active literacy CAI control. (Foster et al. (2016))
 
 ### Claims
 - [In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment](../claims/building-blocks-2006-rct-significant-math-gain.md) [+M]
@@ -48,6 +49,8 @@ A preschool mathematics curriculum from SRA Real Math that sequences instruction
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](../claims/building-blocks-potentially-positive-preschool-math-effect.md) [+M]
 - [The Building Blocks pre-K implementation showed positive effects on pre-K mathematics (ES=.72) and kindergarten language competencies, with stronger first-grade effects for those with follow-through](../claims/triad-building-blocks-legacy-positive-effects.md) [+M]
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](../claims/triad-no-persistent-full-sample-impact-fourth-grade.md) [~M]
+- [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](../claims/building-blocks-cai-improves-proximal-numeracy-kindergarten.md) [+M]
+- [Supplemental Building Blocks Software CAI improves distal broad math achievement (WJ-III Applied Problems) at kindergarten posttest](../claims/building-blocks-cai-improves-distal-applied-problems.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -58,6 +61,7 @@ A preschool mathematics curriculum from SRA Real Math that sequences instruction
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023, December). Building Blocks. https://whatworks.ed.gov
 <!-- merged 2026-10-10 from theories/building-blocks-learning-trajectories ("Empirically based learning trajectories as the organizing framework of Building Blocks for Math"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Douglas H. Clements, Julie Sarama, Carolyn Layzer, Fatih Unlu, Christopher B. Wolfe, Mary Elaine Spitler. (2013). Longitudinal evaluation of a scale-up model for teaching mathematics with trajectories and technologies: Persistence of effects three years after the treatment. SREE Spring 2013 Conference Abstract. https://TRIADscaleup.org
+- Foster, M. E., Anthony, J. L., Clements, D. H., Sarama, J., & Williams, J. M. (2016). A Randomized Control Trial Evaluating the Effectiveness of Computer Assisted Instruction in Numeracy on Math Outcomes for Monolingual English Speaking Kindergartners from Title 1 Schools. SREE Spring 2016 Conference. https://www.sree.org/
 
 # Empirically based learning trajectories as the organizing framework of Building Blocks for Math
 

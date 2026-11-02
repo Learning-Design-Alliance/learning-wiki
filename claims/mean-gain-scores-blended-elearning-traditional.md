@@ -47,3 +47,4 @@ Descriptive posttest means from Table 5 of the quasi-experiment (blended: 12.77 
 ## Related Claims
 - [Elementary students in blended learning schools using Core5 obtained significantly higher posttest reading scores than control students after controlling for pretest differences](core5-blended-learning-higher-posttest-reading.md) — related
 - [Both treatment groups showed large pretest-to-posttest gains in scientific concept mastery, with the contextual group gaining 30.00 points and the comparison group 26.72 points](both-treatments-large-prepost-gains.md) — related
+- [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](stad-highest-mean-gain-achievement.md) — related

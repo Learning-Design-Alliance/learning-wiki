@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (12 for, 14 mixed, 2 against) · 34 studies (10 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 6 of 34 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (13 for, 14 mixed, 2 against) · 35 studies (11 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 35 report an effect size · 25 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -64,6 +64,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Guided learning at workstations (G2) produced significantly higher post- and retention-test knowledge than conventional workstations (G1) and teacher-centered instruction (G3) in low achievers](../claims/guided-workstations-best-cognitive-outcome-low-achievers.md) [+W] — attached 2026-11-01 from Heyne et al. (2012), which proposed "Constructivist open learning environments realized through learning at workstations".
 - [The authors interpret the drama method's effects through active, constructivist learning in which learners reconstruct and give new meanings to knowledge](../claims/creative-drama-active-reconstruction-interpretation.md) [+W]
 - [Discovery learning combined with three-phase listening significantly increased tenth-grade students' English listening scores in a one-group pretest-posttest study](../claims/discovery-learning-three-phase-listening-listening-gains.md) [+W] — attached 2026-11-01 from Hanafi (2016), which proposed "Bruner's Discovery Learning Theory with four components and three principles".
+- [Students taught programming with self-explanation supported by worked examples significantly outperformed traditionally taught students on the technical skills posttest of writing program code](../claims/self-explanation-worked-examples-improve-programming-skills.md) [+W] — attached 2026-11-01 from Riyadh Alhassan (2017), which proposed "Self-explanation as a constructivist learning strategy in which learners explain and check their own understanding".
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

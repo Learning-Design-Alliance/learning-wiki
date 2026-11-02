@@ -87,3 +87,5 @@ Same quantile regression analysis of both comprehension measures. The article re
 - [Effect sizes for the intervention were less than g = .03 on most outcomes, with small comprehension effects of g = 0.15 and g = 0.19](small-comprehension-effect-sizes-g-015-019.md) — related
 - [GAMLSS is preferred over quantile regression when the total outcome distribution is of interest, while quantile regression suits specific quantile regions](gamlss-preferred-over-quantile-regression-total-distribution.md) — related
 - [SKILL does not improve standardized reading comprehension overall, with a small low-average effect at follow-up](skill-no-reading-comprehension-effect.md) — related
+- [Passport to Literacy produced a small positive but nonsignificant effect on GMRT reading comprehension (g = 0.28) relative to business-as-usual comparison](passport-literacy-gmrt-comprehension-small-nonsignificant-effect.md) — related
+- [Quantile regression showed significant Passport to Literacy effects only between the .40 and .70 quantiles of GMRT posttest comprehension](quantile-effects-gmrt-40-70-quantiles.md) — related

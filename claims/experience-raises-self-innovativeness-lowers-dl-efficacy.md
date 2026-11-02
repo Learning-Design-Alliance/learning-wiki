@@ -69,3 +69,4 @@ One-way MANCOVA comparing teachers with less than 10 years vs 10 or more years o
 - [Teachers' DL self-efficacy shows the strongest direct effect on their DL teaching practices](dl-self-efficacy-predicts-dl-teaching-practices.md) — related
 - [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](pd-course-improves-practices-not-innovativeness.md) — related
 - [Teachers rated fostering student engagement as the most difficult DL teaching practice, below class management and teaching strategies](student-engagement-hardest-dl-practice.md) — related
+- [Teacher experience and STEM major predict content knowledge but not implementation of the intervention](teacher-characteristics-predict-knowledge-not-implementation.md) — related

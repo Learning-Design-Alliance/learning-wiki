@@ -53,3 +53,5 @@ Gender comparison within the demonstration condition (25 males, mean 52.52; 25 f
 - [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
+- [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
+- [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related

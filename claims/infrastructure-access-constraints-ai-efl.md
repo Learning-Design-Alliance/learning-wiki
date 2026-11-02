@@ -78,3 +78,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — a narrower finding that bears on this claim
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — a narrower finding that bears on this claim
+- [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](blended-learning-limited-interaction-distractions.md) — related

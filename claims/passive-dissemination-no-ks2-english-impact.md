@@ -70,3 +70,5 @@ Descriptive check of raw unadjusted means from the NPD 2015/2016 KS2 dataset pri
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
+- [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — a broader claim this one bears on
+- [The interventions made no difference to teachers' research use on any of six survey measures, though confidence is limited by low survey response](literacy-octopus-no-research-use-impact.md) — related

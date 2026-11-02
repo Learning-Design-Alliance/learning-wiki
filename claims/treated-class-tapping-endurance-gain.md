@@ -48,3 +48,4 @@ Results tables for the fatigue index of the tapping test (Whipple's Test 10), co
 ## Related Claims
 - [After one school year, the dental-treatment class led in nine of ten psychological and psycho-physical tests, having led in only five of ten before treatment](dental-treatment-class-led-nine-of-ten-tests-after-treatment.md) — related
 - [The two fifth-grade classes were equivalent at baseline: Room 18 led on half of the ten non-physical tests before treatment](baseline-equivalence-two-fifth-grade-classes-before-treatment.md) — related
+- [A ten-week in-class fitness circuit intervention significantly improved cardiovascular endurance among Malaysian secondary school girls](fitness-circuit-improved-cardiovascular-endurance-girls.md) — related

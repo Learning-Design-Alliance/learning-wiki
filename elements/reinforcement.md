@@ -98,6 +98,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [Use external reinforcement contingent on successful inhibitory control to improve behavioural regulation](../strategies/reward-contingent-inhibitory-control-strategy.md)
 - [Incorporate reward prospect into inhibitory control training interventions to strengthen behaviour change effects](../strategies/reward-enhanced-inhibitory-control-training-strategy.md)
 - [Use repeated reading probes several grade levels below the student's grade level, with visible goals, extrinsic rewards, and daily progress charting](../strategies/repeated-reading-lower-level-probes-strategy.md)
+- [Pair reading interventions with a rewards system to motivate students with learning disabilities who dislike reading](../strategies/rewards-system-reading-motivation.md)
 
 ## Key Sources
 - Skinner, B. F. (1968). *The technology of teaching*. Appleton-Century-Crofts.

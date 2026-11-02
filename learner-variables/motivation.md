@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 350 claims (231 show a difference, 84 mixed, 35 no difference) · 255 studies (90 associational, 79 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 255 report an effect size · 338 claims rest on one study
+> **Evidence** · 353 claims (233 show a difference, 84 mixed, 36 no difference) · 257 studies (91 associational, 80 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 257 report an effect size · 341 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -400,6 +400,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The think-talk-write advantage over expository teaching holds at every self-efficacy level and is largest among low self-efficacy students](../claims/ttw-advantage-at-every-self-efficacy-level.md) [+M] — an instructional effect differs with it
 - [Competence expectancy declined slightly across all conditions and did not increase as a result of the incorrect examples intervention](../claims/competence-expectancy-slight-decline.md) [-W] — instruction changes it
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](../claims/reading-comprehension-self-efficacy-moderate-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Children with low initial engagement in classrooms with low-engaged peers show small school readiness growth, while those in high-engagement classrooms show large growth](../claims/low-engagement-children-classroom-composition-growth.md) [+M] — an instructional effect differs with it
+- [School engagement with the interventions was low, and the passive or active nature of support was not the key determinant of engagement](../claims/literacy-octopus-engagement-low-passive-active-not-key.md) [-M] — instruction changes it
+- [The association between classroom engagement and school readiness growth is stronger for children with low initial engagement (significant child-by-classroom engagement interaction)](../claims/engagement-interaction-low-initial-benefit-most.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

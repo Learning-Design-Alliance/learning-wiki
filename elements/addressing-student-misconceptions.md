@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (25 for, 9 mixed, 1 against) · 27 studies (12 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 27 report an effect size · 31 claims rest on one study
+> **Evidence** · 37 claims (27 for, 9 mixed, 1 against) · 29 studies (14 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 29 report an effect size · 33 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -80,6 +80,8 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](../claims/salt-bridge-ion-passage-misconception-all-groups.md) [~W]
 - [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](../claims/pretest-misconceptions-electric-circuits-jordan.md) [+W]
 - [Students' difficulties and misconceptions about symmetry fall into four main areas](../claims/symmetry-misconceptions-four-areas.md) [+W]
+- [Students commonly hold the everyday-experience-based misconception that electrostatic interaction stops when charged objects are placed at greater distance](../claims/greater-distance-no-interaction-misconception.md) [+W]
+- [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](../claims/alternative-conceptions-persist-emerge-posttest.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

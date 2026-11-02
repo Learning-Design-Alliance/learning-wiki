@@ -48,3 +48,6 @@ Homogeneity check on CELT scores before the intervention; the Levene statistic w
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [Co-taught and single-taught groups were statistically equivalent in general English proficiency before treatment](pretest-homogeneity-coteaching-groups-iran.md) — related
+- [A one-way ANOVA found no significant difference in writing proficiency among the five pre-test groups](pretest-anova-five-groups-no-difference.md) — related
+- [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related
+- [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related

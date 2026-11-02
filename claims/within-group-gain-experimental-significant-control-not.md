@@ -60,3 +60,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
 - [Experimental group post-test speaking scores reached the high category while control group scores stayed in the average category](demonstration-posttest-high-category-versus-control-average.md) — related
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
+- [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — reports the opposite

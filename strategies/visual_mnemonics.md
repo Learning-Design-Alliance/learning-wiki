@@ -60,8 +60,10 @@ Visual mnemonics work best when the image is *interactive* — when it links the
 6. Schedule review so the association survives beyond the immediate session [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the verbal counterpart; often combined with imagery for lists
 - [Analogies](../elements/analogies.md) — meaningful mapping to prior knowledge, which serves the same anchoring function for conceptual content
+- [Use the pictured letters mnemonics strategy teaching both modified and abstract letters with students with learning disabilities who confuse similar English letters](pictured-letters-modified-plus-abstract-strategy.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — supplies the familiar anchor that the image depicts

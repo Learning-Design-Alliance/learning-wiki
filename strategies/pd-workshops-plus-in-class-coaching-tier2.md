@@ -55,6 +55,8 @@ The article describes a support model in which interventionists attended two fiv
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
+- [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
+- [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 
 ## Examples
 -

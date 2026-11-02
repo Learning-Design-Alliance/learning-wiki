@@ -13,7 +13,7 @@ generated:
 # Pre-Reading Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Pre-reading activities are tasks completed before reading in order to activate prior knowledge, establish purpose, surface key vocabulary, or prepare attention for important ideas. They are useful when learners need orientation before engaging the text itself.
@@ -37,7 +37,7 @@ Pre-reading activities are tasks completed before reading in order to activate p
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The prw group scored higher on six of seven inferential-comprehension sub-skills, but only the sequence sub-skill difference was statistically significant](../claims/prw-subskill-performance-mixed-significance.md) [~W] — attached 2026-11-01 from Wickramaarachchi (2014), which proposed "Writing-based pre-reading (prw) task"; tests this page's relationship.
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

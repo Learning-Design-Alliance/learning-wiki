@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 433 claims (243 show a difference, 91 mixed, 99 no difference) · 285 studies (150 associational, 81 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 285 report an effect size · 425 claims rest on one study
+> **Evidence** · 436 claims (244 show a difference, 91 mixed, 101 no difference) · 288 studies (150 associational, 84 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 288 report an effect size · 428 claims rest on one study
 
 ## How to read this page
 
@@ -472,6 +472,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No differences in attention span based on sex were found or expected in this age group](../claims/no-sex-differences-attention-preschool.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Switch-on Reading is almost equally effective for boys and girls (+0.26 and +0.23)](../claims/switch-on-similar-effect-boys-girls.md) [-M] — an instructional effect differs by group
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](../claims/brainstorming-grammar-achievement-gender-females-outperform.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](../claims/gender-difference-english-posttest-goal-setting.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant difference in geographic concepts acquisition attributable to gender](../claims/no-gender-difference-web-quest-concept-acquisition.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](../claims/jigsaw-concept-acquisition-no-gender-difference.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -55,3 +55,4 @@ WWC extent-of-evidence categorization: one study, six centers, 19 classrooms/270
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [The evidence base for Building Blocks for Math is small and limited to the math domain](building-blocks-evidence-base-small-math-only.md) — related
 - [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](waterford-versus-letter-people-similar-outcomes.md) — related
+- [Pre-K teachers preferred Waterford Early Learning over Imagine Learning and recommended abandoning daily CAI use in favor of 2-3 sessions per week](prek-teachers-prefer-waterford-limit-cai-frequency.md) — related

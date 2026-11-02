@@ -187,6 +187,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 - [Analyzing real park nesting data to teach resource management](../strategies/real-nesting-data-analysis-activity.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 - [Three-phase educational trip procedure: preliminary preparation, site visit with observation, follow-up evaluation](../strategies/educational-trips-three-phase-procedure.md)
+- [Structure experimental work so students discover physics rules, keeping them in a loop of higher-order thinking](../strategies/structured-experiments-higher-order-thinking-loop.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

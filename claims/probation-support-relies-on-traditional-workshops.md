@@ -57,3 +57,4 @@ From the provider strategy analysis: partners' professional development consiste
 - Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level — related
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
+- [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](minimal-books-workshop-intervention-insufficient.md) — related

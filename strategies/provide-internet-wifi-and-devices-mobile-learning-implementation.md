@@ -51,6 +51,7 @@ Based on the technical problems students encountered and the small device count,
 
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
+- [Enrich blended courses with varied authentic online resources and mobile-device access, per learner recommendations](enrich-blended-courses-resources-mobile-access.md)
 
 ## Examples
 -

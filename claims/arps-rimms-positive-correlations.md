@@ -49,3 +49,4 @@ Pearson correlation analysis of ARPS and RIMMS scores from the same 90-participa
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [EdTech interventions significantly improve student motivation (d = 0.375), but motivation does not significantly correlate with attainment (r = 0.608, p = 0.2763)](edtech-motivation-effect-no-attainment-correlation.md) — related
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
+- [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related

@@ -53,6 +53,7 @@ The program's professional development model combines an intensive Summer Instit
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction](dcps-recommends-regular-apsi-participation.md)
+- [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

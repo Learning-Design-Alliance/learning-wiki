@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (27 for, 23 mixed, 1 against) · 54 studies (14 causal, 13 quant-synthesis, 8 review, 5 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 13 of 54 report an effect size · 43 claims rest on one study
+> **Evidence** · 52 claims (28 for, 23 mixed, 1 against) · 55 studies (14 causal, 13 quant-synthesis, 8 review, 6 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 55 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](../claims/peer-teaching-ultrasound-comparable-to-faculty.md) [+W]
 - [Peer tutoring significantly improved achievement at the application level of the cognitive domain](../claims/peer-tutoring-application-level-achievement.md) [+W]
 - [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
+- [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](../claims/teacher-reported-high-fidelity-peer-tutoring-implementation.md) [+W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

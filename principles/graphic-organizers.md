@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (20 for, 17 mixed, 3 against) · 50 studies (23 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 50 report an effect size · 29 claims rest on one study
+> **Evidence** · 42 claims (21 for, 18 mixed, 3 against) · 51 studies (24 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 51 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Post-test scores for knowledge, understanding and application were significantly higher in the mind-mapping group than the control group](../claims/mind-mapping-english-posttest-significant.md) [+W] — attached 2026-11-01 from D. Hallen (2015), which proposed "Mind map as a hierarchical visual organizer built from a central image with colour, images, codes, symbols and key words"; tests this page's relationship.
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+W] — attached 2026-11-01 from Mohaidat (2018), which proposed "Four-step electronic mind map construction pattern for reading texts"; tests this page's relationship.
 - [Undergraduate students taught circular and rotational motion with concept mapping achieved significantly higher post-test scores than students taught with tutorial sheets](../claims/concept-mapping-outperforms-tutorial-sheets-achievement.md) [+W] — attached 2026-11-01 from Dennis Luchembe et al. (2014), which proposed "Concept-mapping instructional sequence: train map construction on a familiar topic, then apply hierarchies, link words and cross-links to the target topic in groups"; tests this page's relationship.
+- [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](../claims/group-story-mapping-higher-comprehension-scores.md) [+W] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Teach graphic organizer use explicitly and have students practice it repeatedly across different texts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -168,6 +169,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Orienting charts can be learned with unusual ease and without deliberate memorization while performing learning tasks](../claims/orienting-charts-ease-of-learning.md) [+W]
 - [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](../claims/non-mapping-students-concentrated-more-on-identification.md) [-W]
 - [Self-constructed representations can be easier for students to use effectively than externally provided representations](../claims/self-constructed-beats-provided-representations.md) [~W]
+- [Review evidence cited in the article indicates filling in a story map after reading a text is more effective than providing it before reading](../claims/story-map-after-reading-more-effective.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (128 show a difference, 54 mixed, 36 no difference) · 140 studies (73 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 140 report an effect size · 210 claims rest on one study
+> **Evidence** · 219 claims (129 show a difference, 54 mixed, 36 no difference) · 141 studies (74 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 141 report an effect size · 211 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -253,6 +253,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](../claims/keyword-method-delayed-recall-advantage.md) [+M] — instruction changes it
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](../claims/technology-supported-teaching-higher-retention-four-months.md) [+M] — instruction changes it
 - [Unpretested groups showed no significant difference between their own post-test and retention test scores](../claims/7e-unpretested-posttest-retention-stability.md) [-M] — instruction changes it
+- [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](../claims/subtitled-videos-better-long-term-vocabulary-retention.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

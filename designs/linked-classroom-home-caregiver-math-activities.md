@@ -39,7 +39,9 @@ This instructional pattern pairs weekly teacher-led small-group classroom math a
 - [Pre K Mathematics Positive Effects Math Achievement](../claims/pre-k-mathematics-positive-effects-math-achievement.md) [+M]
 
 ## Related Designs
+
 - [Pre K Mathematics Program Element](../elements/pre-k-mathematics-program-element.md)
+- [Sequenced small-group hands-on science lessons with integrated reinforcement activities](echos-sequenced-small-group-lessons-integration-cards.md)
 
 ## Examples
 -

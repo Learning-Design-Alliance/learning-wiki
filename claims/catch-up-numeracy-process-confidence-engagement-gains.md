@@ -48,3 +48,4 @@ Qualitative process evaluation interviews with 25 TAs and 24 coordinators. Twent
 - [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — related
 - [TDTS teachers reported using more practical work, discussion and thinking time, but little difference in confidence and no more literacy–numeracy linking](tdts-teacher-practice-changes-survey.md) — related
+- [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — a narrower finding that bears on this claim

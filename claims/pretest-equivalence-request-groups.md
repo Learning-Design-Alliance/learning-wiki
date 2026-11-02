@@ -50,3 +50,4 @@ Independent-samples t-test on pretest DCT scores of the two groups of 30 learner
 - [Test and control groups were equivalent at pretest on both Turkish verbal skills and speech anxiety](pretest-equivalence-verbal-skills-and-speech-anxiety.md) — related
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — related
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](pretest-equivalence-self-efficacy-groups.md) — related
+- [Before instruction, control and experimental groups showed no significant difference in apology speech act performance at either proficiency level](pretest-equivalence-apology-groups.md) — related

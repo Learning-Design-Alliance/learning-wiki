@@ -52,3 +52,5 @@ Two-way between-groups ANOVA on post-test scores with gender and condition; "no 
 - [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](nap-effect-consistent-across-sexes.md) — related
 - [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
+- [ISIA effects showed no significant main effects of sex, but significant treatment-by-sex interactions for conceptual understanding and confidence](isia-sex-no-main-effect-interactions.md) — reports the opposite
+- [No statistically significant gender differences in learning similar English letters were found on the post-test or follow-up test](pictured-letters-no-gender-effect.md) — related

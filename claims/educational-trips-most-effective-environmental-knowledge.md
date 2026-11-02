@@ -68,3 +68,4 @@ Scheffé post hoc analysis tracing the source of the significant treatment effec
 - [Upper basic students taught Basic Technology practical skills via field trip scored higher on a post-test than students taught by expository method](field-trip-beats-expository-basic-technology.md) — related
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [Instructional treatment has a significant main effect on primary pupils' environmental knowledge](treatment-main-effect-environmental-knowledge.md) — a broader claim this one bears on
+- [Private middle school students significantly outperformed the three public middle schools on the environmental knowledge test, with no significant difference among the public schools](private-school-outperforms-public-schools-knowledge-test.md) — related

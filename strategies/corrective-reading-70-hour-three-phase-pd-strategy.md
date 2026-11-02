@@ -47,6 +47,7 @@ In the qualifying study, "teachers in the study received 70 hours of professiona
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
 - [Provide various forms of follow-up to sustain new practices learned in PD](follow-up-supports-sustain-pd-practices.md)
+- [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 
 ## Examples
 -

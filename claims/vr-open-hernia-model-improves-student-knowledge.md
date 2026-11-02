@@ -50,3 +50,4 @@ Educational trial of a virtual reality model of the inguinal region for learning
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — related
+- [Medical students who built a low-cost 3D inguinal canal model committed fewer mistakes on a multiple choice test than students receiving a frontal lecture](inguinal-model-builders-fewer-test-mistakes.md) — related

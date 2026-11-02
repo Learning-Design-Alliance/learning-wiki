@@ -85,3 +85,6 @@ Open questions include how much fading the scaffold requires over time, whether 
 - Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related
 - [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](designers-reported-soft-skills-gains.md) — related
+- [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](group-story-mapping-higher-comprehension-scores.md) — related
+- [Experimental-group participants attributed their comprehension gains to the group story-mapping strategy in interviews](group-story-mapping-interview-endorsement.md) — a narrower finding that bears on this claim
+- [Review evidence cited in the article indicates filling in a story map after reading a text is more effective than providing it before reading](story-map-after-reading-more-effective.md) — related

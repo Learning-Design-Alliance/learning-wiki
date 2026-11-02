@@ -47,3 +47,4 @@ Cost estimate reported in the executive summary. The report adds that Butterfly 
 ## Related Claims
 - [Butterfly Phonics improved reading comprehension of struggling Year 7 readers more than business-as-usual, with an effect size of 0.43 equivalent to five months' progress, but the effect was below the trial's minimum detectable effect size](butterfly-phonics-reading-comprehension-effect-0-43.md) — related
 - [Air Reading cost approximately $1,700 per pupil to society and $1,500 to schools, with 7.5-11.9 tutoring hours needed per month of learning gained](air-reading-cost-efficiency-estimates.md) — related
+- [Delivering the FLL programme costs £11.53 per pupil per year over three years (£1037 total) for one class of 30, excluding teacher cover for training](fll-cost-per-pupil-11-53.md) — related

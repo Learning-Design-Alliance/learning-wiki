@@ -57,3 +57,5 @@ Pre-specified FSM subgroup analysis within the same RCT; Table 12 reports Hedges
 - [RLC showed no differential impact for pupils eligible for free school meals](rlc-no-differential-fsm-impact.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
+- [The dissemination interventions showed no impact on attainment for pupils who had ever been eligible for free school meals](literacy-octopus-no-impact-everfsm.md) — reports the opposite

@@ -56,3 +56,4 @@ The review reports, citing McNeill, Fine, et al. (2023), an online survey with f
 - [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — related
+- [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related

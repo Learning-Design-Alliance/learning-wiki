@@ -75,3 +75,4 @@ Paired t-tests on RC MICS pre- and post-scores: VNT t = -5.45, p = .000; NT t = 
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related
 - [A no-instruction control group showed no knowledge change over the six-week period, ruling out testing and external influences](control-group-no-knowledge-change-six-weeks.md) — related
 - [Online and in-class students do not statistically significantly differ in academic achievement](online-in-class-no-achievement-difference.md) — related
+- [ECHOS teachers significantly improved their PreSCOT scores in predicting, investigating, and evaluating across the year while control teachers did not](echos-teachers-improved-predicting-investigating-evaluating.md) — related

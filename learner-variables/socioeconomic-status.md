@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (114 show a difference, 51 mixed, 44 no difference) · 161 studies (74 associational, 54 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 161 report an effect size · 208 claims rest on one study
+> **Evidence** · 211 claims (115 show a difference, 51 mixed, 45 no difference) · 163 studies (74 associational, 56 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 22 of 163 report an effect size · 210 claims rest on one study
 
 ## How to read this page
 
@@ -294,6 +294,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](../claims/air-reading-no-significant-subgroup-differences.md) [-M] — an instructional effect differs by group
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](../claims/rapid-phonics-baseline-factors-no-significant-moderation.md) [-M] — an instructional effect differs by group
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](../claims/grammar-for-writing-fsm-subgroup-no-differential-benefit.md) [~M] — an instructional effect differs by group
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](../claims/fll-fsm-subgroup-negative-effect.md) [+M] — an instructional effect differs by group
+- [The dissemination interventions showed no impact on attainment for pupils who had ever been eligible for free school meals](../claims/literacy-octopus-no-impact-everfsm.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

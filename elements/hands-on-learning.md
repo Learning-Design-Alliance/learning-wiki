@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (13 for, 5 mixed) · 16 studies (6 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (16 for, 5 mixed) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 21 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -57,6 +57,9 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Using recycle materials for science practicum has a statistically significant effect on Open University students' basic science process skills](../claims/recycle-materials-practicum-effect-science-process-skills.md) [+W] — attached 2026-11-01 from Setiyo Prajoko et al. (2017), which proposed "Recycle-materials science practicum equipment (e.g., simple respirometer from used bottles, straws, rulers, plasticine)".
 - [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](../claims/recycle-materials-practicum-positive-student-feedback.md) [+W] — attached 2026-11-01 from Setiyo Prajoko et al. (2017), which proposed "Recycle-materials science practicum equipment (e.g., simple respirometer from used bottles, straws, rulers, plasticine)".
 - [CAD-supported simulation activity produces higher-rated design ideas than conventional method](../claims/cad-simulation-stage-higher-rated-design-ideas.md) [~W]
+- [Medical students who built a low-cost 3D inguinal canal model committed fewer mistakes on a multiple choice test than students receiving a frontal lecture](../claims/inguinal-model-builders-fewer-test-mistakes.md) [+W] — attached 2026-11-01 from Ansaloni L et al. (2014), which proposed "Low-cost three-dimensional inguinal canal model built by students from hospital materials"; tests this page's relationship.
+- [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](../claims/inguinal-model-built-under-15-minutes.md) [+W] — attached 2026-11-01 from Ansaloni L et al. (2014), which proposed "Low-cost three-dimensional inguinal canal model built by students from hospital materials".
+- [The model-building group produced far fewer total test mistakes than the lecture group in the first interim block](../claims/inguinal-model-total-mistakes-reduced.md) [+W]
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

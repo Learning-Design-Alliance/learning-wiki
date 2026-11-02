@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: andi-tenri-ampa-2015
     resource: "http://dx.doi.org/10.5539/elt.v8n12p56"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Posttest listening scores of the experimental group taught with interactive multimedia materials were significantly higher than those of the control group taught with audio materials (t-cal 5.583 > t-table 2.000, df 70). [→ Andi Tenri Ampa 2015](#andi-tenri-ampa-2015)
@@ -54,3 +55,4 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [EFL learners taught with dictogloss tasks significantly outperform learners taught with dicto-phrase tasks on listening comprehension posttests](dictogloss-outperforms-dicto-phrase-listening.md) — related
 - [Students taught listening with suggestopedia outperformed students taught with conventional methods on a posttest of English listening ability](suggestopedia-improves-listening-skill.md) — related
 - [CALL instruction produced significantly better TOEIC listening score gains than traditional textbook instruction in a quasi-experiment with two groups of 25 Vietnamese college students](call-improves-toeic-listening-scores-over-traditional.md) — related
+- [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — related

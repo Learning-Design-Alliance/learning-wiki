@@ -49,3 +49,4 @@ Quasi-experimental nonequivalent control group study in a University of Florida 
 - [The MTIS treatment did not significantly change preservice agricultural teachers' mathematics teaching efficacy, though experimental-group scores descriptively declined](mtis-no-effect-mathematics-teaching-efficacy.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](mtis-no-effect-personal-teaching-efficacy.md) — related
 - [Preservice agricultural teachers were efficacious in personal mathematics and personal teaching efficacy but only moderately efficacious in mathematics teaching efficacy throughout the course](preservice-ag-teachers-math-efficacy-profile.md) — related
+- [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

@@ -52,3 +52,5 @@ ANCOVA of posttest scores by gender in the same 120-student quasi-experiment. Th
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related
+- [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
+- [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related

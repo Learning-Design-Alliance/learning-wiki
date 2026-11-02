@@ -41,7 +41,8 @@ The article operationalizes metacognitive strategy instruction in listening comp
 - [Metacognitive Strategy Instruction Improves Listening Comprehension](../claims/metacognitive-strategy-instruction-improves-listening-comprehension.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-stage listening lesson: pre-listening, while-listening, post-listening](three-stage-listening-lesson.md)
 
 ## Examples
 -

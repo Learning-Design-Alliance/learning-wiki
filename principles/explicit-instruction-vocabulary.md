@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (28 for, 9 mixed, 2 against) · 45 studies (17 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 45 report an effect size · 29 claims rest on one study
+> **Evidence** · 41 claims (29 for, 9 mixed, 3 against) · 46 studies (18 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 46 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](../claims/embedded-lessons-vocabulary-gains-story-friends.md) [+W] — attached 2026-11-01 from Goldstein et al. (2016), which proposed "Embedding explicit vocabulary and comprehension lessons inside prerecorded storybooks for small-group listening centers"; tests this page's relationship.
 - [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](../claims/delayed-posttest-vocabulary-decline-off-list-words.md) [+W] — attached 2026-11-01 from Sénécal et al. (2018), which proposed "Ensure learners receive sufficient meaningful encounters with target vocabulary items for them to be learnable"; tests this page's relationship.
 - [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](../claims/asl-signing-higher-sight-word-posttest-accuracy.md) [+W] — attached 2026-11-01 from Sherman (2011), which proposed "Teach vocabulary with multiple exposures, interaction, multi-sensory input, personal associations, and explicit systematic instruction".
+- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+W] — attached 2026-11-02 from R. Infanta Vincy (2018), which proposed "Design vocabulary textbook materials and teaching methodologies on the basis of theoretical understanding of vocabulary knowledge and acquisition"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -173,6 +174,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](../claims/number-words-taught-non-significant-meta-regression.md) [~W]
 - [Large positive effect on not-standardized language/comprehension measures (mean ES = 1.03) rests on only six studies, so confidence is limited.](../claims/tier2-k3-not-standardized-language-es-1-03-six-studies.md) [~W]
 - [The standalone intervention significantly improved grade 2 FRA Sentence Comprehension only among cohort 1 students with a low vocabulary baseline (0.38 standard deviation)](../claims/grade2-sentence-comprehension-low-vocabulary-cohort1.md) [~W]
+- [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable
@@ -193,6 +195,8 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Use the Ten Times Two routine to build observational vocabulary before data analysis](../strategies/ten-times-two-looking-activity.md)
 - [Pair fluency instruction with oral language and vocabulary support before first reading of a new text](../strategies/pair-fluency-instruction-with-vocabulary-support-eb.md)
 - [Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students](../elements/emip-two-unit-morphology-program.md)
+- [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](../strategies/explicit-vocabulary-instruction-intentional-environment-recipe.md)
+- [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)

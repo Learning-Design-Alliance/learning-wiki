@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (35 for, 28 mixed, 2 against) · 53 studies (16 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 53 report an effect size · 57 claims rest on one study
+> **Evidence** · 67 claims (37 for, 28 mixed, 2 against) · 54 studies (17 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 54 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Final course grades did not differ significantly between POGIL participants and non-participants in the fundamentals nursing course](../claims/pogil-final-course-grade-no-significant-difference.md) [-W]
 - [Project-method learners significantly outperformed control learners on the final test's application-level questions](../claims/project-method-application-level-final-test.md) [+W]
 - [Project-method learners significantly outperformed control learners on the final test's understanding-level questions](../claims/project-method-understanding-level-final-test.md) [+W]
+- [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](../claims/inguinal-model-mean-errors-lower.md) [+W]
+- [The model-building group produced far fewer total test mistakes than the lecture group in the first interim block](../claims/inguinal-model-total-mistakes-reduced.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

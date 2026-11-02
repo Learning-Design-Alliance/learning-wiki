@@ -61,3 +61,4 @@ Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interac
 - [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](tfcs-prepost-nonsignificant-descriptive-divergence.md) — related
 - [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
 - [Within the CREACT group, flexibility and originality improved significantly while fluency and elaboration did not](creact-experimental-subcomponent-mixed-gains.md) — related
+- [The intervention does not significantly change the total number of questions educators ask](ct-workshop-no-change-total-questions.md) — related

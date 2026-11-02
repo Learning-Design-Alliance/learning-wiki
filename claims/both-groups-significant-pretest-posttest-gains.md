@@ -53,3 +53,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Both the SMS and control groups improved significantly from pretest to posttest in the programming course](both-groups-pretest-posttest-gains.md) — a narrower finding that bears on this claim
 - [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](ict-tourism-intragroup-faster-evolution.md) — a narrower finding that bears on this claim
 - [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related
+- [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — reports the opposite

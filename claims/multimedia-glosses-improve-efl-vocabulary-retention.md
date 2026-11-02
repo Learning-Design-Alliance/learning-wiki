@@ -69,3 +69,5 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-retention-efl.md) — related
 - [Delayed test five weeks after treatment showed no significant retention difference between SMS and paper groups](sms-vocabulary-delayed-test-no-difference.md) — related
 - [Audio input enhancement produces a significant short-term advantage over conventional instruction in EFL learners' knowledge of English intensifiers](audio-input-enhancement-improves-intensifier-posttest.md) — related
+- [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](pictured-letters-mnemonics-follow-up-retention.md) — related
+- [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — a narrower finding that bears on this claim

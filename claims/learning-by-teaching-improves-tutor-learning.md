@@ -152,3 +152,4 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Teaching (writing a verbatim lecture script) produces better create question generation than explaining (writing a textbook explanation)](teaching-beats-explaining-question-generation.md) — related
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — a narrower finding that bears on this claim
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](low-se-tutee-better-in-game-performance.md) — a narrower finding that bears on this claim
+- [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related

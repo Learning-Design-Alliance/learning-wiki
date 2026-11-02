@@ -69,3 +69,4 @@ Paired-samples t tests on pre and post CTD scores per group. The article reports
 ## Related Claims
 - [Infusing higher-order thinking skills into Engineering Drawing instruction produced significantly higher critical thinking disposition than conventional drill-based teaching after 8 weeks](infusion-approach-engineering-drawing-critical-thinking-disposition.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related

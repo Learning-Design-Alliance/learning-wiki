@@ -78,6 +78,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
 - [Coach-led initial implementation followed by teacher phase transition](coach-phase-teacher-phase-transition.md)
 - [Train delivery staff and monitor fidelity to the explicit session schedule during one-to-one reading interventions](train-and-monitor-fidelity-one-to-one-reading.md)
+- [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 
 ## Examples
 -

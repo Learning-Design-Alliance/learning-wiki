@@ -85,3 +85,6 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
+- [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — possibly the same claim (merge candidate)
+- [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related

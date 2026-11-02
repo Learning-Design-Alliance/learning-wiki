@@ -52,6 +52,7 @@ The project's professional development program embeds known best practices from 
 - [Design teacher PD on differentiation to connect to daily practice, include active learning and collaboration, and sustain implementation through coaches and principals](pd-design-features-differentiation.md)
 - [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 - [Peer teaching and debrief of curriculum lessons within teacher professional development workshops](peer-teaching-debrief-in-pd-workshops.md)
+- [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 
 ## Examples
 -

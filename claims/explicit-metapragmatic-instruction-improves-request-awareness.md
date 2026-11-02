@@ -47,3 +47,5 @@ Quasi-experiment with 30 control and 30 experimental intermediate EFL learners a
 ## Related Claims
 - [The authors interpret their results as showing that explicit metapragmatic instruction provides input enhancement that facilitates interlanguage pragmatic development](input-enhancement-facilitates-pragmatic-development.md) — related
 - [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related
+- [Explicit instruction of the apology speech act significantly improves Iranian EFL learners' appropriate use of apology strategies at both intermediate and advanced proficiency levels](explicit-apology-instruction-improves-pragmatic-appropriateness.md) — related
+- [Before instruction, control and experimental groups showed no significant difference in apology speech act performance at either proficiency level](pretest-equivalence-apology-groups.md) — related

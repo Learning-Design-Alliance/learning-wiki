@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: abiola-lateef-olori-and-adekunle-olusegun-igbosanu-2016
     resource: "https://eric.ed.gov/?id=EJ1122547"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test mean achievement of the CBMP group (16.45) was significantly higher than that of the conventional-method group (13.18), t-cal 6.31 exceeding the tabulated 1.99 at P<0.05. [→ Abiola Lateef Olori and Adekunle Olusegun Igbosanu 2016](#abiola-lateef-olori-and-adekunle-olusegun-igbosanu-2016)
@@ -53,3 +54,4 @@ Post-test comparison of two intact classes (N=40 each) in a quasi-experimental d
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
+- [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related

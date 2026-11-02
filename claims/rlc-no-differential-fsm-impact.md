@@ -73,3 +73,4 @@ Pre-specified subgroup analysis of the pupil outcome trial comparing FSMever and
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
 - [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related
+- [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related

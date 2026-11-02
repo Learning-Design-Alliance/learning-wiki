@@ -74,3 +74,4 @@ The review reports Wolf et al. (2010) found "teaching additional courses during 
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](false-sense-of-mathematics-self-efficacy-social-comparison.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' mathematics teaching efficacy, though experimental-group scores descriptively declined](mtis-no-effect-mathematics-teaching-efficacy.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](mtis-no-effect-personal-teaching-efficacy.md) — related
+- [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

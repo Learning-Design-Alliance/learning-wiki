@@ -54,3 +54,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — reports the opposite
 - [Daily mathematical routines involving logical challenges significantly increased 3rd-grade girls' introjected extrinsic motivation](daily-logic-challenge-routines-raise-girls-introjected-extrinsic-motivation.md) — related
+- [Cooperative learning raised value-component motivation (intrinsic goal orientation, extrinsic goal orientation, task value) more than lecture-based teaching](cooperative-learning-value-components-motivation.md) — related

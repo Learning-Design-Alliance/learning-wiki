@@ -49,3 +49,4 @@ Descriptive analysis of fall baseline observations for Cohort 1 (18 schools, 71 
 - [Observed off-task, disruptive, and aggressive behaviors decreased from fall to spring observations](gbg-cohort1-behavior-decrease-over-school-year.md) — related
 - [Observed aggressive behavior positively correlates with teacher-reported aggressive/disruptive behavior](observed-teacher-reported-aggressive-behavior-correlation.md) — related
 - [Impact analysis of the GBG PD conditions on observed behavior was not yet conducted at the time of this paper](gbg-pd-impact-analysis-pending.md) — related
+- [Elementary school teams most often discuss physical aggression, defiance, disruption, and disrespect, with aggression most common in unstructured settings and defiance/disruption in classrooms](problem-behavior-types-and-locations.md) — related

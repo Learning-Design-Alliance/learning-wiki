@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (15 for, 15 mixed) · 44 studies (13 quant-synthesis, 12 review, 9 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 44 report an effect size · 19 claims rest on one study
+> **Evidence** · 31 claims (16 for, 15 mixed) · 45 studies (13 quant-synthesis, 12 review, 10 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 45 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -115,6 +115,7 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — (not about this page) carried over from the merged jigsaw page, where it was listed as contradicting. Its studies are list-recall experiments on memory capacity; none tests instruction, peer teaching or how large a subtopic should be.
 - [In a two-hour randomized experiment, sixth graders in a jigsaw condition did not outperform those in an individualistic condition on a mathematics learning test](../claims/jigsaw-vs-individualistic-null-math-e1.md) [~W] — attached 2026-10-25 from Arnaud Stanczak et al. (2022), which proposed "The classical three-step jigsaw procedure: jigsaw groups on subtopics, expert groups, then teaching back to the jigsaw group"; tests this page's relationship.
+- [Fourth graders taught science with the Jigsaw strategy acquired more scientific concepts than peers taught the traditional way](../claims/jigsaw-improves-scientific-concept-acquisition-fourth-grade.md) [+W] — attached 2026-11-01 from Dr. Qaseem Mohammad Salim Hamadneh (2017), which proposed "Jigsaw cooperative learning: expert-part groups each master a content part and teach it back to build the full picture"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

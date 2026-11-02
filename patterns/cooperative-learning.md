@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (41 for, 28 mixed, 1 against) · 57 studies (19 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 57 report an effect size · 62 claims rest on one study
+> **Evidence** · 72 claims (43 for, 28 mixed, 1 against) · 59 studies (21 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 59 report an effect size · 64 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](../claims/cooperative-learning-higher-lab-report-scores-chemistry.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Six principles for implementing cooperative learning groups"; tests this page's relationship.
 - [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](../claims/jigsaw-laboratory-higher-science-process-skills.md) [+W] — attached 2026-11-01 from Ataman Karacop (2017), which proposed "Integrate the Jigsaw technique into laboratory practices to develop learners' cognitive skills"; tests this page's relationship.
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Slavin's Student Teams-Achievement Divisions (STAD) three-day cycle for cooperative learning"; tests this page's relationship.
+- [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](../claims/cooperative-learning-higher-motivation-vietnamese-higher-ed.md) [+W] — attached 2026-11-02 from Van Dat Tran (2019), which proposed "Nine-step lecturer-guided cooperative learning procedure replicated per course chapter"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -175,6 +176,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](../claims/gender-method-interaction-effects-trigonometry.md) [~W]
 - [Interviewed learners in experimental schools preferred the group approach and valued peer explanation, while control school learners reported teacher-dominated lessons](../claims/learners-preferred-group-approach-peer-explanations.md) [+W]
+- [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](../claims/cooperative-cai-higher-physics-motivation.md) [+W]
 
 ## Related Patterns
 

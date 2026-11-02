@@ -54,3 +54,4 @@ Independent samples t-test on pre-test scores in the quasi-experiment: experimen
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — related
 - [The two groups did not differ significantly in age or psychology pretest scores before the treatment](pretest-equivalence-cooperative-learning-groups.md) — related
+- [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related

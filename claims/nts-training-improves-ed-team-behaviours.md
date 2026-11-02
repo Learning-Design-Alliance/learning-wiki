@@ -61,3 +61,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](debriefing-positive-effect-on-nts-ability.md) — related
 - [Trauma simulation training focused more on technical than non-technical skills](trauma-simulation-technical-skills-dominant.md) — related
 - [A relatively brief four-hour simulation-based curriculum improved clinical performance of multidisciplinary trauma teams, including a 16% reduction in mean overall ED resuscitation time](brief-simulation-curriculum-improves-trauma-team-performance.md) — related
+- [Video-group students scored higher than audio-group students on all observed instructional-process aspects (motivation, response, teamwork, participation)](video-higher-process-observation-means.md) — related

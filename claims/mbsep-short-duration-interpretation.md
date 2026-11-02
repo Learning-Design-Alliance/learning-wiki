@@ -53,3 +53,4 @@ Authors' interpretive discussion of the null ANCOVA result, offered without new 
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [The authors interpret the weaker individual-level effects as possibly due to the informative-only format, short duration, and highly educated sample](authors-explanations-weak-individual-effects.md) — related
 - [The one-week, one-time training duration was too short to produce statistically significant change in conflict handling styles](short-one-time-training-insufficient.md) — related
+- [The null UK trial result contrasts with two US retrospective cohort studies, possibly due to shorter duration and lower intensity and to control groups already teaching foreign languages](fll-null-contrasts-us-cohort-studies-dose.md) — related

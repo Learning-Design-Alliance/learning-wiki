@@ -69,3 +69,4 @@ Descriptive questionnaire results on self-confidence in problem solving (Table 6
 - [Students reported that Geometer's Sketchpad encouraged interaction with teachers and friends in the mathematics classroom](gsp-perception-classroom-interaction.md) — related
 - [Form Six students taught graph functions with Geometer's Sketchpad scored significantly higher on the post-test achievement measure than students taught by chalk and talk](gsp-post-test-achievement-significant.md) — related
 - [Pre-test achievement in graph functions did not differ significantly between the experimental and control groups](gsp-pretest-no-significant-difference.md) — related
+- [DG-group teachers felt more comfortable than effective using GSP, and teacher use of GSP exceeded student hands-on use during the school year](gsp-teacher-comfort-and-use-frequency.md) — related

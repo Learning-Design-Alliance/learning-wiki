@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (31 for, 39 mixed, 1 against) · 68 studies (30 causal, 17 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 68 report an effect size · 60 claims rest on one study
+> **Evidence** · 72 claims (32 for, 39 mixed, 1 against) · 69 studies (31 causal, 17 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 69 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 - [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
+- [Authors attribute the integrated component's limited efficacy to cognitive load from transcribing between notations for at-risk learners](../claims/cognitive-load-transcribing-limits-integrated-benefit.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

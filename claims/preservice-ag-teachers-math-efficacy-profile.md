@@ -50,3 +50,4 @@ Descriptive finding from the three-wave administration of the Mathematics Enhanc
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal mathematics efficacy in a teaching methods course](mtis-no-effect-personal-mathematics-efficacy.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](mtis-no-effect-personal-teaching-efficacy.md) — related
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](false-sense-of-mathematics-self-efficacy-social-comparison.md) — related
+- [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

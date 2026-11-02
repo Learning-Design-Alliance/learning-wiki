@@ -44,6 +44,7 @@ ATI-UP requires each school to "designate a team of at least three members (admi
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
 - [Run regular teacher-team data meetings around student-level indicator reports to identify struggling students, assign interventions, and coordinate support](ewi-team-data-meetings-coordinate-interventions.md)
+- [Assign a data analyst to review school data before team meetings and define problems with precision before selecting solutions](data-analyst-precise-problem-definition-strategy.md)
 
 ## Examples
 -

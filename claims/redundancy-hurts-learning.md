@@ -137,3 +137,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Multimodal presentation on multiple senses or channels simultaneously is reported to facilitate learning by providing many routes for storage and retrieval](multimodal-learning-facilitates-storage-retrieval.md) — related
 - [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related
+- [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — related

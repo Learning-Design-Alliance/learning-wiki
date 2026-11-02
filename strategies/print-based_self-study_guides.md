@@ -61,8 +61,10 @@ Self-study print shifts all instructional responsibility onto the document, so c
 7. Provide a "how to use this guide" page explaining pacing, self-checking, and what to do when stuck.
 
 ## Related Strategies
+
 - [Assigned Readings](../elements/assigned-readings.md) — print self-study is often the delivery vehicle; the difference is that a self-study guide adds objectives, activities, and self-assessment rather than relying on later class discussion
 - Worked-example workbooks — print is the classic medium for worked-example sequences with fading
+- [Provide explicit online learning-strategy instruction alongside open-access self-study systems](online-strategy-instruction-for-self-study.md)
 
 ## Examples
 - **Open University (UK) course units** — decades of carefully structured print units combining objectives, embedded activities, and self-assessment questions, historically the backbone of distance education ([open.ac.uk](https://www.open.ac.uk))

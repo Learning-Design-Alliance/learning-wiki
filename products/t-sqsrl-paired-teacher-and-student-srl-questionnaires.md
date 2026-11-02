@@ -28,6 +28,7 @@ A paired teacher-and-student questionnaire instrument developed by Avivit Arvatz
 ## Related Products and Programmes
 
 - [Motivated Strategies for Learning Questionnaire (MSLQ)](motivated-strategies-for-learning-questionnaire-mslq.md)
+- [Goal-Setting Procedure Instrument (GSPI)](goal-setting-procedure-instrument-gspi.md)
 
 ## Key Sources
 - Avivit Arvatz, Roee Peretz, Yehudit Judy Dori. (2025). Self-regulated learning and reflection: a tool for teachers and students. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09415-3

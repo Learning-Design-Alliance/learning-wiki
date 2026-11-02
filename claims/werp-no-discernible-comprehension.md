@@ -53,3 +53,4 @@ WWC analysis of the comprehension domain in Hecht & Close (2002): one outcome, t
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — related
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](werp-hecht-close-study-design.md) — related
+- [Pre-K teachers preferred Waterford Early Learning over Imagine Learning and recommended abandoning daily CAI use in favor of 2-3 sessions per week](prek-teachers-prefer-waterford-limit-cai-frequency.md) — related

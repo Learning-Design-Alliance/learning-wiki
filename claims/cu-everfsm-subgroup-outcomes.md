@@ -76,3 +76,4 @@ Impact table prints EverFSM effect sizes of 0.03 (reading, 0 months), 0.05 (math
 - [Children who began the school year behind national norms gained closer to five additional months of math learning from the intervention](emc-pd-largest-gains-behind-norms-children.md) — related
 - [Participation in uniformed youth groups is associated with small improvements in self-reported self-confidence and teamwork](youth-united-small-non-attainment-gains.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related

@@ -87,3 +87,4 @@ Observational and interview study of four after-school sites; educators reported
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — related
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
+- [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](blended-learning-limited-interaction-distractions.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: buber-2017
     resource: "https://doi.org/10.12973/eu-jer.6.3.367"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Posttest FMCT scores of experimental and control groups did not differ significantly (t(29)=1.64, p=.11), though the experimental group's mean decrease in misconceptions was larger. [→ Buber 2017](#buber-2017)
@@ -52,3 +53,5 @@ Quasi-experimental pretest-posttest control group study with 39 7th graders (FMC
 - [Interviewed experimental students reported feeling themselves in thinking friendly classrooms and generally scientifically accurate understanding, with misconceptions persisting in Work, Simple Machines, and Frictional Force topics](interview-students-thinking-friendly-classroom-persistent-misconceptions.md) — related
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
+- [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](fc-descriptive-mean-shifts.md) — related
+- [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related

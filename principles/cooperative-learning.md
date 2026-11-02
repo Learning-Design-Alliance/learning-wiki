@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (25 for, 27 mixed, 1 against) · 43 studies (16 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 43 report an effect size · 46 claims rest on one study
+> **Evidence** · 55 claims (27 for, 27 mixed, 1 against) · 44 studies (17 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 44 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -84,6 +84,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students taught with a cooperative learning strategy scored significantly higher on laboratory reports than students taught with an individualistic strategy in a general chemistry laboratory course](../claims/cooperative-learning-higher-lab-report-scores-chemistry.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Adopt cooperative learning strategies in laboratory teaching to improve performance, social interaction skills, and metacognition"; tests this page's relationship.
 - [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](../claims/cooperative-group-higher-final-exam-chemistry-lab.md) [+W] — attached 2026-11-01 from Tawfik A. Saleh (2011), which proposed "Adopt cooperative learning strategies in laboratory teaching to improve performance, social interaction skills, and metacognition"; tests this page's relationship.
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Adopt cooperative learning as the instructional approach for teaching financial accounting in secondary schools"; tests this page's relationship.
+- [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](../claims/cai-stad-ltm-outperform-ici-physics-achievement.md) [+W] — attached 2026-11-01 from Amosa Isiaka Gambari et al. (2015), which proposed "Use computer-assisted STAD cooperative teaching to enhance achievement, retention and motivation in physics"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -124,6 +125,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
 - [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](../claims/posttest-descriptive-means-cooperative-vs-control.md) [+W]
+- [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](../claims/stad-highest-mean-gain-achievement.md) [+W]
 
 ## Related Principles
 

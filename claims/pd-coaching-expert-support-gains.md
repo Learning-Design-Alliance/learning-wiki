@@ -75,3 +75,4 @@ Powell and colleagues (2010) coaching model for early childhood educators: biwee
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — a narrower finding that bears on this claim
 - [Mathematics and science PD interventions causally improve in-service teachers' knowledge and classroom instruction, with a pooled average impact estimate of +0.52 SD across randomized studies](pd-teacher-outcomes-pooled-052-sd.md) — related
+- [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](minimal-books-workshop-intervention-insufficient.md) — a narrower finding that bears on this claim

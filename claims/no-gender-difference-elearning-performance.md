@@ -63,3 +63,4 @@ ANCOVA on the e-learning group (n = 30 per Table 2) with pretest as covariate; t
 - [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
+- [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related

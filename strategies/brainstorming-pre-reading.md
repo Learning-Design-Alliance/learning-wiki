@@ -64,6 +64,7 @@ Pre-reading brainstorming works because retrieval and generation before reading 
 - [Anticipation Guides](../strategies/anticipation-guides.md) — a structured pre-reading alternative using agree/disagree statements
 - [KWL](../strategies/kwl.md) — extends pre-reading brainstorming with during- and post-reading columns
 - [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
+- [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
 
 ## Examples
 - Before reading a passage on the benefits of exercise, learners spend five minutes listing types of exercise, reasons people exercise, and health effects, then circulate to share; the teacher records ideas and returns to them after reading to confirm or correct.

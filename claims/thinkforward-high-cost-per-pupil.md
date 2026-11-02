@@ -47,3 +47,4 @@ Cost analysis reported in the executive summary. The report adds that costs have
 ## Related Claims
 - [The ThinkForward pilot RCT found no evidence of impact on GCSE scores, absences, or attitudes](thinkforward-no-impact-gcse-absences-attitudes.md) — related
 - [The ThinkForward approach was not ready for a large school-level randomised controlled trial](thinkforward-not-ready-school-level-rct.md) — related
+- [The Discover Summer School was relatively expensive compared to other literacy catch-up approaches, at an estimated cost of about £1,790 per pupil](discover-summer-school-cost-per-pupil.md) — related

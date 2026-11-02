@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (99 show a difference, 33 mixed, 29 no difference) · 108 studies (31 associational, 30 causal, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 108 report an effect size · 158 claims rest on one study
+> **Evidence** · 167 claims (104 show a difference, 33 mixed, 30 no difference) · 113 studies (35 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 33 of 113 report an effect size · 164 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -198,6 +198,12 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](../claims/iranian-efl-teachers-positive-attitudes-authentic-listening.md) [+M] — instruction changes it
 - [The control group taught with non-authentic materials also improved significantly from pre-test to post-test in listening comprehension](../claims/control-group-prepost-gain-listening.md) [+M] — instruction changes it
 - [The experimental group taught with authentic materials (songs) improved significantly from pre-test to post-test in listening comprehension](../claims/experimental-group-prepost-gain-authentic-materials.md) [+M] — instruction changes it
+- [A computer program based on the ADDIE model produced significantly higher listening comprehension post-test scores than traditional teaching among Jordanian ninth graders](../claims/addie-computer-program-improves-listening-comprehension-ninth-graders.md) [+M] — instruction changes it
+- [After regular instruction on Unit 1, the class's receptive knowledge of the prescribed vocabulary was partial, averaging 14.23 out of 40 on the VKS](../claims/partial-reception-unit1-vks-average.md) [+M] — instruction changes it
+- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+M] — instruction changes it
+- [Goal-setting skills training improved English language performance among Senior Secondary II students compared to a waiting control group](../claims/goal-setting-training-improves-english-performance-enugu.md) [+M] — instruction changes it
+- [PeLe-supported language classes resulted in language skill gains on final tests compared with pen-and-paper testing](../claims/pele-support-improves-final-test-performance.md) [+M] — instruction changes it
+- [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](../claims/ubc-no-significant-child-outcomes.md) [-W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

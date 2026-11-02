@@ -60,9 +60,11 @@ Melody provides a retrieval scaffold: sung text is recalled better than spoken t
 5. Assess the content, not the singing, unless vocal skill is itself the goal ([Assessment](../elements/assessment.md) aligned to the actual target)
 
 ## Related Strategies
+
 - [Choral Reading / Repeated Reading](../strategies/repeated-reading.md) — the spoken-text analogue: rhythmic group production for fluency
 - [Mnemonics](../strategies/mnemonics.md) — singing is a melodic-rhythmic member of the mnemonic family
 - [Call and Response](../strategies/call-and-response.md) — the interactive, turn-taking variant
+- [Implement song education through in-class guided listening and lyric analysis plus out-of-class singing and appreciation](guided-song-education-procedure.md)
 
 ## Examples
 - **The Alphabet Song** — the canonical case: a familiar melody carrying a 26-item arbitrary sequence, used across virtually all early-literacy curricula

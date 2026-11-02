@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (14 for, 8 mixed, 4 against) · 36 studies (16 causal, 15 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (16 for, 8 mixed, 4 against) · 37 studies (17 causal, 15 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 37 report an effect size · 24 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -73,6 +73,8 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words](../claims/pictures-aid-foreign-vocabulary-learning.md) [+W]
 - [Reviews report that mental practice effectiveness may depend on individual imagery strength, and that MP interventions vary widely in duration, delivery mode and setting](../claims/mp-imagery-strength-and-delivery-variation.md) [~W]
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](../claims/mental-practice-enhances-mis-performance.md) [+W]
+- [In the post-test, teaching method significantly affected learning of similar English letters among students with learning disabilities, favoring the modified-plus-abstract pictured letters method over traditional teaching](../claims/pictured-letters-mnemonics-post-test-method-effect.md) [+W] — attached 2026-11-01 from Maysoon A. Dakhiel et al. (2017), which proposed "Developed pictured-letters training program with educational plans, worksheets, and three equivalent achievement tests"; tests this page's relationship.
+- [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](../claims/pictured-letters-mnemonics-follow-up-retention.md) [+W] — attached 2026-11-01 from Maysoon A. Dakhiel et al. (2017), which proposed "Developed pictured-letters training program with educational plans, worksheets, and three equivalent achievement tests".
 
 ## The evidence by question
 

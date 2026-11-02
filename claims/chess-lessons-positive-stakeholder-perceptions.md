@@ -49,3 +49,4 @@ Self-completion paper pupil survey administered in treatment schools in February
 - [The Chess in Primary Schools programme showed no evidence of a positive impact on Key Stage 2 mathematics attainment one year after the intervention ended](chess-primary-schools-no-impact-ks2-maths.md) — related
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — related
+- [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related

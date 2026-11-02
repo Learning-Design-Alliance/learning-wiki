@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (30 for, 21 mixed) · 38 studies (14 quant-synthesis, 7 review, 6 causal, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 38 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (32 for, 21 mixed, 1 against) · 40 studies (14 quant-synthesis, 8 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -105,6 +105,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Undergraduates taught with blended learning significantly outperformed those taught with traditional teaching in an educational technology course](../claims/blended-learning-outperformed-traditional-teaching-nigerian-undergraduates.md) [+W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction"; tests this page's relationship.
 - [No significant gender difference in performance among undergraduates taught with blended learning](../claims/no-gender-difference-blended-learning-performance.md) [~W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction".
 - [The blended learning group showed a slight but statistically significant improvement in SQL test scores from the first-week mid-test to the final test](../claims/blended-group-slight-significant-gain-mid-to-final.md) [+W] — attached 2026-11-01 from Yavuzarslan et al. (2019), which proposed "Use blended learning design to teach programming because it offers anytime access to materials and repeated practice on difficult tasks".
+- [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-attention-motivation.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
+- [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-relevance-confidence.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -156,6 +158,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](../claims/sidak-posthoc-blended-elearning-traditional.md) [+W]
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](../claims/classroom-learning-more-comprehensive-than-recorded-video.md) [~W]
 - [Self-regulated learning scores increased significantly within the blended group and Control 1 but not significantly within Control 2](../claims/srl-within-group-gains-mixed-across-controls.md) [~W]
+- [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](../claims/tblt-more-effective-than-blended-learning-for-rps.md) [-W]
 
 ## Examples
 
