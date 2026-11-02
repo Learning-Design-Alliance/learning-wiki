@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read   # to list open PRs whose previews are carried over
 
 # Two merges close together used to race each other onto gh-pages. Both runs
 # build from their own commit, both push, and the second is rejected with
@@ -58,12 +59,21 @@ jobs:
       # The open PR previews live on gh-pages under pr-preview/ (pr-preview.yml) and
       # are not part of this build, so they are copied into it before the deploy
       # replaces the published tree.
+      # Only previews of PRs that are still open. This step used to copy every folder
+      # under pr-preview/, so the previews the broken remove-preview job left behind
+      # (pr-12 to pr-30, pr-141, pr-165: every PR long closed) were carried into every
+      # deploy. Measured 2026-11-02 by site-size.json: 2,985 MB of a 3,689 MB site.
       - name: Carry the open PR previews over
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if git ls-tree -d --name-only origin/gh-pages pr-preview >/dev/null 2>&1 \
-             && [ -n "$(git ls-tree -d --name-only origin/gh-pages pr-preview)" ]; then
-            git archive origin/gh-pages pr-preview | tar -x -C site
-          fi
+          open=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --limit 200 --json number --jq '.[].number')
+          for n in $open; do
+            if git cat-file -e "origin/gh-pages:pr-preview/pr-$n" 2>/dev/null; then
+              git archive origin/gh-pages "pr-preview/pr-$n" | tar -x -C site
+              echo "carried pr-preview/pr-$n"
+            fi
+          done
 
       # GitHub Pages publishes sites up to 1 GB. Measured 2026-10-27: 625 MB, of which the
       # long tail is 371 MB and Pagefind 113 MB, about 12 KB a long-tail page. Past 850 MB
