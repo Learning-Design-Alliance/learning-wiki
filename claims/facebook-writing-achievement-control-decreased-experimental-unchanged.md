@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: altunkaya-and-topuzkanamis-2018
     resource: "https://doi.org/10.13189/ujer.2018.061010"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The control group's writing achievement mean fell from 51.22 to 47.12, a statistically significant decrease. [→ Altunkaya and Topuzkanamis 2018](#altunkaya-and-topuzkanamis-2018)

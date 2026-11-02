@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 sources:
-  - id: sri-winarno-2017
+  - id: winarno-et-al-2017
     resource: "https://doi.org/10.5539/ies.v11n1p119"
-    title: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
-    author: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling"
+    title: "Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
+    author: "Winarno, S., Muthu, K. S., & Ling, L. S."
 ---
 
 # Adopt DPBL as an alternative teaching approach in higher education courses
@@ -56,4 +56,4 @@ The article recommends DPBL as an alternative to pure direct instruction in high
 -
 
 ## Key Sources
-- Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119
+- Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119

@@ -8,16 +8,16 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-02
 sources:
-  - id: sakkarin-chattuchai-2015
+  - id: chattuchai-et-al-2015
     resource: "https://doi.org/10.5897/ERR2015.2360"
-    title: "Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews. https://doi.org/10.5897/ERR2015.2360"
-    author: Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm
+    title: "Chattuchai, S., Singseewo, A., & Suksringarm, P. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews, 10(16), 2268-2275. https://doi.org/10.5897/ERR2015.2360"
+    author: "Chattuchai, S., Singseewo, A., & Suksringarm, P."
 ---
 
 # Five lesson plans on global warming using the FNT method with three metacognitive techniques
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's instructional element is a set of five lesson plans on global warming, each consisting of three hours of learning per week, used over three weeks. The experimental plans use the FNT method with the three metacognitive techniques (intelligibility, plausibility, wide-applicability), while control plans use the traditional teaching method. Metacognitive questions were added to each stage of the FNT method in developing the plans.
@@ -49,4 +49,4 @@ The study's instructional element is a set of five lesson plans on global warmin
 -
 
 ## Key Sources
-- Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews. https://doi.org/10.5897/ERR2015.2360
+- Chattuchai, S., Singseewo, A., & Suksringarm, P. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews, 10(16), 2268-2275. https://doi.org/10.5897/ERR2015.2360

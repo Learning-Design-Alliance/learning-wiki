@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: rudd-2017
     resource: "https://www.isrctn.com/search?q=&filters=intervention%3AMathsFlip%2CfunderName%3AEducation+Endowment+Foundation&searchType=advanced-search"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observations of maths lessons in four treatment schools found pupils shared home learning, engaged in problem-solving and differentiated challenge activities, suggesting good fidelity. [→ Rudd 2017](#rudd-2017)

@@ -9,12 +9,11 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
 sources:
   - id: winarno-et-al-2017
     resource: "https://doi.org/10.5539/ies.v11n1p119"
-    title: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
-    author: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling"
+    title: "Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
+    author: "Winarno, S., Muthu, K. S., & Ling, L. S."
     q: 2
     i: "?"
     kind: causal
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Third-year Computer Networks students taught with DPBL scored significantly higher on creative thinking, teamwork, and knowledge than students taught with direct instruction. [→ Winarno et al. 2017](#winarno-et-al-2017)
@@ -34,7 +33,7 @@ sources:
 
 ### Winarno et al. 2017
 
-Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119
+Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119
 
 `q2 · i?` · `causal · r1`
 

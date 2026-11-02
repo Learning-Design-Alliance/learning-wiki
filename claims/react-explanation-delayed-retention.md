@@ -45,7 +45,7 @@ Delayed IMCCT administered 9 weeks after the intervention in the same quasi-expe
 
 
 ## Related Claims
-- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
+- [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [Instruction with the explanation assisted REACT strategy significantly eliminated some alternative conceptions about impulse, momentum and collisions](react-explanation-eliminates-some-conceptions.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related

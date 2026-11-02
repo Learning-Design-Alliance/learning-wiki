@@ -8,10 +8,10 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-02
 sources:
-  - id: ebubekir-bozavlı-2017
+  - id: bozavlı-2017
     resource: "https://doi.org/10.5539/ies.v10n5p129"
-    title: "Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
-    author: Ebubekir Bozavlı
+    title: "Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
+    author: "Bozavlı, E."
 ---
 
 # SGAV (structuro-global audiovisual) method principles underlying the audiovisual vocabulary treatment
@@ -49,4 +49,4 @@ The study draws on the SGAV method, which the article says "concentrates on lear
 -
 
 ## Key Sources
-- Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
+- Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129

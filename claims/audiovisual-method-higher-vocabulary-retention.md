@@ -9,11 +9,12 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
-  - id: ebubekir-bozavlı-2017
+  - id: bozavlı-2017
     resource: "https://doi.org/10.5539/ies.v10n5p129"
-    title: "Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
-    author: Ebubekir Bozavlı
+    title: "Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
+    author: Bozavlı, E.
     q: 2
     i: "?"
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In week two, retention rates were between 60% and 83.33% for the audiovisual group versus 16.66% and 43.33% for the conventional group. [→ Ebubekir Bozavlı 2017](#ebubekir-bozavl-2017)
+`q2 i?` In week two, retention rates were between 60% and 83.33% for the audiovisual group versus 16.66% and 43.33% for the conventional group. [→ Bozavlı 2017](#bozavl-2017)
 
 ## Evidence
 
-### Ebubekir Bozavlı 2017
+### Bozavlı 2017
 
-Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
+Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experimental comparison of retention one week after instruction, analysed by percentage calculations. The discussion states "Retention rate is just above 70% with audiovisual method, while it is about 25% in conventional method"; the results tables show week-two rates of 60–83.33% (experimental) and 16.66–43.33% (control). No inferential statistics were reported.
+Comparison of retention one week after instruction between two groups of 14 French-language-teaching students that the article describes as experimental research with groups "randomly established" (the allocation procedure is not described); each group was taught as one class at a different time, and results were analysed by percentage calculations. The discussion states "Retention rate is just above 70% with audiovisual method, while it is about 25% in conventional method"; the results tables show week-two rates of 60–83.33% (experimental) and 16.66–43.33% (control). No inferential statistics were reported.
 
 > "Retention rate is just above 70% with audiovisual method, while it is about 25% in conventional method."
 

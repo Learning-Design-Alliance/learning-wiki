@@ -45,5 +45,5 @@ Per-student comparison of vocabulary test scores plotted for the experimental gr
 
 
 ## Related Claims
-- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
+- [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — related

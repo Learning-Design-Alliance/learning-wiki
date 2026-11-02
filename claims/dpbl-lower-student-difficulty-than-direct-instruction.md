@@ -12,8 +12,8 @@ newest_evidence: 2017
 sources:
   - id: winarno-et-al-2017
     resource: "https://doi.org/10.5539/ies.v11n1p119"
-    title: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
-    author: "Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling"
+    title: "Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119"
+    author: "Winarno, S., Muthu, K. S., & Ling, L. S."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Winarno et al. 2017
 
-Sri Winarno, Kalaiarasi Sonai Muthu & Lew Sook Ling. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119
+Winarno, S., Muthu, K. S., & Ling, L. S. (2017). Direct Problem-Based Learning (DPBL): A Framework for Integrating Direct Instruction and Problem-Based Learning Approach. International Education Studies, 11(1). https://doi.org/10.5539/ies.v11n1p119
 
 `q2 · i?` · `causal · r1`
 

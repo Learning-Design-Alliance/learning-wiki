@@ -32795,7 +32795,6 @@
 "id":"audiovisual-method-higher-vocabulary-learning-success",
 "newest_evidence":"2017",
 "path":"claims/audiovisual-method-higher-vocabulary-learning-success.md",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"Learners taught French vocabulary with an audiovisual method (listening to video pronunciation while following the written script) achieved higher learning success rates in week one than learners taught with the conventional method",
 "type":"claim"
@@ -32806,6 +32805,7 @@
 "id":"audiovisual-method-higher-vocabulary-retention",
 "newest_evidence":"2017",
 "path":"claims/audiovisual-method-higher-vocabulary-retention.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Learners taught with the audiovisual method showed higher vocabulary retention in week two than learners taught with the conventional method",
 "type":"claim"
@@ -76261,13 +76261,14 @@
 },
 {
 "aliases":["conventional-method-retention-decline"],
-"description":"Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test",
+"description":"Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test",
 "evidence_strength":"weak",
 "id":"control-group-individual-sharp-decline-delayed-posttest",
 "newest_evidence":"2017",
 "path":"claims/control-group-individual-sharp-decline-delayed-posttest.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test",
+"title":"Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test",
 "type":"claim"
 },
 {
@@ -103711,7 +103712,6 @@
 "id":"dpbl-outperformed-direct-instruction-outcomes",
 "newest_evidence":"2017",
 "path":"claims/dpbl-outperformed-direct-instruction-outcomes.md",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course",
 "type":"claim"
@@ -131129,6 +131129,7 @@
 "id":"facebook-writing-achievement-control-decreased-experimental-unchanged",
 "newest_evidence":"2018",
 "path":"claims/facebook-writing-achievement-control-decreased-experimental-unchanged.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course",
 "type":"claim"
@@ -141803,13 +141804,14 @@
 "type":"claim"
 },
 {
-"description":"Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques gained more global warming knowledge, awareness, decreasing behavior and critical thinking than students...",
+"description":"Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques scored higher than traditionally taught students on pretest-adjusted posttests of global warming knowledge, awareness, decreasing behavior and critical thinking, except in the deduction aspect",
 "evidence_strength":"moderate",
 "id":"fnt-metacognitive-outperforms-traditional-global-warming",
 "newest_evidence":"2015",
 "path":"claims/fnt-metacognitive-outperforms-traditional-global-warming.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques gained more global warming knowledge, awareness, decreasing behavior and critical thinking than students taught traditionally, except in the deduction aspect",
+"title":"Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques scored higher than traditionally taught students on pretest-adjusted posttests of global warming knowledge, awareness, decreasing behavior and critical thinking, except in the deduction aspect",
 "type":"claim"
 },
 {
@@ -169543,13 +169545,14 @@
 "type":"claim"
 },
 {
-"description":"High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ in global warming knowledge",
+"description":"High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ significantly in global warming knowledge",
 "evidence_strength":"moderate",
 "id":"high-biology-achievers-more-awareness-behavior-critical-thinking",
 "newest_evidence":"2015",
 "path":"claims/high-biology-achievers-more-awareness-behavior-critical-thinking.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ in global warming knowledge",
+"title":"High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ significantly in global warming knowledge",
 "type":"claim"
 },
 {
@@ -208166,6 +208169,7 @@
 "id":"lecturers-rated-dpbl-appropriate-and-effective",
 "newest_evidence":"2017",
 "path":"claims/lecturers-rated-dpbl-appropriate-and-effective.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills",
 "type":"claim"
@@ -225899,6 +225903,7 @@
 "id":"mathsflip-fidelity-observations-hots",
 "newest_evidence":"2017",
 "path":"claims/mathsflip-fidelity-observations-hots.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Lesson observations indicated MathsFlip was delivered well, with class behaviour reflecting key components of a flipped learning approach",
 "type":"claim"
@@ -241954,6 +241959,7 @@
 "id":"mtp-ms-omnibus-number-sense-place-value",
 "newest_evidence":"2014",
 "path":"claims/mtp-ms-omnibus-number-sense-place-value.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Treatment condition had a significant omnibus effect on children's number sense and place value skills in pre-kindergarten",
 "type":"claim"
@@ -241964,6 +241970,7 @@
 "id":"mtp-ms-plus-geometry-measurement-gains",
 "newest_evidence":"2014",
 "path":"claims/mtp-ms-plus-geometry-measurement-gains.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Children in MTP-M/S Plus classrooms made significantly greater geometry and measurement gains across the pre-k year than children in business-as-usual classrooms (g = .52), while Basic-classroom children did not differ from either group",
 "type":"claim"
@@ -303405,6 +303412,7 @@
 "id":"project-target-model-implementation-experimental-gains",
 "newest_evidence":"2016",
 "path":"claims/project-target-model-implementation-experimental-gains.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged",
 "type":"claim"

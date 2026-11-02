@@ -12,8 +12,8 @@ newest_evidence: 2015
 sources:
   - id: chattuchai-et-al-2015
     resource: "https://doi.org/10.5897/ERR2015.2360"
-    title: "Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews. https://doi.org/10.5897/ERR2015.2360"
-    author: Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm
+    title: "Chattuchai, S., Singseewo, A., & Suksringarm, P. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews, 10(16), 2268-2275. https://doi.org/10.5897/ERR2015.2360"
+    author: "Chattuchai, S., Singseewo, A., & Suksringarm, P."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Chattuchai et al. 2015
 
-Sakkarin Chattuchai, Adisak Singseewo and Paitool Suksringarm. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews. https://doi.org/10.5897/ERR2015.2360
+Chattuchai, S., Singseewo, A., & Suksringarm, P. (2015). Development of knowledge, awareness, global warming decreasing behavior and critical thinking of grade 11 students using the Four Noble Truths method with meta-cognitive techniques. Educational Research and Reviews, 10(16), 2268-2275. https://doi.org/10.5897/ERR2015.2360
 
 `q2 · i?` · `causal · r2`
 
@@ -46,6 +46,6 @@ Paired t-tests comparing pretest and posttest measures for the whole sample and 
 
 ## Related Claims
 - [Prior Biology learning outcome interacted significantly with learning model on global warming awareness, decreasing behavior and critical thinking](biology-outcome-by-learning-model-interaction.md) — related
-- [High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ in global warming knowledge](high-biology-achievers-more-awareness-behavior-critical-thinking.md) — related
-- [Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques gained more global warming knowledge, awareness, decreasing behavior and critical thinking than students taught traditionally, except in the deduction aspect](fnt-metacognitive-outperforms-traditional-global-warming.md) — related
+- [High prior Biology achievers showed more global warming awareness, decreasing behavior and critical thinking than low achievers, but did not differ significantly in global warming knowledge](high-biology-achievers-more-awareness-behavior-critical-thinking.md) — related
+- [Grade 11 students taught environmental education with the Four Noble Truths method plus metacognitive techniques scored higher than traditionally taught students on pretest-adjusted posttests of global warming knowledge, awareness, decreasing behavior and critical thinking, except in the deduction aspect](fnt-metacognitive-outperforms-traditional-global-warming.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related

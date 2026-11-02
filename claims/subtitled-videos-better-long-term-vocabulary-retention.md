@@ -51,5 +51,5 @@ Independent t test on delayed post-test scores of the same 18-per-group sample; 
 - [Authentic use of authentic materials motivated learners more than traditional teaching of the same materials](authentic-use-motivates-more-than-traditional-teaching.md) — related
 - [Experimental-group learners maintained nearly the same vocabulary scores across the two test administrations](experimental-group-stable-scores-delayed-posttest.md) — related
 - [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](traditional-instruction-better-short-term-vocabulary-retention.md) — related
-- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
+- [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — a broader claim this one bears on

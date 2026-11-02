@@ -40,7 +40,7 @@ Because the study found traditional instruction superior for short-term retentio
 
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](../claims/subtitled-videos-better-long-term-vocabulary-retention.md) [+M]
 - [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](../claims/traditional-instruction-better-short-term-vocabulary-retention.md) [+M]
-- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](../claims/control-group-individual-sharp-decline-delayed-posttest.md) [+W]
+- [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](../claims/control-group-individual-sharp-decline-delayed-posttest.md) [+W]
 - [Experimental-group learners maintained nearly the same vocabulary scores across the two test administrations](../claims/experimental-group-stable-scores-delayed-posttest.md) [+W]
 
 ## Related Strategies

@@ -11,10 +11,10 @@ evidence_strength: weak
 newest_evidence: 2017
 source_checked: 2026-11-02
 sources:
-  - id: ebubekir-bozavlı-2017
+  - id: bozavlı-2017
     resource: "https://doi.org/10.5539/ies.v10n5p129"
-    title: "Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
-    author: Ebubekir Bozavlı
+    title: "Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
+    author: Bozavlı, E.
     q: 2
     i: "?"
     kind: causal
@@ -28,17 +28,17 @@ sources:
 > **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` No significant change in vocabulary knowledge was detected between the first and second week in the experimental group. [→ Ebubekir Bozavlı 2017](#ebubekir-bozavl-2017)
+`q2 i?` No significant change in vocabulary knowledge was detected between the first and second week in the experimental group. [→ Bozavlı 2017](#bozavl-2017)
 
 ## Evidence
 
-### Ebubekir Bozavlı 2017
+### Bozavlı 2017
 
-Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
+Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
 
 `q2 · i?` · `causal · r1`
 
-Descriptive comparison of the experimental group's week-one and week-two test results. The article reports "No significant change was detected in th e level of vocabulary knowledg e of participants between the first and second week"; 6 participants gave fewer correct answers, 4 rose and 4 stayed unchanged, with changes limited to one or two words.
+Descriptive comparison of the experimental group's week-one and week-two test results. The article reports "No significant change was detected in th e level of vocabulary knowledg e of participants between the first and second week"; 6 participants gave fewer correct answers, 4 rose and 4 stayed unchanged, with changes limited to one or two words. "Significant" is the article's word; no statistical test was run.
 
 > "No significant change was detected in th e level of vocabulary knowledg e of participants between the first and second week."
 

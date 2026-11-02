@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 sources:
   - id: kinzie-2014
     resource: "http://dx.doi.org/10.1016/j.ecresq.2014.06.007"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The multilevel analysis detected a significant omnibus effect of treatment condition (BaU, Basic, Plus) on children's number sense and place value skills. [→ Kinzie 2014](#kinzie-2014)

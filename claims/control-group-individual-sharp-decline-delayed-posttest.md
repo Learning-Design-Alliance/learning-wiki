@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test
-description: Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test
+title: Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test
+description: Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test
 id: control-group-individual-sharp-decline-delayed-posttest
 aliases: [conventional-method-retention-decline]
 status: review
@@ -10,6 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: nader-asadi-aidinlou-alireza-moradinejad-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.5p.14"
@@ -19,27 +20,27 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
-  - id: ebubekir-bozavlı-2017
+  - id: bozavlı-2017
     resource: "https://doi.org/10.5539/ies.v10n5p129"
-    title: "Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
-    author: Ebubekir Bozavlı
+    title: "Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
+    author: Bozavlı, E.
     q: 2
     i: "?"
     kind: causal
     rigour: 1
 ---
 
-# Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test
+# Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
 `q2 i?` Almost all control-group learners showed a sharp decline in vocabulary test scores between the post-test and delayed post-test. [→ Nader Asadi Aidinlou & Alireza Moradinejad 2016](#nader-asadi-aidinlou-alireza-moradinejad-2016)
 
-`q2 i?` By the end of week two, 13 control participants suffered a decline in retention success while one enjoyed a rise limited to one word. [→ Ebubekir Bozavlı 2017](#ebubekir-bozavl-2017)
+`q2 i?` By the end of week two, 13 of 14 control participants suffered a decline in retention success, of 1 to 5 words out of 30, while one enjoyed a rise limited to one word. [→ Bozavlı 2017](#bozavl-2017)
 
 ## Evidence
 
@@ -53,13 +54,13 @@ Per-student comparison of vocabulary test scores in post-test and delayed post-t
 
 > "As Figure 1 shows all learners in the control group (except students no. 10, 12 and 14) had a sharp decline in vocabulary test scores in their delayed post -test."
 
-### Ebubekir Bozavlı 2017
+### Bozavlı 2017
 
-Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
+Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
 
 `q2 · i?` · `causal · r1`
 
-Descriptive analysis of the control group's week-two retention results after conventional vocabulary teaching. The article reports "13 participants suffered a decline in retention success, while one enjoyed a rise, albeit limited to one word"; only one participant remembered 13 words and ten remembered 5 to 10 words.
+Descriptive analysis of the control group's week-two retention results after conventional vocabulary teaching. The article reports "13 participants suffered a decline in retention success, while one enjoyed a rise, albeit limited to one word"; only one participant remembered 13 words and ten remembered 5 to 10 words. Table 3 shows the size of each change: the 13 declines were of 1 to 5 words out of 30 (most of 1 to 3 words), and the group's success rates fell from 26.66–50% in week one to 16.66–43.33% in week two. The article does not call the declines sharp.
 
 > "13 participants suffered a decline in retention success, while one enjoyed a rise, albeit limited to one word."
 

@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 sources:
-  - id: ebubekir-bozavlı-2017
+  - id: bozavlı-2017
     resource: "https://doi.org/10.5539/ies.v10n5p129"
-    title: "Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
-    author: Ebubekir Bozavlı
+    title: "Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129"
+    author: "Bozavlı, E."
 ---
 
 # Use authentic pedagogical video materials (e.g., TV5 Monde applications) as the basis for audiovisual vocabulary lessons
@@ -53,4 +53,4 @@ The article demonstrates a concrete procedure using instructive videos with peda
 -
 
 ## Key Sources
-- Ebubekir Bozavlı. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
+- Bozavlı, E. (2017). Vocabulary Teaching in Foreign Language via Audiovisual Method Technique of Listening and Following Writing Scripts. International Education Studies, 10(5). https://doi.org/10.5539/ies.v10n5p129
