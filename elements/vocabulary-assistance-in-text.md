@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (4 for, 5 mixed, 2 against) · 6 studies (4 causal, 2 quant-synthesis), `q2`–`q3` · 0 of 6 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (4 for, 7 mixed, 2 against) · 7 studies (4 causal, 2 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 7 report an effect size · 13 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -50,6 +50,8 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 - [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent](../claims/e-book-dictionary-reading-improves-word-learning-kindergartners.md) [+W] — attached 2026-11-01 from Korat et al. (2017), which proposed "E-book with built-in dictionary mode (Confused Yuval) for independent kindergarten reading"; tests this page's relationship.
 - [Words that received a dictionary explanation in the e-book were explained better by children than words appearing in the story without dictionary support](../claims/dictionary-support-improves-word-explanation.md) [+W] — attached 2026-11-01 from Korat et al. (2017), which proposed "E-book with built-in dictionary mode (Confused Yuval) for independent kindergarten reading"; tests this page's relationship.
 - [No interaction was found between image type and test occasion in learning preposition senses with visual glosses](../claims/no-interaction-image-type-test-occasion.md) [~W]
+- [Students of different proficiency levels use computer textual glosses in a similar pattern, with no statistically significant difference in number of clicks](../claims/gloss-use-no-proficiency-difference-clicks.md) [~W] — attached 2026-11-02 from Mohamad A. Yusuf et al. (2014), which proposed "Computer textual glosses embedded in a narrative text, at word and sentence levels in L1 and English".
+- [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](../claims/gloss-gains-not-maintained-three-weeks.md) [~W] — attached 2026-11-02 from Mohamad A. Yusuf et al. (2014), which proposed "Computer textual glosses embedded in a narrative text, at word and sentence levels in L1 and English"; tests this page's relationship.
 
 ## Related Elements
 

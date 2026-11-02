@@ -54,3 +54,4 @@ The paper reports this as a cross-institutional pattern, citing Getman-Eraso & C
 - [A course-in-a-box TPD initiative trained 673 faculty and produced 169 new online courses since 2019](cib-673-faculty-169-courses.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [Course-integrated implementations of active learning more often reported sustained skill development, while one-off sessions more often reported engagement and perceived relevance gains](course-integrated-vs-one-off-outcome-patterns.md) — a narrower finding that bears on this claim
+- [General education teachers at RTI demonstration schools and comparable schools show no significant difference in self-reported RTI implementation practices](rti-demonstration-schools-no-difference-self-reported-practices.md) — related

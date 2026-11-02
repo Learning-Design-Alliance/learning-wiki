@@ -56,3 +56,4 @@ Between-gender comparison of 60 experimental-group students (30 male, 30 female)
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Pre-test learning styles of the experimental group differed significantly by gender, with females dominant in converging and males in accommodating styles](layered-curriculum-pretest-gender-difference-experimental.md) — related
+- [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related

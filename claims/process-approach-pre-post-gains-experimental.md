@@ -52,3 +52,4 @@ Paired t-test comparison of pre-test and post-test scores for the 40 Experimenta
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
+- [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related

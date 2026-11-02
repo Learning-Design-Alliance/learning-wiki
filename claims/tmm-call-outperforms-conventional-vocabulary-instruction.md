@@ -63,3 +63,5 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
 - [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](game-based-tasks-improve-young-learner-vocabulary-achievement.md) — related
+- [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](contextual-vocabulary-teaching-significant-gains-iranian-efl.md) — related
+- [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related

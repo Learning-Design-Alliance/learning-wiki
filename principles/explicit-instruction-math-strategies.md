@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (18 for, 4 mixed, 1 against) · 31 studies (16 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 25 claims (18 for, 5 mixed, 2 against) · 32 studies (17 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,8 @@ Choosing a method, writing a correct equation, solving correctly, explaining why
 - [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [+W]
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
 - [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](../claims/sbi-did-not-moderate-growth-over-time.md) [-W]
+- [SBI does not significantly improve general mathematical problem solving (GMADE) for students with mathematics difficulties, despite a non-negligible effect size](../claims/sbi-md-no-gmade-effect.md) [-W]
+- [SBI significantly improves seventh-grade students' general mathematical problem solving (GMADE) relative to business-as-usual instruction, contrary to prior SBI studies](../claims/sbi-improves-gmade-general-problem-solving.md) [~W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions

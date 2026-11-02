@@ -136,9 +136,11 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 - [Learner Choice](autonomy.md) — allowing learners to set their own goals increases commitment and autonomy.
 
 ## Examples
+
 - **[Khan Academy Progress Tracking](https://www.khanacademy.org)** — Uses specific "Mastery Goals" and progress bars to help learners set targets and monitor their progress in real-time.
 - **[Duolingo Streaks](https://www.duolingo.com)** — Employs daily goals and visual feedback (streaks) to encourage persistence and self-monitoring.
 - **SMARTER Goal Templates**: Worksheets that guide students in defining Specific, Measurable, Achievable, Relevant, Time-bound, Evaluated, and Rewarded targets.
+- [Have students unpack goals into tasks and subtasks to counter the planning fallacy](../strategies/task-unpacking-goal-setting-worksheet.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

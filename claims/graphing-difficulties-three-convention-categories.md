@@ -49,3 +49,4 @@ In the review's results on difficulties with graphing conventions, the authors s
 - [Students experience difficulties during graphing both during graph construction and during the interpretation and usage of data](students-face-construction-and-interpretation-difficulties.md) — related
 - [Graphing instruction in K-12 STEM education is beneficial for student learning, improving both graph construction and graph interpretation skills](graphing-instruction-improves-construction-and-interpretation.md) — related
 - [Theoretical difficulties during graphing most commonly involve connecting graphs to STEM concepts and interpreting data](theoretical-difficulties-concept-connection-interpretation.md) — related
+- [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](translation-difficulty-depends-on-concept-understanding.md) — related

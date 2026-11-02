@@ -48,3 +48,4 @@ Implementation study using school ratings, snapshots, and visit reports collecte
 - [MAST is feasible for delivery by teachers, with four of five schools delivering all key components consistently](mast-feasible-teacher-delivery-fidelity.md) — related
 - [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
+- [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related

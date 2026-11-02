@@ -59,3 +59,4 @@ Paired t-tests on pre/post achievement for each of the ten multimedia conditions
 - [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](videos-3d-animations-remedy-misconceptions.md) — a narrower finding that bears on this claim
 - [Neither group showed a statistically significant pre-to-post change in Force and Motion misconceptions over the five-week unit](no-significant-prepost-fmct-change-either-group.md) — related
 - [Conceptual change texts produced a significant pre-to-post achievement gain in the experimental group](cct-experimental-group-significant-gain.md) — a narrower finding that bears on this claim
+- [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related

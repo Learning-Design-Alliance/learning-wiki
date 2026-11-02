@@ -18,7 +18,7 @@ sources:
 # Math Story Chart: a four-step word-problem organizer (Tell-Show-Solve-Answer and Look Back)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (3 causal), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (4 causal), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The Math Story Chart is a teacher-made graphic organizer based on Polya's four-step problem-solving method, with four components: Tell (the information given), Show (the equation demonstrating the algorithm), Solve (the computational component), and Answer and Look Back (a check of the answer's reasonableness). It was used with teacher modeling during daily 20-minute strategy instruction over three weeks. "All but one student chose to use this 4 step chart 'study aid' when completing their Post-tests," and students appeared to view it as a means of clarifying and organizing problem information rather than as an additional task.
@@ -45,6 +45,7 @@ The Math Story Chart is a teacher-made graphic organizer based on Polya's four-s
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](../claims/interview-perceptions-problem-solving-plan-steps.md) [~W]
 - [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [-W]
+- [No significant differences between groups were found on story-telling complexity (rubric item No. 9), contrary to the authors' hypothesis](../claims/no-group-difference-story-complexity.md) [~W]
 
 ## Related Elements
 - 

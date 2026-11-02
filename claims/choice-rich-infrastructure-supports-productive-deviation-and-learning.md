@@ -69,3 +69,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [A combination of human facilitators and well-constructed tutorials has the potential to improve girls' self-study skills and prepare them to become more independent learners](e5c-facilitators-tutorials-independent-learning.md) — related
 - [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related
 - [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — related
+- [Control group students without narrative instruction tended to imitate famous designers' works instead of generating original concepts](control-students-imitated-famous-designers-works.md) — related

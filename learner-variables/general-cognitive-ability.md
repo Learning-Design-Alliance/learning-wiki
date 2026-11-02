@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 179 claims (113 show a difference, 37 mixed, 29 no difference) · 127 studies (47 causal, 44 associational, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 127 report an effect size · 176 claims rest on one study
+> **Evidence** · 183 claims (115 show a difference, 38 mixed, 30 no difference) · 129 studies (48 causal, 44 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 129 report an effect size · 180 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -215,6 +215,10 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](../claims/baseline-pretest-predicts-game-performance-better-than-cmt.md) [+M] — learners who differ on it differ in outcomes
 - [Improvement in mathematical analogical ability differs significantly by students' initial ability category, with higher initial ability associated with higher gain](../claims/initial-ability-category-analogical-gain-differences.md) [+M] — an instructional effect differs with it
 - [No significant achievement difference between high- and low-ability students taught with reflective inquiry](../claims/no-ability-level-difference-reflective-inquiry.md) [-M] — learners who differ on it differ in outcomes
+- [Animation-based teaching positively affects both high and low spatial ability learners, so it is not effective only for high spatial ability students](../claims/animations-effective-both-spatial-ability-groups.md) [-W] — an instructional effect differs with it
+- [High ability students achieved more than low ability students in both the constructivist and the transmissive learning environments](../claims/high-ability-outperform-low-ability-both-environments.md) [+M] — learners who differ on it differ in outcomes
+- [Low spatial ability learners on average performed better than high spatial ability learners when taught through animations](../claims/lsa-learners-outperform-hsa-with-animations.md) [+M] — learners who differ on it differ in outcomes
+- [The constructivist environment significantly favoured high ability students over high ability transmissive students, but low ability constructivist and low ability transmissive students did not differ significantly](../claims/constructivist-advantage-high-ability-only-low-ability-null.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

@@ -52,6 +52,7 @@ The article recommends using SMS messaging as a support tool alongside regular i
 - [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
 - [Reach out to families with low-cost SMS socio-emotional support during remote or disrupted schooling](sms-socio-emotional-support-remote-schooling.md)
 - [Pair demand-side nudge messaging with supply-side teacher professional development and attend to heterogeneous effects](pair-nudges-with-teacher-professional-development.md)
+- [Use SMS as a complementary device for vocabulary instruction and assessment, including reciprocal testing](sms-complementary-vocabulary-instruction-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ ANCOVA with prior knowledge group (2 levels) as independent variable, proportion
 - [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](hpk-improved-only-low-agency.md) — related
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
 - [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](low-prior-knowledge-greatest-gains-multi-agent.md) — related
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related

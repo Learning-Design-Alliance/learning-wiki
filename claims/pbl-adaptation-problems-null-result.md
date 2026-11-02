@@ -47,3 +47,4 @@ Authors' interpretation in the discussion, offered as the first of ten possible 
 ## Related Claims
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related
+- [The authors attribute the null effect to off-topic group talk and inadequate participation, citing discussion-practice conditions](null-effect-attributed-off-topic-talk-participation.md) — related

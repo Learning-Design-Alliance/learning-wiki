@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 86 claims (22 for, 29 mixed, 35 against) · 79 studies (25 quant-synthesis, 23 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 79 report an effect size · 78 claims rest on one study
+> **Evidence** · 87 claims (22 for, 30 mixed, 35 against) · 80 studies (25 quant-synthesis, 24 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 80 report an effect size · 79 claims rest on one study
 
 ## Description and scope
 
@@ -208,6 +208,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](../claims/inguinal-model-mean-errors-lower.md) [-W]
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](../claims/mobile-3g-use-higher-achievement-scores.md) [-W]
 - [Students receiving traditional lectures showed no significant pre-post change in overall attitudes to learning English](../claims/traditional-lectures-no-attitude-change.md) [+W]
+- [Geometry achievement and retention showed no significant gender differences in either the GSP or the traditional teaching group](../claims/no-gender-difference-geometry-achievement-retention.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

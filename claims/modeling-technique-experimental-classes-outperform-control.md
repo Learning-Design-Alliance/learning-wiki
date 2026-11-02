@@ -46,3 +46,4 @@ Quasi-experimental comparison from the training experiment in four Almaty school
 
 ## Related Claims
 - [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related
+- [Experimental class significantly outperformed control class in conceptual understanding of electromagnetism](kruskal-wallis-significant-conceptual-difference.md) — related

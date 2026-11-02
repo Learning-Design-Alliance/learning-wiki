@@ -54,3 +54,6 @@ Cluster randomized trial with 82 teachers/classrooms and 1,999 seventh-grade stu
 - [SBI effects for students with MD-PS hold for ratio and proportion problems at both time points but for percent problems only at immediate posttest](sbi-subscale-effects-ratio-proportion-versus-percent.md) — related
 - [Students with MD-PS and their teachers reported positive perceptions of the SBI intervention's diagrams and problem-solving procedures](sbi-acceptability-ratings-students-teachers.md) — related
 - [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related
+- [SBI significantly improves seventh-grade students' general mathematical problem solving (GMADE) relative to business-as-usual instruction, contrary to prior SBI studies](sbi-improves-gmade-general-problem-solving.md) — related
+- [SBI significantly improves seventh-grade students' proportional problem solving at immediate posttest and at 11-week delayed posttest relative to business-as-usual instruction](sbi-improves-pps-post-and-delayed-full-sample.md) — related
+- [For students with mathematics difficulties, SBI significantly improves proportional problem solving at immediate and 11-week delayed posttests but not general mathematical problem solving](sbi-md-pps-post-and-delayed.md) — related

@@ -56,3 +56,4 @@ ANOVA of problem-solving scores for the experimental group (n = 23) in the quasi
 - [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](layered-curriculum-prepost-gain.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [TIPS professional development produces immediate and continuing improvements in school teams' overall problem-solving practices](tips-pd-improves-team-problem-solving.md) — related
+- [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](ardesos-v2-significant-pre-post-gains-except-decision-making.md) — a broader claim this one bears on

@@ -65,6 +65,7 @@ Discussion after reading works because verbalizing interpretations forces elabor
 - [Annotating](../principles/annotating.md) — gives learners concrete textual evidence to bring into the discussion
 - [Reciprocal teaching](../principles/cognitive-activation.md) — a discussion routine that rotates comprehension-strategy roles among learners
 - [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 - **[Literature circles](literature-circles.md)** (e.g., as implemented in Fountas & Pinnell's *Guiding Readers and Writers*) — small groups discuss a shared novel using rotating roles such as discussion director and literary luminary.

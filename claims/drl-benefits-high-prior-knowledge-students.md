@@ -79,3 +79,4 @@ Interaction terms from the same mixed-effects regression model on posttest probl
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — reports the opposite
 - [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
+- [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](group-level-interaction-reduced-achievement-gap.md) — related

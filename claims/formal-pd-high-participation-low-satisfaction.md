@@ -57,3 +57,4 @@ Nationally representative online survey of 856 U.S. K-12 teachers asked about pa
 - Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development — related
 - Teacher satisfaction is influenced more by school culture than by student demographics — related
 - [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related
+- [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related

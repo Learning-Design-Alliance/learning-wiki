@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 11 mixed, 2 against) · 33 studies (10 review, 8 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 33 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 34 studies (10 review, 9 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 34 report an effect size · 24 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -74,6 +74,8 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Video-based coaching produces significantly larger improvement from baseline to final assessment than control feedback](../claims/vbc-larger-change-scores-baseline.md) [+W]
 - [Teachers rated the coaching process positively and agreed they would continue using the Pyramid Model practices](../claims/teachers-rate-pyramid-coaching-positively.md) [+W]
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
+- [Double Check coaching significantly reduced coached teachers' office discipline referrals of Black students relative to non-coached teachers, though this effect was sensitive to multiple-comparison adjustment](../claims/double-check-coaching-reduces-odrs-black-students.md) [+M] — attached 2026-11-02 from Bradshaw et al. (2018), which proposed "Classroom Check-Up (CCU) coaching adapted for culturally responsive practices"; tests this page's relationship.
+- [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

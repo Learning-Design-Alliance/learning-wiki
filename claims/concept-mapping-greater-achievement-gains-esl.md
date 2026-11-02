@@ -53,3 +53,4 @@ Randomized pretest-posttest control group study of 79 ESL students comparing a c
 - [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](srl-task-learning-gains-domain-concept-maps.md) — related
 - [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related
 - [Reading strategy instruction in L2 (English) produced significantly greater gains in English reading comprehension than regular instruction](l2-strategy-instruction-improves-english-reading-comprehension.md) — related
+- [Concept mapping as a post-reading strategy significantly improves EFL learners' critical thinking ability](concept-mapping-improves-efl-critical-thinking.md) — related

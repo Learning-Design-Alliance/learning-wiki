@@ -48,3 +48,4 @@ Secondary analysis of High-Agency students' task selections relative to the adap
 - [The Low-Agency condition produced a significantly different mix of preparatory activities than the High-Agency condition](activity-type-differences-between-conditions.md) — related
 - [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](hpk-improved-only-low-agency.md) — related
 - [Process mining showed LPK students began with preparatory tasks and achieved a higher proportion of correct decisions, while HPK students skipped preparation and increasingly took advanced tasks](process-mining-correct-decision-lpk.md) — related
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related

@@ -39,7 +39,8 @@ The authors advocate integrating TE-DCTs into L2 pedagogical practice, especiall
 - metapragmatic awareness
 
 ## Related Strategies
-- 
+
+- [Include pragmatic issues in ESL/EFL classes and in syllabus design](include-pragmatics-in-esl-efl-classes-and-syllabus.md)
 
 ## Examples
 -

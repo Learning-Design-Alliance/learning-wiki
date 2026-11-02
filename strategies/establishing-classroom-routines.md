@@ -113,6 +113,7 @@ Routines convert recurring management decisions into automatic behaviors, freein
 6. Open each session with a predictable [Check-In](../elements/check-in.md) or starter task so the routine itself launches learning.
 
 ## Related Strategies
+
 - [Direct Instruction](../patterns/direct-instruction.md) — routines are the management substrate that makes tightly paced explicit teaching feasible
 - [Cooperative Learning](../patterns/cooperative-learning.md) — group work only functions when roles, voice levels, and transitions are routinized
 - [Clear Structure](../principles/clear-structure.md) — routines are the procedural expression of structural predictability
@@ -123,6 +124,7 @@ Routines convert recurring management decisions into automatic behaviors, freein
 - [Classroom Management](classroom-management.md) — routines are the primary proactive tool in the management repertoire
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a routine opening activity reliably creates the activation slot
 - [Check-ins](../principles/check-ins.md) — a routine that doubles as an affective and formative-assessment structure
+- [Establish discussion expectations and practice classroom discussion routines at the start of the year](practice-discussion-expectations-start-of-year.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through modeling, student observation, and rehearsal; widely implemented in US elementary schools.

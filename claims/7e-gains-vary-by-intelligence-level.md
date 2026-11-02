@@ -52,3 +52,4 @@ Intelligence-level subgroup analysis of gain scores in the quasi-experiment: low
 - [Within the 7E experimental group, post-test achievement scores did not differ significantly among high, average, and low intelligence students](7e-posttest-no-difference-across-iq-groups.md) — related
 - [The effect of the 7E learning cycle does not differ significantly by school level, publication type, or intervention duration](7e-effect-no-difference-school-level-publication-duration.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
+- [High ability students achieved more than low ability students in both the constructivist and the transmissive learning environments](high-ability-outperform-low-ability-both-environments.md) — related

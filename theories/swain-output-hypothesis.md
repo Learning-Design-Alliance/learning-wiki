@@ -85,6 +85,7 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Increase Student Language Production](../strategies/increase_student_language_production.md)
 - [Modeling feedback: an original native-speaker text used as a comparison model](../elements/modeling-feedback-native-speaker-text.md)
 - [Design interaction so learners modify their utterances in response to negative feedback](../strategies/elicit-modified-output-in-response-to-negative-feedback.md)
+- [Use gamified information gap activities with time pressure and forced output to promote L2 oral interaction practice](../strategies/gamified-information-gap-oral-interaction.md)
 
 ## Key Sources
 - Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible output in its development. In S. M. Gass & C. G. Madden (Eds.), *Input in second language acquisition* (pp. 235–253). Newbury House.

@@ -51,3 +51,4 @@ Intent-to-treat repeated-measures analysis of all 321 families (164 FCU, 157 con
 - [The Family Check-Up did not produce a statistically significant effect on family-school engagement at school](fcu-no-significant-effect-engagement-at-school.md) — related
 - [Most families offered the FCU participated through feedback (87%), but fewer than half completed follow-up treatment sessions (49%)](fcu-participation-rates-kindergarten.md) — related
 - [Child hyperactivity behavior and caregiver perception of the FCU predicted treatment time, with hyperactivity the stronger predictor](hyperactivity-and-acceptability-predict-fcu-participation.md) — related
+- [Stability of parental support from preschool to kindergarten was greater for control families, indicating the intervention produced greater change in parental support](redip-parental-support-less-stable-intervention.md) — related

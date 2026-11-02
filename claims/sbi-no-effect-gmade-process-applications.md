@@ -52,3 +52,5 @@ The GMADE Process and Applications subtest (30 multiple-choice items) measured o
 - [Story Friends produced no group differences on distal standardized language measures (PPVT-IV, CELF-P)](no-distal-language-effects-ppvt-celf.md) — related
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
 - [The intervention produced no significant group differences on distal problem-solving measures, as the authors predicted because problem solving was not directly taught](no-problem-solving-transfer-gains.md) — related
+- [SBI significantly improves seventh-grade students' general mathematical problem solving (GMADE) relative to business-as-usual instruction, contrary to prior SBI studies](sbi-improves-gmade-general-problem-solving.md) — reports the opposite
+- [SBI does not significantly improve general mathematical problem solving (GMADE) for students with mathematics difficulties, despite a non-negligible effect size](sbi-md-no-gmade-effect.md) — related

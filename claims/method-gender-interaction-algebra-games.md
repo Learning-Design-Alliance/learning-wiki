@@ -64,3 +64,5 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — reports the opposite
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
 - [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related
+- [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — reports the opposite
+- [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related

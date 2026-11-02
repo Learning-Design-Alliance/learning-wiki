@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (53 for, 46 mixed, 3 against) · 77 studies (30 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 77 report an effect size · 96 claims rest on one study
+> **Evidence** · 103 claims (54 for, 46 mixed, 3 against) · 78 studies (31 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 78 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](../claims/game-based-tasks-improve-young-learner-vocabulary-achievement.md) [+W] — attached 2026-11-02 from Masoumeh Mehregan (2014), which proposed "Concrete, game-based tasks suit young learners who cannot yet think abstractly"; tests this page's relationship.
 - [Kindergarten students taught English vocabulary through authentic childhood games achieve significantly higher post-test scores than students taught through traditional methods](../claims/authentic-childhood-games-improve-english-vocabulary-success.md) [+W] — attached 2026-11-02 from Hursen et al. (2016), which proposed "Use varied active activities, including authentic childhood games, to promote active participation in kindergarten classrooms"; tests this page's relationship.
 - [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](../claims/teacher-views-authentic-childhood-games.md) [+W] — attached 2026-11-02 from Hursen et al. (2016), which proposed "Use varied active activities, including authentic childhood games, to promote active participation in kindergarten classrooms".
+- [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — attached 2026-11-02 from Grimshaw et al. (2016), which proposed "Use time-sensitive collaborative mobile games as warm-up activities to encourage fluency development in a non-threatening environment".
 
 ## Objective and learner-valued goal
 

@@ -78,3 +78,4 @@ Repeated-measures ANOVA across the three conditions (total N = 70) showed a sign
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](argument-gains-without-llm-support.md) — related
 - [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related
+- [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related

@@ -50,3 +50,4 @@ One-way ANOVA comparing retention test scores across the four groups, followed b
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Cooperative learning, systematic teaching, and constructivist teaching in control group 1 secured knowledge retention, but the constructivist approach failed in control group 2](retention-secured-except-control2-constructivist.md) — related
+- [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related

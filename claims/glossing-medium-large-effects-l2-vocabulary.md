@@ -94,3 +94,5 @@ The evidence recorded here is second-hand. Both entries are background statement
 - [Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses](multiple-glosses-large-positive-effect-l2-vocabulary.md) — a narrower finding that bears on this claim
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
 - [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](single-video-exposure-marginal-advantage-esp-comprehension.md) — related
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — a narrower finding that bears on this claim
+- [Task type significantly influences vocabulary learning and may marginally affect reading comprehension performance](task-type-significantly-influences-vocabulary-learning.md) — related

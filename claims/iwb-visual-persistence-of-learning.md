@@ -58,3 +58,5 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related

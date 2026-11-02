@@ -48,3 +48,4 @@ Delayed retention test administered in the fourteenth week to the same two intac
 ## Related Claims
 - [Students taught with the Learning Together technique achieved significantly higher psychology posttest scores than students taught by lecture-based teaching](learning-together-higher-achievement-posttest.md) — related
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](cooperative-learning-higher-math-gain-scores-eighth-standard.md) — related
+- [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](lt-technique-significant-achievement-gains-french-literature.md) — related

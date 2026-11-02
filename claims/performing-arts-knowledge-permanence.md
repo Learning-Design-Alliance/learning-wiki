@@ -76,3 +76,5 @@ Between-group comparison of permanence-test means (experimental 74.74, control 6
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — a narrower finding that bears on this claim
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related

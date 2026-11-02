@@ -57,8 +57,10 @@ Audio feedback increases feedback richness and perceived instructor presence, an
 5. Offer transcripts or captions as an alternative access path.
 
 ## Related Strategies
+
 - Written margin comments — the comparison baseline; hybrid audio-plus-text approaches capture the benefits of both channels
 - Screencast feedback — adds a visual referent to the spoken channel
+- [Provide audio group feedback on assignments to raise students' perception that the instructor cares about their learning while saving instructor time](audio-group-feedback-strategy.md)
 
 ## Examples
 - **LMS audio comments** — Canvas and Moodle both support inline audio feedback on submissions; typical implementations record 1–3 minute clips per assignment.

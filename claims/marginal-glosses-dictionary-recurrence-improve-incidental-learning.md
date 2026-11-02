@@ -54,3 +54,4 @@ Hulstijn et al.'s (1996) empirical study randomly assigned 78 advanced universit
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
 - [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related
 - [Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition](viewing-full-length-tv-incidental-vocabulary-learning.md) — related
+- [Task type significantly influences vocabulary learning and may marginally affect reading comprehension performance](task-type-significantly-influences-vocabulary-learning.md) — related

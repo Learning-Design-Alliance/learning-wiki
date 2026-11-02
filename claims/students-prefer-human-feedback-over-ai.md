@@ -52,3 +52,4 @@ This is the article's background summary of earlier studies, not a finding from 
 - [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — reports the opposite
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](ai-feedback-preference-clarity-availability-reasons.md) — related
+- [Online students given audio group feedback rated the instructor as more genuinely concerned with whether students learned than students given written group feedback](audio-group-feedback-instructor-concern-satisfaction.md) — related

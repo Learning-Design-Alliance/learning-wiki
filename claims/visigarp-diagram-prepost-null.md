@@ -52,3 +52,4 @@ Paper-based diagram-comprehension pre/post tests (DIA-A/DIA-B, counterbalanced) 
 - [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](visigarp-treatment-accuracy.md) — related
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related
 - [Group circuit diagrams triangulated the individual gains: three pairs moved from incorrect to correct designs, seven pairs were correct at both tests, and one pair produced a flawed post-test circuit](group-circuit-diagrams-triangulate-gains.md) — related
+- [High school students using the Every Circuit virtual module scored higher on the post-quiz than the paper-based control group after starting with nearly identical pre-quiz scores](every-circuit-post-quiz-outperformed-control.md) — related

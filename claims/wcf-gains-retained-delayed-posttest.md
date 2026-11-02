@@ -49,3 +49,6 @@ Independent samples t-test on the delayed post-test, administered unannounced tw
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.](cf-type-explicit-long-term-benefits.md) — related
 - [Mother-tongue interference errors resist full correction even under constructive feedback](interlingual-errors-resist-cfb-correction.md) — reports the opposite
+- [Accuracy gains from unfocused WCF during revision do not extend to a new piece of writing after a one-month interval at the elementary level](unfocused-wcf-gains-do-not-extend-to-delayed-posttest.md) — related
+- [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — reports the opposite

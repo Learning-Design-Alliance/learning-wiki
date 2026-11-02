@@ -51,3 +51,4 @@ School outcomes analysis using SWIS summaries of major ODRs per month across 38 
 - [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data](swpbis-reduced-odr-percentage.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
+- [Double Check coaching significantly reduced coached teachers' office discipline referrals of Black students relative to non-coached teachers, though this effect was sensitive to multiple-comparison adjustment](double-check-coaching-reduces-odrs-black-students.md) — related

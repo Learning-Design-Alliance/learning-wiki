@@ -50,3 +50,4 @@ Limited test results reported in the Discussion section give the printed pretest
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](character-textbook-pretest-posttest-gain.md) — related
+- [Limited trials of the model prototype showed pretest-to-posttest increases in students' storytelling scores](limited-trial-storytelling-score-increases.md) — related

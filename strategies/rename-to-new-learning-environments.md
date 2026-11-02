@@ -42,7 +42,8 @@ The article recommends avoiding the term constructivist learning environment bec
 - [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](../claims/constructivist-effects-not-always-expected.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Create a constructivist learning environment in basic science while giving extra attention and tutorials to low ability students](constructivist-environment-extra-low-ability-attention-strategy.md)
 
 ## Examples
 -

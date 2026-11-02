@@ -68,3 +68,4 @@ Class attendance for the same 268 instances showed a wide distribution: 60.8% of
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [Class conditions—period, term, class size and subject—systematically shift grades, largely through attendance](class-conditions-shift-grades.md) — related
 - [Students earn significantly higher grades in the Discovery program than in their regular classroom work](discovery-grades-exceed-classroom-grades.md) — related
+- [Pupils attended on average just over 80% of group sessions but only 56% of individual sessions, indicating substantial partial participation](neli-partial-session-attendance.md) — related

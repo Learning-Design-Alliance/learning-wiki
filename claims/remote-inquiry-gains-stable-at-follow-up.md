@@ -50,3 +50,4 @@ Post-to-follow-up mixed ANOVA in the randomized experiment, based on only n = 72
 - [Seventh-graders in remote inquiry learning accurately monitor their own learning, with no differences between experimentation conditions](accurate-metacognitive-monitoring-remote-inquiry.md) — related
 - [Accuracy of experimentation shows no condition differences but a small condition effect and correlates strongly with conceptual understanding at post-test](experimentation-accuracy-correlates-with-understanding.md) — related
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
+- [Teaching quality improved only in the combined-intervention group and only during the first half of the program (measurement one to two), with an effect size of .44](teaching-quality-improved-first-half-only.md) — related

@@ -72,3 +72,4 @@ Total-test row of the delayed-test ANOVA table (Table 8) prints F = 43.09, signi
 - [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
 - [Journal writing showed no statistically significant effect on learning retention three weeks after the unit](journal-writing-wtl-no-retention-effect.md) — related
+- [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](ipad-social-studies-educational-software-element.md) — related

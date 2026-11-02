@@ -92,3 +92,4 @@ Post-test enjoyment ratings (two smiley-scale questions averaged) analyzed in a 
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [The game was equally engaging across children's age and sex, with no significant relationship between number of sessions played and age or sex](trackfx-engagement-age-sex-null.md) — related
 - [Both competitive and collaborative MAR game modes are highly enjoyable and easy to use for primary school children, with no significant differences between modes](mar-modes-enjoyment-ease-no-difference.md) — related
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related

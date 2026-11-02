@@ -49,3 +49,4 @@ Pre/post multiple-choice test of 20 items assessing memorizing, understanding, a
 - [Among concept mastery aspects, memorizing scored highest and applying scored lowest after the video treatment](memorizing-highest-applying-lowest-aspect.md) — a narrower finding that bears on this claim
 - [A science learning video integrated with a local MHP plant improves junior high students' science process skills more than PowerPoint images-narration](mhp-video-improves-sps-gain.md) — related
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
+- [Learning the Solar System with PhET simulation produced significantly higher normalized-gain improvement in conceptual understanding than learning with PowerPoint slides](phet-solar-system-higher-understanding-gain.md) — related

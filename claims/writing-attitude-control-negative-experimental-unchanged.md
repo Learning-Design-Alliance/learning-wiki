@@ -67,3 +67,4 @@ Dependent samples t-test on the same attitude scale for the Facebook experimenta
 - [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](facebook-writing-achievement-control-decreased-experimental-unchanged.md) — related
 - [Writing anxiety decreased significantly in both the Facebook experimental group and the control group](writing-anxiety-decreased-both-groups.md) — related
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
+- [In Study 1 the control group showed a marginally significant increase in anxiety while the treatment group did not change](anxiety-control-increase-study1.md) — related

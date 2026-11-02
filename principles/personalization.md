@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 109 claims (59 for, 41 mixed, 9 against) · 109 studies (33 review, 24 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 109 report an effect size · 104 claims rest on one study
+> **Evidence** · 111 claims (60 for, 42 mixed, 9 against) · 111 studies (33 review, 26 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 111 report an effect size · 106 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,8 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](../claims/cosil-guidance-ease-of-use-not-personalized.md) [-W] — attached 2026-10-29 from Zhai (2021), which proposed "Personalize CoSIL guidance to individual students, because guidance is critical to student success in computer-supported inquiry learning".
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](../claims/online-feedback-relational-role-introverted-learners.md) [+W] — attached 2026-10-29 from Ding et al. (2019), which proposed "Adapt feedback modes and strategies to learners' cultural, educational and personality differences rather than assuming one strategy fits all".
 - [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](../claims/differentiated-math-program-increases-gifted-attitude.md) [+W] — attached 2026-11-02 from Deringöl et al. (2020), which proposed "Theme-based interdisciplinary differentiation pattern combining content, process and product differentiation with interest-driven activities"; tests this page's relationship.
+- [Learners did not gain more vocabulary from favored-context (sport) passages than from disfavored-context (geography) passages; the favored-context hypothesis was rejected](../claims/favored-context-hypothesis-rejected-sport-vs-geography.md) [~W] — attached 2026-11-02 from Omid Rezaei (2011), which proposed "Identify learners' needs, preferences and interest areas before designing reading materials for vocabulary learning"; tests this page's relationship.
+- [Tiered differentiated teaching in sixth-grade algebra raises corrected posttest achievement more than existing teaching](../claims/tiered-differentiated-teaching-algebra-posttest-advantage.md) [+W] — attached 2026-11-02 from Bal (2016), which proposed "Tiered teaching by learning style and readiness level"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (144 show a difference, 39 mixed, 26 no difference) · 113 studies (54 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 113 report an effect size · 204 claims rest on one study
+> **Evidence** · 212 claims (147 show a difference, 39 mixed, 26 no difference) · 116 studies (57 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 116 report an effect size · 207 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -247,6 +247,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](../claims/reflective-blogfolios-improved-argumentative-writing.md) [+M] — instruction changes it
 - [The article argues connected ways of knowing are better predictors of quality argumentative writing performance than separate ways of knowing](../claims/connected-knowing-better-predictor-of-writing.md) [+W] — instruction changes it
 - [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](../claims/ways-of-knowing-predict-post-instruction-writing.md) [~M] — instruction changes it
+- [Learners in the task-based writing course reported progress on content, organization, vocabulary, fluency and logic](../claims/tbl-writing-learner-reported-progress.md) [+W] — instruction changes it
+- [Third graders' text production performance varied by task type, with simpler lexical tasks easier than productive composition tasks](../claims/task-difficulty-pattern-text-production-subtests.md) [+M] — instruction changes it
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](../claims/wikis-improve-business-writing-skills-efl.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

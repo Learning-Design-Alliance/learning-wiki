@@ -83,3 +83,6 @@ Year 1 impacts from the randomized controlled study of two comprehensive teacher
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
 - [The UBC professional development program significantly improved prekindergarten classroom quality after the first year, with the largest effect on Emotional Support](ubc-improved-prek-classroom-quality-year-one.md) — related
+- [Comprehensive induction significantly increased beginning teachers' receipt of induction support during the treatment years](comprehensive-induction-increased-support-receipt.md) — related
+- [One year of comprehensive induction did not change beginning teachers' classroom practices in literacy lessons](induction-no-impact-classroom-practices.md) — a narrower finding that bears on this claim
+- [Comprehensive induction had no impact on teacher satisfaction or feelings of preparedness](induction-no-impact-satisfaction-preparedness.md) — related

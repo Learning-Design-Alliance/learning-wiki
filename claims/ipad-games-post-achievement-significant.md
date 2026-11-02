@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: najmuldeen-2017
     resource: "https://doi.org/10.5430/wje.v7n3p21"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After ANCOVA pre-control, the experimental group's adjusted post-test means exceeded the control group's at memorizing, comprehension and application levels and on total test score, statistically significant at the 0.05 level. [→ Najmuldeen 2017](#najmuldeen-2017)
@@ -70,3 +71,4 @@ Total-test row of the post-test ANOVA table (Table 6) prints F = 74.54, signific
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
 - [Pre-reading significantly improves sixth-grade social-course learning achievement in both phases of an 8-week quasi-experiment](pre-reading-improves-achievement-social-course.md) — related
 - [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related
+- [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](ipad-social-studies-educational-software-element.md) — related

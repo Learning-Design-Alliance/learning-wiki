@@ -49,3 +49,4 @@ Exploratory supplementary analysis of a 3-cell subset (UV first, second, or thir
 - [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](uv-third-essay-promotes-continuation-for-high-performers.md) — related
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
 - [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](uv-dosage-one-or-three-doses-effective.md) — related
+- [The interest-based studying intervention reduced interest-based studying for low-achieving students but increased it for high-achieving students](ibs-intervention-by-prior-gpa-interaction.md) — related

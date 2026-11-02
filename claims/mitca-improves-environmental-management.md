@@ -67,3 +67,4 @@ Pre-post paired comparisons within the MITCA experimental group, reported alongs
 - [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](mitca-limits-self-regulatory-deficits.md) — related
 - [Twelve weeks of MITCA homework prescription produced higher time management than traditional homework in 5th–6th graders](mitca-improves-time-management-primary.md) — related
 - [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related
+- [The time management intervention did not improve self-reported time management skills relative to control in skill-bucket analyses](tm-intervention-no-self-reported-skill-gain.md) — related

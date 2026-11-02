@@ -89,3 +89,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related
 - [Essay scoring showed acceptable inter-rater reliability at both pretest and posttest](writing-scale-inter-rater-reliability.md) — related
 - [Essay scoring showed substantial inter-rater agreement, with Cohen's kappa of 0.78, 0.70, 0.81, and 0.83 across the four rubric criteria](statecraft-x-essay-kappa-agreement.md) — related
+- [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](posttest-judge-reliability-kendall-w.md) — related

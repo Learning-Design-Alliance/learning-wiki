@@ -47,3 +47,4 @@ Table 4 of the forming experiment reports final assessments in percentages for e
 ## Related Claims
 - [Education-oriented tuning produces the largest gains in scaffolded instruction and use of longitudinal student evidence, with LongTutor Evidence averages rising sharply at all scales](omniedu-largest-gains-scaffolding-longitudinal-evidence.md) — related
 - [Academic self-concept components increased under CPS-ALM, with the self-view-toward-future component rising most (59.38%)](self-concept-component-increases-cps-alm.md) — related
+- [Initial formation levels are predominantly low and medium in both experimental and control groups, with the high level absent in the experimental group](predominantly-low-medium-initial-formation-levels.md) — related

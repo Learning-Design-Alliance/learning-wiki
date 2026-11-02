@@ -88,3 +88,4 @@ In the posttest GLM, high school GPA (estimate 4.04, p = 0.0006) and SAT Math (0
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
+- [Student prior achievement, gender, province, and school prior achievement predicted reading post-test scores, while father's education (SES) was not significant](covariates-predict-reading-achievement.md) — related

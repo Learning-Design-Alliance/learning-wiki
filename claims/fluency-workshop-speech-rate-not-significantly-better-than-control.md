@@ -67,3 +67,4 @@ Paired-samples t-tests on trimmed speech rate (syllables per minute) for each gr
 - [Speaking fluency and use of multiword expressions are positively correlated, though the relationship was significant only at pretest](fluency-mwe-use-positive-correlation-pretest.md) — related
 - [A 6-week fluency workshop increases EFL learners' cued recall of target multiword expressions significantly more than a general English class](fluency-workshop-increases-cued-recall-multiword-expressions.md) — related
 - [The fluency workshop did not increase use of target multiword expressions in speech significantly more than a general English class](fluency-workshop-mwe-use-in-speech-not-significant.md) — related
+- [Fluency showed a trend toward significance for the treatment group between pre- and post-tests (p=.055), suggesting digital game pressure may push learners to speak faster](pan-fluency-trend-toward-significance.md) — related

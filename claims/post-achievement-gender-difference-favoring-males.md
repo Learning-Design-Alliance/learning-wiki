@@ -55,3 +55,4 @@ Same two-way ANCOVA on post-achievement for the gender factor (27 males and 27 f
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — reports the opposite
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Gender significantly affects Electronic Works achievement, favouring boys](gender-effect-favouring-boys-electronic-works.md) — related
+- [Gender × pre-achievement interaction favored males in the high achievement group](gender-level-interaction-favor-male-high-achievement.md) — related

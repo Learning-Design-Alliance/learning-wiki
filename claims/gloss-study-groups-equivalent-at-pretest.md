@@ -91,3 +91,5 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
 - [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
+- [The control group showed no significant vocabulary size change from pre-test to post-test](control-group-no-significant-prepost-vocabulary-change.md) — related
+- [Before the intervention, experimental and control groups showed no statistically significant difference in written text production](pretest-no-difference-experimental-control.md) — related

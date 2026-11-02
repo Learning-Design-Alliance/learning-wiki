@@ -101,3 +101,4 @@ source would be reasonable if a third study disagreed.
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
 - Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure — related
+- [The authors interpret the findings as stressing the role of interest and interest-driven motivation in L2 vocabulary acquisition](interest-affective-factor-vocabulary-acquisition.md) — related

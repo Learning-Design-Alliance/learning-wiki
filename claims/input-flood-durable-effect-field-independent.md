@@ -50,3 +50,4 @@ Paired comparison for field-independent learners in the input flood group: delay
 - [Field-independent learners outperform field-dependent learners in the input flood group on both immediate and delayed collocation post-tests](field-independent-outperform-field-dependent-input-flood.md) — related
 - [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](input-flood-no-durable-effect-field-dependent.md) — reports the opposite
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — a broader claim this one bears on
+- [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related

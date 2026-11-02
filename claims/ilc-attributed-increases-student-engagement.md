@@ -54,3 +54,4 @@ Cross-case findings from interviews and classroom observations at four sites. Du
 - [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](vsdr-alternative-problem-solving-reflection.md) — related
 - [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
+- [Teachers' written reflections attribute fraction-knowledge gains to solving and discussing tasks, studying curriculum and research, and observing students during research lessons](lesson-study-processes-teachers-report-knowledge-growth.md) — related

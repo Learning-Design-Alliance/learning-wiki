@@ -56,3 +56,4 @@ Two-way between-groups ANOVA on post-test scores with gender and condition; "no 
 - [No statistically significant gender differences in learning similar English letters were found on the post-test or follow-up test](pictured-letters-no-gender-effect.md) — related
 - [Gender and the method-by-gender interaction had no significant effect on posttest or delayed test success scores](gender-and-method-interaction-insignificant.md) — related
 - [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related
+- [Gender moderates the retention benefit of text production: significant for female learners at 24 hours only, not for male learners](gender-moderates-text-production-retention-benefit.md) — related

@@ -46,6 +46,7 @@ When each student reads something different, the article recommends activities t
 - [Use structured CL techniques such as Showdown and Trade-A-Problem when the whole class reads the same book](showdown-trade-a-problem-class-readers.md)
 - [Offer instructor-familiar graphic novel options to reduce preparation burden when implementing the comic-book assignment](instructor-familiar-graphic-novel-options.md)
 - [Organise seminars, conferences and workshops on modern instructional strategies such as Round-robin for chemistry teachers](seminars-workshops-on-round-robin-strategy.md)
+- [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
 
 ## Examples
 -

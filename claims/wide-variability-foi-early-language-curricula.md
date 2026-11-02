@@ -97,3 +97,5 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Teachers implemented the inductive vocabulary model with fidelity in regular classroom settings](vocabulary-intervention-implementation-fidelity.md) — related
 - [ATC was implemented with fidelity in four of five program components in both implementation years, with little cross-site variation](atc-fidelity-four-of-five-components.md) — a narrower finding that bears on this claim
 - [Intervention fidelity was high, with 100% adherence to allocated topic time and 78% of students attending all five lectures](high-fidelity-attendance-metalinguistic-coursework.md) — a narrower finding that bears on this claim
+- [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related
+- [Treatment teachers implemented proportional problem solving instruction with substantially higher fidelity to SBI practices than control teachers](sbi-fidelity-implementation-differences.md) — related

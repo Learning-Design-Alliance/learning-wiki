@@ -52,3 +52,4 @@ Quasi-experimental pre-test/post-test study: 20 Junior Secondary II students at 
 - [IC-JPA instruction did not produce a statistically significant difference in correct academic language usage compared to traditional instruction](icjpa-no-difference-academic-language-usage.md) — related
 - [Team-teaching with a feedback intervention produced higher average final exam scores than traditional one-teacher teaching in a Nigerian senior secondary English language setting](team-teaching-feedback-higher-achievement-nigeria.md) — related
 - [Training on speed reading strategies (skimming and scanning) significantly improves reading comprehension among second secondary literary students in English language](speed-reading-strategies-training-improves-reading-comprehension.md) — related
+- [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related

@@ -51,6 +51,7 @@ Based on the null result, the author recommends that "techniques bas ed on coope
 - [Implementation safeguards when applying jigsaw in laboratory courses](jigsaw-lab-implementation-safeguards.md)
 - [Adopt Jigsaw in science teaching and train science teachers in its effective use](adopt-and-train-teachers-in-jigsaw-science.md)
 - [Adopt cooperative learning in place of passive lecture-based teaching in Vietnamese higher education](adopt-cooperative-learning-vietnamese-higher-ed-strategy.md)
+- [Extend co-operative grammar learning to other levels, subjects and languages](extend-cooperative-learning-other-levels-languages.md)
 
 ## Examples
 -

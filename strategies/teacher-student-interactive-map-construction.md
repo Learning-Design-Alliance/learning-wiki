@@ -40,7 +40,9 @@ The article recommends involving both teacher and students in constructing seman
 - [Three Semantic Mapping Strategy Variants](../theories/three-semantic-mapping-strategy-variants.md)
 
 ## Related Strategies
-- 
+
+- [Teach concept map construction through a graduated briefing sequence before independent use](graduated-concept-map-construction-briefing.md)
+- [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](semantic-mapping-vocabulary-teaching-strategy.md)
 
 ## Examples
 -

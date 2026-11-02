@@ -46,6 +46,7 @@ The article's recommendations section calls for training teachers on using iPad 
 - [Integrate crossword puzzles, social media and online resources into EFL teaching to engage passive learners](integrate-crossword-social-media-efl.md)
 - [Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents](pax-gbg-onsite-training-parent-manuals.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
+- [Train social studies teachers and design purpose-built iPad applications to support iPad-based teaching](ipad-teacher-training-and-app-design-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Quasi-experimental pretest-posttest comparison of two intact classes of 55 first
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](cooperative-learning-higher-math-gain-scores-eighth-standard.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
+- [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](lt-technique-significant-achievement-gains-french-literature.md) — related

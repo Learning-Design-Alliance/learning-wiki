@@ -79,3 +79,4 @@ Chi-square test on the 2×4 contingency table of group by van Hiele level (VHL 0
 - [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related
 - [Origami instruction yields statistically significant posttest gains in geometric knowledge for teaching shape and space relative to conventional instruction](origami-geometric-knowledge-significant-gain.md) — related
 - [Origami and conventional instruction groups showed no preexisting differences on spatial orientation, spatial visualization, or geometric knowledge before treatment](origami-groups-comparable-at-pretest.md) — related
+- [The two groups were equivalent in van Hiele level at pretest except for obtuse angles, where the control group scored significantly higher before instruction](pretest-equivalence-except-obtuse-angles.md) — related

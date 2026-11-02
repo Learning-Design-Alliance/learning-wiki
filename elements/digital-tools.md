@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 134 claims (72 for, 54 mixed, 8 against) · 117 studies (42 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 117 report an effect size · 133 claims rest on one study
+> **Evidence** · 141 claims (76 for, 57 mixed, 8 against) · 122 studies (47 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 122 report an effect size · 140 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -169,6 +169,13 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](../claims/mobile-classroom-issues-off-task-network-design.md) [-W]
 - [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](../claims/mobile-use-increases-classroom-engagement.md) [+W]
 - [Mobile-3G classroom use increased communication between students and between instructor and students, including course-related instant messaging during lectures](../claims/mobile-use-increases-student-instructor-interactions.md) [+W]
+- [Second Life-based mathematics instruction significantly increased students' agreement that mathematics is interesting (z=2.95, p<.05)](../claims/sl-math-robot-interest-item-increase.md) [+W]
+- [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](../claims/blog-life-education-enhances-learning-effectiveness.md) [+W]
+- [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](../claims/ipad-social-studies-educational-software-element.md) [~W]
+- [A one-group pretest-posttest study found no significant difference in total mathematics attitude scores before and after Second Life-based instruction](../claims/sl-math-robot-total-attitude-no-significant-difference.md) [~W]
+- [The classroom teacher reported that the experimental group was more engaged than the control group and that the technology caused little to no disruption](../claims/teacher-reported-higher-engagement-experimental-group.md) [+W]
+- [Blog-assisted life education instruction significantly enhances students' collaborative learning attitudes and attitudes toward blog use](../claims/blog-life-education-enhances-learning-attitudes.md) [+W]
+- [Post-test achievement of gadget-taught experimental groups did not differ significantly between the aided and the government school](../claims/gadget-gains-similar-across-school-types.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -64218,5 +64218,389 @@
  "prompts\tTAPPS with listener prompts while troubleshooting\tworking alone without TAPPS": {
   "label": "prompted verbalization vs silent individual work",
   "treatment_is_a": true
+ },
+ "active-learning\tARDESOS v.2\tARDESOS v.1": {
+  "label": "More-active ARDESOS (v2) vs less-active ARDESOS (v1)",
+  "treatment_is_a": true
+ },
+ "active-learning\tARDESOS v.2 with greater student activity, collaborative work, and rubric-guided tasks\tpre-treatment baseline": {
+  "label": "Active-learning ARDESOS vs pretreatment baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative learning\tpre-intervention pre-test performance": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative learning\tpre-test performance before each topic": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative learning\tpre-test/before-topic baseline": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tblog-assisted life education course across ten themes\tearlier instructional themes": {
+  "label": "Blog-assisted active learning vs earlier instructional themes",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning strategies\tconventional grammar instruction": {
+  "label": "Cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning strategies\tconventional method": {
+  "label": "Cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning strategies\tconventional teaching": {
+  "label": "Cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning strategies\tpre-test baseline": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tco-operative learning strategies\tpre-test before co-operative learning": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative LO use in pairs\tindividual LO use": {
+  "label": "Collaborative learning-object use vs individual learning-object use",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative learning-object use\tindividual learning-object use": {
+  "label": "Collaborative learning-object use vs individual learning-object use",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist approach to English teaching\tpre-test baseline before treatment": {
+  "label": "Constructivist teaching vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist environment among high-ability students\ttransmissive environment among high-ability students": {
+  "label": "Constructivist environment vs transmissive environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist environment among low-ability students\ttransmissive environment among low-ability students": {
+  "label": "Constructivist environment vs transmissive environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist learning environment\ttransmissive learning environment": {
+  "label": "Constructivist environment vs transmissive environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist method with the teacher as facilitator\tpre-test baseline before constructivist teaching": {
+  "label": "Constructivist teaching vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist teaching approach\tconventional teaching approach": {
+  "label": "Constructivist teaching vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist teaching approach\tpre-test baseline": {
+  "label": "Constructivist teaching vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist, learner-centred environment\ttransmissive, teacher-centred environment": {
+  "label": "Constructivist, learner-centred environment vs transmissive, teacher-centred environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist-based teacher training\tconventional teacher training": {
+  "label": "Constructivist teacher training vs conventional teacher training",
+  "treatment_is_a": true
+ },
+ "active-learning\tconventional grammar instruction\tpre-test baseline": {
+  "label": "Conventional grammar instruction vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tconventional grammar teaching\tpre-test baseline": {
+  "label": "Conventional grammar instruction vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning strategies\tconventional teaching": {
+  "label": "Cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning strategies\tpre-test baseline": {
+  "label": "Cooperative learning vs baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion as a pre-activity task\tconventional writing instruction": {
+  "label": "Group discussion as a pre-activity vs conventional writing instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thigh-ability students in constructivist environment\thigh-ability students in transmissive environment": {
+  "label": "Constructivist environment vs transmissive environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividual written-production work\tgroup work during classes": {
+  "label": "Group work vs individual work",
+  "treatment_is_a": false
+ },
+ "active-learning\tlow-ability students in constructivist environment\tlow-ability students in transmissive environment": {
+  "label": "Constructivist environment vs transmissive environment",
+  "treatment_is_a": true
+ },
+ "active-learning\tmodeling instruction within the inverted curriculum\tinverted curriculum alone": {
+  "label": "Inverted curriculum with modeling instruction vs inverted curriculum alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam work\tindividual work": {
+  "label": "Team or group work vs individual work",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional grammar instruction\tpre-test before conventional instruction": {
+  "label": "conventional grammar instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional grammar teaching\tpre-test baseline": {
+  "label": "conventional grammar instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\temotional intelligence skills instruction\tconventional normal classroom teaching": {
+  "label": "emotional-intelligence-skills instruction vs conventional classroom teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit contextual vocabulary teaching in geography passages\texperimental-group geography pretest baseline": {
+  "label": "explicit contextual vocabulary teaching vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit contextual vocabulary teaching in sport passages\texperimental-group sport pretest baseline": {
+  "label": "explicit contextual vocabulary teaching vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\tcontrol exposure focused on English comprehension and production": {
+  "label": "explicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\tcontrol exposure to dialogues": {
+  "label": "explicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\tcontrol exposure to dialogues for English comprehension and production": {
+  "label": "explicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\tcontrol exposure without pragmatic awareness-raising": {
+  "label": "explicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\tcontrol instruction focused on English comprehension and production": {
+  "label": "explicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit refusal instruction\timplicit refusal instruction": {
+  "label": "explicit refusal instruction vs implicit refusal instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit refusal instruction\tcontrol exposure focused on English comprehension and production": {
+  "label": "implicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit refusal instruction\tcontrol exposure to dialogues": {
+  "label": "implicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit refusal instruction\tcontrol exposure to dialogues for English comprehension and production": {
+  "label": "implicit refusal instruction vs control exposure/instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschema-based instruction (SBI)\tbusiness-as-usual instruction": {
+  "label": "schema-based instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-week emotional-intelligence-skills instruction\tconventional normal classroom teaching": {
+  "label": "emotional-intelligence-skills instruction vs conventional classroom teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspecific multiple-representation instruction\tpreinstruction assessment": {
+  "label": "specific multiple-representations instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspecific multiple-representations instruction\tpreinstruction and immediate-postinstruction understanding": {
+  "label": "specific multiple-representations instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspecific multiple-representations instruction\tpreinstruction understanding": {
+  "label": "specific multiple-representations instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttask-based contextual grammar instruction\tformal explicit grammar instruction": {
+  "label": "task-based contextual grammar instruction vs formal explicit grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttask-based grammar instruction\tformal explicit grammar instruction": {
+  "label": "task-based contextual grammar instruction vs formal explicit grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction on acute angles\tbefore traditional instruction": {
+  "label": "traditional angle instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction on obtuse angles\tbefore traditional instruction": {
+  "label": "traditional angle instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction on right angles\tbefore traditional instruction": {
+  "label": "traditional angle instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect unfocused written corrective feedback\tno error correction": {
+  "label": "corrective feedback vs no corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect unfocused written corrective feedback\tno error correction, apart from a general content comment": {
+  "label": "corrective feedback vs no corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit written and individual oral corrective feedback\tno feedback": {
+  "label": "corrective feedback vs no corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit written corrective feedback plus individual oral feedback\tno feedback": {
+  "label": "corrective feedback vs no corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit written corrective feedback plus individual oral feedback, assessed at post-test\tthe same feedback group at the post-delayed test": {
+  "label": "immediate post-test vs delayed post-test",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpost-test after corrective feedback\tdelayed post-test after corrective feedback": {
+  "label": "immediate post-test vs delayed post-test",
+  "treatment_is_a": true
+ },
+ "feedback-presence\twritten and individual oral corrective feedback\tno feedback": {
+  "label": "corrective feedback vs no corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\twritten and individual oral corrective feedback\tsame students’ immediate post-test": {
+  "label": "corrective feedback vs immediate post-test",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tonline homework with feedback within hours and resubmission\tclickers": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\taudio feedback files\twritten feedback files": {
+  "label": "audio feedback vs written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\taudio group feedback\twritten group feedback": {
+  "label": "audio feedback vs written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual written plus group audio feedback\tindividual written plus group written feedback": {
+  "label": "audio feedback vs written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tteacher feedback\tpeer feedback": {
+  "label": "teacher feedback vs peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tteacher feedback viewed as expert opinion\tpeer feedback viewed as improving products": {
+  "label": "teacher feedback vs peer feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttask-based vocabulary quizzes and instruction\ttraditional vocabulary quizzes and instruction": {
+  "label": "task-based vs traditional formative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\t15 minutes of Spaceteam ESL as a warm-up for six weeks\ttraditional interactive classroom activities": {
+  "label": "game-based warm-up vs traditional interactive activities",
+  "treatment_is_a": true
+ },
+ "gamification\t15-minute Spaceteam ESL game warm-up\ttraditional interactive classroom activities": {
+  "label": "game-based warm-up vs traditional interactive activities",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot! clicker use\tsame ESP instruction without clickers": {
+  "label": "Kahoot! clickers vs no clickers",
+  "treatment_is_a": true
+ },
+ "gamification\tSpaceteam ESL game warm-up\ttraditional interactive classroom activities": {
+  "label": "game-based warm-up vs traditional interactive activities",
+  "treatment_is_a": true
+ },
+ "gamification\trole-playing game\tpretest before the game": {
+  "label": "role-playing game vs pretest",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tGeoGebra activities with guided discovery worksheets\tcurrent tenth-grade curriculum instruction": {
+  "label": "guided discovery vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tGeoGebra activities with guided discovery worksheets\ttextbook, paper, and pencil instruction": {
+  "label": "guided discovery vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\t17-month delayed posttest after multiple-representation instruction\timmediate posttest": {
+  "label": "delayed vs immediate posttest",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated multimedia learning using text, pictures, and sound\tpre-intervention vocabulary learning without the multimedia intervention": {
+  "label": "integrated multimedia (text, pictures, and sound) vs no multimedia intervention",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated multimedia learning with text, pictures, and sound\tpre-learning time-series performance": {
+  "label": "integrated multimedia (text, pictures, and sound) vs pre-learning baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultiple-representation instruction\tpreinstruction baseline": {
+  "label": "multiple-representation instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultiple-representation instruction with 17-month delay\tpreinstruction baseline": {
+  "label": "multiple-representation instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultiple-representation instruction with collaborative discussion\tpreinstruction baseline": {
+  "label": "multiple-representation instruction with collaborative discussion vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "prompts\tauthenticity-trigger reflections, journaling, and Best Authentic Self narrative\tprevious year's assessment approach": {
+  "label": "authenticity-focused reflective prompts vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\tHayes–Flower writing model with concept mapping and representation scaffolding before multimodal writing\texpository instruction and prior writing knowledge from language courses": {
+  "label": "Scaffolded multimodal writing instruction vs expository writing instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tHayes–Flower writing model with scaffolding between planning and translating plans into text\texpository instruction": {
+  "label": "Scaffolded writing instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmaking multiple representations of concepts\tpre-test baseline": {
+  "label": "Multiple representations of concepts vs baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding between planning and translating plans into text\texpository approach": {
+  "label": "Scaffolded writing instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding between planning and translating plans into text\texpository instruction": {
+  "label": "Scaffolded writing instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding between planning and translating plans into text\texpository instruction and prior language-course writing knowledge": {
+  "label": "Scaffolded writing instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding supporting multimodal writing of physics teaching materials\texpository instruction using writing knowledge from language courses": {
+  "label": "Scaffolded multimodal writing instruction vs expository writing instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding with multimodal representation\texpository instruction and prior language-course writing knowledge": {
+  "label": "Scaffolded multimodal representation instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding with multimodal representation and learning-to-write activities\texpository instruction and prior language-course writing knowledge": {
+  "label": "Scaffolded multimodal writing instruction vs expository instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttime management intervention with tailored feedback and assignments\tpre/posttests only": {
+  "label": "Time-management intervention with tailored feedback and assignments vs assessment-only control",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttranslation among different modes of concept representation\tpre-test performance before translation practice": {
+  "label": "Translation among modes of representation vs baseline",
+  "treatment_is_a": true
  }
 }

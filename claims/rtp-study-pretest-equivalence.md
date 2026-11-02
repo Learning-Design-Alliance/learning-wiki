@@ -46,3 +46,4 @@ Pretest phase of the same quasi-experiment: both intact groups (38 each) took a 
 
 ## Related Claims
 - [Reciprocal teaching improves reading comprehension of intermediate Iranian EFL learners more than conventional reading instruction](rtp-improves-reading-comprehension-iranian-efl.md) — related
+- [The experimental and control groups did not differ significantly in reading comprehension at pretest](pretest-equivalence-animation-reading-study.md) — related

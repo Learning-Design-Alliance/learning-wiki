@@ -52,3 +52,4 @@ Findings from the CCSR report based on surveys of teachers and CPS data from the
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](mentoring-coaching-reduce-teacher-attrition.md) — reports the opposite
 - [School district participation in the Missouri Career Ladder Program tends to increase teacher retention in the district and the profession, especially for mid-career teachers](missouri-career-ladder-participation-increases-teacher-retention.md) — related
+- [Comprehensive induction had no impact on teacher retention or mobility over the first four years](induction-no-impact-retention-mobility.md) — related

@@ -68,3 +68,4 @@ Domain-level analysis combining Q1 and Q2 on the ProKT posttest; the t-test foun
 - [Experimental-group students taught with the hybrid CFC-analogy-template approach scored significantly higher than control-group students on the overall posttest (ProKT)](hybrid-approach-improves-introductory-programming-posttest.md) — a broader claim this one bears on
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
+- [The understanding (C2) cognitive domain showed the smallest but still favorable gain favoring PhET, with experimental N-gain 0.49 versus control 0.31](phet-cognitive-domain-c2-gain.md) — related

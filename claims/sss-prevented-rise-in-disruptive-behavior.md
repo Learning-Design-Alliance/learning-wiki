@@ -51,3 +51,4 @@ HLM analysis of teacher-rated disruption at baseline, 6 weeks, and 30 weeks in t
 - [SSS participation increased growth in classroom engagement relative to control schools](sss-increased-engagement-growth-fifth-grade.md) — related
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](sss-reduced-test-anxiety-growth-fifth-grade.md) — related
 - [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — related
+- [Students in classrooms of coached teachers showed more cooperation, less noncooperation, and fewer socially disruptive behaviors than students in comparison classrooms](coaching-improves-observed-student-behavior.md) — related

@@ -98,3 +98,5 @@ Year 1 impact findings from the randomized controlled study of two comprehensive
 - [Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction](comprehensive-induction-no-retained-teacher-qualification-gains.md) — related
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
+- [Comprehensive induction did not improve workforce composition through selective retention](induction-no-selective-retention.md) — related
+- [One year of comprehensive induction had no impact on student achievement in the first three years](one-year-induction-no-achievement-impact.md) — a broader claim this one bears on

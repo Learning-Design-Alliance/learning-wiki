@@ -91,3 +91,4 @@ Within-condition change from immediate to delayed retention. A parallel pattern 
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
 - [Novice quiz performance rises after a one-hour static mechanics lesson and then declines over subsequent weeks, following a quadratic learning curve](quadratic-quiz-learning-curve-brief-stem-lesson.md) — related
+- [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related

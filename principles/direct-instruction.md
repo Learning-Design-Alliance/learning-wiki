@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (22 for, 18 mixed, 4 against) · 51 studies (21 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 51 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (24 for, 18 mixed, 4 against) · 52 studies (22 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 52 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -93,6 +93,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit instruction of the apology speech act significantly improves Iranian EFL learners' appropriate use of apology strategies at both intermediate and advanced proficiency levels](../claims/explicit-apology-instruction-improves-pragmatic-appropriateness.md) [+W] — attached 2026-11-01 from Shima Rajabi et al. (2015), which proposed "Teach pragmatic speech acts explicitly alongside grammatical knowledge in EFL classrooms"; tests this page's relationship.
 - [Explicit instruction of the speech act of thanking produced significantly higher DCT performance than implicit instruction among Iranian intermediate EFL learners](../claims/explicit-instruction-thanking-outperforms-implicit-iranian-efl.md) [+W] — attached 2026-11-02 from Ghaedrahmat et al. (2016), which proposed "Curricula should include materials that explicitly teach the structure of speech acts such as thanking"; tests this page's relationship.
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](../claims/strategy-instruction-improves-grade11-esl-reading-comprehension.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Teach reading strategies through explicit instruction rather than leaving learners to acquire them implicitly"; tests this page's relationship.
+- [Explicit instruction outperforms implicit instruction in boosting Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-outperforms-implicit-refusal-instruction.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
+- [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-refusal-instruction-improves-pragmatic-performance.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

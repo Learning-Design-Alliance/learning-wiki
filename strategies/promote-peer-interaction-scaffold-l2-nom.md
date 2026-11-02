@@ -45,6 +45,7 @@ The authors close by recommending that primary EFL instructors promote task-base
 ## Related Strategies
 
 - [Devote class time for EFL students to interact, express understanding, and discuss comprehension with peers](devote-time-for-peer-discussion-of-comprehension.md)
+- [Use gamified information gap activities with time pressure and forced output to promote L2 oral interaction practice](gamified-information-gap-oral-interaction.md)
 
 ## Examples
 -

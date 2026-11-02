@@ -52,3 +52,4 @@ Repeated-measures score data from the 8-week quasi-experiment (control n = 31, e
 - [Only six reviewed studies combined peer feedback with feedback from other sources](few-studies-combine-multi-source-feedback.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related
+- [Teaching quality improved only in the combined-intervention group and only during the first half of the program (measurement one to two), with an effect size of .44](teaching-quality-improved-first-half-only.md) — related

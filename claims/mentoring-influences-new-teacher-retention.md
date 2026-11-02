@@ -85,3 +85,4 @@ The monograph describes mentoring as a variant of clinical supervision involving
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
 - [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](no-mentoring-retention-relationships-by-district-subgroups.md) — a narrower finding that bears on this claim
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — reports the opposite
+- [Comprehensive induction had no impact on teacher retention or mobility over the first four years](induction-no-impact-retention-mobility.md) — related

@@ -64,3 +64,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — reports the opposite
 - [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — reports the opposite
+- [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related

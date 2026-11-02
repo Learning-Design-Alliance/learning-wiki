@@ -19,7 +19,7 @@ sources:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (32 for, 9 mixed, 1 against) · 49 studies (10 causal, 10 review, 10 qualitative, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 4 of 49 report an effect size · 36 claims rest on one study
+> **Evidence** · 43 claims (33 for, 9 mixed, 1 against) · 50 studies (11 causal, 10 review, 10 qualitative, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 4 of 50 report an effect size · 37 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills ([Polly et al., 2018](https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning)).
@@ -123,6 +123,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Individual-level analysis alone is insufficient for understanding learning in digital environments.](../claims/individual-level-insufficient-for-digital-learning.md) [+W]
 - [Collaborative writing instruction improves overall writing performance of low-intermediate EFL students more than individual writing instruction](../claims/collaborative-writing-improves-efl-overall-writing.md) [+W] — attached 2026-11-01 from Mohammad Khatib (2015), which proposed "Sociocultural / co-constructivist account of why collaborative writing improves L2 writing".
 - [Collaborative writing improves each of the five writing components (content, organization, grammar, vocabulary, mechanics) in low-intermediate EFL students](../claims/collaborative-writing-improves-all-writing-components.md) [+W] — attached 2026-11-01 from Mohammad Khatib (2015), which proposed "Sociocultural / co-constructivist account of why collaborative writing improves L2 writing".
+- [Animated e-books mediated preschool children's interactions with text similarly to adult facilitation, supporting group reading, collective anticipation, and peer social exchanges](../claims/ebooks-mediate-childrens-text-interactions.md) [+W]
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]
@@ -177,6 +178,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Functional system incorporating tools as the unit of analysis for CSCL microanalysis](../research-methods/functional-system-incorporating-tools-as-the-unit-of-analysis-for-cscl-microanalysis.md)
 - [Leverage naturally occurring knowledge differences in the classroom to elicit socio-cognitive conflict through collaborative argumentation tasks](../strategies/peer-argumentation-leveraging-classroom-knowledge-differences.md)
 - [Multidisciplinary conceptual framework of child development, intercultural communication, and culturally sustaining pedagogy for robot-mediated interaction](../designs/multidisciplinary-framework-robot-mediated-interaction.md)
+- [Use group interaction, peer evaluation and shared productions in task-based grammar teaching](../strategies/group-interaction-peer-evaluation-task-based-grammar.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

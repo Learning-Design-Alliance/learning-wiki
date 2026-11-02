@@ -71,3 +71,4 @@ Planned contrast on delayed recall in the same experiment: the combined relevant
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
 - [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
 - [Grade 2 intervention effects persist in the medium term while grade 8 effects fade out and become non-significant](grade2-effects-persist-grade8-fade-out.md) — related
+- [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related

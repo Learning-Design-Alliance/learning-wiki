@@ -55,3 +55,5 @@ Second-year findings from Mathematica's national randomized controlled evaluatio
 - Study lead instructors did not differ from non-study-lead instructors in student retention performance — related
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
+- [Comprehensive induction did not improve workforce composition through selective retention](induction-no-selective-retention.md) — related
+- [Two years of comprehensive induction produced a positive year-3 achievement impact on the benchmark sample, but not in years 1-2 or under the larger-sample specification](two-year-induction-year3-achievement-impact.md) — related

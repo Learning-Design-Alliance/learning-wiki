@@ -53,3 +53,4 @@ Final results of Mathematica's national randomized controlled evaluation of comp
 - [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
 - [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — reports the opposite
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — related
+- [Two years of comprehensive induction produced a positive year-3 achievement impact on the benchmark sample, but not in years 1-2 or under the larger-sample specification](two-year-induction-year3-achievement-impact.md) — a narrower finding that bears on this claim

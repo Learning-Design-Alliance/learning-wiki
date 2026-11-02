@@ -54,3 +54,4 @@ Knowledge synthesis of empirical studies and expert advice on STEM PLCs. The syn
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related
 - [Evidence on teacher attitude change as an outcome of team-based professional development in higher education is insufficient; only one study mentioned attitudes](team-pd-attitude-outcome-insufficient-evidence.md) — related
+- [Comprehensive induction had no impact on teacher satisfaction or feelings of preparedness](induction-no-impact-satisfaction-preparedness.md) — related

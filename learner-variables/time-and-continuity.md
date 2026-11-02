@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (121 show a difference, 41 mixed, 22 no difference) · 157 studies (71 causal, 35 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 157 report an effect size · 180 claims rest on one study
+> **Evidence** · 188 claims (123 show a difference, 43 mixed, 22 no difference) · 160 studies (73 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 160 report an effect size · 184 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -241,6 +241,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [No significant instruction-by-time interaction was found on the discourse completion test](../claims/dct-no-interaction-instruction-time.md) [-M] — an instructional effect differs with it
 - [Classroom instruction in CMP2 schools differed from control schools, with significantly more class time spent on activities like those CMP2 promotes](../claims/cmp2-implementation-instructional-contrast.md) [+M] — instruction changes it
 - [Tutoring dosage showed no significant relationship with reading achievement in the full-year implementation](../claims/air-reading-dosage-not-significantly-related-to-achievement.md) [-M] — learners who differ on it differ in outcomes
+- [Descriptive trends showed the treatment group improving slightly from pre- to post-test and continuing to improve at delayed post-test, while the control group declined then recovered](../claims/spaceteam-fluency-trend-treatment-improvement.md) [~M] — instruction changes it
+- [Pupils attended on average just over 80% of group sessions but only 56% of individual sessions, indicating substantial partial participation](../claims/neli-partial-session-attendance.md) [~M] — instruction changes it
+- [Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)](../claims/sl-math-robot-time-advanced-info-pair-increase.md) [+M] — instruction changes it
+- [Second Life-based mathematics instruction significantly increased the time students would reserve for mathematics (z=3.14, p<.05)](../claims/sl-math-robot-time-reservation-increase.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -73,3 +73,4 @@ Table 1 entry for Booth et al. (2015a, b), a Con-ErrEx vs PS comparison on calcu
 - [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](errex-negative-knowledge-advantage.md) — related
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
 - [Erroneous examples benefit learners with more prior knowledge, while correct-only solutions better serve low-prior-knowledge learners](erroneous-examples-prior-knowledge-interaction.md) — possibly the same claim (merge candidate)
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related

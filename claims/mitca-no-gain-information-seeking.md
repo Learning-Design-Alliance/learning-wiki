@@ -50,3 +50,4 @@ Independent-samples t-tests on pre- and post-test data from the MITCA interventi
 - [MITCA homework prescription improved environmental management relative to traditional homework in primary students](mitca-improves-environmental-management.md) — related
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — related
 - [The HOMEWORK system evidenced learning gains, increased engagement and more time on maths in UK Key Stage 1 settings](homework-system-improved-home-school-links.md) — related
+- [The time management intervention did not improve self-reported time management skills relative to control in skill-bucket analyses](tm-intervention-no-self-reported-skill-gain.md) — related

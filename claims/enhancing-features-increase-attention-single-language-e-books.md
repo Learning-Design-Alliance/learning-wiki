@@ -55,3 +55,4 @@ Study 2 comparison of total fixation duration per page between silent and enhanc
 - Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading — related
 - [Teachers reported spending more time on literacy and numeracy instruction in 2020 than in 2019, particularly after return to schooling](covid19-increased-instructional-volume-2020.md) — related
 - [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related
+- [Animated e-books mediated preschool children's interactions with text similarly to adult facilitation, supporting group reading, collective anticipation, and peer social exchanges](ebooks-mediate-childrens-text-interactions.md) — related

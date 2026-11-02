@@ -158,6 +158,7 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - **App-based extensive reading**: graded stories with tap-to-see glosses, saved words returned on a spaced schedule.
 - [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](../strategies/explicit-vocabulary-instruction-intentional-environment-recipe.md)
 - [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
+- [Use computer textual glosses as a short-term, autonomous vocabulary episode supplemented with pushed-output tasks for retention](../strategies/textual-gloss-interim-plus-pushed-output.md)
 
 ## Key Sources
 - Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957

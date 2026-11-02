@@ -55,3 +55,4 @@ Subgroup analysis of the knowledge-acquisition meta-analysis by assessment timin
 - [Two implementation-strategies interventions showed mixed effectiveness, with gains immediately after intervention but not at follow-up](implementation-strategies-mixed-followup-results.md) — a narrower finding that bears on this claim
 - [Meta-analysis of RCTs finds no significant effect of simulation training on factual knowledge about suicide](simulation-no-knowledge-effect-rct-meta.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
+- [Follow-up testing six months after the programmes ended suggested the language impact may have increased over time, but this could not be established with confidence](neli-follow-up-impact-uncertain.md) — related

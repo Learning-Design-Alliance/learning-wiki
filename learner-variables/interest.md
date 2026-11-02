@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (173 show a difference, 42 mixed, 28 no difference) · 165 studies (69 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 165 report an effect size · 237 claims rest on one study
+> **Evidence** · 248 claims (178 show a difference, 42 mixed, 28 no difference) · 168 studies (72 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 168 report an effect size · 242 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -278,6 +278,11 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [-M] — an instructional effect differs with it
 - [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](../claims/absl-favorite-activities-ranking.md) [+M] — instruction changes it
 - [ToGRA subscale gains favored the treatment group on careers, enjoyment and leisure, with enjoyment showing the greatest change](../claims/togra-subscales-enjoyment-greatest-change.md) [+M] — instruction changes it
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](../claims/every-circuit-enjoyment-ratings.md) [+M] — instruction changes it
+- [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](../claims/sl-math-robot-interest-love-pair-increase.md) [+M] — instruction changes it
+- [Students' perceived enjoyment of learning was positively related to their perceived ability to perform actual auditing tasks](../claims/enjoyment-positively-related-task-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Students' perceived enjoyment of learning was positively related to their perceived knowledgeability](../claims/enjoyment-positively-related-knowledgeability.md) [+M] — learners who differ on it differ in outcomes
+- [The role-playing game increased students' perceived enjoyment of learning from pretest to posttest](../claims/rpg-increased-perceived-enjoyment-learning.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

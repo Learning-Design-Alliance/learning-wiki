@@ -54,3 +54,4 @@ Chi-square test of independence comparing course completion deadline attainment 
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](ab-tests-level-interventions-increase-lessons.md) — related
 - [Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users](epsrl-increases-metacognitive-reflection-posts.md) — related
 - [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related
+- [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](meeting-deadlines-self-assessment-calibration.md) — related

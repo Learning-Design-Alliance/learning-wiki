@@ -60,3 +60,5 @@ Second-year findings from the national randomized controlled evaluation comparin
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — a broader claim this one bears on
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
+- [Comprehensive induction had no impact on teacher retention or mobility over the first four years](induction-no-impact-retention-mobility.md) — possibly the same claim (merge candidate)
+- [Comprehensive induction did not improve workforce composition through selective retention](induction-no-selective-retention.md) — related

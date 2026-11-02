@@ -66,6 +66,7 @@ Double-entry journals are a writing-to-learn technique: the act of composing a r
 - Reciprocal Teaching — shares the goal of making comprehension strategies explicit, but through dialogue rather than writing
 - Reading Response Logs — a broader category; double-entry format adds the evidence column that keeps responses text-anchored
 - [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 - **Adolescent literacy (Reading Next-aligned classrooms):** content-area teachers in science and social studies use quote-and-question journals before lab work or document analysis, with entries seeding whole-class discussion.

@@ -49,3 +49,4 @@ Survey data from the crossover study showed students rated ORCCA more usable (M 
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](procedural-gains-no-difference-between-scaffolding-levels.md) — related
 - [Strategy freedom leads students to skip unit and substance steps, reducing conceptual practice opportunities](strategy-freedom-skips-unit-substance-steps.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related

@@ -60,3 +60,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — related
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related

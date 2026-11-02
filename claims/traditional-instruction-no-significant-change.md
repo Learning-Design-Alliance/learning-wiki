@@ -48,3 +48,4 @@ Pre/post comparison of the control group (N=32 per Table 2) taught via the cours
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
 - [The control group also improved from pre-test to post-test under conventional teaching, but less than the experimental group](control-group-also-improved-conventional-teaching.md) — reports the opposite
 - [Traditional teaching also produced a significant pre-to-post achievement gain in the control group](control-group-significant-gain.md) — reports the opposite
+- [Conventional grammar teaching produced no significant pre-to-post change in the control group](conventional-method-no-gain-control-group-grammar.md) — possibly the same claim (merge candidate)

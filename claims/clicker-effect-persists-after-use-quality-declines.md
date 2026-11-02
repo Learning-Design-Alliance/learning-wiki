@@ -67,3 +67,4 @@ Response-accuracy analysis illustrated in Figure 6, contrasting the two groups' 
 - [Both groups increased their participation rates while using clickers, whichever period of the course they used them in](clickers-increase-efl-participation-both-periods.md) — related
 - [Mann-Whitney tests found no significant difference in the number of answers between clicker and non-clicker groups in either experimental period](no-significant-clicker-nonclicker-answer-difference.md) — related
 - [Reluctant students' response rates increased more than those of active students when each group began using clickers](reluctant-students-gain-most-from-clickers.md) — related
+- [During clicker implementation, students' average answering time decreased for both correct and incorrect answers while accuracy stayed nearly stable](clicker-answering-time-decreased-accuracy-stable.md) — related

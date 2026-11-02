@@ -48,3 +48,4 @@ A complementary ANOVA within the no-scaffolding group (n = 34) found a significa
 - [With motivational scaffolding, students of different FDI cognitive styles achieve equivalent learning](scaffolding-equalizes-achievement-across-cognitive-styles.md) — related
 - [Cognitive style in the FDI dimension shows no significant main effect on self-efficacy or achievement when the scaffolding condition is pooled](fdi-cognitive-style-no-main-effect-pooled.md) — related
 - [Field-dependent and field-independent pupils differed significantly in numeracy performance, with cognitive style accounting for 12% of variation](cognitive-style-field-dependence-numeracy-variation.md) — related
+- [Under dynamic task-type instruction, field-dependent learners significantly outperform field-independent learners, while within the static group FI learners significantly outperform FD learners](fd-outperforms-fi-under-dynamic-instruction.md) — related

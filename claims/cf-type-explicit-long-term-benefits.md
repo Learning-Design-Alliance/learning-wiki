@@ -57,3 +57,5 @@ Delayed posttest results of the error correction test in the four-session experi
 - [Preposition accuracy gains from written corrective feedback are retained two weeks after treatment](wcf-gains-retained-delayed-posttest.md) — related
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — related
 - [Explicit form focus instruction with metalinguistic corrective feedback significantly improves adult ESL learners' explicit grammatical knowledge](metalinguistic-feedback-improves-explicit-knowledge-esl.md) — related
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — reports the opposite
+- [Grammatical accuracy gains from written corrective feedback are retained at delayed post-test, but lexical accuracy gains are not](wcf-retention-grammar-lexical-split.md) — related

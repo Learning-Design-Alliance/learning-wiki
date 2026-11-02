@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: ahmed-ali-saleh-al-ajmi-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.1p.61"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After treatment, the experimental group's preposition accuracy scores increased significantly while the control group's did not, with a large effect size (d = 4.28). [→ Ahmed Ali Saleh Al Ajmi 2015](#ahmed-ali-saleh-al-ajmi-2015)
@@ -55,3 +56,4 @@ Quasi-experiment with 25 experimental and 25 control students in intact classes;
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Delayed explicit and metalinguistic feedback outperforms no feedback on oral accuracy in the final session (p = .044)](delayed-explicit-metalinguistic-feedback-outperforms-no-feedback.md) — related
 - [Explicit form focus instruction with metalinguistic corrective feedback significantly improves adult ESL learners' explicit grammatical knowledge](metalinguistic-feedback-improves-explicit-knowledge-esl.md) — related
+- [Accuracy gains from unfocused WCF during revision do not extend to a new piece of writing after a one-month interval at the elementary level](unfocused-wcf-gains-do-not-extend-to-delayed-posttest.md) — related

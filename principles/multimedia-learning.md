@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 122 claims (54 for, 64 mixed, 4 against) · 93 studies (50 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 93 report an effect size · 113 claims rest on one study
+> **Evidence** · 123 claims (54 for, 65 mixed, 4 against) · 94 studies (50 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 94 report an effect size · 114 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Video podcast advantage appears on knowledge and understanding objectives but not application objectives](../claims/video-podcast-knowledge-understanding-not-application.md) [~W] — attached 2026-11-02 from K. Thiyagu (2014), which proposed "Use video podcasts to support learning of conceptually dense theoretical content"; tests this page's relationship.
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](../claims/mbio-higher-achievement-than-tcbio.md) [+W] — attached 2026-11-02 from Koseoglu et al. (2015), which proposed "Use dynamic visualisation (simulation/animation) rather than static visuals when designing multimedia science-teaching tools".
 - [There is no statistically significant difference in vocabulary post-test scores between students learning via animation and via paper-based text](../claims/animation-vs-paper-vocabulary-posttest-no-significant-difference.md) [~W] — attached 2026-11-02 from Kayaoğlu et al. (2011), which proposed "Integrate animations into language classes as an additional technique, not as a replacement for traditional methods"; tests this page's relationship.
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Offer animation-based teaching only to learners who already have sufficient prior knowledge of the domain".
 
 ## Objective and learner-valued goal
 

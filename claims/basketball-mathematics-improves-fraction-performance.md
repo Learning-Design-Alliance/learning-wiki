@@ -51,3 +51,4 @@ Linear mixed-model analysis of the cluster-randomized (with quasi-experimental C
 - [Low-post shooting shows no group differences, only a small comparable improvement across all groups](low-post-shooting-no-group-differences.md) — related
 - [Slalom dribbling improves equally with basketball mathematics and basketball-only PE, and not in regular PE](slalom-dribbling-improves-bm-and-bcon-equally.md) — related
 - [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — a broader claim this one bears on
+- [Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported](resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) — related

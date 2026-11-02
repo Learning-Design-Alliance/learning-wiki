@@ -67,3 +67,4 @@ Within-group repeated-measures t-test in the same study found no significant dif
 - [A CBT-based psycho-educational group program reduced university students' academic procrastination scores at posttest](cbt-group-program-reduced-academic-procrastination-posttest.md) — related
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [All experimental-group participants reported benefiting from the group and would recommend it](gefgp-all-reported-benefit-and-recommend.md) — related
+- [The program's effects on positive future expectations, trait anxiety, and anxiety of making mistakes persisted at four-week follow-up](cbt-skill-training-effects-persist-four-weeks.md) — related

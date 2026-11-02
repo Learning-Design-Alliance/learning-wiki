@@ -72,3 +72,4 @@ Experiment 2, which added a two-minute icebreaker and allowed brief comments bet
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
 - [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [Immediate feedback from the learning objects appeared to moderate the social interaction between paired students](immediate-feedback-moderates-pair-interaction.md) — related

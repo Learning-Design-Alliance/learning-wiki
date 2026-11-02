@@ -50,3 +50,4 @@ HLM analysis of teacher-rated cooperation in the cluster-randomized SSS trial. T
 - [SSS participation increased growth in classroom engagement relative to control schools](sss-increased-engagement-growth-fifth-grade.md) — related
 - [SSS participation prevented a rise in disruptive behavior over the school year that was observed in control students](sss-prevented-rise-in-disruptive-behavior.md) — related
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](sss-reduced-test-anxiety-growth-fifth-grade.md) — related
+- [Students in classrooms of coached teachers showed more cooperation, less noncooperation, and fewer socially disruptive behaviors than students in comparison classrooms](coaching-improves-observed-student-behavior.md) — related

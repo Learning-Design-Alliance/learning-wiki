@@ -54,3 +54,4 @@ Quasi-experimental ANCOVA across 12 intact, non-randomly assigned classes (contr
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
+- [Incorporating the extensive reading approach into vocabulary instruction significantly improves high-intermediate EFL learners' lexical depth](er-vocabulary-instruction-improves-lexical-depth.md) — related

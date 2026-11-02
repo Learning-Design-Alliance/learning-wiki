@@ -68,3 +68,4 @@ Descriptive comparison of self-reported math-related PD during the study year. T
 - [The 93-hour PD was implemented with high fidelity and high teacher participation, creating a 95-hour contrast in math-related PD versus control](pd-high-fidelity-and-participation.md) — possibly the same claim (merge candidate)
 - [The 93-hour PD was implemented with high fidelity, with 96 percent of Intel Math hours and 100 percent of the school-year components delivered](pd-implemented-with-high-fidelity.md) — possibly the same claim (merge candidate)
 - [The PD improved teachers' Richness of Mathematics in classroom instruction but not Student Participation or Errors and Imprecision](pd-improved-richness-of-mathematics-practice.md) — related
+- [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related

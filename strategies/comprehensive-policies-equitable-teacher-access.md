@@ -17,7 +17,7 @@ sources:
 # Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends that federal, state, and local policies "must take a comprehensive approach to providing teachers with the preparation, resources, and supports they need to be successful". Its seven strategies are: strengthening federal equitable-distribution policies under ESSA; loan forgiveness and service scholarship programs to staff high-need fields and schools; more equitable state funding formulas for salaries and working conditions; funded teacher residency programs; mentoring and induction for novice teachers; compensating National Board Certified teachers in high-need schools; and principal training that builds collegial, professional environments.
@@ -39,6 +39,7 @@ The report recommends that federal, state, and local policies "must take a compr
 ## Claims
 
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](../claims/uncertified-teachers-higher-turnover.md) [+W]
+- [Two years of comprehensive induction produced a positive year-3 achievement impact on the benchmark sample, but not in years 1-2 or under the larger-sample specification](../claims/two-year-induction-year3-achievement-impact.md) [~W]
 
 ## Related Strategies
 

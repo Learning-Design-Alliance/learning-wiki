@@ -51,3 +51,4 @@ Second randomized controlled trial extending TAPP to 45 rural schools with 267 K
 - TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related
 - [CBC significantly improves directly observed classroom behaviors, including on-task, off-task, appropriate social behaviors, and motor movements, in rural classrooms](cbc-improves-observed-classroom-behaviors-rural.md) — related
 - [CBC improves teacher-reported school problems among rural K-3 students with disruptive behaviors more than business as usual](cbc-improves-teacher-reported-school-problems-rural.md) — related
+- [Students in classrooms of coached teachers showed more cooperation, less noncooperation, and fewer socially disruptive behaviors than students in comparison classrooms](coaching-improves-observed-student-behavior.md) — related

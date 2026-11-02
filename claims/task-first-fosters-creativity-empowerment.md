@@ -52,3 +52,4 @@ Qualitative interview analysis (Interpretative Phenomenological Analysis) of thr
 - [Teachers perceived the Task-First Approach as a highly engaging way to begin a mathematics lesson](task-first-engages-students.md) — related
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](teach-first-focused-efficient.md) — related
 - [Teachers perceived the Teach-First Approach as better supporting less confident and lower-achieving students to be successful](teach-first-supports-lower-achievers.md) — related
+- [Phase 1 needs assessment found mathematics teaching concentrated on traditional content-based approaches and did not foster creative thinking](phase1-teachers-lack-creative-thinking-strategies.md) — related

@@ -60,9 +60,11 @@ Action planning operationalizes the forethought and performance phases of [Self-
 6. **Review and revise.** At each check-in, treat slippage as information: adjust the plan, the sub-goal size, or the cues — not just the effort
 
 ## Related Strategies
+
 - [Action Planning](action_planning.md) — the broader practice of planning action; this page specifies the goal-to-monitoring loop in detail
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the sub-goal sizing step that protects self-efficacy
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom routine that embeds planning in learner choice
+- [Have students unpack goals into tasks and subtasks to counter the planning fallacy](task-unpacking-goal-setting-worksheet.md)
 
 ## Examples
 - **Morisano et al. (2010)** — Struggling university students who completed a structured goal-setting and planning intervention (elaborating personal goals, specifying means, and reflecting on conflicts) improved GPA relative to controls.

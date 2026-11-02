@@ -49,3 +49,4 @@ Survey of 17 instructor-feedback and 16 AI-feedback students using Strijbos et a
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — reports the opposite
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — reports the opposite
 - [Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course](students-rate-ai-slides-similar-quality.md) — related
+- [Audio versus written group feedback showed no statistically significant difference on perceived usefulness of feedback on student work](audio-group-feedback-usefulness-null.md) — related

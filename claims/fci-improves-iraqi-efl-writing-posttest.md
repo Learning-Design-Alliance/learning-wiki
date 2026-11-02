@@ -79,3 +79,5 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Flipped classroom instruction produces higher functional writing skills than traditional teaching among third-year ESP business majors](flipped-classroom-improves-functional-writing-esp-business-majors.md) — related
 - [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — related
 - [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](flipped-learning-significant-writing-gains-nfe-group.md) — related
+- [Posttest writing means favored the discussion group descriptively but the difference was not statistically significant](posttest-descriptive-means-not-significant.md) — related
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related

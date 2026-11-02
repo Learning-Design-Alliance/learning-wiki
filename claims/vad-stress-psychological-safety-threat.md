@@ -85,3 +85,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](resident-perceptions-video-recording-positive.md) — related
 - [Prebrief disclosure that the manikin may die was not reported by participants as essential for psychological safety](prebrief-death-disclosure-not-essential.md) — related
 - [Higher social presence tends to align with improved learning outcomes and team performance, but can distract or increase social pressure in large-scale multi-user settings](social-presence-learning-outcomes-mixed.md) — related
+- [Writing under time limitation and negative evaluation were the most salient sources of writing anxiety for control-group students](time-limit-evaluation-writing-anxiety-sources.md) — related

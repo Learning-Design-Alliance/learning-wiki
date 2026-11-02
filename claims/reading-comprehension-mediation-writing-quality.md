@@ -56,3 +56,4 @@ Structural equation models comparing complete versus partial mediation of discou
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](kindergarten-lexical-literacy-predicts-writing-quality.md) — related
 - [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](total-effects-vary-writing-dimensions.md) — related
+- [Third graders' text production performance varied by task type, with simpler lexical tasks easier than productive composition tasks](task-difficulty-pattern-text-production-subtests.md) — related

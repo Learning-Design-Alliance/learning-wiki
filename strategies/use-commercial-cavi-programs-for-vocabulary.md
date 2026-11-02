@@ -46,6 +46,7 @@ The article's implications recommend that "language teachers may use such commer
 ## Related Strategies
 
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
+- [Teachers develop their own curriculum-aligned multimedia vocabulary programs](teacher-developed-curriculum-aligned-multimedia-strategy.md)
 
 ## Examples
 -

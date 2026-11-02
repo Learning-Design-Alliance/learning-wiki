@@ -55,3 +55,5 @@ The report states the null second-year findings "was true whether induction prog
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](two-year-comprehensive-induction-boosts-achievement.md) — reports the opposite
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — related
+- [Comprehensive induction did not improve workforce composition through selective retention](induction-no-selective-retention.md) — related
+- [Two years of comprehensive induction produced a positive year-3 achievement impact on the benchmark sample, but not in years 1-2 or under the larger-sample specification](two-year-induction-year3-achievement-impact.md) — related

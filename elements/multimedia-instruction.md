@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 73 claims (44 for, 26 mixed, 3 against) · 64 studies (43 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 64 report an effect size · 68 claims rest on one study
+> **Evidence** · 75 claims (45 for, 27 mixed, 3 against) · 65 studies (43 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 15 of 65 report an effect size · 70 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -109,6 +109,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](../claims/experimental-group-significant-attitude-gain.md) [+W] — attached 2026-11-02 from P. Muthulakshmi (2015), which proposed "Investigator-developed interactive multimedia learning package and ATMa attitude inventory for standard IX mathematics"; tests this page's relationship.
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](../claims/positive-attitudes-toward-animation-vocabulary-learning.md) [+W]
 - [The animation group showed a statistically significant gain from pre-test to post-test in vocabulary achievement](../claims/animation-group-significant-pretest-posttest-gain.md) [~W]
+- [Animation-based teaching positively affects both high and low spatial ability learners, so it is not effective only for high spatial ability students](../claims/animations-effective-both-spatial-ability-groups.md) [+W] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Meta-analytic dataset of 37 experiments from 22 published studies on animations, individual differences and learning outcomes"; tests this page's relationship.
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Meta-analytic dataset of 37 experiments from 22 published studies on animations, individual differences and learning outcomes"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -129,6 +131,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 
 - An explained diagram or narrated animation paired with guided questions.
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
+- [Pair short-story reading with short animation-film segments in EFL reading lessons](../strategies/animation-film-segments-with-story-reading-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

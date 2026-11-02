@@ -48,3 +48,5 @@ Dependent-group t-tests within each group of the 44-student quasi-experiment: EG
 - [Integrated STEM education and constructivist teaching did not differ significantly on one-year academic achievement permanence, with higher means in the STEM group](integrated-stem-aat-permanence-no-significant-difference.md) — related
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Neither group showed a significant change in reflective thinking skills towards problem solving from post-test to one-year permanence test](rtssps-posttest-permanence-no-within-group-change.md) — related
+- [The control group's geometry achievement did not change significantly between posttest and one-month retention test](control-group-no-posttest-retention-change.md) — related
+- [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — reports the opposite

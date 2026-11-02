@@ -54,3 +54,4 @@ True-experimental study with 32 experimental (class IIA) and 32 control (class I
 - [WSDC debate instruction significantly improved tenth-grade EFL students' speaking skill achievement within the experimental group](wsdc-debate-improves-efl-speaking-skill.md) — related
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
+- [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related

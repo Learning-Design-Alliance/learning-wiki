@@ -50,3 +50,4 @@ This is the authors' interpretation offered as guidance on messaging strategies,
 - [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
 - [Text-message college transition messaging did not increase college enrollment in the fall after high school graduation among GEAR UP students](gear-up-text-messaging-no-enrollment-impact.md) — related
 - [Students were more positive about advising when their advisor was dedicated to a specific program of study or student population](dedicated-advisors-perceived-more-accurate.md) — related
+- [In Study 2, advisor ratings of student time management skills were higher for the treatment group than for the control group](advisor-ratings-higher-treatment-study2.md) — related

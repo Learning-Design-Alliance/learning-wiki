@@ -73,3 +73,4 @@ After the fifth assignment, ratings remained positive: useful (x̄ = 2.48), chal
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related

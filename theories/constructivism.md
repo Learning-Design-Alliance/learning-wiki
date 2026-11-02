@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 36 studies (12 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 36 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 38 studies (14 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 38 report an effect size · 29 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -67,6 +67,8 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Students taught programming with self-explanation supported by worked examples significantly outperformed traditionally taught students on the technical skills posttest of writing program code](../claims/self-explanation-worked-examples-improve-programming-skills.md) [+W] — attached 2026-11-01 from Riyadh Alhassan (2017), which proposed "Self-explanation as a constructivist learning strategy in which learners explain and check their own understanding".
 - [After instruction, about 38% of constructivist-taught students versus 10% of traditionally taught students gave full scientific responses about double-slit interference](../claims/constructivist-teaching-full-response-double-slit-posttest.md) [+W]
 - [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](../claims/interview-path-difference-understanding-difference.md) [~W]
+- [Post-test difficulty in Hindi falls to 20% in constructivist classes versus 42% in conventional classes](../claims/constructivist-group-lower-posttest-difficulty.md) [+W]
+- [Descriptively, the high constructivist group showed the largest gain over the posttest grand mean and the low transmissive group the largest deficit](../claims/gains-over-grand-mean-ordering-ability-environment.md) [+W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

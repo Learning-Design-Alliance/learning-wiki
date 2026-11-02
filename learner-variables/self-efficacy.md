@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 234 claims (176 show a difference, 32 mixed, 26 no difference) · 188 studies (59 associational, 53 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 37 of 188 report an effect size · 230 claims rest on one study
+> **Evidence** · 235 claims (177 show a difference, 32 mixed, 26 no difference) · 189 studies (59 associational, 53 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 189 report an effect size · 231 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -265,6 +265,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](../claims/positive-attitudes-toward-syntactic-parsing-instruction.md) [+M] — instruction changes it
 - [Teachers perceived the Teach-First Approach as better supporting less confident and lower-achieving students to be successful](../claims/teach-first-supports-lower-achievers.md) [+M] — an instructional effect differs with it
 - [The sports education model raises students' perceived competence in physical education more than the direct teaching model](../claims/sem-raises-perceived-competence-over-direct-teaching.md) [+M] — instruction changes it
+- [Following school-wide Double Check professional development, all teachers reported improved culturally responsive teaching self-efficacy, multicultural efficacy, behavior management self-efficacy, and lower stress](../claims/double-check-pd-improves-teacher-efficacy-prepost.md) [+M] — instruction changes it
 
 ## The evidence by question
 

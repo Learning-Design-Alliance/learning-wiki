@@ -74,10 +74,12 @@ Multiple representations support abstraction and transfer because identifying th
 6. Fade representational support as expertise develops, converging on the most efficient form for the domain.
 
 ## Related Strategies
+
 - [Use Analogies](use-analogies.md) — an analogy is a representation drawn from prior knowledge; mapping it to the target concept is a translation exercise
 - [Use Worked Examples](worked-examples-first.md) — worked examples can embed multiple representations of the same solution step
 - [Comparing Contrasting Cases](comparing-contrasting-cases.md) — varies representations *and* content to highlight deep structure
 - [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
+- [Integrate multiple representational tasks with discussion and collaborative work into chemistry teacher education courses, and analyze both correct and incorrect classifications when evaluating instruction](integrate-representational-tasks-and-complementary-analyses-strategy.md)
 
 ## Examples
 - **Desmos ([desmos.com](https://www.desmos.com))** — dynamically links equations, graphs, and tables; dragging a slider updates all representations simultaneously, making correspondence perceptual rather than inferred.

@@ -48,3 +48,4 @@ Quasi-experimental pretest–posttest study with matched-pair design; 13 experim
 - [The training effect on academic procrastination persisted at a four-week follow-up](cbt-procrastination-effect-persisted-follow-up.md) — related
 - [All experimental-group participants reported benefiting from the group and would recommend it](gefgp-all-reported-benefit-and-recommend.md) — related
 - [Participants reported cognitive, affective, and behavioral changes after the program, including reduced task-postponement and improved focus](thematic-changes-cognitive-affective-behavioral.md) — related
+- [The program's effects on positive future expectations, trait anxiety, and anxiety of making mistakes persisted at four-week follow-up](cbt-skill-training-effects-persist-four-weeks.md) — related

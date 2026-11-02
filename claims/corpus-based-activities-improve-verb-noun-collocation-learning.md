@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: uçar-2015
     resource: "https://eric.ed.gov/?id=EJ1057374"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EFL preparatory students taught verb-noun collocations through corpus-based concordancing activities scored significantly higher on a collocation recognition post-test than students taught through traditional dictionary-and-coursebook instruction (t(28)=-3.761, p<0.05). [→ Uçar 2015](#ucar-2015)
@@ -47,3 +48,7 @@ A quasi-experimental comparison of two intact preparatory classes (15 experiment
 ## Related Claims
 - [The experimental group's collocation scores improved significantly from pretest to posttest after corpus-based instruction](experimental-group-significant-pre-post-gain-corpus-instruction.md) — related
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — related
+- [The corpus-tool production advantage is bounded: findings are limited to verb-noun collocations in one Turkish ELT setting](corpus-tool-collocation-findings-scope-limits.md) — related
+- [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
+- [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — reports the opposite
+- [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related

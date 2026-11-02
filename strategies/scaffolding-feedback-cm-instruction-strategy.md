@@ -51,7 +51,8 @@ The article recommends teaching reading comprehension strategies under scaffoldi
 - [Review evidence cited in the article indicates filling in a story map after reading a text is more effective than providing it before reading](../claims/story-map-after-reading-more-effective.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teach concept map construction through a graduated briefing sequence before independent use](graduated-concept-map-construction-briefing.md)
 
 ## Examples
 -

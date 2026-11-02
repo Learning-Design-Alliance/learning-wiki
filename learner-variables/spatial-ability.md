@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (65 show a difference, 21 mixed, 9 no difference) · 57 studies (20 causal, 18 associational, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 14 of 57 report an effect size · 94 claims rest on one study
+> **Evidence** · 97 claims (66 show a difference, 21 mixed, 10 no difference) · 58 studies (20 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 15 of 58 report an effect size · 96 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -131,6 +131,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Origami instruction yields statistically significant posttest differences in spatial orientation relative to conventional instruction](../claims/origami-spatial-orientation-significant-gain.md) [+M] — instruction changes it
 - [When pretests are used as covariates, origami instruction produces statistically significant gains in spatial orientation and geometric knowledge but not in spatial visualization](../claims/origami-ancova-gains-mixed-across-subscales.md) [~M] — instruction changes it
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](../claims/baseline-pretest-predicts-game-performance-better-than-cmt.md) [+W] — learners who differ on it differ in outcomes
+- [Animation-based teaching positively affects both high and low spatial ability learners, so it is not effective only for high spatial ability students](../claims/animations-effective-both-spatial-ability-groups.md) [-W] — an instructional effect differs with it
+- [Low spatial ability learners on average performed better than high spatial ability learners when taught through animations](../claims/lsa-learners-outperform-hsa-with-animations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -60,3 +60,6 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
 - [Synectics-based vocabulary teaching produces significantly higher retention of targeted vocabulary than the direct method five weeks after instruction](synectics-improves-targeted-vocabulary-retention.md) — related
 - [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related
+- [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related
+- [Within the experimental group, van Hiele levels differed significantly across the three posttests, increasing from right to acute to obtuse angle tests](repeated-measures-increase-across-posttests-gsp.md) — a narrower finding that bears on this claim
+- [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related

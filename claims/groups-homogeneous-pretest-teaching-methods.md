@@ -52,3 +52,4 @@ Pre-test Mann-Whitney analysis of both twenty-student groups on the EFL Teaching
 - [Before the intervention, experimental and control groups showed no significant difference in water-cycle mental model levels](no-pretest-difference-water-cycle-drawings.md) — related
 - [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](inverted-classroom-no-difference-force-momentum-impulse.md) — related
 - [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related
+- [The control and experimental groups were statistically equivalent on the ESP pre-test before the clicker implementation](esp-pretest-group-equivalence.md) — possibly the same claim (merge candidate)

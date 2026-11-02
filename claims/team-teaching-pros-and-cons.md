@@ -51,3 +51,4 @@ The essay lists pros of team teaching, including that "teachers do not work in i
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
 - [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](ai-mediation-cognitive-and-relational-dimensions.md) — related
+- [Dyadic pair interaction showed domination and unequal cognitive engagement, consistent with prior CSCL drawback findings](dyadic-domination-unequal-engagement.md) — related

@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (35 for, 11 mixed, 2 against) · 33 studies (16 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 42 claims rest on one study
+> **Evidence** · 49 claims (35 for, 11 mixed, 3 against) · 34 studies (17 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 34 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ This pattern is scoped to a school-wide, tiered system of taught and acknowledge
 - [TIPS-trained teams more often documented reductions in out-of-school suspensions at follow-up](../claims/tips-pd-oss-reduction.md) [+W]
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](../claims/tips-pd-odr-reduction.md) [+W]
 - [No additional benefit identified for the 49 schools that self-funded a second year](../claims/ctg-no-additional-benefit-second-year.md) [~W]
+- [No significant pre–post changes in office discipline referrals occurred in the full sample following school-wide professional development](../claims/no-prepost-odr-change-full-sample.md) [-W]
 
 ## Related Patterns
 - [Social-Emotional Learning](social-emotional-learning.md) — teaches named social and emotional skills; PBIS teaches and acknowledges setting-specific expectations, and the two are often run together

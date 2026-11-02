@@ -56,3 +56,4 @@ Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the co
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — a narrower finding that bears on this claim
+- [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — related
