@@ -49,3 +49,4 @@ Independent-samples t-test comparing post-test scores of 142 undergraduates rand
 - [CS students who learned CT concepts through the iThinkSmart VR game-based application demonstrated significantly better CT competency scores than students in the control group](ithinksmart-vr-better-ct-competency-scores.md) — related
 - [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — related
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](path-analysis-competition-motivation-accuracy.md) — related
+- [Model-based training produced positive dynamics of technical and tactical actions in competition compared with the control group](model-training-improved-technical-tactical-actions-lapta.md) — related

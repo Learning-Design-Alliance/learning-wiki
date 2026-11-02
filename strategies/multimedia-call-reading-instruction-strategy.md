@@ -43,6 +43,7 @@ Based on their findings, the authors recommend that foreign language syllabus de
 ## Related Strategies
 
 - [Adopt computer-assisted physics instruction as compulsory in high school curricula](recommend-computer-assisted-physics-in-curriculum.md)
+- [Incorporate CALL-based glossing technology into EFL reading instruction and materials](incorporate-call-glossing-in-reading-instruction.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ A follow-up McNemar analysis by gender found "no significant difference for fema
 ## Related Claims
 - [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](enjoyment-interactive-over-traditional.md) — reports the opposite
 - [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](preference-interactive-stories.md) — related
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related

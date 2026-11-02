@@ -58,3 +58,5 @@ Partially nested RCT in 36 Boston-area kindergarten classrooms; 319 students wit
 - [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related
 - [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
 - [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related
+- [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
+- [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related

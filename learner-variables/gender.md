@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 436 claims (244 show a difference, 91 mixed, 101 no difference) · 288 studies (150 associational, 84 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 288 report an effect size · 428 claims rest on one study
+> **Evidence** · 441 claims (246 show a difference, 93 mixed, 102 no difference) · 293 studies (151 associational, 88 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 293 report an effect size · 433 claims rest on one study
 
 ## How to read this page
 
@@ -475,6 +475,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](../claims/gender-difference-english-posttest-goal-setting.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No statistically significant difference in geographic concepts acquisition attributable to gender](../claims/no-gender-difference-web-quest-concept-acquisition.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](../claims/jigsaw-concept-acquisition-no-gender-difference.md) [-M] — an instructional effect differs by group
+- [Accelerated Reader appears more effective for girls than boys, though results are positive for both](../claims/ar-more-effective-for-girls.md) [~M] — an instructional effect differs by group
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](../claims/pictorial-story-effect-no-gender-or-interaction-difference.md) [-M] — an instructional effect differs by group
+- [Boys in the treatment group improved BNST results at both post-tests compared with boys in the control group](../claims/wm-training-boys-bnst-improved-t2-and-t3.md) [+M] — an instructional effect differs by group
+- [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](../claims/gender-differences-english-app-usage.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](../claims/male-outperform-female-tblt-vocabulary.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

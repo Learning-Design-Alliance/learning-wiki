@@ -52,3 +52,5 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — reports the opposite
 - [Participants using IRead provided more varied answers to content questions than the control group, suggesting more inspired thinking](iread-more-varied-answers-bloom-questions.md) — related
+- [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — reports the opposite
+- [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related

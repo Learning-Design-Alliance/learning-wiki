@@ -53,3 +53,4 @@ Posttest comparison of 135 Taiwanese undergraduates randomly assigned within int
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
+- [All three gloss conditions, traditional and multimedia, outperformed no gloss on reading comprehension](all-gloss-conditions-beat-no-gloss.md) — related

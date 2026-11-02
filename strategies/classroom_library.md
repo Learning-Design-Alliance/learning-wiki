@@ -61,9 +61,11 @@ Access to books is one of the strongest environmental predictors of reading volu
 6. **Maintain and refresh** — rotate displays, involve students in curation, track circulation to identify gaps
 
 ## Related Strategies
+
 - [Independent Reading](independent-reading-time.md) — the classroom library is the infrastructure that makes sustained silent reading feasible
 - [Read-Alouds](read-alouds.md) — read-alouds drive interest in library titles; dialogic reading around shared books builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - [Literacy-Rich Environment](literacy-rich-environment.md) — the library as one component of a broader print-saturated classroom
+- [Provide a well-stocked banded library and easy computer access as the main implementation requirements for Accelerated Reader](ar-library-banding-computer-access.md)
 
 ## Examples
 - **Elementary themed bins and reading nooks** — teachers rotate genre bins (Morrow & Weinstein, 1986, showed physical redesign significantly increased children's voluntary literature use in kindergarten and first grade)

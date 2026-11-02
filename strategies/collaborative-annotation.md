@@ -60,9 +60,11 @@ Collaborative annotation combines the generative processing of [Annotating](../p
 6. Ask learners to produce a short synthesis that draws on the annotation thread, closing the loop from social reading to individual understanding.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — the solo version; collaborative annotation adds a social accountability and response layer
 - [Class Discussion](../elements/class-discussion.md) — annotations provide the evidence base that makes discussion substantive
 - [Peer Feedback](../elements/peer-feedback.md) — replies to annotations are a lightweight, in-context form of peer critique
+- [Combine pre-reading with a Web-based annotation sharing mechanism to stimulate pre-reading engagement](prereading-web-annotation-sharing-strategy.md)
 
 ## Examples
 - **[Perusall](https://www.perusall.com)** — social annotation platform with automatic engagement scoring; widely used for pre-class reading in flipped STEM courses.

@@ -52,6 +52,7 @@ The article's implementable teaching recipe: compose short fables aligned to cur
 ## Related Strategies
 
 - [Phase-aligned teaching applications for LLM-supported learning across five phases](phase-aligned-llm-teaching-applications.md)
+- [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](multimedia-and-homework-for-5e-phases.md)
 
 ## Examples
 -

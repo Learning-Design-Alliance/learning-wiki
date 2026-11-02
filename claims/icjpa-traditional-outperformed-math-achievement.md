@@ -49,3 +49,4 @@ ANCOVA on Unit 4 math posttest scores with pretest as covariate, comparing two i
 - [ELL students taught by IC teachers outperform ELL controls in Math (0.147) and Science (0.139), marginal at p<.10](ic-ell-math-science-gains.md) — reports the opposite
 - [In the aggregate sample, IC effects on standardized outcomes appear in only one content area exam](ic-aggregate-single-content-area-effect.md) — related
 - [Student engagement increased in the IC-JPA treatment group as disengaged behaviors declined over the intervention while remaining constant in the comparison group](icjpa-increased-student-engagement.md) — related
+- [ELL students gained an additional advantage under SWH, while interaction terms for other demographic groups were not significantly different from 0](swh-ell-interaction-advantage.md) — related

@@ -54,3 +54,5 @@ Independent-samples t-test on pre-test scores of the two groups (43 each). The a
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [The experimental and control groups were homogeneous in grammar knowledge before the intervention](pretest-homogeneity-call-grammar-study.md) — possibly the same claim (merge candidate)
+- [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — related
+- [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related

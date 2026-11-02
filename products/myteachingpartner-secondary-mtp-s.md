@@ -36,6 +36,7 @@ MyTeachingPartner–Secondary is a University of Virginia Center for Advanced St
 ## Related Products and Programmes
 
 - [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
+- [MyTeachingPartner-Math/Science (MTP-M/S) curricula](myteachingpartner-mathscience-mtp-ms-curricula.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2015, June). Teacher Training, Evaluation, and Compensation intervention report: MyTeachingPartner–Secondary. http://whatworks.ed.gov

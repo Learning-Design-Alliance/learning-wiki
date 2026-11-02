@@ -55,3 +55,5 @@ Additional (non-protocol) intention-to-treat analysis using national Key Stage 2
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
 - [The chess intervention showed no evidence of positive impact on Key Stage 2 reading and science scores](chess-no-impact-reading-science.md) — related
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
+- [A regression model yields a treatment coefficient of 0.13, agreeing with the direction of the headline trial finding](ar-regression-treatment-coefficient.md) — related
+- [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](mathematics-mastery-year1-small-nonsignificant-positive-effect.md) — related

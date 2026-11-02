@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: al-otaiba-2015
     resource: "https://eric.ed.gov/?id=ED562485"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among students initially eligible for Tier 3, immediate Tier 3 placement in Dynamic RTI yielded higher Brief Reading scores than waiting until the beginning of Session 3 in Typical RTI. [→ Al Otaiba 2015](#al-otaiba-2015)

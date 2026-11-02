@@ -64,6 +64,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 - Book talks — brief recommendations that drive circulation from the library
 - Reading conferences — one-on-one check-ins that connect library choices to instruction
 - [Proactively co-plan library space use for inquiry and active learning with teachers and librarians](co-plan-library-space-for-inquiry.md)
+- [Provide a well-stocked banded library and easy computer access as the main implementation requirements for Accelerated Reader](ar-library-banding-computer-access.md)
 
 ## Examples
 - **[Reading Rockets: Classroom Libraries](https://www.readingrockets.org/topics/classroom-management/articles/creating-classroom-library)** — practitioner guidance on building and organizing collections.

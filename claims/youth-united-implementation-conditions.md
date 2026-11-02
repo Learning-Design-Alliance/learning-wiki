@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: gorard-et-al-2016
     resource: "https://eric.ed.gov/?id=ED581107"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost a quarter of schools did not deliver the intervention, mainly due to lack of teacher volunteers and other delivery issues. [→ Gorard et al. 2016](#gorard-et-al-2016)
@@ -70,3 +71,4 @@ The process evaluation identified factors preventing delivery as planned, includ
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Staff views of the interventions were more positive in schools with experienced TAs, senior staff support, and a dedicated delivery space.](reach-staff-views-favourable-implementation-conditions.md) — related
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
+- [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related

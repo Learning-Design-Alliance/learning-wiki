@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (34 show a difference, 11 mixed, 4 no difference) · 28 studies (7 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 49 claims rest on one study
+> **Evidence** · 51 claims (36 show a difference, 11 mixed, 4 no difference) · 29 studies (8 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 51 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -81,6 +81,8 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Interviews found epistemological belief change themes only in the EETAM group (certain knowledge, omniscient authority, innate ability), with no epistemological findings in the TAM group](../claims/qualitative-eetam-belief-change-tam-none.md) [~M] — instruction changes it
 - [Post-test ANOVA on epistemological beliefs showed a statistically significant overall difference among the three groups (F(2,95)=3.593, p=.031)](../claims/anova-omnibus-ebs-posttest-significant.md) [+M] — instruction changes it
 - [The authors interpret the six-week intervention length as insufficient for a significant TAM-versus-EETAM difference in epistemological beliefs](../claims/six-weeks-insufficient-tam-eetam-difference.md) [-W] — instruction changes it
+- [After PBHNOS training, experimental-group participants' open-ended SUSSI responses shifted mainly into Transitional and Informed Views, while control-group responses remained in Naïve and Transitional categories](../claims/open-ended-views-shift-tv-iv.md) [+W] — instruction changes it
+- [Post-test SUSSI scores of pre-service science teachers taught through project-based HNOS training are significantly higher than those of the control group taught by conventional method](../claims/pbl-hnos-higher-posttest-sussi.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

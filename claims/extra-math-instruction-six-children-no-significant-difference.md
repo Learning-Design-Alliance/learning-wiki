@@ -47,3 +47,4 @@ Supplementary analysis of posttest scores comparing the six children who receive
 ## Related Claims
 - [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
+- [Year 1 pupils in schools adopting Mathematics Mastery scored on average +0.10 standard deviations higher on the Number Knowledge post-test, an effect not statistically significant at the 5% level](mathematics-mastery-year1-small-nonsignificant-positive-effect.md) — related

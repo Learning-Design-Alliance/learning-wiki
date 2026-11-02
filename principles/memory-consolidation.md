@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (25 for, 21 mixed, 3 against) · 60 studies (34 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 60 report an effect size · 42 claims rest on one study
+> **Evidence** · 50 claims (25 for, 22 mixed, 3 against) · 61 studies (35 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 61 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [PI+EI outperformed PBI+EI on the aural interpretation task at the immediate posttest, but the advantage did not persist at the delayed posttest](../claims/pi-ei-beats-pbi-ei-interpretation-immediate-only.md) [~W]
 - [Combining ten-minute and 24-hour spaces was the most promising SMART Spaces variant in a small pilot RCT](../claims/combined-ten-minute-and-24-hour-spacing-most-promising-smart-spaces-variant.md) [+W]
 - [In repeated testing after one month, paper-form students did not reach their earlier score while electronic-form students had no problems gaining a satisfactory score](../claims/repeated-testing-electronic-satisfactory-score.md) [~W]
+- [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](../claims/vocabulary-loss-delayed-post-test-both-groups.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

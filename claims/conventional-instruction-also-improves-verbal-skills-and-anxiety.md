@@ -72,3 +72,4 @@ Related samples t-test on the 19 control-group students' SAS scores; pretest mea
 - [Within the drama group, speech anxiety decreased significantly from intermediate to very low level](drama-group-speech-anxiety-pretest-posttest-decrease.md) — related
 - [Within the drama group, Turkish verbal skills improved significantly from pretest to posttest](drama-group-verbal-skills-pretest-posttest-gain.md) — related
 - [Drama instruction produced higher posttest Turkish verbal skills than conventional curriculum instruction in a randomized pretest-posttest experiment](drama-instruction-beats-conventional-turkish-verbal-skills.md) — related
+- [The control group's grammar scores also rose significantly from pretest to posttest under traditional instruction](control-group-grammar-gain-significant.md) — related

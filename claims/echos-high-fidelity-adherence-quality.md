@@ -51,3 +51,4 @@ Museum staff observed treatment teachers in winter and spring using the ten-item
 - [Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery](fidelity-varied-across-schools-classrooms-teacher-delivery.md) — related
 - [OCR was implemented with adequate to high fidelity in treatment schools, with no evidence of contamination in control schools](ocr-adequate-high-fidelity-no-control-contamination.md) — related
 - [Teachers receiving BEST in CLASS showed higher observed adherence and competence in delivering the intervention practices at posttest than comparison teachers](best-in-class-higher-adherence-competence.md) — related
+- [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related

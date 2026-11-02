@@ -69,3 +69,5 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
+- [Switch-on showed no effect on reading outcomes for pupils eligible for free school meals](switch-on-no-effect-fsm-pupils.md) — related
+- [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related

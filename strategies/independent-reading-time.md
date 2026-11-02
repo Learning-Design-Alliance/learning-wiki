@@ -135,6 +135,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 6. **Support striving readers**: pair texts with [audiobooks](../elements/audiobooks.md) or adjust text difficulty ([Accommodations](../elements/accommodations.md)) so all learners experience successful reading.
 
 ## Related Strategies
+
 - [Reading conferences](5-minute_writing_conferences.md) — the individualized teacher interaction that makes independent time instructional
 - [Activating prior knowledge](activating-prior-knowledge.md) — pre-reading routines that improve comprehension of self-selected texts
 - [Reading Workshop](reading-workshop.md) — the broader instructional structure that independent reading time sits within
@@ -148,6 +149,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - Guided reading — the instructional counterpart; SIR is where guided-reading strategies are independently applied
 - Read-aloud and shared reading — provide the modeled comprehension talk that SIR practice consolidates
 - Reading workshop — the larger instructional structure that houses SIR
+- [Give initial teacher support to pupils at very low reading levels before expecting independent reading](ar-initial-support-low-readers.md)
 
 ## Examples
 - **[Reading Workshop](reading-workshop.md) (Teachers College Reading & Writing Project)** — mini-lesson, extended independent reading with conferring, and mid-workshop teaching points (https://readingandwritingproject.org)

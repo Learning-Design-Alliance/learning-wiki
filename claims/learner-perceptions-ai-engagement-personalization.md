@@ -52,3 +52,4 @@ Qualitative thematic analysis of semi-structured interviews with 14 purposively 
 - [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — related
 - [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — a narrower finding that bears on this claim
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](review-reported-writing-portfolios-reduce-anxiety-build-skills.md) — related
+- [Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues](ofd-learner-perceptions-seven-themes.md) — related

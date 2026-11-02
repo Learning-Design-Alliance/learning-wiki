@@ -85,3 +85,4 @@ Meta-analysis of 33 primary studies of corrective feedback in second language ac
 - [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — reports the opposite
 - [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](wcf-improves-preposition-accuracy-immediate-posttest.md) — related
 - [Analogy-based corrective feedback produced higher grammar posttest scores than metalinguistic feedback among young elementary EFL learners](analogy-based-cf-outperforms-metalinguistic-feedback-grammar.md) — related
+- [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — related

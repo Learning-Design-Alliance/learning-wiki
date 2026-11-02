@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 261 claims (119 for, 129 mixed, 13 against) · 193 studies (60 associational, 54 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 45 of 193 report an effect size · 245 claims rest on one study
+> **Evidence** · 262 claims (119 for, 130 mixed, 13 against) · 194 studies (60 associational, 55 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 45 of 194 report an effect size · 246 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -308,6 +308,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-assessment has a significant positive effect on seventh-grade EFL students' writing competence compared with conventional teacher assessment](../claims/self-assessment-significant-effect-writing-competence-efl.md) [+W] — attached 2026-11-01 from Ratminingsih et al. (2018), which proposed "Three-step self-assessment process: self-monitoring, self-judgment, and learning targets with instructional correctives"; tests this page's relationship.
 - [Self-assessment has a significant positive effect on seventh-grade EFL students' independence compared with conventional teacher assessment](../claims/self-assessment-significant-effect-student-independence-efl.md) [+W] — attached 2026-11-01 from Ratminingsih et al. (2018), which proposed "Three-step self-assessment process: self-monitoring, self-judgment, and learning targets with instructional correctives"; tests this page's relationship.
 - [Strategy-use scores showed no significant correlation with reading scores in the cognitive and social/affective groups](../claims/strategy-use-no-correlation-reading.md) [-W]
+- [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](../claims/self-regulation-group-test-interaction-significant.md) [~W]
 
 ## The evidence by question
 

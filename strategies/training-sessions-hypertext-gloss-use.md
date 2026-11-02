@@ -43,7 +43,8 @@ The article draws a pedagogical implication from its findings: learners should b
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](../claims/program-intensity-moderates-gloss-effect.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate CALL-based glossing technology into EFL reading instruction and materials](incorporate-call-glossing-in-reading-instruction.md)
 
 ## Examples
 -

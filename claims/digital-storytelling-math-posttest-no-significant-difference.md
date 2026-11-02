@@ -49,3 +49,4 @@ Quasi-experimental comparison of 30 experimental and 28 control eighth-grade stu
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](expert-mathematician-potentially-positive-math-achievement.md) — related
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Descriptively, the experimental group reached a good achievement category in speaking and writing while the control group reached only average](descriptive-achievement-levels-groups.md) — related
+- [Control-group learners also improved significantly from pretest to posttest, but less than the storytelling group](control-group-significant-prepost-improvement-outperformed.md) — reports the opposite

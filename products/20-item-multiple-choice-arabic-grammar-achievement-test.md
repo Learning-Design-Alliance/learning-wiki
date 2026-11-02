@@ -25,7 +25,8 @@ A researcher-developed four-option, 20-item test measuring seventh-grade student
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](../claims/computerized-program-arabic-grammar-achievement-iraq.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
 
 ## Key Sources
 - Ibtesam Al-Mashaqbeh, Mushtak Neama. (2015). The Effect of Computerized Instructional Program in the Intermediate First Grade Students Achievement in Arabic language Grammar in Iraq. Journal of Education and Practice, Vol.6, No.32. https://www.iiste.org

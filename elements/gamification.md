@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 45 claims (26 for, 16 mixed, 3 against) · 30 studies (12 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 44 claims rest on one study
+> **Evidence** · 48 claims (28 for, 17 mixed, 3 against) · 31 studies (13 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 47 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -69,6 +69,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](../claims/kahoot-engagement-peer-study-groups-observed.md) [+W]
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](../claims/kahoot-fun-engaging-positive-experience.md) [~W]
 - [Learners using TMM showed positive engagement, motivated by the software's scoring feature](../claims/tmm-scoring-feature-drove-learner-engagement.md) [+W]
+- [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](../claims/kahoot-engagement-decline-leaderboard-trailing.md) [+W] — attached 2026-11-02 from Fotaris P et al. (2016), which proposed "Classroom version of Who Wants To Be A Millionaire? for collaborative Python revision"; tests this page's relationship.
+- [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](../claims/gamification-higher-final-grades-python-course.md) [~W]
+- [Gamified students downloaded reference material more consistently (1.7 vs 1.2 files per student weekly) without exam-period spikes](../claims/gamification-weekly-downloads-reference-material.md) [+M]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

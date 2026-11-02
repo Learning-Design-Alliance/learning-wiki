@@ -50,3 +50,4 @@ Observational analysis during the chemical changes unit: lessons of both control
 - [Experimental-group students reported no difficulty, full participation, and self-confidence when performing experiments in the VCL](eg-students-no-difficulty-full-participation-vcl.md) — related
 - [The VCL's open infrastructure leaves all variables to students' experimental design](vcl-open-infrastructure-student-design.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [The authors interpret web-based virtual simulation as shifting the pilgrimage lesson from teacher-centred to student-centred learning consistent with constructivist learning theory](virtual-simulation-supports-student-centred-learning.md) — related

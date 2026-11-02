@@ -70,3 +70,4 @@ Descriptive results in Table 4 for the experimental group: male post-test mean 7
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — related
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
+- [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — related

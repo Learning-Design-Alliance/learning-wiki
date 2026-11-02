@@ -89,3 +89,4 @@ Paired t-test comparing each student's average percentage of Academic Word List 
 - [No significant correlation between number of messages written and average length of notes written](no-correlation-message-writing-note-length.md) — related
 - [Students write shorter notes as online class size increases](larger-classes-shorter-notes.md) — related
 - [Teacher-student online interaction pattern significantly moderates blended instruction effects, with synchronous + asynchronous interaction largest (SMD = 1.189) and absence of interaction smallest (SMD = 0.130)](online-interaction-pattern-moderates-blended-instruction-effects.md) — related
+- [Synchronous online forum discussion produces no statistically significant difference in syntactic complexity compared with asynchronous blog writing, though the OFD mean was slightly higher](ofd-blog-no-difference-syntactic-complexity.md) — related

@@ -59,3 +59,4 @@ Qualitative analysis of so-called learning stories reported by Y. L. Visser and 
 - [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — a narrower finding that bears on this claim
 - [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related
 - [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](ownership-community-development-positive-correlations.md) — related
+- [Baseline social studies learning in the two Muna elementary schools was non-contextual, with low student interest and very low social attitudes](muna-baseline-noncontextual-low-attitudes.md) — related

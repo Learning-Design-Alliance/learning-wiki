@@ -25,7 +25,9 @@ A 25-item four-option multiple-choice achievement test developed for assessing 7
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
+- [Social science learning outcomes test and learning interest questionnaire instruments](social-science-learning-outcomes-test-and-learning-interest-questionnaire-instruments.md)
 
 ## Key Sources
 - Aktas, S., & Aydin, A. (2016). The effect of the smart board usage in science and technology lessons. Eurasian Journal of Educational Research, 64, 125-138. http://dx.doi.org/10.14689/ejer.2016.64.7

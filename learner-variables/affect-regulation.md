@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (173 show a difference, 45 mixed, 23 no difference) · 152 studies (52 associational, 32 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 152 report an effect size · 235 claims rest on one study
+> **Evidence** · 243 claims (175 show a difference, 45 mixed, 23 no difference) · 154 studies (52 associational, 34 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 154 report an effect size · 237 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -281,6 +281,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Within the mind-map planning group, pre-to-post gains are significant on most self-regulation strategies and motivational beliefs, including a significant test-anxiety decrease](../claims/mind-map-group-within-group-prepost-gains.md) [+M] — instruction changes it
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](../claims/nasa-tlx-frustration-perceived-performance-ar.md) [~M] — learners who differ on it differ in outcomes
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](../claims/cooperative-learning-lower-test-anxiety.md) [+M] — instruction changes it
+- [CARE for Teachers improved teachers' adaptive emotion regulation, mindfulness, psychological distress, and time urgency in a cluster randomized trial](../claims/care-teachers-improves-teacher-social-emotional-outcomes.md) [+M] — instruction changes it
+- [IY TCM improves elementary students' emotional regulation](../claims/iytcm-improves-emotional-regulation.md) [+M] — instruction changes it
 
 ## The evidence by question
 

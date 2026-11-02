@@ -64,3 +64,5 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 - Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related
 - [The blended learning treatment effect on reading scores did not differ as a function of grade](core5-treatment-effect-uniform-across-grades.md) — related
 - [Treatment and gender do not interact significantly in their effect on mathematics achievement](no-treatment-gender-interaction-mathematics-achievement.md) — related
+- [Small group size functions as a manipulable proxy for treatment intensity in early mathematics interventions, though its intensity advantage did not improve outcomes in this trial](group-size-as-treatment-intensity-proxy.md) — related
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related

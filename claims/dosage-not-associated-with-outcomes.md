@@ -55,3 +55,4 @@ Secondary regression analysis of dosage, with mean total instruction of 17.3 hou
 - [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — related
 - [An on-treatment dosage analysis found no significant relationship between number of sessions attended and reading outcomes](chatterbooks-dosage-null.md) — related
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](rhythm-for-reading-dosage-null.md) — related
+- [No relationship was found between treatment dosage variables and students' response to the NS1 intervention](nsl1-no-dose-response-relationship.md) — related

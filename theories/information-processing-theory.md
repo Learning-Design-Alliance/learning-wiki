@@ -222,6 +222,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Note-Taking](../principles/note-taking.md)
 - [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](../strategies/genai-learning-research-agenda-process-assessments.md)
 - [Use chunking, gaze training and think-aloud cognitive rehearsal to support VWM capacity in surgical trainees](../strategies/chunking-gaze-training-think-aloud-mis.md)
+- [Use WM capacity measures for early identification and give clear, one-item-at-a-time instructions to children with attention deficits](../strategies/wm-screening-and-clear-instructions-attention-deficits.md)
 
 ### Educational Implications
 Gain students' attention; ask students to recall prior relevant learning; point out important information; organize information from simple to complex; categorize related information; have students relate new information to what they already know; teach encoding techniques for memorizing lists (mnemonics, imagery); repeat and present information in multiple ways; use **overlearning** — practice continued beyond initial mastery — to build durable retention; make learning multi-modal by engaging more senses (e.g., physically acting out new vocabulary, video demonstrations); and avoid cognitive overload.

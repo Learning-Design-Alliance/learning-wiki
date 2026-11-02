@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-02
 sources:
   - id: kousar-perveen-2010
     resource: "https://eric.ed.gov/?id=EJ1072552"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After six weeks of instruction, the experimental (problem-solving) group's post-test mean of 57.17 was significantly higher than the control (expository) group's mean of 37.92 (t = 9.25, p < .001). [→ Kousar Perveen 2010](#kousar-perveen-2010)
@@ -52,3 +53,6 @@ Pre-test/post-test equivalent-group study of 48 tenth-grade girls (24 per group)
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — a narrower finding that bears on this claim
 - [Eighth-grade geometry students taught with the think-talk-write strategy show higher mathematical representation ability than students taught with the expository strategy](ttw-beats-expository-mathematical-representation.md) — related
 - [Computer-Based Problem Solving produced significantly higher HOTS post-test scores than expository learning among prospective primary teachers](cbps-significant-hots-gain-prospective-teachers.md) — related
+- [Prospective-teacher students learning with an open-ended VBA-for-Excel approach created more creative interactive learning media than students taught by an expository VBA-based method](open-ended-vba-excel-creativity-better-than-expository.md) — related
+- [Students taught mathematics with a reform-based instructional method achieved significantly better than students taught the same content with the traditional expository method](reform-based-method-better-math-achievement.md) — related
+- [Tenth-grade students in a PBL environment enriched with virtual manipulatives significantly outperformed students in a traditional PBL environment on an achievement test in Polynomials and Quadratic Equations](vm-enriched-pbl-outperformed-traditional-pbl-achievement.md) — related

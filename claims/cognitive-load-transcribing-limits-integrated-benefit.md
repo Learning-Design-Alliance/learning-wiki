@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: malone-et-al-2019
     resource: "https://doi.org/10.1016/j.cedpsych.2019.101782"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose that transcribing between fraction and decimal notations creates cognitive load interfering with decimal learning for at-risk fourth graders with little rational number experience. [→ Malone et al. 2019](#malone-et-al-2019)

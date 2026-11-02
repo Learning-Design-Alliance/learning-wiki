@@ -46,3 +46,4 @@ Two-arm school-led randomised controlled trial with 433 Year 7 pupils in 10 seco
 
 ## Related Claims
 - [Fresh Start showed positive progress results for FSM-eligible pupils and for all pupil sub-groups, though these findings are less secure](fresh-start-fsm-subgroup-effect.md) — a narrower finding that bears on this claim
+- [Switch-on Reading and Switch-on Reading and Writing produced no additional reading progress compared with business-as-usual control schools in a three-arm school-randomised effectiveness trial](switch-on-no-reading-effect-effectiveness-trial.md) — related

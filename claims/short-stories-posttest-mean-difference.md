@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: iman-2017
     resource: "https://doi.org/10.18298/ijlet.1719"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Independent-samples t-test showed a significant posttest speaking difference favouring the experimental group (mean difference 4.350, t = 4.533, p < 0.000). [→ Iman 2017](#iman-2017)
@@ -55,3 +56,4 @@ Independent sample t-test comparing posttest scores of the 20-student experiment
 - [ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported](six-plus-one-trait-model-critical-thinking-posttest-advantage.md) — related
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
+- [Second-grade students taught Arabic with pictorial stories significantly outperformed traditionally taught controls on an achievement test, with a large group effect](pictorial-story-raises-arabic-achievement-second-grade.md) — related

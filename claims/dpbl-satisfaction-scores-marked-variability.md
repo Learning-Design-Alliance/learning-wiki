@@ -46,3 +46,5 @@ The review's discussion of the quantitative synthesis noted that "satisfaction s
 
 ## Related Claims
 - [Medical students report a high overall satisfaction rate of 78.51% with digital problem-based learning across 20 studies](dpbl-medical-students-78-percent-satisfaction.md) — related
+- [Students reported lower difficulty in the DPBL approach than in the direct instruction approach](dpbl-lower-student-difficulty-than-direct-instruction.md) — related
+- [Students showed a more positive response toward the DPBL teaching approach than toward direct instruction](dpbl-more-positive-student-response-than-direct-instruction.md) — related

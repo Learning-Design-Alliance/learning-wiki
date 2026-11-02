@@ -20,6 +20,7 @@ A trained-rater checklist developed by Çer and Şahin for assessing children's 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Instructional-quality criteria pattern: what children's books should and should not contain**: A reusable evaluation pattern specifying the instructional qualities a children's book should avoid and foster. The article states that "such elements as advice and orders, te aching and memorising, fear and anxiety, gender d iscrimination, ideological discourse, traditional values, rules and prescriptive judgments, singular and never-changing truths, extremely emotional experiences, and violence of a psychological, emotional, or physical nature should not exist in children's books." Instead, books should contain elements that let children imagine, think freely, make decisions, cope with violence, foster creativity, and use initiative without emotional exploitation. (Erkan Çer (2016))
 
 ### Claims
 - [Trained raters given quality children's books rate their instructional qualities significantly higher than raters given non-quality books](../claims/checklist-instructional-quality-ratings-higher-for-quality-books.md) [+M]

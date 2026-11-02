@@ -51,3 +51,5 @@ Content-specialist coding of all 319 calculus and 205 physics exam questions on 
 - [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
 - [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — reports the opposite
+- [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
+- [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related

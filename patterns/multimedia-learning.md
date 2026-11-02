@@ -179,6 +179,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](../designs/mitosis-illustrated-text-emme-material.md)
 - [SOL-aligned multimedia lesson sequence for emergent bilinguals: key terms with images first, then short signaled sentences](../designs/sol-multimedia-lesson-sequence-eb.md): one setting's design applying pretraining, coherence, contiguity and signaling.
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
+- [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](../strategies/multimedia-and-homework-for-5e-phases.md)
 
 ## Related Patterns
 

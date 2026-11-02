@@ -53,3 +53,4 @@ Paired samples t-tests within the quasi-experiment: experimental group t = -30.9
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — reports the opposite
 - [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](ict-tourism-intragroup-faster-evolution.md) — related
 - [Both groups improved significantly from pre- to post-test, with greater progress in the test group](pre-post-gains-both-groups-test-greater.md) — related
+- [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — a narrower finding that bears on this claim

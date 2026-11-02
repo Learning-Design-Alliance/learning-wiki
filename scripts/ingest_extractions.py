@@ -205,11 +205,23 @@ def _own_article_lead(citation: str, lead: str, year: str | None = None) -> str 
     words = (lead or "").replace(".", " ").split()
     if not sur or len(words) < 2:
         return None
-    if words[-1].strip("*,;:").casefold() != sur[0].casefold():
+    lead_sur = words[-1].strip("*,;:")
+    if _fold(lead_sur) != _fold(sur[0]):
         return None
+    first = sur[0]
+    if _fold(lead_sur) != lead_sur.casefold():
+        # the citation's spelling keeps diacritics ERIC drops ("Bozavlı" for "Bozavli"), in title case
+        first = lead_sur.capitalize() if (lead_sur.isupper() or lead_sur.islower()) else lead_sur
     if len(sur) == 1:
-        return sur[0]
-    return f"{sur[0]} and {sur[1]}" if len(sur) == 2 else f"{sur[0]} et al."
+        return first
+    return f"{first} and {sur[1]}" if len(sur) == 2 else f"{first} et al."
+
+
+def _fold(name: str) -> str:
+    """Compare names without case or diacritics: ERIC records "Bozavli" for "Bozavlı", "Sengul" for "Sengül"."""
+    import unicodedata
+    name = name.replace("ı", "i").replace("İ", "I")
+    return "".join(c for c in unicodedata.normalize("NFKD", name) if not unicodedata.combining(c)).casefold()
 
 
 def _evidence_headings(evidence: list) -> list[dict]:

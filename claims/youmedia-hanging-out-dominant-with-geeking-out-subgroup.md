@@ -69,3 +69,4 @@ Staff reports gathered through interviews and observations indicated that many t
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [In Year 1, teens left on their own did not automatically connect with structured workshops; adult mentors reaching out socially changed this](youmedia-teens-needed-mentor-outreach-to-connect.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
+- [Students attributed non-attendance mainly to disapproval of school rules and routines, while staff attributed it to personal and social issues](student-staff-mismatch-absence-reasons.md) — related

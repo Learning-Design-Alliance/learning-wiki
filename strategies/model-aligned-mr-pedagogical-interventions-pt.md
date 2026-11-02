@@ -54,6 +54,7 @@ The review proposes directions for targeted pedagogical interventions grounded i
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Future research should explore emotion management strategies and exposure to emotionally evocative scenarios to support clinician performance and well-being](future-research-emotion-management-strategies.md)
+- [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
 
 ## Examples
 -

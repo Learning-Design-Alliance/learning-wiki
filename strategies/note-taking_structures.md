@@ -64,6 +64,7 @@ Structured notes work through two mechanisms: they reduce the transcription burd
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](coaching-framework-discussion-guide-grid-questions.md)
 - [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](structured-notetaking-verbatim-context-review.md)
 - [Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally](conditional-note-taking-advice.md)
+- [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
 
 ## Examples
 - **Cornell note-taking system** (Walter Pauk, Cornell University) — widely adopted across secondary and higher education; cue/notes/summary layout with a mandated review step.

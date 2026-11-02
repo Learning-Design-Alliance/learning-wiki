@@ -51,3 +51,4 @@ Related samples t-test on the 18 test-group students' SAS scores before and afte
 - [Conventional curriculum instruction also produced significant pretest-posttest gains in verbal skills and reductions in speech anxiety](conventional-instruction-also-improves-verbal-skills-and-anxiety.md) — related
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](drama-instruction-reduces-speech-anxiety-more-than-conventional.md) — related
 - [Test and control groups were equivalent at pretest on both Turkish verbal skills and speech anxiety](pretest-equivalence-verbal-skills-and-speech-anxiety.md) — related
+- [Writing anxiety decreased significantly in both the Facebook experimental group and the control group](writing-anxiety-decreased-both-groups.md) — related

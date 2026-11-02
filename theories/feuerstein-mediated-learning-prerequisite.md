@@ -17,7 +17,7 @@ sources:
 # Feuerstein's mediated learning: human mediation as prerequisite for direct learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 qualitative), `q1`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper presents Feuerstein's theory of mediated learning as filling a gap in Vygotsky's account of the human mediator. It states that "Learning mediated by another human being is indispensable for a child, because it helps to create in him or her those cognitive pre-requisites that then make direct learning effective". The three most important criteria of mediated learning are intentionality, transcendence and meaning; the mediator turns the learning situation from incidental into intentional. Feuerstein insisted that retarded performance stems not from a primary defect of the child but from a secondary lack of mediated learning experience.
@@ -40,6 +40,7 @@ The paper presents Feuerstein's theory of mediated learning as filling a gap in 
 
 - [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](../claims/direct-experience-insufficient-for-meaningful-learning.md) [+W]
 - [MLE mediation is reported as applicable and beneficial even when learners receive it late or face environmental, socio-economic or mental barriers](../claims/mle-beneficial-despite-barriers-or-late-mediation.md) [+W]
+- [Within the experimental group, RCPM scores improved significantly from pre-test to post-test following MLE intervention, while the control group showed no significant improvement](../claims/mle-intervention-significant-within-group-rcpm-gain.md) [+W] — attached 2026-11-02 from Seabi (2012), which proposed "Feuerstein's mediated learning experience and dynamic assessment framework"; tests this page's relationship.
 
 ## Related Theories
 

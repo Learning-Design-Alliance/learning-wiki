@@ -52,3 +52,4 @@ Comparative group testing across six Missouri schools, with bright and dull grou
 - [Twelve-year-old pupils in upper grades show much greater test ability than those in lower grades](twelve-year-olds-upper-grades-greater-ability.md) — related
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](binet-simon-grades-individual-differences.md) — related
 - [Ink-blot test results show a negative relation to the other tests and are related to age](ink-blot-test-negative-relation-age.md) — a narrower finding that bears on this claim
+- [Ascertaining experiment found practical-content tasks rarely solved and half of pupils lacking general learning skills without dedicated teaching](ascertaining-experiment-skills-gaps.md) — related

@@ -49,3 +49,4 @@ Review finding across the three studies (Second Step, RULER, 4Rs) that included 
 - [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](scoe-3000-educators-ruler-sel-training.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [CARE for Teachers improved the emotional support domain of observed classroom interaction quality (CLASS)](care-teachers-improves-classroom-emotional-support.md) — related

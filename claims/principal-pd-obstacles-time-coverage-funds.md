@@ -73,3 +73,4 @@ Subgroup comparison by school racial composition reported in the key findings, s
 - [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
 - [Schools where principals reported fewer technology barriers had higher student access and use and higher teacher access, use, assignments, and professional development](principal-barrier-reports-track-teacher-student-technology.md) — related
+- [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — related

@@ -49,3 +49,4 @@ Process evaluation collecting feedback from teachers, pupils and parents about m
 - [Prior evidence on uniformed youth group impacts lacked robust designs, with no comparison groups and reliance on self-report](uniformed-youth-groups-evidence-gap.md) — related
 - [School-based uniformed youth group participation showed no evidence of benefit for pupils' academic attainment, with small negative but low-quality effect estimates](youth-united-no-attainment-benefit.md) — related
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — a broader claim this one bears on
+- [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related

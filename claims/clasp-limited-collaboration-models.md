@@ -54,3 +54,4 @@ The evaluation's executive summary states that while Goal 1 was largely achieved
 - [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
 - [Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites](observational-effect-spread-collaboration-three-sites.md) — related
 - [Perceptions of the sustainability of collaboration efforts beyond the grant period were mixed across grantee sites, and some respondents doubted cooperation alone is a viable mechanism for improving school effectiveness](mixed-sustainability-perceptions-doubts-about-cooperation.md) — related
+- [Community partnerships steadily withdrew from the school after the intervention project lost support](partnership-withdrawal-after-project.md) — related

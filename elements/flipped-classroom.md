@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (18 for, 18 mixed, 4 against) · 22 studies (10 quant-synthesis, 8 causal, 3 review, 1 design), `q1`–`q4` · 7 of 22 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (20 for, 19 mixed, 5 against) · 25 studies (11 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 25 report an effect size · 43 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -64,6 +64,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](../claims/fc-student-resistance-self-learning.md) [-W]
 - [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](../claims/flipped-learning-no-posttest-advantage-video-production.md) [-W]
 - [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](../claims/fc-descriptive-mean-shifts.md) [-W]
+- [Experimental-class students gave significantly higher course evaluation ratings than control students on all selected questions](../claims/discussion-week-higher-course-evaluations.md) [+W]
+- [The MathsFlip effect on KS2 maths for FSM-eligible pupils was slightly higher than for all pupils but not statistically significant](../claims/mathsflip-fsm-subgroup-effect.md) [~W]
+- [Lesson observations indicated MathsFlip was delivered well, with class behaviour reflecting key components of a flipped learning approach](../claims/mathsflip-fidelity-observations-hots.md) [+W]
+- [No significant difference in teacher–student interaction ratings between the flipped and conventional OCW classroom groups](../claims/no-interaction-difference-flipped-conventional-ocw.md) [-W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

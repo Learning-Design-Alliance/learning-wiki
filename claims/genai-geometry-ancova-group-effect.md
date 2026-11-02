@@ -57,3 +57,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — related
+- [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related

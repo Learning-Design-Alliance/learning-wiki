@@ -108,6 +108,7 @@ Because working memory is severely limited and attention is selective, instructi
 
 **[Text-marking and annotation routines](../strategies/annotation.md)** — Requiring learners to mark key claims and evidence converts passive reading into attention-directing activity; distinctive marking exploits salience effects (see the [Von Restorff effect in text marking](../theories/von-restorff-effect-text-marking.md)).
 - [Train children's reporting by directing attention to essential details and teaching a critical attitude toward one's own report](../strategies/training-in-giving-reports.md)
+- [Use WM capacity measures for early identification and give clear, one-item-at-a-time instructions to children with attention deficits](../strategies/wm-screening-and-clear-instructions-attention-deficits.md)
 
 ## Key Sources
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

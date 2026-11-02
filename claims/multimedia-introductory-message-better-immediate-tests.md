@@ -57,3 +57,4 @@ Field quasi-experiment in four Croatian schools; experimental group (N=97) recei
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related
 - [Students taught regular polyhedra with multimedia lessons scored significantly higher than traditionally taught peers at both faculties](multimedia-lessons-higher-regular-polyhedra-scores.md) — related
 - [Textbook use is negatively correlated with school performance while diversification of teaching aids characterizes higher-performing schools](textbook-only-teaching-indicator-less-effective-learning.md) — related
+- [Baseline social studies learning in the two Muna elementary schools was non-contextual, with low student interest and very low social attitudes](muna-baseline-noncontextual-low-attitudes.md) — related

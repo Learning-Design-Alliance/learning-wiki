@@ -19,7 +19,7 @@ sources:
 # Accelerated Reader
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (2 mixed, 3 against) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (1 for, 2 mixed, 3 against) · 2 studies (1 causal, 1 review), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Accelerated Reader™ is Renaissance's software-based K–12 reading practice and assessment system in which students read books, complete computerized quizzes, and receive progress data for teacher monitoring and goal setting.
@@ -34,14 +34,15 @@ Accelerated Reader™ is Renaissance's software-based K–12 reading practice an
 - [Bullock (2005) RCT found no statistically significant Accelerated Reader effects on comprehension (STAR and 4J Vocabulary)](../claims/bullock-rct-null-comprehension-star-vocabulary.md) [-W]
 - [Bullock (2005) RCT found no statistically significant Accelerated Reader effects on reading fluency (DIBELS Oral Reading Fluency)](../claims/bullock-rct-null-reading-fluency-dibels.md) [-W]
 - [Nunnery and Ross (2007) reported significant grade 5 but not grade 8 TAAS effects, which were non-significant in WWC recalculation](../claims/nunnery-ross-taas-grade5-significant-wwc-recalculation-null.md) [~W]
+- [Accelerated Reader modestly improves reading scores for Year 7 pupils with weak KS2 English results, with an effect size of +0.24 after 22 weeks](../claims/ar-improves-reading-year7.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Accelerated Reader™. (2010). WWC Intervention Report: Accelerated Reader™, Adolescent Literacy. What Works Clearinghouse, U.S. Department of Education. http://www.renlearn.com/ar/
-
 <!-- merged 2026-10-10 from elements/accelerated-reader-program-element ("Accelerated Reader™ guided reading practice and quiz system"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Stephen Gorard, Nadia Siddiqui, Beng Huat See. (2015). Accelerated Reader Evaluation Report and Executive Summary. Education Endowment Foundation. https://www.gl-assessment.co.uk/products/new-group-reading-test/test-detail
 
 # Accelerated Reader™ guided reading practice and quiz system
 

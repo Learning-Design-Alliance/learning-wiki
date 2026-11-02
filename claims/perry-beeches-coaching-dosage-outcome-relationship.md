@@ -55,3 +55,4 @@ On-treatment analysis using coach-log total delivery time as dosage, ranging fro
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [The programme appeared more effective when coaches were highly trained, enthusiastic and committed and when secondary schools worked closely with feeder primaries](textnow-implementation-facilitators.md) — related
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
+- [No relationship was found between treatment dosage variables and students' response to the NS1 intervention](nsl1-no-dose-response-relationship.md) — related

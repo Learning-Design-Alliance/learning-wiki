@@ -30,8 +30,7 @@ Passport to Literacy is a semi-scripted small-group reading intervention program
 
 ### Claims
 - [Passport to Literacy produced a small positive but nonsignificant effect on GMRT reading comprehension (g = 0.28) relative to business-as-usual comparison](../claims/passport-literacy-gmrt-comprehension-small-nonsignificant-effect.md) [+M]
-- [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [+M]
-- [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [~M]
+- [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [+M] — (also cited [~M])
 
 ## Related Products and Programmes
 -

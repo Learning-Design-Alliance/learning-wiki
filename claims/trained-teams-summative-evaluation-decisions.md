@@ -49,3 +49,4 @@ Descriptive comparison of summative evaluation discussions for old problems in t
 - [Trained teams are more likely to report that solutions improved student behavior to goal, while untrained teams more often report worse or unclear status](trained-teams-report-goal-met-status.md) — related
 - [Trained teams use more reward elements and fewer system-change elements, and fewer solution steps overall, than untrained teams](trained-teams-solution-element-patterns.md) — related
 - [School teams frequently fail to measure whether solutions were implemented or effective before TIPS training, and 15.9% of developed solutions were never implemented](teams-rarely-measure-solution-implementation-effectiveness.md) — related
+- [After TIPS professional development, teams were more likely to define problems with precision, set implementation goals, and document implementation integrity and summative evaluation decisions](tips-pd-problem-processing-steps.md) — related

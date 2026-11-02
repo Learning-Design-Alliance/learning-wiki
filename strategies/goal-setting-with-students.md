@@ -67,6 +67,7 @@ Goal setting is one of the most robustly supported motivational interventions in
 - [Check-ins](../elements/check-in.md) — the recurring touchpoint that keeps goals alive rather than set-and-forgotten
 - [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — a broader structure in which goal setting is the planning phase
 - [Incorporate objective structured scoring systems and progressive dashboards into self-directed curricula to support motivation and autonomy development](objective-scoring-dashboards-self-directed-curricula.md)
+- [Use weekly instructor-set challenges with no physical rewards to sustain intrinsic motivation on practice platforms](weekly-challenges-no-physical-rewards-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — learners set mastery goals per skill; the dashboard tracks progress against them, externalizing the monitoring loop.

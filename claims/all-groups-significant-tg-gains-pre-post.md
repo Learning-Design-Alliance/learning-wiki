@@ -49,3 +49,4 @@ Paired-sample t-test analysis of pre- and post-test TGAT scores within each of t
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](construction-dgs-equals-manipulatives-beat-traditional.md) — related
 - [DGS instruction was most effective for recognizing transformations and stating their features, where it beat both manipulatives and traditional instruction](dgs-best-recognition-features-sections.md) — related
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
+- [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related

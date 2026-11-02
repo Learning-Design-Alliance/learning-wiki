@@ -51,3 +51,4 @@ Two-way ANOVA on the same 76-student quasi-experiment; curiosity was measured wi
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](strategy-curiosity-interaction-reading.md) — related
 - [Grade XI EFL students taught reading comprehension with the INSERT strategy achieved higher scores than those taught with SQ3R](insert-outperforms-sq3r-reading-comprehension.md) — related
 - [Positive information prediction errors are associated with better memory for low-curiosity answers, more strongly at older ages](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
+- [High-interest students outperformed medium- and low-interest students, while medium- and low-interest students did not differ](high-interest-beats-medium-low-medium-equals-low.md) — related

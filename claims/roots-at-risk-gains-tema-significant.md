@@ -53,3 +53,5 @@ Cluster-randomized trial with 29 classrooms (14 treatment, 15 control) using a n
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
+- [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
+- [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related

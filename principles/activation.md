@@ -28,7 +28,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (11 for, 15 mixed, 2 against) · 32 studies (14 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (12 for, 15 mixed, 2 against) · 33 studies (15 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ The present evidence does not establish an optimal activation format or duration
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](../claims/pbl-recall-benefit-general-not-explanation-specific.md) [+W]
 - [Activated prior knowledge must be relevant to the task; irrelevant knowledge can hamper learning](../claims/relevance-irrelevant-knowledge-hampers.md) [~W]
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](../claims/teachers-fail-to-activate-prior-knowledge.md) [~W]
+- [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](../claims/prereading-annotations-inform-instructor.md) [+W]
 
 ## Related Principles
 

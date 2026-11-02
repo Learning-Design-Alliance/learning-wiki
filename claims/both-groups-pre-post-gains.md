@@ -61,3 +61,4 @@ Paired t-test of pre-/post-test scores in the 80-student controlled experiment. 
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
 - [Constructive feedback through an error analysis system improves EFL students' writing more than traditional feedback methods](cfb-eas-beats-traditional-feedback-writing.md) — related
+- [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — a narrower finding that bears on this claim

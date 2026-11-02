@@ -44,6 +44,7 @@ As a future direction, the editors recommend moving beyond treating group learni
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit](video-guided-coaching-real-time-behavior-observation.md)
 - [Intelligent tools should dynamically process student activity to summarize group and individual contributions for educators](intelligent-educator-tools-summarize-group-work.md)
+- [Use group training for the computing-experiment stage and individual multi-level tasks for remaining stages](group-training-computing-experiment-stage.md)
 
 ## Examples
 -

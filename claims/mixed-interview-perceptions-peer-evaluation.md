@@ -46,3 +46,4 @@ Qualitative follow-up interviews with six experimental-group students selected b
 
 ## Related Claims
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
+- [Access to spell check and editing tools without explicit instruction did not improve, and may have reduced, control students' error correction](tool-access-alone-insufficient-editing.md) — related

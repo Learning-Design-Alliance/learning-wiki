@@ -54,3 +54,4 @@ The playbook reports, citing Grissom, Egalite, & Lindsay's systematic synthesis 
 - [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](principal-turnover-harms-achievement-climate-retention.md) — related
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
 - [Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years](residency-principals-raise-test-scores-first-two-years.md) — a narrower finding that bears on this claim
+- [The year-two decline in school climate scores is attributed to a leadership change focused on improving test scores](leadership-testing-focus-caused-decline.md) — a narrower finding that bears on this claim

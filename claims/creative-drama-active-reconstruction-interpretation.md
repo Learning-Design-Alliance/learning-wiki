@@ -50,3 +50,4 @@ Authors' theoretical interpretation offered in the discussion, not a separately 
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
+- [The authors interpret web-based virtual simulation as shifting the pilgrimage lesson from teacher-centred to student-centred learning consistent with constructivist learning theory](virtual-simulation-supports-student-centred-learning.md) — related

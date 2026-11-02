@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (86 show a difference, 15 mixed, 17 no difference) · 99 studies (50 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 27 of 99 report an effect size · 116 claims rest on one study
+> **Evidence** · 125 claims (90 show a difference, 15 mixed, 20 no difference) · 102 studies (53 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 102 report an effect size · 123 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -156,6 +156,13 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](../claims/layered-curriculum-prepost-gain.md) [+M] — instruction changes it
 - [The existing Science and Technology curriculum produced no significant pre-to-post change in 6th graders' problem solving skills test scores](../claims/existing-curriculum-no-problem-solving-gain.md) [-M] — instruction changes it
 - [Jumping task based on CPS produces higher problem-solving ability than sharing task based on CPS, which in turn outperforms conventional instruction, in eighth-grade mathematics](../claims/jumping-task-cps-beats-sharing-task-cps-and-conventional.md) [+M] — instruction changes it
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](../claims/both-groups-improved-social-problem-solving.md) [+M] — instruction changes it
+- [Critical thinking skills and problem solving skills are highly positively and significantly correlated in preservice elementary teachers](../claims/cts-pss-high-positive-correlation-preservice-teachers.md) [+M] — learners who differ on it differ in outcomes
+- [Integrated STEM education and constructivist teaching did not differ significantly on one-year permanence of reflective thinking skills towards problem solving](../claims/integrated-stem-rtssps-permanence-no-significant-difference.md) [-M] — instruction changes it
+- [Integrated STEM education and constructivist teaching did not differ significantly on reflective thinking skills towards problem solving at post-test, with the control group scoring higher](../claims/integrated-stem-rtssps-posttest-no-significant-difference.md) [-M] — instruction changes it
+- [Neither group showed a significant change in reflective thinking skills towards problem solving from post-test to one-year permanence test](../claims/rtssps-posttest-permanence-no-within-group-change.md) [-M] — instruction changes it
+- [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](../claims/pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) [+M] — instruction changes it
+- [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](../claims/tmpt-program-improves-preschool-social-problem-solving.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

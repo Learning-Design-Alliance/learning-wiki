@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 recheck_by: 2017
 sources:
   - id: national-foundation-for-educational-research-nfer-2014
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Very few interviewees reported learners receiving the intended two 15-minute sessions each week, with pupil and staff absences and scheduling cited as causes. [→ National Foundation for Educational Research (NFER) 2014](#national-foundation-for-educational-research-nfer-2014)
@@ -74,3 +75,5 @@ In the same interview study, the most cited barrier to delivery was "A lack of t
 - [The equivalent-time one-to-one group outperformed control (+0.27) with no significant difference from the Catch Up group, suggesting gains came from one-to-one teaching rather than Catch Up Numeracy itself](time-equivalent-one-to-one-gains-027-no-difference-catch-up.md) — related
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](youth-united-implementation-conditions.md) — related
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
+- [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
+- [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related

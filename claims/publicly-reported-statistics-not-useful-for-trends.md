@@ -77,3 +77,4 @@ Comparison of publicly reported proficiency trends with the report's own student
 - Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
 - [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — a narrower finding that bears on this claim
+- [No statistically significant differences in end-of-grade reading and math achievement between trained and waitlist schools](tips-pd-no-achievement-effect.md) — related

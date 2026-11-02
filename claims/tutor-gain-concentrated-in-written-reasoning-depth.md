@@ -54,3 +54,4 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
+- [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — related

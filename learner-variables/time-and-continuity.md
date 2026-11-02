@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (111 show a difference, 40 mixed, 19 no difference) · 145 studies (60 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 32 of 145 report an effect size · 166 claims rest on one study
+> **Evidence** · 172 claims (112 show a difference, 40 mixed, 20 no difference) · 147 studies (62 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 32 of 147 report an effect size · 168 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -227,6 +227,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [High-dosage Air Reading students (56+ sessions) showed larger significant gains (ES +0.32) than low-dosage students (ES +0.26), both significant versus control](../claims/air-reading-dosage-related-to-gains.md) [+M] — an instructional effect differs with it
 - [INSIGHTS improved math and reading achievement for low parent dosage participants, with no average impacts for high dosage participants](../claims/insights-achievement-impacts-low-parent-dosage.md) [~M] — an instructional effect differs with it
 - [Number of intervention sessions delivered is not associated with school-pair level impacts on TEMA-3](../claims/no-dosage-impact-relationship.md) [-M] — an instructional effect differs with it
+- [No relationship was found between treatment dosage variables and students' response to the NS1 intervention](../claims/nsl1-no-dose-response-relationship.md) [-M] — learners who differ on it differ in outcomes
+- [The gamified class attended more sessions and arrived late less often than the control class (78% vs 65% average attendance)](../claims/gamification-higher-attendance-programming-course.md) [+M] — instruction changes it
 
 ## The evidence by question
 

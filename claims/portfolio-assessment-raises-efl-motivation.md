@@ -49,3 +49,4 @@ Mann-Whitney U test on motivation questionnaire posttest scores of the same 65-s
 - [Students' self-reports corroborate the questionnaire finding that portfolio implementation enhanced their motivation](self-report-corroborates-portfolio-motivation-gain.md) — possibly the same claim (merge candidate)
 - [Portfolio-based writing assessment produced higher final examination writing scores than traditional non-portfolio assessment in an EFL composition course](portfolio-assessment-higher-efl-writing-exam-scores.md) — related
 - [Portfolio assessment is followed by a statistically significant posttest difference in idiom knowledge between Iranian upper-intermediate EFL learners who kept portfolios and those who received traditional instruction](portfolio-assessment-improves-idiom-knowledge-efl.md) — related
+- [TBLT increased EFL junior high students' motivation significantly more than traditional instruction](tblt-increases-motivation-efl-junior-high.md) — related

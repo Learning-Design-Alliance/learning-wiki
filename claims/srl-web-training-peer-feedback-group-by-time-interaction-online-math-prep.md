@@ -132,3 +132,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
+- [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](motivational-scaffolding-raises-academic-self-efficacy-elearning.md) — related

@@ -62,9 +62,11 @@ Contests leverage goal-setting and incentive structures: specific, difficult goa
 7. Close with reflection on what routines students want to keep, and fade external rewards deliberately
 
 ## Related Strategies
+
 - [Gamification](gamification.md) — contests are a minimal gamification layer; badges and quests extend the same mechanics
 - [Goal Setting](../elements/goal-setting.md) — the underlying mechanism contests operationalize
 - [Cooperative Learning](cooperative-learning.md) — team-based contests blend competition with collaboration
+- [Use weekly instructor-set challenges with no physical rewards to sustain intrinsic motivation on practice platforms](weekly-challenges-no-physical-rewards-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — tracking and scoring are the contest's feedback engine

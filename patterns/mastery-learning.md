@@ -30,7 +30,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (14 for, 16 mixed, 2 against) · 28 studies (9 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 28 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (14 for, 17 mixed, 2 against) · 29 studies (10 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 29 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](../claims/mastery-attrition-bias-confounds-learning-curves.md) [~W]
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
 - [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
+- [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](../claims/mathematics-mastery-quantile-regression-little-heterogeneity.md) [~W]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)

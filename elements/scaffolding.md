@@ -13,7 +13,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 6 studies (4 causal, 1 quant-synthesis, 1 associational), `q3` · 3 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (3 for, 3 mixed, 2 against) · 7 studies (5 causal, 1 quant-synthesis, 1 associational), `q3` · 4 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
@@ -43,6 +43,7 @@ Scaffolding is the element in which support is added temporarily so learners can
 - [Low-EF learners without visual scaffolding prefer bottom-up strategies, while low-EF learners with visual scaffolding shift toward top-down strategies](../claims/visual-scaffolding-shifts-low-ef-to-top-down.md) [+W] — attached 2026-10-29 from Huang et al. (2026), which proposed "Real-time visual scaffolding programming system with color-coded blocks and synchronized visual output".
 - [Real-time visual scaffolding does not significantly change high-EF learners' strategy use between scaffolding and non-scaffolding conditions](../claims/scaffolding-no-effect-high-ef-strategy.md) [~W] — attached 2026-10-29 from Huang et al. (2026), which proposed "Real-time visual scaffolding programming system with color-coded blocks and synchronized visual output".
 - [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](../claims/students-prefer-low-scaffolded-strategy-free-tutor.md) [-W]
+- [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](../claims/motivational-scaffolding-raises-academic-self-efficacy-elearning.md) [+W] — attached 2026-11-02 from Nilson Valencia-Vallejo et al. (2017), which proposed "Introductory Course to Mathematics e-learning environment with embedded four-stage motivational scaffolding"; tests this page's relationship.
 
 ## Related Elements
 - [Fading](fading.md)

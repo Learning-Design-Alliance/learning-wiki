@@ -59,9 +59,11 @@ Note-taking supports learning through two mechanisms: external storage for later
 5. Model the process with a [Think-Aloud](../elements/think-aloud.md) showing how an expert decides what to record and how to condense it.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — note-making applied directly to a text rather than a separate page
 - [Summarization](summarizing.md) — the core generative act within note-making
 - [Retrieval Practice](retrieval-practice-activities.md) — converting notes into cue questions turns review into retrieval
+- [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
 
 ## Examples
 - **Cornell note-taking system** (Pauk & Owens, *How to Study in College*) — the canonical two-column format with a mandatory summary stage; widely adopted in AVID college-readiness programs (https://www.avid.org).

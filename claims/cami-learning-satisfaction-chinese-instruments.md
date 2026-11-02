@@ -50,3 +50,4 @@ Post-instruction Learning Satisfaction Survey Questionnaire on a five-point Like
 - [Teachers observed better class order, longer student concentration and smoother teaching flow with CAMI](teacher-introspection-cami-classroom-benefits.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — reports the opposite
+- [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related

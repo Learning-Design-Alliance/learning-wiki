@@ -42,7 +42,8 @@ The treatment was a circuit of four exercises (Shuttle Run, Burpee, Jumping Jack
 - [Fitness Circuit Improved Cardiovascular Endurance Girls](../claims/fitness-circuit-improved-cardiovascular-endurance-girls.md) [+M]
 
 ## Related Designs
-- 
+
+- [Eight-week progressive plyometric training program of 20 exercises at 80-100% intensity added after warm-up to volleyball sessions](eight-week-plyometric-program-hearing-impaired.md)
 
 ## Examples
 -

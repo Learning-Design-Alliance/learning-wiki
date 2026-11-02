@@ -51,3 +51,4 @@ Descriptive fidelity results from 756 BiCACS observations across both conditions
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
+- [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related

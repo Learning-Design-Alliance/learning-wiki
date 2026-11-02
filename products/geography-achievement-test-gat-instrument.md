@@ -33,6 +33,7 @@ A researcher-developed geography achievement assessment by Ugodulunwa et al. mea
 - [Educational Materials and Methods Performance Test (EMPT)](educational-materials-and-methods-performance-test-empt.md)
 - [Science and Technology Achievement Test (STAT)](science-and-technology-achievement-test-stat.md)
 - [Academic Performance Tests in English Language (ATEL)](academic-performance-tests-in-english-language-atel.md)
+- [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
 
 ## Key Sources
 - Ugodulunwa, C., & Wakjissa, S. (2015). Use of Portfolio Assessment Technique in Teaching Map Sketching and Location in Secondary School Geography in Jos, Nigeria. Journal of Education and Practice, 6(17). http://www.iiste.org

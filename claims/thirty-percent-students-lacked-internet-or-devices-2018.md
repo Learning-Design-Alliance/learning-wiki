@@ -74,3 +74,4 @@ A spring 2020 national ParentsTogether survey of parents, reported in the Priori
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — a narrower finding that bears on this claim
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
+- [Home internet access gaps and pupil independence were key challenges; schools used homework clubs, and an estimated 10–15% of pupils did not do home tasks](mathsflip-access-challenges-homework-clubs.md) — related

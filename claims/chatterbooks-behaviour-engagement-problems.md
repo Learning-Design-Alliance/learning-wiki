@@ -51,3 +51,4 @@ Process evaluation based on observations of intervention sessions, telephone int
 - [Process evaluation found that session timing, pupil resentment and poor behaviour undermined engagement in Rhythm for Reading sessions](rhythm-for-reading-engagement-behaviour-problems.md) — a narrower finding that bears on this claim
 - [SMART Spaces was feasibly delivered in English schools, with teachers reporting faithful delivery and positive engagement](smart-spaces-feasible-delivery-english-schools.md) — reports the opposite
 - [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — reports the opposite
+- [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related

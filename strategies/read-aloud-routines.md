@@ -61,9 +61,11 @@ Reading aloud exposes learners to language and text structures above their indep
 6. **Close with discussion and extension** — return to the purpose, invite [Class Discussion](../elements/class-discussion.md), and connect to writing, [Act It Out](../elements/act-it-out.md), or retelling.
 
 ## Related Strategies
+
 - [Shared Reading](shared-reading.md) — learners see the print and join in; read aloud shifts more print work to the learner
 - [Repeated Reading](repeated-reading.md) — targets fluency through learner reading rather than listening
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — the front-loaded complement to in-text vocabulary pauses
+- [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
 
 ## Examples
 - **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of 2–3-year-olds trained in PEER questioning produced measurable expressive language gains in weeks.

@@ -47,3 +47,4 @@ Quasi-experimental pretest-posttest study with two intact groups of 38 intermedi
 ## Related Claims
 - [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related
 - [Before treatment, the reciprocal teaching and control groups did not differ significantly on IELTS reading pretest scores](rtp-study-pretest-equivalence.md) — related
+- [NLP instruction significantly improves ESP reading comprehension of Iranian undergraduate EFL learners](nlp-instruction-improves-esp-reading-comprehension.md) — related

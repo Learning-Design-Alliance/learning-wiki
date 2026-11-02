@@ -40,6 +40,7 @@ The article's findings point to support structures timed to program phases: ment
 
 - [Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment](inter-institutional-society-mentorship-registry.md)
 - [Provide flexible, supportive program structures — free tuition, Flex Lessons, personalized mentorship, and remote coursework — to enable working adult learners to persist](flexible-supportive-structures-working-adult-learners.md)
+- [Extend college support services over the summer through simple, cost-effective near-age mentor outreach](summer-near-age-mentor-outreach-strategy.md)
 
 ## Examples
 -

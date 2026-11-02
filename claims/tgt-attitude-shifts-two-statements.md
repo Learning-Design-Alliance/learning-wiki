@@ -67,3 +67,4 @@ Conclusion-section descriptive report of the two significant attitude items: "pa
 - [Gender had no significant multivariate effect on students' attitudes toward web-based computer games after TGT](gender-no-significant-effect-game-attitude.md) — related
 - [Three game-attitude variables (Learning, Confidence, Leisure) correlated with experimental-group posttest scores](game-attitude-variables-correlated-posttest.md) — related
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related
+- [Both groups showed statistically significant improvements in attitudes toward mathematics from pre-test to post-test](both-groups-attitude-gains-significant.md) — related

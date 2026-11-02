@@ -46,3 +46,4 @@ Independent samples t-test on cognitive attitude gain scores (posttest-pretest) 
 
 ## Related Claims
 - [5E inquiry learning activities did not change affective attitude toward chemistry relative to lecture-based teaching](5e-inquiry-no-affective-attitude-difference.md) — related
+- [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related

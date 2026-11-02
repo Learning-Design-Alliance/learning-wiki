@@ -41,6 +41,7 @@ Because practice with HOCS clicker questions did not improve HOCS exam performan
 
 - [Clicker Questions](clicker-questions.md)
 - [Combine diverse assessment categories (practical structure identification, oral tests, open-ended questions) rather than relying on MCQs alone](combine-assessment-categories-anatomy.md)
+- [Use POGIL and higher-order thinking questions to build preservice teachers' critical thinking and problem solving skills](pogil-higher-order-questions-strategy.md)
 
 ## Examples
 -

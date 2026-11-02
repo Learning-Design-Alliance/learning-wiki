@@ -59,9 +59,11 @@ Text Talk operationalizes dialogic questioning and vocabulary-in-context instruc
 6. Extend with follow-up activities such as [Act It Out](../elements/act-it-out.md) or drawing/writing that reuses story language.
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the broader parent/teacher questioning practice Text Talk builds on, adapted for group settings and vocabulary goals
 - [Interactive Read-Aloud](interactive-read-aloud.md) — the general practice Text Talk structures with specific question and vocabulary protocols
 - [Tiered Vocabulary Instruction](tiered-vocabulary-instruction.md) — the framework identifying Tier 2 words as the highest-leverage targets
+- [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
 
 ## Examples
 - **Beck & McKeown's Text Talk research lessons** — kindergarten and first-grade classrooms using published Text Talk lesson sets (e.g., for *A Chair for My Mother*), with questions planned around story events and words like *reluctant* or *commotion* explained in context.

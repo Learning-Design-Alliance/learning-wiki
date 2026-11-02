@@ -118,3 +118,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
+- [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](motivational-scaffolding-raises-academic-self-efficacy-elearning.md) — related

@@ -42,6 +42,7 @@ For extended-day (after-school and summer) programming, the report recommends em
 ## Related Strategies
 
 - [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
+- [Extend college support services over the summer through simple, cost-effective near-age mentor outreach](summer-near-age-mentor-outreach-strategy.md)
 
 ## Examples
 -

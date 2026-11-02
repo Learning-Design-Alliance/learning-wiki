@@ -53,3 +53,4 @@ Second set of partially clustered time × condition models comparing ROOTS stude
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related
 - [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
 - [ROOTS participation reduced the achievement gap between at-risk and non-at-risk students within intervention classrooms on the TEMA](roots-closed-achievement-gap-tema.md) — related
+- [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related

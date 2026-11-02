@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 179 claims (119 show a difference, 39 mixed, 21 no difference) · 132 studies (42 review, 31 causal, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 36 of 132 report an effect size · 175 claims rest on one study
+> **Evidence** · 181 claims (121 show a difference, 39 mixed, 21 no difference) · 134 studies (42 review, 33 causal, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 36 of 134 report an effect size · 177 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -220,6 +220,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [ACCESS does not improve self-reported interpersonal functioning relative to delayed treatment among college students with ADHD](../claims/access-no-interpersonal-gains.md) [-M] — instruction changes it
 - [Experimental-group students reported larger cultural gains than control-group students, including respect for values and beliefs (92% vs 80%) and awareness of social issues (88% vs 71%)](../claims/song-education-cultural-gains.md) [+M] — instruction changes it
 - [Teachers reported that cross-age peer tutoring improved peer relationships and social interaction between year groups](../claims/peer-tutoring-improved-cross-year-group-relationships.md) [+M] — instruction changes it
+- [IY TCM improves elementary students' social competence](../claims/iytcm-improves-social-competence.md) [+M] — instruction changes it
+- [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](../claims/tmpt-program-improves-preschool-social-problem-solving.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

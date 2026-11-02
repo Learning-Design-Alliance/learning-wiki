@@ -55,3 +55,4 @@ Within-class comparison of SWPBIS versus comparison schools in the 4-year group-
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
 - [In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data](swpbis-reduced-odr-percentage.md) — related
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
+- [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related

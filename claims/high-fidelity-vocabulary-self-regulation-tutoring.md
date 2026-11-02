@@ -53,3 +53,4 @@ Fidelity observation analysis: fourteen observations across both tutors rated ea
 - [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](cbc-fidelity-high-rural-trial.md) — related
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
+- [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related

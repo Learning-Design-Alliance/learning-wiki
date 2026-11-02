@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-02
 sources:
   - id: enayati-and-gilakjani-2020
     resource: "https://doi.org/10.26858/ijole.v4i2.10560"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group taught with TMM software scored significantly higher on the post-test than the control group taught conventionally (t(59) = 2.59, p = .01). [→ Enayati and Gilakjani 2020](#enayati-and-gilakjani-2020)
@@ -57,3 +58,5 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [Supplemental blended learning with the Memrise app produced significantly higher post-test vocabulary scores than face-to-face instruction in Iranian EFL learners](memrise-blended-learning-vocabulary-posttest-gain.md) — related
 - [Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest](wikipedia-online-texts-improve-efl-vocabulary.md) — related
+- [Intermediate EFL learners using the Digital Kitchen achieved significantly higher immediate post-test vocabulary gains than learners using a printed recipe in a normal kitchen](digital-kitchen-post-test-vocabulary-gains.md) — a narrower finding that bears on this claim
+- [Teaching phrasal verbs through pictures significantly improves pre-intermediate EFL learners' active application of phrasal verbs in speaking](pictures-improve-active-phrasal-verb-use-speaking.md) — related

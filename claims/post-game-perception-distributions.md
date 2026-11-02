@@ -48,3 +48,4 @@ Descriptive statistics from the post-game survey of the 29 game-condition studen
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Playing a web-based simulation game produces significantly higher deep-learning strategy use than no-game conventional teaching, controlling for pre-game strategy use](simulation-game-increases-deep-learning-strategy.md) — related
 - [The simulation game group felt significantly less competent than the no-game group, with no significant differences in interest or effort](simulation-game-lowers-competence-no-interest-effort-effect.md) — related
+- [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related

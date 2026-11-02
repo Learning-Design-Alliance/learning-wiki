@@ -70,3 +70,4 @@ Bonferroni tests on the retention test showed all three experimental groups sign
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related
+- [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — a narrower finding that bears on this claim

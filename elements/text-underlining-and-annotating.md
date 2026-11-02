@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (5 for, 8 mixed, 5 against) · 13 studies (7 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 4 of 13 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (6 for, 9 mixed, 5 against) · 14 studies (8 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 4 of 14 report an effect size · 19 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.
@@ -81,6 +81,8 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [The two classes did not differ in the amount of underlining/highlighting or in appropriate identification of the argument while underlining](../claims/no-class-difference-in-underlining-amount-or-identification.md) [-W]
 - [Descriptive vocabulary means ranked bolding highest (17.95), followed by underlining (15.75), capitalizing (14.30), and control (13.35)](../claims/vocabulary-means-ranking-four-groups.md) [+W]
 - [Grade XI EFL students taught reading comprehension with the INSERT strategy achieved higher scores than those taught with SQ3R](../claims/insert-outperforms-sq3r-reading-comprehension.md) [+W] — attached 2026-11-01 from Busmin Gurning et al. (2017), which proposed "INSERT (Interactive Notation System for Effective Reading and Thinking) strategy"; tests this page's relationship.
+- [The Web-based annotation tool alone did not affect achievement, but with a sharing mechanism it produced significantly higher achievement than paper-and-pen annotation](../claims/annotation-tool-effect-only-with-sharing.md) [~W] — attached 2026-11-02 from Wu-Yuin Hwang et al. (2011), which proposed "VPEN Web-based multimedia annotation system with sharing mechanism"; tests this page's relationship.
+- [Pre-reading classes produced more annotations, and the sharing mechanism widened the annotation-quantity gap between pre-reading and non-pre-reading classes](../claims/sharing-widens-annotation-quantity-gap.md) [+W] — attached 2026-11-02 from Wu-Yuin Hwang et al. (2011), which proposed "VPEN Web-based multimedia annotation system with sharing mechanism".
 
 ## The evidence by question
 - *Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [+S]

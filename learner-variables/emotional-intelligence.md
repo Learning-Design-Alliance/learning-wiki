@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (49 show a difference, 18 mixed, 9 no difference) · 51 studies (15 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 51 report an effect size · 75 claims rest on one study
+> **Evidence** · 77 claims (50 show a difference, 18 mixed, 9 no difference) · 52 studies (16 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 52 report an effect size · 76 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -112,6 +112,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [The schoolMAX intervention was superior to services-as-usual on emotion recognition, ASD symptoms, and social/communication skills in the prior cluster RCT](../claims/schoolmax-superior-to-sau-primary-outcomes.md) [+M] — instruction changes it
 - [Emotionalized dynamic assessment produces higher posttest trait emotional intelligence scores than pure dynamic assessment and normal instruction in intermediate EFL learners](../claims/eda-raises-trait-ei-more-than-da-and-control.md) [+M] — instruction changes it
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+M] — instruction changes it
+- [IY TCM improves elementary students' emotional regulation](../claims/iytcm-improves-emotional-regulation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

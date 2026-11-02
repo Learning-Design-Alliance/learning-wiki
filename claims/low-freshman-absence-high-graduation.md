@@ -53,3 +53,4 @@ An observational analysis of Chicago Public Schools attendance and graduation re
 - [CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied](chsri-freshmen-fewer-absences.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
+- [Breakfast club provision improved school attendance, resulting in about 26 fewer half-days of absence per year for a class of 30](breakfast-club-improved-attendance.md) — related

@@ -61,3 +61,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
 - [A smaller share of the treatment group (50%) than the control group (70%) demonstrated reading proficiency on the 2011-2012 reading FCAT after the intervention](treatment-50-versus-control-70-proficiency.md)
 - [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
+- [Students in SWH treatment schools gained about one-tenth of a standard deviation in Mathematics scores per quarter of exposure, erasing an initial disadvantage of roughly 0.4 SD after four semesters](swh-math-scores-gain-per-quarter.md) — related

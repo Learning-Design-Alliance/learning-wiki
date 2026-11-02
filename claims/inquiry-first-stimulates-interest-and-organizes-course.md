@@ -55,3 +55,4 @@ This is the author's experiential claim in the WHAT NEXT? section, offered witho
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related
+- [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](prereading-annotations-inform-instructor.md) — a narrower finding that bears on this claim

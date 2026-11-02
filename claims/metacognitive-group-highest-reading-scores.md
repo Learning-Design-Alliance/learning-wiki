@@ -86,3 +86,4 @@ Descriptive statistics for the cognitive strategy group in the same quasi-experi
 ## Related Claims
 - [Strategy-use scores showed no significant correlation with reading scores in the cognitive and social/affective groups](strategy-use-no-correlation-reading.md) — related
 - [PBL improves EFL reading proficiency and metacognitive reading strategies, though some studies lack control groups](pbl-improves-efl-reading-proficiency.md) — related
+- [Neither training type significantly changes social strategy use, and the memory-trained group shows no significant metacognitive-strategy-use difference](strategy-training-no-social-metacognitive-effect.md) — related

@@ -68,3 +68,4 @@ ANOVA of the experimental group's problem-solving scores between post-test 1 (LS
 - [Applying the intervention to the control group produced statistically and practically significant gains in both problem recognition (d = 1.5) and problem-solving (d = 2.2)](control-group-gains-after-second-intervention.md) — related
 - [Performance depended on group-by-time interaction: a highly significant interaction effect (p < 0.00001) was obtained for both problem recognition and problem-solving](group-time-interaction-effect-problem-competencies.md) — related
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related

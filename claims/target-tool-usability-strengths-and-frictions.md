@@ -66,3 +66,4 @@ Interview data on the satisfaction subtheme: teachers expressed a positive attit
 ## Related Claims
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
+- [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related

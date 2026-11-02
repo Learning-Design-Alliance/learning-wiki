@@ -48,3 +48,4 @@ Pooled short-term findings from five randomized trials at six colleges operating
 ## Related Claims
 - [Short-term impacts on targeted-subject credits varied by college, with Kingsborough's estimated impacts the largest](learning-community-impacts-vary-by-college.md) — related
 - [A one-semester learning community program at Kingsborough Community College increased six-year degree completion by 4.6 percentage points](kingsborough-learning-communities-six-year-degree-impact.md) — related
+- [Experimental research on developmental education is in extreme shortage, with the Kingsborough learning communities random assignment study the most well-known example](shortage-of-experimental-research-developmental-education.md) — related

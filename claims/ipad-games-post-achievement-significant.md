@@ -68,3 +68,4 @@ Total-test row of the post-test ANOVA table (Table 6) prints F = 74.54, signific
 - [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
+- [Pre-reading significantly improves sixth-grade social-course learning achievement in both phases of an 8-week quasi-experiment](pre-reading-improves-achievement-social-course.md) — related

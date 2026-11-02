@@ -54,3 +54,5 @@ Subgroup analysis of the randomised trial: FSM pupils (n=98) gained +0.05 (CI -0
 - [Subgroup analyses by gender, ethnicity, free school meal status and baseline ability all showed point estimates near zero with wide confidence intervals.](hampshire-hundreds-subgroup-analyses-null.md) — related
 - [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](passive-dissemination-no-impact-everfsm-subgroup.md) — related
 - [Switch-on Reading shows a considerably higher effect for pupils with special educational needs (+0.33)](switch-on-sen-higher-effect.md) — related
+- [Switch-on showed no effect on reading outcomes for pupils eligible for free school meals](switch-on-no-effect-fsm-pupils.md) — related
+- [Secondary analysis suggests possible spill-over effects of Switch-on on non-participating pupils, tentatively negative for eligible non-selected pupils and positive for ineligible classmates](switch-on-spillover-non-participating-pupils.md) — related

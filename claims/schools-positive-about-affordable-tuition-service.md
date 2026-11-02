@@ -54,3 +54,4 @@ Findings from the process-evaluation interviews with senior leaders, classroom t
 - [Year 11 pupils receiving Tutor Trust mathematics tuition achieved slightly higher mathematics GCSE scores than comparison pupils, but this difference cannot be attributed to the tuition](tutor-trust-maths-gcse-slightly-higher-not-attributable.md) — related
 - [Schools involved in qualitative interviews were positive about the tuition, keen to work with the Tutor Trust again, and confident it benefited their pupils](tutor-trust-schools-positive-qualitative.md) — possibly the same claim (merge candidate)
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — a narrower finding that bears on this claim
+- [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related

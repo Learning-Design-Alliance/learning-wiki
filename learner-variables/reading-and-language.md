@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 281 claims (172 show a difference, 49 mixed, 60 no difference) · 189 studies (59 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 44 of 189 report an effect size · 272 claims rest on one study
+> **Evidence** · 283 claims (173 show a difference, 49 mixed, 61 no difference) · 191 studies (61 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 44 of 191 report an effect size · 274 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -332,6 +332,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+M] — instruction changes it
 - [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [-M] — instruction changes it
 - [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](../claims/lower-ability-students-benefited-most-peer-tutoring.md) [+M] — an instructional effect differs with it
+- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+M] — instruction changes it
+- [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](../claims/audiovisual-group-stable-retention-weeks.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

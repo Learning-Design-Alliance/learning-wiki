@@ -69,3 +69,4 @@ Final-exam aligned item in the same crossover design, where group roles had reve
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — a broader claim this one bears on
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — reports the opposite
+- [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — related

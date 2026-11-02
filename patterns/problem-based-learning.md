@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 144 claims (51 for, 82 mixed, 11 against) · 79 studies (32 quant-synthesis, 19 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 79 report an effect size · 139 claims rest on one study
+> **Evidence** · 145 claims (52 for, 82 mixed, 11 against) · 80 studies (32 quant-synthesis, 20 causal, 11 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 22 of 80 report an effect size · 140 claims rest on one study
 
 ## Description and scope
 
@@ -236,6 +236,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL vs LBL alone produces higher excellence rates than PBL+LBL vs LBL in Chinese medical courses](../claims/pbl-alone-higher-excellence-than-pbl-lbl-combination.md) [~W]
 - [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](../claims/pbl-authentic-environment-difficult-words-interpretation.md) [+W]
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
+- [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

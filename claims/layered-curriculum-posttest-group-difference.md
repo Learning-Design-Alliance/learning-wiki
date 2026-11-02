@@ -52,3 +52,4 @@ Between-group t-test on post-test scores of 30 experimental versus 30 control st
 - [The existing Science and Technology curriculum produced no significant pre-to-post change in 6th graders' problem solving skills test scores](existing-curriculum-no-problem-solving-gain.md) — related
 - [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](layered-curriculum-prepost-gain.md) — related
 - [Students performing Layered Curriculum activities encountered problems particularly in the B and A layers, mainly in organizing and accessing information](layered-curriculum-problems-b-a-layers.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related

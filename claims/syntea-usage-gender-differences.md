@@ -57,3 +57,4 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — related
 - [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](syntea-usage-declines-older-cohorts.md) — related
+- [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related

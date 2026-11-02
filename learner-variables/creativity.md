@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (101 show a difference, 27 mixed, 13 no difference) · 73 studies (27 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 73 report an effect size · 139 claims rest on one study
+> **Evidence** · 145 claims (104 show a difference, 27 mixed, 14 no difference) · 75 studies (29 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 75 report an effect size · 143 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -176,6 +176,10 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](../claims/brainstorming-improves-fluency-flexibility-originality.md) [+M] — instruction changes it
 - [Brainstorming instruction raised 10th-grade students' total creative-thinking posttest scores in English relative to conventional teaching](../claims/brainstorming-improves-creative-thinking-posttest-english.md) [+M] — instruction changes it
 - [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](../claims/creact-between-group-subcomponents-significant.md) [+M] — instruction changes it
+- [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](../claims/dpbl-outperformed-direct-instruction-outcomes.md) [+M] — instruction changes it
+- [High and average creative-ability students significantly outperformed low creative-ability students, but high and average did not differ](../claims/scheffe-high-average-beat-low-creative-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](../claims/lecturers-rated-dpbl-appropriate-and-effective.md) [+W] — instruction changes it
+- [The interaction between instructional method and creative ability on sculpture post-test performance was not significant](../claims/instruction-method-creative-ability-interaction-null.md) [-M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

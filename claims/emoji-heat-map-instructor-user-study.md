@@ -66,3 +66,4 @@ Satisfaction and ease-of-use questionnaire (USE-based, five-point Likert) admini
 ## Related Claims
 - [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](heat-map-alignment-interesting-vs-difficult.md) — related
 - [Special-issue evidence: a knowledge-graph-enriched legal-writing textbook led to better learning outcomes than baselines, and aggregated emoji annotations helped teachers identify challenging text](special-issue-textbook-enhancements-outcomes.md) — related
+- [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](prereading-annotations-inform-instructor.md) — related

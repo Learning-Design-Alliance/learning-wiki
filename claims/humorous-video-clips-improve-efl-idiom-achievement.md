@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: malihe-neissari-2017
     resource: "https://eric.ed.gov/?id=EJ1156181"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a two-month treatment, the experimental group taught with humorous video clips significantly outperformed the control group on a 40-item idiom posttest. [→ Malihe Neissari 2017](#malihe-neissari-2017)
@@ -47,3 +48,5 @@ Quasi-experimental nonequivalent intact-groups study at the University of Bojnor
 ## Related Claims
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
 - [Before treatment, the experimental and control groups did not differ significantly on idiom pretest scores](idiom-drawing-groups-homogeneous-pretest.md) — possibly the same claim (merge candidate)
+- [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related
+- [Exposure to TV-series video clips did not produce a statistically significant advantage in immediate learning of formulaic sequences](tv-clips-no-significant-fs-learning-difference.md) — related

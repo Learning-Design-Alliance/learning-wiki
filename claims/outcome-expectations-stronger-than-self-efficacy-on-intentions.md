@@ -49,3 +49,4 @@ Path analysis results (Fig. 2) in the 144-participant sample: self-efficacy infl
 - [The Social Cognitive Model of Technology Integration explains 55% of variation in preservice teachers' technology integration intentions](scmti-explains-55-percent-intention-variance.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — a broader claim this one bears on
+- [Learning interest significantly influences social science learning outcomes of elementary students](learning-interest-influences-social-science-outcomes.md) — related

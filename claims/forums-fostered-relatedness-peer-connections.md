@@ -55,3 +55,4 @@ Theme 3 from inductive interview analysis; 73 codes related to positive peer rel
 - [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](general-whatsapp-use-socio-professional-connections.md) — related
 - [Dense networks with similar others and strong bonds foster perceived learning in online networks.](dense-networks-foster-perceived-learning.md) — related
 - [WhatsApp use during clinical placements was positively associated with professional identity and placement satisfaction but negatively associated with feelings of professional isolation](whatsapp-placement-correlates.md) — related
+- [Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues](ofd-learner-perceptions-seven-themes.md) — related

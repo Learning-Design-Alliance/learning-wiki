@@ -17,7 +17,7 @@ sources:
 # Combine traditional explicit vocabulary instruction with subtitled authentic video viewing to serve both short- and long-term retention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the study found traditional instruction superior for short-term retention and subtitled-video viewing superior for long-term retention, the authors recommend that "different methods f leaning vocabulary should be adopted" to achieve better retention in both periods. The strategy pairs explicit presentation techniques with incidental learning through subtitled sitcom viewing rather than treating either as a substitute.
@@ -40,7 +40,7 @@ Because the study found traditional instruction superior for short-term retentio
 
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](../claims/subtitled-videos-better-long-term-vocabulary-retention.md) [+M]
 - [Traditional explicit vocabulary instruction outperformed subtitled-video viewing on short-term retention in an 8-week EFL vocabulary course](../claims/traditional-instruction-better-short-term-vocabulary-retention.md) [+M]
-- [Individual control-group learners showed sharp declines in vocabulary scores from post-test to delayed post-test](../claims/control-group-individual-sharp-decline-delayed-posttest.md) [+W]
+- [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](../claims/control-group-individual-sharp-decline-delayed-posttest.md) [+W]
 - [Experimental-group learners maintained nearly the same vocabulary scores across the two test administrations](../claims/experimental-group-stable-scores-delayed-posttest.md) [+W]
 
 ## Related Strategies

@@ -55,3 +55,4 @@ Subgroup analysis of four RCTs (n=135) of standalone serious games within the kn
 - [Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)](simulation-games-as-supplement-not-standalone.md) — reports the opposite
 - [In the under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games are the only nodes whose estimates versus Control exclude zero, led by Hybrid TGfU-SE (SMD 1.35)](tgfu-se-nonlinear-functional-games-beat-control-under18.md) — related
 - [Most included studies reported a positive effect of game-thinking on academic achievement](majority-studies-report-positive-effect.md) — a broader claim this one bears on
+- [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related

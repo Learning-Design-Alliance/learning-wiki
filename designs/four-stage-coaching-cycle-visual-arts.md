@@ -44,6 +44,7 @@ The article adopts the Parsloe and Wray conception of coaching as "a process fur
 ## Related Designs
 
 - [Nine-activity implementation pattern for the coaching method's will-to-act stage in art history seminars](nine-activity-coaching-will-to-act-pattern.md)
+- [Three-stage implementation of the model: propaedeutic, activity-based, and outcome-correction](three-stage-model-implementation-propaedeutic-activity-outcome.md)
 
 ## Examples
 -

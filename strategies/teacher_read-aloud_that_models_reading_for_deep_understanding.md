@@ -61,10 +61,12 @@ Read-alouds work because they decouple comprehension modeling from decoding: lea
 6. Follow with [practice](../elements/practice.md) in shared, guided, or independent reading where learners apply the same strategy, and provide [feedback](../elements/assessment.md) on their attempts.
 
 ## Related Strategies
+
 - Think-Aloud Modeling — the core modeling move inside an effective read-aloud
 - Shared Reading — the next step on the gradual release, where learners see the print while the teacher supports
 - Dialogic Reading — a learner-led variant for early childhood
 - Vocabulary Instruction in Context — the vocabulary pathway the read-aloud opens
+- [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
 
 ## Examples
 - **[Text Talk](text-talk.md)** (Beck & McKeown, 2001) — a published read-aloud program in which teachers read narrative texts, ask decontextualized questions after segments, and follow with explicit vocabulary instruction on words from the story.

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/comprehensive-local-assessment-model-strategy.md
+---
+
+# Revision history: [strategies/comprehensive-local-assessment-model-strategy](../strategies/comprehensive-local-assessment-model-strategy.md)
+
+### 2026-11-02 · ingest · process:wiki-ingest
+Ingested from eric-ej974689 (The Impact of a Junior High School Community Intervention Project: Moving beyond the Testing Juggernaut and into a Community of Creative Learners) via eval_harness.py + ingest_extractions.py

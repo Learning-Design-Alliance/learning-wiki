@@ -52,3 +52,4 @@ ANCOVA on the 20-item food-and-drink habits questionnaire (Cronbach's α = 0.85)
 - [Game-based and PowerPoint instruction produced no significant difference in students' attitudes toward the nutrition course](no-attitude-difference-game-versus-powerpoint.md) — related
 - [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](game-based-nutrition-knowledge-better-than-powerpoint.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
+- [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related

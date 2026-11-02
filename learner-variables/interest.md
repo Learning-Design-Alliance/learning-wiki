@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 239 claims (170 show a difference, 42 mixed, 27 no difference) · 162 studies (66 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 162 report an effect size · 233 claims rest on one study
+> **Evidence** · 241 claims (171 show a difference, 42 mixed, 28 no difference) · 163 studies (67 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 163 report an effect size · 235 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -274,6 +274,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Students with high curiosity achieved higher reading comprehension scores than students with low curiosity](../claims/high-curiosity-higher-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — an instructional effect differs with it
 - [Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book](../claims/diaries-report-books-pique-curiosity.md) [+W] — instruction changes it
+- [High-interest students outperformed medium- and low-interest students, while medium- and low-interest students did not differ](../claims/high-interest-beats-medium-low-medium-equals-low.md) [+M] — learners who differ on it differ in outcomes
+- [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

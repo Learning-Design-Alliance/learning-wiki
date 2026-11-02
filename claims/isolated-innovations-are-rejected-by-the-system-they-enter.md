@@ -139,3 +139,4 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
 - [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related
 - [Most studies of mobile pedagogies in K-12 schools report low to medium innovation, with only a small minority showing radically innovative, disruptive practices](slr-mobile-pedagogies-low-medium-innovation-most-studies.md) — related
+- [Adoption of the four teaching methods depends on teachers' technical competence, and the DLP option was judged most feasible for Chhattisgarh schools facing low teacher motivation and competence](teacher-technical-competence-gates-ict-method-adoption.md) — related

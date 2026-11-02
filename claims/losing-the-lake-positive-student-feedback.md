@@ -56,3 +56,4 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Experimental-group students most frequently named Kahoot as what helped them prepare for the exam](kahoot-named-top-exam-prep-tool.md) — related
 - [Learners using TMM showed positive engagement, motivated by the software's scoring feature](tmm-scoring-feature-drove-learner-engagement.md) — related
+- [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related

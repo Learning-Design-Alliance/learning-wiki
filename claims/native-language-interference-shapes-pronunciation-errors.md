@@ -51,3 +51,4 @@ Narrative review section on factors influencing pronunciation mastery. The diges
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — a narrower finding that bears on this claim
 - [AI-GFCA students show better pronunciation, fluency and IELTS speaking predictor scores than AI-C students, but intonation does not differ](ai-gfca-english-speaking-skills.md) — related
 - [Pronunciation of words by a narrator or by the learner inhibits foreign vocabulary learning](pronunciation-inhibits-vocabulary-learning.md) — related
+- [Native-speaker raters of Arabic-accented English speech focused more on prosodic elements (stress, rhythm, intonation, speech rate, sentence melody) than on individual sounds](ns-raters-focus-on-prosodic-elements.md) — related

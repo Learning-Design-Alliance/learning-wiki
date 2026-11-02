@@ -88,3 +88,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](blended-learning-limited-interaction-distractions.md) — related
+- [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — related

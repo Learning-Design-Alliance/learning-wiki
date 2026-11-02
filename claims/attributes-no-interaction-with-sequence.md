@@ -70,3 +70,4 @@ In the experimental design MANCOVA with the three survey-derived attribute facto
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](prior-achievement-null-self-efficacy.md) — related
 - [Eleven of the included studies reported positive effects of graphing or graphing instruction, and none reported negative effects](eleven-studies-positive-effects-none-negative.md) — related
+- [Learning interest significantly influences social science learning outcomes of elementary students](learning-interest-influences-social-science-outcomes.md) — related

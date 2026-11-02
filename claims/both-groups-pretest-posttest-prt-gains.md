@@ -78,3 +78,4 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 - [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
 - [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related

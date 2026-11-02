@@ -70,3 +70,4 @@ The article attributes this finding to its research team's kindergarten efficacy
 ## Related Claims
 
 - [Preliminary COSTI observations suggest students in ROOTS-small (2:1) groups received rates of practice opportunities greater than or equal to peers in ROOTS-large (5:1) groups](roots-small-group-practice-rates.md) — related
+- [Two-student ROOTS groups produced higher rates of individual practice opportunities and lower rates of group practice opportunities than five-student groups, with no differences on other instructional interactions](group-size-instructional-interaction-rates.md) — a narrower finding that bears on this claim

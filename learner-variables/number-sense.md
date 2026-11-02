@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 128 claims (94 show a difference, 19 mixed, 15 no difference) · 57 studies (26 associational, 22 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 25 of 57 report an effect size · 124 claims rest on one study
+> **Evidence** · 129 claims (95 show a difference, 19 mixed, 15 no difference) · 58 studies (26 associational, 23 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 25 of 58 report an effect size · 125 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -163,6 +163,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [No significant gender difference was found in early numeracy improvement in either experimental group](../claims/no-gender-difference-numeracy-improvement.md) [-M] — learners who differ on it differ in outcomes
 - [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
 - [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](../claims/building-blocks-cai-improves-proximal-numeracy-kindergarten.md) [+M] — instruction changes it
+- [Treatment condition had a significant omnibus effect on children's number sense and place value skills in pre-kindergarten](../claims/mtp-ms-omnibus-number-sense-place-value.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

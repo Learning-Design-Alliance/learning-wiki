@@ -42,7 +42,8 @@ The intervention was a balance circuit training on varying surfaces with eight s
 - [Balance Training Improves Dynamic Balance Only](../claims/balance-training-improves-dynamic-balance-only.md) [+M]
 
 ## Related Designs
-- 
+
+- [Eight-week progressive plyometric training program of 20 exercises at 80-100% intensity added after warm-up to volleyball sessions](eight-week-plyometric-program-hearing-impaired.md)
 
 ## Examples
 -

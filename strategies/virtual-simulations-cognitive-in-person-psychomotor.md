@@ -49,6 +49,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Use laboratory teaching approaches that develop scientific process skills and include activities in which students take responsibility](laboratory-activities-develop-process-skills-and-responsibility.md)
+- [Prioritize virtual simulation methods in teachers' instructional design, especially for practical worship topics](prioritize-virtual-simulation-instructional-design.md)
 
 ## Examples
 -

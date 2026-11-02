@@ -67,3 +67,4 @@ Two independent-samples t-tests on game-recorded measures found "no signi ﬁcan
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](path-analysis-competition-motivation-accuracy.md) — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
+- [Model-based training produced positive dynamics of technical and tactical actions in competition compared with the control group](model-training-improved-technical-tactical-actions-lapta.md) — related

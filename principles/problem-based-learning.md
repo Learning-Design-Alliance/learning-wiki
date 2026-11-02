@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 121 claims (48 for, 64 mixed, 9 against) · 75 studies (32 quant-synthesis, 12 review, 11 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 75 report an effect size · 116 claims rest on one study
+> **Evidence** · 125 claims (51 for, 65 mixed, 9 against) · 77 studies (32 quant-synthesis, 13 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 77 report an effect size · 120 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,8 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [PBL students experience less learning time and higher learning pressure than traditional-teaching students in orthopaedics education](../claims/pbl-less-time-higher-pressure-orthopaedics.md) [~W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure".
 - [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](../claims/pbl-higher-theoretical-scores-chinese-pharmacy.md) [+M] — attached 2026-11-01 from Zhou Jiyin et al. (2016), which proposed "Adopt PBL as an optional, supplementary teaching method in Chinese pharmacy education, tailored to local institutional needs"; tests this page's relationship.
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](../claims/pbl-questionnaire-superiority-six-outcomes.md) [+W] — attached 2026-11-01 from Zhou Jiyin et al. (2016), which proposed "Adopt PBL as an optional, supplementary teaching method in Chinese pharmacy education, tailored to local institutional needs"; tests this page's relationship.
+- [PBL produced better social science learning outcomes than Direct Instruction in fourth-grade elementary students](../claims/pbl-beats-direct-instruction-social-science-elementary.md) [+W] — attached 2026-11-02 from Berti Dyah Permatasari et al. (2019), which proposed "Use Problem Based Learning as an innovative alternative for elementary social science instruction"; tests this page's relationship.
+- [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [+W] — attached 2026-11-02 from Berti Dyah Permatasari et al. (2019), which proposed "Use Problem Based Learning as an innovative alternative for elementary social science instruction".
 
 ## Objective and learner-valued goal
 
@@ -219,6 +221,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [~W]
 - [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](../claims/vpbl-equally-effective-as-text-based-pbl.md) [~W]
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
+- [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
+- [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](../claims/vm-enriched-pbl-no-attitude-difference.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

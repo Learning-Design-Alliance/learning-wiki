@@ -53,3 +53,4 @@ Quasi-experimental study of 120 undergraduates at the University of Seville comp
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — related
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](audio-visual-outperforms-audio-only-at-speed.md) — related
+- [Exposure to TV-series video clips did not produce a statistically significant advantage in immediate learning of formulaic sequences](tv-clips-no-significant-fs-learning-difference.md) — related
