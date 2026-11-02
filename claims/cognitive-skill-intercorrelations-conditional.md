@@ -73,3 +73,4 @@ When controlling for both general cognitive ability and a third skill, the FT–
 - [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](functional-correspondence-predicts-outcomes.md) — related
 - [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related
+- [Components of cognitive independence were significantly intercorrelated in the experimental group but not in the control group](component-interdependence-experimental-only.md) — related

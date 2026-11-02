@@ -50,3 +50,4 @@ Baseline equivalence and missingness analyses in the N=662 intention-to-treat sa
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
 - [App benefits on distress are as large or larger among participants with elevated baseline anxiety and depressive symptoms](hmp-benefits-elevated-baseline-symptoms.md) — related
 - [Most participants assigned to the app downloaded it, but fewer engaged, averaging about 11 days and 128 minutes of practice over four weeks](hmp-app-engagement-adherence-pattern.md) — related
+- [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related

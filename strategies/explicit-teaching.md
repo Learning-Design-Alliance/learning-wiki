@@ -81,6 +81,7 @@ Explicit teaching reduces ambiguity about what success looks like and lowers the
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes modelling effective
 - [Scaffolded Questioning](../strategies/scaffolded-questioning.md) — the primary check-for-understanding technique during guided practice
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
+- [Explicit mathematics instruction with challenging questions and mathematical discourse](explicit-instruction-challenging-questions-discourse.md)
 
 ## Examples
 - **Explicit Direct Instruction (EDI)** — a widely implemented lesson structure (activate prior knowledge → explain → model → guided practice → closure) used across thousands of schools; see [DataWORKS Educational Research](https://dataworks-ed.com/about-explicit-direct-instruction/).

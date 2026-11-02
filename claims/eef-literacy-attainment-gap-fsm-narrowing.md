@@ -62,3 +62,4 @@ Pooled attainment-gap estimate from the sIPD model with a treatment-by-FSM inter
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
 - [The absenteeism reduction appeared larger in the Key Stage 4 cohort than in Key Stage 3](pep-absenteeism-effect-larger-ks4.md) — related
+- [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related

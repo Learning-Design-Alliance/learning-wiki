@@ -46,6 +46,7 @@ The report recommends eight areas of research conceptualization, design, and ana
 ## Related Strategies
 
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
+- [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 
 ## Examples
 -

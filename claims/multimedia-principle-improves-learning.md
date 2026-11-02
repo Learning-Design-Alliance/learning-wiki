@@ -179,3 +179,5 @@ Open questions include how the effect scales across media formats (static illust
 - [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](multimedia-learning-review-cites-generative-theory-textbook-design.md) — related
 - [Video-group students self-reported better understanding of the material than textbook-group students (44% vs 36% felt they understood well or very well)](video-group-higher-self-reported-understanding.md) — related
 - [The authors interpret the graphic-novel advantage as arising from presenting idioms through both verbal and visual modalities within a storyline](graphic-novel-advantage-attributed-dual-modality-storyline.md) — related
+- [Comic pictures may help struggling readers reach good readers' pace through greater picture use](comic-pictures-help-struggling-readers.md) — a narrower finding that bears on this claim
+- [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related

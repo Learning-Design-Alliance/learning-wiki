@@ -48,3 +48,4 @@ Correlational comparison study in which pupils took both the abbreviated form an
 ## Related Claims
 - [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related
 - [The short form saves about eleven hours of giving and scoring time per class of thirty pupils compared with the long scales](survey-test-saves-eleven-hours-per-class.md) — related
+- [Abbreviation analysis yielded no meaningful findings despite extensive abbreviation use](edgc-abbreviation-analysis-null.md) — related

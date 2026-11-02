@@ -52,3 +52,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [Mnemonic training yields limited far-transfer: only the number-noun pairs measure improved, persisting at 4-month follow-up](mnemonic-training-limited-transfer-number-noun-pairs.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [CG-based instruction's gains continued increasing between the immediate and delayed posttest while traditional-instruction gains were only maintained](cg-gains-kept-increasing-delayed-posttest.md) — related
+- [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](pa-training-gains-maintained-follow-up-asd.md) — related

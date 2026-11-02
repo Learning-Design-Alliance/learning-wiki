@@ -115,3 +115,4 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related
 - [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — a narrower finding that bears on this claim
 - [Students perceived AI as helping their text comprehension in Greek language class](students-perceived-ai-text-comprehension-help.md) — a narrower finding that bears on this claim
+- [Reading strategies deployed by trained learners are those linked with effective readers, while untrained learners show beginner-reader strategies](strategy-training-shifts-reading-strategies.md) — a narrower finding that bears on this claim

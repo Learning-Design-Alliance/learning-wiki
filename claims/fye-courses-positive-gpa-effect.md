@@ -47,3 +47,4 @@ Quasi-experimental evaluation at a medium-sized midwestern public university com
 ## Related Claims
 - [First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant effect](fye-courses-potentially-positive-credit-accumulation.md) — related
 - [First year experience courses show a statistically significant positive effect on undergraduate degree attainment, based on one study](fye-courses-positive-degree-attainment.md) — related
+- [Intervention students' GPA increased by half a grade after 3 years, clinically but not statistically significant](ssstp-gpa-half-grade-increase.md) — related

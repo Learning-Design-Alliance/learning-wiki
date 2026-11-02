@@ -85,6 +85,7 @@ Collaborative writing improves text quality because co-authors must articulate a
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 - [Peer Review](../elements/peer-review.md) — the feedback mechanism that powers the revision stages of collaborative writing
 - [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](self-regulated-collaborative-environments-higher-education.md)
+- [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
 
 ## Examples
 - **Google Docs–based co-authoring in composition courses**: students draft in a shared document; instructors use version history to assess each member's contribution and comment density, mitigating free-riding.

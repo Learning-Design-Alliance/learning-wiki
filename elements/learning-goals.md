@@ -85,10 +85,12 @@ Well-specified goals improve achievement by directing learner attention to what 
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — goals operationalized as explicit, assessable competencies
 
 ## Examples
+
 - **Understanding by Design (Wiggins & McTighe)** — a published curriculum design framework in which units are planned backward from "desired results" (goals) to evidence to learning plan. See [ASCD's UbD resources](https://www.ascd.org/books/understanding-by-design)
 - **[Khan Academy](https://www.khanacademy.org)** — each lesson and exercise is tagged to explicit skill goals, and mastery dashboards show learners their progress against them
 - **SMART goal framing in course syllabi** — stating goals that are specific, measurable, achievable, relevant, and time-bound so both instructor and learners can verify attainment
 - [Curated Material Selection](../strategies/curated_material_selection.md)
+- [Plan writing curriculum backward by starting with desired outcomes and assessment evidence](../strategies/start-with-end-assessment-writing-curriculum.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

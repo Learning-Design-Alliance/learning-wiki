@@ -82,3 +82,5 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training](multiple-strategy-training-better-comprehension-than-single-strategy.md) — a broader claim this one bears on
 - [No single instructional strategy is a significant moderator of shared text reading effects on listening comprehension](no-significant-instructional-strategy-moderator.md) — related
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related
+- [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](reciprocal-teaching-meta-analysis-background-effects.md) — possibly the same claim (merge candidate)
+- [Reading strategies deployed by trained learners are those linked with effective readers, while untrained learners show beginner-reader strategies](strategy-training-shifts-reading-strategies.md) — related

@@ -65,3 +65,4 @@ Independent-samples t-test on post-test scores of the male and female Telegram e
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — a narrower finding that bears on this claim
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
+- [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-02
 sources:
   - id: marashi-and-maherinia-2011
     resource: "https://eric.ed.gov/?id=EJ1071191"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Pre-intermediate EFL learners taught 24 phrasal verbs with pictures used significantly more of them in a speaking posttest than learners taught the same items without pictures (Cohen's d = 0.76). [→ Marashi and Maherinia 2011](#marashi-and-maherinia-2011)
@@ -48,3 +49,4 @@ Randomized experiment with 60 pre-intermediate learners (30 per group) homogeniz
 - [Input-based FFI is only slightly more effective than output-based FFI for intra-phrasal grammatical features in Persian EFL learners](input-ffi-slight-advantage-intra-phrasal.md) — related
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
+- [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — related

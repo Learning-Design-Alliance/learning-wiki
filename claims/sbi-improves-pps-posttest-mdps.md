@@ -69,3 +69,5 @@ Two-level HLM analysis of PPS total posttest scores for 806 students with MD-PS 
 - [SBI gains in proportional problem-solving are maintained 9 weeks after the intervention for students with MD-PS](sbi-pps-gains-maintained-9-weeks.md) — related
 - [Students with MD-PS and their teachers reported positive perceptions of the SBI intervention's diagrams and problem-solving procedures](sbi-acceptability-ratings-students-teachers.md) — related
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
+- [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — a broader claim this one bears on
+- [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related

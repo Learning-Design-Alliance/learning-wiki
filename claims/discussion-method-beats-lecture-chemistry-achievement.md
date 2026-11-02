@@ -58,3 +58,5 @@ Non-equivalent pretest-posttest control quasi-experiment with 118 SSII students 
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
 - [Students taught a week about discussions scored significantly higher on the first exam than control students, with the advantage gone by the second exam](discussion-week-first-exam-advantage.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related
+- [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
+- [Students taught agricultural science with the demonstration method achieved significantly higher post-test scores than students taught with the conventional lecture method](demonstration-method-higher-achievement-than-lecture.md) — related

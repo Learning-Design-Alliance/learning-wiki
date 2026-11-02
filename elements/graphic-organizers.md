@@ -19,7 +19,7 @@ sources:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (10 for, 2 mixed) · 12 studies (10 causal, 2 quant-synthesis), `q1`–`q4` · 6 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 13 studies (11 causal, 2 quant-synthesis), `q1`–`q4` · 6 of 13 report an effect size · 10 claims rest on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
@@ -44,6 +44,7 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Experimental-group students with learning disabilities scored higher on a reading comprehension test after the group story-mapping intervention than control-group students](../claims/group-story-mapping-higher-comprehension-scores.md) [+M] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Group Story-Mapping Strategy with five narrative story areas"; tests this page's relationship.
 - [Experimental-group participants attributed their comprehension gains to the group story-mapping strategy in interviews](../claims/group-story-mapping-interview-endorsement.md) [+W] — attached 2026-11-01 from Nada Alturki (2017), which proposed "Group Story-Mapping Strategy with five narrative story areas".
 - [The Roundhouse Diagram group also scored higher on the short-answer concept test posttest than the control group](../claims/roundhouse-diagrams-higher-short-answer-posttest.md) [+W]
+- [Clustering pre-writing technique improves descriptive writing scores more than conventional teaching](../claims/clustering-improves-descriptive-writing-scores.md) [+W]
 
 ## The evidence by question
 - *Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (62 show a difference, 19 mixed, 8 no difference) · 54 studies (18 associational, 17 causal, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 54 report an effect size · 88 claims rest on one study
+> **Evidence** · 91 claims (63 show a difference, 20 mixed, 8 no difference) · 55 studies (18 causal, 18 associational, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 13 of 55 report an effect size · 90 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -125,6 +125,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](../claims/gsa-gains-females-only.md) [~M] — instruction changes it
 - [The framing-prompt effect on transfer gains was marginally significant only among students with low spatial skills](../claims/framing-effect-limited-to-low-spatial-skills.md) [~M] — an instructional effect differs with it
 - [All of the CAT gain from P4C came from the verbal subscale, with little difference on quantitative, non-verbal and spatial elements](../claims/p4c-cat-gain-verbal-subscale-only.md) [-M] — instruction changes it
+- [Connection-understanding and connection-perception are independent visual skills, both predictive but independent of content knowledge](../claims/connection-understanding-and-perception-independent-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Students' spatial skills moderate their benefit from understanding-activities and perception-activities](../claims/spatial-skills-moderate-connection-activities.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

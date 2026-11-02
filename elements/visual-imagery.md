@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 9 mixed, 4 against) · 39 studies (19 causal, 15 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 39 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (18 for, 9 mixed, 4 against) · 40 studies (20 causal, 15 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 40 report an effect size · 27 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -77,6 +77,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](../claims/pictured-letters-mnemonics-follow-up-retention.md) [+W] — attached 2026-11-01 from Maysoon A. Dakhiel et al. (2017), which proposed "Developed pictured-letters training program with educational plans, worksheets, and three equivalent achievement tests".
 - [Teaching phrasal verbs through pictures significantly improves pre-intermediate EFL learners' active application of phrasal verbs in speaking](../claims/pictures-improve-active-phrasal-verb-use-speaking.md) [+M] — attached 2026-11-02 from Hamid Marashi (2011), which proposed "Pictorial phrasal-verb treatment: 24 phrasal verbs taught over 18 sessions with illustrator-produced pictures"; tests this page's relationship.
 - [No interaction was found between image type and test occasion in learning preposition senses with visual glosses](../claims/no-interaction-image-type-test-occasion.md) [~W]
+- [Visual memorization techniques improved structural understanding of invention themes](../claims/visual-memorization-improves-structural-understanding.md) [+W]
 
 ## The evidence by question
 

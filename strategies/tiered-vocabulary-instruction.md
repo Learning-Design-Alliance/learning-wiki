@@ -83,6 +83,7 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — the front-loading move that makes tiered selection actionable before reading
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 - [Focus vocabulary instruction on Tier 2 words drawn from content-area materials](tier2-vocabulary-instruction-strategy.md)
+- [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](select-high-leverage-academic-vocabulary.md)
 
 ## Examples
 - **Beck, McKeown & Kucan's *Bringing Words to Life*** — the originating framework; provides Tier Two word lists and rich instructional routines (Text Talk) for elementary classrooms.

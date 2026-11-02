@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 110 claims (45 for, 61 mixed, 4 against) · 86 studies (54 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 86 report an effect size · 101 claims rest on one study
+> **Evidence** · 111 claims (46 for, 61 mixed, 4 against) · 87 studies (55 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 87 report an effect size · 102 claims rest on one study
 
 ## Description and scope
 
@@ -175,6 +175,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]
 - [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](../claims/multimedia-vocabulary-effectiveness-reported.md) [+W]
+- [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](../claims/mbio-students-report-easy-environment-concretion-visuality.md) [+W]
 
 ## Examples
 

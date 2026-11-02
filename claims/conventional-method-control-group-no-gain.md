@@ -84,3 +84,10 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [Classroom-teacher students taught with a selective thinking strategy showed statistically significant pre-to-post gains in acquiring basic mathematical concepts](selective-thinking-strategy-significant-pre-post-gains.md) — related
 - [The control group showed no significant pre-test to post-test change under the current teaching program](control-group-no-pre-post-change.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
+- [Both teaching methods improved students' post-test scores over their pre-test scores in mathematics learning achievement and problem solving ability.](both-methods-improved-post-test-scores.md) — related
+- [Buzz group pre-writing technique improves descriptive writing scores more than conventional teaching](buzz-group-improves-descriptive-writing-scores.md) — related
+- [Clustering pre-writing technique improves descriptive writing scores more than conventional teaching](clustering-improves-descriptive-writing-scores.md) — related
+- [Conventional teaching produces a smaller writing score gain than either experimental technique](conventional-teaching-smaller-writing-gain.md) — related
+- [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](mastery-learning-better-mole-concept-achievement-nigeria.md) — related
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
+- [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related

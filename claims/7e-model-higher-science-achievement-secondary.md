@@ -113,3 +113,5 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
 - [First-year university students studying projectile motion with a Mathematica program achieve higher post-test scores than students using a projectile motion experiment set](mathematica-program-higher-projectile-achievement.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
+- [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related

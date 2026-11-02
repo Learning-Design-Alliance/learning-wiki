@@ -45,7 +45,8 @@ Based on findings that delayed ratings at the end of a task set are affected by 
 - [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](../claims/delayed-ratings-based-on-complex-problems.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use single-subject designs in future studies of word problem solving interventions for students with ASD](single-subject-design-for-asd-math-research.md)
 
 ## Examples
 -

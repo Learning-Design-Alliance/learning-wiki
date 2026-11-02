@@ -27,7 +27,8 @@ A school-improvement professional-learning programme in which school-based Evide
 - [RLC positively impacted teachers' disposition towards research, but not significantly once teacher background characteristics were controlled](../claims/rlc-teacher-disposition-impact.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Challenge the Gap programme](challenge-the-gap-programme.md)
 
 ## Key Sources
 - Dr Jo Rose, Professor Sally Thomas, Dr Lei Zhang, Dr Anna Edwards, Dr Andres Augero, Ms Pooneh Roney. (2017). Research Learning Communities: Evaluation report and executive summary. Education Endowment Foundation. https://www.educationendowmentfoundation.org.uk

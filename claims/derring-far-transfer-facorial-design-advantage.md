@@ -53,3 +53,4 @@ In the same randomized experiment (N = 276), the far transfer test required desi
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — reports the opposite
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](response-errors-not-needed-procedural-learning.md) — related
+- [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — related

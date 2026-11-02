@@ -64,6 +64,7 @@ Explicit instruction is grounded in cognitive load theory: novices lack the sche
 - [Scaffolded Questioning](scaffolded-questioning.md) — the guided-practice counterpart that replaces telling with prompting
 - [Spaced Practice](../principles/spaced-learning.md) — the retention mechanism for skills first taught explicitly
 - [Support struggling readers and writers with increased practice time, skill diagnosis and guidance, and targeted feedback during practice](practice-diagnosis-targeted-feedback-reading-writing.md)
+- [Explicit mathematics instruction with challenging questions and mathematical discourse](explicit-instruction-challenging-questions-discourse.md)
 
 ## Examples
 - **Engelmann's Direct Instruction (DI)** programs (e.g., *Reading Mastery*) — scripted, fast-paced lessons with choral responding and continuous assessment; strong effects in Project Follow Through.

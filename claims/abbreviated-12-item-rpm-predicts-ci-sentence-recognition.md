@@ -52,3 +52,4 @@ Sub-item analysis in the CI group: participants were split by median PRESTO whol
 - [Nonverbal reasoning scores also correlate with degraded (noise-vocoded) sentence recognition in age-matched normal-hearing listeners](rpm-correlates-vocoded-sentence-recognition-nh.md) — related
 - [CI users answered fewer RPM items correctly than normal-hearing controls, though both groups attempted similar numbers of items](ci-users-lower-rpm-scores-than-nh.md) — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
+- [Abbreviation analysis yielded no meaningful findings despite extensive abbreviation use](edgc-abbreviation-analysis-null.md) — related

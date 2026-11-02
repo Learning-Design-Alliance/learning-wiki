@@ -59,9 +59,11 @@ The physical environment competes directly with instruction for limited attentio
 6. **Co-design with learners.** Ask students what helps them focus and feel welcome; treat the space as iterative, adjusting based on their feedback and observed behavior.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory counterpart to visual decluttering; noise is another source of extraneous load
 - [Active Recess](active-recess.md) — extends the movement rationale beyond the classroom walls
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — instructional moves that pair with a low-distraction environment to focus attention on content
+- [Optimize screen-reading environments with enriched presentations and physical adjustments](optimize-screen-reading-environment-enriched-presentations.md)
 
 ## Examples
 - **Clever Classrooms (University of Salford, HEAD project)** — studied 153 classrooms across the UK and found that "naturalness" factors (light, air quality) and "individualisation" (ownership and flexibility of the space) together accounted for meaningful variance in learning progress ([headstudy.org.uk](http://www.headstudy.org)).

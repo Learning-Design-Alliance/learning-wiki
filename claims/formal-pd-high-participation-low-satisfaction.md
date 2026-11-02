@@ -56,3 +56,4 @@ Nationally representative online survey of 856 U.S. K-12 teachers asked about pa
 - [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related
 - Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development — related
 - Teacher satisfaction is influenced more by school culture than by student demographics — related
+- [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related

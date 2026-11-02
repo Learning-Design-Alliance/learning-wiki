@@ -50,3 +50,4 @@ Discussion of research question 4 findings from the 20-study review. In these fi
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — reports the opposite
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — reports the opposite
+- [Prior studies of music technology in face-to-face settings and one e-learning composition study inform but do not settle the effectiveness of blended music instruction](music-technology-literature-gap-blended-effectiveness.md) — related

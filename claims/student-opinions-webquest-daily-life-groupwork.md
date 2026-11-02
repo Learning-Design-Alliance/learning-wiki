@@ -48,3 +48,4 @@ Written opinion forms from all experimental-group students plus semi-structured 
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](teacher-themes-webquest-benefits-math.md) — related
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related

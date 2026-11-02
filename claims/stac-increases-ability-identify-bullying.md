@@ -49,3 +49,4 @@ Chi-square analysis at 30-day follow-up in the randomized controlled study, usin
 - [No significant difference between STAC intervention and control groups in depression from baseline to 30-day follow-up](stac-depression-no-difference.md) — related
 - [Junior high students in both the STAC intervention and wait-list control groups increased knowledge and confidence to intervene in bullying, with no significant group difference, suggesting carry-over effects](stac-knowledge-confidence-increase-both-groups-carryover.md) — related
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
+- [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related

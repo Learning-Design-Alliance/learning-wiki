@@ -72,3 +72,4 @@ Follow-up split regressions by condition controlling for demographics and Time 1
 - [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](revised-visuals-cognitive-load-math-visuals-interaction.md) — related
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](worked-examples-benefit-disadvantaged-students.md) — related

@@ -53,3 +53,4 @@ Parent-report responder analysis on the same subsample using the RCI/CADS criter
 - [Behavioral parent training yields its strongest proximal effect on parenting behaviors (SMD = 0.70, parent rater) among ADHD psychosocial treatments](behavioral-parent-training-parenting-behaviors-smd-070.md) — related
 - [NAT significantly reduced parent-rated inattention in children with ADHD relative to control (η²p = 0.46)](nat-parent-rated-inattention-improvement.md) — related
 - [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](behavioral-classroom-management-teacher-ratings-066-072.md) — related
+- [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related

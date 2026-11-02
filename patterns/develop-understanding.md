@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (18 for, 18 mixed, 2 against) · 50 studies (24 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 50 report an effect size · 30 claims rest on one study
+> **Evidence** · 39 claims (19 for, 18 mixed, 2 against) · 51 studies (25 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 51 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -119,6 +119,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Closed-book prompts reduce immediate posttest performance only when learners were not prompted to actively process the instructional explanations](../claims/closed-book-prompts-lower-immediate-posttest-without-active-processing.md) [~M] — attached 2026-10-18 from Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle (2020), which proposed "When prompting self-explanations of examples, prefer open-book prompts or add active processing of instructional explanations before closed-book prompts".
 - [Active processing of instructional explanation prompts increase coverage of main content items](../claims/active-processing-prompts-increase-main-content-coverage.md) [+M] — attached 2026-10-18 from Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle (2020), which proposed "When prompting self-explanations of examples, prefer open-book prompts or add active processing of instructional explanations before closed-book prompts".
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](../claims/online-rca-growth-particle-motion.md) [+W] — attached 2026-10-29 from Cirkony et al. (2022), which proposed "Sequence representational challenges before introducing scientific explanations in online representation-focused units".
+- [Conceptual change texts with concept maps produced significantly higher post-test concept scores than traditional teaching for air pressure](../claims/conceptual-change-texts-concept-maps-beat-traditional-air-pressure-posttest.md) [+W] — attached 2026-11-02 from Akbaş et al. (2011), which proposed "Use conceptual change texts together with concept maps to remediate misconceptions".
 
 ## Illustrative design instance and observation record
 

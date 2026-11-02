@@ -58,3 +58,4 @@ Which factors the review counts as spatial, and so which can be separated at all
 - [Spatial orientation/perspective-taking and spatial visualization/mental rotation are psychometrically and neurally dissociable skills](orientation-visualization-dissociation.md) — a broader claim this one bears on
 - [Twin and factor-analytic studies support a unitary single-factor model of spatial ability, as the review reports](unitary-single-factor-spatial-ability-evidence.md) — reports the opposite
 - [Across sixteen spatial tests, a three-factor hierarchical model (Navigation, Object Manipulation, Visualization) fit best, with factors correlated r = 0.73–0.95 loading on a general Spatial Ability factor](hierarchical-three-factor-spatial-structure.md) — related
+- [Connection-understanding and connection-perception are independent visual skills, both predictive but independent of content knowledge](connection-understanding-and-perception-independent-skills.md) — related

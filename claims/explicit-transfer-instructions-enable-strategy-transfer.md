@@ -55,3 +55,4 @@ The review reports a study (Cavallini et al., 2010) in which older adults traine
 - [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — related
 - [Practice with one eye in controlling reversible perspective transfers to the unpracticed eye (cross-education)](cross-education-unpracticed-eye-reversible-perspective.md) — related
 - [Instruction in methods of study improved school children's work when the instruction was specific to the tasks being undertaken](study-methods-instruction-improves-work.md) — related
+- [Strategy training enables transfer of strategies to other curriculum subjects](strategy-training-transfers-across-subjects.md) — a narrower finding that bears on this claim

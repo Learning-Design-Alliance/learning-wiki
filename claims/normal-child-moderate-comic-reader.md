@@ -49,3 +49,4 @@ Result (c) of the interview study of 104 stratified children on comic book readi
 - [Children need different kinds of comics at different developmental stages, from animal comics for early projective needs to invincible heroes for ego-inflation](children-comics-developmental-stages.md) — related
 - [Present-day comics meet children's needs for identification objects more effectively than the literature available to the past generation](comics-identification-objects-better-than-past-literature.md) — related
 - [Particular mass media are characteristically connected with particular social situations of contact: television with the family, movies with peers, and comic books with being alone](media-characteristically-tied-to-social-situation-of-contact.md) — related
+- [Comic passages may be more readable than general texts due to linguistically suitable words and sentences](comic-passages-higher-readability.md) — related

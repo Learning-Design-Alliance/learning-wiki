@@ -71,3 +71,4 @@ Fixed effects model analysis of the same 13 achievement studies. The article rep
 - [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
 - [Descriptive post-test means favoured the 5E inquiry group (7.30 vs 6.35) over the traditional group](5e-study-descriptive-posttest-means.md) — a narrower finding that bears on this claim
+- [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related

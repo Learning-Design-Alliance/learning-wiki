@@ -48,3 +48,4 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [Peer tutoring produced statistically significant post-test gains in non-verbal communication for children with ASD relative to a control group](peer-tutoring-improves-nonverbal-communication-asd-posttest.md) — a broader claim this one bears on
+- [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](pa-training-gains-maintained-follow-up-asd.md) — related

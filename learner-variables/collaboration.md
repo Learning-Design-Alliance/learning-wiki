@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (89 show a difference, 18 mixed, 7 no difference) · 95 studies (29 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 95 report an effect size · 114 claims rest on one study
+> **Evidence** · 117 claims (92 show a difference, 18 mixed, 7 no difference) · 96 studies (30 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 96 report an effect size · 117 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -156,6 +156,9 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](../claims/lecturers-rated-dpbl-appropriate-and-effective.md) [+W] — instruction changes it
 - [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](../claims/robotics-social-skills-interpretation.md) [+W] — instruction changes it
 - [The researcher observed social-skill gains (communication, responsibility, motivation) in the jigsaw group](../claims/observed-social-skill-gains-jigsaw-preschool.md) [+W] — instruction changes it
+- [Intervention group candidates provided more detailed narratives about collaborating with parents while comparison group candidates primarily mentioned classroom teachers](../claims/family-collaboration-project-richer-narratives.md) [+M] — instruction changes it
+- [Intervention group candidates rated maintaining positive relationships and ongoing collaboration significantly higher than comparison peers](../claims/family-collaboration-project-higher-relationship-rubric.md) [+M] — instruction changes it
+- [Teacher candidates completing the Family Collaboration Project scored significantly higher on the joining (collaboration) subscale of the PTRS than comparison peers](../claims/family-collaboration-project-higher-ptrs-joining.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

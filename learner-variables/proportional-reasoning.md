@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (34 show a difference, 16 mixed, 3 no difference) · 27 studies (11 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 9 of 27 report an effect size · 50 claims rest on one study
+> **Evidence** · 55 claims (35 show a difference, 17 mixed, 3 no difference) · 28 studies (12 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 9 of 28 report an effect size · 52 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -89,6 +89,8 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Integrated fraction-decimal intervention also produces significantly stronger performance than control on all four fraction outcomes](../claims/fm-dm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
 - [Integrated intervention outperforms full fraction intervention only on decimal tasks closely paralleling those practiced during intervention](../claims/integrated-advantage-limited-to-paralleling-decimal-tasks.md) [~M] — instruction changes it
 - [Integrated intervention's advantage on broader rational number outcomes is driven entirely by the near-transfer measure aligned with taught tasks](../claims/integrated-advantage-driven-by-aligned-near-transfer.md) [~M] — instruction changes it
+- [In a prior fractions experiment, only the understanding-perception condition outperformed the control condition](../claims/prior-fractions-experiment-only-combination-outperformed.md) [+M] — instruction changes it
+- [Working on understanding-activities reduced errors in subsequent perception-activities, with no evidence for the reverse direction](../claims/understanding-activities-reduced-subsequent-perception-errors.md) [~M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

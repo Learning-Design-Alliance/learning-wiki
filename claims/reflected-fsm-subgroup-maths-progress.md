@@ -55,3 +55,4 @@ Subgroup analysis of the class-randomised trial restricted to free school meal e
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](rti-subgroup-effects-fsm-boys-not-secure.md) — related
 - [The coaching programme had a similar effect for FSM-eligible pupils as for their peers](perry-beeches-coaching-similar-effect-fsm-pupils.md) — related
 - [Pupils who participated in ReflectED made an average of two months' less progress in reading compared to pupils who did not](reflected-two-months-less-reading-progress.md) — related
+- [FSM-eligible pupils in CtG primary schools made two months' additional progress while FSM pupils in secondary schools made two months' less progress](ctg-fsm-subgroup-divergent-progress.md) — related

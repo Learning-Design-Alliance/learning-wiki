@@ -51,3 +51,4 @@ ANCOVA on post-test CCT-X scores of the experimental (n=60) and control (n=54) g
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

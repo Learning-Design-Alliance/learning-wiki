@@ -50,3 +50,6 @@ Parent-reported SSiS problem behavior and social skills scales in the same covar
 - [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — related
+- [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related
+- [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
+- [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related

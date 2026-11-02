@@ -49,3 +49,5 @@ Within-group pre-post comparison for the 30-student multimedia group in the rand
 - [The multimedia and Active Learning Methodology groups did not differ significantly in pre-test Mathematics scores](no-pretest-difference-multimedia-versus-active-learning-groups.md) — related
 - [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
+- [The multimedia group's adjusted post-test mean (21.01) exceeded the teacher-centred group's (15.07)](mbio-post-mean-21-vs-15.md) — related
+- [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — related

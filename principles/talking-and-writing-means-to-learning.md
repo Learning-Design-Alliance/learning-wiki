@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (33 for, 10 mixed) · 34 studies (10 causal, 8 review, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 34 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (34 for, 11 mixed) · 36 studies (11 causal, 8 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,8 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
 - [RAISE produced significant positive impacts on student metacognitive conversations (ES = 0.21) and integration of content and literacy activity (ES = 0.18), with other student mediating outcomes positive but not significant](../claims/raise-student-mediating-outcomes-metacognitive-integration.md) [+W]
 - [The authors conclude ABSI is one of the practices aiming to increase students' success and motivate participation in in-class dialogues](../claims/absi-conclusion-success-practice.md) [+W]
+- [Buzz group pre-writing technique improves descriptive writing scores more than conventional teaching](../claims/buzz-group-improves-descriptive-writing-scores.md) [+W]
+- [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](../claims/lit-teacher-views-benefits-and-limits.md) [~W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)

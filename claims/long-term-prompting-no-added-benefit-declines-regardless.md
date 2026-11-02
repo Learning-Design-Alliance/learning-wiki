@@ -76,3 +76,4 @@ Mixed ANOVA on self-reported metacognitive strategy use across t5–t8 comparing
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md) — related
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — related
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
+- [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related

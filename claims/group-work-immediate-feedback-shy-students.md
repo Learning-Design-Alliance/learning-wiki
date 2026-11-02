@@ -47,3 +47,4 @@ Authors' observational interpretation from the discussion section, not a separat
 ## Related Claims
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related

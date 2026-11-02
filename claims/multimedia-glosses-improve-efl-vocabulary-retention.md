@@ -73,3 +73,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](audiovisual-group-stable-retention-weeks.md) — related
 - [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](multimedia-vocabulary-effectiveness-reported.md) — related
+- [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — a narrower finding that bears on this claim

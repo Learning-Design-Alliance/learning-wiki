@@ -69,3 +69,4 @@ Same AEQ posttest analysis: although descriptively higher in the control group, 
 ## Related Claims
 - [Graphic-organizer vocabulary instruction raises positive achievement emotions (enjoyment, hope, pride) more than the C(2)QU contextual process in fourth-grade social studies](gos-instruction-raises-positive-achievement-emotions.md) — related
 - [The GOs advantage on the VKS is mixed across self-report levels: significant on Stages 2, 3 and 4 but not on Stage 1](gos-vks-advantage-mixed-across-stages.md) — related
+- [Prior research on graphic organizers shows generally positive but not unanimous effects on vocabulary learning](go-prior-research-mixed-positive.md) — related

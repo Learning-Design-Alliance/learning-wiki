@@ -41,6 +41,7 @@ The article specifies a 12-step instructional sequence for each vocabulary word:
 
 - [Explicit Vocabulary Instruction](explicit-vocabulary-instruction.md)
 - [The Frayer Model](frayer-model.md)
+- [Implement GO-based vocabulary instruction through four steps: preparation, presentation, practice and evaluation](four-step-go-vocabulary-instruction.md)
 
 ## Examples
 -

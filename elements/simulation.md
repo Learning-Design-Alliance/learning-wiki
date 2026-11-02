@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 248 claims (140 for, 91 mixed, 17 against) · 158 studies (77 review, 38 quant-synthesis, 24 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 158 report an effect size · 238 claims rest on one study
+> **Evidence** · 249 claims (140 for, 92 mixed, 17 against) · 159 studies (77 review, 38 quant-synthesis, 25 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 159 report an effect size · 239 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -303,6 +303,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](../claims/isia-greater-conceptual-understanding-gains.md) [~W] — attached 2026-11-01 from Xinxin Fan et al. (2018), which proposed "PhET interactive simulations (Chinese-translated physics versions)"; tests this page's relationship.
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](../claims/virtual-simulation-improves-pilgrimage-achievement.md) [+W] — attached 2026-11-02 from Azidah Abu Ziden (2013), which proposed "Web-based virtual Hajj simulation at www.islamonline.net"; tests this page's relationship.
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](../claims/computer-simulation-beats-lecture-chemistry-achievement.md) [~W] — attached 2026-11-02 from Okwuduba Emmanuel Nkemakolam; Offiah Francisca Chinelo; Madichie Chinyere Jane (2018), which proposed "PhET interactive simulations (state of matter and gas properties models) projected by the teacher"; tests this page's relationship.
+- [Students taught with simulation methods reported satisfaction with simulation-based biology education.](../claims/simulation-biology-student-satisfaction.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

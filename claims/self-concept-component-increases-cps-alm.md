@@ -51,3 +51,4 @@ Descriptive percentage increases reported in the results for five academic self-
 - [CPS-ALM instruction produces greater statistical literacy enhancement than expository learning in elementary school student teachers](cps-alm-beats-expository-statistical-literacy-n-gain.md) — related
 - [CPS-ALM gains exceed EL gains on most statistical literacy indicators, but analyze-interpretation ability stays in the low category for both groups](cps-alm-literacy-indicator-n-gains-table3.md) — related
 - [CPS-ALM instruction produces greater statistical self-concept enhancement (medium category, N-gain 0.33) than expository learning (low category, N-gain 0.16)](cps-alm-self-concept-n-gain-medium-vs-low.md) — related
+- [The experimental group showed large gains in high-level performance on every component, with the largest rises on the operational and motivational components](component-level-gains-experimental-group.md) — related

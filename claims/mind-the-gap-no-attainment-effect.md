@@ -67,3 +67,4 @@ Impact summary table row for the overall effect on all pupils: effect size -0.14
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
 - [Mind the Gap showed no statistically significant effect on secondary outcomes including reading, general maths, mental arithmetic and pupils' feelings about their relationship with their parents](mind-the-gap-null-secondary-outcomes.md) — related
 - [The teacher training component alone showed no statistically significant effect on attainment](teacher-training-alone-null-effect.md) — related
+- [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related

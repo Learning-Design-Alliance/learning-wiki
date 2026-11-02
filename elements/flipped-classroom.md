@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (21 for, 20 mixed, 5 against) · 27 studies (13 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 27 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (22 for, 20 mixed, 5 against) · 28 studies (14 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 9 of 28 report an effect size · 46 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -70,6 +70,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [No significant difference in teacher–student interaction ratings between the flipped and conventional OCW classroom groups](../claims/no-interaction-difference-flipped-conventional-ocw.md) [-W]
 - [Both flipped and nonflipped ESL/EFL students showed statistically significant increases in self-reported grammar confidence over the semester](../claims/grammar-confidence-increased-both-groups.md) [~W]
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](../claims/2010-posttest-means-experimental-vs-control.md) [+W]
+- [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](../claims/students-strongly-prefer-flipped-courses.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

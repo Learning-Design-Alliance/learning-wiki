@@ -50,3 +50,4 @@ Pre-test/post-test comparison across the three treatment groups (pre-test means 
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Problem solving strategy type significantly affects chemistry achievement, with a hierarchical order of PF, PM and PC](pf-pm-pc-hierarchical-achievement-order-chemistry.md) — related
 - [Problem-solving showed a significant pre-post effect although post-treatment means were slightly lower than pre-treatment means](problem-solving-significant-but-declining-means.md) — related
+- [Both teaching methods improved students' post-test scores over their pre-test scores in mathematics learning achievement and problem solving ability.](both-methods-improved-post-test-scores.md) — related

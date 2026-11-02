@@ -75,3 +75,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
+- [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related

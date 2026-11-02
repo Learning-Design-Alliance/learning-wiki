@@ -54,3 +54,4 @@ Qualitative case study of Marco, a first-generation college-goer whose college c
 - [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
+- [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — a broader claim this one bears on

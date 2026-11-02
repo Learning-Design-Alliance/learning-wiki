@@ -33,6 +33,7 @@ A researcher-developed, validity- and reliability-checked 40-item four-option mu
 - [Researcher-built 30-item EFL reading comprehension test](researcher-built-30-item-efl-reading-comprehension-test.md)
 - [30-item multiple choice pragmatic listening comprehension test (Taguchi 2007, 2008)](30-item-multiple-choice-pragmatic-listening-comprehension-test-taguchi-2007-2008.md)
 - [Achievement Test to Evaluate the Effectiveness of Jigsaw I Technique in Grammar Teaching (AST)](achievement-test-to-evaluate-the-effectiveness-of-jigsaw-i-technique-in-grammar-teaching-a.md)
+- [40-item multiple-choice pre-test and post-test instrument for mathematics learning achievement and problem solving ability](40-item-multiple-choice-pre-test-and-post-test-instrument-for-mathematics-learning-achieve.md)
 
 ## Key Sources
 - Ribhi Khaleel Ahmad Hamdan. (2017). The Effect of Using Pictorial Story in raising the achievement in Arabic among second Grade Students' in Irbid. Journal of Education and Practice, 8(10). https://www.iiste.org

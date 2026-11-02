@@ -103,6 +103,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - [Use empirically derived post-intervention benchmarks to decide who exits versus continues to intensive intervention](post-intervention-benchmarks-exit-intensive-intervention.md)
 - [Use nonresponse to generic tier-two preschool behavioral intervention as a trigger for formal ADHD diagnostic referral and more intensive tier-three intervention](nonresponse-triggers-adhd-diagnostic-referral-strategy.md)
 - [Whole-class Tier 1 strategy instruction with intensified small-group follow-up for nonresponders](tier1-whole-class-strategy-instruction-with-intensification.md)
+- [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

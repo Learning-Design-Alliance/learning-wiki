@@ -56,3 +56,4 @@ Quasi-experiment with 38 intermediate-level university EFL students: treatment g
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Teaching the textual metafunction significantly improved Iranian EFL learners' essay coherence and cohesion ratings compared with essay-writing instruction alone](textual-metafunction-instruction-improves-efl-writing.md) — related
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
+- [Clustering pre-writing technique improves descriptive writing scores more than conventional teaching](clustering-improves-descriptive-writing-scores.md) — related

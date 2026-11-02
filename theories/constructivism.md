@@ -101,6 +101,9 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Three-theory design framework for the VFT module: constructivism, information processing, and Mayer's Cognitive Theory of Multimedia Learning](../designs/vft-module-three-theory-design-framework.md)
 - [Use real programmable robots with constructivist methods to teach programming basics to novices](../strategies/real-robots-constructivist-programming-strategy.md)
 - [Develop inquiry-based learning that explicitly emphasizes regulation of cognition, especially information management, monitoring, evaluating, and debugging](../strategies/inquiry-emphasizing-regulation-of-cognition.md)
+- [Provide in-service training for teachers in the constructivist approach to support knowledge retention](../strategies/inservice-training-constructivist-approach.md)
+- [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](../strategies/video-plus-post-viewing-activities-esp.md)
+- [Tarnopolsky's constructivist blended learning approach to ESP](../designs/tarnopolsky-constructivist-blended-learning-esp.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

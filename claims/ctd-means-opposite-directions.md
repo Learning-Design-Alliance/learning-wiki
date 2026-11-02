@@ -52,3 +52,6 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — related
 - [Infusing higher-order thinking skills into Engineering Drawing instruction produced significantly higher critical thinking disposition than conventional drill-based teaching after 8 weeks](infusion-approach-engineering-drawing-critical-thinking-disposition.md) — related
 - [Critical thinking disposition progress did not differ significantly among the four groups, and the teacher-only group gained the most](ctd-progress-no-group-difference-teacher-only-largest-gain.md) — related
+- [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related
+- [Experimental group's critical thinking disposition improved significantly from pre-test to post-test](experimental-group-cctdi-pre-post-gain.md) — related
+- [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related

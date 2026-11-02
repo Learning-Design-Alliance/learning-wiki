@@ -50,3 +50,4 @@ Quantitative comparison between the independent eye-fixation and protocol analys
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
 - [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](equal-attention-model-graph-low-equations.md) — related
 - [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related
+- [Eye-gaze data and verbal reports show complementary effects of the two activity types on integration across representations](complementary-effects-eye-gaze-verbal-reports.md) — related

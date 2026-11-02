@@ -50,6 +50,7 @@ The article recommends that language therapists characterize individuals by lang
 ## Related Strategies
 
 - [Match language exercise difficulty to the child's assessed receptive and expressive phenotype level](phenotype-matched-language-exercises.md)
+- [Use highly individualized instruction tailored to each specific student with ASD, aligned with their level of mathematical thinking](individualized-instruction-for-asd-math.md)
 
 ## Examples
 -

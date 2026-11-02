@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 449 claims (248 show a difference, 95 mixed, 106 no difference) · 300 studies (151 associational, 95 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 300 report an effect size · 441 claims rest on one study
+> **Evidence** · 452 claims (250 show a difference, 95 mixed, 107 no difference) · 303 studies (151 associational, 98 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 303 report an effect size · 444 claims rest on one study
 
 ## How to read this page
 
@@ -488,6 +488,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Females in the experimental group enhanced spiritual intelligence more than female and male control groups](../claims/female-experimental-greatest-spiritual-intelligence-gain.md) [+M] — an instructional effect differs by group
 - [Literacy achievement differences showed no statistically significant effect of gender or of the method-by-gender interaction](../claims/no-gender-effect-systemic-approach-literacy.md) [-M] — an instructional effect differs by group
 - [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](../claims/scheffe-gain-pairwise-blog-reading.md) [~M] — an instructional effect differs by group
+- [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](../claims/female-efl-learners-outperform-males-reading-comprehension.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender and the method-by-gender interaction had no significant effect on posttest or delayed test success scores](../claims/gender-and-method-interaction-insignificant.md) [-M] — an instructional effect differs by group
+- [Male students scored higher than female students on the agricultural science achievement test under both teaching methods](../claims/male-students-outperform-female-agricultural-science.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

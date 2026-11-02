@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 295 claims (152 for, 126 mixed, 17 against) · 177 studies (75 review, 39 quant-synthesis, 37 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 177 report an effect size · 290 claims rest on one study
+> **Evidence** · 297 claims (153 for, 127 mixed, 17 against) · 178 studies (75 review, 39 quant-synthesis, 38 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 178 report an effect size · 292 claims rest on one study
 
 ## Conditional relationship
 
@@ -531,6 +531,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 - [The authors observed higher course motivation among students using the analogy-based simulations](../claims/observed-motivation-analogy-simulation-students.md) [~W]
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](../claims/mixed-prior-evidence-vrs-versus-traditional-training.md) [~W]
+- [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](../claims/simulation-biology-higher-posttest-success.md) [+W]
+- [Students taught with simulation methods reported satisfaction with simulation-based biology education.](../claims/simulation-biology-student-satisfaction.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

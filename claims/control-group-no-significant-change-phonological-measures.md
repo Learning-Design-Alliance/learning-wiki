@@ -77,3 +77,4 @@ Within-group comparison of N=9 control children on the pre-K PALS tasks over the
 - [Control-group students taught with the current curriculum showed no significant change in classroom engagement from pre-test to post-test](control-group-no-engagement-change.md) — related
 - [Control group viola playing skills did not change significantly over the experimental period](control-group-viola-skills-no-significant-change.md) — related
 - [A ten-week intervention programme produced larger improvement on a standardized school-readiness test for Grade 1 experimental-group learners (total d = 1.89) than for control-group learners (d = 1.30)](grade1-intervention-programme-improves-school-readiness.md) — related
+- [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related

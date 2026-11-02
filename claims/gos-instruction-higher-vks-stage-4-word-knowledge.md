@@ -50,3 +50,4 @@ VKS format test pretest-posttest analysis in the quasi-experiment (N=48); Table 
 
 ## Related Claims
 - [The GOs advantage on the VKS is mixed across self-report levels: significant on Stages 2, 3 and 4 but not on Stage 1](gos-vks-advantage-mixed-across-stages.md) — related
+- [Prior research on graphic organizers shows generally positive but not unanimous effects on vocabulary learning](go-prior-research-mixed-positive.md) — related

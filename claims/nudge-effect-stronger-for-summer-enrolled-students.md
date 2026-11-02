@@ -49,3 +49,4 @@ Subgroup analysis of the same RCT (not summer enrolled N = 1,471): treatment eff
 - [The nudge intervention raised reenrollment by 10 percentage points among STEM-pathway students but had no significant effect on non-STEM students](nudge-effect-concentrated-among-stem-pathway-students.md) — related
 - [Summer-enrolled treatment students engaged more with the nudges than non-summer-enrolled students, while STEM and non-STEM students engaged similarly](summer-enrolled-students-engaged-more-with-nudges.md) — related
 - [A 7-week summer text-message nudge campaign increased fall reenrollment among first-year community college students by 7 percentage points relative to control](summer-nudge-campaign-increases-community-college-reenrollment.md) — related
+- [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related

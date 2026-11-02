@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (29 show a difference, 9 mixed, 10 no difference) · 18 studies (9 causal, 9 associational), `q2`–`q3` · 8 of 18 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (31 show a difference, 9 mixed, 10 no difference) · 19 studies (10 causal, 9 associational), `q2`–`q3` · 9 of 19 report an effect size · 48 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -85,6 +85,8 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Students with LD significantly outperform students with MID in post-intervention multiplication fact fluency, but not in division fluency or generalization](../claims/ld-outperform-mid-multiplication-fluency.md) [~M] — instruction changes it
 - [ARTS treatment outperformed standard instruction in accuracy and fluency gains in the online-school deployment](../claims/arts-outperforms-standard-instruction-multiplication.md) [+M] — instruction changes it
 - [Third graders using ARTS mastered basic multiplication facts in about two hours with large pretest-to-posttest gains](../claims/arts-third-graders-multiplication-two-hours.md) [+M] — instruction changes it
+- [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](../claims/pre-post-test-correlation-computational-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](../claims/scp-higher-computational-fluency-gains-than-traditional-drill.md) [+M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

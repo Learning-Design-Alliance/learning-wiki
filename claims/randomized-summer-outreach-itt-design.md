@@ -66,3 +66,4 @@ Analysis plan from the Data Collection and Analysis section: ITT models with stu
 ## Related Claims
 - [Three of the five reviewed RCTs found no statistically significant effect of summer counseling on fall college enrollment (indeterminate effects)](summer-counseling-three-indeterminate-enrollment-effects.md) — related
 - [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related
+- [Summer support take-up required active outreach; only 2% of informed control students sought help](active-outreach-needed-for-summer-support-takeup.md) — related

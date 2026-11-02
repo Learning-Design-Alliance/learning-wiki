@@ -50,3 +50,5 @@ ANCOVA in a pre-test/post-test control group experiment with 26 experimental and
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](simulation-method-higher-posttest-human-body-unit.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
+- [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
+- [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related

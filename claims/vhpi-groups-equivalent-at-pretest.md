@@ -75,3 +75,5 @@ Chi-square test on the 2×4 contingency table of group by van Hiele level (VHL 0
 - [Pre-service teachers taught with van Hiele Phase-based Instruction attained significantly higher van Hiele levels of geometric thinking than those taught with conventional instruction](vhpi-higher-geometric-thinking-levels-than-conventional.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
+- [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related

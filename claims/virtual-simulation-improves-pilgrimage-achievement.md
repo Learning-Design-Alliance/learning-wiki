@@ -54,3 +54,4 @@ Quasi-experimental 2x2 factorial study in two Malaysian secondary schools: 40 ex
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related
+- [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related

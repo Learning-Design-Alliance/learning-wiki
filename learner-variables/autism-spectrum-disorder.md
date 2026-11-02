@@ -14,7 +14,7 @@ generated:
 # Autism Spectrum Disorder
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (17 show a difference, 13 mixed, 3 no difference) · 18 studies (5 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 5 of 18 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (18 show a difference, 13 mixed, 3 no difference) · 19 studies (5 review, 5 associational, 4 quant-synthesis, 2 causal, 2 theoretical, 1 qualitative), `q1`–`q3` · 5 of 19 report an effect size · 33 claims rest on one study
 
 ## How to read this page
 
@@ -55,6 +55,7 @@ In the research autism appears as a population a design targets (communication s
 - [Baseline adaptive skills moderated the ASD-symptom outcome, with children lowest in adaptive skills showing greater symptom reduction](../claims/adaptive-skills-moderate-srs2-outcome.md) [~M] — instruction changes it
 - [Demographics, child IQ, language, ASD diagnostic symptoms, and school SES did not moderate schoolMAX treatment outcomes on any of the three measures](../claims/schoolmax-no-moderation-demographics-iq-language-ses.md) [-M] — an instructional effect differs with it
 - [The schoolMAX intervention was superior to services-as-usual on emotion recognition, ASD symptoms, and social/communication skills in the prior cluster RCT](../claims/schoolmax-superior-to-sau-primary-outcomes.md) [+M] — instruction changes it
+- [Children with Autism Spectrum Disorder who had not received formal reading instruction were capable of improving word recognition ability in preparation for future reading](../claims/asd-children-capable-word-recognition-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ### Differences found between autistic and non-autistic people
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](../claims/asd-adults-processing-speed-composite-deficit.md) [+M] — learners who differ on it differ in outcomes

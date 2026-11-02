@@ -71,3 +71,4 @@ From the same process evaluation, the report links the guidance need to engageme
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — related
 - [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — related
+- [Groups of 5–6 children led by experienced staff worked best according to programme users](lit-small-groups-experienced-staff-best.md) — related

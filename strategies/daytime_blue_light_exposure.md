@@ -63,6 +63,7 @@ Blue-enriched lighting in classrooms raises self-reported alertness and, in some
 - Physical activity breaks — an independent, additive route to daytime alertness
 - [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md)
 - [Raise serotonin through morning sunlight, timed tryptophan intake and exercise, and gratitude practices to support tolerance for failure](sunlight-tryptophan-gratitude-serotonin-tools.md)
+- [Optimize screen-reading environments with enriched presentations and physical adjustments](optimize-screen-reading-environment-enriched-presentations.md)
 
 ## Examples
 - **Dutch classroom lighting studies (Sleegers et al., 2017)** — classrooms fitted with dynamically adjustable lighting (including a focus mode with higher illuminance and cooler color temperature) showed gains in concentration over conventional lighting.

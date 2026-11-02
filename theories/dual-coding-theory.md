@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 11 studies (5 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (13 for, 3 mixed) · 13 studies (7 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 13 report an effect size · 16 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -39,6 +39,8 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Drawing mental images of idioms significantly improves delayed idiom recall among Iranian EFL learners](../claims/drawing-idioms-significant-delayed-recall-gain.md) [+W] — attached 2026-11-01 from Afrouz Aeineh et al. (2014), which proposed "Dual Coding Theory: verbal and nonverbal (imagery) subsystems as the basis for learner-generated illustrations".
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Paivio's dual coding theory".
 - [Teaching reading with picture story books improved reading comprehension in first-year Paket B students at PKBM Medaso Kolaka](../claims/picture-story-books-improve-paket-b-reading-comprehension.md) [+W] — attached 2026-11-01 from Roslina (2017), which proposed "Dual coding framework for picture story books in reading".
+- [Comic reading materials improve EFL reading comprehension more than general texts and pictures](../claims/comic-materials-improve-efl-reading-comprehension.md) [+W] — attached 2026-11-02 from Roozafzai (2012), which proposed "Dual Coding Theory explains how visuals support reading comprehension".
+- [Eye-gaze data and verbal reports show complementary effects of the two activity types on integration across representations](../claims/complementary-effects-eye-gaze-verbal-reports.md) [~W]
 
 ## Related Theories
 

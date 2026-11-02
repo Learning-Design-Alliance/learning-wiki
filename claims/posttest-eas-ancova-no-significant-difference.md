@@ -60,3 +60,4 @@ ANCOVA on post-test EAS with RT as covariate in the same quasi-experimental stud
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
 - [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](outdoor-education-posttest-advantage-attitudes-uses-concern.md) — reports the opposite
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

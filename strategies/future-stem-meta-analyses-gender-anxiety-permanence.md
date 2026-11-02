@@ -44,6 +44,7 @@ The article's SUGGESTIONS section directs future researchers to extend meta-anal
 - [Extend meta-analytic synthesis of flipped learning to additional outcomes, samples, and regions](flipped-learning-future-meta-analysis-agenda.md)
 - [Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies](future-drama-social-studies-research-directions.md)
 - [Prioritize new digital technology-assisted STEM research at primary school level and in mathematics, where effects are currently weakest](prioritize-primary-math-digital-stem-research.md)
+- [Future meta-analytic research should examine concept mapping effects on attitude, retention, anxiety, and computer-based concept mapping](concept-mapping-future-research-directions.md)
 
 ## Examples
 -

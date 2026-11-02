@@ -57,8 +57,10 @@ The physical environment functions as a channel of [Cognitive Load Management](.
 5. Co-design with learners: involve them in decisions about layout and displays to build ownership, then connect the space to learning activities through [Application](../elements/application.md) and [Collaboration](../elements/collaboration.md).
 
 ## Related Strategies
+
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the environment is one of the largest levers on extraneous load
 - [Active Learning](../principles/active-learning.md) — flexible layouts and movable furniture are prerequisites for many active-learning configurations
+- [Optimize screen-reading environments with enriched presentations and physical adjustments](optimize-screen-reading-environment-enriched-presentations.md)
 
 ## Examples
 - **Erin Klein's second-grade classroom redesign** (Kleinspiration, https://www.kleinspiration.org): teacher and students co-designed the space — removing teacher desk, adding flexible seating and muted tones — with reported gains in engagement and calm.

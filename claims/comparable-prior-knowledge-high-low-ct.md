@@ -60,3 +60,5 @@ Independent samples t-test on pretest scores of both groups (Levene's test indic
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related
+- [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related
+- [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related

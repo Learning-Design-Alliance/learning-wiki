@@ -92,3 +92,7 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — reports the opposite
+- [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
+- [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — a narrower finding that bears on this claim
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — a narrower finding that bears on this claim
+- [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related

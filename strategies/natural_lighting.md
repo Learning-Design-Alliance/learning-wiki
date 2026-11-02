@@ -92,9 +92,11 @@ Daylighting is a physical-design strategy that operates on attention, circadian 
 5. Combine with other indoor-environment improvements — especially ventilation and temperature — since effects compound [Acoustics and Noise Management](acoustics_and_noise_management.md).
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment lever on attention and achievement
 - [Check-ins](../principles/check-ins.md) — monitoring alertness and mood helps evaluate whether environmental changes are working
 - [Check-In](../elements/check-in.md) — brief learner check-ins surface discomfort (glare, drowsiness) that lighting adjustments should respond to
+- [Optimize screen-reading environments with enriched presentations and physical adjustments](optimize-screen-reading-environment-enriched-presentations.md)
 
 ## Examples
 - **Heschong Mahone Group daylighting studies (1999, 2003)** — Analysis of >21,000 student records across three U.S. districts (Capistrano, Seattle, Fort Collins) found students in the most daylit classrooms progressed ~20% faster in math and ~26% faster in reading over a year than those in the least daylit.

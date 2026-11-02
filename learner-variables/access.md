@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (65 show a difference, 21 mixed, 7 no difference) · 71 studies (29 associational, 12 review, 9 causal, 7 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 6 of 71 report an effect size · 89 claims rest on one study
+> **Evidence** · 94 claims (66 show a difference, 21 mixed, 7 no difference) · 72 studies (29 associational, 12 review, 10 causal, 7 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 6 of 72 report an effect size · 90 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -137,6 +137,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [No significant difference in reading performance across degrees of hearing loss when taught with the embossed picture technique](../claims/no-hearing-loss-degree-effect-embossed-reading.md) [-M] — learners who differ on it differ in outcomes
 - [Home internet access gaps and pupil independence were key challenges; schools used homework clubs, and an estimated 10–15% of pupils did not do home tasks](../claims/mathsflip-access-challenges-homework-clubs.md) [+M] — learners who differ on it differ in outcomes
 - [Mere home access to computers did not sustain young children's interest, which declined for home-only users](../claims/access-alone-does-not-sustain-computer-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Internet and computer access problems limited participation in the online argumentation implementation](../claims/internet-access-limits-online-argumentation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

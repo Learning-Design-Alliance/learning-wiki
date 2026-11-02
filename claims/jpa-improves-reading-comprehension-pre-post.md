@@ -50,3 +50,4 @@ Quasi-experimental pre-test/post-test study: 20 Junior Secondary II students at 
 - [Traditional reading comprehension instruction produced no statistically significant pre-test to post-test improvement in the control group](traditional-method-no-significant-reading-gains.md) — related
 - [JPA lessons showed increased learner involvement and participation compared with passive traditional lessons](jpa-increases-learner-involvement-participation.md) — related
 - [IC-JPA instruction did not produce a statistically significant difference in correct academic language usage compared to traditional instruction](icjpa-no-difference-academic-language-usage.md) — related
+- [Team-teaching with a feedback intervention produced higher average final exam scores than traditional one-teacher teaching in a Nigerian senior secondary English language setting](team-teaching-feedback-higher-achievement-nigeria.md) — related

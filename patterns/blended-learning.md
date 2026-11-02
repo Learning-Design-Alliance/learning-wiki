@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 55 claims (33 for, 21 mixed, 1 against) · 41 studies (14 quant-synthesis, 9 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 41 report an effect size · 53 claims rest on one study
+> **Evidence** · 57 claims (35 for, 21 mixed, 1 against) · 42 studies (14 quant-synthesis, 10 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 42 report an effect size · 55 claims rest on one study
 
 ## Description and scope
 
@@ -108,6 +108,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-attention-motivation.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-relevance-confidence.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](../claims/blended-teq-above-program-average.md) [+W] — attached 2026-11-02 from Stouck (2019), which proposed "Use blended scheduling to restore one-on-one feedback and small-group workshop time lost in large composition classes".
+- [Blended instruction produced higher course achievement than face-to-face instruction in a university elective music course](../claims/blended-music-course-higher-achievement-than-ftf.md) [+W] — attached 2026-11-02 from Adileh (2012), which proposed "Combine face-to-face sessions with an online course website providing multimedia-rich materials and interaction tools".
+- [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](../claims/blended-music-course-more-positive-attitudes-than-ftf.md) [+W] — attached 2026-11-02 from Adileh (2012), which proposed "Combine face-to-face sessions with an online course website providing multimedia-rich materials and interaction tools".
 
 ## Illustrative design instance and observation record
 

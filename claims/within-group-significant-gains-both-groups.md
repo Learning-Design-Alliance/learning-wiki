@@ -70,3 +70,4 @@ Wilcoxon Signed-Ranks test within the control group in the same quasi-experiment
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [No significant post-test difference between groups on science process skills despite significant within-group gains in both groups](gems-no-between-group-science-process-difference.md) — related
+- [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related

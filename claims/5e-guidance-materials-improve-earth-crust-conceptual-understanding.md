@@ -52,3 +52,4 @@ Quasi-experimental pre-test-post-test study with a control group; 40 5th-grade s
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
+- [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite

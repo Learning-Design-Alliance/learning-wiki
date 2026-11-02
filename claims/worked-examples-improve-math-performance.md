@@ -84,3 +84,4 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — a narrower finding that bears on this claim
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — a broader claim this one bears on
 - [Studying incorrect worked examples during algebra practice did not improve post-test learning overall relative to correct worked examples or problem-solving alone](incorrect-examples-no-overall-learning-effect.md) — related
+- [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related

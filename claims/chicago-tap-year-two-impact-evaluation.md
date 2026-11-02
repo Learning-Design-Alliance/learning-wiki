@@ -56,3 +56,4 @@ The report's own abstract states that it "details second-year results from Mathe
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
 - A five-year evaluation of TAP in high-need Chicago public schools began in 2007 — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
+- [No additional benefit identified for the 49 schools that self-funded a second year](ctg-no-additional-benefit-second-year.md) — related

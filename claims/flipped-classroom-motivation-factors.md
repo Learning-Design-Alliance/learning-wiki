@@ -51,3 +51,4 @@ Content analysis of questionnaire responses on motivation factors; Table 12 prin
 - [Students named access to recorded live lessons at any time as the most important factor of their success](recorded-live-lessons-most-important-success-factor.md) — related
 - [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
+- [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related

@@ -50,3 +50,4 @@ Questionnaire data from the experimental study of 80 freshmen using the multimed
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](attitudes-after-one-supervised-use.md) — related
+- [Most students held favorable attitudes toward pictorial-aids instruction](positive-student-attitudes-pictorial-aids.md) — related

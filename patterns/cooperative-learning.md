@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (45 for, 29 mixed, 1 against) · 62 studies (24 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 62 report an effect size · 67 claims rest on one study
+> **Evidence** · 80 claims (49 for, 30 mixed, 1 against) · 65 studies (27 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 65 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](../claims/cooperative-learning-improves-financial-accounting-achievement.md) [+W] — attached 2026-11-01 from Inuwa et al. (2017), which proposed "Slavin's Student Teams-Achievement Divisions (STAD) three-day cycle for cooperative learning"; tests this page's relationship.
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](../claims/cooperative-learning-higher-motivation-vietnamese-higher-ed.md) [+W] — attached 2026-11-02 from Van Dat Tran (2019), which proposed "Nine-step lecturer-guided cooperative learning procedure replicated per course chapter"; tests this page's relationship.
 - [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](../claims/computer-assisted-stad-beats-ici-physics-achievement.md) [+W] — attached 2026-11-02 from Amosa Isiaka Gambarı (2015), which proposed "Computer-assisted STAD activity structure: team tasks, individual and team quizzes, team scores, and recognition"; tests this page's relationship.
+- [Cooperative learning improved sixth graders' decision-making skill more than traditional teaching in a Jordanian geometry unit](../claims/cooperative-learning-improves-decision-making-skill.md) [+W] — attached 2026-11-02 from Asha et al. (2016), which proposed "Employ cooperative learning in mathematics teaching because it develops decision-making skill and academic achievement".
+- [Cooperative learning improved sixth graders' academic achievement in mathematics more than traditional teaching](../claims/cooperative-learning-improves-math-achievement.md) [+W] — attached 2026-11-02 from Asha et al. (2016), which proposed "Employ cooperative learning in mathematics teaching because it develops decision-making skill and academic achievement".
+- [No significant post-test achievement differences between cooperative learning, systematic teaching, and constructivist groups](../claims/no-posttest-difference-between-instructional-approaches.md) [~W] — attached 2026-11-02 from Korkmaz Toklucu et al. (2016), which proposed "Use cooperative learning and systematic teaching alongside the constructivist approach to enhance achievement and retention in social studies".
 
 ## Illustrative design instance and observation record
 
@@ -180,6 +183,8 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](../claims/cooperative-cai-higher-physics-motivation.md) [+W]
 - [Two-student ROOTS groups produced higher rates of individual practice opportunities and lower rates of group practice opportunities than five-student groups, with no differences on other instructional interactions](../claims/group-size-instructional-interaction-rates.md) [~W]
 - [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](../claims/cooperative-learning-literature-more-effective.md) [+W]
+- [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
+- [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
 
 ## Related Patterns
 
@@ -212,6 +217,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [ARDESOS-DIAPROVE program](../products/ardesos-diaprove-program.md)
 - [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](../designs/fraction-face-off-cooperative-lesson-structure.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](../strategies/heterogeneous-team-grouping-peer-tutoring-cbi.md)
+- [Rotate heterogeneous cooperative learning clusters across distinct cooperative techniques and topics throughout a unit](../strategies/rotate-heterogeneous-clusters-cooperative-techniques.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

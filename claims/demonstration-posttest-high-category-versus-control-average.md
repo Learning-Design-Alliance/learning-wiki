@@ -48,3 +48,5 @@ Descriptive statistics from the Findings section of the true-experimental study:
 - [Descriptively, the experimental group reached a good achievement category in speaking and writing while the control group reached only average](descriptive-achievement-levels-groups.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) — a broader claim this one bears on
+- [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
+- [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related

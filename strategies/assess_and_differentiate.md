@@ -62,6 +62,7 @@ Assessment only improves learning when the results actually change subsequent in
 - [Scaffold Language Through Content](#) — the instructional counterpart: once assessment reveals language needs, scaffolds are delivered within content teaching
 - [Use Formative Assessment Probes](#) — specific elicitation routines that supply the evidence this strategy depends on
 - [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](embedded-evidence-gathering-without-separate-tests.md)
+- [Implement differentiated instruction via homogeneous grouping, tiered assignments and tiered instruction across content, process and product](homogeneous-grouping-tiered-assignments-tiered-instruction-strategy.md)
 
 ## Examples
 - **WIDA-supported instruction (U.S.)** — Teachers use WIDA ACCESS proficiency scores alongside classroom formative assessment to differentiate tiered tasks and language supports ([https://wida.wisc.edu](https://wida.wisc.edu)).

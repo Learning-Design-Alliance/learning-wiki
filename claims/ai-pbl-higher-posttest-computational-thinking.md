@@ -86,3 +86,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — related
+- [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](pbl-civic-pretest-posttest-gain.md) — related

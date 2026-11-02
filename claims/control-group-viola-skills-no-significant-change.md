@@ -51,3 +51,4 @@ Wilcoxon test on control group pre-test (mean 7.55) versus post-test (mean 9.11)
 - [Experimental and control viola students did not differ significantly in playing skills at pre-test](erzurum-folk-song-viola-pretest-equivalence.md) — related
 - [The three selected Erzurum folk songs are modal works analysable into maqam structures and viola playing techniques](erzurum-folk-songs-modal-analysis-nikriz-rast.md) — related
 - [Experimental group's within-group pre-to-post change in viola playing skills was not statistically significant despite a large descriptive mean increase](experimental-group-within-group-change-not-significant.md) — related
+- [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related

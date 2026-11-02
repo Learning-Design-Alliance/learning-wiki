@@ -59,6 +59,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Integrate robotics with visual block programming into mathematics units on coordinates and integers](integrate-robotics-block-programming-math-units.md)
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
+- [Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples](science-teachers-integrate-computational-practice.md)
 
 ## Examples
 -

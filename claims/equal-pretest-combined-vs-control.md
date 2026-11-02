@@ -53,3 +53,4 @@ Independent-samples t-test of overall pre-test scores of the experimental and co
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — related
+- [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — related

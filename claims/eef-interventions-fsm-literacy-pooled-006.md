@@ -65,3 +65,4 @@ IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel
 - [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — a narrower finding that bears on this claim
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
 - [The small positive English attainment effect (ES 0.033) is at risk of bias from missing baseline data and cannot be reliably concluded](pep-english-effect-bias-risk.md) — a narrower finding that bears on this claim
+- [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related

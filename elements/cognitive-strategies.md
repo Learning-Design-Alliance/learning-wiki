@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 26 studies (10 review, 8 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (14 for, 5 mixed, 1 against) · 27 studies (10 review, 9 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 15 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -79,6 +79,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](../claims/strategy-curiosity-interaction-reading.md) [~W] — attached 2026-11-01 from Busmin Gurning et al. (2017), which proposed "SQ3R reading comprehension strategy".
 - [Etymological elaboration improves EFL learners' comprehension of idioms](../claims/etymological-elaboration-improves-idiom-comprehension.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
 - [Etymological elaboration improves EFL learners' one-week retention of idioms](../claims/etymological-elaboration-improves-idiom-retention.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
+- [Strategy training improves the quality as well as the quantity of strategies learners deploy](../claims/strategy-training-improves-strategy-quality.md) [+W]
 
 ## The evidence by question
 
@@ -107,6 +108,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 
 **[Khan Academy](https://www.khanacademy.org)** — Hints and worked examples model solution strategies step by step before independent practice, embedding strategy modeling in the practice loop.
 - [Use chunking, gaze training and think-aloud cognitive rehearsal to support VWM capacity in surgical trainees](../strategies/chunking-gaze-training-think-aloud-mis.md)
+- [Administer an elaboration intervention combining an advance organizer with cognitive modelling when learners work on complex worked examples](../strategies/elaboration-intervention-advance-organizer-cognitive-modelling.md)
 
 ## Key Sources
 - Weinstein, C. E., & Mayer, R. E. (1986). The teaching of learning strategies. In M. C. Wittrock (Ed.), *Handbook of Research on Teaching* (3rd ed., pp. 315–327). Macmillan.

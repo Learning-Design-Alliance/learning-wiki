@@ -117,3 +117,4 @@ This review examined 35 experimental research studies that taught self-questioni
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related
 - [Prior quasi-experimental evidence: metacognitive strategy instruction raised Dutch Grade 6 students' reading comprehension (review-reported)](houtveen-grift-metacognitive-instruction-dutch-students.md) — a narrower finding that bears on this claim
 - [The experiment group teacher credited small-group work, interaction, modelling and student question-writing for improved comprehension and recall](teacher-opinions-reciprocal-teaching-benefits.md) — a narrower finding that bears on this claim
+- [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](reciprocal-teaching-meta-analysis-background-effects.md) — related

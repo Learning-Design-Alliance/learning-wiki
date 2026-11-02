@@ -13,7 +13,7 @@ generated:
 # Self Affirmation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 17 studies (8 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 13 claims rest on one study
+> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 17 studies (8 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,11 @@ Grades in the targeted course, overall GPA, persistence, test anxiety and long-t
 - [Student and teacher engagement with the values-affirmation exercise declined notably by the fourth administration](../claims/engagement-declines-by-fourth-exercise.md) [~W]
 - [Treated students showed high fidelity to the cognitive process of values affirmation, while student engagement varied regardless of condition assignment](../claims/high-fidelity-to-treatment-student-engagement-varies.md) [+W]
 - [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](../claims/values-affirmation-district-trial-modest-impacts.md) [~W]
+- [A large-scale replication of self-affirmation writing exercises found no evidence of treatment benefits for potentially threatened students in the new cohort 2 study.](../claims/cohort-2-self-affirmation-null-replication.md) [-W]
+- [Cohort 1 self-affirmation students received significantly higher grades in 8th grade (d=0.152), supporting persistent benefits from the prior study.](../claims/cohort-1-grade8-persistent-benefit.md) [+W]
+- [Fidelity to self-affirmation treatment was high in both cohorts, with 98.0% of treatment students providing at least one self-affirming response.](../claims/high-fidelity-self-affirmation-implementation.md) [+W]
+- [The article found no evidence of greater benefits for potentially threatened students or differential effectiveness by prior academic performance in cohort 2.](../claims/no-differential-benefit-threatened-or-prior-achievement.md) [-W]
+- [The article found no evidence that theorized moderators of self-affirmation effects (implementation, individual, or social-context differences) explained the difference between cohorts.](../claims/moderators-cannot-explain-difference.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks

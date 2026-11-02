@@ -77,6 +77,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
 - [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 - [Teach problem-solving and study planning skills explicitly linked to language arts, science, and social studies standards](standards-linked-problem-solving-study-planning-instruction.md)
+- [Explicitly teach and intensively practice self-regulated strategies in speaking classes](explicitly-teach-srl-strategies-speaking-classes.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

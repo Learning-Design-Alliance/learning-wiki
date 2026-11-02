@@ -58,3 +58,4 @@ Retention analysis by race/ethnicity across the 2017 and 2018 cohorts using Leas
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students](eo1110-retention-unchanged-for-support-students.md) — related
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
+- [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](no-trajectory-difference-cohort2.md) — related

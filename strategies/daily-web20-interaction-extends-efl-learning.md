@@ -45,7 +45,8 @@ The article recommends that EFL teachers "do more to utilize useful Web 2.0 tool
 - [Within the Edmodo group, EFL learning attitudes improved significantly from pre-test to post-test](../claims/edmodo-group-pre-post-attitude-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
 
 ## Examples
 -

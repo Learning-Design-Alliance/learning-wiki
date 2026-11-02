@@ -91,3 +91,4 @@ The same multiple regression on motivational factors found no significant predic
 - [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) — related
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
+- [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related

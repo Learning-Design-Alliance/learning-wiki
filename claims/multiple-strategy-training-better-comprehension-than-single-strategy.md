@@ -53,3 +53,4 @@ Panel synthesis of the experimental studies meeting WWC standards behind Recomme
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](learning-strategy-instruction-contextualized-more-effective.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](reciprocal-teaching-meta-analysis-background-effects.md) — related

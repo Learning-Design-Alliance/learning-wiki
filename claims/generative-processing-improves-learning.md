@@ -196,3 +196,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Applying CTML to authentic online instruction exposes gaps concerning working memory duration, retrieval, organization, and affective outcomes](ctml-research-gaps-from-practice.md) — related
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related
 - [Prior studies reported that self-explanation supported by worked examples was more effective than the strategy alone and improved programming code writing and debugging](prior-self-explanation-worked-examples-evidence.md) — a narrower finding that bears on this claim
+- [iSTART training showed no effect on posttest comprehension when participants were prompted to self-explain](istart-no-effect-posttest-comprehension.md) — a narrower finding that bears on this claim

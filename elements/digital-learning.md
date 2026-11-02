@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (23 for, 26 mixed, 3 against) · 44 studies (11 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 5 of 44 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (24 for, 26 mixed, 3 against) · 45 studies (12 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 5 of 45 report an effect size · 52 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -88,6 +88,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [MathsFlip showed no statistically significant impact on KS2 maths achievement in a two-armed cluster RCT of 24 primary schools](../claims/mathsflip-no-significant-ks2-maths-impact.md) [-W]
 - [Adoption of the four teaching methods depends on teachers' technical competence, and the DLP option was judged most feasible for Chhattisgarh schools facing low teacher motivation and competence](../claims/teacher-technical-competence-gates-ict-method-adoption.md) [~W]
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](../claims/favorable-student-perceptions-spirometry-lab.md) [+W]
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](../claims/mbio-motivates-and-positive-attitudes.md) [+W]
 
 ## Related Elements
 

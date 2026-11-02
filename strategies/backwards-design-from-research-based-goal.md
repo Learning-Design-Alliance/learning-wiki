@@ -43,6 +43,7 @@ The report recommends that product teams determine the desired learning outcomes
 - [Integrate educators and developers through regular cross-functional meetings so pedagogical intent survives technical implementation](cross-functional-meetings-integrate-research-and-development.md)
 - [Use small-scale learning metrics during iteration and reserve proof metrics for later stages](learning-metrics-small-scale-first.md)
 - [Five-step practical measurement process for improving CRSE mathematics instruction](five-step-practical-measurement-process-crse.md)
+- [Plan writing curriculum backward by starting with desired outcomes and assessment evidence](start-with-end-assessment-writing-curriculum.md)
 
 ## Examples
 -

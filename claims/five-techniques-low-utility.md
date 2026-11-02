@@ -62,3 +62,4 @@ The monograph's overall assessment section lists the five low-utility techniques
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related
 - [Descriptive habit-strength ratings rank highlighting highest, followed by rereading, self-testing, and concept mapping](habit-strength-descriptives-four-strategies.md) — related
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — a narrower finding that bears on this claim
+- [Visual memory-based memorization techniques improved reciting of invention themes in visual students](visual-memorization-improves-reciting-invention-themes.md) — related

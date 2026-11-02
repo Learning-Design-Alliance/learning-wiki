@@ -58,3 +58,4 @@ Quasi-experimental equivalent pre-post test control group design with 84 experim
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [Peer teaching produced significantly higher mathematics achievement than no peer teaching among low-scoring undergraduate female students in Oman](peer-teaching-improves-math-achievement-undergraduate-oman.md) — related
 - [After a 27-week performance-focused intervention, 9th-grade students in the experimental group scored significantly higher on the posttest performance measure than control-group students](performance-activities-posttest-favor-experimental.md) — related
+- [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related

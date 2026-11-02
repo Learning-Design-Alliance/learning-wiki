@@ -51,3 +51,5 @@ Exploratory moderation analyses in the RCT found a significant treatment × pre-
 - [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related
 - [Pre-game competence interacts with learning condition in predicting post-game competence](pre-game-competence-condition-interaction.md) — related
 - [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](sel-effects-vary-by-risk-level.md) — related
+- [Gender interacted with pre-test/post-test change in informative explorations](inquiry-preschool-science-gender-interaction.md) — related
+- [Lower pre-test exploratory levels predicted greater gain scores, with the covariate significantly predicting difference scores](inquiry-preschool-science-pretest-covariate-gain.md) — related

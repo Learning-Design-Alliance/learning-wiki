@@ -75,3 +75,4 @@ Wilcoxon signed rank test on the control group's (N total 13) pre- and post-test
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
 - [Both groups improved significantly from pretest to posttest on the BLAT](blat-within-group-gains-both-groups.md) — possibly the same claim (merge candidate)
+- [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related

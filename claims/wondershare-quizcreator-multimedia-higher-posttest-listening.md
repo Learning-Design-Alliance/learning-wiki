@@ -57,3 +57,4 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [CALL instruction produced significantly better TOEIC listening score gains than traditional textbook instruction in a quasi-experiment with two groups of 25 Vietnamese college students](call-improves-toeic-listening-scores-over-traditional.md) — related
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — related
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — related
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related

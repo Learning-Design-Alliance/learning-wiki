@@ -52,3 +52,4 @@ Paired pre-test/post-test comparison of the 15-student control group under conve
 - [Teaching reading with picture story books improved reading comprehension in first-year Paket B students at PKBM Medaso Kolaka](picture-story-books-improve-paket-b-reading-comprehension.md) — related
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — possibly the same claim (merge candidate)
 - [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related
+- [Conventional teaching produces a smaller writing score gain than either experimental technique](conventional-teaching-smaller-writing-gain.md) — related

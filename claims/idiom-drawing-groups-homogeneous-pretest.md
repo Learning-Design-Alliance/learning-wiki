@@ -144,3 +144,5 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [The control and experimental groups showed no significant difference in English skills at pretest](pretest-equivalence-english-app-study.md) — related
 - [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
+- [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related
+- [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — possibly the same claim (merge candidate)

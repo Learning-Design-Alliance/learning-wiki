@@ -54,3 +54,4 @@ Independent Samples t Test on pre-test scores of the same 37-student quasi-exper
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related

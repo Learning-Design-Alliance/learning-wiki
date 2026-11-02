@@ -141,3 +141,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](restudy-effort-lower-after-four-examples.md) — related
 - [Completing steps in partially worked-out examples leads students to underestimate their test performance and report higher mental effort than studying fully worked examples](completion-problems-underestimation-higher-effort.md) — related
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related
+- [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related

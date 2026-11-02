@@ -77,3 +77,4 @@ Independent samples t-test on post-test SKS scores in the same quasi-experimenta
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
 - [Model-estimated mixture weights show no detectable difference between control and experimental groups in Study 2](study2-mixture-weights-no-group-difference.md) — related
+- [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related

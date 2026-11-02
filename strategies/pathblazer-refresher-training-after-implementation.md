@@ -41,6 +41,7 @@ The implementation notes identify a suggested improvement from the Floyd County 
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
 - [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
+- [Provide in-service training for teachers in the constructivist approach to support knowledge retention](inservice-training-constructivist-approach.md)
 
 ## Examples
 -

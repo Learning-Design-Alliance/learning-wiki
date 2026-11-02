@@ -56,3 +56,4 @@ Quasi-experimental comparison of 40 experimental and 40 control participants aft
 - [NLP instruction significantly improves ESP reading comprehension of Iranian undergraduate EFL learners](nlp-instruction-improves-esp-reading-comprehension.md) — related
 - [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related
 - [Presentation strategy instruction produces significantly higher reading comprehension post-test scores than ordinary strategy-based instruction for Iranian intermediate EFL learners](presentation-strategy-improves-efl-reading-comprehension.md) — related
+- [Comic reading materials improve EFL reading comprehension more than general texts and pictures](comic-materials-improve-efl-reading-comprehension.md) — related

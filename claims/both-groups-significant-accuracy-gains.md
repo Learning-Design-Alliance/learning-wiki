@@ -56,3 +56,4 @@ Within-subject paired t-tests from the repeated measures analysis in the Finding
 - [Both an effective-instruction intervention and the same intervention plus alternative AC grouping produce significant pre-to-post gains in multiplication and division fact fluency for students with LD or MID](effective-instruction-improves-ac-fluency-ld-mid.md) — related
 - [ARTS treatment outperformed standard instruction in accuracy and fluency gains in the online-school deployment](arts-outperforms-standard-instruction-multiplication.md) — related
 - [Third graders using ARTS mastered basic multiplication facts in about two hours with large pretest-to-posttest gains](arts-third-graders-multiplication-two-hours.md) — related
+- [SWD in both treatment and control groups showed a statistically significant pretest-to-posttest improvement on question 8](item-analysis-question-8-significant-gain.md) — related

@@ -54,6 +54,7 @@ The authors recommend that in clinical teaching settings educators employ case-b
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
+- [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
 
 ## Examples
 -

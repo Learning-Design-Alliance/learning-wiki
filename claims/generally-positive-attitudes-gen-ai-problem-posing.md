@@ -57,3 +57,4 @@ Phenomenological coding of the same 49 students' post-training reflections on pr
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
+- [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related

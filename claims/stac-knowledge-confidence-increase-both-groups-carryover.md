@@ -55,3 +55,4 @@ GLM repeated measures ANOVA in a randomized controlled study of 57 junior high s
 - [STAC-trained junior high students reported a significantly greater ability to identify bullying at 30-day follow-up than wait-list control students](stac-increases-ability-identify-bullying.md) — related
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](compass-increases-math-self-concept-immediately.md) — related
+- [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related

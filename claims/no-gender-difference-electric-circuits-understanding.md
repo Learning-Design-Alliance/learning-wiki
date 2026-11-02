@@ -49,3 +49,4 @@ ANCOVA on posttest scores with pretest as covariate compared males (n=139, mean 
 - [No significant interaction between teaching method and gender on conceptual understanding of electric circuits](no-method-gender-interaction-electric-circuits.md) — related
 - [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](pretest-misconceptions-electric-circuits-jordan.md) — related
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — a broader claim this one bears on
+- [Physics concept understanding is independent of gender when prior understanding is a covariate](physics-concept-understanding-independent-of-gender.md) — related

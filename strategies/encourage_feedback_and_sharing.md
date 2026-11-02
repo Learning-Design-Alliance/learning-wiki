@@ -59,9 +59,11 @@ Sharing work with peers converts writing from a private performance into a socia
 5. Extend to a broader audience once norms are secure: class publication, blog, or showcase, with consent and moderation.
 
 ## Related Strategies
+
 - Peer review and workshop models — the formalized, assessable version of this strategy
 - Portfolio assessment — sharing and feedback cycles generate the revision evidence portfolios require
 - Writing-across-the-curriculum — sharing situates writing in authentic disciplinary audiences
+- [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their judgment on sample texts, then review peers' anonymous writing; the calibration step directly addresses the weak-feedback constraint.

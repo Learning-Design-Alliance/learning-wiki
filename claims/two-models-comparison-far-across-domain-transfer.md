@@ -66,3 +66,4 @@ Follow-up pairwise analyses of the far transfer item showed the Two Models condi
 ## Related Claims
 - [Both treatment groups improved near within domain transfer, but the One Model Group's benefit depended on having a content-expert teacher while the Two Models Group's did not](near-transfer-teacher-expertise-interaction-one-model.md) — related
 - [PF students scored significantly higher than DI students on far transfer (robot mining problem), with an independent teacher experience effect](pf-beats-di-far-transfer-robot-mining.md) — related
+- [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — related

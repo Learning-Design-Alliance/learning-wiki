@@ -83,6 +83,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — vocabulary instruction works best when new words are anchored to what learners already know
 - [Accessible Syntax](../strategies/accessible_syntax.md) — academic language difficulty comes from syntax as well as word choice; the two supports are complementary
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
+- [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](select-high-leverage-academic-vocabulary.md)
 
 ## Examples
 - **Beck, McKeown, & Kucan's robust vocabulary instruction** (*Bringing Words to Life*, Guilford Press) — Tier 2 words taught through friendly definitions, multiple contexts, and interactive questioning such as "Would you be *reluctant* to eat a sandwich you loved?"

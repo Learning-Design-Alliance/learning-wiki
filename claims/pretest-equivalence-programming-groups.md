@@ -59,3 +59,4 @@ Three open-ended pretest questions administered to both groups before the 10-wee
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
 - [Prior interest in programming was higher in the control group than in the experimental group before the treatment](prior-programming-interest-group-difference.md) — related
+- [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related

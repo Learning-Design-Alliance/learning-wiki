@@ -57,3 +57,4 @@ Omnibus ANCOVA interaction term (group * gender) in the same quasi-experiment: S
 - [Post-test achievement did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found](no-gender-gpa-achievement-effects.md) — related
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
 - [No statistically significant difference in geographic concepts acquisition attributable to gender](no-gender-difference-web-quest-concept-acquisition.md) — related
+- [Gender and the method-by-gender interaction had no significant effect on posttest or delayed test success scores](gender-and-method-interaction-insignificant.md) — possibly the same claim (merge candidate)

@@ -47,3 +47,4 @@ Subgroup analysis of FSM pupils within the same cluster trial. Table 1 reports F
 ## Related Claims
 - [Dialogic Teaching raised attainment in English and science (two additional months' progress) and maths (one additional month) in Year 5 pupils compared to control schools](dialogic-teaching-two-months-english-science-one-month-maths.md) — related
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
+- [FSM-eligible pupils in CtG primary schools made two months' additional progress while FSM pupils in secondary schools made two months' less progress](ctg-fsm-subgroup-divergent-progress.md) — related

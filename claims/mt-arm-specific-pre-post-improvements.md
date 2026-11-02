@@ -52,3 +52,4 @@ Within-group pre-post contrasts from the cluster-randomized trial of secondary s
 - [Self-taught mindfulness training may be a useful option for teachers who cannot access or commit to an instructor-led program, provided they engage with mindfulness practice](self-taught-mt-fallback-when-access-limited.md) — related
 - [Both mindfulness training formats showed similar participant expectancy and engagement, but teachers perceived the instructor-led arm as more credible](similar-expectancy-engagement-instructor-led-more-credible.md) — related
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
+- [Perceived acceptance in the group and stress-management strategies are proposed mechanisms for play therapy reducing insecure attachment](group-acceptance-mechanism-insecure-attachment.md) — related

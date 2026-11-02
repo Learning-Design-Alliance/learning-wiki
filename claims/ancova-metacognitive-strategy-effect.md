@@ -47,3 +47,4 @@ One-way ANCOVA on the experimental group's pre- and post-test scores, controllin
 ## Related Claims
 - [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](ancova-metacognitive-strategy-reading-comprehension-effect.md) — possibly the same claim (merge candidate)
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](metacognitive-strategy-literary-books-posttest-reading-comprehension.md) — possibly the same claim (merge candidate)
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related

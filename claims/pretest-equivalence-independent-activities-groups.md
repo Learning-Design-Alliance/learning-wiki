@@ -52,3 +52,4 @@ Pre-test comparison using the t test for independent focus groups after a Levene
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [The Jigsaw and control groups differed significantly in scientific process skills before treatment](spst-pretest-group-difference.md) — related
 - [The control and experimental groups showed no significant difference in English skills at pretest](pretest-equivalence-english-app-study.md) — related
+- [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related

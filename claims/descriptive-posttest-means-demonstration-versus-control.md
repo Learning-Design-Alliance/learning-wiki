@@ -55,3 +55,5 @@ Descriptive statistics (Table 2) from the same experiment: demonstration group M
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](cooperative-learning-improves-financial-accounting-achievement.md) — related
+- [Students taught agricultural science with the demonstration method achieved significantly higher post-test scores than students taught with the conventional lecture method](demonstration-method-higher-achievement-than-lecture.md) — possibly the same claim (merge candidate)
+- [The demonstration method produced a larger mean gain in achievement scores than the conventional lecture method](demonstration-method-larger-mean-gain.md) — related

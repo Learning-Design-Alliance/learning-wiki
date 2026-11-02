@@ -64,6 +64,7 @@ Audio-only delivery imposes distinct cognitive demands: without visual support, 
 - Discussion-based formats — the natural follow-on activity that converts listening into processing
 - Audiobook and long-form audio approaches — same medium, extended duration, similar attention constraints
 - [Co-involve students in producing podcasted lessons of their own course](co-involve-students-podcasting-lessons.md)
+- [Deliver video podcasts via shared URLs for supervised self-paced learning](shared-url-video-podcast-delivery.md)
 
 ## Examples
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** — short curriculum-aligned audio segments embedded in structured lessons.

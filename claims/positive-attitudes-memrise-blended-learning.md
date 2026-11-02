@@ -47,3 +47,4 @@ Qualitative open-thematic coding of semi-structured interviews with 5 experiment
 ## Related Claims
 - [Supplemental blended learning with the Memrise app produced significantly higher post-test vocabulary scores than face-to-face instruction in Iranian EFL learners](memrise-blended-learning-vocabulary-posttest-gain.md) — related
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
+- [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](blended-music-course-more-positive-attitudes-than-ftf.md) — related

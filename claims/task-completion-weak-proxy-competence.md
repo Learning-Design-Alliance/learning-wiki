@@ -79,3 +79,4 @@ The review attributes to Qiao et al.'s systematic review of 31 code-comprehensio
 - [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — related
+- [Teacher-centred students reported cognitive difficulties including inefficient, transient, superficial and rote learning](tcbio-inefficient-transient-superficial-rote-learning.md) — related

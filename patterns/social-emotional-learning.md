@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (37 for, 18 mixed, 3 against) · 66 studies (22 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 21 of 66 report an effect size · 44 claims rest on one study
+> **Evidence** · 60 claims (38 for, 19 mixed, 3 against) · 67 studies (23 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 22 of 67 report an effect size · 46 claims rest on one study
 
 ## Description and scope
 
@@ -135,6 +135,8 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Ef Associated With Reappraisal And Lower Suppression Adolescents](../claims/ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) [+M]
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](../claims/ssis-cip-teacher-rated-social-skills-effects.md) [+W] — attached 2026-11-01 from DiPerna et al. (2014), which proposed "Six-phase social skills lesson model: coaching, modeling, role play, practice, feedback, generalization"; tests this page's relationship.
+- [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](../claims/sel-ssstp-willingness-intervene-disabilities.md) [+M] — attached 2026-11-02 from Espelage et al. (2016), which proposed "Use universal SEL programming to build protective factors against bullying among students with disabilities"; tests this page's relationship.
+- [Standardized reading and math test scores showed no treatment effect](../claims/ssstp-no-test-score-effect.md) [~W] — attached 2026-11-02 from Espelage et al. (2016), which proposed "Use universal SEL programming to build protective factors against bullying among students with disabilities"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

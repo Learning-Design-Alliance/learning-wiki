@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (94 show a difference, 15 mixed, 20 no difference) · 106 studies (57 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 106 report an effect size · 127 claims rest on one study
+> **Evidence** · 134 claims (99 show a difference, 15 mixed, 20 no difference) · 109 studies (60 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 109 report an effect size · 132 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -167,6 +167,11 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Problem Based Economics improves students' economics problem-solving skills on open-ended performance tasks (effect size 0.27)](../claims/pbe-improves-performance-task-skills.md) [+W] — instruction changes it
 - [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](../claims/problem-solving-strategy-more-effective-problem-solving.md) [+M] — instruction changes it
 - [Within the GEMS group, problem solving scores improved significantly from pre-test to post-test on both subscales and the total](../claims/gems-within-group-problem-solving-gains.md) [+M] — instruction changes it
+- [Cooperative learning improved sixth graders' decision-making skill more than traditional teaching in a Jordanian geometry unit](../claims/cooperative-learning-improves-decision-making-skill.md) [+M] — instruction changes it
+- [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](../claims/sbi-retention-proportional-problem-solving-9-weeks.md) [+M] — instruction changes it
+- [SBI produces significantly more growth in proportional problem solving over time than business-as-usual instruction](../claims/sbi-greater-growth-proportional-problem-solving.md) [+M] — instruction changes it
+- [Students taught through the STAD model of cooperative learning achieved significantly higher problem solving ability than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-problem-solving-than-pbl.md) [+M] — instruction changes it
+- [The STAD group showed a larger descriptive gain in problem solving ability than the PBL group.](../claims/stad-larger-descriptive-gain-problem-solving.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

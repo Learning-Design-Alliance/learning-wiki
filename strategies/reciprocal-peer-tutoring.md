@@ -91,6 +91,7 @@ RPT converts review and practice into an active, social format: explaining mater
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 - [Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts](reciprocal-teaching-parent-persuasion-strategy.md)
 - [Use a guided-reciprocal-questioning script to drive storytelling skill development](guided-reciprocal-questioning-script-storytelling.md)
+- [Deliver RAP strategy instruction through peer tutoring with trained high-achieving classmates as one-on-one tutors](peer-tutoring-rap-delivery-strategy.md)
 
 ## Examples
 - **Classwide Student Teams–Achievement Divisions adaptations and Fantuzzo's reciprocal tutoring** — classwide RPT in elementary mathematics where dyads alternate tutor/tutee roles weekly with structured materials and reward systems; improved computation fluency and conduct.

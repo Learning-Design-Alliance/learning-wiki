@@ -72,3 +72,4 @@ The 4x2 ANCOVA of analysis of Light waves (Table 8) shows the Method * Gender in
 - [Gender has no significant influence on mean achievement scores of students taught light and sound waves using guided inquiry teaching method](gitm-gender-no-achievement-difference.md) — related
 - [No significant gender difference in transfer of knowledge in physics under guided discovery, demonstration or expository teaching](no-gender-difference-physics-transfer-strategies.md) — related
 - [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — related
+- [No significant treatment-by-gender interaction on physics concept understanding](no-treatment-gender-interaction-physics-concepts.md) — related

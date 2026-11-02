@@ -66,3 +66,4 @@ Theoretical explanation in the review: novices solving problems use means-ends a
 - [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — related
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
 - [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related
+- [Working on understanding-activities reduced errors in subsequent perception-activities, with no evidence for the reverse direction](understanding-activities-reduced-subsequent-perception-errors.md) — related

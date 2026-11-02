@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (49 for, 29 mixed, 10 against) · 89 studies (31 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 89 report an effect size · 75 claims rest on one study
+> **Evidence** · 89 claims (50 for, 29 mixed, 10 against) · 90 studies (32 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 90 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](../claims/structured-inquiry-higher-geometry-concept-understanding.md) [+W] — attached 2026-11-01 from Salim et al. (2015), which proposed "Shift geometry teaching from teacher-centred transmission to guided student-centred reinvention of concepts"; tests this page's relationship.
 - [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](../claims/it-jitt-higher-problem-solving-than-cooperative.md) [+W] — attached 2026-11-02 from Betty Turnip et al. (2016), which proposed "Design physics lectures around problem solving and investigation using an inquiry approach".
 - [Metacognition gains after inquiry learning differed across three classes: knowledge gains differed among all three, while awareness gains differed only between Group A and Groups B and C, not between B and C](../claims/inquiry-impact-inconsistent-across-groups.md) [~W] — attached 2026-11-02 from Asy’ari et al. (2019), which proposed "Emphasize declarative knowledge within inquiry learning steps to support construction of comprehensive metacognition awareness".
+- [Inquiry-based preschool science intervention increased informative explorations relative to controls](../claims/inquiry-preschool-science-informative-explorations.md) [+W] — attached 2026-11-02 from Dejonckheere et al. (2016), which proposed "Inquiry-based preschool science with probe questions and structured phases supports scientific reasoning development"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

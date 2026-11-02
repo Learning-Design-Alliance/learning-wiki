@@ -112,6 +112,7 @@ Explicit instruction outperforms incidental exposure for teaching specific word 
 - [Spaced repetition](../elements/spaced-repetition.md) — distributes word review over time for durable retention
 - [Frayer model](../strategies/frayer-model.md) — a four-quadrant graphic organizer (definition, characteristics, examples, non-examples) for deep word processing
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
+- [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](select-high-leverage-academic-vocabulary.md)
 
 ## Examples
 - **Bringing Words to Life (Beck, McKeown, & Kucan, 2013)** — the robust-vocabulary instructional routine widely used in elementary classrooms; words are taught over multiple days with varied contexts and playful interaction.

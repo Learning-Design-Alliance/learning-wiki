@@ -50,3 +50,4 @@ In the focus groups, a current student described the problem of not knowing what
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
 - [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related
 - [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related
+- [Financial and logistical pressures precluded low-income students from anticipatory socialization for college](summer-tasks-preclude-anticipatory-socialization.md) — related

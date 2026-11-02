@@ -49,3 +49,4 @@ Delayed IMCCT administered 9 weeks after the intervention in the same quasi-expe
 - [Instruction with the explanation assisted REACT strategy significantly eliminated some alternative conceptions about impulse, momentum and collisions](react-explanation-eliminates-some-conceptions.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related
+- [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — a narrower finding that bears on this claim

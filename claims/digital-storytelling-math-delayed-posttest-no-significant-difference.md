@@ -54,3 +54,4 @@ Delayed-posttest administered eight weeks after the application to measure reten
 - [Storytelling instruction was followed by an interest-rate boost for nearly all experimental-group learners](storytelling-boosts-young-efl-learner-interest-rate.md) — related
 - [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
 - [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related
+- [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — related

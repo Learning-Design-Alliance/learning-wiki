@@ -57,3 +57,4 @@ Theoretical argument in the section on norm-referenced scores from criterion-ref
 - [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related
 - [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — a narrower finding that bears on this claim
+- [The pretest and posttest demonstrated significant criterion-referenced validity against the Oxford Placement Test](pretest-posttest-criterion-referenced-validity-opt.md) — related

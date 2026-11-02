@@ -52,3 +52,4 @@ Authors' interpretation comparing this RCT's effect sizes with prior First Step 
 - [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — a broader claim this one bears on
 - [FSN's impact was more robust in the school setting than in the home setting across all five RCTs](fsn-school-versus-home-impact.md) — related
 - [Parent-reported outcomes for the PFS ADHD-risk subsample improved in the medium range for both home-setting symptoms and social functioning](pfs-medium-parent-reported-effects-home-setting.md) — related
+- [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related

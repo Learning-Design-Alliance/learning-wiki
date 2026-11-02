@@ -74,6 +74,7 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 
 **[Khan Academy](https://www.khanacademy.org)** — Each exercise and unit displays explicit mastery objectives ("Solve two-step equations"), tied to a mastery-tracking system that makes progress toward the objective visible.
 - [Pair each performance objective with a demonstration-based suggested activity and coded resource references](../strategies/objective-activity-resource-alignment-strategy.md)
+- [Plan writing curriculum backward by starting with desired outcomes and assessment evidence](../strategies/start-with-end-assessment-writing-curriculum.md)
 
 ## Key Sources
 - Mager, R. F. (1962). *Preparing instructional objectives*. Fearon Publishers.

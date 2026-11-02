@@ -92,6 +92,7 @@ Flipped learning works because it reallocates scarce, socially rich classroom ti
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Assess e-learning readiness and motivation before implementing the flipped classroom, and provide brief in-class explanations of out-of-class assignments](fc-readiness-assessment-and-assignment-briefing.md)
+- [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 
 ## Examples
 - **[Clintondale High School](https://flippedhighschool.com) (Michigan)** — flipped its entire curriculum school-wide; failure rates dropped substantially (reported ~33% in some subjects) in the first year.

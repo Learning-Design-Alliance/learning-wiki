@@ -66,3 +66,6 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Post-test scores were significantly higher for the combined-method group than the lecture-only group](combined-method-outperformed-lecture-posttest.md) — related
 - [Teaching with the created didactic set of high-tech educational laboratory equipment produced higher acquisition of the course's basic concepts than traditional teaching in control groups](high-tech-lab-equipment-higher-concept-acquisition.md) — related
 - [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) — related
+- [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
+- [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related
+- [Simulation-based instruction produced significantly higher post-test scores across all three test sections: fill in the blanks, matching, and short answer.](simulation-biology-section-level-gains.md) — related

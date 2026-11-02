@@ -70,3 +70,4 @@ LongTutor knowledge-state diagnosis results in Section 4.4. The article reports 
 - [TACTutor shows no degradation relative to its Qwen backbone on external educational benchmarks, with scores rising on MRBench, TutorBench, LongTutor, and DeepTutor](tactutor-no-degradation-external-benchmarks.md) — related
 - [Specializing models for K-12 education does not require a broad loss of general capability, with MMMU-Pro accuracy increasing at all three scales](omniedu-general-capability-retained-after-specialization.md) — related
 - [K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary](k12-train-full-multimodal-complementarity.md) — related
+- [The experimental group showed large gains in high-level performance on every component, with the largest rises on the operational and motivational components](component-level-gains-experimental-group.md) — related

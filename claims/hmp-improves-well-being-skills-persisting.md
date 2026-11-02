@@ -91,3 +91,4 @@ Follow-up (T6) estimates from the same N=662 models: "all significant HMP group 
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — a broader claim this one bears on
 - [Implementation of the capabilities model of dementia care was associated with better staff work satisfaction and family-rated quality of life at 12 months](capabilities-model-dementia-care-improved-satisfaction-qol.md) — related
+- [The elaboration intervention increases self-reported mindfulness during learning with worked examples](elaboration-intervention-increases-mindfulness.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (118 show a difference, 52 mixed, 48 no difference) · 170 studies (74 associational, 63 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 170 report an effect size · 217 claims rest on one study
+> **Evidence** · 219 claims (118 show a difference, 53 mixed, 48 no difference) · 171 studies (74 associational, 64 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 171 report an effect size · 218 claims rest on one study
 
 ## How to read this page
 
@@ -303,6 +303,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](../claims/paths-no-fsm-differential-gains.md) [-W] — an instructional effect differs by group
 - [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](../claims/ses-gap-westest-reading-sixth-grade.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Post-test programming scores after Alice with 4C-ID, adjusted for ECDL logical reasoning, did not differ significantly between a very-low-SES school group with more grade retentions and an intermediate-SES school group (n = 14)](../claims/alice-4cid-programming-gains-no-ses-difference.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](../claims/worked-examples-benefit-disadvantaged-students.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

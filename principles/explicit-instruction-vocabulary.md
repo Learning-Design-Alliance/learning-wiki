@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (30 for, 10 mixed, 3 against) · 48 studies (20 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 48 report an effect size · 33 claims rest on one study
+> **Evidence** · 45 claims (32 for, 10 mixed, 3 against) · 50 studies (22 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 50 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+W] — attached 2026-11-02 from Vincy (2018), which proposed "Design vocabulary textbook materials and teaching methodologies on the basis of theoretical understanding of vocabulary knowledge and acquisition"; tests this page's relationship.
 - [Vocabulary-added instruction produced larger gains on taught vocabulary than phonological-awareness-and-decoding-only instruction, though differences were not statistically significant](../claims/vocab-added-larger-target-vocabulary-gains.md) [~M] — attached 2026-11-02 from Filippini et al. (2012), which proposed "Dedicate limited instructional minutes to vocabulary building alongside phonological awareness and decoding in early literacy interventions for at-risk readers"; tests this page's relationship.
 - [Fourth graders receiving multi-component social studies vocabulary instruction made significantly greater vocabulary gains on a curriculum-based measure than comparison peers](../claims/multicomponent-vocab-cbm-gains.md) [+W] — attached 2026-11-02 from Graham et al. (2015), which proposed "Teach content-area vocabulary explicitly and multi-componentally because comprehension of content depends on understanding its vocabulary"; tests this page's relationship.
+- [Corpus-based instruction using COCA concordance lines improved EFL students' verb-noun collocation recognition more than traditional instruction](../claims/corpus-based-activities-improve-verb-noun-collocation-learning.md) [+W] — attached 2026-11-02 from Uçar et al. (2015), which proposed "Use corpus-based concordance activities to teach verb-noun collocations in EFL classes".
+- [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+W] — attached 2026-11-02 from Coyne et al. (2019), which proposed "Extended vocabulary instruction: high-utility words, student-friendly definitions, multiple exposures, and deep processing"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -199,6 +201,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students](../elements/emip-two-unit-morphology-program.md)
 - [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](../strategies/explicit-vocabulary-instruction-intentional-environment-recipe.md)
 - [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
+- [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](../strategies/select-high-leverage-academic-vocabulary.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)

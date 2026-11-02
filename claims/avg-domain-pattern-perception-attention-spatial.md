@@ -52,3 +52,4 @@ Cross-sectional moderator analysis by cognitive domain (Table 3): perception g =
 - [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related
 - [Age-related deficits in top-down modulation underlie much of older adults' working memory impairment](aging-top-down-modulation-deficit-wm.md) — related
 - [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md) — reports the opposite
+- [Students' spatial skills moderate their benefit from understanding-activities and perception-activities](spatial-skills-moderate-connection-activities.md) — related

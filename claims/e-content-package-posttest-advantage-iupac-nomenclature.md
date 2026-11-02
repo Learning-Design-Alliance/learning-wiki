@@ -69,3 +69,7 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
+- [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
+- [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
+- [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — a narrower finding that bears on this claim
+- [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related

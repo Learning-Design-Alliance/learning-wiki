@@ -68,3 +68,4 @@ Parallel ROI analysis for DMPFC–right amygdala connectivity showed the same pa
 - [Playing the empathy training game Crystals of Kaydor produced no greater improvement in adolescents' empathic accuracy than playing the commercial control game Bastion](crystals-no-group-difference-empathic-accuracy-change.md) — related
 - [Adolescents with higher empathic accuracy report higher empathic concern, and improvements in the two track together over training](empathic-accuracy-empathic-concern-association.md) — related
 - [Adolescents who engaged more with Crystals' empathy training mechanics showed greater increases in empathic accuracy-related RTPJ activation, controlling for total playtime](game-engagement-rtpj-activation-increase.md) — related
+- [Empathy and caring outcomes showed no notable differences between conditions by study end](ssstp-empathy-caring-null.md) — related

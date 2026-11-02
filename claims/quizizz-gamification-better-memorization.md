@@ -59,3 +59,4 @@ The review reports, citing Mirzoyeva and Gurbanova (2021), a study of an online 
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](gamification-engagement-mixed-evidence.md) — related
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — related
 - [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — related
+- [Gamification of web-based learning improves academic achievement among primary school students learning English](gamification-web-learning-improves-primary-achievement.md) — related

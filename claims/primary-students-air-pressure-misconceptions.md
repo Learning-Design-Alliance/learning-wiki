@@ -50,3 +50,6 @@ Narrative literature review attributing these misconceptions to Lin (2006) for T
 - [Both experimental and control preservice teachers held knowledge gaps and misconceptions about global warming before instruction, most commonly that global warming happens due to ozone layer depletion](preservice-teachers-ozone-global-warming-misconception.md) — related
 - [Multimedia-learning misconceptions are highly prevalent among student teachers, with the learning-styles misconception endorsed most commonly (84%)](multimedia-misconceptions-prevalent-student-teachers.md) — related
 - [B.Sc. students hold widespread misconceptions about ATP generation by mitochondrial oxidative phosphorylation, rooted in preconceptions from everyday experience](widespread-misconceptions-atp-generation-preconceptions.md) — related
+- [Conceptual change instruction reduced specific air pressure misconceptions more than traditional instruction](conceptual-change-reduces-specific-air-pressure-misconceptions.md) — a narrower finding that bears on this claim
+- [Traditional instruction was associated with increases in some air pressure misconceptions](misconceptions-can-increase-in-traditional-instruction.md) — related
+- [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related

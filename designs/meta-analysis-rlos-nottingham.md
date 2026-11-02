@@ -45,7 +45,8 @@ Two interactive, multimedia web-based RLOs were developed on meta-analysis for h
 - [A minority of students stated they needed lecturer support alongside the RLOs](../claims/minority-students-needed-lecturer-support-alongside-rlos.md) [~W]
 
 ## Related Designs
-- 
+
+- [XERTE-built Solar System Educational Resource with interactive multimedia activities](xerte-solar-system-educational-resource.md)
 
 ## Examples
 -

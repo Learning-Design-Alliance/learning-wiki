@@ -51,3 +51,4 @@ Independent-samples t-test (df=107) comparing post-test scores of the experiment
 - [In the first six weeks, comprehension gains on the Checkpoints measure did not differ significantly between intervention and comparison groups](checkpoints-no-six-week-difference.md) — related
 - [No significant post-test difference between groups on science process skills despite significant within-group gains in both groups](gems-no-between-group-science-process-difference.md) — related
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](podcast-group-outperformed-control-listening-posttest.md) — related
+- [Between-group differences in reading comprehension gains were not statistically significant despite group 1 showing larger effect sizes](rap-between-group-differences-nonsignificant.md) — related

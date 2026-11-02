@@ -72,3 +72,6 @@ Authors' summary of the HLM subscale analyses (Tables 3 and 4): the Ratio/Propor
 - [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](sbi-did-not-moderate-growth-over-time.md) — related
 - [Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties](sbi-improves-pps-posttest-mdps.md) — related
 - [SBI gains in proportional problem-solving are maintained 9 weeks after the intervention for students with MD-PS](sbi-pps-gains-maintained-9-weeks.md) — a broader claim this one bears on
+- [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
+- [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related
+- [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](sbi-retention-proportional-problem-solving-9-weeks.md) — related

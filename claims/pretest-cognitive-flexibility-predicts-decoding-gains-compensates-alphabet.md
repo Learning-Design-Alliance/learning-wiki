@@ -78,3 +78,4 @@ The models included treatment-by-covariate and covariate interactions; the artic
 - Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students — related
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](lower-pretest-skills-greater-gains-moderators-null.md) — related
+- [Lower pre-test exploratory levels predicted greater gain scores, with the covariate significantly predicting difference scores](inquiry-preschool-science-pretest-covariate-gain.md) — related

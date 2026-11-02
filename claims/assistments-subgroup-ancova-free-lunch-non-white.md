@@ -51,3 +51,4 @@ Secondary analyses of the quasi-experiment on sub-groups including gender, race,
 ## Related Claims
 - [The ASSISTments treatment effect was much larger for special education students (d = .50) than for regular students, whose difference was not significant](assistments-effect-larger-special-education.md) — related
 - [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — related
+- [Socioeconomic status measures attenuate the matched-group difference by 27%](ses-attenuates-matched-group-difference-27-percent.md) — related

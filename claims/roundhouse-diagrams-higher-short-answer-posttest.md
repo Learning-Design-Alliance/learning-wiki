@@ -50,3 +50,4 @@ Independent sample t-test of posttest scores on the 20-item short-answer test (1
 - [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](roundhouse-diagrams-higher-achievement-test-posttest.md) — related
 - [Within-group gains on the multiple-choice achievement test were significant only for the Roundhouse Diagram group, not the control group](roundhouse-gain-significant-control-not.md) — related
 - [Roundhouse Diagrams helped reveal student misconceptions, which students generally reflected in the visuals they drew](roundhouse-diagrams-reveal-misconceptions.md) — related
+- [Simulation-based instruction produced significantly higher post-test scores across all three test sections: fill in the blanks, matching, and short answer.](simulation-biology-section-level-gains.md) — related

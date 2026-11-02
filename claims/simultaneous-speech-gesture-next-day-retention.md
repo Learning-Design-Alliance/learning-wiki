@@ -69,3 +69,4 @@ Same experiment, generalization problems at next-day follow-up: significant cond
 - [Using two modalities per se does not drive the benefit: sequential speech-then-gesture instruction performed no better than speech-only instruction](multiple-modalities-alone-insufficient.md) — related
 - [Simultaneous and sequential instruction produce no immediate differences in solving basic or generalization math equivalence problems](no-immediate-differences-across-timing-conditions.md) — related
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](simultaneous-speech-gesture-four-week-retention.md) — related
+- [Matched control children with similar post-test scores outperform matched treatment children at follow-up](matched-controls-outperform-matched-treatment-at-followup.md) — related

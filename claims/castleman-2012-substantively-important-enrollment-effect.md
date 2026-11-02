@@ -48,3 +48,4 @@ WWC findings table for Castleman et al. (2012): fall enrollment means were 58.0%
 - [Summer counseling has mixed effects on college access and enrollment for recent high school graduates, with a domain-average improvement index of +5 percentile points](summer-counseling-mixed-effects-college-enrollment.md) — a broader claim this one bears on
 - [Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)](summer-counseling-potentially-positive-persistence.md) — related
 - [Three of the five reviewed RCTs found no statistically significant effect of summer counseling on fall college enrollment (indeterminate effects)](summer-counseling-three-indeterminate-enrollment-effects.md) — related
+- [Willingness-to-intervene effect at Wave 2 was not statistically significant despite a medium effect size](wave2-willingness-intervene-nonsignificant.md) — related

@@ -62686,5 +62686,357 @@
  "worked-examples\tmobile learning based Worked Example in Electric Circuits (WEIEC) application\tcontrol group": {
   "label": "worked examples vs conventional instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tExperimental group Post Test II\tExperimental group Post Test I": {
+  "label": "Later post-test vs earlier post-test",
+  "treatment_is_a": true
+ },
+ "active-learning\tFlipped instruction with lecture materials outside class and active learning in class\tTraditional lecture-based instruction": {
+  "label": "Active learning in class (flipped instruction) vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tLIT reciprocal teaching\tno stated comparison": {
+  "label": "Reciprocal teaching vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\tConventional instruction": {
+  "label": "Active learning (mutual learning) vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\tExperimental group's pre-test": {
+  "label": "Mutual learning vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\tPre-test baseline": {
+  "label": "Mutual learning vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\tTraditional method instruction": {
+  "label": "Active learning (mutual learning) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\tpre-test before treatment": {
+  "label": "Mutual learning vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\ttraditional method instruction": {
+  "label": "Active learning (mutual learning) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning approach\ttraditional method of instruction": {
+  "label": "Active learning (mutual learning) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMutual learning teams\ttraditional instruction": {
+  "label": "Active learning (mutual learning teams) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning strategy\ttraditional method": {
+  "label": "Active learning (cooperative learning) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning strategy\ttraditional teaching method": {
+  "label": "Active learning (cooperative learning) vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration method\tconventional lecture method": {
+  "label": "Demonstration method vs conventional lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped course\ttraditional lecture-based course": {
+  "label": "Active learning in class (flipped course) vs traditional lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped course with lecture materials outside class and active learning in class\ttraditional lecture-based course": {
+  "label": "Active learning in class (flipped course) vs traditional lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\treciprocal teaching methods\tunspecified comparison conditions": {
+  "label": "Reciprocal teaching vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t30-minute Probability Approach lecture\tanswers and discussion without the Probability Approach": {
+  "label": "Probability Approach lecture vs no Probability Approach lecture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t30-minute Probability Approach lecture\tno Probability Approach lecture": {
+  "label": "Probability Approach lecture vs no Probability Approach lecture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t30-minute Probability Approach lecture\tno Probability Approach lecture; answers and discussion of missed questions": {
+  "label": "Probability Approach lecture vs no Probability Approach lecture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tConceptual Problem Solving (CPS)\ttraditional equation-focused problem solving": {
+  "label": "Conceptual Problem Solving vs traditional equation-focused problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tConceptual Problem Solving (CPS)\ttraditional, equation-focused problem solving": {
+  "label": "Conceptual Problem Solving vs traditional equation-focused problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tConstructive teaching method\tExplicit teaching method": {
+  "label": "Explicit teaching vs constructive teaching",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tRAP peer-tutoring intervention with motivational supports\tregular classroom activities before intervention": {
+  "label": "RAP strategy instruction or peer tutoring vs regular classroom activities or baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAP strategy instruction in peer tutoring\tpre-intervention baseline": {
+  "label": "RAP strategy instruction or peer tutoring vs regular classroom activities or baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAP strategy with token economy\tregular classroom activities": {
+  "label": "RAP strategy instruction or peer tutoring vs regular classroom activities or baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSS-SSTP social-emotional learning program\tbusiness-as-usual control": {
+  "label": "Second Step social-emotional learning program vs control or business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSecond Step SEL programming\tcontrol condition": {
+  "label": "Second Step social-emotional learning program vs control or business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSecond Step–Student Success Through Prevention SEL curriculum\tcontrol condition": {
+  "label": "Second Step social-emotional learning program vs control or business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSecond Step–Student Success Through Prevention SEL program\tcontrol condition without SS-SSTP": {
+  "label": "Second Step social-emotional learning program vs control or business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSecond Step–Student Success Through Prevention social-emotional learning program\tcontrol or business-as-usual condition": {
+  "label": "Second Step social-emotional learning program vs control or business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTier-1 classroom vocabulary instruction plus Tier-2 small-group EVI\tTier-1 classroom vocabulary instruction only": {
+  "label": "Tier-2 small-group EVI plus Tier-1 vocabulary instruction vs Tier-1 vocabulary instruction only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTier-2 small-group EVI plus Tier-1 classroom instruction\tTier-1 classroom vocabulary instruction only": {
+  "label": "Tier-2 small-group EVI plus Tier-1 vocabulary instruction vs Tier-1 vocabulary instruction only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional and understanding activities\tconventional activities only": {
+  "label": "Understanding activities plus conventional activities vs conventional activities only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit and implicit instruction in language-learner strategies integrated into English lessons\tsame English lesson contents excluding language-learner strategies": {
+  "label": "Explicit and implicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in language-learner strategies\tsame English content excluding language-learner strategies": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in language-learner strategies\tsame English content without language-learner strategy instruction": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in language-learner strategies\tsame English instruction excluding language-learner strategies": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in language-learner strategies\tsame contents excluding language-learner strategies": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit language-learner strategy instruction\tsame English content without strategy instruction": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit language-learner strategy instruction embedded in English lessons\tsame English content without language-learner strategy instruction": {
+  "label": "Explicit language-learner strategy instruction vs no language-learner strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-regulated strategy instruction\tpre-intervention baseline": {
+  "label": "Self-regulated strategy instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-regulated strategy instruction\tpretest before instruction": {
+  "label": "Self-regulated strategy instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-regulated strategy instruction\tpretest before treatment": {
+  "label": "Self-regulated strategy instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of visual memory-based memorization instruction and invention practice\tno memorization-method training": {
+  "label": "Visual memory-based memorization instruction and practice vs no memorization-method training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of visual memory-based memorization instruction and practice\tno memorization-method training": {
+  "label": "Visual memory-based memorization instruction and practice vs no memorization-method training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of visual memory-based memorization instruction and practice\tno training or information about memorization techniques": {
+  "label": "Visual memory-based memorization instruction and practice vs no memorization-method training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of visual memory-based memorization techniques\tno memorization-technique training": {
+  "label": "Visual memory-based memorization instruction and practice vs no memorization-method training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tunderstanding-activities before perception activities\tno understanding-activities before perception activities": {
+  "label": "Understanding activities before perception activities vs no understanding activities before perception activities",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tRAP with scoring, visual feedback, and verbal encouragement\tRAP with token economy alone": {
+  "label": "Multicomponent feedback vs token economy alone",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based web learning environment\ttraditional teaching method": {
+  "label": "gamified web-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified web-based English learning\ttraditional teaching": {
+  "label": "gamified web-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\t15 inquiry-based science activities over 7 weeks\tnormal classes without the intervention": {
+  "label": "guided discovery vs no intervention",
+  "treatment_is_a": true
+ },
+ "guided-discovery\t15 inquiry-based science activities with teacher guidance\tno intervention": {
+  "label": "guided discovery vs no intervention",
+  "treatment_is_a": true
+ },
+ "guided-discovery\t15-activity inquiry-based science intervention\tno intervention": {
+  "label": "guided discovery vs no intervention",
+  "treatment_is_a": true
+ },
+ "guided-discovery\t15-activity inquiry-based science intervention with teacher scaffolding\tno intervention": {
+  "label": "guided discovery vs no intervention",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning instruction\tconventional teaching": {
+  "label": "mastery learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning instructional strategy\tconventional teaching method": {
+  "label": "mastery learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tcomic strips, stories, and pictures\tgeneral course-book texts and visuals": {
+  "label": "comic strips, stories, and pictures vs general course-book texts and visuals",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-based biology instruction\tteacher-centered biology instruction": {
+  "label": "multimedia-based instruction vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-based biology instruction with videos, simulations, audio and animations\tteacher-centered biology instruction with oral presentation and note-taking": {
+  "label": "multimedia-based instruction vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial aids during speaking instruction\ttraditional Top Notch 2 instruction": {
+  "label": "pictorial-aid instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial-aid instruction\ttraditional Top Notch 2 instruction": {
+  "label": "pictorial-aid instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial-aid speaking instruction\ttraditional Top Notch 2 instruction": {
+  "label": "pictorial-aid instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tTBG once a week for three weeks\tTBG twice a week for three weeks": {
+  "label": "twice weekly vs once weekly",
+  "treatment_is_a": false
+ },
+ "practice-amount\tTBG once weekly for three weeks\tTBG twice weekly for three weeks": {
+  "label": "twice weekly vs once weekly",
+  "treatment_is_a": false
+ },
+ "prompts\tiSTART with performance-threshold and self-assessment supports\tiSTART without those supports": {
+  "label": "performance-threshold and/or self-assessment supports vs no such metacognitive supports",
+  "treatment_is_a": true
+ },
+ "prompts\tiSTART with performance-threshold and/or self-assessment supports\tiSTART without metacognitive supports": {
+  "label": "performance-threshold and/or self-assessment supports vs no such metacognitive supports",
+  "treatment_is_a": true
+ },
+ "prompts\tperformance threshold and/or self-assessment support\tcorresponding support absent": {
+  "label": "performance-threshold and/or self-assessment supports vs no such supports",
+  "treatment_is_a": true
+ },
+ "prompts\tself-affirmation effect in the previous cohort\tself-affirmation effect in the current cohort": {
+  "label": "previous cohort vs current cohort",
+  "treatment_is_a": true
+ },
+ "prompts\tself-affirmation writing exercises\tcontrol writing exercises": {
+  "label": "self-affirmation writing exercises vs control writing exercises",
+  "treatment_is_a": true
+ },
+ "prompts\tself-affirmation writing exercises\tnon-self-affirmation control activity": {
+  "label": "self-affirmation writing exercises vs non-self-affirmation control activity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworked examples with elaboration intervention\tworked examples without elaboration intervention": {
+  "label": "worked examples with elaboration vs worked examples without elaboration",
+  "treatment_is_a": true
+ },
+ "self-explanation\tiSTART self-explanation training\tno training": {
+  "label": "self-explanation training vs no training",
+  "treatment_is_a": true
+ },
+ "simulation\tTBG once weekly for three weeks\tno TBG": {
+  "label": "TBG vs no TBG",
+  "treatment_is_a": true
+ },
+ "simulation\tTBG twice weekly for three weeks\tno TBG": {
+  "label": "TBG vs no TBG",
+  "treatment_is_a": true
+ },
+ "simulation\tplayed Traders Board Game at either once or twice weekly for three weeks\tdid not play the game": {
+  "label": "TBG vs no TBG",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based biology teaching\ttraditional blackboard teaching": {
+  "label": "simulation-based teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based biology teaching\ttraditional teaching using blackboard": {
+  "label": "simulation-based teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-supported biology teaching\ttraditional biology teaching": {
+  "label": "simulation-supported teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-supported biology teaching\ttraditional blackboard teaching": {
+  "label": "simulation-supported teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "worked-examples\texample-based assignments\tcontrol assignments without examples or self-explanation prompts": {
+  "label": "worked examples vs conventional problem solving without examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\texample-based assignments with correct and incorrect worked examples\tcontrol assignments with the same types of problems but no examples or self-explanation prompts": {
+  "label": "worked examples vs conventional problem solving without examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tintegrated learning environment with worked examples\tcontrol texts on statistics": {
+  "label": "worked examples vs expository text",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with elaboration intervention\tselected texts on statistical procedures and their interpretation": {
+  "label": "worked examples vs expository text",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with explanation prompts\tsame types of problems without examples or explanation prompts": {
+  "label": "worked examples vs conventional problem solving without examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples without elaboration intervention\tselected texts on statistical procedures and their interpretation": {
+  "label": "worked examples vs expository text",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example assignments with explanation questions\tsame types of problems without examples or self-explanation prompts": {
+  "label": "worked examples vs conventional problem solving without examples",
+  "treatment_is_a": true
  }
 }

@@ -54,3 +54,4 @@ Independent samples t-test on Speech Anxiety Scale posttest scores after 8 weeks
 - [Within the drama group, speech anxiety decreased significantly from intermediate to very low level](drama-group-speech-anxiety-pretest-posttest-decrease.md) — related
 - [Test and control groups were equivalent at pretest on both Turkish verbal skills and speech anxiety](pretest-equivalence-verbal-skills-and-speech-anxiety.md) — related
 - [Writing anxiety decreased significantly in both the Facebook experimental group and the control group](writing-anxiety-decreased-both-groups.md) — related
+- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](srl-strategy-instruction-reduced-speaking-anxiety.md) — related

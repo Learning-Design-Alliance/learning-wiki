@@ -47,3 +47,4 @@ Univariate analyses of each VKS self-report level in the quasi-experiment (N=48)
 ## Related Claims
 - [Graphic-organizer instruction produces higher productive word knowledge (VKS Stage 4) than the C(2)QU contextual process](gos-instruction-higher-vks-stage-4-word-knowledge.md) — related
 - [Graphic-organizer instruction lowers negative achievement emotions (anxiety, boredom, anger) relative to C(2)QU, but differences in shame and hopelessness were not significant](gos-instruction-lowers-negative-achievement-emotions.md) — related
+- [Prior research on graphic organizers shows generally positive but not unanimous effects on vocabulary learning](go-prior-research-mixed-positive.md) — related

@@ -66,3 +66,4 @@ The review attributes this secondary outcome to the same Hong Kong quasi-experim
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
+- [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related

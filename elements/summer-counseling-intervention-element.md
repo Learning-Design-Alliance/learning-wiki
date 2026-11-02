@@ -50,7 +50,8 @@ Summer counseling helps college-intending high school graduates complete the ste
 - [FLIGHT program (Take Stock in Children®)](../products/flight.md)
 
 ## Examples
--
+
+- [Proactive summer outreach via advisors or personalized text messages to college-intending graduates](../strategies/proactive-summer-outreach-advisors-or-text.md)
 
 ## Key Sources
 - Summer Counseling. (2018). What Works Clearinghouse Intervention Report, Transition to College. U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc/InterventionReport/693

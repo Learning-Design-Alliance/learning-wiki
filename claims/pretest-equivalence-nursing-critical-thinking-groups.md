@@ -55,3 +55,5 @@ Static-group comparison design; Levene's test and t-test on pre-test vignette sc
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
+- [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related
+- [Experimental group's critical thinking disposition improved significantly from pre-test to post-test](experimental-group-cctdi-pre-post-gain.md) — related

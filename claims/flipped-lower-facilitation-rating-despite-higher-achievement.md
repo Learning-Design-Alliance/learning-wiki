@@ -49,3 +49,4 @@ Course-evaluation item comparison between flipped (N=42) and traditional (N=34) 
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — related
 - [Students in flipped college algebra rated 'The instructor encouraged my interest in the course' significantly lower than lecture-based students (p = .008)](flipped-course-lower-interest-ratings.md) — related
 - [Students in flipped college algebra rated the course overall significantly lower than lecture-based students (p = .04)](flipped-course-lower-overall-rating.md) — related
+- [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — reports the opposite

@@ -60,3 +60,4 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 - [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](ivr-vocabulary-beats-association-strugglers-gain-more.md) — related
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
 - [Virtual patient simulations were delivered via immersive systems (nine studies) or desktop-based platforms (ten studies), all as single-session interventions](vp-technology-modalities-single-session.md) — related
+- [Screen reading is slower than reading from printed out material according to prior literature reviewed](screen-reading-slower-than-printed-reading-literature.md) — related

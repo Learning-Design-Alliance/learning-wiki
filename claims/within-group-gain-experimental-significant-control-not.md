@@ -62,3 +62,5 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — reports the opposite
 - [No significant post-test difference between groups on science process skills despite significant within-group gains in both groups](gems-no-between-group-science-process-difference.md) — related
+- [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
+- [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — possibly the same claim (merge candidate)

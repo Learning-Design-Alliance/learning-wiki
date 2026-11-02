@@ -70,3 +70,4 @@ Alternative confounder-handling specifications — risk-index items entered sepa
 - [Risk of dropout is especially high when an adolescent's network includes more than one type of same-age intimate who recently dropped out](multiple-dropout-intimates-cumulative-risk.md) — related
 - [Only recent (within the past year) occurrences of dropout in an adolescent's network are associated with the adolescent's own dropout; older occurrences are not](dropout-contagion-limited-to-past-year.md) — related
 - [Stabilized IPTW achieved covariate balance on all variables, outperforming unstabilized IPTW, and was used for effect estimation](siptw-superior-balance-for-time-varying-treatment.md) — related
+- [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related

@@ -51,3 +51,4 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the posttest](smtv-achiever-levels-posttest.md) — related
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the retention test](smtv-achiever-levels-retention.md) — related
 - [The benefit of interactive methods appeared independently of students' incoming knowledge, including weak and strong pretest performers](interactive-gains-independent-of-pretest.md)
+- [The constructive method benefited higher-performing students more, while the explicit group had a lower failure percentage](constructive-method-failure-rate-lower-performers.md) — reports the opposite

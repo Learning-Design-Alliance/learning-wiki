@@ -50,3 +50,4 @@ Pilot study with 200 higher education students rated six content-validity questi
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
 - [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](skt-srl-scoring-reduced-ceiling-effects.md) — related
+- [A teacher assessment of the PBL-based material in the limited test rated all aspects 85%, declared eligible for learning](pbl-civic-limited-test-teacher-assessment.md) — related

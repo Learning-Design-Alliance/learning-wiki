@@ -67,3 +67,4 @@ Group-split correlation analysis (Table 3): post-search, recall correlated with 
 - [Generating answers before searching raises pre-search curiosity, but the group difference disappears after the search](answer-first-raises-pre-search-curiosity.md) — related
 - [Answer-first searching produced no significant group differences in cognitive self-esteem or performance and study time estimations](no-group-differences-metacognitive-judgments.md) — related
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
+- [Mindfulness correlates with far transfer performance but not near transfer performance](mindfulness-correlates-far-transfer-only.md) — related

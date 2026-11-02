@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 124 claims (66 for, 52 mixed, 6 against) · 111 studies (36 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 14 of 111 report an effect size · 123 claims rest on one study
+> **Evidence** · 126 claims (66 for, 53 mixed, 7 against) · 112 studies (37 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 14 of 112 report an effect size · 125 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -159,6 +159,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Students' creativity in creating interactive learning media combines mastery of school-level mathematics with the ability to apply Visual Basic Application for Excel](../claims/media-creativity-combines-math-mastery-and-vba-skill.md) [+W] — attached 2026-11-02 from Rohaeti et al. (2019), which proposed "Interactive mathematics learning media built with Visual Basic Application for Excel (command buttons, shapes, macros)".
 - [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](../claims/facebook-writing-achievement-control-decreased-experimental-unchanged.md) [+W]
 - [Tertiary EFL students whose instruction was supplemented with Facebook tasks showed almost double the average test improvement of a traditionally taught comparison group over one semester](../claims/facebook-supplemented-efl-larger-average-improvement.md) [+W]
+- [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](../claims/iwb-no-significant-score-difference-mauritius.md) [-W]
+- [IWB lessons produced greater engagement and enthusiasm but not better performance](../claims/iwb-engagement-without-performance-gain.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

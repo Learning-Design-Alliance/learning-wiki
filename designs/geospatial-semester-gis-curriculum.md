@@ -44,7 +44,8 @@ The Geospatial Semester is a real-world high school course, first adopted by Vir
 - [Spatial Curriculum Near Transfer Scanning Habits](../claims/spatial-curriculum-near-transfer-scanning-habits.md) [+M]
 
 ## Related Designs
-- 
+
+- [Geoinformation (GIS) competence as a learnable learner characteristic](geoinformation-competence-definition.md)
 
 ## Examples
 -

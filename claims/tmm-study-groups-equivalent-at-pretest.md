@@ -47,3 +47,4 @@ Independent samples t-test comparing the two groups' pre-test vocabulary scores 
 ## Related Claims
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related

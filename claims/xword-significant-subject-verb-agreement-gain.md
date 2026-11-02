@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: livingston-et-al-2018
     resource: "https://doi.org/10.5539/elt.v11n3p119"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For individual verb constructs, the difference favoring X-Word Grammar was significant for subject-verb agreement (p=.018), borderline significant for tense (p=.091), and not significant for aspect and verb forms (p=0.134). [→ Livingston et al. 2018](#livingston-et-al-2018)

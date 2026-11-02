@@ -55,3 +55,4 @@ Teacher survey item asking intervention and control teachers which groups the ap
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — a narrower finding that bears on this claim
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related
+- [Most teachers viewed the IWB as an effective tool benefiting all types of learners](iwb-teachers-positive-perceptions.md) — related

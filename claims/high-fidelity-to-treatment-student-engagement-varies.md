@@ -69,3 +69,4 @@ Content analysis of student responses across the trial found engagement varied i
 - [Significant positive impacts of values affirmation occurred despite low fidelity on some critical components, suggesting some delivery and stealth aspects may be less important than the original protocol defines them](impacts-despite-low-fidelity-components-less-critical.md) — related
 - [A tension between the stealth and low-stress critical components may undermine values-affirmation delivery, with teachers sometimes breaking stealth](stealth-low-stress-tension-values-affirmation.md) — related
 - [Students in both treatment groups were highly engaged with the stories, with no marked difference between approaches](sre-engagement-both-groups.md) — related
+- [Fidelity to self-affirmation treatment was high in both cohorts, with 98.0% of treatment students providing at least one self-affirming response.](high-fidelity-self-affirmation-implementation.md) — related

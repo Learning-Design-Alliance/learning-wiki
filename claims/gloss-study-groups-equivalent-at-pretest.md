@@ -89,3 +89,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
+- [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
