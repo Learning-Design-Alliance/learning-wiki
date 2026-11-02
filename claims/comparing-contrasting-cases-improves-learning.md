@@ -3,12 +3,12 @@ type: claim
 title: "Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge"
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-25
+  by: "process:article-ingest"
+  at: 2026-11-02
 id: comparing-contrasting-cases-improves-learning
 aliases: [comparing-contrasting-cases-improve-learning, multiple-contrasting-cases-support-abstraction, analogical-reasoning-improves-transfer]
 evidence_strength:
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
   - id: alfieri-et-al-2013
     resource: "https://doi.org/10.1080/00461520.2013.775712"
@@ -37,13 +37,31 @@ sources:
     n: 70
     kind: causal
     rigour: "?"
+  - id: ziegler-stern-2014
+    resource: "https://doi.org/10.1016/j.learninstruc.2014.04.006"
+    title: "Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146. [doi:10.1016/j.learninstruc.2014.04.006](https://doi.org/10.1016/j.learninstruc.2014.04.006)"
+    author: "Ziegler, E., & Stern, E."
+    q: 3
+    i: 2
+    n: 154
+    kind: causal
+    rigour: 2
+  - id: ziegler-stern-2014-2
+    resource: "https://doi.org/10.1016/j.learninstruc.2014.04.006"
+    title: "Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146. [doi:10.1016/j.learninstruc.2014.04.006](https://doi.org/10.1016/j.learninstruc.2014.04.006)"
+    author: "Ziegler, E., & Stern, E."
+    q: 3
+    i: 2
+    n: 72
+    kind: causal
+    rigour: 1
 ---
 
 # Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
-> **Currency** · newest study 2013 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 4 studies (5 entries) · 3 causal `r1`–`r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2014 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Comparing Contrasting Cases Improves Learning -->
 
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn more than learners who study the same cases one at a time or study a single case (d = .50 across 57 experiments), and transfer the principle more often (48% vs 19% in one negotiation experiment); in one algebra experiment the gain was in procedural knowledge and flexibility, not conceptual knowledge. <!-- deprecated (2026-10-05, overstated for Rittle-Johnson & Star 2007): learn the underlying principles better than learners who study the same cases one at a time. -->
@@ -65,6 +83,10 @@ Learners who compare two or more cases that differ on key features — side by s
 `q4 i2` Across 57 experiments (336 tests), case-comparison activities produced greater learning than sequential, single-case or non-analogous case study, traditional instruction and controls (d = .50), with larger gains when learners look for similarities, receive the principle after comparing, and are tested immediately. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
 
 `q3 i?` Novice undergraduates who compared two negotiation cases were more than twice as likely to transfer the underlying principle to a new negotiation (48%) as those who studied the same two cases separately (19%); no standardised effect size is reported. [→ Gentner et al. 2003](#gentner-et-al-2003)
+
+`q3 i2` Swiss sixth-graders with no prior algebra who learned algebraic addition and multiplication from worked examples shown side by side, with prompts to compare them, outscored peers who learned addition first and multiplication second on transformation tests 1 day, 1 week and 10 weeks later (d = 0.46, 0.50 and 0.76), and wrote fuller explanations of the rules (d = 0.45–0.52), although they did worse on the tests given during the four training days. [→ Ziegler & Stern 2014](#ziegler-stern-2014)
+
+`q3 i2` In the first, smaller experiment of the same article, with whole classes assigned to condition, the contrast group's transformation advantage was significant only at one week (d = 0.53), not at 3 months, while its fewer misconceptions in written explanations grew clearer with time (d = 0.25, 0.50, 0.66 at 1 day, 1 week, 3 months). [→ Ziegler & Stern 2014 (2)](#ziegler-stern-2014-2)
 
 ## Evidence
 
@@ -131,6 +153,22 @@ Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facili
 `q3 · peer-reviewed randomised experiment` · `i? · no effect size in the abstract read` · `n=70` · `causal · r?`
 
 Seventy seventh-grade students learning to solve algebra equations were randomly assigned to compare and contrast alternative solution methods or to reflect on the same methods one at a time. At posttest the compare group had made greater gains in procedural knowledge and procedural flexibility, and comparable gains in conceptual knowledge. This qualifies the claim: here comparison helped learners use and choose methods, not their grasp of the underlying concepts. Only the abstract was read.
+
+### Ziegler & Stern 2014
+
+Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146. [doi:10.1016/j.learninstruc.2014.04.006](https://doi.org/10.1016/j.learninstruc.2014.04.006)
+
+`q3 · randomised experiment, not pre-registered` · `i2 · medium effect, d = 0.46 to 0.76 on transformation tests` · `n=154` · `causal · r2`
+
+Experiment 2 of the article; numbers read from the authors' accepted manuscript. 154 sixth-graders (aged about 12) from six schools in the canton of Zurich, with no formal algebra yet, were assigned within each class to two paper self-study programmes (randomly, then adjusted to balance mathematics and German grades): 79 contrast, 75 sequential. Over four 90-minute sessions both groups worked through the same nine addition and nine multiplication worked examples, wrote self-explanations, invented their own examples and solved trial tasks with right/wrong feedback and correction. The contrast group met each addition step beside the matching multiplication step and was prompted to compare them (e.g. why students confuse the two); the sequential group did two days of addition then two of multiplication, with prompts to describe each step, and at the end of the fourth day also solved 20 mixed addition and multiplication problems, as a teacher usually would. During training the sequential group scored higher on the daily tests (MANOVA F(2, 151) = 27.75, partial η² = .27). On a 58-item transformation test 1 day, 1 week and 10 weeks later the contrast group scored higher at every point (d = 0.46, 0.50, 0.76; group F(1, 151) = 15.59), and its scores declined less over time; it also gave fuller written explanations of the rules (d = 0.45, 0.49, 0.52) and showed fewer misconceptions in them (group F(1, 151) = 17.11, partial η² = .10). The manuscript's post-hoc tests for misconceptions in this experiment repeat Experiment 1's values exactly (t(70) = 1.51, 3.05, 4.02, with degrees of freedom that do not fit 154 students), so they are not entered here. On two notational conventions that were never taught, the sequential group made fewer alphabetical-order errors (d = 0.43, 0.57, 0.86) and, not significantly, fewer superfluous 1s (p = .13). No moderation by reasoning ability was detected. The authors say the design cannot separate the effect of the explicit comparison prompts from that of the mixed presentation itself; one experimenter delivered all training.
+
+### Ziegler & Stern 2014 (2)
+
+Ziegler, E., & Stern, E. (2014). Delayed benefits of learning elementary algebraic transformations through contrasted comparisons. *Learning and Instruction, 33*, 131–146. [doi:10.1016/j.learninstruc.2014.04.006](https://doi.org/10.1016/j.learninstruc.2014.04.006)
+
+`q3 · experiment with whole classes assigned (one class per school to each condition, three schools)` · `i2 · medium effect, d = 0.53 at one week` · `n=72` · `causal · r1`
+
+Experiment 1 of the article; numbers read from the authors' accepted manuscript. 72 sixth-graders in six classes from three Zurich schools (one class per school randomly assigned to each programme, 36 per group; 65 retested at 3 months, after the summer holidays). Same materials and procedure as the entry above, with somewhat less standardised help during training. The sequential group did better during training (MANOVA F(2, 69) = 9.27, partial η² = .21). On transformation tests the contrast group was ahead overall (F(1, 63) = 3.35, p = .036, η² = .05), with d = 0.33 at 1 day (p = .057), d = 0.53 at 1 week (p = .014) and no significant difference at 3 months (p = .127). The groups did not differ on written explanations of the rules (p = .39), but the contrast group showed fewer misconceptions in them (F(1, 62) = 8.80, η² = .12; d = 0.25, 0.50, 0.66 at the three points), and misconceptions rose more over time in the sequential group. The authors name class-level assignment and uncontrolled 3-month testing as limits, which Experiment 2 was designed to fix. The article does not state whether its tests were one- or two-tailed; several printed p values (for example F(1, 63) = 3.35, p = .036) are what one-tailed tests would give.
 
 ## Studies bearing on this claim
 
