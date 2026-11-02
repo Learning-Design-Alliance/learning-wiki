@@ -51,5 +51,5 @@ Meta-analysis of 20 spatial-ability experiments from published studies (1994-201
 
 ## Related Claims
 - [Low spatial ability learners on average performed better than high spatial ability learners when taught through animations](lsa-learners-outperform-hsa-with-animations.md) — related
-- [Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)](animations-effective-only-high-prior-knowledge.md) — related
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related
 - [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md) — related

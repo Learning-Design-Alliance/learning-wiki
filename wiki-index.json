@@ -25504,13 +25504,14 @@
 "type":"claim"
 },
 {
-"description":"Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)",
+"description":"Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)",
 "evidence_strength":"moderate",
 "id":"animations-effective-only-high-prior-knowledge",
 "newest_evidence":"2019",
 "path":"claims/animations-effective-only-high-prior-knowledge.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)",
+"title":"Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)",
 "type":"claim"
 },
 {
@@ -78104,7 +78105,6 @@
 "id":"constructivist-environment-higher-basic-science-achievement-nigeria",
 "newest_evidence":"2016",
 "path":"claims/constructivist-environment-higher-basic-science-achievement-nigeria.md",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students taught basic science in a constructivist learning environment achieved significantly more at posttest than students taught in a transmissive learning environment",
 "type":"claim"
@@ -127472,13 +127472,13 @@
 "type":"claim"
 },
 {
-"description":"Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced",
+"description":"In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered",
 "evidence_strength":"weak",
 "id":"er-incidental-vocabulary-encounter-frequency",
-"newest_evidence":"2014",
+"newest_evidence":"2006",
 "path":"claims/er-incidental-vocabulary-encounter-frequency.md",
 "status":"review",
-"title":"Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced",
+"title":"In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered",
 "type":"claim"
 },
 {
@@ -263856,6 +263856,7 @@
 "id":"no-coaching-effect-on-teacher-self-reports",
 "newest_evidence":"2018",
 "path":"claims/no-coaching-effect-on-teacher-self-reports.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample",
 "type":"claim"
@@ -337964,13 +337965,14 @@
 "type":"claim"
 },
 {
-"description":"Lesson study supported by a fractions resource kit significantly improved three of four facets of teachers' fractions knowledge, while control-group teachers did not improve",
+"description":"Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported",
 "evidence_strength":"moderate",
 "id":"resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets",
 "newest_evidence":"2014",
 "path":"claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Lesson study supported by a fractions resource kit significantly improved three of four facets of teachers' fractions knowledge, while control-group teachers did not improve",
+"title":"Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported",
 "type":"claim"
 },
 {
@@ -347115,6 +347117,7 @@
 "id":"sbi-improves-pps-posttest-mdps",
 "newest_evidence":"2017",
 "path":"claims/sbi-improves-pps-posttest-mdps.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Schema-based instruction improves immediate proportional problem-solving performance of seventh graders with mathematics problem-solving difficulties",
 "type":"claim"
@@ -374200,13 +374203,14 @@
 "type":"claim"
 },
 {
-"description":"Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English",
+"description":"Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend",
 "evidence_strength":"weak",
 "id":"spaceteam-interviews-motivation-anxiety",
 "newest_evidence":"2016",
 "path":"claims/spaceteam-interviews-motivation-anxiety.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English",
+"title":"Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend",
 "type":"claim"
 },
 {
@@ -442649,13 +442653,14 @@
 "type":"claim"
 },
 {
-"description":"Wiki-based instruction improves EFL students' business writing skills more than traditional instruction",
+"description":"Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university",
 "evidence_strength":"moderate",
 "id":"wikis-improve-business-writing-skills-efl",
 "newest_evidence":"2017",
 "path":"claims/wikis-improve-business-writing-skills-efl.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Wiki-based instruction improves EFL students' business writing skills more than traditional instruction",
+"title":"Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university",
 "type":"claim"
 },
 {

@@ -39,7 +39,7 @@ The article models lesson study as collaborative inquiry cycles in which "teache
 - teacher content and pedagogical knowledge
 
 ### Claims
-- [Resource Kit Lesson Study Improves Teacher Fraction Knowledge Facets](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+M]
+- [Resource Kit Lesson Study Improves Teacher Fraction Knowledge Facets](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+W]
 
 ## Related Designs
 - 

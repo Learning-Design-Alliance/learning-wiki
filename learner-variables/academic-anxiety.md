@@ -248,7 +248,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Explicit affective strategy training significantly raised Iranian EFL learners' level of anxiety control relative to the control group by the end of the study](../claims/affective-strategy-training-raises-anxiety-control.md) [+M] — instruction changes it
 - [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](../claims/anxiety-control-change-within-groups.md) [+M] — instruction changes it
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+W] — instruction changes it
-- [Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — instruction changes it
+- [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

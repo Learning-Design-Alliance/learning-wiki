@@ -24,7 +24,7 @@ Spaceteam ESL is a free mobile multiplayer language-learning game adapted for ES
 
 ### Claims
 - [Playing Spaceteam ESL as a warm-up produced no significant difference in fluency improvement between treatment and control groups over time](../claims/spaceteam-esl-no-significant-group-difference-fluency.md) [+M]
-- [Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English](../claims/spaceteam-interviews-motivation-anxiety.md) [+W]
+- [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W]
 
 ## Related Products and Programmes
 -

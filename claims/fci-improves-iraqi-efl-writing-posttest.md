@@ -80,4 +80,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — related
 - [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](flipped-learning-significant-writing-gains-nfe-group.md) — related
 - [Posttest writing means favored the discussion group descriptively but the difference was not statistically significant](posttest-descriptive-means-not-significant.md) — related
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](wikis-improve-business-writing-skills-efl.md) — related
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related

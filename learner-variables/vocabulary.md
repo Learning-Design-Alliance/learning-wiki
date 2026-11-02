@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (132 show a difference, 26 mixed, 25 no difference) · 123 studies (65 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 123 report an effect size · 180 claims rest on one study
+> **Evidence** · 183 claims (132 show a difference, 26 mixed, 25 no difference) · 124 studies (66 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 124 report an effect size · 180 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -222,7 +222,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [The SMS group's vocabulary scores rose significantly from post-test to delayed post-test four weeks later](../claims/sms-group-significant-delayed-posttest-gain.md) [+M] — instruction changes it
 - [Treatment and control groups' WAT means differed by about 14 points (98.05 vs 83.95) with nearly equal standard deviations](../claims/wat-descriptive-means-treatment-control.md) [+M] — instruction changes it
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](../claims/sms-vs-dictionary-no-posttest-difference.md) [-M] — instruction changes it
-- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](../claims/er-incidental-vocabulary-encounter-frequency.md) [+M] — instruction changes it
+- [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W] — instruction changes it
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](../claims/sms-outperforms-dictionary-delayed-retention.md) [+M] — instruction changes it
 
 ## Measures

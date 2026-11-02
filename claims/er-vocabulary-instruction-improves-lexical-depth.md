@@ -49,5 +49,5 @@ Independent t test comparing Read's WAT scores of 20 treatment and 20 control st
 
 ## Related Claims
 - [Treatment and control groups' WAT means differed by about 14 points (98.05 vs 83.95) with nearly equal standard deviations](wat-descriptive-means-treatment-control.md) — possibly the same claim (merge candidate)
-- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](er-incidental-vocabulary-encounter-frequency.md) — related
+- [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](er-incidental-vocabulary-encounter-frequency.md) — related
 - [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — related

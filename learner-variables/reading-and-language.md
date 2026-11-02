@@ -357,7 +357,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+M] — instruction changes it
 - [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [-M] — instruction changes it
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' awareness of the evaluative and potency dimensions of deep vocabulary knowledge](../claims/semantic-mapping-improves-affective-dimension-awareness.md) [+M] — instruction changes it
-- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](../claims/er-incidental-vocabulary-encounter-frequency.md) [+M] — instruction changes it
+- [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

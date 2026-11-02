@@ -47,5 +47,5 @@ Wilcoxon test on treatment-group fluency ratings approached but did not reach si
 ## Related Claims
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related
 - [Descriptive trends showed the treatment group improving slightly from pre- to post-test and continuing to improve at delayed post-test, while the control group declined then recovered](spaceteam-fluency-trend-treatment-improvement.md) — related
-- [Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English](spaceteam-interviews-motivation-anxiety.md) — related
+- [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
 - [The fluency workshop did not increase trimmed speech rate significantly more than a general English class, though the experimental group alone showed a significant pre-to-post increase](fluency-workshop-speech-rate-not-significantly-better-than-control.md) — related

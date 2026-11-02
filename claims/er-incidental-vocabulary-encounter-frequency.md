@@ -1,45 +1,48 @@
 ---
 type: claim
-title: Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced
-description: Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced
+title: In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered
+description: In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered
 id: er-incidental-vocabulary-encounter-frequency
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: weak
-newest_evidence: 2014
+newest_evidence: 2006
 sources:
-  - id: jafarpour-2014
-    resource: "https://doi.org/10.7575/aiac.alls.v.5n.3p.162"
-    title: "Mohsen Jafarpour. (2014). The Effect of Incorporating the Extensive Reading Approach into Vocabulary Instruction on Learners' Lexical Depth in an EFL Context. Advances in Language and Literary Studies, 5(3). https://doi.org/10.7575/aiac.alls.v.5n.3p.162"
-    author: Mohsen Jafarpour
-    q: 2
+  - id: pigada-and-schmitt-2006
+    resource: "https://doi.org/10.64152/10125/66611"
+    title: "Pigada, M., & Schmitt, N. (2006). Vocabulary acquisition from extensive reading: A case study. *Reading in a Foreign Language, 18*(1), 1-28. [doi:10.64152/10125/66611](https://doi.org/10.64152/10125/66611)"
+    author: "Pigada, M., & Schmitt, N."
+    q: 1
     i: "?"
+    n: 1
     kind: causal
-    rigour: 1
+    rigour: "?"
 ---
 
-# Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced
+# In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q1` · n=1
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A cited case study found vocabulary acquisition varied by encounter frequency, with about two-thirds of 133 target words enhanced, strong spelling gains, and moderate meaning and grammatical gains. [→ Jafarpour 2014](#jafarpour-2014)
+`q1 i?` A one-month case study of a single learner of French found knowledge of 65% of 133 target words enhanced in some way, spelling strongly and meaning and grammatical knowledge less so; gains varied with how often words were encountered. [→ Pigada and Schmitt 2006](#pigada-and-schmitt-2006)
 
 ## Evidence
 
-### Jafarpour 2014
+### Pigada and Schmitt 2006
 
-Mohsen Jafarpour. (2014). The Effect of Incorporating the Extensive Reading Approach into Vocabulary Instruction on Learners' Lexical Depth in an EFL Context. Advances in Language and Literary Studies, 5(3). https://doi.org/10.7575/aiac.alls.v.5n.3p.162
+Pigada, M., & Schmitt, N. (2006). Vocabulary acquisition from extensive reading: A case study. *Reading in a Foreign Language, 18*(1), 1-28. [doi:10.64152/10125/66611](https://doi.org/10.64152/10125/66611)
 
-`q2 · i?` · `causal · r1`
+`q1 · case study` · `i? · no effect size reported` · `n=1` · `causal · r?`
 
-Narrative review attributing this to Pigada and Schmitt (2006)'s case study of a 27-year-old learner of French reading over one month, assessing 133 target words on meaning, spelling, and grammatical characteristics; no effect size is printed.
+Case study of one 27-year-old learner of French who read simplified texts for one month. Knowledge of 133 target words' spelling, meaning and grammatical characteristics was assessed in one-on-one interviews. Knowledge of 65% of the target words was enhanced in some way (about 1 of every 1.5 words tested); spelling was strongly enhanced, even from a few exposures, while meaning and grammatical knowledge were enhanced to a lesser extent. The study examined how acquisition varied with how often words were encountered in the texts. With one learner and no comparison condition, it describes what was learned rather than testing a cause.
 
-> "The study showed that vocabulary acquisition varies according to how often words are encountered in the texts. The results also showed that knowledge of about two-thirds of target words was enhanced."
+This entry was first ingested from Jafarpour (2014), *Advances in Language and Literary Studies, 5*(3), [doi:10.7575/aiac.alls.v.5n.3p.162](https://doi.org/10.7575/aiac.alls.v.5n.3p.162), whose literature review summarises this case study; Jafarpour's own study is a different one (see the related lexical-depth claim). The finding is Pigada and Schmitt's, so it is cited to them.
+
+> "This case study of a learner of French explores whether an extensive reading program can enhance lexical knowledge. ... The results showed that knowledge of 65% of the target words was enhanced in some way, for a pickup rate of about 1 of every 1.5 words tested. Spelling was strongly enhanced, even from a small number of exposures. Meaning and grammatical knowledge were also enhanced, but not to the same extent."
 
 ## Discussion
 

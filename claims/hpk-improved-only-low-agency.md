@@ -51,4 +51,4 @@ Discussion of the 40-participant SQL-Tutor experiment results: HPK students impr
 - [High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test](no-agency-effect-sql-tutor-learning.md) — reports the opposite
 - [Students with low prior knowledge show significantly higher proportional learning gains than students with high prior knowledge when learning with MetaTutor](lpk-higher-proportional-learning-gain-metatutor.md) — related
 - [The first (1998) evaluation of SQL-Tutor showed students learned from the system and found it useful and easy to use](sql-tutor-1998-evaluation-learning.md) — related
-- [Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)](animations-effective-only-high-prior-knowledge.md) — related
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related

@@ -22,7 +22,7 @@ A researcher-developed assessment for second-year EFL Business Administration st
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](../claims/wikis-improve-business-writing-skills-efl.md) [+M]
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](../claims/wikis-improve-business-writing-skills-efl.md) [+W]
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](../claims/wiki-writing-gains-by-aspect.md) [+M]
 
 ## Related Products and Programmes

@@ -45,7 +45,7 @@ Table 2 reports independent-samples t-tests per TBWS aspect, each significant at
 
 
 ## Related Claims
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](wikis-improve-business-writing-skills-efl.md) — possibly the same claim (merge candidate)
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — possibly the same claim (merge candidate)
 - [The Experimental group significantly outperformed the Control group on each post-test variable, including Content, Organization, Expression and Mechanical Accuracy](process-approach-posttest-all-variables.md) — related
 - [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](wikis-reduce-writing-anxiety-efl.md) — related
 - [Drama-based instruction produced statistically significant gains on all five writing aspects: thesis statement, unity, completeness and coherence, wording and cohesion, and organization](drama-instruction-significant-all-five-writing-aspects.md) — related

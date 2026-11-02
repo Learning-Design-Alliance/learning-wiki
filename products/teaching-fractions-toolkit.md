@@ -32,7 +32,7 @@ REL Midwest's Teaching Fractions Toolkit is a grade 6 mathematics professional-d
 ### Claims
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](../claims/tft-student-long-term-outcome-goal.md) [+W]
 - [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](../claims/tft-teacher-instruction-improvement-targets.md) [+W]
-- [Lesson study supported by a fractions resource kit significantly improved three of four facets of teachers' fractions knowledge, while control-group teachers did not improve](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+M]
+- [Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+W]
 
 ## Related Products and Programmes
 -

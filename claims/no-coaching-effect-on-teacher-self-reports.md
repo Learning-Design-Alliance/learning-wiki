@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: bradshaw-2018
     resource: "https://doi.org/10.17105/SPR-2017-0119.V47-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the teacher-reported survey scales showed significant differences between coached and non-coached teachers in the experimental contrast. [→ Bradshaw 2018](#bradshaw-2018)

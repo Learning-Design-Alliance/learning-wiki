@@ -45,4 +45,4 @@ Pre/post assessment of teachers' fraction knowledge in the randomised trial. Tab
 
 
 ## Related Claims
-- [Lesson study supported by a fractions resource kit significantly improved three of four facets of teachers' fractions knowledge, while control-group teachers did not improve](resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) — related
+- [Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported](resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) — related

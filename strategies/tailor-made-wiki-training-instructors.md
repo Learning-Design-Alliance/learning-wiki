@@ -39,7 +39,7 @@ The article recommends that EFL instructors receive tailor-made training on usin
 ## Claims
 
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](../claims/wiki-writing-gains-by-aspect.md) [+M]
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](../claims/wikis-improve-business-writing-skills-efl.md) [+M]
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](../claims/wikis-improve-business-writing-skills-efl.md) [+W]
 - [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](../claims/wikis-reduce-writing-anxiety-efl.md) [+M]
 - [A majority of pilot-study students suffered from a high level of writing anxiety](../claims/pilot-high-writing-anxiety-71-percent.md) [+M]
 - [Writing under time limitation and negative evaluation were the most salient sources of writing anxiety for control-group students](../claims/time-limit-evaluation-writing-anxiety-sources.md) [+M]

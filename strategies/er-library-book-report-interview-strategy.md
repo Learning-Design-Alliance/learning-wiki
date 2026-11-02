@@ -17,7 +17,7 @@ sources:
 # Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q1`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's treatment procedure offers an implementable recipe: equip the institution with a library of graded readers (basic vocabulary from 200–1,000 words) plus story books; have students record borrowed titles in a loan notebook; ask them to write a book report with the title and a brief comment in English; and interview participants mid-study so progress can be checked and advice given. An unstructured post-test interview confirmed students followed the plots and found the books easy enough for reading to be pleasant.
@@ -40,7 +40,7 @@ The article's treatment procedure offers an implementable recipe: equip the inst
 
 ## Claims
 
-- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W]
+- [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W]
 - [Incorporating the extensive reading approach into vocabulary instruction significantly improves high-intermediate EFL learners' lexical depth](../claims/er-vocabulary-instruction-improves-lexical-depth.md) [+W]
 - [Treatment and control groups' WAT means differed by about 14 points (98.05 vs 83.95) with nearly equal standard deviations](../claims/wat-descriptive-means-treatment-control.md) [+W]
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Wiki-based instruction improves EFL students' business writing skills more than traditional instruction"
-description: "Wiki-based instruction improves EFL students' business writing skills more than traditional instruction"
+title: "Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university"
+description: "Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university"
 id: wikis-improve-business-writing-skills-efl
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: kassem-2017
     resource: "https://doi.org/10.5539/elt.v10n3p151"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Wiki-based instruction improves EFL students' business writing skills more than traditional instruction
+# Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Experimental-group students taught business writing with wikis scored significantly higher on the post-test of business writing skills than control-group students taught by traditional methods. [→ Kassem 2017](#kassem-2017)
+`q2 i?` At Prince Sattam bin Abdul Aziz University (Saudi Arabia), second-year Business Administration students taught business writing with wikis scored significantly higher on the post-test of business writing skills than control-group students taught by traditional methods. [→ Kassem 2017](#kassem-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Mohamed Ali Mohamed Kassem. (2017). Developing Business Writing Skills and Reduc
 
 `q2 · i?` · `causal · r2`
 
-Pre-test/post-test experimental and control group design with 60 randomly chosen second-year students (30 per group), equivalent on English proficiency, age, computer skills and prior business writing. Independent-samples t-test on post-TBWS showed the experimental group higher, "t (58) = 9.27, p = 0.01".
+Pre-test/post-test experimental and control group design with 60 randomly chosen second-year Business Administration students at Prince Sattam bin Abdul Aziz University, Saudi Arabia (30 per group), equivalent on English proficiency, age, computer skills and prior business writing. Independent-samples t-test on post-TBWS showed the experimental group higher, "t (58) = 9.27, p = 0.01".
 
 > "The results, displayed in Table 1, showed statistically significant difference in the scores for the experimental group (M =11.9, SD =1.64) and the control group (M =7.43, SD = 2.06); t (58) = 9.27, p = 0.01 in favor of the experimental group."
 

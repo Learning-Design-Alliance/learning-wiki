@@ -47,6 +47,6 @@ Independent-samples t-test on the post-application of the 12-item Writing Anxiet
 ## Related Claims
 - [A majority of pilot-study students suffered from a high level of writing anxiety](pilot-high-writing-anxiety-71-percent.md) — related
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](wiki-writing-gains-by-aspect.md) — related
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](wikis-improve-business-writing-skills-efl.md) — related
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](process-writing-decreases-writing-anxiety.md) — related
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related

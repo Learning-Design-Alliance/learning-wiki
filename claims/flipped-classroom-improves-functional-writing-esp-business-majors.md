@@ -51,4 +51,4 @@ Quasi-experiment with 51 third-year business majors (26 experimental, 25 control
 - [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](flipped-learning-improves-hots-business-esp-students.md) — related
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](wikis-improve-business-writing-skills-efl.md) — related
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related

@@ -52,4 +52,4 @@ Quasi-experimental study of 80 English-major students randomly assigned to exper
 - [Teaching prewriting strategies significantly increases EFL learners' writing quantity compared with product-oriented writing instruction](prewriting-strategy-instruction-increases-efl-writing-quantity.md) — related
 - [MSBLP remedial teaching produced significant gain-score differences over traditional teaching in English skills among grade-3 primary students](msblp-significant-gains-over-traditional-english-teaching.md) — related
 - [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](process-writing-improves-academic-writing-success.md) — related
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](wikis-improve-business-writing-skills-efl.md) — related
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related

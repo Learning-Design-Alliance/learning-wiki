@@ -249,7 +249,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](../claims/ways-of-knowing-predict-post-instruction-writing.md) [~M] — instruction changes it
 - [Learners in the task-based writing course reported progress on content, organization, vocabulary, fluency and logic](../claims/tbl-writing-learner-reported-progress.md) [+W] — instruction changes it
 - [Third graders' text production performance varied by task type, with simpler lexical tasks easier than productive composition tasks](../claims/task-difficulty-pattern-text-production-subtests.md) [+M] — instruction changes it
-- [Wiki-based instruction improves EFL students' business writing skills more than traditional instruction](../claims/wikis-improve-business-writing-skills-efl.md) [+M] — instruction changes it
+- [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](../claims/wikis-improve-business-writing-skills-efl.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

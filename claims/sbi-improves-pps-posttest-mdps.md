@@ -10,6 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: jitendra-2017
     resource: "https://doi.org/10.1177/0022219416629646"
@@ -23,13 +24,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
 `q3 i1` Students with MD-PS in SBI classrooms scored on average 0.32 SDs higher than control students on the PPS total posttest, a printed standardized effect of 0.32 SDs. [→ Jitendra 2017](#jitendra-2017)
-
-`q3 i?` Students with MD-PS in SBI classrooms scored on average 0.32 SDs higher than control students on the PPS total score at immediate posttest. [→ Jitendra 2017](#jitendra-2017)
 
 ## Evidence
 
@@ -39,7 +38,7 @@ Jitendra, A. K., Harwell, M. R., Dupuis, D. N., & Karl, S. R. (2017). A Randomiz
 
 `q3 · i1`
 
-Two-level HLM analysis of posttest PPS total scores for 806 students with MD-PS in 82 randomly assigned classrooms, controlling for pretest and demographic covariates. The treatment coefficient was significant (p = .004), with a printed standardized effect size of 0.32 SDs: SBI students scored "on average 0.32 SDs higher than those in the control group".
+Two-level HLM analysis of posttest PPS total scores in a trial whose 82 classrooms were randomly assigned to SBI or business-as-usual control. Of the 806 students identified with MD-PS (399 SBI, 407 control), the posttest model analysed the 725 with available data, across 82 classrooms, controlling for pretest and demographic covariates. The treatment coefficient was significant (p = .004), with a printed standardized effect size of 0.32 SDs: SBI students scored "on average 0.32 SDs higher than those in the control group".
 
 > "treatment was a significant predictor of PPS total posttest scores ( γ01ˆ = 1.17), which translates to SBI students scoring on average 0.32 SDs higher than those in the control group, and a 22% reduction in the conditional intercept variance attributable to treatment"
 

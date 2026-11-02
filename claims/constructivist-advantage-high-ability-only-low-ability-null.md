@@ -11,14 +11,16 @@ evidence_strength: mixed
 newest_evidence: 2016
 sources:
   - id: atomatofa-2016
-    title: "Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478."
+    resource: "https://doi.org/10.13189/ujer.2016.040627"
+    title: "Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478. [doi:10.13189/ujer.2016.040627](https://doi.org/10.13189/ujer.2016.040627)"
     author: "Atomatofa, R., Okoye, N., & Igwebuike, T."
     q: 2
     i: "?"
     kind: causal
     rigour: 1
   - id: atomatofa-2016-2
-    title: "Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478."
+    resource: "https://doi.org/10.13189/ujer.2016.040627"
+    title: "Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478. [doi:10.13189/ujer.2016.040627](https://doi.org/10.13189/ujer.2016.040627)"
     author: "Atomatofa, R., Okoye, N., & Igwebuike, T."
     q: 2
     i: "?"
@@ -40,7 +42,7 @@ sources:
 
 ### Atomatofa 2016
 
-Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478.
+Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478. [doi:10.13189/ujer.2016.040627](https://doi.org/10.13189/ujer.2016.040627)
 
 `q2 · i?` · `causal · r1`
 
@@ -50,7 +52,7 @@ t-test of high ability groups: constructivist (n=26, mean 30.31) vs transmissive
 
 ### Atomatofa 2016 (2)
 
-Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478.
+Atomatofa, R., Okoye, N., & Igwebuike, T. (2016). Learning Environments as Basis for Cognitive Achievements of Students in Basic Science Classrooms in Nigeria. Universal Journal of Educational Research 4(6): 1471-1478. [doi:10.13189/ujer.2016.040627](https://doi.org/10.13189/ujer.2016.040627)
 
 `q2 · i?` · `causal · r1`
 

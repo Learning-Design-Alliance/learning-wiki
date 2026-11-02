@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)
-description: Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)
+title: Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)
+description: Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)
 id: animations-effective-only-high-prior-knowledge
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: kaushal-2019
     resource: "https://eric.ed.gov/?id=EJ1219792"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)
+# Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The overall mean effect size is 0.49 for HPK students and -0.16 for LPK students, so the study was unable to reject the null hypothesis that animations are only effective for HPK students. [→ Kaushal 2019](#kaushal-2019)
@@ -37,7 +38,7 @@ Kaushal, R. K., & Panda, S. N. (2019). A Meta Analysis on Effective Conditions t
 
 `q3 · i2` · `quant-synthesis · r1`
 
-Meta-analysis of 17 prior-knowledge experiments from published studies, effect sizes computed as Hedges g after a Shapiro-Wilk normality test found the data normally distributed. The printed effect sizes are Hedges g = 0.49 for HPK and g = -0.16 for LPK: "the mean effect size of LPK students is -0.16" versus 0.49 for HPK.
+Meta-analysis of 17 prior-knowledge experiments (of 37 experiments from 22 published studies). Cohen's d was computed for every experiment and corrected to Hedges g, except for the 6 of the 37 experiments that did not report sample sizes, where the uncorrected Cohen's d was used, so the pooled values are not exclusively Hedges g. The printed weighted mean effect sizes are 0.49 for high prior knowledge (HPK) learners and -0.16 for low prior knowledge (LPK) learners. The two subgroup means are compared descriptively; no statistical test of the difference between them is reported.
 
 > "The overall mean effect size of HPK students, when taught by animated agents, is 0.49, whereas the mean effect size of LPK students is -0.16. Hence, based on the results, the general assumption that animations are only effective for HPK students is true."
 

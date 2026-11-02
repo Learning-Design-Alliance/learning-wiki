@@ -38,7 +38,7 @@ Since animations cannot be assumed effective for everyone and were ineffective f
 
 ## Claims
 
-- [Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [+M]
+- [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [+M]
 
 ## Related Strategies
 - 

@@ -46,5 +46,5 @@ A repeated measures factorial design test with treatment as the independent vari
 
 ## Related Claims
 - [Descriptive trends showed the treatment group improving slightly from pre- to post-test and continuing to improve at delayed post-test, while the control group declined then recovered](spaceteam-fluency-trend-treatment-improvement.md) — related
-- [Participant interviews attributed the treatment group's improvement to increased motivation from game play and reduced anxiety about speaking English](spaceteam-interviews-motivation-anxiety.md) — related
+- [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related
