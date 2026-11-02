@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":43265,
+"claim":43266,
 "design":2027,
 "element":1057,
 "learner-variable":75,
@@ -287519,6 +287519,16 @@
 "recheck_by":"2028",
 "status":"review",
 "title":"Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"mixed",
+"id":"parent-homework-involvement-mixed-achievement-link",
+"newest_evidence":"2008",
+"path":"claims/parent-homework-involvement-mixed-achievement-link.md",
+"status":"review",
+"title":"Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject",
 "type":"claim"
 },
 {
@@ -621672,6 +621682,7 @@
 "parent-focus-groups-shaped-survey-content":"parent-focus-groups-shaped-survey-content",
 "parent-gender-associated-with-adolescent-motivation":"parent-gender-associated-with-adolescent-motivation",
 "parent-growth-mindset-declines-longitudinally":"parent-growth-mindset-declines-longitudinally",
+"parent-homework-involvement-mixed-achievement-link":"parent-homework-involvement-mixed-achievement-link",
 "parent-implemented-intervention-improves-outcomes":"parent-implemented-intervention-improves-outcomes",
 "parent-incremental-theories-not-predicting-praise-or-child-frameworks":"parent-incremental-theories-not-predicting-praise-or-child-frameworks",
 "parent-independence-opportunity-top-working-memory-cause":"parent-independence-opportunity-top-working-memory-cause",

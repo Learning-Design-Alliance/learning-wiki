@@ -3,8 +3,8 @@ type: claim
 title: Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-25
+  by: "process:article-ingest"
+  at: 2026-11-02
 id: parent-involvement-improves-achievement
 aliases: [parental-involvement-improves-achievement]
 evidence_strength: weak
@@ -167,3 +167,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](parental-involvement-positive-fv-all-outcomes.md) — related
 - [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](parent-academy-parent-confidence-engagement.md) — related
 - [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction](explicit-family-direction-needed.md) — related
+- [Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject](parent-homework-involvement-mixed-achievement-link.md) — a narrower finding that bears on this claim

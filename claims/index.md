@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**43265 entries** · 0 stable · 43265 in review · 0 drafts
+**43266 entries** · 0 stable · 43266 in review · 0 drafts
 
 ---
 
@@ -40866,6 +40866,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Training on speed reading strategies (skimming and scanning) significantly improves reading comprehension among second secondary literary students in English language](speed-reading-strategies-training-improves-reading-comprehension.md) - Training on speed reading strategies (skimming and scanning) significantly improves reading comprehension among second secondary literary students in English language
 * [Training on the deep structure of problems increases 4th and 5th graders' use of the shorter 1-step algorithm on unordered-entity problems](deep-structure-training-increases-one-step-algorithm-use.md) - Training on the deep structure of problems increases 4th and 5th graders' use of the shorter 1-step algorithm on unordered-entity problems
 * [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) - Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles
+* [Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject](parent-homework-involvement-mixed-achievement-link.md)
 * [Training parents to provide homework support was the most frequent common practice element in effective OSTA interventions for reading, and all 11 interventions using it were effective](homework-support-highest-fv-osta-reading.md) - Training parents to provide homework support was the most frequent common practice element in effective OSTA interventions for reading, and all 11 interventions using it were effective
 * [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) - Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies
 * [Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups](pps-training-improves-hcp-communication.md) - Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups

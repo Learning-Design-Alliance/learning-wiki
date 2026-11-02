@@ -5,8 +5,8 @@ description: Parental focus on compliance harms homework learning, while support
 id: parent-compliance-versus-process-support
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-09
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2020
 source_checked: 2026-10-18
@@ -73,3 +73,4 @@ Review attributions to Vazquez et al. (2020) on process-supportive parental help
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — a broader claim this one bears on
 - [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related
+- [Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject](parent-homework-involvement-mixed-achievement-link.md) — related: monitoring homework alone correlates negatively with achievement
