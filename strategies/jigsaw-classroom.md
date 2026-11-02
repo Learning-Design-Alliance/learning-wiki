@@ -63,6 +63,7 @@ Jigsaw operationalizes cooperative learning by combining individual accountabili
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](heterogeneous-team-grouping-peer-tutoring-cbi.md)
 - [Rotate heterogeneous cooperative learning clusters across distinct cooperative techniques and topics throughout a unit](rotate-heterogeneous-clusters-cooperative-techniques.md)
+- [Implement CIRC through heterogeneous four-member groups reading, discussing, presenting and summarizing a shared text](circ-group-reading-discussion-presentation-strategy.md)
 
 ## Examples
 - **Aronson's original design (1971, Austin, TX)**: fifth-grade history lessons split into segments; documented reductions in prejudice and increases in minority students' achievement ([jigsaw.org](https://www.jigsaw.org)).

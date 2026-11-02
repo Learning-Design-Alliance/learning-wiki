@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (36 for, 28 mixed, 3 against) · 60 studies (23 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 60 report an effect size · 59 claims rest on one study
+> **Evidence** · 69 claims (38 for, 28 mixed, 3 against) · 62 studies (25 causal, 15 quant-synthesis, 15 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 62 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -233,6 +233,8 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](../claims/kahoot-engagement-peer-study-groups-observed.md) [+W]
 - [Learners using TMM showed positive engagement, motivated by the software's scoring feature](../claims/tmm-scoring-feature-drove-learner-engagement.md) [+W]
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](../claims/gamification-higher-final-grades-python-course.md) [~W]
+- [The experimental group outgained the control group by 25.5 percentage points across the five fluency items](../claims/fluency-posttest-item-percentages-experimental-gain.md) [+W]
+- [Weekly gain scores favored the treatment group throughout the course, rising from the low 40s to the low 60s while control stayed near 30 points](../claims/equity-pedagogy-weekly-gain-scores-higher.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

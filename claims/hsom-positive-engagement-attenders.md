@@ -50,3 +50,4 @@ Qualitative process evaluation (observations and stakeholder reports) of attende
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — possibly the same claim (merge candidate)
 - [Low attendance at Saturday sessions was a barrier to implementation, driven by pupil availability, variable parental engagement, and limited recruitment time](hsom-low-attendance-barrier.md) — related
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — a broader claim this one bears on
+- [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](sarp-implementation-challenges.md) — related

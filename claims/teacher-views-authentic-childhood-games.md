@@ -69,3 +69,5 @@ From the same teacher interviews: teachers expressed they could have lack of cla
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md) — related
 - [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — reports the opposite
+- [Experimental-group students described literature lessons using the discourse analysis method as enjoyable and confidence-building, reporting increased interest and participation](discourse-analysis-increases-interest-and-participation.md) — related
+- [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](marble-game-student-interest-participation.md) — related

@@ -49,3 +49,4 @@ A 2 x 3 ANCOVA of reading comprehension by school location and treatment in the 
 - [Treatment method significantly affected reading comprehension achievement and was not sex-biased](treatment-effect-significant-not-sex-biased.md) — related
 - [School location has no significant main effect on primary pupils' environmental knowledge](school-location-no-main-effect-environmental-knowledge.md) — related
 - [Treatment and school location interact significantly: educational trips favour urban pupils while service learning favours peri-urban pupils](treatment-location-interaction-environmental-knowledge.md) — related
+- [Reading ability differed significantly between the JiTT and control groups at the .05 level as reported](jitt-web-reading-ability-significant.md) — related

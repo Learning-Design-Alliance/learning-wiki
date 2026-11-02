@@ -54,3 +54,4 @@ Three-arm pupil-randomised controlled trial in 12 secondary schools; 577 Year 7 
 - [The Quest programme showed no statistically significant effect on Year 7 reading comprehension, with a small negative point estimate (Hedges g = -0.04)](quest-no-significant-reading-comprehension-effect.md) — related
 - [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
 - [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related
+- [The two-year LRS cohort showed no evidence of benefit, with point estimates slightly negative for maths](lrs-no-impact-cohort-b-ks2.md) — related

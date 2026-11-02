@@ -56,3 +56,4 @@ Mann-Whitney U tests of post-test Metacognitive Awareness Scale scores in a pre-
 - [Self-regulation based reading education significantly increases 5th graders' use of reading strategies relative to the current program](srl-reading-education-improves-reading-strategies.md) — related
 - [Learning strategies instruction increases sixth graders' awareness of learning strategies](strategy-instruction-increases-strategy-awareness.md) — related
 - [Experimental-group learners show significantly higher awareness than control-group learners on both the potency and the evaluative dimensions in pairwise comparisons](pairwise-dimension-differences-favor-semantic-mapping.md) — related
+- [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](between-group-speed-difference-post-training.md) — related

@@ -53,3 +53,4 @@ Multiple-group growth model (N = 612) compared boys and girls; Wald tests showed
 ## Related Claims
 - [Negative cross-domain relations between math and L1 motivation were far more prevalent among girls than boys](girls-dimensional-comparison-cross-domain-relations.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a broader claim this one bears on
+- [Both girls and boys achieved pedagogically significant self-esteem gains despite pre-test baseline differences, with the educator's gender showing no effect](self-esteem-gains-both-genders-male-educator.md) — related

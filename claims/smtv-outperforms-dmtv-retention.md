@@ -48,3 +48,4 @@ Delayed/retention test administered with the same instrument to both groups to c
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the posttest](smtv-achiever-levels-posttest.md) — related
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the retention test](smtv-achiever-levels-retention.md) — a narrower finding that bears on this claim
 - [Ninth-grade students taught vocabulary with the structural method significantly outperformed students taught with the definitional method on the posttest](smtv-outperforms-dmtv-posttest.md) — related
+- [Average and low achievers taught with the structural method outperformed their counterparts taught with the contextual method on the posttest](structural-method-better-average-low-achievers-posttest.md) — related

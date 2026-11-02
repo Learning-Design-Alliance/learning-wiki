@@ -51,3 +51,4 @@ Ahmed Yousif Abdelraheem & Abdelrahman Mohammed Ahmed. (2015). Effects of Activi
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-attention-motivation.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
+- [University students in a blended learning German course showed significantly greater motivation gains than students in a traditional face-to-face course](blended-learning-greater-german-motivation-gains.md) — related

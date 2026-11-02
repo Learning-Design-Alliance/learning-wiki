@@ -47,3 +47,4 @@ Quasi-experimental between-groups study in Oklahoma secondary animal science cou
 ## Related Claims
 - [A serious digital game produced no statistically significant effect on secondary students' mathematics achievement, as measured by a standardized mathematics examination, compared with lecture and discussion](dgbl-no-significant-effect-mathematics-achievement.md) — related
 - [The omnibus multivariate effect of the digital game delivery method on the two achievement outcomes was non-significant with a small printed effect size (Partial η² = .04)](manova-omnibus-dgbl-effect-negligible.md) — related
+- [Experiential learning and direct instruction produce no statistically significant difference in secondary agriculture students' ARCS motivation](experiential-vs-direct-instruction-no-motivation-difference.md) — related

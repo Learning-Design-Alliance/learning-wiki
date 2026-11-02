@@ -48,3 +48,5 @@ Pretest-posttest control group experiment with 24 students per group, equated on
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the posttest](smtv-achiever-levels-posttest.md) — a narrower finding that bears on this claim
 - [High, average and low achievers taught with SMTV each significantly outperformed their DMTV counterparts on the retention test](smtv-achiever-levels-retention.md) — related
 - [The SMTV group significantly outperformed the DMTV group on the delayed retention test](smtv-outperforms-dmtv-retention.md) — related
+- [Average and low achievers taught with the structural method outperformed their counterparts taught with the contextual method on the posttest](structural-method-better-average-low-achievers-posttest.md) — related
+- [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](structural-method-outperforms-contextual-posttest-vocabulary.md) — related

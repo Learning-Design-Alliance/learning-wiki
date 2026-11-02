@@ -48,6 +48,7 @@ The article closes with recommendations for implementing iPads in education: rai
 ## Related Strategies
 
 - [Train teachers to create educational games with iPad applications through school workshops and an application-specific teacher manual](teacher-training-ipad-game-workshops.md)
+- [Provide teachers with time, resources and professional development to explore iPads before implementation](teacher-pd-time-for-ipad-implementation.md)
 
 ## Examples
 -

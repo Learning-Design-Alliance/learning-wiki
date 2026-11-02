@@ -50,3 +50,4 @@ Retention test administered one month after the application to both groups (n=21
 - [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related
 - [Geometry achievement and retention showed no significant gender differences in either the GSP or the traditional teaching group](no-gender-difference-geometry-achievement-retention.md) — related
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — a broader claim this one bears on
+- [LTM-taught students retain chemistry learning significantly better than traditionally taught students one month later](ltm-better-retention-chemistry.md) — related

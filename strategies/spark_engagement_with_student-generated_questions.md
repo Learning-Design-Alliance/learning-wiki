@@ -80,11 +80,13 @@ Student question generation increases engagement and investment because learners
 5. **Report and reflect** — students share findings, evaluate which questions were answered and which remain open, and generate new questions, making the cycle recursive.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — surfacing what students know sharpens the questions they can ask
 - [Case-Based Learning](../strategies/case-based-learning.md) — cases provide rich phenomena that provoke student questions
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-stakes structure for generating and refining questions with peers
 - [Collaborative inquiry](../principles/inquiry-based-learning.md) — student questions drive the shared investigative agenda
 - [Flipped classroom](../principles/flipped-learning.md) — students bring questions from pre-work to class time, making them the agenda for face-to-face sessions
+- [Collect and analyze students' pre-inquiries before class and use the selected meaningful pre-inquiries to structure science lessons](use-student-pre-inquiries-to-structure-lessons.md)
 
 ## Examples
 - **Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a published routine in which students produce, improve, and prioritize questions on a "QFocus" prompt; used across K–12 and higher education to shift question-asking from teacher to student.

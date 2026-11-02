@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (31 for, 27 mixed, 1 against) · 47 studies (20 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 47 report an effect size · 52 claims rest on one study
+> **Evidence** · 61 claims (33 for, 27 mixed, 1 against) · 49 studies (22 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 49 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](../claims/stad-highest-mean-gain-achievement.md) [+W]
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
 - [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
+- [Review evidence cited in the article: in 67 studies of achievement impacts, 61% found greater achievement in cooperative than in traditionally taught control groups](../claims/cl-achievement-review-evidence.md) [+M]
+- [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
 
 ## Related Principles
 
@@ -142,6 +144,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 ## Examples
 
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](../strategies/individual-assessment-during-pair-work-robotics.md)
+- [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 
 ### Validated
 - [Cooperative learning improves achievement when groups have positive interdependence and individual accountability.](../claims/cooperative-learning-improves-achievement.md) [+S] — Johnson & Johnson's (2009) synthesis of 60+ years of research found cooperative methods consistently outperformed competitive and individualistic conditions when both defining conditions were present.

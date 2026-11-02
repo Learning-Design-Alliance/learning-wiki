@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (132 show a difference, 43 mixed, 23 no difference) · 145 studies (44 causal, 42 review, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 39 of 145 report an effect size · 191 claims rest on one study
+> **Evidence** · 200 claims (133 show a difference, 44 mixed, 23 no difference) · 146 studies (45 causal, 42 review, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 39 of 146 report an effect size · 193 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -239,6 +239,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Course participants scored higher on social awareness than controls at the end of the course, though the pre-post interaction was not significant](../claims/sis-course-social-awareness-endpoint-difference.md) [~M] — instruction changes it
 - [The Peaceful Life Skills Education Program produced higher posttest social adaptation and skills scores than the conventional curriculum in 5-year-old kindergartners](../claims/peaceful-life-skills-program-higher-posttest-social-adaptation.md) [+M] — instruction changes it
 - [Within the study group, social adaptation and skills scores improved significantly from pretest to posttest with no negative-rank changes](../claims/peaceful-life-skills-within-group-gains.md) [+M] — instruction changes it
+- [A school-based social-emotional skills program produced significant pre-post gains in interpersonal relationships and defining goals, while a waiting-list group showed no significant change](../claims/isc-program-improves-interpersonal-relationships-and-goal-definition.md) [+M] — instruction changes it
+- [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [~M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

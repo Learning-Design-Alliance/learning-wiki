@@ -56,3 +56,4 @@ Self-regulation-structures component of the R-I-Z-A evaluation in the one-group 
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
+- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related

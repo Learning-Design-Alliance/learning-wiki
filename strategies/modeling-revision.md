@@ -65,6 +65,7 @@ Revision is a metacognitively demanding activity: writers must detect mismatches
 - Incremental Rehearsal of Writing Routines — building the modeled routine into habitual practice
 - [Focusing techniques for checking a text during drafting and revision](focusing-techniques-drafting-revision.md)
 - [Support struggling readers and writers with increased practice time, skill diagnosis and guidance, and targeted feedback during practice](practice-diagnosis-targeted-feedback-reading-writing.md)
+- [Teach metacognitive writing strategies through direct instruction, teacher modelling with thinking out loud, and guided application](direct-instruction-modelling-guided-application-metacognitive-writing.md)
 
 ## Examples
 **[Calkins' Units of Study](https://www.heinemann.com/unitsofstudy/)** (Teachers College Reading & Writing Project) — writing workshop mini-lessons built around the teacher "demonstrating" revision on their own draft, then sending students off to try the same move in their writing.

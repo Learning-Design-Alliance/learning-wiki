@@ -74,6 +74,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 
 **[Project Galileo / ConcepTest collections](https://galileo.seas.harvard.edu)** — Harvard's curated question banks across physics, chemistry, and biology, with documented misconception-based distractors.
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](../strategies/peer-instruction-questioning-sequence.md)
+- [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](../strategies/schedule-dissonance-before-lecture-with-clickers.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

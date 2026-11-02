@@ -54,3 +54,4 @@ Cluster randomised controlled trial of 2,736 pupils in 120 classes in ten second
 - [The Literacy and Morphemes programme had no significant impact on Year 2 pupils' literacy ability overall](literacy-morphemes-no-literacy-impact.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
+- [Prior randomised trials of book-gifting programmes have shown little evidence of effects on children's reading skills](book-gifting-rcts-little-evidence.md) — related

@@ -61,3 +61,5 @@ Pre-test homogeneity check on the Longman TOEFL reading comprehension test (30 q
 - [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related
 - [Male and female groups differed significantly on the pretest before the intervention, with females scoring higher](pretest-gender-difference-females-higher.md) — related
 - [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related
+- [CDA-based reading instruction does not differ significantly between male and female EFL students](cda-instruction-no-gender-difference.md) — related
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related

@@ -84,3 +84,4 @@ The expert panel's synthesis statement in Recommendation 1, grounded in the pane
 - [A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out](forty-percent-dropouts-no-clear-disengagement.md) — related
 - [Pre-admission data (2018–2022) contain sufficient information to identify early patterns of dropout or course failure in first-year engineering mathematics subjects](pre-admission-data-identify-early-dropout-failure-patterns.md) — a narrower finding that bears on this claim
 - [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related
+- [The transitional support intervention showed no significant treatment effect on attendance, discipline, or credit accrual](transitional-support-intervention-no-effect-behavioral-outcomes.md) — related

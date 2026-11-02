@@ -52,3 +52,4 @@ Paired sample t-test on the experimental group (n=30) comparing pre- and post-te
 - [Reflective teaching significantly enhances the intrinsic motivation of Iranian upper-intermediate female EFL learners](reflective-teaching-enhances-intrinsic-motivation.md) — related
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [Journal writing generated positive attitudes and intrinsic motivation for writing among EFL students](journal-writing-generates-writing-motivation.md) — related
+- [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related

@@ -255,6 +255,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Teachers respond to individual differences and preferred learning styles during science lessons](../strategies/respond-to-learning-styles-science-lessons-strategy.md)
 - [Sequence CBPS problems from easy to complex and monitor individual progress](../strategies/cbps-problem-difficulty-sequencing-strategy.md)
 - [Use highly individualized instruction tailored to each specific student with ASD, aligned with their level of mathematical thinking](../strategies/individualized-instruction-for-asd-math.md)
+- [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](../strategies/optional-choice-based-fonf-activities.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

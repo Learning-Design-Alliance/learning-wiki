@@ -78,3 +78,6 @@ Subgroup analyses conducted after a significant FSM-by-intervention interaction 
 - [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related
 - [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related
 - [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related
+- [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](sarp-enjoyment-fsm-differential.md) — related
+- [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — related
+- [The Summer Active Reading Programme produced a small positive but statistically non-significant effect on reading comprehension at the primary-secondary transition](sarp-reading-comprehension-null-effect.md) — reports the opposite

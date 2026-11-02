@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 245 claims (173 show a difference, 41 mixed, 31 no difference) · 173 studies (61 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 8 qualitative, 3 design), `q1`–`q4` · 33 of 173 report an effect size · 236 claims rest on one study
+> **Evidence** · 248 claims (176 show a difference, 41 mixed, 31 no difference) · 176 studies (63 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 9 qualitative, 3 design), `q1`–`q4` · 33 of 176 report an effect size · 239 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -294,6 +294,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Learning strategies instruction increases sixth graders' awareness of learning strategies](../claims/strategy-instruction-increases-strategy-awareness.md) [+M] — instruction changes it
 - [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [~M] — instruction changes it
 - [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
+- [In the experimental group, 9% of pupils reached the 4th level in self-analysis, self-goal-setting and self-planning, 15% in self-organizing and 5% in self-assessing, while self-correction was the hardest skill to achieve](../claims/experimental-group-level-gains-self-correction-hardest.md) [+M] — instruction changes it
+- [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](../claims/reciprocity-shifted-toward-self-regulation.md) [+M] — instruction changes it
+- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

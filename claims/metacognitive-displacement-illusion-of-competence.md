@@ -57,3 +57,4 @@ Theoretical argument from the cross-cutting theme synthesis concerning self-expl
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — related
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related
+- [Metacognitive strategy training increased students' self-reliance and abilities to monitor their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related

@@ -53,3 +53,5 @@ Wilcoxon Signed-Rank tests on judges' mean rater scores for comprehensibility, f
 - [Cooperative learning and conventional instruction produced no statistically significant difference in pronunciation improvement among Spanish-speaking ELLs in a six-week quasi-experiment](cl-vs-conventional-no-significant-pronunciation-improvement-difference.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [Playing Spaceteam ESL as a warm-up produced no significant difference in fluency improvement between treatment and control groups over time](spaceteam-esl-no-significant-group-difference-fluency.md) — related
+- [The control group showed no significant change in speaking fluency from pre-test to post-test](control-group-no-fluency-change.md) — related
+- [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](cooperative-learning-activities-improve-efl-oral-fluency.md) — related

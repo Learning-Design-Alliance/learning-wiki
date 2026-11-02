@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (21 for, 12 mixed, 3 against) · 35 studies (11 causal, 10 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 4 of 35 report an effect size · 35 claims rest on one study
+> **Evidence** · 37 claims (22 for, 12 mixed, 3 against) · 36 studies (12 causal, 10 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 4 of 36 report an effect size · 36 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -88,6 +88,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
 - [Adaptive READS showed no significant main effect on teachers' literacy-related learning or on their READS-related classroom literacy practices](../claims/adaptive-reads-no-main-effect-teacher-outcomes.md) [-W]
 - [Adaptive web-based system treatment showed a small, statistically non-significant advantage over control on elementary algebra post-test scores (Hedges' g = .12)](../claims/adaptive-system-small-nonsignificant-algebra-posttest-effect.md) [~W] — attached 2026-11-01 from Shandy Hauk (2017), which proposed "Adaptive web-based activity and testing system for community college elementary algebra"; tests this page's relationship.
+- [In an adaptive e-learning system, students whose actual learning mode matches their profile achieve higher test scores than mismatched students](../claims/matched-learning-mode-higher-scores-aes.md) [+W] — attached 2026-11-02 from Herman Dwi Surjono (2015), which proposed "Adaptive e-learning system (AES) for the Analogue Electronics course"; tests this page's relationship.
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 75 claims (45 for, 27 mixed, 3 against) · 65 studies (43 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 15 of 65 report an effect size · 70 claims rest on one study
+> **Evidence** · 78 claims (47 for, 28 mixed, 3 against) · 67 studies (45 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 67 report an effect size · 73 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -111,6 +111,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The animation group showed a statistically significant gain from pre-test to post-test in vocabulary achievement](../claims/animation-group-significant-pretest-posttest-gain.md) [~W]
 - [Animation-based teaching positively affects both high and low spatial ability learners, so it is not effective only for high spatial ability students](../claims/animations-effective-both-spatial-ability-groups.md) [+W] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Meta-analytic dataset of 37 experiments from 22 published studies on animations, individual differences and learning outcomes"; tests this page's relationship.
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Meta-analytic dataset of 37 experiments from 22 published studies on animations, individual differences and learning outcomes"; tests this page's relationship.
+- [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](../claims/av-intervention-improves-preschool-language-development.md) [+W] — attached 2026-11-02 from Sushanta Kumar Roul (2014), which proposed "Audio-Visual Intervention Program for preschool language development"; tests this page's relationship.
+- [The audio-visual intervention program affects language development similarly across high, middle and low socio-economic status levels](../claims/av-intervention-effect-not-different-by-ses.md) [~W] — attached 2026-11-02 from Sushanta Kumar Roul (2014), which proposed "Audio-Visual Intervention Program for preschool language development".
+- [In a college materials process course, the objective and reportorial video points of view produced significantly higher hands-on observation scores than the subjective point of view](../claims/objective-reportorial-beat-subjective-observation-scores.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

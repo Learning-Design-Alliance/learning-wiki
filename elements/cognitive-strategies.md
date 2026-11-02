@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 29 studies (11 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 30 studies (12 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 22 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -86,6 +86,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [In grade 9 expository-text classrooms, combined strategy instruction showed no significant effect while public-school students outperformed private-school students](../claims/grade9-expository-no-treatment-public-advantage.md) [~W] — attached 2026-11-02 from Ghada M. Awada et al. (2017), which proposed "Combined strategy instruction package of ten reading strategies"; tests this page's relationship.
 - [Combined strategy instruction under inclusion is effective for narrative texts but not for expository texts](../claims/narrative-effective-expository-not.md) [~W]
 - [No gender differences in reading comprehension appeared in any grade level under inclusive combined strategy instruction](../claims/no-gender-differences-all-grades.md) [~W]
+- [During-treatment procedure use: Strategies plus Definitions significantly outperformed Definitions-only in applying definitions (an early second-session boost, partial η² = .24), while strategy use did not distinguish the two strategy-trained groups](../claims/strategies-plus-definitions-early-boost-definition-use.md) [+W]
 
 ## The evidence by question
 

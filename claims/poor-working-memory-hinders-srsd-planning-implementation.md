@@ -54,3 +54,4 @@ Moderation finding from the same quasi-experimental study, in which working memo
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
 - [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related
+- [Some EFL students experience difficulties implementing metacognitive writing strategies and report needing more training time](metacognitive-strategy-implementation-difficulties-efl-writers.md) — related

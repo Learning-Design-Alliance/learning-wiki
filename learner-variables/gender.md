@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 471 claims (257 show a difference, 97 mixed, 117 no difference) · 316 studies (151 associational, 111 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 316 report an effect size · 463 claims rest on one study
+> **Evidence** · 476 claims (258 show a difference, 97 mixed, 121 no difference) · 320 studies (151 associational, 115 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 320 report an effect size · 468 claims rest on one study
 
 ## How to read this page
 
@@ -510,6 +510,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The role model letter raised course grades for women in introductory chemistry with a medium-to-large effect (d = .66)](../claims/role-model-letter-higher-chemistry-grades.md) [+M] — an instructional effect differs by group
 - [Male and female clicker users did not differ significantly in ESP post-test scores, but only males improved significantly from pre-test to post-test](../claims/gender-differences-clicker-esp-gains.md) [~M] — an instructional effect differs by group
 - [No statistically significant difference in reading comprehension due to gender alone](../claims/no-gender-main-effect-reading-comprehension.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [+W] — an instructional effect differs by group
+- [CDA-based reading instruction does not differ significantly between male and female EFL students](../claims/cda-instruction-no-gender-difference.md) [-W] — an instructional effect differs by group
+- [No significant gender differences in overall chemistry achievement or retention](../claims/no-gender-difference-achievement-retention.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant gender difference in direct achievement of scientific concepts](../claims/no-gender-difference-direct-achievement-modules-study.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant gender difference or gender-by-method interaction in postponed achievement](../claims/no-gender-difference-postponed-achievement-modules-study.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -53,3 +53,4 @@ Pearson correlation analyses (n = 140) on the game experiment's behavioral measu
 - [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — possibly the same claim (merge candidate)
 - [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
+- [Practical performance shows a statistically significant low correlation with student motivation](practical-performance-low-correlation-motivation.md) — related

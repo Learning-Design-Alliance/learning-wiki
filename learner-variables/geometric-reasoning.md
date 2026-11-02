@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (33 show a difference, 8 mixed, 5 no difference) · 31 studies (18 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 31 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (34 show a difference, 8 mixed, 6 no difference) · 32 studies (19 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 32 report an effect size · 48 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -83,6 +83,8 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Students' ICT literacy showed no significant correlation with their van Hiele level of geometric thinking after Geometer's Sketchpad instruction](../claims/no-correlation-ict-literacy-van-hiele.md) [-M] — instruction changes it
 - [Traditional chalk-and-talk instruction also produced significant pre-to-post gains in van Hiele level of geometric thinking on all three angle concepts](../claims/traditional-instruction-also-improves-van-hiele-levels.md) [+M] — instruction changes it
 - [Within the experimental group, van Hiele levels differed significantly across the three posttests, increasing from right to acute to obtuse angle tests](../claims/repeated-measures-increase-across-posttests-gsp.md) [+M] — instruction changes it
+- [Experimental class showed a larger gain on the state standardized geometry assessment than the control class](../claims/state-assessment-gain-experimental-larger.md) [+M] — instruction changes it
+- [No significant difference between scaffolding and control classes on the teacher-made geometry unit test](../claims/no-unit-test-difference-scaffolding.md) [-M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

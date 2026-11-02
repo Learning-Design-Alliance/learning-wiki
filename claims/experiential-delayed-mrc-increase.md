@@ -50,3 +50,4 @@ Within-group trajectory analysis across T0, T1 and T5 in the longitudinal quasi-
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](five-week-convergence-aie-mkc.md) — related
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](experiential-beats-instructional-immediate-aie-mkc.md) — related
 - [Both groups showed large sustained five-week gains in AI engagement](sustained-aie-gains-both-groups.md) — related
+- [Locomotor skill gains plateau after about 4 weeks of the high-dosage intervention, while object control gains continue between weeks 4 and 8](motor-intervention-dosage-plateau-pattern.md) — related

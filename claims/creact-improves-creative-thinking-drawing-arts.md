@@ -57,3 +57,4 @@ One group pretest-posttest study of twenty-three 5th graders in a Turkish public
 - [Experimental group's total creativity rose significantly from pre-test to post-test after CREACT practice](creact-experimental-prepost-total-gain.md) — related
 - [A 10-week Enriched Creative Activities Program supported with the Aytürk Technique produced a significant pretest-to-posttest increase in creativity scores of fourth-grade experimental-group students](ayturk-program-pretest-posttest-creativity-gain.md) — related
 - [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](model-pretest-posttest-gains-creative-thinking-achievement.md) — related
+- [Creative action increased in both experimental groups, with learners working creatively only fragmentally rising sharply](creative-action-increased-experimental-groups.md) — related

@@ -66,3 +66,4 @@ Wilcoxon signed-rank test on the control group's (n=21) pre/post self-efficacy s
 ## Related Claims
 - [Post-test attitudes towards science differed significantly in favor of the ICT-narrative group, with a small-to-medium effect](ict-narratives-attitudes-posttest-difference.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' laboratory usage self-efficacy perceptions from pretest to post-test](inquiry-instruction-improved-lusps-pre-post.md) — related
+- [Teaching practice itself raises pre-service teachers' self-efficacy perceptions in both experimental and control groups](teaching-practice-raises-pst-self-efficacy-both-groups.md) — related

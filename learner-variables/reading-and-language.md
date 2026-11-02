@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 307 claims (189 show a difference, 50 mixed, 68 no difference) · 210 studies (78 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 210 report an effect size · 298 claims rest on one study
+> **Evidence** · 310 claims (190 show a difference, 51 mixed, 69 no difference) · 212 studies (80 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 212 report an effect size · 301 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -358,6 +358,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [-M] — instruction changes it
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' awareness of the evaluative and potency dimensions of deep vocabulary knowledge](../claims/semantic-mapping-improves-affective-dimension-awareness.md) [+M] — instruction changes it
 - [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W] — instruction changes it
+- [Second Life and face-to-face role-play produce no significant difference in ESP linguistic performance for tourism students](../claims/sl-vs-ftf-no-language-difference.md) [-M] — instruction changes it
+- [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](../claims/sl-interaction-turn-patterns.md) [~M] — instruction changes it
+- [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](../claims/marble-game-higher-vocabulary-posttest-than-traditional.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

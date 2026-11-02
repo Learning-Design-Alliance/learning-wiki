@@ -44,6 +44,7 @@ The guide's second recommendation pairs at-risk students with a trained adult wh
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 - [Provide rigorous and relevant instruction connecting academics to postsecondary options](rigorous-relevant-instruction-postsecondary-strategy.md)
 - [Assign a compensated navigator to each family to connect English learner households with learning and support services](family-navigators-for-english-learners.md)
+- [Provide adult support through group facilitators, mentors, and a school advocate for transitioning at-risk youth](adult-support-facilitators-mentors-advocate.md)
 
 ## Examples
 -

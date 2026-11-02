@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (51 for, 65 mixed, 9 against) · 77 studies (32 quant-synthesis, 13 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 77 report an effect size · 120 claims rest on one study
+> **Evidence** · 127 claims (52 for, 66 mixed, 9 against) · 78 studies (32 quant-synthesis, 14 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 78 report an effect size · 122 claims rest on one study
 
 ## Conditional relationship
 
@@ -223,6 +223,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [The PBL advantage over the conventional method held for modules with more adjectives but not for the noun-heavy modules 3 and 5 on recall](../claims/pbl-recall-advantage-moderated-by-word-class.md) [~W]
 - [Both the VM-enriched ePBL group and the traditional PBL group showed statistically significant achievement gains from pre-test to post-test](../claims/both-pbl-groups-significant-achievement-gains.md) [+W]
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](../claims/vm-enriched-pbl-no-attitude-difference.md) [~W]
+- [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
+- [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

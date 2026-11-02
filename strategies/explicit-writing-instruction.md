@@ -65,6 +65,7 @@ Explicit writing instruction is among the most consistently supported approaches
 - [Process Writing Workshop](process-writing-workshop.md) — the workshop structure into which explicit minilessons are embedded
 - [Retrieval Practice](retrieval-practice-activities.md) — spaced retrieval of taught structures supports maintenance
 - [Teach learning strategies through direct instruction with practice on texts two or three grades below the students' level](direct-instruction-strategy-teaching-lower-grade-texts.md)
+- [Teach metacognitive writing strategies through direct instruction, teacher modelling with thinking out loud, and guided application](direct-instruction-modelling-guided-application-metacognitive-writing.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — the most researched explicit writing framework; e.g., POW+TREE for persuasive writing, with strong meta-analytic support ([ThinkSRSD resources](https://srsdresearch.org)) [+S]

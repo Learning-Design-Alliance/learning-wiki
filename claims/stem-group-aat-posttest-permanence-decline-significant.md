@@ -50,3 +50,4 @@ Dependent-group t-tests within each group of the 44-student quasi-experiment: EG
 - [Neither group showed a significant change in reflective thinking skills towards problem solving from post-test to one-year permanence test](rtssps-posttest-permanence-no-within-group-change.md) — related
 - [The control group's geometry achievement did not change significantly between posttest and one-month retention test](control-group-no-posttest-retention-change.md) — related
 - [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — reports the opposite
+- [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — reports the opposite

@@ -76,3 +76,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline](dual-evaluation-convergence-coherence-temporal.md) — related
 - [Independent expert ratings of physics concepts correlate with brain-derived factor scores on each dimension](expert-ratings-correlate-with-factor-scores.md) — related
 - [Fully automated WCPM scores from Whisper V2 transcriptions closely align with expert human raters (correlation 0.98, average difference 4.82 WCPM)](automated-wcpm-correlates-098-human-raters.md) — related
+- [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related

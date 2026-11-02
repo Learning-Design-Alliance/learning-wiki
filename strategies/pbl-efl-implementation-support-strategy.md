@@ -50,6 +50,7 @@ The review derives implementation recommendations from the challenges reported a
 ## Related Strategies
 
 - [Use activity based learning in language lessons and train teachers to implement it](abl-speaking-teacher-training-strategy.md)
+- [Implement PBL in language classes so students take control of the learning process and the teacher serves as a facilitator, with more class time allocated to students](pbl-language-class-student-time-allocation.md)
 
 ## Examples
 -

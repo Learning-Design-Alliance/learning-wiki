@@ -64,6 +64,7 @@ Text Talk operationalizes dialogic questioning and vocabulary-in-context instruc
 - [Interactive Read-Aloud](interactive-read-aloud.md) — the general practice Text Talk structures with specific question and vocabulary protocols
 - [Tiered Vocabulary Instruction](tiered-vocabulary-instruction.md) — the framework identifying Tier 2 words as the highest-leverage targets
 - [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
+- [Adapt TPRS question techniques and prop use for very young learners' limited attention spans](tprs-adaptations-very-young-learners.md)
 
 ## Examples
 - **Beck & McKeown's Text Talk research lessons** — kindergarten and first-grade classrooms using published Text Talk lesson sets (e.g., for *A Chair for My Mother*), with questions planned around story events and words like *reluctant* or *commotion* explained in context.

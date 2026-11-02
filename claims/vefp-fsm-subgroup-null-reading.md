@@ -75,3 +75,4 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related
 - [Subgroup analyses by free school meal status showed no evidence of impact on either NGRT or ACE outcomes](tott-fsm-subgroup-null-results.md) — related
+- [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — related

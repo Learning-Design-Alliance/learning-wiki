@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-02
 sources:
   - id: liu-2010
     resource: "https://www.jstor.org/stable/jeductechsoci.13.3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Time zone differences impacted timely participation in asynchronous discussion forums, and students regarded a good balance of synchronous and asynchronous discussions as beneficial. [→ Liu 2010](#liu-2010)
@@ -51,3 +52,4 @@ Interview finding from the case study. Students found asynchronous discussion cl
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](communication-technologies-support-wil.md) — related
 - [A trend toward blended educational approaches combining synchronous and asynchronous learning activities emerged after 2019 in SBL for critical thinking](blended-sync-async-trend-sbl.md) — related
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — related
+- [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — related

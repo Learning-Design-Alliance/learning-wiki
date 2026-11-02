@@ -47,3 +47,4 @@ Procedural account from the article's grading section: because answers showed "v
 ## Related Claims
 - [A 933-pupil survey of ancient-history recall provided the data for scaling question difficulty](ancient-history-scale-933-papers.md) — related
 - [Feedback is more likely to be implemented when it clearly locates problems, proposes solutions, and provides a summary rather than judging work right or wrong](located-actionable-feedback-more-implemented.md) — related
+- [Teachers and pupils identified weaknesses in the LRS: no showing of working, mis-programmed answers, and small handsets](lrs-implementation-weaknesses.md) — related

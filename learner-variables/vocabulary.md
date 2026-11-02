@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (132 show a difference, 26 mixed, 25 no difference) · 124 studies (66 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 124 report an effect size · 180 claims rest on one study
+> **Evidence** · 186 claims (135 show a difference, 26 mixed, 25 no difference) · 125 studies (67 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 125 report an effect size · 183 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -224,6 +224,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](../claims/sms-vs-dictionary-no-posttest-difference.md) [-M] — instruction changes it
 - [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](../claims/er-incidental-vocabulary-encounter-frequency.md) [+W] — instruction changes it
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](../claims/sms-outperforms-dictionary-delayed-retention.md) [+M] — instruction changes it
+- [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
+- [TPRS shows long-term effects: receptive delayed posttest means remained the same or increased, and productive knowledge was largely retained two weeks later](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+M] — instruction changes it
+- [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

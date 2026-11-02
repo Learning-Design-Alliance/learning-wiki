@@ -79,3 +79,4 @@ Same Jablonski (2019) experiment, EasyCBM comprehension posttest. The review rep
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
 - [Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time](noninstruction-transition-round-robin-consume-31-percent.md) — related
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
+- [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](wpm-gain-39-percent-vision-span.md) — related

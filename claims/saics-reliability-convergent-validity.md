@@ -55,3 +55,4 @@ Internal consistency and variability analysis of the eight SAICS dimensions in t
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
+- [Correlations between socioemotional skills dimensions are statistically significant and mostly high, ranging from 0.91 to 0.17, with Problem Solving most correlated with other dimensions](socioemotional-dimension-correlations-range-091-to-017.md) — related

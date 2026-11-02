@@ -50,3 +50,4 @@ Moderator analysis across three proficiency subgroups (elementary N=7, intermedi
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Research design does not significantly moderate the gloss effect: randomized (ES = 1.16) versus matched (ES = 0.71) studies do not differ significantly](research-design-not-significant-gloss-moderator.md) — related
 - [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related
+- [The percentage of text glossed significantly differentiates effect sizes, with the highest mean for more than 50% glossing (1.13) and the second highest for less than 5% (0.85), but a much smaller mean for 5-10% (0.20)](glossing-percentage-groups-significant-difference.md) — related

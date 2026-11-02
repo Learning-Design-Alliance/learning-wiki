@@ -52,3 +52,4 @@ Self-report from the qualitative interview sessions with 5 student nurses conduc
 - [A critical thinking module produced significantly higher post-test achievement in health education than control among Malaysian nursing students](critical-thinking-module-improves-nursing-health-education-achievement.md) — related
 - [Nursing students perceived that SBL using technology can enhance critical thinking development through opportunities for meta-cognition and reflection](metacognition-net-benefits-sbl.md) — related
 - [Non-traditional teaching methods significantly improve critical thinking skills in nursing students compared to control groups](non-traditional-methods-improve-ct-skills.md) — a broader claim this one bears on
+- [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](discourse-analysis-student-reported-thinking-gains.md) — related

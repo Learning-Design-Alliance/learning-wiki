@@ -47,7 +47,8 @@ The article's instructional recipe embeds target bundles in several communicativ
 - [The fluency gain's cause is unresolved: it may reflect lexical bundles instruction or simply more paragraph writing practice](../claims/lexical-bundles-gain-confound-writing-practice.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Teach lexical chunks through a reading-into-speaking cycle combining underlining, sentence production, paragraph writing, discussion, and role play](reading-into-speaking-lexical-chunks-cycle.md)
 
 ## Examples
 -

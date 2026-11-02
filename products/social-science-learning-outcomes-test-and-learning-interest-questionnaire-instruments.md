@@ -28,6 +28,7 @@ A researcher-developed 25-item multiple-choice social-science achievement test a
 - [Fifteen-item five-point Likert-type attitude-to-mathematics questionnaire](fifteen-item-five-point-likert-type-attitude-to-mathematics-questionnaire.md)
 - [Science and Technology Achievement Test (STAT)](science-and-technology-achievement-test-stat.md)
 - [25-item multiple-choice achievement test for the unit 'electricity in our lives'](25-item-multiple-choice-achievement-test-for-the-unit-electricity-in-our-lives.md)
+- [Gardner's Attitude/Motivation Test Battery (AMTB)](gardners-attitudemotivation-test-battery-amtb.md)
 
 ## Key Sources
 - Berti Dyah Permatasari, Gunarhadi, & Riyadi. (2019). The influence of problem based learning towards social science learning outcomes viewed from learning interest. International Journal of Evaluation and Research in Education (IJERE), 8(1), 39-46. https://iaescore.com/journals/index.php/IJERE

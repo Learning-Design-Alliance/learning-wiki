@@ -52,3 +52,4 @@ Qualitative synthesis of questionnaire and open-ended survey data from eleven of
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](cbl-improves-problem-solving-abilities.md) — related
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [Students reported that case-based learning positively affected socialization, communication and cooperative working](cbl-social-impact-student-opinions.md) — a narrower finding that bears on this claim

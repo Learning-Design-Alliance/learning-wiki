@@ -66,3 +66,4 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — reports the opposite
 - [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related
+- [No significant gender differences in overall chemistry achievement or retention](no-gender-difference-achievement-retention.md) — related

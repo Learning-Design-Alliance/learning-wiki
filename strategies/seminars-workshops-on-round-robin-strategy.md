@@ -50,6 +50,7 @@ The article recommends that the Ministry of Education organise seminars, confere
 - [Adopt constructivist/inquiry strategies (7E and CBL) in chemistry teaching with adequate teacher preparation](adopt-7e-cbl-chemistry-strategy.md)
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
 - [Adopt brain-based learning methods and teacher workshops in chemistry and science teaching](adopt-bbl-methods-and-teacher-workshops.md)
+- [Recommendations: train teachers on the modules strategy and supply supporting textbooks and references](modules-strategy-teacher-training-and-materials-strategy.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ Learning menus operationalize differentiation by pairing teacher-designed tasks 
 - [Jigsaw](../elements/jigsaw.md) — an alternative structure for distributing varied tasks across learners
 - [Learning Contracts](../elements/learning-contracts.md) — a more individualized version of the same autonomy-with-accountability bargain
 - [Let students choose the complexity level of the LLM feedback](student-selected-feedback-complexity-level.md)
+- [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](optional-choice-based-fonf-activities.md)
 
 ## Examples
 - **Tiered product menu in a history unit** — all students address the same essential question; options are a written analysis, a narrated documentary segment, or a structured debate brief, each scored with the same rubric.

@@ -86,3 +86,5 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
 - [Experimental and control groups did not differ significantly on the stoichiometry pre-test](stoichiometry-pretest-no-significant-group-difference.md) — related
+- [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related
+- [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related

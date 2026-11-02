@@ -13,7 +13,7 @@ generated:
 # Contextualization
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 5 studies (4 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience. It is useful when learners need to understand why something matters before they can engage with it deeply.
@@ -42,6 +42,7 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - [On procedural knowledge of logic, the multiple-context courseware with teacher support outperformed teacher-only instruction, while the context-courseware groups performed similarly](../claims/procedural-knowledge-multiple-context-teacher-support.md) [+W] — attached 2026-11-01 from Yavuz Akpinar (2018), which proposed "Two Adobe Flash courseware sets for the logic unit: a single space-journey context and a multiple-context set".
 - [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](../claims/scp-higher-computational-fluency-gains-than-traditional-drill.md) [+W] — attached 2026-11-02 from Corlu et al. (2011), which proposed "Two-intervention experiment model with exponentials unit, pre-/post-test instrumentation, and SCP vs. TP homework assignments"; tests this page's relationship.
 - [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](../claims/contextual-vocabulary-teaching-significant-gains-iranian-efl.md) [+W] — attached 2026-11-02 from Omid Rezaei (2011), which proposed "Favored/disfavored context treatment materials: eight topic passages with ten underlined target words each"; tests this page's relationship.
+- [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](../claims/structural-method-outperforms-contextual-posttest-vocabulary.md) [-W]
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

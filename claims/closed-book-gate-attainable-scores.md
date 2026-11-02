@@ -48,3 +48,4 @@ Aggregate score record for all twelve weekly tests (weekly n = 18–24 by attend
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](weekly-tests-ranked-accountability.md) — related
 - [The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests](proof-heavy-topics-strained-artifacts-requested.md) — related
+- [In the projective-recursive history of computer science course, 90% of senior students overcame the 100-point credit limit two weeks before the deadline, though only 5% initially planned the credit-securing website route](roadmap-history-course-90-percent-credit-limit.md) — related

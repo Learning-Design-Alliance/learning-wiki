@@ -75,3 +75,4 @@ Survey findings from both iterations on collaboration practices. The article rep
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
 - [A culminating final project with a structured reflection script served as authentic assessment mirroring real-world data science practices](final-project-script-authentic-assessment.md) — related
+- [The MobiLAP intervention significantly increased ninth-graders' attitudes and perceptions of self as citizen scientists (Ideas about Citizen Science subscale)](mobilap-increased-citizen-science-identity.md) — related

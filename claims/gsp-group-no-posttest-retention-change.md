@@ -54,3 +54,4 @@ Wilcoxon Signed-Ranks test comparing the experimental group's (n=21) post-test a
 - [The web-based ITS did not significantly influence retention one month after instruction](web-its-no-retention-effect.md) — related
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
 - [Geometry achievement and retention showed no significant gender differences in either the GSP or the traditional teaching group](no-gender-difference-geometry-achievement-retention.md) — related
+- [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related

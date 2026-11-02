@@ -62,3 +62,4 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Concept mapping as a post-reading strategy significantly improves EFL learners' critical thinking ability](concept-mapping-improves-efl-critical-thinking.md) — related
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
 - [The “SQP2RS via WTL” strategy produced significantly higher 10th-grade English reading comprehension scores than traditional teaching](sqp2rs-via-wtl-improves-reading-comprehension.md) — related
+- [Third-semester English students taught with CIRC achieved significantly higher reading comprehension post-test scores than students taught with the traditional method](circ-beats-traditional-method-reading-comprehension.md) — related

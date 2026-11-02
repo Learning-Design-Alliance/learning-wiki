@@ -53,3 +53,4 @@ Post-test analysis of the five components (Table 4, n=40 per group) shows higher
 - [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](supplementary-exercises-improve-organized-efl-writing.md) — related
 - [Learners in the task-based writing course reported progress on content, organization, vocabulary, fluency and logic](tbl-writing-learner-reported-progress.md) — related
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](wiki-writing-gains-by-aspect.md) — related
+- [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](dm-instruction-improves-cohesive-writing.md) — related

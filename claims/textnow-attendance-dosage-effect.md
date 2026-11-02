@@ -55,3 +55,4 @@ Exploratory dosage analysis of intervention-group participants only, where dosag
 - [Parental attendance dose was not associated with pupil outcomes: more sessions attended did not yield more impact](attendance-dose-no-outcome-link.md) — related
 - [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
 - [Pupils attended on average just over 80% of group sessions but only 56% of individual sessions, indicating substantial partial participation](neli-partial-session-attendance.md) — related
+- [The Summer Active Reading Programme produced a small positive but statistically non-significant effect on reading comprehension at the primary-secondary transition](sarp-reading-comprehension-null-effect.md) — related

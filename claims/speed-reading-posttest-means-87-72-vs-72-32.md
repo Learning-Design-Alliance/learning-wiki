@@ -47,3 +47,4 @@ Post-test results reported in Table 2 for the 21-student experimental and 21-stu
 ## Related Claims
 - [The experimental group's RCT mean-score increment exceeded the control group's increment (53.26 to 59.63 versus 54.14 to 55.34)](elbrcs-larger-mean-increment-than-control.md) — related
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related
+- [Post-test reading comprehension means were 81.45 for the CIRC group versus 76.09 for the control group](circ-posttest-means-81-45-vs-76-09.md) — related

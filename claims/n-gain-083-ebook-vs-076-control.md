@@ -50,3 +50,4 @@ Descriptive N-gain comparison reported in Results (Table 2 and Figure 1) for the
 - [N-gain score distributions differed in normality between classes: the experimental class's N-gain was not normally distributed while the control class's was](n-gain-normality-differs-between-classes.md) — related
 - [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
+- [Pupils taught with the learning technologies reached a higher complex assessment of educational skills than control pupils (63.4% vs 50.4% of maximum)](learning-technologies-higher-complex-assessment-experimental-group.md) — related

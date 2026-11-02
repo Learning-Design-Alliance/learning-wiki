@@ -50,3 +50,4 @@ Authors' observational account from lessons conducted during the eight-week trea
 - [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](active-engagement-insufficient-cycle1-volume-item.md) — related
 - [JPA lessons showed increased learner involvement and participation compared with passive traditional lessons](jpa-increases-learner-involvement-participation.md) — related
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
+- [Experimental-group students described literature lessons using the discourse analysis method as enjoyable and confidence-building, reporting increased interest and participation](discourse-analysis-increases-interest-and-participation.md) — related
