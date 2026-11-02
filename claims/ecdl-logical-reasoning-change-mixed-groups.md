@@ -12,8 +12,8 @@ newest_evidence: 2019
 sources:
   - id: costa-and-miranda-2019
     resource: "https://doi.org/10.15388/infedu.2019.01"
-    title: "Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01"
-    author: Joana Martinho COSTA, Guilhermina Lobato MIRANDA
+    title: "Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01"
+    author: "Costa, J. M., & Miranda, G. L."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Costa and Miranda 2019
 
-Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
+Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
 
 `q2 · i?` · `causal · r1`
 
@@ -45,4 +45,4 @@ Paired-samples t-Student test on ECDL scores before and after the two-month trea
 
 
 ## Related Claims
-- [Programming knowledge gains under Alice with 4C-ID do not differ significantly between students of very low and intermediate socioeconomic status when ECDL logical reasoning is covaried](alice-4cid-programming-gains-no-ses-difference.md) — related
+- [Post-test programming scores after Alice with 4C-ID, adjusted for ECDL logical reasoning, did not differ significantly between a very-low-SES school group with more grade retentions and an intermediate-SES school group (n = 14)](alice-4cid-programming-gains-no-ses-difference.md) — related

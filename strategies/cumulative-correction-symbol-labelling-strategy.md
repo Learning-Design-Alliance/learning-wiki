@@ -10,8 +10,8 @@ generated:
 sources:
   - id: sue-livingston-2018
     resource: "https://doi.org/10.5539/elt.v11n3p119"
-    title: "Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119"
-    author: "Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty"
+    title: "Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119"
+    author: "Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C."
 ---
 
 # Use grammar correction symbols cumulatively across practice and editing to connect grammar instruction with real texts
@@ -53,4 +53,4 @@ In X-Word Grammar instruction, students are given tasks on authentic readings th
 -
 
 ## Key Sources
-- Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119
+- Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119

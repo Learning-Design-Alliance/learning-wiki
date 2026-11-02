@@ -12,8 +12,8 @@ newest_evidence: 2018
 sources:
   - id: livingston-et-al-2018
     resource: "https://doi.org/10.5539/elt.v11n3p119"
-    title: "Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119"
-    author: "Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty"
+    title: "Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119"
+    author: "Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Livingston et al. 2018
 
-Sue Livingston, Andi Toce, Cyndi Casey, Fernando Montoya, Bonny R. Hart & Carmela O'Flaherty. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119
+Livingston, S., Toce, A., Casey, C., Montoya, F., Hart, B. R., & O'Flaherty, C. (2018). Effect of X-Word Grammar and Traditional Grammar Instruction on Grammatical Accuracy. English Language Teaching, 11(3). https://doi.org/10.5539/elt.v11n3p119
 
 `q2 · i?` · `causal · r2`
 

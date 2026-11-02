@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: weak
-newest_evidence: 2014
+newest_evidence: 2016
 sources:
-  - id: zari-saeedi-and-aso-biri-2014
+  - id: saeedi-and-biri-2016
     resource: "https://www.tewtjournal.org"
-    title: "Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
-    author: Zari Saeedi and Aso Biri
+    title: "Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org"
+    author: "Saeedi, Z., & Biri, A."
     q: 2
     i: "?"
     kind: qualitative
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Most interviewed students responded affirmatively about liking authentic video use in grammar teaching and perceived the sitcom as effective for learning conditionals. [→ Zari Saeedi and Aso Biri 2014](#zari-saeedi-and-aso-biri-2014)
+`q2 i?` Most interviewed students responded affirmatively about liking authentic video use in grammar teaching and perceived the sitcom as effective for learning conditionals. [→ Saeedi and Biri 2016](#saeedi-and-biri-2016)
 
 ## Evidence
 
-### Zari Saeedi and Aso Biri 2014
+### Saeedi and Biri 2016
 
-Zari Saeedi and Aso Biri. (2014). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
+Saeedi, Z., & Biri, A. (2016). THE APPLICATION OF TECHNOLOGY IN TEACHING GRAMMAR TO EFL LEARNERS: THE ROLE OF ANIMATED SITCOMS. Teaching English with Technology, 16(2), 18-39. https://www.tewtjournal.org
 
 `q2 · i?` · `qualitative · r1`
 
@@ -47,4 +47,4 @@ Interview study with the 17 experimental-group participants, conducted in Persia
 ## Related Claims
 - [Experimental-group EFL learners taught conditional sentences via an animated sitcom improved significantly from pretest to posttest (p=.003)](animated-sitcom-improves-conditional-sentence-learning.md) — related
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
-- [Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related
+- [Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related

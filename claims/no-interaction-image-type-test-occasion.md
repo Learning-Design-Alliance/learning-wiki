@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-02
 sources:
   - id: takeshi-sato-and-akio-suzuki-2012
     resource: "https://eric.ed.gov/?id=ED574946"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The ANOVA with between and within subject variables found no interaction between the image factor and the test factor. [→ Takeshi Sato and Akio Suzuki 2012](#takeshi-sato-and-akio-suzuki-2012)

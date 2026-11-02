@@ -41,9 +41,9 @@ The authors recommend building on the inquiry learning model by making regulatio
 
 ## Claims
 
-- [The impact of inquiry learning on metacognition is inconsistent across groups: knowledge differs significantly among all three groups, while awareness differs only between Group A and Groups B and C, not between B and C](../claims/inquiry-impact-inconsistent-across-groups.md) [~W]
-- [Inquiry learning significantly increases prospective teachers’ metacognition awareness across all eight MAI aspects, at moderate n-gain in all groups](../claims/inquiry-learning-increases-metacognition-awareness-mai.md) [+W]
-- [Inquiry learning significantly increases prospective teachers’ metacognition knowledge in learning about fluid, with high n-gain in Group A and moderate n-gain in Groups B and C](../claims/inquiry-learning-increases-metacognition-knowledge-prospective-teachers.md) [+W]
+- [Metacognition gains after inquiry learning differed across three classes: knowledge gains differed among all three, while awareness gains differed only between Group A and Groups B and C, not between B and C](../claims/inquiry-impact-inconsistent-across-groups.md) [~W]
+- [Prospective teachers’ overall metacognition awareness (MAI) rose significantly from pre-test to post-test after inquiry learning in three classes with no control group, at moderate overall n-gain in each class](../claims/inquiry-learning-increases-metacognition-awareness-mai.md) [+W]
+- [Prospective teachers’ metacognition knowledge rose significantly from pre-test to post-test after inquiry learning about fluid in three classes with no control group, with high n-gain in Group A and moderate n-gain in Groups B and C](../claims/inquiry-learning-increases-metacognition-knowledge-prospective-teachers.md) [+W]
 - [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](../claims/mai-items-limited-generalization-to-actual-awareness.md) [~W]
 
 ## Related Strategies

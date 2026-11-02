@@ -28,4 +28,4 @@ A 13-item programming knowledge assessment developed and validated by Costa and 
 - [Researcher-developed 65-item Academic Achievement Test](researcher-developed-65-item-academic-achievement-test.md)
 
 ## Key Sources
-- Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
+- Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01

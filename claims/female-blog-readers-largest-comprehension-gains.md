@@ -12,8 +12,8 @@ newest_evidence: 2013
 sources:
   - id: behjat-2013
     resource: "https://eric.ed.gov/?id=EJ1068891"
-    title: "Fatemeh Behjat. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891"
-    author: Fatemeh Behjat
+    title: "Behjat, F. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891"
+    author: Behjat, F.
     q: 2
     i: "?"
     kind: causal
@@ -34,7 +34,7 @@ sources:
 
 ### Behjat 2013
 
-Fatemeh Behjat. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891
+Behjat, F. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891
 
 `q2 · i?` · `causal · r1`
 

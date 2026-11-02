@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-02
 sources:
   - id: yalçınkaya-2012
     resource: "https://eric.ed.gov/?id=EJ975553"
@@ -23,7 +24,7 @@ sources:
     title: "Yalçınkaya, E., Boz, Y., & Erdur-Baker, Ö. (2012). Is case-based instruction effective in enhancing high school students' motivation toward chemistry? Science Education International, 23(2), 102-116. https://eric.ed.gov/?id=EJ975553"
     author: "Yalçınkaya, E., Boz, Y., & Erdur-Baker, Ö"
     q: 2
-    i: "?"
+    i: 1
     kind: causal
     rigour: 1
 ---
@@ -31,12 +32,12 @@ sources:
 # Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2` medium
-> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1`–`i2`
+> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Follow-up univariate ANOVAs on gain scores showed significant treatment effects on extrinsic goal orientation (η²=0.103), task value (η²=0.169), control of learning beliefs (η²=0.175), and self-efficacy for learning and performance (η²=0.346). [→ Yalçınkaya 2012](#yalcnkaya-2012)
-`q2 i?` No statistically significant differences were found between groups in intrinsic goal orientation (F(1,43)=2.867, p>0.05) or test anxiety (F(1,43)=0.429, p>0.05). [→ Yalçınkaya 2012 (2)](#yalcnkaya-2012-2)
+`q2 i1` No statistically significant differences were detected between groups in intrinsic goal orientation (F(1,43)=2.867, p=0.098, η²=0.063) or test anxiety (F(1,43)=0.429, p=0.516, η²=0.010), with low observed power (0.38 and 0.10). [→ Yalçınkaya 2012 (2)](#yalcnkaya-2012-2)
 
 ## Evidence
 
@@ -54,9 +55,9 @@ Follow-up univariate ANOVAs on gain scores from the same 45-student quasi-experi
 
 Yalçınkaya, E., Boz, Y., & Erdur-Baker, Ö. (2012). Is case-based instruction effective in enhancing high school students' motivation toward chemistry? Science Education International, 23(2), 102-116. https://eric.ed.gov/?id=EJ975553
 
-`q2 · i?` · `causal · r1`
+`q2` · `i1 · η² 0.010–0.063, both non-significant` · `causal · r1`
 
-Same quasi-experiment, null follow-up ANOVAs on gain scores for intrinsic goal orientation and test anxiety; no effect sizes printed for these two contrasts, so the study did not detect an effect rather than measuring a small one.
+Same quasi-experiment, non-significant follow-up ANOVAs on gain scores for intrinsic goal orientation (p=0.098, η²=0.063, observed power 0.381) and test anxiety (p=0.516, η²=0.010, observed power 0.098), as printed in Table 4. With 45 students and low observed power, the study did not detect a difference on these two subscales; that is not evidence of no effect. The article notes that test anxiety rose in the experimental group, a difference that was not significant.
 
 > "whereas no statistically significant differences were found between control and experimental group students in terms of intrinsic goal orientation (F(1,43)= 2.867, p>0.05) and test anxiety (F(1,43)= 0.429, p>0.05)"
 

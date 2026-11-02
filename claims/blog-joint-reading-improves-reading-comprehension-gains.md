@@ -9,11 +9,12 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-02
 sources:
   - id: behjat-2013
     resource: "https://eric.ed.gov/?id=EJ1068891"
-    title: "Fatemeh Behjat. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891"
-    author: Fatemeh Behjat
+    title: "Behjat, F. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891"
+    author: Behjat, F.
     q: 2
     i: "?"
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After three months, gain scores on the same TOEFL reading test differed significantly between the blog-collaboration group and the individual print-reading group (F = 48.742, sig. = .000). [→ Behjat 2013](#behjat-2013)
+`q2 i?` After three months, gain scores on the same TOEFL reading test differed significantly across the four gender-by-condition groups (one-way ANOVA, F(3,58) = 48.742, sig. = .000); Scheffé post hoc tests showed the blog-collaboration groups gained more than the individual print-reading groups (mean gains 4.00 and 4.44 against 1.57 and 2.04), with no significant gender difference within either condition. [→ Behjat 2013](#behjat-2013)
 
 ## Evidence
 
 ### Behjat 2013
 
-Fatemeh Behjat. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891
+Behjat, F. (2013). Joint Book Reading: How Do Blogs Foster Collaborative Comprehension? i-manager's Journal of English Language Teaching, Vol. 3 No. 2, April-June. https://eric.ed.gov/?id=EJ1068891
 
 `q2 · i?` · `causal · r1`
 
-One-way ANOVA on gain scores of 62 Iranian EFL students (13 male, 49 female) after a three-month treatment in which the experimental group read e-books on the teacher's blog collaboratively while the control group read the same stories individually. The article reports "significantly different from each other" gain scores; no effect size is printed.
+Quasi-experiment with availability (non-random) sampling: 62 Iranian EFL students (13 male, 49 female) over a three-month treatment in which the experimental group read e-books on the teacher's blog collaboratively while the control group read the same stories individually. The F statistic is an omnibus one-way ANOVA across four groups defined by gender and condition (male and female control, male and female experimental), not a two-group blog-versus-print test; the article reports the gain scores as "significantly different from each other". Scheffé post hoc contrasts locate the difference between conditions: male experimental vs male control, mean difference 2.43, p = .000; female experimental vs male control, 2.87, p = .000; male experimental vs female control, 1.96, p = .000; male vs female within the control group (p = .599) and within the experimental group (p = .689) were not significant. Mean gains: male control 1.57, female control 2.04, male experimental 4.00, female experimental 4.44. No effect size is printed.
 
 > "Table 4 indicates that the value of F (F=48.742) is much higher than the significance level (sig.=.000), which means that the participants' gain scores, the difference between the participants' performances in the pre- and post-test of reading comprehension, were significantly different from each other."
 

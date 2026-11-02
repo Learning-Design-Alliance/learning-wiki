@@ -13,8 +13,8 @@ recheck_by: 2022
 sources:
   - id: costa-and-miranda-2019
     resource: "https://doi.org/10.15388/infedu.2019.01"
-    title: "Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01"
-    author: Joana Martinho COSTA, Guilhermina Lobato MIRANDA
+    title: "Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01"
+    author: "Costa, J. M., & Miranda, G. L."
     q: 2
     i: "?"
     kind: causal
@@ -34,7 +34,7 @@ sources:
 
 ### Costa and Miranda 2019
 
-Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
+Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
 
 `q2 · i?` · `causal · r1`
 

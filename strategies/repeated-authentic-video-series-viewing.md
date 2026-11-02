@@ -43,7 +43,7 @@ The article recommends exposing learners to authentic recorded models: "Educator
 - [Gains were largest in stress and pronunciation, smallest in speech-sound articulation, and about 10% of experimental students showed no progress](../claims/component-level-prosodic-gain-pattern.md) [+M]
 - [Experimental-group mean prosodic scores rose from 58.2 to 70.6 while control-group means rose only from 59.85 to 61.1](../claims/descriptive-gain-videos-vs-traditional.md) [+M]
 - [Within the experimental group, pre-to-post gains in prosodic ability were significant, while the control group's pre-to-post change was not](../claims/paired-gains-experimental-significant-control-not.md) [+M]
-- [Students reported fast character speech and long episodes as difficulties, supporting use of short subtitled video segments to avoid overload](../claims/short-video-segments-avoid-cognitive-overload.md) [~W]
+- [Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload](../claims/short-video-segments-avoid-cognitive-overload.md) [~W]
 
 ## Related Strategies
 
