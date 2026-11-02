@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: cabi-2018
     resource: "https://eric.ed.gov/?id=EJ1185114"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interview data showed students resisted learning topics independently outside class and preferred learning from the instructor inside class; four students suggested learning topics from the instructor instead of studying them outside the classroom. [→ Cabi 2018](#cabi-2018)

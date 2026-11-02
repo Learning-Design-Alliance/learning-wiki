@@ -10,18 +10,18 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2015
 sources:
-  - id: dominique-bradley-2015
+  - id: bradley-2015
     resource: "https://eric.ed.gov/?id=ED562183"
-    title: "Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
-    author: Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown
+    title: "Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
+    author: "Bradley, D., Crawford, E., & Dahill-Brown, S. E."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: dominique-bradley-2015-2
+  - id: bradley-2015-2
     resource: "https://eric.ed.gov/?id=ED562183"
-    title: "Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
-    author: Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown
+    title: "Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
+    author: "Bradley, D., Crawford, E., & Dahill-Brown, S. E."
     q: 3
     i: "?"
     kind: causal
@@ -35,14 +35,14 @@ sources:
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Using the Fidelity to Treatment index, treated students showed high levels of fidelity to the cognitive process of values affirmation. [→ Dominique Bradley 2015](#dominique-bradley-2015)
-`q3 i?` Variation in student engagement existed regardless of whether students were assigned to treatment or control. [→ Dominique Bradley 2015 (2)](#dominique-bradley-2015-2)
+`q3 i?` Using the Fidelity to Treatment index, treated students showed high levels of fidelity to the cognitive process of values affirmation. [→ Bradley 2015](#bradley-2015)
+`q3 i?` Variation in student engagement existed regardless of whether students were assigned to treatment or control. [→ Bradley 2015 (2)](#bradley-2015-2)
 
 ## Evidence
 
-### Dominique Bradley 2015
+### Bradley 2015
 
-Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
+Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
 
 `q3 · i?` · `causal · r2`
 
@@ -50,9 +50,9 @@ Content analysis of student exercise responses coded for whether the exercise me
 
 > "Using the index of Fidelity to Treatment (Self-Affirmation), we find high levels of fidelity to the cognitive process of values affirmation among treated students (see Figure 1)"
 
-### Dominique Bradley 2015 (2)
+### Bradley 2015 (2)
 
-Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
+Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
 
 `q3 · i?` · `causal · r2`
 

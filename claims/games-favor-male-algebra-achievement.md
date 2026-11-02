@@ -58,6 +58,6 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — reports the opposite
 - [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](no-gender-differences-game-based-nutrition.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](female-groups-performed-better-ar-platform.md) — related

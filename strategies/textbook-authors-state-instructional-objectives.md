@@ -39,7 +39,7 @@ The article recommends that textbook authors print the instructional objectives 
 ## Claims
 
 - [Prior knowledge of topics and instructional objectives before instruction raises Literature-in-English achievement more than conventional teaching](../claims/prior-objectives-raise-literature-achievement.md) [+W]
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](../claims/gender-difference-prior-objectives-not-significant.md) [~W]
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](../claims/gender-difference-prior-objectives-not-significant.md) [~W]
 - [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](../claims/lat-descriptive-means-treatment-control.md) [+W]
 
 ## Related Strategies

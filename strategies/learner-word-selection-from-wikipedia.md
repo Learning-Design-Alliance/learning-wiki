@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: reza-khany-fereshteh-khosravian-2014
-    resource: "http://dx.doi.org/10.5539/elt.v7n7p57"
-    title: "Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57"
-    author: "Reza Khany & Fereshteh Khosravian"
+  - id: khany-khosravian-2014
+    resource: "https://doi.org/10.5539/elt.v7n7p57"
+    title: "Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). https://doi.org/10.5539/elt.v7n7p57"
+    author: "Khany, R., & Khosravian, F."
 ---
 
 # Let learners select the words and texts they want to learn from Wikipedia
@@ -53,4 +53,4 @@ The article recommends that teachers give learners choice over vocabulary: "Teac
 -
 
 ## Key Sources
-- Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57
+- Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). [doi:10.5539/elt.v7n7p57](https://doi.org/10.5539/elt.v7n7p57)

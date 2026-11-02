@@ -11,9 +11,9 @@ evidence_strength: weak
 newest_evidence: 2018
 sources:
   - id: vincy-2018
-    resource: "https://journals.imanager.com/jelt"
-    title: "R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt"
-    author: R. Infanta Vincy
+    resource: "https://doi.org/10.26634/jelt.8.2.14155"
+    title: "Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)"
+    author: Vincy, R. I.
     q: 1
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Vincy 2018
 
-R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt
+Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)
 
 `q1 · i?` · `causal · r1`
 
@@ -45,5 +45,5 @@ Qualitative classroom observation of the class teacher teaching the Unit 1 prose
 
 
 ## Related Claims
-- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related
+- [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related
 - [After regular instruction on Unit 1, the class's receptive knowledge of the prescribed vocabulary was partial, averaging 14.23 out of 40 on the VKS](partial-reception-unit1-vks-average.md) — related

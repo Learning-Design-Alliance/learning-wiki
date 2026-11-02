@@ -8,16 +8,16 @@ generated:
   by: "process:settle-candidates"
   at: 2026-11-02
 sources:
-  - id: reza-khany-fereshteh-khosravian-2014
-    resource: "http://dx.doi.org/10.5539/elt.v7n7p57"
-    title: "Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57"
-    author: "Reza Khany & Fereshteh Khosravian"
+  - id: khany-khosravian-2014
+    resource: "https://doi.org/10.5539/elt.v7n7p57"
+    title: "Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). https://doi.org/10.5539/elt.v7n7p57"
+    author: "Khany, R., & Khosravian, F."
 ---
 
 # Wikipedia as an authentic, collaborative resource for second-language vocabulary learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article positions Wikipedia as a free, web-based, collaborative, multilingual encyclopedia whose texts and tasks supply the authenticity language education requires. It argues Wikipedia texts offer "authentic reading practice, as a receptive skill to gain vocabulary", provide linguistic or situational contexts in which learners meet words on several occasions, and support social constructivist learning through collaborative reading, correcting, editing, and updating of entries. The study tests this positioning empirically with Iranian EFL learners.
@@ -50,4 +50,4 @@ The article positions Wikipedia as a free, web-based, collaborative, multilingua
 -
 
 ## Key Sources
-- Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57
+- Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). [doi:10.5539/elt.v7n7p57](https://doi.org/10.5539/elt.v7n7p57)

@@ -41,7 +41,7 @@ A methodological framework for implementing the PeLe mobile testing system into 
 - Learner motivation
 
 ### Claims
-- [Pele Support Improves Final Test Performance](../claims/pele-support-improves-final-test-performance.md) [+W]
+- [Language classes using PeLe mobile testing with enquiry-based post-test activities improved final-test scores while a pen-and-paper control group's scores fell, though the gain is not attributable to PeLe specifically](../claims/pele-support-improves-final-test-performance.md) [+W]
 - [Pele Student Questionnaire Positive Attitudes](../claims/pele-student-questionnaire-positive-attitudes.md) [+W]
 
 ## Related Designs

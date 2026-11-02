@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: titova-2015
     resource: "http://dx.doi.org/10.14705/rpnet.2015.000387"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-study questionnaire responses indicated an overall positive outlook on the MALL model, though some students found weekly tests and post-test activities challenging. [→ Titova 2015](#titova-2015)

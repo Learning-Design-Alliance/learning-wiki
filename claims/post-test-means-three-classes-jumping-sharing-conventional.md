@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-02
 sources:
   - id: hobri-2020
     resource: "https://doi.org/10.29333/iji.2020.13126a"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The jumping-task CPS class scored highest on the post-test, followed by the sharing-task CPS class and the conventional class. [→ Hobri 2020](#hobri-2020)

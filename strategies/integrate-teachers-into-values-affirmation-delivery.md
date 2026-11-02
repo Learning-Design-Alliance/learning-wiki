@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: dominique-bradley-2015
+  - id: bradley-2015
     resource: "https://eric.ed.gov/?id=ED562183"
-    title: "Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
-    author: Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown
+    title: "Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
+    author: "Bradley, D., Crawford, E., & Dahill-Brown, S. E."
 ---
 
 # Integrate classroom teachers more fully into values-affirmation delivery to resolve the stealth-blindness contradiction
@@ -48,4 +48,4 @@ The authors recommend that future implementations integrate teachers more fully 
 -
 
 ## Key Sources
-- Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
+- Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183

@@ -47,5 +47,5 @@ Quasi-experimental pretest-posttest non-equivalent control group study of 120 SS
 
 ## Related Claims
 - [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — possibly the same claim (merge candidate)
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related

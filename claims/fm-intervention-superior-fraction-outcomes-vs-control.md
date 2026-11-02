@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: strong
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: malone-et-al-2019
-    resource: "https://eric.ed.gov/?id=ED595127"
-    title: "Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology. https://eric.ed.gov/?id=ED595127"
-    author: Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray
+    resource: "https://doi.org/10.1016/j.cedpsych.2019.101782"
+    title: "Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. [doi:10.1016/j.cedpsych.2019.101782](https://doi.org/10.1016/j.cedpsych.2019.101782)"
+    author: "Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L."
     q: 3
     i: 3
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Full fraction intervention (FM+FAPP) outperformed control on fraction number line (ES = 1.07) and NAEP far-transfer (ES = 0.59) measures. [→ Malone et al. 2019](#malone-et-al-2019)
@@ -34,11 +35,11 @@ sources:
 
 ### Malone et al. 2019
 
-Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology. https://eric.ed.gov/?id=ED595127
+Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. [doi:10.1016/j.cedpsych.2019.101782](https://doi.org/10.1016/j.cedpsych.2019.101782)
 
 `q3 · i3` · `causal · r3`
 
-Cross-classified partially nested multilevel model analysis of 225 at-risk fourth graders randomly assigned to FM+FAPP or control. The article reports "The ES on the near-transfer fraction number line task was 1.07; on far-transfer NAEP, 0.59" and applications ESs of 0.82 and 3.14, with a mean ES of 1.41 across four fraction outcomes.
+240 at-risk fourth graders were randomly assigned to three conditions (FM+DM, FM+FAPP and control); the final sample of 225 comprised 73 FM+FAPP, 76 control and 76 FM+DM students, analysed with cross-classified partially nested multilevel models. This entry is the FM+FAPP versus control comparison. The article reports "The ES on the near-transfer fraction number line task was 1.07; on far-transfer NAEP, 0.59" and applications ESs of 0.82 and 3.14, with a mean ES of 1.41 across four fraction outcomes.
 
 > "Accordingly, on both fraction magnitude outcomes, full fraction intervention outperformed the control group. The ES on the near-transfer fraction number line task was 1.07; on far-transfer NAEP, 0.59. On fraction applications, ESs were 0.82 on word problems and 3.14 on calculations."
 

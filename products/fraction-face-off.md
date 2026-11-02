@@ -56,7 +56,7 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2020, March). Fraction Face-Off!. Retrieved from https://ies.ed.gov/ncee/wwc/InterventionReport/702
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2020, March). Fraction Face-Off!. Retrieved from https://whatworks.ed.gov
 - Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
-- Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology.
+- Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. https://doi.org/10.1016/j.cedpsych.2019.101782
 
 # Fraction Face-Off! small-group tutoring program for at-risk fourth graders
 

@@ -47,7 +47,7 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 ## Related Claims
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](concept-mapping-gender-advantage-males-trigonometry.md) — related
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related

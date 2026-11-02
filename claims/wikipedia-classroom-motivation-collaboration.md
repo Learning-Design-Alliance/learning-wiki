@@ -10,10 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2014
 sources:
-  - id: reza-khany-fereshteh-khosravian-2014
-    resource: "http://dx.doi.org/10.5539/elt.v7n7p57"
-    title: "Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57"
-    author: "Reza Khany & Fereshteh Khosravian"
+  - id: khany-khosravian-2014
+    resource: "https://doi.org/10.5539/elt.v7n7p57"
+    title: "Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). [doi:10.5539/elt.v7n7p57](https://doi.org/10.5539/elt.v7n7p57)"
+    author: "Khany, R., & Khosravian, F."
     q: 1
     i: "?"
     kind: causal
@@ -27,13 +27,13 @@ sources:
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The authors report affective and collaborative advantages for the Wikipedia group alongside the score difference. [→ Reza Khany & Fereshteh Khosravian 2014](#reza-khany-fereshteh-khosravian-2014)
+`q1 i?` The authors report affective and collaborative advantages for the Wikipedia group alongside the score difference. [→ Khany & Khosravian 2014](#khany-khosravian-2014)
 
 ## Evidence
 
-### Reza Khany & Fereshteh Khosravian 2014
+### Khany & Khosravian 2014
 
-Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57
+Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). [doi:10.5539/elt.v7n7p57](https://doi.org/10.5539/elt.v7n7p57)
 
 `q1 · i?` · `causal · r1`
 

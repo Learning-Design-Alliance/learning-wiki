@@ -66,5 +66,5 @@ Correlational analysis of acquired words (six consecutive correct retrievals ove
 ## Related Claims
 - [Adjusted posttest VST means were ordered by time spent using the word card program, with the two-hour group highest](adjusted-posttest-means-order-word-engine-time.md) — related
 - [Raw VST gain scores did not support that two hours of weekly Word Engine use produced greater gains than one hour](raw-gains-no-support-two-hours-word-engine.md) — related
-- [Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year](word-engine-vst-gains-ancova.md) — related
+- [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — related
 - [Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not](activity-accuracy-not-attempts-predicts-final-exam.md) — related

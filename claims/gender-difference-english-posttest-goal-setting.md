@@ -48,7 +48,7 @@ T-test of gender difference in post-test scores among the 40 trained participant
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [No significant gender difference in post-test writing performance among students taught with brainstorming strategy](brainstorming-writing-no-gender-difference.md) — related

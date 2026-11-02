@@ -11,9 +11,9 @@ evidence_strength: strong
 newest_evidence: 2019
 sources:
   - id: malone-et-al-2019
-    resource: "https://eric.ed.gov/?id=ED595127"
-    title: "Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology. https://eric.ed.gov/?id=ED595127"
-    author: Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray
+    resource: "https://doi.org/10.1016/j.cedpsych.2019.101782"
+    title: "Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. [doi:10.1016/j.cedpsych.2019.101782](https://doi.org/10.1016/j.cedpsych.2019.101782)"
+    author: "Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L."
     q: 3
     i: 3
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Malone et al. 2019
 
-Amelia S. Malone, Lynn S. Fuchs, Sonya K. Sterba, Douglas Fuchs, and Lindsay Foreman-Murray. (2019). Does an Integrated Focus on Fractions and Decimals Improve At-Risk Students' Rational Number Magnitude Performance? Contemporary Educational Psychology. https://eric.ed.gov/?id=ED595127
+Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. [doi:10.1016/j.cedpsych.2019.101782](https://doi.org/10.1016/j.cedpsych.2019.101782)
 
 `q3 · i3` · `causal · r2`
 

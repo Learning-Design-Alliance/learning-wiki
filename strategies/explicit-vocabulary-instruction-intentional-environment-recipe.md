@@ -9,9 +9,9 @@ generated:
   at: 2026-11-01
 sources:
   - id: r-infanta-vincy-2018
-    resource: "https://journals.imanager.com/jelt"
-    title: "R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt"
-    author: R. Infanta Vincy
+    resource: "https://doi.org/10.26634/jelt.8.2.14155"
+    title: "Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)"
+    author: "Vincy, R. I."
 ---
 
 # Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations
@@ -38,7 +38,7 @@ The experimental treatment combined explicit instruction with an intentional lea
 
 ## Claims
 
-- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+M]
+- [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](../claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md) [+M]
 - [After regular instruction on Unit 1, the class's receptive knowledge of the prescribed vocabulary was partial, averaging 14.23 out of 40 on the VKS](../claims/partial-reception-unit1-vks-average.md) [+M]
 
 ## Related Strategies
@@ -49,4 +49,4 @@ The experimental treatment combined explicit instruction with an intentional lea
 -
 
 ## Key Sources
-- R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt
+- Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)

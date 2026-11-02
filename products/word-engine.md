@@ -23,7 +23,7 @@ Word Engine is a commercial online adaptive flashcard platform for vocabulary le
 - **Word Engine as an IRT/CAT-driven computerized flashcard program operationalizing paired-associate learning principles**: Word Engine is a commercial online computerized flashcard site that operationalizes deliberate paired-associate vocabulary learning principles: retrieval practice, adaptive sequencing, expanded rehearsal, and generative use. It personalizes learning using measurement models: "Word Engine utilizes Item Response Theory (IRT) and Computer Adaptive Tests (CAT) when establishing a user’s vocabulary size, and IRT when selecting target items for learners." Its V-Check diagnostic assigns item difficulties and CAT selects items by response pattern. The authors chose it as the study's intervention partly because it provides a system for monitoring student use. (McLean et al. (2013))
 
 ### Claims
-- [Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year](../claims/word-engine-vst-gains-ancova.md) [+M]
+- [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](../claims/word-engine-vst-gains-ancova.md) [+W]
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](../claims/word-engine-use-correlates-vst-gains.md) [+M]
 
 ## Related Products and Programmes

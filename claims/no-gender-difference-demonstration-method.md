@@ -46,7 +46,7 @@ Gender comparison within the demonstration condition (25 males, mean 52.52; 25 f
 
 ## Related Claims
 - [No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method](no-gender-difference-organic-chemistry-achievement.md) — related
-- [Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant](gender-difference-prior-objectives-not-significant.md) — related
+- [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related

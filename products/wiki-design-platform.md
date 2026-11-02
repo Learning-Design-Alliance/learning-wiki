@@ -39,4 +39,4 @@ A collaborative-learning wiki platform developed by Gerry Stahl and colleagues t
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Paradigms of shared knowledge. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9075-7
 - Niall Winters, Yishay Mor. (2007). IDR: a participatory methodology for interdisciplinary design in technology enhanced learning. Computers and Education. https://telearn.hal.science/hal-00190043
-- Reza Khany & Fereshteh Khosravian. (2014). Iranian EFL Learners' Vocabulary Development through Wikipedia. English Language Teaching, 7(7). http://dx.doi.org/10.5539/elt.v7n7p57
+- Khany, R., & Khosravian, F. (2014). Iranian EFL learners' vocabulary development through Wikipedia. *English Language Teaching, 7*(7). [doi:10.5539/elt.v7n7p57](https://doi.org/10.5539/elt.v7n7p57)

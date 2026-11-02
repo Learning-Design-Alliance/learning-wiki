@@ -9,11 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
-  - id: dominique-bradley-2015
+  - id: bradley-2015
     resource: "https://eric.ed.gov/?id=ED562183"
-    title: "Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
-    author: Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown
+    title: "Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183"
+    author: "Bradley, D., Crawford, E., & Dahill-Brown, S. E."
     q: 3
     i: "?"
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In the scaled-up intervention, fidelity varied substantially across schools and classrooms, with the greatest variation in teacher-centered delivery of the intervention. [→ Dominique Bradley 2015](#dominique-bradley-2015)
+`q3 i?` In the scaled-up intervention, fidelity varied substantially across schools and classrooms, with the greatest variation in teacher-centered delivery of the intervention. [→ Bradley 2015](#bradley-2015)
 
 ## Evidence
 
-### Dominique Bradley 2015
+### Bradley 2015
 
-Dominique Bradley, Evan Crawford, Sara E. Dahill-Brown. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
+Bradley, D., Crawford, E., & Dahill-Brown, S. E. (2015). Fidelity of Implementation in a Large-Scale, Randomized, Field Trial: Identifying the Critical Components of Values Affirmation. SREE Spring 2015 Conference Abstract. https://eric.ed.gov/?id=ED562183
 
 `q3 · i?` · `causal · r2`
 
-Fidelity analysis of the MWAP trial using classroom debrief reports and end-of-year teacher surveys. Table 1 reports average teacher compliance of 72% overall, ranging from 64% to 83% across high and low student-affirmation subgroups across 275 reports.
+Fidelity analysis of the MWAP trial using classroom debrief reports and end-of-year teacher surveys. Table 1 reports average teacher compliance of 72% overall across 275 exercise reports: 83% and 71% in the high- and low-student-affirmation school subgroups, and 64% and 75% in the high- and low-student-FTI-T school subgroups.
 
 > "in this scaled up intervention we find substantial variation in fidelity across schools and classrooms, particularly in terms of the teacher-centered delivery of the intervention (see Table 1)"
 

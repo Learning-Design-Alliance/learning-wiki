@@ -46,5 +46,5 @@ Discussion of unadjusted pre-post gains from the year-long quasi-experiment (Tab
 
 ## Related Claims
 - [Adjusted posttest VST means were ordered by time spent using the word card program, with the two-hour group highest](adjusted-posttest-means-order-word-engine-time.md) — reports the opposite
-- [Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year](word-engine-vst-gains-ancova.md) — a broader claim this one bears on
+- [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — a broader claim this one bears on
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related

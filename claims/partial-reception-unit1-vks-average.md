@@ -9,13 +9,12 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-02
 recheck_by: 2021
 sources:
   - id: vincy-2018
-    resource: "https://journals.imanager.com/jelt"
-    title: "R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt"
-    author: R. Infanta Vincy
+    resource: "https://doi.org/10.26634/jelt.8.2.14155"
+    title: "Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)"
+    author: Vincy, R. I.
     q: 2
     i: "?"
     kind: causal
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` All thirty participants' VKS responses on Unit 1 words yielded a total average of 14.23, with 21 the highest and 1 the lowest score on a total of 40. [→ Vincy 2018](#vincy-2018)
@@ -35,7 +34,7 @@ sources:
 
 ### Vincy 2018
 
-R. Infanta Vincy. (2018). The Impact of Explicit Instruction and Intentional Learning in the Reception of Vocabulary - An Experimental Study. i-manager's Journal on English Language Teaching, Vol. 8 No. 2. https://journals.imanager.com/jelt
+Vincy, R. I. (2018). The impact of explicit instruction and intentional learning in the reception of vocabulary: An experimental study. *i-manager's Journal on English Language Teaching, 8*(2). [doi:10.26634/jelt.8.2.14155](https://doi.org/10.26634/jelt.8.2.14155)
 
 `q2 · i?` · `causal · r1`
 
@@ -52,5 +51,5 @@ VKS self-report test on the fifteen Unit 1 prescribed words administered to all 
 - [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related
+- [Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher](explicit-instruction-intentional-learning-improve-vocabulary-reception.md) — related
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](partial-embedded-vocabulary-teaching-observed.md) — related

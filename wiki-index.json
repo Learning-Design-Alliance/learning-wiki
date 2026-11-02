@@ -127887,13 +127887,14 @@
 "type":"claim"
 },
 {
-"description":"Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching",
+"description":"Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher",
 "evidence_strength":"moderate",
 "id":"explicit-instruction-intentional-learning-improve-vocabulary-reception",
 "newest_evidence":"2018",
 "path":"claims/explicit-instruction-intentional-learning-improve-vocabulary-reception.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Explicit instruction combined with an intentional learning environment significantly improves fifth-grade ESL learners' receptive knowledge of target vocabulary compared with partially embedded teaching",
+"title":"Explicit instruction combined with an intentional learning environment produced higher self-reported receptive knowledge of target vocabulary in fifth-grade ESL learners than the same lesson taught by another teacher",
 "type":"claim"
 },
 {
@@ -133003,6 +133004,7 @@
 "id":"fc-student-resistance-self-learning",
 "newest_evidence":"2018",
 "path":"claims/fc-student-resistance-self-learning.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class",
 "type":"claim"
@@ -136351,6 +136353,7 @@
 "id":"fidelity-varied-across-schools-classrooms-teacher-delivery",
 "newest_evidence":"2015",
 "path":"claims/fidelity-varied-across-schools-classrooms-teacher-delivery.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Fidelity of implementation varied substantially across schools and classrooms in the scaled-up values-affirmation trial, particularly in teacher-centered delivery",
 "type":"claim"
@@ -140813,6 +140816,7 @@
 "id":"fm-intervention-superior-fraction-outcomes-vs-control",
 "newest_evidence":"2019",
 "path":"claims/fm-intervention-superior-fraction-outcomes-vs-control.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures",
 "type":"claim"
@@ -153295,13 +153299,14 @@
 "type":"claim"
 },
 {
-"description":"Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant",
+"description":"An ANCOVA of all 120 students (treatment and control) found no statistically significant gender difference in Literature-in-English achievement; males in the treatment group scored descriptively higher, and no treatment-group-only test was reported",
 "evidence_strength":"weak",
 "id":"gender-difference-prior-objectives-not-significant",
 "newest_evidence":"2015",
 "path":"claims/gender-difference-prior-objectives-not-significant.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Male-female achievement difference among students given prior topics and instructional objectives is not statistically significant",
+"title":"In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students",
 "type":"claim"
 },
 {
@@ -260970,6 +260975,7 @@
 "id":"observation-student-activity-jumping-task-cps",
 "newest_evidence":"2020",
 "path":"claims/observation-student-activity-jumping-task-cps.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"During jumping task based on CPS lessons, 44% of experimental-class students were rated strongly active and 29% active by observers",
 "type":"claim"
@@ -261846,6 +261852,7 @@
 "id":"oer-blended-quipper-attention-motivation",
 "newest_evidence":"2017",
 "path":"claims/oer-blended-quipper-attention-motivation.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning",
 "type":"claim"
@@ -261856,6 +261863,7 @@
 "id":"oer-blended-quipper-relevance-confidence",
 "newest_evidence":"2017",
 "path":"claims/oer-blended-quipper-relevance-confidence.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning",
 "type":"claim"
@@ -272452,7 +272460,6 @@
 "newest_evidence":"2018",
 "path":"claims/partial-reception-unit1-vks-average.md",
 "recheck_by":"2021",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"After regular instruction on Unit 1, the class's receptive knowledge of the prescribed vocabulary was partial, averaging 14.23 out of 40 on the VKS",
 "type":"claim"
@@ -278806,18 +278813,20 @@
 "id":"pele-student-questionnaire-positive-attitudes",
 "newest_evidence":"2015",
 "path":"claims/pele-student-questionnaire-positive-attitudes.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students reported positive views of the mobile formative assessment model, citing motivation and exam preparation benefits",
 "type":"claim"
 },
 {
-"description":"PeLe-supported language classes resulted in language skill gains on final tests compared with pen-and-paper testing",
+"description":"Language classes using PeLe mobile testing with enquiry-based post-test activities improved final-test scores while a pen-and-paper control group's scores fell, though the gain is not attributable to PeLe specifically",
 "evidence_strength":"weak",
 "id":"pele-support-improves-final-test-performance",
 "newest_evidence":"2015",
 "path":"claims/pele-support-improves-final-test-performance.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"PeLe-supported language classes resulted in language skill gains on final tests compared with pen-and-paper testing",
+"title":"Language classes using PeLe mobile testing with enquiry-based post-test activities improved final-test scores while a pen-and-paper control group's scores fell, though the gain is not attributable to PeLe specifically",
 "type":"claim"
 },
 {
@@ -281047,6 +281056,7 @@
 "id":"perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment",
 "newest_evidence":"2015",
 "path":"claims/perry-beeches-coaching-no-moderation-eal-ethnicity-prior-attainment.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Improvements in attainment were not significantly moderated by English as an additional language, ethnicity, FSM Ever 6 status, or prior attainment",
 "type":"claim"
@@ -281077,6 +281087,7 @@
 "id":"perry-beeches-coaching-similar-effect-fsm-pupils",
 "newest_evidence":"2015",
 "path":"claims/perry-beeches-coaching-similar-effect-fsm-pupils.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"The coaching programme had a similar effect for FSM-eligible pupils as for their peers",
 "type":"claim"
@@ -290263,6 +290274,7 @@
 "id":"post-test-means-three-classes-jumping-sharing-conventional",
 "newest_evidence":"2020",
 "path":"claims/post-test-means-three-classes-jumping-sharing-conventional.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class",
 "type":"claim"
@@ -416821,6 +416833,7 @@
 "id":"wikipedia-online-texts-improve-efl-vocabulary",
 "newest_evidence":"2014",
 "path":"claims/wikipedia-online-texts-improve-efl-vocabulary.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest",
 "type":"claim"
@@ -418940,13 +418953,14 @@
 "type":"claim"
 },
 {
-"description":"Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year",
+"description":"In intact classes assigned weekly Word Engine flashcard homework, adjusted VST posttest scores were significantly higher than in an extensive-reading control over one academic year; the authors call the Word Engine contribution plausible because selection and time-on-task confounds were not controlled",
 "evidence_strength":"moderate",
 "id":"word-engine-vst-gains-ancova",
 "newest_evidence":"2013",
 "path":"claims/word-engine-vst-gains-ancova.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Weekly use of the Word Engine online flashcard program significantly increases VST vocabulary scores relative to an extensive-reading control over one academic year",
+"title":"Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds",
 "type":"claim"
 },
 {
