@@ -5,15 +5,15 @@ description: A pilot study with 83 seventh graders found a large interleaving be
 id: interleaving-pilot-study-large-effect
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-01
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: moderate
-newest_evidence: 2019
+newest_evidence: 2020
 sources:
   - id: doug-rohrer-2019
-    resource: "https://osf.io/pfeg4/"
-    title: "Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/"
-    author: Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung
+    resource: "https://doi.org/10.1037/edu0000367"
+    title: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)"
+    author: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N."
     q: 3
     i: 3
     kind: causal
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the pilot, the interleaved group (M = 0.51, SD = 0.32) outperformed the blocked group (M = 0.22, SD = 0.25), d = 0.97. [→ Doug Rohrer 2019](#doug-rohrer-2019)
@@ -33,7 +33,7 @@ sources:
 
 ### Doug Rohrer 2019
 
-Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/
+Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)
 
 `q3 · i3` · `causal · r1`
 

@@ -5,13 +5,13 @@ title: Teachers can create interleaved assignments from existing blocked textboo
 description: "Because the greatest barrier to implementation is the scarcity of interleaved assignments in textbooks and workbooks, the article recommends practical remedies: \"teachers can create interleaved assignments by simply c..."
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-11-01
+  by: "process:article-ingest"
+  at: 2026-11-02
 sources:
   - id: doug-rohrer-2019
-    resource: "https://osf.io/pfeg4/"
-    title: "Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/"
-    author: Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung
+    resource: "https://doi.org/10.1037/edu0000367"
+    title: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)"
+    author: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N."
 ---
 
 # Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments
@@ -57,4 +57,4 @@ Because the greatest barrier to implementation is the scarcity of interleaved as
 -
 
 ## Key Sources
-- Doug Rohrer, Robert F. Dedrick, Marissa K. Hartwig, Chi-Ngai Cheung. (2019). A Randomized Controlled Trial of Interleaved Mathematics Practice. Journal of Educational Psychology. https://osf.io/pfeg4/
+- Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)
