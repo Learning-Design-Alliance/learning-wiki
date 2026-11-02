@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 250 claims (179 show a difference, 46 mixed, 25 no difference) · 158 studies (52 associational, 38 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 37 of 158 report an effect size · 244 claims rest on one study
+> **Evidence** · 252 claims (181 show a difference, 46 mixed, 25 no difference) · 159 studies (52 associational, 39 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 37 of 159 report an effect size · 246 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -288,8 +288,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Post-test test-anxiety scores did not differ significantly between the relaxation-trained subgroups and the control group](../claims/post-test-experimental-control-difference-nonsignificant.md) [-M] — instruction changes it
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](../claims/relaxation-training-reduces-test-anxiety-third-graders.md) [+M] — instruction changes it
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](../claims/no-test-anxiety-decrease-without-relaxation-training.md) [-M] — instruction changes it
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+M] — instruction changes it
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+W] — instruction changes it
 - [Qualitative interviews identify wiser engagement, greater self-efficacy, better emotion regulation, and greater resilience as perceived performance changes](../claims/qualitative-teacher-performance-changes-mbsr.md) [+W] — learners who differ on it differ in outcomes
+- [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
+- [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](../claims/sss-reduced-test-anxiety-growth-fifth-grade.md) [+W] — instruction changes it
 
 ## The evidence by question
 

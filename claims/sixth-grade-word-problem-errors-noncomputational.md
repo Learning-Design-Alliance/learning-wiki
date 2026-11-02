@@ -47,3 +47,4 @@ Initial cognitive-task-analysis session: 26 sixth graders completed four math wo
 
 ## Related Claims
 - [Fourth-graders perform substantially better on computation tests than on word problems using the same numbers](computation-outperforms-word-problems-same-numbers.md) — related
+- [Rewording word problems (contextual, conceptual, or combined) significantly reduces seventh-grade students' problem-solving errors compared with a control group](rewording-reduces-word-problem-errors.md) — related

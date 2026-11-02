@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-02
 sources:
   - id: ziden-and-rahman-2013
     resource: "https://eric.ed.gov/?id=EJ1085400"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught with multimedia PowerPoint plus web-based virtual simulation scored significantly higher on pilgrimage-topic achievement tests than students taught with multimedia PowerPoint alone (t = 14.01, df = 39, p = 0.000). [→ Ziden and Rahman 2013](#ziden-and-rahman-2013)
@@ -55,3 +56,4 @@ Quasi-experimental 2x2 factorial study in two Malaysian secondary schools: 40 ex
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
+- [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related

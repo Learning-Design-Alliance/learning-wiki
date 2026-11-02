@@ -61,3 +61,4 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
+- [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](journal-writing-wtl-positive-science-attitude-change.md) — related

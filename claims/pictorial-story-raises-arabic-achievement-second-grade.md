@@ -49,3 +49,4 @@ Semi-experimental post-measure study of 100 second-graders (50 experimental, 50 
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [First graders taught Arabic literacy with the systemic approach scored higher on a reading achievement test than traditionally taught peers](systemic-approach-improves-first-grade-reading-achievement.md) — related
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related

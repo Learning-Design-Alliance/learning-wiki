@@ -71,3 +71,4 @@ Total-test row of the delayed-test ANOVA table (Table 8) prints F = 43.09, signi
 - [In the first six weeks, comprehension gains on the Checkpoints measure did not differ significantly between intervention and comparison groups](checkpoints-no-six-week-difference.md) — related
 - [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
+- [Journal writing showed no statistically significant effect on learning retention three weeks after the unit](journal-writing-wtl-no-retention-effect.md) — related

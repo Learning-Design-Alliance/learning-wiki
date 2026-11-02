@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 219 claims (118 show a difference, 53 mixed, 48 no difference) · 171 studies (74 associational, 64 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 171 report an effect size · 218 claims rest on one study
+> **Evidence** · 222 claims (118 show a difference, 54 mixed, 50 no difference) · 174 studies (74 associational, 67 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 27 of 174 report an effect size · 221 claims rest on one study
 
 ## How to read this page
 
@@ -304,6 +304,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](../claims/ses-gap-westest-reading-sixth-grade.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Post-test programming scores after Alice with 4C-ID, adjusted for ECDL logical reasoning, did not differ significantly between a very-low-SES school group with more grade retentions and an intermediate-SES school group (n = 14)](../claims/alice-4cid-programming-gains-no-ses-difference.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Providing correct and incorrect worked examples can improve learning, perhaps especially for disadvantaged students](../claims/worked-examples-benefit-disadvantaged-students.md) [~M] — an instructional effect differs by group
+- [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](../claims/authentic-learning-effective-across-ses-levels.md) [-M] — an instructional effect differs by group
+- [Posttest attitude differences did not vary by family income level](../claims/mesnevi-values-education-no-income-difference.md) [-M] — an instructional effect differs by group
+- [Success for All showed some evidence of benefiting pupils eligible for free school meals, particularly at mid-point (g=0.22, p=0.03)](../claims/sfa-fsm-subgroup-benefit.md) [~W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

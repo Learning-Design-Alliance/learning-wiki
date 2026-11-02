@@ -51,3 +51,4 @@ Paired sample t-test on the experimental group (n=30) comparing pre- and post-te
 - [Control-group students showed no significant change in intrinsic motivation over the same semester](control-group-no-motivation-change.md) — related
 - [Reflective teaching significantly enhances the intrinsic motivation of Iranian upper-intermediate female EFL learners](reflective-teaching-enhances-intrinsic-motivation.md) — related
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
+- [Journal writing generated positive attitudes and intrinsic motivation for writing among EFL students](journal-writing-generates-writing-motivation.md) — related

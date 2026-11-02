@@ -49,3 +49,4 @@ Clustered RCT with school-level randomisation across two cohorts; OLS regression
 - [The effect of Mathematics Mastery did not differ significantly between children with different levels of prior achievement](mathematics-mastery-no-differential-effect-by-prior-achievement.md) — related
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
 - [Additional mathematics instruction received by six intervention children did not produce significantly different posttest scores](extra-math-instruction-six-children-no-significant-difference.md) — related
+- [Year 7 pupils in schools adopting Mathematics Mastery made a small, non-significant amount more progress than control pupils (effect size +0.06, about one month)](maths-mastery-secondary-itt-effect-non-significant.md) — related

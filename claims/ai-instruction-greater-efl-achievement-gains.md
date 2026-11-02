@@ -64,3 +64,4 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [MSBLP remedial teaching produced significant gain-score differences over traditional teaching in English skills among grade-3 primary students](msblp-significant-gains-over-traditional-english-teaching.md) — a narrower finding that bears on this claim

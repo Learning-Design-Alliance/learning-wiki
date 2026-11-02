@@ -115,3 +115,6 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
 - [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
+- [Computerized educational packages produced statistically significant higher mathematics achievement than traditional teaching in eighth-grade classes in Ma'an](computerized-packages-improve-eighth-grade-math-achievement.md) — related
+- [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
+- [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](interview-path-difference-understanding-difference.md) — related

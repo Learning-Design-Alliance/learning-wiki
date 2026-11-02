@@ -83,3 +83,5 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [The experimental and control classes did not differ significantly on the listening pre-test](otil-pretest-equivalence-classes.md) — related
 - [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — a narrower finding that bears on this claim
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
+- [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — related

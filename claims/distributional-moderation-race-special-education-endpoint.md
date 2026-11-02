@@ -51,3 +51,4 @@ Distributional moderation analysis of the IY TCM cluster-randomized trial using 
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
 - [Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services](sm-effects-moderated-race-special-education.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — reports the opposite
+- [The IY TCM program showed no significant effects on disruptive behavior or concentration problems in schools already implementing PBIS](iy-tcm-no-effect-disruptive-concentration.md) — related

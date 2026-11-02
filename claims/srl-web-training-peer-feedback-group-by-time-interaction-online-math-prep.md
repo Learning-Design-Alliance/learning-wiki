@@ -133,3 +133,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
 - [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](motivational-scaffolding-raises-academic-self-efficacy-elearning.md) — related
+- [SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control](sss-no-effect-self-regulation-scales.md) — related

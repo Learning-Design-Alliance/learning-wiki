@@ -70,3 +70,5 @@ Wilcoxon Signed Rank Test on the control group's (n=21) pre-test and post-test s
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
 - [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related
+- [Seventh-grade students taught social studies with the ABSL approach scored significantly higher on post-test academic achievement than students in two traditionally taught control groups, with a large effect size](absl-social-studies-posttest-achievement-higher.md) — related
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related

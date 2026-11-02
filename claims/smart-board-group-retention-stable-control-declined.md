@@ -69,3 +69,4 @@ Dependent-samples t-test within the control class comparing post-test (16.63) an
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
 - [Within the integrated STEM group, academic achievement declined significantly from post-test to one-year permanence test, while the control group's decline was not significant](stem-group-aat-posttest-permanence-decline-significant.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
+- [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related

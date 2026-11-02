@@ -64,3 +64,4 @@ Between-group comparison at post-test (table 3): Regular group mean 90.93 (SD 4.
 - [Undergraduates in a blended learning environment achieved significantly higher self-directed learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-sdl-posttest-than-traditional.md) — related
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
 - [Students taught regular polyhedra with multimedia lessons scored significantly higher than traditionally taught peers at both faculties](multimedia-lessons-higher-regular-polyhedra-scores.md) — related
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related

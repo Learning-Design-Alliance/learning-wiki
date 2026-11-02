@@ -46,3 +46,4 @@ Independent-samples t-test on post-test scores of the two intact classes (df = 6
 
 ## Related Claims
 - [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](make-a-match-higher-posttest-geography-principles.md) — possibly the same claim (merge candidate)
+- [The post-test difference between groups on the Match the Shapes competency was not statistically significant](match-the-shapes-posttest-not-significant.md) — reports the opposite

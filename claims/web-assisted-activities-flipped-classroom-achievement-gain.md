@@ -52,3 +52,4 @@ Quasi-experiment with two randomly assigned 7th-grade classes (N=74, 37 per grou
 - [Prior flipped-classroom studies report mixed achievement results, with some finding gains and others no significant differences](flipped-classroom-literature-mixed-achievement-results.md) — related
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
+- [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related

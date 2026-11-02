@@ -17,7 +17,7 @@ sources:
 # Supported self-explaining: learners operate on high-quality explanations already created for them
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size
 
 ## Description
 The article distinguishes three forms of self-explaining: spontaneous, elicited, and supported. In supported self-explaining, "learners operate on high-quality explanations already created for them"; tutors model explanations and provide practice analyzing and applying them, encouraging elaboration and discussion. The authors chose this form because at-risk learners with cognitive limitations may invent subpar explanations, and because the key ingredient appears to be processing high-quality explanations rather than inventing them.
@@ -50,3 +50,4 @@ The article distinguishes three forms of self-explaining: spontaneous, elicited,
 
 ## Key Sources
 - Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
+- Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov

@@ -55,3 +55,4 @@ Same ANCOVA on the 100-student sample: gender η²=.001 and group*gender η²=.0
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [Treatment and gender do not interact significantly in their effect on mathematics achievement](no-treatment-gender-interaction-mathematics-achievement.md) — related
+- [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — possibly the same claim (merge candidate)

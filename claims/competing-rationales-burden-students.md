@@ -49,3 +49,4 @@ Argument from the review's framing section, supported by cited observations (Cam
 - [The review identifies human capital development as the leading rationale, operating at micro, meso, and macro levels](human-capital-rationale-scholarships.md) — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [Diplomatic rationale frames scholarships as cultivating well-disposed future leaders to strengthen bilateral relations](diplomatic-rationale-opinion-leaders.md) — related
+- [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related

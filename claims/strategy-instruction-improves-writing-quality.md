@@ -127,3 +127,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [Teaching more text structures and including writing each increase the effect of text structure instruction](tsi-moderators-structures-and-writing.md) — related
 - [Writing instruction effects on quality were descriptively larger for weak writers (0.47) than typical writers (0.08), but not statistically significant without considering instructional focus](weak-writers-larger-quality-effects-descriptive.md) — related
 - [Most studies combined multiple teaching methods, typically didactic instruction followed by templates, writing practice, and feedback](combined-teaching-methods-sequence-documentation.md) — related
+- [SRSD for POW + TREE instruction increases the total number of persuasive elements written by Grade 5–6 rural students compared with business-as-usual control](srsd-pow-tree-increases-persuasive-elements-rural.md) — a narrower finding that bears on this claim

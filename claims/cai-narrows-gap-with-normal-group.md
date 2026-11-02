@@ -48,3 +48,4 @@ Post-test comparison of 25 experimental-group LD students (mean 42.4) and 25 nor
 - [Lecture-taught LD students remain significantly behind normal-group students at post-test](lecture-ld-behind-normal-group.md) — related
 - [CAI-taught LD students significantly outperform lecture-taught LD students on the post-test](cai-outperforms-lecture-ld-posttest.md) — related
 - [Experimental-group LD students taught through CAI show a significant pre-test to post-test achievement gain in English](cai-significant-pre-post-gain-ld-students.md) — related
+- [The experimental group closed the prior-knowledge gap: control started with significantly higher ACT scores, but post-ACT scores showed no significant difference](experimental-closed-prior-knowledge-gap.md) — related

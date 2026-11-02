@@ -66,3 +66,4 @@ Random-effects meta-analysis of Category 1 studies on perception, k = 5. The poo
 ## Related Claims
 - [Cognitive-only AI support yields medium effects on knowledge (g = 0.52), skill (g = 0.44), and affect (g = 0.48) and a large effect on perception (g = 0.85)](cognitive-only-ai-support-outcomes.md) — related
 - [Integrated support outperforms cognitive-only support for knowledge acquisition but is less effective for perception, with similar effects on affect](integrated-versus-cognitive-only-comparison.md) — related
+- [CFDE and TDE do not differ in affective learning perception](cfde-tde-no-affective-perception-difference.md) — related

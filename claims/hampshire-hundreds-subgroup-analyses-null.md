@@ -71,3 +71,4 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
 - [Switch-on showed no effect on reading outcomes for pupils eligible for free school meals](switch-on-no-effect-fsm-pupils.md) — related
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related
+- [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related

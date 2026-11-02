@@ -71,6 +71,7 @@ Culturally responsive teaching improves engagement and achievement when cultural
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 - [Integrate students' home languages into math instruction to build trust and participation](multilingualism-integration-math-trust.md)
+- [Use a vernacular-language anchor character to state objectives and guide learners](vernacular-anchor-objectives-strategy.md)
 
 ## Examples
 - **Funds of Knowledge project (Moll et al., Tucson, AZ)** — Teachers visited students' households, documented community knowledge (farming, mechanics, carpentry), and built math and literacy lessons around those practices.

@@ -46,3 +46,4 @@ Paired-samples t-test on the 25 experimental students' responses to a 41-item, f
 
 ## Related Claims
 - [Team teaching produces significantly higher EFL eleventh-grade reading comprehension post-test scores than traditional single-teacher instruction](team-teaching-improves-efl-reading-comprehension.md) — related
+- [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related

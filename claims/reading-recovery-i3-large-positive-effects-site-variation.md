@@ -48,3 +48,4 @@ Analysis of 1,148 treatment and 1,148 control students from 380 schools in the R
 - [Random effects HLM models produce an unbiased estimate of the variance of true site-specific impacts regardless of the shape of the true distribution](hlm-unbiased-variance-true-impacts.md) — related
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — a broader claim this one bears on
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — a broader claim this one bears on
+- [Impacts on student and teacher content knowledge varied across sites, with the most pronounced impacts at two of six sites](msos-differential-impacts-across-sites.md) — related

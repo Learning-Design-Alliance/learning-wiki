@@ -66,3 +66,5 @@ Pretest–posttest comparison of statement categories in both groups. The articl
 ## Related Claims
 - [Group differences in correct ideas were largest in electricity (EG 94% vs CG 65%) and motion of the Earth (EG 76% vs CG 53%)](concept-cartoons-electricity-earth-motion-differences.md) — related
 - [Worksheet analysis of three students showed naïve ideas developing from practical verifications of their assumptions, especially in topics new to students](concept-cartoons-worksheets-practical-verification.md) — related
+- [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
+- [After teaching, 90% of experimental and 80% of control students gave scientifically acceptable answers about double-slit interference](posttest-acceptable-answers-both-groups.md) — related

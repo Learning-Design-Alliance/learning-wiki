@@ -113,3 +113,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
 - [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related
 - [Students taught with simulation methods reported satisfaction with simulation-based biology education.](simulation-biology-student-satisfaction.md) — related
+- [The classroom teacher judged the application successful and positive, recommending its extension to all lessons](mesnevi-values-education-teacher-views-positive.md) — related

@@ -52,3 +52,4 @@ WWC synthesis of two RCTs (46 kindergarteners in Oregon; about 198 students in g
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
 - [First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related
 - [BEST in CLASS reduced the percentage of children in the clinical or borderline range on all three C-TRF problem-behavior subscales](best-in-class-reduced-clinical-range-c-trf.md) — related
+- [I Control reduced externalizing and internalizing behavior problems, with significant effects concentrated among students with higher baseline risk](i-control-reduces-behavior-problems-high-baseline-risk.md) — related

@@ -75,3 +75,4 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [Interaction depth is not associated with immediate recall or gains once baseline knowledge is controlled](depth-not-associated-with-immediate-recall.md) — related
 - [Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance](static-ai-use-features-no-incremental-posttest-variance.md) — related
 - [Predictor variables beyond prior achievement and school track add predictive value for next-year math achievement, with the smallest added effects for the final-year outcome](predictors-beyond-prior-achievement-add-predictive-value.md) — related
+- [In regression models, prior attainment and background explained most variation, with treatment adding little beyond pupil prior characteristics](future-foundations-regression-treatment-small.md) — related

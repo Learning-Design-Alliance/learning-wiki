@@ -42,6 +42,7 @@ The report closes by warning against assuming low-skilled adults can self-direct
 - Learner Controlled Pace And Self Direction
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
 - [Address Digital Literacy](address_digital_literacy.md)
+- [Provide one-to-one guidance, small groups and flexible pacing for low-grade pupils](individual-guidance-small-groups-extra-time.md)
 
 ## Examples
 -

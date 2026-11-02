@@ -56,3 +56,4 @@ Subgroup analysis of the randomized controlled trial (Appendix A4): low-ability 
 - [Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)](fluency-formula-positive-nonsignificant-fluency-effect.md) — related
 - [Fluency Formula™ shows a negative but statistically non-significant effect on second-grade reading comprehension (effect size –0.28, improvement index –11)](fluency-formula-negative-nonsignificant-comprehension-effect.md) — related
 - [Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study](spanish-reading-fluency-es-066-single-study.md) — related
+- [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](initial-fluency-not-consistent-response-predictor.md) — related

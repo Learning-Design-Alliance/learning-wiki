@@ -59,3 +59,4 @@ A 2 x 3 ANCOVA of inferring-word-meanings scores by gender and treatment with pr
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — reports the opposite

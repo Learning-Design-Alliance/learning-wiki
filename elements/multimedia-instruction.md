@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 67 claims (39 for, 25 mixed, 3 against) · 61 studies (40 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 61 report an effect size · 62 claims rest on one study
+> **Evidence** · 71 claims (43 for, 25 mixed, 3 against) · 63 studies (42 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 63 report an effect size · 66 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -103,6 +103,10 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Undergraduates taught Solar System moon content in an immersive fulldome planetarium retained a moderate gain (ES = 0.371) at delayed post-test, while non-immersive and no-visualization groups retained almost none](../claims/fulldome-immersion-greater-retention-moons.md) [+W] — attached 2026-11-02 from Yu et al. (2016), which proposed "Uniview fulldome virtual tour of Solar System moons at Gates Planetarium"; tests this page's relationship.
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](../claims/multimedia-modular-approach-improves-speaking-skill.md) [+W] — attached 2026-11-02 from Jose et al. (2012), which proposed "Multimedia module of 30 units for teaching speaking skill"; tests this page's relationship.
 - [The multimedia group's adjusted post-test mean (21.01) exceeded the teacher-centred group's (15.07)](../claims/mbio-post-mean-21-vs-15.md) [+W]
+- [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](../claims/multimedia-significant-pre-post-gain-social-studies.md) [+W] — attached 2026-11-02 from Genç Osman Ilhan et al. (2016), which proposed "Multimedia material set for the 'My Friends Away' social studies unit"; tests this page's relationship.
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](../claims/multimedia-gain-exceeds-traditional-gain.md) [+W] — attached 2026-11-02 from Genç Osman Ilhan et al. (2016), which proposed "Multimedia material set for the 'My Friends Away' social studies unit"; tests this page's relationship.
+- [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](../claims/multimedia-package-higher-posttest-attitude-mathematics.md) [+W] — attached 2026-11-02 from P. Muthulakshmi (2015), which proposed "Investigator-developed interactive multimedia learning package and ATMa attitude inventory for standard IX mathematics"; tests this page's relationship.
+- [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](../claims/experimental-group-significant-attitude-gain.md) [+W] — attached 2026-11-02 from P. Muthulakshmi (2015), which proposed "Investigator-developed interactive multimedia learning package and ATMa attitude inventory for standard IX mathematics"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

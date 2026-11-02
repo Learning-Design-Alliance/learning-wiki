@@ -75,3 +75,4 @@ Between-group comparison of permanence-test means (experimental 74.74, control 6
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
+- [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related

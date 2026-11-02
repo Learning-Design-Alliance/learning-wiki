@@ -52,3 +52,4 @@ Cross-site comparison of short-term impacts across the six colleges, reported in
 - [Linked learning communities produced no statistically significant or substantively important effects on academic achievement](linked-learning-communities-academic-achievement-no-effect.md) — related
 - [Linked learning communities produced no statistically significant or substantively important effect on degree attainment](linked-learning-communities-degree-attainment-no-effect.md) — related
 - [A one-semester learning community program at Kingsborough Community College increased six-year degree completion by 4.6 percentage points](kingsborough-learning-communities-six-year-degree-impact.md) — related
+- [Impacts on student and teacher content knowledge varied across sites, with the most pronounced impacts at two of six sites](msos-differential-impacts-across-sites.md) — related

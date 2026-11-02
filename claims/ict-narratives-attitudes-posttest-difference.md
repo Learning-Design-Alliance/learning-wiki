@@ -66,3 +66,4 @@ Mann-Whitney U comparison of pre-test attitudes between the same groups; mean ra
 ## Related Claims
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [Self-efficacy perceptions improved significantly in the ICT-narrative group but not in the control group](ict-narratives-self-efficacy-gain-experimental-only.md) — related
+- [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](journal-writing-wtl-positive-science-attitude-change.md) — related

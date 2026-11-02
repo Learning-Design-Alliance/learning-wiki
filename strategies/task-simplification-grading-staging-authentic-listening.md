@@ -45,6 +45,7 @@ The article recommends three techniques for introducing authentic listening mate
 ## Related Strategies
 
 - [Apply authentic materials in teaching listening comprehension and have students practice with them independently](apply-authentic-materials-listening-strategy.md)
+- [Two-stage song-work technique: pre-listening word work, then work during and after listening](two-stage-song-work-technique.md)
 
 ## Examples
 -

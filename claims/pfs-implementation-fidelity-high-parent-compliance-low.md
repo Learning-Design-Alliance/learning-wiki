@@ -51,3 +51,4 @@ Descriptive process measures collected in the intervention condition, including 
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](teacher-reported-high-fidelity-peer-tutoring-implementation.md) — related
 - [Both interventions were implemented with high fidelity, good program coverage, high attendance, and low attrition](tier2-interventions-high-fidelity-implementation.md) — related
+- [Preschool First Step was implemented with high fidelity and was feasible and socially acceptable for children at risk for ASD and their teachers and parents](first-step-fidelity-feasibility-asd-risk.md) — related

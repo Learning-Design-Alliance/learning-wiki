@@ -69,3 +69,4 @@ Systematic review of meta-analyses, family findings comparing parental education
 ## Related Claims
 - [Both mothers' and fathers' tested math skills significantly predict children's arithmetic fluency in Grade 1, and fathers' skills remain a significant predictor of Grade 2 arithmetic fluency](parental-math-skills-predict-child-arithmetic-fluency.md) — related
 - [Within-family Mendelian randomization finds little evidence that mothers' or fathers' educational attainment causally affects children's depressive, anxiety, or ADHD traits at age 8](within-family-mr-little-evidence-parental-education-child-mental-health.md) — related
+- [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related

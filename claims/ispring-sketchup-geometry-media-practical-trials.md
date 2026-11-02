@@ -66,3 +66,4 @@ Limited-scale trial in one class of 35 students plus teachers. Students averaged
 ## Related Claims
 - [The Ispring Suite 8 geometry media with Google SketchUp 3D effects was judged valid by media and material experts](ispring-sketchup-geometry-media-expert-validated.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
+- [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related

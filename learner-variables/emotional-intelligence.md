@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (51 show a difference, 18 mixed, 9 no difference) · 53 studies (17 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 53 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (53 show a difference, 18 mixed, 9 no difference) · 55 studies (19 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 55 report an effect size · 79 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -114,6 +114,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+M] — instruction changes it
 - [IY TCM improves elementary students' emotional regulation](../claims/iytcm-improves-emotional-regulation.md) [+M] — instruction changes it
 - [Positive Action mitigated the age-related decline in social-emotional and character development skills in both trials and a third small trial](../claims/positive-action-slows-secd-decline.md) [+M] — instruction changes it
+- [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
+- [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](../claims/iy-tcm-reduced-emotional-dysregulation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

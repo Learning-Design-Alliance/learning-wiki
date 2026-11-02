@@ -54,3 +54,4 @@ The review suggests that blended learning or flipped classroom models may enable
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](e-learning-adjunct-anaesthesia-education.md) — related
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — a narrower finding that bears on this claim
+- [The review reports that a blended learning model contributed more to high school students' biology achievement than traditional teaching methods](blended-learning-beats-traditional-biology-achievement-review.md) — related

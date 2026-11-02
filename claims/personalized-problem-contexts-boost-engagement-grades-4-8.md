@@ -87,3 +87,4 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 - [Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall](localized-names-personalization-subgroup-performance.md) — related
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md) — related
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — a narrower finding that bears on this claim
+- [The article asserts that children learn faster and better with computers and that computers increase children's motivation and interest](computers-increase-children-motivation-learning.md) — related

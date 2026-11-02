@@ -81,3 +81,4 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — reports the opposite
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related
 - [No significant sex differences in reading scores emerged in any of the three strategy groups](no-sex-differences-reading-scores.md) — related
+- [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — related

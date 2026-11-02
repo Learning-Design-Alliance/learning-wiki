@@ -46,3 +46,4 @@ Same disaggregated posttest analysis: intermediate (A-2 vs B-2) and lower (A-3 v
 
 ## Related Claims
 - [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — a broader claim this one bears on
+- [The Comprehensive Charts instruction was most effective for advanced achievers, with no significant effect for lower proficiency subgroups](charts-instruction-advanced-achievers-only.md) — related

@@ -52,3 +52,4 @@ Retrospective subgroup construction using parent and teacher Conners' ADHD Scale
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [Parent-reported outcomes for the PFS ADHD-risk subsample improved in the medium range for both home-setting symptoms and social functioning](pfs-medium-parent-reported-effects-home-setting.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
+- [Teachers and parents reported positive social validity of FSS-PSV, with most happy with the program and willing to recommend it](fss-psv-positive-social-validity.md) — related

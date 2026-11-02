@@ -79,9 +79,11 @@ Modeling self-talk converts an invisible self-regulatory process into observable
 6. Revisit and refine the scripts after real difficulty episodes ("What did you tell yourself when you got stuck?").
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the general method of verbalizing cognition; positive self-talk modeling is its affective-motivational subset
 - [Growth Mindset Framing](growth-mindset-framing.md) — supplies the belief content that effective self-talk scripts express
 - [Check-Ins](../principles/check-ins.md) — surface learners' existing private speech so scripts can target actual self-statements
+- [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
 
 ## Examples
 - **Meichenbaum's self-instructional training** — originally used with impulsive children, who observed an adult model verbalizing task steps ("Okay, what is it I have to do?") before practicing the same speech themselves.

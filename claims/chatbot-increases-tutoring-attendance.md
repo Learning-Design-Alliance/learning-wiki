@@ -57,3 +57,4 @@ ITT analysis of tutoring attendance from the pooled RCT sample, with formal medi
 - [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
 - [Enrollment in the supplemental instruction section is associated with significantly positive average individualized treatment effects on final exam score and course grade](si-positive-average-ite-exam-grade.md) — related
+- [Historical correlational data showed students attending more Supplemental Practice days earned higher course averages and success rates above 65% at nine or more days](sp-attendance-correlates-with-success.md) — related

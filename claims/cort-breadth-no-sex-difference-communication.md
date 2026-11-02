@@ -56,3 +56,5 @@ Wilcoxon W test comparing 16 males and 20 females on the post measurement; Table
 - [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
 - [No significant difference was found in drawing-skill acquisition between male and female students taught with two- and three-dimensional visual objects](no-gender-difference-drawing-visual-objects.md) — related
+- [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
+- [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — related

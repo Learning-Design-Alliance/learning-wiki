@@ -58,3 +58,4 @@ HLM models with 467 children in 84 classrooms, using the SSRS teacher-rated soci
 - [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
 - [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related
+- [The zero-to-two responsive stimulation intervention shows sustained impacts on social skills and behavior problems into the preschool period despite severe disadvantage](sustained-impacts-early-intervention-preschool-period.md) — related

@@ -44,7 +44,8 @@ Caregivers support early helping by complementing, encouraging, guiding, and pra
 - [Repeated encouragement and praise causally increased 13- and 14-month-olds' helping of an adult who dropped an object](../claims/encouragement-praise-doubles-infant-helping.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use coached, developmentally appropriate play activities with caregivers to promote responsive parenting in low-resource settings](coached-play-activities-responsive-parenting.md)
 
 ## Examples
 -

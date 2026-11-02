@@ -44,6 +44,7 @@ Based on the experiment's results, the authors identify the factors that most no
 ## Related Strategies
 
 - [Extend the task-based robotics methodology toward nonlinear individual educational paths](nonlinear-robotics-learning-path.md)
+- [Embed research methods and creative activity across physics studies to strengthen competency formation](embed-research-methods-across-physics-studies.md)
 
 ## Examples
 -

@@ -62,6 +62,7 @@ Naming the negative voice is a form of cognitive reappraisal that requires minim
 - Test-anxiety reduction techniques — the voice often peaks before assessments, where the label is most useful
 - Journaling and reflection routines — recurring writing gives the named voice a consistent outlet
 - [Diagnostic and repair strategy in constructivist therapy: locate where the synthetic position sits and return it to an ordinary voice](therapy-repair-synthetic-position-location.md)
+- [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
 
 ## Examples
 - A middle-school teacher introduces "Cranky Kirsten" during a fractions unit; students write Kirsten's typical complaints in their math journals, then answer her with evidence from their own past work.

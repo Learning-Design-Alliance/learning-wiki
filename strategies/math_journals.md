@@ -72,12 +72,14 @@ Math journals enact writing-to-learn: requiring students to verbalize mathematic
 5. Use patterns across entries to plan instruction and select students' entries (anonymized) for whole-class discussion ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - Exit Tickets — a shorter, more frequent form of the same formative function
 - Error Analysis — journals are a natural venue for analyzing one's own errors, which improves retention when errors are held with confidence [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [+M]
 - Learning Logs — the general writing-to-learn counterpart across subjects
 - [Exit Tickets](exit-ticket.md) — a brief, single-prompt cousin of journaling used for daily formative assessment
 - [Error Analysis](../principles/error-analysis.md) — journaling about a corrected error deepens the diagnostic benefit
 - [Think-Pair-Share](../patterns/think-pair-share.md) — oral rehearsal before writing can improve entry quality for reluctant writers
+- [Implement out-of-class English journal writing with weekly encouraging teacher feedback and two rotating notebooks](efl-journal-writing-weekly-feedback-strategy.md)
 
 ## Examples
 - **First-grade CGI classrooms:** students draw and write about their solution strategies for word problems; the teacher reads entries to understand the diverse strategies students invented before the sharing discussion.

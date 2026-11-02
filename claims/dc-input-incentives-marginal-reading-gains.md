@@ -50,3 +50,4 @@ School-level randomized trial in Washington, DC: 34 schools signed up, 17 treate
 - [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related
 - [Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools](output-incentives-no-achievement-gains.md) — related
 - [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — reports the opposite
+- [Financial incentives significantly improved classwork effort across English, Maths and Science, with no secure evidence of impact on behaviour, attendance or homework](financial-incentives-improve-classwork-effort-only.md) — related

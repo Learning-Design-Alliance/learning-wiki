@@ -49,6 +49,7 @@ The article's suggestions section recommends preparing multimedia-supported web-
 
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
+- [Extend the CBL model to other subjects and study programs, and develop sports-specific systematic physics reference material for the examination phase](cbl-extension-and-sports-physics-reference-strategy.md)
 
 ## Examples
 -

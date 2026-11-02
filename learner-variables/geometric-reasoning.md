@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (29 show a difference, 8 mixed, 3 no difference) · 28 studies (15 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 28 report an effect size · 40 claims rest on one study
+> **Evidence** · 41 claims (30 show a difference, 8 mixed, 3 no difference) · 29 studies (16 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 29 report an effect size · 41 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -77,6 +77,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Experimental-class students showed higher diagrammatic representation gains than control-class students after using the Android media](../claims/diagrammatic-gain-higher-experimental-class.md) [+M] — instruction changes it
 - [First-year architecture and civil construction students taught isometric transformations with interactive multimedia lessons scored significantly higher than traditionally taught peers](../claims/multimedia-lessons-higher-isometric-transformations-scores.md) [+M] — instruction changes it
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](../claims/multimedia-advantage-concentrated-visual-spatial-tasks.md) [~M] — instruction changes it
+- [Origami instruction yields statistically significant posttest gains in geometric knowledge for teaching shape and space relative to conventional instruction](../claims/origami-geometric-knowledge-significant-gain.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

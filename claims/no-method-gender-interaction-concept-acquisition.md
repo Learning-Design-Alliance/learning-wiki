@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: mohammad-hasan-al-tarawneh-2016
     resource: "https://eric.ed.gov/?id=EJ1089788"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Mohammad Hasan Al-Tarawneh 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-01)
 
 ## Subclaims
@@ -58,3 +59,4 @@ Omnibus ANCOVA interaction term (group * gender) in the same quasi-experiment: S
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
 - [No statistically significant difference in geographic concepts acquisition attributable to gender](no-gender-difference-web-quest-concept-acquisition.md) — related
 - [Gender and the method-by-gender interaction had no significant effect on posttest or delayed test success scores](gender-and-method-interaction-insignificant.md) — possibly the same claim (merge candidate)
+- [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — related

@@ -57,3 +57,5 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Both teaching methods improved bump pass scores, but the mind map group's total bump pass success score was significantly higher](mind-map-bump-pass-success.md) — related
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
 - [Graphic organizer strategy instruction improved vocabulary building scores of Jordanian university EFL students compared with traditional instruction](go-strategy-improved-efl-vocabulary-building.md) — related
+- [MSBLP remedial teaching produced significant gain-score differences over traditional teaching in English skills among grade-3 primary students](msblp-significant-gains-over-traditional-english-teaching.md) — related
+- [University students taught French reading with Prezi scored significantly higher on a post-test than students taught the traditional way](prezi-outperforms-traditional-french-reading-instruction.md) — related

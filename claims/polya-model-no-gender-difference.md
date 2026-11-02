@@ -53,3 +53,4 @@ ANCOVA on post-test scores of the 60 experimental-group students taught with the
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related
+- [No statistically significant difference in mathematics achievement between male and female students taught with computerized packages](no-gender-difference-computerized-math-achievement.md) — related

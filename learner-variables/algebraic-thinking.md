@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (40 show a difference, 16 mixed, 12 no difference) · 48 studies (30 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 9 of 48 report an effect size · 65 claims rest on one study
+> **Evidence** · 75 claims (45 show a difference, 18 mixed, 12 no difference) · 51 studies (33 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 11 of 51 report an effect size · 72 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -105,6 +105,13 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](../claims/flipped-college-algebra-higher-final-exam-scores.md) [+M] — instruction changes it
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](../claims/lecture-no-significant-gain-ld-students.md) [-M] — instruction changes it
 - [Categorization, finding-errors, and equation-instantiation tests showed no significant differences between CPS and traditional classes](../claims/cps-null-categorization-finding-errors-instantiation.md) [-M] — instruction changes it
+- [A network-supported function-based generative activity intervention produced significantly larger 2010 algebra test score gains than traditional instruction in Singapore secondary schools](../claims/function-based-generative-intervention-improved-2010-algebra-gains.md) [+M] — instruction changes it
+- [After the intervention, posttest differences in identifying patterns in a function table were only marginally significant at grade 3, but experimental fifth graders more often described covariational relationships than recursive patterns](../claims/pattern-identification-marginal-grade-3-covariational-shift-grade-5.md) [~M] — instruction changes it
+- [Computer-assisted mathematics instruction through a computer algebra system at the transformation level produces higher parabola achievement than traditional teaching with ICT at the replacement level](../claims/cami-cas-transformation-beats-replacement-parabola-achievement.md) [+M] — instruction changes it
+- [Experimental students significantly outperformed control students at posttest in expressing a functional relationship in words (grades 3-4) and in symbols (all grades), with no students writing correct symbolic rules at pretest](../claims/ealp-intervention-improves-correspondence-rules-words-and-symbols.md) [+M] — instruction changes it
+- [Grades 3-4 students in an EALP-based early algebra intervention made significant improvements in constructing function tables and outperformed control students at posttest](../claims/ealp-intervention-improves-function-table-construction-grades-3-4.md) [+M] — instruction changes it
+- [On a 'far' prediction to 10 tables, both conditions improved with no significant posttest differences in correctness, but the experimental group increasingly used a function rule as its strategy](../claims/far-prediction-no-difference-but-functional-strategy-use-increased.md) [~M] — instruction changes it
+- [The authors conclude that elementary students are capable of sophisticated functional thinking and that this calls into question the lack of focus on covarying quantities in many elementary curricula and standards](../claims/elementary-students-capable-of-sophisticated-functional-thinking.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

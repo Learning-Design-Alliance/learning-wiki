@@ -78,3 +78,4 @@ ANCOVA of post-test CAT scores by gender with KCPE as covariate, run to compensa
 - [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
+- [No statistically significant difference in mathematics achievement between male and female students taught with computerized packages](no-gender-difference-computerized-math-achievement.md) — related

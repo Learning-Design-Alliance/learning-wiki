@@ -79,3 +79,5 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
+- [Any English benefit of the summer school extended to FSM-eligible pupils and boys, with no apparent benefit in maths for these groups](future-foundations-english-benefit-boys-fsm.md) — related
+- [Success for All showed some evidence of benefiting pupils eligible for free school meals, particularly at mid-point (g=0.22, p=0.03)](sfa-fsm-subgroup-benefit.md) — related

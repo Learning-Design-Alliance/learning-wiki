@@ -52,3 +52,4 @@ Thematic analysis (Thomas's five-step procedure; two researchers coded subsets u
 - [Most surveyed US K-12 teachers reported knowledge, comfort, and confidence for online teaching during early COVID-19, but only 19% preferred online teaching to classroom teaching](k12-teachers-covid-self-efficacy-online-teaching.md) — related
 - [Teachers whose difficulties included using virtual tools were those without virtual teaching experience before the COVID period](no-prior-virtual-experience-tool-difficulties.md) — related
 - [Two educational modalities were identified: face-to-face classes using PowerPoint presentations and online training accessible 24/7 via institutional websites.](two-educational-modalities-face-to-face-and-online.md) — related
+- [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related

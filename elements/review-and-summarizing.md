@@ -78,6 +78,7 @@ Summarizing is effective because it forces generative processing: learners must 
 - **[Retrieval-enhanced "brain dump" + summary](../strategies/exit-ticket.md)** — End-of-class routine: learners write everything they remember, then condense it into a three-sentence summary; the instructor reviews these as formative data.
 - **[Edpuzzle](https://edpuzzle.com)** — Embedded questions in video lessons can require learners to summarize a segment in their own words before proceeding.
 - [Assign end-of-unit letter-writing tasks summarizing science concepts for a chosen audience](../strategies/end-of-unit-letter-writing-task.md)
+- [Use end-of-section journal writing as a writing-to-learn activity during a science unit](../strategies/end-of-section-journal-writing-wtl-strategy.md)
 
 ## Key Sources
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

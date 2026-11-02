@@ -58,3 +58,5 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [Students receiving SMS learning support scored significantly higher on the programming posttest than control students](sms-support-higher-posttest-programming.md) — related
 - [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related
 - [Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest](wikipedia-online-texts-improve-efl-vocabulary.md) — related
+- [Synectics-based vocabulary teaching produces significantly higher learning of targeted vocabulary than the direct method in English preparatory classes](synectics-improves-targeted-vocabulary-learning.md) — related
+- [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related

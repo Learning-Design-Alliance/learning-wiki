@@ -55,3 +55,4 @@ Pre-specified subgroup analysis of the pupil-randomised trial comparing pupils c
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
 - [SPOKES showed no statistically significant effect on primary literacy outcomes (Letter ID, Word ID, Word Attack) at immediate post-test in a pupil-randomised efficacy trial](spokes-no-posttest-literacy-effect.md) — related
 - [SPOKES showed a positive effect on Key Stage 1 teacher-based literacy measures, an outcome not pre-specified in the trial protocol](spokes-positive-ks1-literacy-effect.md) — related
+- [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related

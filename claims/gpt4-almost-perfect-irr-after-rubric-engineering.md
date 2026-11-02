@@ -60,3 +60,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](pat-27-item-reliable-achievement-test.md) — related

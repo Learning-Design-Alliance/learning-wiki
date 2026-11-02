@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 452 claims (250 show a difference, 95 mixed, 107 no difference) · 303 studies (151 associational, 98 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 50 of 303 report an effect size · 444 claims rest on one study
+> **Evidence** · 455 claims (251 show a difference, 96 mixed, 108 no difference) · 306 studies (151 associational, 101 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 51 of 306 report an effect size · 447 claims rest on one study
 
 ## How to read this page
 
@@ -491,6 +491,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](../claims/female-efl-learners-outperform-males-reading-comprehension.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender and the method-by-gender interaction had no significant effect on posttest or delayed test success scores](../claims/gender-and-method-interaction-insignificant.md) [-M] — an instructional effect differs by group
 - [Male students scored higher than female students on the agricultural science achievement test under both teaching methods](../claims/male-students-outperform-female-agricultural-science.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](../claims/no-gender-strategy-interaction-achievement.md) [-M] — an instructional effect differs by group
+- [The teaching-method effect on achievement interacts with student sex](../claims/six-hats-achievement-sex-interaction.md) [+M] — an instructional effect differs by group
+- [Under authentic learning, girls outperformed boys at posttest although both genders improved](../claims/authentic-learning-girls-outperform-boys-posttest.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

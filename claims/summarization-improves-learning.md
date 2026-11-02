@@ -130,3 +130,4 @@ Open questions include how summarization compares with other generative strategi
 - [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](no-learning-effect-for-four-explicit-srl-prompts.md) — related
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — a broader claim this one bears on
 - [Coh-Metrix indices predicting college writing quality fail for low-skilled adults, for whom ten other indices are predictive](cohetrix-indices-low-skilled-adults-writing.md) — related
+- [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related

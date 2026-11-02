@@ -13,7 +13,7 @@ generated:
 # Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 30 studies (11 causal, 9 quant-synthesis, 4 review, 3 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 8 of 30 report an effect size · 8 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 31 studies (12 causal, 9 quant-synthesis, 4 review, 3 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 8 of 31 report an effect size · 9 claims rest on one study
 
 ## Description
 Discussion is a structured verbal exchange — whole-class, small-group, or online — in which learners articulate their thinking, respond to peers, and negotiate meaning under facilitation. It functions as both an assessment surface (making reasoning visible to the instructor) and a learning mechanism (eliciting explanation, elaboration, and cognitive conflict).
@@ -63,6 +63,7 @@ Discussion improves achievement when it is structured around a clear goal and re
 - [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](../claims/high-cognitive-kindles-high-cognitive.md) [~W]
 - [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](../claims/script-all-or-none-input-answering.md) [~W]
 - [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](../claims/ddr-script-more-discussions-fewer-edits.md) [+W]
+- [Contribution styles differ: TDE students send more instant messages while CFDE students make more insistent contributions](../claims/contribution-styles-differ-cfde-tde.md) [~W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]

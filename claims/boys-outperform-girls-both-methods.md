@@ -69,3 +69,4 @@ Independent t-test on posttest CAT scores of 32 boys and 27 girls taught with le
 ## Related Claims
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
 - [Boys outperformed girls on physics post-tests in both the practical-work and conventional groups, and the experimental group's improvement was larger for boys](boys-outperform-girls-in-both-physics-conditions.md) — related
+- [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — reports the opposite

@@ -56,3 +56,4 @@ Pretest check in the same quasi-experiment: the TUCE was administered before the
 - [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — a narrower finding that bears on this claim
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
 - [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — related
+- [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — related

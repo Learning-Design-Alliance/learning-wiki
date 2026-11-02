@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (111 show a difference, 36 mixed, 28 no difference) · 123 studies (44 associational, 43 causal, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 123 report an effect size · 172 claims rest on one study
+> **Evidence** · 176 claims (111 show a difference, 37 mixed, 28 no difference) · 124 studies (44 causal, 44 associational, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 124 report an effect size · 173 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -211,6 +211,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical reasoning ability](../claims/problem-solving-strategy-more-effective-reasoning.md) [+M] — instruction changes it
 - [No significant treatment-by-intelligence interaction on physics concept understanding](../claims/no-treatment-intelligence-interaction-physics-concepts.md) [-M] — an instructional effect differs with it
 - [Physics concept understanding is independent of intelligence when prior understanding is a covariate](../claims/physics-concept-understanding-independent-of-intelligence.md) [-M] — learners who differ on it differ in outcomes
+- [Reasoning ability moderated the word-problem intervention's effect, which did not compensate for very low reasoning: the WP advantage was nonsignificant 1.81 SDs below the sample mean](../claims/reasoning-moderator-word-problem-effect-not-compensatory.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

@@ -42,6 +42,7 @@ The article describes an instructional sequence in which targeted clicker questi
 ## Related Strategies
 
 - [Take Home_Practice_Sets](take-home_practice_sets.md)
+- [Design clicker questions as multiple choice, starting with simple factual review questions and ending with application problems](clicker-multiple-choice-question-design-sequence.md)
 
 ## Examples
 -

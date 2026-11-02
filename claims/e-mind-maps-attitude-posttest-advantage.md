@@ -48,3 +48,5 @@ Mann-Whitney test comparing the two 15-student groups on the 33-item attitude to
 - [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](mi-instruction-improves-attitude-toward-english.md) — related
 - [Self-regulated jigsaw IV did not significantly increase students' attitudes towards the English course; the significant gain-score difference reflected a control-group decline](jigsaw-iv-attitude-no-significant-increase.md) — related
 - [Participants expressed overall agreement (positive attitudes) towards using e-Mind Maps in teaching the English curriculum, with a general mean of 2.15 out of 3.00](positive-attitudes-toward-e-mind-maps-descriptive.md) — related
+- [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related
+- [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related

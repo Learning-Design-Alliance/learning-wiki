@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (26 for, 22 mixed, 3 against) · 62 studies (36 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 62 report an effect size · 44 claims rest on one study
+> **Evidence** · 52 claims (27 for, 22 mixed, 3 against) · 63 studies (37 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [In repeated testing after one month, paper-form students did not reach their earlier score while electronic-form students had no problems gaining a satisfactory score](../claims/repeated-testing-electronic-satisfactory-score.md) [~W]
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](../claims/vocabulary-loss-delayed-post-test-both-groups.md) [~W]
 - [All treatment groups showed positive gains immediately after instruction, followed by losses between the contemporaneous and post-instruction assessments](../claims/immediate-gains-then-decay-all-groups.md) [+W]
+- [Tree-thinking gains from the experimental curriculum were retained on an unannounced closed-book posttest given 5–6 weeks after primary instruction](../claims/tree-thinking-gains-retained-unannounced-delayed-posttest.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

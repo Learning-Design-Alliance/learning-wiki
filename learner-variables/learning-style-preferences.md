@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (25 show a difference, 11 mixed, 12 no difference) · 24 studies (12 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 24 report an effect size · 47 claims rest on one study
+> **Evidence** · 49 claims (26 show a difference, 11 mixed, 12 no difference) · 25 studies (12 causal, 6 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 25 report an effect size · 48 claims rest on one study
 
 ## Bottom line
 
@@ -86,6 +86,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [With motivational scaffolding, students of different FDI cognitive styles achieve equivalent learning](../claims/scaffolding-equalizes-achievement-across-cognitive-styles.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Auditory learners are the highest scorers under both teaching styles but gain no significant benefit from the experiment format](../claims/auditory-learners-highest-scorers-no-experiment-gain.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](../claims/kinesthetic-learners-worse-off-experiment-class.md) [+M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [The review reports that students' views of the blended learning process differ according to their learning styles](../claims/blended-learning-views-differ-by-learning-style-review.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

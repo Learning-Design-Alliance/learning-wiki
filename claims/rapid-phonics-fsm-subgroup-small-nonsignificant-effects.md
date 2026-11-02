@@ -55,3 +55,4 @@ Subgroup multilevel model for FSM pupils within the same randomised trial (Table
 - [Rapid Phonics delivered across the primary-secondary transition showed no significant effect on reading comprehension (primary outcome)](rapid-phonics-no-significant-reading-comprehension-effect.md) — related
 - [Rapid Phonics showed no detectable effect on single word reading and no summer fall-back in word reading](rapid-phonics-no-single-word-reading-effect.md) — related
 - [Rapid Phonics showed a small, statistically non-significant positive effect on non-word reading](rapid-phonics-small-nonsignificant-nonword-reading-effect.md) — related
+- [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related

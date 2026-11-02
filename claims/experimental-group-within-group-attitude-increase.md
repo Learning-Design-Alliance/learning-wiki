@@ -53,3 +53,4 @@ Repeated-measures ANOVA on the 30-student experimental group's three attitude me
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
 - [The attitude advantage of out-of-school learning environments persists three months after the intervention ends](out-of-school-attitude-gain-persists-three-months.md) — related
 - [Including out-of-school learning environments in 6th-grade science instruction produces significantly higher attitudes toward the science course than curriculum-only instruction at posttest](out-of-school-environments-raise-science-attitudes-posttest.md) — related
+- [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related

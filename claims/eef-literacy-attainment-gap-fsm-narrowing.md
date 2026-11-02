@@ -63,3 +63,4 @@ Pooled attainment-gap estimate from the sIPD model with a treatment-by-FSM inter
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
 - [The absenteeism reduction appeared larger in the Key Stage 4 cohort than in Key Stage 3](pep-absenteeism-effect-larger-ks4.md) — related
 - [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related
+- [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related

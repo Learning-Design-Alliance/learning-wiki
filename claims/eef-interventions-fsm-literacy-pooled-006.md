@@ -66,3 +66,4 @@ IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
 - [The small positive English attainment effect (ES 0.033) is at risk of bias from missing baseline data and cannot be reliably concluded](pep-english-effect-bias-risk.md) — a narrower finding that bears on this claim
 - [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related
+- [The four-week summer school was associated with a small positive effect on English outcomes (effect size +0.17, about two additional months' progress)](future-foundations-summer-school-english-gain.md) — related

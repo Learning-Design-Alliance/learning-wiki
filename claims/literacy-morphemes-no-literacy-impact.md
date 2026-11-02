@@ -48,3 +48,4 @@ Primary outcome analysis of the same cluster-randomised trial, measured on the P
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [A year of Learning through REAL Projects had no clear impact on Year 7 pupils' literacy attainment](pbl-real-projects-no-literacy-impact.md) — related
+- [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related

@@ -3,13 +3,14 @@ type: claim
 title: "Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most"
 description: "Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most"
 id: working-memory-compensatory-moderator-self-explaining
+aliases: [working-memory-compensatory-moderator-explaining-effect]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-10-23
+source_checked: 2026-11-02
 sources:
   - id: fuchs-2016
     resource: "https://doi.org/10.1037/edu0000073"
@@ -19,16 +20,35 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
+  - id: fuchs-2015
+    resource: "https://eric.ed.gov/?id=ED557580"
+    title: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov/?id=ED557580"
+    author: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: fuchs-2015-2
+    resource: "https://eric.ed.gov/?id=ED557580"
+    title: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov/?id=ED557580"
+    author: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` The effect favoring EXP over WP on comparison accuracy was significant for lower-working-memory students and transitioned to nonsignificance at 1.09 SDs above the sample mean. [→ Fuchs 2016](#fuchs-2016)
+
+`q3 i?` Working memory was the only significant moderator of the EXP-versus-WP effect on comparison accuracy; for lower-working-memory students EXP produced significantly stronger outcomes, but the effect transitioned to nonsignificance at 1.09 SDs above the at-risk sample mean. [→ Fuchs 2015](#fuchs-2015)
 
 ## Evidence
 
@@ -42,16 +62,41 @@ OLS path-analytic moderation (Preacher & Hayes framework) on comparison accuracy
 
 > "The effect favoring EXP over WP transitioned to nonsignificance at 1.09 SDs above the at-risk sample mean on working memory. Thus, consistent with expectations, a compensatory moderator effect was demonstrated."
 
+### Fuchs 2015
+
+Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov/?id=ED557580
+
+`q3 · i?` · `causal · r2`
+
+Path-analytic moderation analyses (Preacher and Hayes framework) probing the working-memory-by-condition interaction on comparison accuracy via the Johnson-Neyman technique; the article reports "for students with lower working memory, the EXP condition" produced significantly stronger outcomes.
+
+> "for students with lower working memory, the EXP condition (white bars) produced significantly stronger outcomes than the WP condition (black bars, i.e., non-EXP)."
+
+### Fuchs 2015 (2)
+
+Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov/?id=ED557580
+
+`q3 · i?` · `causal · r2`
+
+Johnson-Neyman probing located the transition point on the working-memory continuum; the model with working memory as moderator had R2 = .20, F(5,136) = 6.81, p < .001, and working memory was the only significant moderator.
+
+> "The effect favoring EXP over WP transitioned to nonsignificance at 1.09 SDs above the at-risk sample mean on working memory. Thus, consistent with expectations, a compensatory moderator effect was demonstrated."
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Reasoning moderates the word-problem intervention's advantage, and the intervention did not compensate for low reasoning](reasoning-moderator-word-problem-intervention.md) — related
 - [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](supported-self-explaining-improves-explanation-quality.md) — related
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — reports the opposite
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
 - [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](supported-self-explaining-fraction-magnitudes.md) — a broader claim this one bears on
+- [At-risk fourth graders taught supported self-explaining outperformed the word-problem condition on fraction magnitude comparison accuracy (ES = 0.43)](supported-self-explaining-improves-magnitude-comparison-accuracy.md) — a broader claim this one bears on
+- [Reasoning ability moderated the word-problem intervention's effect, which did not compensate for very low reasoning: the WP advantage was nonsignificant 1.81 SDs below the sample mean](reasoning-moderator-word-problem-effect-not-compensatory.md) — related

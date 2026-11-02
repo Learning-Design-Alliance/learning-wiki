@@ -75,6 +75,13 @@ jobs:
           bytes=$(du -sb site | cut -f1)
           mb=$((bytes / 1000000))
           echo "Published site: ${mb} MB of GitHub Pages' 1000 MB limit." | tee -a "$GITHUB_STEP_SUMMARY"
+          # Publish the measurement itself, so the size can be tracked deploy by deploy
+          # without reading this log (its size line sits before thousands of lines of deploy
+          # output). Measured before this file is written; the file adds a few hundred bytes.
+          sub() { [ -d "site/$1" ] && du -sb "site/$1" | cut -f1 || echo 0; }
+          printf '{"bytes": %s, "mb": %s, "limit_mb": 1000, "warn_mb": 850, "pagefind_bytes": %s, "pr_preview_bytes": %s, "commit": "%s", "measured_at": "%s"}\n' \
+            "$bytes" "$mb" "$(sub pagefind)" "$(sub pr-preview)" "$GITHUB_SHA" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            > site/site-size.json
           if [ "$mb" -gt 850 ]; then
             echo "::warning title=Site near the GitHub Pages limit::The site is ${mb} MB of 1000 MB. Plan the long tail's move off GitHub Pages (CLAUDE.md, The site and the generated files)."
           fi

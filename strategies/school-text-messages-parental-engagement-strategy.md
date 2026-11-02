@@ -48,6 +48,7 @@ The article positions text messages as a low-cost, nonintrusive channel for supp
 - [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
 - [Communicate Quickly and Easily Through Mobile Apps](communicate_quickly_and_easily_through_mobile_apps.md)
 - [Utilizing Mobile Communication Apps for Parent Engagement](utilizing_mobile_communication_apps_for_parent_engagement.md)
+- [Cost-effective, home-based parent-delivered early stimulation for infants](cost-effective-home-based-parent-infant-stimulation.md)
 
 ## Examples
 -

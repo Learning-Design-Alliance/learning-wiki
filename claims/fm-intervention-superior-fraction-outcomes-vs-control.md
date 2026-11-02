@@ -58,3 +58,4 @@ Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (201
 - [Integrated fraction-decimal component does not provide added value over full fraction intervention on fraction outcomes](integrated-component-no-added-value-fraction-outcomes.md) — related
 - [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](fraction-intervention-number-line-es-093.md) — a narrower finding that bears on this claim
 - [Integrated intervention's advantage on broader rational number outcomes is driven entirely by the near-transfer measure aligned with taught tasks](integrated-advantage-driven-by-aligned-near-transfer.md) — related
+- [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](both-interventions-beat-control-naep-number-line-calculations.md) — related

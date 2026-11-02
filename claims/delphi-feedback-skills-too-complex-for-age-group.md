@@ -48,3 +48,4 @@ Round 2 Delphi feedback in the malicious code and recovery category: "four parti
 - [A two-round Delphi study with 18 professionals from cybersecurity, cybersecurity education, and general education validated the skills framework](delphi-18-professionals-validation.md) — related
 - [A systematic review and Delphi round 1 yielded 257 age-appropriate literature-based skills and 101 professional-identified skills for children aged 8–13](slr-delphi-257-literature-101-professional-skills.md) — related
 - [Existing cybersecurity frameworks are inadequate for children aged 8–13 because they target workforce preparation or remain too broad across school ages](existing-frameworks-inadequate-for-ages-8-13.md) — related
+- [Computers can have negative effects on children when use is excessive, software is age-inappropriate, or use is unsupervised](computer-negative-effects-unsupervised-use.md) — related

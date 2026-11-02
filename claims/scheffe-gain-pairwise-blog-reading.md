@@ -52,3 +52,6 @@ Scheffe post-hoc pairwise comparisons on gain scores of the four gender-by-condi
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related
 - [Female students in the blog-based collaborative reading group showed the largest reading comprehension gains, and the gender null hypothesis was rejected](female-blog-readers-largest-comprehension-gains.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
+- [Posttest scores differed significantly across the four gender-by-instruction subgroups in a one-way ANOVA](anova-four-subgroups-thanking-significant.md) — related
+- [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — related
+- [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related

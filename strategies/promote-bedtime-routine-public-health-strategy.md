@@ -56,6 +56,7 @@ The article recommends promoting a bedtime routine as a public health and clinic
 
 - [Clinicians query for consistency in sleep routines and schedules and discuss sleep health with families before formal schooling entry as preventative support for school readiness](clinician-parent-sleep-routine-discussions.md)
 - [Prioritize dose-response sleep research with multiple time points and narrower age groups before refining early-years sleep recommendations](dose-response-sleep-research-strategy-early-years.md)
+- [Cost-effective, home-based parent-delivered early stimulation for infants](cost-effective-home-based-parent-infant-stimulation.md)
 
 ## Examples
 -

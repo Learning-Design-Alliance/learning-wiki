@@ -80,3 +80,5 @@ Quasi-experimental pre-test, post-test, non-randomized control group study of 24
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
 - [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related
+- [Computerized educational packages produced statistically significant higher mathematics achievement than traditional teaching in eighth-grade classes in Ma'an](computerized-packages-improve-eighth-grade-math-achievement.md) — related
+- [A network-supported function-based generative activity intervention produced significantly larger 2010 algebra test score gains than traditional instruction in Singapore secondary schools](function-based-generative-intervention-improved-2010-algebra-gains.md) — related

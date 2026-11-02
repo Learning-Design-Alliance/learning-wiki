@@ -66,3 +66,4 @@ Null finding from the multilevel models: expressive vocabulary (WJ-III Picture V
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
 - [Grade 1 vocabulary shows a suppression effect on Grade 2 writing fluency in the multivariate model](vocabulary-suppression-writing-fluency.md) — related
 - [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](writing-fluency-related-writing-quality-beginning-writers.md) — related
+- [Experimental-group students transferred strategy-trained vocabulary to other classroom tasks such as reading comprehension, role plays and written compositions](wm-strategy-vocabulary-transfer-classroom-tasks.md) — related

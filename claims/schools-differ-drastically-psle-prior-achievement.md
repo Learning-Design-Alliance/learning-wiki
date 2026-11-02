@@ -67,3 +67,4 @@ MANCOVA of eighth-grade PSLE measures revealed a significant multivariate effect
 ## Related Claims
 - [Prior math achievement has at most a small effect on learning from Productive Failure, and topic-specific prerequisite knowledge has none](prior-achievement-small-or-no-effect-pf-posttest.md) — related
 - [Students with very different prior math achievement generate similar numbers of representations and solution methods during Productive Failure](prior-achievement-weakly-associated-inventive-production.md) — related
+- [The control and experimental schools did not differ significantly in PSLE entrance scores](no-significant-psle-difference-between-schools.md) — reports the opposite

@@ -48,6 +48,7 @@ The article recommends that speaking teachers use video clips as supportive lear
 - [Videos: SEL Topics](videos-sel_topics.md)
 - [Use multimedia modules with audio-video clips to develop speaking skill in teacher education](multimedia-modules-speaking-skill-teacher-education.md)
 - [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](video-plus-post-viewing-activities-esp.md)
+- [Video-clip techniques: silent viewing, pause-based prediction, and rewind](video-clip-techniques-silent-pause-rewind.md)
 
 ## Examples
 -

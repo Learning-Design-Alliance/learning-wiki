@@ -51,3 +51,4 @@ Moderation analysis testing three emotion regulation indices (ERQ suppression, E
 - [Conditional process analysis shows HF-HRV moderates the mediating role of state anxiety, indicating mechanistic heterogeneity](conditional-process-mechanistic-heterogeneity.md) — related
 - [HF-HRV does not moderate the link between math anxiety and math performance](hf-hrv-does-not-moderate-performance-link.md) — related
 - [For high-HF-HRV math-anxious individuals, underperformance must occur for reasons unrelated to in-the-moment anxiety](high-hf-hrv-underperformance-non-anxiety-mechanism.md) — related
+- [I Control showed no significant effects on student-reported goal-setting abilities (ICGS) or on the ERQ-CA reappraisal and suppression scales](i-control-null-goal-setting-and-reappraisal-effects.md) — related

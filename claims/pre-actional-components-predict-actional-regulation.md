@@ -94,3 +94,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](negative-academic-emotions-sometimes-improve-learning.md) — reports the opposite
 - [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](pbl-game-self-evaluation-presentation-anxiety.md) — related
 - [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related
+- [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related

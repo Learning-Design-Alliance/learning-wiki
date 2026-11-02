@@ -70,3 +70,4 @@ The article's second conclusion reports "a bigger improvement within experiment 
 - [Form two physics students taught through intensive practical activities significantly outperformed students taught by conventional lecture-based methods on a post-test of chosen topics](intensive-practical-work-beats-conventional-physics-teaching.md) — related
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [Boys outperformed girls in chemistry achievement in both the discussion and lecture groups](boys-outperform-girls-both-methods.md) — related
+- [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — reports the opposite

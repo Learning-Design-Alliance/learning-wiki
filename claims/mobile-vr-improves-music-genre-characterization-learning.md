@@ -50,3 +50,4 @@ Evaluation study with two classes of 10-year-old children in the last year of pr
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — related
+- [Using music and musical information in English classes somewhat improved formation of communicative skills relative to traditional methods](music-use-improves-communicative-skills-formation.md) — related

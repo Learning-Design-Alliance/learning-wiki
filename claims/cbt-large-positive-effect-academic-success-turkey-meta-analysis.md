@@ -58,3 +58,4 @@ Meta-analysis of 78 studies (experimental group 2,648 students, control group 2,
 - [Nearly all (97.33%) of the included studies show effect sizes in favor of MIT-based instruction over control-group instruction](mit-effect-direction-mostly-positive.md) — related
 - [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](prior-studies-computer-aided-instruction-more-effective.md) — possibly the same claim (merge candidate)
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
+- [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](reviewed-studies-favor-computer-assisted-math-teaching.md) — related

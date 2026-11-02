@@ -51,3 +51,4 @@ The delayed delayed-post-test in week 12 (11 weeks after the first post-test) wa
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — possibly the same claim (merge candidate)
 - [PBL-taught learners showed significantly higher vocabulary retention on delayed post-tests in all modules except module 3](pbl-improves-efl-vocabulary-retention.md) — related
 - [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related
+- [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related

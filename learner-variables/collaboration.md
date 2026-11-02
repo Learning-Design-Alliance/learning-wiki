@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (92 show a difference, 18 mixed, 7 no difference) · 96 studies (30 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 96 report an effect size · 117 claims rest on one study
+> **Evidence** · 118 claims (93 show a difference, 18 mixed, 7 no difference) · 97 studies (31 causal, 25 review, 12 qualitative, 11 quant-synthesis, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 97 report an effect size · 118 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -159,6 +159,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Intervention group candidates provided more detailed narratives about collaborating with parents while comparison group candidates primarily mentioned classroom teachers](../claims/family-collaboration-project-richer-narratives.md) [+M] — instruction changes it
 - [Intervention group candidates rated maintaining positive relationships and ongoing collaboration significantly higher than comparison peers](../claims/family-collaboration-project-higher-relationship-rubric.md) [+M] — instruction changes it
 - [Teacher candidates completing the Family Collaboration Project scored significantly higher on the joining (collaboration) subscale of the PTRS than comparison peers](../claims/family-collaboration-project-higher-ptrs-joining.md) [+M] — instruction changes it
+- [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](../claims/journal-writing-builds-rapport-and-cooperation.md) [+W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

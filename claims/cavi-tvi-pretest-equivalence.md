@@ -56,3 +56,4 @@ Independent-samples t-test on pre-test scores of the CAVI (n=16) and TVI (n=19) 
 - [The authors attribute CAVI's vocabulary advantage to individualised pacing, instant feedback, low-anxiety interaction and motivating game features](cavi-advantage-attributed-to-feedback-autonomy-motivation.md) — related
 - [Before instruction, the experimental and control groups showed no statistically significant difference in vocabulary knowledge](tmm-study-groups-equivalent-at-pretest.md) — related
 - [Pre-test listening proficiency was equivalent between the online and traditional classroom groups](pre-test-proficiency-equivalent-groups.md) — related
+- [Experimental and control groups showed no statistically significant difference in vocabulary performance before the intervention](wm-strategy-pretest-equivalence-efl.md) — related

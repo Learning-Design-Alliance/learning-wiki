@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (19 for, 11 mixed, 2 against) · 39 studies (15 quant-synthesis, 9 review, 7 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 39 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (19 for, 12 mixed, 2 against) · 40 studies (15 quant-synthesis, 9 review, 8 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 40 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](../claims/behavioral-policies-rewards-sanctions-charter-impacts.md) [~W]
 - [Ghanaian university teachers managing large virtual classes regulated learner behaviour through preventive measures such as setting rules and punitive measures such as muting or removing disruptive students](../claims/large-virtual-class-behaviour-regulation-preventive-punitive.md) [~W]
 - [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](../claims/cbc-fidelity-high-rural-trial.md) [~W]
+- [I Control reduced externalizing and internalizing behavior problems, with significant effects concentrated among students with higher baseline risk](../claims/i-control-reduces-behavior-problems-high-baseline-risk.md) [~W]
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

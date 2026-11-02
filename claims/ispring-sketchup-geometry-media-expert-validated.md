@@ -70,3 +70,4 @@ Material experts' judgement with three validators. Scores of 3.16, 3.04 and 3.64
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [Preliminary study found textbook-only teaching and students whose geometry ability was limited to the visual skill](preliminary-visual-skill-only-finding.md) — related
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
+- [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related

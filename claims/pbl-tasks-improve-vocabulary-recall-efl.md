@@ -58,3 +58,4 @@ Quasi-experimental comparison of immediate posttest scores: experimental group (
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [Teaching phrasal verbs through pictures significantly improves pre-intermediate EFL learners' active application of phrasal verbs in speaking](pictures-improve-active-phrasal-verb-use-speaking.md) — related
 - [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
+- [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related

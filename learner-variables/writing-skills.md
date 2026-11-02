@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (133 show a difference, 37 mixed, 26 no difference) · 107 studies (48 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 37 of 107 report an effect size · 191 claims rest on one study
+> **Evidence** · 202 claims (138 show a difference, 38 mixed, 26 no difference) · 109 studies (50 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 109 report an effect size · 197 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -234,6 +234,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [The fluency gain's cause is unresolved: it may reflect lexical bundles instruction or simply more paragraph writing practice](../claims/lexical-bundles-gain-confound-writing-practice.md) [~W] — instruction changes it
 - [Blended-section students reported somewhat greater confidence in genre-based writing skills, with one third rating their research-genre skills advanced versus one fifth of control students](../claims/blended-genre-skill-confidence-advanced.md) [+M] — instruction changes it
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](../claims/statecraft-x-intervention-outperformed-control-essay.md) [+M] — instruction changes it
+- [SRSD for POW + TREE instruction increases the total number of persuasive elements written by Grade 5–6 rural students compared with business-as-usual control](../claims/srsd-pow-tree-increases-persuasive-elements-rural.md) [+M] — instruction changes it
+- [SRSD for POW + TREE instruction increases the total number of words written by Grade 5–6 rural students compared with control, with smaller effects than for elements](../claims/srsd-pow-tree-increases-words-written-rural.md) [+M] — instruction changes it
+- [SRSD intervention effects on elements and words decrease from posttest to maintenance but remain statistically significant](../claims/srsd-effects-decay-but-maintain.md) [+M] — instruction changes it
+- [SRSD intervention effects on total elements vary by writing ability, favoring nonstruggling over struggling writers at maintenance](../claims/srsd-effects-vary-by-writing-ability.md) [~M] — an instructional effect differs with it
+- [The largest SRSD effects in rural Grade 5–6 classrooms are for writing reasons and explanations, with smaller effects for topic and ending sentences](../claims/srsd-largest-effects-reasons-explanations.md) [+M] — instruction changes it
+- [Thirteen weeks of journal writing improved EFL students' writing fluency more than regular writing instruction alone](../claims/journal-writing-improves-efl-writing-fluency.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

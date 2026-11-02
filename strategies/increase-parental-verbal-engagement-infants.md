@@ -49,6 +49,7 @@ The article proposes that because more child-directed speech both provides word-
 ## Related Strategies
 
 - [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](shared-book-reading-lexical-diversity-intervention.md)
+- [Cost-effective, home-based parent-delivered early stimulation for infants](cost-effective-home-based-parent-infant-stimulation.md)
 
 ## Examples
 -

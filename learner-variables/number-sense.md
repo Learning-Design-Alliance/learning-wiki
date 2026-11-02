@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (95 show a difference, 19 mixed, 15 no difference) · 58 studies (26 associational, 23 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 25 of 58 report an effect size · 125 claims rest on one study
+> **Evidence** · 132 claims (97 show a difference, 19 mixed, 16 no difference) · 60 studies (26 associational, 25 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 26 of 60 report an effect size · 126 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -164,6 +164,9 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M] — instruction changes it
 - [Supplemental Building Blocks Software CAI improves proximal numeracy outcomes in kindergarten children from Title 1 schools](../claims/building-blocks-cai-improves-proximal-numeracy-kindergarten.md) [+M] — instruction changes it
 - [Treatment condition had a significant omnibus effect on children's number sense and place value skills in pre-kindergarten](../claims/mtp-ms-omnibus-number-sense-place-value.md) [+M] — instruction changes it
+- [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](../claims/both-interventions-beat-control-naep-number-line-calculations.md) [+M] — instruction changes it
+- [Kindergarteners did not improve on placing positive integers, possibly because zero was marked in the middle rather than at the edge of the line](../claims/kindergarten-positives-zero-placement-hypothesis.md) [-M] — instruction changes it
+- [Playing a linear board game including negative integers significantly improved first graders' placement of negative integers on empty number lines](../claims/board-game-negatives-first-grade-gains.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

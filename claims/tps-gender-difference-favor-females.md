@@ -60,3 +60,6 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — reports the opposite
 - [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related
+- [No statistically significant interaction between gender and teaching method on eighth-grade mathematics achievement](no-gender-method-interaction-math-achievement.md) — related
+- [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — reports the opposite
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related

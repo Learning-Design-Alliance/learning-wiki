@@ -52,3 +52,6 @@ Analysis of the T-COMP total social competence score in the cluster randomized t
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
+- [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](iy-tcm-baseline-risk-moderation.md) — a narrower finding that bears on this claim
+- [The IY TCM program increased teacher-reported prosocial behavior and overall social competence (d = 0.13 each)](iy-tcm-increased-prosocial-and-social-competence.md) — possibly the same claim (merge candidate)
+- [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related

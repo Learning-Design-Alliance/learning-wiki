@@ -54,3 +54,4 @@ T-test comparing pre-test scores by gender across the whole sample (males n = 12
 - [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [Gender was a statistically significant source of variance in passive-voice post-test achievement](gender-significant-grammar-achievement.md) — related
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — reports the opposite
+- [Male and female groups differed significantly on the pretest before the intervention, with females scoring higher](pretest-gender-difference-females-higher.md) — reports the opposite

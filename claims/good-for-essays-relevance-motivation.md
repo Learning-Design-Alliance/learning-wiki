@@ -71,3 +71,4 @@ Student rating survey of the Good For assignments in N100. The article reports o
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
+- [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](il-biology-engagement-higher.md) — related

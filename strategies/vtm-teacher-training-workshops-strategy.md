@@ -48,6 +48,7 @@ Based on their findings, the authors recommend holding training workshops for te
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
 - [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
 - [Integrate WebQuests into teachers' class planning with teacher training](webquest-class-planning-teacher-training-strategy.md)
+- [Train teachers to prepare and use computerized educational packages and establish supervised Arabic educational websites](teacher-training-computerized-packages-strategy.md)
 
 ## Examples
 -

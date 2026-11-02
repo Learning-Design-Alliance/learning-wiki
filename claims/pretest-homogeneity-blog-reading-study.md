@@ -56,3 +56,8 @@ Pre-test homogeneity check on the Longman TOEFL reading comprehension test (30 q
 - [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](scheffe-gain-pairwise-blog-reading.md) — related
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
+- [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [Posttest scores differed significantly across the four gender-by-instruction subgroups in a one-way ANOVA](anova-four-subgroups-thanking-significant.md) — related
+- [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related
+- [Male and female groups differed significantly on the pretest before the intervention, with females scoring higher](pretest-gender-difference-females-higher.md) — related
+- [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related

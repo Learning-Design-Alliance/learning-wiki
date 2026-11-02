@@ -114,3 +114,4 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — related
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](note-quality-quantity-verbatim-overlap-effects.md) — related
+- [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related

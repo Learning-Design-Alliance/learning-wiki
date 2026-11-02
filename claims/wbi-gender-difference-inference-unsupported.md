@@ -54,3 +54,4 @@ Post-test gender comparison in the same quasi-experiment: males (N=26) M=19.35, 
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — reports the opposite
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — related
+- [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related

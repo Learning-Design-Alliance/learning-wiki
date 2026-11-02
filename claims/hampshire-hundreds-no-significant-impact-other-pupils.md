@@ -47,3 +47,4 @@ Intention-to-treat regression for 1124 non-vulnerable pupils (Table 6b: effect s
 ## Related Claims
 - [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](hampshire-hundreds-no-significant-impact-disadvantaged.md) — related
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
+- [Event incentives significantly improved GCSE Maths attainment for pupils with low prior attainment at Key Stage 2](event-incentives-low-prior-attainment-maths-gain.md) — related

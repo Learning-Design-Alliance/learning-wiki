@@ -54,6 +54,7 @@ The authors recommend adaptive systems incorporate discrepancy prompts tailored 
 - [Adaptive systems should scaffold strategic disengagement as a reflective metacognitive choice rather than penalize it](scaffold-strategic-disengagement.md)
 - [Provide student-adaptive self-explanation prompts that target only example parts the student may not fully understand, rather than prompting at every step](adaptive-selective-self-explanation-prompting.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
+- [Adapt worked-example sessions for high and low prior-knowledge students who did not benefit](adapt-worked-examples-for-high-low-prior-knowledge.md)
 
 ## Examples
 -

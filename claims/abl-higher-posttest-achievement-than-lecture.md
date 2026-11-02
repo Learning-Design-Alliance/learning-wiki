@@ -52,3 +52,4 @@ Pretest-posttest control group experiment; 30 students randomly assigned (15 per
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
 - [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](analogy-strategy-improves-organic-chemistry-achievement.md) — related
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](ecme-posttest-higher-than-lecture.md) — related
+- [Authentic learning activities produce higher 5th-grade social studies achievement than the available program](authentic-learning-higher-achievement-than-available-program.md) — related

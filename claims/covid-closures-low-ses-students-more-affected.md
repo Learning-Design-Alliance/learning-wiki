@@ -106,3 +106,4 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](vulnerability-markers-amplify-girls-learning-loss.md) — a narrower finding that bears on this claim
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — related
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
+- [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](authentic-learning-effective-across-ses-levels.md) — related

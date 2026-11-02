@@ -52,6 +52,7 @@ The article recommends that "every teacher should, at intervals, test all the pu
 
 - [Use mental tests as supplementary evidence of pupils' abilities in dealing with the apparently bright and the apparently stupid](mental-tests-supplementary-evidence-strategy.md)
 - [Detect suspected mental debility in children via a four-part test battery plus medical examination](four-part-detection-battery-mental-weakness.md)
+- [Provide one-to-one guidance, small groups and flexible pacing for low-grade pupils](individual-guidance-small-groups-extra-time.md)
 
 ## Examples
 -

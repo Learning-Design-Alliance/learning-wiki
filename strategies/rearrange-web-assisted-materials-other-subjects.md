@@ -50,6 +50,7 @@ The author recommends that the developed materials be adapted beyond the origina
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
 - [Apply multimedia-supported 7E learning model materials to other science units and to courses with abstract content](multimedia-7e-materials-other-units-strategy.md)
 - [Extend interactive workbook development to other grades and domains and train teachers in its use](extend-interactive-workbook-and-train-teachers.md)
+- [Extend the CBL model to other subjects and study programs, and develop sports-specific systematic physics reference material for the examination phase](cbl-extension-and-sports-physics-reference-strategy.md)
 
 ## Examples
 -

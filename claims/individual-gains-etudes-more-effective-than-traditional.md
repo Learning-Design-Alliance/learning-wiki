@@ -53,3 +53,4 @@ Individual-level analysis (Table 4, Kruskal-Wallis tests, N=12 observations per 
 - [Students entered the Integral Calculus experiment with near-zero pretest scores, indicating weak prerequisite preparation](calculus-students-weak-prerequisite-background.md) — related
 - [The authors report an 18% increase in performance in the experimental group attributed to use of the interaction model](performance-increase-18-percent.md) — related
 - [Pupils in experimental groups showed larger gains in research-skill development levels than control-group pupils, moving to a new level in 80% (successfulness) and 75% (mastery) versus 30% and 32% in the control group](experimental-groups-research-skills-gains-80-percent.md) — related
+- [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related

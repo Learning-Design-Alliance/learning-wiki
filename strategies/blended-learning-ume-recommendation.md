@@ -47,6 +47,7 @@ The review recommends blending online and offline methods to avoid the potential
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Blended Learning](blended_learning.md)
+- [Optimise the mix of classroom instruction with online learning and performance support tools](optimize-mix-classroom-online-performance-support.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Descriptive results from the randomized posttest-only study (Table 2): experimen
 - [In the PBL class all students reached the minimum standard score on statistics outcomes, while fewer than half did in the conventional class](pbl-statistics-mastery-100-percent-vs-control.md) — related
 - [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](make-a-match-higher-posttest-geography-principles.md) — related
 - [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](recycle-materials-practicum-positive-student-feedback.md) — related
+- [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related

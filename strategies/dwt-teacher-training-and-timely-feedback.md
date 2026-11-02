@@ -46,7 +46,8 @@ Based on the finding that DWT-supported problem-based collaborative learning pos
 - [The authors attribute the achievement difference to continuous time-and-space-independent interaction, greater academic engagement, and more active participation in the DWT environment](../claims/dwt-interaction-engagement-explanation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide teachers in-service training on CAS-based CAMI and have them design worksheets and dynamic materials before instruction](inservice-training-and-material-design-for-cami.md)
 
 ## Examples
 -

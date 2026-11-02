@@ -70,3 +70,4 @@ The review reports Edgar, Roberts, and Murphy's 2007 quasi-experimental study in
 - [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — related
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](mtis-no-effect-personal-teaching-efficacy.md) — related
+- [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](journal-writing-builds-rapport-and-cooperation.md) — related

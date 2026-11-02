@@ -48,3 +48,4 @@ Quasi-experimental pre/post control-group study of 98 children aged 6 in Cypriot
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
 - [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](musical-play-intervention-metacognitive-knowledge-interview-gains.md) — related
 - [No intervention effect on directly observed on-task self-regulation in the musical play study](musical-play-intervention-no-on-task-self-regulation-effect.md) — related
+- [A four-week classroom music program (Keys to Success) produced no statistically significant self-reported PSWB benefits in a quasi-experimental study with Year 7 students](keys-to-success-no-significant-pswb-survey-benefits.md) — related

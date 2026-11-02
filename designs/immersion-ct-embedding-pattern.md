@@ -43,6 +43,7 @@ The article contrasts the Infusion approach, in which students are explicitly tr
 ## Related Designs
 
 - [Embedding eight research skills into regular subject lessons through subject-specific task lists](subject-embedded-research-skill-tasks.md)
+- [Four-level embedding of target pedagogies within a course: knowledge, active experience, feedback, and personal impact](four-level-embedded-design-course-pattern.md)
 
 ## Examples
 -

@@ -53,3 +53,5 @@ Descriptive comparison of mean gain scores by group and gender in the same 62-st
 - [Post-treatment gain-score differences were concentrated between male control students and blog-group students, while within-condition gender contrasts were not significant](scheffe-gain-pairwise-blog-reading.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Gender shows no significant difference in reading comprehension achievement between experimental and control groups in the Ekiti quasi-experiment](no-gender-difference-reading-comprehension-ekiti.md) — reports the opposite
+- [Students' reading comprehension post-test scores differed significantly by monthly amount of pages read, favouring the heaviest readers](monthly-pages-read-relates-to-comprehension.md) — related
+- [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — reports the opposite

@@ -59,3 +59,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related
 - [The authors observed higher motivation among learners doing CALL-based tasks than among those doing written-question tasks](call-tasks-higher-observed-motivation.md) — related
 - [Observations suggested pupils were engaged by and enjoyed the summer school, with the interactive poetry approach appearing to motivate writing](discover-summer-school-pupil-engagement-observations.md) — related
+- [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (71 show a difference, 22 mixed, 18 no difference) · 69 studies (28 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 69 report an effect size · 110 claims rest on one study
+> **Evidence** · 112 claims (71 show a difference, 23 mixed, 18 no difference) · 70 studies (29 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 70 report an effect size · 111 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -151,6 +151,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [CCTV produced much larger percentage increases in reading speed (86% for 1.3M, 74% for 1M) than eccentric viewing training (16%, not significant)](../claims/cctv-larger-percentage-reading-speed-increases.md) [+M] — instruction changes it
 - [CCTV provision produced significantly greater improvement in reading speed for 1.3M print than eccentric viewing training in adults with age-related macular degeneration](../claims/cctv-greater-reading-speed-gain-than-evt-amd.md) [+M] — instruction changes it
 - [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [-M] — instruction changes it
+- [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](../claims/initial-fluency-not-consistent-response-predictor.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

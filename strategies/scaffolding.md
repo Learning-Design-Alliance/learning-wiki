@@ -63,6 +63,7 @@ Scaffolding works because it keeps task demands within working memory limits whi
 - [Formative assessment](../patterns/formative-assessment.md) — supplies the ongoing diagnosis that makes scaffolding contingent
 - [Direct instruction](../patterns/direct-instruction.md) — a highly structured, teacher-led form of scaffolding suited to novice learners
 - [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
+- [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the interactive, contingent form of scaffolding during performance
