@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r3`, 1 associational `r1` · `q2` · n=3 teachers
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most of the 15 teachers agreed interleaved practice improves exam scores, suits low- and high-achieving students, and that they would recommend it. [→ Doug Rohrer 2019](#doug-rohrer-2019)

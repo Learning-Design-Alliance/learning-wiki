@@ -22,7 +22,7 @@ These figures describe two things at once: what education research has produced,
 | | |
 |---|---|
 | Claims | 42,921 |
-| Evidence entries | 50,790 |
+| Evidence entries | 50,791 |
 | Distinct studies | 10,348 |
 | Claims resting on one study | 42,343 (99%) |
 | Claims with no coded evidence | 3 |
@@ -44,7 +44,7 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,087 (11%) | 5,890 (57%) | 3,189 (31%) | 182 (2%) |
+| 1,087 (11%) | 5,890 (57%) | 3,188 (31%) | 183 (2%) |
 
 **Studies per claim:** 0: 3, 1: 42,343, 2: 489, 3: 67, 4 or more: 19.
 

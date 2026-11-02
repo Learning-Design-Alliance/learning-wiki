@@ -17,7 +17,7 @@ sources:
 # Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q4` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 associational), `q2`–`q4` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the greatest barrier to implementation is the scarcity of interleaved assignments in textbooks and workbooks, the article recommends practical remedies: "teachers can create interleaved assignments by simply choosing one problem from each of a dozen assignments from their students' textbook." Teachers may also search the Internet for mixed review or spiral review worksheets and use practice tests from high-stakes testing organizations. The authors ultimately hope publishers replace a portion of blocked practice with interleaved practice in revised editions.
