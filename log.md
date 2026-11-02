@@ -12,6 +12,7 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-02
 
+* **Ingest**: [claims/parent-involvement-improves-achievement](claims/parent-involvement-improves-achievement.md) — [The relation between parents' involvement in children's schooling and children's adjustment: A meta-analysis, doi:10.1037/bul0000201]
 * **Ingest**: [claims/phet-understanding-motivation-correlation](claims/phet-understanding-motivation-correlation.md) — Ingested from eric-ej1226323 (Learning Solar System Using PhET Simulation to Improve Students' Understanding and Motivation) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/phet-solar-system-motivation-gain](claims/phet-solar-system-motivation-gain.md) — Ingested from eric-ej1226323 (Learning Solar System Using PhET Simulation to Improve Students' Understanding and Motivation) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/phet-cognitive-domain-c2-gain](claims/phet-cognitive-domain-c2-gain.md) — Ingested from eric-ej1226323 (Learning Solar System Using PhET Simulation to Improve Students' Understanding and Motivation) via eval_harness.py + ingest_extractions.py
