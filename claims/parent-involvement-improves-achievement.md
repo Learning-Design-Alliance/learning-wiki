@@ -8,7 +8,7 @@ generated:
 id: parent-involvement-improves-achievement
 aliases: [parental-involvement-improves-achievement]
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2019
 sources:
   - id: hill-tyson-2009
     resource: "https://doi.org/10.1037/a0015362"
@@ -37,13 +37,22 @@ sources:
     n: 41 studies (urban elementary schoolchildren)
     kind: quant-synthesis
     rigour: "?"
+  - id: barger-et-al-2019
+    resource: "https://doi.org/10.1037/bul0000201"
+    title: "Barger, M. M., Kim, E. M., Kuncel, N. R., & Pomerantz, E. M. (2019). The relation between parents' involvement in children's schooling and children's adjustment: A meta-analysis. *Psychological Bulletin, 145*(9), 855–890. [doi:10.1037/bul0000201](https://doi.org/10.1037/bul0000201)"
+    author: "Barger, M. M., Kim, E. M., Kuncel, N. R., & Pomerantz, E. M."
+    q: 3
+    i: 1
+    n: 448 independent studies (480,830 families)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2015 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 4 studies · 4 quant-synthesis `r?` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2019 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 
@@ -56,6 +65,10 @@ Parental engagement in children's learning — at home and at school — is asso
 `q3 i?` Across 37 K–12 studies (2000–2013), parental involvement is positively linked to achievement, with the strongest associations for general supervision of learning activities, high academic expectations, and parent–child communication about school. [→ Castro et al. 2015](#castro-et-al-2015)
 
 `q3 i2` Across 41 studies of urban elementary-school children, overall parental involvement was associated with academic achievement by roughly 0.7–0.75 SD, and the relationship held across race and gender. [→ Jeynes 2005](#jeynes-2005)
+
+`q3 i1` Across 448 independent studies (480,830 families, preschool to high school), parents' naturally occurring involvement in schooling was weakly and positively correlated with children's achievement (r = .13), engagement (r = .15) and motivation (r = .23), and also with social (r = .12) and emotional adjustment (r = .17) and lower delinquency (r = −.15); in longitudinal studies, mostly with a one- to two-year lag, a small positive association persisted. [→ Barger et al. 2019](#barger-et-al-2019)
+
+`q3 i1` In the same synthesis, school participation, discussion and encouragement, and cognitively stimulating activities (reading together, library and museum trips) were each positively associated with achievement (r = .10, .13 and .16), whereas parents' homework involvement was the one form negatively associated with it (r = −.06 across 108 samples; −.15 in three very large datasets), while it was slightly positively associated with engagement (r = .07); its negative association with academic adjustment appeared in elementary, middle and high school alike. [→ Barger et al. 2019](#barger-et-al-2019)
 
 ## Evidence
 
@@ -82,6 +95,14 @@ Jeynes, W. H. (2005). A meta-analysis of the relation of parental involvement to
 `q3 · meta-analysis of correlational studies (41 studies)` · `i2 · medium effect, ~0.7–0.75 SD` · `n=41 studies (urban elementary schoolchildren)` · `quant-synthesis · r?`
 
 Meta-analysis of 41 studies on parental involvement and academic achievement in urban elementary schoolchildren. Per the abstract (full text not accessible from this sandbox), overall parental involvement was associated with academic outcome variables by roughly 0.7 to 0.75 of a standard deviation unit, and this relationship held for both White and minority children and for both boys and girls. As with the other two studies, the underlying primary literature is predominantly correlational (parents were not randomly assigned to involvement conditions), so the pooled estimate should be read as an association, not a demonstrated causal effect of comparable size.
+
+### Barger et al. 2019
+
+Barger, M. M., Kim, E. M., Kuncel, N. R., & Pomerantz, E. M. (2019). The relation between parents' involvement in children's schooling and children's adjustment: A meta-analysis. *Psychological Bulletin, 145*(9), 855–890. [doi:10.1037/bul0000201](https://doi.org/10.1037/bul0000201)
+
+`q3 · meta-analysis of correlational studies (448 studies, not pre-registered)` · `i1 · small effect, r = .13 to .23 for academic adjustment` · `n=448 independent studies (480,830 families)` · `quant-synthesis · r?`
+
+Most figures were read from the authors' accepted manuscript, which this wiki cannot link; the abstract (PubMed 31305088) confirms 448 studies, 480,830 families, the academic correlations of .13–.23 and the homework–achievement figure it reports (−.15). The main homework estimate (r = −.06 across 108 samples) and the reading of −.15 as Table 7's large-dataset row come from the manuscript and have not been checked against the published version. The synthesis pooled 448 independent data sources (43% of them dissertations) reporting correlations between parents' naturally occurring involvement in schooling (not involvement after an intervention, and not parents' expectations or the warmth or autonomy support of their parenting) and children's adjustment, from preschool to high school, in and outside the United States; correlations were pooled with a random-effects psychometric method and also corrected for measurement unreliability (ρ), and very large national datasets were analysed separately. Observed correlations were small: achievement r = .13 (k = 489, ρ = .16), engagement .15, motivation .23, social adjustment .12, emotional adjustment .17 and delinquency −.15, all with significant heterogeneity. School-based involvement (participation and governance) and home-based involvement had similar associations except for motivation, where home involvement was stronger. Among home forms, discussion and encouragement (achievement r = .13, engagement .25, motivation .27) and cognitive-intellectual involvement such as reading together and library or museum trips (achievement r = .16) were positive, whereas homework involvement (help with homework and arranging a place and time for it) was negatively related to achievement (r = −.06, k = 108; r = −.15 in the three very large datasets analysed separately, the figure the manuscript's abstract reports) and not reliably related to motivation (r = .05). With achievement, engagement and motivation combined as academic adjustment, the homework association was negative in elementary, middle and high school and did not differ significantly by family socioeconomic status; school involvement's association was smaller in high school than in elementary and middle school; and the authors report little variation overall by age, ethnicity or socioeconomic status. The authors stress that "effect" here is a statistical association: the studies are correlational, parents may help more with homework when children are already struggling, and they could not say whether the lasting longitudinal association reflects lasting effects of involvement or its continuity over time. No clear funnel asymmetry was found.
 
 ## Studies bearing on this claim
 
@@ -123,6 +144,8 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 **Correlational base.** Much of the evidence base is correlational, so causal claims about achievement gains require caution: involved parents differ from uninvolved parents in ways that also predict achievement (parental education, household resources, prior achievement). Experimental and quasi-experimental intervention studies — programs that train parents in responsive, structured engagement — provide a stronger but smaller evidence base, with modest positive effects on achievement [~M].
 
 **Open questions.** How digital communication tools change the cost–benefit of school-based involvement, and how involvement effects interact with teacher-side practices such as [assessment for learning](assessment-for-learning-improves-achievement.md), remain under-specified. Whether involvement benefits persist into adolescence, or are largely displaced by academic socialization at that stage, is unresolved.
+
+**Homework involvement across school levels.** Hill & Tyson (2009) found parental homework help negatively related to achievement in middle school, a pattern earlier syntheses had also reported for that age. [Barger et al. 2019](#barger-et-al-2019), with far more samples and research from outside the United States, found the negative association with academic adjustment at similar size in elementary, middle and high school, alongside a small positive association with engagement, and found that other forms of involvement, at home or at school, related positively to achievement, engagement and motivation and also to children's social and emotional adjustment. The authors offer three readings, none of which the correlational data can settle: parents help more when children are already struggling, help that does the work for the child may hinder skill while supporting engagement, or the effect depends on the quality of the help (for example whether it supports autonomy).
 
 ## Learner Variables
 - [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
