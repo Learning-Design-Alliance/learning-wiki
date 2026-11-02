@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r2` · `q2`–`q3` · `i3` large · n=24
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies holding spacing constant across interleaved and blocked conditions found the interleaving benefit persists, and delayed-test studies found no significant interaction between schedule and immediate/delayed testing. [→ Jonathan Firth 2021](#jonathan-firth-2021)
