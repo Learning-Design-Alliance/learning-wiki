@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":42920,
+"claim":42921,
 "design":1993,
 "element":1057,
 "learner-variable":75,
@@ -135518,6 +135518,16 @@
 "path":"claims/extra-cost-of-test-without-strengthening.md",
 "status":"review",
 "title":"In the corrected model, testing imposes an extra working-memory cost that does not strengthen the episode node, unlike consumed resources that do",
+"type":"claim"
+},
+{
+"description":"In one experiment, undergraduates who worked four practice problems of a new mathematics procedure in a single session scored no better a week later than those who worked two (49% vs. 46%), while spreading the same four problems over two sessions did raise scores.",
+"evidence_strength":"weak",
+"id":"extra-massed-math-practice-no-test-benefit",
+"newest_evidence":"2007",
+"path":"claims/extra-massed-math-practice-no-test-benefit.md",
+"status":"review",
+"title":"Doubling the number of same-kind problems worked in one practice session did not raise one-week test scores on a newly learned mathematics procedure",
 "type":"claim"
 },
 {
@@ -602514,6 +602524,7 @@
 "externalizing-preschoolers-comorbid-adhd-risk-subgroup":"externalizing-preschoolers-comorbid-adhd-risk-subgroup",
 "extinction-utensil-differential-mouth-clean":"extinction-utensil-differential-mouth-clean",
 "extra-cost-of-test-without-strengthening":"extra-cost-of-test-without-strengthening",
+"extra-massed-math-practice-no-test-benefit":"extra-massed-math-practice-no-test-benefit",
 "extra-math-instruction-six-children-no-significant-difference":"extra-math-instruction-six-children-no-significant-difference",
 "extra-school-year-no-improvement-traits":"extra-school-year-no-improvement-traits",
 "extra-ten-days-training-no-impact":"extra-ten-days-training-no-impact",

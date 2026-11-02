@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (33 for, 14 mixed, 5 against) · 64 studies (29 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 64 report an effect size · 39 claims rest on one study
+> **Evidence** · 53 claims (33 for, 15 mixed, 5 against) · 65 studies (30 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 14 of 65 report an effect size · 40 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
