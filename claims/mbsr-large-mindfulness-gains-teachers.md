@@ -12,7 +12,7 @@ newest_evidence: 2017
 sources:
   - id: rupprecht-2017
     resource: "https://doi.org/10.12973/eu-jer.6.4.565"
-    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
+    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
     author: "Rupprecht, S., Paulus, P. & Walach, H."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Rupprecht 2017
 
-Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
+Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
 
 `q2 · i?` · `causal · r2`
 

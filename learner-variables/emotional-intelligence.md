@@ -114,7 +114,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](../claims/mit-emotional-posttest-advantage.md) [+M] — instruction changes it
 - [IY TCM improves elementary students' emotional regulation](../claims/iytcm-improves-emotional-regulation.md) [+M] — instruction changes it
 - [Positive Action mitigated the age-related decline in social-emotional and character development skills in both trials and a third small trial](../claims/positive-action-slows-secd-decline.md) [+M] — instruction changes it
-- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](../claims/mbsr-improves-self-regulation-competences.md) [+M] — instruction changes it
+- [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](../claims/iy-tcm-reduced-emotional-dysregulation.md) [+M] — instruction changes it
 
 ## Related Learner Variables

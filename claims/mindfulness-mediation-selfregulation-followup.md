@@ -12,7 +12,7 @@ newest_evidence: 2017
 sources:
   - id: rupprecht-2017
     resource: "https://doi.org/10.12973/eu-jer.6.4.565"
-    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
+    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
     author: "Rupprecht, S., Paulus, P. & Walach, H."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Rupprecht 2017
 
-Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
+Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
 
 `q2 · i?` · `causal · r1`
 
@@ -47,5 +47,5 @@ Two-step mediation analysis (Bühner & Ziegler procedure) regressing follow-up o
 ## Related Claims
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — related
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — possibly the same claim (merge candidate)
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [Mindfulness practice frequency had indirect effects on teacher outcomes through mindfulness gains in both the self-taught and instructor-led arms](practice-frequency-indirect-effects-via-mindfulness.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: ritchey-et-al-2017
     resource: "https://doi.org/10.1177/0731948716682689"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Fifth graders with poor comprehension who received the intervention significantly outperformed controls on ASKIT strategy use (g = 0.724) and QRI Comprehension (g = 0.611), both proximal measures. [→ Ritchey et al. 2017](#ritchey-et-al-2017)
@@ -37,7 +38,7 @@ Kristen D. Ritchey, Kimberly Palombo, Rebecca D. Silverman, and Deborah L. Speec
 
 `q3 · i2` · `causal · r2`
 
-Randomized trial: 46 fifth graders with poor comprehension (TOSREC below 30th percentile) randomly assigned to intervention or no-treatment control. ANCOVA with pretest covariate showed significant group differences favoring intervention, with "the effect size was 0.724" on ASKIT and g = 0.611 on QRI Comprehension, interpreted as moderate.
+Randomized trial: 48 fifth graders with poor comprehension (TOSREC below 30th percentile) randomly assigned to intervention or a control condition the authors call no-treatment; one student left each condition, leaving 46 analysed (23 per condition). Control students continued to receive the school's usual services, so the comparison is business as usual: nine control students (and two intervention students) received supplemental reading intervention. ANCOVA with pretest covariate showed significant group differences favoring intervention, with "the effect size was 0.724" on ASKIT and g = 0.611 on QRI Comprehension, interpreted as moderate.
 
 > "There were significant differences favoring the intervention group for ASKIT; the effect size was 0.724. There were also significant differences favoring the intervention group for QRI Comprehension (g = 0.611)."
 

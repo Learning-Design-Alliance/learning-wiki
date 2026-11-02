@@ -46,6 +46,6 @@ Post-test AVEM engagement results in Table 3 show Cohen's d of -1.52 for willing
 
 ## Related Claims
 - [Qualitative interviews identify wiser engagement, greater self-efficacy, better emotion regulation, and greater resilience as perceived performance changes](qualitative-teacher-performance-changes-mbsr.md) — related
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — related
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — possibly the same claim (merge candidate)

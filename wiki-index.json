@@ -232778,23 +232778,25 @@
 "type":"claim"
 },
 {
-"description":"MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects",
+"description":"In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences",
 "evidence_strength":"moderate",
 "id":"mbsr-improves-self-regulation-competences",
 "newest_evidence":"2017",
 "path":"claims/mbsr-improves-self-regulation-competences.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects",
+"title":"In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences",
 "type":"claim"
 },
 {
-"description":"MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects",
+"description":"In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences",
 "evidence_strength":"moderate",
 "id":"mbsr-improves-teacher-self-regulation-wellbeing",
 "newest_evidence":"2017",
 "path":"claims/mbsr-improves-teacher-self-regulation-wellbeing.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects",
+"title":"In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences",
 "type":"claim"
 },
 {
@@ -298028,6 +298030,7 @@
 "id":"plug-in-proximal-moderate-effects-fifth-grade",
 "newest_evidence":"2017",
 "path":"claims/plug-in-proximal-moderate-effects-fifth-grade.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"A short-term informational-text comprehension intervention produced moderate significant effects on proximal comprehension measures for fifth graders",
 "type":"claim"
@@ -371641,6 +371644,7 @@
 "id":"sss-no-effect-self-regulation-scales",
 "newest_evidence":"2014",
 "path":"claims/sss-no-effect-self-regulation-scales.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control",
 "type":"claim"
@@ -385760,6 +385764,7 @@
 "id":"supported-self-explaining-improves-magnitude-comparison-accuracy",
 "newest_evidence":"2016",
 "path":"claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders",
 "type":"claim"

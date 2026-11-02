@@ -12,7 +12,7 @@ newest_evidence: 2017
 sources:
   - id: rupprecht-2017
     resource: "https://doi.org/10.12973/eu-jer.6.4.565"
-    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
+    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
     author: "Rupprecht, S., Paulus, P. & Walach, H."
     q: 2
     i: "?"
@@ -20,7 +20,7 @@ sources:
     rigour: 1
   - id: rupprecht-2017-2
     resource: "https://doi.org/10.12973/eu-jer.6.4.565"
-    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
+    title: "Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565"
     author: "Rupprecht, S., Paulus, P. & Walach, H."
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Rupprecht 2017
 
-Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
+Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
 
 `q2 · i?` · `causal · r1`
 
@@ -52,7 +52,7 @@ Paired t-tests on the Irritation Scale in the waitlist-controlled teacher sample
 
 ### Rupprecht 2017 (2)
 
-Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
+Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
 
 `q2 · i?` · `causal · r1`
 
@@ -65,7 +65,7 @@ Follow-up assessment (March 2012) took place before mid-term, described as a par
 
 ## Related Claims
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
-- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](mbsr-improves-self-regulation-competences.md) — related
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — possibly the same claim (merge candidate)
+- [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](mbsr-improves-teacher-self-regulation-wellbeing.md) — possibly the same claim (merge candidate)
 - [Mindfulness and meditation interventions supported teacher well-being in 10 of 12 studies, with two studies showing non-significant changes](mindfulness-interventions-support-teacher-wellbeing.md) — a broader claim this one bears on
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related

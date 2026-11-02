@@ -288,9 +288,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Post-test test-anxiety scores did not differ significantly between the relaxation-trained subgroups and the control group](../claims/post-test-experimental-control-difference-nonsignificant.md) [-M] — instruction changes it
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](../claims/relaxation-training-reduces-test-anxiety-third-graders.md) [+M] — instruction changes it
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](../claims/no-test-anxiety-decrease-without-relaxation-training.md) [-M] — instruction changes it
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+M] — instruction changes it
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+W] — instruction changes it
 - [Qualitative interviews identify wiser engagement, greater self-efficacy, better emotion regulation, and greater resilience as perceived performance changes](../claims/qualitative-teacher-performance-changes-mbsr.md) [+W] — learners who differ on it differ in outcomes
-- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](../claims/mbsr-improves-self-regulation-competences.md) [+M] — instruction changes it
+- [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](../claims/sss-reduced-test-anxiety-growth-fifth-grade.md) [+W] — instruction changes it
 
 ## The evidence by question

@@ -48,7 +48,7 @@ Practice logs from 15 of 18 intervention participants over the 5-week course wit
 <!-- merged 2026-11-02 from mbsr-home-practice-compliance-pilot: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Rupprecht 2017
 
-Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teacher. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
+Rupprecht, S., Paulus, P. & Walach, H. (2017). Mind the teachers! The impact of mindfulness training on self-regulation and classroom performance in a sample of German school teachers. European Journal of Educational Research, 6(4), 565-581. https://doi.org/10.12973/eu-jer.6.4.565
 
 `q2 · i?`
 
@@ -67,5 +67,5 @@ Practice logs from 15 of 18 intervention-group teachers over 30 possible practic
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — related
 - [Mindfulness and meditation interventions supported teacher well-being in 10 of 12 studies, with two studies showing non-significant changes](mindfulness-interventions-support-teacher-wellbeing.md) — related
-- [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
+- [In one small non-randomised waitlist-controlled study, MBSR reduced teachers' self-reported strain with large effects, with smaller and mixed effects on wellbeing and self-regulation competences](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
