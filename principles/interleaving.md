@@ -7,8 +7,8 @@ description: "When the goal is to tell apart categories or problem types that re
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-19
+  by: "process:article-ingest"
+  at: 2026-11-02
 sources:
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
@@ -26,6 +26,10 @@ sources:
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
     title: "Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the enemy of induction? *Psychological Science, 19*(6), 585–592"
     author: "Kornell, N., & Bjork, R. A"
+  - id: taylor-rohrer-2010
+    resource: "https://doi.org/10.1002/acp.1598"
+    title: "Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848"
+    author: "Taylor, K., & Rohrer, D"
   - id: firth-rivers-boyle-2021
     resource: "https://doi.org/10.1002/rev3.3266"
     title: "Firth, J., Rivers, I., & Boyle, J. (2021). A systematic review of interleaving as a concept learning strategy. *Review of Education*"
@@ -47,7 +51,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 33 studies (16 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 17 of 33 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 34 studies (17 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 18 of 34 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +127,7 @@ These rows are proposals, untested with learners as diagnostics. A check is itse
 - [Interleaving effects are larger in pure university student samples](../claims/interleaving-larger-in-university-student-samples.md) [~M]: the effect sizes above may overstate the benefit for other learners.
 - [Spaced and interleaved homework practice improves learning and retention](../claims/spaced-interleaved-homework-practice.md) [+W]: a practice brief, not a new study; it carries the idea into homework design.
 - Rohrer, Dedrick & Stershic (2015), the one classroom experiment in the wiki: 126 seventh-graders practised graph and slope problems for about three months, each student getting some types interleaved and some blocked, then took an unannounced test of new problems. [Interleaved practice produced higher test scores](../claims/interleaved-practice-higher-math-test-scores.md) [+M] (partial η² = .165); [d = 0.42 at 1 day](../claims/interleaved-benefit-one-day-delay-d042.md) [+M] and [d = 0.79 at 30 days](../claims/interleaving-benefit-persists-thirty-days.md) [+M], with the schedule-by-delay interaction not significant (p = .09), so a growing benefit is suggested, not shown; [by problem type](../claims/interleaving-benefit-by-problem-type-and-delay.md) [~M], the slope-problem effect at 1 day (d = 0.43) was not significant. Problems were mixed with reviews of earlier types, so spacing is not separated here.
+- Taylor & Rohrer (2010), a randomised experiment with 24 fourth-graders that held spacing equal (filler tasks kept the gap between same-kind problems the same under both schedules): interleaved practice of four kinds of prism problem more than doubled next-day test scores (77% vs. 38%, d = 1.21) while lowering practice accuracy, and blocking raised the errors of using another kind's formula (46% vs. 10%) without changing other errors. Recorded on [Interleaving improves discrimination](../claims/interleaving-improves-discrimination.md) [+S] and [The interleaving benefit is not caused by spacing](../claims/interleaving-not-spacing-persists-over-delay.md) [+W]; a one-day delay and a small sample.
 - Firth, Rivers & Boyle (2021), a systematic review of 26 studies with a meta-analysis of 17: interleaving improved [classification of new examples](../claims/interleaving-transfer-benefit-meta-analysis.md) [+M] (effects up to 0.66) and [of studied examples](../claims/interleaving-memory-benefit-meta-analysis.md) [+M] (up to g = 0.65), reported as maxima, not pooled means; the benefit [persists when spacing is held constant and at delays up to ten days](../claims/interleaving-not-spacing-persists-over-delay.md) [+W]; it is [largest where differences are subtle](../claims/interleaving-similarity-boundary-condition.md) [~M] and [weaker or reversed where a clear verbal rule defines each kind](../claims/interleaving-rule-based-learning-boundary.md) [~W]; and [no included study used high-school learners](../claims/interleaving-literature-lab-undergraduate-dominance.md) [~W].
 - Birnbaum, Kornell, Bjork & Bjork (2013), experiments with undergraduates and online adults learning bird and butterfly species: [interleaving beat blocking only when items were contiguous](../claims/spacing-interleaving-subadditive-interaction.md) [~M]; [unrelated questions placed between interleaved items impaired learning](../claims/interrupting-juxtaposition-impairs-inductive-learning.md) [~M]; [with order held interleaved, a longer lag between same-kind items helped](../claims/larger-spacing-better-interleaved-induction.md) [+M] (d = 0.75); and [about two thirds judged blocking more effective](../claims/metacognitive-illusion-blocking-interleaving.md) [~M]. Together these make juxtaposition of kinds, not spacing alone, the working part, and they are why step 3 keeps mixed items back to back.
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~W]: Donoghue & Hattie (2021), with negative effects for interleaved practice in the high-ability group; only 6 studies of high-ability students across all ten techniques, so this is a caution, not a finding about interleaving alone.
@@ -198,6 +203,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. *Journal of Educational Psychology, 107*(3), 900–908. [doi:10.1037/edu0000001](https://doi.org/10.1037/edu0000001)
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
 - Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the enemy of induction? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
+- Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)
 - Firth, J., Rivers, I., & Boyle, J. (2021). A systematic review of interleaving as a concept learning strategy. *Review of Education*. [doi:10.1002/rev3.3266](https://doi.org/10.1002/rev3.3266)
 - Birnbaum, M. S., Kornell, N., Bjork, E. L., & Bjork, R. A. (2013). Why interleaving enhances inductive learning: The roles of discrimination and retrieval. *Memory & Cognition, 41*, 392–402. [doi:10.3758/s13421-012-0272-7](https://doi.org/10.3758/s13421-012-0272-7)
 - Donoghue, G. M., & Hattie, J. A. C. (2021). A meta-analysis of ten learning techniques. *Frontiers in Education, 6*, 581216. [doi:10.3389/feduc.2021.581216](https://doi.org/10.3389/feduc.2021.581216)

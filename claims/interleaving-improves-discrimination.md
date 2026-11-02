@@ -3,8 +3,8 @@ type: claim
 title: Interleaving Improves Discrimination
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: "process:article-ingest"
+  at: 2026-11-02
 id: interleaving-improves-discrimination
 evidence_strength: unrated
 newest_evidence: 2019
@@ -25,6 +25,15 @@ sources:
     i: "?"
     kind: causal
     rigour: "?"
+  - id: taylor-rohrer-2010
+    resource: "https://doi.org/10.1002/acp.1598"
+    title: "Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)"
+    author: "Taylor, K., & Rohrer, D."
+    q: 3
+    i: 3
+    n: 24
+    kind: causal
+    rigour: 1
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
     title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
@@ -38,7 +47,7 @@ sources:
 # Interleaving Improves Discrimination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Evidence** · 4 studies · 3 causal `r1`, 1 quant-synthesis `r?` · `q3`–`q4` · `i3` large · n=24
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 Interleaving — mixing different problem or category types within a practice sequence rather than blocking them — improves learners' ability to discriminate between confusable concepts and select the appropriate strategy.
@@ -48,6 +57,10 @@ Interleaving — mixing different problem or category types within a practice se
 `q3 i?` Learners who studied paintings by different artists interleaved were better at classifying *new* paintings by those artists than learners who studied each artist in a block — and the majority believed blocking had served them better. [→ Kornell & Bjork 2008](#kornell-bjork-2008)
 
 `q3 i?` Mathematics practice shuffled across problem types produced far better delayed test performance than the same problems practised in blocks, despite worse performance during practice itself. [→ Rohrer & Taylor 2007](#rohrer-taylor-2007)
+
+`q3 i3` With spacing held equal across conditions, fourth-graders who practised four kinds of prism problems interleaved scored 77% on a next-day test against 38% after blocked practice (d = 1.21), although interleaving lowered accuracy during practice (79% vs. 98% on full problems, d = 1.20). [→ Taylor & Rohrer 2010](#taylor-rohrer-2010)
+
+`q3 i?` In the same study, blocked practice raised errors in which the child used the formula for a different kind of problem (46% vs. 10% of test problems) but not errors with formulas never taught (15% vs. 13%); when the test supplied every formula, the groups did not differ reliably (100% vs. 90%). [→ Taylor & Rohrer 2010](#taylor-rohrer-2010)
 
 `q4 i?` Meta-analysis found a reliable overall interleaving benefit that depends on the similarity of the categories being learned: interleaving helps most where categories are confusable, and can fail where they are not. [→ Brunmair & Richter 2019](#brunmair-richter-2019)
 
@@ -68,6 +81,14 @@ Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves 
 `q3` · `i? · no source text available to check; the entry prints no effect size` · `causal · r?`
 
 Students practised mathematics problems of several types either blocked by type or shuffled. Blocked practice produced better accuracy during practice and much worse accuracy on a delayed test. The study is the clearest demonstration that practice-time performance and retention can move in opposite directions on the same manipulation.
+
+### Taylor & Rohrer 2010
+
+Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)
+
+`q3 · randomised experiment, not pre-registered` · `i3 · large effect, d = 1.21 on the next-day test` · `n=24` · `causal · r1`
+
+Twenty-four fourth-graders (aged 10–11) at an elementary school in Florida were randomly assigned to interleaved or blocked practice of four kinds of problem (the number of faces, corners, edges or angles of a prism, given its number of base sides). Both groups saw the same tutorial, worked examples and practice problems; the blocked group had filler tasks between problems so that the gap between two problems of the same kind was the same in both conditions, which isolates interleaving from [spacing](../principles/spaced-learning.md). Interleaving lowered accuracy during practice (68% vs. 99% on the partial problems, d = 2.02; 79% vs. 98% on full problems, d = 1.20) but raised accuracy on a test of new problems one day later (77% vs. 38%, t(22) = 2.96, d = 1.21; schedule-by-phase interaction F(1, 22) = 29.33, partial η² = .57). Almost every test error either used another taught formula (a discrimination error) or one never taught; blocking raised discrimination errors (46% vs. 10%) and left the others unchanged (15% vs. 13%; interaction F(1, 22) = 5.70, partial η² = .21). A second test that printed all four formulas showed only a small, unreliable difference (100% vs. 90%, t(22) = 1.19), which the authors note may reflect a ceiling. The authors state the limits themselves: a one-day delay, a blocked group near ceiling during practice, problem kinds named in the problem wording, and a single set of tasks; group sizes are not printed (24 children in all).
 
 ### Brunmair & Richter 2019
 

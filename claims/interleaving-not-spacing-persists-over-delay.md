@@ -5,11 +5,10 @@ description: The interleaving benefit is not caused by spacing, and the benefit 
 id: interleaving-not-spacing-persists-over-delay
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-13
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-20
 sources:
   - id: jonathan-firth-2021
     resource: "https://doi.org/10.1002/rev3.3266"
@@ -19,16 +18,27 @@ sources:
     i: "?"
     kind: quant-synthesis
     rigour: 2
+  - id: taylor-rohrer-2010
+    resource: "https://doi.org/10.1002/acp.1598"
+    title: "Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)"
+    author: "Taylor, K., & Rohrer, D."
+    q: 3
+    i: 3
+    n: 24
+    kind: causal
+    rigour: 1
 ---
 
 # The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r2` · `q2`–`q3` · `i3` large · n=24
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies holding spacing constant across interleaved and blocked conditions found the interleaving benefit persists, and delayed-test studies found no significant interaction between schedule and immediate/delayed testing. [→ Jonathan Firth 2021](#jonathan-firth-2021)
+
+`q3 i3` In a randomised experiment that held the gap between same-kind problems equal (filler tasks in the blocked condition), interleaved mathematics practice more than doubled fourth-graders' scores on a next-day test of new problems (77% vs. 38%, d = 1.21). [→ Taylor & Rohrer 2010](#taylor-rohrer-2010)
 
 ## Evidence
 
@@ -41,6 +51,14 @@ Jonathan Firth, Ian Rivers and James Boyle. (2021). A systematic review of inter
 Narrative synthesis of seven studies with longer retention intervals (24 hours to 10 days); Zulkiply (2013) and the Carvalho and Goldstone studies directly compared immediate versus delayed retention. The review concludes interleaving "is not an artefact of the spacing effect" and its advantages "can persist across educationally relevant timescales".
 
 > "While performance was (unsurprisingly) somewhat worse after a delay, all three of these studies found no significant interactions between interleaving and an immediate/delayed condition."
+
+### Taylor & Rohrer 2010
+
+Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)
+
+`q3 · randomised experiment, not pre-registered` · `i3 · large effect, d = 1.21` · `n=24` · `causal · r1`
+
+Twenty-four fourth-graders (aged 10–11) were randomly assigned to interleaved or blocked practice of four kinds of prism problem in one session. The authors' aim was to remove the confound in earlier interleaving studies, including their own, where interleaved practice was also spaced and blocked practice massed: the blocked group did a filler task between problems so that same-kind problems were separated by the same time (on average 30 seconds in the first phase, 75 seconds in the second) under both schedules. On a test of new problems one day later the interleaved group scored 77% and the blocked group 38% (t(22) = 2.96, p < .01, d = 1.21), while during practice the blocked group was more accurate. The delay was one day only, the sample was small, and group sizes are not printed, so this entry bears on the first half of the claim (not spacing), not on longer delays.
 
 ## Discussion
 
