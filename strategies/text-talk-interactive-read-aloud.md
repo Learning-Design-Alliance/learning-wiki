@@ -59,9 +59,11 @@ Text Talk converts a passive listening activity into an active, dialogic one: ch
 6. **Revisit words across the week** in new contexts to build the multiple encounters vocabulary acquisition requires.
 
 ## Related Strategies
+
 - Dialogic Reading — the closest sibling protocol; differs in picture use, prompt structure, and typical age range
 - Robust Vocabulary Instruction — the companion word-learning routine from the same research program
 - Reciprocal Teaching — extends interactive comprehension questioning to independent readers
+- [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
 
 ## Examples
 - **Text Talk research program** — Beck & McKeown's studies with kindergarten and first-grade classrooms showed substantial gains in vocabulary and story comprehension over a year of implementation.

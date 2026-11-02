@@ -54,3 +54,4 @@ Control group of 20 students at GJSS Makera received normal reading comprehensio
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related
 - [Skill-based teaching alone produced no statistically significant pre-to-post gain in reading comprehension in the control group](skill-based-teaching-no-significant-gain.md) — possibly the same claim (merge candidate)
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — possibly the same claim (merge candidate)
+- [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related

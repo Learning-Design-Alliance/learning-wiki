@@ -53,3 +53,4 @@ Paired t-test for the 30-student experimental group taught with Layered Curricul
 - [Experimental group students significantly outperformed control group students on the post-test of problem solving skills](layered-curriculum-posttest-group-difference.md) — related
 - [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — related
 - [Students performing Layered Curriculum activities encountered problems particularly in the B and A layers, mainly in organizing and accessing information](layered-curriculum-problems-b-a-layers.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related

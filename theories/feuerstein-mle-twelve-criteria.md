@@ -50,6 +50,7 @@ Feuerstein's Mediated Learning Experience (MLE) theory explains differential cog
 - [Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool](../strategies/mle-framework-self-evaluation-use.md)
 - [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
+- [Mediate cognitive strategies by encouraging systematic, reflective problem-solving behaviour during one-to-one mediation](../strategies/mediate-reflective-systematic-problem-solving-strategies.md)
 
 ## Key Sources
 - Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202

@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest control group study; 38 seventh graders (18 
 - [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [An educational programme based on independent activities produced significantly higher post-test grades in pedagogical subjects than classic methods for 11th-grade pedagogical-profile students](independent-activities-programme-higher-post-test-grades.md) — related
+- [PBL produced better social science learning outcomes than Direct Instruction in fourth-grade elementary students](pbl-beats-direct-instruction-social-science-elementary.md) — related

@@ -53,6 +53,7 @@ The report's second use case shows Indian Prairie School District establishing a
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 - [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 - [Multi-source intensive case study followed by a stakeholder conference](intensive-case-study-conference-procedure.md)
+- [Establish an ICT Resource Centre under each district's School Management Board with production, research-assessment and technical sections](ict-resource-centre-three-sections.md)
 
 ## Examples
 -

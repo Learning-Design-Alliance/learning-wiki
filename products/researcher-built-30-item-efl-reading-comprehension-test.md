@@ -26,7 +26,8 @@ A 30-item multiple-choice English reading-comprehension achievement test develop
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](../claims/emindmap-improves-reading-comprehension-jordan-grade9.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
 
 ## Key Sources
 - Mohaidat, M. M. T. (2018). The Impact of Electronic Mind Maps on Students' Reading Comprehension. English Language Teaching, 11(4). https://doi.org/10.5539/elt.v11n4p32

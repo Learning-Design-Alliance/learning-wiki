@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: qasem-viswanathappa-2016
     resource: "https://doi.org/10.30935/cedtech/6176"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within both the experimental and control groups, posttest scores were significantly higher than pretest scores on TK, TPK, TCK, and TPACK. [→ Qasem & Viswanathappa 2016](#qasem-viswanathappa-2016)
@@ -53,3 +54,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
 - [Knowledge scores increased significantly from pretest to immediate posttest in both instruction-order groups](dramatization-pretest-posttest-gain-both-groups.md) — related
+- [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related

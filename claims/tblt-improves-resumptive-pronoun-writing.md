@@ -66,3 +66,4 @@ Paired samples t test for the TBG reported in Table 5: mean paired difference -4
 ## Related Claims
 - [Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](blended-learning-improves-resumptive-pronoun-writing.md) — related
 - [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](tblt-more-effective-than-blended-learning-for-rps.md) — related
+- [The experimental group's grammar scores rose significantly from pretest to posttest under TBLT](tblt-within-group-grammar-gain.md) — related

@@ -48,6 +48,7 @@ A lesson/unit-level instructional pattern for teaching critical appraisal of cli
 ## Related Designs
 
 - [Teacher's guide structure for reciprocal-teaching lessons](reciprocal-teaching-teachers-guide-structure.md)
+- [Cyclic model of computer modeling stages culminating in computing experiment](cyclic-computer-modeling-stages.md)
 
 ## Examples
 -

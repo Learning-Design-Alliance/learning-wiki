@@ -61602,5 +61602,293 @@
  "technology-tool\tAssessmake21 digital self-assessment tool\tnot stated": {
   "label": "Assessmake21 digital self-assessment vs unspecified comparison",
   "treatment_is_a": true
+ },
+ "active-learning\tOCW-integrated flipped classroom with collaborative group learning\tOCW-integrated conventional classroom with individual self-study": {
+  "label": "flipped collaborative learning vs conventional individual self-study",
+  "treatment_is_a": true
+ },
+ "active-learning\tOCW-integrated flipped classroom with collaborative learning\tOCW-integrated conventional classroom with self-study and assignments": {
+  "label": "flipped collaborative learning vs conventional individual self-study",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL\ttraditional lecture": {
+  "label": "POGIL vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL method\ttraditional lecture approach": {
+  "label": "POGIL vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL method\ttraditional lecture method": {
+  "label": "POGIL vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tProcess-Oriented Guided-Inquiry Learning (POGIL)\ttraditional lecture": {
+  "label": "POGIL vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\ta week learning about and discussing discussions\tno week devoted to learning about and discussing discussions": {
+  "label": "discussion-focused week vs no discussion-focused week",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with collaborative learning and real-time instructor/TA interaction\tconventional classroom with individual self-study and biweekly reviews/tests": {
+  "label": "flipped collaborative learning vs conventional individual self-study",
+  "treatment_is_a": true
+ },
+ "active-learning\tone week learning about and discussing discussions\tno discussion-focused week": {
+  "label": "discussion-focused week vs no discussion-focused week",
+  "treatment_is_a": true
+ },
+ "active-learning\tone week learning about and discussing discussions\tno week devoted to learning about discussions": {
+  "label": "discussion-focused week vs no discussion-focused week",
+  "treatment_is_a": true
+ },
+ "active-learning\treform-based instructional method\ttraditional expository method": {
+  "label": "reform-based instruction vs traditional expository instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-assistance collaborative learning\ttraditional teaching": {
+  "label": "teacher-assisted collaborative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-hour prosodic pronunciation course with reading-aloud drills\tno extra pronunciation intervention": {
+  "label": "explicit pronunciation instruction vs no extra pronunciation intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEDIT Strategy explicit instruction\tnon-intervention group": {
+  "label": "EDIT strategy instruction vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEDIT Strategy instruction\tnon-intervention control": {
+  "label": "EDIT strategy instruction vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEDIT Strategy instruction\tnon-intervention group": {
+  "label": "EDIT strategy instruction vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTIPS professional development\twaitlist business-as-usual": {
+  "label": "TIPS professional development vs waitlist business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTIPS professional development with workshop and coached meetings\twaitlist business-as-usual": {
+  "label": "TIPS professional development vs waitlist business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive strategy training: flashcards and repetition\tmemory strategy training: keyword and semantic map": {
+  "label": "cognitive strategy training vs memory strategy training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlexical bundles instruction\tconventional grammar-translation instruction": {
+  "label": "lexical bundles instruction vs conventional grammar-translation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlexical bundles instruction\tconventional grammar-translation instruction without lexical-bundles instruction": {
+  "label": "lexical bundles instruction vs conventional grammar-translation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlexical bundles instruction\texperimental group pretest": {
+  "label": "lexical bundles instruction vs no lexical-bundles instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlexical bundles instruction in multiple contexts\tplacebo/conventional grammar-translation instruction": {
+  "label": "lexical bundles instruction vs conventional grammar-translation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmemory strategy training: keyword and semantic map\tcognitive strategy training: flashcards and repetition": {
+  "label": "cognitive strategy training vs memory strategy training",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tteacher training program based on the structural-functional model\tcontrol group without the implemented training program": {
+  "label": "structural-functional teacher training vs no implemented training",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcollaborative learning plus learner self-assessment\ttraditional teaching": {
+  "label": "collaborative learning plus learner self-assessment vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot!, Who Wants To Be A Millionaire?, and Codecademy\ttraditional learning approach": {
+  "label": "gamified learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "gamification\tNumberShire Level 1 Gaming Intervention\tcontrol condition": {
+  "label": "gamified learning vs non-gamified control",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified Python course using Kahoot!, WWTBAM and Codecademy\ttraditional Python course": {
+  "label": "gamified learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified Python course using Kahoot!, Who Wants To Be A Millionaire?, and Codecademy\ttraditional Python course activities": {
+  "label": "gamified learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified programming course\ttraditional programming course": {
+  "label": "gamified learning vs traditional learning",
+  "treatment_is_a": true
+ },
+ "gamification\tindividual Kahoot! competition\tteam-based WWTBAM competition": {
+  "label": "individual competition vs team-based competition",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry learning\tconventional teaching": {
+  "label": "guided inquiry learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry learning among impulsive students\tconventional teaching among impulsive students": {
+  "label": "guided inquiry learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry learning among reflective students\tconventional teaching among reflective students": {
+  "label": "guided inquiry learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry learning for impulsive students\tconventional teaching for impulsive students": {
+  "label": "guided inquiry learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry learning for reflective students\tconventional teaching for reflective students": {
+  "label": "guided inquiry learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tMathematics Mastery programme\tbusiness as usual": {
+  "label": "mastery learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tAuthoritative IPCC videos\tComedic videos": {
+  "label": "Authoritative/scientific videos vs comedic videos",
+  "treatment_is_a": true
+ },
+ "media-design\tComedy videos, post-intervention\tComedy group, pre-intervention": {
+  "label": "Post-intervention vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "media-design\tIPCC authoritative scientific videos\tcomedic news clips": {
+  "label": "Authoritative/scientific videos vs comedic videos",
+  "treatment_is_a": true
+ },
+ "media-design\tIPCC authoritative videos\tComedy and Control videos/no-video groups": {
+  "label": "Authoritative IPCC videos vs comedic/control/no-video groups",
+  "treatment_is_a": true
+ },
+ "media-design\tIPCC authoritative videos\tcomedic news videos": {
+  "label": "Authoritative/scientific videos vs comedic videos",
+  "treatment_is_a": true
+ },
+ "media-design\tIPCC videos, post-intervention\tIPCC group, pre-intervention": {
+  "label": "Post-intervention vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "media-design\tNo-video control, post-intervention\tControl group, pre-intervention": {
+  "label": "Post-intervention vs pre-intervention",
+  "treatment_is_a": true
+ },
+ "media-design\tPhrasal verbs taught with pictures\tSame phrasal verbs taught without pictures": {
+  "label": "Picture-supported teaching vs picture-free teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tassigned to picture-teaching group\tassigned to non-picture-teaching group": {
+  "label": "Picture-supported teaching vs picture-free teaching",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual video with simultaneous listening and following written scripts\tconventional text-based vocabulary teaching with teacher reading": {
+  "label": "Audiovisual video with simultaneous script following vs conventional text-based teaching with teacher reading",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual video with simultaneous written-script following\tconventional text-based vocabulary teaching with teacher reading": {
+  "label": "Audiovisual video with simultaneous script following vs conventional text-based teaching with teacher reading",
+  "treatment_is_a": true
+ },
+ "media-design\tauthoritative IPCC videos\tcomedic climate-change videos": {
+  "label": "Authoritative/scientific videos vs comedic videos",
+  "treatment_is_a": true
+ },
+ "media-design\tauthoritative IPCC videos\tcomedic videos": {
+  "label": "Authoritative/scientific videos vs comedic videos",
+  "treatment_is_a": true
+ },
+ "media-design\tcomputer-based audio gloss\tno gloss": {
+  "label": "Computer-based audio gloss vs no gloss",
+  "treatment_is_a": true
+ },
+ "media-design\tcomputer-based extended audio gloss\tno gloss": {
+  "label": "Computer-based extended audio gloss vs no gloss",
+  "treatment_is_a": true
+ },
+ "media-design\tpaper-based L2 marginal gloss\tno gloss": {
+  "label": "Paper-based L2 marginal gloss vs no gloss",
+  "treatment_is_a": true
+ },
+ "media-design\tphrasal verbs taught with pictures\tsame phrasal verbs taught without pictures": {
+  "label": "Picture-supported teaching vs picture-free teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial stories\tnormal teaching method": {
+  "label": "Pictorial-story teaching vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tteaching phrasal verbs through pictures\tteaching the same phrasal verbs without pictures": {
+  "label": "Picture-supported teaching vs picture-free teaching",
+  "treatment_is_a": true
+ },
+ "practice-amount\t10 extra days of WM training\tno extra training": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore student practice opportunities in NS1\tfewer student practice opportunities in NS1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tFour Noble Truths method with metacognitive techniques\ttraditional teaching method": {
+  "label": "Metacognitive prompts vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMock IELTS test every session\tConventional IELTS instruction and practice": {
+  "label": "Repeated mock tests vs conventional IELTS instruction and practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tmock IELTS tests every session\tconventional IELTS instruction and task practice": {
+  "label": "Repeated mock tests vs conventional IELTS instruction and practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tMLE intervention\texperimental-group pretest baseline": {
+  "label": "MLE intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tMLE intervention\tno MLE intervention": {
+  "label": "Scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontrol-group posttest\tcontrol-group pretest baseline": {
+  "label": "Posttest vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\te-learning environment with motivational scaffolding\te-learning environment without motivational scaffolding": {
+  "label": "Motivational scaffolding vs no motivational scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\te-learning environment with motivational scaffolding\te-learning environment without scaffolding": {
+  "label": "Motivational scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tone-to-one Feuerstein mediated learning experience\tno mediated intervention": {
+  "label": "Mediated learning experience vs no mediated intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tPowerPoint plus web-based multimedia virtual simulation\tPowerPoint without web-based virtual simulation": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tPowerPoint with web-based multimedia virtual simulation\tPowerPoint without web-based multimedia virtual simulation": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tPowerPoint with web-based multimedia virtual simulation\tPowerPoint without web-based virtual simulation": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tPowerPoint with web-based virtual simulation\tPowerPoint without web-based virtual simulation": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
  }
 }

@@ -104,3 +104,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — related
 - [Students interviewed after jumping task based on CPS lessons reported enthusiasm and found the problems challenging](interview-positive-response-jumping-task-cps.md) — related
+- [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related
+- [The authors interpret web-based virtual simulation as shifting the pilgrimage lesson from teacher-centred to student-centred learning consistent with constructivist learning theory](virtual-simulation-supports-student-centred-learning.md) — related

@@ -66,3 +66,4 @@ The review states that the Guo et al. (2018) and Nie et al. (2022) RCTs showed b
 - [Only one identified study found improved visuospatial working memory after music training](music-training-visuospatial-working-memory-single-study.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
 - [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
+- [Visuo-spatial WM measures (Span board forward and back) showed the largest improvements after training, while verbal measures improved less](visuo-spatial-wm-measures-largest-training-gains.md) — reports the opposite

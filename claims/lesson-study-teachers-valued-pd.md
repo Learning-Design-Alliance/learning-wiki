@@ -68,3 +68,4 @@ Self-reported teacher accounts from the process evaluation. The report notes cas
 - [Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts](personalized-practice-focused-collaboration-observations-impactful.md) — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
+- [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related

@@ -58,8 +58,10 @@ Three Act Tasks operationalize the sequencing insight that learners learn more f
 4. **Sequel (optional).** Pose a follow-up question in the same context to consolidate and extend ([Application](../elements/application.md) of the just-built model).
 
 ## Related Strategies
+
 - [Estimation 180-style warm-ups](estimation-warm-ups.md) — daily low-stakes estimation routines that build the number sense Three Act Tasks draw on *(page not yet written)*
 - Productive failure designs — structured struggle before canonical instruction, sharing the same time-for-telling logic
+- [Open-ended VBA-based learning sequence: pose questions from a given picture, propose solutions, then create new props or games](open-ended-vba-media-creation-sequence.md)
 
 ## Examples
 - **[Dan Meyer's Three Act Task library](https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/)** — the original collection, including "Dueling Discounts" and "Sugar Packets," with sequels and Act 2 data files.

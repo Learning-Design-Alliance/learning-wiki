@@ -69,3 +69,5 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [Neither NGRT secondary outcome (sentence completion or passage comprehension) showed a statistically significant effect of Rhythm for Reading](rhythm-for-reading-secondary-outcomes-null.md) — related
 - [The intervention appeared more effective for FSM pupils, but the FSM interaction was not statistically significant](srsd-fsm-subgroup-larger-effect-not-significant.md) — related
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
+- [Accelerated Reader shows a larger, though less secure, effect for FSM-eligible pupils (+0.38) and does not widen the poverty gap](ar-fsm-pupils-effect.md) — related
+- [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related

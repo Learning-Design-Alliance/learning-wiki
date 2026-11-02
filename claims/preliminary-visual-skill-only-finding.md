@@ -66,3 +66,4 @@ Observation and interviews in the preliminary stage. Illustrations were merely d
 ## Related Claims
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [The Ispring Suite 8 geometry media with Google SketchUp 3D effects was judged valid by media and material experts](ispring-sketchup-geometry-media-expert-validated.md) — related
+- [Students' creativity in creating interactive learning media combines mastery of school-level mathematics with the ability to apply Visual Basic Application for Excel](media-creativity-combines-math-mastery-and-vba-skill.md) — related

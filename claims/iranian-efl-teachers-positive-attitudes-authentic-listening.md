@@ -53,3 +53,4 @@ Teacher questionnaire (30 teachers) on attitudes toward authentic listening mate
 - [Teachers in the study favor exposing learners to authentic listening materials earlier than expert consensus recommends](teachers-favor-early-exposure-authentic-materials.md) — related
 - [Teachers most prefer taped short stories and novels, cartoons, TV, and songs as authentic listening material types](preferred-authentic-listening-material-types.md) — related
 - [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](teacher-criteria-selecting-authentic-listening-materials.md) — related
+- [Advanced EFL learners reported positive perceptions of learning formulaic sequences through TV series, valuing visual context](positive-learner-perceptions-fs-tv-series.md) — related

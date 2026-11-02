@@ -74,3 +74,4 @@ Descriptive survey results from the same eight-participant pilot: understanding,
 - [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](pilot-students-perceive-rag-responses-course-aligned.md) — related
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)
+- [Despite implementation problems, teaching assistants and students rated Units of Sound positively, with 81% of surveyed students saying it helped them read better](units-of-sound-positive-perceptions.md) — related

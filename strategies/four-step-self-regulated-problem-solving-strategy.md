@@ -53,6 +53,7 @@ Students were taught to ask and verbalize four questions in sequence: "What is t
 
 - [Problem Solving Draw A Picture](problem_solving-draw_a_picture.md)
 - [Model Assignment or Skill](model_assignment_or_skill.md)
+- [Open-ended VBA-based learning sequence: pose questions from a given picture, propose solutions, then create new props or games](open-ended-vba-media-creation-sequence.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [The experimental and control groups differed significantly in reading performance before the treatment](pretest-group-difference-pkbm-reading.md) — reports the opposite
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — reports the opposite
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — reports the opposite

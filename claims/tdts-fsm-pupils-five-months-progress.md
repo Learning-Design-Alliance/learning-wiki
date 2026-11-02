@@ -73,3 +73,5 @@ Subgroup analysis of the clustered RCT for ever-FSM pupils (285 analysed: 147 in
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — reports the opposite
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
+- [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
+- [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](rti-subgroup-effects-fsm-boys-not-secure.md) — related

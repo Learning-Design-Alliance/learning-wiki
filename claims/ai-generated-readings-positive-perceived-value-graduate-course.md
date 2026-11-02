@@ -51,3 +51,4 @@ Descriptive analysis of an end-of-course survey completed by 24 consenting stude
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related
 - [Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive](variable-engagement-positive-feedback-ai-course.md) — related
+- [Despite implementation problems, teaching assistants and students rated Units of Sound positively, with 81% of surveyed students saying it helped them read better](units-of-sound-positive-perceptions.md) — related

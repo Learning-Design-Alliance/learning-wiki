@@ -51,3 +51,4 @@ Baseline comparison of the two intact sections prior to intervention: the contro
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — reports the opposite
 - [No significant pre-test differences existed between the cooperative learning and lecture-based groups on any motivational component](no-pretest-motivation-differences-groups.md) — reports the opposite
+- [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — reports the opposite

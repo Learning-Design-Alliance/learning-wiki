@@ -64,3 +64,4 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
 - [Lesson Study shows no impact for disadvantaged or lower-attaining pupil subgroups (FSM, EAL, low KS1, ethnic minority)](lesson-study-no-impact-subgroups.md) — related
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
+- [The MathsFlip effect on KS2 maths for FSM-eligible pupils was slightly higher than for all pupils but not statistically significant](mathsflip-fsm-subgroup-effect.md) — related

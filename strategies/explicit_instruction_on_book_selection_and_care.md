@@ -57,8 +57,10 @@ Independent reading only produces growth when students actually read text they c
 5. **Revisit and transfer responsibility.** Re-teach after breaks; rotate student maintenance roles so responsibility shifts from teacher to students over the year.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting book selection to students' interests and prior reading builds the "why" behind the routines
 - [Academic Choice](academic-choice-planning-working-reflecting.md) — structured choice within routines preserves autonomy while maintaining procedure
+- [Give initial teacher support to pupils at very low reading levels before expecting independent reading](ar-initial-support-low-readers.md)
 
 ## Examples
 - **Reading workshop launch (e.g., Teachers College Reading & Writing Project units)** — the first weeks of the school year are devoted to mini-lessons on choosing just-right books, building stamina, and caring for browsing boxes before independent reading volume ramps up. See [https://readingandwritingproject.org](https://readingandwritingproject.org)

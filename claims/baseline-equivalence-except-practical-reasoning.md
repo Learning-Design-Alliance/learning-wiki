@@ -51,3 +51,4 @@ Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — a broader claim this one bears on
 - [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
+- [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related

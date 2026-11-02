@@ -44,7 +44,8 @@ The report recommends that states and districts build a support infrastructure w
 - [Next Generation Accountability Framework](../products/next-generation-school-accountability-initiative.md)
 
 ## Related Strategies
-- 
+
+- [Establish an ICT Resource Centre under each district's School Management Board with production, research-assessment and technical sections](ict-resource-centre-three-sections.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Authors' interpretive statement in the Discussion about the PBL condition of the
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
+- [Prospective-teacher students learning with an open-ended VBA-for-Excel approach created more creative interactive learning media than students taught by an expository VBA-based method](open-ended-vba-excel-creativity-better-than-expository.md) — related

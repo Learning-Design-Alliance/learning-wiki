@@ -52,3 +52,4 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [Excel-based statistics instruction improved pre-service teachers' attitudes towards statistics more than theoretical instruction on all six SATS-36 factors](excel-instruction-improves-attitudes-towards-statistics.md) — related
 - [Control and experiment groups did not differ significantly in attitudes towards statistics before instruction](pretest-no-attitude-differences-control-experiment.md) — possibly the same claim (merge candidate)
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
+- [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related

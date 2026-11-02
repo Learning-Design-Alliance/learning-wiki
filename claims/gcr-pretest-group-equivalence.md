@@ -56,3 +56,4 @@ Independent samples t test on the 60-item researcher-made grammar pretest (Leven
 - [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)

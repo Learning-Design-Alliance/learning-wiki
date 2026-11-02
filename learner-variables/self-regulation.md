@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (157 show a difference, 39 mixed, 27 no difference) · 158 studies (47 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 31 of 158 report an effect size · 214 claims rest on one study
+> **Evidence** · 226 claims (159 show a difference, 39 mixed, 28 no difference) · 160 studies (49 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 31 of 160 report an effect size · 217 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -272,6 +272,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [~W] — instruction changes it
 - [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](../claims/strategy-timing-no-significant-difference.md) [-M] — instruction changes it
 - [Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation](../claims/coaching-improves-executive-functioning-skills-six-ways.md) [+M] — instruction changes it
+- [Cognitive strategy training is associated with more self-directed, autonomous learners than memory strategy training, per the author's interpretation](../claims/cognitive-training-autonomous-self-directed-learners.md) [+W] — instruction changes it
+- [Collaborative learning with self-assessment promotes higher self-regulated learning strategies than traditional teaching in high-school geometry](../claims/collaborative-self-assessment-raises-self-regulation-geometry.md) [+M] — instruction changes it
+- [Neither training type significantly changes social strategy use, and the memory-trained group shows no significant metacognitive-strategy-use difference](../claims/strategy-training-no-social-metacognitive-effect.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

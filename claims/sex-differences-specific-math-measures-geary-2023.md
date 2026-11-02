@@ -54,3 +54,4 @@ Mean sex differences in the longitudinal study of 342 adolescents (169 boys) ass
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — reports the opposite
 - [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](mean-median-sex-difference-slight-versus-pe.md) — related
 - [A higher percentage of girls than boys in the robotics class scored above NYSED benchmarks, with the largest gaps in Algebra and Geometry](girls-above-benchmark-algebra-geometry.md) — reports the opposite
+- [Children educated in small groups for attention deficits performed below regular-class peers in all mathematics measures, and girls performed at a lower baseline than boys](small-group-children-below-regular-classes-mathematics.md) — related

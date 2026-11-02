@@ -43,7 +43,8 @@ The article's experimental course followed a structured flipped pattern: before 
 - [Flipped Learning Higher Exam Scores Preservice Teachers](../claims/flipped-learning-higher-exam-scores-preservice-teachers.md) [+M]
 
 ## Related Designs
-- 
+
+- [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](ocw-flipped-classroom-two-stage-design.md)
 
 ## Examples
 -

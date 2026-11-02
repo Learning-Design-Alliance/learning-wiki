@@ -47,3 +47,4 @@ Qualitative second phase of the explanatory sequential mixed-method design: them
 ## Related Claims
 - [Students liked the demonstration method because of end-of-lesson tasks and teacher evaluation at each step](students-like-demonstration-method-tasks-and-step-evaluation.md) — related
 - [Students perceived they achieved better under the demonstration method because they could see and hear the teacher's step-by-step explanations and were encouraged to ask questions](students-perceive-better-achievement-see-hear-ask-questions.md) — related
+- [Experimental-group participants responded positively to the Digital Kitchen session: all reported enjoying it and learning new words, and most could follow the instructions](digital-kitchen-positive-participant-feedback.md) — related

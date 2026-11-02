@@ -59,3 +59,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — reports the opposite
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related

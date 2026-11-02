@@ -40,6 +40,7 @@ The program's recommended implementation involves "a dedicated 30- to 60-minute 
 
 - [Independent Reading](independent-reading-time.md)
 - [Wide Reading](wide-reading.md)
+- [Provide a well-stocked banded library and easy computer access as the main implementation requirements for Accelerated Reader](ar-library-banding-computer-access.md)
 
 ## Examples
 -

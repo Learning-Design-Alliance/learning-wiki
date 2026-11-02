@@ -86,3 +86,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - [Stronger verbal convergent thinking is associated with better mathematical problem performance in Dutch 9–13-year-olds](verbal-ct-linked-math-performance-children.md) — related
 - [Children's metacognitive strategic behaviours, but not cognitive or motivational strategic behaviours, independently predict task performance in child-alone problem-solving tasks](metacognitive-strategies-predict-kindergarten-task-performance.md) — related
 - [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](gender-age-differences-kindergarten-srl.md) — related
+- [Critical thinking skills and problem solving skills are highly positively and significantly correlated in preservice elementary teachers](cts-pss-high-positive-correlation-preservice-teachers.md) — related

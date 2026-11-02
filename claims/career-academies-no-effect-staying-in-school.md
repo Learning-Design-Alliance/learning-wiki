@@ -48,3 +48,4 @@ The WWC review reports the staying in school domain finding from the Kemple & Sn
 - [The evidence base for Career Academies in dropout prevention rests on a single randomized controlled trial in which students were randomly assigned to academy enrollment, a waitlist, or a comparison group across nine sites.](career-academies-single-rct-evidence-base.md) — a broader claim this one bears on
 - [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — related
 - [MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains](career-academies-mdrc-male-earnings-gains.md) — related
+- [Attendance and dropout improved after year one of the intervention and reverted after the project ended](attendance-dropout-rose-then-reverted.md) — related

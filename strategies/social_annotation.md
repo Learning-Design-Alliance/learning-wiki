@@ -61,8 +61,10 @@ Social annotation converts passive reading into elaborative, generative activity
 6. Assess with a rubric emphasizing depth, evidence use, and responsiveness — not comment count.
 
 ## Related Strategies
+
 - Collaborative reading and discussion-based formats — social annotation is discussion anchored in the text rather than after it
 - Peer review of drafts — a post-production application of the same visible-commentary layer
+- [Combine pre-reading with a Web-based annotation sharing mechanism to stimulate pre-reading engagement](prereading-web-annotation-sharing-strategy.md)
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the individual skill that social annotation makes visible and interactive

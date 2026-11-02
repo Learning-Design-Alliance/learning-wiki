@@ -45,6 +45,7 @@ The authors propose that their findings on how learning strategies and timing of
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Use Early Warning Indicator (EWI) and Multi-Tiered Systems of Support (MTSS) for continuous improvement](ewi-mtss-continuous-improvement-systems.md)
 - [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](goal-choice-features-and-early-warning-system.md)
+- [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
 
 ## Examples
 -

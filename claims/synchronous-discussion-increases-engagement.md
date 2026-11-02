@@ -57,3 +57,6 @@ MANCOVA on post-test engagement scores (pretest as covariate) among 121 undergra
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
 - [Synchronous online learning did not significantly affect affective outcomes compared with asynchronous online learning (g = 0.32, p = .051)](sol-asynchronous-affective-null.md) — related
 - [Proposed course provides highest human interaction among compared courses](proposed-course-highest-human-interaction.md) — related
+- [Synchronous online forum discussion produces no statistically significant difference in lexical density compared with asynchronous blog writing](ofd-blog-no-difference-lexical-density.md) — related
+- [Synchronous online forum discussion produces no statistically significant difference in lexical diversity compared with asynchronous blog writing in EFL post-test writing](ofd-blog-no-difference-lexical-diversity.md) — related
+- [Synchronous online forum discussion produces no statistically significant difference in syntactic complexity compared with asynchronous blog writing, though the OFD mean was slightly higher](ofd-blog-no-difference-syntactic-complexity.md) — related

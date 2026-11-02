@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (167 show a difference, 31 mixed, 24 no difference) · 177 studies (58 associational, 45 causal, 31 review, 17 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 177 report an effect size · 218 claims rest on one study
+> **Evidence** · 223 claims (168 show a difference, 31 mixed, 24 no difference) · 178 studies (58 associational, 45 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 178 report an effect size · 219 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -253,6 +253,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Cooperative learning raised expectancy-component motivation (control of learning beliefs, self-efficacy for learning and performance) more than lecture-based teaching](../claims/cooperative-learning-expectancy-components-motivation.md) [+M] — instruction changes it
 - [Teachers perceived improved communication between tutoring pairs, with Year 7 students showing more confidence in communication](../claims/peer-tutoring-improved-pair-communication.md) [+M] — instruction changes it
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](../claims/reading-behaviour-proxy-indicators-confidence-vocabulary.md) [+M] — instruction changes it
+- [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](../claims/switch-on-staff-positive-perceptions.md) [+M] — instruction changes it
 
 ## The evidence by question
 

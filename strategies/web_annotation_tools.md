@@ -60,9 +60,11 @@ Annotation directs attention to specific text segments and prompts generative pr
 6. Grade on quality and engagement, not volume — rubrics should reward elaboration and responsiveness over count.
 
 ## Related Strategies
+
 - [Close Reading](close-reading.md) — annotation is the operational tool for close reading of digital texts
 - [Peer Feedback](../elements/peer-feedback.md) — social annotation structures peer feedback directly on the artifact being critiqued
 - [Jigsaw Reading](jigsaw-reading.md) — annotation groups can divide a long document by section before synthesis
+- [Combine pre-reading with a Web-based annotation sharing mechanism to stimulate pre-reading engagement](prereading-web-annotation-sharing-strategy.md)
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the underlying element this strategy operationalizes with digital tools

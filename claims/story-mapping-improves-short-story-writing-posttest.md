@@ -48,3 +48,4 @@ Quasi-experimental study of 84 tenth-grade male students in Amman public schools
 - [Experimental-group students improved significantly from pre-test to post-test in short story writing after story-mapping instruction](story-mapping-pretest-posttest-gain.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
+- [Second-grade students taught Arabic with pictorial stories significantly outperformed traditionally taught controls on an achievement test, with a large group effect](pictorial-story-raises-arabic-achievement-second-grade.md) — related

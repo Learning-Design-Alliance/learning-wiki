@@ -48,3 +48,4 @@ Omnibus ANCOVA interaction test in the quasi-experiment: Table 5 shows CRAIS mea
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md) — related
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related

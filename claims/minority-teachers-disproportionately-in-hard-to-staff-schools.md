@@ -58,3 +58,4 @@ Cross-tabulation of 2011–12 SASS data by school type (Table 3, Figure 4). The 
 - [From 1987 to 2012 the number of U.S. minority teachers more than doubled, growing faster than nonminority teachers and minority students](minority-teachers-more-than-doubled-1987-2012.md) — related
 - [A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority](persistent-student-teacher-parity-gap.md)
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — related
+- [Earlier pilot evidence suggested CARE may be more efficacious for teachers in high-risk, high-poverty settings](care-more-efficacious-high-risk-settings.md) — related

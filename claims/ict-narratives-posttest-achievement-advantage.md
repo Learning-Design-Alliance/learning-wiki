@@ -53,3 +53,4 @@ Quasi-experimental pre-test/post-test study with intact classes of 6th graders (
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related
+- [Integrated STEM education raised academic achievement post-test means above constructivist teaching but not significantly in 6th-grade science](integrated-stem-aat-posttest-no-significant-difference.md) — related

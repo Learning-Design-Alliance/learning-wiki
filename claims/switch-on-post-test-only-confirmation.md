@@ -47,3 +47,4 @@ Sensitivity analysis of the same randomised trial using post-test scores only (8
 ## Related Claims
 - [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — related
 - [Switch-on Reading produces a small positive impact on reading (+0.24) for Year 7 weak readers in a waiting-list RCT](switch-on-reading-overall-effect-024.md) — possibly the same claim (merge candidate)
+- [Accelerated Reader modestly improves reading scores for Year 7 pupils with weak KS2 English results, with an effect size of +0.24 after 22 weeks](ar-improves-reading-year7.md) — related

@@ -57,3 +57,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](pbl-higher-interest-satisfaction-orthopaedics.md) — related
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
+- [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related

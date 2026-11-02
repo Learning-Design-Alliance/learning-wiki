@@ -128,3 +128,4 @@ gamified vocabulary practice.
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related
 - [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related
 - [Digital game-based vocabulary learning increases children's motivation compared with traditional methods](digital-games-increase-children-vocabulary-motivation.md) — a narrower finding that bears on this claim
+- [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — a narrower finding that bears on this claim

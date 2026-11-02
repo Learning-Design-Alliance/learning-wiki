@@ -51,3 +51,6 @@ Delayed-posttest administered eight weeks after the application to measure reten
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Delayed test five weeks after treatment showed no significant retention difference between SMS and paper groups](sms-vocabulary-delayed-test-no-difference.md) — related
 - [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
+- [Storytelling instruction was followed by an interest-rate boost for nearly all experimental-group learners](storytelling-boosts-young-efl-learner-interest-rate.md) — related
+- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
+- [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related

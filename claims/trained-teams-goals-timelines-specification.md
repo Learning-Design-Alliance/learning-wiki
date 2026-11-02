@@ -48,3 +48,4 @@ Descriptive direct-observation analysis of 196 problems discussed by 38 elementa
 - [TIPS-trained school teams define problems with greater precision (who, what, where, when, why) than untrained teams](tips-trained-teams-greater-problem-precision.md) — related
 - [Trained teams more often include timelines and implementation-integrity details (what, when, who) in solution action plans than untrained teams](trained-teams-timeline-integrity-plan-features.md) — related
 - [Trained teams use more reward elements and fewer system-change elements, and fewer solution steps overall, than untrained teams](trained-teams-solution-element-patterns.md) — related
+- [After TIPS professional development, teams were more likely to define problems with precision, set implementation goals, and document implementation integrity and summative evaluation decisions](tips-pd-problem-processing-steps.md) — related

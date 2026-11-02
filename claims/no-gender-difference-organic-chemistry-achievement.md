@@ -72,3 +72,4 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
 - [No significant difference was found in drawing-skill acquisition between male and female students taught with two- and three-dimensional visual objects](no-gender-difference-drawing-visual-objects.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
+- [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — reports the opposite

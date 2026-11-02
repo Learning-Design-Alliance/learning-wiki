@@ -72,3 +72,4 @@ Fidelity quality ratings on the five-point IFC scale were collected by observers
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
+- [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related

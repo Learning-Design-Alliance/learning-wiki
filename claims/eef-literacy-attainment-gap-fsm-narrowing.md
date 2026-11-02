@@ -60,3 +60,4 @@ Pooled attainment-gap estimate from the sIPD model with a treatment-by-FSM inter
 - [The chess intervention showed no evidence of a positive impact on Key Stage 2 scores for children eligible for free school meals](chess-intervention-no-impact-fsm-pupils.md) — related
 - [P4C gains at Key Stage 2 were greater for FSM-eligible pupils in all subjects](p4c-gains-greater-for-fsm-pupils.md) — related
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
+- [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related

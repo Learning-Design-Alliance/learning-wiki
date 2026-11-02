@@ -66,3 +66,4 @@ Paired samples t test for the BLG reported in Table 3: mean paired difference -3
 ## Related Claims
 - [Task-based language teaching with pre-writing planning significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](tblt-improves-resumptive-pronoun-writing.md) — related
 - [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](tblt-more-effective-than-blended-learning-for-rps.md) — related
+- [Lexical bundles instruction significantly improved Iranian EFL learners' paragraph writing production fluency from pretest to posttest](lexical-bundles-instruction-improved-writing-fluency-pre-post.md) — related

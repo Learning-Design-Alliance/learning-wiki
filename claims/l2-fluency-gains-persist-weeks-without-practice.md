@@ -103,3 +103,4 @@ Nothing here says where retention falls off.
 - [Across the synthesized corpus, 34 studies reported affective gains while 17 found statistically significant listening or fluency improvements and 21 reported no fluency outcomes](fluency-outcomes-uneven-reporting.md) — related
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
 - [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](keyword-method-delayed-recall-advantage.md) — a narrower finding that bears on this claim
+- [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — reports the opposite

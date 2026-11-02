@@ -61,9 +61,11 @@ Double-entry journals are a writing-to-learn technique: the act of composing a r
 5. Review entries as formative assessment [Assessment](../elements/assessment.md) — respond to the thinking, not the mechanics — and gradually release prompt scaffolds as fluency grows.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the response column's "this reminds me of" prompts enact activation before and during reading
 - Reciprocal Teaching — shares the goal of making comprehension strategies explicit, but through dialogue rather than writing
 - Reading Response Logs — a broader category; double-entry format adds the evidence column that keeps responses text-anchored
+- [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
 
 ## Examples
 - **Adolescent literacy (Reading Next-aligned classrooms):** content-area teachers in science and social studies use quote-and-question journals before lab work or document analysis, with entries seeding whole-class discussion.

@@ -52,3 +52,4 @@ Semi-experimental pre-test/post-test study of 20 mentally retarded girls aged 8-
 - [Educational games significantly improve self-help for eating food in 8-12-year-old educable mentally retarded girls](educational-games-improve-self-help-eating.md) — related
 - [Educational games significantly improve socialization skill of 8-12-year-old educable mentally retarded girls](educational-games-improve-socialization-skill.md) — possibly the same claim (merge candidate)
 - [Sensory evaluation, games, storybooks, role-modelling, and creative art activities tended to have large effects on food behaviours and attitudes in preschool children](sensory-evaluation-games-storybooks-effective-preschool.md) — related
+- [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](tmpt-program-improves-preschool-social-problem-solving.md) — related

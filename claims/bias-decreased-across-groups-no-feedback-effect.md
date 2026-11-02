@@ -57,3 +57,4 @@ Conditional linear mixed model on absolute monitoring accuracy showed measuremen
 - [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [Trained ninth-graders became more critical toward less reliable links than controls, with the effect persisting three weeks for the least reliable (bad) links](sourcing-intervention-lower-ratings-less-reliable-links.md) — related
+- [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — related

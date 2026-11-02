@@ -70,3 +70,4 @@ Transition analysis comparing intervention and control conditions in the group r
 ## Related Claims
 - [IY TCM intervention teachers were more likely to rate parents in the most adaptive involvement profiles at follow-up compared to control teachers](iy-tcm-increases-adaptive-parent-involvement-profiles.md) — possibly the same claim (merge candidate)
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
+- [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related

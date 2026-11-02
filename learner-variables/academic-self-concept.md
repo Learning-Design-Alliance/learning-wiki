@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (86 show a difference, 30 mixed, 11 no difference) · 63 studies (33 associational, 12 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 63 report an effect size · 124 claims rest on one study
+> **Evidence** · 128 claims (87 show a difference, 30 mixed, 11 no difference) · 64 studies (33 associational, 13 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 125 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -162,6 +162,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [An SEL program with mindfulness training (MindUP) improved diurnal cortisol slopes and social-emotional, self-concept, and math outcomes versus an active control](../claims/mindup-cortisol-randomized-trial.md) [+M] — instruction changes it
 - [Academic self-concept components increased under CPS-ALM, with the self-view-toward-future component rising most (59.38%)](../claims/self-concept-component-increases-cps-alm.md) [+W] — instruction changes it
 - [CPS-ALM instruction produces greater statistical self-concept enhancement (medium category, N-gain 0.33) than expository learning (low category, N-gain 0.16)](../claims/cps-alm-self-concept-n-gain-medium-vs-low.md) [+W] — instruction changes it
+- [Experimental-class students rated their own knowledge and discussion abilities significantly higher on a 12-question self-assessment](../claims/discussion-week-higher-self-assessment.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

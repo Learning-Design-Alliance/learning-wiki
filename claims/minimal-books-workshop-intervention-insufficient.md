@@ -49,3 +49,4 @@ In the cluster-randomized trial, Comparison schools received "10 books distribut
 - [The UBC professional development program significantly improved prekindergarten classroom quality after the first year, with the largest effect on Emotional Support](ubc-improved-prek-classroom-quality-year-one.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — a broader claim this one bears on
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
+- [CARE for Teachers improved the emotional support domain of observed classroom interaction quality (CLASS)](care-teachers-improves-classroom-emotional-support.md) — related

@@ -48,6 +48,7 @@ Based on the finding that self-regulated jigsaw IV increased achievement, the au
 
 - [Task Force Teams of Inquiry](task_force_teams_of_inquiry.md)
 - [Collaborative Writing](collaborative-writing.md)
+- [Organize telecollaborative partnership environments linking EFL students with university students in English speaking countries](organize-telecollaborative-partnerships.md)
 
 ## Examples
 -

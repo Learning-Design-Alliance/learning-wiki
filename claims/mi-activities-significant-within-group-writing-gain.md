@@ -52,3 +52,4 @@ Paired-samples t-test on the experimental group's essay scores (N=25) in a quasi
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related

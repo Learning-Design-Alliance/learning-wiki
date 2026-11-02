@@ -56,3 +56,4 @@ Non-equivalent quasi-experiment with 18 pupils per group; independent samples t-
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related
+- [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related

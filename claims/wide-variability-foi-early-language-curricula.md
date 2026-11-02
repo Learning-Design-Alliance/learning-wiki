@@ -93,3 +93,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — a narrower finding that bears on this claim
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](teacher-reported-high-fidelity-peer-tutoring-implementation.md) — a narrower finding that bears on this claim
 - [Both interventions were implemented with high fidelity, good program coverage, high attendance, and low attrition](tier2-interventions-high-fidelity-implementation.md) — related
+- [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — a narrower finding that bears on this claim

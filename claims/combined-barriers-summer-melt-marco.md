@@ -53,3 +53,4 @@ Qualitative case study of Marco, a first-generation college-goer whose college c
 - [Becoming too focused on a single college option left a highly qualified student with no fallback when that option fell through, and she did not enroll in college](single-option-focus-summer-melt-risk.md) — related
 - [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
+- [The summer between high school graduation and college start is a vulnerable period in which students intending to enroll fail to matriculate (summer melt)](summer-melt-vulnerable-transition-period.md) — related

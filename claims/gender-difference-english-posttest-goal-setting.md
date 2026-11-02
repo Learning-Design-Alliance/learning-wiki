@@ -55,3 +55,4 @@ T-test of gender difference in post-test scores among the 40 trained participant
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Goal-setting skills training improved English language performance among Senior Secondary II students compared to a waiting control group](goal-setting-training-improves-english-performance-enugu.md) — related
+- [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related

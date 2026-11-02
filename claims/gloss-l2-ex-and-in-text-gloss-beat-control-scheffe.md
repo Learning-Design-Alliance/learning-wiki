@@ -54,3 +54,4 @@ Scheffé post-hoc multiple comparisons on the three delayed-design vocabulary te
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
+- [All three gloss conditions, traditional and multimedia, outperformed no gloss on reading comprehension](all-gloss-conditions-beat-no-gloss.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (20 show a difference, 10 mixed, 10 no difference) · 20 studies (8 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 20 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (24 show a difference, 10 mixed, 12 no difference) · 23 studies (11 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 9 of 23 report an effect size · 45 claims rest on one study
 
 ## Bottom line
 
@@ -78,6 +78,12 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Learning style and form of teaching show no statistically significant interaction effect on university students' academic achievement](../claims/no-learning-style-form-interaction-on-achievement.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Learning styles have no significant effect on academic achievement in this quasi-experiment](../claims/learning-styles-no-effect-on-achievement.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Only competitive learning style correlated significantly with achievement, and only in the online group](../claims/competitive-style-correlation-online-only.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Among reform-based instruction students, visual learners achieved significantly higher mathematics scores than tactile learners](../claims/visual-learners-highest-achievement-reform-based.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Cognitive style in the FDI dimension shows no significant main effect on self-efficacy or achievement when the scaffolding condition is pooled](../claims/fdi-cognitive-style-no-main-effect-pooled.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Impulsive students' cognitive style tendency appears to shift toward reflective after guided inquiry](../claims/impulsive-style-shifts-reflective-inquiry.md) [+W] — instruction changes reported style
+- [Teaching model and cognitive style interact significantly in their effect on science achievement](../claims/teaching-model-cognitive-style-interaction.md) [+M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Visual learners retained mathematics knowledge better than auditory and tactile learners under reform-based instruction](../claims/visual-learners-best-retention-reform-based.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [With motivational scaffolding, students of different FDI cognitive styles achieve equivalent learning](../claims/scaffolding-equalizes-achievement-across-cognitive-styles.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

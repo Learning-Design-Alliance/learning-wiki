@@ -68,3 +68,4 @@ Pretest interest comparison on the Mathematics Interest Inventory in the same st
 - [The 5E instructional model produced significantly higher posttest mathematics achievement than traditional instruction in a Nigerian quasi-experiment](5e-model-improves-math-achievement-nigeria.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
+- [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related

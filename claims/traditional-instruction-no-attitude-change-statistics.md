@@ -47,3 +47,4 @@ Control group of 35 students received teacher-supported traditional lessons with
 ## Related Claims
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [Intervention and control groups did not differ significantly in attitudes towards statistics at pre-test](pbl-statistics-attitude-no-pretest-difference.md) — related
+- [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related

@@ -57,3 +57,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Computer-Based Problem Solving produced significantly higher HOTS post-test scores than expository learning among prospective primary teachers](cbps-significant-hots-gain-prospective-teachers.md) — related
 - [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
 - [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related

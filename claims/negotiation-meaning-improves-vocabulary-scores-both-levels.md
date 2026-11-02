@@ -55,3 +55,4 @@ The second control mean in that sentence is a typo in the article: Table 3 gives
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](college-no-negotiation-vocabulary-correlation.md) — related
 - [In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only](negotiation-meaning-raises-comprehensible-input-high-school.md) — related
 - [Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings](teach-lexical-procedures-not-only-definitions.md) — a broader claim this one bears on
+- [On the delayed test ten days later, the control group's actual delayed score exceeded the experimental group's, although the authors conclude the experimental group acquired more lexical items](digital-kitchen-delayed-test-inconsistency.md) — reports the opposite

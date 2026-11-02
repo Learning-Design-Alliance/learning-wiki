@@ -49,3 +49,4 @@ Individually randomised waiting-list trial in 19 schools; 155 treatment and 153 
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Action video game training produces significantly larger phonemic awareness gains than waiting list, non-action serious games, and speech therapy in pre-readers at risk for dyslexia](avg-training-phonemic-awareness-gains-at-risk-prereaders.md) — related
+- [Accelerated Reader modestly improves reading scores for Year 7 pupils with weak KS2 English results, with an effect size of +0.24 after 22 weeks](ar-improves-reading-year7.md) — related

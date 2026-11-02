@@ -49,3 +49,4 @@ Mann-Whitney U tests on four quantity/breadth metrics across the same 16 groups 
 - [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related
 - [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](initiating-and-reannotation-strong-correlation.md) — related
 - [Group-level annotation activity shows no significant association with verbal knowledge-construction frequency](annotation-frequency-uncoupled-verbal-discourse.md) — related
+- [Explicit pre-reading annotations correlate positively with achievement while inexplicit annotations do not](explicit-annotations-correlate-achievement.md) — related

@@ -73,3 +73,4 @@ Authors' discussion of observed attitudes and practical benefits: charts present
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
+- [Post-learning media products spanned multiple mathematics topics: 42.8% geometry-related props, 28.57% arithmetic-related props, 51.43% could explain prop creation, and 60% could use shapes to run their code](post-learning-media-topic-distribution.md) — related

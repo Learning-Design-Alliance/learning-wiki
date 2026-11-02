@@ -17,7 +17,7 @@ sources:
 # Combine traditional explicit vocabulary instruction with subtitled authentic video viewing to serve both short- and long-term retention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the study found traditional instruction superior for short-term retention and subtitled-video viewing superior for long-term retention, the authors recommend that "different methods f leaning vocabulary should be adopted" to achieve better retention in both periods. The strategy pairs explicit presentation techniques with incidental learning through subtitled sitcom viewing rather than treating either as a substitute.

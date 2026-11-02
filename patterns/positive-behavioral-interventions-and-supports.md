@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (33 for, 10 mixed, 2 against) · 31 studies (14 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 31 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (35 for, 10 mixed, 2 against) · 32 studies (15 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,8 @@ This pattern is scoped to a school-wide, tiered system of taught and acknowledge
 ## Claims
 
 - [Positive changes in student attitude, behavior, and mentality and improved cognitive, physical, and social-emotional development were observed](../claims/gamified-vr-positive-changes-attitude-behavior-development.md) [+W]
+- [TIPS-trained teams more often documented reductions in out-of-school suspensions at follow-up](../claims/tips-pd-oss-reduction.md) [+W]
+- [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](../claims/tips-pd-odr-reduction.md) [+W]
 
 ## Related Patterns
 - [Social-Emotional Learning](social-emotional-learning.md) — teaches named social and emotional skills; PBIS teaches and acknowledges setting-specific expectations, and the two are often run together

@@ -50,3 +50,4 @@ Quasi-experimental pre/post study; 35 8th-grade students taught statistics via s
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
 - [Seventh-grade students taught statistics through project-based learning achieved higher learning outcomes than students taught with conventional learning](pbl-higher-statistics-outcomes-than-conventional.md) — related
+- [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related

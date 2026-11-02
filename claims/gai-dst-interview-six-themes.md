@@ -68,3 +68,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Qualitative data indicated the Razalas' Method of grouping developed self-confidence, encouraged effective communication and facilitated exchange of ideas toward a common goal](razalas-grouping-qualitative-benefits.md) — related
 - [Interviewed experimental-group students reported using self-regulated learning strategies across forethought, performance and self-reflection phases in their independent studies](jigsaw-iv-students-report-srl-phases.md) — related
 - [Experimental-group students perceived the MPS as increasing interactivity, supporting multimodal-integrated learning, and making instruction more student-centered](mps-perceived-interactivity-student-centered.md) — related
+- [Prospective teachers' views on both applications clustered into four themes, with a minority of the reflective group reporting initial difficulties](four-themes-views-applications.md) — related

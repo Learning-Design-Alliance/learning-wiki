@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 107 claims (57 for, 41 mixed, 9 against) · 107 studies (33 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 107 report an effect size · 102 claims rest on one study
+> **Evidence** · 108 claims (58 for, 41 mixed, 9 against) · 108 studies (33 review, 24 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 108 report an effect size · 103 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Consistent student models reduce learning problems and raise average performance, supporting reuse of student models across courses](../claims/consistent-model-improves-performance.md) [+W] — attached 2026-10-28 from Fabiano Dorça (2015), which proposed "Reuse consistent student models across courses and platforms to improve adaptation from the start"; tests this page's relationship.
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](../claims/cosil-guidance-ease-of-use-not-personalized.md) [-W] — attached 2026-10-29 from Zhai (2021), which proposed "Personalize CoSIL guidance to individual students, because guidance is critical to student success in computer-supported inquiry learning".
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](../claims/online-feedback-relational-role-introverted-learners.md) [+W] — attached 2026-10-29 from Ding et al. (2019), which proposed "Adapt feedback modes and strategies to learners' cultural, educational and personality differences rather than assuming one strategy fits all".
+- [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](../claims/differentiated-math-program-increases-gifted-attitude.md) [+W] — attached 2026-11-02 from Deringöl et al. (2020), which proposed "Theme-based interdisciplinary differentiation pattern combining content, process and product differentiation with interest-driven activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

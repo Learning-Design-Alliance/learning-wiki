@@ -49,3 +49,4 @@ ANCOVA on the 20-item nutrition attitude questionnaire (Cronbach's α = 0.85) wi
 - [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](game-based-nutrition-knowledge-better-than-powerpoint.md) — related
 - [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](no-gender-differences-game-based-nutrition.md) — related
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
+- [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related

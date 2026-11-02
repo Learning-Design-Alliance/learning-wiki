@@ -56,3 +56,4 @@ Descriptive breakdown of absence categories (Figure 2) for sixth and ninth grade
 - [Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students](foster-care-absenteeism-suspension-rates.md) — related
 - [Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change](schools-varied-in-absence-rate-increases.md) — related
 - [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related
+- [Breakfast club provision improved school attendance, resulting in about 26 fewer half-days of absence per year for a class of 30](breakfast-club-improved-attendance.md) — related

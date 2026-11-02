@@ -251,3 +251,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](perceived-content-relevance-drives-sdl-engagement.md) — related
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — a narrower finding that bears on this claim
+- [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related

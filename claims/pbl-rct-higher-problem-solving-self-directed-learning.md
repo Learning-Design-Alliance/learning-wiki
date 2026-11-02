@@ -55,3 +55,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — related
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](pbl-higher-satisfaction-interest.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
+- [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related

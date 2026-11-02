@@ -56,3 +56,4 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [The difference in mean topography test scores between the digital-map experimental group and the paper-map control group was not statistically significant](digital-blind-map-mean-difference-not-significant.md) — related
 - [The PI group performed significantly better than the TI group on the writing post-test after equivalent pre-tests](pi-outperforms-ti-writing-posttest.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](facebook-writing-achievement-control-decreased-experimental-unchanged.md) — related

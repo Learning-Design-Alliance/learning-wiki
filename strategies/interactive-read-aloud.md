@@ -100,6 +100,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 5. Close with a brief synthesis discussion or [3-2-1 reflection](../strategies/3-2-1_reflection.md) connecting the text to the unit's goals.
 
 ## Related Strategies
+
 - [Act It Out](../strategies/act_it_out.md) — dramatizing scenes from the read aloud deepens comprehension through embodiment
 - [Accountable Talk](../strategies/accountable_talk.md) — structures the student discussion that makes the read aloud interactive rather than passive
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-reading move that connects new text to existing knowledge
@@ -108,6 +109,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 - [Socratic Questioning](../elements/socratic-questioning.md) — the probing follow-up technique that deepens pause-point discussion
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 - [Read-Alouds with Accountable Talk](../strategies/read-alouds-with-accountable-talk.md) — a variant that adds norms for evidence-based learner talk
+- [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
 
 ## Examples
 - **Fountas & Pinnell Classroom Interactive Read-Aloud Collection** ([heinemann.com](https://www.heinemann.com/fountasandpinnell)) — published text sets with planned discussion prompts for K–6 classrooms

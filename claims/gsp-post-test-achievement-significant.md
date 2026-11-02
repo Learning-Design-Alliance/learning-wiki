@@ -51,3 +51,4 @@ Quasi-experiment with 22 experimental and 21 control students in intact classes 
 - [Students perceived Geometer's Sketchpad as allowing dynamic investigation of graph function properties, including seeing graph shape change when the equation changes](gsp-perception-dynamic-investigation.md) — related
 - [Pre-test achievement in graph functions did not differ significantly between the experimental and control groups](gsp-pretest-no-significant-difference.md) — related
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
+- [Pupils taught with DLP achieved slightly higher average gain scores than pupils taught with Computer/laptop, and both ICT groups outperformed Chart and Chalk Talk groups](dlp-and-computer-outperform-chart-and-chalk-talk.md) — related

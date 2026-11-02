@@ -76,6 +76,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Brief professional development plus sequenced curriculum units with videoed implementation to support Pre-K teachers' engineering teaching](sos-pd-and-sequenced-implementation-strategy.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
+- [Implementation recommendations for adopting pictorial teaching at scale](pictorial-teaching-implementation-recommendations.md)
 
 ## Examples
 -

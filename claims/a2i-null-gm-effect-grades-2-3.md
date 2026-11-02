@@ -50,3 +50,4 @@ In the same quasi-experiment, HLM analyses of spring GM total scores for grades 
 - [Students in English Learner classrooms showed a greater treatment effect on the A2i L2M assessment than students in general education classrooms](a2i-el-classroom-interaction-l2m.md) — related
 - [A2i use produced a significant intent-to-treat effect on letter-word identification for kindergarten and first-grade students (d = 0.37)](a2i-itt-word-reading-k1-effect.md) — related
 - [The integrated A2i Letters2Meaning assessment correlated highly with standardized reading measures (r ranging from .65 to .76), supporting its validity](a2i-l2m-assessment-validity-correlations.md) — related
+- [Project GLAD teacher training produced no statistically significant Year 1 improvement in fifth-grade reading comprehension or vocabulary for all students](project-glad-year1-no-literacy-effect-all-students.md) — related

@@ -71,3 +71,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Audio input enhancement produces a significant short-term advantage over conventional instruction in EFL learners' knowledge of English intensifiers](audio-input-enhancement-improves-intensifier-posttest.md) — related
 - [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](pictured-letters-mnemonics-follow-up-retention.md) — related
 - [Subtitled-video viewing outperformed traditional instruction on long-term vocabulary retention at a three-week delay](subtitled-videos-better-long-term-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](audiovisual-group-stable-retention-weeks.md) — related

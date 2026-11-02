@@ -67,3 +67,5 @@ Between-group ANOVA on post-questionnaire scores; the article reports significan
 - [Students' perceptions toward the writing process were not correlated with their writing performance in either condition](no-correlation-perceptions-writing-performance.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
+- [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
+- [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related

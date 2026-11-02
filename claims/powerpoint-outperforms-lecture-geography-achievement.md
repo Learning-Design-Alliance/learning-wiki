@@ -50,3 +50,4 @@ Quasi-experimental comparison of two intact classes of 45 senior secondary two s
 - [The experimental group's Geography achievement scores rose significantly from pre-test to post-test after PowerPoint instruction](powerpoint-pre-post-gain-geography.md) — related
 - [The intervention significantly increases educators' use of lecture with slide presentation relative to control](ct-workshop-increases-slide-lecturing.md) — related
 - [Eighth-grade students taught geography with Web Quest Strategy scored significantly higher on a geographic concepts acquisition test than students taught by the traditional method](web-quest-improves-geographic-concept-acquisition.md) — related
+- [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related

@@ -92,3 +92,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
 - [PBL was generally delivered with fidelity but required substantial management support and organisational change](pbl-fidelity-requires-management-support.md) — related
 - [Increased instructional time, access to material resources, and spatial reorganisation appear to have increased teachers' confidence and motivation](time-space-reorganisation-teacher-confidence.md) — related
+- [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — related

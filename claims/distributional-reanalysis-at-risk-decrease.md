@@ -48,3 +48,7 @@ Re-analysis of data from a large-scale cluster-randomized trial of the Incredibl
 ## Related Claims
 - [Distributional moderation analysis indicates the average disruptive behavior decrease is moderated by students' race, and the special education moderation is located in the chance of showing no disruptive behavior rather than in the means](distributional-moderation-race-special-education-endpoint.md) — related
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
+- [IY TCM improves elementary students' emotional regulation](iytcm-improves-emotional-regulation.md) — related
+- [IY TCM improves elementary students' social competence](iytcm-improves-social-competence.md) — related
+- [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — reports the opposite
+- [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related

@@ -51,3 +51,4 @@ Kruskal-Wallis H tests on post-test scores of the remaining five SMTML dimension
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related
+- [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related

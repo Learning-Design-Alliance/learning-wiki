@@ -74,3 +74,4 @@ Teacher instructional log data corroborated by system use data: teachers made AS
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — related
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
+- [Home internet access gaps and pupil independence were key challenges; schools used homework clubs, and an estimated 10–15% of pupils did not do home tasks](mathsflip-access-challenges-homework-clubs.md) — related

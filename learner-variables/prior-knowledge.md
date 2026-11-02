@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 221 claims (128 show a difference, 63 mixed, 30 no difference) · 174 studies (59 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 28 of 174 report an effect size · 204 claims rest on one study
+> **Evidence** · 222 claims (128 show a difference, 63 mixed, 31 no difference) · 175 studies (60 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 28 of 175 report an effect size · 205 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -269,6 +269,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior knowledge and ICT-supported instruction predicted achievement post-test scores, while pupils' attitudes toward the subject and ICT did not](../claims/prior-knowledge-and-treatment-predict-achievement-not-attitudes.md) [+M] — learners who differ on it differ in outcomes
 - [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](../claims/prior-knowledge-moderates-incorrect-examples.md) [~M] — an instructional effect differs with it
 - [Classroom prior achievement moderates the treatment-implementation relationship: implementation gaps between high- and low-achieving classrooms appear only in the CS condition](../claims/class-prior-achievement-moderates-implementation.md) [~M] — an instructional effect differs with it
+- [The effect of Mathematics Mastery did not differ significantly between children with different levels of prior achievement](../claims/mathematics-mastery-no-differential-effect-by-prior-achievement.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

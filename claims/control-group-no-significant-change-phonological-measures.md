@@ -75,3 +75,4 @@ Within-group comparison of N=9 control children on the pre-K PALS tasks over the
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](nursery-rhyme-instruction-improves-pals-scores.md) — related
 - [Gains from nursery rhyme training were greatest in rhyme awareness and least in beginning sound awareness](rhyme-awareness-gains-exceed-beginning-sound-gains.md) — related
 - [Control-group students taught with the current curriculum showed no significant change in classroom engagement from pre-test to post-test](control-group-no-engagement-change.md) — related
+- [Control group viola playing skills did not change significantly over the experimental period](control-group-viola-skills-no-significant-change.md) — related

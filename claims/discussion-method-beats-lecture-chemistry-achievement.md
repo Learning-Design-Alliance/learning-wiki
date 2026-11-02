@@ -56,3 +56,4 @@ Non-equivalent pretest-posttest control quasi-experiment with 118 SSII students 
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Retention scores differed significantly between students taught with discussion and lecture methods](retention-difference-discussion-lecture.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
+- [Students taught a week about discussions scored significantly higher on the first exam than control students, with the advantage gone by the second exam](discussion-week-first-exam-advantage.md) — related

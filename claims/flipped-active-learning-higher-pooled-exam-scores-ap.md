@@ -53,3 +53,4 @@ Quasi-experimental comparison of pooled grades on three multiple-choice exams be
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — related
 - [Flipped classrooms yield higher theoretical knowledge scores than traditional lectures in Chinese clinical practice students (pooled SMD = 8.33)](flipped-classroom-higher-theoretical-scores-clinical-practice.md) — related
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related
+- [Students taught a week about discussions scored significantly higher on the first exam than control students, with the advantage gone by the second exam](discussion-week-first-exam-advantage.md) — related

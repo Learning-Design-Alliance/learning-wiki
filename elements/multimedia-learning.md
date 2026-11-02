@@ -92,7 +92,9 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Flipped Learning](../principles/flipped-learning.md)
 
 ## Examples
+
 - Interactive lessons that combine diagrams, narration, and practice prompts.
+- [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](../strategies/multimedia-and-homework-for-5e-phases.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

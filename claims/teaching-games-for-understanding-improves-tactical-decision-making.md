@@ -90,3 +90,4 @@ tactical understanding to other domains.
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](traditional-null-versus-control-no-universal-superiority.md) — related
 - [TGfU studies generally report positive results for game performance and understanding, but reveal weaknesses in the social domain relative to other models](tgfu-positive-results-with-social-domain-weakness.md) — a broader claim this one bears on
 - [TGfU implementations in schools are typically short-term, which the review judges too short to achieve significant outcomes](tgfu-short-implementation-duration-limitation.md) — related
+- [Model-based training produced positive dynamics of technical and tactical actions in competition compared with the control group](model-training-improved-technical-tactical-actions-lapta.md) — related

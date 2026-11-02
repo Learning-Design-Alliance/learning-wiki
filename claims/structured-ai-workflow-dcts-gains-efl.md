@@ -79,3 +79,4 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 - [Posttest critical thinking scores averaged 11.64 in the e-book class versus 9.41 in the control class, with pretest means of 4.42 and 4.31](posttest-means-ebook-1164-vs-control-941.md) — related
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
 - [ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported](six-plus-one-trait-model-critical-thinking-posttest-advantage.md) — related
+- [Experimental-class students rated their own knowledge and discussion abilities significantly higher on a 12-question self-assessment](discussion-week-higher-self-assessment.md) — related

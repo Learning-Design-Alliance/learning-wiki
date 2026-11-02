@@ -58,3 +58,4 @@ Reliability analysis of ratings by two trained inter-raters using an 11-band ana
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [Facebook-based peer comments outperform paper-and-pen peer comments on post-test writing quality](facebook-peer-comments-outperform-paper-pen.md) — related
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — related
+- [PET speaking scores showed significant inter-rater agreement between the two raters](pet-speaking-inter-rater-reliability-significant.md) — related

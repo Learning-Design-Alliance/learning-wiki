@@ -46,6 +46,7 @@ The article contrasts two assignment models for multi-tier reading intervention.
 ## Related Designs
 
 - [Eight-week tier movement cycles with fast-tracking and exit rules aligned to report card periods](eight-week-tier-movement-fast-tracking.md)
+- [Response to Intervention (RTI) tiered literacy programme with needs analysis, intervention menu and progress tracking tools](rti-tiered-literacy-programme-curee-afa.md)
 
 ## Examples
 -

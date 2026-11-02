@@ -54,3 +54,5 @@ ANOVA of problem-solving scores for the experimental group (n = 23) in the quasi
 - [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related
 - [The ARDESOS program produced a significant pre-post improvement in overall critical thinking scores](ardesos-significant-total-critical-thinking-gain.md) — related
 - [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](layered-curriculum-prepost-gain.md) — related
+- [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
+- [TIPS professional development produces immediate and continuing improvements in school teams' overall problem-solving practices](tips-pd-improves-team-problem-solving.md) — related

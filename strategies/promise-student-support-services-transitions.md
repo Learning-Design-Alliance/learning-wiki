@@ -40,6 +40,7 @@ The Guidebook's Step 5 organizes support services by transition: supporting stud
 
 - [Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners](cross-segment-cross-sector-promise-team.md)
 - [Deliver clear, simple, consistent early messaging to K-12 students and parents about college affordability, preparation, enrollment, and completion](early-consistent-college-messaging-k12.md)
+- [Extend college support services over the summer through simple, cost-effective near-age mentor outreach](summer-near-age-mentor-outreach-strategy.md)
 
 ## Examples
 -

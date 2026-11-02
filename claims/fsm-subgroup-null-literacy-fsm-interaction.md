@@ -80,3 +80,4 @@ Interaction analysis of group allocation and FSM status in the same trial, illus
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](grammar-for-writing-fsm-subgroup-no-differential-benefit.md) — related
 - [Using raw rather than age-standardised scores reverses the FSM picture, yielding +0.36 for FSM-eligible pupils](switch-on-fsm-raw-gain-036.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [Accelerated Reader shows a larger, though less secure, effect for FSM-eligible pupils (+0.38) and does not widen the poverty gap](ar-fsm-pupils-effect.md) — related

@@ -45,6 +45,7 @@ The review recommends that analytical approaches such as Task-Based Language Tea
 ## Related Strategies
 
 - [Use sample journal entries to inductively highlight target language elements](sample-journal-entries-inductive-focus-on-form.md)
+- [Use task-based activities as the core unit of planning and instruction for grammar teaching in EFL classes](tblt-grammar-instruction-strategy.md)
 
 ## Examples
 -

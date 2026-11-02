@@ -58,8 +58,10 @@ Lookups are most valuable when they occur during meaningful reading or writing r
 5. Consolidate with spaced review — a personal word list, flashcards, or a class shared glossary — since single encounters rarely produce durable learning ([Nation, 2001](https://doi.org/10.1017/cbo9781139524759)) [+S].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting a new word to known words and experiences before lookup deepens encoding
 - [Chunking](../principles/chunking.md) — dictionary entries and collocation lists help learners store multiword units as single chunks rather than isolated words
+- [Teach ESP technical vocabulary through sequenced pre-task, task-cycle and post-task activities](task-based-esp-vocabulary-lesson-sequence.md)
 
 ## Examples
 - **[Vocabulary.com](https://www.vocabulary.com)** — dictionary entries with adaptive quizzing; lookups feed a spaced-repetition practice loop, addressing the retention problem of one-off lookups.

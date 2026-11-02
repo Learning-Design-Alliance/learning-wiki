@@ -77,3 +77,4 @@ The review attributes the null RCT findings partly to implementation: "SBP atten
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
 - [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](sbp-attendance-reading-gains.md) — reports the opposite
+- [Breakfast club provision showed no evidence of an impact on the body mass index of Year 6 students](breakfast-club-no-bmi-impact.md) — related

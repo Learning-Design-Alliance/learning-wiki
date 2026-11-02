@@ -66,3 +66,4 @@ Narrative review discussion attributing factors to Regmi & Jones (2020), plus th
 ## Related Claims
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
 - [Primary barriers to infusing 21st century skills are psychological, political, and cultural rather than conceptual, technical, or economic](barriers-psychological-political-cultural.md) — related
+- [Ongoing technical and pedagogical support plus ample mathematics resources were the two elements teachers identified as key to successful implementation](mathsflip-implementation-support-resources.md) — related

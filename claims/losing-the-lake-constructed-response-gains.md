@@ -67,3 +67,4 @@ Null result on the first constructed-response item (scored 0-3, inter-rater reli
 - [Playing the game produced a small but significant increase in student interest, driven by items about Las Vegas water sources and home water conservation](losing-the-lake-interest-increase.md) — related
 - [Knowledge gains from the game were largest on water-flow, weather-vs-climate, greenhouse-effect, and household-conservation items, but three misconceptions were not effectively addressed](losing-the-lake-item-level-gains-misconceptions.md) — related
 - [Playing Losing the Lake significantly increased seventh graders' objective-test content knowledge relative to a control group viewing an earth science website](losing-the-lake-objective-test-gains.md) — a broader claim this one bears on
+- [No statistical difference between liberal and conservative students in the importance they placed on climate change](no-political-difference-climate-issue-importance.md) — related

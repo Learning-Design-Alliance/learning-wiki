@@ -65,3 +65,4 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [Before the experiment, the control and experimental groups differed in previous-year fine art marks but not in previous-year mathematics marks](pre-experiment-group-equivalence-mathematics.md) — related
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related

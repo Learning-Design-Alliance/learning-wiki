@@ -26,7 +26,8 @@ A researcher-developed performance assessment by Yılmaz and colleagues that mea
 - [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](../claims/girls-higher-spsic-turkish-not-british.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Wally Social Problem-Solving Test](wally-social-problem-solving-test.md)
 
 ## Key Sources
 - Yılmaz, E., Yel, S., & Griffiths, M. D. (2022). Comparison of children's social problem-solving skills who play videogames and traditional games: A cross-cultural study. Computers & Education. https://doi.org/10.1016/j.compedu.2022.104548

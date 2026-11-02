@@ -49,3 +49,4 @@ Descriptive statistics from Table 1 of the quasi-experiment: post-test means of 
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — a broader claim this one bears on
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [The practical-work group's post-test scores were more homogeneous (SD 7.9) than the control group's (SD 9.5)](practical-work-group-converged-in-understanding.md) — related
+- [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related

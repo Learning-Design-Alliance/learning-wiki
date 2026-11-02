@@ -66,3 +66,5 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
 - [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related
 - [University EFL students taught with VSSPlus significantly outperformed students taught with VSS on a post vocabulary achievement test](vssplus-outperformed-vss-post-vat.md) — related
+- [Computer-based audio gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](audio-gloss-improves-reading-comprehension.md) — related
+- [Non-CALL marginal L2 gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](marginal-gloss-improves-reading-comprehension.md) — related

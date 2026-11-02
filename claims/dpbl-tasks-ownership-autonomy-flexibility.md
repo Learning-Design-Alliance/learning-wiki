@@ -48,3 +48,4 @@ Thematic synthesis of 195 student quotes categorized under epistemic design foun
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — a broader claim this one bears on
 - [Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning](agency-student-perceived-fun-element-primary.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
+- [Students showed a more positive response toward the DPBL teaching approach than toward direct instruction](dpbl-more-positive-student-response-than-direct-instruction.md) — related

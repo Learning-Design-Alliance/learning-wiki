@@ -64,3 +64,4 @@ Independent samples t-test (unequal variances assumed) comparing total marks of 
 - [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — possibly the same claim (merge candidate)
 - [The study rejects the null hypothesis that writing-based pre-reading tasks have no impact on sub-skills of inferential reading comprehension](prw-null-hypothesis-rejected.md) — related
 - [The prw group scored higher on six of seven inferential-comprehension sub-skills, but only the sequence sub-skill difference was statistically significant](prw-subskill-performance-mixed-significance.md) — related
+- [At post-test the experimental group significantly outperformed the control group on all six motor tests, at significance levels varying from p<0.05 to p<0.001](post-test-experimental-outperforms-control-motor-tests.md) — related

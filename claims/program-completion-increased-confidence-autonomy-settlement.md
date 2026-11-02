@@ -64,3 +64,4 @@ Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, w
 - [DLG participation is associated with increased self-esteem across primary, special, and adult education](dlg-increase-self-esteem.md) — related
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related
 - [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related
+- [In the experimental group the share of teachers with adequate self-esteem rose to 58% and low self-esteem fell to 13% during the training program, while the control group stayed the same](training-program-self-esteem-shift-experimental-group.md) — related

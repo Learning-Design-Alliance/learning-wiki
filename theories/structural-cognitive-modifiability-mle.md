@@ -50,6 +50,7 @@ Feuerstein's theory holds that human beings can be changed cognitively throughou
 
 - [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
+- [Mediate cognitive strategies by encouraging systematic, reflective problem-solving behaviour during one-to-one mediation](../strategies/mediate-reflective-systematic-problem-solving-strategies.md)
 
 ## Key Sources
 - Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322

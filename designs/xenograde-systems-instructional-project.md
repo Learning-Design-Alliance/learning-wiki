@@ -42,7 +42,8 @@ The instructional intervention comprised "a two-phase description of an imaginar
 - [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](../claims/gf-rate-gc-final-level-learning.md) [+W]
 
 ## Related Designs
-- 
+
+- [Biggs and Moore learning process model as the intervention framework](biggs-moore-learning-process-model-intervention.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (81 show a difference, 29 mixed, 15 no difference) · 64 studies (21 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 64 report an effect size · 121 claims rest on one study
+> **Evidence** · 126 claims (82 show a difference, 29 mixed, 15 no difference) · 65 studies (22 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 65 report an effect size · 122 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -162,6 +162,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Mathematics shows the strongest association with muscular fitness among school subjects](../claims/mathematics-strongest-muscular-fitness-association.md) [+W] — learners who differ on it differ in outcomes
 - [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](../claims/game-based-instruction-improves-food-drink-habits.md) [+M] — instruction changes it
 - [Regular twice-weekly 40-minute physical education alone lacked sufficient intensity to enhance cardiovascular endurance](../claims/regular-pe-insufficient-intensity-cardiovascular-endurance.md) [-W] — instruction changes it
+- [Model-based training significantly improved special physical fitness of the experimental lapta group](../claims/model-training-improved-special-physical-fitness-lapta.md) [+W] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

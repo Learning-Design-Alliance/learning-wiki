@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 120 claims (62 for, 52 mixed, 6 against) · 107 studies (32 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 14 of 107 report an effect size · 119 claims rest on one study
+> **Evidence** · 123 claims (65 for, 52 mixed, 6 against) · 110 studies (35 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 14 of 110 report an effect size · 122 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -155,6 +155,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](../claims/smart-board-higher-posttest-achievement-electricity-unit.md) [~W]
 - [When controlling for pre-test scores, both CAI groups scored significantly higher than the control group on the phonics post-test](../claims/prek-cai-phonics-posttest-ancova-higher.md) [+W]
 - [Higher-secondary chemistry students taught with web-based instruction scored significantly higher on the post-test than students taught by traditional method](../claims/wbi-post-test-significant-advantage-chemistry.md) [+W]
+- [Web records showed all fifteen virtual manipulatives were used across the three projects, with usage frequencies between 17 and 28](../claims/vm-web-records-all-fifteen-used.md) [+W] — attached 2026-11-02 from Çakıroğlu (2014), which proposed "Repository of fifteen web-based virtual manipulatives for Polynomials and Quadratic Equations".
+- [Students' creativity in creating interactive learning media combines mastery of school-level mathematics with the ability to apply Visual Basic Application for Excel](../claims/media-creativity-combines-math-mastery-and-vba-skill.md) [+W] — attached 2026-11-02 from Rohaeti et al. (2019), which proposed "Interactive mathematics learning media built with Visual Basic Application for Excel (command buttons, shapes, macros)".
+- [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](../claims/facebook-writing-achievement-control-decreased-experimental-unchanged.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

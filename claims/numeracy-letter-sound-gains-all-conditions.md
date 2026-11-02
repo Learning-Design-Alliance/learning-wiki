@@ -54,3 +54,4 @@ Mixed ANOVA results from the RCT (n=249): the main effect of Session was always 
 - [Children preferred playing a number game over a letter game at pre-test, and this preference did not vary by condition](number-game-preference-no-condition-difference.md) — related
 - [The Grouped Dashboard partition scored significantly higher on two literacy test units, with no significant differences on the other seven units including all numeracy tests](grouped-dashboard-literacy-gains-only.md) — related
 - [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — related
+- [At baseline, business-as-usual children scored significantly higher than Plus and Basic children on pre-test number sense and operations](mtp-ms-baseline-pretest-differences.md) — related

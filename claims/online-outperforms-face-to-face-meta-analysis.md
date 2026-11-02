@@ -68,3 +68,4 @@ The meta-analysis reports the pooled mean difference across the 51 contrasts as 
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
 - [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](curriculum-equivalence-moderates-effect-size.md) — related
+- [Students in distance-learning-only support schools performed similarly to those receiving face-to-face support, though effect sizes favoured face-to-face](units-of-sound-distance-similar-to-face-to-face.md) — related

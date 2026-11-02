@@ -40,7 +40,8 @@ The review's conclusion offers teachers a set of implementable moves: "it is mor
 - [Word Text Learner Incidental Factors Framework](../theories/word-text-learner-incidental-factors-framework.md)
 
 ## Related Strategies
-- 
+
+- [Employ alternative vocabulary teaching methods in unnatural foreign language environments to ensure retention efficiency](alternative-methods-unnatural-environments-retention.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ ANCOVA on the 45-student PPT group using pretest scores of the three achievement
 - [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related
 - [Performance differed significantly across low, medium and high scoring students taught with behavioural objectives, with low scorers benefiting most](behavioural-objectives-scoring-level-differences-set-theory.md) — related
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
+- [The teaching-method effect on achievement was statistically alike across groups despite a significant main effect](achievement-interaction-not-significant.md) — related

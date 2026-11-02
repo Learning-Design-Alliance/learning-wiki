@@ -49,3 +49,4 @@ One-way ANOVA on pre-test SADQ scores of the 146 students in pretested groups E2
 - [The null hypothesis of no attitude difference between PI-taught and conventionally taught students was rejected](pi-null-hypothesis-rejected-attitude.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — related
+- [Experimental classes taught with local-wisdom-based social studies materials scored higher on social attitudes than control classes after one semester](local-wisdom-materials-higher-social-attitude-ttest.md) — related

@@ -67,3 +67,4 @@ Chi-square analysis of final course grade distributions (Fig. 5); the article pr
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [GenAI-enhanced instruction is associated with substantially greater legal reasoning gains than traditional instruction in property law, though the effect size warrants cautious interpretation](genai-instruction-greater-legal-reasoning-gains.md) — related
+- [Experimental-class students earned significantly higher term paper grades than control students](discussion-week-term-paper-grades.md) — related

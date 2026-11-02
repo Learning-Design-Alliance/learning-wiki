@@ -48,3 +48,4 @@ Paired-samples t-test on the TI group (n=15) in the same quasi-experimental stud
 - [The PI group performed significantly better than the TI group on the writing post-test after equivalent pre-tests](pi-outperforms-ti-writing-posttest.md) — related
 - [Processing instruction significantly improves Iranian EFL learners' writing ability from pre-test to post-test](pi-significant-pre-post-writing-gain-iranian-efl.md) — related
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
+- [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — reports the opposite

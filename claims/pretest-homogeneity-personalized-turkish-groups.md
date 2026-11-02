@@ -56,3 +56,5 @@ Pretest comparison of the two groups (12 students each) using the Turkish test f
 - [Jigsaw I produced no significant difference in grammar success scores compared with conventional teacher-centered teaching in grade-8 Turkish grammar](jigsaw-i-no-success-difference-turkish-grammar.md) — related
 - [The control and experimental groups did not differ significantly on the pre-test](analogy-study-pretest-homogeneity.md) — related
 - [The experimental and control groups were homogeneous in grammar knowledge before the intervention](pretest-homogeneity-call-grammar-study.md) — possibly the same claim (merge candidate)
+- [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
+- [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related

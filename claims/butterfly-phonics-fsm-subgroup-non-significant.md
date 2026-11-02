@@ -61,3 +61,4 @@ Subgroup analysis of the randomised controlled trial restricted to pupils entitl
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
 - [Among FSM pupils, Rapid Phonics showed small non-significant effects on single word reading (0.2) and non-word reading (0.3) but not reading comprehension](rapid-phonics-fsm-subgroup-small-nonsignificant-effects.md) — related
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
+- [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related

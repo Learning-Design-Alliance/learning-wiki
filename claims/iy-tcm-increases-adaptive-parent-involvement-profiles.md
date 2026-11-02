@@ -54,3 +54,4 @@ Latent transition analysis with treatment condition as covariate in a group rand
 - [Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group](iy-tcm-progressors-digressors-chi-square.md) — possibly the same claim (merge candidate)
 - [The Low Contact/Low Comfort profile was more likely to contain parents of FRL and African American students](low-low-profile-demographic-correlates.md) — related
 - [Low contact alone was not associated with adverse student outcomes; the Low Contact/High Comfort profile had the most favorable correlates](low-contact-alone-not-a-risk-high-comfort-favorable.md) — related
+- [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related

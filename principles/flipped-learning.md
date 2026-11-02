@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (44 for, 43 mixed, 4 against) · 65 studies (25 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 65 report an effect size · 83 claims rest on one study
+> **Evidence** · 94 claims (47 for, 43 mixed, 4 against) · 67 studies (27 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 23 of 67 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [The difference in ratings of 'The instructor created an environment conducive to the learning process' between flipped and traditional sections was not statistically significant (p = .09)](../claims/environment-item-no-significant-difference.md) [~W]
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](../claims/fc-student-resistance-self-learning.md) [-W]
 - [Flipped learning produced no statistically significant difference in post-test video-production skill and knowledge scores compared with traditional lectures](../claims/flipped-learning-no-posttest-advantage-video-production.md) [-W]
+- [Lesson observations indicated MathsFlip was delivered well, with class behaviour reflecting key components of a flipped learning approach](../claims/mathsflip-fidelity-observations-hots.md) [+W]
+- [Experimental-class students gave significantly higher course evaluation ratings than control students on all selected questions](../claims/discussion-week-higher-course-evaluations.md) [+W]
+- [Experimental-class students earned significantly higher term paper grades than control students](../claims/discussion-week-term-paper-grades.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term
@@ -248,6 +251,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](../strategies/simulator-session-structure-intro-repetition-teacher-circulation.md)
 - [Start each face-to-face class with a verification quiz or Q&A to link online preparation to classroom activity](../strategies/flipped-verification-quiz-entry-ticket.md)
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](../strategies/flipped-classroom-instructional-redesign-strategy.md)
+- [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](../designs/ocw-flipped-classroom-two-stage-design.md)
 
 ### Illustrative
 

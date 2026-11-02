@@ -81,3 +81,4 @@ Same univariate ANOVAs: "For the subscales goal-setting and reflection, the inte
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — reports the opposite
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](learning-plans-effects-limited-goal-setting.md) — related
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
+- [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related

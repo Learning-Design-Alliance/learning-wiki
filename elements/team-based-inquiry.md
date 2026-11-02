@@ -13,7 +13,7 @@ generated:
 # Team-Based Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (4 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q2`–`q4` · 5 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies (4 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q2`–`q4` · 5 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Team-Based Inquiry places students in small, structured groups that work through carefully sequenced questions or problems, constructing answers collectively rather than receiving them directly. Each team member typically adopts a role, and the group's reasoning — not just its answer — is the object of instruction. The structure distinguishes it from generic group work: tasks are interdependent, roles are assigned, and reflection on the group's process is built in.
@@ -59,6 +59,7 @@ Structured team inquiry improves achievement and peer interaction quality compar
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](../claims/no-gender-difference-knowledge-web-inquiry.md) [~W]
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](../claims/pogil-effect-smaller-in-chemistry.md) [~W]
+- [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](../claims/tips-pd-odr-reduction.md) [+W]
 
 ## Related Elements
 

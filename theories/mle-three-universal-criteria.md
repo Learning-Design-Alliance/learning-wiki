@@ -54,6 +54,7 @@ Within MLE theory, Feuerstein offers twelve criteria of mediated interaction, of
 
 - [Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task](../designs/five-stage-mle-lesson-pattern.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
+- [Mediate cognitive strategies by encouraging systematic, reflective problem-solving behaviour during one-to-one mediation](../strategies/mediate-reflective-systematic-problem-solving-strategies.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org

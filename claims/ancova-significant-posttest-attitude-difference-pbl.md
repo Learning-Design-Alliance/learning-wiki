@@ -58,3 +58,5 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](pretest-covariate-significant-ancova-games-study.md) — related
 - [Caricature animations in the online learning environment did not significantly change students' attitudes toward humor](caricature-animation-no-attitude-toward-humor-effect.md) — reports the opposite
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — related
+- [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related
+- [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related

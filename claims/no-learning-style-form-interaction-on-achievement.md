@@ -52,3 +52,4 @@ Two-way ANOVA in a one-semester pedagogical quasi-experiment (online experimenta
 - [Online and in-class students do not statistically significantly differ in academic achievement](online-in-class-no-achievement-difference.md) — related
 - [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related
 - [A significant Group x Time interaction indicates the VFT group's overall achievement improved more from pre-test to post-test than the conventional group's](vft-group-by-time-interaction-overall-achievement.md) — reports the opposite
+- [Teaching model and cognitive style interact significantly in their effect on science achievement](teaching-model-cognitive-style-interaction.md) — reports the opposite

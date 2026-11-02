@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 72 claims (43 for, 28 mixed, 1 against) · 59 studies (21 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 20 of 59 report an effect size · 64 claims rest on one study
+> **Evidence** · 73 claims (43 for, 29 mixed, 1 against) · 60 studies (22 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 60 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -177,6 +177,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](../claims/gender-method-interaction-effects-trigonometry.md) [~W]
 - [Interviewed learners in experimental schools preferred the group approach and valued peer explanation, while control school learners reported teacher-dominated lessons](../claims/learners-preferred-group-approach-peer-explanations.md) [+W]
 - [Computer-assisted STAD and LTM cooperative settings produced significantly higher physics motivation than individualized computer instruction](../claims/cooperative-cai-higher-physics-motivation.md) [+W]
+- [Two-student ROOTS groups produced higher rates of individual practice opportunities and lower rates of group practice opportunities than five-student groups, with no differences on other instructional interactions](../claims/group-size-instructional-interaction-rates.md) [~W]
 
 ## Related Patterns
 

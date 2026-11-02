@@ -45,7 +45,8 @@ The ATI model in this study proceeds in stages: "the initial treatment stage giv
 - [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](../claims/ati-pbl-descriptive-creative-thinking-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-stage implementation of the model: propaedeutic, activity-based, and outcome-correction](three-stage-model-implementation-propaedeutic-activity-outcome.md)
 
 ## Examples
 -

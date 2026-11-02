@@ -58,8 +58,10 @@ The strategy works because it raises the interactive quality of engagement with 
 5. Close the loop with feedback that addresses both the activity product and the quality of the annotation exchange [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies
+
 - Structured peer review of drafts extends the same social-feedback logic from margins to full documents
 - Jigsaw reading distributes text segments across groups before collaborative synthesis, complementing whole-class annotation
+- [Combine pre-reading with a Web-based annotation sharing mechanism to stimulate pre-reading engagement](prereading-web-annotation-sharing-strategy.md)
 
 ## Examples
 - **[Perusall](https://www.perusall.com)** in a large introductory psychology course: students annotate an assigned chapter, Perusall's scoring rewards substantive engagement, and the weekly quiz draws on concepts flagged in the margins.

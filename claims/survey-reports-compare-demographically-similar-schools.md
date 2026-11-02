@@ -48,3 +48,4 @@ Descriptive statement from the report overview about the design of the school-sp
 - [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](survey-reports-benchmark-similar-schools-over-time.md) — possibly the same claim (merge candidate)
 - [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — a narrower finding that bears on this claim
 - [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](2005-ccsr-survey-participation-454-schools.md) — related
+- [The demographically similar control school showed flat climate reporting, with only the social support construct changing significantly](control-school-flat-climate-reporting.md) — related

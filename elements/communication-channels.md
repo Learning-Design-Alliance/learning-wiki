@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (7 for, 12 mixed) · 11 studies (4 qualitative, 2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 11 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (7 for, 17 mixed) · 13 studies (4 qualitative, 2 causal, 2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 13 report an effect size · 24 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -54,6 +54,11 @@ Communication channels are the element in which learners use designated tools or
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](../claims/communication-technologies-support-wil.md) [+W]
 - [Students used the synchronous chat room far more than other communication tools, while discussion forum use was relatively low](../claims/chat-room-dominant-communication-tool-usage.md) [+W] — attached 2026-10-28 from Wen Wu et al. (2019), which proposed "eBanshu web-based learning system with synchronous and asynchronous communication tools".
 - [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](../claims/synchronous-vs-asynchronous-communication-quality.md) [~W]
+- [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](../claims/writing-attitude-control-negative-experimental-unchanged.md) [~W] — attached 2026-11-02 from Hatice Altunkaya (2018), which proposed "Facebook-based written expression course implementation (group sharing, feedback and publication)".
+- [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](../claims/facebook-writing-achievement-control-decreased-experimental-unchanged.md) [~W]
+- [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](../claims/ofd-implementation-challenges.md) [~W]
+- [Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues](../claims/ofd-learner-perceptions-seven-themes.md) [~W]
+- [Synchronous online forum discussion produces no statistically significant difference in lexical density compared with asynchronous blog writing](../claims/ofd-blog-no-difference-lexical-density.md) [~W]
 
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]

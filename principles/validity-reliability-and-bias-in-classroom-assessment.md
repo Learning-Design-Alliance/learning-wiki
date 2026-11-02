@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 356 claims (156 for, 176 mixed, 24 against) · 267 studies (90 associational, 61 design, 45 review, 30 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 267 report an effect size · 349 claims rest on one study
+> **Evidence** · 358 claims (157 for, 177 mixed, 24 against) · 269 studies (90 associational, 61 design, 45 review, 32 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 22 of 269 report an effect size · 351 claims rest on one study
 
 ## Conditional relationship
 
@@ -430,6 +430,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](../claims/self-developed-test-reliability-069.md) [~W]
 - [Year-averaged classroom observation scores provided only modest reliability for identifying teachers needing support, and dimension-level differences were too unreliable to signal specific areas for improvement](../claims/observation-scores-limited-reliability-dimensions.md) [~W]
 - [Year-averaged classroom observation scores provided reliable information to distinguish overall teacher performance (reliabilities .53–.61 and .70–.77), but dimension-level differences had limited reliability (.35–.43 and .18–.30)](../claims/observation-scores-reliable-overall-not-dimension.md) [~W]
+- [Correlations among group rating totals supported the design: A-C correlated 0.8253401 (same subjects) and B-D 0.80017335 (same subjects post-intervention), while A-B showed only 0.26428556](../claims/correlation-checks-group-identity-pronunciation-study.md) [~W]
+- [PET speaking scores showed significant inter-rater agreement between the two raters](../claims/pet-speaking-inter-rater-reliability-significant.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

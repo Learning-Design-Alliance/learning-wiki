@@ -55,3 +55,4 @@ Dependent-sample t-tests for experimental group II (Sd = 15): exam anxiety t = 2
 - [Both experimental groups significantly improved in active learning strategies, value of mathematics learning, and learning environment stimulation, while the control group did not](experimental-groups-gains-active-learning-value-environment.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Within the mind-map planning group, pre-to-post gains are significant on most self-regulation strategies and motivational beliefs, including a significant test-anxiety decrease](mind-map-group-within-group-prepost-gains.md) — a broader claim this one bears on
+- [Writing anxiety decreased significantly in both the Facebook experimental group and the control group](writing-anxiety-decreased-both-groups.md) — related

@@ -53,3 +53,4 @@ ANCOVA of the quasi-experiment (Table 1) reports the field-dependent/independent
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](cooperative-learning-math-equivalent-across-cognitive-styles.md) — reports the opposite
 - [The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row](intervention-group-15-percent-performance-variation.md) — related
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](metacognitive-training-significant-numeracy-effect.md) — related
+- [Without scaffolding, field-independent students outperform field-dependent students in learning achievement](control-group-field-independent-outperform-field-dependent.md) — related

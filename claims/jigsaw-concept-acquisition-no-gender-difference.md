@@ -53,3 +53,4 @@ ANCOVA of post-test scores in the same 70-student semi-experimental study found 
 - [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](no-gender-by-analogy-interaction-organic-chemistry.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [Fourth graders taught science with the Jigsaw strategy acquired more scientific concepts than peers taught the traditional way](jigsaw-improves-scientific-concept-acquisition-fourth-grade.md) — related
+- [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related

@@ -44,6 +44,7 @@ Based on their SDPBL observations, the authors recommend three approaches for in
 ## Related Strategies
 
 - [Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains](instructors-as-programmers-genai-slides.md)
+- [Review application usage and performance statistics with students in class at least weekly](weekly-in-class-performance-reviews.md)
 
 ## Examples
 -

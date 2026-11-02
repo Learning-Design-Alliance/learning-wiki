@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (79 show a difference, 26 mixed, 11 no difference) · 68 studies (21 review, 20 associational, 7 causal, 7 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 68 report an effect size · 116 claims rest on one study
+> **Evidence** · 117 claims (80 show a difference, 26 mixed, 11 no difference) · 69 studies (21 review, 20 associational, 8 causal, 7 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 69 report an effect size · 117 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -152,6 +152,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Victims show significantly lower motivation and achievement, while results for bullies-only and bully/victims were not significant](../claims/bullying-subgroup-victims-significant-bullies-not.md) [~W] — learners who differ on it differ in outcomes
 - [A social collaborative VR-based construction safety education system enhances experiential safety learning](../claims/social-collaborative-vr-enhances-safety-learning.md) [+M] — instruction changes it
 - [Safety competency scores correlate highly with technical skills but lowly or modestly with written examination scores](../claims/safety-scores-correlate-technical-skills-not-written-exams.md) [~M] — learners who differ on it differ in outcomes
+- [After one year of a community intervention, student perceptions improved significantly across all five school-climate scale assets in the intervention school](../claims/community-intervention-year-one-climate-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

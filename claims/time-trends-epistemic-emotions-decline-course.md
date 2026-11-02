@@ -67,3 +67,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
 - [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related
+- [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](kahoot-engagement-decline-leaderboard-trailing.md) — related

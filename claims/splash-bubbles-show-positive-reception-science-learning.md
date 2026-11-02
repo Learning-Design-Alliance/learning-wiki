@@ -69,3 +69,4 @@ Survey agreement ratings on parent confidence in science talk after show viewing
 - [Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone](splash-bubbles-station-study-coviewing-majority.md) — related
 - [No statistically significant difference in children's post-assessment ocean science scores between intervention and comparison groups](app-no-child-science-knowledge-difference.md) — related
 - [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related
+- [Experimental-group participants responded positively to the Digital Kitchen session: all reported enjoying it and learning new words, and most could follow the instructions](digital-kitchen-positive-participant-feedback.md) — related

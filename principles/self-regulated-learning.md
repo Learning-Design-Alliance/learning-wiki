@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 177 claims (74 for, 92 mixed, 11 against) · 118 studies (39 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 118 report an effect size · 166 claims rest on one study
+> **Evidence** · 178 claims (74 for, 93 mixed, 11 against) · 119 studies (40 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 119 report an effect size · 167 claims rest on one study
 
 ## Conditional relationship
 
@@ -269,6 +269,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W]
 - [Overall, there was no significant difference in MLTA post-test achievement between the metacognitive and conventional classes](../claims/no-overall-mlta-difference-mtl-conventional.md) [~W]
 - [There is an interaction between learning approach and MPK on SRL but no interaction on MLTA](../claims/interaction-approach-mpk-srl-not-mlta.md) [~W]
+- [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](../claims/self-regulation-group-test-interaction-significant.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

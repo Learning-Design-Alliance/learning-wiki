@@ -48,3 +48,4 @@ Kruskal-Wallis comparison of self-directed learning post-test scores across the 
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
+- [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related

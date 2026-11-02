@@ -37,6 +37,7 @@ A 20-item multiple-choice performance assessment developed by Jin et al. to meas
 
 - [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 - [Multi-strategy test (MST)](multi-strategy-test-mst.md)
+- [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
 
 ## Key Sources
 - Reed, J. M., Ferdig, R. E., Dodson, T. M., Gunstad, J., & Hughes, J. W. (2026). AI Literacy and Scenario-based Ethical Judgment About Generative AI Among Undergraduate Students. Journal of Academic Ethics. https://doi.org/10.1007/s10805-026-09757-w

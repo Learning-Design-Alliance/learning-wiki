@@ -72,3 +72,4 @@ Interview finding from the process evaluation: all eight teachers interviewed ag
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related
 - [Schools involved in qualitative interviews were positive about the tuition, keen to work with the Tutor Trust again, and confident it benefited their pupils](tutor-trust-schools-positive-qualitative.md) — related
+- [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related

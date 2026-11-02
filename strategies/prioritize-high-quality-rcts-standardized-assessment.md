@@ -49,6 +49,7 @@ The authors recommend that "Future studies should prioritize high-quality RCTs w
 - [Future flipped-classroom research should be well-designed, sufficiently powered RCTs with low risk of bias reported per CONSORT](flipped-classroom-needs-well-designed-rcts-consort.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
+- [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
 
 ## Examples
 -

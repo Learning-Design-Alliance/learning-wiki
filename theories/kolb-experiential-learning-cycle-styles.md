@@ -55,6 +55,7 @@ The article adopts Kolb's model in which "knowledge is created through the trans
 - [VR-based learning environment for beginning driver instruction](../elements/vr-learning-environment-beginning-driver-instruction.md)
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md)
+- [Experiential design method for virtual reality environments](../designs/experiential-design-method-four-areas.md)
 
 ## Key Sources
 - Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898

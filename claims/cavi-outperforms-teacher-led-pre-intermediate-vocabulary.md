@@ -67,3 +67,4 @@ Independent-sample t-test on pre-test scores of pre-intermediate groups (n = 10 
 - [CAVI using Vocaboly produced significantly higher post-test vocabulary scores than teacher-led instruction for intermediate Iranian EFL learners](cavi-outperforms-teacher-led-intermediate-vocabulary.md) — related
 - [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related
+- [Intermediate EFL learners using the Digital Kitchen achieved significantly higher immediate post-test vocabulary gains than learners using a printed recipe in a normal kitchen](digital-kitchen-post-test-vocabulary-gains.md) — a narrower finding that bears on this claim

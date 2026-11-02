@@ -61,3 +61,4 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 - [Metacognitive monitoring deficits are unlikely to be the primary source of academic performance differences between native and non-native speaking students](monitoring-not-primary-source-of-performance-differences.md) — related
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — a broader claim this one bears on
 - [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) — related
+- [Pragmatic instruction alone is insufficient for developing pragmatic comprehension in EFL contexts](pragmatic-instruction-alone-insufficient.md) — related

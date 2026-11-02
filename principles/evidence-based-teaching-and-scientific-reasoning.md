@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (23 for, 17 mixed, 3 against) · 41 studies (9 review, 9 theoretical, 8 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 41 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (24 for, 17 mixed, 3 against) · 42 studies (10 theoretical, 9 review, 8 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 42 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [ASAP contest performance comparisons across datasets were neither effective nor balanced because each dataset had a unique underlying writing construct; performance should be analyzed per writing task](../claims/asap-comparison-not-balanced-per-task.md) [+W] — attached 2026-10-28 from Kumar et al. (2020), which proposed "AES research should report thorough and transparent performance protocols to enable fair comparison and replication".
 - [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](../claims/action-lab-scale-deployment-continuous-improvement.md) [~W] — attached 2026-10-29 from Hollands et al. (2020), which proposed "Interrogate the theory of change for an educational technology tool or strategy before expending resources on high-quality implementation".
 - [The simple reverse-engineering approach to aligning products with Science of Learning principles risks false positives and a narrow perspective on learning](../claims/reverse-engineering-alignment-false-positives.md) [+W] — attached 2026-10-29 from Natalia Kucirkova et al. (2026), which proposed "Embed evidence-informed mechanisms from the earliest stages of product development rather than treating research as post hoc validation".
+- [Regression-discontinuity studies of developmental education apply only near the placement cut score and aggregate across institutions, risking false negatives about effective local practices](../claims/rd-studies-cut-score-aggregation-false-negatives.md) [+W] — attached 2026-11-02 from Collins (2010), which proposed "Because every research design has limitations, community college leaders and policymakers should consider multiple types of evidence rather than reifying a single hierarchy".
 
 ## Objective and learner-valued goal
 

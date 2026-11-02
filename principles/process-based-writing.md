@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (22 for, 17 mixed, 1 against) · 57 studies (20 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 13 of 57 report an effect size · 30 claims rest on one study
+> **Evidence** · 42 claims (23 for, 18 mixed, 1 against) · 58 studies (21 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 58 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,8 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](../claims/drafts-improved-significantly-raters-scores.md) [+W]
 - [Revised drafts were significantly longer than first drafts, with significant effects of COMPASS score and treatment condition on word count](../claims/word-count-increased-significantly-revisions.md) [+W]
 - [Pupils at Level 4a and above, who received the intervention only in Year 6, showed no significant writing benefit](../claims/srsd-no-effect-level-4a-above-year6-only.md) [~W]
+- [Access to spell check and editing tools without explicit instruction did not improve, and may have reduced, control students' error correction](../claims/tool-access-alone-insufficient-editing.md) [~W]
+- [EDIT Strategy effects persist at 12 weeks for total, spelling, and punctuation errors, with a non-significant substance difference](../claims/edit-strategy-maintenance-12-weeks.md) [+W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

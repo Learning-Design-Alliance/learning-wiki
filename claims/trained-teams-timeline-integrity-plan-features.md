@@ -48,3 +48,4 @@ Descriptive analysis of solution implementation plans for 57 new problems discus
 - [TIPS-trained school teams define problems with greater precision (who, what, where, when, why) than untrained teams](tips-trained-teams-greater-problem-precision.md) — related
 - [Trained teams specify intended goal changes and timelines far more often than untrained teams (95.8% and 96.8% vs 4.2% and 3.2%)](trained-teams-goals-timelines-specification.md) — related
 - [Trained teams use more reward elements and fewer system-change elements, and fewer solution steps overall, than untrained teams](trained-teams-solution-element-patterns.md) — related
+- [After TIPS professional development, teams were more likely to define problems with precision, set implementation goals, and document implementation integrity and summative evaluation decisions](tips-pd-problem-processing-steps.md) — related

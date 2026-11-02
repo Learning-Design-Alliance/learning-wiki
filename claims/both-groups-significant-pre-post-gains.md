@@ -74,3 +74,4 @@ Wilcoxon signed rank test on the control group's (N total 13) pre- and post-test
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
+- [Both groups improved significantly from pretest to posttest on the BLAT](blat-within-group-gains-both-groups.md) — possibly the same claim (merge candidate)

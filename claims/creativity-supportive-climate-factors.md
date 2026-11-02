@@ -74,3 +74,4 @@ The review reports, citing Davies et al. (2013), a systematic review of 210 stud
 - [In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence](chsri-combination-three-conditions-strong-course-performance.md) — related
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
 - [Explicit creativity training programs are effective in fostering creativity in formal schooling](explicit-creativity-training-programs-effective.md) — related
+- [At the forming stage teachers distributed across four levels of scientific-methodical work effectiveness, with 42% at the cognitive level and 4% at the creative level](four-levels-teacher-scientific-methodical-effectiveness.md) — related

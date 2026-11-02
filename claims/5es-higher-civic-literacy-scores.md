@@ -73,3 +73,4 @@ Descriptive comparison of mean gain scores from Table 1 of the quasi-experiment:
 - [Prospective teachers taught with an activity-based blended learning strategy scored significantly higher on post-test achievement than those taught with conventional blended learning](abl-achievement-beats-conventional-blended.md) — related
 - [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](practical-work-mean-gain-26-versus-2-8.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
+- [5E-model teaching of lamp brightness produced higher posttest achievement than traditional teaching in a quasi-experiment with 62 11th-grade students](5e-model-lamp-brightness-posttest-achievement.md) — related
