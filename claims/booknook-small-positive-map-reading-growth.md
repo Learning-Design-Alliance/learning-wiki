@@ -61,3 +61,4 @@ Cluster-randomized study in six Rocketship public charter schools in Northern Ca
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — related
 - [OnYourMark tutoring did not produce significantly better performance on the NWEA MAP](onyourmark-no-significant-nwea-map-effect.md) — related
 - [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md) — related
+- [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](peer-tutoring-final-grade-advantage.md) — a narrower finding that bears on this claim

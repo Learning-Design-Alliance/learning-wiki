@@ -52,6 +52,6 @@ Paired sample t-test analysis within the experimental group (n=30, df=29) in the
 ## Related Claims
 - [Task planning with mind maps raises post-test self-regulation strategy scores of pre-service teachers relative to a control group, except for rehearsal](mind-map-planning-improves-srl-strategies-preservice-teachers.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — a narrower finding that bears on this claim
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — a narrower finding that bears on this claim
 - [Mind-map task planning raises pre-service teachers' intrinsic goal orientation and self-efficacy more than direct task completion](mind-map-planning-raises-goal-orientation-self-efficacy.md) — related
 - [Pre-service teachers' open-ended responses most frequently attribute to mind-map planning effects on metacognitive self-regulation, concentration and planned study](mind-map-planning-qualitative-views-metacognition.md) — related

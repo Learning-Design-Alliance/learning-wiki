@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 136 claims (101 show a difference, 15 mixed, 20 no difference) · 110 studies (61 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 110 report an effect size · 134 claims rest on one study
+> **Evidence** · 139 claims (103 show a difference, 15 mixed, 21 no difference) · 112 studies (63 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 112 report an effect size · 137 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -174,6 +174,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [The STAD group showed a larger descriptive gain in problem solving ability than the PBL group.](../claims/stad-larger-descriptive-gain-problem-solving.md) [+W] — instruction changes it
 - [Post-application scores in oral linguistic performance and decision-making are strongly positively correlated (r = 0.989)](../claims/post-performance-decision-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Training in linguistic classroom activities is followed by statistically significant pre-post gains in decision-making skill, with eta squared of 0.91](../claims/linguistic-activities-decision-making-gains.md) [+M] — instruction changes it
+- [ANCOVA confirmed a significant effect of the problem-solving instructional strategies on stoichiometry problem-solving performance](../claims/ancova-significant-problem-solving-instruction-effect.md) [+M] — instruction changes it
+- [Problem-solving instruction reduced the percentage of students showing each stoichiometric difficulty far more than conventional lecture instruction](../claims/problem-solving-instruction-reduces-stoichiometry-difficulties.md) [+M] — instruction changes it
+- [The intervention produced no significant group differences on distal problem-solving measures, as the authors predicted because problem solving was not directly taught](../claims/no-problem-solving-transfer-gains.md) [-M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

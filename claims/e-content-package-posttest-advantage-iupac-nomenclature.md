@@ -73,3 +73,4 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — a narrower finding that bears on this claim
 - [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](mutual-learning-outperforms-conventional-b-ed-english.md) — related
+- [E-learning strategy produced higher post-test achievement in English than conventional methods among low-scoring in-service B.Ed distance teachers](elearning-strategy-more-effective-english-inservice-bed.md) — related

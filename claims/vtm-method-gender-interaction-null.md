@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: nail-m-alhajya-2018
     resource: "https://doi.org/10.3926/jotse.331"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The teaching method by gender interaction on post-test oral skills scores was not statistically significant (F=1.435, sig=.237). [→ Nail M. Alhajya 2018](#nail-m-alhajya-2018)
@@ -57,3 +58,7 @@ ANCOVA on the 48-student quasi-experiment tested the Group*Gender interaction on
 - [No statistically significant main effect of gender on Arabic grammar achievement](no-gender-main-effect-arabic-grammar-achievement.md) — related
 - [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related
 - [The teaching method by gender interaction on chemistry achievement was not significant](no-method-gender-interaction-chemistry-achievement.md) — related
+- [The group-by-gender interaction on reading fluency was not statistically significant](nim-group-gender-interaction-null.md) — related
+- [No significant difference in mathematics achievement due to gender among third graders](no-gender-effect-maths-achievement-blended-study.md) — related
+- [No statistically significant interaction between teaching method and gender on post-achievement](no-method-gender-interaction-third-grade-science.md) — related
+- [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](no-strategy-gender-interaction-maths-achievement.md) — related

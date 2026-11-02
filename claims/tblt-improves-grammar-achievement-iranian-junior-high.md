@@ -50,3 +50,4 @@ Islam NamazianDost, Ghassem Bohloulzadeh, Abdolreza Pazhakh. (2017). The Effect 
 
 ## Related Claims
 - [The experimental group's grammar scores rose significantly from pretest to posttest under TBLT](tblt-within-group-grammar-gain.md) — related
+- [The control group's grammar scores also increased significantly from pretest to posttest without any error correction session](control-group-significant-prepost-gain.md) — related

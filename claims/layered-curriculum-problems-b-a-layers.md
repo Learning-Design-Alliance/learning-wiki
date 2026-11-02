@@ -66,3 +66,4 @@ Qualitative descriptive analysis of the 10 interviews: 9 students solved problem
 ## Related Claims
 - [Layered Curriculum activities produced a significant pre-to-post gain in experimental students' problem solving skills scores](layered-curriculum-prepost-gain.md) — related
 - [Experimental group students significantly outperformed control group students on the post-test of problem solving skills](layered-curriculum-posttest-group-difference.md) — related
+- [Students exposed to the layered curriculum chose activities they believed would reinforce learning and reported increased motivation and responsibility](layered-curriculum-student-activity-choice-motivation.md) — related

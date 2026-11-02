@@ -75,3 +75,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](multimedia-vocabulary-effectiveness-reported.md) — related
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — a narrower finding that bears on this claim
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [The experimental group's advantage persisted on a delayed posttest one week later, with scores 8.19% higher than the control group and a small-to-medium effect (d = −0.40) that was not statistically significant](audiovisual-listening-delayed-posttest-advantage.md) — related

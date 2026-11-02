@@ -52,3 +52,4 @@ Narrative review section on factors influencing pronunciation mastery. The diges
 - [AI-GFCA students show better pronunciation, fluency and IELTS speaking predictor scores than AI-C students, but intonation does not differ](ai-gfca-english-speaking-skills.md) — related
 - [Pronunciation of words by a narrator or by the learner inhibits foreign vocabulary learning](pronunciation-inhibits-vocabulary-learning.md) — related
 - [Native-speaker raters of Arabic-accented English speech focused more on prosodic elements (stress, rhythm, intonation, speech rate, sentence melody) than on individual sounds](ns-raters-focus-on-prosodic-elements.md) — related
+- [Ongoing assessment showed students could exchange information but struggled to maintain basic conversation with the native speaker, with pronunciation and limited vocabulary as main problems](ongoing-assessment-conversation-club-limits.md) — related

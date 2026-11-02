@@ -46,7 +46,8 @@ The article's redesigned methodology places a system of tasks at the core of the
 - [Robotics Task Approach Experiment](../claims/robotics-task-approach-experiment.md) [+M]
 
 ## Related Designs
-- 
+
+- [Nine methodological principles of content selection for problem-based specialized courses](nine-content-selection-principles-specialized-courses.md)
 
 ## Examples
 -

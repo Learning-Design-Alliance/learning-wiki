@@ -61,6 +61,7 @@ The structure operationalizes two well-supported ideas: activating prior knowled
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a common During-phase participation structure
 - [Gallery Walk](../strategies/gallery-walk.md) — an After-phase format for sharing and critiquing student work
 - [Teachers as designers and guardians of the task structure across all three AIRIS phases](teacher-guardian-of-ai-task-structure.md)
+- [Teach video-based listening lessons through a three-phase preview–view–review task cycle](preview-view-review-video-task-cycle.md)
 
 ## Examples
 - **Connected Mathematics Project (CMP)** — [https://www.mheducation.com/prek-12/program/microsites/MKTSP-OIP01M0.html] — middle-school units structured as Launch, Explore, Summarize.

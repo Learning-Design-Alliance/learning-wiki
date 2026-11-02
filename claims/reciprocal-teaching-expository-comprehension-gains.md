@@ -49,3 +49,4 @@ Pre-test-post-test control group experiment with 26 experiment and 28 control fo
 - [Experiment and control groups were equivalent on all RCES dimensions before the intervention](pretest-equivalence-rces-groups.md) — related
 - [The experiment group teacher credited small-group work, interaction, modelling and student question-writing for improved comprehension and recall](teacher-opinions-reciprocal-teaching-benefits.md) — related
 - [Most experiment students judged reciprocal teaching more effective than their previous comprehension activities, citing ease, effectiveness and fun](student-opinions-reciprocal-teaching-effectiveness.md) — related
+- [A 14-week digital writing workshop produced significantly greater story-writing gains than regular curriculum lessons in fourth-grade students](digital-writing-workshop-improves-story-writing.md) — related

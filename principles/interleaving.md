@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (22 for, 28 mixed, 3 against) · 32 studies (15 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 16 of 32 report an effect size · 50 claims rest on one study
+> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 33 studies (16 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 17 of 33 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](../claims/interleaving-final-exam-main-effect.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
 - [On the final exam, interleaving reduced gaps for URM students, first-generation students, students with lower mother's education, and students with weaker high school mathematics preparation](../claims/interleaving-reduces-prior-knowledge-gaps-final-exam.md) [~M] — attached 2026-10-27 from Steve Bennoun et al. (2026), which proposed "Reorder homework sets so problems on each topic are distributed across multiple assignments — a low-cost restructuring that requires no extra time, technology, or curricular change"; tests this page's relationship.
 - [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](../claims/interleaved-representations-better-learning.md) [+W] — attached 2026-10-28 from Rau et al. (2014), which proposed "Instructional materials should provide interleaved practice with multiple graphical representations to promote robust learning, especially for conceptual knowledge."; tests this page's relationship.
+- [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](../claims/interleaved-math-practice-nearly-doubles-test-scores.md) [+W] — attached 2026-11-02 from Doug Rohrer et al. (2013), which proposed "Distribute problems of a kind across future assignments instead of blocking all practice of a kind into one assignment"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -68,6 +68,7 @@ Sequencing works because it keeps each task within working memory limits while s
 - [Match problem order to the dominant learning demand: blocked orders for how-learning domains, interleaved orders for when-learning domains](match-problem-order-to-when-how-learning-demand.md)
 - [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](three-phase-constructivist-algebra-word-problems.md)
 - [Structure experimental work so students discover physics rules, keeping them in a loop of higher-order thinking](structured-experiments-higher-order-thinking-loop.md)
+- [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — van Merriënboer's model organizes whole learning tasks into task classes of increasing complexity, with decreasing learner support within each class; the canonical implementation of scaffolded sequencing.

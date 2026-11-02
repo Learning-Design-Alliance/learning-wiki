@@ -55,3 +55,6 @@ Two-way ANOVA on enhancement of MPSA by MPK category (Table 3): interaction F = 
 - [Metacognitive teaching-learning produced higher MLTA post-test scores and N-gain than conventional teaching among medium-MPK students, but not among low-MPK students or the total sample](mtl-better-mlta-medium-mpk-only.md) — related
 - [There is an interaction between learning approach and MPK on SRL but no interaction on MLTA](interaction-approach-mpk-srl-not-mlta.md) — related
 - [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](qasee-equalizes-critical-thinking-across-ability-levels.md) — related
+- [Improvement in mathematical analogical ability differs significantly by students' initial ability category, with higher initial ability associated with higher gain](initial-ability-category-analogical-gain-differences.md) — related
+- [No significant interaction between learning method and initial ability category on mathematical analogical gain](no-method-ability-interaction-analogical-gain.md) — possibly the same claim (merge candidate)
+- [Prior mathematical ability had a significant main effect on mathematics critical thinking ability](pma-significant-main-effect-critical-thinking.md) — related

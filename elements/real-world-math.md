@@ -31,3 +31,4 @@ Real-world math is the element in which mathematical reasoning is embedded in pr
 ## Examples
 
 - [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](../strategies/leverage-hidden-talents-low-ses.md)
+- [Three-part learning support: contextualized real-world problems, hot topics, and question-and-answer](../strategies/three-part-learning-support-strategy.md)

@@ -3,6 +3,7 @@ type: claim
 title: There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.
 description: There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.
 id: no-clear-pattern-characteristics-and-effectiveness
+aliases: [no-clear-pattern-moderators-reading-curricula]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,7 +28,10 @@ sources:
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` The study found no clear pattern in how student, teacher, and school characteristics related to the effectiveness of the interventions. [→ James-Burdumy 2010](#james-burdumy-2010)
+
+`q4 i?` Across subgroup analyses of student, teacher, and school characteristics, the first-year report found no clear pattern in the relationship between these characteristics and intervention effectiveness. [→ James-Burdumy 2010](#james-burdumy-2010)
 
 ## Evidence
 
@@ -41,12 +45,28 @@ The authors' summary of the first-year findings states "There was no clear patte
 
 > "There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions."
 
+<!-- merged 2026-11-02 from no-clear-pattern-moderators-reading-curricula: that page's entry for this study, which differed from the one above, kept verbatim.
+### James-Burdumy 2010
+
+James-Burdumy, S., Deke, J., Lugo-Gil, J., Carey, N., Hershey, A., Gersten, R., Newman-Gonchar, R., Dimino, J., Haymond, K., and Faddis, B. (2010). Effectiveness of Selected Supplemental Reading Comprehension Interventions: Findings From Two Student Cohorts (NCEE 2010-4015). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. http://ies.ed.gov/ncee
+
+`q4 · i?`
+
+Moderator/subgroup findings summarized from the study's first-year report: the authors state there was "no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions." No effect sizes are printed for this summary statement.
+
+> "There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](no-mentoring-retention-relationships-by-district-subgroups.md) — related
 - [ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context](its-benefits-vary-by-design-context.md) — a broader claim this one bears on
+- [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related
+- [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — reports the opposite

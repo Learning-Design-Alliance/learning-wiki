@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (129 show a difference, 41 mixed, 23 no difference) · 143 studies (42 causal, 42 review, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 38 of 143 report an effect size · 189 claims rest on one study
+> **Evidence** · 194 claims (130 show a difference, 41 mixed, 23 no difference) · 144 studies (43 causal, 42 review, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 38 of 144 report an effect size · 190 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -234,6 +234,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The responsive stimulation intervention is directly associated with children's social skills but not behavior problems at age four](../claims/responsive-stimulation-direct-effect-social-skills-age-4.md) [+M] — instruction changes it
 - [The zero-to-two responsive stimulation intervention shows sustained impacts on social skills and behavior problems into the preschool period despite severe disadvantage](../claims/sustained-impacts-early-intervention-preschool-period.md) [+M] — instruction changes it
 - [Within the experimental group, social skill scores increased significantly from pretest to posttest and follow-up](../claims/fss-psv-experimental-group-social-skill-increase.md) [+M] — instruction changes it
+- [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](../claims/eg-gains-four-tolerance-qualities.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

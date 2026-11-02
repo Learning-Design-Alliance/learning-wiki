@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (19 for, 18 mixed, 2 against) · 51 studies (25 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 51 report an effect size · 31 claims rest on one study
+> **Evidence** · 40 claims (20 for, 18 mixed, 2 against) · 52 studies (26 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 8 of 52 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Active processing of instructional explanation prompts increase coverage of main content items](../claims/active-processing-prompts-increase-main-content-coverage.md) [+M] — attached 2026-10-18 from Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle (2020), which proposed "When prompting self-explanations of examples, prefer open-book prompts or add active processing of instructional explanations before closed-book prompts".
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](../claims/online-rca-growth-particle-motion.md) [+W] — attached 2026-10-29 from Cirkony et al. (2022), which proposed "Sequence representational challenges before introducing scientific explanations in online representation-focused units".
 - [Conceptual change texts with concept maps produced significantly higher post-test concept scores than traditional teaching for air pressure](../claims/conceptual-change-texts-concept-maps-beat-traditional-air-pressure-posttest.md) [+W] — attached 2026-11-02 from Akbaş et al. (2011), which proposed "Use conceptual change texts together with concept maps to remediate misconceptions".
+- [Fourth graders taught with conceptual change texts scored significantly higher on the post-test than peers taught with traditional methods](../claims/cct-posttest-favors-experimental-group.md) [+W] — attached 2026-11-02 from Orhan Dağdelen (2015), which proposed "Conceptual change text structure: question, dissatisfaction, refutation, and example-based reinforcement"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

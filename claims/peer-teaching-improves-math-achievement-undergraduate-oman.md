@@ -47,3 +47,4 @@ Pretest-posttest control-experimental group experiment with 32 female Dhofar Uni
 
 ## Related Claims
 - [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — related
+- [Peer-supported low-achieving university students significantly outperformed unsupported controls on English posttest scores after a 15-week LTA program](peer-support-raises-low-achievers-english-posttest.md) — related

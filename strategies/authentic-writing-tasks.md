@@ -92,6 +92,7 @@ Authenticity gives writing a genuine communicative function, which increases eng
 - [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
 - [Support Wikipedia assignments with prior instructor experience, Wikimedia tools, and structured scaffolding](wikipedia-assignment-implementation-best-practices.md)
 - [Use real-life scenarios requiring learners to produce goal-directed language with target vocabulary](real-life-scenario-vocabulary-strategy.md)
+- [Design authentic tasks following Mishan's six guidelines for task authenticity](mishan-six-guidelines-authentic-task-design.md)
 
 ## Examples
 - **National Writing Project** classrooms routinely publish student writing to real audiences (anthologies, community blogs, local newspapers); see [https://www.nwp.org](https://www.nwp.org)

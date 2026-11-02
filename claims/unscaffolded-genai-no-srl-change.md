@@ -54,3 +54,4 @@ One-way ANCOVA on SRL (seven-item scale) with pretest as covariate in the quasi-
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [AI-mediated language instruction fosters self-regulated learning among EFL learners more than traditional instruction](ai-instruction-fosters-self-regulated-learning.md) — reports the opposite
+- [Using learning journals produces statistically significant gains in pre-service teachers' self-regulated learning relative to traditional instruction](learning-journals-improve-self-regulated-learning.md) — related

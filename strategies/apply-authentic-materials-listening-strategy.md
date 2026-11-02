@@ -47,6 +47,7 @@ Based on its finding of a significant effect, the article recommends that Englis
 ## Related Strategies
 
 - [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](task-simplification-grading-staging-authentic-listening.md)
+- [Use online audiovisual excerpts to introduce new vocabulary in an authentic target-language context, followed by transcript-based identification and communicative practice](audiovisual-excerpts-vocabulary-introduction-strategy.md)
 
 ## Examples
 -

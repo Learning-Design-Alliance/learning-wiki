@@ -26,7 +26,8 @@ A paper-and-pencil assessment developed by Karp and Konstadt that measures child
 - [The effect of learning mode on preschoolers' working memory capacity did not differ by cognitive style (field-dependent vs field-independent)](../claims/grasplearn-cognitive-style-no-interaction.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Group Embedded Figures Test (GEFT)](group-embedded-figures-test-geft.md)
 
 ## Key Sources
 - Kien Tsong Chau, Zarina Samsudin, Wan Ahmad Jaafar Wan Yahaya. (2018). Graspable Multimedia: A Study of the Effect of a Multimedia System Embodied with Physical Artefacts on Working Memory Capacity of Preschoolers. TOJET: The Turkish Online Journal of Educational Technology, 17(1). https://www.tojet.net/

@@ -47,6 +47,7 @@ Dewey's theory of inquiry, which the paper calls the centerpiece of his philosop
 ## Examples
 
 - [Schools should teach and protect reflective processes, not particular conclusions or ideological positions](../strategies/schools-teach-reflective-processes-not-positions.md)
+- [Situate learners in problematic situations with not-quite-defined questions across 15 technological, cognitive and ethical activities](../strategies/problematic-situations-15-activities-strategy.md)
 
 ## Key Sources
 - Willower, Donald J. (1992). Dewey's Theory of Inquiry and Reflective Administration. Paper presented at the annual convention of the University Council for Educational Administration, Minneapolis. https://eric.ed.gov/?id=ED355669

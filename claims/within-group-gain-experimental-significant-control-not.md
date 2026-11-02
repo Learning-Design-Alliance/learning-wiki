@@ -64,3 +64,5 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [No significant post-test difference between groups on science process skills despite significant within-group gains in both groups](gems-no-between-group-science-process-difference.md) — related
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — possibly the same claim (merge candidate)
+- [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related
+- [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — related

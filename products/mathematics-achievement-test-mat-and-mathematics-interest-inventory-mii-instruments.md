@@ -30,6 +30,7 @@ A researcher-developed 30-item mathematics achievement test and 20-item mathemat
 ## Related Products and Programmes
 
 - [Attitudes toward Mathematics Word Problem Inventory (ATMWPI), Students' Interest Inventory (SII), and Instructional Programme on Mathematics Word Problem (IPMW)](attitudes-toward-mathematics-word-problem-inventory-atmwpi-students-interest-inventory-sii.md)
+- [Researcher-made 50-mark English achievement test](researcher-made-50-mark-english-achievement-test.md)
 
 ## Key Sources
 - Stephen Akinyemi Omotayo & Joshua Oluwatoyin Adeleke. (2017). The 5E Instructional Model: A Constructivist Approach for Enhancing Students' Learning Outcomes in Mathematics. JISTE, Vol. 21, No. 2, 2017.

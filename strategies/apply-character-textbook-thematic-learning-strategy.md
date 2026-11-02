@@ -44,7 +44,8 @@ The authors' closing recommendation is that "teachers can use and apply the text
 - [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](../claims/character-textbook-strengthens-student-character.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt inquiry-based integrated thematic instruction and a supporting national curriculum to promote primary students' character values](adopt-inquiry-integrated-thematic-for-character-values.md)
 
 ## Examples
 -

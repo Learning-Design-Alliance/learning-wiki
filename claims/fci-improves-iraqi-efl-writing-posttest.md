@@ -76,3 +76,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
 - [Descriptive means showed a small decrease in the flipped group's scores and a small increase in the control group's scores](fc-descriptive-mean-shifts.md) — reports the opposite
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](flipped-classroom-grammar-achievement-gains-esl-efl.md) — related
+- [Flipped classroom instruction produces higher functional writing skills than traditional teaching among third-year ESP business majors](flipped-classroom-improves-functional-writing-esp-business-majors.md) — related

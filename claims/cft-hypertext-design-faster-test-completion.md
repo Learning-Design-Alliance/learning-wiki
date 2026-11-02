@@ -56,3 +56,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](se-prompts-increase-time-per-problem.md) — related
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
 - [Competition increases time spent answering questions but not reading time or in-game accuracy](competition-response-time-accuracy-null.md) — related
+- [Students in the individualized tablet lesson progressed far enough to reach a competitive game activity that the frontal-instruction control group could not reach due to time constraints](individualized-pacing-reached-game-activity.md) — related

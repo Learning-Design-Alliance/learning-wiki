@@ -71,3 +71,5 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](abra-fsm-subgroup-five-months-progress.md) — related
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
+- [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
+- [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — related

@@ -65,3 +65,4 @@ Quasi-experimental comparison of two intact College Algebra classes taught by th
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
 - [Problem solving strategy is more effective than the scientific approach for 10th-grade students' mathematical communication ability](problem-solving-strategy-more-effective-communication.md) — related
 - [Students using worked-example worksheets in weekly Supplemental Practice sessions significantly outperformed control students on test 3 and the final exam in a large College Algebra course](sp-worked-examples-outperform-test3-final.md) — related
+- [Post-test achievement was significantly higher for students taught with problem-solving instruction than with conventional lecture](problem-solving-instruction-significant-posttest-advantage.md) — related

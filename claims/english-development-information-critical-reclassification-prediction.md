@@ -52,3 +52,4 @@ Authors' interpretation of the Arizona district modeling results reported in the
 - [The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model](srem-outperforms-discrete-time-hazard-accuracy.md) — related
 - Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification — related
 - [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related
+- [In the San Francisco multisite randomized study, Word Generation students learned more words than controls, and former ELLs outperformed English-only classmates for four years after reclassification, with the gap diminishing yearly](word-generation-san-francisco-ell-advantage.md) — related

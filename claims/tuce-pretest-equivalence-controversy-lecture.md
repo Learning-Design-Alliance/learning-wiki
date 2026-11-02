@@ -57,3 +57,4 @@ Pretest check in the same quasi-experiment: the TUCE was administered before the
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
 - [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — related
 - [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — related
+- [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related

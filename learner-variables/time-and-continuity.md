@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 179 claims (119 show a difference, 40 mixed, 20 no difference) · 153 studies (67 causal, 35 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 153 report an effect size · 175 claims rest on one study
+> **Evidence** · 182 claims (120 show a difference, 41 mixed, 21 no difference) · 155 studies (69 causal, 35 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 155 report an effect size · 178 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -236,6 +236,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Historical correlational data showed students attending more Supplemental Practice days earned higher course averages and success rates above 65% at nine or more days](../claims/sp-attendance-correlates-with-success.md) [+W] — learners who differ on it differ in outcomes
 - [IL course attendance and grades correlated strongly with biology course attendance and final grades (r = 0.588 to 0.848), and were stronger predictors than preentry AAR scores](../claims/il-attendance-grade-correlations-biology.md) [+M] — learners who differ on it differ in outcomes
 - [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](../claims/il-biology-engagement-higher.md) [+M] — instruction changes it
+- [Attendance was significantly higher in each of the four CPS sections than in the control section](../claims/cps-increases-attendance-significant.md) [+M] — instruction changes it
+- [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](../claims/dct-delayed-trends-ci-gains-si-losses.md) [~M] — an instructional effect differs with it
+- [No significant instruction-by-time interaction was found on the discourse completion test](../claims/dct-no-interaction-instruction-time.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 

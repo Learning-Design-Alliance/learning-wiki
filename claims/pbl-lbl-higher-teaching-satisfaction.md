@@ -70,3 +70,4 @@ Null findings from the same satisfaction meta-analysis: the ordinary-rating cont
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](pbl-lbl-hybrid-better-comprehensive-ability.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better medical record writing assessment scores than LBL alone](pbl-lbl-hybrid-better-record-writing-scores.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md) — related
+- [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related

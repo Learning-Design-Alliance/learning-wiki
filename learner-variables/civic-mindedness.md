@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 44 claims (30 show a difference, 7 mixed, 7 no difference) · 20 studies (7 associational, 6 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (31 show a difference, 7 mixed, 7 no difference) · 21 studies (7 causal, 7 associational, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 43 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -86,6 +86,7 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Social value orientation moderates the self-other gap in model-based decision-making, with prosocials showing smaller gaps](../claims/svo-moderates-self-other-model-based-gap.md) [~W] — an instructional effect differs with it
 - [Five-month implementation of the CIEA produced significant group-by-time interactions favouring the experimental group on five of eight basic social-behaviour scales](../claims/ciea-improved-five-basic-social-behaviour-scales.md) [+M] — instruction changes it
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](../claims/ciea-no-prosocial-scale-effect.md) [-W] — instruction changes it
+- [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](../claims/eg-gains-four-tolerance-qualities.md) [+M] — instruction changes it
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

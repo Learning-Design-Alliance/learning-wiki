@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 57 claims (35 for, 21 mixed, 1 against) · 42 studies (14 quant-synthesis, 10 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 42 report an effect size · 55 claims rest on one study
+> **Evidence** · 58 claims (36 for, 21 mixed, 1 against) · 43 studies (14 quant-synthesis, 11 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 43 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](../claims/classroom-learning-more-comprehensive-than-recorded-video.md) [~W]
 - [Self-regulated learning scores increased significantly within the blended group and Control 1 but not significantly within Control 2](../claims/srl-within-group-gains-mixed-across-controls.md) [~W]
 - [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](../claims/tblt-more-effective-than-blended-learning-for-rps.md) [-W]
+- [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](../claims/blended-teaching-third-grade-maths-achievement.md) [+W]
 
 ## Examples
 

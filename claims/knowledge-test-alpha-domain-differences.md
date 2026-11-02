@@ -56,3 +56,4 @@ Meta-regression from Table 2 controlling for log-centered test length. Language 
 - [Reliability estimates vary by region and instrument, with ARS showing α/ω = 0.90 and ABS α/ω = 0.82, and the evidence base geographically uneven](regional-instrument-reliability-variation.md) — related
 - [Science is an exception: hands-on and visual learners are predicted equal science grades despite visual advantage in math, language arts, and social studies](science-exception-grade-predictions.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
+- [The homogenization pretest used in the game-based vocabulary study showed high reliability (Cronbach's alpha = 0.87)](vocabulary-pretest-reliability-alpha-087.md) — related

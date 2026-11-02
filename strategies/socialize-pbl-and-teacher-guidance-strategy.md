@@ -45,7 +45,8 @@ Based on interviews and field findings, the article recommends that "teachers mu
 - [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](../claims/pbl-civic-pretest-posttest-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop challenging mathematics teaching materials that trigger cognitive conflict alongside PBL implementation](challenging-materials-trigger-cognitive-conflict.md)
 
 ## Examples
 -

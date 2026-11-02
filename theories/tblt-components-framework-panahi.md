@@ -47,7 +47,8 @@ The article presents task-based language teaching (TBLT) as the strong version o
 - [Focused vs. unfocused communicative task distinction in task-based language teaching](focused-unfocused-task-distinction-tblt.md)
 
 ## Examples
--
+
+- [Teach video-based listening lessons through a three-phase preview–view–review task cycle](../strategies/preview-view-review-video-task-cycle.md)
 
 ## Key Sources
 - Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148

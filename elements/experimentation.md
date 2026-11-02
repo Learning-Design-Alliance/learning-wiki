@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (7 for, 8 mixed, 2 against) · 24 studies (9 quant-synthesis, 8 causal, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (9 for, 8 mixed, 2 against) · 25 studies (9 causal, 9 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 25 report an effect size · 13 claims rest on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -63,6 +63,8 @@ Experimentation supports learning by making learners active generators and teste
 - [In two minimally-guided PhET simulation activities, spectral clustering consistently identifies a larger systematic-inquiry cluster and a smaller free-exploration cluster across all three feature paradigms](../claims/systematic-free-inquiry-clusters-simulations.md) [~W]
 - [The VCL's open infrastructure leaves all variables to students' experimental design](../claims/vcl-open-infrastructure-student-design.md) [~W]
 - [Post-test percentage of uninformative explorations was significantly lower for experimentals than controls](../claims/inquiry-preschool-science-uninformative-posttest-difference.md) [~W]
+- [Secondary students taught physics with experiments achieved higher final-test scores than students taught by traditional method](../claims/experiment-method-higher-physics-achievement-viscosity.md) [+W] — attached 2026-11-02 from Branka Radulović (2015), which proposed "Stokes-method falling-ball experiment for teaching viscosity"; tests this page's relationship.
+- [Students taught with experiments perceived less cognitive load than students taught by traditional method](../claims/experiment-method-lower-perceived-cognitive-load.md) [+W]
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

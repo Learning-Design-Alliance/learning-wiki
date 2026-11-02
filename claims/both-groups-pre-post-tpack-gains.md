@@ -56,3 +56,5 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [Knowledge scores increased significantly from pretest to immediate posttest in both instruction-order groups](dramatization-pretest-posttest-gain-both-groups.md) — related
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
 - [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related
+- [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
+- [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related

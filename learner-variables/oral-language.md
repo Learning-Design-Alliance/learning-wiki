@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (111 show a difference, 36 mixed, 30 no difference) · 117 studies (39 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 34 of 117 report an effect size · 174 claims rest on one study
+> **Evidence** · 182 claims (113 show a difference, 36 mixed, 33 no difference) · 120 studies (42 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 34 of 120 report an effect size · 179 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -214,6 +214,11 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](../claims/podcast-group-outperformed-control-listening-posttest.md) [+M] — instruction changes it
 - [Tier-2 intervention closed the target word learning gap between at-risk treatment students and not-at-risk reference students, but not the listening comprehension gap](../claims/tier2-closes-target-word-gap-not-comprehension-gap.md) [~M] — an instructional effect differs with it
 - [Tier-2 intervention improved listening comprehension of passages containing taught vocabulary, but the effect was not significant for students with initial PPVT scores more than 7 points below the mean](../claims/tier2-intervention-listening-comprehension-moderated-by-initial-vocabulary.md) [~M] — an instructional effect differs with it
+- [Audio-only listening instruction produced no statistically significant pre-to-post change in listening comprehension in the control group](../claims/audio-only-instruction-no-significant-gain.md) [-M] — instruction changes it
+- [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (1st activity)](../claims/phased-listening-no-difference-activity1.md) [-M] — instruction changes it
+- [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (2nd activity)](../claims/phased-listening-no-difference-activity2.md) [-M] — instruction changes it
+- [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
+- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

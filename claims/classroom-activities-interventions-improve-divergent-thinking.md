@@ -72,3 +72,5 @@ The review cites a large-scale review identifying pedagogical features that "app
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — a broader claim this one bears on
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related
+- [Children aged 48-60 months who worked with mind maps for 10 weeks achieved better maths skills post-test scores than children who did not](mind-maps-improve-preschool-maths-skills.md) — related
+- [Children who worked with mind maps achieved better science skills post-test scores than children who did not](mind-maps-improve-preschool-science-skills.md) — related

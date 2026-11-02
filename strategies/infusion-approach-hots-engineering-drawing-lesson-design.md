@@ -45,7 +45,8 @@ The Infusion Approach embeds named higher-order thinking skills (analytical and 
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](../claims/year-level-moderates-ct-instruction-effectiveness.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](hots-lesson-design-five-components-strategy.md)
 
 ## Examples
 -

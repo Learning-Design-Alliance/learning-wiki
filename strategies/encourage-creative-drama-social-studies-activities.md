@@ -46,7 +46,8 @@ Based on the meta-analytic finding of a wide and positive effect on course achie
 - [Effect sizes across creative drama studies in Social Studies are highly heterogeneous (Q = 90.019, p < .05; I² = 78.893%)](../claims/creative-drama-social-studies-heterogeneous-effect-sizes.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Integrate creative drama activities into primary IT teaching, especially for hard-to-grasp topics like programming and algorithm creation](integrate-creative-drama-into-it-course.md)
 
 ## Examples
 -

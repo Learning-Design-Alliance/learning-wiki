@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (50 for, 46 mixed, 3 against) · 75 studies (28 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 75 report an effect size · 93 claims rest on one study
+> **Evidence** · 100 claims (51 for, 46 mixed, 3 against) · 76 studies (29 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 76 report an effect size · 94 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](../claims/educational-games-improve-first-grade-concept-acquisition.md) [+W] — attached 2026-11-01 from Mohammad Hasan Al-Tarawneh (2016), which proposed "Game-based lessons structured as rule-governed sensory activities with defined objectives"; tests this page's relationship.
 - [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](../claims/board-games-improve-additive-change-problem-solving.md) [~W] — attached 2026-11-01 from Thomas Rajotte et al. (2016), which proposed "Implement daily routines of logical challenges or free practice of mathematical games to develop motivation and transformation-problem solving"; tests this page's relationship.
 - [English recall posttest scores differed significantly across three groups (video games with English language concepts, games without them, and no games) after controlling for pretest scores; the English-concept games group scored highest, but no pairwise comparisons were reported](../claims/linguistic-video-games-improve-english-recalling.md) [~W] — attached 2026-11-01 from Jalalian (2018), which proposed "Use video educational games to enrich the leisure time of English learners".
+- [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](../claims/game-based-tasks-improve-young-learner-vocabulary-achievement.md) [+W] — attached 2026-11-02 from Masoumeh Mehregan (2014), which proposed "Concrete, game-based tasks suit young learners who cannot yet think abstractly"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

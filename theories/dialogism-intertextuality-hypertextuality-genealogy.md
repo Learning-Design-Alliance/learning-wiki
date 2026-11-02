@@ -49,7 +49,8 @@ The article describes a chain of language-centered theories within architectonic
 - [Dialogism: the relation of one utterance to other utterances as the context informing all writing](dialogism-intertextuality-utterance-context.md)
 
 ## Examples
--
+
+- [Teach coursebook texts through four intertextual connection categories before creative writing tasks](../strategies/four-intertextual-connection-categories-strategy.md)
 
 ## Key Sources
 - Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/. [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)

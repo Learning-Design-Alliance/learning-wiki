@@ -59,3 +59,4 @@ Subgroup analysis of the randomised controlled trial, carried out by running the
 - [Offering parents the Parent Academy did not improve pupils' reading or mathematics outcomes in a three-arm randomised controlled trial](parent-academy-no-pupil-attainment-impact.md) — a broader claim this one bears on
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
 - [The parental engagement offer alone showed no statistically significant effect on attainment](parental-engagement-offer-null-effect.md) — related
+- [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — related

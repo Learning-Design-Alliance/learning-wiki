@@ -52,6 +52,6 @@ Quasi-experimental pre-post study of third graders at two Midwestern public elem
 ## Related Claims
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](no-test-anxiety-decrease-without-relaxation-training.md) — related
 - [Post-test test-anxiety scores did not differ significantly between the relaxation-trained subgroups and the control group](post-test-experimental-control-difference-nonsignificant.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — a narrower finding that bears on this claim
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — a narrower finding that bears on this claim
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [The three teaching methods showed no significant post-test differences on the other five SMTML motivation dimensions](no-between-group-differences-other-motivation-dimensions.md) — related

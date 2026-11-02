@@ -50,3 +50,4 @@ Paired t-tests run in SPSS on pretest-posttest scores for each of the four class
 - [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — a broader claim this one bears on
 - [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
 - [Sport science students' baseline analytical thinking skills are very low, at 8.27% in this study and 3.24% mastery in prior research](sport-science-students-baseline-analytical-thinking-very-low.md) — related
+- [All four groups showed statistically significant pretest-to-posttest achievement gains, but gains differed greatly in size](all-groups-gained-unequally-pretest-posttest.md) — related

@@ -55,3 +55,4 @@ Affective sub-theme of the multimedia-group interview analysis: "'motivating tow
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related
 - [All six interviewed experimental-group preservice teachers said visual materials changed their outlook on global warming and made them follow related news more attentively](interviews-visual-materials-changed-outlook.md) — related
 - [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related
+- [The teacher and researcher judged the individualized tablet-group students more motivated than the control group, but report this as a subjective opinion](subjective-higher-motivation-individualized-group.md) — related

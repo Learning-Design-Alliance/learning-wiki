@@ -48,3 +48,4 @@ Quasi-experiment using a "Matching Only Pretest-Posttest Control Group Design" w
 ## Related Claims
 - [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](character-textbook-pretest-posttest-gain.md) — related
 - [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](character-textbook-strengthens-student-character.md) — related
+- [Inquiry-based integrated thematic instruction produces significantly higher character education scores than thematic instruction in primary school students](inquiry-integrated-thematic-beats-thematic-character-education.md) — related

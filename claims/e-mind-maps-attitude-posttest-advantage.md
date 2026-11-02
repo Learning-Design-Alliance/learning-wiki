@@ -50,3 +50,4 @@ Mann-Whitney test comparing the two 15-student groups on the 33-item attitude to
 - [Participants expressed overall agreement (positive attitudes) towards using e-Mind Maps in teaching the English curriculum, with a general mean of 2.15 out of 3.00](positive-attitudes-toward-e-mind-maps-descriptive.md) — related
 - [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
+- [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related

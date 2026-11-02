@@ -3,13 +3,14 @@ type: claim
 title: After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.
 description: After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.
 id: year-one-curricula-no-positive-impacts-four-negative
+aliases: [first-year-no-positive-impacts-four-negative]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-08
+source_checked: 2026-11-02
 sources:
   - id: james-burdumy-2010
     resource: "http://ies.ed.gov/ncee"
@@ -25,10 +26,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` First-year comparisons of fifth-grade test scores between randomly assigned treatment and control schools showed no statistically significant positive impacts, and four statistically significant negative impacts of the curricula were observed. [→ James-Burdumy 2010](#james-burdumy-2010)
+
+`q4 i?` First-year comparisons of treatment and control fifth-grade test scores showed no statistically significant positive impacts of the interventions, and four statistically significant negative impacts of the curricula were observed. [→ James-Burdumy 2010](#james-burdumy-2010)
 
 ## Evidence
 
@@ -42,10 +46,24 @@ The study's first report, based on 2006-2007 data for the first cohort, compared
 
 > "The findings indicated that, after one school year, there were no statistically significant positive impacts of th e interventions, based on comparisons of fifth-grade student test scores in schools that were randomly assigned to us e the interventions and schools that were randomly assigne d to not use the interventions. Four statistically significant negative impacts of the curricula were observed."
 
+<!-- merged 2026-11-02 from first-year-no-positive-impacts-four-negative: that page's entry for this study, which differed from the one above, kept verbatim.
+### James-Burdumy 2010
+
+James-Burdumy, S., Deke, J., Lugo-Gil, J., Carey, N., Hershey, A., Gersten, R., Newman-Gonchar, R., Dimino, J., Haymond, K., and Faddis, B. (2010). Effectiveness of Selected Supplemental Reading Comprehension Interventions: Findings From Two Student Cohorts (NCEE 2010-4015). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. http://ies.ed.gov/ncee
+
+`q4 · i?`
+
+First-year (2006-2007) results of the school-level randomized evaluation, reported in the study's first report and summarized here: comparisons between randomly assigned treatment and control schools' fifth-grade test scores found no statistically significant positive impacts and "Four statistically significant negative impacts of the curricula were observed."
+
+> "the findings indicated that, after one school year, there were no statistically significant positive impacts of the interventions, based on comparisons of fifth-grade student test scores in schools that were randomly assigned to use the interventions and schools that were randomly assigned to not use the interventions. Four statistically significant negative impacts of the curricula were observed."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year.](few-student-subgroup-impact-differences-significant.md) — related
 - [Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases](reading-comprehension-curricula-no-positive-impact-fifth-grade.md) — a broader claim this one bears on
 - [The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).](reading-curricula-no-impacts-one-year-after-implementation.md) — related
@@ -60,3 +78,4 @@ The study's first report, based on 2006-2007 data for the first cohort, compared
 - [A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)](project-criss-null-effects-grade5-randomized-trial.md) — a narrower finding that bears on this claim
 - [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related
 - [The intervention produced no statistically significant effects on standardized measures of reading comprehension](no-transfer-to-standardized-reading-comprehension.md) — related
+- [Schools assigned to Reading for Knowledge disproportionately exited the study before the second year, ending that curriculum's second-cohort implementation](reading-for-knowledge-school-attrition-second-year.md) — related

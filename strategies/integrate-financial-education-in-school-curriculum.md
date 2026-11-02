@@ -42,7 +42,8 @@ The authors recommend embedding financial literacy instruction in the regular sc
 - [Parents with high present bias were less likely to enroll their 8th graders in the financial literacy camp](../claims/present-bias-reduces-camp-enrollment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend game-based financial literacy instruction to students with substantial debt and low-to-moderate income adults](extend-finance-games-to-debt-burdened-and-low-income-groups.md)
 
 ## Examples
 -

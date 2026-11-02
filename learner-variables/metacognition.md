@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 162 claims (104 show a difference, 34 mixed, 24 no difference) · 115 studies (50 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 115 report an effect size · 161 claims rest on one study
+> **Evidence** · 164 claims (105 show a difference, 35 mixed, 24 no difference) · 117 studies (52 causal, 18 associational, 16 review, 11 theoretical, 8 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 117 report an effect size · 163 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -204,6 +204,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Under current training, the control group improved significantly only on the questioning sub-dimension, with no significant change on other sub-dimensions or the scale overall](../claims/control-group-questioning-only-gain.md) [~M] — instruction changes it
 - [Within the experimental group, metacognitive awareness increased significantly from pre-test to post-test on the planning, awareness and questioning sub-dimensions](../claims/experimental-group-within-group-gains.md) [+M] — instruction changes it
 - [SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control](../claims/sss-no-effect-self-regulation-scales.md) [-W] — instruction changes it
+- [Learning approach and KAM show a significant interaction effect on teachers' mathematical questioning ability, though the article's text is internally inconsistent about it](../claims/learning-kam-interaction-questioning-ability.md) [~M] — an instructional effect differs with it
+- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

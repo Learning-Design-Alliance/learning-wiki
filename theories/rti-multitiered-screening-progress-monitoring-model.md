@@ -63,6 +63,7 @@ The article describes the response-to-intervention (RTI) model as a multitiered 
 - [Use a universal screening instrument and documented O&M assessment rather than unconfirmed teacher judgments to identify students needing O&M instruction](../strategies/universal-screening-om-assessment-strategy.md)
 - [Use empirically derived post-intervention benchmarks to decide who exits versus continues to intensive intervention](../strategies/post-intervention-benchmarks-exit-intensive-intervention.md)
 - [Eight-week tier movement cycles with fast-tracking and exit rules aligned to report card periods](../designs/eight-week-tier-movement-fast-tracking.md)
+- [Schools should conduct systematic progress monitoring and small-group Tier 2 early mathematics instruction for struggling first-graders](../strategies/systematic-progress-monitoring-small-group-tier2-math-strategy.md)
 
 ## Key Sources
 - He, W., & Meyer, P. (2021). MAP Growth universal screening benchmarks: Establishing MAP Growth as an effective universal screener. NWEA. https://www.nwea.org

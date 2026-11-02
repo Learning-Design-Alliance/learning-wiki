@@ -56,3 +56,4 @@ Qualitative interviews conducted throughout the semester with experiment-class s
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](cl-gain-significant-control-null.md) — related
 - [Most students in the CL class held positive attitudes toward cooperative learning, including perceived listening gains](cl-questionnaire-positive-attitudes.md) — related
+- [The authors report that humorous instruction changed students' mood, encouraged oral participation and reduced hesitation in speaking English](humour-instruction-improves-classroom-mood-and-speaking-confidence.md) — related

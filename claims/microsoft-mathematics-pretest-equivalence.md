@@ -70,3 +70,4 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — possibly the same claim (merge candidate)
 - [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](pre-test-equivalent-departments.md) — related
 - [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — a narrower finding that bears on this claim
+- [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related

@@ -95,3 +95,4 @@ Regressions predicting perceived task difficulty by relative item difficulty sep
 - [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related
 - [Perceived difficulty was higher for research designs than for samples and measurement](perceived-difficulty-varies-by-topic.md) — related
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
+- [Teachers' mathematical questioning ability falls short on the non-routine and open-ended question indicators in both learning conditions](questioning-ability-weak-on-non-routine-open-ended.md) — related

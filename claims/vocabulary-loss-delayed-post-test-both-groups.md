@@ -69,3 +69,4 @@ Paired sample t-test comparing post- and delayed-test results for the experiment
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — reports the opposite
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
+- [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](dct-delayed-trends-ci-gains-si-losses.md) — related

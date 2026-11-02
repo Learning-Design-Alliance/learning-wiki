@@ -53,3 +53,4 @@ The review reports, citing Al-Khiami et al., that VR "significantly improved the
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — related
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — reports the opposite
+- [Problem-based developmental teaching methods used in engineering research work increased students' motivation levels](problem-based-teaching-increased-motivation-engineering.md) — related

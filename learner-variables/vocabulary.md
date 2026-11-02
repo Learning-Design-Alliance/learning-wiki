@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 159 claims (114 show a difference, 23 mixed, 22 no difference) · 108 studies (51 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 108 report an effect size · 156 claims rest on one study
+> **Evidence** · 163 claims (116 show a difference, 24 mixed, 23 no difference) · 110 studies (53 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 110 report an effect size · 160 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -200,6 +200,10 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+M] — instruction changes it
 - [Tier-2 vocabulary intervention had no effect on standardized measures of overall vocabulary knowledge (posttest PPVT)](../claims/tier2-intervention-no-effect-standardized-vocabulary.md) [-M] — instruction changes it
 - [Synectics-based vocabulary teaching produces significantly higher learning of targeted vocabulary than the direct method in English preparatory classes](../claims/synectics-improves-targeted-vocabulary-learning.md) [+M] — instruction changes it
+- [Both English-only and language minority students maintained and even improved knowledge of taught words over a second school year](../claims/word-generation-knowledge-retained-year-two.md) [+M] — instruction changes it
+- [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](../claims/game-based-tasks-improve-young-learner-vocabulary-achievement.md) [+M] — instruction changes it
+- [No significant difference in vocabulary achievement between male and female young learners learning vocabulary through games](../claims/no-gender-difference-game-based-vocabulary-learning.md) [-M] — instruction changes it
+- [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](../claims/word-generation-boston-quasi-experiment-gains.md) [~M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

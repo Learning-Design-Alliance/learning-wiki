@@ -14,7 +14,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 27 studies (9 review, 7 causal, 7 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (8 for, 5 mixed, 3 against) · 28 studies (9 review, 8 causal, 7 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 10 claims rest on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -78,6 +78,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [During early COVID-19, surveyed K-12 teachers most often used video lectures and reading materials (65.4% each), with 45% describing their approach as learner-centered](../claims/k12-online-strategies-tools-covid-survey.md) [+W]
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](../claims/eat-this-objective-knowledge-increase-significant.md) [+W] — attached 2026-10-31 from Stock-Schröer B et al. (2026), which proposed "Eat This! — interactive synchronous online nutrition-medicine lecture series for medical students".
 - [Dramatization alone produced immediate posttest scores equal to lecture followed by dramatization in first-year medical students](../claims/dramatization-alone-equals-lecture-plus-dramatization-posttest.md) [~W]
+- [In the frontal-instruction control lesson, teacher attention concentrated on the student at the blackboard and most students remained passive](../claims/frontal-lesson-blackboard-attention-passive-students.md) [-W]
 
 ## The evidence by question
 - *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]

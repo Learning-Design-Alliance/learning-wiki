@@ -50,3 +50,4 @@ RCT included in the review: 80 first-year MBBS students, 40 in a 45-minute mind 
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
+- [Preschool children's mind maps consisted mostly of first- and second-level branches, with cross links and examples appearing rarely and only in specific themes](preschool-mind-map-element-distribution.md) — related

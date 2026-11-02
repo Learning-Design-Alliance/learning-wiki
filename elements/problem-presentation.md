@@ -79,6 +79,7 @@ A well-presented problem engages learners in authentic problem-solving by making
 **[Maastricht University PBL](https://www.maastrichtuniversity.nl/education/problem-based-learning)** — A whole curriculum built on presenting authentic problems to small groups, who formulate learning goals and self-direct their study before reconvening.
 
 **[Goal-Based Scenarios (Schank)](https://www.learndev.org/dl/France24/Schank.PDF)** — Simulated missions (e.g., "Sickle Cell Counselor") in which learners are given a role and a goal that can only be achieved by acquiring targeted knowledge and skills.
+- [Situate learners in problematic situations with not-quite-defined questions across 15 technological, cognitive and ethical activities](../strategies/problematic-situations-15-activities-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

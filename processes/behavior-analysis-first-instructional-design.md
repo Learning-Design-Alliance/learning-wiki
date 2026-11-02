@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 23 studies (11 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 23 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (14 for, 9 mixed, 1 against) · 24 studies (12 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 24 report an effect size · 24 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -62,6 +62,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Students of different sports specializations enter swimming courses with different initial levels and sport-specific technique errors, complicating instruction under limited allocated hours](../claims/sport-specialization-specific-swimming-errors.md) [~W]
 - [FTF and blended groups were equivalent in prior music knowledge and attitudes before instruction](../claims/blended-ftf-groups-equivalent-prior-knowledge-attitudes.md) [+W]
 - [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](../claims/pre-test-equivalent-departments.md) [+W]
+- [Prior mathematical ability had a significant main effect on mathematics critical thinking ability](../claims/pma-significant-main-effect-critical-thinking.md) [+W]
 
 ## Related Principles
 - 

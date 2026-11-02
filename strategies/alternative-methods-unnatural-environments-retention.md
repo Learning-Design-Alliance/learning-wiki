@@ -48,6 +48,7 @@ The article concludes that in foreign language settings without possibilities of
 
 - [Combine implicit and explicit word instruction, ensure repeated exposures, and use interesting topics and delayed-feedback review to support vocabulary learning](combine-instruction-exposures-interest-review-strategy.md)
 - [Use authentic pedagogical video materials (e.g., TV5 Monde applications) as the basis for audiovisual vocabulary lessons](tv5-monde-video-vocabulary-lessons.md)
+- [Use online audiovisual excerpts to introduce new vocabulary in an authentic target-language context, followed by transcript-based identification and communicative practice](audiovisual-excerpts-vocabulary-introduction-strategy.md)
 
 ## Examples
 -

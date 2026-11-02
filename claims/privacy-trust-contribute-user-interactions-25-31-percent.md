@@ -48,3 +48,4 @@ Meta-synthesis of 33 empirical studies. The review reports, citing Odilinye and 
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Students who consented most often cited improving education (30%), while students who denied consent most often cited privacy and security concerns (63%)](self-reported-consent-deny-reasons.md) — related
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
+- [Post-test ethical-dimension results are non-uniform: 47% on respecting users in the network, 40% on privacy protection and 30% on knowledge of differences](dca-post-ethical-dimension-profile.md) — related

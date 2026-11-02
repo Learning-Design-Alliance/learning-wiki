@@ -80,3 +80,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
+- [Bonferroni-corrected posttest means favored the blended group (16.45 vs 12.90) after controlling for pretest performance](bonferroni-corrected-means-blended-vs-traditional.md) — a narrower finding that bears on this claim

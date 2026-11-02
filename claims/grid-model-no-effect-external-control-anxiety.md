@@ -53,7 +53,7 @@ ANOVA results for these three MSLQ sub-dimensions (Table 6: external goal orient
 ## Related Claims
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [Grid Model-based science curriculum raises 4th graders' internal goal orientation post-test scores relative to the general curriculum](grid-model-raises-internal-goal-orientation.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [Grid Model curriculum raises task value post-test scores of public-school students relative to controls](grid-model-raises-task-value-public-schools.md) — related
 - [Grid Model curriculum raises self-efficacy post-test scores of public-school students relative to controls](grid-model-raises-self-efficacy-public-schools.md) — related
 - [Cooperative learning raised expectancy-component motivation (control of learning beliefs, self-efficacy for learning and performance) more than lecture-based teaching](cooperative-learning-expectancy-components-motivation.md) — related

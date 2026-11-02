@@ -51,3 +51,4 @@ Two-way ANCOVA interaction term from the quasi-experiment's post exam. The artic
 - [No statistically significant interaction between teaching method and gender on Arabic grammar achievement](no-gender-method-interaction-arabic-grammar.md) — related
 - [No significant interaction between teaching method and gender on conceptual understanding of electric circuits](no-method-gender-interaction-electric-circuits.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
+- [No statistically significant interaction between teaching method and gender on post-achievement](no-method-gender-interaction-third-grade-science.md) — related

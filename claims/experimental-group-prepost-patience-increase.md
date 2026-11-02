@@ -49,3 +49,4 @@ Wilcoxon matched-pairs signed-rank tests of intra-group pre-test/post-test chang
 - [The patience training program produced no significant change in university students' PERMA well-being levels](patience-training-no-wellbeing-effect.md) — related
 - [Patience gains from the training program were maintained at the three-month follow-up test](patience-gains-maintained-follow-up.md) — related
 - [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related
+- [Ranks of ethical and individualistic values rose in the experimental group but changed little in the control group](value-ranks-rose-eg-not-cg.md) — related

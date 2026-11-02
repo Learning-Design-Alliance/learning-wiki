@@ -53,3 +53,4 @@ Preregistered counterbalanced within-subjects classroom experiment in two lectur
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
+- [The experiment used a counterbalanced crossover design in which the same practice problems were rearranged into blocked and interleaved versions](counterbalanced-crossover-interleaved-design.md) — related

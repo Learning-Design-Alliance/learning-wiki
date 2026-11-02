@@ -49,3 +49,4 @@ Stepwise regression analysis of the experimental group's analytical writing rubr
 
 ## Related Claims
 - [In the experimental group, fluency was the largest stepwise-regression contributor to speaking achievement (81% partial contribution)](fluency-highest-speaking-aspect-contribution.md) — related
+- [The schema-building portion of PP instruction contributed most to the experimental groups' performance advantage](schema-building-largest-contribution.md) — related

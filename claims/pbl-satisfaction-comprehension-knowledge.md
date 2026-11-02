@@ -54,3 +54,4 @@ Meta-analysis of 5 studies involving 610 students reporting satisfaction with im
 - [Students in the SCL group report greater satisfaction than those in the LBL group](scl-greater-student-satisfaction.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
+- [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related

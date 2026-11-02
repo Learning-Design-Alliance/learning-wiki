@@ -51,3 +51,5 @@ Process measures collected from intervention-condition participants at the end o
 - [The revised, unified First Step Next retains the efficacy of the original program in preschool settings, though parent-reported effects remain small](fsn-revision-retains-efficacy.md) — related
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
 - [Teachers rated the CSC coaching as highly satisfactory (TCES total M = 89.92)](high-teacher-satisfaction-csc-coaching.md) — related
+- [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — possibly the same claim (merge candidate)
+- [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related

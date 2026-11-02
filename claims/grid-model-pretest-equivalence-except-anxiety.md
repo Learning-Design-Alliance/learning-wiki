@@ -47,7 +47,7 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 ## Related Claims
 - [Grid Model curriculum shows no significant post-test effect on external goal orientation, learning control belief, or test anxiety](grid-model-no-effect-external-control-anxiety.md) — related
 - [The three teaching methods showed no significant post-test differences on the other five SMTML motivation dimensions](no-between-group-differences-other-motivation-dimensions.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](grid-model-public-within-group-gains.md) — related
 - [Grid Model-based science curriculum raises 4th graders' internal goal orientation post-test scores relative to the general curriculum](grid-model-raises-internal-goal-orientation.md) — related

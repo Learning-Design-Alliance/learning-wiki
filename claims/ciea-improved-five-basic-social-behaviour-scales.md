@@ -55,3 +55,4 @@ Quasi-experimental equivalent control-group post-test study in a Ljubljana kinde
 - [Before implementation the experimental and control groups were equivalent on nearly all social-behaviour scales, differing only on Secure-Anxious](ciea-pretest-equivalence-secure-anxious-exception.md) — related
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](ciea-no-prosocial-scale-effect.md) — related
 - [Trained preschoolers were perceived as improving on the EASE non-ToM social adjustment scale](training-improves-ease-non-tom-social-adjustment.md) — related
+- [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](eg-gains-four-tolerance-qualities.md) — related

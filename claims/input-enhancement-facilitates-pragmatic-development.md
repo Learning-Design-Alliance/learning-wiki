@@ -50,3 +50,5 @@ Authors' interpretation in the Discussions section, not a separately tested resu
 - [Explicit information mediated PI's superiority over PBI on interpretation: PI-EI and PBI-EI performed equally, so the PI+EI advantage was attributed to EI, not structured input alone](ei-mediates-pi-advantage-interpretation.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [The authors interpret the Vitamin-based triangles teaching as more effective because multi-sensory materials raise attention and motivation](multisensory-materials-attention-motivation-interpretation.md) — related
+- [Teaching interlanguage pragmatic features improves Iranian translation students' interpretation ability](ilp-instruction-improves-interpretation-ability.md) — related
+- [Iranian translation students are not successful in comprehending interlanguage pragmatic features prior to instruction](translation-students-lack-ilp-comprehension.md) — related

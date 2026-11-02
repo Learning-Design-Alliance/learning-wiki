@@ -64,6 +64,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - [Concrete-Representational-Abstract](concrete-representational-abstract-cra.md) — the broader sequencing framework this strategy fits within
 - [Analogies](../strategies/analogies.md) — a diagram functions as a visual analogy between an unfamiliar problem and a known structure
 - [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
+- [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
 
 ## Examples
 - **Singapore Math / Math in Focus** — strip (bar) models are the central representation for word problems across grades K–8; students draw bars to represent known and unknown quantities before writing equations.

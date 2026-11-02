@@ -62,6 +62,7 @@ Sequencing examples from simple to complex manages intrinsic load during schema 
 - [Think-Aloud Modeling](think-aloud-modeling.md) — narration that makes the reasoning on each example visible
 - [Select relatively simple cases and simplify preparation tasks to reduce the burden of SCL](scl-select-simple-cases-simplify-preparation.md)
 - [Sequence CBPS problems from easy to complex and monitor individual progress](cbps-problem-difficulty-sequencing-strategy.md)
+- [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — how early simple examples are typically presented

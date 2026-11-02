@@ -50,3 +50,4 @@ Anonymous Likert-scale attitude survey administered to the treatment group and a
 - [In an initial feedback survey, students strongly agreed the embodied activities were memorable, helped learning beyond lecture alone, and were recommendable to future groups](initial-student-feedback-memorability-and-recommendation.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](students-strongly-prefer-flipped-courses.md) — related
+- [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related

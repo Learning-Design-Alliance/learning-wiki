@@ -63,6 +63,7 @@ Games can raise engagement and time-on-task, but meta-analytic evidence shows th
 - [Gamification](../strategies/gamification.md) — applies game elements (points, levels, narrative) to non-game activities; here the game itself is the content vehicle
 - [Case-Based Learning](../strategies/case-based-learning.md) — an alternative experiential anchor with more explicit structure and less intrinsic feedback
 - [Gradual introduction of board-game-based learning to support inexperienced teachers](gradual-board-game-introduction-teachers.md)
+- [Use repeated computer-based map-game play as an engaging practice routine for social studies achievement](repeated-computer-game-practice-for-social-studies.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured follow-on that consolidates what play introduced

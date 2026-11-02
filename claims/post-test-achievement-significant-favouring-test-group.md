@@ -48,3 +48,4 @@ Independent samples T test on post-test achievement scores of the 35-student tes
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [Post-test mathematics self-efficacy scores differed significantly between the experimental and control groups, in favour of the concept-cartoon group](posttest-between-group-advantage-concept-cartoons.md) — related
 - [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related
+- [Post-test achievement was significantly higher for students taught with problem-solving instruction than with conventional lecture](problem-solving-instruction-significant-posttest-advantage.md) — related

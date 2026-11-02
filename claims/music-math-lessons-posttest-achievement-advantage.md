@@ -48,3 +48,5 @@ Independent t-test on the researcher-designed 28-item achievement test (adopted 
 - [Children practicing music achieve significantly better overall average school marks than controls](music-practice-higher-overall-school-marks.md) — related
 - [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
 - [Musical training remains a significant predictor of overall marks in multiple regression with income and grade, which have higher partial correlations](music-predictor-multiple-regression-school-marks.md) — related
+- [Music-mathematics integrated lessons produced statistically significant improvements in first- and third-grade students' MSA mathematical ability levels](music-math-integration-improves-msa-abilities.md) — related
+- [Both teachers integrated a variety of music activities spanning all five California mathematics content areas over the ten lessons](teachers-integrated-varied-music-activities-all-content-areas.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 21 studies (8 causal, 6 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 22 studies (9 causal, 6 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 10 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
@@ -62,6 +62,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [Experimental research on free writing's effectiveness for improving writing is inconclusive](../claims/free-writing-experimental-evidence-inconclusive.md) [~W]
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
 - [After 8 weeks, the AWT experimental group scored significantly higher than the control group on all five writing criteria, with lower error count](../claims/awt-posttest-outperforms-traditional-writing.md) [+W] — attached 2026-11-01 from Nazife Burcu TAKIL (2016), which proposed "“Ask, write, throw” (AWT) peer question-exchange writing technique"; tests this page's relationship.
+- [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](../claims/reflective-writing-significant-posttest-gain-chemistry-lab.md) [+W] — attached 2026-11-02 from Ng Sook Han et al. (2012), which proposed "Reflective writing intervention with seven guided prompts after chemistry lab experiments"; tests this page's relationship.
 
 ## The evidence by question
 

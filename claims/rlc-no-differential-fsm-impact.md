@@ -78,3 +78,4 @@ Pre-specified subgroup analysis of the pupil outcome trial comparing FSMever and
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
 - [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related
 - [SfA showed no evidence of differential effects by baseline attainment level](sfa-no-interaction-baseline-attainment.md) — related
+- [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related

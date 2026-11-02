@@ -48,3 +48,4 @@ Qualitative analysis of children's narratives from the 20-minute Classroom Discu
 - [Most children did not accept that different rule sets were not cheating, with under 30% judging neither team had cheated](mixer-cheating-misconception-persists.md) — related
 - [Children showed high engagement and enjoyment of MIXER, with nearly 90% wanting to use it again](mixer-high-engagement-enjoyment.md) — related
 - [MIXER produced no significant far-transfer change in children's empathy (Bryant's Empathy Index)](mixer-no-empathy-far-transfer.md) — related
+- [Modeling games and conflict resolution skills alone was insufficient to increase children's confidence to overcome barriers to active recess play](modeling-games-alone-insufficient-recess-self-efficacy.md) — related

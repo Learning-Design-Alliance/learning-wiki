@@ -189,6 +189,7 @@ The expectation should weaken if direct comparisons with comparable learners and
 - [DragonBox Algebra 5+ App](../strategies/dragonbox-algebra-5-app.md)
 - [Five key representations for introductory statistics: verbal descriptions, visualizations, word equations, GLM notation, and R code](../designs/statistics-five-key-representations.md)
 - [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](../strategies/phase-matched-cfc-analogy-template-usage.md)
+- [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](../strategies/focus-instructional-strategies-strategy.md)
 
 ## Key Sources
 - Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L. (2014). Concreteness fading in mathematics and science instruction: A systematic review. *Educational Psychology Review, 26*(1), 9–25. [doi:10.1007/s10648-014-9249-3](https://doi.org/10.1007/s10648-014-9249-3)

@@ -69,3 +69,5 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
 - [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related
 - [Simulation-based instruction produced significantly higher post-test scores across all three test sections: fill in the blanks, matching, and short answer.](simulation-biology-section-level-gains.md) — related
+- [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related
+- [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related

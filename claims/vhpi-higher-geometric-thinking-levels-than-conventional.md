@@ -71,3 +71,4 @@ Post-test bar-chart analysis (Figure 4) of van Hiele levels in the experimental 
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](vhpi-significant-mean-score-gain-paired-ttest.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
+- [Post-test performance differed sharply between groups, with the experimental group scoring 80% and the control group 20%](posttest-80-versus-20-percent-groups.md) — related

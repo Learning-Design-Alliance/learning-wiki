@@ -61,3 +61,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — related
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
+- [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related

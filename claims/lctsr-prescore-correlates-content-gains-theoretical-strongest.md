@@ -66,3 +66,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](genetics-tutor-18-percentage-point-gains.md) — related
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
+- [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](baseline-pretest-predicts-game-performance-better-than-cmt.md) — related

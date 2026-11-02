@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (16 for, 12 mixed, 2 against) · 32 studies (9 review, 7 quant-synthesis, 5 causal, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 5 of 32 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (17 for, 12 mixed, 3 against) · 33 studies (9 review, 7 quant-synthesis, 6 causal, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 5 of 33 report an effect size · 27 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -77,6 +77,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [The review attributes to Kluger and DeNisi the largest beneficial feedback elements: changes since previous attempt (0.55), specific challenging goals (0.51), low self-esteem threat (0.47) and correct-outcome information (0.43)](../claims/kluger-denis-feedback-elements-effect-sizes.md) [+W]
 - [Students overwhelmingly prefer focused written corrective feedback targeting specific errors at a time](../claims/students-prefer-focused-wcf.md) [+W]
 - [Most treatment teachers and principals rated the study's feedback as more useful, specific, objective, and actionable than their districts' existing feedback](../claims/educators-rated-study-feedback-more-useful.md) [+W]
+- [A remedial grammar error correction session produced no statistically significant posttest difference between the experimental and control groups](../claims/error-correction-session-no-significant-posttest-difference.md) [-W] — attached 2026-11-02 from Fulda Karaazmak (2018), which proposed "Remedial grammar error correction session based on errors from a written pretest"; tests this page's relationship.
+- [The experimental group's grammar scores increased significantly from pretest to posttest after the error correction session](../claims/exp-group-significant-prepost-gain-past-tense.md) [+W] — attached 2026-11-02 from Fulda Karaazmak (2018), which proposed "Remedial grammar error correction session based on errors from a written pretest"; tests this page's relationship.
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

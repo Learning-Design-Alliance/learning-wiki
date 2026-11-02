@@ -55,3 +55,4 @@ Conceptual argument in the section on human learning processes as the mediating 
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
+- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related

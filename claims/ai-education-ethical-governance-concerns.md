@@ -59,3 +59,4 @@ Thematic synthesis (Section 4.4). The review reports that "Concerns frequently c
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — a narrower finding that bears on this claim
 - [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
 - [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
+- [Post-test ethical-dimension results are non-uniform: 47% on respecting users in the network, 40% on privacy protection and 30% on knowledge of differences](dca-post-ethical-dimension-profile.md) — related

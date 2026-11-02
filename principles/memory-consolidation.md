@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (27 for, 22 mixed, 3 against) · 63 studies (37 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 45 claims rest on one study
+> **Evidence** · 53 claims (27 for, 23 mixed, 3 against) · 64 studies (38 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 17 of 64 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](../claims/vocabulary-loss-delayed-post-test-both-groups.md) [~W]
 - [All treatment groups showed positive gains immediately after instruction, followed by losses between the contemporaneous and post-instruction assessments](../claims/immediate-gains-then-decay-all-groups.md) [+W]
 - [Tree-thinking gains from the experimental curriculum were retained on an unannounced closed-book posttest given 5–6 weeks after primary instruction](../claims/tree-thinking-gains-retained-unannounced-delayed-posttest.md) [+W]
+- [Both treatment groups made significant pre-test to post-test gains on the acceptability judgment test, and the gains were maintained at delayed post-test](../claims/ajt-gains-maintained-delayed-posttest.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

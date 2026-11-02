@@ -54,3 +54,5 @@ Quasi-experimental pre-test/post-test comparison of 34 experimental and 34 contr
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - [Experimental group scores continued to rise from Post-test I to Post-test II](posttest1-to-posttest2-gain.md) — related
+- [Post-test reading comprehension means were 87.72 for the trained group versus 72.32 for the control group](speed-reading-posttest-means-87-72-vs-72-32.md) — related
+- [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](strategy-instruction-improves-grade11-esl-reading-comprehension.md) — related

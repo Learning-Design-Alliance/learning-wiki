@@ -79,3 +79,4 @@ In the same RCT, Appendix A3 reports effect sizes of 0.15 for composition qualit
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](writing-instruction-positive-overall-effect-us-ell.md) — a broader claim this one bears on
 - [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md) — related
 - [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](individual-robot-engagement-beats-pairs-divergent-thinking.md) — related
+- [Digital writing workshop participation improved the 6+1 analytic writing dimensions of ideas, organisation, word choice, sentence fluency and spelling](digital-workshop-improves-6plus1-writing-dimensions.md) — related

@@ -60,3 +60,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — a narrower finding that bears on this claim
 - [Students reported insufficient engagement with industry partners and projects not real enough in iteration 2](students-insufficient-industry-engagement-iteration2.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
+- [Lesson observations found authentic tasks and materials contributed positively to grammatical, textual, and illocutionary competence in four of five interventions, and to sociolinguistic competence in three of five](observations-authentic-tasks-competence-contributions.md) — related

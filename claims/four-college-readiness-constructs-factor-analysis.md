@@ -57,3 +57,4 @@ Factor analysis of roughly 40 variables identified as strongly predictive by ran
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](few-splits-identify-high-risk-students.md) — related
 - [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
+- [Teachers' frequency of using data to inform instruction is among the strongest multivariate predictors of student achievement in the sample](teacher-data-use-frequency-predicts-achievement.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ The review attributes this finding to F. Kirschner et al. (2009b), framing colla
 - [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](conceptual-knowledge-interaction-and-time-on-task.md) — related
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — possibly the same claim (merge candidate)
 - [Collaborating learners learn more effectively and efficiently than individual learners on cognitively challenging tasks, but group work becomes disadvantageous on cognitively unchallenging tasks](task-complexity-moderates-group-learning-advantage.md) — related
+- [The experiment method showed positive instructional efficiency (EE = 0.37) while the traditional method showed negative efficiency (EC = -0.37)](positive-instructional-efficiency-experiment-method.md) — related

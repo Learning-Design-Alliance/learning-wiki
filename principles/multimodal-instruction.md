@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (26 for, 24 mixed, 4 against) · 52 studies (25 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 52 report an effect size · 48 claims rest on one study
+> **Evidence** · 55 claims (27 for, 24 mixed, 4 against) · 53 studies (26 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 53 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](../claims/video-beats-audio-listening-gain.md) [+W] — attached 2026-11-01 from Yasin et al. (2018), which proposed "Use video rather than audio materials for teaching listening skills"; tests this page's relationship.
 - [Learners taught French vocabulary with an audiovisual method (listening to video pronunciation while following the written script) achieved higher learning success rates in week one than learners taught with the conventional method](../claims/audiovisual-method-higher-vocabulary-learning-success.md) [+W] — attached 2026-11-02 from Bozavlı (2017), which proposed "Present new vocabulary with simultaneous voice and written script so learners hear pronunciation while following the text"; tests this page's relationship.
 - [Learners taught with the audiovisual method showed higher vocabulary retention in week two than learners taught with the conventional method](../claims/audiovisual-method-higher-vocabulary-retention.md) [+W] — attached 2026-11-02 from Bozavlı (2017), which proposed "Present new vocabulary with simultaneous voice and written script so learners hear pronunciation while following the text"; tests this page's relationship.
+- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — attached 2026-11-02 from Abdullah Sarani et al. (2014), which proposed "Use video rather than audio-only materials for listening instruction because visual cues convey contextual and paralinguistic meaning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

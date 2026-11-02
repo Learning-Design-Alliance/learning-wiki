@@ -43,6 +43,7 @@ The article describes a teaching technique arising from CL's systematic account 
 
 - [Model Drawing Strategy](model_drawing_strategy.md)
 - [Combine CL-based cognitive explanations with DDL concordance work when teaching polysemous spatial prepositions](combine-cl-with-ddl-strategy.md)
+- [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](hots-lesson-design-five-components-strategy.md)
 
 ## Examples
 -

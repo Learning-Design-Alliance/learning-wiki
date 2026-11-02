@@ -59,8 +59,10 @@ Multi-component self-regulation approaches align with the broader finding that i
 6. Fade adult prompting toward a learner-managed plan, using [Choice Boards](../elements/choice-boards.md) to let learners select from pre-vetted combinations independently.
 
 ## Related Strategies
+
 - Sensory breaks and individual calming strategies — the components that this strategy combines; combination is the next step once single strategies have been trialed
 - [Coaching](../elements/coaching.md) — the adult support structure through which combinations are modeled, monitored, and faded
+- [Use sensory-room programs to teach adolescents affirmation, visualization and psycho-physiological self-regulation methods](sensory-room-self-regulation-methods-strategy.md)
 
 ## Examples
 - An occupational therapist designs a regulation plan for an autistic second-grader: five minutes of heavy work (carrying books, wall pushes) followed by sitting on a wiggle cushion with noise-reducing headphones during independent reading, with a visual [Check-In](../elements/check-in.md) card afterward.

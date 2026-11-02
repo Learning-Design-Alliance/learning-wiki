@@ -51,3 +51,4 @@ Mixed-effects logistic regression on selection accuracy in the near transfer que
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [The training shows no significant transfer to academic learning tasks, with only a marginal post-test advantage in number conservation](weak-academic-transfer-number-conservation-marginal.md) — related
 - [Both errorful learning methods improve design critique (understanding the indeterminacy of invalid experiments) equally, outperforming errorless practice](errorful-learning-improves-design-critique.md) — related
+- [Post-test cognitive-dimension performance is strong for reading, selecting and interpreting text (50%) and evaluating information relevance and reliability (52%), but poor for organising data and tables and formal-logic comparison](dca-post-cognitive-dimension-profile.md) — related

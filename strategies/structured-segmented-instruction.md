@@ -60,8 +60,10 @@ Structured/segmented instruction works because working memory is severely limite
 6. **Integrate**: recombine the parts in a whole task or synthesis activity so learners experience the concept or process as a coherent whole.
 
 ## Related Strategies
+
 - [Direct Instruction](direct-instruction.md) — the instructional pattern within which segmented teaching most often operates
 - [Mastery Learning](mastery-learning.md) — a natural pairing: each segment is mastered before the next begins
+- [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — the sizing mechanism; determines how much is presented per segment

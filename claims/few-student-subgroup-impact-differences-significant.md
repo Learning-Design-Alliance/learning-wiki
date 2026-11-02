@@ -73,3 +73,4 @@ Section heading for the Cohort 1 follow-up subgroup analyses reports that "EIGHT
 - Ecological inference methods for subgroup analyses yield large design effects — related
 - [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related
 - [Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year](three-curricula-no-significant-impacts-year-one.md) — related
+- [Schools assigned to Reading for Knowledge disproportionately exited the study before the second year, ending that curriculum's second-cohort implementation](reading-for-knowledge-school-attrition-second-year.md) — related

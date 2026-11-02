@@ -57,3 +57,4 @@ Pre-specified subgroup analysis adding an interaction term to the primary cluste
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
 - [Any English benefit of the summer school extended to FSM-eligible pupils and boys, with no apparent benefit in maths for these groups](future-foundations-english-benefit-boys-fsm.md) — related
 - [SfA showed no evidence of differential effects by baseline attainment level](sfa-no-interaction-baseline-attainment.md) — related
+- [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related

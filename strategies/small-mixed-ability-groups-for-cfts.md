@@ -47,6 +47,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Distribute SLC group roles and tasks according to each member's capability so students exchange information](tailor-slc-roles-to-student-capability.md)
 - [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
 - [Facilitator-led pedagogical intervention pairing slow learners with proficient peers and giving feedback](facilitator-pedagogical-intervention-oct.md)
+- [Compose discovery groups mixing high, medium, and low ability so peers support lower-ability students](mixed-ability-discovery-grouping-strategy.md)
 
 ## Examples
 -

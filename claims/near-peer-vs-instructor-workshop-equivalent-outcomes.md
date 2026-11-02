@@ -49,3 +49,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
+- [Peer-led and clinical educator-led group teaching produce no significant difference in student test scores in clinical physiotherapy placements](peer-vs-educator-led-clinical-group-teaching-no-score-difference.md) — related

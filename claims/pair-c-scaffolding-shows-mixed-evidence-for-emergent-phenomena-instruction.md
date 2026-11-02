@@ -77,3 +77,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Argumentation-based teaching produces more frequent clear conceptual comprehension and fewer misconceptions about Functions than traditional teaching](argumentation-improves-conceptual-comprehension-functions.md) — related
 - [Instruction with visual materials rectified more global warming misconceptions than traditional instruction (about 40% versus about 12% success)](visual-materials-rectify-global-warming-misconceptions.md) — related
 - [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related
+- [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related

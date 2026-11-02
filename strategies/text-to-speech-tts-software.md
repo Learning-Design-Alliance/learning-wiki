@@ -94,6 +94,7 @@ TTS bypasses decoding bottlenecks so learners can devote working memory to compr
 5. Review periodically whether TTS remains an access tool or is displacing needed decoding practice.
 
 ## Related Strategies
+
 - [Audiobooks](audiobooks.md) — the pre-recorded counterpart; human narration offers prosody TTS lacks, while TTS offers any-text flexibility
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — TTS rate adjustment is a direct lever for pacing
 - [Accessible Syntax](accessible_syntax.md) — simplifying text complements TTS by reducing the comprehension burden of complex sentences
@@ -103,6 +104,7 @@ TTS bypasses decoding bottlenecks so learners can devote working memory to compr
 - Audiobooks — a pre-recorded alternative serving the same access function with human narration
 - Multisensory presentation — TTS as one channel in a multimodal design
 - Universal Design for Learning — TTS as a standard multiple-means-of-representation option
+- [Use TTS as an out-of-class pedagogical tool accompanied by explicit instruction and oral practice](tts-out-of-class-tool-with-explicit-instruction-and-oral-practice.md)
 
 ## Examples
 - **[Learning Ally](https://learningally.org)** and **[Bookshare](https://www.bookshare.org)** — accessible libraries serving students with print disabilities, combining human-narrated and TTS audio with synchronized text.

@@ -52,3 +52,5 @@ Wilcoxon Signed Ranks Test on the 44-student experimental group's pre- and post-
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related
 - [The control group's academic achievement also increased significantly from pre-test to post-test under face-to-face problem-based collaborative learning](control-group-pretest-posttest-gain.md) — related
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — related
+- [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related
+- [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — related

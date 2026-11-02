@@ -74,3 +74,4 @@ Dependent samples t-test on the 29 control students' scores; means were 43.75 (p
 - [Both groups improved from pretest to posttest, with most experimental students passing the KKM threshold of 60](pretest-posttest-gains-and-kkm-passing.md) — related
 - [Within-group gains on the multiple-choice achievement test were significant only for the Roundhouse Diagram group, not the control group](roundhouse-gain-significant-control-not.md) — related
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — possibly the same claim (merge candidate)
+- [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related

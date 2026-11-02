@@ -67,3 +67,4 @@ Subgroup analysis of the clustered RCT for FSM-eligible pupils. The summary tabl
 - [The MathsFlip effect on KS2 maths for FSM-eligible pupils was slightly higher than for all pupils but not statistically significant](mathsflip-fsm-subgroup-effect.md) — related
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
+- [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related

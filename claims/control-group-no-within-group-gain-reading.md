@@ -48,3 +48,4 @@ Paired-sample t-test on the 26-student control group's pre- and post-test scores
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — related
 - [After a 6-week treatment, Turkish EFL learners assigned online reading tasks did not differ in reading test scores from learners who continued reading on paper](online-reading-tasks-no-posttest-difference-efl.md) — related
 - [Within the experiment group, six weeks of online reading tasks produced no statistically significant change in reading test scores](online-tasks-no-within-group-gain-experiment.md) — related
+- [The paper-based control group showed no statistically significant gain from pre-test to post-test](control-group-no-significant-pretest-posttest-gain.md) — possibly the same claim (merge candidate)

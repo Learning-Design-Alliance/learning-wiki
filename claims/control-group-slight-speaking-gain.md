@@ -49,3 +49,4 @@ Paired-samples t-test on the control group's pre- and post-test speaking scores 
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
 - [The control group also made statistically significant pretest-to-posttest gains in speaking and writing, so improvement was not exclusive to the short-stories treatment](control-group-also-improved-significantly.md) — reports the opposite
 - [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — related
+- [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — related

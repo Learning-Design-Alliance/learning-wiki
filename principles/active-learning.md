@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (39 for, 29 mixed, 3 against) · 57 studies (20 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 57 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (40 for, 29 mixed, 3 against) · 58 studies (21 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 58 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [The model-building group produced far fewer total test mistakes than the lecture group in the first interim block](../claims/inguinal-model-total-mistakes-reduced.md) [+W]
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](../claims/traditional-low-gain-versus-pe-45-percent.md) [~W]
 - [Class work completion rates were slightly lower for the clicker group when learning new content](../claims/clickers-lower-classwork-completion-new-content.md) [-W]
+- [CPS sections improved at a higher rate across lecture exams than the control group, with a third-exam exception](../claims/cps-higher-lecture-exam-improvement.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

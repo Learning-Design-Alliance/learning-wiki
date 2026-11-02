@@ -29,6 +29,7 @@ A 25-item researcher-developed chemistry achievement test measuring Senior Secon
 
 - [Chemical Bonding Performance Test (CBPT)](chemical-bonding-performance-test-cbpt.md)
 - [Academic Performance Tests in English Language (ATEL)](academic-performance-tests-in-english-language-atel.md)
+- [Validated stoichiometry achievement test (Cronbach alpha 0.84)](validated-stoichiometry-achievement-test-cronbach-alpha-084.md)
 
 ## Key Sources
 - Telimoye Leesi Mitee and Georgina N. Obaitan. (2015). Effect of Mastery Learning on Senior Secondary School Students' Cognitive Learning Outcome in Quantitative Chemistry. Journal of Education and Practice, Vol.6, No.5. https://www.iiste.org

@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (36 show a difference, 17 mixed, 3 no difference) · 29 studies (13 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 10 of 29 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (37 show a difference, 17 mixed, 3 no difference) · 30 studies (14 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 10 of 30 report an effect size · 52 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -92,6 +92,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [In a prior fractions experiment, only the understanding-perception condition outperformed the control condition](../claims/prior-fractions-experiment-only-combination-outperformed.md) [+M] — instruction changes it
 - [Working on understanding-activities reduced errors in subsequent perception-activities, with no evidence for the reverse direction](../claims/understanding-activities-reduced-subsequent-perception-errors.md) [~M] — instruction changes it
 - [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](../claims/both-interventions-beat-control-naep-number-line-calculations.md) [+M] — instruction changes it
+- [Problem-solving instruction reduced the percentage of students showing each stoichiometric difficulty far more than conventional lecture instruction](../claims/problem-solving-instruction-reduces-stoichiometry-difficulties.md) [+W] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

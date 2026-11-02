@@ -56,3 +56,4 @@ PSSA scores were collected during the intervention year, capturing roughly the f
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](younger-struggling-readers-benefited-more.md) — related
 - [A national evaluation design was produced to assess supplemental reading comprehension programs for fifth-grade students](national-evaluation-design-supplemental-reading-comprehension-fifth-grade.md) — related
 - [Reading for Knowledge had a statistically significant negative impact on students' reading comprehension scores in the study's first year](reading-for-knowledge-negative-impact-year-one.md) — a narrower finding that bears on this claim
+- [Schools assigned to Reading for Knowledge disproportionately exited the study before the second year, ending that curriculum's second-cohort implementation](reading-for-knowledge-school-attrition-second-year.md) — related

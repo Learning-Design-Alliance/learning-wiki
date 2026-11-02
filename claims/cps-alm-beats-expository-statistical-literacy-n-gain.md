@@ -51,3 +51,4 @@ Quasi-experimental Nonequivalent Pretest-Posttest Control Group study with class
 - [CPS-ALM gains exceed EL gains on most statistical literacy indicators, but analyze-interpretation ability stays in the low category for both groups](cps-alm-literacy-indicator-n-gains-table3.md) — a narrower finding that bears on this claim
 - [Academic self-concept components increased under CPS-ALM, with the self-view-toward-future component rising most (59.38%)](self-concept-component-increases-cps-alm.md) — related
 - [CPS-ALM instruction produces greater statistical self-concept enhancement (medium category, N-gain 0.33) than expository learning (low category, N-gain 0.16)](cps-alm-self-concept-n-gain-medium-vs-low.md) — related
+- [Discovery learning produces significantly greater improvement in junior high students' mathematical analogical ability than expository teaching](discovery-learning-beats-expository-analogical-gain.md) — related

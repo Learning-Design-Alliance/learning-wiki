@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 361 claims (239 show a difference, 84 mixed, 38 no difference) · 261 studies (91 associational, 84 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 70 of 261 report an effect size · 349 claims rest on one study
+> **Evidence** · 363 claims (240 show a difference, 84 mixed, 39 no difference) · 263 studies (91 associational, 86 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 71 of 263 report an effect size · 351 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -411,6 +411,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students with high motivation achieved higher mathematics learning results than students with low motivation](../claims/high-motivation-higher-mathematics-results.md) [+M] — learners who differ on it differ in outcomes
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](../claims/journal-writing-self-assessment-increased-intrinsic-motivation.md) [+M] — instruction changes it
 - [Within both the PAIKEM and the conventional method, high-motivation students scored significantly higher than low-motivation students](../claims/motivation-gap-within-each-method.md) [+M] — learners who differ on it differ in outcomes
+- [No treatment outperformed modeling on adult encouragement barrier self-efficacy](../claims/no-treatment-outperformed-modeling-barrier-self-efficacy.md) [-M] — instruction changes it
+- [Post-test measures of teacher knowledge, self-efficacy, self-reported use, and application were significantly and positively intercorrelated, with the strongest link between self-efficacy and self-reported use](../claims/post-measure-correlations-positive.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

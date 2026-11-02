@@ -51,3 +51,4 @@ The GMADE Process and Applications subtest (30 multiple-choice items) measured o
 - [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](sbi-did-not-moderate-growth-over-time.md) — related
 - [Story Friends produced no group differences on distal standardized language measures (PPVT-IV, CELF-P)](no-distal-language-effects-ppvt-celf.md) — related
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
+- [The intervention produced no significant group differences on distal problem-solving measures, as the authors predicted because problem solving was not directly taught](no-problem-solving-transfer-gains.md) — related

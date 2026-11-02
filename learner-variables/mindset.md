@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (34 show a difference, 23 mixed, 7 no difference) · 33 studies (14 associational, 7 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 33 report an effect size · 62 claims rest on one study
+> **Evidence** · 66 claims (35 show a difference, 24 mixed, 7 no difference) · 34 studies (14 associational, 8 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 34 report an effect size · 64 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -95,6 +95,8 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](../claims/mediated-interaction-ses-mindset-minimal.md) [~W] — learners who differ on it differ in outcomes
 - [Prior fixed mindset was not an important predictor of intervention effectiveness despite the intervention reducing fixed mindset.](../claims/prior-mindset-not-a-key-moderator.md) [-M] — learners who differ on it differ in outcomes
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](../claims/growth-mindset-moderates-nrp-simulation-performance.md) [~M] — an instructional effect differs with it
+- [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](../claims/fsm-pupils-teacher-training-malleability-understanding.md) [+M] — instruction changes it
+- [Pupils in both interventions achieved higher growth mindset scores than controls, but with low security](../claims/mindset-scores-higher-low-security.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

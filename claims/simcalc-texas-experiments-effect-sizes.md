@@ -54,3 +54,5 @@ Three Texas studies in 2005-06 and 2006-07 (two randomized, one quasi-experiment
 - [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](genetics-tutor-18-percentage-point-gains.md) — related
 - [Retention gains from computer-assisted instruction held for multiplication and division units but not for fractions](frizbi-retention-multiplication-division-not-fractions.md) — related
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
+- [Experimental and control groups were similar on pretests but differed vastly on posttests, with experimental posttest means near triple control means](pp-pretest-posttest-means-contrast.md) — related
+- [In a randomized Texas study, an adapted ten-week Word Generation version produced significantly greater word learning than control, and control-condition teachers' later students also learned more](word-generation-texas-randomized-word-learning.md) — related

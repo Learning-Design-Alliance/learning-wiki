@@ -54,3 +54,4 @@ Quasi-experimental nonequivalent-groups study of 49 freshman English underachiev
 - [RT remedial instruction did not reduce English learning anxiety more than regular remedial instruction](rt-remedial-no-anxiety-reduction-advantage.md) — related
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — reports the opposite
 - [RT remedial instruction produced significantly higher English self-efficacy than regular remedial instruction at post-test](rt-remedial-self-efficacy-greater-than-control.md) — related
+- [Peer-supported low-achieving university students significantly outperformed unsupported controls on English posttest scores after a 15-week LTA program](peer-support-raises-low-achievers-english-posttest.md) — related

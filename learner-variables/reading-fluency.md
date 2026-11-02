@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (71 show a difference, 23 mixed, 18 no difference) · 70 studies (29 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 70 report an effect size · 111 claims rest on one study
+> **Evidence** · 115 claims (72 show a difference, 25 mixed, 18 no difference) · 72 studies (31 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 72 report an effect size · 114 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -152,6 +152,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [CCTV provision produced significantly greater improvement in reading speed for 1.3M print than eccentric viewing training in adults with age-related macular degeneration](../claims/cctv-greater-reading-speed-gain-than-evt-amd.md) [+M] — instruction changes it
 - [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](../claims/passport-literacy-no-word-reading-fluency-effects.md) [-M] — instruction changes it
 - [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](../claims/initial-fluency-not-consistent-response-predictor.md) [~M] — learners who differ on it differ in outcomes
+- [Students with learning disabilities trained with the Neurological Impress Method showed significantly greater post-test reading fluency than a no-treatment control group](../claims/nim-improves-reading-fluency-learning-disabilities.md) [+W] — instruction changes it
+- [The ECRI effect on oral reading fluency grew with the rate of group practice opportunities, becoming significant at approximately 1.8 opportunities per minute](../claims/ecri-group-practice-rate-by-condition-interaction-orf.md) [~M] — instruction changes it
+- [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](../claims/nim-reading-fluency-gender-difference.md) [~W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

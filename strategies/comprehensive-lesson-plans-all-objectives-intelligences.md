@@ -42,6 +42,7 @@ Based on the finding that both series neglected natural, intrapersonal, musical 
 ## Related Strategies
 
 - [Music and Dance Integration](music_and_dance_integration.md)
+- [Increase Multiple Intelligence Theory-based activities in elementary school mathematics curricula](increase-mi-activities-elementary-math-curricula.md)
 
 ## Examples
 -

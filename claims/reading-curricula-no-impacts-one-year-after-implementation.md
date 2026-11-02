@@ -3,12 +3,14 @@ type: claim
 title: The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).
 description: The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).
 id: reading-curricula-no-impacts-one-year-after-implementation
+aliases: [no-follow-up-impacts-one-year-after-reading-curricula]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-02
 sources:
   - id: james-burdumy-2010
     resource: "http://ies.ed.gov/ncee"
@@ -24,10 +26,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` In the second year, after the first cohort of students was no longer using the interventions, none of the four curricula produced statistically significant impacts on follow-up test scores. [→ James-Burdumy 2010](#james-burdumy-2010)
+
+`q4 i?` When the first cohort was assessed in sixth grade, a year after the interventions ended, none of the four curricula showed a statistically significant impact on reading comprehension test scores. [→ James-Burdumy 2010](#james-burdumy-2010)
 
 ## Evidence
 
@@ -41,10 +46,24 @@ Follow-up testing of the first cohort of fifth-grade students in spring 2008, wh
 
 > "The curricula did not have an impact on students one year after the end of their implementation. In the second year, after the firs t cohort of students was no longer using the interventions, there were no statistically significant impacts of any of the four curricula."
 
+<!-- merged 2026-11-02 from no-follow-up-impacts-one-year-after-reading-curricula: that page's entry for this study, which differed from the one above, kept verbatim.
+### James-Burdumy 2010
+
+James-Burdumy, S., Deke, J., Lugo-Gil, J., Carey, N., Hershey, A., Gersten, R., Newman-Gonchar, R., Dimino, J., Haymond, K., and Faddis, B. (2010). Effectiveness of Selected Supplemental Reading Comprehension Interventions: Findings From Two Student Cohorts (NCEE 2010-4015). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. http://ies.ed.gov/ncee
+
+`q4 · i?`
+
+Follow-up component of a large school-level randomized evaluation: 6,349 first-cohort fifth-graders were followed into sixth grade and tested in spring 2008 after interventions had ended. The report states there were "no statistically significant impacts of any of the four curricula" at follow-up; equivalence was not tested.
+
+> "The curricula did not have an impact on students one year after the end of their implementation. In the second year, after the first cohort of students was no longer using the interventions, there were no statistically significant impacts of any of the four curricula."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year.](few-student-subgroup-impact-differences-significant.md) — related
 - [ReadAbout had a positive and significant impact in the study's second year among teachers with one year of experience using the intervention](readabout-positive-impact-second-year-experienced-teachers.md) — related
 - [ReadAbout showed a positive, statistically significant impact (effect size 0.22) on social studies reading comprehension for second-cohort students taught by teachers with one prior year of experience with the curriculum.](readabout-teacher-experience-positive-impact-es-022.md) — related

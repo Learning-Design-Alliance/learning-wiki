@@ -44,7 +44,8 @@ The authors recommend that textbooks incorporate the material types their interv
 - [Natural-monument misconceptions (e.g., \"It is the name used for mausoleums\") were largely eliminated post-test, with 18 experimental and 12 control students reaching complete understanding](../claims/natural-monument-misconceptions-eliminated-posttest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Disseminate conceptual change texts through teacher training and curriculum materials](cct-dissemination-strategy.md)
 
 ## Examples
 -

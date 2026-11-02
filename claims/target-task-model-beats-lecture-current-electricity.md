@@ -60,3 +60,5 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related
 - [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related
+- [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related
+- [Post-test achievement was significantly higher for students taught with problem-solving instruction than with conventional lecture](problem-solving-instruction-significant-posttest-advantage.md) — a broader claim this one bears on

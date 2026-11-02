@@ -52,3 +52,6 @@ Paired-samples t-test within the control group (n=40); the article reports the p
 - [The experimental group's grammar scores rose significantly from pretest to posttest under TBLT](tblt-within-group-grammar-gain.md) — related
 - [A significant group-by-time interaction shows grammar gains over the semester occurred only for the flipped groups](flipped-by-time-interaction-grammar-gains.md) — reports the opposite
 - [Perceived grammar-skill improvement did not differ between flipped and nonflipped students, and the confidence change was larger in the control group](perceived-grammar-skills-no-group-difference.md) — related
+- [Traditional teaching also produced a significant pre-to-post achievement gain in the control group](control-group-significant-gain.md) — related
+- [The control group's grammar scores also increased significantly from pretest to posttest without any error correction session](control-group-significant-prepost-gain.md) — related
+- [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — related

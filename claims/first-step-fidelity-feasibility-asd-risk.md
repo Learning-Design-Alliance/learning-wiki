@@ -47,3 +47,5 @@ Process and fidelity data collected during the trial for the ASD-risk subsample:
 
 ## Related Claims
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
+- [First Step was implemented with high fidelity and dosage for the at-risk-for-ASD subsample, indicating feasibility](first-step-fidelity-feasibility-asd-subsample.md) — possibly the same claim (merge candidate)
+- [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — related

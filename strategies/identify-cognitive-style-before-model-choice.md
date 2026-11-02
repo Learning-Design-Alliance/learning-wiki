@@ -46,7 +46,8 @@ The article recommends that elementary science teachers first diagnose students'
 - [Teaching model and cognitive style interact significantly in their effect on science achievement](../claims/teaching-model-cognitive-style-interaction.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Adapt L2 teaching approaches to learners' field dependence-independence after assessing their cognitive style](adapt-teaching-to-cognitive-style-fd-fid.md)
 
 ## Examples
 -

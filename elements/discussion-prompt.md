@@ -13,7 +13,7 @@ generated:
 # Discussion Prompt
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 A discussion prompt is a deliberately structured question, scenario, or statement designed to initiate substantive conversation among learners. Unlike generic invitations to "discuss," a well-designed prompt specifies a genuine problem or tension, is answerable from multiple defensible positions, and requires learners to articulate, defend, and revise their thinking in response to peers.
@@ -53,7 +53,7 @@ Discussion prompts convert passive content exposure into active knowledge constr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Teachers face stated constraints in arranging non-routine questions and expecting open-ended answers, including classroom culture and monotonous methods](../claims/constraints-posing-non-routine-open-questions.md) [~W]
 
 ## Related Elements
 - [Moderation](moderation.md) — the facilitation that keeps prompt-driven discussion substantive rather than performative

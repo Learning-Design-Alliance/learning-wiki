@@ -45,6 +45,7 @@ The article's reconstruction of Kohlberg's moral education specifies four integr
 ## Related Strategies
 
 - [SEL Discussions on Ethical Dilemmas](sel_discussions_on_ethical_dilemmas.md)
+- [Situate learners in problematic situations with not-quite-defined questions across 15 technological, cognitive and ethical activities](problematic-situations-15-activities-strategy.md)
 
 ## Examples
 -

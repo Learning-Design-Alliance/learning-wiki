@@ -108,3 +108,4 @@ Regression analysis of final exam grades with Homework Type × High school math 
 - [On the midterm, interleaving significantly reduced the gap between URM and non-URM students relative to blocked homework](interleaving-reduces-urm-gap-midterm.md) — related
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
 - [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](interleaved-homework-final-exam-raw-advantage-calculus.md) — related
+- [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related

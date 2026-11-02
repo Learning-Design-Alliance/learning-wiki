@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 202 claims (138 show a difference, 38 mixed, 26 no difference) · 109 studies (50 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 109 report an effect size · 197 claims rest on one study
+> **Evidence** · 206 claims (142 show a difference, 38 mixed, 26 no difference) · 112 studies (53 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 112 report an effect size · 201 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -240,6 +240,10 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [SRSD intervention effects on total elements vary by writing ability, favoring nonstruggling over struggling writers at maintenance](../claims/srsd-effects-vary-by-writing-ability.md) [~M] — an instructional effect differs with it
 - [The largest SRSD effects in rural Grade 5–6 classrooms are for writing reasons and explanations, with smaller effects for topic and ending sentences](../claims/srsd-largest-effects-reasons-explanations.md) [+M] — instruction changes it
 - [Thirteen weeks of journal writing improved EFL students' writing fluency more than regular writing instruction alone](../claims/journal-writing-improves-efl-writing-fluency.md) [+M] — instruction changes it
+- [Digital writing workshop participation improved the 6+1 analytic writing dimensions of ideas, organisation, word choice, sentence fluency and spelling](../claims/digital-workshop-improves-6plus1-writing-dimensions.md) [+M] — instruction changes it
+- [Flipped classroom instruction produces higher functional writing skills than traditional teaching among third-year ESP business majors](../claims/flipped-classroom-improves-functional-writing-esp-business-majors.md) [+M] — instruction changes it
+- [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](../claims/supplementary-exercises-improve-organized-efl-writing.md) [+M] — instruction changes it
+- [Writing activities matter more than grammar instruction for developing EFL writing](../claims/writing-activities-over-grammar-instruction.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

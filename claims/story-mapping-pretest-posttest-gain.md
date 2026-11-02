@@ -48,3 +48,4 @@ Within-group pre-post comparison of the 42-student experimental group over the t
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
+- [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](supplementary-exercises-improve-organized-efl-writing.md) — related

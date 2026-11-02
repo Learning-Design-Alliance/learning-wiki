@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 71 claims (43 for, 25 mixed, 3 against) · 63 studies (42 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 63 report an effect size · 66 claims rest on one study
+> **Evidence** · 73 claims (44 for, 26 mixed, 3 against) · 64 studies (43 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 64 report an effect size · 68 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -107,6 +107,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](../claims/multimedia-gain-exceeds-traditional-gain.md) [+W] — attached 2026-11-02 from Genç Osman Ilhan et al. (2016), which proposed "Multimedia material set for the 'My Friends Away' social studies unit"; tests this page's relationship.
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](../claims/multimedia-package-higher-posttest-attitude-mathematics.md) [+W] — attached 2026-11-02 from P. Muthulakshmi (2015), which proposed "Investigator-developed interactive multimedia learning package and ATMa attitude inventory for standard IX mathematics"; tests this page's relationship.
 - [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](../claims/experimental-group-significant-attitude-gain.md) [+W] — attached 2026-11-02 from P. Muthulakshmi (2015), which proposed "Investigator-developed interactive multimedia learning package and ATMa attitude inventory for standard IX mathematics"; tests this page's relationship.
+- [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](../claims/positive-attitudes-toward-animation-vocabulary-learning.md) [+W]
+- [The animation group showed a statistically significant gain from pre-test to post-test in vocabulary achievement](../claims/animation-group-significant-pretest-posttest-gain.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

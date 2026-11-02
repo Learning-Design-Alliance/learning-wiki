@@ -103,3 +103,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](feedback-little-role-after-first-successful-retrieval.md) — related
 - [Theoretical mechanisms of the testing effect — semantic elaboration via spreading activation and effortful retrieval within an inverse-U difficulty relationship — may be compromised in learners with dyslexia, whose optimal difficulty levels appear to differ from typical learners](dyslexia-testing-effect-mechanisms-compromised.md) — related
 - [Repeated exposure to the same question shows clear evidence of learning, while many attempts predict lower grades consistent with guessing](repeated-exposure-learning-guessing-at-high-attempts.md) — related
+- [Students initially struggled with game questions but acquired the concepts through repeated play](repeated-game-play-overcomes-initial-difficulty.md) — related

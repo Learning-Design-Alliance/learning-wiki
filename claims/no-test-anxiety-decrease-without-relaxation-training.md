@@ -52,4 +52,4 @@ In the same two-school quasi-experiment, the control group (N = 53) received no 
 ## Related Claims
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related
 - [Post-test test-anxiety scores did not differ significantly between the relaxation-trained subgroups and the control group](post-test-experimental-control-difference-nonsignificant.md) — related
-- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](grid-model-private-school-test-anxiety-decrease.md) — related
+- [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — related

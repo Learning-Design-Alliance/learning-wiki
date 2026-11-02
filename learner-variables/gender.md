@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 455 claims (251 show a difference, 96 mixed, 108 no difference) · 306 studies (151 associational, 101 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 51 of 306 report an effect size · 447 claims rest on one study
+> **Evidence** · 462 claims (252 show a difference, 96 mixed, 114 no difference) · 311 studies (151 associational, 106 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 311 report an effect size · 454 claims rest on one study
 
 ## How to read this page
 
@@ -494,6 +494,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](../claims/no-gender-strategy-interaction-achievement.md) [-M] — an instructional effect differs by group
 - [The teaching-method effect on achievement interacts with student sex](../claims/six-hats-achievement-sex-interaction.md) [+M] — an instructional effect differs by group
 - [Under authentic learning, girls outperformed boys at posttest although both genders improved](../claims/authentic-learning-girls-outperform-boys-posttest.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Control-group learning styles showed no significant difference by gender at either pre-test or post-test](../claims/control-group-no-gender-difference-pre-post.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant difference in mathematics achievement due to gender among third graders](../claims/no-gender-effect-maths-achievement-blended-study.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](../claims/no-strategy-gender-interaction-maths-achievement.md) [-M] — an instructional effect differs by group
+- [No significant treatment-by-gender interaction and no pretreatment gender differences in recess physical activity self-efficacy](../claims/no-treatment-gender-interaction-self-efficacy.md) [-M] — an instructional effect differs by group
+- [No statistically significant interaction between teaching method and gender on post-achievement](../claims/no-method-gender-interaction-third-grade-science.md) [-M] — an instructional effect differs by group
+- [Post-achievement differed significantly by gender in favor of males](../claims/post-achievement-gender-difference-favoring-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The group-by-gender interaction on reading fluency was not statistically significant](../claims/nim-group-gender-interaction-null.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

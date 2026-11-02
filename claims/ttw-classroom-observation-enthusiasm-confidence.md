@@ -60,3 +60,5 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [The authors observed higher motivation among learners doing CALL-based tasks than among those doing written-question tasks](call-tasks-higher-observed-motivation.md) — related
 - [Observations suggested pupils were engaged by and enjoyed the summer school, with the interactive poetry approach appearing to motivate writing](discover-summer-school-pupil-engagement-observations.md) — related
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related
+- [In the creative drama group, students interacted more intensely, listened more diligently, and showed more harmonious and enthusiastic behavior than in the comparison groups](creative-drama-group-more-interaction-enthusiasm.md) — related
+- [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related

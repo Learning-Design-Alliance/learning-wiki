@@ -51,3 +51,4 @@ Attitude questionnaire (Dundee-based Attitude Scale of Creative Teaching) admini
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
 - [Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding](positive-student-attitudes-chatbot-knowledge-gains.md) — related
 - [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related
+- [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related

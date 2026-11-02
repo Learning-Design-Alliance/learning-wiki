@@ -48,3 +48,4 @@ Paired samples t-test on the 53 control-group pre-service teachers taught face-t
 - [Pre-service teachers in a dynamic-web-technology-supported problem-based collaborative learning environment achieved higher post-test course achievement scores than peers in the face-to-face version](dwt-pbl-higher-achievement-posttest.md) — related
 - [The control group also improved significantly from pre-test to post-test under direct instruction, but less than the experimental group](control-group-smaller-significant-gain-direct-instruction.md) — related
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
+- [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related

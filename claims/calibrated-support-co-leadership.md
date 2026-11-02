@@ -117,3 +117,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Purposeful research design can inform sustainability and scalability, but must be balanced with leadership and professional learning](research-design-informs-sustainability-scalability.md) — related
 - [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
+- [Buddy Leaders reported consolidation of their own learning, developing networks, and improved team and leadership skills as benefits of leading SBS groups](buddy-leaders-reported-consolidation-and-leadership-benefits.md) — a narrower finding that bears on this claim

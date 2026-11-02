@@ -49,3 +49,4 @@ Pre-test/post-test control-group study at a Mid-Western public university; 133 e
 - [Conflict orientation scores decreased significantly in both trained and untrained groups, so the decrease cannot be ascribed to the training](conflict-orientation-decrease-both-groups.md) — related
 - [Unidimensional measurement of SPT leaves the SPT–conflict resolution relationship unclear](unidimensional-spt-measurement-limits-conflict-findings.md) — related
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
+- [The authors report that experimental-group students' learning styles did not change from pre-test to post-test](learning-styles-unchanged-pre-post-experimental.md) — related

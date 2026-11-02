@@ -49,3 +49,4 @@ Ascertaining-stage data showed 57% of teachers with high self-esteem, 18% adequa
 - [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Gains were largest on self-esteem, internal locus of control, sense of humor and stress coping skills, and lowest on creativity](resilience-gains-vary-by-protective-factor.md) — related
+- [The control group showed no significant changes in self-regulation indicators across the experiment](control-group-no-significant-self-regulation-changes.md) — related

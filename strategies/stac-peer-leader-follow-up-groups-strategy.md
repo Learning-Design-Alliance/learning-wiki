@@ -46,6 +46,7 @@ Building on observed carry-over effects, the authors recommend that school couns
 ## Related Strategies
 
 - [Standardize peer support around a small universal competency set and invest in training and supervision best practices to enable scale-up](standardize-peer-support-competencies-for-scaling.md)
+- [Use peer-led small group teaching across multiple clinical sites to expand students' condition exposure without increasing educator workload](peer-led-group-teaching-expand-clinical-exposure.md)
 
 ## Examples
 -
