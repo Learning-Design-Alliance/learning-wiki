@@ -8,7 +8,7 @@ generated:
 id: comparing-contrasting-cases-improves-learning
 aliases: [comparing-contrasting-cases-improve-learning, multiple-contrasting-cases-support-abstraction, analogical-reasoning-improves-transfer]
 evidence_strength:
-newest_evidence: 2014
+newest_evidence: 2016
 sources:
   - id: alfieri-et-al-2013
     resource: "https://doi.org/10.1080/00461520.2013.775712"
@@ -28,6 +28,15 @@ sources:
     n: 128 (Experiment 2)
     kind: causal
     rigour: "?"
+  - id: ziegler-stern-2016
+    resource: "https://doi.org/10.1016/j.learninstruc.2015.09.006"
+    title: "Ziegler, E., & Stern, E. (2016). Consistent advantages of contrasted comparisons: Algebra learning under direct instruction. *Learning and Instruction, 41*, 41–51. [doi:10.1016/j.learninstruc.2015.09.006](https://doi.org/10.1016/j.learninstruc.2015.09.006)"
+    author: "Ziegler, E., & Stern, E."
+    q: 3
+    i: 3
+    n: 91
+    kind: causal
+    rigour: 2
   - id: rittle-johnson-star-2007
     resource: "https://doi.org/10.1037/0022-0663.99.3.561"
     title: "Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 561–574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)"
@@ -73,6 +82,8 @@ Learners who compare two or more cases that differ on key features — side by s
 `q3 i?` Undergraduate novices who compared two negotiation cases on one page were more than twice as likely to transfer the principle to a new negotiation as those who studied the same two cases separately (48% vs 19%). [→ Gentner et al. 2003](#gentner-et-al-2003)
 
 `q3 i?` Seventh-graders who compared alternative algebra solution methods side by side gained more procedural knowledge and flexibility than peers who reflected on the same methods one at a time, but gained no more conceptual knowledge. [→ Rittle-Johnson & Star 2007](#rittle-johnson-star-2007)
+
+`q3 i3` When a teacher introduced algebraic addition and multiplication side by side at the blackboard and drew out their differences, 91 Swiss sixth-graders new to algebra scored higher on transformation tests 1 day, 1 week and 10 weeks later than peers taught addition for two days and then multiplication (d = 1.21, 1.04, 0.94), explained the rules better and held fewer misconceptions, although they scored lower on the tests given during the four training days. [→ Ziegler & Stern 2016](#ziegler-stern-2016)
 
 <!-- merged duplicate subclaims 2026-10-14: these repeat the first two subclaims above, kept verbatim.
 `q4 i2` Across 57 experiments (336 tests), case-comparison activities produced greater learning than sequential, single-case or nonanalogous case study, traditional instruction and controls (d = .50); benefits were larger when learners were asked to find similarities, when the principle was given after the comparison, for perceptual content, and on immediate tests. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
@@ -145,6 +156,14 @@ Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A ge
 
 Three experiments taught novice undergraduates negotiation strategies (trade-offs or contingent contracts) through two example cases, then tested whether they used the principle in a new negotiation. In Experiment 2, 128 students were randomly assigned to compare the two cases on one page or to analyse each separately; 48% of comparers transferred the principle against 19% of the separate-case group, and the advantage held for both principles. Experiment 1 showed a benefit of guided analogical training over no case study, and Experiment 3 (158 students, a face-to-face negotiation) showed that more comparison support raised the rate of transfer. The design isolates structural comparison itself, since both groups saw the same cases. The n code counts all three experiments; the 48% vs 19% comparison and its χ² come from Experiment 2 alone (n=128), which is the n the other claim pages citing this paper record. Rigour is `r?`: the article is closed access, its openly available abstract does not show how the experiments were controlled, and two other pages coding the same study give `r?`. <!- - 2026-10-05: rigour is r3 here and r? on comparing-contrasting-cases-improves-learning and multiple-contrasting-cases-support-abstraction; the r3 was coded from a fuller text than the abstract available now, so it is kept, and re-coding from the full article would settle all three - ->
 -->
+
+### Ziegler & Stern 2016
+
+Ziegler, E., & Stern, E. (2016). Consistent advantages of contrasted comparisons: Algebra learning under direct instruction. *Learning and Instruction, 41*, 41–51. [doi:10.1016/j.learninstruc.2015.09.006](https://doi.org/10.1016/j.learninstruc.2015.09.006)
+
+`q3 · experiment with students assigned within classes, not pre-registered` · `i3 · large effect, d = 1.21 at one day, 0.94 at ten weeks` · `n=91` · `causal · r2`
+
+Numbers read from the authors' accepted manuscript. 98 sixth-graders (aged about 12) from five classes in the canton of Zurich, with no formal algebra, took part; 7 were excluded, leaving 46 in the contrast group and 45 in the sequential group. The abstract says students were randomly assigned; the method section says students in each class were matched to the groups on mathematics and German grades. Over four 90-minute days the first author, a licensed primary teacher who knew the hypotheses, taught nine units from a script: the contrast group saw each addition step beside the matching multiplication step on the blackboard, with questions asking them to compare the two; the sequential group had two days of addition, then two of multiplication, with questions asking them to describe each solution in detail. Both groups then copied the examples and solved the same trial problems with correction; the sequential group solved 20 mixed addition and multiplication problems at the end of the fourth day, which the contrast group met spread through its units (the authors' design, to mirror ordinary teaching and equalise the problems). Lessons were videotaped, and blind raters of audio clips judged the instructor equally engaged in both versions. During training the sequential group scored higher on the daily tests (MANOVA F(2, 87) = 10.45, partial η² = .19). On a 58-item transformation test the contrast group scored higher at 1 day, 1 week and 10 weeks (d = 1.21, 1.04, 0.94; group F(1, 86) = 35.98, η² = .30), wrote fuller explanations of the rules (d = 0.55, 0.52, 0.62) and had fewer misconceptions in them (d = 0.53, 0.71, 0.78), with misconceptions rising more over time in the sequential group. Careless errors did not differ. It replicates, under direct instruction, the self-study experiments of Ziegler & Stern (2014), and the authors note that mixing may not help when concepts are dissimilar or each is intrinsically hard.
 
 ### Rittle-Johnson & Star 2007
 
