@@ -21,7 +21,7 @@ sources:
 # Comparing Cases
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles. It is useful when the goal is abstraction, discrimination, or transfer beyond a single instance.
@@ -36,7 +36,7 @@ Comparing cases is the element in which learners inspect two or more examples, s
 #### Constraints
 - **Too many irrelevant differences can overwhelm learners**
 - **Comparison without guidance may stay superficial**
-- **Scores during comparison practice can understate learning**: in two experiments with sixth-graders new to algebra, learners who compared addition and multiplication examples side by side did worse on the tests given during training than learners taught one operation after the other, and better on tests 1 day to 10 weeks later — [Comparing cases side by side improves learning and transfer by a moderate average amount](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
+- **Scores during comparison practice can understate learning**: in two experiments with sixth-graders new to algebra, learners who compared addition and multiplication examples side by side did worse on the tests given during training than learners taught one operation after the other, and better on tests 1 day to 10 weeks later ([Ziegler & Stern 2014](https://doi.org/10.1016/j.learninstruc.2014.04.006); recorded on the claim below)
 
 ### Target Learning Goals
 - Build conceptual understanding, pattern detection, and transfer.
