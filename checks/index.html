@@ -1445,7 +1445,7 @@
 <tbody>
 <tr>
 <td>Claims</td>
-<td>43,578, from 10,701 sources</td>
+<td>43,578, from 10,702 sources</td>
 </tr>
 <tr>
 <td>Reviewed by a person</td>
@@ -1461,7 +1461,7 @@
 </tr>
 <tr>
 <td>Sources whose citations went through the Crossref identity gate</td>
-<td>9,919 of 10,701</td>
+<td>9,919 of 10,702</td>
 </tr>
 <tr>
 <td>Sources read for impossible statistics and invented references</td>
@@ -1489,7 +1489,7 @@
 <h3 id="1-inclusion">1. Inclusion<a class="headerlink" href="#1-inclusion" title="Permanent link">&para;</a></h3>
 <p>Each source is screened against the published <a href="https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/INCLUSION.md">inclusion criteria</a> before anything is extracted: opinion pieces, out-of-scope work, sources with nothing extractable and sources already covered are refused. Every decision, either way, is logged in <code>sources/manifest.ndjson</code>, so anyone can check whether a given article was reviewed.</p>
 <p><strong>Cannot catch.</strong> A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.</p>
-<p><strong>Coverage.</strong> 12,940 sources reviewed: 10,701 ingested, 2,239 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 115, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).</p>
+<p><strong>Coverage.</strong> 12,941 sources reviewed: 10,702 ingested, 2,239 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 115, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).</p>
 <h3 id="2-extraction-and-structural-validation">2. Extraction and structural validation<a class="headerlink" href="#2-extraction-and-structural-validation" title="Permanent link">&para;</a></h3>
 <p>A model reads the article and writes claims with their evidence. A validator refuses any extraction whose structure is broken, whose citation does not match the article, or whose codes are out of range; a refused article contributes nothing.</p>
 <p><strong>Cannot catch.</strong> A well-formed claim that misreads its article (step 5 looks for that).</p>
@@ -1497,7 +1497,7 @@
 <h3 id="3-citation-identity">3. Citation identity<a class="headerlink" href="#3-citation-identity" title="Permanent link">&para;</a></h3>
 <p>Every DOI written on a page is resolved against Crossref (DataCite after a Crossref 404) and compared on title, first author and year. A DOI that resolves to a different paper is removed, because a wrong DOI reads as verified; one that cannot be settled is flagged for a person. Books, which no registry indexes, are checked by a person against the publisher and recorded in <code>sources/authorities.ndjson</code>.</p>
 <p><strong>Cannot catch.</strong> A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.</p>
-<p><strong>Coverage.</strong> 9,919 of 10,701 ingested sources passed the gate with the registry reachable; 352 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.</p>
+<p><strong>Coverage.</strong> 9,919 of 10,702 ingested sources passed the gate with the registry reachable; 352 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.</p>
 <h3 id="4-a-verifiable-source-for-every-claim">4. A verifiable source for every claim<a class="headerlink" href="#4-a-verifiable-source-for-every-claim" title="Permanent link">&para;</a></h3>
 <p>A claim whose evidence has no DOI after a Crossref and DataCite search is removed, unless it rests on a report from a named evaluation organisation (What Works Clearinghouse, MDRC, RAND and others) or a principle, pattern or ten or more designs depend on it, in which case it says so in an <em>Evidence quality</em> line.</p>
 <p><strong>Cannot catch.</strong> Whether the DOI'd source is any good.</p>
