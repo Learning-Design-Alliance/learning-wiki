@@ -49,5 +49,5 @@ Follow-up regression from the same RCT, controlling for autism severity and pret
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](scu-ccx-maintained-at-follow-up.md) — related
+- [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
 - [A brief multi-component communication intervention immediately improves initiated joint attention in preverbal preschoolers with autism](multicomponent-intervention-improves-joint-attention-post.md) — related

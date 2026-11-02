@@ -49,5 +49,5 @@ Post-intervention regressions from the RCT controlling for autism severity and p
 
 ## Related Claims
 - [A brief multi-component communication intervention immediately improves initiated joint attention in preverbal preschoolers with autism](multicomponent-intervention-improves-joint-attention-post.md) — related
-- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](scu-ccx-maintained-at-follow-up.md) — related
+- [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
 - [ROOTS effects on mathematics achievement were not detected on first-grade follow-up measures](roots-no-first-grade-follow-up-effect.md) — related

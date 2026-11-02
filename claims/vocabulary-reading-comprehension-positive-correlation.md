@@ -11,14 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2013
 sources:
   - id: lin-2013
-    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9)."
+    resource: "https://doi.org/10.5539/elt.v6n9p110"
+    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)"
     author: "Lin, Ching-Ying & Hsu, Wei Shu"
     q: 2
     i: 3
     kind: causal
     rigour: 1
   - id: lin-2013-2
-    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9)."
+    resource: "https://doi.org/10.5539/elt.v6n9p110"
+    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)"
     author: "Lin, Ching-Ying & Hsu, Wei Shu"
     q: 2
     i: 3
@@ -40,7 +42,7 @@ sources:
 
 ### Lin 2013
 
-Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9).
+Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)
 
 `q2 · i3` · `causal · r1`
 
@@ -50,7 +52,7 @@ Correlational analysis of the same 56 students' immediate vocabulary and reading
 
 ### Lin 2013 (2)
 
-Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9).
+Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)
 
 `q2 · i3` · `causal · r2`
 

@@ -155456,13 +155456,14 @@
 "type":"claim"
 },
 {
-"description":"For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone",
+"description":"Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal",
 "evidence_strength":"moderate",
 "id":"gamification-plus-texting-beats-gamification-only",
 "newest_evidence":"2019",
 "path":"claims/gamification-plus-texting-beats-gamification-only.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone",
+"title":"Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal",
 "type":"claim"
 },
 {
@@ -176239,7 +176240,6 @@
 "id":"hierarchy-exercises-beat-copying-immediate-vocabulary",
 "newest_evidence":"2013",
 "path":"claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md",
-"source_checked":"2026-11-02",
 "status":"review",
 "title":"Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test",
 "type":"claim"
@@ -182935,18 +182935,20 @@
 "id":"humorous-song-immediate-delayed-recall-null",
 "newest_evidence":"2010",
 "path":"claims/humorous-song-immediate-delayed-recall-null.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Humorous-song treatment shows no significant difference between EFL learners' immediate and delayed listening recall",
 "type":"claim"
 },
 {
-"description":"Humorous-song listening improves EFL learners' listening comprehension test scores more than regular instruction alone",
+"description":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly",
 "evidence_strength":"moderate",
 "id":"humorous-song-improves-efl-listening-comprehension",
 "newest_evidence":"2010",
 "path":"claims/humorous-song-improves-efl-listening-comprehension.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Humorous-song listening improves EFL learners' listening comprehension test scores more than regular instruction alone",
+"title":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly",
 "type":"claim"
 },
 {
@@ -322434,6 +322436,7 @@
 "id":"pyramid-practice-maintenance-after-coaching-ends",
 "newest_evidence":"2015",
 "path":"claims/pyramid-practice-maintenance-after-coaching-ends.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders",
 "type":"claim"
@@ -350138,13 +350141,14 @@
 "type":"claim"
 },
 {
-"description":"Intervention gains in social communication with trained caregivers are maintained 4 months after intervention",
+"description":"Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention",
 "evidence_strength":"moderate",
 "id":"scu-ccx-maintained-at-follow-up",
 "newest_evidence":"2020",
 "path":"claims/scu-ccx-maintained-at-follow-up.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Intervention gains in social communication with trained caregivers are maintained 4 months after intervention",
+"title":"Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention",
 "type":"claim"
 },
 {
@@ -360675,6 +360679,7 @@
 "id":"shine-secondaries-fsm-subgroup-no-differential-benefit",
 "newest_evidence":"2015",
 "path":"claims/shine-secondaries-fsm-subgroup-no-differential-benefit.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools",
 "type":"claim"

@@ -24,7 +24,7 @@ MORE@Home is a researcher-developed mobile literacy app by James S. Kim and coll
 
 ### Claims
 - [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](../claims/low-app-takeup-26-percent.md) [+M]
-- [For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone](../claims/gamification-plus-texting-beats-gamification-only.md) [+M]
+- [Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal](../claims/gamification-plus-texting-beats-gamification-only.md) [+W]
 
 ## Related Products and Programmes
 -

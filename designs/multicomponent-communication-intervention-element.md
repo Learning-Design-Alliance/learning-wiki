@@ -42,7 +42,7 @@ A 36-session adaptive intervention delivered over 4 months combining three compo
 
 ### Claims
 - [Multicomponent Intervention Improves Joint Attention Post](../claims/multicomponent-intervention-improves-joint-attention-post.md) [+M]
-- [Scu Ccx Maintained At Follow Up](../claims/scu-ccx-maintained-at-follow-up.md) [+M]
+- [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](../claims/scu-ccx-maintained-at-follow-up.md) [+W]
 - [Caregivers Acquire Maintain Strategies](../claims/caregivers-acquire-maintain-strategies.md) [+M]
 
 ## Related Designs

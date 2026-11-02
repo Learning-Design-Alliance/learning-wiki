@@ -9,10 +9,10 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
 sources:
   - id: lin-2013
-    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9)."
+    resource: "https://doi.org/10.5539/elt.v6n9p110"
+    title: "Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)"
     author: "Lin, Ching-Ying & Hsu, Wei Shu"
     q: 2
     i: "?"
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group receiving hierarchy vocabulary exercises significantly outperformed the control group receiving copying exercises on the immediate vocabulary post-test (t(54) = 2.380, p = .021). [→ Lin 2013](#lin-2013)
@@ -33,7 +33,7 @@ sources:
 
 ### Lin 2013
 
-Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9).
+Lin, Ching-Ying & Hsu, Wei Shu. (2013). Effects of Hierarchy Vocabulary Exercises on English Vocabulary Acquisition. English Language Teaching, 6(9). [doi:10.5539/elt.v6n9p110](https://doi.org/10.5539/elt.v6n9p110)
 
 `q2 · i?` · `causal · r2`
 

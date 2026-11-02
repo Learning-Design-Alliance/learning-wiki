@@ -38,7 +38,7 @@ The article situates humor and song within two approaches that prioritize a rela
 - reduced language-learning anxiety and stress
 
 ### Claims
-- [Humorous Song Improves Efl Listening Comprehension](../claims/humorous-song-improves-efl-listening-comprehension.md) [+M]
+- [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](../claims/humorous-song-improves-efl-listening-comprehension.md) [+W]
 
 ## Related Designs
 

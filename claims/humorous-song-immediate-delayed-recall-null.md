@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-02
 sources:
   - id: rafiee-et-al-2010
     resource: "http://www.ccsenet.org/elt"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immediate recall and delayed recall scores after the humorous-song treatment were not significantly different. [→ Rafiee et al. 2010](#rafiee-et-al-2010)
@@ -48,4 +49,4 @@ Intra-group Wilcoxon Signed Rank Test comparing the experimental group's immedia
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Humorous-song listening improves EFL learners' listening comprehension test scores more than regular instruction alone](humorous-song-improves-efl-listening-comprehension.md) — related
+- [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](humorous-song-improves-efl-listening-comprehension.md) — related

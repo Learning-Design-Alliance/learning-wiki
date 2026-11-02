@@ -40,7 +40,7 @@ The intervention used the Teach-Model-Coach-Review (TMCR) framework in every ses
 ## Claims
 
 - [Caregivers trained via workshops and coaching acquire language facilitation strategies and maintain most of them at follow-up](../claims/caregivers-acquire-maintain-strategies.md) [+W]
-- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](../claims/scu-ccx-maintained-at-follow-up.md) [+W]
+- [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](../claims/scu-ccx-maintained-at-follow-up.md) [+W]
 
 ## Related Strategies
 

@@ -23,7 +23,7 @@ The sequential multiple assignment randomized trial is a design in which "partic
 
 ### Claims
 - [K–2 children receiving conceptually coherent texts performed similarly to children receiving leveled texts on standardized reading comprehension outcomes](../claims/cct-versus-lt-similar-reading-comprehension.md) [+M]
-- [For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone](../claims/gamification-plus-texting-beats-gamification-only.md) [+M]
+- [Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal](../claims/gamification-plus-texting-beats-gamification-only.md) [+W]
 
 ## Related Research Methods
 -

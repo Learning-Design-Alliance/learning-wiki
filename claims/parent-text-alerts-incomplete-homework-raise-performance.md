@@ -53,4 +53,4 @@ The review reports, citing Bergman (2014), a randomly selected treatment in whic
 - [Appropriate educational technology improved home-school links and parent and teacher roles in the HOMEWORK evaluations](homework-technology-strengthened-parent-teacher-roles.md) — related
 - [Process evaluation participants perceived that Parent Academy increased parents' confidence and skills to engage with their children's learning](parent-academy-parent-confidence-engagement.md) — related
 - [Texting parents about tests, homework and lesson content produced a small positive effect on maths attainment (ES 0.067) in a cluster RCT](pep-texting-small-maths-attainment-gain.md) — related
-- [For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone](gamification-plus-texting-beats-gamification-only.md) — related
+- [Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal](gamification-plus-texting-beats-gamification-only.md) — related

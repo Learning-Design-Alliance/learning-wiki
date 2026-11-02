@@ -38,7 +38,7 @@ The study's treatment material was a set of humorous songs: "the poems written a
 
 ### Claims
 
-- [Humorous-song listening improves EFL learners' listening comprehension test scores more than regular instruction alone](../claims/humorous-song-improves-efl-listening-comprehension.md) [+W]
+- [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](../claims/humorous-song-improves-efl-listening-comprehension.md) [+W]
 - [Humorous-song treatment shows no significant difference between EFL learners' immediate and delayed listening recall](../claims/humorous-song-immediate-delayed-recall-null.md) [~W]
 
 ## Related Designs

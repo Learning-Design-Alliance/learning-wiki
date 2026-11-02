@@ -64,5 +64,5 @@ Follow-up caregiver outcomes from the same RCT. The discussion notes matched-tur
 
 
 ## Related Claims
-- [Intervention gains in social communication with trained caregivers are maintained 4 months after intervention](scu-ccx-maintained-at-follow-up.md) — related
+- [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related

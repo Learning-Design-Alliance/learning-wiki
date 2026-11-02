@@ -38,7 +38,7 @@ The article recommends pairing print and digital resources so that supports reac
 
 ## Claims
 
-- [For nonresponders, gamification plus parent text messages produced better fall reading comprehension than gamification alone](../claims/gamification-plus-texting-beats-gamification-only.md) [+W]
+- [Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal](../claims/gamification-plus-texting-beats-gamification-only.md) [+W]
 - [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](../claims/low-app-takeup-26-percent.md) [+W]
 - [Parents reported reading about 7 of the 10 provided books with children, and guided questions were the most frequently used app feature](../claims/parent-survey-print-book-engagement.md) [+W]
 
