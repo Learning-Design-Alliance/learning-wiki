@@ -4054,6 +4054,7 @@
 "id":"ability-group-no-moderation",
 "newest_evidence":"2017",
 "path":"claims/ability-group-no-moderation.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Ability group (AA, LA, LD) did not significantly moderate the intervention effect",
 "type":"claim"
@@ -27364,6 +27365,7 @@
 "newest_evidence":"2024",
 "path":"claims/aptitude-subtests-verbal-quantitative-reasoning-predict-early-academic.md",
 "recheck_by":"2027",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Within aptitude test subtests, verbal reasoning (d=0.704) and quantitative reasoning (d=0.643) best predict early program academic results, while abstract and verbal reasoning predict end-of-program outcomes",
 "type":"claim"
@@ -104638,6 +104640,7 @@
 "id":"dpbl-outperformed-direct-instruction-outcomes",
 "newest_evidence":"2017",
 "path":"claims/dpbl-outperformed-direct-instruction-outcomes.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course",
 "type":"claim"
@@ -133256,6 +133259,7 @@
 "id":"failure-feedback-not-cumulative-later-trials",
 "newest_evidence":"2015",
 "path":"claims/failure-feedback-not-cumulative-later-trials.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance",
 "type":"claim"
@@ -328394,13 +328398,14 @@
 "type":"claim"
 },
 {
-"description":"A seven-session educational robotics program produced significantly greater computational-thinking gains than no robotics program in children aged 3-6",
+"description":"Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group",
 "evidence_strength":"moderate",
 "id":"robotics-program-greater-ct-gains-early-childhood",
 "newest_evidence":"2019",
 "path":"claims/robotics-program-greater-ct-gains-early-childhood.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"A seven-session educational robotics program produced significantly greater computational-thinking gains than no robotics program in children aged 3-6",
+"title":"Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group",
 "type":"claim"
 },
 {

@@ -67,4 +67,4 @@ Same post-test questionnaire measure of perceived difficulty in the two sub-samp
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Neither experimental nor control groups' programming knowledge developed significantly during the robot-based semester](robot-programming-no-knowledge-gain.md) — related
 - [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](taia-perceived-support-hypothesis-argumentation.md) — related
-- [A seven-session educational robotics program produced significantly greater computational-thinking gains than no robotics program in children aged 3-6](robotics-program-greater-ct-gains-early-childhood.md) — related
+- [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](robotics-program-greater-ct-gains-early-childhood.md) — related

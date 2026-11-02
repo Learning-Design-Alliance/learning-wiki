@@ -23,7 +23,7 @@ The article adopts Brennan and Resnick (2012)'s framework as its theoretical sca
 - **Three-dimensional operationalisation of computational thinking for early childhood: sequences, action-instruction correspondence and debugging**: The study measures computational thinking through three dimensions evaluable with a robotics kit: sequences (sequencing actions to meet a challenge), action-instruction correspondence (relating instructions given to a robot with the action it performs) and debugging (identifying and correcting errors in a programming sequence by trial and error). The article draws on Brennan and Resnick's model, which "is based on three dimensions: computational concepts, practices, and perspectives", and adapts these into the three assessed dimensions. (García-Valcárcel Muñoz-Repiso et al. (2019))
 
 ### Claims
-- [A seven-session educational robotics program produced significantly greater computational-thinking gains than no robotics program in children aged 3-6](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+M]
+- [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+W]
 
 ## Related Research Methods
 -

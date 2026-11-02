@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: krawec-2017
     resource: "https://doi.org/10.1177/0022219416645565"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Interactions between experimental condition and ability group were not significant, indicating AA students did not respond differently to the intervention than LA students or those with LD. [→ Krawec 2017](#krawec-2017)
+`q2 i?` Interactions between experimental condition and ability group were not significant, which the authors read as AA students not responding differently to the intervention than LA students or those with LD. [→ Krawec 2017](#krawec-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Krawec, J., & Huang, J. (2017). Modifying a Research-Based Problem-Solving Inter
 
 `q2 · i?` · `causal · r2`
 
-Second growth model added condition × ability interaction terms for LA vs. AA and LD vs. AA; Table 4 prints non-significant interaction estimates (e.g., LA vs. AA slope 1 p = .293; LD vs. AA p = .672).
+A second growth model added condition × ability interaction terms (LA vs. AA and LD vs. AA) to test whether ability group moderated the intervention effect. The article states in prose that the interactions were not significant but prints no estimates or p values for them; Table 4's LA vs. AA and LD vs. AA rows are the ability-group main-effect terms, not the interactions. Non-significant interactions do not show that the effect was the same across groups; equivalence was not tested.
 
 > "The results showed the interactions between experimental condition and ability group were not significant, indicating that ability group had no significant impact on the intervention effect."
 

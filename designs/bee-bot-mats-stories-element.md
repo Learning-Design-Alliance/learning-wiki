@@ -37,7 +37,7 @@ The Bee-Bot is a bee-shaped floor robot programmed with buttons for advance, rev
 - programming sequences and computational thinking skills
 
 ### Claims
-- [Robotics Program Greater Ct Gains Early Childhood](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+M]
+- [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+W]
 
 ## Related Designs
 - 

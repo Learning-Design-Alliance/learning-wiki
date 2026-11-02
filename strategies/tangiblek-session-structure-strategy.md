@@ -38,7 +38,7 @@ The article's intervention consisted of seven working sessions: an introductory 
 
 ## Claims
 
-- [A seven-session educational robotics program produced significantly greater computational-thinking gains than no robotics program in children aged 3-6](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+M]
+- [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](../claims/robotics-program-greater-ct-gains-early-childhood.md) [+W]
 - [ROC curve analysis placed all gain-score curves above the diagonal, separating experimental from control children](../claims/roc-curves-above-diagonal-ct-gains.md) [+M]
 - [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](../claims/pre-test-nonequivalence-robotics-groups.md) [~M]
 - [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](../claims/robotics-social-skills-interpretation.md) [+W]
