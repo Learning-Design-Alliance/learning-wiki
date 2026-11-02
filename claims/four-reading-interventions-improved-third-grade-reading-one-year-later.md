@@ -72,3 +72,4 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — a broader claim this one bears on
 - [Re-measurement of final test scores after four months of remedial work indicated that classroom use of the Texas reading diagnosis procedures would prove profitable](texas-reading-remediation-remeasurement-profitable.md) — related
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](avg-phonemic-awareness-gain-6month-maintenance.md) — related
+- [Poor cognitive skills of the lowest-performing first-grade school entrants can be remediated through a two-year training intervention](poor-cognitive-skills-remediated-primary-intervention.md) — related

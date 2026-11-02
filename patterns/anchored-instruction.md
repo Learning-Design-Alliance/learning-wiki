@@ -141,6 +141,7 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 - (none yet linked)
 
 ## Examples
+
 - Jasper-style video math problems that embed quantitative reasoning in a narrative.
 - Case launches in science or civics where learners work from a shared media scenario.
 - Professional training modules built around a realistic event or dilemma.
@@ -149,6 +150,7 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 - Clinical training scenarios where learners manage a patient case through evolving decisions.
 - Business simulations built around a crisis or client objective.
 - Public-sector or military training built around mission execution with constrained information.
+- [Use a vernacular-language anchor character to state objectives and guide learners](../strategies/vernacular-anchor-objectives-strategy.md)
 
 ## Key Sources
 - Bransford, J. D., Sherwood, R. D., Hasselbring, T. S., Kinzer, C. K., & Williams, S. M. (1990). Anchored instruction: Why we need it and how technology can help. In D. Nix & R. Spiro (Eds.), *Cognition, education, and multimedia* (pp. 115-141). Erlbaum.

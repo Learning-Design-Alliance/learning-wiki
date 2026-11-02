@@ -54,3 +54,4 @@ ANCOVA was applied to the final speaking-skill score with pre-test scores partia
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — related
 - [Terminology test advantage of tracing and pointing is not robust to adjustment for prior knowledge](tracing-pointing-terminology-not-robust-ancova.md) — related
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — related
+- [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related

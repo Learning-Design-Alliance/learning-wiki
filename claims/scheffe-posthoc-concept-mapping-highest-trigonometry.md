@@ -51,3 +51,4 @@ Scheffe's post-hoc analysis (Table 3) of the three-group quasi-experiment. The a
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — related
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — a narrower finding that bears on this claim
 - [The fill in the map concept map group performed significantly better than the summarizing strategy group on reading comprehension posttest](fill-in-map-cm-beats-summarizing-reading-comprehension.md) — related
+- [The read-note-and-discuss task type ranked highest, followed by read-and-discuss, with read-and-think and read-and-write equal](read-note-discuss-task-type-highest-reading-performance.md) — related

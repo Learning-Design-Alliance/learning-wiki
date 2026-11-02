@@ -52,3 +52,6 @@ Null findings from the same hierarchical model analyses in the cluster randomize
 - [IY TCM intervention teachers were more likely to rate parents in the most adaptive involvement profiles at follow-up compared to control teachers](iy-tcm-increases-adaptive-parent-involvement-profiles.md) — related
 - [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related
 - [Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group](iy-tcm-progressors-digressors-chi-square.md) — related
+- [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](iy-tcm-baseline-risk-moderation.md) — related
+- [The IY TCM program showed no significant effects on disruptive behavior or concentration problems in schools already implementing PBIS](iy-tcm-no-effect-disruptive-concentration.md) — possibly the same claim (merge candidate)
+- [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related

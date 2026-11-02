@@ -35,7 +35,7 @@ sources:
 # Ask Experts
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 30 studies (9 causal, 5 quant-synthesis, 5 associational, 4 review, 4 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 30 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (6 for, 13 mixed, 1 against) · 31 studies (10 causal, 5 quant-synthesis, 5 associational, 4 review, 4 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 31 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,8 @@ The present evidence establishes no length or frequency of consultation, no numb
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+W]
 - [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](../claims/pedagogical-experts-less-deep-learning-tutoring.md) [-W]
 - [First-year students do not attach great importance to the tutor's domain specific expertise, which may explain why staff tutors' extra expertise does not yield achievement advantages](../claims/domain-expertise-less-important-first-year-pbl.md) [~W]
+- [Teacher satisfaction with consultation was high in both conditions, with multi-component ratings generally higher but not significantly so](../claims/high-teacher-satisfaction-both-consultation-conditions.md) [~W]
+- [Teachers without barriers (Latent Class 1, high baseline skills) benefited nearly equivalently from both consultation conditions](../claims/no-barrier-teachers-benefit-equally-both-conditions.md) [~W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic

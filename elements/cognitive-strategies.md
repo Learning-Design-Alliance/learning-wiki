@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (14 for, 5 mixed, 1 against) · 27 studies (10 review, 9 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (15 for, 5 mixed, 1 against) · 28 studies (10 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -80,6 +80,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Etymological elaboration improves EFL learners' comprehension of idioms](../claims/etymological-elaboration-improves-idiom-comprehension.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
 - [Etymological elaboration improves EFL learners' one-week retention of idioms](../claims/etymological-elaboration-improves-idiom-retention.md) [+W] — attached 2026-11-01 from Bagheri et al. (2010), which proposed "Etymological elaboration technique for teaching idioms"; tests this page's relationship.
 - [Strategy training improves the quality as well as the quantity of strategies learners deploy](../claims/strategy-training-improves-strategy-quality.md) [+W]
+- [Fourth-grade students taught with the SQ4R technique scored significantly higher on reading comprehension post-tests than control-group students](../claims/sq4r-improves-reading-comprehension-posttest.md) [+W] — attached 2026-11-02 from Başar et al. (2017), which proposed "SQ4R technique (Survey, Question, Read, Reflect, Recite, Review)".
 
 ## The evidence by question
 

@@ -59,3 +59,4 @@ Pretest comparison of the two groups (12 students each) using the Turkish test f
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related
+- [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related

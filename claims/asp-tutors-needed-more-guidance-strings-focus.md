@@ -72,3 +72,4 @@ From the same process evaluation, the report links the guidance need to engageme
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — related
 - [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — related
 - [Groups of 5–6 children led by experienced staff worked best according to programme users](lit-small-groups-experienced-staff-best.md) — related
+- [Recruitment and delivery problems were observed, including poorly taught maths lessons and numeracy sessions drifting into individualised tutoring](future-foundations-implementation-issues.md) — related

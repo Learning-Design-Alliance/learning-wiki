@@ -50,3 +50,4 @@ Paired-samples t-test of the control group's (n = 25) pretest and posttest score
 - [The experimental group showed a statistically significant vocabulary gain from pretest to posttest under the flash card treatment](vfc-experimental-group-significant-pre-post-gain.md) — related
 - [Explicit instruction alone produced no statistically significant pretest-to-posttest gain in conditional sentences (p=.18)](explicit-instruction-no-significant-gain-conditionals.md) — related
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](control-group-regular-program-vocabulary-gains.md) — reports the opposite
+- [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related

@@ -49,3 +49,4 @@ Multiple classification analysis of post-test scores for the two groups (N = 15 
 - [Students taught with ICT obtained higher mean Economics Achievement Test scores than control students](ict-higher-mean-scores-than-control-economics.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — possibly the same claim (merge candidate)
+- [Multiple Classification Analysis shows both treatment groups with large positive adjusted deviations and the control group far below average](mca-adjusted-deviations-treatment-vs-control-gifted.md) — related

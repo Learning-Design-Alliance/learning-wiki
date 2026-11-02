@@ -50,3 +50,4 @@ Findings from the one RCT meeting WWC group design standards without reservation
 - [Fraction-focused interventions significantly improved mathematics outcomes over operations-focused interventions for students with MD](fractions-interventions-outperform-operations.md) — a broader claim this one bears on
 - [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](fraction-intervention-number-line-es-093.md) — related
 - [Improvement in fractions magnitude understanding, but not part-whole understanding, mediates the intervention's effects on fraction outcomes](magnitude-understanding-mediation.md) — related
+- [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](both-interventions-beat-control-naep-number-line-calculations.md) — related

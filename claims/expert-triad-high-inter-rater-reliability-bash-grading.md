@@ -84,3 +84,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
+- [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](pat-27-item-reliable-achievement-test.md) — related

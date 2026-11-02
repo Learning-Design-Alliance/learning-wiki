@@ -84,3 +84,4 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — related
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](listening-comprehension-predicts-vocabulary.md) — related
+- [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related

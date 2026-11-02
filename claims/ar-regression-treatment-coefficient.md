@@ -47,3 +47,4 @@ A simple multivariate regression model using the overall reading score as depend
 ## Related Claims
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — related
 - [MathsFlip showed larger but non-significant and caution-flagged secondary effects on KS2 reading and writing](mathsflip-secondary-literacy-outcomes-caution.md) — related
+- [In regression models, prior attainment and background explained most variation, with treatment adding little beyond pupil prior characteristics](future-foundations-regression-treatment-small.md) — possibly the same claim (merge candidate)

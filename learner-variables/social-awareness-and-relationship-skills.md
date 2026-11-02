@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (125 show a difference, 39 mixed, 22 no difference) · 139 studies (42 review, 38 causal, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 37 of 139 report an effect size · 182 claims rest on one study
+> **Evidence** · 193 claims (129 show a difference, 41 mixed, 23 no difference) · 143 studies (42 causal, 42 review, 26 associational, 15 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 38 of 143 report an effect size · 189 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -227,6 +227,13 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Empathy and caring outcomes showed no notable differences between conditions by study end](../claims/ssstp-empathy-caring-null.md) [-M] — instruction changes it
 - [Intervention group candidates rated maintaining positive relationships and ongoing collaboration significantly higher than comparison peers](../claims/family-collaboration-project-higher-relationship-rubric.md) [+M] — instruction changes it
 - [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](../claims/pfs-improves-parent-reported-social-skills.md) [+M] — instruction changes it
+- [FSS-PSV implementation did not produce a group difference in social skills: both experimental and control groups increased significantly](../claims/fss-psv-no-social-skill-group-effect.md) [-M] — instruction changes it
+- [Social–emotional functioning of intervention infants rose numerically from the high to the very superior range after the programme, which the authors attribute to added parent stimulation](../claims/numbers-in-nappies-social-emotional-increase.md) [~M] — instruction changes it
+- [Students with lower baseline social and academic competence benefited more from IY TCM than similar peers in control classrooms](../claims/iy-tcm-baseline-risk-moderation.md) [~M] — an instructional effect differs with it
+- [The IY TCM program increased teacher-reported prosocial behavior and overall social competence (d = 0.13 each)](../claims/iy-tcm-increased-prosocial-and-social-competence.md) [+M] — instruction changes it
+- [The responsive stimulation intervention is directly associated with children's social skills but not behavior problems at age four](../claims/responsive-stimulation-direct-effect-social-skills-age-4.md) [+M] — instruction changes it
+- [The zero-to-two responsive stimulation intervention shows sustained impacts on social skills and behavior problems into the preschool period despite severe disadvantage](../claims/sustained-impacts-early-intervention-preschool-period.md) [+M] — instruction changes it
+- [Within the experimental group, social skill scores increased significantly from pretest to posttest and follow-up](../claims/fss-psv-experimental-group-social-skill-increase.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

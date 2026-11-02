@@ -55,3 +55,5 @@ Pre-specified subgroup analysis adding an interaction term to the primary cluste
 - [Small-group Grammar for Writing shows a statistically significant but small positive effect on extended writing versus control (effect size 0.24)](grammar-for-writing-small-group-versus-control-effect.md) — related
 - [Small-group delivery of Grammar for Writing outperforms whole-class delivery on extended writing (effect size 0.21)](small-group-outperforms-whole-class-grammar-writing.md) — related
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
+- [Any English benefit of the summer school extended to FSM-eligible pupils and boys, with no apparent benefit in maths for these groups](future-foundations-english-benefit-boys-fsm.md) — related
+- [SfA showed no evidence of differential effects by baseline attainment level](sfa-no-interaction-baseline-attainment.md) — related

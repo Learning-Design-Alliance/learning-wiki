@@ -3,12 +3,13 @@ type: claim
 title: IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers
 description: IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers
 id: iytcm-teachers-more-proactive-strategies
+aliases: [iy-tcm-teacher-proactive-strategies-fidelity]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-11-02
 evidence_strength: moderate
-newest_evidence: 2014
+newest_evidence: 2018
 sources:
   - id: reinke-2014
     resource: "https://eric.ed.gov/?id=ED563013"
@@ -18,16 +19,27 @@ sources:
     i: 2
     kind: causal
     rigour: 2
+  - id: wendy-m-reinke-keith-c-herman-nianbo-dong-2018
+    resource: "https://doi.org/10.1007/s11121-018-0932-3"
+    title: "Wendy M. Reinke & Keith C. Herman & Nianbo Dong. (2018). The Incredible Years Teacher Classroom Management Program: Outcomes from a Group Randomized Trial. Prevention Science. https://doi.org/10.1007/s11121-018-0932-3"
+    author: "Wendy M. Reinke & Keith C. Herman & Nianbo Dong"
+    q: 3
+    i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i2` Intervention teachers were more likely to implement higher levels of proactive classroom management strategies than control teachers over time (Wilks's λ = .89, F(3, 97) = 4.22, p < .01, K2 = .12). [→ Reinke 2014](#reinke-2014)
+
+`q3 i2` Repeated-measures ANOVA on direct observations showed IY TCM teachers used more proactive strategies over time than control teachers (Wilks' λ = 0.89, F(3, 97) = 4.22, p < 0.01, η² = 0.12). [→ Wendy M. Reinke & Keith C. Herman & Nianbo Dong 2018](#wendy-m-reinke-keith-c-herman-nianbo-dong-2018)
 
 ## Evidence
 
@@ -41,11 +53,24 @@ Two-way repeated measures ANCOVA on direct observations (BCIO-R via MOOSES) at f
 
 > "teachers in the intervention were more likely to implement higher levels of proactive classroom management strategies than control teachers over time; Wilks's λ = .89, F(3, 97) = 4.22, p < .01, K2 = .12"
 
+### Wendy M. Reinke & Keith C. Herman & Nianbo Dong 2018
+
+Wendy M. Reinke & Keith C. Herman & Nianbo Dong. (2018). The Incredible Years Teacher Classroom Management Program: Outcomes from a Group Randomized Trial. Prevention Science. https://doi.org/10.1007/s11121-018-0932-3
+
+`q3 · i2` · `causal · r2`
+
+Direct classroom observations at four time points (October, December, February, April) in both conditions. The article reports a significant group difference (Wilks' λ = 0.89, F(3, 97) = 4.22, p < 0.01, η² = 0.12) favoring IY TCM teachers.
+
+> "The results of a repeated measures ANOV A revealed a statistically significant difference between IY TCM and con- trol teachers, indicating that IY TCM teachers used more pro- active strategies over time in comparison to control teachers (Wilks’ λ =0 . 8 9 ,F(3, 97) = 4.22, p <0 . 0 1 ,η2 =0 . 1 2 )"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [IY TCM improves elementary students' social competence](iytcm-improves-social-competence.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [IY TCM improves elementary students' emotional regulation](iytcm-improves-emotional-regulation.md) — related
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
+- [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related

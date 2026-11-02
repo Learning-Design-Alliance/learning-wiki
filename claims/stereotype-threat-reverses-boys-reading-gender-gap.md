@@ -61,3 +61,4 @@ Controlled experiment in which eighty third-grade students took a reading test a
 - [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](test-order-intervention-reduces-stereotype-threat-girls-math.md) — related
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related
+- [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — related

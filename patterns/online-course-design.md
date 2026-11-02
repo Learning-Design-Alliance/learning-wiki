@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (22 for, 26 mixed, 1 against) · 36 studies (10 associational, 6 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 46 claims rest on one study
+> **Evidence** · 51 claims (23 for, 27 mixed, 1 against) · 37 studies (10 associational, 7 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,8 @@ Do not promise a gain from "using the CoI framework" or "designing for three int
 Claims this page cites that do not change the model above, each read against it on 2026-10-19; the note says why it stays here.
 
 - [A blended online peer assisted learning community at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W] — read 2026-10-19: a descriptive report of one blended course that asserts the effect without data or comparison; a blended course, so nearer [Blended Learning](blended-learning.md), and it changes no choice here.
+- [CoI-based online instruction produced significantly higher teaching presence perceptions than direct instruction](../claims/coi-instruction-higher-teaching-presence.md) [+M] — attached 2026-11-02 from Aktı-Aslan et al. (2021), which proposed "Presence-stratified teaching strategy set for CoI-based online courses"; tests this page's relationship.
+- [CoI-based online instruction did not significantly change social presence perceptions compared with direct instruction](../claims/coi-instruction-no-social-presence-difference.md) [~M] — attached 2026-11-02 from Aktı-Aslan et al. (2021), which proposed "Presence-stratified teaching strategy set for CoI-based online courses"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -47,3 +47,4 @@ The review attributes this to Benta et al. (2014), a case study in a European un
 ## Related Claims
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
 - [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) — related
+- [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](il-biology-engagement-higher.md) — related

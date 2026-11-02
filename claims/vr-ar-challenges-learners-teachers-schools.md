@@ -70,3 +70,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — related
 - [Participants reported drawbacks of blended learning: limited student-teacher interaction and distraction from ICT tools](blended-learning-limited-interaction-distractions.md) — related
 - [Problems encountered in the flipped classroom fell into three themes: motivation, content, and learning](fc-problems-three-themes.md) — related
+- [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (26 for, 13 mixed) · 40 studies (22 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 35 claims rest on one study
+> **Evidence** · 42 claims (29 for, 13 mixed) · 42 studies (24 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 38 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -75,6 +75,9 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
 - [The flat-screen visualization group matched the planetarium group's immediate gains but lost almost all of them by the delayed post-test](../claims/flat-screen-gains-lost-by-post-test.md) [~W]
+- [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](../claims/corel-videostudio-media-expert-validation-ratings.md) [+W] — attached 2026-11-02 from Ulfah Nur Fajriah (2016), which proposed "Corel VideoStudio Pro X7-based multimedia learning media for infrastructure administration".
+- [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](../claims/corel-videostudio-posttest-experimental-90-control-79-7.md) [+W] — attached 2026-11-02 from Ulfah Nur Fajriah (2016), which proposed "Corel VideoStudio Pro X7-based multimedia learning media for infrastructure administration"; tests this page's relationship.
+- [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](../claims/multimedia-engagement-observation.md) [+W]
 
 ## The evidence by question
 

@@ -61,3 +61,5 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [Female groups performed better than male groups when using the AR platform, reversing the gender pattern seen in the print-manual treatment](female-groups-performed-better-ar-platform.md) — related
+- [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — reports the opposite
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related

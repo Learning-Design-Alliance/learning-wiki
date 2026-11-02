@@ -53,3 +53,4 @@ The abstract reports that "the SBI group scored on average significantly higher 
 - [SBI gains in proportional problem-solving are maintained 9 weeks after the intervention for students with MD-PS](sbi-pps-gains-maintained-9-weeks.md) — possibly the same claim (merge candidate)
 - [SBI effects for students with MD-PS hold for ratio and proportion problems at both time points but for percent problems only at immediate posttest](sbi-subscale-effects-ratio-proportion-versus-percent.md) — related
 - [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](sbi-did-not-moderate-growth-over-time.md) — related
+- [Tree-thinking gains from the experimental curriculum were retained on an unannounced closed-book posttest given 5–6 weeks after primary instruction](tree-thinking-gains-retained-unannounced-delayed-posttest.md) — a narrower finding that bears on this claim

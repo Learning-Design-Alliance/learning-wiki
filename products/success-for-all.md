@@ -23,7 +23,7 @@ sources:
 # Success for All
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Success for All is a comprehensive K–5 school reform and reading programme developed and operated by the Success for All Foundation for schools serving students at risk of reading difficulty.
@@ -33,12 +33,14 @@ Success for All is a comprehensive K–5 school reform and reading programme dev
 - **Success for All comprehensive school reform program**: Success for All is "a comprehensive school reform program designed to ensure success in reading for children in high-poverty schools." It provides a K-5 reading curriculum covering phonemic awareness, phonics, fluency, comprehension, and vocabulary, beginning with phonetically-controlled mini-books in grades K-1. Cooperative learning is used extensively at all grade levels; struggling first graders receive one-to-one or small-group tutoring; children are frequently assessed on curriculum-based measures and regrouped across grade lines by current reading level; and a Solutions Team works with parents on attendance, behavior, and social-emotional support. (Success for All program evidence summary (2015))
 - **Success for All® (SFA®) whole-school reform model**: Success for All is "a whole-school reform model (that is, a model that integrates curriculum, school culture, family, and community supports) for students in prekindergarten through grade 8." It combines a literacy program with quarterly assessments of student learning, a social-emotional development program, computer-assisted tutoring tools, family support teams for parents, a facilitator who works with school personnel, and extensive training for intervention teachers. Developed by Robert Slavin and Nancy Madden with Johns Hopkins University, it is distributed by the Success for All Foundation; as of October 2016 the average cost was $104 per child per year. (Success for All® (2017))
 - **SFA® ability-grouped 90-minute daily reading block with sequenced phonics-to-comprehension instruction**: SFA® elementary reading programs "combine cooperative-learning strategies with detailed lessons, which incorporate multimedia, puppet skits, and videos to support students' engagement and classroom instruction." Students in prekindergarten through first grade participate in Reading Roots, and students in second grade and above participate in Reading Wings. Students are grouped into reading classes of 15–20 students with others of similar reading ability, regardless of age or grade level, during a daily 90-minute reading period; regrouping by demonstrated improvement lets teachers teach the whole class without smaller within-class groups. Instruction is sequenced across several years, emphasi (Success for All® (2017))
+- **Success for All (SfA) whole-school literacy programme**: Success for All is a multi-component, whole-school literacy programme for primary schools underpinned by cooperative learning pedagogy, developed in the US and introduced to the UK in 1997. As the report describes it, "Success for All (SfA) is a whole-school approach to improving literacy in primary schools", with teacher training in group learning strategies, phonics and assessment, structured daily lesson plans, ongoing assessment, ability grouping, parental engagement, and leadership support. Delivery involves 16 days of training and support over two years, with stages comprising Kinder Corner (Reception), Roots and Wings (Years 1–6, 90-minute daily literacy sessions). (Sarah Miller et al. (2017))
 
 ### Claims
 - [SFA® shows mixed effects on reading comprehension for beginning readers](../claims/sfa-mixed-effects-comprehension.md) [~W]
 - [SFA® shows mixed effects on general reading achievement for beginning readers](../claims/sfa-mixed-effects-general-reading-achievement.md) [~W]
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](../claims/sfa-positive-effects-alphabetics-k-4.md) [+M]
 - [SFA® shows potentially positive effects on reading fluency for beginning readers](../claims/sfa-potentially-positive-reading-fluency.md) [+W]
+- [Schools rated as implementing SfA with 'refined' fidelity achieved higher end-of-Year-1 literacy scores, especially on the phonics check (g=.41)](../claims/sfa-implementation-fidelity-associated-larger-gains.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -47,10 +49,10 @@ Success for All is a comprehensive K–5 school reform and reading programme dev
 - Success for All program evidence summary. (2015). https://www.successforall.org
 - Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/672
 - Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. http://www.successforall.org/
-
 <!-- merged 2026-10-10 from elements/success-for-all-program-element ("Success for All comprehensive school reform program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/672
 - Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. http://www.successforall.org/
+- Sarah Miller, Andy Biggart, Seaneen Sloan, Liam O'Hare. (2017). Success for All: Evaluation report and executive summary. Education Endowment Foundation. https://educationendowmentfoundation.org.uk
 
 # Success for All comprehensive school reform program
 

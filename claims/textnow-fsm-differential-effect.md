@@ -76,3 +76,5 @@ Subgroup analyses conducted after a significant FSM-by-intervention interaction 
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
 - [Challenge the Gap showed no evidence of increased average attainment for primary or secondary pupils overall](ctg-no-overall-attainment-impact.md) — related
+- [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related
+- [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related

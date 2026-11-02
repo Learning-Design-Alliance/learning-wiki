@@ -63038,5 +63038,305 @@
  "worked-examples\tworked-example assignments with explanation questions\tsame types of problems without examples or self-explanation prompts": {
   "label": "worked examples vs conventional problem solving without examples",
   "treatment_is_a": true
+ },
+ "active-learning\tMathematics Mastery problem-solving pedagogy\tteaching procedures": {
+  "label": "Problem-solving-based instruction vs procedure-focused instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlinguistic classroom activities\tpre-application without the activities": {
+  "label": "Active classroom activities vs pre-application without activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocio-constructivist constructivist approach\ttraditional teacher-authority method": {
+  "label": "Socio-constructivist instruction vs traditional teacher-directed instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsocio-constructivist instruction\ttraditional teacher-authority instruction": {
+  "label": "Socio-constructivist instruction vs traditional teacher-directed instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tjournal writing about personally chosen topics with researcher feedback\tno journal-writing activity": {
+  "label": "autonomy-supportive journaling vs no journaling",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tin-service teachers with 30 hours of focused professional development": {
+  "label": "10 hours of metalinguistic coursework vs 30 hours of focused professional development",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tin-service teachers without focused metalinguistic professional development": {
+  "label": "10 hours of metalinguistic coursework vs no focused metalinguistic professional development",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tin-service teachers without focused professional development": {
+  "label": "10 hours of metalinguistic coursework vs no focused metalinguistic professional development",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tinservice teachers with 30 hours of focused professional development": {
+  "label": "10 hours of metalinguistic coursework vs 30 hours of focused professional development",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tinservice teachers without focused professional development": {
+  "label": "10 hours of metalinguistic coursework vs no focused metalinguistic professional development",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tpreservice teachers without focused coursework": {
+  "label": "10 hours of metalinguistic coursework vs no focused coursework",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10 hours of metalinguistic coursework\tpreservice teachers without focused metalinguistic coursework": {
+  "label": "10 hours of metalinguistic coursework vs no focused metalinguistic coursework",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14-week Student Success Course\tpre-SSC GPA baseline": {
+  "label": "Student Success Course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14-week Student Success Course\tpre-SSC baseline": {
+  "label": "Student Success Course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14-week Student Success Course instruction in learning strategies\tpre-SSC baseline": {
+  "label": "Student Success Course with learning-strategy instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14-week Student Success Course with instruction in learning and study strategies\tpre-SSC baseline": {
+  "label": "Student Success Course with learning- and study-strategy instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t24-session phonological-awareness instruction using Jolly Phonics\tintensive EFL language exposure in normal classes": {
+  "label": "Explicit phonological-awareness instruction vs intensive EFL language exposure",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t40-session informational-text comprehension intervention\tno-treatment control": {
+  "label": "Informational-text comprehension intervention vs no-treatment control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tComprehensive Charts instruction\tinstruction without Comprehensive Charts": {
+  "label": "Comprehensive Charts instruction vs instruction without Comprehensive Charts",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tComprehensive Charts of 24 tense forms\tinstruction without Comprehensive Charts": {
+  "label": "Comprehensive Charts instruction vs instruction without Comprehensive Charts",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tI Control curriculum\tbusiness-as-usual control": {
+  "label": "I Control curriculum vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tI Control self-regulation curriculum plus Brain Training Lab\tbusiness-as-usual control": {
+  "label": "I Control self-regulation curriculum plus Brain Training Lab vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPBPD-supported SRSD POW + TREE instruction\tbusiness-as-usual instruction": {
+  "label": "PBPD-supported SRSD instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPBPD-supported SRSD persuasive-writing instruction\tbusiness-as-usual instruction": {
+  "label": "PBPD-supported SRSD instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD POW + TREE persuasive-writing instruction\tbusiness-as-usual control": {
+  "label": "SRSD POW + TREE instruction vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD POW + TREE persuasive-writing instruction\tbusiness-as-usual instruction": {
+  "label": "SRSD POW + TREE instruction vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD instruction for nonstruggling writers\tbusiness-as-usual control for nonstruggling writers": {
+  "label": "SRSD instruction vs business-as-usual control for nonstruggling writers",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRSD instruction for struggling writers\tbusiness-as-usual control for struggling writers": {
+  "label": "SRSD instruction vs business-as-usual control for struggling writers",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStudent Success Skills classroom lessons and booster lessons\tcontrol condition": {
+  "label": "Student Success Skills lessons and booster lessons vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStudent Success Skills classroom lessons and booster lessons\tcontrol schools": {
+  "label": "Student Success Skills lessons and booster lessons vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStudent Success Skills classroom lessons and booster lessons with teacher reinforcement\tcontrol classrooms": {
+  "label": "Student Success Skills lessons and booster lessons with teacher reinforcement vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStudent Success Skills classroom lessons and booster lessons with teacher reinforcement\tcontrol schools": {
+  "label": "Student Success Skills lessons and booster lessons with teacher reinforcement vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStudent Success Skills classroom lessons and booster lessons, reinforced by teachers\tcontrol condition": {
+  "label": "Student Success Skills lessons and booster lessons with teacher reinforcement vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbusiness-as-usual phylogenetics instruction\tpreinstruction performance": {
+  "label": "Business-as-usual phylogenetics instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical reading instruction group before PCRI\texisting-instruction control group before PCRI": {
+  "label": "Critical reading instruction vs existing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical reading instruction program\texisting instruction": {
+  "label": "Critical reading instruction vs existing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical reading instruction program (PCRI)\texisting instruction": {
+  "label": "Critical reading instruction vs existing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperimental females receiving explicit instruction\tcontrol females receiving implicit instruction": {
+  "label": "Explicit instruction vs implicit instruction among females",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperimental females receiving explicit instruction\tcontrol males receiving implicit instruction": {
+  "label": "Explicit instruction among females vs implicit instruction among males",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in thanking\timplicit instruction in thanking": {
+  "label": "Explicit instruction in thanking vs implicit instruction in thanking",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in the speech act of thanking\timplicit instruction in the speech act of thanking": {
+  "label": "Explicit instruction in thanking vs implicit instruction in thanking",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonological-awareness instruction\tintensive EFL language exposure": {
+  "label": "Explicit phonological-awareness instruction vs intensive EFL language exposure",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonological-awareness instruction\tpretest performance before instruction": {
+  "label": "Explicit phonological-awareness instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonological-awareness instruction using Jolly Phonics\tintensive EFL exposure without explicit phonological-awareness instruction": {
+  "label": "Explicit phonological-awareness instruction vs intensive EFL language exposure without explicit phonological-awareness instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonological-awareness instruction using Jolly Phonics\tintensive EFL language exposure in normal classes": {
+  "label": "Explicit phonological-awareness instruction vs intensive EFL language exposure",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit phonological-awareness instruction using Jolly Phonics\tpretest before instruction": {
+  "label": "Explicit phonological-awareness instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinformational-text comprehension strategy intervention\tno-treatment control": {
+  "label": "Informational-text comprehension intervention vs no-treatment control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinformational-text reading-comprehension intervention\tno-treatment control": {
+  "label": "Informational-text comprehension intervention vs no-treatment control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintensive EFL exposure without explicit phonological-awareness instruction\tpretest before instruction": {
+  "label": "Intensive EFL language exposure without explicit phonological-awareness instruction vs preinstruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tresearch-based tree-thinking curriculum\tbusiness-as-usual instruction": {
+  "label": "Research-based tree-thinking curriculum vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tresearch-based tree-thinking curriculum with booklet, lectures, and laboratory\tbusiness-as-usual phylogenetics instruction": {
+  "label": "Research-based tree-thinking curriculum vs business-as-usual phylogenetics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tresearch-based tree-thinking curriculum with booklet, lectures, and phylogenetics laboratory\tbusiness-as-usual phylogenetics instruction": {
+  "label": "Research-based tree-thinking curriculum vs business-as-usual phylogenetics instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tlinear board game labeled -10 to 10\tcounting, ordering, and integer-memory activities": {
+  "label": "linear board game vs conventional counting, ordering, and memory activities",
+  "treatment_is_a": true
+ },
+ "gamification\tlinear board game with integers -10 to 10\tcounting, ordering, and integer-memory activities": {
+  "label": "linear board game vs conventional counting, ordering, and memory activities",
+  "treatment_is_a": true
+ },
+ "gamification\tlinear board game with integers from -10 to 10\tcounting, ordering integer cards, and integer-memory activities": {
+  "label": "linear board game vs conventional counting, ordering, and memory activities",
+  "treatment_is_a": true
+ },
+ "practice-amount\t13 weeks of journal writing in addition to regular writing work\tregular in-class and take-home writing only": {
+  "label": "additional journal writing vs regular writing only",
+  "treatment_is_a": true
+ },
+ "practice-amount\t13 weeks of journal writing outside class\tin-class writing and take-home assignments only": {
+  "label": "additional journal writing vs regular writing only",
+  "treatment_is_a": true
+ },
+ "practice-amount\t13 weeks of journal writing outside class with researcher feedback\tin-class writing activities and take-home assignments without journal writing": {
+  "label": "additional journal writing vs regular writing only",
+  "treatment_is_a": true
+ },
+ "practice-amount\t13 weeks of journal writing with researcher comments and feedback\tno journal-writing activity": {
+  "label": "journal writing vs no journal writing",
+  "treatment_is_a": true
+ },
+ "practice-amount\tattendance at 9 or more Supplemental Practice days\tattendance at fewer than 9 Supplemental Practice days": {
+  "label": "more supplemental practice vs less supplemental practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tjournal writing outside class\tin-class writing and take-home assignments only": {
+  "label": "additional journal writing vs regular writing only",
+  "treatment_is_a": true
+ },
+ "practice-amount\tjournal writing outside class\tno journal-writing intervention": {
+  "label": "journal writing vs no journal writing",
+  "treatment_is_a": true
+ },
+ "practice-amount\tjournal writing outside class plus regular writing tasks\tregular in-class and take-home writing tasks": {
+  "label": "additional journal writing vs regular writing only",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tevent incentives for effort\tcontrol schools": {
+  "label": "event/trip incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tevent or trip incentive for effort\tcontrol schools with no incentives": {
+  "label": "event/trip incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tevent or trip incentive for effort\tno incentives for pupil effort": {
+  "label": "event/trip incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tevent or trip incentives for effort tasks\tcontrol schools with no incentives": {
+  "label": "event/trip incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tevent or trip incentives for effort thresholds\tcontrol with no incentives": {
+  "label": "event/trip incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for effort\tcontrol schools": {
+  "label": "financial incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for effort tasks\tcontrol schools with no incentives": {
+  "label": "financial incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for effort thresholds\tcontrol with no incentives": {
+  "label": "financial incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "self-explanation\tword-problem intervention\tsupported self-explaining intervention": {
+  "label": "supported self-explaining vs word-problem intervention",
+  "treatment_is_a": false
+ },
+ "worked-examples\tgroup work on worked-example worksheets during SP days\tquestion-and-answer sessions": {
+  "label": "worked examples vs question-and-answer sessions",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example worksheets in group SP sessions\tquestion-and-answer SP sessions": {
+  "label": "worked examples vs question-and-answer sessions",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example worksheets in groups\tquestion-and-answer session": {
+  "label": "worked examples vs question-and-answer sessions",
+  "treatment_is_a": true
  }
 }

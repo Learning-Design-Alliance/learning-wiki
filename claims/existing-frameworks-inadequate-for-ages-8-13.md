@@ -49,3 +49,4 @@ Authors' argumentative claim from the literature review (type e), citing the NIS
 - [Delphi round 2 feedback flagged specific skills as too complex or age-inappropriate for 8–13-year-olds, including restoring files from a backup](delphi-feedback-skills-too-complex-for-age-group.md) — related
 - [A systematic review and Delphi round 1 yielded 257 age-appropriate literature-based skills and 101 professional-identified skills for children aged 8–13](slr-delphi-257-literature-101-professional-skills.md) — related
 - [Stakeholders identified student groups underserved by online safety education, including children with disability and Aboriginal and Torres Strait Islander children](underserved-groups-online-safety-education.md) — related
+- [Computers can have negative effects on children when use is excessive, software is age-inappropriate, or use is unsupervised](computer-negative-effects-unsupervised-use.md) — related

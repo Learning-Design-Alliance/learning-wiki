@@ -70,3 +70,4 @@ Attribution within a review: the paper describes itself as a systematic literatu
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
 - The article's title asserts that artificial intelligence enhances children's science learning from television shows, though the supplied text contains no results supporting this assertion — related
 - [The article's title asserts that worked examples are more efficient for learning than high-assistance instructional software, but the article has been retracted due to a clerical error and no supporting content is present in this document](retracted-worked-examples-more-efficient-than-high-assistance-software.md) — related
+- [The article asserts that children learn faster and better with computers and that computers increase children's motivation and interest](computers-increase-children-motivation-learning.md) — related

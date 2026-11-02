@@ -142,3 +142,6 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](classroom-experiments-retrieval-grades-and-spacing.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
 - [Practicing test-taking through actual exam experience was interpreted as more effective than lecturing about the exam in IELTS preparation](test-practice-beats-lecturing-ielts.md) — a narrower finding that bears on this claim
+- [Clicker-group students scored higher on the 40-question STAR benchmark summative assessment](clickers-higher-benchmark-test-scores.md) — a narrower finding that bears on this claim
+- [Clicker-group students scored consistently higher on all three chapter objective tests in Geometry](clickers-higher-objective-test-scores.md) — a narrower finding that bears on this claim
+- [Clicker use improved high school Geometry students' scores on warm-up and homework quizzes reviewing previously learned content](clickers-improve-review-quiz-scores-geometry.md) — related

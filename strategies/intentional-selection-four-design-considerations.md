@@ -52,6 +52,7 @@ The review's concluding recommendation is that among the heterogeneity of teachi
 
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 - [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
+- [Optimise the mix of classroom instruction with online learning and performance support tools](optimize-mix-classroom-online-performance-support.md)
 
 ## Examples
 -

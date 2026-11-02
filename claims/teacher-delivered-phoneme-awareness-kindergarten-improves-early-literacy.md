@@ -71,3 +71,6 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](nursery-rhyme-instruction-improves-pals-scores.md) — related
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related
 - [The KITS intervention has a significant indirect effect on kindergarten teacher-rated literacy through its effect on pre-kindergarten literacy skills (β = .09).](kits-indirect-effect-kindergarten-literacy.md) — related
+- [Explicit phonological awareness instruction significantly improved adult Saudi EFL learners' oral reading literacy from pretest to posttest](pa-instruction-improves-adult-arab-efl-literacy-prepost.md) — related
+- [Posttest scores of the phonological awareness treatment group were significantly higher than the control group's, with a large effect size](pa-posttest-outperforms-exposure-large-effect.md) — related
+- [Adult Saudi learners held positive attitudes toward phonological awareness instruction, preferring it to their prior schooling](positive-attitudes-toward-pa-instruction.md) — related

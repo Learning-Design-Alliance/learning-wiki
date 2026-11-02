@@ -52,3 +52,4 @@ MANOVA with repeated measures over the 15-week intervention; Table 5 reports Wil
 - [The intervention group was reported to explain 15% of the variation in pupils' numeracy performance, but the table prints that effect size on the cognitive-style row](intervention-group-15-percent-performance-variation.md) — related
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](cooperative-learning-improves-financial-accounting-achievement.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — related
+- [Time-by-method interaction shows authentic learning and the available program differ in achievement growth](time-method-interaction-achievement-growth.md) — possibly the same claim (merge candidate)

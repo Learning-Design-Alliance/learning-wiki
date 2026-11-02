@@ -67,3 +67,4 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — related
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
 - [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related
+- [Experimental and control classes had equivalent pretest narrative writing scores before treatment](vak-study-pretest-equivalence-narrative-writing.md) — possibly the same claim (merge candidate)

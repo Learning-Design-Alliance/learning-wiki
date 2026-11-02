@@ -64,6 +64,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 - [Skimming and Scanning](skimming-and-scanning.md) — the complementary rapid-processing techniques for gist and location
 - [Note-Taking](note-taking.md) — the common downstream use of extracted information
 - [Teach IELTS listening through explicit strategies and tips alongside task-based materials](ielts-listening-strategies-tips-instruction.md)
+- [Two-stage song-work technique: pre-listening word work, then work during and after listening](two-stage-song-work-technique.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — frame the purpose before exposure

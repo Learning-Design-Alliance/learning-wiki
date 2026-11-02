@@ -52,3 +52,4 @@ A 2 x 3 ANCOVA of 270 SSSII students' reading comprehension scores by gender and
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Treatment method significantly affected reading comprehension achievement and was not sex-biased](treatment-effect-significant-not-sex-biased.md) — related
 - [Female students in the blog-based collaborative reading group showed the largest reading comprehension gains, and the gender null hypothesis was rejected](female-blog-readers-largest-comprehension-gains.md) — reports the opposite
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — reports the opposite

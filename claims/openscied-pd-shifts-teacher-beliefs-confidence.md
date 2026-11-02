@@ -86,3 +86,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [After the PD, teachers' explanations of computational thinking shifted toward computer-connected problem-solving and toward CT as a teaching strategy](post-pd-ct-descriptions-shift-to-teaching.md) — a narrower finding that bears on this claim
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
 - [Short targeted workshops improve frailty screening use, knowledge, self-confidence, and attitudes](short-workshops-improve-frailty-screening-knowledge.md) — a narrower finding that bears on this claim
+- [Process evaluation found a shift away from teaching procedures towards problem-solving, with increased use of discussion, objects and diagrams, but wide variation across schools](maths-mastery-process-shift-to-problem-solving.md) — related

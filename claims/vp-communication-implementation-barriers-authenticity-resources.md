@@ -72,3 +72,4 @@ Secondary-outcome synthesis of barriers for VR/AR and metaverse interventions, a
 - [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
 - [Teachers are described mainly as creators of virtual patients, facing time, resource, technical and legal demands](vp-teacher-category-creator-role.md) — related
 - [Availability and scalability are described as key technology advantages of virtual patients over real-patient contact](vp-technology-availability-scalability.md) — reports the opposite
+- [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related

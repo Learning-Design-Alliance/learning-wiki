@@ -75,3 +75,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
+- [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](pat-27-item-reliable-achievement-test.md) — related

@@ -50,3 +50,4 @@ Mann-Whitney U comparison of pre-test scores in the quasi-experiment (control me
 - [TPS and Non-TPS groups did not differ significantly on pretest CT scores but did differ significantly on posttest overall CT scores](tps-posttest-ct-significant-pretest-null.md) — related
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in water-cycle mental model levels](no-pretest-difference-water-cycle-drawings.md) — related
+- [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related

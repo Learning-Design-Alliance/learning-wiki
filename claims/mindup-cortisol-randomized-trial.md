@@ -56,3 +56,4 @@ The review reports this randomized trial, "considered the gold-standard for prog
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [Hypothesized chain linking implementation supports to teacher fidelity to student responsiveness to child outcomes in the MindUP trial](implementation-outcomes-hypothesized-chain.md) — related
+- [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](sss-reduced-test-anxiety-growth-fifth-grade.md) — related

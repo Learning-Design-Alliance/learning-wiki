@@ -57,3 +57,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Students taught with smart board support retained more information four weeks after instruction than students taught with the 2005 curriculum](smart-board-higher-retention-four-weeks.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
+- [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related

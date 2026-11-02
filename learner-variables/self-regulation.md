@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 233 claims (166 show a difference, 39 mixed, 28 no difference) · 165 studies (54 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 32 of 165 report an effect size · 224 claims rest on one study
+> **Evidence** · 238 claims (168 show a difference, 39 mixed, 31 no difference) · 168 studies (57 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 7 qualitative, 3 design), `q1`–`q4` · 33 of 168 report an effect size · 229 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -282,6 +282,11 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](../claims/srl-reading-education-improves-self-regulation-skills.md) [+W] — instruction changes it
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](../claims/mindfulness-mediation-teacher-self-regulation.md) [+M] — instruction changes it
 - [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](../claims/mbsr-improves-teacher-self-regulation-wellbeing.md) [+M] — instruction changes it
+- [I Control showed no significant effects on student-reported goal-setting abilities (ICGS) or on the ERQ-CA reappraisal and suppression scales](../claims/i-control-null-goal-setting-and-reappraisal-effects.md) [-M] — instruction changes it
+- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](../claims/mbsr-improves-self-regulation-competences.md) [+M] — instruction changes it
+- [SSS showed no detectable effects on metacognitive activity, self-efficacy, self-management of learning, support of classmates' learning, self-regulation of arousal, self-efficacy for self-regulated learning, inattention, or self-control](../claims/sss-no-effect-self-regulation-scales.md) [-M] — instruction changes it
+- [The KITS intervention shows no statistically significant effect on children's self-regulation immediately before kindergarten entry](../claims/kits-no-effect-t2-self-regulation.md) [-M] — instruction changes it
+- [The KITS school readiness intervention produces a significant direct positive effect on children's self-regulation at the end of kindergarten (d = .29) in children with developmental disabilities and behavioral difficulties](../claims/kits-direct-effect-kindergarten-self-regulation.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

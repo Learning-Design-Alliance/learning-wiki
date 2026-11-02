@@ -73,3 +73,4 @@ Pre-specified subgroup analysis on FSM pupils within the pupil-randomised trial.
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related
 - [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
+- [Paired Reading showed no evidence of an effect on reading outcomes for FSM pupils](paired-reading-no-effect-fsm-pupils.md) — related

@@ -57,3 +57,4 @@ The review's Conclusion, summarising 106 research reports of several designs (qu
 - [A meta-analysis of 103 JAS studies reports the approach's effectiveness in 97% of researches](jas-meta-analysis-97-percent-effective.md) — related
 - [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — a narrower finding that bears on this claim
 - [Polytechnic knowledge and skills in experimental classes increased on average by 16% relative to control classes](polytechnic-development-16-percent-increase.md) — related
+- [Students using the developed learning material produced higher-marked exposition essays than control students across four writing projects](exposition-material-higher-essay-marks.md) — related

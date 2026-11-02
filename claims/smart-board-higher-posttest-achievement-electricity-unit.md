@@ -53,3 +53,4 @@ Control-group quasi-experiment with two intact 7th-grade classes (experimental N
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](prior-studies-computer-aided-instruction-more-effective.md) — a broader claim this one bears on
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
+- [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related

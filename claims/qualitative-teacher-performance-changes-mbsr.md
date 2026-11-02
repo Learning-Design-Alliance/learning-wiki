@@ -51,3 +51,5 @@ Qualitative interviews with intervention teachers, thematically coded by the mai
 - [MBSR training unexpectedly decreases self-reported teacher work engagement](mbsr-decreases-teacher-work-engagement.md) — related
 - [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
+- [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
+- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](mbsr-improves-self-regulation-competences.md) — related

@@ -50,3 +50,4 @@ Posttest scores disaggregated by pretest-derived ability subgroups (advanced, in
 - [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
 - [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related
+- [The Comprehensive Charts instruction was most effective for advanced achievers, with no significant effect for lower proficiency subgroups](charts-instruction-advanced-achievers-only.md) — possibly the same claim (merge candidate)

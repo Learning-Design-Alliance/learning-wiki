@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (99 show a difference, 24 mixed, 15 no difference) · 81 studies (39 associational, 17 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 81 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (102 show a difference, 24 mixed, 16 no difference) · 83 studies (39 associational, 19 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 83 report an effect size · 140 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -172,6 +172,10 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [The ASSISTments treatment effect was much larger for special education students (d = .50) than for regular students, whose difference was not significant](../claims/assistments-effect-larger-special-education.md) [+M] — an instructional effect differs with it
 - [Switch-on Reading shows a considerably higher effect for pupils with special educational needs (+0.33)](../claims/switch-on-sen-higher-effect.md) [+M] — an instructional effect differs with it
 - [Ability group (AA, LA, LD) did not significantly moderate the intervention effect](../claims/ability-group-no-moderation.md) [-M] — an instructional effect differs with it
+- [In a responder analysis, 38% of intervention versus 7% of control children recovered or improved on parent-reported autism symptoms, a non-significant difference](../claims/first-step-responder-analysis-asd-risk.md) [-W] — instruction changes it
+- [Parents of children at risk for ASD reported significantly greater reductions in autism symptoms and gains in empathy after First Step, with medium-to-large but non-significant effects on communication and cooperation](../claims/first-step-parent-reported-asd-outcomes.md) [+M] — instruction changes it
+- [Preschool First Step reduced teacher-reported ASD symptoms and problem behaviors in children at risk for ASD, with Hedges' g from -0.65 to -1.12](../claims/first-step-reduces-teacher-reported-asd-symptoms.md) [+M] — instruction changes it
+- [Special Education and ELL students in the clicker group earned better objective and benchmark test scores](../claims/clickers-benefit-special-education-ell-students.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

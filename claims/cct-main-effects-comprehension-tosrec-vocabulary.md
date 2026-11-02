@@ -49,3 +49,4 @@ Main-effects analysis from the parent RCT (Fogarty et al., 2017) using latent va
 - [The CCT treatment effect on comprehension was statistically significant only for students with pretest ORF up to 0.20 SD above the sample mean (64.0% of the sample), and not for higher-fluency students](orf-region-of-significance-cct-effect.md) — related
 - [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](pretest-orf-moderates-cct-comprehension-effects.md) — related
 - [Pretest word identification efficiency (SWE) and vocabulary knowledge did not moderate the intervention's effects on reading comprehension](swe-vocabulary-no-moderation.md) — related
+- [The intervention showed no significant effects on distal, norm-referenced reading measures](plug-in-no-distal-effects-norm-referenced.md) — reports the opposite

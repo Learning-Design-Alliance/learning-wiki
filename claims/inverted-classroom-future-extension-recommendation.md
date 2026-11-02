@@ -48,3 +48,4 @@ Authors' forward-looking recommendation from the conclusion section, offered wit
 - [No significant difference between inverted and traditional classrooms on the Force, Momentum & Impulse topic (Test 1) in pre-university physics](inverted-classroom-no-difference-force-momentum-impulse.md) — related
 - [The inverted classroom produced a significantly higher post-test mean than the traditional classroom on the Work, Energy & Power topic (Test 2) in pre-university physics](inverted-classroom-significant-post-test-work-energy-power.md) — related
 - [Both groups improved from pre-test to post-test on both topic tests, with the experimental group's Test 2 post-test mean exceeding the control group's](pre-post-improvement-both-groups-physics-tests.md) — related
+- [The classroom teacher judged the application successful and positive, recommending its extension to all lessons](mesnevi-values-education-teacher-views-positive.md) — related

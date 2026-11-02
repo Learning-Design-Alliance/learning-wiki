@@ -67,3 +67,4 @@ Thirty-one experienced physics teachers (at least five years' experience) rated 
 - [The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts](aeegs-reliability-cronbach-086.md) — related
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](aeegs-high-agreement-human-raters-icc-0863.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
+- [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related

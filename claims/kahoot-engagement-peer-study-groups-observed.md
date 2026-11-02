@@ -51,3 +51,4 @@ Authors' observational interpretation from the discussion section, not a tested 
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
 - [Experimental-group students most frequently named Kahoot as what helped them prepare for the exam](kahoot-named-top-exam-prep-tool.md) — related
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](kahoot-testing-effect-higher-exam-scores.md) — related
+- [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related

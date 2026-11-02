@@ -92,3 +92,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [Students still want teachers' help and do not want all control handed over to them](students-still-want-teacher-support-under-autonomy.md) — related
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related
+- [Initial reading fluency was not a consistent predictor of response to the comprehension intervention](initial-fluency-not-consistent-response-predictor.md) — a narrower finding that bears on this claim

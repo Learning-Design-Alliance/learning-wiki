@@ -82,3 +82,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — a narrower finding that bears on this claim
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — a narrower finding that bears on this claim
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
+- [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — a narrower finding that bears on this claim

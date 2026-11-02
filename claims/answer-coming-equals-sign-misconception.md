@@ -58,3 +58,4 @@ The brief describes this documented misconception, citing Carpenter et al. (2003
 - [Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code](gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md) — related
 - [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related
 - [Students' knowledge of equals sign definitions relates to their equation-solving performance at the student level](definition-relates-equation-solving.md) — related
+- [Function-based algebra affords a consistent interpretation of both equivalence and equals of functions](function-based-consistent-equivalence-equals-interpretation.md) — related

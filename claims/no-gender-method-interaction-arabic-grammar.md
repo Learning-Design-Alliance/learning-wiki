@@ -59,3 +59,5 @@ ANCOVA of the same 120-student quasi-experiment testing the Method X Gender inte
 - [No statistically significant interaction between teaching method and gender was found on the post-test or follow-up test](pictured-letters-no-method-gender-interaction.md) — related
 - [Achievement gains from pictorial-story instruction showed no significant differences due to gender or the group-by-gender interaction](pictorial-story-effect-no-gender-or-interaction-difference.md) — related
 - [Literacy achievement differences showed no statistically significant effect of gender or of the method-by-gender interaction](no-gender-effect-systemic-approach-literacy.md) — related
+- [No statistically significant interaction between gender and teaching method on eighth-grade mathematics achievement](no-gender-method-interaction-math-achievement.md) — related
+- [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — related

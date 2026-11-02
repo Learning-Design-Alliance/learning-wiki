@@ -51,3 +51,4 @@ Main effect of treatment group (problem-solving and eclectic morphological packa
 - [Gender shows no significant difference in reading comprehension achievement between experimental and control groups in the Ekiti quasi-experiment](no-gender-difference-reading-comprehension-ekiti.md) — related
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related
 - [Urban-school students significantly outperformed rural-school students in reading comprehension between experimental and control groups](urban-outperform-rural-reading-comprehension.md) — related
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — reports the opposite

@@ -55,3 +55,6 @@ Quasi-experiment with availability (non-random) sampling: 62 Iranian EFL student
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related
 - [Traditional reading comprehension instruction produced no statistically significant pre-test to post-test improvement in the control group](traditional-method-no-significant-reading-gains.md) — related
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
+- [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — a narrower finding that bears on this claim
+- [No significant gender difference in mastering thanking under explicit instruction: the second null hypothesis was retained](no-gender-difference-explicit-thanking-instruction.md) — related
+- [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related

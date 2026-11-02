@@ -50,3 +50,4 @@ True experimental pretest-posttest control-group study with random assignment of
 - [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — related
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
+- [Using music and musical information in English classes somewhat improved formation of communicative skills relative to traditional methods](music-use-improves-communicative-skills-formation.md) — related

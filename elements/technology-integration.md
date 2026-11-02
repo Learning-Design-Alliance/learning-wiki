@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 174 claims (84 for, 77 mixed, 13 against) · 145 studies (30 causal, 25 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 30 of 145 report an effect size · 171 claims rest on one study
+> **Evidence** · 175 claims (85 for, 77 mixed, 13 against) · 146 studies (31 causal, 25 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 30 of 146 report an effect size · 172 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -199,6 +199,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [The control group made significantly larger literacy composite gains than either CAI group, but composite post-test differences were not significant](../claims/prek-cai-composite-gain-control-higher.md) [-W]
 - [Writing achievement decreased significantly in the control group but did not change significantly in the Facebook experimental group over the 14-week course](../claims/facebook-writing-achievement-control-decreased-experimental-unchanged.md) [+W]
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](../claims/technology-access-greatest-integration-barrier.md) [~W]
+- [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](../claims/reviewed-studies-favor-computer-assisted-math-teaching.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

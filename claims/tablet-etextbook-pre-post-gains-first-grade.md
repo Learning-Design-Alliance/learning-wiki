@@ -53,3 +53,4 @@ Quasi-experimental control group study in one private school in Irbid-Jordan; th
 - [Students taught Elementary Algebra with e-books showed significantly higher mathematical critical thinking gains than students taught with conventional textbooks](ebooks-higher-critical-thinking-gain-than-textbooks.md) — a narrower finding that bears on this claim
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Textbook use is negatively correlated with school performance while diversification of teaching aids characterizes higher-performing schools](textbook-only-teaching-indicator-less-effective-learning.md) — related
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related

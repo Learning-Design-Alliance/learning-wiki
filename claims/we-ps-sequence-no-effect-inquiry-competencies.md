@@ -84,3 +84,4 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](retrieval-first-sequence-small-advantage.md) — related
 - [In the larger Experiment 2, worked-example assignments showed no significant main effect on algebra posttest scores overall](exp2-no-main-effect-of-condition.md) — related
 - [An integrated worked-example learning environment improves near transfer of applicable knowledge in empirical research methods training](worked-examples-improve-near-transfer-research-methods.md) — related
+- [Students using worked-example worksheets in weekly Supplemental Practice sessions significantly outperformed control students on test 3 and the final exam in a large College Algebra course](sp-worked-examples-outperform-test3-final.md) — related

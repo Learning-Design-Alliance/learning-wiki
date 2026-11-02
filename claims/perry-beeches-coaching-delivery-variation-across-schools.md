@@ -50,3 +50,4 @@ Process evaluation based on observations of nine sessions (400 minutes of tuitio
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
 - [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — related
+- [Implementation of Paired Reading varied across schools but variations appeared unlikely to have affected dosage](paired-reading-implementation-variation-dosage-unaffected.md) — related

@@ -43,7 +43,8 @@ In light of the study's results, the researchers recommend that education stakeh
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](../claims/computerized-program-arabic-grammar-achievement-iraq.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train teachers to prepare and use computerized educational packages and establish supervised Arabic educational websites](teacher-training-computerized-packages-strategy.md)
 
 ## Examples
 -

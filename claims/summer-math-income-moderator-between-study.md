@@ -72,3 +72,4 @@ The Qbetween test for the math income moderator (Table 1: Qbetween=2.802, p=0.09
 - [Summer math programs have a small significant positive overall effect on students' math scores (d=0.08).](summer-math-programs-overall-d-008.md) — a broader claim this one bears on
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related
 - [Summer program effects on math and reading outcomes are similar, and studies' math and reading effect sizes are highly correlated (unweighted r=0.93).](summer-math-reading-effects-similar-highly-correlated.md) — related
+- [The summer school showed no beneficial effect on maths outcomes (effect size approximately zero)](future-foundations-summer-school-maths-null.md) — a narrower finding that bears on this claim

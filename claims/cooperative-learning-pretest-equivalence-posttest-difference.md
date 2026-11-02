@@ -52,3 +52,4 @@ Pre/post comparison in the same quasi-experiment (N=20 per group). Table 3 repor
 - [Pre-test achievement in graph functions did not differ significantly between the experimental and control groups](gsp-pretest-no-significant-difference.md) — possibly the same claim (merge candidate)
 - [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related
 - [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — reports the opposite
+- [The experimental group closed the prior-knowledge gap: control started with significantly higher ACT scores, but post-ACT scores showed no significant difference](experimental-closed-prior-knowledge-gap.md) — related

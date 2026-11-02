@@ -63,3 +63,4 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [The effect of Jigsaw teaching on scientific concept acquisition did not differ by student gender](jigsaw-concept-acquisition-no-gender-difference.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — reports the opposite
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
+- [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — related

@@ -50,3 +50,5 @@ Semi-experimental pretest-posttest control group study with 55 athlete students 
 - [Students' definitions of leadership broadened over the course of the TPSR program, from helping peers to a more comprehensive view including empathy and reassurance](leadership-definitions-broadened-over-program.md) — related
 - [Students in the TPSR leadership program reported gains in self-confidence, taking responsibility, cooperation, and leading behaviors in post-program interviews](student-interviews-report-leadership-gains.md) — related
 - [The TPSR leadership program significantly improved leadership behavior scores (initiation of structure and consideration) on the LBDQ compared with the control group](tpsr-program-improves-lbdq-leadership-scores.md) — related
+- [A social responsibility education program significantly improves the caring and helping component among football sports school students](sr-program-improves-caring-helping.md) — a narrower finding that bears on this claim
+- [A social responsibility education program significantly improves the respect component among football sports school students](sr-program-improves-respect-sports-school.md) — related

@@ -53,3 +53,4 @@ Parent-reported SSiS problem behavior and social skills scales in the same covar
 - [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
 - [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related
+- [In a responder analysis, 38% of intervention versus 7% of control children recovered or improved on parent-reported autism symptoms, a non-significant difference](first-step-responder-analysis-asd-risk.md) — related

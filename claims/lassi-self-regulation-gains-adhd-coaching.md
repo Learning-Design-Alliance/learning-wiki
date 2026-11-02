@@ -50,3 +50,4 @@ Pre/post administration of the 80-item LASSI to seven participants, reported as 
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [Coached students reported growing use of self-talk as an executive functioning strategy, with one exception](self-talk-growth-attributed-to-coaching.md) — related
 - [Students who self-selected into coaching began with lower pretest scores than comparison students on all three measures, and all intervention students improved post-test](coaching-self-selected-lower-pretest-all-improved.md) — related
+- [Students on academic probation showed significant pre- to post-course improvement on the LASSI learning strategies inventory after the Student Success Course](ssc-improved-lassi-learning-strategies.md) — related

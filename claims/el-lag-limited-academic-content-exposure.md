@@ -85,3 +85,4 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 - [Children's school attainments show a far-reaching dependence on those of their ancestors, not attributable to similarity of environment](peters-ancestral-heredity-school-records.md)
 - [Only 5% of Chilean secondary students reached the Ministry's basic English requirement by the end of twelfth grade (2010 diagnostic)](chile-5-percent-secondary-basic-english-level.md) — related
 - [English learners scored lower than non-ELs on content knowledge and content reading comprehension in comparison classrooms](els-score-lower-than-non-els-comparison-classes.md) — related
+- [Pre-test diagnosis showed most grade-3 students had not attained writing and reading competencies in English after grade 2](pretest-diagnosis-writing-reading-deficiencies.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Descriptive statistics for the 85-student quantitative sample show CLASSIC perce
 - [Typical-gain teacher's students received the most inappropriate directions and prompts for setting a purpose and were seldom reminded to return to the purpose with evidence](inappropriate-directions-prompts-typical-teacher.md) — related
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — reports the opposite
+- [Intervention fidelity was high, with 100% adherence to allocated topic time and 78% of students attending all five lectures](high-fidelity-attendance-metalinguistic-coursework.md) — related

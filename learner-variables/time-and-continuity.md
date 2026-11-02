@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 176 claims (116 show a difference, 40 mixed, 20 no difference) · 151 studies (66 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 34 of 151 report an effect size · 172 claims rest on one study
+> **Evidence** · 179 claims (119 show a difference, 40 mixed, 20 no difference) · 153 studies (67 causal, 35 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 153 report an effect size · 175 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -233,6 +233,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The authors attribute the achievement difference to continuous time-and-space-independent interaction, greater academic engagement, and more active participation in the DWT environment](../claims/dwt-interaction-engagement-explanation.md) [+W] — learners who differ on it differ in outcomes
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](../claims/spokes-low-parent-attendance-57-percent.md) [+M] — instruction changes it
 - [Texting parents reduced pupil absenteeism (ES -0.054, about half a day) even though no texts concerned attendance](../claims/pep-texting-reduced-absenteeism.md) [+M] — instruction changes it
+- [Historical correlational data showed students attending more Supplemental Practice days earned higher course averages and success rates above 65% at nine or more days](../claims/sp-attendance-correlates-with-success.md) [+W] — learners who differ on it differ in outcomes
+- [IL course attendance and grades correlated strongly with biology course attendance and final grades (r = 0.588 to 0.848), and were stronger predictors than preentry AAR scores](../claims/il-attendance-grade-correlations-biology.md) [+M] — learners who differ on it differ in outcomes
+- [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](../claims/il-biology-engagement-higher.md) [+M] — instruction changes it
 
 ## The evidence by question
 

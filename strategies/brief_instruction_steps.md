@@ -58,8 +58,10 @@ Brief instruction steps manage [extraneous cognitive load](../principles/cogniti
 6. Fade the steps over successive attempts — from full steps to keyword prompts to goal-only — transferring responsibility to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — primes relevant schemas so steps are easier to encode and link
 - [Chunking](../principles/chunking.md) — the underlying principle governing how large the steps should be
+- [Nine classroom strategies for reducing working-memory load during instruction](gathercole-alloway-wm-classroom-strategies.md)
 
 ## Examples
 - **Elementary math instruction**: A teacher breaks a multi-digit subtraction problem into numbered steps displayed on an anchor chart, models each with a worked example, then gives students the step card to reference during independent practice.

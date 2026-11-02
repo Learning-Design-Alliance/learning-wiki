@@ -76,3 +76,4 @@ Dependent t-test within the 38 control children showed a significant pre-to-post
 - [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — related
 - [The experimental group's gains were not sustained: at post-test 2 its problem recognition was lower than both the control group and its own post-test 1, and problem-solving showed no significant change](intervention-effect-not-sustained-without-continued-implementation.md) — related
 - [Experimental group students significantly outperformed control group students on the post-test of problem solving skills](layered-curriculum-posttest-group-difference.md) — related
+- [Within the experimental group, social skill scores increased significantly from pretest to posttest and follow-up](fss-psv-experimental-group-social-skill-increase.md) — related

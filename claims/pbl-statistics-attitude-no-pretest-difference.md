@@ -55,3 +55,4 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related
 - [The Opener produced no difference on pre/post test scores across the whole project](opener-no-prepost-test-difference.md) — related
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
+- [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — related

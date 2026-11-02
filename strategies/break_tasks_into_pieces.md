@@ -66,6 +66,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 - [Break conversation into micro-units to study the structure of interaction](micro-units-conversational-analysis-strategy.md)
 - [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 - [Break large homework assignments into smaller, frequent, short-duration daily tasks](frequent-short-homework-tasks.md)
+- [Nine classroom strategies for reducing working-memory load during instruction](gathercole-alloway-wm-classroom-strategies.md)
 
 ## Examples
 - **Writing instruction:** a research essay broken into topic selection, source gathering, outline, draft, and revision, each with its own due date and rubric line — standard practice in process-writing curricula such as [Writer's Workshop](https://www.heinemann.com/writersworkshop/) models.

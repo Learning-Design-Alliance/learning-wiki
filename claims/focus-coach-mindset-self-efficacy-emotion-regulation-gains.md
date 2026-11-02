@@ -69,3 +69,4 @@ Study 1 measured emotion regulation with the ERQ-CA cognitive reappraisal subsca
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
+- [I Control showed no significant effects on student-reported goal-setting abilities (ICGS) or on the ERQ-CA reappraisal and suppression scales](i-control-null-goal-setting-and-reappraisal-effects.md) — related

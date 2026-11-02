@@ -46,3 +46,4 @@ The report attributes this to Vaughn and Fletcher (2012), an efficacy study of R
 
 ## Related Claims
 - [RTI showed a small positive headline effect of +0.19 on the New Group Reading Test, but the spoilt trial means it should not be taken as indicative of impact](rti-ngrt-headline-effect-019-insecure.md) — related
+- [A prior US randomised trial of the underlying approach found small significant positive effects for First Grade but not Second Grade pupils](us-trial-alphie-approach-first-grade-effects.md) — related

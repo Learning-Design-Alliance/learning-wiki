@@ -77,3 +77,4 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 - [Playing classic African board games such as I'tche, Oware, Omweso, Ayo, and Tsoro facilitates mathematical learning](african-board-games-mathematical-learning.md) — related
 - [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related
 - [Additional mathematics instruction received by six intervention children did not produce significantly different posttest scores](extra-math-instruction-six-children-no-significant-difference.md) — related
+- [Playing a linear board game including negative integers significantly improved first graders' placement of negative integers on empty number lines](board-game-negatives-first-grade-gains.md) — a narrower finding that bears on this claim

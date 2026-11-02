@@ -202,6 +202,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](../strategies/explicit-vocabulary-instruction-intentional-environment-recipe.md)
 - [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 - [Select high-leverage academic vocabulary for direct instruction because the number of words that can be taught is limited](../strategies/select-high-leverage-academic-vocabulary.md)
+- [Use a pre-task stage with vocabulary review, clear instructions, a model task, and useful-language recall before reading tasks](../strategies/pre-task-stage-model-and-instructions-reading-tasks.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)

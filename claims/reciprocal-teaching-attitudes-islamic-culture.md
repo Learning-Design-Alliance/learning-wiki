@@ -53,3 +53,4 @@ Experimental 40  99,62  3,81"
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Students taught with the integrated approach showed significantly more positive attitudes toward reading literature than control students](integrated-approach-attitudes-toward-reading-literature.md) — related
 - [The multicultural education programme showed no significant effect on students' attitude towards cultural diversity](multicultural-education-no-effect-cultural-diversity.md) — related
+- [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related

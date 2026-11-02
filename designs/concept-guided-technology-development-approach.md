@@ -43,7 +43,8 @@ The article proposes concept-guided development of technology use, in which scho
 - [Integration Not Dependent On School Concept](../claims/integration-not-dependent-on-school-concept.md) [+M]
 
 ## Related Designs
-- 
+
+- [Model Driven Design for developing complex blended learning experiences](model-driven-design-blended-learning.md)
 
 ## Examples
 -

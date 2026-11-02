@@ -54,3 +54,5 @@ Hierarchical linear model analysis of the TOCA-C Poor Emotional Regulation subsc
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
 - [IY TCM teachers implement higher rates of proactive classroom management strategies over time than control teachers](iytcm-teachers-more-proactive-strategies.md) — related
+- [The IY TCM program increased teacher-reported prosocial behavior and overall social competence (d = 0.13 each)](iy-tcm-increased-prosocial-and-social-competence.md) — related
+- [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — possibly the same claim (merge candidate)

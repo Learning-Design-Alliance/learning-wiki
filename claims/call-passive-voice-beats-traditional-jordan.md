@@ -53,3 +53,4 @@ Quasi-experiment with 212 first-secondary pupils in two public schools in Zarqa;
 - [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related
 - [Scientific-stream students significantly outperformed literary-stream students in passive-voice achievement regardless of teaching method](scientific-stream-outperforms-literary-grammar.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
+- [The article concludes that computer-assisted education produced more permanent and more associable learning of seasons concepts than traditional teaching methods](cae-permanent-associable-learning-seasons.md) — related

@@ -72,3 +72,4 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related
 - [First-year university students studying projectile motion with a Mathematica program achieve higher post-test scores than students using a projectile motion experiment set](mathematica-program-higher-projectile-achievement.md) — related
+- [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related

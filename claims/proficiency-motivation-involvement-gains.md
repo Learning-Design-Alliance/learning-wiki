@@ -77,3 +77,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
 - [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related
+- [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related

@@ -51,3 +51,4 @@ LEAP randomized controlled trial, grade-11 completion measured by survey three y
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — related
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](financial-incentives-teen-parents-staying-in-school.md) — related
 - [Financial incentives of £30 per session increased parental attendance at Parent Academy sessions](financial-incentives-increase-parent-attendance.md) — a narrower finding that bears on this claim
+- [Financial incentives significantly improved classwork effort across English, Maths and Science, with no secure evidence of impact on behaviour, attendance or homework](financial-incentives-improve-classwork-effort-only.md) — related

@@ -42,7 +42,8 @@ The redesigned educational technology course followed five design principles emb
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](../claims/polarised-student-feedback-technology-rich-active-learning-course.md) [+W]
 
 ## Related Designs
-- 
+
+- [Four-level embedding of target pedagogies within a course: knowledge, active experience, feedback, and personal impact](four-level-embedded-design-course-pattern.md)
 
 ## Examples
 -

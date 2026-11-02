@@ -63,3 +63,4 @@ Pupil-randomised controlled trial in twelve Bolton secondary schools; 649 Year 7
 - [SRSD combined with memorable experiences produced a large, statistically significant improvement in extended writing for pupils predicted Level 3 or insecure Level 4 at the primary-secondary transition](srsd-memorable-experiences-improve-transition-writing.md) — related
 - [Switch-on Reading and Switch-on Reading and Writing produced no additional reading progress compared with business-as-usual control schools in a three-arm school-randomised effectiveness trial](switch-on-no-reading-effect-effectiveness-trial.md) — related
 - [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related
+- [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related

@@ -49,3 +49,4 @@ Paired t-test on the 27-item Attitude toward Science Scale (Cronbach's α = .92)
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [Including out-of-school learning environments in 6th-grade science instruction produces significantly higher attitudes toward the science course than curriculum-only instruction at posttest](out-of-school-environments-raise-science-attitudes-posttest.md) — related
 - [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education](newspapers-in-education-improved-learning-attitude.md) — related
+- [Mesnevî Supported Values Education produced significantly higher posttest attitudes towards the five targeted values than normal curriculum instruction in 4th graders](mesnevi-values-education-improves-attitudes.md) — related

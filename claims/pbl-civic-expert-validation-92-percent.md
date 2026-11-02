@@ -47,3 +47,4 @@ Expert validation in the Finding section: Table 2 prints linguists 92.5%, presen
 ## Related Claims
 - [A teacher assessment of the PBL-based material in the limited test rated all aspects 85%, declared eligible for learning](pbl-civic-limited-test-teacher-assessment.md) — related
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
+- [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related

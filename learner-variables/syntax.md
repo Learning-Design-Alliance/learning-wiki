@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (47 show a difference, 12 mixed, 20 no difference) · 57 studies (31 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 6 of 57 report an effect size · 76 claims rest on one study
+> **Evidence** · 81 claims (49 show a difference, 12 mixed, 20 no difference) · 58 studies (32 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 6 of 58 report an effect size · 78 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -117,6 +117,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [L2 pre-college students taught X-Word Grammar showed larger improvement in verb construct accuracy than students taught traditional grammar, borderline significant](../claims/xword-grammar-larger-verb-construct-improvement.md) [~M] — instruction changes it
 - [Sentence-pattern accuracy improved more under X-Word Grammar than traditional grammar, but the difference was not statistically significant](../claims/xword-sentence-pattern-improvement-not-significant.md) [-M] — instruction changes it
 - [X-Word Grammar students improved significantly more on subject-verb agreement, borderline on tense, and not significantly on aspect/verb forms](../claims/xword-significant-subject-verb-agreement-gain.md) [~M] — instruction changes it
+- [Instruction with the Comprehensive Charts significantly improved EFL freshmen's tense-form recognition in the non-written context](../claims/comprehensive-charts-improve-tense-recognition.md) [+M] — instruction changes it
+- [Learners with better language competence outperformed lower-competence learners in tense-form learning with the Comprehensive Charts](../claims/language-competence-moderates-tense-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

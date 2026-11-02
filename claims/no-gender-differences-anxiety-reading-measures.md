@@ -52,3 +52,4 @@ Series of independent-samples t-tests comparing boys and girls in the 153-child 
 - [Math anxiety levels do not differ significantly by gender among third graders](math-anxiety-no-gender-difference-third-graders.md) — a narrower finding that bears on this claim
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [Age and gender showed no significant effects on performance in the sample, though the authors call for exploration of their combined effect with a larger sample](age-gender-no-significant-effects-infant-sample.md) — related

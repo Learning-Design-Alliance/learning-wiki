@@ -44,7 +44,8 @@ FLEX is a blended learning study format at the Zurich University of Applied Scie
 - [Flex Students Positive Perceptions All Dimensions](../claims/flex-students-positive-perceptions-all-dimensions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Blended learning as a student-centred combination of face-to-face and online instruction](blended-learning-conceptual-framework.md)
 
 ## Examples
 -

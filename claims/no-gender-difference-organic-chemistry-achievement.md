@@ -77,3 +77,5 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [The teaching method by gender interaction on chemistry achievement was not significant](no-method-gender-interaction-chemistry-achievement.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
+- [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
+- [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — a narrower finding that bears on this claim

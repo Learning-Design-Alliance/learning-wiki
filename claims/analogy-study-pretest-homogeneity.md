@@ -59,3 +59,4 @@ Independent-samples t-test on pre-test scores of the two groups (43 each). The a
 - [Pre-test listening proficiency was equivalent between the online and traditional classroom groups](pre-test-proficiency-equivalent-groups.md) — related
 - [The experimental and control groups were statistically comparable in reading comprehension before the treatment began](pretest-equivalence-presentation-strategy-groups.md) — related
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
+- [Control and experimental groups did not differ significantly on phonological memory measures at pre-test](time1-groups-equivalent-pm-tests.md) — possibly the same claim (merge candidate)

@@ -55,3 +55,4 @@ The review reports a double-video experiment in which mothers interacted via liv
 - [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
 - [The article argues that children's play with vocal sounds develops the range of articulate sounds before proper speech is acquired](vocal-play-develops-articulation.md) — related
 - [The article argues the social instinct — the craving for sympathy and appreciation — underlies speech because its full development is possible only through language](social-instinct-underlies-speech.md) — related
+- [Social–emotional functioning of intervention infants rose numerically from the high to the very superior range after the programme, which the authors attribute to added parent stimulation](numbers-in-nappies-social-emotional-increase.md) — related

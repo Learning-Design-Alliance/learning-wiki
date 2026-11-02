@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Intervention teachers showed significant reductions in cognitive and emotional strain and improvements in self-regulation competences, with large between-group effect sizes at post-test. [→ Rupprecht 2017](#rupprecht-2017)
@@ -76,3 +76,8 @@ Follow-up comparisons in Table 4 show Cohen's d of 1.26 for cognitive irritation
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [MBSR training significantly increases trait mindfulness (mindful presence and acceptance) in teachers versus waitlist control](mbsr-increases-teacher-trait-mindfulness.md) — related
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
+- [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
+- [Teachers comply with MBSR home practice and report high satisfaction, but see the course as suited to interested volunteers rather than a requirement](mbsr-teacher-compliance-satisfaction.md) — related
+- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](mbsr-improves-self-regulation-competences.md) — possibly the same claim (merge candidate)
+- [MBSR training significantly reduces teacher strain, with large between-group effect sizes sustained at follow-up](mbsr-reduces-teacher-strain.md) — possibly the same claim (merge candidate)
+- [Changes in mindfulness at post-test fully mediate training effects on most self-regulation outcomes at 3-month follow-up](mindfulness-mediation-selfregulation-followup.md) — related

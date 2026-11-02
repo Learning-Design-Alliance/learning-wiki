@@ -48,3 +48,4 @@ Table 2 of the 3-way ANCOVA reports the gender source of variance with sum of sq
 - [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — related
 - [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
+- [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related

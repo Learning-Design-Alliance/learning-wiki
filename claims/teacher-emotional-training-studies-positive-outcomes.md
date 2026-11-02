@@ -66,3 +66,4 @@ The review narrates prior training studies targeting skills such as emotion iden
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [Perceived acceptance in the group and stress-management strategies are proposed mechanisms for play therapy reducing insecure attachment](group-acceptance-mechanism-insecure-attachment.md) — related
 - [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — a narrower finding that bears on this claim
+- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](mbsr-improves-self-regulation-competences.md) — a narrower finding that bears on this claim

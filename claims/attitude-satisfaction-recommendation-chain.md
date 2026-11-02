@@ -49,3 +49,4 @@ PLS structural model results support both the attitude–satisfaction path and t
 - [Students' favourable attitudes towards CSCL significantly positively influence perceived impact on learning and perceived enjoyment](attitude-influences-impact-and-enjoyment-cscl.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](satisfaction-influences-perceived-impact-cscl.md) — related
+- [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related

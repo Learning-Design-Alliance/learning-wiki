@@ -99,6 +99,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Relax the time base of instruction: let students progress at their own pace toward mastery benchmarks](../strategies/relax-time-base-mastery-progression.md)
 - [Four-dimensional personalization framework for study planning: goals, time, pace, and path](../designs/four-dimensional-personalization-goals-time-pace-path.md)
 - [Aurora Institute's Seven Critical Elements of Instructional Practice](../products/aurora-institutes-seven-critical-elements-of-instructional-practice.md)
+- [Provide one-to-one guidance, small groups and flexible pacing for low-grade pupils](../strategies/individual-guidance-small-groups-extra-time.md)
 
 ## Key Sources
 - Watson, S. L., & Reigeluth, C. M. (2008). The learner-centered paradigm of education. *Educational Technology, 54*(3), 42–48. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/learnercentered_paradigm](https://edtechbooks.org/lidtfoundations/learnercentered_paradigm)

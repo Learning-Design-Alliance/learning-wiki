@@ -75,3 +75,4 @@ The review's account of how core knowledge meets academic learning states that "
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — related
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](dd-first-deficit-exact-representation-ans-secondary.md) — related
+- [Infants exposed to the Numbers in Nappies programme showed a statistically significant increase on the BSID (III) Cognitive Scale from before to after the intervention](numbers-in-nappies-cognitive-scale-within-group-increase.md) — related

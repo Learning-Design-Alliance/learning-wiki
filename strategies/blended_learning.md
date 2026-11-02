@@ -83,6 +83,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
 - [Offer courses in either online or in-class form where equivalent outcomes are acceptable](offer-courses-in-either-form.md)
 - [Adopt a blended learning design combining interactive multimedia CD-ROM modules, printed booklets, and web-based discussion forums and activities with occasional face-to-face support](blended-cd-print-web-design-strategy.md)
+- [Optimise the mix of classroom instruction with online learning and performance support tools](optimize-mix-classroom-online-performance-support.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

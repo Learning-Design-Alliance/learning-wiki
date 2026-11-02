@@ -49,3 +49,6 @@ Quasi-experimental waitlist-controlled study of 32 German teachers (intervention
 - [MBSR training reduces teacher strain and improves wellbeing, self-regulation, self-efficacy, and emotion regulation with medium-to-large effects](mbsr-improves-teacher-self-regulation-wellbeing.md) — related
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
 - [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related
+- [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
+- [MBSR training improves teachers' self-regulation competences, self-efficacy and emotion regulation, with medium-to-large between-group effects](mbsr-improves-self-regulation-competences.md) — related
+- [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — possibly the same claim (merge candidate)

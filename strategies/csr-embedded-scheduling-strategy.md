@@ -40,6 +40,7 @@ CSR is implemented inside existing timetabled lessons rather than as a pull-out 
 ## Related Strategies
 
 - [Deliver Readable English as whole-class and small-group instruction within the regular ELA block](readable-english-ela-block-delivery.md)
+- [Schedule the supplemental active session as part of the normal class week rather than out of class](in-class-supplemental-day-strategy.md)
 
 ## Examples
 -

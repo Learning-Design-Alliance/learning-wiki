@@ -109,3 +109,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Hypothesized chain linking implementation supports to teacher fidelity to student responsiveness to child outcomes in the MindUP trial](implementation-outcomes-hypothesized-chain.md) — a narrower finding that bears on this claim
 - [On-treatment fidelity analysis found low-fidelity schools improved outcomes relative to non-implementers, but the pattern was inconsistent across higher fidelity groups](quest-fidelity-rating-inconsistent-outcome-pattern.md) — related
 - [Implementation fidelity and dosage of PATHS were unrelated to academic outcomes in this trial](paths-fidelity-dosage-unrelated.md) — a narrower finding that bears on this claim
+- [Implementation of Paired Reading varied across schools but variations appeared unlikely to have affected dosage](paired-reading-implementation-variation-dosage-unaffected.md) — related

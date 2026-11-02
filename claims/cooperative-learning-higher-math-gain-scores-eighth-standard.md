@@ -59,3 +59,4 @@ Two equivalent-group quasi-experiment with 20 students per group matched on pre-
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — related
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](cooperative-learning-lower-test-anxiety.md) — related
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — related
+- [Computerized educational packages produced statistically significant higher mathematics achievement than traditional teaching in eighth-grade classes in Ma'an](computerized-packages-improve-eighth-grade-math-achievement.md) — related

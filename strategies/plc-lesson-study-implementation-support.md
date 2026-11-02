@@ -53,6 +53,7 @@ Teachers attend an initial Science of Reading and Implementation Professional De
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
 - [Implement PCP with initial 3-hour training plus semester follow-up sessions and onsite coaching](pcp-training-and-coaching-strategy.md)
+- [Train teachers through hands-on practice of the tutoring procedure with a supporting resource pack](hands-on-teacher-training-practice-with-resource-pack.md)
 
 ## Examples
 -

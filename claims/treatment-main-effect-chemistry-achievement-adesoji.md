@@ -50,3 +50,4 @@ ANCOVA of posttest achievement scores in a pretest-posttest-control-group quasi-
 - [Treatment has a significant main effect on students' attitude to chemistry](treatment-main-effect-chemistry-attitude.md) — related
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](mastery-learning-higher-quantitative-chemistry-posttest.md) — related
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
+- [Instructional strategy (Enrichment Triad, Self-Directed, or conventional) has a significant effect on gifted students' post-test academic achievement](treatment-effect-gifted-achievement-enrichment-triad-self-directed.md) — related

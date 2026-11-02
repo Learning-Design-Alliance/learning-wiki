@@ -59,3 +59,4 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related

@@ -54,3 +54,4 @@ Baseline check in the quasi-experiment: after the shared first intervention, pre
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related
 - [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — related
 - [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](scp-higher-computational-fluency-gains-than-traditional-drill.md) — related
+- [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related

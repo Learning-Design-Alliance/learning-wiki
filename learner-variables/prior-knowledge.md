@@ -283,11 +283,13 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - Self-efficacy — prior success in a domain builds the confidence that sustains effort when material gets difficult.
 
 ## Examples
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-instruction prompts (brainstorming, anticipation guides, KWL) that surface what learners already know.
 - [Analogies and Prior Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md) — bridges new concepts to familiar ones.
 - [Advance Organizers](../elements/advance-organizers.md) — expository or comparative frameworks presented before the material.
 - [4C/Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — explicitly sequences learning tasks from simple-to-complex based on learner entry knowledge.
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why novice/expert differences reverse the effectiveness of guidance and example formats.
+- [Adapt worked-example sessions for high and low prior-knowledge students who did not benefit](../strategies/adapt-worked-examples-for-high-low-prior-knowledge.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Core Academic Literacies (Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-4-8/factors/core-academic-literacies-portrait-of-a-learner-4-8/summary). Licensed CC BY-NC 4.0.

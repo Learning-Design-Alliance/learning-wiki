@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (28 for, 9 mixed, 1 against) · 30 studies (15 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (28 for, 10 mixed, 1 against) · 31 studies (16 causal, 5 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 31 report an effect size · 35 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -83,6 +83,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Students commonly hold the everyday-experience-based misconception that electrostatic interaction stops when charged objects are placed at greater distance](../claims/greater-distance-no-interaction-misconception.md) [+W]
 - [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](../claims/alternative-conceptions-persist-emerge-posttest.md) [+W]
 - [Semi-structured interviews with 110 undergraduates confirmed factual preconceptions about moons, including confusing moons with stars and asteroids and believing moons originate only as captured asteroids](../claims/student-moon-preconceptions-interviews.md) [+W]
+- [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](../claims/interview-path-difference-understanding-difference.md) [~W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

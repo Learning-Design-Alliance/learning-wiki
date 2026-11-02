@@ -49,3 +49,4 @@ Descriptive distribution analysis by future teaching age group and subject area 
 - [Prospective teachers can identify and script computational processes across all knowledge domains, including humanities and social sciences](ct-process-scripts-feasible-across-fields.md) — related
 - [Inquiry-based exploration simulations were significantly more likely in exact and life sciences than humanities and social sciences](inquiry-simulations-more-likely-in-sciences.md) — possibly the same claim (merge candidate)
 - [Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration](most-prospective-teachers-produce-dynamic-simulations.md) — related
+- [Preschool teachers reportedly do not use computer-assisted education in teaching basic science subjects](preschool-teachers-do-not-use-cae-science.md) — related

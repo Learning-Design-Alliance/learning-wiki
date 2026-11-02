@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: barbieri-2016
     resource: "https://doi.org/10.1016/j.lindif.2016.04.001"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A regression revealed a significant Prior Knowledge by Incorrect condition interaction predicting post-test scores (β = -.182, p = .045). [→ Barbieri 2016](#barbieri-2016)

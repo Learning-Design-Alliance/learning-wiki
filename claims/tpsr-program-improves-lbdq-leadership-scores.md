@@ -48,3 +48,4 @@ ANCOVA on LBDQ posttest scores in the same 55-student semi-experimental study; t
 - [Students in the TPSR leadership program reported gains in self-confidence, taking responsibility, cooperation, and leading behaviors in post-program interviews](student-interviews-report-leadership-gains.md) — related
 - [A 16-lesson TPSR leadership program significantly improved personal and social responsibility scores of sports high school students compared with a control group](tpsr-program-improves-responsibility-scores.md) — related
 - [Students' definitions of leadership broadened over the course of the TPSR program, from helping peers to a more comprehensive view including empathy and reassurance](leadership-definitions-broadened-over-program.md) — related
+- [A social responsibility education program significantly improves the respect component among football sports school students](sr-program-improves-respect-sports-school.md) — related

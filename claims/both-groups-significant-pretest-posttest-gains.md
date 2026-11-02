@@ -60,3 +60,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related
 - [The experimental group's performance scores improved significantly from pretest to posttest over the application year](experimental-group-prepost-gain.md) — related
 - [The KR-21 reliability index for the posttest was higher than for the pretest](kr21-reliability-posttest-higher-than-pretest.md) — related
+- [Paired t-tests show a statistically significant pretest-to-posttest increase in analytical thinking skills in all four classes at α = 0.05](cbl-analytical-thinking-significant-paired-t-test.md) — a narrower finding that bears on this claim

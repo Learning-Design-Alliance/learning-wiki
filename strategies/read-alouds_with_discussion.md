@@ -61,8 +61,10 @@ The strategy works because narrative supplies concrete, emotionally engaging cas
 6. Revisit the story's dilemma during later conflicts as a shared referent for coaching behavior ([Coaching](../elements/coaching.md))
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-reading activation determines whether students can connect the story to their own social experience
 - [Acting-Role Play](../strategies/acting-role-play.md) — enacting alternative story endings converts discussed responses into rehearsed behavior
+- [Transform Mesnevî stories into structured classroom activities ending with homework](mesnevi-stories-activity-transformation-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text selection function

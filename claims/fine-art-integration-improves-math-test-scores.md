@@ -73,3 +73,4 @@ Tests of between-subject effects in the same pedagogical experiment show the int
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
+- [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related

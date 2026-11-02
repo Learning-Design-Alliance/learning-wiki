@@ -51,3 +51,4 @@ Cluster-randomized trial with 160 at-risk preschoolers randomized at the program
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — a broader claim this one bears on
 - [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related
+- [Teachers and parents reported positive social validity of FSS-PSV, with most happy with the program and willing to recommend it](fss-psv-positive-social-validity.md) — related

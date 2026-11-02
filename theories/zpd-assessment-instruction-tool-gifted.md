@@ -73,6 +73,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Prepare teachers and school support specialists in the balanced use of static and dynamic assessment within teacher training programs](../strategies/teacher-training-dynamic-assessment-techniques.md)
 - [Emotionalized dynamic assessment (EDA): dynamic assessment mediation loaded with Goleman's emotional intelligence framework](../designs/emotionalized-dynamic-assessment-eda.md)
 - [Use dynamic testing with graduated prompts scenarios as part of psycho-educational assessment to tailor instruction to individual needs](../strategies/dynamic-testing-graduated-prompts-assessment-strategy.md)
+- [Three-level creative tasks with assistance cards for mini investigations in physics laboratory work](../designs/three-level-creative-tasks-assistance-cards.md)
 
 ## Key Sources
 - McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

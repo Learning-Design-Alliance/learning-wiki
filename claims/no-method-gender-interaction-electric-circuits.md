@@ -50,3 +50,4 @@ Two-way univariate ANCOVA (group x gender) with pretest covariate on 273 student
 - [No significant interaction between gender and instructional method on basic science achievement](no-gender-method-interaction-basic-science.md) — related
 - [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](pretest-misconceptions-electric-circuits-jordan.md) — related
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
+- [No statistically significant interaction between gender and teaching method on eighth-grade mathematics achievement](no-gender-method-interaction-math-achievement.md) — related

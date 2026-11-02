@@ -49,3 +49,4 @@ The ABSL approach, originally named the Science Writing Heuristic, is a construc
 
 ## Key Sources
 - Ömer Sinan Can, Tevfik İşleyen. (2016). Teaching Probability to Pre-Service Teachers with Argumentation Based Science Learning Approach. Journal of Education and Practice, Vol.7, No.33. https://www.iiste.org
+- Akbaş, Y.; Şahin, İ. F.; Meral, E. (2019). Implementing Argumentation-Based Science Learning Approach in Social Studies: Academic Achievement and Students' Views. Review of International Geographical Education Online (RIGEO), 9(1), 209-245. https://doi.org/10.33403/rigeo.529139

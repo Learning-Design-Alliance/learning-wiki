@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (15 for, 15 mixed, 3 against) · 31 studies (10 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (15 for, 17 mixed, 3 against) · 32 studies (11 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,8 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Gain scores by curriculum coverage diverge by material: CM learners covering 79% or more gained more, while below 79% PM learners gained more, though the latter difference is not significant](../claims/coverage-gain-divergence-by-material.md) [~W]
 - [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](../claims/mathematics-mastery-quantile-regression-little-heterogeneity.md) [~W]
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](../claims/mastery-learning-gender-no-significant-effect-mole-concept.md) [~W]
+- [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](../claims/maths-mastery-secondary-fsm-subgroup-effect.md) [~W]
+- [No strong evidence that Mathematics Mastery had a greater impact on lower-attaining than higher-attaining pupils](../claims/maths-mastery-no-differential-effect-by-attainment.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

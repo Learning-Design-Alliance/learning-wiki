@@ -56,3 +56,4 @@ Randomized controlled trial comparing all Year 7 pupils in 19 treatment schools 
 - [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](hampshire-hundreds-no-significant-impact-disadvantaged.md) — related
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](lit-teacher-views-benefits-and-limits.md) — related
+- [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related

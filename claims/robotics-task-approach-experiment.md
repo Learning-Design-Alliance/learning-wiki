@@ -72,3 +72,4 @@ Control group 18 28 40 18 104"
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](logo-posttest-outperformed-control-2d-shapes.md) — related
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — related
 - [Undergraduates in a blended learning environment achieved significantly higher self-directed learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-sdl-posttest-than-traditional.md) — related
+- [After the experiment, the experimental group showed higher levels of formedness of research competencies than the control group across assessment tasks](experimental-group-higher-formedness-post-experiment.md) — related

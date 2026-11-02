@@ -44,7 +44,8 @@ The article frames flipped learning as a constructivist-inspired approach in whi
 - [Positive Student Perceptions Flipped Learning](../claims/positive-student-perceptions-flipped-learning.md) [+M]
 
 ## Related Designs
-- 
+
+- [Blended learning as a student-centred combination of face-to-face and online instruction](blended-learning-conceptual-framework.md)
 
 ## Examples
 -

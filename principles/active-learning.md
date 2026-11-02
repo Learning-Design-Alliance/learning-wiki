@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (37 for, 29 mixed, 2 against) · 55 studies (18 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 55 report an effect size · 60 claims rest on one study
+> **Evidence** · 71 claims (39 for, 29 mixed, 3 against) · 57 studies (20 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 57 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](../claims/practical-work-mean-gain-26-versus-2-8.md) [+W] — attached 2026-11-01 from Musasia et al. (2016), which proposed "Use intensive practical activities as a central instructional technique in secondary physics to raise achievement"; tests this page's relationship.
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](../claims/pbl-improves-efl-vocabulary-recall.md) [+W] — attached 2026-11-01 from Shafaei et al. (2015), which proposed "Replace rote, translation-based vocabulary teaching with interactive, project-based methods"; tests this page's relationship.
 - [On a delayed delayed-post-test covering all 30 items, the PBL group (mean 23.80) outperformed the control group (mean 17.15)](../claims/pbl-delayed-delayed-posttest-outperformance.md) [+W] — attached 2026-11-01 from Shafaei et al. (2015), which proposed "Replace rote, translation-based vocabulary teaching with interactive, project-based methods"; tests this page's relationship.
+- [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](../claims/tblt-reading-outperforms-traditional-instruction-iranian-efl.md) [+W] — attached 2026-11-02 from Mozhgan Madhkhan et al. (2017), which proposed "Replace traditional post-reading comprehension questions with pre-planned task-based reading activities"; tests this page's relationship.
+- [The read-note-and-discuss task type ranked highest, followed by read-and-discuss, with read-and-think and read-and-write equal](../claims/read-note-discuss-task-type-highest-reading-performance.md) [+W] — attached 2026-11-02 from Mozhgan Madhkhan et al. (2017), which proposed "Replace traditional post-reading comprehension questions with pre-planned task-based reading activities".
 
 ## Objective and learner-valued goal
 
@@ -200,6 +202,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](../claims/inguinal-model-mean-errors-lower.md) [+W]
 - [The model-building group produced far fewer total test mistakes than the lecture group in the first interim block](../claims/inguinal-model-total-mistakes-reduced.md) [+W]
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](../claims/traditional-low-gain-versus-pe-45-percent.md) [~W]
+- [Class work completion rates were slightly lower for the clicker group when learning new content](../claims/clickers-lower-classwork-completion-new-content.md) [-W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)
