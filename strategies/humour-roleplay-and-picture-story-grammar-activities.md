@@ -49,6 +49,7 @@ The article describes two concrete activities used with the experimental group. 
 
 - [Teach equivocal words (false friends) by embedding each target term in a short humorous story that makes the false-friend reading nonsensical](joke-embedding-false-friends-strategy.md)
 - [Use a staged picture-story-book procedure: whole-picture stimulus, picture-text matching in groups, ordering, then individual retelling](staged-picture-story-book-reading-procedure.md)
+- [Teach lexical chunks through a reading-into-speaking cycle combining underlining, sentence production, paragraph writing, discussion, and role play](reading-into-speaking-lexical-chunks-cycle.md)
 
 ## Examples
 -

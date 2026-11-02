@@ -13,7 +13,7 @@ generated:
 # FUSION
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (3 causal), `q2`–`q3` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 FUSION is a Grade 1 small-group mathematics intervention programme developed by Strand Cary et al. with 60 scripted explicit lessons targeting whole-number concepts and early operations.
@@ -31,6 +31,8 @@ FUSION is a Grade 1 small-group mathematics intervention programme developed by 
 - [Educators tend to perceive meaningful effects of the developers' curricula on student outcomes, but standardized measures tend not to reflect the same level of impact as proximal assessments](../claims/proximal-vs-standardized-measure-perceptions.md) [+W]
 - [At-risk first graders receiving Fusion showed significantly greater gains than control peers on the proximal conceptual-understanding measure ProFusion, with a large effect](../claims/fusion-greater-profusion-gains-large-effect.md) [+M]
 - [Implementation fidelity and instructional quality ratings were not significantly associated with student outcome gains in treatment classrooms, with mixed positive and negative associations](../claims/fidelity-quality-null-associations-gains.md) [~M]
+- [Practitioner-implemented Fusion produced a statistically significant positive effect on the proximal ProFusion mathematics measure in a quasi-experimental study](../claims/fusion-practitioner-implementation-significant-profusion-effect.md) [+M]
+- [Fusion showed positive but nonsignificant effects on some distal measures and negative nonsignificant effects on others in the practitioner implementation](../claims/fusion-nonsignificant-distal-measure-effects.md) [~M]
 
 ## Related Products and Programmes
 
@@ -40,3 +42,5 @@ FUSION is a Grade 1 small-group mathematics intervention programme developed by 
 - Strand Cary, M., Doabler, C., Clarke, B., Fien, H., Baker, S. K., & Jungjohann, K. (2013). Evaluating the Promise of the FUSION Tier 2 Math Intervention. SREE Spring 2013 Conference. https://www.sree.org
 - Ben Clarke, Christian T. Doabler, Mari Strand Cary, Derek Kosty, Scott Baker, Hank Fien, and Keith Smolkowski. (2014). Preliminary Evaluation of a Tier 2 Mathematics Intervention for First-Grade Students: Using a Theory of Change to Guide Formative Evaluation Activities. School Psychology Review, 43(2), 160-177.
 - Clarke, B., Doabler, C. T., Strand Cary, M., Kosty, D., Baker, S., Fien, H., & Smolkowski, K. (2014). Preliminary Evaluation of a Tier 2 Mathematics Intervention for First-Grade Students. School Psychology Review, 43(2), 160-177. https://www.nasponline.org/journals/spr
+- Strand Cary, M. G., Clarke, B., Doabler, C. T., Smolkowski, K., Fien, H., & Baker, S. K. (2017). A practitioner implementation of a Tier 2 first grade mathematics intervention. Learning Disability Quarterly, 40(4), 211–224. https://doi.org/10.1177/0731948717714715
+- Mari G. Strand Cary, Ben Clarke, Christian T. Doabler, Keith Smolkowski, Hank Fien, and Scott K. Baker. (2017). A Practitioner Implementation of a Tier 2 First-Grade Mathematics Intervention. Learning Disability Quarterly. https://doi.org/10.1177/0731948717714715

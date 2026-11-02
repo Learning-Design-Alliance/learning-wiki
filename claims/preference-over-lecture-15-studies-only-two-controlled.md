@@ -65,3 +65,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](pre-service-teacher-aversion-to-flipped-learning.md) — related
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](students-strongly-prefer-flipped-courses.md) — related
 - [Team-teaching students reported substantially higher rates of note supervision, class participation, work coverage, teacher supervision, and perceived improvement than traditional-method students](team-teaching-higher-perceived-feedback-quality.md) — related
+- [Students reported high-to-highest satisfaction with the clinical PBL model, with the facilitator role of the teacher rated highest](high-satisfaction-clinical-pbl-pharmacy-facilitator-role.md) — related

@@ -70,6 +70,7 @@ Facilitation works because it supports learners' basic psychological needs for a
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer structures that let the instructor step back without leaving learners unsupported
 - [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
 - [Instructor acts as facilitator in student-centered guest lecturing: select speakers, set expectations, monitor, but avoid dominating each stage](instructor-facilitator-role-guest-lecturing.md)
+- [Position the teacher as facilitator of discussion who lets students struggle with problems and gives individualized feedback](teacher-as-facilitator-individualized-feedback-clinical-pbl.md)
 
 ## Examples
 - **Learner-centered teaching (Weimer, 2013)** — a framework in which the instructor progressively transfers responsibility for content, assessment, and course policies to students across a semester.

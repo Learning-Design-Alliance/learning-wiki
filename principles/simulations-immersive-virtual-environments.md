@@ -570,6 +570,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 - [A three-stage design framework for model-based support in VR simulation-based teacher education](../designs/model-based-support-design-framework-vr-teacher-ed.md)
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](../strategies/simulation-first-then-laboratory-sequence.md)
+- [Use BlindAid in three potential applications: O&M training simulator, diagnostic tool, and internet-based virtual exploration](../strategies/blindaid-three-potential-applications.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

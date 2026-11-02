@@ -27,7 +27,8 @@ A pair of Likert-type self-report instruments developed by Atasoy and Ertürk an
 - [POESPBEE produced significantly higher environmental behaviors than teacher-centered environmental education, with large effect sizes at post-test and follow-up](../claims/poespbee-large-effect-environmental-behavior.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Gardner's Attitude/Motivation Test Battery (AMTB)](gardners-attitudemotivation-test-battery-amtb.md)
 
 ## Key Sources
 - Calis, D. & Yildirim, H.I. (2020). The Effect of Prediction, Observation, Explanation Supported Project-Based Environmental Education on the Levels of Attitude and Behavior Toward the Environment. Educational Policy Analysis and Strategic Research, 15(1), 22-43. https://doi.org/10.29329/epasr.2020.236.2

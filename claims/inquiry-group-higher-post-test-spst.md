@@ -52,3 +52,4 @@ Mann-Whitney U test comparing post-test SPST scores of the experimental group (m
 - [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
+- [Science lessons built on students' meaningful pre-inquiries produce higher total science process skills than traditional textbook lessons in 6th-grade classes](pre-inquiry-lessons-improve-science-process-skills.md) — possibly the same claim (merge candidate)

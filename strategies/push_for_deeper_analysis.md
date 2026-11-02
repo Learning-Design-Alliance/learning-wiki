@@ -60,9 +60,11 @@ Deeper analysis works because it forces elaborative processing: explaining *why*
 6. Close with a brief reflection on how the analysis changed students' reading of the text.
 
 ## Related Strategies
+
 - Close Reading — a specific protocol for the rereading and annotation work this strategy depends on
 - Socratic Seminar — a discussion format that sustains the analytical press at whole-class scale
 - Reciprocal Teaching — distributes the questioning role to students, an adaptation of the same press
+- [Integrate the discourse analysis method into language and literature lessons as the primary textual analysis instruction](integrate-discourse-analysis-in-literature-lessons.md)
 
 ## Examples
 - In a poetry unit, students compare two versions of a line — one with inverted syntax, one conventional — and analyze how the inversion shifts emphasis and tone before discussing which effect the poet intended.

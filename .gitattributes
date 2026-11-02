@@ -1,0 +1,12 @@
+# Append-only logs: a local `git merge` keeps every line from both sides instead of conflicting.
+# Two branches that each append a record are not in conflict; dropping either line loses a record.
+# scripts/merge_main.py settles the same files (and rebuilds the generated ones) for a whole merge.
+sources/manifest.ndjson merge=union
+sources/authorities.ndjson merge=union
+retracted.ndjson merge=union
+eval/load-bearing/reviewed.ndjson merge=union
+eval/duplicates/*.ndjson merge=union
+eval/claim-merges/decisions.ndjson merge=union
+eval/candidates/decisions.ndjson merge=union
+eval/missing-dois/decisions.ndjson merge=union
+eval/removed/pages.ndjson merge=union

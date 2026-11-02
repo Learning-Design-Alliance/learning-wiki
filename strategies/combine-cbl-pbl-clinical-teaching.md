@@ -55,6 +55,7 @@ The authors recommend that in clinical teaching settings educators employ case-b
 - [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
+- [Use case-based learning as a basis for developing curricula to improve cognitive, social and affective skills](cbl-as-curriculum-basis-strategy.md)
 
 ## Examples
 -

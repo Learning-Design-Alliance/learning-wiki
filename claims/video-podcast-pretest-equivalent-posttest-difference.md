@@ -55,3 +55,5 @@ Pre-test/post-test comparison in the 48-student equivalent group design. Pre-tes
 - [Teaching based on the existing curriculum produced no statistically significant change in students' environmental attitudes](existing-curriculum-no-attitude-change.md) — related
 - [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related
 - [Post-test critical thinking scores significantly higher than pre-test after model instruction](pretest-posttest-critical-thinking-gain.md) — related
+- [Outdoor school ground lessons produce significantly higher post-test scientific curiosity than conventional teaching, while the control group's curiosity declined](outdoor-lessons-improve-scientific-curiosity.md) — related
+- [Experimental and control groups differed systematically at pretest in budget knowledge, science interest, environmental concern, and environmental actions](pretest-group-differences-self-selection.md) — related

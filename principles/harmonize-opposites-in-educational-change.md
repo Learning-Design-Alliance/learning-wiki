@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (31 for, 12 mixed, 2 against) · 37 studies (11 review, 9 theoretical, 8 causal, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (33 for, 12 mixed, 2 against) · 38 studies (11 review, 9 causal, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,8 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [-W]
 - [Each approach improved only its own targeted knowledge: gains on approach-aligned posttests but not on opposite-approach measures](../claims/approach-matched-gains-only.md) [+W]
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](../claims/combined-condition-only-outperformed-control-chemistry.md) [+W]
+- [Component-level retention shows the same pattern: LTM superior except knowledge, where the traditional method is superior](../claims/ltm-component-retention-pattern.md) [+W]
+- [LTM outperforms the traditional method on comprehension, application and skills achievement, but the traditional method is superior on the knowledge component](../claims/ltm-component-achievement-pattern.md) [+W]
 
 ## Related Principles
 

@@ -54,6 +54,7 @@ From their conclusions the authors recommend practical safeguards for jigsaw in 
 
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 - [Implementation prerequisites for jigsaw: teacher preparation, student briefing, target setting, and active observation](jigsaw-implementation-prerequisites-strategy.md)
+- [Explain the jigsaw technique's aim and steps to students beforehand and guide them during implementation](explain-jigsaw-steps-and-guide-implementation.md)
 
 ## Examples
 -

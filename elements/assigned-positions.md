@@ -65,9 +65,11 @@ Assigned positions work because arguing a case requires deeper processing than r
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — pairs advocate a position, then reverse perspectives before synthesizing
 
 ## Examples
+
 - **[Structured Academic Controversy](../patterns/structured-academic-controversy.md) (Johnson & Johnson)** — Students in foursomes argue an assigned position in pairs, then switch sides and argue the opposite, then drop roles and seek consensus. The side-switch is the design feature that converts advocacy into perspective-taking.
 - **Mock trials and moot courts** (law school curricula) — Students are assigned roles (prosecution, defense, judge) and must argue or evaluate a case from within that role, with preparation from case files.
 - **Classroom deliberation formats such as [Talking Points](https://www.thersa.org) or structured deliberation protocols** — Learners receive a position card and must voice its arguments before open discussion, ensuring minority or unfamiliar positions are represented.
+- [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (1979). Conflict in the classroom: Controversy and learning. *Review of Educational Research, 49*(1), 51–70. [doi:10.3102/00346543049001051](https://doi.org/10.3102/00346543049001051)

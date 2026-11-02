@@ -69,6 +69,7 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 - [Use heterogeneity simulations or real peer feedback in university teacher education to promote heterogeneity-responsive teaching beliefs](heterogeneity-simulation-teacher-education-strategy.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 - [Use pre-class online discussion on Moodle followed by in-class instruction responsive to the discussion](pre-class-moodle-discussion-then-responsive-lesson.md)
+- [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](schedule-dissonance-before-lecture-with-clickers.md)
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).

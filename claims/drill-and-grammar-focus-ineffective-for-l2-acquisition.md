@@ -94,3 +94,4 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 - [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — reports the opposite
 - [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — related
 - [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related
+- [The authors interpret that adult linguistic gains through EMI require some focus on form and language guidance, making ICLHE more effective than content-only EMI](focus-on-form-needed-adult-emi-gains.md) — reports the opposite

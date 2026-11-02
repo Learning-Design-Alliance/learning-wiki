@@ -52,3 +52,5 @@ Delayed posttest: the same success test was reapplied three weeks after instruct
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
+- [The modules strategy group also significantly outperforms the conventional group on the postponed (three-week-delayed) achievement test](modules-strategy-superior-postponed-achievement-science.md) — related

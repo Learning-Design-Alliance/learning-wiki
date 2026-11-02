@@ -50,3 +50,4 @@ Stimulated-recall interviews with 20 students (10 English majors, 10 non-English
 - [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) — related
 - [Participants unanimously reported increased confidence in acting performance over the course of the intervention](srl-intervention-increased-acting-confidence.md) — related
 - [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related
+- [EFL students who received metacognitive-strategy writing training report positive attitudes because the strategies improve their writing and cultivate learning autonomy](efl-students-positive-attitudes-metacognitive-writing-strategies.md) — a broader claim this one bears on

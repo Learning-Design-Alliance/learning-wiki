@@ -72,3 +72,4 @@ Pairwise comparison within the experiment group on achievement; the article repo
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — related
+- [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related

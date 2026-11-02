@@ -51,3 +51,4 @@ Written opinion forms from the 30 experimental-group students after the applicat
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
 - [Most experimental-group students wanted similar WhatsApp applications used in their other courses](students-want-whatsapp-in-other-courses.md) — related
+- [Most intervention participants responded favorably to the citizen science project, with being outdoors in nature the most-cited enjoyment](qualitative-favorable-citizen-science-responses.md) — related

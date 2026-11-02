@@ -80,3 +80,5 @@ Chi-square test on the 2×4 contingency table of group by van Hiele level (VHL 0
 - [Origami instruction yields statistically significant posttest gains in geometric knowledge for teaching shape and space relative to conventional instruction](origami-geometric-knowledge-significant-gain.md) — related
 - [Origami and conventional instruction groups showed no preexisting differences on spatial orientation, spatial visualization, or geometric knowledge before treatment](origami-groups-comparable-at-pretest.md) — related
 - [The two groups were equivalent in van Hiele level at pretest except for obtuse angles, where the control group scored significantly higher before instruction](pretest-equivalence-except-obtuse-angles.md) — related
+- [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
+- [At the beginning of the experiment the experimental and control groups showed no significant differences in integrative collaboration](no-baseline-differences-integrative-collaboration.md) — a narrower finding that bears on this claim

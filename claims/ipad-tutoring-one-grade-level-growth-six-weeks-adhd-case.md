@@ -55,3 +55,4 @@ Single-student action research case: pre/post comparison of a different form of 
 - [The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders](interventions-narrowed-reading-gap-word-attack.md) — related
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](younger-struggling-readers-benefited-more.md) — related
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related
+- [Using iPads as e-readers and applications for five weeks did not significantly influence middle-school students' overall reading achievement (comprehension, accuracy and rate combined)](ipads-no-influence-reading-achievement.md) — related

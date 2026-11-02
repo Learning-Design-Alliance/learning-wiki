@@ -55,3 +55,5 @@ Paired sample t-test on the 20-student control group receiving routine English i
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
 - [The no-treatment control group showed no significant score changes between pretest and posttest](control-group-no-significant-change.md) — reports the opposite
+- [The control group showed no significant change in speaking fluency from pre-test to post-test](control-group-no-fluency-change.md) — reports the opposite
+- [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related

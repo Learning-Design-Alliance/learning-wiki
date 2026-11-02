@@ -65,6 +65,7 @@ Jigsaw enforces positive interdependence — each member holds information the o
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight interdependence structure for shorter activities
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role-specialization within groups, applied to comprehension strategies
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
+- [Use structured Cooperative Learning activities — Think-Pair-Share, Numbered Heads Together, Jigsaw, and Circle the Sage — to maximize learner interaction](cl-activity-structures-strategy.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core mechanism: explaining to others consolidates the explainer's understanding

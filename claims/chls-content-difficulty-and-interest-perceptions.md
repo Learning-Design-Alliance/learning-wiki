@@ -47,3 +47,4 @@ Post-experiment survey of the experimental group (73 respondents, six excluded; 
 ## Related Claims
 - [Students most valued CHLS's repeatability and easy access, while difficulty concentrating and lack of relation to schoolwork were leading disadvantages](chls-advantages-disadvantages-survey.md) — related
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
+- [Most students found probability difficult, mainly because of difficulty grasping its fundamental concepts](students-find-probability-difficult-concept-grasp.md) — related

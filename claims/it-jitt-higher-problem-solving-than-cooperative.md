@@ -53,3 +53,4 @@ Quasi-experiment with two-group pretest-posttest design; experimental class used
 - [Students taught with the Target-Task Problem-Solving Model significantly outperformed lecture-method students on the Performance Test on Current Electricity](target-task-model-beats-lecture-current-electricity.md) — related
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](problem-solving-strategy-more-effective-problem-solving.md) — related
+- [Students taught with the scientific approach based learning program (P2BPS) achieve better generic science skills than students taught conventionally in general physics II](p2bps-improves-generic-science-skills.md) — related

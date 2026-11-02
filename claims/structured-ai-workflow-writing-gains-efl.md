@@ -85,3 +85,4 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [Constructive feedback through an error analysis system improves EFL students' writing more than traditional feedback methods](cfb-eas-beats-traditional-feedback-writing.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related

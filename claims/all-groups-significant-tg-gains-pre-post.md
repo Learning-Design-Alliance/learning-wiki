@@ -51,3 +51,4 @@ Paired-sample t-test analysis of pre- and post-test TGAT scores within each of t
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
 - [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related
 - [All three instruction groups (creative drama, computer-based, standard curriculum) showed statistically significant pre-test to post-test achievement gains](all-three-it-methods-improved-pre-post-scores.md) — related
+- [Experimental class showed a larger gain on the state standardized geometry assessment than the control class](state-assessment-gain-experimental-larger.md) — related

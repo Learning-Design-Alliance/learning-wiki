@@ -46,7 +46,8 @@ The study recommends professional development for science teachers centered on t
 - [Cognitive conflict strategy modifies sex education misconceptions more than traditional teaching among intermediate second-grade students](../claims/cognitive-conflict-modifies-sex-education-misconceptions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recommendations: train teachers on the modules strategy and supply supporting textbooks and references](modules-strategy-teacher-training-and-materials-strategy.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ In the same interview study, the most cited barrier to delivery was "A lack of t
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
 - [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](paths-dosage-shortfall-time.md) — related
+- [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related

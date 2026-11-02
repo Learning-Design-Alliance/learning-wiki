@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: atomatofa-2016
     resource: "https://doi.org/10.13189/ujer.2016.040627"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Posttest achievement differed significantly in favour of the constructivist group (t-calculated 3.58 vs t-critical 1.96), while pretest scores showed no significant difference (t-calculated 0.08). [→ Atomatofa 2016](#atomatofa-2016)

@@ -52,3 +52,4 @@ Authors' discussion of the trial's descriptive percentage changes, noting the CC
 - [CCTV provision produced significantly greater improvement in reading speed for 1.3M print than eccentric viewing training in adults with age-related macular degeneration](cctv-greater-reading-speed-gain-than-evt-amd.md) — related
 - [Eccentric viewing training significantly improved near visual acuity with participants' own eyeglasses](evt-improved-near-visual-acuity-own-glasses.md) — related
 - [Machine-learning-based responder selection raises mean group reading-speed gain from 23% to 43%](responder-selection-gain-23-to-43.md) — related
+- [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](wpm-gain-39-percent-vision-span.md) — related

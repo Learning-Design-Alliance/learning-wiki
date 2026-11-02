@@ -59,3 +59,4 @@ Reliability analysis of ratings by two trained inter-raters using an 11-band ana
 - [Facebook-based peer comments outperform paper-and-pen peer comments on post-test writing quality](facebook-peer-comments-outperform-paper-pen.md) — related
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — related
 - [PET speaking scores showed significant inter-rater agreement between the two raters](pet-speaking-inter-rater-reliability-significant.md) — related
+- [Face-to-face pen-and-paper collaborative writing yields higher analytic, authentic, words-per-sentence and long-word scores than virtual collaborative writing](pen-paper-collaborative-writing-higher-analytic-authentic.md) — related

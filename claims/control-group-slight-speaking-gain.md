@@ -51,3 +51,4 @@ Paired-samples t-test on the control group's pre- and post-test speaking scores 
 - [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — related
 - [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — related
 - [Traditional Iranian speaking instruction produced no significant short-term or long-term speaking gains](traditional-speaking-instruction-no-gains.md) — related
+- [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](pbl-cognition-tasks-increase-speaking-proficiency.md) — related

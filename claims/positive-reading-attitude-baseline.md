@@ -47,3 +47,4 @@ Survey item on liking reading administered pre, post, and follow-up; Chi-square 
 ## Related Claims
 - [Low literate adults in an extensive reading intervention read more books than no-ER peers after treatment and at 6-month follow-up](er-group-read-more-books-post-followup.md) — related
 - [Media print exposure did not differ between the ER and no-ER groups at any point, though both groups changed over time](media-reading-no-group-difference.md) — related
+- [At the beginning of the experiment the experimental and control groups showed no significant differences in integrative collaboration](no-baseline-differences-integrative-collaboration.md) — related

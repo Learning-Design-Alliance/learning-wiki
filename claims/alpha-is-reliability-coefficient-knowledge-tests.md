@@ -54,3 +54,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](otis-1922-true-score-sd-formula.md) — related
 - Reliability evidence in prescribing assessment studies generally employs Classical Test Theory — related
 - [The Hungarian analytic scoring scale showed high reliability (Cronbach's Alpha 0.83) in this study](hungarian-analytic-scale-reliability-083.md) — related
+- [The reliability of the IELTS-based proficiency test used for participant selection was supported by a Cronbach's Alpha of 0.81](ielts-proficiency-test-alpha-081.md) — a narrower finding that bears on this claim

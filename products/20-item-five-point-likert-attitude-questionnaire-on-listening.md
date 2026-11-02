@@ -27,7 +27,8 @@ A researcher-developed 20-item five-point Likert questionnaire by Mojtaba Ghasse
 - [Before the treatment, students held an overall negative attitude toward listening](../claims/pretest-negative-attitude-toward-listening.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Gardner's Attitude/Motivation Test Battery (AMTB)](gardners-attitudemotivation-test-battery-amtb.md)
 
 ## Key Sources
 - Mojtaba Ghassemi. (2013). The impact of Cooperative Materials Adaptation on Listening Comprehension Performance of Iranian EFL Learners. English Language Teaching, 6(2). https://doi.org/10.5539/elt.v6n2p45

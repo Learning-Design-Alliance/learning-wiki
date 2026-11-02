@@ -62,3 +62,4 @@ Questionnaire item asked of all four sections; responses were basic counts. "109
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — related
 - [Students rate clicker questions and lecture as more helpful than the textbook](clickers-and-lecture-rated-above-textbook.md) — related
 - [Students rank understanding-checks, problem identification and interactivity as the top benefits of EVS use, with fun ranked last](evs-benefit-ranking-feedback-top.md) — related
+- [89.19% of experimental-group students made strong statements that Cooperative Learning improved their understanding of the course material](cl-positive-course-evaluations.md) — related

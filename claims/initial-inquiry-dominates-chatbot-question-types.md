@@ -88,3 +88,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related
 - [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
+- [Sixth graders' pre-inquiries about 'Acid and Base' were mostly information-type questions, and 24 of 52 were selected as meaningful pre-inquiries](pre-inquiry-type-distribution-acid-base.md) — related

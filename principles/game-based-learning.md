@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 103 claims (54 for, 46 mixed, 3 against) · 78 studies (31 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 78 report an effect size · 97 claims rest on one study
+> **Evidence** · 105 claims (55 for, 47 mixed, 3 against) · 79 studies (32 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 79 report an effect size · 99 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Kindergarten students taught English vocabulary through authentic childhood games achieve significantly higher post-test scores than students taught through traditional methods](../claims/authentic-childhood-games-improve-english-vocabulary-success.md) [+W] — attached 2026-11-02 from Hursen et al. (2016), which proposed "Use varied active activities, including authentic childhood games, to promote active participation in kindergarten classrooms"; tests this page's relationship.
 - [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](../claims/teacher-views-authentic-childhood-games.md) [+W] — attached 2026-11-02 from Hursen et al. (2016), which proposed "Use varied active activities, including authentic childhood games, to promote active participation in kindergarten classrooms".
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — attached 2026-11-02 from Grimshaw et al. (2016), which proposed "Use time-sensitive collaborative mobile games as warm-up activities to encourage fluency development in a non-threatening environment".
+- [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](../claims/marble-game-higher-vocabulary-posttest-than-traditional.md) [+W] — attached 2026-11-02 from Coşkun (2013), which proposed "Develop educational games with regard to educational sciences and socio-pedagogy, considering learners' languages, age, and interests"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -224,6 +225,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [The game-based learning approach showed no significant gender differences in nutrition knowledge, attitudes, or food and drink habits](../claims/no-gender-differences-game-based-nutrition.md) [~W]
 - [Educational games significantly improve self-help for eating food in 8-12-year-old educable mentally retarded girls](../claims/educational-games-improve-self-help-eating.md) [+W]
 - [First graders in the game group nearly all learned to identify negative integers after playing the board game, far exceeding control gains](../claims/negative-integer-identification-gains.md) [+M]
+- [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

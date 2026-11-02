@@ -41,7 +41,8 @@ The review identifies COIL (Collaborative Online International Learning), blende
 - [Digital platforms are the most used technology (68.18%) for teaching intercultural competences, followed by pedagogical approaches such as COIL (45.45%)](../claims/digital-platforms-most-used-technology-intercultural-teaching.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recruit real virtual-world interlocutors from target cultures via language-exchange platforms before SL tasks](recruit-sl-interlocutors-exchange-platforms.md)
 
 ## Examples
 -

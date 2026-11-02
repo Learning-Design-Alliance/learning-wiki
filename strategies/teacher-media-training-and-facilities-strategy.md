@@ -45,6 +45,7 @@ From its recommendations, the article proposes system-level actions to support c
 
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](prepare-test-technology-before-launch-scaffold.md)
+- [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
 
 ## Examples
 -

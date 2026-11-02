@@ -69,3 +69,4 @@ Two-way ANOVA on the male group (CG n = 11, EC n = 14) found no statistically si
 - [Text production significantly improves retention at all four intervals for 30–40-year-old GFL learners](text-production-benefits-30-40-year-old-learners.md) — related
 - [Text production improves medium-term (24-hour) retention of new GFL vocabulary](text-production-improves-medium-term-vocabulary-retention.md) — related
 - [Text production in text-oriented vocabulary exercises improves short-term (30-minute) retention of new GFL vocabulary](text-production-improves-short-term-vocabulary-retention.md) — related
+- [No significant gender differences on any component of achievement or retention](no-gender-difference-components.md) — reports the opposite

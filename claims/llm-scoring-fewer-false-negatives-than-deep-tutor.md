@@ -56,3 +56,4 @@ Confusion-matrix comparison across the 5-fold test sets (Table 2) on a balanced 
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [A scoring method that deducts one count for each incorrect answer, correcting for guessing, produced more reliable scores than simply counting correct answers](guessing-correction-improves-score-reliability.md) — related
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
+- [Teachers and pupils identified weaknesses in the LRS: no showing of working, mis-programmed answers, and small handsets](lrs-implementation-weaknesses.md) — related

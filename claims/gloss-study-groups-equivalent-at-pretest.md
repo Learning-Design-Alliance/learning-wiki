@@ -93,3 +93,5 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
 - [The control group showed no significant vocabulary size change from pre-test to post-test](control-group-no-significant-prepost-vocabulary-change.md) — related
 - [Before the intervention, experimental and control groups showed no statistically significant difference in written text production](pretest-no-difference-experimental-control.md) — related
+- [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related
+- [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related

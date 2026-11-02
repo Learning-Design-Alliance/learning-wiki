@@ -75,3 +75,5 @@ Pre-specified subgroup analysis repeating the primary RDD analysis for FSM eligi
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
 - [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — related
 - [The Hallé SHINE on Manchester Saturday school programme showed no evidence of impact on reading attainment across all three trial years](hsom-no-impact-reading-attainment.md) — related
+- [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](sarp-enjoyment-fsm-differential.md) — related
+- [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — a narrower finding that bears on this claim

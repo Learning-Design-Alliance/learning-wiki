@@ -91,6 +91,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification](../strategies/risk-stratified-ai-misconception-screening.md)
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](../strategies/misconception-aware-contrastive-remediation-videos.md)
 - [Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits](../strategies/teach-integration-limits-from-diagnosed-misconceptions.md)
+- [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](../strategies/schedule-dissonance-before-lecture-with-clickers.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

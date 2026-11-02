@@ -50,3 +50,4 @@ Quasi-experiment with 48 sixth-grade female students in an UNRWA school, randoml
 
 ## Related Claims
 - [Cooperative learning improved sixth graders' academic achievement in mathematics more than traditional teaching](cooperative-learning-improves-math-achievement.md) — related
+- [Review evidence cited in the article: in 67 studies of achievement impacts, 61% found greater achievement in cooperative than in traditionally taught control groups](cl-achievement-review-evidence.md) — a broader claim this one bears on

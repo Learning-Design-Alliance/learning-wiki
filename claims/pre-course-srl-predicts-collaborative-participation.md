@@ -53,3 +53,4 @@ Linear regression combining course-entry SRL scores with course-log participatio
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
 - [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](srl-interventions-raised-exit-quiz-scores-mooc.md) — related
 - [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
+- [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related

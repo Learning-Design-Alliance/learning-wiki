@@ -48,3 +48,4 @@ Mixed between-within ANOVA on observed teaching strategies in the RCT of 72 educ
 - [The intervention does not produce a significant increase in educators' use of active teaching strategies relative to control](ct-workshop-active-strategies-not-significant.md) — related
 - [The intervention significantly increases educators' encouragement of student questions and reduces dictation of notes](ct-workshop-improves-facilitation-items.md) — related
 - [Senior secondary Geography students taught with PowerPoint presentation scored significantly higher on post-test achievement than students taught with the lecture method](powerpoint-outperforms-lecture-geography-achievement.md) — related
+- [Both groups increased in beginning lectures with an outline, but the intervention group showed significantly more change (Q7)](udl-training-outline-item-interaction.md) — related

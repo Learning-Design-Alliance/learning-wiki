@@ -173,6 +173,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - [JiTT: a feedback loop between Web-based pre-class assignments and classroom instruction](../designs/jitt-web-classroom-feedback-loop.md)
 - [Use heterogeneity simulations or real peer feedback in university teacher education to promote heterogeneity-responsive teaching beliefs](../strategies/heterogeneity-simulation-teacher-education-strategy.md)
 - [Emergent pedagogy with explicit instruction on ethical and responsible chatbot use](../strategies/emergent-pedagogy-explicit-ethical-chatbot-use.md)
+- [Design JiTT web exercises as small clusters of open-ended questions tied to learning outcomes and misconceptions](../strategies/jitt-open-ended-question-clusters-strategy.md)
 
 ### Illustrative
 

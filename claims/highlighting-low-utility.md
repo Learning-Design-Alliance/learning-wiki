@@ -95,3 +95,4 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](emotional-design-attention-guidance-signaling-overlap.md) — related
 - [Undergraduate students who created knowledge maps from underlined text wrote essays with significantly higher logical coherence and constructiveness than students who did not create maps](knowledge-mapping-improves-argumentative-essay-quality.md) — related
 - [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related
+- [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](poor-brainstorming-use-underlining-planning-efl-writers.md) — related

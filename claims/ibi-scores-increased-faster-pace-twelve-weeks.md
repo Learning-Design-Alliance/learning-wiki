@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion section, based on the pattern of postt
 - [No significant difference between inquiry-based and subject matter groups on the first unit posttest](no-first-unit-teaching-method-difference.md) — related
 - [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
+- [Weekly gain scores favored the treatment group throughout the course, rising from the low 40s to the low 60s while control stayed near 30 points](equity-pedagogy-weekly-gain-scores-higher.md) — related

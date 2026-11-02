@@ -208,6 +208,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](../strategies/rti-tablet-reading-strategies-strategy.md)
 - [Provide scaffolding (fill in the map) plus explicit instruction and feedback when teaching concept mapping for reading comprehension](../strategies/scaffolding-feedback-cm-instruction-strategy.md)
 - [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](../strategies/semantic-mapping-vocabulary-teaching-strategy.md)
+- [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](../strategies/combine-organizer-with-varied-grouping-scaffolds.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.

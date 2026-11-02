@@ -49,3 +49,4 @@ Pre/post-test difference analysis of the 15-student control group (Table 3) taug
 - [One month of constructive-feedback remedial teaching cut experimental-group writing errors by 52% to 78% per student](cfb-remedial-teaching-error-reduction-52-78.md) — reports the opposite
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](feedback-focus-shift-across-tasks.md) — related
 - [In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details](teacher-feedback-more-items-first-task-vocabulary-technical.md) — related
+- [The experimental group outgained the control group by 25.5 percentage points across the five fluency items](fluency-posttest-item-percentages-experimental-gain.md) — related

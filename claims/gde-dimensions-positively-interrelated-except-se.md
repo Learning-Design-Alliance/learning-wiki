@@ -48,3 +48,4 @@ Correlational analysis of rubric ratings from 2.5-minute video intervals of midd
 
 - [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md)
 - [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related
+- [Correlations between socioemotional skills dimensions are statistically significant and mostly high, ranging from 0.91 to 0.17, with Problem Solving most correlated with other dimensions](socioemotional-dimension-correlations-range-091-to-017.md) — related

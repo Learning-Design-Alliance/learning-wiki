@@ -66,6 +66,7 @@ Collaboration around text works because it forces learners to articulate, defend
 - [Case-Based Learning](case-based-learning.md) — a text-based variant where the text is a narrative case requiring analysis
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a highly structured role-rotation protocol for text discussion
 - [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
+- [Integrate the discourse analysis method into language and literature lessons as the primary textual analysis instruction](integrate-discourse-analysis-in-literature-lessons.md)
 
 ## Examples
 - **[Perusall](https://www.perusall.com)** — social annotation platform where students comment on shared readings; the annotation thread becomes the collaborative discussion, with analytics flagging confusing passages for instructors.

@@ -49,3 +49,4 @@ Same quasi-experimental study; Table 4 reports control means rising from 3.83 to
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](whatsapp-mms-group-significant-within-gains.md) — related
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [Experimental group's reading scores improved significantly from pretest to posttest under genre-based instruction](gbi-pre-post-gain-experimental-group.md) — related
+- [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](blended-learning-within-group-gain-math-conceptual-understanding.md) — related

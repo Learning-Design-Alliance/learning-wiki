@@ -72,3 +72,4 @@ Meta-analysis of 8 randomized controlled trials involving 1819 students, analyze
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [No difference between PBL and traditional groups in subjective evaluations of pharmacy students](pbl-no-difference-subjective-evaluations.md) — related
+- [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](meta-analysis-pbl-pharmacy-exam-performance-advantage.md) — related

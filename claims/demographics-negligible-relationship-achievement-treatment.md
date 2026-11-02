@@ -52,3 +52,4 @@ Pearson Product Moment correlations among posttest scores, demographics, and tre
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Inquiry-based instruction produced higher content knowledge achievement than the subject matter approach in secondary agriscience classes on six of seven unit posttests](ibi-higher-agriscience-achievement-than-subject-matter.md) — related
 - [Inquiry-based students' scores increased at a faster pace than subject matter students' scores over the twelve-week study](ibi-scores-increased-faster-pace-twelve-weeks.md) — related
+- [The final-score advantage of the equity-oriented pedagogy held across gender, disability, and immigration-status subgroups](equity-pedagogy-advantage-across-demographic-subgroups.md) — related

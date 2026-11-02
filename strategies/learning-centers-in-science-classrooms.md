@@ -39,6 +39,7 @@ The digest recommends setting up learning centers in the classroom with more tas
 ## Related Strategies
 
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
+- [Creating special choice situations at the lesson so pupils choose aims, content, level, form and tempo of learning](lesson-choice-situations-personal-aiming.md)
 
 ## Examples
 -

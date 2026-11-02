@@ -48,6 +48,7 @@ The article closes with recommendations directed at ministries, curriculum organ
 - [Classroom strategies from brain-based learning: positive emotion, student choice and responsibility, and the joy of success](bbl-classroom-strategies-positive-emotion-choice-success.md)
 - [Organise seminars, conferences and workshops on modern instructional strategies such as Round-robin for chemistry teachers](seminars-workshops-on-round-robin-strategy.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
+- [Recommendations: train teachers on the modules strategy and supply supporting textbooks and references](modules-strategy-teacher-training-and-materials-strategy.md)
 
 ## Examples
 -

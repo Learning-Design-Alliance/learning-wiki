@@ -66,3 +66,4 @@ Post-course questionnaire item on future persistence; the authors interpret pers
 ## Related Claims
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](journal-writing-self-assessment-increased-intrinsic-motivation.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
+- [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related

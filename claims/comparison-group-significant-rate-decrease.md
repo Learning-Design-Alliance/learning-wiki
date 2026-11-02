@@ -52,3 +52,4 @@ Pre/post comparison for the oral communication comparison group (n = 17), which 
 - [The TR group (timed reading only) made statistically significant reading rate gains of about 15 to 27 swpm across four scoring methods](tr-group-significant-rate-gains-four-scoring-methods.md) — related
 - [The TROR group (timed reading plus repeated oral reading with chunking and prosody) made statistically significant reading rate gains of about 13 to 27 swpm across four scoring methods](tror-group-significant-rate-gains-four-scoring-methods.md) — related
 - [The control group's pre-test to post-test fluency decrease was not statistically significant but represented a medium effect (r=0.5)](spaceteam-control-pre-post-decline-medium-effect.md) — related
+- [Both treatment and control groups showed significant pre-post declines in grades and declines in discipline referrals over the transition year](time-effect-grades-discipline-decline-after-transition.md) — related

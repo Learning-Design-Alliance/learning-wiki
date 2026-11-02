@@ -70,6 +70,7 @@ Inquiry-based writing works because it supplies rich, personally processed conte
 - [Science Notebooks](science-notebooks.md) — a disciplinary instantiation pairing data collection with ongoing written reasoning
 - [Use Student-Written Texts in Literacy Instruction](use-student-written-texts-in-literacy-instruction.md)
 - [Contextualize English grammar instruction within purposeful, authentic writing tasks](contextualized-grammar-in-authentic-writing.md)
+- [Use observation, questioning, experimentation, data association, and peer communication activities to develop generic science skills](p2bps-activity-strategy-generic-skills.md)
 
 ## Examples
 - **National Writing Project inquiry units** — teachers design extended investigations (e.g., documenting local environmental change through interviews and photos) culminating in published student articles ([nwp.org](https://www.nwp.org)).

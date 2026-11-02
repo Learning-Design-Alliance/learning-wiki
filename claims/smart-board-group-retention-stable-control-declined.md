@@ -70,3 +70,5 @@ Dependent-samples t-test within the control class comparing post-test (16.63) an
 - [Within the integrated STEM group, academic achievement declined significantly from post-test to one-year permanence test, while the control group's decline was not significant](stem-group-aat-posttest-permanence-decline-significant.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
+- [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
+- [Pupils taught with the learning technologies reached a higher complex assessment of educational skills than control pupils (63.4% vs 50.4% of maximum)](learning-technologies-higher-complex-assessment-experimental-group.md) — related

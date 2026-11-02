@@ -50,3 +50,4 @@ Descriptive report of pretest reading rates in the Discussion, compared by the a
 - [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](syntactic-parsing-ability-correlates-with-efl-reading-rate.md) — related
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](positive-attitudes-toward-syntactic-parsing-instruction.md) — related
 - [Experimental-group students' syntactic parsing ability improved significantly from pretest to posttest after the 12-week instruction](syntactic-parsing-ability-improved-pretest-posttest.md) — related
+- [EFL undergraduates at King Khalid University read at about 75 wpm, far below the 200 wpm threshold Jordan classifies as slow](kku-efl-baseline-reading-speed-75-wpm.md) — related

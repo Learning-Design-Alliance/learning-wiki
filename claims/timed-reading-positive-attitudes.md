@@ -47,3 +47,4 @@ Qualitative analysis of an open-ended questionnaire completed by all 20 experime
 ## Related Claims
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](positive-attitudes-toward-syntactic-parsing-instruction.md) — related
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related
+- [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related

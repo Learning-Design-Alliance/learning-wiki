@@ -57,6 +57,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Introduce and promote PBL pedagogy in undergraduate pharmacology education](promote-pbl-undergraduate-pharmacology.md)
 - [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 - [Recommend PBL for high school chemistry teaching with daily-life scenarios](recommend-pbl-high-school-chemistry-scenarios.md)
+- [Use case-based learning as a basis for developing curricula to improve cognitive, social and affective skills](cbl-as-curriculum-basis-strategy.md)
 
 ## Examples
 -

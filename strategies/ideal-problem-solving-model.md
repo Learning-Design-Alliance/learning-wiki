@@ -62,11 +62,13 @@ Many other systems for teaching problem-solving exist for specific domains — g
 5. **Look** — Evaluate whether the outcome is an acceptable solution; if not, cycle back to Identify with the new information gained.
 
 ## Related Strategies
+
 - [Task Analysis](task_analysis.md) — both decompose a complex task, though task analysis targets prerequisite-skill sequencing rather than in-the-moment problem-solving
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the Explore phase depends on retrieving relevant prior cases and concepts
 - Worked examples — a completed IDEAL cycle can be presented as a worked example for learners to study before attempting their own
 - Problem-based learning — IDEAL provides the process scaffold that PBL cases often leave implicit
 - [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](five-part-prompt-framework-with-evaluation-cycle.md)
+- [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](combine-organizer-with-varied-grouping-scaffolds.md)
 
 ## Examples
 - **IDEAL in mathematics instruction:** a teacher models the full cycle on a non-routine word problem, then students work in pairs on a structurally similar problem using an IDEAL organizer, comparing their representation to the modeled one afterward.

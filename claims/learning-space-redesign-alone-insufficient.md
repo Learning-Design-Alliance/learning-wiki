@@ -70,3 +70,4 @@ At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3
 - [Low-achieving students using a personalized learning system learned most when working closely with teachers and least when working alone](low-achievers-learn-most-with-teachers.md) — related
 - [Instructional technology is rejected when it mismatches the dominant pedagogy, as with the blackboard in monitorial schools](technology-pedagogy-mismatch-blackboard.md) — related
 - [Teachers in ALCs use more student-centred and collaborative pedagogies than in traditional classrooms](alc-student-centred-pedagogy.md) — related
+- [When numbered heads was launched against high-achiever dominance, 36% of randomly called students were hitchhikers, which the author attributes to insufficient learning time rather than freeloading](cl-hitchhiking-36-percent.md) — related

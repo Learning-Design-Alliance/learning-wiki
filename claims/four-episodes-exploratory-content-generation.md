@@ -52,3 +52,4 @@ Qualitative episode analysis of negotiation-space contributions of two groups, u
 - [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — a narrower finding that bears on this claim
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — a broader claim this one bears on
 - [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related
+- [G-DA interactions diagnosed learners' sources of writing difficulty and fostered intersubjectivity and collective scaffolding](gda-diagnosed-difficulties-intersubjectivity.md) — related

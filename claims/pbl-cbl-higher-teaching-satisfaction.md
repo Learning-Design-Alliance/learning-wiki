@@ -56,3 +56,4 @@ Meta-analysis of 7 studies (468 students) comparing satisfaction with teaching m
 - [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [PBL+LBL raises satisfactory teaching effect but not general or poor teaching effect ratings](pbl-lbl-teaching-satisfaction-effects.md) — related
+- [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related

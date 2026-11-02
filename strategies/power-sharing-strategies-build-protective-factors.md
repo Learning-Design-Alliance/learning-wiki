@@ -45,6 +45,7 @@ The article recommends that prevention strategies rebuild naturally occurring so
 
 - Protective Factors Triad Support Expectations Participation
 - [Positive Intention & Generosity in Networking](positive-intention-generosity-in-networking.md)
+- [Provide adult support through group facilitators, mentors, and a school advocate for transitioning at-risk youth](adult-support-facilitators-mentors-advocate.md)
 
 ## Examples
 -

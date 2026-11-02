@@ -62,3 +62,4 @@ The article's operational definition of interactive engagement, stated as a theo
 - Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined — related
 - [Students' relative frequencies of interactive, constructive, and active utterances during collaborative PF correlated positively with their conceptual knowledge posttest scores](relative-utterance-frequencies-conceptual-knowledge.md) — related
 - [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related
+- [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — a narrower finding that bears on this claim
