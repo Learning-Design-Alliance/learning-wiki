@@ -17,7 +17,7 @@ sources:
 # Plan writing curriculum backward by starting with desired outcomes and assessment evidence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 mixed, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that writing instruction be planned with the end in mind: "backward design starts with the end task (assessment) and objectives in mind", so teachers first specify the skills and core objectives learners must fulfill, then derive teaching activities and content from those results. This aligns lessons, units, and courses with the results sought rather than with familiar methods or textbooks, and supports alignment between desired results, assessments, and instructional activities.
@@ -40,7 +40,7 @@ The article recommends that writing instruction be planned with the end in mind:
 
 ## Claims
 
-- [Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test](../claims/backward-design-improves-efl-writing-pre-post.md) [+W]
+- [Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group](../claims/backward-design-improves-efl-writing-pre-post.md) [~W]
 - [Backward design instruction was not significantly more effective than forward design instruction for Iranian EFL learners' writing ability](../claims/backward-design-not-superior-to-forward-design-writing.md) [-W]
 - [Prior studies found backward design improved pre-service teachers' planning, but the article's writing result contrasts with a prior reading-comprehension finding](../claims/backward-design-prior-evidence-teachers-vs-l2-outcomes.md) [~W]
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: docktor-2015
     resource: "https://doi.org/10.1103/PhysRevSTPER.11.020106"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The categorization, equation instantiation, and finding errors tests did not show any significant differences between groups, though trends favored CPS. [→ Docktor 2015](#docktor-2015)
+`q2 i?` The categorization, equation instantiation, and finding errors tests did not show any significant differences between groups; nonsignificant differences favored CPS on categorization and equation instantiation, while the finding errors test was near floor and did not consistently favor either group. [→ Docktor 2015](#docktor-2015)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Docktor, J. L., Strand, N. E., Mestre, J. P., & Ross, B. H. (2015). Conceptual p
 
 `q2 · i?` · `causal · r1`
 
-Three secondary assessments in the same quasi-experiment showed no significant differences; unadjusted differences of 2–12% favored CPS on categorization and equation instantiation. The finding errors test was near floor, with almost all students receiving no credit.
+Three secondary assessments in the same quasi-experiment showed no significant differences; nonsignificant differences favored CPS on categorization (2% and 11% at the two schools that gave it) and equation instantiation (12%, 1% and 5% at three schools). The finding errors test was near floor, with almost all students receiving no credit; the comparison group scored higher at school A (14% vs 6%) and CPS slightly higher at school B (6% vs 5%).
 
 > "The categorization test, equation instantiation test, and finding errors tests did not show any significant differences between groups."
 

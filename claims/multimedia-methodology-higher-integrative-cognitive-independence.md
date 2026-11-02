@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: yakymchuk-2018
     resource: "https://doi.org/10.13187/ejced.2018.3.581"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 87.8% of the experimental group reached high or medium levels on the integrative indicator versus 57.9% of the control group, a difference significant at p ≤ 0.05 by Fisher's criterion. [→ Yakymchuk 2018](#yakymchuk-2018)

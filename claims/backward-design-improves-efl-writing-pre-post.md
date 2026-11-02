@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test"
-description: "Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test"
+title: "Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group"
+description: "Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group"
 id: backward-design-improves-efl-writing-pre-post
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-02
 sources:
   - id: hosseini-2019
     resource: "https://doi.org/10.29333/iji.2019.1223a"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test
+# Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Experimental group learners taught writing through backward design showed a statistically significant improvement in writing scores from pre-test to post-test. [→ Hosseini 2019](#hosseini-2019)
+`q2 i?` Experimental group learners taught writing through backward design showed a statistically significant within-group improvement in writing scores from pre-test to post-test (M 4.66 to 5.09); on the randomised comparison, their post-test scores did not differ significantly from the forward-design control group's (ANCOVA p = .10). [→ Hosseini 2019](#hosseini-2019)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Hosseini, H., Chalak, A., & Biria, R. (2019). Impact of Backward Design on Impro
 
 `q2 · i?` · `causal · r2`
 
-Paired-samples t test comparing the experimental group's writing pre-test (M = 4.66) and post-test (M = 5.09) scores in this quasi-experimental study of 50 Iranian EFL learners. The article reports "significant improvements in their scores" with p < .05, t = -8.68, df = 49; no standardized effect size is printed.
+100 Iranian EFL learners at a language institute were randomly assigned to a backward-design experimental group (n = 50) or a forward-design control group (n = 50). A paired-samples t test on the experimental group alone compared its writing pre-test (M = 4.66) and post-test (M = 5.09) scores and found "significant improvements in their scores" (t = -8.68, df = 49, p < .05); no standardized effect size is printed for this gain. This within-group gain has no control and cannot by itself be attributed to backward design: the between-group ANCOVA on writing post-test scores, adjusting for pre-test, found no significant difference between the experimental (M = 5.09) and control (M = 4.99) groups (F = 2.74, p = .10, partial η² = .02), and the authors conclude that backward design "failed to be more effective than traditional instruction" for writing.
 
 > "the p value under the Sig. (2-tailed) column was found to be smaller than the significance level ( p < .05), so it could be inferred that the EG learners experienced significant improvements in their scores from writing pre -test to writing post -test"
 

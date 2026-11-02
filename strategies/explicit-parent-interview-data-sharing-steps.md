@@ -40,7 +40,7 @@ The Family Collaboration Project extended the existing Pupil Impact Assignment b
 
 ## Claims
 
-- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction](../claims/explicit-family-direction-needed.md) [+W]
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction](../claims/explicit-family-direction-needed.md) [+W]
 - [Intervention group candidates rated advocacy for evidence-based practices significantly higher than comparison peers](../claims/family-collaboration-project-higher-advocacy-rubric.md) [+W]
 - [Teacher candidates completing the Family Collaboration Project scored significantly higher on the joining (collaboration) subscale of the PTRS than comparison peers](../claims/family-collaboration-project-higher-ptrs-joining.md) [+W]
 - [Intervention group candidates rated maintaining positive relationships and ongoing collaboration significantly higher than comparison peers](../claims/family-collaboration-project-higher-relationship-rubric.md) [+W]

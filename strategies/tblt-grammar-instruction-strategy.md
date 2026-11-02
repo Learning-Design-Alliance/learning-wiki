@@ -43,7 +43,7 @@ The article recommends that teachers replace traditional product-based grammar i
 
 ## Claims
 
-- [TBLT produced higher grammar posttest scores than traditional instruction among Iranian junior high EFL students](../claims/tblt-improves-grammar-achievement-iranian-junior-high.md) [+W]
+- [TBLT produced higher grammar posttest scores than traditional instruction among 80 female pre-intermediate EFL students at one Iranian junior high school](../claims/tblt-improves-grammar-achievement-iranian-junior-high.md) [+W]
 - [TBLT increased EFL junior high students' motivation significantly more than traditional instruction](../claims/tblt-increases-motivation-efl-junior-high.md) [+W]
 - [The experimental group's grammar scores rose significantly from pretest to posttest under TBLT](../claims/tblt-within-group-grammar-gain.md) [+W]
 - [The control group's grammar scores also rose significantly from pretest to posttest under traditional instruction](../claims/control-group-grammar-gain-significant.md) [~W]

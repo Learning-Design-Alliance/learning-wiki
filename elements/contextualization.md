@@ -13,7 +13,7 @@ generated:
 # Contextualization
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience. It is useful when learners need to understand why something matters before they can engage with it deeply.

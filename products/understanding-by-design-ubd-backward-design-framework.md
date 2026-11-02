@@ -13,7 +13,7 @@ generated:
 # Understanding by Design (UbD) backward design framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A curriculum-design framework developed by Grant Wiggins and Jay McTighe that guides educators to plan from desired results through evidence and learning experiences.
@@ -22,7 +22,7 @@ A curriculum-design framework developed by Grant Wiggins and Jay McTighe that gu
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test](../claims/backward-design-improves-efl-writing-pre-post.md) [+M]
+- [Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group](../claims/backward-design-improves-efl-writing-pre-post.md) [~W]
 - [Backward design instruction was not significantly more effective than forward design instruction for Iranian EFL learners' writing ability](../claims/backward-design-not-superior-to-forward-design-writing.md) [~M]
 
 ## Related Products and Programmes

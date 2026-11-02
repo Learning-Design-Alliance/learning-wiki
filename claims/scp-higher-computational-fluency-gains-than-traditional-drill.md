@@ -9,12 +9,13 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-02
 sources:
   - id: corlu-2011
     resource: "https://eric.ed.gov/?id=EJ932227"
     title: "Corlu, M. S., Capraro, R. M., & Corlu, M. A. (2011). Developing computational fluency with the help of science: A Turkish middle and high school grades study. The Turkish Online Journal of Educational Technology, 10(2), 72-81. https://eric.ed.gov/?id=EJ932227"
     author: "Corlu, M. S., Capraro, R. M., & Corlu, M. A."
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: 1
@@ -23,11 +24,11 @@ sources:
 # Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students who completed science-contextualized drill homework showed statistically significantly higher post-test and delta scores in computational fluency than students who completed traditional drill homework. [→ Corlu 2011](#corlu-2011)
+`q2 i?` Students who completed science-contextualized drill homework showed statistically significantly higher post-test and delta scores in computational fluency than students who completed traditional drill homework. [→ Corlu 2011](#corlu-2011)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Corlu, M. S., Capraro, R. M., & Corlu, M. A. (2011). Developing computational fluency with the help of science: A Turkish middle and high school grades study. The Turkish Online Journal of Educational Technology, 10(2), 72-81. https://eric.ed.gov/?id=EJ932227
 
-`q3 · i?` · `causal · r1`
+`q2 · i?` · `causal · r1`
 
-Quasi-experimental study of 150 Turkish students randomly assigned to control (TP) or experiment (SCP) homework groups after a shared two-period review intervention. Independent samples t-tests found significant post-test (p=0.000363) and delta (p=0.000266) differences favoring SCP, described as "a statistical significance for p<0.05 between the groups".
+Quasi-experimental study of 150 Turkish grade 7–10 students (one randomly selected public K–8 school and one public high school) whose homework was handed out to evenly divided control (TP) and experiment (SCP) groups after a shared two-period review intervention; the paper does not report random assignment of students to groups. Pre-test scores did not differ (p=0.70). Independent samples t-tests found significant post-test (p=0.000363) and delta (p=0.000266) differences favoring SCP, described as "a statistical significance for p<0.05 between the groups".
 
 > "The analysis of the data (independent samples t-test) indicated a statistical significance for p<0.05 between the groups in post-test (p=0.000363) and delta scores (p=0.000266)."
 

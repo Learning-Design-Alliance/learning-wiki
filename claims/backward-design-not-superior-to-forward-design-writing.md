@@ -46,4 +46,4 @@ One-way ANCOVA comparing writing post-test scores of the experimental group (M =
 
 
 ## Related Claims
-- [Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test](backward-design-improves-efl-writing-pre-post.md) — related
+- [Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group](backward-design-improves-efl-writing-pre-post.md) — related

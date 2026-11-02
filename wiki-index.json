@@ -9,7 +9,7 @@
 "principle":170,
 "process":18,
 "product":2803,
-"research-method":951,
+"research-method":950,
 "strategy":9000,
 "theory":1360
 },
@@ -1335,6 +1335,7 @@
 "knowledge-building":"element/knowledge-building"
 },
 "research-method":{
+"action-research":"strategy/action-research",
 "design-based-research":"process/design-based-research",
 "design-based-research-dbr":"process/design-based-research",
 "me-checklist":"product/me-checklist"
@@ -36177,13 +36178,14 @@
 "type":"claim"
 },
 {
-"description":"Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test",
+"description":"Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group",
 "evidence_strength":"moderate",
 "id":"backward-design-improves-efl-writing-pre-post",
 "newest_evidence":"2019",
 "path":"claims/backward-design-improves-efl-writing-pre-post.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Backward design instruction significantly improves Iranian intermediate EFL learners' writing ability from pre-test to post-test",
+"title":"Iranian intermediate EFL learners taught writing through backward design improved significantly from pre-test to post-test, but not significantly more than a randomly assigned forward-design control group",
 "type":"claim"
 },
 {
@@ -84224,6 +84226,7 @@
 "id":"cps-null-categorization-finding-errors-instantiation",
 "newest_evidence":"2015",
 "path":"claims/cps-null-categorization-finding-errors-instantiation.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Categorization, finding-errors, and equation-instantiation tests showed no significant differences between CPS and traditional classes",
 "type":"claim"
@@ -92304,6 +92307,7 @@
 "id":"dcp-improved-general-attitudes-toward-inclusion-camp",
 "newest_evidence":"2014",
 "path":"claims/dcp-improved-general-attitudes-toward-inclusion-camp.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"A three-week Disability Camp Program significantly improved general attitudes of campers without disabilities toward including a peer with a physical disability in a summer sport and leisure activity camp",
 "type":"claim"
@@ -131630,13 +131634,14 @@
 "type":"claim"
 },
 {
-"description":"Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction",
+"description":"Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction",
 "evidence_strength":"weak",
 "id":"explicit-family-direction-needed",
 "newest_evidence":"2020",
 "path":"claims/explicit-family-direction-needed.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction",
+"title":"Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction",
 "type":"claim"
 },
 {
@@ -231014,6 +231019,7 @@
 "id":"mbio-motivates-and-positive-attitudes",
 "newest_evidence":"2015",
 "path":"claims/mbio-motivates-and-positive-attitudes.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"The multimedia tool was reported to motivate students and support positive attitudes toward the course",
 "type":"claim"
@@ -248496,6 +248502,7 @@
 "id":"multimedia-methodology-higher-integrative-cognitive-independence",
 "newest_evidence":"2018",
 "path":"claims/multimedia-methodology-higher-integrative-cognitive-independence.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"The multimedia-based methodology produced a significantly higher share of students reaching high and medium levels of the integrative cognitive independence indicator than traditional teaching",
 "type":"claim"
@@ -342536,6 +342543,7 @@
 "id":"scp-higher-computational-fluency-gains-than-traditional-drill",
 "newest_evidence":"2011",
 "path":"claims/scp-higher-computational-fluency-gains-than-traditional-drill.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students",
 "type":"claim"
@@ -369527,6 +369535,7 @@
 "id":"stad-cooperative-learning-higher-math-achievement-than-pbl",
 "newest_evidence":"2016",
 "path":"claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.",
 "type":"claim"
@@ -389633,13 +389642,14 @@
 "type":"claim"
 },
 {
-"description":"TBLT produced higher grammar posttest scores than traditional instruction among Iranian junior high EFL students",
+"description":"TBLT produced higher grammar posttest scores than traditional instruction among 80 female pre-intermediate EFL students at one Iranian junior high school",
 "evidence_strength":"moderate",
 "id":"tblt-improves-grammar-achievement-iranian-junior-high",
 "newest_evidence":"2017",
 "path":"claims/tblt-improves-grammar-achievement-iranian-junior-high.md",
+"source_checked":"2026-11-02",
 "status":"review",
-"title":"TBLT produced higher grammar posttest scores than traditional instruction among Iranian junior high EFL students",
+"title":"TBLT produced higher grammar posttest scores than traditional instruction among 80 female pre-intermediate EFL students at one Iranian junior high school",
 "type":"claim"
 },
 {
@@ -420933,6 +420943,7 @@
 "id":"video-podcast-higher-gain-scores-bed-psychology",
 "newest_evidence":"2014",
 "path":"claims/video-podcast-higher-gain-scores-bed-psychology.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Video podcast instruction yields higher gain scores than conventional teaching in Educational Psychology among B.Ed students",
 "type":"claim"
@@ -420943,6 +420954,7 @@
 "id":"video-podcast-knowledge-understanding-not-application",
 "newest_evidence":"2014",
 "path":"claims/video-podcast-knowledge-understanding-not-application.md",
+"source_checked":"2026-11-02",
 "status":"review",
 "title":"Video podcast advantage appears on knowledge and understanding objectives but not application objectives",
 "type":"claim"
@@ -486176,14 +486188,6 @@
 "path":"research-methods/absolute-between-roc-area-abroca-fairness-metric.md",
 "status":"review",
 "title":"Absolute Between-ROC Area (ABROCA) fairness metric",
-"type":"research-method"
-},
-{
-"description":"The study adopts action research, defined as a kind of study carried out by a practitioner, usually in collaboration with others, concerned with identification and solution of problems in a specific educational setting.",
-"id":"action-research",
-"path":"research-methods/action-research.md",
-"status":"review",
-"title":"Action research",
 "type":"research-method"
 },
 {
@@ -626027,7 +626031,6 @@
 "a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l":"a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l",
 "a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and":"a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and",
 "absolute-between-roc-area-abroca-fairness-metric":"absolute-between-roc-area-abroca-fairness-metric",
-"action-research":"action-research",
 "active-grade-estimator-age":"active-grade-estimator-age",
 "activepassive-localglobal-coding-framework-for-llm-offloading-prompts":"activepassive-localglobal-coding-framework-for-llm-offloading-prompts",
 "activity-centered-analysis-and-design-acad-framework":"activity-centered-analysis-and-design-acad-framework",

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 sources:
   - id: thiyagu-2014
     resource: "https://eric.ed.gov/?id=EJ1097634"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental group students taught with video podcasts achieved significantly higher gain scores than control group students taught conventionally (t = 5.48, p < 0.05). [→ Thiyagu 2014](#thiyagu-2014)

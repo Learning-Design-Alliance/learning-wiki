@@ -119,7 +119,7 @@ The home learning environment is what families, caregivers and communities provi
 - [Progression to more adaptive involvement profiles was more likely in the intervention group and digression more likely in the control group](../claims/iy-tcm-progressors-digressors-chi-square.md) [+M] — instruction changes it
 - [Family engagement with the intervention resources declined over the 12 weeks and most families diverged from the suggested sequence](../claims/peg-cat-usage-declined-diverged-from-sequence.md) [+W] — instruction changes it
 - [Media print exposure did not differ between the ER and no-ER groups at any point, though both groups changed over time](../claims/media-reading-no-group-difference.md) [-M] — instruction changes it
-- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not produce parent interaction](../claims/explicit-family-direction-needed.md) [+M] — instruction changes it
+- [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction](../claims/explicit-family-direction-needed.md) [+M] — instruction changes it
 
 ## Measures
 - **Reading Pattern Survey** ([Rodrigo et al., 2014](http://nflrc.hawaii.edu/rfl)): self-report of reading attitude, habits and print exposure, including books read and library visits.

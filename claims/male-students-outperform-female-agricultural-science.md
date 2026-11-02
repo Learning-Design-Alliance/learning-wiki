@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2013
 sources:
   - id: daluba-2013
-    title: "Daluba, Noah Ekeyi. (2013). Effect of Demonstration Method of Teaching on Students' Achievement in Agricultural Science. World Journal of Education, 3(6)."
+    resource: "https://doi.org/10.5430/wje.v3n6p1"
+    title: "Daluba, Noah Ekeyi. (2013). Effect of Demonstration Method of Teaching on Students' Achievement in Agricultural Science. World Journal of Education, 3(6). [doi:10.5430/wje.v3n6p1](https://doi.org/10.5430/wje.v3n6p1)"
     author: Daluba, Noah Ekeyi
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Daluba 2013
 
-Daluba, Noah Ekeyi. (2013). Effect of Demonstration Method of Teaching on Students' Achievement in Agricultural Science. World Journal of Education, 3(6).
+Daluba, Noah Ekeyi. (2013). Effect of Demonstration Method of Teaching on Students' Achievement in Agricultural Science. World Journal of Education, 3(6). [doi:10.5430/wje.v3n6p1](https://doi.org/10.5430/wje.v3n6p1)
 
 `q2 · i?` · `causal · r2`
 

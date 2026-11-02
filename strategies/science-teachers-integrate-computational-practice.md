@@ -17,7 +17,7 @@ sources:
 # Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that science and technology teachers, and subject teachers generally, help students develop computational fluency by integrating mathematics into their lessons. Because "computational fluency is frequently used in science, science teachers can easily integrate it into their own lessons". This shares the load of computational practice between subjects, eases the mathematics curriculum, and gives students more time for conceptual understanding of science topics.
