@@ -18,6 +18,10 @@ sources:
     resource: "https://doi.org/10.1037/edu0000001"
     title: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. *Journal of Educational Psychology, 107*(3), 900–908"
     author: "Rohrer, D., Dedrick, R. F., & Stershic, S"
+  - id: rohrer-dedrick-hartwig-cheung-2020
+    resource: "https://doi.org/10.1037/edu0000367"
+    title: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52"
+    author: "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N"
   - id: rohrer-taylor-2007
     resource: "https://doi.org/10.1007/s11251-007-9015-8"
     title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498"
@@ -51,7 +55,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 34 studies (17 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 18 of 34 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (26 for, 28 mixed, 3 against) · 35 studies (18 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 20 of 35 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +130,7 @@ These rows are proposals, untested with learners as diagnostics. A check is itse
 - [Several candidate moderators show no reliable effects](../claims/interleaving-null-moderators-retention-test-presentation.md) [~M]: no moderation by retention interval, retention against transfer test, simultaneous against successive presentation, or publication status. Not detecting a moderator does not show it has no effect.
 - [Interleaving effects are larger in pure university student samples](../claims/interleaving-larger-in-university-student-samples.md) [~M]: the effect sizes above may overstate the benefit for other learners.
 - [Spaced and interleaved homework practice improves learning and retention](../claims/spaced-interleaved-homework-practice.md) [+W]: a practice brief, not a new study; it carries the idea into homework design.
+- Rohrer, Dedrick, Hartwig & Cheung (2020), a pre-registered cluster randomised trial in 54 seventh-grade classes of 15 teachers in five schools (787 students): four months of mostly interleaved worksheets, then the same review for both groups, raised scores on an unannounced test a month later from 38% to 61% ([d = 0.83](../claims/interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md) [+M]), with a positive effect in every teacher's classes and [no teacher-by-condition interaction](../claims/interleaving-significant-hlm-teacher-controlled.md) [+M]. Teachers used it without training and [mostly judged it useful](../claims/teacher-survey-interleaving-feasibility.md) [+W]. The authors caution that time on task was not measured, that students probably met each skill blocked first, and that feedback was given throughout.
 - Rohrer, Dedrick & Stershic (2015), the one classroom experiment in the wiki: 126 seventh-graders practised graph and slope problems for about three months, each student getting some types interleaved and some blocked, then took an unannounced test of new problems. [Interleaved practice produced higher test scores](../claims/interleaved-practice-higher-math-test-scores.md) [+M] (partial η² = .165); [d = 0.42 at 1 day](../claims/interleaved-benefit-one-day-delay-d042.md) [+M] and [d = 0.79 at 30 days](../claims/interleaving-benefit-persists-thirty-days.md) [+M], with the schedule-by-delay interaction not significant (p = .09), so a growing benefit is suggested, not shown; [by problem type](../claims/interleaving-benefit-by-problem-type-and-delay.md) [~M], the slope-problem effect at 1 day (d = 0.43) was not significant. Problems were mixed with reviews of earlier types, so spacing is not separated here.
 - Taylor & Rohrer (2010), a randomised experiment with 24 fourth-graders that held spacing equal (filler tasks kept the gap between same-kind problems the same under both schedules): interleaved practice of four kinds of prism problem more than doubled next-day test scores (77% vs. 38%, d = 1.21) while lowering practice accuracy, and blocking raised the errors of using another kind's formula (46% vs. 10%) without changing other errors. Recorded on [Interleaving improves discrimination](../claims/interleaving-improves-discrimination.md) [+S] and [The interleaving benefit is not caused by spacing](../claims/interleaving-not-spacing-persists-over-delay.md) [+W]; a one-day delay and a small sample.
 - Firth, Rivers & Boyle (2021), a systematic review of 26 studies with a meta-analysis of 17: interleaving improved [classification of new examples](../claims/interleaving-transfer-benefit-meta-analysis.md) [+M] (effects up to 0.66) and [of studied examples](../claims/interleaving-memory-benefit-meta-analysis.md) [+M] (up to g = 0.65), reported as maxima, not pooled means; the benefit [persists when spacing is held constant and at delays up to ten days](../claims/interleaving-not-spacing-persists-over-delay.md) [+W]; it is [largest where differences are subtle](../claims/interleaving-similarity-boundary-condition.md) [~M] and [weaker or reversed where a clear verbal rule defines each kind](../claims/interleaving-rule-based-learning-boundary.md) [~W]; and [no included study used high-school learners](../claims/interleaving-literature-lab-undergraduate-dominance.md) [~W].
@@ -201,6 +206,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 ## Key Sources
 - Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)
 - Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. *Journal of Educational Psychology, 107*(3), 900–908. [doi:10.1037/edu0000001](https://doi.org/10.1037/edu0000001)
+- Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled trial of interleaved mathematics practice. *Journal of Educational Psychology, 112*(1), 40–52. [doi:10.1037/edu0000367](https://doi.org/10.1037/edu0000367)
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
 - Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the enemy of induction? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
 - Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*(6), 837–848. [doi:10.1002/acp.1598](https://doi.org/10.1002/acp.1598)
