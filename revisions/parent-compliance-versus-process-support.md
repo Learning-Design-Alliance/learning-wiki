@@ -7,3 +7,6 @@ page: ../claims/parent-compliance-versus-process-support.md
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from hub-901 (Using Research on Homework to Improve Remote and Hybrid Learning) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-02 · structure · process:article-ingest
+Reciprocal link to parent-homework-involvement-mixed-achievement-link. [Parent involvement in homework: A research synthesis, doi:10.3102/0034654308325185]

@@ -5,8 +5,8 @@ description: The relationships among perceived parental involvement in homework,
 id: parental-homework-involvement-homework-behaviors-achievement-grade-differences
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-18
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
 sources:
@@ -55,3 +55,4 @@ The article's title states its focus: relationships among "perceived parental in
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — related
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — related
 - [Children show high unassisted home engagement with the training, comparable to supervised settings](prosodiya-high-home-engagement.md) — related
+- [Training parents to be involved in homework raises homework completion (significant under fixed effects only) and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject](parent-homework-involvement-mixed-achievement-link.md) — related: grade moderates the same relationship in a meta-analysis
