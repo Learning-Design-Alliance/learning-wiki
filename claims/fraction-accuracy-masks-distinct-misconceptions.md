@@ -5,8 +5,8 @@ description: Equal accuracy on fraction comparison items can mask fundamentally 
 id: fraction-accuracy-masks-distinct-misconceptions
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-22
+  by: "process:article-ingest"
+  at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2026
 sources:
@@ -45,6 +45,7 @@ Theoretical argument in the editorial, drawing on cited fraction-comparison rese
 
 
 ## Related Claims
+- [Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors](misconception-kc-improves-fraction-student-model.md) — related: tracking a fraction misconception in tutor data
 - [Participants committed more errors on common-numerator prime items than on denominator-numerator control prime items](common-numerator-prime-higher-error-rate.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
 - [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](fsi-gains-common-numerator-whole-number-bias-items.md) — related
