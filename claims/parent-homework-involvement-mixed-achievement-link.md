@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject
+title: Training parents to be involved in homework raises homework completion (significant under fixed effects only) and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject
 id: parent-homework-involvement-mixed-achievement-link
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: "?"
 ---
 
-# Training parents to be involved in homework raises homework completion and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject
+# Training parents to be involved in homework raises homework completion (significant under fixed effects only) and cuts homework problems but barely moves achievement, and the correlation between parent homework involvement and achievement depends on grade, type of involvement and subject
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=14 parent-training studies; 20 correlational studies (22 samples); 23 studies with statistical controls
