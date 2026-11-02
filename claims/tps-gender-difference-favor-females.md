@@ -66,3 +66,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — reports the opposite
 - [Gender has no statistically significant main effect on achievement in algebraic word problems](gender-main-effect-not-significant-word-problems.md) — reports the opposite
 - [The interaction of treatment and gender has no statistically significant effect on achievement in algebraic word problems](treatment-gender-interaction-not-significant.md) — related
+- [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related

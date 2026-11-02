@@ -73,3 +73,4 @@ Review synthesis across multiple cited studies covering perceived clarity of goa
 - [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — reports the opposite
 - [Excessive perceived workload is positively associated with a surface approach and negatively with a deep approach to learning](perceived-workload-surface-approach.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related
+- [Students reported the learner-centred authenticity project as one of the most challenging yet relevant courses in their degree](students-found-authenticity-course-challenging-relevant.md) — related

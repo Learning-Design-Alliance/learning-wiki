@@ -25,7 +25,8 @@ A researcher-developed 42-item algebraic-expressions achievement test created by
 - [Supportive education based on WBES reports raises eighth-grade students' academic success more than traditional supportive education](../claims/wbes-supportive-education-higher-academic-success.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Algebraic Success Test (AST)](algebraic-success-test-ast.md)
 
 ## Key Sources
 - Goksu, I. and Gulcu, A. (2016). The Evaluation of the Cognitive Learning Process of the Renewed Bloom Taxonomy Using a Web Based Expert System. TOJET: The Turkish Online Journal of Educational Technology, 15(4). https://www.tojet.net/

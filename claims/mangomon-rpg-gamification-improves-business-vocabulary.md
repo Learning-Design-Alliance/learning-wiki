@@ -64,3 +64,5 @@ The design is a single group of 21 students tested before and after, with no com
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](videogame-classroom-vocabulary-gains-puerto-rico.md) — related
 - [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
 - [Within the task-based group, technical vocabulary scores rose significantly from pre-test to post-test](tblt-group-prepost-vocabulary-gain.md) — related
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
+- [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related

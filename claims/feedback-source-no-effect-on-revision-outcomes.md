@@ -74,3 +74,4 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [Expressed helpfulness of AI feedback showed no association with next essay reflection depth](helpfulness-no-association-next-reflection-depth.md) — related
 - [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related
 - [Developmental writing students' rubric-scored drafts improved significantly from first to revised draft across all feedback groups](drafts-improved-significantly-raters-scores.md) — related
+- [The no-feedback control group also significantly improved grammatical accuracy from drafts to revisions](control-group-improves-without-wcf-in-revision.md) — related

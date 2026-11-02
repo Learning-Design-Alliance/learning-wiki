@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (75 show a difference, 25 mixed, 18 no difference) · 74 studies (33 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 17 of 74 report an effect size · 117 claims rest on one study
+> **Evidence** · 119 claims (76 show a difference, 25 mixed, 18 no difference) · 75 studies (34 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 75 report an effect size · 118 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -158,6 +158,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [A 12-week syntactic parsing instruction produced a significantly greater reading-rate gain in the experimental group than in the control group (Cohen's d = 0.52)](../claims/syntactic-parsing-instruction-improves-efl-reading-rate.md) [+M] — instruction changes it
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](../claims/positive-attitudes-toward-syntactic-parsing-instruction.md) [+W] — instruction changes it
 - [Timed reading activity significantly improves the reading speed of intermediate EFL learners compared to untimed reading of the same passages](../claims/timed-reading-improves-reading-speed.md) [+M] — instruction changes it
+- [The Edmark Reading Program produced significantly larger gains in estimated oral reading fluency than regular classroom reading instruction in third-grade students with disabilities](../claims/edmark-program-increased-orf-gains-third-grade-disabilities.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

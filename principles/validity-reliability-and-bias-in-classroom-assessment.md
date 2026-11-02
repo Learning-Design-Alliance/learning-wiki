@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 363 claims (159 for, 179 mixed, 25 against) · 274 studies (90 associational, 61 design, 45 review, 37 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 23 of 274 report an effect size · 356 claims rest on one study
+> **Evidence** · 364 claims (160 for, 179 mixed, 25 against) · 275 studies (90 associational, 61 design, 45 review, 38 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 23 of 275 report an effect size · 357 claims rest on one study
 
 ## Conditional relationship
 
@@ -437,6 +437,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](../claims/prosody-test-retest-reliability-94.md) [+W]
 - [Start and End test scores correlated strongly within both groups, with a higher coefficient for the Control group (0.88868) than the Experiment group (0.74317)](../claims/start-end-score-correlations-groups.md) [~W]
 - [State assessment gains in New York substantially exceeded NAEP gains for the same cohorts, raising questions about the validity of test-score gains under high-stakes accountability](../claims/state-naep-gain-discrepancy-test-inflation.md) [-W]
+- [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](../claims/posttest-judge-reliability-kendall-w.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

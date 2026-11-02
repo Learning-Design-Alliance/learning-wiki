@@ -50,7 +50,8 @@ The article recommends introducing programming through concrete, real devices co
 - [Attitudes towards the teacher did not change notably in either group during the semester](../claims/teacher-attitude-no-change.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use real-life examples within constructivist English teaching, while preparing for students who are not ready for independent learning](real-life-examples-constructivist-english-teaching.md)
 
 ## Examples
 -

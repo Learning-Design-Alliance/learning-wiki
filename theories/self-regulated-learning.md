@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 274 claims (128 for, 131 mixed, 15 against) · 202 studies (63 causal, 60 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 202 report an effect size · 258 claims rest on one study
+> **Evidence** · 275 claims (129 for, 131 mixed, 15 against) · 203 studies (63 causal, 61 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 203 report an effect size · 259 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -321,6 +321,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The self-monitoring strategy of SRL had a larger effect on EFL speaking performance than the seeking-help strategy](../claims/self-monitoring-outperforms-seeking-help-speaking.md) [~W] — attached 2026-11-02 from Mohammadzadeh et al. (2018), which proposed "Self-regulatory learning (Zimmerman): strategic processes and two classroom strategies for computer-assisted speaking".
 - [Strategy instruction improves students' use of metacognitive skills, though knowledge of strategy-topic fit remains limited](../claims/strategy-instruction-improves-metacognitive-skill-use.md) [+W] — attached 2026-11-02 from Muhittin ÇALIŞKAN et al. (2011), which proposed "Self-instructed learners as a metacognitive cycle of planning, strategy choice, monitoring, and revision".
 - [Both SRL strategies improved speaking from pre-test to immediate and delayed post-tests, with gains persisting in the long run](../claims/srl-strategies-short-long-run-speaking-gains.md) [+W]
+- [Time management skills of planning and organization are positively related to course grades (as reported by Liu et al., 2009)](../claims/tm-planning-organization-grades-correlation.md) [+W]
 
 ## The evidence by question
 

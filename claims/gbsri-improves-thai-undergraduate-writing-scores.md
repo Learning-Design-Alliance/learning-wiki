@@ -54,3 +54,4 @@ One-group pretest-posttest quasi-experiment with 32 Thai first-year English majo
 - [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Tekster, a strategy-focused writing instruction program, statistically significantly improves the writing quality of upper-elementary students, with an overall effect size of 0.32](tekster-improves-writing-quality-es-032.md) — related
+- [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related

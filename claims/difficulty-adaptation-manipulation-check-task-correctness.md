@@ -51,3 +51,4 @@ Two-way repeated-measures ANOVA on task correctness (manipulation check) across 
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](icl-ratings-track-complexity-sequence.md) — related
 - [Major downward difficulty adaptation increases situational interest in game-based math learning, while major upward adaptation decreases it and minor adaptation has no effect](difficulty-adaptation-strength-direction-situational-interest.md) — related
 - [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](difficulty-adaptation-strength-threshold-boundary-condition.md) — related
+- [The goal difficulty intervention significantly decreased students' perceived goal difficulty relative to control](goal-difficulty-intervention-lowered-perceived-difficulty.md) — related

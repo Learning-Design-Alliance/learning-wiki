@@ -67,6 +67,7 @@ Expressive writing about emotional experiences reliably improves psychological a
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the natural goal-setting companion to pattern review sessions
 - [Action Planning](action_planning.md) — converts journal-derived insights into committed next steps
 - [A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly](growth-goal-roadmap-collaborate-activities-check-ins.md)
+- [Authenticity trigger-event reflective journaling feeding a Best Authentic Self narrative with goal setting](trigger-event-journaling-best-authentic-self-narrative.md)
 
 ## Examples
 - **Pre-exam expressive writing** — Ramirez & Beilock had students write about test anxieties for 10 minutes before a high-stakes exam, closing the performance gap for anxious students ([Science](https://www.science.org/doi/10.1126/science.1199427))

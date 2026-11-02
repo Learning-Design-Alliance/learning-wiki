@@ -66,3 +66,4 @@ Interview analysis of the mechanics category: students gave it the least attenti
 ## Related Claims
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
+- [Learners' greatest self-reported writing difficulties before the experiment were content or idea and rhetorical organization, not vocabulary or fluency](efl-writing-difficulties-content-organization.md) — related

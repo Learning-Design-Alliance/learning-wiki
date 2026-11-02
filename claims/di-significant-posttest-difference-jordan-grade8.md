@@ -53,3 +53,4 @@ Quasi-experimental pre-test/post-test two-group study of 60 grade-8 students in 
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [The one-size-fits-all method produced no statistically significant change in the control group's achievement from pre-test to post-test](one-size-fits-all-no-significant-change.md) — related
+- [Tiered differentiated teaching in sixth-grade algebra raises corrected posttest achievement more than existing teaching](tiered-differentiated-teaching-algebra-posttest-advantage.md) — related

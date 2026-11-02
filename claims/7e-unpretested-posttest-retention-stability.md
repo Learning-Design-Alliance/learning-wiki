@@ -52,3 +52,5 @@ Dependent-groups t-tests within the unpretested Solomon groups (n=23 each). Expe
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
+- [The control group's geometry achievement did not change significantly between posttest and one-month retention test](control-group-no-posttest-retention-change.md) — related
+- [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — possibly the same claim (merge candidate)

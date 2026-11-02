@@ -56,3 +56,4 @@ Calibration analysis comparing completeness scores to confidence ratings (1: Not
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
+- [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](meeting-deadlines-self-assessment-calibration.md) — related

@@ -105,6 +105,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
 - [Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies](../strategies/promote-peer-interaction-scaffold-l2-nom.md)
 - [Use comprehensible-input strategies in CLIL: visuals, synonyms and paraphrasing in L2, and code-switching to L1](../strategies/clil-comprehensible-input-strategies.md)
+- [Use gamified information gap activities with time pressure and forced output to promote L2 oral interaction practice](../strategies/gamified-information-gap-oral-interaction.md)
 
 ## Key Sources
 - Long, M. H. (1983). Native speaker/non-native speaker conversation and the negotiation of comprehensible input. *Applied Linguistics, 4*(2), 126–141. [doi:10.1093/applin/4.2.126](https://doi.org/10.1093/applin/4.2.126)

@@ -54,3 +54,4 @@ Implementation evaluation across Pilot Year 1 (2018/19), Pilot Year 2 (2019/20),
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
+- [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related

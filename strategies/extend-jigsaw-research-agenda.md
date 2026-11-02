@@ -45,6 +45,7 @@ In the discussion the author proposes a future research agenda: "various studies
 ## Related Strategies
 
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
+- [Extend co-operative grammar learning to other levels, subjects and languages](extend-cooperative-learning-other-levels-languages.md)
 
 ## Examples
 -

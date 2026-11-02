@@ -68,3 +68,4 @@ Conclusion-section descriptive report of the two significant attitude items: "pa
 - [Three game-attitude variables (Learning, Confidence, Leisure) correlated with experimental-group posttest scores](game-attitude-variables-correlated-posttest.md) — related
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related
 - [Both groups showed statistically significant improvements in attitudes toward mathematics from pre-test to post-test](both-groups-attitude-gains-significant.md) — related
+- [The role-playing game increased students' perceived enjoyment of learning from pretest to posttest](rpg-increased-perceived-enjoyment-learning.md) — related

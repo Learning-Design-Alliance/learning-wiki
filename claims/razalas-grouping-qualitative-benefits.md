@@ -48,3 +48,4 @@ Qualitative analysis of math journals and follow-up group interviews from both g
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
+- [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related

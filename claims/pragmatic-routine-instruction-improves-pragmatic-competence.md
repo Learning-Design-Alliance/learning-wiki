@@ -53,3 +53,4 @@ Quasi-experimental comparison of pooled treatment groups (N=38 explicit, N=35 im
 - [Pragmatic routine instruction showed no effect on learners' spoken production three weeks into treatment](pragmatic-instruction-no-effect-spoken-production.md) — reports the opposite
 - [Treatment groups also significantly outperformed controls on categorizing pragmatic routines by function, with a medium effect size](routine-function-categorization-post-test-gain.md) — related
 - [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related
+- [Control-group exposure to dialogs without pragmatic instruction produces no significant change in refusal performance](control-group-no-significant-refusal-change.md) — related

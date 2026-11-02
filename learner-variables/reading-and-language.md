@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 302 claims (185 show a difference, 50 mixed, 67 no difference) · 206 studies (75 causal, 51 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 206 report an effect size · 293 claims rest on one study
+> **Evidence** · 307 claims (189 show a difference, 50 mixed, 68 no difference) · 210 studies (78 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 210 report an effect size · 298 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -353,6 +353,11 @@ What a learner can read without effort, and whether the language of instruction 
 - [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](../claims/syntactic-parsing-ability-correlates-with-efl-reading-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Timed reading activity does not significantly improve the reading comprehension of intermediate EFL learners](../claims/timed-reading-not-effective-comprehension.md) [-M] — instruction changes it
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/tpr-improves-iranian-efl-childrens-vocabulary.md) [+M] — instruction changes it
+- [High-proficiency students made the largest vocabulary gains from gloss use, followed by mid and low proficiency students, in both productive and receptive knowledge](../claims/high-proficiency-largest-gloss-gains.md) [+M] — an instructional effect differs with it
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+M] — instruction changes it
+- [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [-M] — instruction changes it
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' awareness of the evaluative and potency dimensions of deep vocabulary knowledge](../claims/semantic-mapping-improves-affective-dimension-awareness.md) [+M] — instruction changes it
+- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](../claims/er-incidental-vocabulary-encounter-frequency.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 80 claims (49 for, 30 mixed, 1 against) · 65 studies (27 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 65 report an effect size · 72 claims rest on one study
+> **Evidence** · 82 claims (51 for, 30 mixed, 1 against) · 67 studies (29 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 67 report an effect size · 74 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [No significant post-test achievement differences between cooperative learning, systematic teaching, and constructivist groups](../claims/no-posttest-difference-between-instructional-approaches.md) [~W] — attached 2026-11-02 from Korkmaz Toklucu et al. (2016), which proposed "Use cooperative learning and systematic teaching alongside the constructivist approach to enhance achievement and retention in social studies".
 - Cooperative learning instruction produced better English vocabulary acquisition than competitive learning instruction among Iranian intermediate EFL learners [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
 - Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
+- [Co-operative learning produces significantly higher English grammar achievement than conventional methods in secondary students](../claims/cooperative-learning-beats-conventional-english-grammar-secondary.md) [+W] — attached 2026-11-02 from G. Singaravelu (2010), which proposed "A seven-activity co-operative learning sequence for grammar lessons"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -187,6 +188,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [The article reports prior studies found cooperative learning more effective than traditional methods across grades including preschool](../claims/cooperative-learning-literature-more-effective.md) [+W]
 - [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
+- [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](../claims/lt-student-satisfaction-high-french-literature.md) [+W]
 
 ## Related Patterns
 

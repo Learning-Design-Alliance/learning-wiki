@@ -83,3 +83,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [ICT resources such as computers, internet facilities and printers are not adequately available in Ekiti State secondary schools](ict-resources-inadequate-ekiti-schools.md) — a narrower finding that bears on this claim
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — related
 - [South African Grade 3 systemic assessments showed persistently low national averages for Literacy and Numeracy (39% and 30% in 2001; 35% and 36% in 2007)](sa-grade3-systemic-assessment-low-literacy-numeracy.md) — related
+- [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related

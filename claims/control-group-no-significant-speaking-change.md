@@ -49,3 +49,4 @@ Paired samples t-test on the control group's (n = 17) PET speaking pretest and p
 - [EFL learners who received metadiscourse instruction scored significantly higher on a speaking posttest than learners who received no such instruction](metadiscourse-instruction-higher-speaking-posttest.md) — related
 - [The control group also made statistically significant pretest-to-posttest gains in speaking and writing, so improvement was not exclusive to the short-stories treatment](control-group-also-improved-significantly.md) — reports the opposite
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
+- [The no-treatment control group showed no significant score changes between pretest and posttest](control-group-no-significant-change.md) — possibly the same claim (merge candidate)

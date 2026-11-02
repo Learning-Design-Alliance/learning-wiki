@@ -63,6 +63,7 @@ The strategy sequences individual retrieval before collaboration, which prevents
 - [Jigsaw](jigsaw.md) — an alternative way to structure interdependence when the problem decomposes into parts
 - [Gallery Walk](gallery-walk.md) — a natural follow-on for critiquing groups' synthesized answers
 - [Use heterogeneous-pair CPS in which students first generate individual solutions then revise them after collaboration](heterogeneous-pair-cps-individual-then-revise.md)
+- [Build collaborative LO components for producing, testing and comparing arguments, and form heterogeneous groups of about three](collaborative-lo-argument-components-heterogeneous-groups.md)
 
 ## Examples
 - **Physics modeling instruction:** students predict the outcome of a demonstration on sticky notes before lab groups reconcile predictions against data — a productive-failure structure where initial wrong predictions sharpen the subsequent lesson [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]

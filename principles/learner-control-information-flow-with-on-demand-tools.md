@@ -163,6 +163,7 @@ Use of a help, assisted performance, unaided immediate performance, delayed rete
 - [Use an educational chatbot to let learners study at their own pace with replies suited to their specific needs](../strategies/chatbot-self-paced-individualized-replies.md)
 - [Let learners select the words and texts they want to learn from Wikipedia](../strategies/learner-word-selection-from-wikipedia.md)
 - [Incorporate CALL-based glossing technology into EFL reading instruction and materials](../strategies/incorporate-call-glossing-in-reading-instruction.md)
+- [Use computer textual glosses as a short-term, autonomous vocabulary episode supplemented with pushed-output tasks for retention](../strategies/textual-gloss-interim-plus-pushed-output.md)
 
 ## Key Sources
 - Gale, Larrie E.; Brown, Bruce L. (1985). A Theory of Learning and Skill-Acquisition Applied to Interactive Video: Activities at the David O. McKay Institute, Brigham Young University. In Gillespie, Junetta B., Ed. Video and Second Language Learning. Urbana, Language Learning Laboratory, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED278252

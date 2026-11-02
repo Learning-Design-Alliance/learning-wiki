@@ -150,6 +150,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - Read-aloud and shared reading — provide the modeled comprehension talk that SIR practice consolidates
 - Reading workshop — the larger instructional structure that houses SIR
 - [Give initial teacher support to pupils at very low reading levels before expecting independent reading](ar-initial-support-low-readers.md)
+- [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
 
 ## Examples
 - **[Reading Workshop](reading-workshop.md) (Teachers College Reading & Writing Project)** — mini-lesson, extended independent reading with conferring, and mid-workshop teaching points (https://readingandwritingproject.org)

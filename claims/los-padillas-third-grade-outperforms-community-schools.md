@@ -51,3 +51,4 @@ Descriptive proficiency comparisons in the Progress section, sourced to APS Dash
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — related
 - [By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools](ccspp-cohort1-exceeded-prepandemic.md) — a broader claim this one bears on
+- [Experimental students significantly outperformed comparison students on the algebra assessment in 4th and 5th grade, but not in 3rd grade](ea-experimental-outperformed-comparison-grades-4-5.md) — related

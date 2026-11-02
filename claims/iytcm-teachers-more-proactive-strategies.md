@@ -74,3 +74,4 @@ Direct classroom observations at four time points (October, December, February, 
 - [IY TCM improves elementary students' emotional regulation](iytcm-improves-emotional-regulation.md) — related
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](iy-tcm-reduced-emotional-dysregulation.md) — related
+- [Coached teachers were observed to use significantly more proactive behavior management and greater anticipation of and responsiveness to student problems than comparison teachers](coaching-improves-observed-proactive-management.md) — related

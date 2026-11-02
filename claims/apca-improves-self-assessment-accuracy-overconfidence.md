@@ -85,3 +85,4 @@ Descriptive statistics across the four groups (Table 1) show the APCA group's lo
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
+- [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](meeting-deadlines-self-assessment-calibration.md) — related

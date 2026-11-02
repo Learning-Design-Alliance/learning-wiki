@@ -49,3 +49,4 @@ Within-group pre-post comparison of the 42-student experimental group over the t
 - [Story-mapping instruction produced higher short story writing post-test scores than traditional instruction in tenth-grade EFL students](story-mapping-improves-short-story-writing-posttest.md) — related
 - [A sixteen-week process-based writing intervention produced significantly higher writing performance than product-based instruction in Vietnamese grade-10 EFL classes](process-approach-improves-efl-writing-vietnamese-secondary.md) — related
 - [Supplementary exercises targeting outlining, coherence, and unity developed experimental-group students' writing skills to some extent in a controlled pre/post-test experiment](supplementary-exercises-improve-organized-efl-writing.md) — related
+- [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related

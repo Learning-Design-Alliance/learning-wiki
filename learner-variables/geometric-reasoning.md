@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (31 show a difference, 8 mixed, 3 no difference) · 30 studies (17 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 4 of 30 report an effect size · 42 claims rest on one study
+> **Evidence** · 46 claims (33 show a difference, 8 mixed, 5 no difference) · 31 studies (18 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 31 report an effect size · 46 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -79,6 +79,10 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](../claims/multimedia-advantage-concentrated-visual-spatial-tasks.md) [~M] — instruction changes it
 - [Origami instruction yields statistically significant posttest gains in geometric knowledge for teaching shape and space relative to conventional instruction](../claims/origami-geometric-knowledge-significant-gain.md) [+M] — instruction changes it
 - [Post-test performance differed sharply between groups, with the experimental group scoring 80% and the control group 20%](../claims/posttest-80-versus-20-percent-groups.md) [+M] — instruction changes it
+- [Post-test van Hiele levels did not differ significantly between the Geometer's Sketchpad group and the traditional instruction group on any angle concept](../claims/no-posttest-difference-gsp-versus-traditional.md) [-M] — instruction changes it
+- [Students' ICT literacy showed no significant correlation with their van Hiele level of geometric thinking after Geometer's Sketchpad instruction](../claims/no-correlation-ict-literacy-van-hiele.md) [-M] — instruction changes it
+- [Traditional chalk-and-talk instruction also produced significant pre-to-post gains in van Hiele level of geometric thinking on all three angle concepts](../claims/traditional-instruction-also-improves-van-hiele-levels.md) [+M] — instruction changes it
+- [Within the experimental group, van Hiele levels differed significantly across the three posttests, increasing from right to acute to obtuse angle tests](../claims/repeated-measures-increase-across-posttests-gsp.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

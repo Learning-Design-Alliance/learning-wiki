@@ -48,3 +48,4 @@ Hosseini, H., Chalak, A., & Biria, R. (2019). Impact of Backward Design on Impro
 ## Related Claims
 - [Backward design instruction was not significantly more effective than forward design instruction for Iranian EFL learners' writing ability](backward-design-not-superior-to-forward-design-writing.md) — related
 - [After adjusting for pre-test differences, there was no statistically significant difference in writing improvement between students of experienced and inexperienced flipped-learning teachers](no-teacher-experience-difference-flipped-ancova.md) — related
+- [Group discussion as a pre-activity task has no significant effect on the writing ability of Iranian intermediate EFL learners](group-discussion-preactivity-no-significant-effect-writing.md) — related

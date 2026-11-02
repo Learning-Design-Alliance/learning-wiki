@@ -61,3 +61,4 @@ Two-way ANCOVA (teaching methods and gender with interaction effect) on overall 
 - [Literacy achievement differences showed no statistically significant effect of gender or of the method-by-gender interaction](no-gender-effect-systemic-approach-literacy.md) — related
 - [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — related
 - [No gender differences in reading comprehension appeared in any grade level under inclusive combined strategy instruction](no-gender-differences-all-grades.md) — related
+- [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — reports the opposite

@@ -46,6 +46,7 @@ Based on the experiment's findings, the authors identify ways to improve the pro
 
 - [Support competence formation through activity in cognition, self-reliant design work, convergence with real knowledge processes, and continuity between levels](cross-cutting-task-factors.md)
 - [Embed personal-ethical and personal-professional competencies across subjects, planned experiences and incidental teachable moments](tdc-integration-across-subjects-strategy.md)
+- [Include students in diverse educational, creative, scientific-research activities and continuous pedagogical internship to form polylingual professional competence](continuous-internship-activities-polylingual-formation.md)
 
 ## Examples
 -

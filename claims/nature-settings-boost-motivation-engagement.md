@@ -53,3 +53,4 @@ The review reports that across prior reviews and recent studies, "students and t
 - The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — a broader claim this one bears on
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
+- [The authors interpret the findings as stressing the role of interest and interest-driven motivation in L2 vocabulary acquisition](interest-affective-factor-vocabulary-acquisition.md) — related

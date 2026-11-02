@@ -61,3 +61,4 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](in-between-activities-raise-mental-effort-second-text-unit.md) — related
 - [Invested effort was positively associated with knowledge acquisition for research designs](invested-effort-knowledge-research-designs.md) — a narrower finding that bears on this claim
+- [Posttest compositions of the task-based class were longer, more lexically diverse, and used more academic words than control and pretest compositions](tbl-writing-corpus-lexical-gains.md) — a narrower finding that bears on this claim

@@ -147,3 +147,4 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related
 - [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups showed no statistically significant difference in vocabulary performance before the intervention](wm-strategy-pretest-equivalence-efl.md) — related
+- [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related

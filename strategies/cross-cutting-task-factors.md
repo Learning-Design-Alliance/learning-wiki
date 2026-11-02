@@ -45,6 +45,7 @@ Based on the experiment's results, the authors identify the factors that most no
 
 - [Extend the task-based robotics methodology toward nonlinear individual educational paths](nonlinear-robotics-learning-path.md)
 - [Embed research methods and creative activity across physics studies to strengthen competency formation](embed-research-methods-across-physics-studies.md)
+- [Include students in diverse educational, creative, scientific-research activities and continuous pedagogical internship to form polylingual professional competence](continuous-internship-activities-polylingual-formation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Descriptive charted summary (Diagram 1) of recreational preferences across the f
 - [Among 800 girls aged six to twenty interviewed in 1917-18, active games and sports constituted at least half of recreational preferences across the entire age range](active-games-dominate-girls-recreation-1920.md) — related
 - [Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen](age-graded-reading-tastes-girls-1920.md) — related
 - [Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing](rare-recreation-vocation-correlation-girls-1920.md) — related
+- [In a survey of 41 institute students, sport was the most liked reading topic and geography among the most disliked](survey-sport-most-liked-geography-disliked.md) — related

@@ -61,9 +61,11 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 7. Follow with writing that extends the discussion, so oral language feeds into written composition.
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — discussions anchored in a rich case rather than a text
 - [Debate](../patterns/debate.md) — a formalized discussion structure with assigned positions
 - [Flipped Classroom](../principles/flipped-learning.md) — frees class time for discussion by moving exposition outside class
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core element this strategy orchestrates

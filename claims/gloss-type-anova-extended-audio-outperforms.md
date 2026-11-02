@@ -67,3 +67,4 @@ Tukey HSD post-hoc tests on the four groups' post-test scores; the extended audi
 - [Computer-based audio gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](audio-gloss-improves-reading-comprehension.md) — related
 - [Extended audio gloss (audio plus an L2 example sentence) significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](extended-audio-gloss-improves-reading-comprehension.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [Task type significantly influences vocabulary learning and may marginally affect reading comprehension performance](task-type-significantly-influences-vocabulary-learning.md) — related

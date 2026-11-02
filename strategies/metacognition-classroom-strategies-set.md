@@ -46,6 +46,7 @@ The article enumerates strategies for promoting metacognitive work at individual
 - [Strategy Identification & Reflection](strategy-identification-reflection.md)
 - [Shared Reflection](shared_reflection.md)
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 -

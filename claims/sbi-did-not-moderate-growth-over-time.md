@@ -52,3 +52,5 @@ Three-level longitudinal model (repeated PPS pretest, posttest, and delayed post
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
 - [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related
 - [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](sbi-retention-proportional-problem-solving-9-weeks.md) — related
+- [SBI students with mathematics difficulties improve at a faster rate over time on proportional problem solving than control students with MD](sbi-md-faster-growth.md) — reports the opposite
+- [For students with mathematics difficulties, SBI significantly improves proportional problem solving at immediate and 11-week delayed posttests but not general mathematical problem solving](sbi-md-pps-post-and-delayed.md) — related

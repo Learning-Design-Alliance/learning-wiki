@@ -48,3 +48,4 @@ Academic interest survey administered to both groups before the intervention; Fi
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
 - [Students rank understanding-checks, problem identification and interactivity as the top benefits of EVS use, with fun ranked last](evs-benefit-ranking-feedback-top.md) — related
+- [In a survey of 41 institute students, sport was the most liked reading topic and geography among the most disliked](survey-sport-most-liked-geography-disliked.md) — related

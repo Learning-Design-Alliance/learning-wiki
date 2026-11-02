@@ -69,3 +69,4 @@ Paired t-tests within the experimental group by gender: males' mean paired diffe
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — related
 - [No statistically significant difference in acquiring religious concepts attributed to students' gender](no-gender-difference-religious-concepts-kwl.md) — related
+- [Male and female clicker users did not differ significantly in ESP post-test scores, but only males improved significantly from pre-test to post-test](gender-differences-clicker-esp-gains.md) — related

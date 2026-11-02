@@ -58,3 +58,4 @@ Quasi-experimental comparison of 40 experimental and 40 control participants aft
 - [Presentation strategy instruction produces significantly higher reading comprehension post-test scores than ordinary strategy-based instruction for Iranian intermediate EFL learners](presentation-strategy-improves-efl-reading-comprehension.md) — related
 - [Comic reading materials improve EFL reading comprehension more than general texts and pictures](comic-materials-improve-efl-reading-comprehension.md) — related
 - [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](tblt-reading-outperforms-traditional-instruction-iranian-efl.md) — related
+- [EFL learners taught reading comprehension with animation films outperformed traditionally taught controls on a posttest](animation-films-improve-efl-reading-comprehension-posttest.md) — related

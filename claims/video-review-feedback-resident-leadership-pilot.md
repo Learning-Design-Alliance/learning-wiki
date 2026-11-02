@@ -48,3 +48,4 @@ Prospective randomised controlled pilot study in which postgraduate year 2 and 3
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
 - [Video review improves resident behaviours in clinical practice (Kirkpatrick level 3), including leadership, prescribing accuracy and communication](video-review-kirkpatrick-level-3-behaviour.md) — a broader claim this one bears on
 - [Introducing a designated nursing team leader was associated with lower cognitive load for the medical team leader and improved objective performance in the CANLEAD trial](designated-nurse-leader-lower-cognitive-load.md) — related
+- [In a team-based-learning calculus course, high involvement in team activities (peer evaluations, team leadership) was more indicative of course gain than high scores on individual readiness assessments](tbl-team-involvement-indicative-of-course-gain.md) — related

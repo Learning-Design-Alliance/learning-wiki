@@ -106,6 +106,7 @@ Socratic Seminars operationalize [Active Learning](../principles/active-learning
 - [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds discussion readiness
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 - **Paideia schools (National Paideia Center)** — K–12 network using scripted Socratic Seminars across the curriculum several times weekly, with trained facilitators and defined question sequences ([paideia.org](https://www.paideia.org))

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 112 claims (47 for, 61 mixed, 4 against) · 88 studies (56 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 88 report an effect size · 103 claims rest on one study
+> **Evidence** · 113 claims (48 for, 61 mixed, 4 against) · 89 studies (57 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 89 report an effect size · 104 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,7 @@ Claims linked to this page later go here until they are read against the model.
 - [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W] — read 2026-10-19: "segmentation" here is printing text in phrase units for children's reading, not dividing a narrated presentation, so it does not bear on the segmentation rule.
 - [Motion in pictures is of no value for teaching foreign vocabulary measured by written recall](../claims/motion-in-pictures-no-value-vocabulary.md) [~W] — attached 2026-10-29 from Kale et al. (1955), which proposed "Use still pictures instead of motion pictures for film-based vocabulary instruction to avoid production expense"; tests this page's relationship.
 - [No statistically significant difference was found between planar still images and animated stereo images as visual glosses for learning preposition senses](../claims/no-difference-planar-animated-visual-glosses.md) [~W] — attached 2026-11-02 from Takeshi Sato et al. (2012), which proposed "Optimize visual glosses according to the learning target rather than assuming technologically advanced glosses are better".
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Four-factor multimedia program design: segmentation, guidance, contiguity, and motivational appearance"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

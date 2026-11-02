@@ -61,3 +61,5 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [The explanation assisted REACT group retains its advantage on a delayed test nine weeks after the intervention despite score decline](react-explanation-delayed-retention.md) — related
+- [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related

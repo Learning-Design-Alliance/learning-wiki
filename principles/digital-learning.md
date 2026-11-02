@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (39 for, 46 mixed, 6 against) · 100 studies (23 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 100 report an effect size · 80 claims rest on one study
+> **Evidence** · 92 claims (39 for, 47 mixed, 6 against) · 101 studies (24 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 101 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -208,6 +208,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [More interactive digital education interventions mostly show no advantage over less interactive forms, with attrition and low usage challenging low-interactivity interventions](../claims/interactivity-digital-education-guidelines-mixed.md) [~W]
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
 - [Effects of ICT-based teaching persisted at retest, with results similar to the post-test stage](../claims/ict-tourism-retest-durability.md) [~W]
+- [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](../claims/ipad-social-studies-educational-software-element.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

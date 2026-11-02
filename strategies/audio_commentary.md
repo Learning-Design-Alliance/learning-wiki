@@ -63,6 +63,7 @@ Audio commentary sits within the broader evidence that feedback is most effectiv
 - Written margin comments — the comparison medium; hybrid audio-plus-annotations is common in practice
 - Draft–revise cycles — audio commentary is most valuable when learners act on it
 - [Pre-planned scripts and teleprompter use to achieve conversational, personalized narration](preplanned-scripts-teleprompter-personalization.md)
+- [Provide audio group feedback on assignments to raise students' perception that the instructor cares about their learning while saving instructor time](audio-group-feedback-strategy.md)
 
 ## Examples
 - **Lunt & Curran's medical education study (2010)** — instructors replaced written feedback with MP3 voice files for student assessments; students rated audio as more personal, detailed, and useful, and staff found it faster to produce.

@@ -53,3 +53,5 @@ Repeated-measures ANOVA results for the four factors named, reported in the Resu
 - [The ARDESOS program produced a significant pre-post improvement in overall critical thinking scores](ardesos-significant-total-critical-thinking-gain.md) — a broader claim this one bears on
 - [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — related
 - [Problem-solving showed a significant pre-post effect although post-treatment means were slightly lower than pre-treatment means](problem-solving-significant-but-declining-means.md) — related
+- [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](ardesos-v2-significant-pre-post-gains-except-decision-making.md) — reports the opposite
+- [Decision making was the one critical thinking dimension that did not significantly improve under ARDESOS v.2, unlike problem solving](decision-making-not-significantly-improved-v2.md) — reports the opposite

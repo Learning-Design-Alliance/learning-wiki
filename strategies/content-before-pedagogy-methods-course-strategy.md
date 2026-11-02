@@ -41,7 +41,8 @@ Based on participants' reports that they could not relate pedagogical activities
 - [Treatment-group preservice teachers showed a statistically significant increase in geometry content knowledge after the quadrilateral activities intervention](../claims/treatment-significant-geometry-ck-growth-preservice.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Prepare GSP activities beyond geometry and train teachers in dynamic geometry pedagogy](gsp-teacher-training-and-extension-strategy.md)
 
 ## Examples
 -

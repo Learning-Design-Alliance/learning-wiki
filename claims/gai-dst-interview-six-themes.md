@@ -70,3 +70,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Experimental-group students perceived the MPS as increasing interactivity, supporting multimodal-integrated learning, and making instruction more student-centered](mps-perceived-interactivity-student-centered.md) — related
 - [Prospective teachers' views on both applications clustered into four themes, with a minority of the reflective group reporting initial difficulties](four-themes-views-applications.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related

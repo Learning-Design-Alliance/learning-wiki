@@ -81,3 +81,4 @@ Comparison of EXPLORE benchmark-meeting rates for the 2005 ACT-taking cohort aga
 - [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
 - [Renaissance 2010 high schools showed a similar pattern of failing to meet EXPLORE-to-PLAN growth expectations](renaissance2010-similar-growth-pattern.md) — a narrower finding that bears on this claim
 - [Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools](deep-support-schools-mixed-effects.md) — related
+- [PLAN-to-ACT science score gains were larger under both non-traditional contexts (4.1 and 4.3 points) than under the traditional context (2.8 points)](treatment-groups-larger-plan-act-gains.md) — related

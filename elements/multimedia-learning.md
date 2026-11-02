@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (30 for, 13 mixed) · 43 studies (25 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 43 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (31 for, 14 mixed) · 44 studies (26 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 44 report an effect size · 41 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -79,6 +79,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](../claims/corel-videostudio-posttest-experimental-90-control-79-7.md) [+W] — attached 2026-11-02 from Ulfah Nur Fajriah (2016), which proposed "Corel VideoStudio Pro X7-based multimedia learning media for infrastructure administration"; tests this page's relationship.
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](../claims/multimedia-engagement-observation.md) [+W]
 - [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — attached 2026-11-02 from Abdullah Sarani et al. (2014), which proposed "Top Notch TV video clips with video-based listening tasks as instructional materials"; tests this page's relationship.
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Researcher-designed multimedia vocabulary program on CD with text, picture, and sound"; tests this page's relationship.
+- [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [~W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Researcher-designed multimedia vocabulary program on CD with text, picture, and sound"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -101,6 +103,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - Interactive lessons that combine diagrams, narration, and practice prompts.
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](../strategies/multimedia-and-homework-for-5e-phases.md)
 - [Use multimedia modules with audio-video clips to develop speaking skill in teacher education](../strategies/multimedia-modules-speaking-skill-teacher-education.md)
+- [Pair short-story reading with short animation-film segments in EFL reading lessons](../strategies/animation-film-segments-with-story-reading-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

@@ -54,3 +54,4 @@ The report's summary of its evidence on the Missouri Career Ladder Program state
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — a broader claim this one bears on
 - [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — related
+- [Comprehensive induction had no impact on teacher retention or mobility over the first four years](induction-no-impact-retention-mobility.md) — reports the opposite

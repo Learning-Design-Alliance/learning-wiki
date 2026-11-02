@@ -53,3 +53,4 @@ The national randomized controlled evaluation reports null findings beyond achie
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — related
 - [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
+- [One year of comprehensive induction did not change beginning teachers' classroom practices in literacy lessons](induction-no-impact-classroom-practices.md) — possibly the same claim (merge candidate)

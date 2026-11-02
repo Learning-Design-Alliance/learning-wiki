@@ -54,6 +54,7 @@ The article recommends that teachers replace traditional product-based grammar i
 
 - [Supplement task-based language teaching with grammar instruction and use communicative drills for automatization](supplement-tblt-with-grammar-instruction-communicative-drills.md)
 - [In same-language EFL classes, use intervals of the students' native language with jocular comparisons to explicate difficult grammar points](native-language-intervals-with-jocular-comparisons.md)
+- [Use group interaction, peer evaluation and shared productions in task-based grammar teaching](group-interaction-peer-evaluation-task-based-grammar.md)
 
 ## Examples
 -

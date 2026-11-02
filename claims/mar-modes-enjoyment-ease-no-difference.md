@@ -67,3 +67,4 @@ Wilcoxon test on questionnaire item C1Q2 (ease of use) in the same questionnaire
 - [Collaborative MAR gameplay raises children's observable enjoyment and mood more than competitive gameplay](collaborative-mar-higher-observed-affect.md) — related
 - [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](collaborative-mar-physical-activity-tool-use.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
+- [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related

@@ -71,3 +71,4 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Simulation-based instruction produced significantly higher post-test scores across all three test sections: fill in the blanks, matching, and short answer.](simulation-biology-section-level-gains.md) — related
 - [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related
+- [High school students using the Every Circuit virtual module scored higher on the post-quiz than the paper-based control group after starting with nearly identical pre-quiz scores](every-circuit-post-quiz-outperformed-control.md) — related

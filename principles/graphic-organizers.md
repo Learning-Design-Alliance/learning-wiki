@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (25 for, 18 mixed, 3 against) · 53 studies (26 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 53 report an effect size · 35 claims rest on one study
+> **Evidence** · 48 claims (27 for, 18 mixed, 3 against) · 55 studies (28 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 55 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Graphic organizer strategy produced greater incremental growth in vocabulary building over time than traditional instruction](../claims/go-strategy-incremental-vocabulary-growth.md) [+W] — attached 2026-11-02 from Al-Hinnawi (2012), which proposed "Teach vocabulary items through a graphic organizer that visually maps eight word features around the target word"; tests this page's relationship.
 - [Graphic organiser treatment has a significant main effect on students' achievement in algebraic word problems, accounting for 23.5% of post-test variance](../claims/graphic-organiser-significant-main-effect-algebraic-word-problems.md) [+W] — attached 2026-11-02 from Josiah Owolabi et al. (2015), which proposed "Use graphic organisers, and prefer having students design their own, when teaching algebraic word problems"; tests this page's relationship.
 - [The group taught to design graphic organisers (Experimental group B) scored statistically higher than both the prepared-organiser group and the control group](../claims/design-your-own-organiser-group-outperformed.md) [+W] — attached 2026-11-02 from Josiah Owolabi et al. (2015), which proposed "Use graphic organisers, and prefer having students design their own, when teaching algebraic word problems"; tests this page's relationship.
+- [Concept mapping as a post-reading strategy significantly improves EFL learners' critical thinking ability](../claims/concept-mapping-improves-efl-critical-thinking.md) [+W] — attached 2026-11-02 from Khodadady et al. (2011), which proposed "Integrate concept mapping regularly in EFL reading classes as a post-reading or brainstorming tool"; tests this page's relationship.
+- [A semantic-mapping treatment produced a significantly larger vocabulary size than the control group at post-test in Turkish undergraduate EFL learners](../claims/semantic-mapping-treatment-larger-vocabulary-size-posttest.md) [+W] — attached 2026-11-02 from Mehmet ALTAY (2017), which proposed "Facilitate learner-produced semantic mapping with teacher monitoring and supplementary lexical databases rather than leaving learners alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -205,6 +207,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-and-guided-notes-processing-speed.md)
 - [Use tablet computers in Response to Intervention for self-recorded reading, electronic graphic organizers, and electronic text notation](../strategies/rti-tablet-reading-strategies-strategy.md)
 - [Provide scaffolding (fill in the map) plus explicit instruction and feedback when teaching concept mapping for reading comprehension](../strategies/scaffolding-feedback-cm-instruction-strategy.md)
+- [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](../strategies/semantic-mapping-vocabulary-teaching-strategy.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.

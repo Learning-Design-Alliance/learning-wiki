@@ -42,6 +42,7 @@ The authors close with five actionable recommendations: systems should learn and
 ## Related Strategies
 
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
+- [Teachers develop their own curriculum-aligned multimedia vocabulary programs](teacher-developed-curriculum-aligned-multimedia-strategy.md)
 
 ## Examples
 -

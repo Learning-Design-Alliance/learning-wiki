@@ -51,3 +51,4 @@ Pretest-posttest experimental study with a control group in two fourth-year clas
 - [The control group showed no meaningful pretest-to-posttest change in creativity scores](ayturk-control-group-no-change.md) — related
 - [Posttest creativity scores differed between the experimental and control groups in favor of the experimental group, though the text and Table 6 print conflicting statistics](ayturk-posttest-group-difference.md) — related
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related
+- [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](model-pretest-posttest-gains-creative-thinking-achievement.md) — related

@@ -19,7 +19,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 2 design, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 15 studies (5 causal, 5 quant-synthesis, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size · 13 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -61,6 +61,8 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](../claims/teacher-feedback-tu-improvements.md) [+W]
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
 - [No significant gender difference in transfer of knowledge in physics under guided discovery, demonstration or expository teaching](../claims/no-gender-difference-physics-transfer-strategies.md) [~W]
+- [GeoGebra instruction with guided discovery worksheets produced significantly higher quadratic functions achievement than textbook-based instruction in a randomized pretest-posttest experiment](../claims/geogebra-guided-discovery-quadratic-achievement-gain.md) [+M] — attached 2026-11-02 from Filiz Tuba Dikkartin Övez (2018), which proposed "GeoGebra guided discovery worksheet sequence for quadratic functions"; tests this page's relationship.
+- [The GSP condition used researcher-prepared worksheets guiding students to discover geometric concepts by dragging and transforming shapes in a computer laboratory](../claims/gsp-worksheets-guided-discovery-angles-polygons.md) [+W]
 
 ## The evidence by question
 - *Does discovery with guidance (prompts, feedback, worked examples, elicited explanations) produce more learning than unassisted discovery or other instruction?* [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]

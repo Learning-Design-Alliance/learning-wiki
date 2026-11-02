@@ -49,3 +49,4 @@ Quasi-experimental pre-test post-test control group study of 480 SSII students i
 - [Male students scored higher than female students on the agricultural science achievement test under both teaching methods](male-students-outperform-female-agricultural-science.md) — related
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — possibly the same claim (merge candidate)
 - [Discussion method produced higher chemistry achievement than lecture method in a quasi-experiment with SSII students](discussion-method-beats-lecture-chemistry-achievement.md) — related
+- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related

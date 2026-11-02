@@ -68,3 +68,4 @@ Descriptive comparison of self-reported math-related PD during the study year; r
 - [The 93-hour PD was implemented with high fidelity, and treatment teachers received 95 more hours of math-related PD than controls](pd-implemented-with-high-fidelity-95-hour-contrast.md) — possibly the same claim (merge candidate)
 - [The 93-hour PD was implemented with high fidelity, with 96 percent of Intel Math hours and 100 percent of the school-year components delivered](pd-implemented-with-high-fidelity.md) — possibly the same claim (merge candidate)
 - [Content-intensive math PD produced a statistically significant, sustained gain in grade 4 teachers' math content knowledge (21 percentile points in spring)](content-intensive-pd-teacher-knowledge-gain.md) — related
+- [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related

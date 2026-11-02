@@ -96,3 +96,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Student-level variables significantly predict GPA change in the control condition, with prior GPA and self-reported grades as top predictors.](student-variables-predict-control-condition-gpa-change.md) — a narrower finding that bears on this claim
 - [Higher observed preschool quality in the mathematical domain is associated with better mathematics at age 12, over and above earlier numerical skills](preschool-math-quality-predicts-age-12-math.md) — related
 - [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related
+- [Symbolic-regression models built on previous exam grades account for roughly 70% of exam-score variation, but predict project scores poorly (about 35%)](exam-scores-predictable-project-scores-not.md) — a narrower finding that bears on this claim

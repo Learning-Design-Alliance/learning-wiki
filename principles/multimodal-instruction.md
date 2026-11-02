@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (28 for, 24 mixed, 4 against) · 54 studies (27 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 54 report an effect size · 50 claims rest on one study
+> **Evidence** · 59 claims (29 for, 26 mixed, 4 against) · 55 studies (28 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 55 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,9 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](../claims/deictic-gestures-stronger-connections-high-learning.md) [~W]
 - [Deictic gestures improve transfer performance in Experiment 2 but not in Experiment 1, where no significant transfer effect was found](../claims/deictic-gestures-transfer-mixed.md) [~W]
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
+- [Translation among modes of representation improved with low normalized gains and large effect sizes on both topics](../claims/translation-among-modes-low-gain-large-effect.md) [+W]
+- [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](../claims/translation-difficulty-depends-on-concept-understanding.md) [~W]
+- [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](../claims/multiple-representation-mixed-gains-by-topic.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

@@ -77,6 +77,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Provide ongoing, targeted professional learning on ESL instructional strategies for middle grades content-area teachers](ongoing-targeted-esl-professional-learning.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 - [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
+- [Train teachers in direct instruction and in differentiated and scaffolded instruction for tiered RTI interventions](direct-instruction-and-scaffolded-instruction-rti-training.md)
+- [Implement SWH with layered supports across pre-, during-, and post-instruction phases plus sustained teacher professional development](swh-layered-supports-implementation-strategy.md)
 
 ## Examples
 -

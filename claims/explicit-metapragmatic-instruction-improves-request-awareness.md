@@ -52,3 +52,5 @@ Quasi-experiment with 30 control and 30 experimental intermediate EFL learners a
 - [Explicit instruction of the speech act of thanking produced significantly higher DCT performance than implicit instruction among Iranian intermediate EFL learners](explicit-instruction-thanking-outperforms-implicit-iranian-efl.md) — related
 - [Teaching interlanguage pragmatic features improves Iranian translation students' interpretation ability](ilp-instruction-improves-interpretation-ability.md) — a narrower finding that bears on this claim
 - [Iranian translation students are not successful in comprehending interlanguage pragmatic features prior to instruction](translation-students-lack-ilp-comprehension.md) — a narrower finding that bears on this claim
+- [Explicit instruction outperforms implicit instruction in boosting Iranian EFL learners' pragmatic performance of refusals](explicit-outperforms-implicit-refusal-instruction.md) — a narrower finding that bears on this claim
+- [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](explicit-refusal-instruction-improves-pragmatic-performance.md) — related

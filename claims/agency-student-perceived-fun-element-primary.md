@@ -52,3 +52,4 @@ Thematic analysis of four focus group interviews with 12 students aged 9–12 in
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — related
+- [Expert reviewers judged the suggestopedia approach and model activities useful for guiding fun, directed learning and stimulating critical story development](expert-validation-suggestopedia-prototype.md) — related

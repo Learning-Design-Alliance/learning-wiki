@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 190 claims (119 show a difference, 36 mixed, 35 no difference) · 127 studies (49 causal, 31 associational, 22 review, 21 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 36 of 127 report an effect size · 187 claims rest on one study
+> **Evidence** · 195 claims (123 show a difference, 37 mixed, 35 no difference) · 130 studies (50 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 37 of 130 report an effect size · 192 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -227,6 +227,11 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Previewing questions alone did not appear to influence learners' listening comprehension performance](../claims/previewing-questions-no-influence-listening.md) [-M] — instruction changes it
 - [Talk of the Town showed no evidence of improving oral language skills among children with weaker reading comprehension (ACE secondary outcome)](../claims/tott-no-impact-oral-language-ace.md) [-W] — instruction changes it
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](../claims/topic-preparation-highest-listening-scores.md) [+M] — instruction changes it
+- [Limited trials of the model prototype showed pretest-to-posttest increases in students' storytelling scores](../claims/limited-trial-storytelling-score-increases.md) [+M] — instruction changes it
+- [Staff in participating schools reported improvements in children's spoken language, listening, narrative skills, vocabulary and confidence, attributing them to the small-group format and engaging content](../claims/neli-staff-reported-improvements.md) [+M] — instruction changes it
+- [Students gained more productive than receptive vocabulary knowledge, a disparity the authors attribute to the design and format of the tests](../claims/productive-exceeds-receptive-test-format.md) [+W] — instruction changes it
+- [The 20-week version of NELI improved language skills by an estimated two months of progress, though the evidence is less secure than for the 30-week version](../claims/neli-20-week-language-effect.md) [~M] — instruction changes it
+- [The 30-week Nuffield Early Language Intervention improved the language skills of children with low language ability, equivalent to about four months of additional progress](../claims/neli-30-week-language-effect.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

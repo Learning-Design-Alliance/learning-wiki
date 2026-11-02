@@ -72,3 +72,4 @@ Impact analysis from the same randomized trial, comparing fall 2013 (post-Intel 
 - [The spring knowledge impact was larger for teachers with higher baseline knowledge: significant for teachers 1 SD above average (34 percentile points) but not 1 SD below (8 points)](spring-knowledge-impact-larger-higher-baseline.md) — a narrower finding that bears on this claim
 - [The 93-hour PD was implemented with high fidelity and high teacher participation, creating a 95-hour contrast in math-related PD versus control](pd-high-fidelity-and-participation.md) — related
 - [The 93-hour PD was implemented with high fidelity, with 96 percent of Intel Math hours and 100 percent of the school-year components delivered](pd-implemented-with-high-fidelity.md) — related
+- [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related

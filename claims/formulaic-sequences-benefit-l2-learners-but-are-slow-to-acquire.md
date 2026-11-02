@@ -60,3 +60,4 @@ The claim rests on one narrative review read from its abstract, and the abstract
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) — related
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — a narrower finding that bears on this claim
+- [Weaving TBLA into vocabulary classes may help learners notice gaps in their developing foreign-language vocabulary](tbla-helps-notice-vocabulary-gaps.md) — related

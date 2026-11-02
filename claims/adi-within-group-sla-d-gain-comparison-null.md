@@ -57,3 +57,4 @@ Paired-samples t-tests on pre- and post-SLA-D scores reported in the Results. Th
 - [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
 - [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](vhpi-significant-mean-score-gain-paired-ttest.md) — related
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
+- [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related

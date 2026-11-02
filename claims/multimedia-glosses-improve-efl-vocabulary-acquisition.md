@@ -69,3 +69,6 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [Computer-based audio gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](audio-gloss-improves-reading-comprehension.md) — related
 - [Non-CALL marginal L2 gloss significantly improves Iranian upper-intermediate EFL learners' reading comprehension compared with no gloss](marginal-gloss-improves-reading-comprehension.md) — related
 - [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](multimedia-vocabulary-effectiveness-reported.md) — related
+- [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](contextual-vocabulary-teaching-significant-gains-iranian-efl.md) — related
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related

@@ -51,3 +51,4 @@ ANCOVA on perceived difficulty (extraneous cognitive load) with prior knowledge 
 - [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](prior-knowledge-and-prompting-moderate-load-and-interest.md) — related
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
+- [The goal difficulty intervention significantly decreased students' perceived goal difficulty relative to control](goal-difficulty-intervention-lowered-perceived-difficulty.md) — related

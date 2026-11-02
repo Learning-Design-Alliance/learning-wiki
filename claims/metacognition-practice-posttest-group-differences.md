@@ -55,3 +55,4 @@ Mann-Whitney U tests of post-test Metacognitive Awareness Scale scores in a pre-
 - [Prospective teachers’ overall metacognition awareness (MAI) rose significantly from pre-test to post-test after inquiry learning in three classes with no control group, at moderate overall n-gain in each class](inquiry-learning-increases-metacognition-awareness-mai.md) — related
 - [Self-regulation based reading education significantly increases 5th graders' use of reading strategies relative to the current program](srl-reading-education-improves-reading-strategies.md) — related
 - [Learning strategies instruction increases sixth graders' awareness of learning strategies](strategy-instruction-increases-strategy-awareness.md) — related
+- [Experimental-group learners show significantly higher awareness than control-group learners on both the potency and the evaluative dimensions in pairwise comparisons](pairwise-dimension-differences-favor-semantic-mapping.md) — related

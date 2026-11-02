@@ -49,6 +49,7 @@ The evaluation identifies the material conditions schools need before implementi
 - [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
 - [Classroom Library](classroom_library.md)
 - [Creating a Classroom Library](creating_a_classroom_library.md)
+- [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
 
 ## Examples
 -

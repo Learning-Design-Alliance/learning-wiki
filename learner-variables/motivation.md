@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 364 claims (241 show a difference, 84 mixed, 39 no difference) · 264 studies (91 associational, 86 causal, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 71 of 264 report an effect size · 352 claims rest on one study
+> **Evidence** · 367 claims (243 show a difference, 85 mixed, 39 no difference) · 267 studies (91 associational, 89 causal, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 71 of 267 report an effect size · 355 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -414,6 +414,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [No treatment outperformed modeling on adult encouragement barrier self-efficacy](../claims/no-treatment-outperformed-modeling-barrier-self-efficacy.md) [-M] — instruction changes it
 - [Post-test measures of teacher knowledge, self-efficacy, self-reported use, and application were significantly and positively intercorrelated, with the strongest link between self-efficacy and self-reported use](../claims/post-measure-correlations-positive.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers perceived the Task-First Approach as building student persistence through productive uncertainty](../claims/task-first-builds-persistence.md) [+M] — instruction changes it
+- [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](../claims/sl-math-robot-interest-love-pair-increase.md) [+M] — instruction changes it
+- [The authors interpret the findings as stressing the role of interest and interest-driven motivation in L2 vocabulary acquisition](../claims/interest-affective-factor-vocabulary-acquisition.md) [+W] — learners who differ on it differ in outcomes
+- [The interest-based studying intervention reduced interest-based studying for low-achieving students but increased it for high-achieving students](../claims/ibs-intervention-by-prior-gpa-interaction.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

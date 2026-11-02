@@ -60,3 +60,4 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [Digital storytelling projects can promote incidental vocabulary acquisition when learners create multimedia resources illustrating vocabulary use](dst-incidental-vocabulary-acquisition.md) — related
 - [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related
 - [No statistically significant difference was found between planar still images and animated stereo images as visual glosses for learning preposition senses](no-difference-planar-animated-visual-glosses.md) — related
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related

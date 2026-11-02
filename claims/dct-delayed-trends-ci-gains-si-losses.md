@@ -52,3 +52,4 @@ Descriptive trend reported from one-way ANOVA results displayed in Figure 1 and 
 - [Combined pragmalinguistics- and sociopragmatics-focused input-based instruction (CI) produced significantly better written production of English request hedges than sociopragmatics-focused instruction alone (SI) and a control group](ci-beats-si-control-dct-request-hedges.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — related
+- [Descriptive trends showed the treatment group improving slightly from pre- to post-test and continuing to improve at delayed post-test, while the control group declined then recovered](spaceteam-fluency-trend-treatment-improvement.md) — related

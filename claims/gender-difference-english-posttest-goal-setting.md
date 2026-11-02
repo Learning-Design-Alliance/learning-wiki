@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 sources:
   - id: abe-2014
     resource: "https://doi.org/10.7821/naer.3.2.93-99"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among trained participants, females recorded a higher mean post-test score than males, with a significant t-test (t-cal 2.96, mean difference 1.88). [→ Abe 2014](#abe-2014)
@@ -57,3 +58,4 @@ T-test of gender difference in post-test scores among the 40 trained participant
 - [Goal-setting skills training improved English language performance among Senior Secondary II students compared to a waiting control group](goal-setting-training-improves-english-performance-enugu.md) — related
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
+- [Student prior achievement, gender, province, and school prior achievement predicted reading post-test scores, while father's education (SES) was not significant](covariates-predict-reading-achievement.md) — related

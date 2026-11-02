@@ -27,6 +27,7 @@ A Mathematica framework and toolkit that structures evidence gathering and decis
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Four-phase measurement and evaluation approach for evidence-based solution development**: Mathematica's measurement and evaluation (M&E) approach is a road map for generating evidence about new or evolving solutions. As the publication states, "Mathematica's measurement and evaluation (M&E) approach and associated toolkit tailor learning in four phases to fuel evidence-based, innovation." The four phases structure how evidence is gathered and used to decide whether a solution advances, continues development, or returns to an earlier phase. (Kate Place et al. (2023))
+- **Free app that computes Added Values and produces visuals for educator-run quasi-experiments**: The article's main contribution is 'an app that allows the user to extract insights from data collected during the normal process of teaching a course'. Built on a machine-learning algorithm (symbolic regression via DataModeler on Wolfram Mathematica), it 'calculates added values and produces visuals' so that educators without advanced methodological training can control for measurable confounding factors. The app itself is free and shared with the educational community, though it requires proprietary software licenses. (Fedor Duzhin et al. (2018))
 
 ### Claims
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](../claims/evidence-determines-nonlinear-phase-movement.md) [+W]
@@ -37,8 +38,8 @@ A Mathematica framework and toolkit that structures evidence gathering and decis
 
 ## Key Sources
 - Kate Place, Kara Conroy, Gregory Chojnacki. (2023). A Road Map for Building Evidence that Drives Learning and Improvement. Mathematica. https://www.mathematica.org/publications/a-road-map-for-building-evidence-that-drives-learning-and-improvement
-
 <!-- merged 2026-10-10 from theories/four-phase-me-evidence-building-approach ("Four-phase measurement and evaluation approach for evidence-based solution development"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Fedor Duzhin and Anders Gustafsson. (2018). Machine Learning-Based App for Self-Evaluation of Teacher-Specific Instructional Style and Tools. Educ. Sci. 2018, 8, 7. https://doi.org/10.3390/educsci8010007
 
 # Four-phase measurement and evaluation approach for evidence-based solution development
 

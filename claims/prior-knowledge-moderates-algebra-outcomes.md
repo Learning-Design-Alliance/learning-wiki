@@ -83,3 +83,4 @@ Two-way ANOVA on pre-post learning gains in the same 49-student classroom study.
 - [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — a narrower finding that bears on this claim
 - [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](prior-knowledge-moderates-incorrect-examples.md) — related
 - [Example-based assignments improve procedural performance for students in high-minority classrooms](example-based-assignments-high-minority-classrooms-procedural-gains.md) — related
+- [Animation-based teaching benefits high prior knowledge learners (g = 0.49) but not low prior knowledge learners (g = -0.16)](animations-effective-only-high-prior-knowledge.md) — related

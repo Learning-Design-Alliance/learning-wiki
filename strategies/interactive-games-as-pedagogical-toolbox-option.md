@@ -49,6 +49,7 @@ The authors conclude that interactive games such as PàN can enhance L2 vocabula
 - [Integrate digital games into the language curriculum to lower affective barriers and encourage L2 interaction](integrate-digital-games-lower-affective-barriers.md)
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Pace and vary gamified activities, and offer self-directed options, to mitigate learner fatigue](pace-and-vary-gamified-activities-to-mitigate-learner-fatigue.md)
+- [Use gamified information gap activities with time pressure and forced output to promote L2 oral interaction practice](gamified-information-gap-oral-interaction.md)
 
 ## Examples
 -

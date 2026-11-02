@@ -67,6 +67,7 @@ Test anxiety consumes working-memory resources during assessment, so its reducti
 - [Reduce math anxiety by addressing the anxiety rather than training math alone](address-anxiety-not-only-math-training.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 - [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
+- [Use CBT-based psycho-educational group skill training to help university students cope with future and trait anxiety](cbt-group-skill-training-for-future-anxiety-strategy.md)
 
 ## Examples
 - **Expressive writing before exams** — Ramirez & Beilock's classroom study had students write about test worries for 10 minutes before the final exam; anxious students nearly closed the performance gap with non-anxious peers.

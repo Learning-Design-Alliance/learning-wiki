@@ -49,3 +49,4 @@ Meta-analysis of studies on retention of pre-service teachers, computed with Hed
 - [Effect sizes differ significantly by educational level, with the highest effect at university level (ES = 2.254) and the lowest at primary level (ES = 0.936).](moderator-educational-level-effect.md) — related
 - [For attitude of pre-service teachers, Transformative Learning Theory had the highest effect size (d=1,4760, huge) and Problem Based Learning the lowest (d=-0,3949, classified as negligible)](transformative-learning-highest-attitude-pbl-lowest.md) — related
 - The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups — related
+- [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](lt-technique-significant-achievement-gains-french-literature.md) — related

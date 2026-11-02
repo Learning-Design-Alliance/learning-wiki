@@ -59,3 +59,4 @@ The authors' characterization of why AI feedback tools have attracted attention 
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — possibly the same claim (merge candidate)
 - [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — a narrower finding that bears on this claim
+- [Audio versus written group feedback showed no statistically significant difference on perceived timeliness of feedback on student progress](audio-group-feedback-timeliness-null.md) — related

@@ -52,3 +52,4 @@ Bayesian network meta-analysis of method satisfaction degree reported in 2 studi
 - [For learning interest and learning efficiency in TACE teaching, PBL combined with TBL ranked best, followed by PBL combined with CBL](pbl-tbl-best-learning-interest-efficiency-tace.md) — related
 - [For practical skills examination scores in TACE teaching, PBL combined with TBL ranked best, followed by PBL alone](pbl-tbl-best-practical-skills-scores-tace.md) — related
 - [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related
+- [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](lt-student-satisfaction-high-french-literature.md) — related

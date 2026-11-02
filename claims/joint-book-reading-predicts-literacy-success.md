@@ -147,3 +147,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Orthography scores increase with years of formal education and with number of books read per year](orthography-improves-with-education-and-books-read.md) — related
 - [Preschool attendance, home learning activities, and parental support buffer the association between low SES and lower cognitive and language outcomes](preschool-home-learning-parental-support-buffer.md) — related
 - [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](dialogic-reading-increases-ell-children-expressive-vocabulary.md) — a narrower finding that bears on this claim
+- [Initial parental support was more strongly associated with child emergent literacy skills at time 2 for intervention families than control families](redip-initial-support-predicts-literacy-gains-more.md) — a narrower finding that bears on this claim

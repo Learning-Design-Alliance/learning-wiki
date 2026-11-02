@@ -55,3 +55,6 @@ One-way ANOVA by proficiency level: VocTest 1 p = .011 (Level 2) and p = .003 (L
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
 - [The review reports that readers' proficiency, not the kind of schemata activated, moderates the benefit of pre-reading approaches](proficiency-moderates-prereading-benefit.md) — related
+- [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — related
+- [Students of different proficiency levels use computer textual glosses in a similar pattern, with no statistically significant difference in number of clicks](gloss-use-no-proficiency-difference-clicks.md) — related
+- [High-proficiency students made the largest vocabulary gains from gloss use, followed by mid and low proficiency students, in both productive and receptive knowledge](high-proficiency-largest-gloss-gains.md) — related

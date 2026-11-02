@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (122 show a difference, 24 mixed, 23 no difference) · 115 studies (58 causal, 27 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 115 report an effect size · 166 claims rest on one study
+> **Evidence** · 183 claims (132 show a difference, 26 mixed, 25 no difference) · 123 studies (65 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 123 report an effect size · 180 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -210,6 +210,20 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](../claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md) [+M] — instruction changes it
 - [In a randomized pilot study, students with high-functioning ASD receiving explicit vocabulary instruction showed a very strong effect size on knowledge of definitions compared with control peers](../claims/vocabulary-instruction-strong-effect-hfasd-pilot.md) [+M] — instruction changes it
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/tpr-improves-iranian-efl-childrens-vocabulary.md) [+M] — instruction changes it
+- [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](../claims/contextual-vocabulary-teaching-significant-gains-iranian-efl.md) [+M] — instruction changes it
+- [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](../claims/dynamic-task-type-better-vocabulary-gains.md) [+M] — instruction changes it
+- [Grammatical accuracy gains from written corrective feedback are retained at delayed post-test, but lexical accuracy gains are not](../claims/wcf-retention-grammar-lexical-split.md) [~M] — instruction changes it
+- [Incorporating the extensive reading approach into vocabulary instruction significantly improves high-intermediate EFL learners' lexical depth](../claims/er-vocabulary-instruction-improves-lexical-depth.md) [+M] — instruction changes it
+- [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+M] — instruction changes it
+- [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [-M] — instruction changes it
+- [Students gained more productive than receptive vocabulary knowledge, a disparity the authors attribute to the design and format of the tests](../claims/productive-exceeds-receptive-test-format.md) [~W] — instruction changes it
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' awareness of the evaluative and potency dimensions of deep vocabulary knowledge](../claims/semantic-mapping-improves-affective-dimension-awareness.md) [+M] — instruction changes it
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](../claims/semantic-mapping-improves-vocabulary-achievement.md) [+M] — instruction changes it
+- [The SMS group's vocabulary scores rose significantly from post-test to delayed post-test four weeks later](../claims/sms-group-significant-delayed-posttest-gain.md) [+M] — instruction changes it
+- [Treatment and control groups' WAT means differed by about 14 points (98.05 vs 83.95) with nearly equal standard deviations](../claims/wat-descriptive-means-treatment-control.md) [+M] — instruction changes it
+- [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](../claims/sms-vs-dictionary-no-posttest-difference.md) [-M] — instruction changes it
+- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](../claims/er-incidental-vocabulary-encounter-frequency.md) [+M] — instruction changes it
+- [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](../claims/sms-outperforms-dictionary-delayed-retention.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

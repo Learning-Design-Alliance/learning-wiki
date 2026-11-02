@@ -50,3 +50,4 @@ Written opinion forms from all experimental-group students plus semi-structured 
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
 - [The teacher and researcher judged the individualized tablet-group students more motivated than the control group, but report this as a subjective opinion](subjective-higher-motivation-individualized-group.md) — related
+- [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related

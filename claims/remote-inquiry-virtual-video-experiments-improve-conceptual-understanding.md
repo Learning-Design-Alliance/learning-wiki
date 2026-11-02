@@ -56,3 +56,4 @@ Pre-registered randomized experiment with N = 154 seventh-graders learning at ho
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
 - [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related
+- [Teaching quality improved only in the combined-intervention group and only during the first half of the program (measurement one to two), with an effect size of .44](teaching-quality-improved-first-half-only.md) — related

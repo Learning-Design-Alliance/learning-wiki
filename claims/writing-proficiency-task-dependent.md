@@ -53,3 +53,4 @@ Cross-sectional analysis of 372 preschoolers' performance across five writing ta
 - [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related
 - [Physicians revert to basic biomedical knowledge when faced with challenging clinical problems](physicians-revert-to-biomedical-knowledge-on-challenging-problems.md) — related
 - [Prephonological spellers do not show the syllable-length signature predicted by the hypothesized syllabic stage](no-syllabic-stage-in-prephonological-spelling.md) — related
+- [Third graders' text production performance varied by task type, with simpler lexical tasks easier than productive composition tasks](task-difficulty-pattern-text-production-subtests.md) — related

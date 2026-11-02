@@ -51,3 +51,4 @@ ANCOVA on Writing Apprehension Test scores in the same 74-student quasi-experime
 ## Related Claims
 - [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](process-writing-improves-academic-writing-success.md) — related
 - [The control group's writing skills also improved significantly over the 8 weeks under traditional instruction](control-group-also-improved-writing.md) — related
+- [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](wikis-reduce-writing-anxiety-efl.md) — related

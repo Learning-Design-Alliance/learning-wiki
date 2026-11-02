@@ -44,7 +44,8 @@ The authors recommend that because EI is only weakly related to academic success
 - [The authors argue academic grades are an unsuitable performance measure of EI in medical school because EI relates more to interpersonal and professional performance](../claims/grades-unsuitable-ei-measure-medical-school.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train school staff in emotional intelligence skills and embed them in the school curriculum](train-staff-ei-skills-curriculum-strategy.md)
 
 ## Examples
 -

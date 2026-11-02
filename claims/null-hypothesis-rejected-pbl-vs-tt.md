@@ -47,3 +47,4 @@ The review's overall conclusion from synthesizing 13 studies (8 RCTs, 5 nonrando
 ## Related Claims
 - [PBL methods produce significantly better radiographic interpretation skills than traditional teaching among dental students (pooled MD 0.54)](pbl-improves-radiographic-interpretation-skills.md) — a narrower finding that bears on this claim
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
+- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related

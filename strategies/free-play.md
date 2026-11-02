@@ -88,6 +88,7 @@ Free play supports holistic development — physical, social, cognitive, and cre
 - [Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms](schedule-intentional-learning-time-preschool.md)
 - [Design guided play environments that balance child-initiated curiosity with social scaffolding](guided-play-balances-curiosity-and-scaffolding.md)
 - [Future experiential learning interventions should apply self-efficacy-enhancing strategies such as self-regulation development, social support and playful motor-creativity activities](self-efficacy-strategies-future-experiential-pa-interventions.md)
+- [Use outdoor experiential activities engaging the five senses to activate adult learners' affective domain in environmental education](outdoor-five-senses-experiential-activities-adults.md)
 
 ## Examples
 - **Anji Play (China)** — a published approach in which children engage in extended outdoor self-directed play with large, open materials (ladders, barrels, planks) while teachers observe and document; teachers later discuss play stories with children ([https://www.anjiplay.com](https://www.anjiplay.com))

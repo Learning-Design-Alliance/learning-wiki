@@ -52,6 +52,8 @@ Based on the findings, the article recommends that science teachers, especially 
 - [Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.](strategy-constructivist-approach-recommendations.md)
 - [Adopt guided inquiry teaching method for light and sound waves with adequate teacher training](adopt-gitm-with-teacher-training-strategy.md)
 - [Organise seminars, conferences and workshops on modern instructional strategies such as Round-robin for chemistry teachers](seminars-workshops-on-round-robin-strategy.md)
+- [Create a constructivist learning environment in basic science while giving extra attention and tutorials to low ability students](constructivist-environment-extra-low-ability-attention-strategy.md)
+- [Use real-life examples within constructivist English teaching, while preparing for students who are not ready for independent learning](real-life-examples-constructivist-english-teaching.md)
 
 ## Examples
 -

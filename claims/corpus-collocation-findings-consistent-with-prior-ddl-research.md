@@ -47,3 +47,7 @@ The authors' narrative review of prior concordancing and data-driven learning st
 ## Related Claims
 - [Corpus-based instruction using COCA concordance lines improved EFL students' verb-noun collocation recognition more than traditional instruction](corpus-based-activities-improve-verb-noun-collocation-learning.md) — related
 - [The experimental group's collocation scores improved significantly from pretest to posttest after corpus-based instruction](experimental-group-significant-pre-post-gain-corpus-instruction.md) — related
+- [The corpus-tool production advantage is bounded: findings are limited to verb-noun collocations in one Turkish ELT setting](corpus-tool-collocation-findings-scope-limits.md) — related
+- [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — a narrower finding that bears on this claim
+- [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — related
+- [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related

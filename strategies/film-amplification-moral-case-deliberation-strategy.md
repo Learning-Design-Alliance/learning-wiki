@@ -43,7 +43,8 @@ The article proposes a concrete classroom procedure: screen a film with existent
 - [Ricoeur Hermeneutical Arc Film Interpretation](../theories/ricoeur-hermeneutical-arc-film-interpretation.md)
 
 ## Related Strategies
-- 
+
+- [Select short, entertaining films and allocate four sessions per theme to sustain motivation](short-entertaining-films-four-sessions-strategy.md)
 
 ## Examples
 -

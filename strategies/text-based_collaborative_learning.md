@@ -61,9 +61,11 @@ Collaboration around text works because it forces learners to articulate, defend
 5. Close with a synthesis step — individual writing or a co-authored summary — so the group's shared understanding is consolidated by each learner ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
+
 - [Collaborative Learning](collaborative-learning.md) — the broader family; text-based variants anchor interaction to a shared artifact, which stabilizes discussion
 - [Case-Based Learning](case-based-learning.md) — a text-based variant where the text is a narrative case requiring analysis
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a highly structured role-rotation protocol for text discussion
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 - **[Perusall](https://www.perusall.com)** — social annotation platform where students comment on shared readings; the annotation thread becomes the collaborative discussion, with analytics flagging confusing passages for instructors.

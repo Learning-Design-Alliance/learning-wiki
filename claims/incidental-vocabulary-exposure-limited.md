@@ -206,3 +206,4 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](delayed-posttest-vocabulary-decline-off-list-words.md) — a narrower finding that bears on this claim
 - [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](single-video-exposure-marginal-advantage-esp-comprehension.md) — related
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related
+- [Vocabulary acquisition from extensive reading varies with how often words are encountered, with knowledge of about two-thirds of target words enhanced](er-incidental-vocabulary-encounter-frequency.md) — related

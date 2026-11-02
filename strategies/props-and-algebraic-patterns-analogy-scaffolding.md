@@ -47,6 +47,7 @@ The article's recommendations state that geometry material "should be presented 
 ## Related Strategies
 
 - [Compose discovery groups mixing high, medium, and low ability so peers support lower-ability students](mixed-ability-discovery-grouping-strategy.md)
+- [Use dynamic mathematics software with guided discovery for math topics students find difficult](dynamic-software-guided-discovery-difficult-topics.md)
 
 ## Examples
 -

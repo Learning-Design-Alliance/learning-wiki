@@ -76,3 +76,5 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — a narrower finding that bears on this claim
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
 - [The experimental group's advantage persisted on a delayed posttest one week later, with scores 8.19% higher than the control group and a small-to-medium effect (d = −0.40) that was not statistically significant](audiovisual-listening-delayed-posttest-advantage.md) — related
+- [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related

@@ -50,3 +50,4 @@ Quasi-experimental learning study in one Hong Kong primary school: two teachers 
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
 - [Students taught by teachers using variation theory showed extremely better mastery of the supply-and-demand price concept than students taught without the theory](variation-theory-teaching-extreme-learning-gain-economics.md) — related
 - Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures — related
+- [Lesson study supported by a fractions resource kit significantly improved three of four facets of teachers' fractions knowledge, while control-group teachers did not improve](resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) — related

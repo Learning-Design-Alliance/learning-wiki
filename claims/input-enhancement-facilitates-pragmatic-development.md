@@ -52,3 +52,4 @@ Authors' interpretation in the Discussions section, not a separately tested resu
 - [The authors interpret the Vitamin-based triangles teaching as more effective because multi-sensory materials raise attention and motivation](multisensory-materials-attention-motivation-interpretation.md) — related
 - [Teaching interlanguage pragmatic features improves Iranian translation students' interpretation ability](ilp-instruction-improves-interpretation-ability.md) — related
 - [Iranian translation students are not successful in comprehending interlanguage pragmatic features prior to instruction](translation-students-lack-ilp-comprehension.md) — related
+- [Explicit instruction outperforms implicit instruction in boosting Iranian EFL learners' pragmatic performance of refusals](explicit-outperforms-implicit-refusal-instruction.md) — a narrower finding that bears on this claim

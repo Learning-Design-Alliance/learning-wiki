@@ -63,3 +63,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — related
 - [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite
 - [University students taught with a Blackboard-Mashup flipped classroom strategy scored significantly higher on an achievement test than students taught traditionally](fcrs-achievement-beats-traditional-instruction.md) — related
+- [Medical students in an integrated histology course scored significantly higher on the end-of-semester exam than non-participants taught traditionally](integrated-histology-higher-test-scores.md) — related

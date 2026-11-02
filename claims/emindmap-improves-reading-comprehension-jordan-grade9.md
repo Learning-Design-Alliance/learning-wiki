@@ -59,3 +59,6 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Graphic organizer strategy instruction improved vocabulary building scores of Jordanian university EFL students compared with traditional instruction](go-strategy-improved-efl-vocabulary-building.md) — related
 - [MSBLP remedial teaching produced significant gain-score differences over traditional teaching in English skills among grade-3 primary students](msblp-significant-gains-over-traditional-english-teaching.md) — related
 - [University students taught French reading with Prezi scored significantly higher on a post-test than students taught the traditional way](prezi-outperforms-traditional-french-reading-instruction.md) — related
+- [Concept mapping as a post-reading strategy significantly improves EFL learners' critical thinking ability](concept-mapping-improves-efl-critical-thinking.md) — related
+- [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
+- [The “SQP2RS via WTL” strategy produced significantly higher 10th-grade English reading comprehension scores than traditional teaching](sqp2rs-via-wtl-improves-reading-comprehension.md) — related

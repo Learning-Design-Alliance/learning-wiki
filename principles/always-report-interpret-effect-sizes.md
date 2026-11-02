@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (18 for, 13 mixed) · 32 studies (13 quant-synthesis, 9 causal, 5 review, 5 theoretical), `q1`–`q4` · 10 of 32 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (18 for, 14 mixed) · 33 studies (13 quant-synthesis, 10 causal, 5 review, 5 theoretical), `q1`–`q4` · 11 of 33 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](../claims/air-reading-gender-difference-not-significant.md) [~W]
 - [Across and within studies, researcher and developer measures show larger average effect sizes than broad and narrow measures, and narrow measures exceed broad measures by +0.07](../claims/researcher-developer-measures-larger-effect-sizes-full-sample.md) [~W]
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](../claims/rti-subgroup-effects-fsm-boys-not-secure.md) [~W]
+- [The control group's pre-test to post-test fluency decrease was not statistically significant but represented a medium effect (r=0.5)](../claims/spaceteam-control-pre-post-decline-medium-effect.md) [~W]
 
 ## Related Principles
 

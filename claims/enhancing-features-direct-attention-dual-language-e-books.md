@@ -72,3 +72,4 @@ Study 1 enhanced Mandarin condition: during animation children's "PLT to the tar
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](no-language-preference-single-language-silent-reading.md) — related
 - [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — a broader claim this one bears on
+- [Animated e-books mediated preschool children's interactions with text similarly to adult facilitation, supporting group reading, collective anticipation, and peer social exchanges](ebooks-mediate-childrens-text-interactions.md) — related

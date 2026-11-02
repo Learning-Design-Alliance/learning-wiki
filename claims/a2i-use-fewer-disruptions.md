@@ -50,3 +50,4 @@ Observational analysis of the randomized trial's classroom video coding linked t
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
 - [Teachers' time spent using A2i predicted students' word reading gains, with about 0.1 GE per 100 extra minutes of use](a2i-teacher-usage-predicts-gains.md) — related
+- [Students in classrooms of coached teachers showed more cooperation, less noncooperation, and fewer socially disruptive behaviors than students in comparison classrooms](coaching-improves-observed-student-behavior.md) — related

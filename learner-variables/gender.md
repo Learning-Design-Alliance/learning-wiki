@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 469 claims (257 show a difference, 96 mixed, 116 no difference) · 314 studies (151 associational, 109 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 314 report an effect size · 461 claims rest on one study
+> **Evidence** · 471 claims (257 show a difference, 97 mixed, 117 no difference) · 316 studies (151 associational, 111 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 316 report an effect size · 463 claims rest on one study
 
 ## How to read this page
 
@@ -508,6 +508,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The role model letter lowered the DEW (fail/withdraw) rate for women in introductory psychology (OR = .38)](../claims/role-model-letter-lower-psychology-dew.md) [+M] — an instructional effect differs by group
 - [The role model letter lowered the DEW rate for women in introductory chemistry (OR = .23)](../claims/role-model-letter-lower-chemistry-dew.md) [+M] — an instructional effect differs by group
 - [The role model letter raised course grades for women in introductory chemistry with a medium-to-large effect (d = .66)](../claims/role-model-letter-higher-chemistry-grades.md) [+M] — an instructional effect differs by group
+- [Male and female clicker users did not differ significantly in ESP post-test scores, but only males improved significantly from pre-test to post-test](../claims/gender-differences-clicker-esp-gains.md) [~M] — an instructional effect differs by group
+- [No statistically significant difference in reading comprehension due to gender alone](../claims/no-gender-main-effect-reading-comprehension.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -75,3 +75,5 @@ Authors' summary of the HLM subscale analyses (Tables 3 and 4): the Ratio/Propor
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
 - [SBI shows no treatment effects on the Process and Applications subtest of the GMADE](sbi-no-effect-gmade-process-applications.md) — related
 - [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](sbi-retention-proportional-problem-solving-9-weeks.md) — related
+- [SBI significantly improves seventh-grade students' proportional problem solving at immediate posttest and at 11-week delayed posttest relative to business-as-usual instruction](sbi-improves-pps-post-and-delayed-full-sample.md) — related
+- [For students with mathematics difficulties, SBI significantly improves proportional problem solving at immediate and 11-week delayed posttests but not general mathematical problem solving](sbi-md-pps-post-and-delayed.md) — related

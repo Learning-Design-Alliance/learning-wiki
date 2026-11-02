@@ -45,6 +45,7 @@ The review recommends starting support for BVI students' propensity to lag in ma
 ## Related Strategies
 
 - [Add a gestures-teaching world to enable differentiated starting points, and expand content beyond linear equations](fh2t-differentiation-and-content-expansion-strategy.md)
+- [Teach complex mathematics topics such as algebra with differentiation and train teachers via in-service seminars](in-service-training-differentiation-complex-topics.md)
 
 ## Examples
 -

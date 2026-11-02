@@ -104,3 +104,4 @@ Ngo et al. (2024) support the general claim that ASR practice improves pronuncia
 - [The trial group improved a shortened FCE-style interview overall (p = 0.024), with significant gains in pronunciation, discourse and lexis but not grammar](phonics-prosody-course-improves-interview-skills.md) — related
 - [The control group showed no significant improvement in pronunciation accuracy without instruction or monitor training](control-group-no-pronunciation-improvement.md) — related
 - [Third-grade EFL students taught pronunciation with ASR software significantly outperformed peers taught with regular instruction](asr-outperforms-regular-pronunciation-instruction.md) — related
+- [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related

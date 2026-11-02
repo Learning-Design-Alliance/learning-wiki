@@ -53,3 +53,4 @@ Independent samples t-test on PMAT pre-test scores of the two intact 4th grade c
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [Before the intervention, experimental and control groups showed no statistically significant difference in written text production](pretest-no-difference-experimental-control.md) — a narrower finding that bears on this claim

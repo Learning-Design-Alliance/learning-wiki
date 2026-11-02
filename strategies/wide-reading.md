@@ -64,6 +64,7 @@ Reading volume is one of the strongest correlates of vocabulary growth, backgrou
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — wide reading builds the knowledge base that later activation draws on
 - [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
 - [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
+- [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
 
 ## Examples
 - **Reading Workshop (Teachers College / Units of Study)** — daily independent reading with conferring, built on large classroom libraries ([https://www.unitsofstudy.com](https://www.unitsofstudy.com))

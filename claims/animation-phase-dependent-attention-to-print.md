@@ -54,3 +54,4 @@ Study 1 phase analysis of the enhanced English condition: English text retained 
 - [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
 - [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related
 - [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](no-language-preference-single-language-silent-reading.md) — related
+- [Animated e-books mediated preschool children's interactions with text similarly to adult facilitation, supporting group reading, collective anticipation, and peer social exchanges](ebooks-mediate-childrens-text-interactions.md) — related

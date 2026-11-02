@@ -59,9 +59,11 @@ Discussion quality, not discussion presence, drives comprehension gains: approac
 5. Close with individual synthesis — a written position or exit response — so each learner consolidates the jointly constructed understanding, and provide [Feedback](../elements/feedback.md) on the quality of evidence use.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a highly structured text-discussion routine with rotating comprehension-strategy roles
 - [Socratic Seminar](../strategies/socratic-seminar.md) — a whole-class, question-driven variant emphasizing dialogue over debate
 - [Jigsaw](../strategies/jigsaw.md) — distributes text segments across groups, creating a text-based information gap that discussion must resolve
+- [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
 
 ## Examples
 - **Quality Talk** (Pennsylvania State University) — a research-validated small-group discussion program in which 4th–6th graders learn discussion prompts and take turns leading text conversations about reading selections; see [https://sites.psu.edu/qualitytalk/](https://sites.psu.edu/qualitytalk/)

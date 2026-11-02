@@ -75,3 +75,5 @@ Single-factor repeated-measures ANOVA for the control group; printed means pre-t
 - [Knowledge gained through performing-arts teaching persisted: permanence-test scores four weeks later showed no significant drop from posttest and remained higher than the control group](performing-arts-knowledge-permanence.md) — related
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
+- [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
+- [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related

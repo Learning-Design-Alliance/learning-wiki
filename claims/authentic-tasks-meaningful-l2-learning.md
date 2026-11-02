@@ -59,3 +59,4 @@ Theme 6 of the study's ten synthesized themes from qualitative analysis of SLA t
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
+- [Content analysis of students' Best Authentic Self narratives found relationships to be the key theme in authenticity development](relationships-key-authenticity-development.md) — related

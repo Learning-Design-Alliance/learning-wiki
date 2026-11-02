@@ -54,6 +54,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
+- [Use SMS as a complementary device for vocabulary instruction and assessment, including reciprocal testing](sms-complementary-vocabulary-instruction-strategy.md)
 
 ## Examples
 -

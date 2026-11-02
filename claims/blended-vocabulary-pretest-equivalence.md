@@ -57,3 +57,4 @@ Independent-samples t-test on pre-test scores of the same 40-learner randomized 
 - [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related
 - [Experimental and control groups showed no statistically significant difference in vocabulary performance before the intervention](wm-strategy-pretest-equivalence-efl.md) — related
 - [Experimental and control groups were equivalent in vocabulary knowledge before the intervention](pretest-equivalence-authentic-games-study.md) — possibly the same claim (merge candidate)
+- [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — possibly the same claim (merge candidate)

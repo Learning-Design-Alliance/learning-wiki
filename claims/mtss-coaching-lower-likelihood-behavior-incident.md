@@ -54,3 +54,4 @@ Multilevel logistic regression on 942 students in 111 homerooms with a dichotomo
 - [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
 - [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related
+- [Double Check coaching significantly reduced coached teachers' office discipline referrals of Black students relative to non-coached teachers, though this effect was sensitive to multiple-comparison adjustment](double-check-coaching-reduces-odrs-black-students.md) — related

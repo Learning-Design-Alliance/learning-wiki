@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (23 for, 27 mixed, 1 against) · 37 studies (10 associational, 7 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (24 for, 27 mixed, 1 against) · 38 studies (10 associational, 8 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 49 claims rest on one study
 
 ## Description and scope
 
@@ -170,6 +170,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Learner–learner interaction was perceived as significantly more work than learner–content interaction in an online asynchronous undergraduate course](../claims/learner-learner-interaction-perceived-more-work-than-learner-content.md) [~W]
 - [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](../claims/no-task-courses-low-posting-activity.md) [+W]
 - [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](../claims/blackboard-more-balanced-participation-than-face-to-face.md) [+W]
+- [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](../claims/lister-four-elearning-design-themes.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

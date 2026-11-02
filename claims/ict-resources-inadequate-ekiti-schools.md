@@ -50,3 +50,4 @@ Descriptive survey component of the study using the 21st Century E-classroom que
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — a broader claim this one bears on
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
 - [An information gap exists among secondary school teachers and students despite ICT provision claims](information-gap-teachers-students-ict.md) — related
+- [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related

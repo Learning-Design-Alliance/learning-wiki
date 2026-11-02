@@ -50,3 +50,4 @@ Qualitative interviews conducted repeatedly throughout the project to assess stu
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Qualitative findings showed increased student motivation toward English class and learning vocabulary through videogames](videogame-motivation-qualitative-increase.md) — related
+- [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related

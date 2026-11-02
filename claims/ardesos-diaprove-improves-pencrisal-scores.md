@@ -53,3 +53,5 @@ Pre-post comparison on the PENCRISAL test (35 open-answer items across five fact
 - [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — related
 - [The ARDESOS program produced a significant pre-post improvement in overall critical thinking scores](ardesos-significant-total-critical-thinking-gain.md) — related
 - [Students taught with the DIAPROVE methodology outperformed the ARDESOS-only group in deductive reasoning](diaprove-better-deductive-reasoning.md) — related
+- [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](ardesos-v2-significant-pre-post-gains-except-decision-making.md) — reports the opposite
+- [Decision making was the one critical thinking dimension that did not significantly improve under ARDESOS v.2, unlike problem solving](decision-making-not-significantly-improved-v2.md) — reports the opposite

@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (34 for, 11 mixed) · 36 studies (11 causal, 8 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (35 for, 12 mixed) · 37 studies (12 causal, 8 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,8 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [The authors conclude ABSI is one of the practices aiming to increase students' success and motivate participation in in-class dialogues](../claims/absi-conclusion-success-practice.md) [+W]
 - [Buzz group pre-writing technique improves descriptive writing scores more than conventional teaching](../claims/buzz-group-improves-descriptive-writing-scores.md) [+W]
 - [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](../claims/lit-teacher-views-benefits-and-limits.md) [~W]
+- [Group discussion as a pre-activity task has no significant effect on the writing ability of Iranian intermediate EFL learners](../claims/group-discussion-preactivity-no-significant-effect-writing.md) [~W]
+- [Posttest writing means favored the discussion group descriptively but the difference was not statistically significant](../claims/posttest-descriptive-means-not-significant.md) [+W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)

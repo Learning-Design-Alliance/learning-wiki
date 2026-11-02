@@ -50,3 +50,4 @@ Observational outcomes from the rural cluster-randomized trial, using partial in
 - [CBC improves teacher-reported school problems among rural K-3 students with disruptive behaviors more than business as usual](cbc-improves-teacher-reported-school-problems-rural.md) — related
 - [The teacher-parent relationship improves under CBC and partially mediates CBC effects on several student outcomes](teacher-parent-relationship-partially-mediate-cbc-effects.md) — related
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](tapp-rural-trial-behavior-problems-improvement.md) — related
+- [Students in classrooms of coached teachers showed more cooperation, less noncooperation, and fewer socially disruptive behaviors than students in comparison classrooms](coaching-improves-observed-student-behavior.md) — related

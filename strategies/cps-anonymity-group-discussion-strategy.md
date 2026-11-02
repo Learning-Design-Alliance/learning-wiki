@@ -47,6 +47,7 @@ The article recommends that instructors prepare CPS activities that promote acti
 - [Classroom Response Systems](classroom-response-systems.md)
 - [Response Devices](response_devices.md)
 - [Combine HOCS clicker questions with other critical-thinking techniques rather than relying on them alone](combine-hocs-clickers-with-critical-thinking-techniques.md)
+- [Use clickers as a supplementary tool to enhance ESP learners' performance, including embedding clicker activities in ESP course book iTools sets](clickers-supplementary-tool-esp-strategy.md)
 
 ## Examples
 -
