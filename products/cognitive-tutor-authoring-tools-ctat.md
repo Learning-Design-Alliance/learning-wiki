@@ -32,6 +32,7 @@ CTAT is Carnegie Mellon University's suite of authoring tools for building and d
 
 - [Web xPST](web-xpst.md)
 - [Tutorshop](tutorshop.md)
+- [Alice](alice.md)
 
 ## Key Sources
 - Aleven, V., McLaren, B. M., Sewall, J., van Velsen, M., Popescu, O., Demi, S., Ringenberg, M., & Koedinger, K. R. (2016). Example-Tracing Tutors: Intelligent Tutor Development for Non-programmers. International Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0088-2

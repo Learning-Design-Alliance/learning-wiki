@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 114 claims (50 for, 60 mixed, 4 against) · 87 studies (44 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 87 report an effect size · 105 claims rest on one study
+> **Evidence** · 116 claims (51 for, 61 mixed, 4 against) · 89 studies (46 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 89 report an effect size · 107 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
 - [Color coding does not improve learning about posterior probability from a simple table, and adds no benefit when combined with labeling](../claims/color-coding-no-learning-benefit-simple-table.md) [~W]
 - [Labeling improves undergraduates' learning about posterior probability from a text-and-table lesson](../claims/labeling-improves-posterior-probability-learning.md) [~W]
+- [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](../claims/roundhouse-diagrams-higher-achievement-test-posttest.md) [+W]
+- [No interaction was found between image type and test occasion in learning preposition senses with visual glosses](../claims/no-interaction-image-type-test-occasion.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

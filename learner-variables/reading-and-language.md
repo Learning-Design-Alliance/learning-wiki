@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (173 show a difference, 49 mixed, 61 no difference) · 191 studies (61 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 44 of 191 report an effect size · 274 claims rest on one study
+> **Evidence** · 286 claims (176 show a difference, 49 mixed, 61 no difference) · 194 studies (64 causal, 51 associational, 36 quant-synthesis, 27 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 44 of 194 report an effect size · 277 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -334,6 +334,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](../claims/lower-ability-students-benefited-most-peer-tutoring.md) [+M] — an instructional effect differs with it
 - [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+M] — instruction changes it
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](../claims/audiovisual-group-stable-retention-weeks.md) [-M] — instruction changes it
+- [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+M] — instruction changes it
+- [Reading strategy training improved reading comprehension for non-English majors over a five-week experiment](../claims/strategy-training-improves-reading-comprehension-non-english-majors.md) [+M] — instruction changes it
+- [Self-regulation based strategic reading education produces significantly higher reading comprehension post-test scores than the current program in 5th grade students](../claims/srl-reading-education-improves-comprehension.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

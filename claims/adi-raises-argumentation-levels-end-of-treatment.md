@@ -66,3 +66,4 @@ Descriptive analysis of student reports coded with the Erduran et al. framework 
 - [ADI-based laboratory instruction does not significantly change pre-service teachers' argumentativeness compared to traditional laboratory instruction](adi-no-change-argumentativeness.md) — reports the opposite
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
+- [Experimental and comparison teacher groups were comparable at pre-assessment, with no significant differences in complete argument description rates](vmc-pre-assessment-group-comparability.md) — related

@@ -45,6 +45,7 @@ The article describes drama activities as organized in a recurring three-stage s
 ## Related Designs
 
 - [Creative drama unit plan structured as sequenced sessions with warm-up, improvisation, interim assessment and closing activities](creative-drama-session-sequence-pattern.md)
+- [Five warm-up and game-based speaking activities used in the ABL treatment](abl-speaking-activities-set.md)
 
 ## Examples
 -

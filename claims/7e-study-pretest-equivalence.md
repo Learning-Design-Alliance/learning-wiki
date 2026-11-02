@@ -58,3 +58,5 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [The experimental and control groups were statistically equal in achievement on the structure and properties of matter at pretest](pbl-groups-equal-pretest-spmat.md) — related
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
+- [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

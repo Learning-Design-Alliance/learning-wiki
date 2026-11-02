@@ -42,6 +42,7 @@ Discussion groups, homogeneous or heterogeneous, help pupils analyze content, qu
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 - [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
 - [Learning Journals](learning-journals.md)
+- [Use newspaper science articles as the entry point, then pair them with hands-on experiments and cooperative group reporting to trigger interest](newspaper-article-entry-with-experiments-and-group-reports.md)
 
 ## Examples
 -

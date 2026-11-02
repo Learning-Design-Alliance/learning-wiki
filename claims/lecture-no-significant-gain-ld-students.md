@@ -53,3 +53,4 @@ Pre-test/post-test analysis of 25 control-group LD students taught by lecture; T
 - [Lecture-taught LD students remain significantly behind normal-group students at post-test](lecture-ld-behind-normal-group.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Senior secondary Geography students taught with PowerPoint presentation scored significantly higher on post-test achievement than students taught with the lecture method](powerpoint-outperforms-lecture-geography-achievement.md) — related
+- [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — reports the opposite

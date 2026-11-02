@@ -49,3 +49,4 @@ The commentary proposes, citing Anastasi and Urbina (1997), that researchers can
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
 - [A free-reproduction comprehension test (Brown) is not a valid measure of comprehension](brown-free-reproduction-invalid-comprehension-measure.md) — related
+- [The final test variants met reliability criteria: split-half correlations exceeded the critical value and the Brown-Spearman reliability coefficient was 0,8](test-reliability-splithalf-brown-spearman.md) — related

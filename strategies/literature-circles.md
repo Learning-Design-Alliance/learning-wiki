@@ -88,6 +88,7 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Collaborative Strategic Reading](../products/collaborative-strategic-reading.md) — applies similar group structures to strategy instruction in content-area text
+- [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
 
 ## Examples
 - A sixth-grade teacher offers six novel choices; students pick a book, a discussion theme, and a final project — producing maps, acrostic poems, and timelines tied to their texts

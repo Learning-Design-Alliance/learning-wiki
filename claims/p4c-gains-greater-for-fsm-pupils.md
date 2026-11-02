@@ -50,3 +50,4 @@ Pre-specified subgroup analysis of the same school-level randomised trial, restr
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
+- [The absenteeism reduction appeared larger in the Key Stage 4 cohort than in Key Stage 3](pep-absenteeism-effect-larger-ks4.md) — related

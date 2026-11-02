@@ -122,6 +122,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - 3-2-1 Reflection — a structured variant that adds connection-making and question generation
 - Do-Now / Bell Ringer — the bookend routine at the start of class; together they bracket each lesson with retrieval
 - [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
+- [Implement the ticket to retention: distribute one to five target questions, have students write answers, discuss with two classmates, listen, revise, and submit](ticket-to-retention-procedure.md)
 
 ## Examples
 - **3-2-1 ticket in a biology class**: after a photosynthesis lesson, students write three inputs, two outputs, one question; the instructor sorts tickets and opens the next class by resolving the five most common questions

@@ -48,3 +48,4 @@ ANOVA (Table 5) on identification scores of 120 JSS1 students: two-dimensional g
 - [No significant difference was found in drawing-skill acquisition between male and female students taught with two- and three-dimensional visual objects](no-gender-difference-drawing-visual-objects.md) — related
 - [Three-dimensional visual objects produced higher post-test drawing performance than two-dimensional visual objects, and both experimental groups outperformed the control group](three-dimensional-objects-outperform-two-dimensional-drawing.md) — related
 - [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related
+- [MIT-based teaching produced significantly higher success-test scores than conventional teaching in 8th-grade visual arts (miniature picture topic)](mit-teaching-higher-success-scores-visual-arts.md) — related

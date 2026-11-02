@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (36 for, 25 mixed, 3 against) · 58 studies (37 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 13 of 58 report an effect size · 59 claims rest on one study
+> **Evidence** · 65 claims (37 for, 25 mixed, 3 against) · 59 studies (38 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 14 of 59 report an effect size · 60 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -100,6 +100,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [A science learning video integrated with a local MHP plant improves junior high students' concept mastery more than PowerPoint images-narration](../claims/mhp-video-improves-concept-mastery-gain.md) [+W] — attached 2026-11-02 from Wilujeng et al. (2020), which proposed "Expert-validated science learning video integrating the Wukirsari Village MHP plant, released on YouTube"; tests this page's relationship.
 - [The author reports clear evidence that multimedia application supported vocabulary acquisition development among Chinese EFL learners over one semester](../claims/multimedia-vocabulary-effectiveness-reported.md) [+W]
 - [80% of students did not agree to integrate multimedia-based vocabulary instruction into their curriculum despite its reported effectiveness](../claims/multimedia-curriculum-integration-rejected.md) [-W]
+- [Undergraduates taught Solar System moon content in an immersive fulldome planetarium retained a moderate gain (ES = 0.371) at delayed post-test, while non-immersive and no-visualization groups retained almost none](../claims/fulldome-immersion-greater-retention-moons.md) [+W] — attached 2026-11-02 from Yu et al. (2016), which proposed "Uniview fulldome virtual tour of Solar System moons at Gates Planetarium"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

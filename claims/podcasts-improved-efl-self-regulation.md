@@ -48,3 +48,4 @@ Mixed-methods study of 54 female EFL students at an Iranian language institute; 
 - [Content Acquisition Podcasts produced significantly higher posttest scores than textbook-based instruction for preservice teachers](caps-experiment-higher-posttest-preservice-teachers.md) — related
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - [Comprehension of audio-only podcast-style clips is not significantly impaired at playback speeds up to 2.5x, though performance numerically declines with speed](audio-only-comprehension-preserved-up-to-2-5x.md) — related
+- [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related

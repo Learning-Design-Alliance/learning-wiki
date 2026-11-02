@@ -58,3 +58,4 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [The one pretest-post-test study (Li B et al.) found significant score improvement after ophthalmology teaching (p < 0.01)](pretest-posttest-significant-improvement-li-b.md) — related
 - [Competency level (β = 0.50) and training duration (β = 0.42) are the strongest predictors of ophthalmology education outcomes](regression-competency-duration-strongest-predictors.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
+- [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — related

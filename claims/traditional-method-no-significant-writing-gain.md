@@ -55,3 +55,4 @@ Paired-samples t-test on the control group's essay scores (N = 25); Table 3 repo
 - [Control-group children taught by the traditional method also showed a small but statistically significant pre-to-post change in lack of attention scores](control-group-small-prepost-las-change.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — possibly the same claim (merge candidate)
+- [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related

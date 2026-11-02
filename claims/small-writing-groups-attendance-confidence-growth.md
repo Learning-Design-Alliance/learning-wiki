@@ -46,3 +46,4 @@ Focus group with Student Ambassadors who led the Small Writing Groups plus other
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — a broader claim this one bears on
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — related
+- [Students' journal entries and observed behaviour suggested increased writing self-confidence and interest](journal-excerpts-confidence-interest.md) — related

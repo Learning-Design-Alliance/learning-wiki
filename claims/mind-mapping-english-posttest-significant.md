@@ -47,3 +47,4 @@ Post-test comparison in the two-group experiment; Table 3 reports means of 3.83 
 ## Related Claims
 - [VIII standard students taught English grammar with mind mapping showed significantly higher gain scores than control-group students taught by the conventional method](mind-mapping-english-gain-scores-significant.md) — related
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related
+- [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](strategy-training-posttest-group-differences.md) — related

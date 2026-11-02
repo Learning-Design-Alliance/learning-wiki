@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest control-group study of 60 Turkish 6th grader
 - [The attitude advantage of out-of-school learning environments persists three months after the intervention ends](out-of-school-attitude-gain-persists-three-months.md) — related
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — related
+- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science](newspapers-in-education-improved-attitude-toward-science.md) — related

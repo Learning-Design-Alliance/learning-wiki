@@ -67,6 +67,7 @@ Morphological analysis functions as a generative decoding strategy: a few hundre
 - **Context-clue instruction** — complementary; roots and context are jointly more powerful than either alone
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 - [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
+- [Teach vocabulary by explicitly instructing learners in cognate structures between their first language and English](explicit-cognate-awareness-instruction-strategy.md)
 
 ## Examples
 - **Greek and Latin roots curricula** such as *Wordly Wise 3000* and *Vocabulary from Classical Roots* (Educators Publishing Service) organize instruction around morpheme families.

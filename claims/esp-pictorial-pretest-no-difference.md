@@ -54,3 +54,4 @@ Independent t-test on pretest scores of the two groups (experimental M=18.04, SD
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](pictorial-context-improves-esp-reading-comprehension.md) — related
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — related
+- [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — related

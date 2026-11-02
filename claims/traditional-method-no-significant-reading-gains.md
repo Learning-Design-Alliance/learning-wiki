@@ -55,3 +55,5 @@ Control group of 20 students at GJSS Makera received normal reading comprehensio
 - [Skill-based teaching alone produced no statistically significant pre-to-post gain in reading comprehension in the control group](skill-based-teaching-no-significant-gain.md) — possibly the same claim (merge candidate)
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — possibly the same claim (merge candidate)
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
+- [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related
+- [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related

@@ -60,3 +60,4 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related
 - [A science learning video integrated with a local MHP plant improves junior high students' concept mastery more than PowerPoint images-narration](mhp-video-improves-concept-mastery-gain.md) — related
+- [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related

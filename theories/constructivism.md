@@ -100,6 +100,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Constructive alignment (Biggs & Tang) as a student-centered framework for aligning learning outcomes, teaching-and-learning activities, and assessment tasks](../designs/constructive-alignment-biggs-tang-framework.md)
 - [Three-theory design framework for the VFT module: constructivism, information processing, and Mayer's Cognitive Theory of Multimedia Learning](../designs/vft-module-three-theory-design-framework.md)
 - [Use real programmable robots with constructivist methods to teach programming basics to novices](../strategies/real-robots-constructivist-programming-strategy.md)
+- [Develop inquiry-based learning that explicitly emphasizes regulation of cognition, especially information management, monitoring, evaluating, and debugging](../strategies/inquiry-emphasizing-regulation-of-cognition.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

@@ -58,3 +58,4 @@ Subgroup intention-to-treat analyses of the pilot RCT for pupils eligible for fr
 - [Among FSM-eligible pupils, music workshops showed no impact on attainment relative to the drama control](asp-fsm-pupils-no-music-attainment-impact.md) — related
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
+- [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related

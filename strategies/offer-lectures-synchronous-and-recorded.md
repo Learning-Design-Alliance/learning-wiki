@@ -43,6 +43,7 @@ The report describes a strategy that emerged at the case study institutions: "Bu
 - [Pre-recording Instructional Videos](pre-recorded_instructional_video.md)
 - [Design course content with sufficient incentive for both lecture attendance and recording viewing](design-content-incentivise-attendance-and-viewing.md)
 - [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
+- [Record discipline-specific writing videos and scholar interviews online so students in unstreamed first-year courses can access writing instruction relevant to their field](recorded-disciplinary-writing-videos-interviews.md)
 
 ## Examples
 -

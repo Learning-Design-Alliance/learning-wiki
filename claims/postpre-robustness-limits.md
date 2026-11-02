@@ -47,3 +47,4 @@ Figure 4 analysis of Post-Pre gains: with only n=39 Group I students present for
 ## Related Claims
 - [Undergraduates taught seasons with immersive planetarium visualizations show larger quiz gains (ES=0.696 Cont-Pre; ES=0.741 Post-Pre) than peers taught with the same visualizations on a flat classroom screen or with no visualizations](planetarium-seasons-larger-gains.md) — related
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](classroom-visualization-no-advantage.md) — related
+- [Undergraduates taught Solar System moon content in an immersive fulldome planetarium retained a moderate gain (ES = 0.371) at delayed post-test, while non-immersive and no-visualization groups retained almost none](fulldome-immersion-greater-retention-moons.md) — related

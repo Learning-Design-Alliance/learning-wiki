@@ -50,3 +50,4 @@ ANCOVA (Table 7) tested the gender-by-method interaction on overall achievement 
 - [Concept mapping instruction produces significantly higher basic science achievement than conventional teaching among Nigerian junior secondary students](concept-mapping-beats-conventional-basic-science-achievement.md) — related
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — reports the opposite
 - [No significant interaction between teaching method and gender on conceptual understanding of electric circuits](no-method-gender-interaction-electric-circuits.md) — related
+- [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — possibly the same claim (merge candidate)

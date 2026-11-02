@@ -56,3 +56,4 @@ The report states, based on correspondence with the study authors, that the Carl
 - [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](feedback-quality-no-language-status-difference.md) — related
 - [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](el-english-speaker-gap-increasing-statewide.md) — related
 - [Fall oral vocabulary skills did not moderate TRI treatment effects for struggling English learners on any outcome](oral-vocabulary-no-moderation-tri-effects.md) — related
+- [The language variable only partially affected reading habits: native speakers read and finished more books in some comparisons, with no differences on other variables](language-variable-partial-effect.md) — related

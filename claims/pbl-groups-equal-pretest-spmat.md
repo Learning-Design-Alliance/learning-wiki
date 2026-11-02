@@ -50,3 +50,4 @@ Independent samples t-test on pre-SPMAT scores of the 38 students (18 experiment
 - [Before treatment, the Logo and control groups showed no statistically significant difference in achievement on two-dimensional shapes](logo-pretest-no-significant-difference.md) — related
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — a broader claim this one bears on
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

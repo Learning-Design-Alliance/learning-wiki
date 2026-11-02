@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 224 claims (168 show a difference, 32 mixed, 24 no difference) · 179 studies (59 associational, 45 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 34 of 179 report an effect size · 220 claims rest on one study
+> **Evidence** · 226 claims (170 show a difference, 32 mixed, 24 no difference) · 180 studies (59 associational, 46 causal, 31 review, 18 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 35 of 180 report an effect size · 222 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -255,6 +255,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](../claims/reading-behaviour-proxy-indicators-confidence-vocabulary.md) [+M] — instruction changes it
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](../claims/switch-on-staff-positive-perceptions.md) [+M] — instruction changes it
 - [Teacher self-efficacy did not predict adherence, and higher Student Engagement self-efficacy predicted lower growth in competence](../claims/self-efficacy-not-predicting-integrity.md) [~M] — learners who differ on it differ in outcomes
+- [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [+M] — instruction changes it
+- [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](../claims/traditional-instruction-decreases-motivation-subscales.md) [+W] — instruction changes it
 
 ## The evidence by question
 

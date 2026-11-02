@@ -55,3 +55,4 @@ Subgroup IPD meta-analysis of literacy outcomes by Key Stage (Table 9), based on
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related
 - [P4C gains at Key Stage 2 were greater for FSM-eligible pupils in all subjects](p4c-gains-greater-for-fsm-pupils.md) — related
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
+- [The absenteeism reduction appeared larger in the Key Stage 4 cohort than in Key Stage 3](pep-absenteeism-effect-larger-ks4.md) — related

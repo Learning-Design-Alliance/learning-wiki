@@ -49,3 +49,4 @@ Ranking exercise on the main questionnaire with points assigned 3/2/1/0 across f
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Perceived handset drawbacks (unreliability, setup time) did not substantially alter students' positive perceptions of handset usefulness](evs-drawbacks-do-not-undermine-usefulness.md) — related
 - [Around 80% of engineering students found EVS handsets useful or very useful for their Mathematics learning](evs-students-rate-handsets-useful.md) — related
+- [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related

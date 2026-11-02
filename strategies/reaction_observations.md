@@ -57,8 +57,10 @@ Structured observation tasks give young learners concrete experiences on which l
 6. Consolidate through [Application](../elements/application.md) — e.g., predicting what will happen with a new liquid pair — and [Practice](../elements/practice.md) with a fresh example.
 
 ## Related Strategies
+
 - [Prediction-observation-explanation](prediction-observation-explanation.md) — a formalized version of the predict-then-observe cycle used here
 - [Activating prior knowledge](activating-prior-knowledge.md) — everyday liquid experiences (juice mixing, paint bleeding) anchor the new observations
+- [Emphasize rich materials and varied scientific activities, and spread GEMS-style education in preschool settings](gems-rich-materials-spread-strategy.md)
 
 ## Examples
 - **Colored Dots (NYSED elementary science)** — learners place a dot of colored ink on paper, touch it with a wet brush, and observe the ink bleeding into concentric color bands, then describe the spread.

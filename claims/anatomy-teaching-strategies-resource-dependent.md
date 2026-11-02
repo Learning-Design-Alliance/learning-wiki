@@ -50,3 +50,4 @@ Narrative synthesis across included studies in the scoping review's discussion; 
 - No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — related
+- [Cognitive and creative results were 12% higher at the university with better laboratory equipment than at the two comparison universities](better-equipment-12-percent-higher-results.md) — related

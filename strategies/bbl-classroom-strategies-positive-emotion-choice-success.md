@@ -45,6 +45,7 @@ The article recommends concrete teaching practices derived from its brain-based 
 - [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](autonomy-supportive-context-components.md)
 - [Design feedback conditions in which students feel understood, respected, and invited to actively process feedback, supporting emotion regulation](feedback-conditions-supporting-emotion-regulation.md)
+- [Adopt brain-based learning methods and teacher workshops in chemistry and science teaching](adopt-bbl-methods-and-teacher-workshops.md)
 
 ## Examples
 -

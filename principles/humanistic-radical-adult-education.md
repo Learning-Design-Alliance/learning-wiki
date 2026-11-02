@@ -27,7 +27,7 @@ sources:
 # Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (12 for, 4 mixed) · 12 studies (5 theoretical, 3 qualitative, 2 associational, 2 design), `q1`–`q3` · 1 of 12 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (13 for, 4 mixed) · 13 studies (5 theoretical, 3 qualitative, 2 associational, 2 design, 1 causal), `q1`–`q3` · 1 of 13 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Feeling heard, voicing a view, explaining a problem systemically, imagining an a
 ## Claims
 
 - [Participants at the independent school valued the intervention's non-judgmental stance and being positioned as experts of their own lives](../claims/nonjudgmental-expert-position-benefit.md) [+W]
+- [Intervention students' essays conveyed personal voice and agency, while control students tended to reproduce textbook content](../claims/intervention-essays-personal-voice-vs-textbook.md) [+W]
 
 ## Related Principles
 

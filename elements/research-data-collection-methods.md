@@ -13,7 +13,7 @@ generated:
 # Research Data Collection Methods
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
@@ -44,6 +44,7 @@ People tend to change their behavior when they know they're being watched — th
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](../claims/eye-tracking-classroom-naturalistic-contexts.md) [+W]
 - [Self-report survey measures of integrity may diverge from actual behaviour, as illustrated by participants' self-perceptions versus admitted conduct](../claims/self-report-diverges-from-behaviour-ri.md) [+W]
 - [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](../claims/self-reports-unreliable-for-attitude-change.md) [~W]
+- [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](../claims/pbe-no-pedagogical-practice-effect.md) [~W]
 
 ## Related Elements
 

@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 86 claims (33 for, 49 mixed, 4 against) · 72 studies (26 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 18 of 72 report an effect size · 79 claims rest on one study
+> **Evidence** · 88 claims (35 for, 49 mixed, 4 against) · 73 studies (27 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 18 of 73 report an effect size · 81 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,8 @@ Re-read against the model on 2026-10-19 (wave 2): the nine claims listed here an
 - [Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]. Read 2026-10-19: a correlational null (167 teachers, 2,785 students), equivalence not tested; it does not change the teacher row.
 - [Teachers' SRL&T module scores improved modestly over the year, with Adam improving more (three to six points) than Ben (five to six)](../claims/srlt-module-scores-improvement-adam-ben.md) [~W]. Read 2026-10-19: a two-teacher case study of teaching modules; consistent with the teacher row but too local to add a condition.
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](../claims/metacognitive-strategy-literary-books-posttest-reading-comprehension.md) [+W] — attached 2026-11-01 from Erkan Çer (2016), which proposed "Three-phase metacognitive reading instruction: planning before, self-monitoring during, and self-evaluation after reading"; tests this page's relationship.
+- [Self-regulation based reading education significantly increases 5th graders' use of reading strategies relative to the current program](../claims/srl-reading-education-improves-reading-strategies.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Self-regulation based reading lesson plans structured in forethought, performance, and self-reflection phases with gradual responsibility transfer"; tests this page's relationship.
+- [Self-regulation based reading education significantly raises 5th graders' reading motivation relative to the current program](../claims/srl-reading-education-improves-reading-motivation.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Self-regulation based reading lesson plans structured in forethought, performance, and self-reflection phases with gradual responsibility transfer".
 
 ## Illustrative design instance and observation record
 

@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 166 claims (104 for, 50 mixed, 12 against) · 134 studies (30 review, 30 theoretical, 28 qualitative, 22 causal, 13 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 134 report an effect size · 162 claims rest on one study
+> **Evidence** · 167 claims (104 for, 51 mixed, 12 against) · 135 studies (30 review, 30 theoretical, 28 qualitative, 23 causal, 13 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 135 report an effect size · 163 claims rest on one study
 
 ## Conditional relationship
 
@@ -289,6 +289,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](../claims/virtual-labs-cannot-replace-hands-on-learning.md) [~W]
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](../claims/overreliance-superficial-learning-risk.md) [+W]
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](../claims/unconstrained-chat-negative-patterns.md) [+W]
+- [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](../claims/volta-attitudes-positive-with-ta-mixed-without.md) [~W]
 
 ## Related Principles
 

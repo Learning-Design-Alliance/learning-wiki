@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (28 for, 23 mixed, 1 against) · 55 studies (14 causal, 13 quant-synthesis, 8 review, 6 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 55 report an effect size · 44 claims rest on one study
+> **Evidence** · 53 claims (29 for, 23 mixed, 1 against) · 56 studies (15 causal, 13 quant-synthesis, 8 review, 6 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 56 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Claims that bear on peer learning but do not change the model above, each with w
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W] (not about this page): compares teacher feedback with two kinds of AI feedback; no peer condition.
 - [This issue's peer-review study is reported to find fine-grained matching by prior performance is needed to yield a significant effect of pairing, unlike coarse-grained matching](../claims/fine-grained-skill-matching-needed-peer-review.md) [~W]: read 2026-10-19 (wave 2). A journal editorial's one-sentence report of a secondary analysis of peer review in three large classes, with no statistics, and it does not say which way the matching ran (similar or different prior performance); it suggests that how reviewers are paired by prior performance matters but cannot set a pairing rule, so the advanced-learner row and the pattern's mixed-attainment assignment stand.
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](../claims/peer-tutoring-biology-posttest-achievement.md) [+W] — attached 2026-11-01 from Irfan Ullah et al. (2018), which proposed "Use peer tutoring as a supplementary, highly structured and supervised instructional technique"; tests this page's relationship.
+- [Peer teaching produced significantly higher mathematics achievement than no peer teaching among low-scoring undergraduate female students in Oman](../claims/peer-teaching-improves-math-achievement-undergraduate-oman.md) [+W] — attached 2026-11-02 from Abdelkarim et al. (2016), which proposed "Instructors should use peer teaching to help students increase their mathematics achievement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

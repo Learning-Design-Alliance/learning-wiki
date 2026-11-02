@@ -95,3 +95,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Both interventions were implemented with high fidelity, good program coverage, high attendance, and low attrition](tier2-interventions-high-fidelity-implementation.md) — related
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — a narrower finding that bears on this claim
 - [Teachers implemented the inductive vocabulary model with fidelity in regular classroom settings](vocabulary-intervention-implementation-fidelity.md) — related
+- [ATC was implemented with fidelity in four of five program components in both implementation years, with little cross-site variation](atc-fidelity-four-of-five-components.md) — a narrower finding that bears on this claim

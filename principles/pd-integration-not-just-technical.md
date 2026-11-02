@@ -18,7 +18,7 @@ sources:
 # Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (15 for, 4 mixed) · 17 studies (5 qualitative, 4 review, 4 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (16 for, 4 mixed) · 18 studies (5 qualitative, 4 review, 4 associational, 2 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 18 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,7 @@ Claims found while rewriting this page that bear on it but are not part of the m
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](../claims/teacher-technology-training-gap.md) [+M]: context; does not separate technical from integration training.
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](../claims/technology-training-spending-inadequate.md) [+W]: 1998–1999 spending projections; context for budgeting PD, not evidence on its content.
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [+W]: seven expert interviews; the claim's evidence entry speaks of superficial, device-focused integration but does not itself mention teacher training.
+- [Teachers in the Math Supplement condition reported significantly greater increases in teaching shapes, numeracy, and patterns with technology than Technology & Media teachers](../claims/supplement-teachers-increased-technology-math-teaching.md) [+M] — attached 2026-11-02 from Llorente et al. (2015), which proposed "Pair well-designed digital math resources with a cohesive curriculum and adequate teacher supports rather than leaving teachers to select technology resources piecemeal".
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Independent-samples t-test on posttest scores of the 39-student experimental and
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — reports the opposite
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [On a control-aligned portal test taken immediately after instruction, GPA-based groups showed no significant difference from the control group](epa-posttest-no-difference.md) — related
+- [Using a WebQuest significantly enhances 4th graders' spiritual intelligence in favor of the experimental group](webquest-enhances-spiritual-intelligence-experimental.md) — related

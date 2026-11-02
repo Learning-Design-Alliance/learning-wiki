@@ -58,3 +58,4 @@ Subgroup analysis comparing FSM-eligible survey volunteers in treatment schools 
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
 - [School-based uniformed youth group participation showed no evidence of benefit for pupils' academic attainment, with small negative but low-quality effect estimates](youth-united-no-attainment-benefit.md) — related
 - [Participation in uniformed youth groups is associated with small improvements in self-reported self-confidence and teamwork](youth-united-small-non-attainment-gains.md) — related
+- [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related

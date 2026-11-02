@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (66 show a difference, 33 mixed, 17 no difference) · 48 studies (18 associational, 15 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 18 of 48 report an effect size · 114 claims rest on one study
+> **Evidence** · 118 claims (67 show a difference, 34 mixed, 17 no difference) · 49 studies (18 associational, 16 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 49 report an effect size · 116 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -151,6 +151,8 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [GIS-based teaching produced significantly higher post-test mastery goal scores than traditional teaching among underachieving Geography students, with a medium-sized between-group effect at post-test](../claims/gis-teaching-higher-mastery-goal-underachievers.md) [+M] — instruction changes it
 - [Mind-map task planning raises pre-service teachers' intrinsic goal orientation and self-efficacy more than direct task completion](../claims/mind-map-planning-raises-goal-orientation-self-efficacy.md) [+M] — instruction changes it
 - [Student interviews were consistent with the quantitative findings: experiment group students reported excitement and goal achievement, while two control group students reported being unable to achieve their learning goal](../claims/interviews-consistent-gis-mastery-goal.md) [+W] — instruction changes it
+- [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [~M] — instruction changes it
+- [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](../claims/traditional-instruction-decreases-motivation-subscales.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

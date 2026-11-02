@@ -57,3 +57,4 @@ Focus group thematic analysis: students described stress from being made to sing
 - [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
+- [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related

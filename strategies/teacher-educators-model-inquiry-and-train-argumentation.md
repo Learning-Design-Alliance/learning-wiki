@@ -49,6 +49,7 @@ Based on the finding that inquiry-based instruction promoted argumentation skill
 ## Related Strategies
 
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
+- [Prepare teachers for inquiry-based instruction through intensive professional development plus ongoing mentorship before classroom implementation](intensive-pd-plus-mentorship-for-ibi-implementation.md)
 
 ## Examples
 -

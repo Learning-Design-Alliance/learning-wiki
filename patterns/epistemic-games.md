@@ -146,6 +146,7 @@ This pattern is scoped to learning one profession's way of deciding through a gu
 - *Full Spectrum Warrior* — players think and act as a professional soldier, with military doctrine distributed between the player and AI-controlled squad members
 - SimCity integrated into a high-school economics unit, where students build and defend a functioning city and encounter economic principles through the consequences of their design choices
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
+- [Statecraft X](../products/statecraft-x.md)
 
 ## Key Sources
 - Shaffer, D. W., Squire, K. R., Halverson, R., & Gee, J. P. (2005). Video games and the future of learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning](https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning)

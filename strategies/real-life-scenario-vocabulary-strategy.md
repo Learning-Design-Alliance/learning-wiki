@@ -47,6 +47,7 @@ The article recommends implementing authentic problem-based tasks in language cl
 
 - [Authentic Writing Tasks](authentic-writing-tasks.md)
 - [Practice Responsible Decision-Making](practice_responsible_decision-making.md)
+- [Recommend PBL for high school chemistry teaching with daily-life scenarios](recommend-pbl-high-school-chemistry-scenarios.md)
 
 ## Examples
 -

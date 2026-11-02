@@ -58,3 +58,4 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Demographic characteristics (gender, age, SES, school type, race/ethnicity) were only small correlates of high school students' school feelings, explaining less than 9% of variance in positive and less than 6% in negative feelings](demographics-small-correlates-school-feelings.md) — related
 - [Missing questionnaire data are positively related to being male and negatively related to prior grades in math and language arts](missingness-linked-gender-prior-grades.md) — related
 - [Demographic covariates showed modest baseline differences by age, ethnicity, and gender but no difference in rate of change](demographic-covariates-baseline-no-change-rate-difference.md) — related
+- [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — reports the opposite

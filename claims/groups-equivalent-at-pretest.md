@@ -74,3 +74,4 @@ Mann-Whitney test on questionnaire pretest scores; mean ranks were 42.04 (experi
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [TBLT increased EFL junior high students' motivation significantly more than traditional instruction](tblt-increases-motivation-efl-junior-high.md) — related
 - [The experimental and control groups were statistically homogeneous in speaking ability before the treatment](groups-homogeneous-speaking-pretest.md) — related
+- [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — related

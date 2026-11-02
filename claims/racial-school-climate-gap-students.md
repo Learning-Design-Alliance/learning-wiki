@@ -82,3 +82,4 @@ Two reports using Cal-SCHLS data from different years confirmed significant conn
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](minoritized-students-belonging-peer-fixed-mindset.md) — related
 - [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](empathetic-care-math-connectedness.md) — related
+- [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](e-emr-race-ethnicity-moderated-benefits.md) — related

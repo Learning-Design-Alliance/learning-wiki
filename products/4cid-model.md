@@ -13,7 +13,7 @@ generated:
 # 4C/ID-model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The Four-Component Instructional Design model is a framework developed by van Merriënboer and colleagues for designing training programs that support complex skill acquisition and transfer.
@@ -23,9 +23,11 @@ The Four-Component Instructional Design model is a framework developed by van Me
 - **4C/ID model as a blueprint for complex learning**: The 4C/ID model, authored by the first author of this review, is cited in the article's reference list as "Blueprints for complex learning: The 4C/ID-model" (van Merriënboer, Clark, and de Croock, 2002a). It represents a blueprint approach to designing complex learning consistent with the review's real-life-task perspective on managing high intrinsic load in complex skill acquisition. (van Merriënboer et al. (2005))
 - **Ten Steps approach guiding instructional designers from task analysis to training blueprint**: The Ten Steps (Van Merriënboer & Kirschner, 2018) is a design process accompanying 4C/ID that guides designers through analysis activities (cognitive task analysis, cognitive strategy and mental model analysis, cognitive rules and prerequisite knowledge) and design steps for the four blueprint components. The article notes "The Ten Steps approach by Van Merriënboer and Kirschner (2018) lists 10 design activities that result in an educational blueprint describing the program in terms of the four components." Its strength, per the authors, lies in a comprehensive systematic approach particularly when the task is unfamiliar and few ready-made materials exist. (Frerejean et al. (2021))
 - **4C/ID as the underlying instructional design model for video coaching**: The article positions the Four Components Instructional Design model as well-suited to the complex learning of united reflection during video coaching. It states this holistic approach "has been shown to stimulate the integration of knowledge, skills and attitudes", mitigating compartmentalization of learning tasks or fragmentation of constituent skills. The four components applied are whole learning tasks (RoA, RfA, RiA as task classes of increasing complexity), procedural information (the three reflection steps), supportive information, and part-task practice. (Sara van der Linden (2020))
+- **Four-Component Instructional Design (4C-ID) model for complex learning**: The 4C-ID model, developed by van Merriënboer in the late 1990s, is an instructional design framework for acquiring complex learning, defined as integrating knowledge, skills and attitudes in a domain. It assumes knowledge is stored in cognitive schemes, working memory is limited and long-term memory effectively unlimited, and holds that "the learning tasks based on situations of the real life are the ones that enhance learning". It comprises four interrelated components: learning tasks, supportive information, procedural information, and part-task practice. In this article the model structured a set of Alice-based programming lessons, and the authors integrate Mayer's multimedia learning theory and Sweller's cognitive load theory into it. (Joana Martinho COSTA (2019))
 
 ### Claims
 - [Four interrelated components are essential in blueprints for complex learning](../claims/four-components-essential-complex-learning-blueprints.md) [+W]
+- [Programming knowledge gains under Alice with 4C-ID do not differ significantly between students of very low and intermediate socioeconomic status when ECDL logical reasoning is covaried](../claims/alice-4cid-programming-gains-no-ses-difference.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -35,3 +37,4 @@ The Four-Component Instructional Design model is a framework developed by van Me
 - van Merriënboer, J.J.G., Sweller, J. (2005). Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions. Educ Psychol Rev 17, 147–177 (2005). https://doi.org/10.1007/s10648-005-3951-0
 - Frerejean, J., van Geel, M., Keuning, T., Dolmans, D., van Merriënboer, J. J. G., & Visscher, A. J. (2021). Ten steps to 4C/ID: training differentiation skills in a professional development program for teachers. Instructional Science. https://doi.org/10.1007/s11251-021-09540-x
 - Sara van der Linden, Susan McKenney. (2020). Uniting epistemological perspectives to support contextualized knowledge development. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09772-7
+- Joana Martinho COSTA, Guilhermina Lobato MIRANDA. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01

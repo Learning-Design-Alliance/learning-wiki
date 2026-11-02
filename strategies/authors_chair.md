@@ -59,9 +59,11 @@ The Authors' Chair builds an authentic audience into the writing cycle, which ra
 5. Rotate authorship so all students eventually share; keep sessions short (2–3 authors per sitting) to protect engagement.
 
 ## Related Strategies
+
 - [5-minute writing conferences](5-minute_writing_conferences.md) — the one-to-one counterpart; conferences prepare writers to make use of Authors' Chair feedback
 - [Active listening](active-listening.md) — the audience skill the routine explicitly teaches and depends on
 - [Acting-role-play](acting-role-play.md) — a related public-performance routine that builds oral confidence
+- [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
 
 ## Examples
 - **Graves and Hansen's original routine** in process-writing classrooms (Atwell, *In the Middle*; Calkins, *The Art of Teaching Writing*): daily sharing slots at the end of writing workshop, with peers responding using "I noticed… I wondered…" stems.

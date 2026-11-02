@@ -69,6 +69,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
 - [Use diverse facilitation techniques including think-aloud, semantic qualifiers, illness scripts, and case-based learning](diverse-facilitation-techniques-clinical-reasoning.md)
+- [Use the exploration strategy: have students discuss, criticize and review ideas in the material before seeking knowledge](exploration-discussion-strategy-arabic-reading.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

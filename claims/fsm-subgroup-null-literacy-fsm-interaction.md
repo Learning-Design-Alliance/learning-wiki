@@ -82,3 +82,4 @@ Interaction analysis of group allocation and FSM status in the same trial, illus
 - [The gain-score effect of Switch-on Reading is smaller for FSM-eligible pupils (+0.05) than for non-FSM pupils (+0.31)](switch-on-fsm-smaller-gain-effect.md) — related
 - [Accelerated Reader shows a larger, though less secure, effect for FSM-eligible pupils (+0.38) and does not widen the poverty gap](ar-fsm-pupils-effect.md) — related
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
+- [SPOKES showed a positive effect on Key Stage 1 teacher-based literacy measures, an outcome not pre-specified in the trial protocol](spokes-positive-ks1-literacy-effect.md) — related

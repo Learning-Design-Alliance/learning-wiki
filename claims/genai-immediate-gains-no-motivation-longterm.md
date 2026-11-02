@@ -52,3 +52,4 @@ Post-task Intrinsic Motivation Inventory comparison across the four experimental
 - [The ChatGPT group achieves significantly greater essay score improvement than the other three groups](chatgpt-greater-essay-score-improvement.md) — a narrower finding that bears on this claim
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — related
+- [Control-group students showed no significant change in intrinsic motivation over the same semester](control-group-no-motivation-change.md) — related

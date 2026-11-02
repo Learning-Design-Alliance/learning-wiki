@@ -44,6 +44,7 @@ The authors recommend that, because metacognitive strategies facilitate reading 
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
 - [Integrate metacognitive instruction, assessment, and feedback mechanisms across diverse educational domains](integrate-metacognitive-instruction-assessment-feedback-across-domains.md)
+- [Embed metacognition-based applications across faculties of education during pre-service teacher training](embed-metacognition-applications-faculties-education.md)
 
 ## Examples
 -

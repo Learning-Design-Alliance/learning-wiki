@@ -50,3 +50,4 @@ Hierarchical multiple regression on out-group stereotyping with 74 subjects (12 
 - [Children begin applying racial stereotypes to out-groups around age 6, with out-group stereotyping increasing across age groups while in-group stereotyping shows no reliable age differences](out-group-stereotyping-emerges-around-age-6.md) — related
 - [Racial justification (merely noticing and describing racial differences) did not uniquely predict out-group stereotyping, unlike functional sorting by race](racial-justification-not-unique-predictor.md) — related
 - [Children's essentialist reasoning about racial change increased with age, and essentialist reasoning about others (but not the self) predicted out-group stereotyping](essentialist-reasoning-increases-with-age-predicts-outgroup-stereotyping.md) — related
+- [Students entered the courses highly confident they could identify their own and others' race and ethnicity](baseline-overconfidence-race-identification.md) — related

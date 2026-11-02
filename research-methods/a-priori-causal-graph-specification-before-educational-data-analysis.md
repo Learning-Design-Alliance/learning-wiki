@@ -24,7 +24,8 @@ The paper argues that researchers should articulate their causal assumptions gra
 ### Claims
 
 ## Related Research Methods
--
+
+- [Explicit theoretical-framework and epistemological-assumption specification in education research](explicit-theoretical-framework-and-epistemological-assumption-specification-in-education-r.md)
 
 ## Key Sources
 - Weidlich, J., Hicks, B., & Drachsler, H. (2024). Causal reasoning with causal graphs in educational technology research. Education Tech Research Dev. https://doi.org/10.1007/s11423-023-10241-0

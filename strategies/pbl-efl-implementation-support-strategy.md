@@ -48,7 +48,8 @@ The review derives implementation recommendations from the challenges reported a
 - [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](../claims/pbl-improves-efl-writing-proficiency.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use activity based learning in language lessons and train teachers to implement it](abl-speaking-teacher-training-strategy.md)
 
 ## Examples
 -

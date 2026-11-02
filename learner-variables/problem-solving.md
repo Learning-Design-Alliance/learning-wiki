@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (90 show a difference, 15 mixed, 20 no difference) · 102 studies (53 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 102 report an effect size · 123 claims rest on one study
+> **Evidence** · 129 claims (94 show a difference, 15 mixed, 20 no difference) · 106 studies (57 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 106 report an effect size · 127 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -163,6 +163,10 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Neither group showed a significant change in reflective thinking skills towards problem solving from post-test to one-year permanence test](../claims/rtssps-posttest-permanence-no-within-group-change.md) [-M] — instruction changes it
 - [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](../claims/pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) [+M] — instruction changes it
 - [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](../claims/tmpt-program-improves-preschool-social-problem-solving.md) [+M] — instruction changes it
+- [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](../claims/it-jitt-higher-problem-solving-than-cooperative.md) [+M] — instruction changes it
+- [Problem Based Economics improves students' economics problem-solving skills on open-ended performance tasks (effect size 0.27)](../claims/pbe-improves-performance-task-skills.md) [+W] — instruction changes it
+- [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](../claims/problem-solving-strategy-more-effective-problem-solving.md) [+M] — instruction changes it
+- [Within the GEMS group, problem solving scores improved significantly from pre-test to post-test on both subscales and the total](../claims/gems-within-group-problem-solving-gains.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

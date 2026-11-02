@@ -84,6 +84,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 - [Worked Examples](worked-examples-first.md) — a modeling format often used to demonstrate strategies
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](indirect-training-prompted-metacognitive-regulation.md)
 - [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
+- [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
 
 ## Examples
 - **Reciprocal teaching of reading** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)): seventh graders taught summarizing, questioning, clarifying, and predicting through teacher modeling followed by student-led group dialogue; comprehension gains of roughly two standard deviations over controls.

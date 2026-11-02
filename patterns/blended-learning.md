@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (32 for, 21 mixed, 1 against) · 40 studies (14 quant-synthesis, 8 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 52 claims rest on one study
+> **Evidence** · 55 claims (33 for, 21 mixed, 1 against) · 41 studies (14 quant-synthesis, 9 causal, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 41 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -107,6 +107,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The blended learning group showed a slight but statistically significant improvement in SQL test scores from the first-week mid-test to the final test](../claims/blended-group-slight-significant-gain-mid-to-final.md) [+W] — attached 2026-11-01 from Yavuzarslan et al. (2019), which proposed "Use blended learning design to teach programming because it offers anytime access to materials and repeated practice on difficult tasks".
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-attention-motivation.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](../claims/oer-blended-quipper-relevance-confidence.md) [+W] — attached 2026-11-01 from Sulisworo et al. (2017), which proposed "Blended physics learning pattern splitting discussion to class time and reading, tasks and exercises to the OER platform"; tests this page's relationship.
+- [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](../claims/blended-teq-above-program-average.md) [+W] — attached 2026-11-02 from Stouck (2019), which proposed "Use blended scheduling to restore one-on-one feedback and small-group workshop time lost in large composition classes".
 
 ## Illustrative design instance and observation record
 

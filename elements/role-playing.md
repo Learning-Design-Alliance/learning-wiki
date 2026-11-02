@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 11 studies (3 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (7 for, 5 mixed, 2 against) · 12 studies (4 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -49,6 +49,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](../claims/age-by-presentation-interaction-dse.md) [~M] — attached 2026-10-29 from Fallon et al. (2018), which proposed "Theme-matched DSE vignette and Kar2ouche computer role-play assessment tasks".
 - [Conversation analytic comparisons show role-played and simulated interactions differ systematically from real interactions](../claims/ca-shows-simulation-inauthenticity.md) [-W]
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](../claims/role-play-benefits-and-artificiality-cst.md) [~W]
+- [Role-play training shows no significant difference between groups in theoretical examination scores](../claims/role-play-no-significant-theory-exam-difference.md) [-W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

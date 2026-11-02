@@ -74,3 +74,4 @@ Subgroup analyses conducted after a significant FSM-by-intervention interaction 
 - [For FSM-eligible pupils there was no evidence of positive impact on attainment or self-reported character attributes](youth-united-fsm-subgroup-no-positive-impact.md) — related
 - [Accelerated Reader shows a larger, though less secure, effect for FSM-eligible pupils (+0.38) and does not widen the poverty gap](ar-fsm-pupils-effect.md) — related
 - [Breakfast club provision produced larger attainment improvements for pupils not eligible for free school meals than for FSM-eligible pupils, though effects were positive for both groups](breakfast-club-effects-larger-non-fsm.md) — related
+- [Mind the Gap showed no statistically significant effect on attainment for FSM pupils](mind-the-gap-no-fsm-attainment-effect.md) — related

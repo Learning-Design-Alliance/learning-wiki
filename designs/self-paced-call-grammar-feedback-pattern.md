@@ -40,7 +40,8 @@ The article's software embodies a repeating lesson-unit design: each grammatical
 - [Call Passive Voice Beats Traditional Jordan](../claims/call-passive-voice-beats-traditional-jordan.md) [+M]
 
 ## Related Designs
-- 
+
+- [Didactic template structuring each e-learning lesson with objectives, explanation, practice, self-assessment and tests](elearning-lesson-didactic-template.md)
 
 ## Examples
 -

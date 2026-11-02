@@ -75,3 +75,4 @@ Drawing on the fourth national report (cycle 2006-2007), the article states that
 - [Las micro-credenciales apoyaron la práctica profesional de una educadora como desarrollo profesional a propio ritmo](microcredentials-self-paced-educator-pd-testimonial.md) — related
 - [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related
+- [Directors of pupils' project and research works report that about 50% of school children lack skills to self-dependently propose hypotheses, plan activity, search and analyze information, and present results](half-pupils-lack-self-dependent-research-skills.md) — related

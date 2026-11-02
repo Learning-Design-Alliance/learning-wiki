@@ -51,3 +51,4 @@ This is the authors' interpretive proposal, grounded in their LHTL production ex
 - [The Learning How to Learn MOOC's popularity appears attributable to its presentation and instructional methods rather than its subject matter alone](lhtl-popularity-from-presentation-methods.md) — related
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — related
+- [The authors speculate that the fulldome's large screen size interacting with peripheral visual motion increased audience arousal and attention, explaining the retention advantage](peripheral-motion-arousal-attention-speculation.md) — a narrower finding that bears on this claim

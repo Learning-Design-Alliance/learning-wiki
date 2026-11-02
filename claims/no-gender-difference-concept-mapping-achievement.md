@@ -61,3 +61,5 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [Interviews indicated that students whose post-test scores improved showed interest in and understanding of concept mapping, while poor performers did not, though stated usefulness did not always match achievement](interview-attitude-achievement-consistency-concept-mapping.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related
+- [Among students taught Basic Science with the self-regulated learning approach, there is no significant difference between male and female achievement](no-gender-difference-srl-basic-science.md) — related
+- [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — related

@@ -142,3 +142,5 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — a broader claim this one bears on
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — related
 - [The control and experimental groups showed no significant difference in English skills at pretest](pretest-equivalence-english-app-study.md) — related
+- [Experimental and control groups were equivalent in speaking achievement before the intervention](abl-speaking-pretest-equivalence.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

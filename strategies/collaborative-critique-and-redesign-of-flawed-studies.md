@@ -52,6 +52,7 @@ Requiring students to redesign a flawed study, not just critique it, forces them
 
 - (none yet linked)
 - [Select fiction by conceptual fit rather than popularity, and use it as discrepant events and small-group critique prompts](select-fiction-by-conceptual-fit-strategy.md)
+- [Use newspaper science articles as the entry point, then pair them with hands-on experiments and cooperative group reporting to trigger interest](newspaper-article-entry-with-experiments-and-group-reports.md)
 
 ## Examples
 - Groups evaluated the "Little Albert" experiment's ethical and methodological problems, then designed a replication with a proper sample, consent procedures, and controls.

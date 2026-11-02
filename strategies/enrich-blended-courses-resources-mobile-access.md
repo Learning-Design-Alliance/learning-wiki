@@ -48,6 +48,7 @@ In the interviews, participants recommended making blended learning more efficie
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
 - [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](thoughtful-mobile-device-integration-recommendations.md)
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
+- [Use attention-attracting internet-based education programs more frequently, with infrastructure, mobile compatibility and teacher awareness](internet-based-programs-frequent-use-strategy.md)
 
 ## Examples
 -

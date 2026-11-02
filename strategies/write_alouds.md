@@ -63,6 +63,7 @@ Write alouds are a form of [Demonstration](../elements/demonstration.md) applied
 - [Shared Writing](shared-writing.md) — the next step on the gradual release continuum, where teacher and students compose together
 - [Sentence Combining](sentence-combining.md) — a specific writing move frequently taught via write alouds and supported by meta-analytic evidence
 - [Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement](think-aloud-moderator-guide-ai-refinement.md)
+- [Use the thinking loudly strategy to move students out of isolation and build self-expression during reading lessons](thinking-loudly-strategy-arabic-reading.md)
 
 ## Examples
 - A teacher models writing the opening paragraph of a persuasive essay, verbalizing how she weighs which evidence to lead with and how she revises her thesis mid-draft.

@@ -50,3 +50,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months](social-media-use-gains-not-sustained-after-training.md) — related
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — related
+- [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](vocabulary-gains-persist-five-month-follow-up.md) — related

@@ -39,6 +39,7 @@ A 20-item multiple-choice performance assessment developed by Jin et al. to meas
 - [Multi-strategy test (MST)](multi-strategy-test-mst.md)
 - [40-item multiple-choice Arabic achievement test](40-item-multiple-choice-arabic-achievement-test.md)
 - [Researcher-developed 65-item Academic Achievement Test](researcher-developed-65-item-academic-achievement-test.md)
+- [20-question triangles achievement test](20-question-triangles-achievement-test.md)
 
 ## Key Sources
 - Reed, J. M., Ferdig, R. E., Dodson, T. M., Gunstad, J., & Hughes, J. W. (2026). AI Literacy and Scenario-based Ethical Judgment About Generative AI Among Undergraduate Students. Journal of Academic Ethics. https://doi.org/10.1007/s10805-026-09757-w

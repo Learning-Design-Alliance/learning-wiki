@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-02
 sources:
   - id: korucu-and-cakir-2018
     resource: "https://eric.ed.gov/?id=EJ1165485"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After an 8-week application, the experimental group's post-test course achievement scores were significantly higher than the control group's, with a large effect size. [→ Korucu and Cakir 2018](#korucu-and-cakir-2018)
@@ -54,3 +55,4 @@ Semi-experimental pre-test post-test control group study; independent samples t-
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
+- [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](pbl-beats-traditional-mixtures-achievement.md) — related

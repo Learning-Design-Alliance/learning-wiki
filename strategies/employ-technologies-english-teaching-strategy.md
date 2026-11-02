@@ -43,6 +43,7 @@ Based on the finding that computer-assisted grammar teaching outperformed tradit
 ## Related Strategies
 
 - [Employ CAI as an alternative or supportive strategy for teaching English grammar, with teacher training in developing textbook-based CAI packages](cai-alternative-supportive-grammar-strategy.md)
+- [Integrate WebQuests into teachers' class planning with teacher training](webquest-class-planning-teacher-training-strategy.md)
 
 ## Examples
 -

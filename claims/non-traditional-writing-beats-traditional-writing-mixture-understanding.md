@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest study of 524 9th graders in 2 public high sc
 - [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](younger-audience-beats-teacher-audience-posttest.md) — related
 - [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related
 - [Students learned chemistry content from the game-based learning session, with significant pretest-to-posttest gains](learning-occurred-cosmiclean-session.md) — related
+- [A brain-based learning teaching-learning program produced statistically significantly higher chemistry achievement than traditional teaching for 9th-grade female students](bbl-program-improves-chemistry-achievement-grade9.md) — related

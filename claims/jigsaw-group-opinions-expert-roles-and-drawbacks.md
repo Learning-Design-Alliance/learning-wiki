@@ -49,3 +49,4 @@ We got bored as we conducted some of the experiments in the previous laboratory 
 ## Related Claims
 - [Control group students valued laboratory group work but also reported boredom with the number and simplicity of experiments](control-group-opinions-groupwork-benefits-drawbacks.md) — related
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
+- [Teacher candidates expressed mostly positive opinions of place-based lessons, citing retention of information most often, with time and cost as main drawbacks](student-opinions-place-based-retention-time-cost.md) — related

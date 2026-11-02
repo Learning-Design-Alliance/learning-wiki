@@ -59,3 +59,4 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — related
 - [The three concept-mapping groups were statistically equivalent in chemistry problem-solving ability before treatment](pretest-equivalence-concept-map-groups-chemistry.md) — related
+- [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related

@@ -76,3 +76,4 @@ Correlational analysis of observed RIT scores and true score model estimates (Ta
 - [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — reports the opposite
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — related
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
+- [Start and End test scores correlated strongly within both groups, with a higher coefficient for the Control group (0.88868) than the Experiment group (0.74317)](start-end-score-correlations-groups.md) — related

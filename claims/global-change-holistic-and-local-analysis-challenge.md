@@ -53,3 +53,4 @@ In the March 1993 lead story, the authors state this instructional challenge as 
 - [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related
 - [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
 - [Choice-based personalization increased self-reported understanding of local climate issues without reducing understanding of global issues](choice-personalization-local-understanding-gain.md) — a narrower finding that bears on this claim
+- [Intervention students' essays conveyed personal voice and agency, while control students tended to reproduce textbook content](intervention-essays-personal-voice-vs-textbook.md) — related

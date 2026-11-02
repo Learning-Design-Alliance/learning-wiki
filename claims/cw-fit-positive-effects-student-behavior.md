@@ -47,3 +47,5 @@ WWC systematic review synthesizing eight studies (two group design, six single-c
 - [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](cw-fit-reduces-disruptive-behaviors-wills-2016.md) — related
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — related
+- [CW-FIT improves teacher-rated academic competence on SSBS-2 and CPS-E but not on the SSIS Academic Competence scale](cw-fit-improves-academic-competence-ratings.md) — related
+- [CW-FIT shows no significant effect on teacher ratings of problem behaviors at post-test](cw-fit-no-effect-teacher-rated-problem-behaviors.md) — reports the opposite

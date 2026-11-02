@@ -71,3 +71,4 @@ Gain-score (posttest minus pretest) Pearson correlation in the same full sample.
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related
+- [Start and End test scores correlated strongly within both groups, with a higher coefficient for the Control group (0.88868) than the Experiment group (0.74317)](start-end-score-correlations-groups.md) — related

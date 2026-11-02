@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 82 claims (38 for, 39 mixed, 5 against) · 54 studies (30 causal, 9 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 20 of 54 report an effect size · 78 claims rest on one study
+> **Evidence** · 83 claims (39 for, 39 mixed, 5 against) · 55 studies (30 causal, 9 review, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 20 of 55 report an effect size · 79 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -133,6 +133,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](../claims/repeated-quizzing-shifts-judgments-conservatively.md) [~W]
 - [High SRL students run significantly fewer tests than Medium or Low SRL students](../claims/high-srl-students-fewer-tests.md) [-W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]
+- [Students recalled a high percentage (87-88% on average) of concepts reinforced with the TtR strategy on unannounced midterm and final examinations](../claims/ttr-high-retention-87-88-percent.md) [+W] — attached 2026-11-02 from Divoll et al. (2010), which proposed "Ticket to retention (TtR) technique distinguished from other classroom assessment techniques in four ways".
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

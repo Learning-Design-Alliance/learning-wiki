@@ -49,3 +49,4 @@ Quasi-experimental assignment of 168 completers (59 C, 55 T1, 54 T2) in a discre
 - [Students trained with both BWE and BPS derived subgoals during proof construction with significantly higher efficiency than the other groups](bwe-bps-higher-subgoal-derivation-efficiency.md) — related
 - [The BWE+BPS group constructed significantly shorter solutions than the other groups in only two posttest problems](bwe-bps-shorter-solutions-problem-dependent.md) — related
 - [Training-level test problem scores were only marginally associated with training treatment (p=0.0563), with the BWE+BPS group scoring lower early in training](training-level-score-association-marginal.md) — related
+- [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](strategy-training-posttest-group-differences.md) — related

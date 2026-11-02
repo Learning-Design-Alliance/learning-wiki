@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (30 for, 18 mixed, 1 against) · 34 studies (11 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 8 of 34 report an effect size · 48 claims rest on one study
+> **Evidence** · 51 claims (30 for, 20 mixed, 1 against) · 36 studies (13 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 9 of 36 report an effect size · 50 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -108,6 +108,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [+W]
 - [Perceived cost is weakly negatively correlated with college students' intention to use GenAI (r = -0.166)](../claims/perceived-cost-weak-negative-genai-intention.md) [+W]
 - [Cooperative learning raised value-component motivation (intrinsic goal orientation, extrinsic goal orientation, task value) more than lecture-based teaching](../claims/cooperative-learning-value-components-motivation.md) [+W] — attached 2026-11-02 from Van Dat Tran (2019), which proposed "Pintrich three-element model of motivation: value, expectancy, and affective components".
+- [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [~M] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Motivation as a goal-directed process inferred from choice, effort, and persistence".
+- [Students rated the cartoon condition as more enjoyable than bibliotherapy, though the difference was significant only at the alpha = 0.10 level](../claims/cartoon-condition-higher-enjoyment-rating.md) [~W]
 
 ## Related Theories
 

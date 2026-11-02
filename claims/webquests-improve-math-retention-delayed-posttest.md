@@ -47,3 +47,4 @@ Quasi-experiment with 39 experimental and 39 control ninth-graders; the same tea
 ## Related Claims
 - [WebQuest instruction shows no significant immediate effect on ninth-grade mathematics achievement at posttest](webquests-no-immediate-achievement-effect.md) — related
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](teacher-themes-webquest-benefits-math.md) — related
+- [Using a WebQuest significantly enhances 4th graders' spiritual intelligence in favor of the experimental group](webquest-enhances-spiritual-intelligence-experimental.md) — related

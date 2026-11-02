@@ -59,3 +59,4 @@ Experiment 2, a within-subjects study of 80 Columbia/Barnard students with yes/n
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
 - [Specific and diversive curiosity are labels on a continuum of information generality within one knowledge-gap-driven process, not categorically distinct types](specific-diversive-curiosity-continuum.md) — related
 - [Higher confidence reduced knowledge exploration after correct answers, and high-confidence errors showed no effect on exploration](confirmed-confidence-reduces-exploration.md) — related
+- [Families reported expanded vocabulary and increased interest in scientific matters after the program](families-report-expanded-vocabulary-and-science-interest.md) — related

@@ -52,3 +52,4 @@ Quasi-experimental between-subject study of two intact classes (n=30 experimenta
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
 - [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](pictorial-context-improves-esp-reading-comprehension.md) — related
 - [Reciprocal teaching improves reading comprehension of intermediate Iranian EFL learners more than conventional reading instruction](rtp-improves-reading-comprehension-iranian-efl.md) — related
+- [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](comprehension-enhanced-through-collaboration-interpretation.md) — related

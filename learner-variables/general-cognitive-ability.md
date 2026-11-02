@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (110 show a difference, 36 mixed, 26 no difference) · 121 studies (44 associational, 41 causal, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 121 report an effect size · 169 claims rest on one study
+> **Evidence** · 173 claims (111 show a difference, 36 mixed, 26 no difference) · 122 studies (44 associational, 42 causal, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 122 report an effect size · 170 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -208,6 +208,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](../claims/7e-gains-vary-by-intelligence-level.md) [~M] — an instructional effect differs with it
 - [MI-based strategy improves five intelligence types while logical-mathematical intelligence decreases, partly due to instrument bias](../claims/five-intelligences-improve-logical-math-declines.md) [~W] — instruction changes it
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](../claims/aptitude-treatment-interaction-nonsignificant-after-cleaning.md) [-M] — an instructional effect differs with it
+- [Problem solving strategy is more effective than the scientific approach for students' mathematical reasoning ability](../claims/problem-solving-strategy-more-effective-reasoning.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

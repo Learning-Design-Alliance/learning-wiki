@@ -50,3 +50,4 @@ Scheffe's post-hoc analysis (Table 3) of the three-group quasi-experiment. The a
 - [The combined Pre-question/Genre strategy produced the highest attitude to reading, exceeding Pre-question, Genre and Control groups](combined-prequestion-genre-highest-attitude.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — related
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — a narrower finding that bears on this claim
+- [The fill in the map concept map group performed significantly better than the summarizing strategy group on reading comprehension posttest](fill-in-map-cm-beats-summarizing-reading-comprehension.md) — related

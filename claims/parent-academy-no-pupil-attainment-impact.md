@@ -68,3 +68,4 @@ The same trial's reported negative point estimates for children of parents atten
 - [Financial incentives of £30 per session increased parental attendance at Parent Academy sessions](financial-incentives-increase-parent-attendance.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
 - [No evidence of improved outcomes for pupils eligible for free school meals](fsm-subgroup-null-parent-academy.md) — a narrower finding that bears on this claim
+- [Participation in the animation course was very low, so trial results estimate the effect of eligibility rather than participation](animation-course-low-participation-eligibility-effect.md) — related

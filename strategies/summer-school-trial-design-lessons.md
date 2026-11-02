@@ -48,6 +48,7 @@ The report draws implementable lessons from the trial's failures: future summer 
 ## Related Strategies
 
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
+- [Schools should clearly communicate the animation course's aims and promote the potential benefits of participation to increase family sign-up](clear-communication-to-boost-family-sign-up.md)
 
 ## Examples
 -

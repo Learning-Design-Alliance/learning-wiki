@@ -39,6 +39,7 @@ The review recommends that "educators can carefully pace gamified activities and
 ## Related Strategies
 
 - [Vary online teaching and learning activities to counter fatigue and anxiety in lengthy online sessions](vary-online-activities-lengthy-sessions.md)
+- [Offer interactive digital games like PàN as one option in teachers' pedagogical toolboxes for L2 vocabulary and engagement](interactive-games-as-pedagogical-toolbox-option.md)
 
 ## Examples
 -

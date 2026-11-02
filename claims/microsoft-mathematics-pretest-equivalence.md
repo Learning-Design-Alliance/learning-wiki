@@ -66,3 +66,5 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
+- [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — a narrower finding that bears on this claim
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — possibly the same claim (merge candidate)

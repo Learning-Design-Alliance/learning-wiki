@@ -55,3 +55,4 @@ One group pretest-posttest study of twenty-three 5th graders in a Turkish public
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
 - [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](character-textbook-pretest-posttest-gain.md) — related
 - [Experimental group's total creativity rose significantly from pre-test to post-test after CREACT practice](creact-experimental-prepost-total-gain.md) — related
+- [A 10-week Enriched Creative Activities Program supported with the Aytürk Technique produced a significant pretest-to-posttest increase in creativity scores of fourth-grade experimental-group students](ayturk-program-pretest-posttest-creativity-gain.md) — related

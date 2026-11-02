@@ -47,3 +47,4 @@ Bonferroni post hoc comparison in the quasi-experiment: experimental class x2 (s
 ## Related Claims
 - [Jumping task based on CPS produces higher problem-solving ability than sharing task based on CPS, which in turn outperforms conventional instruction, in eighth-grade mathematics](jumping-task-cps-beats-sharing-task-cps-and-conventional.md) — a broader claim this one bears on
 - [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](post-test-means-three-classes-jumping-sharing-conventional.md) — related
+- [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](problem-solving-strategy-more-effective-problem-solving.md) — related

@@ -52,3 +52,4 @@ Pre-post LAS comparison for the 17-child control group taught by the traditional
 - [Kindergarten children taught Arabic with Mind Maps showed a statistically significant pre-to-post reduction in lack of attention scores over four months](mind-maps-reduce-lack-of-attention-kindergarten-arabic.md) — related
 - [The experimental Mind Maps group showed a significantly greater reduction in lack of attention than the control group](mind-maps-outperform-traditional-las-modification.md) — related
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related
+- [The traditional lecture-only method's pre-to-post gain was small and its significance is inconsistently reported](control-group-small-pre-post-gain.md) — related

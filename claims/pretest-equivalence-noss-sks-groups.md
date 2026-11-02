@@ -82,3 +82,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
 - [The flipped and control groups did not differ significantly on pre-test achievement scores](fc-pretest-equivalence-t-test.md) — related
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
+- [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related

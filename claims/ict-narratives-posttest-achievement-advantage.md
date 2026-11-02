@@ -55,3 +55,4 @@ Quasi-experimental pre-test/post-test study with intact classes of 6th graders (
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related
 - [Integrated STEM education raised academic achievement post-test means above constructivist teaching but not significantly in 6th-grade science](integrated-stem-aat-posttest-no-significant-difference.md) — related
 - [Computer-assisted educational games raised 6th-grade grammar achievement more than the existing curriculum over 12 weeks](caeg-grammar-achievement-posttest-advantage.md) — related
+- [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](roundhouse-diagrams-higher-achievement-test-posttest.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ Paired-samples t-test on the experimental group (n=55) in a pretest posttest qua
 - [Formative evaluation raised adult ESL learners' achievement scores over one semester while traditional teaching produced no noticeable change](formative-evaluation-raises-adult-esl-achievement.md) — related
 - [Training Saudi EFL college students in the 3-2-1 reading strategy for six weeks significantly improves their reading comprehension compared with no strategy training](3-2-1-strategy-improves-efl-reading-comprehension.md) — related
 - [Reading strategy instruction in L2 (English) produced significantly greater gains in English reading comprehension than regular instruction](l2-strategy-instruction-improves-english-reading-comprehension.md) — related
+- [Reading strategy training improved reading comprehension for non-English majors over a five-week experiment](strategy-training-improves-reading-comprehension-non-english-majors.md) — related

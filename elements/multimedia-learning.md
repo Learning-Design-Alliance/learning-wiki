@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (26 for, 12 mixed) · 39 studies (21 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (26 for, 13 mixed) · 40 studies (22 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 35 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -74,6 +74,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](../claims/preliminary-survey-students-interested-multimedia-materials.md) [+W]
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
+- [The flat-screen visualization group matched the planetarium group's immediate gains but lost almost all of them by the delayed post-test](../claims/flat-screen-gains-lost-by-post-test.md) [~W]
 
 ## The evidence by question
 

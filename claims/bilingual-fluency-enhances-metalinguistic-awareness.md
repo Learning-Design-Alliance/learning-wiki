@@ -80,3 +80,4 @@ This claim links a specific bilingual cognitive advantage to the broader constru
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
 - [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related
 - [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](dll-metalinguistic-advantage.md) — related
+- [Bilingual learners may fail to notice even obvious cross-language cognates unless explicitly trained in language similarity awareness](bilinguals-miss-cognates-without-awareness-training.md) — a narrower finding that bears on this claim

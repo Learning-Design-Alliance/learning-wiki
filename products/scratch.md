@@ -35,6 +35,7 @@ Scratch is an MIT Media Lab-developed block-based programming language and onlin
 
 - [Computational Thinking for Educators](computational-thinking-for-educators.md)
 - [PoseBlocks](poseblocks.md)
+- [Alice](alice.md)
 
 ## Key Sources
 - Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad

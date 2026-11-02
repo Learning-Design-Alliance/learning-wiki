@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (12 for, 9 mixed) · 26 studies (7 quant-synthesis, 6 review, 4 causal, 4 associational, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 27 studies (7 quant-synthesis, 6 review, 5 causal, 4 associational, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 27 report an effect size · 19 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -71,6 +71,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](../claims/supporting-learning-process-competencies.md) [+W]
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](../claims/small-interdisciplinary-teams-62-articles.md) [+W]
 - [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](../claims/post-test-means-three-classes-jumping-sharing-conventional.md) [~W]
+- [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+W] — attached 2026-11-02 from Fatemeh Behjat (2013), which proposed "Teacher's blog with e-books and a comment section for collaborative out-of-class reading"; tests this page's relationship.
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

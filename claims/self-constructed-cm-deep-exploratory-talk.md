@@ -54,3 +54,4 @@ Same transcript analysis: the simpler closed tasks produced mostly superficial e
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — related
 - [An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures](ic-structure-better-recall-than-ci-and-individual.md) — related
 - [Technology type, collaboration level, and intervention duration show no significant differences in concept-mapping effects](concept-map-effects-null-technology-collaboration-duration.md) — related
+- [Students and teachers in the concept map groups reported increased motivation to use the strategy, especially in the fill in the map group](cm-groups-increased-motivation-observation.md) — related

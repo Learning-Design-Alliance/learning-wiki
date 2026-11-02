@@ -55,3 +55,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Teaching science and mathematics through human modeling and collaborative cross-border projects can serve the purpose of developing tolerance and international understanding](science-teaching-modeling-international-understanding.md) — related
 - [Evolved disciplinary modules produced more motivating and more efficient learning outcomes closer to employer expectations](evolved-modules-more-motivating-efficient-employer-aligned.md) — related
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related
+- [Before the experiment, most students lacked sufficient knowledge for cross-disciplinary integration and were unfamiliar with the target equipment](baseline-low-technological-preparation.md) — related

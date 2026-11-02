@@ -54,3 +54,4 @@ Randomised experiment: 36 intermediate female EFL learners aged 16 to 22 at a la
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](storytelling-approach-vocabulary-posttest-advantage-young-efl.md) — related
+- [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related

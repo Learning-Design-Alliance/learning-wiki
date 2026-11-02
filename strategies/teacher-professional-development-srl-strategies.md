@@ -42,6 +42,7 @@ Because self-regulated learning strategies showed a large pooled effect on achie
 - [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](pd-reflection-online-versus-f2f-differences.md)
 - [Use in-service training to raise teacher awareness of lingering teacher-centered styles](in-service-training-teacher-centered-awareness.md)
 - [Have pre-service teachers plan classroom activities with mind maps and model their use with students](mind-map-planning-teacher-education-strategy.md)
+- [Use activity based learning in language lessons and train teachers to implement it](abl-speaking-teacher-training-strategy.md)
 
 ## Examples
 -

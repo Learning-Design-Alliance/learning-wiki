@@ -44,6 +44,7 @@ Because some students found single-theme short stories boring, the article recom
 - [Literature Circles](literature-circles.md)
 - [Offer instructional choices to students to increase engagement and agency](offer-instructional-choices-engagement-agency.md)
 - [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
+- [Offer interactive digital games like PàN as one option in teachers' pedagogical toolboxes for L2 vocabulary and engagement](interactive-games-as-pedagogical-toolbox-option.md)
 
 ## Examples
 -

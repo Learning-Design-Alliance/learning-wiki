@@ -48,3 +48,4 @@ Quasi-experiment with 92 participants (47 Group 1, 45 Group 2) completing both t
 - [For high-proficiency L2 readers, feedback type had no significant effect on online reading comprehension](high-proficiency-no-feedback-type-effect.md) — a narrower finding that bears on this claim
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
+- [The Opener produced no difference on pre/post test scores across the whole project](opener-no-prepost-test-difference.md) — related

@@ -50,3 +50,4 @@ ANOVA on the self-confidence post-scale (52 items, reliability 0.94) in the same
 ## Related Claims
 - [Algorithm-group participants report significantly higher soundscape visualizability than Control participants, while group differences in strategy use, confidence, and error awareness are not statistically significant](visualizability-differs-strategy-use-does-not.md) — related
 - [Blackboard-based blended teaching showed no statistically significant effect on university study skills](blended-teaching-no-effect-study-skills.md) — related
+- [Blended-section students reported somewhat greater confidence in genre-based writing skills, with one third rating their research-genre skills advanced versus one fifth of control students](blended-genre-skill-confidence-advanced.md) — related

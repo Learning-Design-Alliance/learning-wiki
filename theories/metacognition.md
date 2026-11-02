@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 486 claims (231 for, 230 mixed, 25 against) · 257 studies (125 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 85 of 257 report an effect size · 479 claims rest on one study
+> **Evidence** · 488 claims (233 for, 230 mixed, 25 against) · 258 studies (126 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 85 of 258 report an effect size · 481 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -530,6 +530,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Teacher candidates who read conceptual change texts enriched with metaconceptual activities learn symmetry better than those who read plain texts](../claims/metaconceptual-cct-improves-symmetry-understanding.md) [+W] — attached 2026-11-01 from Batdal Karaduman (2019), which proposed "Metaconceptual activities in concept learning comprise metaconceptual awareness, monitoring, and evaluation"; tests this page's relationship.
 - [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](../claims/age-negative-reading-metacognitive-group.md) [~W]
 - [Heuristic-methodological instruction changes how pupils check answers, favouring rereading and rethinking over not checking](../claims/heuristic-instruction-way-of-checking.md) [+W]
+- [Inquiry learning significantly increases prospective teachers’ metacognition knowledge in learning about fluid, with high n-gain in Group A and moderate n-gain in Groups B and C](../claims/inquiry-learning-increases-metacognition-knowledge-prospective-teachers.md) [+W] — attached 2026-11-02 from Asy’ari et al. (2019), which proposed "Metacognition knowledge and metacognition awareness as distinct, measurable components of metacognition".
+- [Inquiry learning significantly increases prospective teachers’ metacognition awareness across all eight MAI aspects, at moderate n-gain in all groups](../claims/inquiry-learning-increases-metacognition-awareness-mai.md) [+W] — attached 2026-11-02 from Asy’ari et al. (2019), which proposed "Metacognition knowledge and metacognition awareness as distinct, measurable components of metacognition".
 
 ## The evidence by question
 

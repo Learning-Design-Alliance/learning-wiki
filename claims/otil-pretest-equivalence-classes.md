@@ -48,3 +48,4 @@ Independent-Samples T-test on pre-test means of the two intact classes (46 stude
 - [The experimental class taught with OTIL lessons in Moodle scored significantly higher on the listening post-test than the control class](otil-moodle-significant-posttest-advantage.md) — related
 - [Experimental and control groups did not differ significantly in listening comprehension achievement before the intervention](iwb-study-pretest-equivalence.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — possibly the same claim (merge candidate)

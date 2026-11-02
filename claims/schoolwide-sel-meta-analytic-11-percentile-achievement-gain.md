@@ -59,3 +59,4 @@ The report's research summary (Section 1) attributes this to multiple meta-analy
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — a broader claim this one bears on
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — related
+- [Universal school intervention programs typically show small average effect sizes, with median effects between d = 0.07 and d = 0.16 per a cited review of 74 meta-analyses](universal-interventions-median-effect-sizes-small.md) — related

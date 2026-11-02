@@ -46,6 +46,7 @@ The article recommends recruiting and engaging families by leading with support 
 - [Culturally Competent Family Engagement](culturally_competent_family_engagement.md)
 - [Building Cultural Competency Skills for School Staff](building_cultural_competency_skills_for_school_staff.md)
 - [Family Engagement](family-engagement.md)
+- [Schools should clearly communicate the animation course's aims and promote the potential benefits of participation to increase family sign-up](clear-communication-to-boost-family-sign-up.md)
 
 ## Examples
 -

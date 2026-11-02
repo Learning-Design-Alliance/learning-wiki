@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (114 show a difference, 40 mixed, 20 no difference) · 149 studies (64 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 33 of 149 report an effect size · 170 claims rest on one study
+> **Evidence** · 176 claims (116 show a difference, 40 mixed, 20 no difference) · 151 studies (66 causal, 34 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 34 of 151 report an effect size · 172 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -231,6 +231,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The gamified class attended more sessions and arrived late less often than the control class (78% vs 65% average attendance)](../claims/gamification-higher-attendance-programming-course.md) [+M] — instruction changes it
 - [Positive Action reduced school-level student absenteeism in both trials](../claims/positive-action-reduces-absenteeism.md) [+M] — instruction changes it
 - [The authors attribute the achievement difference to continuous time-and-space-independent interaction, greater academic engagement, and more active participation in the DWT environment](../claims/dwt-interaction-engagement-explanation.md) [+W] — learners who differ on it differ in outcomes
+- [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](../claims/spokes-low-parent-attendance-57-percent.md) [+M] — instruction changes it
+- [Texting parents reduced pupil absenteeism (ES -0.054, about half a day) even though no texts concerned attendance](../claims/pep-texting-reduced-absenteeism.md) [+M] — instruction changes it
 
 ## The evidence by question
 

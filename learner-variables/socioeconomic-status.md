@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 217 claims (118 show a difference, 52 mixed, 47 no difference) · 169 studies (74 associational, 62 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 169 report an effect size · 216 claims rest on one study
+> **Evidence** · 218 claims (118 show a difference, 52 mixed, 48 no difference) · 170 studies (74 associational, 63 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 26 of 170 report an effect size · 217 claims rest on one study
 
 ## How to read this page
 
@@ -302,6 +302,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Both ABRA and the non-ICT intervention showed larger effects for pupils eligible for free school meals, equivalent to five months' progress](../claims/abra-fsm-subgroup-five-months-progress.md) [+M] — an instructional effect differs by group
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](../claims/paths-no-fsm-differential-gains.md) [-W] — an instructional effect differs by group
 - [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](../claims/ses-gap-westest-reading-sixth-grade.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Programming knowledge gains under Alice with 4C-ID do not differ significantly between students of very low and intermediate socioeconomic status when ECDL logical reasoning is covaried](../claims/alice-4cid-programming-gains-no-ses-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -51,3 +51,4 @@ Qualitative finding from student emails and posts in the case study. The authors
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — a narrower finding that bears on this claim
 - [Teacher autonomy support is associated with students' emotional engagement, playing a complementary role to structure](autonomy-support-associated-emotional-engagement.md) — related
+- [The authors interpret the achievement gain as arising from students feeling more at ease with a peer tutor and from increased time in active learning](peer-tutor-ease-of-interaction-interpretation.md) — related

@@ -50,3 +50,4 @@ Two-way ANOVA on posttest scores of the 58 students with strategy (PRWR vs TRA) 
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — related
 - [There is no interaction between teaching technique and students' reading habit in teaching reading comprehension](no-technique-reading-habit-interaction.md) — related
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](strategy-curiosity-interaction-reading.md) — related
+- [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related

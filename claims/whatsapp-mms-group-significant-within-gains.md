@@ -49,3 +49,4 @@ Paired-samples t-test within the experimental group receiving weekly WhatsApp MM
 - [The two groups did not differ significantly in idiom knowledge at pretest](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Student success scores increased in both the traditional and the WhatsApp-supported environments](both-environments-increased-success.md) — related
 - [Supporting traditional instruction with WhatsApp information messages produces significantly greater achievement gains than traditional instruction alone in 10th-grade literature](whatsapp-support-greater-success-gains.md) — related
+- [The experimental group's performance scores improved significantly from pretest to posttest over the application year](experimental-group-prepost-gain.md) — related

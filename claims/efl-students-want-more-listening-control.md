@@ -48,3 +48,4 @@ Questionnaire survey of two intact classes of second-year non-English majors at 
 ## Related Claims
 - [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](prior-knowledge-predicts-interactive-behavior.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
+- [In several Kazan city schools, about 90% of teachers considered it necessary to involve pupils in learning and research activity and about 70% of pupils wanted to be occupied in such activity](survey-teachers-pupils-research-activity-support.md) — related

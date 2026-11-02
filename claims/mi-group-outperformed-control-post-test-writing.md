@@ -62,3 +62,4 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Teaching the textual metafunction significantly improved Iranian EFL learners' essay coherence and cohesion ratings compared with essay-writing instruction alone](textual-metafunction-instruction-improves-efl-writing.md) — related
+- [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related

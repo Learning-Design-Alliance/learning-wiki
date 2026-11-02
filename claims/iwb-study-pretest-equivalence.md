@@ -57,3 +57,5 @@ Baseline comparison in the same pre-test post-test control group experiment (n=3
 - [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — a narrower finding that bears on this claim
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related
 - [The experimental and control classes did not differ significantly on the listening pre-test](otil-pretest-equivalence-classes.md) — related
+- [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
+- [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related

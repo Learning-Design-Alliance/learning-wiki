@@ -48,3 +48,4 @@ Quasi-experimental, non-randomized, non-equivalent pre-test/post-test control gr
 - [Performance differed significantly across low, medium and high scoring students taught with behavioural objectives, with low scorers benefiting most](behavioural-objectives-scoring-level-differences-set-theory.md) — related
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
+- [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](strategy-training-posttest-group-differences.md) — related

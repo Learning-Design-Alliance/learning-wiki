@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 172 claims (82 for, 72 mixed, 18 against) · 92 studies (33 review, 18 causal, 16 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 92 report an effect size · 167 claims rest on one study
+> **Evidence** · 173 claims (82 for, 73 mixed, 18 against) · 93 studies (33 review, 19 causal, 16 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 93 report an effect size · 168 claims rest on one study
 
 ## Description and scope
 
@@ -206,6 +206,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](../claims/vp-challenges-legal-technical.md) [~W]
 - [For affective outcomes, high-fidelity simulation (0.80) and standardized patients (0.73) show the largest effect sizes](../claims/hfs-sp-largest-affective-outcome-effect.md) [+W]
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](../claims/attitudes-after-one-supervised-use.md) [~W]
+- [Role-play training shows no significant difference between groups in theoretical examination scores](../claims/role-play-no-significant-theory-exam-difference.md) [~W]
 
 ## Examples
 

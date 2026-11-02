@@ -55,3 +55,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related
 - [About half (51.79%) of medical science students were satisfied with e-learning during the COVID-19 pandemic across 24 cross-sectional studies](medical-students-elearning-satisfaction-51-79-percent-covid.md) — related
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
+- [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](blended-teq-above-program-average.md) — related

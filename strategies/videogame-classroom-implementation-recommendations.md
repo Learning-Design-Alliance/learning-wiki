@@ -55,6 +55,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 - [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
 - [Plan game use deliberately and combine it with traditional vocabulary techniques](plan-game-use-and-combine-with-traditional-techniques.md)
+- [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 
 ## Examples
 -

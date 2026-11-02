@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 263 claims (119 for, 130 mixed, 14 against) · 195 studies (60 associational, 56 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 45 of 195 report an effect size · 247 claims rest on one study
+> **Evidence** · 266 claims (122 for, 130 mixed, 14 against) · 197 studies (60 associational, 58 causal, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 45 of 197 report an effect size · 250 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -310,6 +310,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Strategy-use scores showed no significant correlation with reading scores in the cognitive and social/affective groups](../claims/strategy-use-no-correlation-reading.md) [-W]
 - [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](../claims/self-regulation-group-test-interaction-significant.md) [~W]
 - [Student perceptions of understanding correlated poorly with actual exam performance across concepts](../claims/perception-performance-mismatch-respiratory-concepts.md) [-W]
+- [Junior secondary students taught Basic Science with a self-regulated learning approach achieved higher adjusted mean scores than students taught with the conventional method](../claims/srl-approach-higher-basic-science-achievement.md) [+W] — attached 2026-11-02 from Nwafor Chika E et al. (2015), which proposed "Self-regulated learning as learning guided by metacognition, strategic action, and motivation to learn".
+- [Self-regulation based strategic reading education produces significantly higher reading comprehension post-test scores than the current program in 5th grade students](../claims/srl-reading-education-improves-comprehension.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Zimmerman's three-phase sociocognitive self-regulated learning model (forethought, performance, self-reflection)".
+- [Self-regulation based reading education significantly improves 5th graders' motivation and learning strategies (self-regulation skills) relative to the current program](../claims/srl-reading-education-improves-self-regulation-skills.md) [+W] — attached 2026-11-02 from Tuncay Türkben (2019), which proposed "Zimmerman's three-phase sociocognitive self-regulated learning model (forethought, performance, self-reflection)".
 
 ## The evidence by question
 

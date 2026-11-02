@@ -45,6 +45,7 @@ The article recommends creating professional development opportunities for in-se
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Strengthen all facets of teachers' SRL knowledge through sustained, theory-informed professional development](sustained-pd-for-all-tk-srl-facets.md)
+- [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 
 ## Examples
 -
