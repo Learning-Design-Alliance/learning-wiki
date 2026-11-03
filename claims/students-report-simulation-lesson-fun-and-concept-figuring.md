@@ -124,3 +124,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Teacher interviews attributed increased motivation and engagement to the visual and interactive features of learning objects in both settings](teacher-interviews-los-motivation-both-settings.md) — related
 - [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](jcls-observation-indicators-high.md) — related
 - [Focus group interviews identify motivation (fun, attractiveness, clarity) and knowledge transfer (real life, speaking) as student themes about UbD](ubd-student-views-motivation-knowledge-transfer.md) — related
+- [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related
+- [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related

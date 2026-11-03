@@ -58,3 +58,4 @@ Descriptive analysis of interview responses; Table 6 lists the limitations theme
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related
 - [Most sampled MA TEFL students had sufficient computer and internet access for online learning](sample-computer-internet-access-sufficient.md) — related
+- [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related

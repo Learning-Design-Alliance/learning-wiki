@@ -44,6 +44,7 @@ Classes held by tutors within the two courses followed a repeated four-step algo
 
 - [Highly structured scripted tutoring lesson pattern: sequenced phonics routines, leveled book reading with prediction routines, immediate corrective feedback, and motivational games and points](structured-scripted-tutoring-lesson-pattern.md)
 - [Flipped-course pattern: pre-class videos with monitored quiz forms, in-class group activities, and after-class group work](flipped-course-video-quiz-inclass-activity-pattern.md)
+- [Videogame-based lesson plan pattern for early-years mathematics](lemmings-early-years-math-lesson-pattern.md)
 
 ## Examples
 -

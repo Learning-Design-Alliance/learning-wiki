@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 500 claims (268 show a difference, 101 mixed, 131 no difference) · 341 studies (153 associational, 133 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 55 of 341 report an effect size · 492 claims rest on one study
+> **Evidence** · 504 claims (270 show a difference, 103 mixed, 131 no difference) · 345 studies (153 associational, 137 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 55 of 345 report an effect size · 496 claims rest on one study
 
 ## How to read this page
 
@@ -539,6 +539,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students significantly outperformed female students in listening success in most film categories](../claims/male-students-outperform-females-listening.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Significant gender difference favoring male students on the e-learning subscale](../claims/gender-difference-e-learning-subscale-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](../claims/within-gender-lmm-lmc-retention-comparisons.md) [~M] — an instructional effect differs by group
+- [Female students significantly outperformed male students in mathematics achievement](../claims/female-students-outperform-males-math-achievement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls outperformed boys on the immediate post-test but this gender difference disappeared at delayed post-test](../claims/gender-gap-post-test-disappears-delayed.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](../claims/gender-differences-spatial-intrapersonal.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](../claims/courseware-reduces-visual-spatial-gender-gap.md) [~W] — an instructional effect tested by group: gains did not differ significantly, one group with no control
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

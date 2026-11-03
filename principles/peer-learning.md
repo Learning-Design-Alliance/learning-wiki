@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (32 for, 25 mixed, 1 against) · 61 studies (17 causal, 13 quant-synthesis, 10 review, 7 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 61 report an effect size · 50 claims rest on one study
+> **Evidence** · 60 claims (34 for, 25 mixed, 1 against) · 62 studies (18 causal, 13 quant-synthesis, 10 review, 7 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 62 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,8 @@ Claims that bear on peer learning but do not change the model above, each with w
 - [Peer tutoring produced significantly higher overall biology posttest achievement than lecture demonstration at secondary level](../claims/peer-tutoring-biology-posttest-achievement.md) [+W] — attached 2026-11-01 from Irfan Ullah et al. (2018), which proposed "Use peer tutoring as a supplementary, highly structured and supervised instructional technique"; tests this page's relationship.
 - [Peer teaching produced significantly higher mathematics achievement than no peer teaching among low-scoring undergraduate female students in Oman](../claims/peer-teaching-improves-math-achievement-undergraduate-oman.md) [+W] — attached 2026-11-02 from Abdelkarim et al. (2016), which proposed "Instructors should use peer teaching to help students increase their mathematics achievement"; tests this page's relationship.
 - [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](../claims/peer-tutoring-final-grade-advantage.md) [+W] — attached 2026-11-02 from Guerrero Flores et al. (2018), which proposed "Monitor tutor profiles and systematize the tutorial strategy to sustain peer tutoring effectiveness"; tests this page's relationship.
+- [Peer correction group outperformed teacher correction (control) group in posttest pronunciation](../claims/peer-correction-outperforms-teacher-correction.md) [+W] — attached 2026-11-03 from Ahangari (2014), which proposed "Use paired peer correction of pronunciation to harness social interaction for pronunciation gains"; tests this page's relationship.
+- [Peer correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](../claims/peer-correction-improves-efl-pronunciation.md) [+W] — attached 2026-11-03 from Ahangari (2014), which proposed "Use paired peer correction of pronunciation to harness social interaction for pronunciation gains"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

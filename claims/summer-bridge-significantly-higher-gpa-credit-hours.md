@@ -49,3 +49,4 @@ Second-stage analysis comparing intervention and control groups using t tests an
 - [Fall-to-fall retention was significantly higher for the 2015 Summer Bridge cohort than for controls](summer-bridge-fall-to-fall-retention-cohort-2015.md) — related
 - [Summer Bridge participants at a Hispanic-serving community college outperformed non-participants in gatekeeper course pass rates, with gains growing across cohorts](summer-bridge-gatekeeper-pass-rates-hispanic-community-college.md) — possibly the same claim (merge candidate)
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
+- [Student engagement with the STAR Lite program increased across successive cohorts](star-lite-engagement-increased-cohorts.md) — related

@@ -18,7 +18,7 @@ sources:
 # Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 24 studies (10 causal, 7 review, 6 quant-synthesis, 1 design), `q1`–`q4` · 9 of 24 report an effect size · 7 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 25 studies (11 causal, 7 review, 6 quant-synthesis, 1 design), `q1`–`q4` · 10 of 25 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -139,6 +139,7 @@ This pattern is scoped to a short question routine applied to an experience or t
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](../claims/guiding-questions-and-video-control-improve-learning.md) [+W]
 - [Post-test MCT mean scores were higher for the two ELA groups (35.53 and 32.79) than for the two CTM groups (25.83 and 24.98)](../claims/ela-post-test-mct-means-higher.md) [+W]
 - [The correlation between number of questions answered and attainment shift was only very slight (r = 0.13; r = 0.10), so the relationship was not clearly linear](../claims/weak-correlation-questions-attainment-shift.md) [~W]
+- [Pupils' life skills and language learning strategies improved significantly from pre-test to post-test within both experimental groups](../claims/within-group-pre-post-gains-life-skills-strategies.md) [~W]
 
 ## Related Patterns
 

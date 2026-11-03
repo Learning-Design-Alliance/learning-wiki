@@ -44,6 +44,7 @@ The review recommends that authors report SBE initiatives in greater detail to i
 
 - [Develop a checklist to facilitate detailed description of health-education interventions and promote replicability](checklist-intervention-reporting-replicability.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
+- [Report research methods in full detail to enable replication](report-methods-for-replication-strategy.md)
 
 ## Examples
 -

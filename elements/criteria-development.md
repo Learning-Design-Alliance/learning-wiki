@@ -72,6 +72,7 @@ Involving learners in defining quality criteria converts assessment from an exte
 **[Project-based learning contracts](../strategies/learning_contracts.md)** — Learners propose success criteria for their project deliverables, negotiate them with the instructor, and use them for checkpoint self-evaluation.
 
 **[Examination board peer review in medical education](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3850873/)** — Trainees develop rating criteria for clinical presentations before rating peers, sharpening discrimination between performance levels.
+- [Position students as partners in instruction and assessment](../strategies/position-students-as-partners-fa.md)
 
 ## Key Sources
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/BF00117714](https://doi.org/10.1007/BF00117714)

@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
-newest_evidence: 2010
+newest_evidence: 2011
 sources:
-  - id: jakub-bielak-2010
-    resource: "https://eric.ed.gov/?id=EJ1136451"
-    title: "Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451"
-    author: Jakub Bielak, Mirosųaw Pawlak
+  - id: bielak-2011
+    resource: "https://doi.org/10.14746/ssllt.2011.1.3.4"
+    title: "Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4"
+    author: "Bielak, J., & Pawlak, M."
     q: 2
     i: "?"
     kind: causal
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A one-way ANOVA on the pretest yielded no main effect for group, F(2, 47) = 1.01, p = .37. [→ Jakub Bielak 2010](#jakub-bielak-2010)
+`q2 i?` A one-way ANOVA on the pretest yielded no main effect for group, F(2, 47) = 1.01, p = .37. [→ Bielak 2011](#bielak-2011)
 
 ## Evidence
 
-### Jakub Bielak 2010
+### Bielak 2011
 
-Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451
+Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4
 
 `q2 · i?` · `causal · r1`
 

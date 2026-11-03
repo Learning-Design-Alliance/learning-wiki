@@ -65,6 +65,7 @@ NHT combines the benefits of peer discussion with individual accountability — 
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Structured pair-based cooperative learning procedure with four explicit cooperation steps for young children](pair-based-cooperative-learning-four-steps-kindergarten.md)
 - [Run a team-based answer-until-correct scratch-off review before exams](team-ifat-consensus-review-strategy.md)
+- [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
 
 ## Examples
 - **Kagan Publishing & Professional Development** ([kaganonline.com](https://www.kaganonline.com)) — the source of the structure and training materials; NHT is one of the core Kagan structures taught in cooperative learning workshops.

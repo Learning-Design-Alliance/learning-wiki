@@ -24,7 +24,8 @@ A 20-item three-choice rating scale developed by Wael Alshurman for measuring no
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Social Skills Scale for Students with Autism (SSS)](social-skills-scale-for-students-with-autism-sss.md)
 
 ## Key Sources
 - Wael Alshurman, Ihsani Alsreaa. (2015). The Efficiency of Peer Teaching of Developing Non Verbal Communication to Children with Autism Spectrum Disorder (ASD). Journal of Education and Practice, Vol.6, No.29. https://www.iiste.org

@@ -51,3 +51,4 @@ Quasi-experiment with 49 fifth graders: Experimental Group (25) taught via blend
 - [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related
 - [Blended learning improves the fluency skill of verbal creative thinking](blended-learning-improves-fluency-skill.md) — related
 - [Undergraduates in a blended learning environment achieved significantly higher self-directed learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-sdl-posttest-than-traditional.md) — related
+- [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](blended-teaching-higher-academic-achievement-medical-students.md) — related

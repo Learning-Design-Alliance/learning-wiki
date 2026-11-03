@@ -58,3 +58,4 @@ ANCOVA on the researcher-made 15-item Likert attitude scale for the experimental
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
 - [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related
 - [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related
+- [Traditional teaching strategies dominated the classroom (87%) with no multiple intelligences activities before the intervention](traditional-strategies-dominated-baseline.md) — related

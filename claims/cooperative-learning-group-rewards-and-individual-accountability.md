@@ -176,3 +176,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) — a broader claim this one bears on
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](structured-dpp-no-contribution-balance-gain.md) — related
+- [Task-based group participants prepared classified ads in groups of three and received peer and instructor feedback, supporting ZPD-based cooperative learning.](task-based-cooperative-feedback-zpd.md) — a narrower finding that bears on this claim

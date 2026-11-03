@@ -41,7 +41,8 @@ A forward-looking recommendation drawn from the findings: as machines increasing
 - [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](../claims/diy-prediction-better-conceptual-learning-than-yoked-observation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers should be less prescriptive and allow students to decide how to carry out mathematics activities](less-prescriptive-teacher-role-pbl-math.md)
 
 ## Examples
 -

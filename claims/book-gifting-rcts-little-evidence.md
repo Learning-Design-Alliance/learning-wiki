@@ -49,3 +49,4 @@ Narrative review of prior book-gifting evaluations cited in the background secti
 - [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](vefp-no-significant-impact-reading-ability.md) — related
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Children in the intervention reported reading more books over the summer than control children](intervention-children-read-more-books-summer.md) — related

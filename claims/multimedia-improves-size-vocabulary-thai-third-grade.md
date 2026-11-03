@@ -57,3 +57,4 @@ One-group pretest-posttest quasi-experiment with time-series design; 42 third-gr
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
 - [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — a broader claim this one bears on
+- [School cycle (age/grade level) significantly affects vocabulary test performance, with first-cycle pupils scoring lowest](school-cycle-affects-vocabulary-scores.md) — related

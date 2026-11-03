@@ -12,7 +12,7 @@ generated:
 # ARCS Model of Motivational Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (8 for, 5 mixed, 1 against) · 8 studies (4 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 9 studies (5 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size · 15 claims rest on one study
 
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons ([Park, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)).
@@ -70,6 +70,7 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [Experiential learning and direct instruction produce no statistically significant difference in secondary agriculture students' ARCS motivation](../claims/experiential-vs-direct-instruction-no-motivation-difference.md) [~W] — attached 2026-11-02 from Marshall A. Baker et al. (2017), which proposed "Keller's ARCS Model of Motivation".
 - [ARCS motivation factors significantly predict learning achievement](../claims/arcs-factors-predict-learning-achievement.md) [+W] — attached 2026-11-03 from Su et al. (2013), which proposed "ARCS motivation model (Attention, Relevance, Confidence, Satisfaction) as the design and assessment framework for the game-based learning system".
 - [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](../claims/arcs-questionnaire-positive-motivation-satisfaction-confidence.md) [+W] — attached 2026-11-03 from Su et al. (2013), which proposed "ARCS motivation model (Attention, Relevance, Confidence, Satisfaction) as the design and assessment framework for the game-based learning system".
+- [Pupils reported high satisfaction with the children-literature program](../claims/pupil-satisfaction-children-literature-program.md) [+W]
 
 ## The evidence by question
 

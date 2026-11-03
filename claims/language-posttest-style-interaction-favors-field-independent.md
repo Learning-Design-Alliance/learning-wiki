@@ -51,3 +51,4 @@ In the language post-test ANCOVA (Table 2), the GROUP * CS interaction was signi
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](cooperative-learning-math-equivalent-across-cognitive-styles.md) — related
 - [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](cooperative-learning-no-language-effect.md) — related
 - [A cooperative learning program produced significantly higher mathematics achievement than traditional teaching in fourth-grade students](cooperative-learning-improves-math-achievement-fourth-grade.md) — related
+- [Teaching type interacts with attribution style and academic achievement in the global-local favorable condition](teaching-type-attribution-style-global-local-favorable-interaction.md) — related

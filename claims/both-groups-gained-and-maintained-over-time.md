@@ -72,3 +72,4 @@ Repeated-measures comparison of posttest to delayed posttest within each group; 
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [All four groups showed statistically significant pretest-to-posttest achievement gains, but gains differed greatly in size](all-groups-gained-unequally-pretest-posttest.md) — related
 - [The treatment's benefits on the second conditional were maintained on delayed posttests four and eight weeks after instruction](virtual-world-gains-maintained-delayed-posttests.md) — related
+- [Concept mapping supports retention of science knowledge over five days](concept-mapping-supports-retention-delayed-posttest.md) — a narrower finding that bears on this claim

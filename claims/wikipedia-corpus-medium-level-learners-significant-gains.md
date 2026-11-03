@@ -49,3 +49,4 @@ A quasi-experiment with 48 first-year English majors assigned to experimental (c
 - [Low-level (Level III) learners performed significantly better under conventional lexical instruction than under corpus-based instruction with the Wikipedia Corpus.](wikipedia-corpus-low-level-learners-disadvantaged.md) — related
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related

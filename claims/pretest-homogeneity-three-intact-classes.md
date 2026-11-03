@@ -55,3 +55,4 @@ Homogenization check on 49 female learners aged 11-13 using the Cambridge Young 
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
 - [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related
+- [The three correction groups did not differ in general proficiency before treatment](correction-groups-homogeneous-proficiency-pet.md) — related

@@ -27,7 +27,8 @@ Pixton is an online comic-strip creation platform developed by Pixton that enabl
 - [Experimental-group students perceived Pixton comic strips as useful for learning EFL grammar and vocabulary](../claims/students-perceive-pixton-useful-grammar-vocabulary.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Toondoo online comic creation tool](toondoo-online-comic-creation-tool.md)
 
 ## Key Sources
 - Cabrera, P., Castillo, L., González, P., Quiñónez, A., & Ochoa, C. (2018). The impact of using Pixton for teaching grammar and vocabulary in the EFL Ecuadorian context. Teaching English with Technology, 18(1), 53-76. http://www.tewtjournal.org

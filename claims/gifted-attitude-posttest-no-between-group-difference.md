@@ -48,3 +48,6 @@ Mann-Whitney U test on post-test scores of the 12-student experimental and 12-st
 - [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](differentiated-math-program-increases-gifted-attitude.md) — reports the opposite
 - [Traditional (regular-curriculum) instruction did not significantly change gifted students' mathematics attitudes, with descriptive scores decreasing](regular-curriculum-no-attitude-gain-gifted.md) — related
 - [Post-test achievement and post-attitude did not differentiate by gender or pre-study mathematical attitude](pbl-outcomes-no-gender-attitude-differentiation.md) — related
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Ministry of National Education curriculum.](differentiation-approach-beats-national-curriculum-gifted.md) — related
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Purdue model.](differentiation-approach-beats-purdue-model-gifted.md) — related
+- [The differentiation approach, designed for gifted students, also significantly increased mathematics achievement of non-gifted students.](differentiation-approach-benefits-non-gifted-students.md) — related

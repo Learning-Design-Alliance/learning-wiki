@@ -83,6 +83,7 @@ Argument construction supports learning because generating and defending a posit
 - **[Debate](../patterns/debate.md) formats in public speaking courses** — timed construction and delivery of claim–evidence–rebuttal cases under explicit rubrics.
 - [Use educational discussion and debate to form ecological and moral convictions](../strategies/discussion-debate-ecological-convictions.md)
 - [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
+- [Use argumentation activities built around claims, reasons, supporters and rebuttals tied to curriculum achievements, with students designing experiments](../strategies/argumentation-worksheets-claims-rebuttals-experiment-design.md)
 
 ## Key Sources
 - Toulmin, S. E. (2003). *The Uses of Argument* (Updated ed.). Cambridge University Press. [doi:10.1017/CBO9780511840005](https://doi.org/10.1017/CBO9780511840005)

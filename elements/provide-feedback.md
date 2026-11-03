@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (22 for, 14 mixed, 3 against) · 39 studies (11 causal, 9 review, 8 quant-synthesis, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 6 of 39 report an effect size · 34 claims rest on one study
+> **Evidence** · 40 claims (22 for, 15 mixed, 3 against) · 40 studies (12 causal, 9 review, 8 quant-synthesis, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 6 of 40 report an effect size · 35 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -86,6 +86,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Within the output-producing group, high-feedback receivers significantly outperformed both low-feedback receivers and the input-only control group](../claims/high-feedback-receivers-outperform-low-feedback-and-control.md) [+W]
 - [The amount of corrective feedback an individual learner received correlated positively with that learner's post-test performance](../claims/learner-feedback-amount-correlates-posttest-performance.md) [+W]
 - [Implicit (identification-only) and explicit (identification plus correction) corrective feedback produce comparable gains in error detection and correction](../claims/no-difference-implicit-explicit-cf.md) [~W]
+- [Self-correction group outperformed peer-correction and teacher-correction groups in posttest pronunciation](../claims/self-correction-outperforms-peer-and-teacher-correction.md) [~W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

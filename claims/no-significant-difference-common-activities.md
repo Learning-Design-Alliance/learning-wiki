@@ -46,3 +46,4 @@ Independent-sample t-tests compared shared activities (two online activities for
 
 ## Related Claims
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
+- [Online students were as successful as hybrid students in overall course performance](online-as-successful-as-hybrid-overall-performance.md) — related

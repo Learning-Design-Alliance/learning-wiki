@@ -102,3 +102,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Training for speed in handwriting may be secured without considerable sacrifice of quality](speed-without-quality-sacrifice.md) — related
 - [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](nat-chinese-handwriting-construction-accuracy-gains.md) — reports the opposite
 - [The type of educational software matters: heterogeneous technology effects are not solely a product of context](software-type-matters-holding-context-constant.md) — related
+- [Practicing French vocabulary by writing or typing leads to higher spelling scores than practicing by multiple choice](writing-typing-beat-multiple-choice-spelling.md) — related

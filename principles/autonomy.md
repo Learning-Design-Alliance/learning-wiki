@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (29 for, 32 mixed, 3 against) · 61 studies (13 causal, 13 review, 11 associational, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 61 report an effect size · 56 claims rest on one study
+> **Evidence** · 65 claims (30 for, 32 mixed, 3 against) · 62 studies (13 causal, 13 review, 11 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 7 of 62 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](../claims/forums-serial-monologues-mandatory-participation.md) [~W] — attached 2026-10-30 from Banegas et al. (2014), which proposed "Do not make forum participation or group-work tasks mandatory in online teacher education".
 - [Students still want teachers' help and do not want all control handed over to them](../claims/students-still-want-teacher-support-under-autonomy.md) [+W] — attached 2026-11-01 from Yushan Wang (2010), which proposed "Give learners more control over listening practice to foster autonomy while retaining teacher guidance".
 - [The Vocabulary Self-Selection group outperformed the Input Enhancement group on the seen achievement posttest](../claims/vss-outperforms-input-enhancement-seen-posttest.md) [+W] — attached 2026-11-02 from Golfam Masoudi (2017), which proposed "Allow learners to self-select the vocabulary they study to build autonomy and motivation".
+- [Free choice of book motivated students to read more and gain more enjoyment](../claims/rsa-free-book-choice-motivates.md) [+W] — attached 2026-11-03 from Charumanee (2014), which proposed "Give students freedom to choose their own reading materials to build a reading culture"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

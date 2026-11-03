@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (98 show a difference, 18 mixed, 8 no difference) · 103 studies (36 causal, 25 review, 12 qualitative, 11 quant-synthesis, 9 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 103 report an effect size · 124 claims rest on one study
+> **Evidence** · 125 claims (99 show a difference, 18 mixed, 8 no difference) · 104 studies (36 causal, 25 review, 13 qualitative, 11 quant-synthesis, 9 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 104 report an effect size · 125 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -166,6 +166,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](../claims/structured-dpp-no-contribution-balance-gain.md) [-M] — instruction changes it
 - [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](../claims/dpbl-improves-knowledge-creative-thinking-teamwork.md) [+M] — instruction changes it
 - [Group form of orthoepic practicum work is reported as better than frontal form for trainees' individual recording and collective activity](../claims/group-practicum-better-than-frontal-for-speech-training.md) [+W] — instruction changes it
+- [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](../claims/cooperative-group-work-develops-social-skills-preschoolers.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

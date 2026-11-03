@@ -126,7 +126,7 @@ A quasi-experiment with Iranian intermediate EFL learners compared two ways of t
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **20 distinct studies** (6 review, 5 causal, 4 quant-synthesis, 4 theoretical, 1 kind not coded), `q1`–`q3`, 0 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **20 distinct studies** (6 review, 6 causal, 4 quant-synthesis, 4 theoretical), `q1`–`q3`, 0 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -134,7 +134,7 @@ A quasi-experiment with Iranian intermediate EFL learners compared two ways of t
 | [Norris & Ortega 2000](https://doi.org/10.1111/0023-8333.00136) | q3 · quant-synthesis · r2 | i? | this claim |
 | [Goo et al. 2015](https://doi.org/10.1075/sibil.48.18goo) | q3 · quant-synthesis · r? | i? | this claim |
 | [Spada & Tomita 2010](https://doi.org/10.1111/j.1467-9922.2010.00562.x) | q3 · quant-synthesis · r? | i? | this claim; [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports) |
-| [Ansari 2016](https://doi.org/10.7575/aiac.alls.v.7n.1p.185) | q1 | i? | this claim |
+| [Ansari 2016](https://doi.org/10.7575/aiac.alls.v.7n.1p.185) | q1 · causal · r1 | i? | this claim |
 | Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports); [Explicit teaching is more effective for EFL copular be learning but its effect is not dura](explicit-teaching-effective-but-not-durable.md) (qualifies); [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruc](rule-oriented-explicit-outperforms-implicit.md) (supports) |
 | Calderon 1982 | q2 · theoretical · r1 | i? | [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitiv](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) (counts against) |
 | [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 / q2 · theoretical · r3 | i? | [Mental representation is not amenable to direct explicit instruction because UG and parser](mental-representation-not-directly-instructable.md) (counts against); [Learners acquired untaught syntactic properties but failed to show sensitivity to agreemen](untaught-syntax-acquired-taught-agreement-not.md) (counts against); [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exis](grammar-as-skill-is-a-conflation.md) (counts against) |
@@ -193,3 +193,4 @@ A quasi-experiment with Iranian intermediate EFL learners compared two ways of t
 - [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — related
+- [Explicit and task-based genre instruction lead EFL students to outperform implicit and self-study instruction on lexical and discourse features of classified ads.](explicit-task-based-outperform-implicit-self-study-classified-ads.md) — a narrower finding that bears on this claim

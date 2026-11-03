@@ -51,3 +51,4 @@ Interview question on perceived sufficiency, analyzed in categories (Table 9). T
 - [Playing OrCheTaboo after laboratory experiments produced significantly higher functional-group term test scores than laboratory experiments alone, with a large effect](orchetaboo-improves-functional-group-term-learning.md) — related
 - [Students' main difficulties during OrCheTaboo were associating concepts and giving scientific descriptions, with lack of knowledge and forbidden terms also cited](orchetaboo-student-difficulties-describing.md) — related
 - [91% of experimental group students said OrCheTaboo helped them learn functional-group concepts](orchetaboo-students-report-learning-help.md) — related
+- [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](language-learners-expression-difficulty-reflection.md) — related

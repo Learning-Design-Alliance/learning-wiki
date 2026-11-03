@@ -52,3 +52,4 @@ Posttest scores disaggregated by pretest-derived ability subgroups (advanced, in
 - [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related
 - [The Comprehensive Charts instruction was most effective for advanced achievers, with no significant effect for lower proficiency subgroups](charts-instruction-advanced-achievers-only.md) — possibly the same claim (merge candidate)
 - [Nine of ten scored treatment-group participants performed at high-intermediate or advanced ESL reading comprehension levels on the TABE-CLAS-E posttest](treatment-tabe-reading-proficiency-levels.md) — related
+- [Integrated reading and writing instruction significantly improved integrated writing test scores for intermediate and advanced students but not beginning students](integrated-instruction-improved-writing-intermediate-advanced.md) — related

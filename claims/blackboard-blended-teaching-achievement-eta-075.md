@@ -10,6 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: wadha-h-al-otaibi-2017
     resource: "https://doi.org/10.5539/ies.v10n11p100"
@@ -23,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
@@ -71,3 +72,4 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 - [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](blended-teaching-third-grade-maths-achievement.md) — related
 - [Second graders learning multiplication with the JCLS rated constructivist learning significantly higher than the blackboard control group](jcls-higher-constructivist-learning-than-blackboard.md) — related
 - [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related
+- [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related

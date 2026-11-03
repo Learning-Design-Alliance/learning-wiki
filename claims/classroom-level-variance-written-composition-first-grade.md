@@ -58,3 +58,4 @@ Baseline multilevel models fitted to partition variance in written composition o
 - Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related
 - [About 9% of variance in classroom ICT use lies between schools, with the remainder between teachers within schools](variance-partition-school-teacher-ict-use.md) — related
 - [Most variability in reading outcomes was between pupils rather than between schools, with school-level heterogeneity explaining 8% (NGRT), 16% (SWRT) and 2% (PhAB) of total variability](butterfly-phonics-school-variability-icc.md) — related
+- [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related

@@ -48,3 +48,4 @@ Preliminary moderation analysis using FBI crime records matched to center geocod
 - [Head Start impacts on children's PPVT receptive vocabulary scores are larger in communities with lower availability of non-Head Start child care options](child-care-availability-moderates-head-start-ppvt-impact.md) — related
 - [No significant differences in Head Start treatment impact on Applied Problems or Letter Word Identification by level of neighborhood crime](no-crime-moderation-applied-problems-letter-word.md) — related
 - [The number of DOE-funded preschools in the community is marginally significantly associated with smaller Head Start impacts on Woodcock Johnson Applied Problems scores](doe-preschools-marginal-moderation-applied-problems.md) — related
+- [An additional hour per day in Head Start increases receptive vocabulary (PPVT) scores by .062 SD for the full sample](head-start-hour-ppvt-increase.md) — related

@@ -18,7 +18,7 @@ sources:
 # Listening Palette
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Adapted from choreographer Liz Lerman's Critical Response Process, a listening palette is a low-stakes, multimodal reflection task: learners watch or listen to content, then individually record their noticings in whatever form feels natural — words, sketches, gesture, invented notation, movement. Small groups then share their individual reflections, build on one another's ideas, and create a collaborative representation before presenting to the whole class. The protocol treats multiple modes of expression as equally valid evidence of understanding, rather than privileging verbal/written response.
@@ -43,7 +43,7 @@ Adapted from choreographer Liz Lerman's Critical Response Process, a listening p
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Using a variety of reflective modes supported learning across academic, social, and personal development planes](../claims/varied-reflective-modes-multivocality-benefits.md) [+W]
 
 ## Related Elements
 - [Embodied Choreographic Assessment](embodied-choreographic-assessment.md) — a more extended, iterative version of multimodal formative assessment from the same study

@@ -81,10 +81,12 @@ Discussion sections convert passive exposure into generative engagement; learner
 - [Flipped Classroom](../principles/flipped-learning.md) — content delivery moves to pre-work so section time is freed for discussion
 
 ## Examples
+
 - **Peer Instruction (Eric Mazur, Harvard University)** ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)) — students answer a concept question individually, discuss with neighbors, then re-answer; peer discussion in the intervening step produces large gains [Peer discussion improves performance even without initial knowledge.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - **[Socratic Seminar](socratic-seminar.md)** — a text-based discussion format in which learners question one another using evidence from an assigned reading; the facilitator intervenes only to redirect
 - **Harkness Method (Phillips Exeter Academy)** — oval-table discussion where all participants, with the teacher as facilitator, drive the conversation
 - **Perusall** ([https://www.perusall.com](https://www.perusall.com)) — social annotation platform that moves reading discussion online, giving every learner a written voice before the live section
+- [Use peer-led, sectioned class discussion of test items as a structured remediation procedure](../strategies/peer-led-sectioned-remediation-discussion-strategy.md)
 
 ## Key Sources
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)

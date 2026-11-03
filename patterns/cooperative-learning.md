@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 87 claims (54 for, 32 mixed, 1 against) · 72 studies (34 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 72 report an effect size · 79 claims rest on one study
+> **Evidence** · 90 claims (57 for, 32 mixed, 1 against) · 74 studies (36 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 22 of 74 report an effect size · 82 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - Both cooperative and competitive learning strategies produce significantly better English vocabulary development than traditional instruction for Iranian intermediate EFL learners [+W] — attached 2026-11-02 from Neda Fekri (2016), which proposed "EFL instructors should raise learners' awareness of the purpose and advantages of cooperative learning methods".
 - [Co-operative learning produces significantly higher English grammar achievement than conventional methods in secondary students](../claims/cooperative-learning-beats-conventional-english-grammar-secondary.md) [+W] — attached 2026-11-02 from G. Singaravelu (2010), which proposed "A seven-activity co-operative learning sequence for grammar lessons"; tests this page's relationship.
 - [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](../claims/cooperative-learning-activities-improve-efl-oral-fluency.md) [+W] — attached 2026-11-02 from Hassan Alrayah (2018), which proposed "Train EFL teachers in Cooperative Learning activities and generalize their use in English language teaching"; tests this page's relationship.
+- [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](../claims/cooperative-group-work-improves-preschool-pattern-recognition.md) [+W] — attached 2026-11-03 from Kamuran Tarım (2015), which proposed "Establish social skill standards — active listening, happy talk and participation of each child — before cooperative group work with young children"; tests this page's relationship.
+- [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](../claims/teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) [+W] — attached 2026-11-03 from Kamuran Tarım (2015), which proposed "Establish social skill standards — active listening, happy talk and participation of each child — before cooperative group work with young children".
+- [Students taught with the TGT cooperative learning model achieve higher physics learning outcomes overall than students taught with conventional learning models](../claims/tgt-higher-physics-outcomes-than-conventional.md) [+W] — attached 2026-11-03 from Nadrah et al. (2017), which proposed "Teams Games Tournament five-stage structure"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -67,3 +67,4 @@ The same quasi-experimental study's Course 554 paired-samples t-test for the 26-
 ## Related Claims
 - [Experimental group outperformed control group on post-tests in both courses](experimental-group-outperformed-control-post-tests.md) — possibly the same claim (merge candidate)
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
+- [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related

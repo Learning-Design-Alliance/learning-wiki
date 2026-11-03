@@ -53,3 +53,4 @@ Preschool ADHD subsample analysis (Feil et al., 2016; n = 45 of 126) from the Fe
 - [In the PFS ADHD-risk subsample, 54% of intervention children versus 11% of controls responded or improved by teacher-rated clinical criteria](pfs-responder-analysis-teacher-report-clinical-response.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
 - [A parent-report ECI cutoff of two or more SDs above the mean identified 34 of 126 children (27%) as at risk for developing ASD](eci-cutoff-identified-asd-risk-subsample.md) — related
+- [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related

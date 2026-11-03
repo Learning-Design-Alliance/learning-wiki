@@ -50,3 +50,4 @@ Hosseini, H., Chalak, A., & Biria, R. (2019). Impact of Backward Design on Impro
 - [After adjusting for pre-test differences, there was no statistically significant difference in writing improvement between students of experienced and inexperienced flipped-learning teachers](no-teacher-experience-difference-flipped-ancova.md) — related
 - [Group discussion as a pre-activity task has no significant effect on the writing ability of Iranian intermediate EFL learners](group-discussion-preactivity-no-significant-effect-writing.md) — related
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — related
+- [Integrated reading and writing instruction significantly improved integrated writing test scores for intermediate and advanced students but not beginning students](integrated-instruction-improved-writing-intermediate-advanced.md) — related

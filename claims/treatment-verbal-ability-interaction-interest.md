@@ -48,3 +48,4 @@ ANCOVA interaction test in the 3 x 3 factorial quasi-experiment; the article rep
 - [Instructional strategy has a significant main effect on primary students’ posttest interest in mathematics](instructional-strategy-main-effect-interest-mathematics.md) — related
 - [Verbal ability has a significant main effect on primary students’ interest in mathematics, with higher verbal ability groups scoring higher](verbal-ability-main-effect-interest-mathematics.md) — related
 - [The interaction of treatment and gender has no statistically significant effect on achievement in algebraic word problems](treatment-gender-interaction-not-significant.md) — related
+- [Treatment and numerical ability interacted significantly in their effects on mathematics achievement](treatment-numerical-ability-interaction-math-achievement.md) — related

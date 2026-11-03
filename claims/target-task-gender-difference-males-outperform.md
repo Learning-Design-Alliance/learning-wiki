@@ -64,3 +64,4 @@ ANCOVA of post-test PTCE scores for the 60 experimental-group students by gender
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
 - [Gender significantly affects Electronic Works achievement, favouring boys](gender-effect-favouring-boys-electronic-works.md) — related
 - [Female students in the experimental group performed significantly better than male students at post-measurement (p=.032)](busuu-gender-difference-post-test.md) — reports the opposite
+- [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — related

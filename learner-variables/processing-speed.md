@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (46 show a difference, 24 mixed, 7 no difference) · 54 studies (23 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 16 of 54 report an effect size · 77 claims rest on one study
+> **Evidence** · 79 claims (46 show a difference, 25 mixed, 8 no difference) · 55 studies (24 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 16 of 55 report an effect size · 79 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -113,6 +113,8 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [The 5P model produced significantly faster attention reaction times than the 5E model, with a large model-by-time interaction](../claims/5p-model-improves-attention-reaction-time.md) [+M] — instruction changes it
 - [The 5P model produced significantly faster working memory reaction times than the 5E model](../claims/5p-model-improves-working-memory-reaction-time.md) [+M] — instruction changes it
 - [None of the ANT network scores or neutral reaction times predicted significant variance in collapsed physics pre-test scores](../claims/ant-scores-no-variance-pre-test.md) [-M] — learners who differ on it differ in outcomes
+- [MANCOVA showed significant treatment effects for 11 of 15 dependent measures with consistently high effect sizes, while L2 reading speed, L2 spelling, L2 rapid digit naming and L3 stimulated vocabulary retrieval did not change as a function of the intervention](../claims/mancova-treatment-effects-11-of-15.md) [-M] — instruction changes it
+- [The training proved effective irrespective of reading ability and was more effective for the Test Dyslexic group than for the Test Nondyslexic group, which made greater gains on rapid naming, L3 receptive vocabulary and L3 picture naming](../claims/training-more-effective-for-dyslexic-learners.md) [~M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

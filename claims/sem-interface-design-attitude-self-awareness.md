@@ -47,3 +47,4 @@ SEM analysis (LISREL) of the learning satisfaction questionnaire data from the e
 ## Related Claims
 - [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related
 - [Teachers' DL self-efficacy shows the strongest direct effect on their DL teaching practices](dl-self-efficacy-predicts-dl-teaching-practices.md) — related
+- [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](reading-attitude-satisfaction-effectiveness-correlations.md) — related

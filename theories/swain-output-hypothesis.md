@@ -12,7 +12,7 @@ generated:
 # Swain's output hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 10 studies (5 causal, 4 qualitative, 1 review), `q1`–`q3` · 1 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (15 for, 7 mixed) · 11 studies (6 causal, 4 qualitative, 1 review), `q1`–`q3` · 1 of 11 report an effect size · 22 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej1095572, eric-ej1195386, eric-ej420159, eric-ed338037, eric-ej1155586, eric-ej1208383, eric-ej1144345, eric-ej1071042, eric-ej912912. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -61,6 +61,7 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Within the output-producing group, high-feedback receivers significantly outperformed both low-feedback receivers and the input-only control group](../claims/high-feedback-receivers-outperform-low-feedback-and-control.md) [+W]
 - [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](../claims/feedback-plus-modified-output-question-development.md) [+W]
 - [A writing task generated more discussion about linguistic forms than orally-oriented tasks](../claims/writing-task-increases-form-focused-discussion.md) [+W]
+- [Practicing French vocabulary by writing or typing leads to higher spelling scores than practicing by multiple choice](../claims/writing-typing-beat-multiple-choice-spelling.md) [+W]
 
 ## The evidence by question
 - *Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?* [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](../claims/zhao-ping-output-functions-writing-experiment.md) [~M]

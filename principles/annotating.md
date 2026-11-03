@@ -128,6 +128,7 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Assigned Readings](../elements/assigned-readings.md) with instructor-provided annotation prompts before seminar or discussion
 - [Pre-Seminar Preparation](../elements/pre-seminar-preparation.md) — annotations can serve as evidence banks for later dialogue
 - Margin codes such as `?`, `!`, `claim`, `evidence`, and `connection` can provide lightweight structure for novices
+- [Add underlining during reading and self-assessing at the end of lessons as metacognitive strategies](../strategies/underlining-and-self-assessing-metacognitive-strategy.md)
 
 ## Key Sources
 - Pressley, M., & Afflerbach, P. (1995). *Verbal protocols of reading: The nature of constructively responsive reading*. Routledge.

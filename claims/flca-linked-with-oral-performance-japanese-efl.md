@@ -78,3 +78,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Students who failed the question-and-answer oral exam had higher FLCA than those who passed](flca-higher-failed-oral-qa.md) — related
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
+- [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — related

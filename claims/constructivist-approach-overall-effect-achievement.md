@@ -61,3 +61,4 @@ Meta-analysis of 53 Turkish experimental studies comparing constructivist versus
 - [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
+- [Brain-based learning has a large positive effect on academic achievement in science education in Turkey (ES = 1.382)](bbl-large-positive-effect-achievement-turkey.md) — related

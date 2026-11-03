@@ -42,6 +42,7 @@ This professional development strategy combines a 90-minute getting started with
 - [A2I Professional Support System](../products/a2i.md)
 - [Appoint a Literacy Champion as school-level contact to support A2i rollout](literacy-champion-school-level-contact.md)
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
+- [Use individualized peer coaching with follow-up sessions as professional development for inclusive practices.](individualized-peer-coaching-ipd-strategy.md)
 
 ## Examples
 -

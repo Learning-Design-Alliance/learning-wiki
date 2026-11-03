@@ -44,6 +44,7 @@ The Biglan classification characterizes academic disciplines along three dimensi
 
 ## Examples
 
+- [Discipline-based educational development initiatives for academics' advising of self-learning](../strategies/discipline-based-educational-development-initiatives.md)
 
 ## Key Sources
 - Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104

@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (14 for, 14 mixed) · 32 studies (9 causal, 7 review, 7 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (15 for, 14 mixed) · 33 studies (10 causal, 7 review, 7 associational, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 5 of 33 report an effect size · 27 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -78,6 +78,7 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Student interaction in work groups has a positive and significant influence on collaborative learning.](../claims/student-interaction-drives-collaborative-learning.md) [+W]
 - [No significant treatment-control difference was found in students' observed communication modes](../claims/no-difference-communication-modes.md) [~W]
 - [Telecollaboration with native English speakers significantly improves EFL students' pragmatic comprehension beyond pragmatic instruction alone](../claims/telecollaboration-improves-pragmatic-comprehension.md) [+W] — attached 2026-11-02 from Vahid Rafieyan et al. (2014), which proposed "Facebook-mediated telecollaborative partnership with researcher-designed educational group"; tests this page's relationship.
+- [Task-based group participants prepared classified ads in groups of three and received peer and instructor feedback, supporting ZPD-based cooperative learning.](../claims/task-based-cooperative-feedback-zpd.md) [+W]
 
 ## The evidence by question
 - *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]

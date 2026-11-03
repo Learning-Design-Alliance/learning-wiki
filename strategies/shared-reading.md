@@ -91,6 +91,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 - Repeated reading — rereading for fluency, naturally embedded in shared reading routines
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](gradual-shift-to-higher-level-prompts.md)
 - [Use a staged picture-story-book procedure: whole-picture stimulus, picture-text matching in groups, ordering, then individual retelling](staged-picture-story-book-reading-procedure.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Examples
 - A parent points to each word while reading a picture book, pausing to ask "What do you think happens next?" — classic print-referencing shared reading.

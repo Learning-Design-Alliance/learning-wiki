@@ -43,7 +43,8 @@ Based on participant feedback and observed difficulties, the authors recommend t
 - [Intelligent AR tutoring produces significantly higher post-test performance than non-intelligent AR training for motherboard assembly](../claims/intelligent-ar-tutor-outperforms-traditional-ar-posttest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use arrows as visuospatial cues to direct the learner's attention to relevant regions of an animation.](arrows-visuospatial-cues-animation-strategy.md)
 
 ## Examples
 -

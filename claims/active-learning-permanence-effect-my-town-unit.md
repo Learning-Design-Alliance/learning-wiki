@@ -57,3 +57,4 @@ Permanence test: the same achievement test was re-administered four weeks after 
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
+- [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](eclectic-approach-higher-english-retention.md) — related

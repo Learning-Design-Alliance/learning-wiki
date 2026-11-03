@@ -60,3 +60,4 @@ Correlation test on questionnaire and reading-test data from the same 76 partici
 - [Metacognitive strategy use correlates with comprehension non-monotonically across grades, which the model attributes to unconscious self-regulation in experienced learners](metacognitive-strategy-correlation-nonmonotonic-grades.md) — related
 - [PBL improves EFL reading proficiency and metacognitive reading strategies, though some studies lack control groups](pbl-improves-efl-reading-proficiency.md) — related
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](reading-comprehension-critical-thinking-correlated.md) — related
+- [Reading speed and comprehension are not significantly correlated](reading-speed-comprehension-uncorrelated.md) — related

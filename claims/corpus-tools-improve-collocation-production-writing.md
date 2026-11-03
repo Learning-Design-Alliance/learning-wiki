@@ -56,3 +56,7 @@ ANCOVA on collocation production counts from mid-term (pre) and final (post) exa
 - [Corpus-based lexical instruction using the Wikipedia Corpus produced significantly higher lexical gains than conventional instruction for medium-level (Level II) learners.](wikipedia-corpus-medium-level-learners-significant-gains.md) — related
 - [For advanced (Level I) learners, conventional instruction was slightly more suitable than corpus-based instruction, though the difference was not statistically significant.](wikipedia-corpus-advanced-learners-no-significant-difference.md) — related
 - [Low-level (Level III) learners performed significantly better under conventional lexical instruction than under corpus-based instruction with the Wikipedia Corpus.](wikipedia-corpus-low-level-learners-disadvantaged.md) — related
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related
+- [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — related
+- [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related
+- [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — related

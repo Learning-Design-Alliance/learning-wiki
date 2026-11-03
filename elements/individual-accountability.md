@@ -70,6 +70,7 @@ Cooperative learning reliably improves achievement when — and largely only whe
 **Team-Based Learning (Michaelsen)** — Individual readiness assurance tests are taken first, then the same test as a team; individual scores both prepare and hold accountable each member before group discussion. [http://www.teambasedlearning.org](http://www.teambasedlearning.org)
 
 **Kagan Structures** — Numbered Heads Together and similar structures assign each member a number called at random to answer, making any individual potentially responsible for the group's answer. [https://www.kaganonline.com](https://www.kaganonline.com)
+- [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](../strategies/numbered-random-task-distribution-group-work.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

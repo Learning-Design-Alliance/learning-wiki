@@ -54,6 +54,7 @@ The article recommends that teacher trainers integrate corpus consultation into 
 ## Related Strategies
 
 - [Corpus-based group discovery of word collocations using KWIC concordance lines](corpus-kwic-group-discovery-lexical-learning.md)
+- [Use classroom action research and teacher–researcher collaboration to bridge the DDL research–practice gap](ddl-classroom-action-research-recommendation.md)
 
 ## Examples
 -

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 279 claims (131 for, 133 mixed, 15 against) · 207 studies (66 causal, 61 associational, 28 review, 17 quant-synthesis, 15 theoretical, 11 qualitative, 9 design), `q1`–`q4` · 46 of 207 report an effect size · 263 claims rest on one study
+> **Evidence** · 280 claims (131 for, 134 mixed, 15 against) · 208 studies (66 causal, 62 associational, 28 review, 17 quant-synthesis, 15 theoretical, 11 qualitative, 9 design), `q1`–`q4` · 46 of 208 report an effect size · 264 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -326,6 +326,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Fifth graders receiving metacognitive instruction significantly outperformed control peers on post-test math word problem solving](../claims/metacognitive-instruction-fifth-grade-posttest-advantage.md) [+W] — attached 2026-11-03 from Eda Vula et al. (2017), which proposed "Self-regulation of learning as three components: cognition, metacognition, and motivation".
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](../claims/pintrich-srl-activities-improve-srl-perceptions.md) [+W] — attached 2026-11-03 from Barış Çetin (2017), which proposed "Pintrich's General Framework for Self-Regulated Learning as a four-stage course design model".
 - [Student interview themes indicated the HGCs were fun, easy to use, novel, challenging, provided choice and allowed students to develop strategies and self-regulate their efforts](../claims/student-interview-themes-hgc-engagement.md) [~W]
+- [Women academics mentioned fewer external motivators and more resource management strategies than men](../claims/gender-differences-in-advice-content.md) [~W]
 
 ## The evidence by question
 

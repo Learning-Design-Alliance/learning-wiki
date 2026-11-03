@@ -56,3 +56,4 @@ The report's key findings state that "Attending a full-day pre-k classroom was a
 - [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
 - [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related
 - [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
+- [CPC intervention preschool sites show higher mastery across all domains at kindergarten entry compared to comparison preschool settings](cpc-prek-higher-mastery-kindergarten-entry.md) — related

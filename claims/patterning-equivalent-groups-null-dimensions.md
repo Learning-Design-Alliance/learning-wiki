@@ -68,3 +68,4 @@ Repeated measures ANOVA on pattern type showed trivial dimension differences, F(
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
 - [No significant difference in immediate Form Recognition of Repeating patterns among the three groups](no-significant-immediate-difference-repeating-recognition.md) — related
+- [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related

@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 163 claims (65 for, 85 mixed, 13 against) · 89 studies (32 quant-synthesis, 28 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 89 report an effect size · 158 claims rest on one study
+> **Evidence** · 164 claims (66 for, 85 mixed, 13 against) · 90 studies (32 quant-synthesis, 28 causal, 12 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 90 report an effect size · 159 claims rest on one study
 
 ## Description and scope
 
@@ -255,6 +255,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
 - [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](../claims/pbl-grade-a-chi-square-surveyed.md) [~W]
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](../claims/student-centred-methods-outperform-teacher-centred.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

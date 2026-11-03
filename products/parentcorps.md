@@ -37,6 +37,7 @@ ParentCorps is a family-engagement and social-emotional learning program that eq
 ## Related Products and Programmes
 
 - [MindUP PreK](mindup-prek.md)
+- [School Readiness Parenting Program (SRPP)](school-readiness-parenting-program-srpp.md)
 
 ## Key Sources
 - ParentCorps program description, New York University Langone Health. (2024). ParentCorps. https://parentcorps.org

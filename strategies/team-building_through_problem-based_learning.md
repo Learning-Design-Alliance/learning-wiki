@@ -68,6 +68,7 @@ Problem-based learning works as a team-building mechanism because a shared, cons
 - [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
+- [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — establishes psychological safety at the start of each session

@@ -114,3 +114,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](factors-shaping-resident-teaching-effectiveness.md) — related
 - [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related
+- [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](self-handicapping-largest-ict-inhibitor.md) — related

@@ -54,3 +54,4 @@ Qualitative semi-structured interviews with four OFD participants (S1–S4), ana
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
 - [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](peer-review-critical-thinking-perception.md) — related
+- [EFL students in the blended Blackboard course reported positive attitudes toward using discussion boards, blogs and wikis for integrated reading/writing](blackboard-cmc-positive-attitudes.md) — related

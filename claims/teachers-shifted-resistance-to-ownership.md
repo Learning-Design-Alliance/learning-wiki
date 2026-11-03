@@ -50,3 +50,4 @@ Qualitative thematic analysis of in-depth semi-structured interviews with the tw
 - [Teachers proactively made pedagogical and cultural adjustments to the CAL curriculum, which the authors link to a shift toward a proactive, confident position](teacher-curriculum-adjustments-foster-ownership.md) — related
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - [Positive changes in resistance behaviors were not permanent after the experimental process ended](resistance-changes-not-permanent.md) — reports the opposite
+- [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related

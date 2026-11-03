@@ -44,6 +44,7 @@ The article recommends that mathematics learning be focused on developing critic
 ## Related Strategies
 
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
+- [Discuss mathematical concepts with students rather than telling](discuss-mathematical-concepts-fa.md)
 
 ## Examples
 -

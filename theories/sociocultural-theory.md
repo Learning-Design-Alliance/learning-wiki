@@ -19,7 +19,7 @@ sources:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 45 claims (34 for, 10 mixed, 1 against) · 52 studies (13 causal, 10 review, 10 qualitative, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 4 of 52 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (35 for, 10 mixed, 1 against) · 53 studies (14 causal, 10 review, 10 qualitative, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 5 of 53 report an effect size · 40 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills ([Polly et al., 2018](https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning)).
@@ -126,6 +126,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Animated e-books mediated preschool children's interactions with text similarly to adult facilitation, supporting group reading, collective anticipation, and peer social exchanges](../claims/ebooks-mediate-childrens-text-interactions.md) [+W]
 - [G-DA interactions diagnosed learners' sources of writing difficulty and fostered intersubjectivity and collective scaffolding](../claims/gda-diagnosed-difficulties-intersubjectivity.md) [+W]
 - [Teacher pedagogical approach with HGCs appeared to have little influence on positive student perceptions and mental-maths improvements, though the teacher's role remained vital for strategy support](../claims/teacher-style-little-influence-hgc-outcomes.md) [~W]
+- [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](../claims/cooperative-group-work-improves-preschool-pattern-recognition.md) [+W] — attached 2026-11-03 from Kamuran Tarım (2015), which proposed "Social interaction through cooperative learning supports cognitive development (Vygotskian and Piagetian account)".
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

@@ -74,6 +74,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
 - [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
 - [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Examples
 - **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

@@ -56,6 +56,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 - [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
 - [Plan game use deliberately and combine it with traditional vocabulary techniques](plan-game-use-and-combine-with-traditional-techniques.md)
 - [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
+- [Five-step experience sequence for training teachers to use videogames as curricular tools](five-step-videogame-teacher-training-sequence.md)
 
 ## Examples
 -

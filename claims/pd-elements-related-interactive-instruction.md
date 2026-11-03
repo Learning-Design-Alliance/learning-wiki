@@ -55,3 +55,4 @@ Cross-sectional analysis of the 1997 and 1999 citywide teacher surveys (13,000 t
 - [Teachers with more professional preparation use interactive instruction more often](teacher-preparation-associated-interactive-instruction.md) — related
 - [Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers](underserved-teachers-less-quality-pd.md) — related
 - [Interactive instruction declines and didactic instruction increases across elementary grade levels](interactive-declines-didactic-increases-across-grades.md) — related
+- [SEED PD increased frequency of teaching argument writing strategies](seed-pd-increased-argument-writing-instruction.md) — a narrower finding that bears on this claim

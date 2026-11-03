@@ -52,3 +52,4 @@ Meta-analysis of 40 experimental and quasi-experimental studies from Turkey usin
 - [Cooperative learning has a medium positive effect on mathematics achievement in Turkey (average ES = 0.840, random-effects model)](cooperative-learning-medium-positive-math-effect-turkey.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
 - [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](game-assisted-math-medium-positive-effect-turkey.md) — related
+- [Brain-based learning has a large positive effect on academic achievement in science education in Turkey (ES = 1.382)](bbl-large-positive-effect-achievement-turkey.md) — related

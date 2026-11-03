@@ -69,3 +69,4 @@ Authors' interpretation of the logical-mathematical decrease: the MI instrument'
 ## Related Claims
 - [MI-based teaching strategy produces significantly higher MI gain scores than traditional teaching in junior high science](mi-strategy-higher-mi-gain-than-traditional.md) — related
 - [Emotional gains under MIT-based instruction varied by intelligence style, with Logical-mathematical and Spatial styles most favoured and Bodily-kinesthetic nearly unaffected](emotional-gains-vary-by-intelligence-style.md) — reports the opposite
+- [Traditional teaching strategies dominated the classroom (87%) with no multiple intelligences activities before the intervention](traditional-strategies-dominated-baseline.md) — related

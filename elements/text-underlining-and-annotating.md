@@ -96,10 +96,12 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Graphic Organizers](graphic-organizers.md) — externalize text structure the way annotations externalize reader response
 
 ## Examples
+
 - **[Headings and Highlight Strategy](../strategies/headings-and-highlight-strategy-variant.md)** — learners use headings to predict content, then highlight only text that answers their predictions, constraining over-marking
 - **[SQ3R](../strategies/sq3r.md) (Survey–Question–Read–Recite–Review)** — classic study system in which marking during reading feeds a recitation/review cycle rather than substituting for it
 - **Perusall (https://www.perusall.com)** — social annotation platform where students comment on shared readings; converts private marking into visible, discussable generative processing
 - **Hypothesis (https://web.hypothes.is)** — open web annotation tool used in college courses for collaborative marginal commentary
+- [Add underlining during reading and self-assessing at the end of lessons as metacognitive strategies](../strategies/underlining-and-self-assessing-metacognitive-strategy.md)
 
 ## Key Sources
 - Nist, S. L., & Hogrebe, M. C. (1985). The effects of high and low relevant text underlining on test performance. (ERIC Document Reproduction Service No. ED265520). [https://eric.ed.gov/?id=ED265520](https://eric.ed.gov/?id=ED265520)

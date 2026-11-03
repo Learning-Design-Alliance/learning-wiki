@@ -71,3 +71,4 @@ Authors' interpretation of Figure 2: "students at the high school rankin gs give
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](ssml-advantage-significant-only-middle-mpk.md) — related
+- [Interaction between learning model and problem type on problem-solving ability](interaction-learning-model-problem-type.md) — related

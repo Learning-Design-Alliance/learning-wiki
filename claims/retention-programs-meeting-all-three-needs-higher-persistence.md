@@ -49,3 +49,4 @@ Narrative review attributing this to Hanger et al. (2011), a semester-long volun
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
+- [Students completing all or extra STAR Lite components returned to good academic standing at higher rates than comparison students](star-lite-all-extra-higher-return-rate.md) — a narrower finding that bears on this claim

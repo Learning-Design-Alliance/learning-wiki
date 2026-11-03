@@ -69,3 +69,4 @@ Descriptive comparison of mean gain scores in the quasi-experimental study. The 
 - [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](computer-assisted-stad-beats-ici-physics-achievement.md) — related
 - [Computer-assisted Jigsaw II students retained physics concepts significantly better than ICI students on a delayed test.](caj2-retention-gains-over-ici.md) — related
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](cai-stad-ltm-outperform-ici-physics-achievement.md) — related
+- [Jigsaw II and animations improved epistemological beliefs more than reading-writing-presentation](jigsaw-ii-animations-improve-epistemological-beliefs.md) — related

@@ -50,3 +50,4 @@ Quasi-experimental classroom study with a non-equivalent control group: 413 lear
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
 - [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related
+- [Small-group problem-based instruction (PBIS) produced the highest adjusted mathematics achievement among the four treatment conditions](pbis-highest-adjusted-math-achievement.md) — related

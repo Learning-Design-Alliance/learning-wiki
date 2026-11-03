@@ -58,3 +58,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Pre-service teachers' attitudes towards ICT (in education) and ease of use positively impact their ICT competence for educational practice](attitudes-ease-of-use-impact-ict-competence.md) — a narrower finding that bears on this claim
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — a narrower finding that bears on this claim
 - [Children perceived the JCLS as highly useful and easy to use, with PU and PEOU means near the scale maximum](jcls-high-perceived-usefulness-ease-of-use.md) — related
+- [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](self-handicapping-largest-ict-inhibitor.md) — related

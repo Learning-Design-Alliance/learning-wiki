@@ -67,3 +67,4 @@ Interview question on difficulties experienced (Table 15): difficulties in creat
 - [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](absl-favorite-activities-ranking.md) — reports the opposite
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
 - [Students' group communication during concept cartoon© lessons depended mainly on the teaching topic, and scientific terms were never used](concept-cartoons-student-communication-topic-dependent.md) — related
+- [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related

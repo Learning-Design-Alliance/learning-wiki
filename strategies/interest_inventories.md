@@ -93,6 +93,7 @@ Interest inventories operationalize personal relevance, which raises task value 
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the structural mechanism through which inventoried interests become learner decisions
 - [Action Planning](action_planning.md) — learners translate interests into goals and steps
 - [Assign intelligence-matched art activities to student groups identified by an MI inventory](intelligence-matched-art-activities-strategy.md)
+- [Use project-based activities aligned with students' dominant intelligence domains to differentiate mathematics instruction.](project-based-intelligence-aligned-differentiation-strategy.md)
 
 ## Examples
 - Reading interest inventories in elementary classrooms (e.g., the "Reading Interest-A-Lyzer" style surveys from the reading workshop tradition) used to build classroom libraries and match students to independent-reading books.

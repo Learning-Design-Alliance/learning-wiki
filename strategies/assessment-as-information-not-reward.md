@@ -50,6 +50,7 @@ The digest recommends assessment practices that help students "experience succes
 ## Related Strategies
 
 - [Building a Supportive Classroom Environment for Mistakes](building_a_supportive_classroom_environment_for_mistakes.md)
+- [Teacher practices for building confidence and eliminating intimidation in P.E.](sbsm-teacher-confidence-practices.md)
 
 ## Examples
 -

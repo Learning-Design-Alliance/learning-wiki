@@ -49,3 +49,4 @@ Meta-analysis of 31 effect sizes from 26 experimental pretest-posttest studies i
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related
 - [Game-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.538)](game-based-learning-large-effect-turkish.md) — related
 - [Computer-Assisted Mathematics Education has a large positive overall effect on academic achievement (ES = .8999) in Turkish experimental and quasi-experimental studies](came-large-positive-effect-academic-achievement.md) — related
+- [Brain-based learning has a large positive effect on academic achievement in science education in Turkey (ES = 1.382)](bbl-large-positive-effect-achievement-turkey.md) — related

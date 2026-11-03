@@ -64,6 +64,7 @@ Strengths-based reflection shifts instruction from deficit remediation toward as
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
 - [Use Istation's teacher reports to target small-group instruction and lessons for struggling readers](istation-teacher-reports-small-group-instruction.md)
 - [Personalized Learning Plans that stay dynamic to enhance student agency](dynamic-personalized-learning-plans-strategy.md)
+- [Use project-based activities aligned with students' dominant intelligence domains to differentiate mathematics instruction.](project-based-intelligence-aligned-differentiation-strategy.md)
 
 ## Examples
 - A teacher identifies that a student struggles with reading comprehension but excels in visual learning; the teacher uses graphic organizers and visual aids to support comprehension of texts.

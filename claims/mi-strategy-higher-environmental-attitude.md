@@ -48,3 +48,4 @@ Same four-week pre/post-test control-group experiment, attitude outcome measured
 ## Related Claims
 - [Seventh graders taught environmental topics with a Multiple Intelligences strategy gained higher environmental awareness knowledge scores than peers taught by traditional methods](mi-strategy-higher-environmental-awareness-knowledge.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
+- [Students taught using multiple intelligences scored 89% on the language test versus 44% for the traditional memorization group](mi-instruction-higher-language-test-scores.md) — related

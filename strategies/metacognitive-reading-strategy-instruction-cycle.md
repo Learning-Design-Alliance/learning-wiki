@@ -50,6 +50,7 @@ The article's instructional recipe walks learners through planning before readin
 - [Teach Metacognitive Strategies](teach-metacognitive-strategies.md)
 - [Metacognitive Strategy Instruction](metacognitive-strategy-instruction.md)
 - [Teach learning strategies through direct instruction with practice on texts two or three grades below the students' level](direct-instruction-strategy-teaching-lower-grade-texts.md)
+- [Add underlining during reading and self-assessing at the end of lessons as metacognitive strategies](underlining-and-self-assessing-metacognitive-strategy.md)
 
 ## Examples
 -

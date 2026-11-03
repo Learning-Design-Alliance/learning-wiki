@@ -53,3 +53,4 @@ Independent-samples t-tests across drama, horror, and adventure categories with 
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [No significant difference between drama short and horror long clip evaluations](drama-short-horror-long-no-difference.md) — related
 - [Short video clips yield significantly higher listening success than long clips](short-clips-higher-listening-success.md) — related
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — related

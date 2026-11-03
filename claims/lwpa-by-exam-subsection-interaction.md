@@ -53,3 +53,4 @@ Mixed-factors repeated measures ANOVA on percentage-correct sub-section scores (
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related
 - Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests — related
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — related
+- [Treatment and reading ability interacted significantly on several measures, including LISTEN (ηh2 = .446), PHON-L2 (ηh2 = .191) and SLS (ηh2 = .181), indicating the training effect depended on reading skill](treatment-reading-ability-interaction.md) — related

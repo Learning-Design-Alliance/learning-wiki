@@ -72,3 +72,5 @@ Same posttest-only quasi-experiment; the PC factor (z=-1,183, p=.237) showed no 
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
 - [PBL and traditional teaching have different effects on pre-service teachers’ perceptions of problem-solving ability, with PBL more influential](pbl-difference-problem-solving-perception.md) — related
 - [Pre-service teachers’ perceptions of problem-solving ability are generally at a middle level](preservice-teachers-middle-psi-levels.md) — related
+- [Gains in problem-solving self-confidence and self-control persist at retention test, but avoidance and total inventory scores regress](cartoon-pbl-retention-subdimensions.md) — related
+- [The control group showed no significant change in problem-solving perceptions or achievement over the seven-week period](control-group-no-change-social-studies.md) — related

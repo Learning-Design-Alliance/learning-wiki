@@ -65,6 +65,7 @@ Vocabulary knowledge is a strong predictor of comprehension, and it grows throug
 - [Word walls](word-walls.md) — environmental support that keeps taught words visible for reuse
 - [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
+- [Use the PANORAMA reading strategy to structure explicit vocabulary instruction in ESP reading](panorama-reading-strategy-explicit-vocabulary-instruction.md)
 
 ## Examples
 - **Text Talk / Robust Vocabulary Instruction** (Beck & McKeown) — small groups read a story aloud, then engage in structured questioning about 3–4 Tier Two words drawn from it, with multiple follow-up encounters across the week.

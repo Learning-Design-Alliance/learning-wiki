@@ -61,3 +61,4 @@ Additional (non-protocol) intention-to-treat analysis using national Key Stage 2
 - [Standardized reading and math test scores showed no treatment effect](ssstp-no-test-score-effect.md) — related
 - [No strong evidence that Mathematics Mastery had a greater impact on lower-attaining than higher-attaining pupils](maths-mastery-no-differential-effect-by-attainment.md) — related
 - [After one year, differences between intervention and comparison pupils' writing were small or very small and sometimes favoured the comparison group, so no secure causal conclusion is possible](talk-for-writing-small-mixed-impact-estimates.md) — related
+- [SEED PD had no impact on student writing quality](seed-pd-no-impact-student-writing-quality.md) — related

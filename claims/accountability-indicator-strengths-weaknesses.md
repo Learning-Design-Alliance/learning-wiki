@@ -57,3 +57,4 @@ Indicator-level descriptive results from the Malang City questionnaire survey (T
 - [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related
 - [No statistically significant stakeholder differences on Literacy, Curriculum, Instruction and Assessment, Community Partnerships, Collaborative Leadership, or Data and Privacy](no-significant-differences-on-five-frs-lf-constructs.md) — related
 - [The intended audience of assessment results, whether internal or external stakeholders, shapes what an assessment for a library makerspace should do](audience-shapes-assessment-design.md) — related
+- [The highest rated element was Effective Learning Experiences (4.0) and the lowest rated element was Parent Involvement (3.5) across all districts](cpc-highest-lowest-rated-elements.md) — related

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (67 show a difference, 21 mixed, 10 no difference) · 59 studies (21 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 15 of 59 report an effect size · 97 claims rest on one study
+> **Evidence** · 99 claims (67 show a difference, 22 mixed, 10 no difference) · 60 studies (22 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 15 of 60 report an effect size · 98 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -134,6 +134,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Animation-based teaching positively affects both high and low spatial ability learners, so it is not effective only for high spatial ability students](../claims/animations-effective-both-spatial-ability-groups.md) [-W] — an instructional effect differs with it
 - [Low spatial ability learners on average performed better than high spatial ability learners when taught through animations](../claims/lsa-learners-outperform-hsa-with-animations.md) [+M] — learners who differ on it differ in outcomes
 - [An after-school EF/VS intervention improves directly assessed visuospatial skills in kindergarten and first-grade children (intent-to-treat)](../claims/after-school-intervention-improves-visuospatial-skills.md) [+M] — instruction changes it
+- [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](../claims/courseware-reduces-visual-spatial-gender-gap.md) [~W] — spatial ability not measured: the authors interpret equal gender gains in drawing particles as a narrowed visual-spatial gap, which the study did not test
 
 ## Related Learner Variables
 

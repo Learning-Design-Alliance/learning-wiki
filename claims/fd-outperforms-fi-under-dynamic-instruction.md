@@ -49,3 +49,4 @@ Tukey HSD comparisons among the four subgroups of the randomized controlled stud
 - [Field-independent learners show no significant vocabulary difference between static and dynamic task-type instruction, with only a marginal trend favouring static](field-independent-learners-insensitive-to-task-type.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
 - [Without scaffolding, field-independent students outperform field-dependent students in learning achievement](control-group-field-independent-outperform-field-dependent.md) — related
+- [Vocabulary instruction type and cognitive style interacted in ESP reading comprehension, with FI students highest overall](interaction-vocabulary-instruction-cognitive-style-esp-reading.md) — related

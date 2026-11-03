@@ -75,3 +75,4 @@ Interview finding from the process evaluation: all eight teachers interviewed ag
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [Pupils who attended the Saturday school showed positive engagement, improved behaviour, confidence, and social skills per the process evaluation](hsom-positive-engagement-attenders.md) — related
 - [Athletes and their coach reported in interviews that the PST program improved team cohesion and self-confidence and transferred to life beyond sport](pst-qualitative-athlete-coach-themes.md) — related
+- [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related

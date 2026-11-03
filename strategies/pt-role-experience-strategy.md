@@ -49,6 +49,7 @@ The article describes a specific implementable activity: pre-service teachers ac
 
 - [Peer Tutoring](peer-tutoring.md)
 - [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
+- [Organize workshops and in-service training for small groups of pre-school teachers to increase use of cooperative group work](workshops-to-increase-preschool-cooperative-group-work.md)
 
 ## Examples
 -

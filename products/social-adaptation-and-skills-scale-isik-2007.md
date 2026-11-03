@@ -26,7 +26,8 @@ A 25-item parent- or teacher-completed Likert assessment for measuring social ad
 - [The Peaceful Life Skills Education Program produced higher posttest social adaptation and skills scores than the conventional curriculum in 5-year-old kindergartners](../claims/peaceful-life-skills-program-higher-posttest-social-adaptation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Social Skills Scale for Students with Autism (SSS)](social-skills-scale-for-students-with-autism-sss.md)
 
 ## Key Sources
 - Hikmet Zelyurt, )erda *|ktrk ønce. (2018). The Impact of Peaceful Life Skills Oriented Education Program on Social Adaptation and Skills of Preschool Children. Universal Journal of Educational Research 6(7): 1519-1525. https://doi.org/10.13189/ujer.2018.060712

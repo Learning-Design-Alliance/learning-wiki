@@ -93,3 +93,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — related
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related
 - [Students' critical remarks identified pedagogical shortcomings and technological challenges, and the authors suggest implementation problems may explain the limited quantitative differences](implementation-problems-explain-limited-interest-differences.md) — related
+- [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related

@@ -52,3 +52,4 @@ Group comparison of post-experiment questionnaire scores in the experiment versu
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — reports the opposite

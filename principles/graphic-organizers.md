@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (30 for, 18 mixed, 3 against) · 57 studies (30 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 40 claims rest on one study
+> **Evidence** · 52 claims (31 for, 18 mixed, 3 against) · 58 studies (31 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 58 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](../claims/concept-mapping-prewriting-improves-efl-argumentative-essays.md) [+W] — attached 2026-11-02 from Al-Shaer (2014), which proposed "Two-stage pre-writing mapping: idea map for generation followed by hierarchical concept map for classification"; tests this page's relationship.
 - [Students learning with mind mapping strategy (SMM) achieve higher mathematical reasoning ability (KPM) posttest scores than students receiving conventional learning (PK)](../claims/mind-mapping-higher-kpm-achievement.md) [+W] — attached 2026-11-03 from Ayal et al. (2016), which proposed "Mind mapping learning activity sequence: guided concept learning, identifying main ideas, constructing mind maps, and class presentation"; tests this page's relationship.
 - [Improvement (N-gain) in mathematical reasoning ability is greater for students learning with mind mapping strategy than for students receiving conventional learning](../claims/mind-mapping-greater-kpm-n-gain.md) [+W] — attached 2026-11-03 from Ayal et al. (2016), which proposed "Mind mapping learning activity sequence: guided concept learning, identifying main ideas, constructing mind maps, and class presentation"; tests this page's relationship.
+- [Concept mapping supports retention of science knowledge over five days](../claims/concept-mapping-supports-retention-delayed-posttest.md) [+W] — attached 2026-11-03 from Berry et al. (2014), which proposed "Pair concept mapping with informational interactive read-alouds to strengthen science and literacy learning"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -212,6 +213,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Provide scaffolding (fill in the map) plus explicit instruction and feedback when teaching concept mapping for reading comprehension](../strategies/scaffolding-feedback-cm-instruction-strategy.md)
 - [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](../strategies/semantic-mapping-vocabulary-teaching-strategy.md)
 - [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](../strategies/combine-organizer-with-varied-grouping-scaffolds.md)
+- [Use digital graphic organizer applications for collaborative concept mapping](../strategies/digital-graphic-organizer-applications-strategy.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.

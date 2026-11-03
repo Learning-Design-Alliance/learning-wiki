@@ -46,3 +46,4 @@ Quasi-experiment with 35 low-intermediate Iranian EFL students (experimental N=1
 
 ## Related Claims
 - [Collaborative writing improves each of the five writing components (content, organization, grammar, vocabulary, mechanics) in low-intermediate EFL students](collaborative-writing-improves-all-writing-components.md) — related
+- [Integrated reading and writing instruction significantly improved integrated writing test scores for intermediate and advanced students but not beginning students](integrated-instruction-improved-writing-intermediate-advanced.md) — related

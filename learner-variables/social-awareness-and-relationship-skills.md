@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 202 claims (135 show a difference, 44 mixed, 23 no difference) · 148 studies (45 causal, 42 review, 26 associational, 16 quant-synthesis, 9 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 39 of 148 report an effect size · 195 claims rest on one study
+> **Evidence** · 208 claims (141 show a difference, 44 mixed, 23 no difference) · 151 studies (47 causal, 42 review, 26 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 40 of 151 report an effect size · 201 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -243,6 +243,12 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [~M] — instruction changes it
 - [Drama method has a large, positive effect on social communication skills according to a random-effects meta-analysis of 24 studies](../claims/drama-large-positive-effect-social-communication-skills.md) [+W] — instruction changes it
 - [Participants perceived the PCR class as beneficial in four areas: awareness of social factors, indirect strategies, nonverbal communication, and a motivating atmosphere](../claims/pcr-perceived-benefits-four-areas.md) [+W] — instruction changes it
+- [Experimental group's social skills scores improved significantly from pre- to post-test](../claims/pre-post-gains-social-skills-experimental-group.md) [+M] — instruction changes it
+- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](../claims/social-skills-gains-maintained-follow-up.md) [+M] — scores held from post-test to follow-up in the treatment group, with no comparison group in this analysis
+- [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](../claims/teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) [+M] — instruction changes it
+- [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](../claims/cooperative-group-work-develops-social-skills-preschoolers.md) [+M] — instruction changes it
+- [The program significantly improved linguistic life skills (oral interpersonal communication) versus control](../claims/childrens-literature-program-improves-oral-communication.md) [+M] — instruction changes it
+- [The program significantly improved personal and social life skills versus control](../claims/childrens-literature-program-improves-personal-social-skills.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

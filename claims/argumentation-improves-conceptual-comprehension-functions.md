@@ -48,3 +48,4 @@ Descriptive analysis of open-ended conceptual comprehension questions answered i
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [SEED PD increased frequency of teaching argument writing strategies](seed-pd-increased-argument-writing-instruction.md) — related

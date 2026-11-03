@@ -66,3 +66,4 @@ Quasi-experimental, non-randomized pre-test/post-test control group study with 1
 - [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test researcher-designed higher-order test than students taught with the traditional method](pbl-beats-traditional-method-rdt-further-mathematics.md) — related
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
 - [Demonstration method was more effective than lecture method in learning economics concepts among secondary school students in Borno State](demonstration-more-effective-than-lecture-economics-borno.md) — related
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — related

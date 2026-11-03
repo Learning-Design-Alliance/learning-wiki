@@ -48,3 +48,5 @@ Post-test pairwise comparisons among high, middle and low SES subgroups of the 5
 - [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related
 - [The experimental group's language development total scores rise significantly from pre-test to post-test after the audio-visual intervention](av-intervention-pre-post-gain-experimental-group.md) — related
 - [SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR](ses-indirect-vocabulary-lc-rcr.md) — reports the opposite
+- [The three-way interaction of gender, socio-economic status, and treatment is statistically significant for mathematics achievement](gender-ses-treatment-three-way-interaction-significant-math-jss.md) — related
+- [The interaction between socio-economic status and treatment is statistically significant for mathematics achievement](ses-treatment-interaction-significant-math-jss.md) — related

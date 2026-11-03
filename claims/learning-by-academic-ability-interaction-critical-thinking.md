@@ -57,3 +57,4 @@ Omnibus ANCOVA interaction term (Learnings * AA) in the 3x3 factorial quasi-expe
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning](unscaffolded-genai-no-critical-thinking-difference.md) — related
 - [Instructional model interacts with critical thinking ability in affecting argumentative writing skill](interaction-instruction-critical-thinking-writing.md) — related
+- [Learning model and academic ability each significantly affect creative thinking, but their interaction does not](sscs-ms-ancova-main-effects-no-interaction.md) — related

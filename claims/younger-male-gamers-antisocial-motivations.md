@@ -52,3 +52,4 @@ Regression results from the survey of 450 MMORPG players: in Table 2, gender (be
 - [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
 - [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md)
 - [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md)
+- [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](spanish-educators-videogame-use-36-percent.md) — related

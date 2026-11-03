@@ -58,3 +58,5 @@ Pre-test equivalence check on the same 94-student quasi-experiment. Pre-test mea
 - [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related
 - [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related
 - [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related
+- [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
+- [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related

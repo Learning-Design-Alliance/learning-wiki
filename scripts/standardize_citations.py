@@ -55,6 +55,27 @@ def add_doi_to_line(line: str, doi: str) -> str | None:
     return f"{body} [doi:{doi}](https://doi.org/{doi})\n"
 
 
+def venue_mismatch(line: str, record: dict):
+    """A reason the citation and the registry record are different articles, read from where they
+    were published, or None. Title and authors cannot tell apart two articles one team published
+    under one title: Dejonckheere et al. (2016), "Exploring the classroom: Teaching science in early
+    childhood", is in both the International Electronic Journal of Elementary Education 8(4), 537-558
+    and the European Journal of Educational Research 5(3), 149-164, and a 2026-11-03 run filled the
+    second's DOI onto seven citations of the first. The first page is compared, and the volume where
+    the registry gives a plain number; a citation giving neither is not refused on this ground."""
+    m = re.search(r",\s*(\d{1,4})\s*(?:\(\s*[\w\s-]+\s*\))?\s*,\s*[A-Za-z]?(\d{1,6})\s*[-–]", line)
+    if not m:
+        return None
+    vol, first = m.group(1), m.group(2)
+    reg_first = str(record.get("first_page") or "").strip()
+    if reg_first.isdigit() and first != reg_first:
+        return f"the citation starts on page {first} and the registry record on page {reg_first}"
+    reg_vol = str(record.get("volume") or "").strip()
+    if reg_vol.isdigit() and vol != reg_vol:
+        return f"the citation is in volume {vol} and the registry record in volume {reg_vol}"
+    return None
+
+
 def fill_refusal(entry: dict, cited_title: str, doi: str):
     """A reason not to ADD this DOI to this citation, or None.
 
@@ -80,6 +101,9 @@ def fill_refusal(entry: dict, cited_title: str, doi: str):
     line = entry.get("full_line") or entry["line"]
     cited = cited_surnames(line, parse_key(entry["key"])[1])
     why = coauthor_mismatch(record, cited)
+    if why:
+        return why
+    why = venue_mismatch(line, record)
     if why:
         return why
     authors = [x for x in (record.get("authors") or []) if x]

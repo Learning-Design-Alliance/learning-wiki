@@ -52,3 +52,4 @@ Survey data across all four cities using the Intrinsic Motivation Inventory (Rya
 - [Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis](dallas-spanish-speakers-negative-effects.md) — related
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](tracing-pointing-intrinsic-motivation-null.md) — related
 - [Performance-based financial incentives sometimes led CHWs to neglect unpaid tasks](performance-based-incentives-neglect-unpaid-tasks.md) — reports the opposite
+- [The activity associated with the second wave of data collection had a positive influence on Engagement, Intrinsic Motivation, Positive Affect and Work and Play, and a negative effect on Negative Affect.](wave2-pendu-car-positive-influence-engagement-edutorcs.md) — related

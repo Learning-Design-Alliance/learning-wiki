@@ -84,3 +84,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — a narrower finding that bears on this claim
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
+- [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related

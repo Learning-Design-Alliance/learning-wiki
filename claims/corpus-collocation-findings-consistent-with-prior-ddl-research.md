@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: uçar-2015
     resource: "https://eric.ed.gov/?id=EJ1057374"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors state their results are consistent with previous research (e.g., Sun and Wang, 2003; Chan and Liou, 2005; Jafarpour and Koosha, 2006; Binkai, 2012) finding corpus-based instruction effective for collocation and vocabulary learning. [→ Uçar 2015](#ucar-2015)
@@ -52,3 +53,8 @@ The authors' narrative review of prior concordancing and data-driven learning st
 - [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
 - [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — related
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related
+- [DDL favors higher-level learners and poses challenges of query analysis, intensive training, and corpus access](ddl-challenges-limitations.md) — related
+- [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — a narrower finding that bears on this claim
+- [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related
+- [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — related

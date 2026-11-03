@@ -47,3 +47,4 @@ Authors' illustrative case examples from the experimental group reported in the 
 ## Related Claims
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — a broader claim this one bears on
 - [Both experimental and control groups improved significantly in French vocabulary over time, with no time-versus-group interaction attributable to the digital game treatment](pan-no-time-group-interaction-vocabulary.md) — related
+- [An eight-week individualized peer coaching intervention produced mixed effects on teacher attitudes toward inclusive practices.](ipd-peer-coaching-mixed-attitude-effects.md) — related

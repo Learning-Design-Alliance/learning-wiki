@@ -51,3 +51,4 @@ Multi-level moderation analysis of the randomized Head Start Impact Study for th
 - [No significant differences in Head Start treatment impact on Applied Problems or Letter Word Identification by level of neighborhood crime](no-crime-moderation-applied-problems-letter-word.md) — related
 - [Randomization in high-crime neighborhoods is associated with smaller Head Start impacts on PPVT scores relative to low-crime neighborhoods](neighborhood-crime-moderates-head-start-ppvt-impact.md) — related
 - [Whether Head Start impacts vary across centers remained undetermined in this abstract, with analyses underway at presentation](head-start-cross-center-variation-underway.md) — related
+- [An additional hour per day in Head Start increases applied math problem (WJ) scores by .046 SD, with a significant age-cohort difference](head-start-hour-wj-applied-problems-increase.md) — related

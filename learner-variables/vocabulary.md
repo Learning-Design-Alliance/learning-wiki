@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (152 show a difference, 27 mixed, 27 no difference) · 137 studies (79 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 28 of 137 report an effect size · 203 claims rest on one study
+> **Evidence** · 213 claims (158 show a difference, 28 mixed, 27 no difference) · 143 studies (84 causal, 28 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 143 report an effect size · 210 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -247,6 +247,13 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 - [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+M] — instruction changes it
 - [Students with underdeveloped initial vocabulary knowledge show greater response to the intervention](../claims/alias-greater-response-for-low-initial-vocabulary.md) [+M] — an instructional effect differs with it
+- [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](../claims/summer-parent-book-reading-improves-receptive-vocabulary.md) [~M] — instruction changes it
+- [An additional hour per day in Head Start increases receptive vocabulary (PPVT) scores by .062 SD for the full sample](../claims/head-start-hour-ppvt-increase.md) [+M] — instruction changes it
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](../claims/collocation-chunks-beat-individual-words.md) [+M] — instruction changes it
+- [Explicit and task-based genre instruction lead EFL students to outperform implicit and self-study instruction on lexical and discourse features of classified ads.](../claims/explicit-task-based-outperform-implicit-self-study-classified-ads.md) [+M] — instruction changes it
+- [Higher L2 vocabulary retrieval performance correlated strongly with higher L3 retrieval performance, and nondyslexic learners outperformed dyslexic learners on all stimulated vocabulary retrieval measures](../claims/vocabulary-retrieval-l2-l3-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [RAVE instruction enhances efficiency of lexical access to instructed words](../claims/rave-improves-lexical-access-year1.md) [+M] — instruction changes it
+- [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](../claims/rave-improves-word-knowledge-year1.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

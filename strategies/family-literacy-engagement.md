@@ -71,6 +71,7 @@ The *quality* of family literacy interaction matters more than its quantity: car
 - [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
 - [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](shared-book-reading-lexical-diversity-intervention.md)
 - [Strengthen Spanish language promotion at home via a take-home storytelling component](take-home-spanish-storytelling-component.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Examples
 - **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)): parents of preschoolers trained in interactive questioning showed significant gains in children's expressive language relative to controls.

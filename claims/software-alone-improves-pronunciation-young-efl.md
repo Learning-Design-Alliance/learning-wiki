@@ -48,3 +48,4 @@ Paired-samples t test on pretest/posttest scores for the 20 students in Group 2 
 - [Human-aided instruction alone produced greater pronunciation improvement than instructional software alone](human-instruction-beats-software-alone.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [Third-grade EFL students taught pronunciation with ASR software significantly outperformed peers taught with regular instruction](asr-outperforms-regular-pronunciation-instruction.md) — related
+- [Self-correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](self-correction-improves-efl-pronunciation.md) — related

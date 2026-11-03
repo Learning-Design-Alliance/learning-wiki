@@ -54,3 +54,4 @@ Table 2 shows sentence length as broad focus in nine LREs and connecting clauses
 - [Reflecting on vocabulary and sentence revision during the composing stage temporarily degraded children's use of full stops and basic connectives](composing-stage-reflection-degrades-punctuation.md) — related
 - [G-DA interactions diagnosed learners' sources of writing difficulty and fostered intersubjectivity and collective scaffolding](gda-diagnosed-difficulties-intersubjectivity.md) — related
 - [Needs-improvement sentences differ from positive sentences in actionability, out-of-class focus, and length](needs-improvement-sentence-qualities.md) — related
+- [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](pretest-inadequate-classified-ads-rules.md) — related

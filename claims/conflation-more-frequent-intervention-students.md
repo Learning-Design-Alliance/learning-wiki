@@ -47,3 +47,4 @@ Qualitative coding of seventh-grade dynamic assessment episodes found conflation
 ## Related Claims
 - [The direct route—explicitly applying bound-root meanings—was the most common morphological problem-solving strategy for all groups, and RAVE and Honors RAVE students used it more frequently than control students](direct-route-bound-roots-intervention-higher-rate.md) — related
 - [Control students used the indirect route—inferring meaning via root-related words—more frequently than intervention students](indirect-route-control-students-more-frequent.md) — related
+- [RAVE students show stronger morphological problem-solving with Latin roots on a dynamic assessment](large-treatment-effect-root-recognition-grade-6.md) — related

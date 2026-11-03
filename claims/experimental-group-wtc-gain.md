@@ -48,3 +48,4 @@ Paired-samples t test within the experimental group, which received CS training,
 - [Control-group learners showed no statistically significant change in Willingness to Communicate from pre-test to post-test](control-group-wtc-unchanged.md) — related
 - [Teaching communication strategies raises EFL learners’ classroom Willingness to Communicate more than regular instruction, with a large between-group difference (eta squared = .10)](cs-training-raises-wtc-posttest.md) — related
 - [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
+- [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related

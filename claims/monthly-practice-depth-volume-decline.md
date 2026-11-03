@@ -51,3 +51,4 @@ Review's summary of Oermann et al. (n = 606 nursing students; control group with
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
+- [Most Nigerian students were willing to perform CPR on strangers and trauma victims](nigerian-students-willingness-perform-cpr-strangers.md) — related

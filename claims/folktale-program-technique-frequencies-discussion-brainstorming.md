@@ -49,3 +49,4 @@ Descriptive frequency analysis of the researchers' journal notes across the prog
 - [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](folktale-program-material-frequencies-multimodal.md) — related
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
 - [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](preschool-folktale-program-increased-critical-thinking-qualitative.md) — related
+- [SEED PD increased frequency of teaching argument writing strategies](seed-pd-increased-argument-writing-instruction.md) — related

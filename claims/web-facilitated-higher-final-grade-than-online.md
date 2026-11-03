@@ -49,3 +49,4 @@ Same quasi-experimental three-section comparison; one-way ANOVA for final course
 - [More than 92.3% of web-facilitated students earned an overall grade of A compared to 83.3% of hybrid and 62.5% of online students](letter-grade-a-distribution-by-section.md) — related
 - [Web-facilitated section students earned significantly higher final exam means than both hybrid and online section students in an undergraduate exercise psychology course](web-facilitated-higher-final-exam-than-hybrid-online.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
+- [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related

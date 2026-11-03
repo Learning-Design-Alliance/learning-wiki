@@ -60,3 +60,4 @@ Outcome results from the Vaughn et al. (2019) RCT on which this sample was based
 - [The text-processing intervention significantly improved struggling middle school readers' performance on a proximal vocabulary measure](text-processing-intervention-proximal-vocabulary-gain.md) — related
 - [Passport to Literacy produced a small positive but nonsignificant effect on GMRT reading comprehension (g = 0.28) relative to business-as-usual comparison](passport-literacy-gmrt-comprehension-small-nonsignificant-effect.md) — related
 - [ATC produced no statistically significant difference from business-as-usual controls on the confirmatory Word Attack measure over two years](atc-no-significant-word-attack-impact.md) — related
+- [RAVE instruction did not improve standardized general reading comprehension in Year 1](rave-no-gmrt-effect-year1.md) — related

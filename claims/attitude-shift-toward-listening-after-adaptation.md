@@ -47,3 +47,4 @@ Second administration of the 20-item attitude questionnaire after the treatment,
 ## Related Claims
 - [Before the treatment, students held an overall negative attitude toward listening](pretest-negative-attitude-toward-listening.md) — related
 - [Peer cooperative self-access listening materials adaptation improves EFL learners' listening comprehension performance more than teacher-selected materials](cooperative-materials-adaptation-improves-listening-comprehension.md) — related
+- [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related

@@ -50,3 +50,4 @@ Qualitative coding of 262 seventh-grade dynamic assessment episodes (52 Honors R
 - [In seventh grade, recognition of taught bound roots differed significantly among the Honors RAVE, RAVE, and control groups](grade-7-recognition-group-difference.md) — related
 - [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](large-treatment-effect-root-recognition-grade-6.md) — related
 - [Applying the intervention to the control group produced statistically and practically significant gains in both problem recognition (d = 1.5) and problem-solving (d = 2.2)](control-group-gains-after-second-intervention.md) — related
+- [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](rave-improves-word-knowledge-year1.md) — related

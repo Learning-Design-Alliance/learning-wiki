@@ -12,7 +12,7 @@ newest_evidence: 2016
 sources:
   - id: dejonckheere-2016
     resource: "https://eric.ed.gov/?id=EJ1109852"
-    title: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852"
+    title: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852."
     author: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S."
     q: 2
     i: 3
@@ -33,7 +33,7 @@ sources:
 
 ### Dejonckheere 2016
 
-Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852
+Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852.
 
 `q2 · i3` · `causal · r1`
 
@@ -49,3 +49,4 @@ The first MANOVA on total explorations (informative plus uninformative) found "A
 - [Intervention group showed a significant pre-test to post-test interaction for informative explorations](inquiry-preschool-science-informative-interaction.md) — related
 - [Percentage of uninformative explorations decreased from pre-test to post-test in the intervention group but not controls](inquiry-preschool-science-uninformative-decrease.md) — related
 - [Post-test percentage of uninformative explorations was significantly lower for experimentals than controls](inquiry-preschool-science-uninformative-posttest-difference.md) — related
+- [Inquiry-based science activities increased spontaneous exploratory play in preschoolers relative to controls](inquiry-based-science-increases-preschool-exploratory-play.md) — possibly the same claim (merge candidate)

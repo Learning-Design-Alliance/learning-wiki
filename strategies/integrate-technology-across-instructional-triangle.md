@@ -39,6 +39,7 @@ Drawing on Cohen et al. (2003), the report states that "education only improves 
 ## Related Strategies
 
 - [Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline](seven-domain-pipeline-virtual-leadership-strategies.md)
+- [PD providers should help teachers envision the destination and path of instructional change](pd-providers-envision-destination-and-path.md)
 
 ## Examples
 -

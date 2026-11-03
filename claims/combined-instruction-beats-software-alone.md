@@ -73,3 +73,4 @@ One-way ANOVA on score changes across the three instruction groups: "F(2, 57) = 
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [Instructional software alone significantly improved learners' attitudes towards pronunciation](software-improves-pronunciation-attitudes.md) — related
 - [Instruction mode differentially affected suprasegmental but not segmental gains across the three groups](instruction-mode-affects-suprasegmental-gains.md) — related
+- [Peer correction group outperformed teacher correction (control) group in posttest pronunciation](peer-correction-outperforms-teacher-correction.md) — related

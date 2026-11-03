@@ -51,3 +51,4 @@ Baseline check in the same intact-class quasi-experiment: an independent-samples
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related
 - [Teaching communication strategies raises EFL learners’ classroom Willingness to Communicate more than regular instruction, with a large between-group difference (eta squared = .10)](cs-training-raises-wtc-posttest.md) — related
 - [Experimental-group learners became significantly more willing to communicate after receiving communication strategy training](experimental-group-wtc-gain.md) — related
+- [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related

@@ -110,6 +110,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 - [Read-Alouds with Accountable Talk](../strategies/read-alouds-with-accountable-talk.md) — a variant that adds norms for evidence-based learner talk
 - [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Examples
 - **Fountas & Pinnell Classroom Interactive Read-Aloud Collection** ([heinemann.com](https://www.heinemann.com/fountasandpinnell)) — published text sets with planned discussion prompts for K–6 classrooms

@@ -51,3 +51,4 @@ The review reports, attributing this to Lasekan and Godoy (2020), an impact asse
 ## Related Claims
 - Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment — a broader claim this one bears on
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
+- [Identifying students' multiple intelligences profiles increased motivation from 28% to 91% in a quasi-experimental EFL study](mi-profile-awareness-boosts-motivation-elt.md) — related

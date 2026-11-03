@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (59 show a difference, 18 mixed, 10 no difference) · 43 studies (15 review, 13 associational, 8 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 13 of 43 report an effect size · 87 claims rest on one study
+> **Evidence** · 88 claims (59 show a difference, 19 mixed, 10 no difference) · 44 studies (15 review, 13 associational, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 13 of 44 report an effect size · 88 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -122,6 +122,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Students with introvert personal traits achieved higher descriptive-writing scores than students with extrovert personal traits](../claims/introverts-outscore-extroverts-descriptive-writing.md) [+M] — learners who differ on it differ in outcomes
 - [Teaching technique and personal traits interacted significantly in their effect on descriptive-writing achievement](../claims/technique-trait-interaction-descriptive-writing.md) [~M] — an instructional effect differs with it
 - [Preschoolers' social cognition correlates with age, IQ, personality factors and social adjustment](../claims/preschool-social-cognition-correlates-age-iq-personality.md) [+M] — learners who differ on it differ in outcomes
+- [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](../claims/teaching-type-personality-interaction-big-five.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 
