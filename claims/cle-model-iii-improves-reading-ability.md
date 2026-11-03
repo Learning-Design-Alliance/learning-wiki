@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: promnont-2015
     resource: "https://doi.org/10.5539/elt.v8n5p1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Eleventh-grade students taught through CLE Model III showed significant gains in reading ability from pretest to posttest over 15 weeks of instruction, with a large reported effect size. [→ Promnont 2015](#promnont-2015)

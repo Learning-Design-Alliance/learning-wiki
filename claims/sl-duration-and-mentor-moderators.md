@@ -11,14 +11,16 @@ evidence_strength: weak
 newest_evidence: 2020
 sources:
   - id: toronyi-2020
-    title: "Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11."
+    resource: "https://eric.ed.gov/?id=EJ1267630"
+    title: "Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11. https://eric.ed.gov/?id=EJ1267630"
     author: Toronyi, A.
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: toronyi-2020-2
-    title: "Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11."
+    resource: "https://eric.ed.gov/?id=EJ1267630"
+    title: "Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11. https://eric.ed.gov/?id=EJ1267630"
     author: Toronyi, A.
     q: 2
     i: "?"
@@ -31,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a meta-synthesis in a journal that registers no DOIs (ERIC EJ1267630; no Crossref or DataCite record). It is kept because 2 principle pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Most studies did not go beyond 10-20 hours of SL within one semester, limiting relationship-building time. [→ Toronyi 2020](#toronyi-2020)
@@ -40,7 +43,7 @@ sources:
 
 ### Toronyi 2020
 
-Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11.
+Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11. https://eric.ed.gov/?id=EJ1267630
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,7 +53,7 @@ Limitation noted in the meta-synthesis; as Haddix (2014) posits, relationship bu
 
 ### Toronyi 2020 (2)
 
-Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11.
+Toronyi, A. (2020). Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool. Journal of Service-Learning in Higher Education, 11. https://eric.ed.gov/?id=EJ1267630
 
 `q2 · i?` · `review · r2`
 
@@ -62,7 +65,7 @@ Refutational case within the synthesis; even so, ELLs aided PSTs' skill acquisit
 
 
 ## Related Claims
-- [Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs](sl-authenticity-builds-pst-confidence.md) — related
+- Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs — related
 - [Reciprocity in SL requires meaningful relationships and hearing the voices of those served](sl-reciprocity-voices-of-served.md) — related
 - [SL placements shift PSTs away from deficit-model thinking about ELLs](sl-shifts-psts-away-from-deficit-thinking.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related

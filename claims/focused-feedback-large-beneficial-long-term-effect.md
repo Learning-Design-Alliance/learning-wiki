@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-03
 sources:
   - id: kao-2013
     resource: "https://eric.ed.gov/?id=EJ1007571"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i3` large
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` When correction targets a specified error type, it has a large beneficial effect on students' long-term learning, contradicting claims that correction is harmful. [→ Kao 2013](#kao-2013)

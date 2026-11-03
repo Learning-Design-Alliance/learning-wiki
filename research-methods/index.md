@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**980 entries** · 0 stable · 980 in review · 0 drafts
+**979 entries** · 0 stable · 979 in review · 0 drafts
 
 ---
 
@@ -31,7 +31,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [A ten-strategy taxonomy of distractor-generation strategies grounded in learning-science literature and observed LLM reasoning](a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l.md) - The article introduces a taxonomy of ten distractor-generation strategies, \"grounded in learning-science literature and empirical observations of LLMs’ reasoning traces\", spanning task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection 
 * [A validity-oriented framework for comparing assessment latent structure across humans and LLMs](a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and.md) - The article introduces a methodological framework that treats similarity of latent factor structure as a necessary, though not sufficient, condition for transferring score interpretations from humans to LLMs.
 * [Absolute Between-ROC Area (ABROCA) fairness metric](absolute-between-roc-area-abroca-fairness-metric.md) - ABROCA is a fairness metric proposed by Gardner et al.
-* [Action research](action-research.md) - The article defines action research as systematic inquiry conducted by teachers to understand and improve their own school contexts, drawing on Freire's critical pedagogy.
 * [Active Grade Estimator (AGE)](active-grade-estimator-age.md) - AGE is a pool-based active learning model for automated grading systems (AGSs) that integrates LLMs and regression models.
 * [Active/passive local/global coding framework for LLM offloading prompts](activepassive-localglobal-coding-framework-for-llm-offloading-prompts.md) - A four-way coding scheme applied to each of 564 learner prompts, capturing whether the learner \"remained somewhat active or was passive during a comprehension activity, and if the comprehension within a prompt was targetting local or global level\".
 * [Activity-Centered Analysis and Design (ACAD) framework](activity-centered-analysis-and-design-acad-framework.md) - The Activity-Centered Analysis and Design (ACAD) model provides a metatheoretical framework for understanding complex learning situations by focusing on activities at the heart of student perceptions.

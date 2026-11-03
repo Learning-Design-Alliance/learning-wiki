@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: banditvilai-2016
     resource: "https://eric.ed.gov/?id=EJ1107134"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interview data show students took responsibility for their own learning and planned their own study time. [→ Banditvilai 2016](#banditvilai-2016)

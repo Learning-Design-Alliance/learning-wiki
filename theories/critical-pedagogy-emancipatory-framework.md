@@ -44,7 +44,7 @@ The article presents critical pedagogy, developed from Freire, Gramsci, Apple, G
 
 ## Examples
 
-- [Action research](../research-methods/action-research.md)
+- [Action research](../strategies/action-research.md)
 
 ## Key Sources
 - Mahmoodarabi, M., & Khodabakhsh, M. R. (2015). Critical Pedagogy: EFL Teachers' Views, Experience and Academic Degrees. English Language Teaching, 8(6). https://doi.org/10.5539/elt.v8n6p100

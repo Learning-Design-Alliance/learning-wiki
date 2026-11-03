@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**46095 entries** · 0 stable · 46095 in review · 0 drafts
+**46094 entries** · 0 stable · 46094 in review · 0 drafts
 
 ---
 
@@ -4439,7 +4439,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Authentic materials and tools in the service of real-life resemblance are a double-edged sword, featuring in both low-effectiveness (cognitive) and high-effectiveness (motivational) settings](authentic-materials-double-edged-cognitive-effects.md) - Authentic materials and tools in the service of real-life resemblance are a double-edged sword, featuring in both low-effectiveness (cognitive) and high-effectiveness (motivational) settings
 * [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) - Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks
 * [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-retention-efl.md) - Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks
-* [Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs](sl-authenticity-builds-pst-confidence.md) - Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs
 * [Authentic use of authentic materials motivated learners more than traditional teaching of the same materials](authentic-use-motivates-more-than-traditional-teaching.md) - Authentic use of authentic materials motivated learners more than traditional teaching of the same materials
 * [Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal](av-higher-acuity-detail-sensitivity.md) - Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal
 * [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) - Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment

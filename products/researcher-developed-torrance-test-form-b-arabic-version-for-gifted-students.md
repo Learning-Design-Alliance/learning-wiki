@@ -13,7 +13,7 @@ generated:
 # Researcher-developed Torrance Test (Form B) Arabic version for gifted students
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An Arabic adaptation of Torrance's Form B verbal and descriptive creative-thinking test, developed by Ziadat et al. for assessing creative thinking in gifted and talented seventh-grade students.

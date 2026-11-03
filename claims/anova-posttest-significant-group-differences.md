@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A one-way ANOVA on post-test scores found a statistically significant difference among explicit, implicit, and control groups (F(2, 87) = 74.618, p < .01). [→ Ruhollah Khanbeiki; Seyed Jalal Abdolmanafi-Rokni 2015](#ruhollah-khanbeiki-seyed-jalal-abdolmanafi-rokni-2015)
+`q2 i?` A one-way ANOVA on post-test scores found a statistically significant difference among explicit, implicit, and control groups (reported as F(2, 87) = 74.618, p < .01; with 60 learners the within-groups df is 57, and the paper's own sums of squares give F(2, 57) ≈ 48.9, still p < .001). [→ Ruhollah Khanbeiki; Seyed Jalal Abdolmanafi-Rokni 2015](#ruhollah-khanbeiki-seyed-jalal-abdolmanafi-rokni-2015)
 
 ## Evidence
 
@@ -42,6 +42,8 @@ A one-way ANOVA on post-test scores of 60 learners across three groups reported 
 > "the results of the ANOVA analysis proved that there was a strong significant relationship between the type of instruction and the students' accuracy in correctly pronouncing the words containing consonant clusters"
 
 ## Discussion
+
+The paper's ANOVA table reports a within-groups df of 57 (60 learners in three groups) but a mean square of 30.690, which is 2,670 / 87, not 2,670 / 57; the F of 74.618 in the text was computed with that df of 87. Recomputed from the table, F(2, 57) ≈ 48.9. The group difference stays highly significant, but the reported F overstates it.
 
 
 ## Related Claims
