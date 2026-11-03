@@ -59,9 +59,12 @@ IR exploits the spacing and retrieval-practice effects while deliberately engine
 5. Track items per session and re-assess mastered items in later sessions to confirm maintenance; adjust the known:unknown ratio if accuracy drops below ~80% or the session stalls.
 
 ## Related Strategies
+
 - **Cover–Copy–Compare** — a self-managed drill alternative that trades the known-item deck for a written imitation loop
 - **Distributed practice scheduling** — IR is a micro-level implementation of the same expanding-interval logic
 - **Errorless learning** — shares the immediate-feedback-first-trial structure; IR can be viewed as errorless learning with spaced retrieval folded in
+- [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
+- [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
 
 ## Examples
 - **First-grade sight-word instruction**: A reading tutor drills 2 new Dolch words per session against a deck of 18 mastered words, retiring each new word after four successful retrievals — the classic Nist & Joseph classroom procedure.

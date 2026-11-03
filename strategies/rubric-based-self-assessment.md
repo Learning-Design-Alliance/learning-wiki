@@ -84,6 +84,7 @@ Self assessment works when learners have accurate standards to judge against; ru
 - [Formative Feedback Loops](formative-feedback-loops.md) — self assessment is the learner-driven half of a feedback cycle
 - [Portfolio Assessment](portfolio-assessment.md) — rubric-based self evaluation gives portfolios their reflective component
 - [Require a rubric-aligned self-evaluation before students receive GenAI critique](self-evaluation-before-genai-critique.md)
+- [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.

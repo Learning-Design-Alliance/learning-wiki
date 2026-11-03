@@ -50,3 +50,4 @@ Examination of the differential-attrition threat comparing drop counts across th
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
+- [Daily assessments increased withdrawal rates compared to daily homework](daily-assessments-increased-withdrawal-rates.md) — related

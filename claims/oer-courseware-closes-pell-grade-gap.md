@@ -51,3 +51,4 @@ The commentary reports Wiley's (2017) multiple regression controlling for previo
 - Simulation analysis shows failure to account for the access hypothesis likely prevents detecting any effect of OER adoption on student outcomes — related
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related
 - [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](ngcc-impact-moderators-context.md) — related
+- [Incorporating OER is widely accepted as sufficient to confer 'open' status on educational practice](oer-sufficient-for-open-status.md) — related

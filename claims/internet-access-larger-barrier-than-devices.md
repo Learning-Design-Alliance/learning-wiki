@@ -65,3 +65,4 @@ The LEA survey found that "Access to reliable Internet connection was a larger b
 - [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related
 - [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](lindsay-usd-digital-equity-outcomes.md) — related
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
+- [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related

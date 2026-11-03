@@ -71,3 +71,5 @@ Review's theoretical interpretation of reported drawbacks: intrusiveness, "messa
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — a narrower finding that bears on this claim
 - [Pre-service teachers liked SWBL's facilitating learning, anywhere/anytime access, just-in-time learning, ease of use, meaningful learning and reliability, but disliked reduced classroom communication and Internet dependence](swbl-liked-and-disliked-features-themes.md) — related
 - [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](flipped-classroom-motivation-factors.md) — related
+- [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
+- [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related

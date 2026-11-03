@@ -49,3 +49,4 @@ The WWC's own synthesis across reviewed studies. The potentially positive rating
 - [ALAS effects on progressing in school and completing school fade or are non-significant after the intervention](alas-progressing-completing-null-follow-up.md) — related
 - [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — a broader claim this one bears on
 - [ALAS effects on staying in school are not statistically significant two years after the intervention ends](alas-staying-in-school-null-follow-up.md) — related
+- [EWS-style programs (Check & Connect, ALAS) showed positive effects on staying in school in U.S. WWC reviews](check-connect-alas-positive-staying-in-school.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Student-level ANCOVA of final-exam outcomes at both sites (e.g., While-loop exam
 - [Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement](engagement-profiles-moderate-gat-effects.md) — related
 - CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters — related
 - [At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration](gats-increase-constructive-engagement-uoft.md) — related
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related

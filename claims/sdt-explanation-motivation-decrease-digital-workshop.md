@@ -54,3 +54,4 @@ Authors' theoretical interpretation, drawing on self-determination theory, of wh
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
+- [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](experts-agree-choice-fosters-motivation-engagement.md) — related

@@ -78,3 +78,5 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 - [Observed aggressive behavior positively correlates with teacher-reported aggressive/disruptive behavior](observed-teacher-reported-aggressive-behavior-correlation.md) — related
 - [Positive Action reduced negative behaviors, including substance use, violence, bullying and disruptive behavior, in both trials](positive-action-reduces-negative-behaviors.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on
+- [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related
+- [SW-PBIS implementation showed no statistically significant longitudinal effects on elementary and middle school academic achievement in Minnesota](swpbis-no-significant-academic-achievement-effects-minnesota.md) — related

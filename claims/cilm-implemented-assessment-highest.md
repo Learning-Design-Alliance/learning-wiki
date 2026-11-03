@@ -51,3 +51,4 @@ Expert assessment of the implemented model covering model appropriateness (Mean 
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
 - [Experts rated the CBT curriculum's overall implementation efficiency at the highest level, with contents rated highest quality](expert-evaluation-cbt-curriculum-highest-efficiency.md) — related
 - [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related
+- [Expert audit rated the developed model good to very good across appropriateness, possibility, correctness, usefulness and innovation](model-audit-good-to-very-good.md) — related

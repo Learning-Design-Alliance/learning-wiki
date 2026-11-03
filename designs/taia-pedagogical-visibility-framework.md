@@ -42,7 +42,8 @@ TAIA is the framing model of this study: a classroom orchestration system that i
 - [Taia Inquiry Centered Loop Lsa](../claims/taia-inquiry-centered-loop-lsa.md) [+M]
 
 ## Related Designs
-- 
+
+- [Stripling's social inquiry model as the pedagogic framework for the app's scaffolds](stripling-social-inquiry-model-framework.md)
 
 ## Examples
 -

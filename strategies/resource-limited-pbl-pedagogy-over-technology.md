@@ -47,6 +47,7 @@ The review advises that "educators in resource-limited contexts must rely on str
 - [Authentic Learning Tasks](authentic_learning_tasks.md)
 - [Connect Content To Student Lives](connect_content_to_student_lives.md)
 - [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
+- [ICT can strengthen homeschooling through learning communities and resource access](ict-homeschooling-learning-community-strategy.md)
 
 ## Examples
 -

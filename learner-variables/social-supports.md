@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (78 show a difference, 19 mixed, 6 no difference) · 89 studies (23 associational, 17 review, 16 qualitative, 14 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 9 of 89 report an effect size · 103 claims rest on one study
+> **Evidence** · 107 claims (81 show a difference, 20 mixed, 6 no difference) · 91 studies (24 associational, 17 review, 16 qualitative, 15 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 9 of 91 report an effect size · 107 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -139,6 +139,10 @@ Social supports are the people available to help a learner if needed, and the le
 - [Initial parental support was more strongly associated with child emergent literacy skills at time 2 for intervention families than control families](../claims/redip-initial-support-predicts-literacy-gains-more.md) [~M] — an instructional effect differs with it
 - [REDI-P improved supportive parenting primarily among parents who initially had poorer supportive skills, and only on structured tasks, not at home](../claims/redip-support-gains-limited-to-low-support-parents-tasks.md) [~M] — instruction changes it
 - [Stability of parental support from preschool to kindergarten was greater for control families, indicating the intervention produced greater change in parental support](../claims/redip-parental-support-less-stable-intervention.md) [+M] — instruction changes it
+- [An increase in emotional support predicts a reduction in teacher-reported aggressive behavior in the spring, controlling for fall aggression](../claims/emotional-support-reduces-teacher-reported-aggression.md) [+M] — learners who differ on it differ in outcomes
+- [An increase in emotional support predicts a reduction in teacher-reported conduct problems in the spring, controlling for fall conduct problems](../claims/emotional-support-reduces-teacher-reported-conduct-problems.md) [+M] — learners who differ on it differ in outcomes
+- [Songs and practice opportunities may support skill retention and peer bonding](../claims/whs-songs-practice-retention-bonding.md) [+W] — instruction changes it
+- [The effect of emotional support on teacher-reported conduct problems is amplified when hostile attribution bias decreases](../claims/emotional-support-hostile-attribution-interaction-conduct-problems.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

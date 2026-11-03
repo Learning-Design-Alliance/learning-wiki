@@ -50,3 +50,4 @@ Independent-samples t-tests comparing the field-independent (n=17) and field-dep
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — a broader claim this one bears on
 - [Input flood treatment has a durable long-term effect on field-independent learners' collocation knowledge despite some decay](input-flood-durable-effect-field-independent.md) — related
 - [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](input-flood-no-durable-effect-field-dependent.md) — related
+- [Input flood may be just as salient and beneficial as input enhancement for short, simplified texts.](input-flood-as-salient-as-input-enhancement.md) — related

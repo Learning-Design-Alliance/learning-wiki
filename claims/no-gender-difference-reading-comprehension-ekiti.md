@@ -56,3 +56,5 @@ A 2 x 3 ANCOVA of 270 SSSII students' reading comprehension scores by gender and
 - [In grade 10 expository-text classrooms, neither treatment, gender, nor school type significantly affected reading comprehension](grade10-expository-no-significant-effects.md) — related
 - [No statistically significant gender difference or gender-by-method interaction in postponed achievement](no-gender-difference-postponed-achievement-modules-study.md) — related
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — possibly the same claim (merge candidate)
+- [Gender did not significantly affect free active vocabulary scores](gender-no-effect-free-active-vocabulary.md) — related
+- [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — related

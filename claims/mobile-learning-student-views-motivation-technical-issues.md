@@ -60,3 +60,5 @@ Semi-structured interviews with five randomly chosen mobile learning group stude
 - [Experimental-group students reported that the blended environment offered rich content, easy accessibility, effective guidance and motivation](student-perceptions-blended-rich-content-accessibility-guidance-motivation.md) — related
 - [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](mobile-classroom-issues-off-task-network-design.md) — related
 - [Students found the inquiry-based mobile learning environment interest-generating, citing integration, ease of use, learning outside the classroom, and collaboration, with no sign of a novelty effect wearing off](students-found-mobile-environment-interest-generating.md) — related
+- [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
+- [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related

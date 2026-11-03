@@ -45,6 +45,7 @@ The article's recommendations call on teachers to use computerized educational p
 - [Train teachers in computerized educational software and equip computer labs for Arabic grammar teaching](teacher-training-computerized-software-arabic-grammar.md)
 - [Train teachers and develop university courses on VTM as a student-centred methodology](vtm-teacher-training-workshops-strategy.md)
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Train research assistants/teachers with lesson packages and experimental guides before practical instruction](one-week-teacher-training-practical-science.md)
 
 ## Examples
 -

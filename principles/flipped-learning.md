@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 107 claims (57 for, 46 mixed, 4 against) · 73 studies (32 causal, 19 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 26 of 73 report an effect size · 99 claims rest on one study
+> **Evidence** · 112 claims (62 for, 46 mixed, 4 against) · 74 studies (33 causal, 19 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 27 of 74 report an effect size · 104 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Students taught by an experienced flipped-learning teacher also showed statistically significant improvements in EFL composition writing proficiency](../claims/flipped-learning-significant-writing-gains-fe-group.md) [+W] — attached 2026-11-02 from Adrian Leis et al. (2018), which proposed "Flipped classroom structure: content explanation moved before class, practice under teacher supervision during class, review after class".
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](../claims/flipped-translation-competence-posttest-gain.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units"; tests this page's relationship.
 - [Classroom participation was rated significantly higher in the flipped project-based class than in the control class](../claims/flipped-translation-classroom-participation-higher.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units".
+- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+W] — attached 2026-11-03 from Ahmad (2016), which proposed "Devote class time to active learning rather than lecturing in flipped EFL classrooms"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -241,6 +242,10 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](../claims/flipped-translation-interview-engagement.md) [+W]
 - [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
 - [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
+- [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
+- [Before-class online quizzes were used to ensure preparation and to launch class discussion](../claims/pre-class-quizzes-launch-discussion.md) [+W]
+- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

@@ -57,3 +57,4 @@ Signs restored: the PDF's extracted text had lost its minus signs.
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](implementation-intentions-no-exam-performance-effect.md) — related
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related
 - Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — a broader claim this one bears on
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related

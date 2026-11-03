@@ -54,3 +54,4 @@ A single-group pretest–posttest study of 61 undergraduates in a 15-week ER cou
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — related
+- [Word-targets produced the only significant increase in reading self-efficacy](word-targets-increase-reading-self-efficacy.md) — related

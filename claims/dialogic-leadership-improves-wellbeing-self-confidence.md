@@ -71,3 +71,4 @@ The review reports, citing García-Carrión and Díez-Palomar (2015), a longitud
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [DLG participation is associated with increased self-esteem across primary, special, and adult education](dlg-increase-self-esteem.md) — related
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

@@ -48,3 +48,4 @@ ANCOVA of post-test scores with pre-test as covariate in a 4x2x2 quasi-experimen
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — related
 - [Grade 10 learners taught financial mathematics with a group approach significantly outperformed learners taught with conventional non-group instruction](group-approach-outperforms-non-group-grade10-financial-maths.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
+- [The combined BO-PICT strategy produced the highest mathematics achievement among the four instructional approaches](bo-pict-highest-math-achievement.md) — related

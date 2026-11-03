@@ -48,3 +48,4 @@ One-way ANCOVA on post-test total Self-Efficacy Scale for English scores, contro
 - [Learning-style based reading activities produce higher reading comprehension achievement than traditional reading activities in EFL freshmen classes](learning-style-activities-improve-efl-reading-comprehension.md) — related
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
+- [Explicit strategy instruction alone did not significantly improve learners' English self-efficacy.](strategy-instruction-no-significant-effect-on-self-efficacy.md) — related

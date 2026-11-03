@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (41 for, 38 mixed, 3 against) · 58 studies (30 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 58 report an effect size · 74 claims rest on one study
+> **Evidence** · 83 claims (41 for, 39 mixed, 3 against) · 59 studies (31 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 59 report an effect size · 75 claims rest on one study
 
 ## Description
 
@@ -176,6 +176,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [The positive relationship between spacing and quiz performance is greater for students who complete fewer activities](../claims/spacing-buffers-passive-learning.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
 - [The spacing benefit on quiz performance is larger for lower-ability students than for higher-ability students](../claims/spacing-benefit-larger-lower-ability.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
 - [High-order rule learning in the long ASRT task increases during rest periods and decreases during practice](../claims/high-order-rule-learning-offline-during-rest.md) [+W] — attached 2026-10-26 from Romain Quentin et al. (2021), which proposed "Design training so that rest periods follow practice when high-order rule consolidation is the goal, since different learning subcomponents develop at different times".
+- [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](../claims/spacing-no-advantage-collocations.md) [~W] — attached 2026-11-03 from Snoder (2017), which proposed "Instructors need not space out collocation exposures; intensive schedules suffice"; tests this page's relationship.
 
 ## Source verification and open tests
 

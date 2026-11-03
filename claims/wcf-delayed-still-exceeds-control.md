@@ -54,3 +54,4 @@ Descriptive comparison reported in the results section: the experimental group's
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — related
 - [Input flood benefits field-dependent learners over control only on the immediate post-test, not the delayed post-test](field-dependent-input-flood-benefit-immediate-only.md) — related
 - [Concept mapping supports retention of science knowledge over five days](concept-mapping-supports-retention-delayed-posttest.md) — a narrower finding that bears on this claim
+- [Recognition scores exceed production scores and immediate posttest scores exceed delayed posttest scores](recognition-exceeds-production-and-immediate-exceeds-delayed.md) — related

@@ -57,3 +57,4 @@ Moderator analysis (Table 5) comparing high-SRL (N = 31) and low-SRL (N = 25) su
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](metacognitive-instruction-effects-meta-analyses.md) — related
 - [High and Medium SRL students show significantly better learning gains than Low SRL students](high-medium-srl-better-learning-gains.md) — related
+- [Metacognitive strategies show a high effect size of ES = 0.69 on student achievement](metacognitive-strategies-high-effect-size.md) — related

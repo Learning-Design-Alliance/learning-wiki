@@ -1,0 +1,57 @@
+---
+type: claim
+title: "Teachers report high satisfaction and willingness to recommend We Have Skills!"
+description: "Teachers report high satisfaction and willingness to recommend We Have Skills!"
+id: whs-high-social-validity-satisfaction
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2014
+sources:
+  - id: marquez-2014
+    resource: "https://eric.ed.gov/?id=EJ1070194"
+    title: "Marquez, B., Marquez, J., Vincent, C. G., Pennefather, J., Sprague, J. R., Smolkowski, K., & Yeaton, P. (2014). The Iterative Development and Initial Evaluation of We Have Skills!, an Innovative Approach to Teaching Social Skills to Elementary Students. Education and Treatment of Children, 37(1), 137-161. https://eric.ed.gov/?id=EJ1070194"
+    author: "Marquez, B., Marquez, J., Vincent, C. G., Pennefather, J., Sprague, J. R., Smolkowski, K., & Yeaton, P."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Teachers report high satisfaction and willingness to recommend We Have Skills!
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` 100% of intervention teachers stated they would recommend the program to other teachers (56% strongly recommend) and 100% said they were likely to use it in the classroom. [→ Marquez 2014](#marquez-2014)
+
+## Evidence
+
+### Marquez 2014
+
+Marquez, B., Marquez, J., Vincent, C. G., Pennefather, J., Sprague, J. R., Smolkowski, K., & Yeaton, P. (2014). The Iterative Development and Initial Evaluation of We Have Skills!, an Innovative Approach to Teaching Social Skills to Elementary Students. Education and Treatment of Children, 37(1), 137-161. https://eric.ed.gov/?id=EJ1070194
+
+`q3 · i?` · `causal · r2`
+
+Social validity data collected at posttest from intervention teachers using a six-point Likert scale showed "100% stating they would recommend the program to other teachers." Mean satisfaction with student materials was 5.4 out of 6.
+
+> "Teachers were quite positive about the overall program, with 100% stating they would recommend the program to other teachers (56% said strongly recommend) and 100% said they were likely to use the program in the classroom (59% reported the highest likelihood)"
+
+## Discussion
+
+
+## Related Claims
+- [Elderly users accept the Butler system with high satisfaction, low subjective difficulty, and willingness to recommend it](butler-high-acceptance-elderly-users.md) — related
+- [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related
+- [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
+- [AVID students in CPS report extremely high satisfaction with the program](avid-students-extremely-satisfied-cps-2007.md) — related
+- [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
+- [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
+- [WHS requires minimal teacher time compared to commercial social skills curricula](whs-minimal-teacher-time.md) — related
+- [Students in WHS classrooms are rated higher on social skills at posttest than control students](whs-student-social-skills-improvement.md) — related
+- [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
+- [Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them](avid-high-schools-students-overwhelmingly-positive.md) — related

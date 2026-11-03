@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (23 for, 15 mixed, 2 against) · 60 studies (28 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 60 report an effect size · 30 claims rest on one study
+> **Evidence** · 42 claims (25 for, 15 mixed, 2 against) · 61 studies (29 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 61 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](../claims/self-generated-elaboration-improves-procedural-knowledge-accounting.md) [+W]: one classroom experiment (three groups of 25–26) in accounting; self-generated elaboration beat instructor-assisted elaboration on procedural knowledge, but not the combined strategy. It bears on step 6 (learners generating reasons themselves), not yet read against it.
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W]: a theoretical argument from second-language acquisition (q1). It sits against prolonged isolated drill and beside the whole-task argument; it is an argument, not a test.
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](../claims/review-tutorial-outperforms-demonstration-only.md) [+W] — attached 2026-10-18 from Hans van der Meij (2016), which proposed "Follow each task demonstration with a short review recap to support retention of the procedure".
+- [Hands-on supervision produced higher correct teaching skills than a self-instructional manual after training](../claims/hands-on-supervision-superior-to-self-instructional-manual.md) [+W] — attached 2026-11-03 from Hatlenes et al. (2016), which proposed "Pair theory training with hands-on supervision to reach mastery-level teaching skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -165,6 +166,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](../claims/steep-learning-curve-usg-pvc-nurses-attempts.md) [+W]
 - [Intraoperative feedback reduces procedure time and improves economy of movement in live cholecystectomy](../claims/feedback-cholecystectomy-time-economy.md) [+W]
 - [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
+- [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

@@ -52,6 +52,7 @@ The article recommends choosing supplemental resources that students can relate 
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
 - [Use a life-relevant theme (smart city) as the STEM practice curriculum with staged 18-week activities](smart-city-themed-staged-stem-strategy.md)
+- [Use free, text- and vocabulary-centered tools (MEM, WOW) as supplemental resources in resource-limited settings](free-open-source-tools-resource-limited-settings.md)
 
 ## Examples
 -

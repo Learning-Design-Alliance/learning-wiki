@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (129 show a difference, 27 mixed, 14 no difference) · 87 studies (39 causal, 20 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 87 report an effect size · 168 claims rest on one study
+> **Evidence** · 171 claims (130 show a difference, 27 mixed, 14 no difference) · 88 studies (39 causal, 20 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 88 report an effect size · 169 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -205,6 +205,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [SSCS+MS learning improves low academic students' creative thinking ability 36.18% more than high academic students](../claims/sscs-ms-creative-thinking-low-academic-36-percent.md) [+M] — instruction changes it
 - [Under SSCS+MS, low academic students' creative thinking improvement exceeded high academic students' (descriptive corrected means)](../claims/sscs-ms-low-academic-exceeds-high-corrected-means.md) [+M] — instruction changes it
 - [Under traditional learning, high academic students' creative thinking improvement exceeded low academic students'](../claims/traditional-learning-high-academic-improve-more.md) [+M] — instruction changes it
+- [Co-teaching/team teaching shows a very low effect size of ES = 0.19](../claims/co-teaching-very-low-effect-size.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

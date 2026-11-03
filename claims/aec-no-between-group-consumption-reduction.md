@@ -49,3 +49,4 @@ Mann Whitney comparisons of TLFB-measured drinks in the past 30 days in the clus
 - [Within the intervention group alcohol consumption fell significantly at 1 and 2 months but not at 4 months, while the control group significantly increased consumption at 4 months](aec-prevented-consumption-increase-control-group.md) — related
 - [Positive alcohol expectancies, especially enhanced social behaviour, are significantly associated with alcohol consumption among Maltese adolescents at pre-intervention](positive-alcohol-expectancies-associated-with-adolescent-consumption-malta.md) — related
 - [The article argues that challenging alcohol expectancies alone may be insufficient, and that drinking refusal self-efficacy is a more salient cognitive construct to target](refusal-self-efficacy-more-salient-than-expectancies.md) — related
+- [One Life participation reduces 30-day alcohol use among at-risk rural youth](one-life-reduces-30-day-alcohol-use-rural-youth.md) — related

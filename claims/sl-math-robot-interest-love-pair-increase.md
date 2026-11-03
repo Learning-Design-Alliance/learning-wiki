@@ -54,3 +54,4 @@ Wilcoxon signed-rank test on the interest/love item group in the 28-student one-
 - [Second Life-based mathematics instruction had no significant effect on students' fear of mathematics (z=1.93, p>.05)](sl-math-robot-fear-item-no-effect.md) — related
 - [Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)](sl-math-robot-time-advanced-info-pair-increase.md) — related
 - [Manipulative materials foster pupils' love for reading more than visual materials, despite pupils being predominantly visual learners.](manipulative-materials-foster-reading-love.md) — related
+- [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related

@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (34 show a difference, 8 mixed, 6 no difference) · 32 studies (19 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 32 report an effect size · 48 claims rest on one study
+> **Evidence** · 53 claims (36 show a difference, 10 mixed, 7 no difference) · 33 studies (19 causal, 6 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 33 report an effect size · 53 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -85,6 +85,11 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Within the experimental group, van Hiele levels differed significantly across the three posttests, increasing from right to acute to obtuse angle tests](../claims/repeated-measures-increase-across-posttests-gsp.md) [+M] — instruction changes it
 - [Experimental class showed a larger gain on the state standardized geometry assessment than the control class](../claims/state-assessment-gain-experimental-larger.md) [+M] — instruction changes it
 - [No significant difference between scaffolding and control classes on the teacher-made geometry unit test](../claims/no-unit-test-difference-scaffolding.md) [-M] — instruction changes it
+- [Approximately two-fifths of the children had difficulty differentiating the general concept of area from measuring area, despite good memorization of the area formula.](../claims/two-fifths-difficulty-differentiating-area-claim.md) [~M] — learners who differ on it differ in outcomes
+- [Children unable to interpret the property of multiplication underlying the area formula exhibited common weaknesses in identifying geometric shapes and differentiating between area and perimeter.](../claims/no-multiplication-interpretation-weaknesses-claim.md) [+M] — learners who differ on it differ in outcomes
+- [Children with a good understanding of multiplication underlying the area formula, but who misunderstood the concept of area, showed some ability to use area formulas.](../claims/multiplication-understanding-partial-formula-ability-claim.md) [~M] — learners who differ on it differ in outcomes
+- [Children with a good understanding of the concept of area and the area formula exhibit competency in identifying geometric shapes, using formulas for determining areas, and self-correcting mistakes.](../claims/good-area-understanding-competency-claim.md) [+M] — learners who differ on it differ in outcomes
+- [The association between quality of children's understanding and their application of the area formula of a parallelogram did not reach significance.](../claims/parallelogram-formula-association-not-significant-claim.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

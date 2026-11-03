@@ -58,3 +58,4 @@ Random effects meta-analysis of 29 journal articles from Web of Science (2004–
 - [Thesis Writer, a domain-specific online scaffolding environment for academic writing, was used and deemed supportive by first-year business administration students](thesis-writer-used-and-deemed-supportive-by-students.md) — a narrower finding that bears on this claim
 - [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](seitla-evidence-blended-computer-large-effects.md) — related
 - [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related
+- [Reconfigured teaching strategy subtopics yield a pooled effect size of ES = 0.497, a medium effect on student achievement](reconfigured-teaching-strategies-pooled-medium-effect.md) — related

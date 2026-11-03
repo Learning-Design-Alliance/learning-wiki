@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (119 show a difference, 30 mixed, 19 no difference) · 112 studies (55 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 22 of 112 report an effect size · 166 claims rest on one study
+> **Evidence** · 169 claims (119 show a difference, 30 mixed, 20 no difference) · 113 studies (56 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 22 of 113 report an effect size · 167 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -209,6 +209,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Critical thinking was positively correlated with peer interaction in online discussions](../claims/critical-thinking-peer-interaction-correlation.md) [+M] — learners who differ on it differ in outcomes
 - Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test [-M] — instruction changes it
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](../claims/no-significant-ct-disposition-differences-among-groups.md) [-M] — instruction changes it
+- [Active-learning sequence did not significantly improve critical thinking scores over control](../claims/active-learning-no-significant-critical-thinking-gain.md) [-M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

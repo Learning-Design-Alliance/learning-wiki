@@ -48,3 +48,5 @@ Between-condition analysis of 130 preschool-aged children (66 treatment, 64 comp
 - [Within the intervention group, teacher practices, child engagement, and problem behaviors improved from baseline to post-test and were maintained at four weeks](best-in-class-within-group-maintenance.md) — possibly the same claim (merge candidate)
 - [Teachers' increased use of opportunities to respond was not maintained from baseline to maintenance](otr-not-maintained-best-in-class.md) — related
 - [Positive teacher–child interactions increased and negative interactions decreased in the intervention group relative to controls](best-in-class-teacher-child-interactions.md) — related
+- [A decrease in aggressive interpersonal strategies predicts a reduction in child-reported aggressive behavior in the spring, controlling for fall aggression](decrease-aggressive-strategies-reduces-child-reported-aggression.md) — related
+- [An increase in emotional support predicts a reduction in teacher-reported aggressive behavior in the spring, controlling for fall aggression](emotional-support-reduces-teacher-reported-aggression.md) — related

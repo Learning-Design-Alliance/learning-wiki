@@ -54,3 +54,4 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related
 - [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — a broader claim this one bears on
 - [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) — related
+- [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](hands-on-supervision-gains-maintained-follow-up.md) — related

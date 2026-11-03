@@ -77,3 +77,4 @@ Authors' interpretation of the multiple-group model and split violin and traject
 - [Students with disabilities benefited similarly from PACT but remained about 1 standard deviation behind nondisabled peers at posttest](students-with-disabilities-similar-gains-remain-behind.md) — related
 - [When Tier 3 inadequate responders are compared with higher-responding peers, treatment groups show large negative effects, indicating they often fail to catch up](tier3-inadequate-responders-trail-responsive-peers.md) — related
 - [Ability group (AA, LA, LD) did not significantly moderate the intervention effect](ability-group-no-moderation.md) — related
+- [Students with SLD taught with the keyword strategy reach science concept performance similar to typically developing peers](keyword-strategy-sld-peer-level-performance.md) — related

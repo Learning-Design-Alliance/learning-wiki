@@ -75,3 +75,4 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
 - [Where schools implemented changes after engaging with the interventions, this occurred through in-school collaboration, further enquiry, trying out and embedding approaches, often driven by a research champion](implementation-mechanisms-evidence-based-change.md) — related
 - [Six factors complicate implementing inclusive innovations and their perception by teachers, including lack of skills, diagnostic mechanisms and resources](six-barriers-inclusive-innovation-implementation.md) — related
+- [Teachers in the project increased expertise and improved internal motivation through self-reflection and consultations.](clil-teacher-expertise-motivation.md) — related

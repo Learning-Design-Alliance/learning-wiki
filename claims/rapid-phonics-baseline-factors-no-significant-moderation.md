@@ -58,3 +58,4 @@ Secondary moderator analyses of the randomised trial's multilevel model, with re
 - [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — a narrower finding that bears on this claim
 - [Rapid Phonics delivered across the primary-secondary transition showed no significant effect on reading comprehension (primary outcome)](rapid-phonics-no-significant-reading-comprehension-effect.md) — related
 - [Ever-FSM-eligible children in FLL classes made an estimated 2 months' fewer progress than other ever-eligible children, with very low confidence](fll-fsm-subgroup-negative-effect.md) — related
+- [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — a narrower finding that bears on this claim

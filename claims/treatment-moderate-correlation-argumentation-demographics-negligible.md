@@ -51,3 +51,4 @@ Pearson Product Moment correlations among argumentation skill, grade, gender, et
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
+- [Demographic variables showed low to negligible relationships with content knowledge and argumentation skill](demographics-low-negligible-relationships-cde-outcomes.md) — related

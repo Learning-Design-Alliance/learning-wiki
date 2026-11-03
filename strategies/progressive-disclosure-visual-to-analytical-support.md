@@ -37,7 +37,8 @@ The article recommends that educational simulations match support to learner exp
 - sustained engagement and progression toward analytical mastery
 
 ## Related Strategies
-- 
+
+- [Search for techniques such as sufficient learning time, navigational guidance, interface design, and progressive or controlled disclosure of details to increase supplantation and attenuate overload in desktop VR](techniques-increase-supplantation-attenuate-overload-desktop-vr.md)
 
 ## Examples
 -

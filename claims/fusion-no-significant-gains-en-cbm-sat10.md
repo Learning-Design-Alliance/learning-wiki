@@ -77,3 +77,4 @@ Same randomized pilot trial; random-effects Condition-by-Time tests on EN-CBM an
 - [The Fusion intervention produced a statistically significant positive effect on the proximal ProFusion measure in a practitioner-led quasi-experimental implementation](fusion-practitioner-implementation-significant-profusion-effect.md) — related
 - [CBM scores correlated with standardized test scores but teacher grades did not correlate with either measure](cbm-correlates-with-standardized-not-grades.md) — related
 - [CBMs detected intervention gains that standardized test scores and teacher grades did not reach significance on](cbms-detect-gains-standardized-tests-miss.md) — related
+- [Duration of observation shows a small significant association with ELM EN-CBM gains](duration-observation-significant-elm-encbm.md) — related

@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (4 for, 6 mixed, 2 against) · 10 studies (7 causal, 2 quant-synthesis, 1 review), `q1`–`q3` · 3 of 10 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (4 for, 7 mixed, 2 against) · 11 studies (8 causal, 2 quant-synthesis, 1 review), `q1`–`q3` · 3 of 11 report an effect size · 13 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -35,3 +35,4 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](../claims/instructors-prefer-less-effective-draw-framing.md) [-W]
 - [Model-focused framing prompts yield higher transfer learning gains than business-as-usual, while drawing-focused prompts yield lower gains than the control condition](../claims/model-framing-higher-transfer-gains-draw-lower.md) [-W]
 - [CAD integration at the synthesis stage increases idea generation and 2D-to-3D sketch changes and yields higher-rated synthesis products](../claims/cad-synthesis-stage-more-ideas-and-higher-products.md) [~W]
+- [The form of automatically generated model-based feedback did not influence the type of representation](../claims/feedback-form-did-not-influence-representation-type.md) [~W]

@@ -52,3 +52,4 @@ Moderator analysis grouping the achievement studies by grade level (elementary, 
 - [Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades](pl-effects-larger-elementary-nonsignificant-high-school.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — a broader claim this one bears on
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related
+- [Mastery learning shows an effect size of ES = 0.58, with effects of .94 in elementary, .72 in high school, and .65 in college](mastery-learning-effect-size-levels.md) — possibly the same claim (merge candidate)

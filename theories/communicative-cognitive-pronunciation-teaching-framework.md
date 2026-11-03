@@ -49,6 +49,7 @@ Celce-Murcia, Brinton, and Goodwin (1996), as presented in the digest, propose a
 - [Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria](../designs/word-stress-five-step-lesson-pattern.md)
 - [Use multisensory exercises (throats, mirrors, kazoos, rubber bands, sound associations, finger counts) to help learners comprehend pronunciation features](../strategies/multisensory-pronunciation-comprehension-exercises.md)
 - [Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework](../designs/eight-strategies-esl-pronunciation-bangladesh.md)
+- [Follow pronunciation instruction with controlled practice, guided practice, communicative practice, and feedback at every step](../strategies/pronunciation-practice-sequence-with-feedback.md)
 
 ## Key Sources
 - Florez, MaryAnn Cunningham. (1998). Improving Adult ESL Learners' Pronunciation Skills. ERIC Digest. National Clearinghouse for ESL Literacy Education. https://eric.ed.gov/?id=ED427553

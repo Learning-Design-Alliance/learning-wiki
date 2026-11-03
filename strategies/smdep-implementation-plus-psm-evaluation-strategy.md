@@ -41,7 +41,8 @@ The study combines two evaluation activities: it "describes program implementati
 - [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](../claims/tenmarks-summer-no-effect-map.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use interrupted time-series designs with matched comparison groups, adapting the level of analysis to each site's scope of implementation](matched-comparison-interrupted-time-series-by-implementation-scope.md)
 
 ## Examples
 -

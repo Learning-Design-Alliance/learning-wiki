@@ -49,3 +49,4 @@ Delayed post-test administered five days after the unit. Treatment group showed 
 - [Both groups improved greatly from pretest to posttest and maintained performance from posttest to delayed posttest](both-groups-gained-and-maintained-over-time.md) — a broader claim this one bears on
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
+- [Recognition scores exceed production scores and immediate posttest scores exceed delayed posttest scores](recognition-exceeds-production-and-immediate-exceeds-delayed.md) — related

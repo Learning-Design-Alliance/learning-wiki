@@ -55,3 +55,4 @@ Mann-Whitney U comparisons (Fig. 2B-E) of the 100-point comprehensive assessment
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](ai-flipped-classroom-behavioral-engagement-null.md) — related
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](test-of-preparation-moderates-flipped-learning.md) — related
+- [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](flipped-classroom-three-stage-implementation.md) — related

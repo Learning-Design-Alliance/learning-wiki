@@ -65,6 +65,7 @@ Flashcards work because retrieval is a learning event, not merely an assessment:
 - [Self-Testing](../elements/self-testing.md) — the broader family of techniques flashcards operationalize
 - [Allocate revision time economically by concentrating self-testing on the box of not-yet-known items](concentrate-revision-on-unknown-box.md)
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
+- [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card review is a micro practice trial with retrieval as the task

@@ -66,3 +66,4 @@ Case-study finding from the implementation and process evaluation identifying a 
 ## Related Claims
 - [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
+- [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](flipped-classroom-three-stage-implementation.md) — related

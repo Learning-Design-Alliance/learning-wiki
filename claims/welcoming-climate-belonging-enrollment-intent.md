@@ -55,3 +55,4 @@ The review reports, citing Hausmann et al. (2007), an experimental study finding
 - [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](racism-psychological-implications-belonging.md) — related
 - [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
+- [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — related

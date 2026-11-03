@@ -79,3 +79,4 @@ Mann-Whitney test on questionnaire pretest scores; mean ranks were 42.04 (experi
 - [SL and traditional groups were equivalent in speaking achievement at pre-test](equivalent-pretest-groups.md) — related
 - [Inductive and deductive groups were statistically equivalent on grammar pre-tests at both university and elementary levels before the experiment](pretest-equivalence-inductive-deductive-groups.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
+- [No pre-treatment differences in biofuels content knowledge existed between adaptive and innovative students before the treatment](pretest-equivalence-adaptive-innovative-groups.md) — related

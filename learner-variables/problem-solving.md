@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (118 show a difference, 16 mixed, 21 no difference) · 122 studies (73 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 122 report an effect size · 152 claims rest on one study
+> **Evidence** · 158 claims (120 show a difference, 17 mixed, 21 no difference) · 125 studies (76 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 125 report an effect size · 155 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -193,6 +193,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Open problems improve mathematical problem-solving ability more than closed problems](../claims/open-problems-improve-math-problem-solving-ability.md) [+W] — instruction changes it
 - [Prior knowledge predicts problem-solving ability](../claims/prior-knowledge-predicts-problem-solving.md) [+W] — learners who differ on it differ in outcomes
 - [PSBLW improves mathematical problem-solving ability more than direct instruction](../claims/psblw-improves-math-problem-solving-ability.md) [+W] — instruction changes it
+- [Reflective learning produces significantly higher mean gains in problem solving than lecture-discussion](../claims/reflective-learning-higher-problem-solving-gains.md) [+W] — instruction changes it
+- [Students using physical cards took longer on average to solve the problem than the other groups, but all of them solved it.](../claims/card-model-increases-persistence-time.md) [~W] — instruction changes it
+- [Synectics workshops significantly increase perceived problem-solving skills, retained three months later](../claims/synectics-improves-problem-solving-skills-retained.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

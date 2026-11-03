@@ -51,3 +51,5 @@ Delayed posttest administered four weeks after reading in the same comparison-gr
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — a broader claim this one bears on
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — reports the opposite
 - [The intentional group accessed 20.6% more glosses than the incidental group without corresponding test gains](gloss-access-advantage-no-test-advantage.md) — related
+- [Intentional learning outperformed incidental learning on durability of initially learned collocations](intentional-learning-durability-collocations.md) — reports the opposite
+- [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — reports the opposite

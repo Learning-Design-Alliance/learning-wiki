@@ -70,3 +70,4 @@ Qualitative analysis via conversations with students: in paper form "students' p
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Students earn significantly higher scores on interactive electronic tests than on the same tests in paper form](interactive-tests-higher-scores-than-paper.md) — related
 - [Interactive electronic tests take significantly longer to complete than equivalent paper tests](interactive-tests-slower-than-paper-tests.md) — related
+- [Conventional TLM such as textbooks, papers and flash cards did not attract learners, while e-TLM captured attention and motivation](e-tlm-attention-motivation-conventional-unattractive.md) — related

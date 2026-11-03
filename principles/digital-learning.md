@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (40 for, 48 mixed, 6 against) · 103 studies (26 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 103 report an effect size · 83 claims rest on one study
+> **Evidence** · 95 claims (40 for, 48 mixed, 7 against) · 104 studies (27 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 104 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -211,6 +211,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Effects of ICT-based teaching persisted at retest, with results similar to the post-test stage](../claims/ict-tourism-retest-durability.md) [~W]
 - [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](../claims/ipad-social-studies-educational-software-element.md) [~W]
 - [The mere presence of computers in schools is insufficient to improve mathematics grades without adequate utilisation](../claims/computer-presence-insufficient-without-utilisation.md) [~W]
+- [Textbook-based learning with teacher-assisted consolidation (TAL) produced significantly higher immediate post-test knowledge scores than computer-aided learning with teacher-assisted consolidation (CALT).](../claims/tal-higher-immediate-post-test-than-calt.md) [-W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

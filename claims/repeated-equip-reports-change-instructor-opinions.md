@@ -46,3 +46,4 @@ Retrospective interview account from the PIRT researcher about ten community col
 
 ## Related Claims
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related
+- [Participating teachers' overall mean EQUIP score was highest during the second observation, taken at the end of the first semester, but these changes in their instructional practices were not sustainable during the second semester.](pd-instructional-practices-not-sustainable-second-semester.md) — related

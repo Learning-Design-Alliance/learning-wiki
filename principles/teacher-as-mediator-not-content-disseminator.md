@@ -68,7 +68,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (37 for, 18 mixed, 1 against) · 53 studies (11 qualitative, 10 review, 10 theoretical, 9 causal, 9 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 5 of 53 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (38 for, 18 mixed, 1 against) · 54 studies (11 qualitative, 10 causal, 10 review, 10 theoretical, 9 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 5 of 54 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -217,6 +217,7 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Facilitation competencies for IPE include commitment, credibility, role modeling, understanding of interactive learning methods, group dynamics knowledge, flexibility with professional differences, and balancing individual and group needs](../claims/ipe-facilitation-competencies-seven-areas.md) [+W]
 - [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](../claims/mobile-use-shifts-lecturer-to-facilitator.md) [+W]
 - [G-DA instruction improved L2 writing performance: the experimental group outperformed the control group on the posttest](../claims/gda-outperformed-control-writing-posttest.md) [+W]
+- [The M/A group showed a positive shift in the perceived meaningfulness of learning mathematics.](../claims/clil-maths-meaningfulness-shift.md) [+W]
 
 ## Related Principles
 - [Constructivism](cognitive-activation.md)

@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (2 for, 17 mixed, 5 against) · 17 studies (8 review, 5 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (3 for, 17 mixed, 5 against) · 18 studies (8 review, 6 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 18 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Matching, building an approach, compensating with a job aid, and a change in the
 
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [~W]
 - [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](../claims/study-preferences-exist-but-insufficient.md) [~W]
+- [Students' cognitive style (adaptive vs. innovative) did not significantly affect content knowledge scores](../claims/cognitive-style-no-effect-content-knowledge.md) [+W]
 
 ## Related Principles
 - [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)

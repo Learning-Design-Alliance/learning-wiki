@@ -53,3 +53,4 @@ Qualitative process evaluation using two stages of telephone interviews with par
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related
 - [Parents reported that their children were motivated by the HGCs and their attitude to maths became more positive, though parent feedback was limited](parent-feedback-hgc-motivation.md) — related
+- [Homeschooling parents show stronger efficacy and involvement beliefs than public school parents](homeschooling-parents-stronger-efficacy.md) — related

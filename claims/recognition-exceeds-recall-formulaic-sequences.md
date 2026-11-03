@@ -48,3 +48,4 @@ Within-group Mann-Whitney comparisons of Part A vs Part B for all three groups o
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](pbi-tbi-outperform-control-formulaic-sequences.md) — related
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — a broader claim this one bears on
 - [No significant difference in immediate Form Recognition of Repeating patterns among the three groups](no-significant-immediate-difference-repeating-recognition.md) — related
+- [Recognition scores exceed production scores and immediate posttest scores exceed delayed posttest scores](recognition-exceeds-production-and-immediate-exceeds-delayed.md) — related

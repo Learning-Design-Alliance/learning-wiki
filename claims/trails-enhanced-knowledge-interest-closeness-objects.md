@@ -49,3 +49,5 @@ Summative qualitative evaluation of the iGuides trails with HE design students a
 - [Multi-perspective, tutor-created trails were the most popular, and students valued hearing multiple views of the same object](multi-perspective-trails-popular.md) — related
 - [Students preferred conducting a trail outside their own subject area, and help with learning to look was welcomed at all course levels](trails-outside-subject-area-welcomed.md) — related
 - [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](pda-distraction-balanced-by-structure.md) — related
+- [Students identified specific deficiencies in virtual museums, including lack of detailed object information and audio features.](virtual-museum-deficiencies-information-audio.md) — related
+- [Students found the virtual museum application enjoyable, useful, and motivating.](virtual-museum-enjoyable-useful-motivating.md) — related

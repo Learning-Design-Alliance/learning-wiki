@@ -48,3 +48,4 @@ The article's own limitations section states the sample was "restricted to pre-u
 - [Iranian pre-university students taught vocabulary with flash cards significantly outperformed traditionally taught students on a vocabulary posttest](vfc-outperformed-traditional-vocabulary-teaching.md) — related
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related
 - [The authors attribute CAVI's vocabulary advantage to individualised pacing, instant feedback, low-anxiety interaction and motivating game features](cavi-advantage-attributed-to-feedback-autonomy-motivation.md) — related
+- [Conventional TLM such as textbooks, papers and flash cards did not attract learners, while e-TLM captured attention and motivation](e-tlm-attention-motivation-conventional-unattractive.md) — related

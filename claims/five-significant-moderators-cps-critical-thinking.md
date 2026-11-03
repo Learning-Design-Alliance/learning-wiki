@@ -56,3 +56,4 @@ Subgroup moderator analysis of the 79 effect quantities across 36 studies (Table
 - [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
 - [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](cooperative-collaborative-larger-effects-than-pbl-peer-led.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
+- [Problem-solving teaching shows a moderately high effect size of ES = 0.61, specifically linked to math skill performance](problem-solving-teaching-moderate-high-effect.md) — related

@@ -45,7 +45,8 @@ Based on the dialogue analyses, the article proposes that task design determines
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](../claims/visual-textual-no-significant-gain-over-text.md) [~W]
 
 ## Related Strategies
-- 
+
+- [ITPC-framed CL lesson sequence with warm-up, image-schema instruction, controlled practice and productive tasks](itpc-cl-preposition-lesson-sequence.md)
 
 ## Examples
 -

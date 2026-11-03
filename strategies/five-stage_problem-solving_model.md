@@ -65,6 +65,7 @@ The model's value lies in converting problem solving from an unstructured search
 - [Case-Based Learning](../strategies/case-based-learning.md) — supplies the authentic problems the cycle is applied to
 - [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
 - [Structure PBL instruction through the five steps of question, analysis, problem solving, results reporting, and reflection and evaluation](pbl-five-step-english-teaching-strategy.md)
+- [Assign students new word problems requiring them to discover their own solution steps and algorithms.](assign-novel-word-problems-self-discovery.md)
 
 ## Examples
 - **Mathematics classrooms**: Students restate a word problem in their own words, list knowns and unknowns, sketch a diagram, attempt a solution showing all work, then verify the answer against the original question — Polya's understand/plan/carry out/look-back cycle in practice

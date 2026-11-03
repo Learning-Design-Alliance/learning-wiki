@@ -59,3 +59,4 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 - [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](dialogic-leadership-improves-wellbeing-self-confidence.md) — related
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

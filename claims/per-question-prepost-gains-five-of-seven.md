@@ -46,3 +46,4 @@ Per-question paired analysis of the seven-item pre/post assessment in the 13-stu
 
 ## Related Claims
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — a broader claim this one bears on
+- [Critical thinking scores improved significantly over time across both conditions](critical-thinking-improved-over-time-both-conditions.md) — related

@@ -67,3 +67,4 @@ Subset analysis repeating the covariate-adjusted regression after excluding stud
 - [Students in emporium college algebra sections scored approximately 12 points higher on the posttest than students in traditional lecture sections](emporium-higher-posttest-college-algebra.md) — related
 - [Pass rates and final course grades did not differ significantly between emporium and traditional lecture sections](emporium-pass-rate-no-difference.md) — related
 - [Students who attempted more than 90 different exercises achieved significantly higher final grades than students who attempted fewer](attempting-over-90-exercises-higher-grades.md) — related
+- [Computer-based emporium students outperform traditional lecture students on a common multiple-choice final exam in college algebra](cb-emporium-higher-final-exam-college-algebra.md) — related

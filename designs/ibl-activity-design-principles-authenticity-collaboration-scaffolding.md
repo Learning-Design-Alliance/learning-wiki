@@ -42,8 +42,10 @@ The IBL activity was designed around three principles. Authenticity meant a disc
 - Ibl Immersion Increases Procedural Knowledge Goals Self Efficacy [+M]
 
 ## Related Designs
+
 - Collaborative Learning
 - [Guided Practice Four Purposes](../patterns/professional-development.md)
+- [Four-scaffold inquiry cycle delivered as context-aware game scaffolds](four-scaffold-context-aware-inquiry-cycle.md)
 
 ## Examples
 -

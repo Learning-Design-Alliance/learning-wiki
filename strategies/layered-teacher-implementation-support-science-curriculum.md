@@ -81,6 +81,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 - [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Train research assistants/teachers with lesson packages and experimental guides before practical instruction](one-week-teacher-training-practical-science.md)
 
 ## Examples
 -

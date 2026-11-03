@@ -49,3 +49,4 @@ Correlational analysis of the 36 experimental group students' software usage log
 - [Parole users retained more vocabulary twelve weeks after instruction than control students](parole-software-improves-vocabulary-retention.md) — related
 - [Students report that Parole makes vocabulary learning permanent but time-consuming](parole-user-perceptions-permanence-and-time-cost.md) — related
 - [Adjusted posttest VST means were ordered by time spent using the word card program, with the two-hour group highest](adjusted-posttest-means-order-word-engine-time.md) — related
+- [No significant correlation between hours of software use and posttest scores](no-correlation-software-hours-posttest-scores.md) — reports the opposite

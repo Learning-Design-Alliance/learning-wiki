@@ -49,3 +49,4 @@ A randomized two-group experiment with 59 pre-service teachers (28 flipped, 31 c
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Scenario based learning produced higher academic achievement than reflective learning in a 12-week Teaching Practice course](sbl-higher-achievement-than-reflective-learning.md) — related
 - [Blended e-learning did not significantly affect vocational students' achievement test scores compared with traditional learning after five weeks](blended-elearning-no-achievement-test-difference.md) — related
+- [The effect size for the indirect strategies group's pre-post improvement was moderate (η2 = 0.03)](indirect-strategies-moderate-effect-size-eta-003.md) — related

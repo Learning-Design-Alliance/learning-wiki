@@ -89,3 +89,4 @@ Student self-reported health behaviors in the Chicago trial. The article charact
 - [The Positive Action program produced more favorable change over time in school self-esteem among low-income urban youth](positive-action-improved-school-self-esteem-trajectories.md) — related
 - [Positive Action improved school quality and climate in both the Hawai'i and Chicago cluster-randomized trials](positive-action-improves-school-quality-climate.md) — related
 - [Positive Action reduced negative behaviors, including substance use, violence, bullying and disruptive behavior, in both trials](positive-action-reduces-negative-behaviors.md) — related
+- [Values-education activities increased students' positive health behaviours including hygiene, nutrition, and exercise](values-activities-increase-positive-health-behaviours.md) — related

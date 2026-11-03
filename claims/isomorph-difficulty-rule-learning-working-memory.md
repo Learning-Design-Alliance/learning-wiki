@@ -67,3 +67,4 @@ The thesis reports, citing Kotovsky et al., that isomorphs with readily encoded 
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on
 - [Facet difficulty and intercorrelation patterns: analyzing givens was easiest, evaluating progress hardest, and planning correlated 0.98 with the overall estimate](facet-difficulty-and-intercorrelations.md) — related
+- [Students using physical cards took longer on average to solve the problem than the other groups, but all of them solved it.](card-model-increases-persistence-time.md) — related

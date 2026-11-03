@@ -53,3 +53,4 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related
+- [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related

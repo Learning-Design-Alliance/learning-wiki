@@ -49,3 +49,4 @@ The abstract reports subgroup findings from the Family Rewards RCT, citing Ricci
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
 - [Preliminary analyses show significant variation in Family Rewards impact estimates across the six community districts](family-rewards-impact-variation-across-community-districts.md) — related
+- [Only conditional cash transfer interventions showed consistently positive impacts in the SDPP literature review](sdpp-review-conditional-cash-transfers-only-consistent.md) — related

@@ -56,3 +56,4 @@ Cross-sectional correlational study by Gapin and Etnier of 18 school-age boys wi
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
 - [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](mvpa-correlates-creativity-dimensions.md) — related
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related
+- [Physical activity did not increase and was unrelated to self-efficacy changes](no-physical-activity-increase-despite-efficacy-gains.md) — related

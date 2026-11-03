@@ -52,3 +52,4 @@ Descriptive analysis of open-ended SUSSI responses scored with the Liang et al. 
 - [Before treatment, pre-service science teachers' open-ended SUSSI responses were mostly Not Classifiable or Naïve, with few Transitional and no Informed Views](pretest-views-mostly-nc-nv.md) — related
 - [Post-test SUSSI scores of pre-service science teachers taught through project-based HNOS training are significantly higher than those of the control group taught by conventional method](pbl-hnos-higher-posttest-sussi.md) — related
 - [At pre-test the control group scored significantly higher than the experimental group on overall SUSSI and on the scientific theories and laws and social and cultural embeddedness aspects](pretest-sussi-favors-control.md) — related
+- [After the story-structured lesson, students' prevention ideas shifted from law enforcement and punishment toward consent and limiting alcohol](story-lesson-shifted-prevention-attitudes-toward-consent-alcohol.md) — related

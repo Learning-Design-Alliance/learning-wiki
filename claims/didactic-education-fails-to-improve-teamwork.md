@@ -59,3 +59,5 @@ Moderator analysis (Table 3) of training method in the teamwork pool: workshop d
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — related
 - [Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was](multiple-dimensions-needed-for-teamwork-gains.md) — related
 - [Teamwork training effects on teamwork are larger for new teams, but effects on team performance are larger for intact teams](team-type-moderates-teamwork-training-effects.md) — related
+- [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — a narrower finding that bears on this claim
+- [Synectics workshops significantly increase perceived supportive communication skills, retained three months later](synectics-improves-supportive-communication-skills.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ Narrative literature attribution by the present authors, not a re-analysis. The 
 
 ## Related Claims
 - [Most included studies sampled medical students (n=13), with few studies among nursing, pharmacy, physiotherapy, dentistry, or mixed disciplines](medical-students-dominate-ebp-teaching-evidence.md) — related
+- [Physical education students gained significantly more than athletic training students](pe-students-gain-more-than-athletic-training-students.md) — related

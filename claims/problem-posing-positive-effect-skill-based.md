@@ -50,3 +50,4 @@ Meta-analysis of five skill-based weighted effect sizes from experimental and qu
 - [Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)](problem-posing-positive-effect-ability-based.md) — related
 - [Problem posing interventions show a large positive effect on attitudes and beliefs toward mathematics (mean Hedges' g = 0.76)](problem-posing-positive-effect-attitude-beliefs.md) — related
 - [Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)](cps-attitudinal-tendency-stronger-than-cognitive-skills.md) — related
+- [Problem-solving teaching shows a moderately high effect size of ES = 0.61, specifically linked to math skill performance](problem-solving-teaching-moderate-high-effect.md) — related

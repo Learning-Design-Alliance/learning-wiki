@@ -57,3 +57,5 @@ A randomized controlled trial of 219 eighth graders in nine middle schools in on
 - [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — a broader claim this one bears on
 - [External incentives improved fifth-graders' rate of improvement on school tasks, with the motivated group standing ten points higher than the unmotivated by the ninth period](chapman-feeler-external-incentive-improvement.md) — related
 - [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related
+- [Only conditional cash transfer interventions showed consistently positive impacts in the SDPP literature review](sdpp-review-conditional-cash-transfers-only-consistent.md) — related
+- [EWS-style programs (Check & Connect, ALAS) showed positive effects on staying in school in U.S. WWC reviews](check-connect-alas-positive-staying-in-school.md) — related

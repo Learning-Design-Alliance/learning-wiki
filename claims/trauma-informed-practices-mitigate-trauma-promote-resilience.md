@@ -59,3 +59,4 @@ The brief asserts, citing background literature on trauma and adverse childhood 
 - [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](project-with-perceived-impact-relationships-self-regulation.md) — related
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation](mindmatters-evaluation-mixed-effects.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

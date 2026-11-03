@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (46 for, 31 mixed, 4 against) · 66 studies (28 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 9 of 66 report an effect size · 73 claims rest on one study
+> **Evidence** · 83 claims (47 for, 32 mixed, 4 against) · 68 studies (30 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 9 of 68 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Prior studies comparing quizzes or reflections against passive or ineffective-strategy controls do not establish which active method is more effective](../claims/active-active-comparisons-missing-from-prior-literature.md) [~W]
 - [In Study 2, the performance-task section showed significant pre/post improvement in total quantitative-reasoning scores while the No PT section did not](../claims/study2-pt-section-total-score-gains.md) [+W]
 - [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](../claims/non-mlm-group-below-national-average-gain.md) [-W]
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
+- [Gender had no significant influence on performance when taught solubility with practical activities](../claims/no-gender-difference-practical-activities-solubility.md) [~W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

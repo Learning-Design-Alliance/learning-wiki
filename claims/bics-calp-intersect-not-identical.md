@@ -59,3 +59,4 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms](bilingual-policy-fosters-multicultural-pedagogical-interaction.md) — a narrower finding that bears on this claim
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
+- [L1 serves academic functions such as explaining target-language aspects, facilitating comprehension, and scaffolding](l1-academic-functions-facilitate-comprehension.md) — related

@@ -48,3 +48,4 @@ Qualitative analysis of semi-structured interviews with 11 randomly selected exp
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Experimental-group students reported that the blended environment offered rich content, easy accessibility, effective guidance and motivation](student-perceptions-blended-rich-content-accessibility-guidance-motivation.md) — related
+- [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related

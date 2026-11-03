@@ -19,7 +19,7 @@ sources:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (15 for, 7 mixed, 2 against) · 23 studies (7 causal, 5 quant-synthesis, 4 review, 3 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 1 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (15 for, 8 mixed, 2 against) · 24 studies (8 causal, 5 quant-synthesis, 4 review, 3 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 1 of 24 report an effect size · 23 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -69,6 +69,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [The authors attribute the dictogloss advantage to depth of processing, discovery learning, pushed output, noticing, awareness raising, negotiation, and collaboration](../claims/dictogloss-advantage-processing-noticing-negotiation-account.md) [+W]
 - [Weaving TBLA into vocabulary classes may help learners notice gaps in their developing foreign-language vocabulary](../claims/tbla-helps-notice-vocabulary-gaps.md) [+W]
 - [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](../claims/avmmc-more-noticing-than-svmmc.md) [~W]
+- [More participants in the unenhanced condition correctly identified the target structure than in the enhanced condition.](../claims/unenhanced-group-greater-awareness-target-structure.md) [~W] — attached 2026-11-03 from Loewen et al. (2016), which proposed "Schmidt's noticing hypothesis and the distinction between attention and awareness in L2 learning.".
 
 ## The evidence by question
 - *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]

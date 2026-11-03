@@ -48,3 +48,4 @@ Preliminary t-test analysis comparing treatment (N=23) and control groups in an 
 ## Related Claims
 - [Argument quality differences between treatment and control groups were not statistically significant in the first week of online discussion](argument-quality-week-one-not-significant.md) — reports the opposite
 - [Pre-reading relevance instructions produce better cued recall for test questions more similar to the instructions than for questions less similar to them](relevance-instruction-similarity-cued-recall-advantage.md) — related
+- [Argumentation-infused modules produced better team sales scenario performance but no advantage on individual sales call or overall team score](argumentation-infusion-team-sales-scenario-advantage-only.md) — related

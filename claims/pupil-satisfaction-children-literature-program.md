@@ -50,3 +50,5 @@ Students' feedback questionnaire administered to both experimental groups after 
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [A children-literature-based EFL program significantly improved fifth-grade pupils' cognitive life skills versus control](childrens-literature-program-improves-cognitive-life-skills.md) — related
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
+- [Songs and practice opportunities may support skill retention and peer bonding](whs-songs-practice-retention-bonding.md) — related

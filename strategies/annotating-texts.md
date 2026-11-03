@@ -87,6 +87,7 @@ Annotation works because it forces selection and organization of ideas rather th
 - **Reciprocal Teaching** — shares the predict/question/clarify/summarize moves that annotation externalizes
 - **Marginalia discussion** — social annotation as the discussion medium itself
 - [Add underlining during reading and self-assessing at the end of lessons as metacognitive strategies](underlining-and-self-assessing-metacognitive-strategy.md)
+- [Embed clickable multimedia annotations in digital reading texts on a learning platform](clickable-multimedia-annotations-digital-reading.md)
 
 ## Examples
 - **Perusall** (https://www.perusall.com) — social annotation platform where students annotate course readings collaboratively and AI-scored annotation quality feeds into grading; used widely in flipped and large-enrollment courses.

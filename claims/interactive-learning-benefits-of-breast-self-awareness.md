@@ -49,3 +49,4 @@ Repeated measures ANOVA on the benefits of breast self-awareness subscale (four 
 - [Adolescent females taught breast health with interactive learning using simulated breast models gained more knowledge and sustained the gain longer than the comparison group](interactive-learning-breast-health-knowledge-retention.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
 - [Interactive learning lowered adolescent females' perceived barriers to breast self-examination immediately after the program](interactive-learning-lower-perceived-barriers-bse.md) — related
+- [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related

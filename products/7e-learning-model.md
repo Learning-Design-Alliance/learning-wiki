@@ -27,7 +27,8 @@ A seven-stage constructivist, inquiry-oriented instructional model developed by 
 - [Multimedia-supported 7E model materials improved five-week retention of learned science content relative to traditional teaching](../claims/multimedia-7e-retention-advantage.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [4Ex2 Instructional Model](4ex2-instructional-model.md)
 
 ## Key Sources
 - Sarac, H., & Tarhan, D. (2017). Effect of multimedia assisted 7e learning model applications on academic achievement and retention in students. European Journal of Educational Research, 6(3), 299-311. https://doi.org/10.12973/eu-jer.6.3.299

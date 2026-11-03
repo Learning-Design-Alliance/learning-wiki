@@ -65,6 +65,7 @@ Fluency drills operationalize the [Behaviorism](../theories/behaviorism.md) trad
 - **Cover–copy–compare** — a self-managed drill variant suitable for independent work
 - **Mastery-based progression** — the criterion-referenced advancement logic drills should follow
 - [Properly administered speed drills in arithmetic to improve both amount done correctly and accuracy](speed-drills-improve-addition-accuracy.md)
+- [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive math-fact fluency game that individualizes fact sets and uses fluency criteria to advance students.

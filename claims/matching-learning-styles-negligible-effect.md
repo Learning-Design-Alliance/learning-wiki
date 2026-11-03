@@ -55,3 +55,4 @@ Synthesis of the four matching-hypothesis meta-analyses in the Visible Learning 
 - [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](massa-mayer-no-meshing-support.md) — a narrower finding that bears on this claim
 - [Belief in learning styles remains near-universal among educators, with pre-service teachers believing more than qualified teachers](educator-belief-learning-styles-persists.md) — related
 - [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](study-preferences-exist-but-insufficient.md) — related
+- [Matching styles of learning shows a small effect size of ES = 0.41, limited by difficulty discerning meta-analyses](matching-learning-styles-small-effect-limited.md) — reports the opposite

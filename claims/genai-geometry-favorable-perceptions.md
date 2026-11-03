@@ -52,3 +52,4 @@ Descriptive statistics (means and SDs) on the perception subscale, assessed only
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](afl-positive-student-attitudes-esp.md) — related
+- [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related

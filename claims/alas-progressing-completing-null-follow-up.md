@@ -50,3 +50,4 @@ Subgroup analysis (Gándara et al., 1998; 81 of 94 initially randomized students
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — related
 - [Grade 2 intervention effects persist in the medium term while grade 8 effects fade out and become non-significant](grade2-effects-persist-grade8-fade-out.md) — related
+- [EWS-style programs (Check & Connect, ALAS) showed positive effects on staying in school in U.S. WWC reviews](check-connect-alas-positive-staying-in-school.md) — related

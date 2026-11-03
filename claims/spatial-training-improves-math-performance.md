@@ -104,3 +104,6 @@ The authors' meta-analysis of 29 studies (N = 3765) using rigorous pre-post desi
 - [Spatial language training improves children's numerical magnitude understanding (number words comparison)](spatial-language-training-improves-magnitude-understanding.md) — related
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — related
 - [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — a narrower finding that bears on this claim
+- [A single session of mental rotation training improves math calculation performance in 6- to 8-year-olds](mental-rotation-training-improves-math-calculation-children.md) — a narrower finding that bears on this claim
+- [Mental rotation training did not generalize to a broader spatial relations test](no-transfer-spatial-relations-pma.md) — related
+- [Spatial training's math effect is concentrated in missing term problems](spatial-training-missing-term-problems.md) — a narrower finding that bears on this claim

@@ -107,3 +107,4 @@ The two meta-analyses support the first half of this claim, that explicit attent
 - [Pronunciation gains from instruction plus monitoring are smaller in spontaneous speech than in vocabulary and sentence reading](spontaneous-speech-gains-smaller-than-reading.md) — a narrower finding that bears on this claim
 - [Instruction on contrastive stress significantly improves rated comprehensibility of intermediate ESL learners' spontaneous picture-comparison speech](contrastive-stress-instruction-improves-comprehensibility.md) — a narrower finding that bears on this claim
 - [All three groups improved over ten weeks, with intonation gains preceding gains in timing and segmental pronunciation](intonation-gains-precede-timing-pronunciation-gains.md) — related
+- [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — a narrower finding that bears on this claim

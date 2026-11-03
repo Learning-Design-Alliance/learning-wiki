@@ -52,3 +52,4 @@ Retention-rate analysis in the Summary of the Results section of the same study.
 - [Intentional condition outperformed incidental condition on immediate vocabulary retention (25.89 vs 22.87 out of 38)](intentional-immediate-retention-advantage-hypertext-gloss.md) — related
 - [Reading comprehension did not differ significantly between incidental and intentional groups](comprehension-no-significant-difference-hypertext-gloss.md) — related
 - [The intentional group accessed 20.6% more glosses than the incidental group without corresponding test gains](gloss-access-advantage-no-test-advantage.md) — related
+- [Intentional learning outperformed incidental learning on durability of initially learned collocations](intentional-learning-durability-collocations.md) — reports the opposite

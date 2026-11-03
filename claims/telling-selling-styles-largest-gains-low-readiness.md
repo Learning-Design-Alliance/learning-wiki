@@ -50,3 +50,4 @@ Style-split analysis of the 40 experimental students (telling n = 6, selling n =
 - [The selling (R2, unable but willing) category showed the highest performance impact among the intervention categories](selling-style-highest-performance-impact.md) — related
 - [Matching teaching style to students' readiness level raised grade-8 science achievement relative to traditional teaching](situational-leadership-teaching-raises-achievement-grade8.md) — a broader claim this one bears on
 - [Posttest achievement of the experimental group exceeded the control group except for delegating and telling, and delegating, participating and selling exceeded telling](tukey-posttest-delegating-participating-selling-beat-telling.md) — reports the opposite
+- [DA mediation using structured hints raises mean vocabulary scores from 16.94 to 19.26 out of 20.](da-hints-raise-mean-vocabulary-scores.md) — related

@@ -53,3 +53,4 @@ The review's synthesis of studies on White teacher perceptions (e.g., Rolón-Dow
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
+- [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — related

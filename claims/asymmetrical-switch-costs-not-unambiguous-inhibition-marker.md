@@ -71,3 +71,4 @@ The review reports, citing studies such as Declerck, Koch, and Philipp (2012), t
 - [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md) — related
 - [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](n2-language-repetition-costs-inhibition-marker.md) — related
 - [Orthographic specificity moderates comprehension-based switching costs: language-specific orthography can abolish or alter mixing and switch costs](orthography-role-in-comprehension-switching.md) — related
+- [Student L2 proficiency shapes L1 switching, with low-proficiency learners benefiting from L1 to reduce anxiety](student-proficiency-drives-l1-switching.md) — related

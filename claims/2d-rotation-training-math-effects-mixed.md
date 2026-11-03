@@ -75,3 +75,4 @@ The review reports Hawes et al. found "statistically significant correlations be
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — a broader claim this one bears on
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — related
+- [A single session of mental rotation training improves math calculation performance in 6- to 8-year-olds](mental-rotation-training-improves-math-calculation-children.md) — related

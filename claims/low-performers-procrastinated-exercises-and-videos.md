@@ -60,3 +60,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](preparation-behaviors-predict-session-performance.md) — related
 - [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related
+- [Formative peer evaluation cycles improve student performance on final project components and course grades compared to summative-only peer evaluation.](formative-peer-evaluation-improves-performance.md) — related

@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (76 for, 47 mixed, 2 against) · 113 studies (34 causal, 29 review, 13 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 113 report an effect size · 111 claims rest on one study
+> **Evidence** · 126 claims (77 for, 47 mixed, 2 against) · 114 studies (35 causal, 29 review, 13 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 114 report an effect size · 112 claims rest on one study
 
 ## Conditional relationship
 
@@ -259,6 +259,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](../claims/mbio-motivates-and-positive-attitudes.md) [+W]
 - [The sports education model raises students' value/benefit and effort/importance attitudes more than the direct teaching model](../claims/sem-raises-value-benefit-and-effort-importance.md) [~W]
+- [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](../claims/clil-maths-motivation-fear-reduction.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

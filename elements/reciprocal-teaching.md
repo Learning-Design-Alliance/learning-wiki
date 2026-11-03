@@ -84,6 +84,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 **[Reciprocal Teaching in Reading Rockets](https://www.readingrockets.org/topics/comprehension/articles/reciprocal-teaching-comprehension-strategy)** — Widely used practitioner guide with classroom routines, role cards, and fading schedules for elementary and middle school.
 
 **[T4S (Talk-for-Science)]** — Adaptations of the four strategies to science texts, where "clarifying" targets technical vocabulary and "summarizing" targets causal explanations in STEM reading.
+- [Use reciprocal teaching having students summarize, predict, and clarify learned content](../strategies/reciprocal-teaching-summarize-predict-clarify.md)
 
 ## Key Sources
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117-175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

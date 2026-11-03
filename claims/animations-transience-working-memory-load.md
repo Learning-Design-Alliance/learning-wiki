@@ -52,3 +52,4 @@ The review's synthesis of animation research, citing Tversky et al. and Ayres an
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — a narrower finding that bears on this claim
+- [Prior studies found pictures superior to video because target words did not require dynamic presentation](prior-picture-superiority-due-to-simple-concepts.md) — related

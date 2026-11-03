@@ -49,3 +49,4 @@ Independent-samples t-test comparing attitude questionnaire scores of CLIL (M = 
 - [CLIL instruction produced significantly higher motivation to learn English than traditional instruction](clil-produced-higher-motivation-to-learn-english.md) — related
 - [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related
 - [Postgraduate students in a CLIL Spanish class demonstrated greater autonomy at posttest than students in a traditional textbook class, with 40% reaching the 'largely aware' level versus 12% in the control group](clil-class-greater-autonomy-posttest.md) — related
+- [CLIL participation shows no significant effect on primary students' Spanish-language subject marks](clil-no-significant-effect-spanish-marks.md) — reports the opposite

@@ -48,3 +48,4 @@ Comparison of the experimental group (DDL-based CL-inspired instruction, N=26) a
 ## Related Claims
 - [Both traditional and DDL-based CL-inspired instruction significantly improved learners' knowledge of the English vertical prepositions over, above, under and below](both-methods-significantly-improve-vertical-prepositions.md) — related
 - [Turkish postpositions do not map one-to-one onto English over/above and under/below, which may cause difficulty for Turkish L2 learners](turkish-postpositions-no-one-to-one-mapping-vertical-prepositions.md) — related
+- [CL-based instruction with image schemas improves Vietnamese EFL learners' knowledge of ten English prepositions more than traditional instruction](cl-image-schemas-outperform-traditional-preposition-instruction.md) — related

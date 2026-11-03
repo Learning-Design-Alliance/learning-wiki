@@ -56,3 +56,4 @@ Quasi-experimental pre-post study of 144 first-year psychology students taking A
 - [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — a narrower finding that bears on this claim
 - [Decision making was the one critical thinking dimension that did not significantly improve under ARDESOS v.2, unlike problem solving](decision-making-not-significantly-improved-v2.md) — a narrower finding that bears on this claim
 - [Post-test performance of the v.2 sample was significantly better than the v.1 sample on the whole scale and all subfactors except decision making](v2-posttest-outperforms-v1-sample.md) — related
+- [Critical thinking scores improved significantly over time across both conditions](critical-thinking-improved-over-time-both-conditions.md) — related

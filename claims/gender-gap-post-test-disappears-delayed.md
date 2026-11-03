@@ -51,3 +51,4 @@ A t-test of total mean scores in the quasi-experimental study found girls (M=72.
 - [Boys outperformed girls on physics post-tests in both the practical-work and conventional groups, and the experimental group's improvement was larger for boys](boys-outperform-girls-in-both-physics-conditions.md) — reports the opposite
 - [Boys outperformed girls in chemistry achievement in both the discussion and lecture groups](boys-outperform-girls-both-methods.md) — reports the opposite
 - [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — reports the opposite
+- [Girls outperformed boys on knowledge tests in the teacher-assisted conditions, and this gender advantage persisted at retention.](girls-outperform-boys-teacher-assisted-conditions.md) — reports the opposite

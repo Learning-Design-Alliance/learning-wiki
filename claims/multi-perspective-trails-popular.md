@@ -47,3 +47,4 @@ Summative evaluation of social factors in trail use: "The multi-perspective trai
 ## Related Claims
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](trails-enhanced-knowledge-interest-closeness-objects.md) — related
+- [Students identified specific deficiencies in virtual museums, including lack of detailed object information and audio features.](virtual-museum-deficiencies-information-audio.md) — related

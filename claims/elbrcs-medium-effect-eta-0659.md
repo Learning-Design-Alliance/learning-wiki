@@ -46,3 +46,4 @@ The authors' interpretation of the Interval*Group effect in Table 1, with the pr
 
 ## Related Claims
 - [ELBRCS intervention produced a significant group-by-interval interaction in Reading Comprehension Test scores favouring the experimental group over the control group](elbrcs-significant-interaction-rct-scores.md) — possibly the same claim (merge candidate)
+- [The effect size for the indirect strategies group's pre-post improvement was moderate (η2 = 0.03)](indirect-strategies-moderate-effect-size-eta-003.md) — related

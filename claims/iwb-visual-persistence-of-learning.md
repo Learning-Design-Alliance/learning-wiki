@@ -63,3 +63,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related
+- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related

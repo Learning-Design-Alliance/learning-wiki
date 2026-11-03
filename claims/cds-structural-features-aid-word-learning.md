@@ -68,3 +68,4 @@ The review reports a short word-learning paradigm showing immediate repetition a
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
 - [Verbal labels have a special status in influencing visual processing beyond mere association](verbal-labels-special-status-visual-processing.md) — related
+- [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related

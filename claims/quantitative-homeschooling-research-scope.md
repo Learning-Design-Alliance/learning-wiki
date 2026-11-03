@@ -52,3 +52,5 @@ The article's own abstract states its scope: it reviews quantitative homeschooli
 - [Children were equally likely to be homeschooled in the elementary, middle, and high school grades](homeschooling-equal-across-grade-levels.md) — a narrower finding that bears on this claim
 - [NSCH and Wisconsin data track NHES homeschooling estimates until 2007, then diverge with a flat or slightly downward trend from 2007 to 2012](nsch-wisconsin-diverge-from-nhes-after-2007.md) — a narrower finding that bears on this claim
 - [The 2012 NHES estimate implies the percentage of homeschooled schoolchildren is likely within a range from 3.0% to 3.9%](nhes-2012-homeschooling-range-3-0-to-3-9.md) — a narrower finding that bears on this claim
+- [Homeschooled adolescents fall behind academically and face more social difficulties](homeschooled-adolescents-academic-social-drawbacks.md) — related
+- [Homeschooling parents show stronger efficacy and involvement beliefs than public school parents](homeschooling-parents-stronger-efficacy.md) — related

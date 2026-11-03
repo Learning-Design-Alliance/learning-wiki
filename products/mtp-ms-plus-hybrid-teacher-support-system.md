@@ -28,6 +28,7 @@ A hybrid professional-development supplement to the MyTeachingPartner mathematic
 ## Related Products and Programmes
 
 - [MyTeachingPartner-Math/Science (MTP-M/S) curricula](myteachingpartner-mathscience-mtp-ms-curricula.md)
+- [4Rs+MTP](4rsmtp.md)
 
 ## Key Sources
 - Kinzie, M. B., Vick Whittaker, J., Williford, A. P., DeCoster, J., McGuire, P., Lee, Y., & Kilday, C. R. (2014). MyTeachingPartner-Math/Science pre-kindergarten curricula and teacher supports: Associations with children's mathematics and science learning. Early Childhood Research Quarterly, 29, 586-599. http://dx.doi.org/10.1016/j.ecresq.2014.06.007

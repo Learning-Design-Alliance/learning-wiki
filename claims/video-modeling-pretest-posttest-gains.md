@@ -74,3 +74,4 @@ Descriptive pretest-posttest comparison of self-assessment accuracy (absolute di
 - [Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort](motivational-profile-mental-effort.md) — related
 - [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain](performance-effort-task-selection-training-improves-srl.md) — related
 - [Probability of correctly solving key-skill tasks rose by an estimated 21.8% over the training period](key-skill-accuracy-improves-21-8-percent.md) — related
+- [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — a narrower finding that bears on this claim

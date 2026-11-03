@@ -67,6 +67,7 @@ The strategy works by converting abstract verbal material into concrete, interac
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the necessary follow-through for durable retention
 - [Open language lessons with a brief incidental multimodal activity pairing foreign word forms with pictures for concrete, depictable vocabulary](brief-incidental-multimodal-lesson-opener.md)
 - [Use keyword method with L1 translations and pictures for deliberate vocabulary study](keyword-method-l1-pictures-vocabulary-strategy.md)
+- [Have students create their own keywords, definitions, and visuals with technology](student-created-keywords-visuals-tablet.md)
 
 ## Examples
 - **Raugh & Atkinson's Russian vocabulary studies** — the original classroom implementation: Stanford students learned 120 Russian words with keyword imagery, roughly doubling vocabulary-test performance over rote control conditions.

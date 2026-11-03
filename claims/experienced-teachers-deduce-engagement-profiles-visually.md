@@ -54,3 +54,4 @@ The review reports Seidel, Schnitzler, Kosel, Stürmer, and Holzberger's study, 
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
 - [In the LeActiveMaths knowledge-elicitation studies, tutors' feedback became more positive, more elaborate, and more targeted to situational diagnoses over successive interactions](leam-ke-improved-tutor-feedback.md) — related
 - [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related
+- [Students were observed to be engaged throughout the story-based lesson, beginning discussion before being prompted](anecdotal-engagement-story-based-lesson.md) — related

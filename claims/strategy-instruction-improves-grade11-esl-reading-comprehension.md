@@ -53,3 +53,5 @@ Quasi-experimental pre-test/post-test control group study of 60 Grade 11 Xhosa-s
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related
 - [Team teaching produces significantly higher EFL eleventh-grade reading comprehension post-test scores than traditional single-teacher instruction](team-teaching-improves-efl-reading-comprehension.md) — related
 - [Perceived reading strategy use positively affected reading comprehension among Grade 11 ESL learners](strategy-use-positively-affects-comprehension-grade11-esl.md) — related
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
+- [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Within-group pre-post comparison for the 30-student control group taught with Ac
 - [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](multimedia-group-significant-pre-post-gain-mathematics.md) — related
 - [The multimedia and Active Learning Methodology groups did not differ significantly in pre-test Mathematics scores](no-pretest-difference-multimedia-versus-active-learning-groups.md) — related
 - [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related

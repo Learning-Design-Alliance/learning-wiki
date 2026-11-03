@@ -48,3 +48,4 @@ Test-retest reliability was estimated by administering the skill assessment twic
 ## Related Claims
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
+- [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related

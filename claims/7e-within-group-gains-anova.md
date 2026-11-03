@@ -72,3 +72,5 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Practical competencies-oriented teaching materials do not significantly improve students' problem-solving attitude](practical-materials-no-problem-solving-attitude-gain.md) — related
 - [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — related
 - [Concept mapping supports retention of science knowledge over five days](concept-mapping-supports-retention-delayed-posttest.md) — related
+- [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
+- [Synectics workshops significantly increase perceived problem-solving skills, retained three months later](synectics-improves-problem-solving-skills-retained.md) — related

@@ -52,3 +52,4 @@ One-way ANOVA comparing retention test scores across the four groups, followed b
 - [Cooperative learning, systematic teaching, and constructivist teaching in control group 1 secured knowledge retention, but the constructivist approach failed in control group 2](retention-secured-except-control2-constructivist.md) — related
 - [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related
 - [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](mslt-improves-reading-retention.md) — related
+- [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related

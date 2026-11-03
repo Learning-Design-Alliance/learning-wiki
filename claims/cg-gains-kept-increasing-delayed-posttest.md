@@ -50,3 +50,4 @@ Delayed-posttest comparison in the quasi-experiment. The article reports COG gai
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [CG-based grammar instruction produces significant short- and long-term learning gains in use of the English active and passive voice](cg-based-voice-instruction-significant-gains.md) — related
 - [Instructional gains were larger on the form-focused measure than on the meaning/use-focused thematic structure measure](gains-larger-form-than-meaning-use-measure.md) — related
+- [Both groups scored higher on usage-based sections (sentence completion, multiple choice) than on text completion](usage-based-sections-outscore-text-completion.md) — related

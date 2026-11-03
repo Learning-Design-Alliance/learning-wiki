@@ -57,3 +57,4 @@ Meta-analytic comparison of expanding versus fixed ISI schedules, 22 accuracy co
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — related
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — reports the opposite
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
+- [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related

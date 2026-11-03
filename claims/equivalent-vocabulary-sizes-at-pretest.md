@@ -57,3 +57,4 @@ Independent Samples t-Test on pre-test Vocabulary Size Test scores of the 20-stu
 - [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — related
 - [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
 - [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
+- [Treatment and contrast groups showed no significant differences in listening ability before instruction](no-pretest-group-differences.md) — related

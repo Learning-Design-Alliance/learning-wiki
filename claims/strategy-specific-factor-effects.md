@@ -91,3 +91,5 @@ Mixed-model results for other-repetitions and negative feedback; negative feedba
 - [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](mixed-dyads-negotiate-more-than-matched.md) — related
 - [EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1](efl-child-nom-low-l2-higher-than-l1.md) — related
 - [Higher English proficiency was associated with more confident and successful interaction in paired tasks](proficiency-positively-related-to-interaction.md) — related
+- [Student L2 proficiency shapes L1 switching, with low-proficiency learners benefiting from L1 to reduce anxiety](student-proficiency-drives-l1-switching.md) — related
+- [Four factors affect teachers' and learners' language choices in L2 classes](four-factors-affecting-l1-use.md) — related

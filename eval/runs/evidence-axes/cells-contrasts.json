@@ -67998,5 +67998,481 @@
  "test-format\ttyping practice\tmultiple-choice practice": {
   "label": "typing practice vs multiple-choice practice",
   "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction enriched with Concept Tests (PICT)\tConventional Instruction (TI)": {
+  "label": "Peer instruction with concept tests vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning sequence\tlecture-style control group": {
+  "label": "Active learning vs lecture-style instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning sequence using case studies, small groups, and role-play\tlecture-style instruction": {
+  "label": "Active learning vs lecture-style instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist group work and discussion\tobjectivist individual work": {
+  "label": "Constructivist collaborative learning vs objectivist individual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist-based group projects and discussion\tobjectivist-based individual work and direct instruction": {
+  "label": "Constructivist collaborative learning vs objectivist individual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist-based teaching strategy with group collaboration and discussion\tobjectivist-based teaching strategy with individual work and direct guidance": {
+  "label": "Constructivist collaborative learning vs objectivist individual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom model\tpretest before the flipped-classroom treatment": {
+  "label": "Flipped classroom vs pretest-only control",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active-learning activities\ttraditional lecture or passive study": {
+  "label": "Active learning vs traditional or passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tnine-session active-learning sequence using case studies, small groups, and role-play\tlecture-style instruction": {
+  "label": "Active learning vs lecture-style instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking in groups during CLIL activities\tnot stated": {
+  "label": "Group work vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tOpen Teaching with learner self-management and choice\tless open or traditional teaching": {
+  "label": "autonomy-supportive teaching vs traditional/less autonomy-supportive teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topportunities for children to make choices\tno opportunities for choice": {
+  "label": "autonomy-supportive teaching vs traditional/less autonomy-supportive teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-week explicit metacognitive-strategy instruction\troutine reading instruction without strategy training": {
+  "label": "explicit metacognitive-strategy instruction vs routine reading instruction without strategy training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute ASCA National Model presentation\tpre-test baseline": {
+  "label": "ASCA National Model presentation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute face-to-face ASCA National Model presentation\tno information or instruction": {
+  "label": "ASCA National Model presentation vs no information or instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute face-to-face presentation on the ASCA National Model\texperimental-group pre-test ratings": {
+  "label": "ASCA National Model presentation vs pre-intervention ratings",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute face-to-face presentation on the ASCA National Model\tno information or instruction": {
+  "label": "ASCA National Model presentation vs no information or instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t90-minute face-to-face presentation on the ASCA National Model\tpre-intervention ratings": {
+  "label": "ASCA National Model presentation vs pre-intervention ratings",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAAM exposure\tpre-test before AAM": {
+  "label": "AAM exposure vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAAM exposure followed by routine English classes\troutine classroom instruction without continued AAM": {
+  "label": "continued AAM exposure vs routine classroom instruction without continued AAM",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAAM post-test performance\tAAM delayed-test performance": {
+  "label": "immediate post-test vs delayed test",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAudio-Articulation Method lessons\tcontrol-group instruction without AAM": {
+  "label": "Audio-Articulation Method instruction vs control instruction without AAM",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAudio-Articulation Method pronunciation instruction\tpre-test baseline": {
+  "label": "Audio-Articulation Method pronunciation instruction vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAudio-Articulation Method pronunciation instruction\tpre-test baseline before instruction": {
+  "label": "Audio-Articulation Method pronunciation instruction vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tBSE education with demonstration and redemonstration using breast modules\tpre-program assessment": {
+  "label": "BSE education with demonstration and redemonstration vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tBSE educational program with lectures, demonstration and redemonstration\tpre-program baseline": {
+  "label": "BSE education with lectures, demonstration, and redemonstration vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tHealth Belief Model-based breast cancer and BSE education\tpre-program baseline": {
+  "label": "Health Belief Model-based breast cancer and BSE education vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tHealth Belief Model-based breast cancer and BSE education program\tpre-education assessment": {
+  "label": "Health Belief Model-based breast cancer and BSE education vs pre-education assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL1 translations of 20 English nouns\tL2 definitions of the same nouns": {
+  "label": "L1 translations vs L2 definitions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWe Have Skills! social-skills instruction\tbusiness-as-usual": {
+  "label": "We Have Skills! social-skills instruction vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter explicit strategy instruction\tbefore explicit strategy instruction": {
+  "label": "after explicit strategy instruction vs before explicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbreast cancer and BSE education program\tpre-program assessment": {
+  "label": "breast cancer and BSE education vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbreast cancer and BSE education program with lectures and demonstrations\tpre-program assessment": {
+  "label": "breast cancer and BSE education with lectures and demonstrations vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbreast cancer and BSE educational program\tpre-program baseline": {
+  "label": "breast cancer and BSE education vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-linguistics instruction using image schemas\ttraditional instruction using pictures and verbal explanations": {
+  "label": "cognitive-linguistics instruction using image schemas vs traditional instruction using pictures and verbal explanations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstration, redemonstration, and supervised BSE practice\tpre-program baseline": {
+  "label": "demonstration, redemonstration, and supervised BSE practice vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational training based on the Health Belief Model\tpre-education assessment": {
+  "label": "Health Belief Model-based educational training vs pre-education assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational training with BSE demonstrations, redemonstrations, and supervised practice\tpre-education assessment": {
+  "label": "BSE education with demonstrations, redemonstrations, and supervised practice vs pre-education assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational training with lectures and BSE demonstrations\tpre-education assessment": {
+  "label": "BSE education with lectures and demonstrations vs pre-education assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit bottom-up listening activities\tstandard textbook listening activities without a special bottom-up intervention": {
+  "label": "explicit bottom-up listening activities vs standard textbook listening activities",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit bottom-up listening activities\ttextbook listening activities without a special bottom-up intervention": {
+  "label": "explicit bottom-up listening activities vs textbook listening activities without special bottom-up intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit bottom-up listening activities\ttextbook listening activities without special bottom-up intervention": {
+  "label": "explicit bottom-up listening activities vs textbook listening activities without special bottom-up intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit formulaic-sequence instruction plus coursebook exposure\ttraditional coursebook instruction": {
+  "label": "explicit formulaic-sequence instruction plus coursebook exposure vs traditional coursebook instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching plus coursebook exposure\ttraditional coursebook instruction": {
+  "label": "explicit teaching plus coursebook exposure vs traditional coursebook instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching plus incidental coursebook exposure\ttraditional coursebook instruction": {
+  "label": "explicit teaching plus incidental coursebook exposure vs traditional coursebook instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching with sentence contexts\texplicit teaching without context": {
+  "label": "explicit teaching with sentence contexts vs explicit teaching without context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught formulaic sequences\tlow-salience coursebook sequences": {
+  "label": "explicitly taught formulaic sequences vs low-salience coursebook sequences",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught formulaic sequences\tlow-salience-plus coursebook sequences": {
+  "label": "explicitly taught formulaic sequences vs low-salience-plus coursebook sequences",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigher rate of group or individual response sequences\tlower rate of group or individual response sequences": {
+  "label": "higher response rate vs lower response rate",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional learning during the third exposure with an announced posttest\tincidental third exposure with an unannounced posttest": {
+  "label": "intentional learning with an announced posttest vs incidental learning with an unannounced posttest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix weeks of explicit strategy instruction\tcontrol group without strategy instruction": {
+  "label": "explicit strategy instruction vs control without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-week explicit language-learning strategy instruction\tnone reported": {
+  "label": "explicit language-learning strategy instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-week explicit strategy instruction\tcontrol group without strategy instruction": {
+  "label": "explicit strategy instruction vs control without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured reviewing and mechanical techniques\tpre-test baseline": {
+  "label": "structured reviewing and mechanical techniques vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbook listening plus six explicit bottom-up activities\ttextbook listening activities without a special bottom-up intervention": {
+  "label": "textbook listening plus explicit bottom-up activities vs textbook listening without bottom-up intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbook listening plus six explicit bottom-up activities\ttextbook listening activities without the special bottom-up intervention": {
+  "label": "textbook listening plus explicit bottom-up activities vs textbook listening without bottom-up intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbook listening plus six explicit bottom-up activities\ttextbook listening and regular listening activities without the bottom-up intervention": {
+  "label": "textbook listening plus explicit bottom-up activities vs textbook and regular listening without bottom-up intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttheory lecture followed by assessment\ttheory lecture followed by assessment in the other group": {
+  "label": "theory lecture followed by assessment vs comparison-group condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree Audio-Articulation Method pronunciation lessons\troutine instruction/control group": {
+  "label": "Audio-Articulation Method pronunciation instruction vs routine instruction or control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-hour theory lecture\tpretest before theory training": {
+  "label": "theory lecture vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-hour theory lecture\tpretest before training": {
+  "label": "theory lecture vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcutaway, discrepancy, or expert model-based feedback\tthe other model-based feedback forms": {
+  "label": "expert/cutaway/discrepancy model-based feedback vs other model-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thands-on supervision\tself-instructional manual before hands-on supervision": {
+  "label": "hands-on supervision vs self-instructional manual",
+  "treatment_is_a": true
+ },
+ "feedback-type\thands-on supervision with immediate behavior-specific feedback\tself-instructional treatment manual": {
+  "label": "immediate behavior-specific feedback with hands-on supervision vs self-instructional manual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdaily assessments replacing homework\tdaily homework assignments": {
+  "label": "daily assessments vs daily homework assignments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdaily assessments, approximately 25% closed-book and 75% open-book\tdaily homework assignments": {
+  "label": "daily assessments vs daily homework assignments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with structured hints and mediation\tpretest before mediation": {
+  "label": "dynamic assessment vs pretest-only assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with structured hints and mediation\tpretest performance before mediation": {
+  "label": "dynamic assessment vs pretest-only assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdynamic assessment with structured mediational hints\tpretest before dynamic assessment": {
+  "label": "dynamic assessment vs pretest-only assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative and summative peer evaluation\tsummative-only peer evaluation": {
+  "label": "formative plus summative peer evaluation vs summative-only peer evaluation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative peer evaluation cycles\tsummative-only peer feedback": {
+  "label": "formative plus summative peer evaluation vs summative-only peer evaluation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative plus summative peer evaluation\tsummative-only peer evaluation": {
+  "label": "formative plus summative peer evaluation vs summative-only peer evaluation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tongoing observation and assessment used to inform instruction\tnot using ongoing observation and assessment": {
+  "label": "ongoing assessment informing instruction vs no ongoing assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified SIL (GSIL)\tconventional SIL": {
+  "label": "gamified vs conventional",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmore questioning and guided, prescribed activities\tletting students discover by themselves": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning\tcomparison conditions in included studies": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning\tnot stated": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning with clear explanations and corrective support\tunspecified comparison condition": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "media-design\tChinese definitions with videos or animations\tChinese definitions and pictures": {
+  "label": "Video/animation-enhanced definitions vs picture definitions",
+  "treatment_is_a": true
+ },
+ "media-design\tChinese definitions with videos or animations\tChinese definitions only": {
+  "label": "Video/animation-enhanced definitions vs definitions only",
+  "treatment_is_a": true
+ },
+ "media-design\tphysical card model\tpaper and pencil": {
+  "label": "Physical card model vs paper and pencil",
+  "treatment_is_a": true
+ },
+ "media-design\ttext plus video annotations\ttext plus picture annotations": {
+  "label": "Video annotations vs picture annotations",
+  "treatment_is_a": true
+ },
+ "media-design\ttext plus video annotations\ttext-only annotations": {
+  "label": "Video annotations vs text-only annotations",
+  "treatment_is_a": true
+ },
+ "media-design\ttext with preterit and imperfect verbs highlighted in color\tunenhanced text": {
+  "label": "Visually enhanced text vs unenhanced text",
+  "treatment_is_a": true
+ },
+ "media-design\tvisually enhanced past-tense verbs\tunenhanced text": {
+  "label": "Visually enhanced text vs unenhanced text",
+  "treatment_is_a": true
+ },
+ "media-design\tvisually enhanced text with highlighted preterit and imperfect verbs\tunenhanced text": {
+  "label": "Visually enhanced text vs unenhanced text",
+  "treatment_is_a": true
+ },
+ "other\t12-week flipped classroom model\tpretest baseline": {
+  "label": "flipped classroom vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t15-minute in-class sustained silent reading plus one book per week\tverbal encouragement plus one book per week outside class": {
+  "label": "sustained silent reading vs verbal encouragement",
+  "treatment_is_a": true
+ },
+ "other\t15-session metacognitive awareness program\tcontrol condition without metacognitive awareness training": {
+  "label": "metacognitive-awareness training vs no metacognitive-awareness training",
+  "treatment_is_a": true
+ },
+ "other\t15-session metacognitive-awareness program\tno metacognitive-awareness program": {
+  "label": "metacognitive-awareness training vs no metacognitive-awareness training",
+  "treatment_is_a": true
+ },
+ "other\t16-week CALM mindfulness and yoga intervention\twait-list control": {
+  "label": "CALM yoga-and-mindfulness intervention vs wait-list control",
+  "treatment_is_a": true
+ },
+ "other\t16-week CALM yoga and mindfulness intervention\twait-list control": {
+  "label": "CALM yoga-and-mindfulness intervention vs wait-list control",
+  "treatment_is_a": true
+ },
+ "other\t16-week CALM yoga and mindfulness program\twait-list control": {
+  "label": "CALM yoga-and-mindfulness intervention vs wait-list control",
+  "treatment_is_a": true
+ },
+ "other\t16-week brief daily yoga and mindfulness CALM program\twait-list control": {
+  "label": "CALM yoga-and-mindfulness intervention vs wait-list control",
+  "treatment_is_a": true
+ },
+ "other\t2-week FOSS Summer Bridge program\tnonparticipants receiving standard LCC services": {
+  "label": "FOSS Summer Bridge participation vs standard LCC services",
+  "treatment_is_a": true
+ },
+ "other\t20-week ALIAS academic vocabulary instruction\tregular ELA instruction": {
+  "label": "academic vocabulary instruction vs regular ELA instruction",
+  "treatment_is_a": true
+ },
+ "other\t20-week academic vocabulary intervention\tregular ELA instruction": {
+  "label": "academic vocabulary instruction vs regular ELA instruction",
+  "treatment_is_a": true
+ },
+ "other\t2002 clozapine guidelines\tpre-guideline practice": {
+  "label": "2002 clozapine guidelines vs pre-guideline practice",
+  "treatment_is_a": true
+ },
+ "other\t2005–2014\tbefore 2000 and 2020–2026": {
+  "label": "2005–2014 vs before 2000 and 2020–2026",
+  "treatment_is_a": true
+ },
+ "other\t2007 fourth-grade NAEP reading assessment\t1992 fourth-grade NAEP reading assessment": {
+  "label": "2007 fourth-grade NAEP reading assessment vs 1992 fourth-grade NAEP reading assessment",
+  "treatment_is_a": true
+ },
+ "other\t2007 fourth-grade NAEP reading assessment\t2005 fourth-grade NAEP reading assessment": {
+  "label": "2007 fourth-grade NAEP reading assessment vs 2005 fourth-grade NAEP reading assessment",
+  "treatment_is_a": true
+ },
+ "other\t2007 fourth-grade NAEP reading assessment\teach prior assessment year, 1992–2005": {
+  "label": "2007 fourth-grade NAEP reading assessment vs prior assessment years, 1992–2005",
+  "treatment_is_a": true
+ },
+ "other\t2007/8 demographic and school-composition predictors\tother predictors": {
+  "label": "demographic and school-composition predictors vs other predictors",
+  "treatment_is_a": true
+ },
+ "other\t2008 link-structure snapshot\tearlier annual snapshots from 2003 to 2007": {
+  "label": "2008 link-structure snapshot vs earlier annual snapshots, 2003–2007",
+  "treatment_is_a": true
+ },
+ "other\t2008 student papers\t1988 and 1917 student papers": {
+  "label": "2008 student papers vs 1988 and 1917 student papers",
+  "treatment_is_a": true
+ },
+ "other\t2009 CPS graduates\t2021 CPS graduates": {
+  "label": "2009 CPS graduates vs 2021 CPS graduates",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore hours of language-learning software use\tfewer hours of language-learning software use": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tmeta-cognitive strategies\tnot stated": {
+  "label": "metacognitive strategies vs no metacognitive strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive strategies\tcomparison conditions in included studies": {
+  "label": "metacognitive strategies vs no metacognitive strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tverbal reflection-in-action\twritten reflection-in-action": {
+  "label": "verbal vs written reflection-in-action",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdaily assessments\tdaily homework assignments": {
+  "label": "retrieval practice vs homework assignments",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdaily assessments replacing homework\tdaily homework assignments": {
+  "label": "retrieval practice vs homework assignments",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tconditional cash transfer interventions\tother dropout interventions": {
+  "label": "conditional cash incentives vs other dropout interventions",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tweekly 2,500-word target for course credit\tverbal encouragement and one book per week for course credit": {
+  "label": "performance-contingent course credit vs verbal encouragement with reading credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tweekly 2,500-word targets for course credit\t15-minute weekly in-class sustained silent reading plus at least one book per week for course credit": {
+  "label": "writing-target incentives vs reading-activity incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tweekly 2,500-word targets for course credit\tverbal encouragement and at least one book per week for course credit": {
+  "label": "performance-contingent course credit vs verbal encouragement with reading credit",
+  "treatment_is_a": true
+ },
+ "spacing\texpanding spaced learning schedule\tintensive learning schedule": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\texpanding spaced schedule\tintensive schedule": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\trecognition test\tproduction test": {
+  "label": "recognition vs production test",
+  "treatment_is_a": true
  }
 }

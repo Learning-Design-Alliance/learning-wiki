@@ -52,3 +52,5 @@ Analysis of Covariance (ANCOVA) conducted to assess whether the effect of master
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
 - [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
 - [Gender did not significantly influence achievement among students taught Geography with PowerPoint presentation](powerpoint-no-gender-difference-geography.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical manual](no-gender-difference-practical-manual-solubility.md) — a narrower finding that bears on this claim

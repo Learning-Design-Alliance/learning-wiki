@@ -53,3 +53,5 @@ Randomized three-group pretest-posttest study with 48 teachers (16 per group) as
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [Blended learning professional development produces significantly higher gain means in ICT knowledge (TK, TPK, TCK, TPACK) than traditional training for in-service science teachers](blended-pd-higher-tpack-gains-than-traditional.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
+- [Feasibility study shows WHS increases teacher self-efficacy from pre to post](whs-feasibility-self-efficacy-increase.md) — related
+- [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related

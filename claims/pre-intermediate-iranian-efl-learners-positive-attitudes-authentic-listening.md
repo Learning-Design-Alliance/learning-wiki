@@ -50,3 +50,5 @@ Likert-scale student feedback survey (35 items, adapted from Al-Musallam, 2009) 
 - [Most teachers prefer listening classes combining both authentic and simplified materials rather than either type alone](teachers-prefer-mix-authentic-simplified-materials.md) — related
 - [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](teacher-criteria-selecting-authentic-listening-materials.md) — related
 - [Teachers most prefer taped short stories and novels, cartoons, TV, and songs as authentic listening material types](preferred-authentic-listening-material-types.md) — related
+- [Learners hold positive perceptions of explicit bottom-up listening activities and report increased listening confidence](positive-learner-perceptions-bu-activities.md) — related
+- [Explicit bottom-up listening instruction improves dictation test performance in lower-intermediate Japanese university EFL learners](bu-instruction-improves-dictation-scores.md) — related

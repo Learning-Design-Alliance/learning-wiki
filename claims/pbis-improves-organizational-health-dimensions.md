@@ -49,3 +49,4 @@ Group-randomized controlled effectiveness trial of PBIS in 37 elementary schools
 - [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](pbis-collegial-leadership-fidelity-model.md) — related
 - [Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher](pbis-later-implementers-greatest-gains.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on
+- [SW-PBIS implementation showed no statistically significant longitudinal effects on elementary and middle school academic achievement in Minnesota](swpbis-no-significant-academic-achievement-effects-minnesota.md) — related

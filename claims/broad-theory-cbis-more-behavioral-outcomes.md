@@ -48,3 +48,4 @@ The review's effectiveness synthesis across the 83 outcome-reporting articles as
 - [Just over half of computer-based alcohol interventions for youth explicitly name a broad theoretical framework](half-of-youth-alcohol-cbis-name-broad-theory.md) — related
 - [CBIs that mention a broad theory are more likely to measure theoretical constructs than those that mention only a construct or technique](theory-mention-predicts-construct-measurement.md) — related
 - [Personalized normative feedback is the dominant technique among CBIs lacking a broad theory](personalized-normative-feedback-dominant-technique.md) — related
+- [One Life participation reduces 30-day alcohol use among at-risk rural youth](one-life-reduces-30-day-alcohol-use-rural-youth.md) — related

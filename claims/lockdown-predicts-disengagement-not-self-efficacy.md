@@ -54,3 +54,4 @@ Structural equation model of 500 Australian undergraduates (fully-forward SEM, M
 - [Fluid reasoning moderated the lockdown–self-efficacy relationship: a booster effect for students in lockdown](fluid-reasoning-boosts-self-efficacy-under-lockdown.md) — related
 - [Self-efficacy significantly predicted engagement and inversely predicted disengagement, and mediated adaptability's links to outcomes](self-efficacy-predicts-engagement-and-mediation.md) — related
 - [Perceived adaptability significantly and positively predicted self-efficacy and all three engagement dimensions](adaptability-predicts-self-efficacy-and-engagement.md) — related
+- [Physical activity did not increase and was unrelated to self-efficacy changes](no-physical-activity-increase-despite-efficacy-gains.md) — related

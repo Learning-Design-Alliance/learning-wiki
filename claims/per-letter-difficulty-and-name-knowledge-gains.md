@@ -72,3 +72,4 @@ Conditional per-letter probabilities (Table 7) computed from Model 2 random effe
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related
 - [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](first-letter-of-name-advantage-letter-writing.md) — related
+- [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related

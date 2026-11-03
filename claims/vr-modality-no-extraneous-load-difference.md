@@ -60,3 +60,4 @@ ANCOVA on extraneous cognitive load in the VR modality experiment, controlling f
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](desktop-vr-scaffolded-self-explanation-cognitive-load.md) — related
 - [No effects of visible instructor on extraneous processing across three field studies](no-visible-instructor-extraneous-processing.md) — related
 - [Cueing did not reduce learners' self-rated cognitive load in the immersive VR dual-task environment](vr-cueing-no-cognitive-load-reduction.md) — related
+- [Desktop VR and still-image presentations produced no significant differences on overall scenic orientation, timed detail recall, or time on learning presentation](desktop-vr-still-image-no-significant-main-effects-core-measures.md) — related

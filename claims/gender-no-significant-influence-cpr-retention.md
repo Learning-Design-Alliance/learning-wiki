@@ -49,3 +49,4 @@ ANOVA on 966 observations found F-cal .288 vs F-crit 3.85 (P = .192), leading to
 - [School class (SS1 vs SS2) does not significantly influence CPR skills retention](school-class-no-significant-influence-cpr-retention.md) — related
 - [Nigerian secondary school students retain statistically significant CPR skills six weeks after conventional CPR training](nigerian-secondary-students-retain-cpr-skills-six-weeks.md) — related
 - [Pre-training CPR skills were virtually zero and post-training gain was 92.0%, indicating training was highly effective](cpr-training-highly-effective-nigerian-students.md) — related
+- [Gender did not significantly affect free active vocabulary scores](gender-no-effect-free-active-vocabulary.md) — related

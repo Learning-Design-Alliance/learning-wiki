@@ -32,3 +32,4 @@ HIMATT is a suite of three integrated software tools that assesses skill and kno
 
 ## Key Sources
 - Dirk Ifenthaler, Pedro Isaías, J. Michael Spector, Kinshuk, Demetrios Sampson. (2009). Editors' introduction to the special issue on cognition & learning technology. Education Tech Research Dev. https://doi.org/10.1007/s11423-009-9127-8
+- Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1007/s11423-009-9119-8

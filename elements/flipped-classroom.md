@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 58 claims (31 for, 22 mixed, 5 against) · 34 studies (18 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 34 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (33 for, 23 mixed, 5 against) · 35 studies (19 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 35 report an effect size · 60 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -82,6 +82,9 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
 - [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
 - [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](../claims/fcm-meta-publication-bias-robust.md) [+W]
+- [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
+- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
+- [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](../claims/flipped-classroom-three-stage-implementation.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

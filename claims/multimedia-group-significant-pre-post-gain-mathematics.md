@@ -53,3 +53,5 @@ Within-group pre-post comparison for the 30-student multimedia group in the rand
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — related
 - [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related
 - [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related
+- [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — a narrower finding that bears on this claim

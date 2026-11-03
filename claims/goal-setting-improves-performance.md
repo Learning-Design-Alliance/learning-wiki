@@ -111,3 +111,4 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 - [Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators](summative-versus-formative-setting-level-indicators.md) — related
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related
 - [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — related
+- [Goal setting shows a moderate effect size of ES = 0.56 on student performance](goal-setting-moderate-effect-size.md) — related

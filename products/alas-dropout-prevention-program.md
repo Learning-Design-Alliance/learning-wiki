@@ -35,7 +35,8 @@ ALAS is a multi-component dropout-prevention programme for middle- and high-scho
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](../claims/alas-wwc-potentially-positive-rating.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [School Dropout Prevention Pilot Program (SDPP)](school-dropout-prevention-pilot-program-sdpp.md)
 
 ## Key Sources
 - WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. https://www.alasdropoutprevention.com

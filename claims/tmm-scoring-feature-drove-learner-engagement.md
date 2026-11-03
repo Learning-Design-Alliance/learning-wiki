@@ -49,3 +49,5 @@ Authors' observational account of the experimental group's TMM sessions, in whic
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
 - [Teachers reported general satisfaction with the mathematics products but made limited use of the performance-management and data-reporting features](teacher-satisfaction-high-data-feature-use-low.md) — related
+- [No practice-and-drill software group (RS, TMM, MEM) significantly outperformed the reference group (WOW) on high-stakes English test performance](no-practice-drill-software-outperformed-reference-group.md) — related
+- [TMM and MEM groups used the software significantly more hours than the WOW group](tmm-mem-more-hours-than-wow.md) — related

@@ -47,3 +47,4 @@ Semi-structured interviews conducted after the post-test with 18 experimental-gr
 ## Related Claims
 - [A minority of students reported negative views of Web 2.0 activities and problems with group work](web2-vocabulary-negative-comments-groupwork.md) — related
 - [Iranian EFL learners held predominantly positive attitudes toward blended vocabulary learning, citing flexible timing, personalized learning, and the systematic app design](positive-attitudes-memrise-blended-learning.md) — related
+- [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related

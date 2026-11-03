@@ -52,6 +52,8 @@ Gilligan's framework surfaces classroom dilemmas that a pure justice lens can ob
 
 ## Examples
 
+- [Moral dilemma discussion with structured steps](../strategies/moral-dilemma-discussion-steps.md)
+
 ## Key Sources
 - Brown, L., & Gilligan, C. (1992). *Meeting at the crossroads: Women's psychology and girls' development*. Harvard University Press.
 - Taylor, J., Gilligan, C., & Sullivan, A. (1995). *Between voice and silence: Women and girls, race and relationship*. Harvard University Press.

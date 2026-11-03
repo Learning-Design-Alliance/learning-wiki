@@ -47,3 +47,4 @@ ANCOVA on the author-developed 20-item attitudes to mathematics scale, controlli
 ## Related Claims
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related
 - [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
+- [Values-education activities significantly improved 4th-grade students' attitudes toward being healthy compared to regular instruction](values-activities-improve-healthy-attitudes.md) — related

@@ -41,7 +41,9 @@ YAI4Edu's smart annotation mechanism decides which words to underline as clickab
 - Illocutionary Explanation Theory Archetypal Questions
 
 ## Related Strategies
+
 - Yai4Edu Explanatory Textbook Pipeline
+- [Embed clickable multimedia annotations in digital reading texts on a learning platform](clickable-multimedia-annotations-digital-reading.md)
 
 ## Examples
 -

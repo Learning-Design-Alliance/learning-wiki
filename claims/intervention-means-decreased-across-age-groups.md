@@ -49,3 +49,4 @@ Age-stratified descriptive analysis (Table 11) of intervention-group means befor
 - [Estimated success declines with learner age for both friends and relatives, with relatives rated descriptively higher at every age](success-declines-with-age-friends-and-relatives.md) — related
 - [The intervention group showed statistically significant differences on the emotional problems and peer problems scales](emotional-and-peer-problems-scales-significant-differences.md)
 - [Intervention-group means on SDQ impact-supplement items decreased from pretest to posttest across distress, everyday-life interference, friendships, classroom learning, leisure, and burden on others](sdq-impact-supplement-means-decreased-posttest.md)
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

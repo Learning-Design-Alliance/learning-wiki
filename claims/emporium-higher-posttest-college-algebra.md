@@ -68,3 +68,5 @@ General linear regression of posttest score on instruction method with covariate
 - [Pass rates and final course grades did not differ significantly between emporium and traditional lecture sections](emporium-pass-rate-no-difference.md) — related
 - [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
+- [Computer-based emporium students outperform traditional lecture students on a common multiple-choice final exam in college algebra](cb-emporium-higher-final-exam-college-algebra.md) — possibly the same claim (merge candidate)
+- [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related

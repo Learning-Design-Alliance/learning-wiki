@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 330 claims (204 show a difference, 55 mixed, 71 no difference) · 228 studies (93 causal, 52 associational, 36 quant-synthesis, 30 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 51 of 228 report an effect size · 321 claims rest on one study
+> **Evidence** · 331 claims (204 show a difference, 56 mixed, 71 no difference) · 229 studies (93 causal, 52 associational, 36 quant-synthesis, 31 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 51 of 229 report an effect size · 322 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -381,6 +381,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [A comprehensive summer parent-involved book reading program improved reading comprehension in Grade 3 and 5 children](../claims/summer-parent-book-reading-improves-reading-comprehension.md) [+M] — instruction changes it
 - [Reading speed and comprehension are not significantly correlated](../claims/reading-speed-comprehension-uncorrelated.md) [-M] — learners who differ on it differ in outcomes
 - [Treatment and reading ability interacted significantly on several measures, including LISTEN (ηh2 = .446), PHON-L2 (ηh2 = .191) and SLS (ηh2 = .181), indicating the training effect depended on reading skill](../claims/treatment-reading-ability-interaction.md) [~M] — an instructional effect differs with it
+- [Monolingual classes and grammar lessons provide more opportunities for L1 use than multilingual classes and speaking lessons](../claims/monolingual-grammar-contexts-favor-l1.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

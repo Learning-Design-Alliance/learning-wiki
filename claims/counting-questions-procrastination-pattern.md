@@ -56,3 +56,4 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
 - [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related

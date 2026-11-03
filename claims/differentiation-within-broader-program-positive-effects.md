@@ -47,3 +47,4 @@ Meta-analysis across 21 included studies on differentiation practices in primary
 ## Related Claims
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related
+- [Comprehensive teaching reform shows an extremely small effect size of ES = 0.22](comprehensive-teaching-reform-small-effect.md) — related

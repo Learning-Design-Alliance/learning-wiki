@@ -50,3 +50,4 @@ Interaction analysis of condition by rate of independent group practice opportun
 ## Related Claims
 - [ECRI fall-to-spring gains were only marginally significant on NWF-WRC and absent on NWF-CLS and ORF](ecri-fall-to-spring-marginal-nwf-wrc-only.md) — related
 - [Year-1 ELM classrooms provided more than twice as many group response opportunities per minute as control classrooms](year1-elm-double-group-responses.md) — related
+- [Rate of group or individual response sequences shows small trend-level positive associations with ECRI reading outcomes](response-rate-trend-association-ecri-reading.md) — related

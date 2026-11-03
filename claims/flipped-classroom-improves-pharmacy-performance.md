@@ -50,3 +50,4 @@ Meta-analysis pooling SMDs with a random-effects model from 22 studies (28 compa
 - [Flipped classroom advantage is larger in US studies than in non-US (Asian) studies](flipped-pharmacy-country-subgroup.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — a broader claim this one bears on
+- [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related

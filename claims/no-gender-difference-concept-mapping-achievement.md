@@ -68,3 +68,4 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [No statistically significant gender difference in direct achievement of scientific concepts](no-gender-difference-direct-achievement-modules-study.md) — related
 - [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related
 - [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](female-students-greater-dna-achievement-gain.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related

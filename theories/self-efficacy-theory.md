@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 123 claims (75 for, 44 mixed, 4 against) · 92 studies (39 associational, 26 causal, 20 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 22 of 92 report an effect size · 121 claims rest on one study
+> **Evidence** · 125 claims (75 for, 46 mixed, 4 against) · 94 studies (40 associational, 26 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 22 of 94 report an effect size · 123 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -170,6 +170,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Teacher's encouragement is more effective than modeling by a competent adult at raising children's adult encouragement barrier self-efficacy for recess physical activity](../claims/teacher-encouragement-beats-modeling-adult-encouragement-barrier-self-efficacy.md) [+W] — attached 2026-11-02 from Merav W. Efrat (2017), which proposed "Internalization of teacher encouragement into reduced dependence on external prompts for recess activity".
 - [Teaching practice itself raises pre-service teachers' self-efficacy perceptions in both experimental and control groups](../claims/teaching-practice-raises-pst-self-efficacy-both-groups.md) [+W]
 - [Homogeneous readiness-based grouping is problematic: research warns it may decrease student self-efficacy and teacher expectations](../claims/homogeneous-grouping-readiness-problematic.md) [~W]
+- [Homeschooling parents show stronger efficacy and involvement beliefs than public school parents](../claims/homeschooling-parents-stronger-efficacy.md) [~W]
+- [Fall mindfulness subscales significantly or marginally predict change in student engagement efficacy over the school year](../claims/mindfulness-predicts-change-student-engagement-efficacy.md) [~W]
 
 ## The evidence by question
 

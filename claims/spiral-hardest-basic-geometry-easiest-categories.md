@@ -50,3 +50,4 @@ Fine-grained analysis of symbolic success rates across task categories (Figure 5
 - [Lower-performing LLMs show higher variance across pedagogy subject categories and peak in Technology and General categories](low-performing-models-subject-variance-technology-general.md) — related
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](vlms-struggle-turtleai-real-world-tasks.md) — related
 - [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — a broader claim this one bears on
+- [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related

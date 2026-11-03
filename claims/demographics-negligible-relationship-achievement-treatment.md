@@ -54,3 +54,5 @@ Pearson Product Moment correlations among posttest scores, demographics, and tre
 - [Inquiry-based students' scores increased at a faster pace than subject matter students' scores over the twelve-week study](ibi-scores-increased-faster-pace-twelve-weeks.md) — related
 - [The final-score advantage of the equity-oriented pedagogy held across gender, disability, and immigration-status subgroups](equity-pedagogy-advantage-across-demographic-subgroups.md) — related
 - [Blended learning treatment showed no significant reading achievement advantage over face-to-face instruction for sixth-grade ELA students](blended-learning-no-reading-achievement-advantage-middle-school.md) — related
+- [Demographic variables showed low to negligible relationships with content knowledge and argumentation skill](demographics-low-negligible-relationships-cde-outcomes.md) — related
+- [Fewer demographic variables predict student achievement, learning, and retention when virtual manipulatives are used compared to classroom instruction with physical manipulatives and text-based materials](fewer-demographic-predictors-virtual-manipulatives.md) — reports the opposite

@@ -48,3 +48,4 @@ Follow-up of the full randomized sample at the end of 11th grade. Appendix A4.1 
 - [ALAS effects on progressing in school and completing school fade or are non-significant after the intervention](alas-progressing-completing-null-follow-up.md) — related
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — related
+- [EWS-style programs (Check & Connect, ALAS) showed positive effects on staying in school in U.S. WWC reviews](check-connect-alas-positive-staying-in-school.md) — related

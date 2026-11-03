@@ -70,3 +70,4 @@ Same exploratory correlational analysis. Printed effect sizes: r = .585 (interac
 - [Children in the interactive condition responded to 77.94% of Elinor's questions versus 68.13% in the pseudo-interactive condition](interactive-higher-response-rate.md) — related
 - [Pseudo-interactive videos also outperformed non-interactive videos by 0.16 standard deviations on science learning](pseudo-interactive-beats-non-interactive.md) — related
 - [Response cards markedly increase student responding and quiz scores compared with hand raising](response-cards-increase-responding-and-quiz-scores.md) — related
+- [Type of reflection-in-action (verbal vs. written) did not significantly affect preservice teachers' content knowledge scores](reflection-type-no-effect-content-knowledge.md) — related

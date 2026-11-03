@@ -49,3 +49,6 @@ Repeated measures ANOVA on the barriers of BSE subscale (six items) in the class
 - [Knowledge and belief gains decayed from immediate post-test to 4-week follow-up regardless of teaching condition](post-test-to-follow-up-decay-regardless-of-condition.md) — related
 - [Interactive learning produced a larger immediate gain in perceived benefits of breast self-awareness, but the comparison group sustained its gain over the treatment group by follow-up](interactive-learning-benefits-of-breast-self-awareness.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
+- [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related
+- [An educational training program significantly improved nursing students' satisfactory knowledge of BSE from 10.6% pre-program to 78.8% post-program](bse-education-improved-nursing-student-knowledge.md) — related
+- [Adequate BSE performance increased from 5.3% pre-program to 67.3% post-program (p=0.001)](bse-education-improved-nursing-student-performance.md) — related

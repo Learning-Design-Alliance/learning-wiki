@@ -118,3 +118,4 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related
 - [CMMCALL program improved low-achievers' academic performance in grammar and reading comprehension](cmmcall-improved-low-achievers-performance.md) — related
 - [Online-instruction group fails to improve content-building skill despite gains in other writing components](online-group-content-skill-no-improvement.md) — related
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related

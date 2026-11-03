@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 12 claims (8 show a difference, 2 mixed, 2 no difference) · 8 studies (6 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (11 show a difference, 4 mixed, 3 no difference) · 9 studies (6 causal, 2 qualitative, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size · 17 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -48,6 +48,12 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](../claims/vr-unit-equivalent-short-term-learning-success.md) [-M] — instruction changes it
 - [VR unit effectiveness differed by content type: tasks on linear measures were solved better by the experimental group and hollow-measure tasks by the control group](../claims/vr-linear-versus-hollow-measures-effectiveness.md) [~M] — an instructional effect differs with it
 - [Students in experimental classes reached higher levels of measuring, computing, graphical and experimental polytechnic skills than control-class students](../claims/polytechnic-skills-higher-experimental-physics.md) [+M] — instruction changes it
+- [Approximately two-fifths of the children had difficulty differentiating the general concept of area from measuring area, despite good memorization of the area formula.](../claims/two-fifths-difficulty-differentiating-area-claim.md) [~M] — learners who differ on it differ in outcomes
+- [Children unable to interpret the property of multiplication underlying the area formula exhibited common weaknesses in identifying geometric shapes and differentiating between area and perimeter.](../claims/no-multiplication-interpretation-weaknesses-claim.md) [+M] — learners who differ on it differ in outcomes
+- [Children with a good understanding of multiplication underlying the area formula, but who misunderstood the concept of area, showed some ability to use area formulas.](../claims/multiplication-understanding-partial-formula-ability-claim.md) [~M] — learners who differ on it differ in outcomes
+- [Children with a good understanding of the concept of area and the area formula exhibit competency in identifying geometric shapes, using formulas for determining areas, and self-correcting mistakes.](../claims/good-area-understanding-competency-claim.md) [+M] — learners who differ on it differ in outcomes
+- [The AF group had a higher percentage of formula-users than the other three groups when solving area measurement problems.](../claims/af-group-higher-formula-users-claim.md) [+M] — learners who differ on it differ in outcomes
+- [The association between quality of children's understanding and their application of the area formula of a parallelogram did not reach significance.](../claims/parallelogram-formula-association-not-significant-claim.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

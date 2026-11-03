@@ -66,3 +66,4 @@ Robustness test reported in the Results section to check the grade pattern was n
 ## Related Claims
 - [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](pbl-grade-a-chi-square-surveyed.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
+- [Replacing daily homework with daily assessments improved course grade distributions in principles of financial accounting](daily-assessments-improved-course-grades.md) — related

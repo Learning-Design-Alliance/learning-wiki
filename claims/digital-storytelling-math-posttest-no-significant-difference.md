@@ -50,3 +50,4 @@ Quasi-experimental comparison of 30 experimental and 28 control eighth-grade stu
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Descriptively, the experimental group reached a good achievement category in speaking and writing while the control group reached only average](descriptive-achievement-levels-groups.md) — related
 - [Control-group learners also improved significantly from pretest to posttest, but less than the storytelling group](control-group-significant-prepost-improvement-outperformed.md) — reports the opposite
+- [Treatment groups' retention means were descriptively higher than the comparison group's despite no significant difference](descriptive-retention-mean-advantage-egis.md) — related

@@ -50,3 +50,5 @@ Descriptive comparison of raw rate-per-minute data from the first Year-1 observa
 - [The ECRI effect on oral reading fluency grew with the rate of group practice opportunities, becoming significant at approximately 1.8 opportunities per minute](ecri-group-practice-rate-by-condition-interaction-orf.md) — related
 - [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](second-year-elm-moderate-nonsignificant-effects.md) — related
 - [Preliminary COSTI observations suggest students in ROOTS-small (2:1) groups received rates of practice opportunities greater than or equal to peers in ROOTS-large (5:1) groups](roots-small-group-practice-rates.md) — related
+- [Duration of observation shows a small significant association with ELM EN-CBM gains](duration-observation-significant-elm-encbm.md) — related
+- [Rate of group or individual response sequences shows small trend-level positive associations with ECRI reading outcomes](response-rate-trend-association-ecri-reading.md) — related

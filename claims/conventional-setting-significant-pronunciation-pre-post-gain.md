@@ -47,3 +47,4 @@ Paired-samples t-test on the 25-student conventional group's pre-test (M = 4.93,
 ## Related Claims
 - [Phonetic and phonological instruction delivered in a cooperative learning setting significantly improved ELLs' pronunciation of target English sounds over six weeks](cl-setting-significant-pronunciation-pre-post-gain.md) — related
 - [Cooperative learning and conventional instruction produced no statistically significant difference in pronunciation improvement among Spanish-speaking ELLs in a six-week quasi-experiment](cl-vs-conventional-no-significant-pronunciation-improvement-difference.md) — related
+- [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — related

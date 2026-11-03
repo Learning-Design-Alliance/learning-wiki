@@ -52,3 +52,4 @@ Random-effects subgroup analysis (Table 5) ranking SEITLA approaches by effect s
 - [Educational robotics has a moderate-to-large effect on students' STEM learning performance](educational-robotics-effect-learning-performance.md) — related
 - [STEM education integrated with teaching-learning approaches shows a large overall mean effect on learning outcomes (g = 0.88) across 33 experimental studies](seitla-overall-large-effect-learning-outcomes.md) — a broader claim this one bears on
 - [Project-based learning was the most frequently studied SEITLA approach but showed a modest significant effect (g = 0.44)](seitla-project-based-modest-effect.md) — related
+- [Mastery learning shows an effect size of ES = 0.58, with effects of .94 in elementary, .72 in high school, and .65 in college](mastery-learning-effect-size-levels.md) — related

@@ -51,3 +51,4 @@ Hierarchical multiple regression with 237 African American students, controlling
 - [African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept](students-endorse-traditional-stereotype-high-self-concept.md) — related
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related
 - [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related
+- [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — related

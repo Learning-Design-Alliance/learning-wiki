@@ -60,3 +60,4 @@ ANCOVA on intrinsic cognitive load measured with the Differentiated Cognitive Lo
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](modality-effect-field-of-study-moderator.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](desktop-vr-scaffolded-self-explanation-cognitive-load.md) — related
+- [Desktop VR and still-image presentations produced no significant differences on overall scenic orientation, timed detail recall, or time on learning presentation](desktop-vr-still-image-no-significant-main-effects-core-measures.md) — related

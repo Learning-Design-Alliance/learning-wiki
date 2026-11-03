@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 494 claims (236 for, 231 mixed, 27 against) · 263 studies (130 causal, 52 associational, 34 review, 16 theoretical, 13 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 86 of 263 report an effect size · 487 claims rest on one study
+> **Evidence** · 496 claims (238 for, 231 mixed, 27 against) · 265 studies (131 causal, 52 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 87 of 265 report an effect size · 489 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -538,6 +538,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — attached 2026-11-02 from Al-Jarrah et al. (2018), which proposed "Planning–Monitoring–Evaluating taxonomy of metacognitive writing strategies".
 - [Level-1 ('largely unaware') answers were more frequent in the control group (40%) than the experimental group (16%), while level-2 answers were nearly equal (44% vs 48%)](../claims/level1-difference-control-vs-experimental.md) [+W] — attached 2026-11-03 from Oliva Parera et al. (2015), which proposed "Sinclair's three-level categorization of learners' metacognitive knowledge (largely unaware, becoming aware, largely aware)".
 - [Metacognitive instruction showed no statistically significant post-test advantage for third graders, whose groups differed at pre-test](../claims/metacognitive-instruction-third-grade-null-result.md) [-W]
+- [Metacognitive strategies show a high effect size of ES = 0.69 on student achievement](../claims/metacognitive-strategies-high-effect-size.md) [+W]
+- [DA makes learners aware of word-guessing strategies of identifying, evaluating, and monitoring.](../claims/da-promotes-vocabulary-strategy-awareness.md) [+W]
 
 ## The evidence by question
 

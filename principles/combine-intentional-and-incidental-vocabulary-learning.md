@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (18 for, 14 mixed, 2 against) · 22 studies (9 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 4 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 37 claims (21 for, 14 mixed, 2 against) · 23 studies (10 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 5 of 23 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,9 @@ Every claim the earlier page cited is used in the model above. Claims found whil
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](../claims/extensive-reading-improves-vocabulary-and-spelling.md) [+W]: a curriculum review (rigour r1) with no effect sizes; bears on step 8 in direction only.
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](../claims/eight-encounters-form-meaning-recognition-exceed-recall.md) [~M] — attached 2026-10-16 from Pellicer-Sánchez (2016), which proposed "Design extensive reading materials so that unknown vocabulary items recur about eight times for substantial incidental learning".
 - [Intentional condition outperformed incidental condition on immediate vocabulary retention (25.89 vs 22.87 out of 38)](../claims/intentional-immediate-retention-advantage-hypertext-gloss.md) [+W] — attached 2026-11-03 from Zandieh et al. (2012), which proposed "Combine incidental and intentional vocabulary-learning modalities in CALL environments".
+- [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](../claims/intentional-learning-retention-collocations.md) [+M] — attached 2026-11-03 from Snoder (2017), which proposed "Ask learners to study target collocations in a glossed list for an announced posttest".
+- [Intentional learning enabled learning of collocations not learned after first exposure](../claims/intentional-learning-new-collocations.md) [+W] — attached 2026-11-03 from Snoder (2017), which proposed "Ask learners to study target collocations in a glossed list for an announced posttest".
+- [Intentional learning outperformed incidental learning on durability of initially learned collocations](../claims/intentional-learning-durability-collocations.md) [+W] — attached 2026-11-03 from Snoder (2017), which proposed "Ask learners to study target collocations in a glossed list for an announced posttest".
 
 ## Objective and learner-valued goal
 

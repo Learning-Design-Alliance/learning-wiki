@@ -50,3 +50,4 @@ End-of-semester interviews with 20 randomly chosen experimental-group students (
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related

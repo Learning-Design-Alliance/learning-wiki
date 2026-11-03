@@ -85,3 +85,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
 - [Male and female EFL learners do not differ significantly in their perception of critical thinking instruction through debate](gender-no-difference-perception-ct-instruction.md) — reports the opposite
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
+- [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related

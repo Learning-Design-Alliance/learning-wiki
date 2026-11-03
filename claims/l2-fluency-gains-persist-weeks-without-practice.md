@@ -108,3 +108,4 @@ Nothing here says where retention falls off.
 - [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
 - [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](findings-contradict-brown-elementary-learners-claim.md) — related
+- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related

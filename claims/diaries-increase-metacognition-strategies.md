@@ -53,3 +53,4 @@ A pre-/post-questionnaire control group study with 60 pre-service science teache
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — related
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related

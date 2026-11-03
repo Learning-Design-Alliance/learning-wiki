@@ -42,7 +42,8 @@ The article recommends that EE in schools and teacher training move beyond conse
 - [French Da Discursive Formations Ee](../theories/french-da-discursive-formations-ee.md)
 
 ## Related Strategies
-- 
+
+- [Stakeholders should foster workable strategies to improve EE teaching and learning across disciplines and place GIS use in national education objectives](stakeholder-strategies-ee-gis-national-objectives.md)
 
 ## Examples
 -

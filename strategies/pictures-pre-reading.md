@@ -56,8 +56,10 @@ Pre-reading pictures work as a schema-activation device: they give learners a sh
 4. Learners read the text, then compare it against their predictions to consolidate comprehension ([Application](../elements/application.md) of the prediction task).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pictures are one concrete vehicle for the same activation function
 - [Anticipation Guides](anticipation-guides.md) — a text-based alternative that elicits predictions with statements instead of images
+- [ITPC-framed CL lesson sequence with warm-up, image-schema instruction, controlled practice and productive tasks](itpc-cl-preposition-lesson-sequence.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function this strategy serves

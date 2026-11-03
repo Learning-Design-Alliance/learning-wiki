@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 91 claims (55 for, 33 mixed, 3 against) · 77 studies (55 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 77 report an effect size · 86 claims rest on one study
+> **Evidence** · 93 claims (57 for, 33 mixed, 3 against) · 78 studies (56 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 78 report an effect size · 88 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -127,6 +127,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](../claims/video-viewing-improves-proficiency-regardless-captions.md) [~W]
 - [Video cases yield a meaningful difference in design patterns mentioned in the oral observation report, favoring the experimental group.](../claims/video-cases-meaningful-difference-oral-observation-report.md) [~W]
 - [Practical engineering students taught the transistor with computer animation express significantly more positive attitudes towards electronics than peers taught with static diagrams.](../claims/animation-bjt-more-positive-attitudes-towards-electronics.md) [+W]
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](../claims/e-tlm-vocabulary-significant-gains-standard-vi.md) [+W] — attached 2026-11-03 from Singaravelu (2011), which proposed "Multimedia e-TLM package for English vocabulary at standard VI".
+- [Post-test achievement of the e-TLM experimental group (86.78) exceeded that of the conventionally taught control group (47.30)](../claims/e-tlm-outperforms-conventional-posttest.md) [+W] — attached 2026-11-03 from Singaravelu (2011), which proposed "Multimedia e-TLM package for English vocabulary at standard VI"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

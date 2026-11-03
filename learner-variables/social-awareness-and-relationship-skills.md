@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 208 claims (141 show a difference, 44 mixed, 23 no difference) · 151 studies (47 causal, 42 review, 26 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 40 of 151 report an effect size · 201 claims rest on one study
+> **Evidence** · 210 claims (143 show a difference, 44 mixed, 23 no difference) · 153 studies (48 causal, 42 review, 27 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 41 of 153 report an effect size · 203 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -249,6 +249,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](../claims/cooperative-group-work-develops-social-skills-preschoolers.md) [+M] — instruction changes it
 - [The program significantly improved linguistic life skills (oral interpersonal communication) versus control](../claims/childrens-literature-program-improves-oral-communication.md) [+M] — instruction changes it
 - [The program significantly improved personal and social life skills versus control](../claims/childrens-literature-program-improves-personal-social-skills.md) [+M] — instruction changes it
+- [A decrease in aggressive interpersonal strategies predicts a reduction in child-reported aggressive behavior in the spring, controlling for fall aggression](../claims/decrease-aggressive-strategies-reduces-child-reported-aggression.md) [+M] — learners who differ on it differ in outcomes
+- [Students in WHS classrooms are rated higher on social skills at posttest than control students](../claims/whs-student-social-skills-improvement.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

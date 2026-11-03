@@ -54,3 +54,4 @@ Reliability testing of the self-developed achievement test using a smaller group
 - [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
+- [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related

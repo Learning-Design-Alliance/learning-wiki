@@ -55,3 +55,4 @@ Pre/post attitude scale comparison within each group in the quasi-experiment, us
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
 - [Practical competencies-oriented teaching materials do not significantly improve students' problem-solving attitude](practical-materials-no-problem-solving-attitude-gain.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
+- [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related

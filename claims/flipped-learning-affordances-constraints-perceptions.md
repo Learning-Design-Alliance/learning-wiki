@@ -70,3 +70,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
+- [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related

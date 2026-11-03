@@ -71,3 +71,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
+- [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related

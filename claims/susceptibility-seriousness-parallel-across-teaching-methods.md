@@ -49,3 +49,4 @@ Repeated measures ANOVA on the susceptibility (five items) and seriousness (seve
 - [Adolescent females taught breast health with interactive learning using simulated breast models gained more knowledge and sustained the gain longer than the comparison group](interactive-learning-breast-health-knowledge-retention.md) — related
 - [Interactive learning lowered adolescent females' perceived barriers to breast self-examination immediately after the program](interactive-learning-lower-perceived-barriers-bse.md) — related
 - [Knowledge and belief gains decayed from immediate post-test to 4-week follow-up regardless of teaching condition](post-test-to-follow-up-decay-regardless-of-condition.md) — related
+- [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related

@@ -93,3 +93,4 @@ Mental rotation task (three-dimensional rotation, not strongly related to the tw
 - [The spatial curriculum produced longitudinal neural changes during reasoning: increased aIPS activity, increased SpatialMap-to-DLPFC connectivity, and increased nonspatial-to-spatial representational similarity](spatial-curriculum-neural-changes-reasoning.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural](ideation-training-domain-specific-transfer.md) — related
+- [Mental rotation training did not generalize to a broader spatial relations test](no-transfer-spatial-relations-pma.md) — related

@@ -49,3 +49,4 @@ Paired-samples t-test on the 19-student CL group's pre-test (M = 4.90, SD = 3.58
 - [Cooperative learning and conventional instruction produced no statistically significant difference in pronunciation improvement among Spanish-speaking ELLs in a six-week quasi-experiment](cl-vs-conventional-no-significant-pronunciation-improvement-difference.md) — related
 - [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals](profy-intelligibility-gain-over-elicited-imitation.md) — related
 - [Combining pronunciation instruction with monitor-strategy training greatly improves pronunciation accuracy in adult English majors](instruction-plus-monitor-improves-pronunciation-accuracy.md) — related
+- [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — related

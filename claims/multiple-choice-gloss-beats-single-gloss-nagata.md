@@ -50,3 +50,4 @@ The dissertation reports, citing Nagata (1999), a study of 26 university student
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — related
 - [Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses](multiple-glosses-large-positive-effect-l2-vocabulary.md) — related
+- [L1 translation instruction produced higher free active vocabulary scores than L2 definitions](l1-translation-boosts-free-active-vocabulary.md) — related

@@ -82,3 +82,5 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [Learning patterns are moderately stable over months but changeable, and more stable in constant than in changing educational contexts](learning-pattern-stability-moderate-but-changeable.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [Students' relative rank order in reading remained stable across fourth grade on most measures, with GMRT reading comprehension the exception (r = .16)](rank-order-stability-reading-measures-fourth-grade.md) — related
+- [Teacher efficacy is moderately to highly stable from fall to spring of the school year](teacher-efficacy-stable-fall-to-spring.md) — related
+- [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related

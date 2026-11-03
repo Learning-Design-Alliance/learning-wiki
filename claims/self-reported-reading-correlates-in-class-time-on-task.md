@@ -47,3 +47,5 @@ Correlational analysis of treatment-group reading record sheets (89 retrieved se
 
 ## Related Claims
 - [Treatment-group learners sustained high on-task reading in class (94%) and reported reading outside class 4.41 days per week](er-time-on-task-in-and-out-of-class.md) — related
+- [Weekly word-targets increased reading amount during treatment more than SSR or verbal encouragement in Japanese EFL learners](word-targets-increase-treatment-reading-amount.md) — related
+- [Short in-class SSR may not increase out-of-class reading for learners lacking intrinsic motivation](short-ssr-limited-out-of-class-reading.md) — related

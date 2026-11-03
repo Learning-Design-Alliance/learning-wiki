@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 126 claims (55 for, 67 mixed, 4 against) · 97 studies (53 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 97 report an effect size · 117 claims rest on one study
+> **Evidence** · 127 claims (56 for, 67 mixed, 4 against) · 98 studies (54 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 98 report an effect size · 118 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](../claims/mbio-higher-achievement-than-tcbio.md) [+W] — attached 2026-11-02 from Koseoglu et al. (2015), which proposed "Use dynamic visualisation (simulation/animation) rather than static visuals when designing multimedia science-teaching tools".
 - [There is no statistically significant difference in vocabulary post-test scores between students learning via animation and via paper-based text](../claims/animation-vs-paper-vocabulary-posttest-no-significant-difference.md) [~W] — attached 2026-11-02 from Kayaoğlu et al. (2011), which proposed "Integrate animations into language classes as an additional technique, not as a replacement for traditional methods"; tests this page's relationship.
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Offer animation-based teaching only to learners who already have sufficient prior knowledge of the domain".
+- [Video annotations outperform picture and text-only annotations for learning difficult vocabulary words](../claims/video-annotations-outperform-pictures-for-difficult-words.md) [+W] — attached 2026-11-03 from Lin et al. (2012), which proposed "Use video annotations when target word meanings are difficult or unfamiliar to learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -73,3 +73,7 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related
 - [Vocabulary gains from the didactic model emerged only at post-test, supported by contextual-clue strategies](didactic-model-vocabulary-delayed-gains.md) — related
+- [Control group taught with conventional TLM showed no significant pretest-to-posttest difference in vocabulary achievement](conventional-tlm-no-significant-gain.md) — related
+- [No practice-and-drill software group (RS, TMM, MEM) significantly outperformed the reference group (WOW) on high-stakes English test performance](no-practice-drill-software-outperformed-reference-group.md) — related
+- [Post-test achievement of the e-TLM experimental group (86.78) exceeded that of the conventionally taught control group (47.30)](e-tlm-outperforms-conventional-posttest.md) — related
+- [The WOW group showed significant improvement in writing, listening, and speaking, and overall](wow-group-significant-improvement-three-skills.md) — related

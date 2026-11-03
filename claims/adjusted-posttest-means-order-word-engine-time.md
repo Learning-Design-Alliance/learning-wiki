@@ -49,3 +49,4 @@ ANCOVA adjusted posttest means from the same 12-class quasi-experiment, reported
 - [Raw VST gain scores did not support that two hours of weekly Word Engine use produced greater gains than one hour](raw-gains-no-support-two-hours-word-engine.md) — reports the opposite
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related
 - [Longer time spent in the Parole software correlates with more words learned and retained](parole-study-duration-correlates-with-vocabulary-outcomes.md) — related
+- [No significant correlation between hours of software use and posttest scores](no-correlation-software-hours-posttest-scores.md) — reports the opposite

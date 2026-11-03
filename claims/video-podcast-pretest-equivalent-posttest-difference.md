@@ -57,3 +57,5 @@ Pre-test/post-test comparison in the 48-student equivalent group design. Pre-tes
 - [Post-test critical thinking scores significantly higher than pre-test after model instruction](pretest-posttest-critical-thinking-gain.md) — related
 - [Outdoor school ground lessons produce significantly higher post-test scientific curiosity than conventional teaching, while the control group's curiosity declined](outdoor-lessons-improve-scientific-curiosity.md) — related
 - [Experimental and control groups differed systematically at pretest in budget knowledge, science interest, environmental concern, and environmental actions](pretest-group-differences-self-selection.md) — related
+- [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](reflective-learning-higher-conceptual-understanding-gains.md) — related
+- [Reflective learning and lecture-discussion produce comparable gains in critical thinking among prospective teachers](reflective-learning-critical-thinking-gains-comparable.md) — related

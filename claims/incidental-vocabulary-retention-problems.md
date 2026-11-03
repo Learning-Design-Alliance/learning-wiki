@@ -75,3 +75,4 @@ The review reports, citing Lee and Pulido (2017), that vocabulary growth from pa
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](immediate-elaborated-feedback-improves-programming-learning.md) — related
 - [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](intentional-group-greater-loss-delayed-retention.md) — a narrower finding that bears on this claim
+- [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — related

@@ -54,3 +54,4 @@ The dissertation reports, citing Yoshii (2006), a mixed-design repeated-measure 
 - [A multiple-choice gloss format (L1 + L2) produced significantly higher vocabulary posttest scores than a single-gloss format in Nagata's Japanese study](multiple-choice-gloss-beats-single-gloss-nagata.md) — related
 - [Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses](multiple-glosses-large-positive-effect-l2-vocabulary.md) — related
 - [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — related
+- [Video annotations outperform picture and text-only annotations for learning difficult vocabulary words](video-annotations-outperform-pictures-for-difficult-words.md) — related

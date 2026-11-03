@@ -51,6 +51,7 @@ Micro-credentialing, or badging, is described as "a competency recognition syste
 ## Examples
 
 - [Micro Credentials And Badging](../strategies/micro-credentials-and-badging.md)
+- [Reward students with badges on the platform for participation and completion to encourage more participation in all project stages.](../strategies/badges-encourage-platform-participation.md)
 
 ## Key Sources
 - Karen Cator, Carri Schneider, Tom Vander Ark. (2014). Preparing Teachers for Deeper Learning: Competency-Based Teacher Preparation and Development. Digital Promise / Getting Smart. https://digitalpromise.dspacedirect.org/items/a1928fce-2d47-429b-8e81-fbeb9ce079c3

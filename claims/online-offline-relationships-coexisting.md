@@ -48,3 +48,4 @@ Authors' interpretation of survey and quote data: "our research suggests that on
 ## Related Claims
 - [First-year students specifically joined Facebook before university registration to make new face-to-face friends at university while keeping in touch with friends and family from home.](facebook-pre-registration-friend-making.md) — related
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

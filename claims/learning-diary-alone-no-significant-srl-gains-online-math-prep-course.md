@@ -94,3 +94,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline. — related
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](reflective-diary-comparable-overall-scores.md) — related
+- [Students who commented on daily assessments favored them approximately three-to-one](daily-assessments-favored-three-to-one.md) — related

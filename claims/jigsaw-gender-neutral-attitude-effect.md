@@ -57,3 +57,4 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
 - [Gender is not a significant factor in EFL learners' reading comprehension gains from debate instruction](gender-no-effect-reading-comprehension-debate.md) — related
 - [Gender is not a significant factor in EFL learners' critical thinking skill gains from debate instruction](gender-no-effect-critical-thinking-debate.md) — related
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — related

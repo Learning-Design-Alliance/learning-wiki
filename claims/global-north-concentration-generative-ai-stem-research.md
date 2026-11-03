@@ -83,3 +83,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
 - [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related
 - [Virtual patient effectiveness was demonstrated in both high-income and low- and middle-income countries, supporting global applicability](vp-global-applicability-hic-lmic.md) — related
+- [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim

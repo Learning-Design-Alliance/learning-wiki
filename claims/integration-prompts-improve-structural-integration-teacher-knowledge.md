@@ -55,3 +55,4 @@ Laboratory experiment with 92 pre-service primary mathematics teachers in a 2x2 
 - [Prompts have a significant multivariate main effect on combined structural and semantic integration measures](prompts-significant-multivariate-main-effect.md) — related
 - [Unprompted pre-service teachers' texts show higher propositional similarity to the source reference model than combined-prompts texts](control-group-higher-propositional-similarity.md) — reports the opposite
 - [Unprompted pre-service teachers' texts match the combined source-text reference model more closely on structural matching than prompted groups' texts](control-group-higher-structural-similarity-reference-model.md) — reports the opposite
+- [Concept maps are structurally and semantically more similar to an expert solution than written texts](concept-maps-more-similar-to-expert-than-written-texts.md) — related

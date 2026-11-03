@@ -49,3 +49,4 @@ Randomized experimental comparison of 61 undergraduates: blended group (n=22) us
 - [The authors argue the two-week experiment was too short for participants to acquire SQL skills, explaining the blended group's lower performance](short-experiment-duration-constraint-sql-skill-learning.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — a broader claim this one bears on
+- [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related

@@ -72,3 +72,4 @@ Post-ANOVA Bonferroni comparisons on the fill-in-the-blank test showed the recei
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — related
 - [Gloss conditions produce significant time, treatment, and interaction effects on the translation test](marginal-l1-glosses-translation-test-effects.md) — related
 - [On the translation test, the giver group outperformed both other groups and the receiver group outperformed the control group at the posttests](translation-test-giver-receiver-control-ordering.md) — related
+- [L1 translation instruction produced higher free active vocabulary scores than L2 definitions](l1-translation-boosts-free-active-vocabulary.md) — related

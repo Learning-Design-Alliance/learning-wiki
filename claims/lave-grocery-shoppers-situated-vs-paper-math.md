@@ -74,3 +74,4 @@ The article reports Lave, Murtaugh, and de la Rocha's (1984) study, in which res
 ## Related Claims
 
 - [Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions](everyday-practice-tasks-scored-higher-than-school-format.md) — a broader claim this one bears on
+- [Computer-based students were less able to interpret an equation in context: fewer recognized that income would not keep rising with ticket price](cb-students-weaker-contextual-interpretation.md) — related

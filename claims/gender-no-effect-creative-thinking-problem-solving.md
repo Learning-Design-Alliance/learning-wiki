@@ -58,3 +58,4 @@ Independent samples t-test (Hypothesis 1) on creative thinking scores of 450 sec
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Parents' job type does not significantly affect students' creative thinking](parents-job-no-effect-creative-thinking.md) — related
 - [Learning model and academic ability each significantly affect creative thinking, but their interaction does not](sscs-ms-ancova-main-effects-no-interaction.md) — related
+- [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related

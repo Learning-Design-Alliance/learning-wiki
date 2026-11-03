@@ -50,3 +50,6 @@ Space dimension synthesis; the 13 space papers fell into four categories: virtua
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
+- [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
+- [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
+- [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
