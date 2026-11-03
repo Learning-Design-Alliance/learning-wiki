@@ -52,3 +52,4 @@ Qualitative interview component of the mixed methods study. Students reported pr
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
+- [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related

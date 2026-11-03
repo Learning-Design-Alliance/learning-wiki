@@ -74,3 +74,5 @@ Meta-analysis of 4 studies (248 students) on case analysis scores. The pooled es
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [CBL significantly increases comprehensive ability scores compared with LBL (SMD=2.91)](cbl-increases-comprehensive-ability-scores.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
+- [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
+- [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related

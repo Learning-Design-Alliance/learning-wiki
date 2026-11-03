@@ -57,9 +57,11 @@ Process praise is grounded in implicit-theory (mindset) research: feedback about
 5. Reinforce the pattern over time so learners internalize the attribution, connecting to [Formative Assessment](../principles/assessment-for-learning.md) cycles where feedback informs the next attempt.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the companion feedback form; process praise tells learners what worked, action-oriented feedback tells them what to do next
 - [Growth Mindset Interventions](growth-mindset-interventions.md) — process praise is the moment-to-moment delivery mechanism of mindset theory
 - [Formative Feedback](formative-feedback.md) — process praise functions as one component within a larger feedback loop
+- [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 
 ## Examples
 - **Classroom language (Mueller & Dweck paradigm):** After a successful math set, a teacher says "You must have tried good strategies" rather than "You must be smart at math" — the original studies showed this difference changed children's persistence and performance on subsequent failure trials.

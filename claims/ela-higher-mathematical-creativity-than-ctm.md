@@ -47,3 +47,4 @@ Quasi-experimental Solomon Four Non-Equivalent Control Group study of 168 Form T
 ## Related Claims
 - [ANOVA of post-test MCT scores across the four groups was statistically significant](anova-post-test-mct-significant.md) — a broader claim this one bears on
 - [Post-test MCT mean scores were higher for the two ELA groups (35.53 and 32.79) than for the two CTM groups (25.83 and 24.98)](ela-post-test-mct-means-higher.md) — possibly the same claim (merge candidate)
+- [Students taught with C-K theory-based lesson plans achieved higher creativity scores than those taught with regular lesson plans](ck-theory-lesson-plans-higher-creativity-scores.md) — related

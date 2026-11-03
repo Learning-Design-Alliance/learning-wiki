@@ -48,3 +48,4 @@ The authors summarize their own Year 1 brief learning trials and Year 2 feasibil
 ## Related Claims
 - [Educators tend to perceive meaningful effects of the developers' curricula on student outcomes, but standardized measures tend not to reflect the same level of impact as proximal assessments](proximal-vs-standardized-measure-perceptions.md) — related
 - [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related
+- [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](cities-mentor-pilot-feasible-usable.md) — a narrower finding that bears on this claim

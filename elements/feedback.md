@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 259 claims (120 for, 120 mixed, 19 against) · 194 studies (81 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 48 of 194 report an effect size · 235 claims rest on one study
+> **Evidence** · 261 claims (120 for, 122 mixed, 19 against) · 196 studies (82 causal, 36 review, 28 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 49 of 196 report an effect size · 237 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -307,6 +307,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [There were no overall differences between embedded self-explanation and explanatory feedback conditions on pre-post learning gains](../claims/no-overall-differences-self-explanation-vs-explanatory-feedback.md) [~W]
 - [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](../claims/self-explanation-advantage-near-transfer-controlling-levels.md) [-W]
 - [Self-correction group outperformed peer-correction and teacher-correction groups in posttest pronunciation](../claims/self-correction-outperforms-peer-and-teacher-correction.md) [~W]
+- [OIF group outperformed EF group on writing accuracy in revised compositions (uptake)](../claims/oif-outperformed-ef-accuracy-uptake.md) [~W]
+- [No significant difference between direct correction and metalinguistic explanation effects on English article acquisition](../claims/no-significant-difference-direct-vs-metalinguistic-feedback.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

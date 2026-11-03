@@ -43,7 +43,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 7 mixed, 2 against) · 29 studies (10 review, 5 causal, 5 qualitative, 4 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 2 of 29 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (17 for, 8 mixed, 2 against) · 30 studies (11 review, 5 causal, 5 qualitative, 4 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 2 of 30 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](../claims/case2-students-foils-missed-opportunities.md) [-W]
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](../claims/teacher-growth-three-areas-guiding-preschool-math.md) [+W]
 - [Medical students with SpLDs report perceived strengths including communication skills, creative problem-solving, and empathy](../claims/spld-perceived-strengths-empathy-communication.md) [+W]
+- [SL experiences enable PSTs to recognize ELLs' cultural capital as an educational resource](../claims/sl-recognition-of-cultural-capital.md) [~W]
 
 ## Related Principles
 

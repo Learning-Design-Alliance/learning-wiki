@@ -51,3 +51,4 @@ Quasi-experimental classroom study with a non-equivalent control group: 413 lear
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
 - [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related
 - [Small-group problem-based instruction (PBIS) produced the highest adjusted mathematics achievement among the four treatment conditions](pbis-highest-adjusted-math-achievement.md) — related
+- [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related

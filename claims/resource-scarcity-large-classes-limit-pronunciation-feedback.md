@@ -55,3 +55,4 @@ Narrative synthesis of reviewed studies on classroom conditions. The review repo
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
+- [Trainees mainly used audio and audio-visual self-study activities and rarely used online sources for pronunciation practice](trainees-self-study-practices-audio-dominant.md) — related

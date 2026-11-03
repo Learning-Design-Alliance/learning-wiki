@@ -47,3 +47,4 @@ Exploratory random-effects analyses regressing outcome gains on fidelity and RCM
 ## Related Claims
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
+- [Teacher experience with SBI did not significantly affect fidelity of implementation, as both experienced and novice implementers achieved similar fidelity scores](sbi-teacher-experience-no-fidelity-effect.md) — related

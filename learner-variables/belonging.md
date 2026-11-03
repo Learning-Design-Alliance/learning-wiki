@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (85 show a difference, 29 mixed, 6 no difference) · 88 studies (25 review, 17 causal, 15 associational, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 88 report an effect size · 115 claims rest on one study
+> **Evidence** · 121 claims (86 show a difference, 29 mixed, 6 no difference) · 89 studies (25 review, 17 causal, 15 associational, 14 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 89 report an effect size · 116 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -157,6 +157,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Sense of belonging to math declined only in the problem-solving control condition, with no condition main effect on belonging](../claims/belonging-declined-only-in-control.md) [~W] — instruction changes it
 - [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](../claims/e-emr-no-significant-main-effects-high-school.md) [-M] — instruction changes it
 - [School belonging showed no statistically significant treatment effect at any wave](../claims/ssstp-school-belonging-null.md) [-M] — instruction changes it
+- [Action research created opportunities for teachers to become more complete members of their communities of practice](../claims/action-research-community-membership.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

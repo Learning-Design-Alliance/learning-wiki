@@ -52,3 +52,4 @@ Qualitative focus group interviews with randomly chosen participants in three sm
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — reports the opposite
+- [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related

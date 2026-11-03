@@ -13,7 +13,7 @@ generated:
 # De Bono's Six Thinking Hats
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A thinking and facilitation framework developed by Edward de Bono that organizes individual or group reasoning into six symbolic modes for parallel, structured consideration of an issue.
@@ -24,6 +24,8 @@ A thinking and facilitation framework developed by Edward de Bono that organizes
 
 ### Claims
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](../claims/six-hats-program-improves-islamic-concepts-achievement.md) [+M]
+- [A Six Hats Model training program significantly improves creative thinking scores of gifted seventh-grade students](../claims/six-hats-training-improves-creative-thinking-gifted.md) [+M]
+- [A Six Hats Model training program significantly improves academic achievement in Arabic among gifted seventh-grade students](../claims/six-hats-training-improves-arabic-achievement-gifted.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -31,3 +33,4 @@ A thinking and facilitation framework developed by Edward de Bono that organizes
 ## Key Sources
 - DR.PH omar salem alkhateeb. (2015). The Effect of the Six Hats Based on Program in the Development of the Pivotal Thinking of Islamic Concepts Students in Hussein University. Journal of Education and Practice, Vol.6, No.2. https://www.iiste.org
 - Ercan, O., & Bilen, K. (2008). Effect of Web Assisted Education Supported by Six Thinking Hats on Students’ Academic Achievement in Science and Technology Classes. International Journal of Environmental & Science Education, 3(3). https://eric.ed.gov/?id=EJ1092413
+- Ziadat, A. H., & Al Ziyadat, M. T. (2016). The Effectiveness of Training Program Based on the Six Hats Model in Developing Creative Thinking Skills and Academic Achievements in the Arabic Language Course for Gifted and Talented Jordanian Students. International Education Studies, 9(6). https://doi.org/10.5539/ies.v9n6p150

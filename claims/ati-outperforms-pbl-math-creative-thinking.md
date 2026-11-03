@@ -59,3 +59,5 @@ Quasi-experimental posttest-only comparison of two experimental classes, one tau
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — related
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md) — related
 - [Grade-ten students taught with problem-based learning achieved higher mathematics critical thinking scores than students taught with conventional learning](pbl-higher-critical-thinking-than-conventional.md) — related
+- [Students taught with C-K theory-based lesson plans achieved higher creativity scores than those taught with regular lesson plans](ck-theory-lesson-plans-higher-creativity-scores.md) — related
+- [Students' mathematical creative thinking ability is lowest on complex tasks requiring idea extension and linking facts to mathematical models](creative-thinking-lowest-on-complex-tasks.md) — related

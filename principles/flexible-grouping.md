@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (20 for, 20 mixed, 3 against) · 47 studies (14 causal, 11 quant-synthesis, 9 review, 4 qualitative, 3 associational, 3 design, 3 theoretical), `q1`–`q4` · 9 of 47 report an effect size · 32 claims rest on one study
+> **Evidence** · 44 claims (20 for, 21 mixed, 3 against) · 48 studies (15 causal, 11 quant-synthesis, 9 review, 4 qualitative, 3 associational, 3 design, 3 theoretical), `q1`–`q4` · 9 of 48 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - [The process evaluation suggested both interventions may be best delivered in groups of similar rather than mixed ability](../claims/abra-similar-ability-grouping-suggestion.md) [~W]
 - [Homogeneous readiness-based grouping is problematic: research warns it may decrease student self-efficacy and teacher expectations](../claims/homogeneous-grouping-readiness-problematic.md) [~W]
 - [The heterogeneous group ranks second on individual achievement gains, behind the high homogeneous group](../claims/heterogeneous-group-second-rank-gains.md) [~W]
+- [Permanent group membership over a six-week course may cause students to lose motivation, and rotating group members is recommended.](../claims/permanent-groups-reduce-motivation-rotation-recommended.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — flexible grouping often structures when and how peer talk happens

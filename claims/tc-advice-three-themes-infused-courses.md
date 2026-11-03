@@ -47,3 +47,4 @@ Qualitative thematic analysis of responses to the advice question. Candidates su
 ## Related Claims
 - [During student teaching, teacher candidates' technology integration varied in frequency and fell into four categories of use: teacher use, effective-but-not-transformative student use, higher-level student use, and interactive whiteboard use](student-teaching-tech-use-four-categories.md) — related
 - [Teacher candidates' projected future classroom technology use mirrors their student-teaching use, with most describing routine, non-transformative use](projected-future-tech-use-mirrors-student-teaching.md) — related
+- [Students' primary objective in studying qualitative research is learning how to do it, and instructors are recommended to respect this motivation and focus on skills first](skills-first-respect-student-motivation-qualitative-research.md) — related

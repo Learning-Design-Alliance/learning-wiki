@@ -48,6 +48,7 @@ The article's pedagogical recommendation is that "Language educators should take
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 - [Design ASR-supported speaking instruction around feedback depth and reflection-task specificity rather than technical accuracy alone](design-for-feedback-depth-and-reflection-task-specificity.md)
 - [Teachers facilitate AWT by supporting peer correspondence, collecting papers, and guiding error correction without direct interference](awt-teacher-facilitation-strategy.md)
+- [Future gamification research should target the four English language skills individually and collectively.](gamification-elt-four-skills-research-strategy.md)
 
 ## Examples
 -

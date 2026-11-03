@@ -48,3 +48,4 @@ Inductive content analysis of diary extracts in the same mixed-method study. Som
 - [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](mslt-improves-post-test-reading-achievement.md) — related
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — related
 - [A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
+- [Only a third of observed teachers showed an alternative construction of the learning process with a creative approach](third-teachers-alternative-learning-process.md) — related

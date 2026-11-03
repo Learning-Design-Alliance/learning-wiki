@@ -50,3 +50,4 @@ Document analysis of the CSTA K-12 Computing Standards (2017) finds minimal AI c
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — a broader claim this one bears on
 - [Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance](both-levels-emphasize-citation-transparency.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
+- [Only 21.5% of teachers believe the policy of giving each student a computer should extend to all courses and stages of the school system.](escuela2-policy-extension-low-support.md) — related

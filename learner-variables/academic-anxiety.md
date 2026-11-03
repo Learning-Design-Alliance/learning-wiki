@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (149 show a difference, 44 mixed, 30 no difference) · 140 studies (47 causal, 44 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 32 of 140 report an effect size · 216 claims rest on one study
+> **Evidence** · 225 claims (151 show a difference, 44 mixed, 30 no difference) · 141 studies (48 causal, 44 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 32 of 141 report an effect size · 218 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -259,6 +259,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Students who failed the question-and-answer oral exam had higher FLCA than those who passed](../claims/flca-higher-failed-oral-qa.md) [+M] — learners who differ on it differ in outcomes
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](../claims/discussion-board-lowers-l2-writing-anxiety.md) [+W] — instruction changes it
 - [Student L2 proficiency shapes L1 switching, with low-proficiency learners benefiting from L1 to reduce anxiety](../claims/student-proficiency-drives-l1-switching.md) [+M] — instruction changes it
+- [Cooperative learning significantly reduces foreign language writing anxiety compared with solitary writing](../claims/cooperative-writing-reduces-efl-writing-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](../claims/anxiety-reduction-frees-attention-for-writing.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

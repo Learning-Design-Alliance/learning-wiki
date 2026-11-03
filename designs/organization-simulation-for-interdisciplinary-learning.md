@@ -77,6 +77,7 @@ Students form simulated consulting organizations (e.g., HR-service companies) th
 
 - [Evolving-artifact course organization: each module's output becomes the next module's input](evolving-artifact-module-chain.md)
 - [Interdisciplinary teacher teams with a block of time and common planning as the middle school organizational core](interdisciplinary-teaming-block-schedule.md)
+- [Two-tiered alternate reality game narrative structure for framing problem-based course activities](two-tiered-altrg-narrative-pbl.md)
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares an authentic-problem, facilitated-inquiry structure, but this pattern adds a competitive external evaluator and an explicit organizational role structure

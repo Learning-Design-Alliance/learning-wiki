@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 42 studies (22 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 11 of 42 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (19 for, 15 mixed, 2 against) · 43 studies (22 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 11 of 43 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
 - [Restudy fostered surface-level knowledge compared to learning by digital explaining](../claims/restudy-fosters-surface-level-knowledge.md) [+W]
 - [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](../claims/self-explanation-advantage-near-transfer-controlling-levels.md) [+W]
+- [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](../claims/water-module-active-learning-reception.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

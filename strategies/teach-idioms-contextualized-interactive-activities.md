@@ -51,6 +51,7 @@ Based on the finding that role-play, movies, and sentence-use outperformed defin
 - [Contextual Vocabulary Introduction](contextual_vocabulary_introduction.md)
 - [Contextualize English grammar instruction within purposeful, authentic writing tasks](contextualized-grammar-in-authentic-writing.md)
 - [Use movies or TV series clips so learners notice how formulaic sequences are used among speakers](tv-series-clips-fs-noticing-strategy.md)
+- [Watch, write, and talk about movies as a structured sequence for raising multicultural awareness in teacher education](watch-write-talk-movie-strategy.md)
 
 ## Examples
 -

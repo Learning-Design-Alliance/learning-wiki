@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (131 show a difference, 45 mixed, 23 no difference) · 170 studies (83 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 170 report an effect size · 195 claims rest on one study
+> **Evidence** · 201 claims (132 show a difference, 46 mixed, 23 no difference) · 172 studies (85 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 172 report an effect size · 197 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -256,6 +256,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [City Connects exposure during elementary school is associated with lower chronic absenteeism and grade retention through middle and early high school](../claims/city-connects-lower-absenteeism-retention.md) [+M] — instruction changes it
 - [Treatment dosage (percentage of BELA activities completed) showed no reliable effect on reading achievement change](../claims/belai-dosage-no-reliable-effect-reading.md) [-M] — learners who differ on it differ in outcomes
 - [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](../claims/swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) [+W] — instruction changes it
+- [Dosage of comparison materials significantly predicted performance on the researcher-designed CC measure but not the Acuity measure](../claims/dosage-predicts-cc-measure.md) [~M] — learners who differ on it differ in outcomes
+- [The attendance gap between HIPPY and comparison children became larger in the 9th grade](../claims/hippy-attendance-gap-widens-9th-grade.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

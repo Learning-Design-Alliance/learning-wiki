@@ -56,3 +56,4 @@ Descriptive analysis of the six-item challenges scale completed by the 21 experi
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — a broader claim this one bears on
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Experimental students' perceptions of Edmodo were highly positive, ranking pedagogical purposes highest and social interaction lowest](highly-positive-student-perceptions-of-edmodo.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related

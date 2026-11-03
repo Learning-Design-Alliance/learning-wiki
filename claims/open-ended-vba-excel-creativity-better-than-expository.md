@@ -50,3 +50,4 @@ Quasi-experiment comparing an experiment class (35 students, open-ended VBA for 
 - [Post-learning media products spanned multiple mathematics topics: 42.8% geometry-related props, 28.57% arithmetic-related props, 51.43% could explain prop creation, and 60% could use shapes to run their code](post-learning-media-topic-distribution.md) — related
 - [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
+- [Students show fear of solving problems outside taught methods, limiting creative thinking performance](student-fear-of-untaught-methods-limits-creativity.md) — related

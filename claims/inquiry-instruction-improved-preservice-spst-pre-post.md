@@ -59,3 +59,4 @@ Wilcoxon Signed Rank Test on the experimental group's (n=12) SPST pretest-postte
 - [The pre-inquiry class improved specific science process subskills — measuring, inferencing, controlling variables and generalization — but not observing, classifying or predicting](pre-inquiry-subskill-gains-measuring-inferencing.md) — a narrower finding that bears on this claim
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
 - [Significant difference favoring general/academic high school graduates on good teaching and generic skills](high-school-type-good-teaching-generic-skills.md) — related
+- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related

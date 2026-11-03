@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (38 for, 29 mixed, 3 against) · 63 studies (25 causal, 15 quant-synthesis, 15 review, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 62 claims rest on one study
+> **Evidence** · 71 claims (38 for, 30 mixed, 3 against) · 64 studies (25 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Gamified clinical skill learning produces the largest effects on skill performance, with very high between-study heterogeneity](../claims/gamified-learning-skill-performance-largest-effect.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](../claims/gamified-web-mobile-moderate-knowledge-effects.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
 - [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](../claims/kahoot-higher-posttest-performance-than-paper-quizzes.md) [+W] — attached 2026-11-01 from Saovapa Wichadee et al. (2017), which proposed "When using game-based quizzes, instructors should explain correct answers and tell students the real learning purpose beyond competition"; tests this page's relationship.
+- [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](../claims/gamification-sla-learning-motivation-no-confirmed-correlation.md) [~W] — attached 2026-11-03 from Boudadi et al. (2020), which proposed "Exercise caution when adopting gamification in language learning until further research shows clearer results".
 
 ## Objective and learner-valued goal
 
@@ -248,7 +249,9 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Immediate Feedback](immediate-feedback.md) — feedback timing, which points and messages inherit
 
 ## Examples
+
 - [Constructive competition through Social Interdependence Theory](../designs/constructive-competition-social-interdependence.md) — Kahoot leaderboards designed so winning is unimportant and everyone can win
+- [Design gamified activities with progressive sequenced levels through which learners advance at their own pace](../strategies/progressive-sequenced-levels-own-pace-gamification.md)
 
 ### Illustrative
 

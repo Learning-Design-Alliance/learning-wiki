@@ -61,3 +61,4 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — a narrower finding that bears on this claim
 - [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](tbl-increases-learning-skill.md) — related
 - [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](tbl-increases-theoretical-examination-scores-china.md) — possibly the same claim (merge candidate)
+- [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related

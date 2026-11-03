@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: fotaris-p-2016
     resource: "https://eric.ed.gov/?id=EJ1101229"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental class had an average final grade of 61% compared to the control class's 53%, but the authors state additional studies are needed to identify possible correlations. [→ Fotaris P 2016](#fotaris-p-2016)
@@ -50,3 +51,4 @@ Comparison of final academic performance between the two cohorts; course evaluat
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
+- [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](gamification-sla-learning-motivation-no-confirmed-correlation.md) — related

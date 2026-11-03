@@ -50,3 +50,4 @@ A narrative synthesis of prior implementation research (cited sources 10, 20-21)
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — related
 - [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related
+- [Teacher-researchers realized the complexities of problems they once felt had simplistic solutions and felt increased responsibility to address them](action-research-complexity-realization.md) — related

@@ -76,6 +76,7 @@ Processing improves both achievement and the durability of cooperative groups by
 **[Project-Based Learning (PBLWorks)](https://www.pblworks.org)** — PBL team contracts and milestone retrospectives operationalize group processing across multi-week projects.
 
 **Team retrospectives in agile software education** — Capstone and software engineering courses adopt sprint retrospectives ("keep / stop / start") as an authentic professional form of group processing.
+- [Build conflict-resolution and communication skills into multidisciplinary team projects](../strategies/conflict-resolution-modules-multidisciplinary-teams.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

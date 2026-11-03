@@ -67,3 +67,4 @@ Quasi-experimental study with non-equivalent groups (20 experimental, 20 control
 - [Learning cycle approach-based science teaching produced higher academic achievement post-test scores than teacher-centered teaching in 4th-grade students](learning-cycle-higher-achievement-posttest.md) — related
 - [The Constructivist Learning Model improved eighth-grade science achievement more than traditional teaching](clm-improves-8th-grade-science-achievement.md) — related
 - [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](clm-improves-scientific-thinking.md) — related
+- [Tablets with an AR application within a modified 5E model yielded better learning outcomes than conventional teaching for the human respiratory and circulatory systems](tablets-ar-5e-outperform-conventional-teaching-body-systems.md) — related

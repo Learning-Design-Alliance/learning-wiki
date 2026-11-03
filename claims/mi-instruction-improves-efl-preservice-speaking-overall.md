@@ -53,3 +53,4 @@ One-group pretest-posttest quasi-experiment with 60 fourth-year prospective teac
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related
 - [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
+- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](open-discussion-sessions-significant-speaking-gains.md) — related

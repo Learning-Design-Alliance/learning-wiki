@@ -68,3 +68,4 @@ Results section comparison of adjacent model configurations on SPED-Tutor-Mix. T
 - [The full Special-R1 model raises persona-aware Fit from 6.75 to 8.40 and SPED-rubric Helpfulness from 0.720 to 0.768 over a non-disability-aware baseline](special-r1-raises-persona-fit-and-sped-helpfulness.md) — related
 - [SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks](sped-adaptive-shifts-tutor-behavior-codebooks.md) — related
 - [Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM](sped-training-no-ood-knowledge-cost.md) — related
+- [Students with disabilities more likely to be tutored with curriculum-based software or tutor-software combinations](disabilities-curriculum-software-tutoring.md) — related

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (85 show a difference, 30 mixed, 16 no difference) · 70 studies (27 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 70 report an effect size · 127 claims rest on one study
+> **Evidence** · 132 claims (86 show a difference, 30 mixed, 16 no difference) · 71 studies (27 causal, 15 review, 14 quant-synthesis, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 71 report an effect size · 128 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -168,6 +168,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [CALM reduced daily physical symptoms and showed trend-level reductions in time pressure and depersonalization](../claims/calm-reduces-physical-symptoms-stress-burnout.md) [+W] — instruction changes it
 - [Physical activity did not increase and was unrelated to self-efficacy changes](../claims/no-physical-activity-increase-despite-efficacy-gains.md) [-M] — learners who differ on it differ in outcomes
 - [Values-education activities increased students' positive health behaviours including hygiene, nutrition, and exercise](../claims/values-activities-increase-positive-health-behaviours.md) [+M] — instruction changes it
+- [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](../claims/physical-activity-associated-self-regulation-preschoolers.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

@@ -50,3 +50,4 @@ Quasi-experimental study of 84 tenth-grade male students in Amman public schools
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [Second-grade students taught Arabic with pictorial stories significantly outperformed traditionally taught controls on an achievement test, with a large group effect](pictorial-story-raises-arabic-achievement-second-grade.md) — related
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
+- [Cooperative learning significantly improves EFL writing achievement compared with solitary writing](cooperative-writing-improves-efl-writing-achievement.md) — related

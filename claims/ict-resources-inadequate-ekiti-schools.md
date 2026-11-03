@@ -51,3 +51,4 @@ Descriptive survey component of the study using the 21st Century E-classroom que
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
 - [An information gap exists among secondary school teachers and students despite ICT provision claims](information-gap-teachers-students-ict.md) — related
 - [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related

@@ -54,3 +54,4 @@ Cost analysis from the faces task with ninety 8-year-olds in three language grou
 - [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md) — related
 - [No bilingual advantage in executive control or working memory in Experiment 2](no-bilingual-advantage-executive-control.md) — reports the opposite
 - [Evidence on bilingual cognitive advantages is mixed, so no definitive conclusion on whether bilingualism confers cognitive advantages is currently possible](bilingual-cognitive-advantage-mixed-evidence.md) — related
+- [Bilingual children show advantages on EF measures compared to monolingual peers](bilingual-advantage-ef-preschoolers.md) — related

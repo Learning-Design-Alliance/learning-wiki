@@ -72,3 +72,4 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
 - [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
+- [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related

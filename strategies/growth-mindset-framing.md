@@ -67,6 +67,7 @@ Mindset framing works as a small but real motivational lever: brief intervention
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
+- [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 
 ## Examples
 - **National Study of Learning Mindsets ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y))** — A preregistered, nationally representative experiment in 65 US high schools; a 25-minute online module framing ability as malleable raised GPA among lower-achieving students ([https://mindsetscholarsnetwork.org](https://mindsetscholarsnetwork.org)).

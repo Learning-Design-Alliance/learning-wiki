@@ -5,6 +5,18 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · settling no longer recreates a page that was folded into another kind
+
+j-screric-27 wrote `research-methods/action-research` again, although j-screric-14 had folded it into
+`strategies/action-research`, whose frontmatter says `moved_from: [research-method/action-research]`.
+`settle_candidates.write_named` only looked for a page of the same name in its own folder. It now
+reads `wiki-index.json`'s `moved` map first: a retired slug is written to the page that took it when
+that page has the section (`## Accounts` or `## Components`), and otherwise nowhere. The page was
+folded again. The same hold kept six DOI-less service-learning claims from Toronyi (2020), a
+meta-synthesis in a journal that registers no DOIs, because principles cite them, and removed the
+seventh, which nothing cites. It also corrected one claim's ANOVA statistic: the paper computes F
+with 87 within-groups df for 60 learners.
+
 ## 2026-11-03 · learner-variable outcome links are worded neutrally; the heritage-language hub retitled
 
 **Outcome role text.** `link_learner_variables.py` wrote "instruction changes it" on every claim where a learner

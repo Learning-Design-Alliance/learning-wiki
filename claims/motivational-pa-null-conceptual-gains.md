@@ -51,3 +51,5 @@ A between-groups classroom comparison of 49 9th- and 10th-grade students in the 
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
 - [SDT-based online unit significantly increased competence in online Algebra 2 students](sdt-based-online-unit-increased-competence.md) — related
 - [GraphoGame exposure showed no significant effect on arithmetic (ZAT-M) scores, consistent with the expectation of no Hawthorne effect](graphogame-no-effect-arithmetic.md) — related
+- [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related
+- [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related

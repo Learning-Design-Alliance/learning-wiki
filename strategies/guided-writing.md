@@ -58,9 +58,11 @@ Guided writing works because it reduces the working-memory and self-regulation d
 5. **Review and revise.** Guide students in evaluating their drafts against the modeled criteria, then fade support across subsequent lessons until students plan and draft unaided.
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the individualized feedback mechanism inside guided writing
 - [Sentence Combining](sentence-combining.md) — a targeted skill component frequently embedded in guided writing sessions
 - [Process Writing](process-writing.md) — the broader workshop structure within which guided writing sits
+- [Sequence summarizing instruction from explicit macrorule modelling on short texts to independent summarizing of curriculum texts](macrorule-training-sequence-strategy.md)
 
 ## Examples
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** — Hochman & Wexler's method embeds guided sentence-level and paragraph-level composition within content instruction; teachers model, then guide, then release.

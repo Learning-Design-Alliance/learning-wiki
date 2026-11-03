@@ -47,6 +47,7 @@ The brief's sustainability approach embeds mental health in existing district st
 - [Sustain school mental health programs through multi-payer fee schedules and alignment with existing initiatives](multipayer-fee-schedule-sustainability-strategy.md)
 - [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 - [Use quarterly IPP indicator data and twice-yearly data reviews with LEAs for continuous quality improvement](quarterly-ipp-indicator-data-reviews-cqi.md)
+- [Embed the intervention in existing university infrastructures through a paid yearlong service-learning course that trains undergraduates as mentors and advocates.](cities-mentor-service-learning-sustainability-model.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Comparison of competency and efficacy self-reports across schools grouped by 198
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related
 - [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](expanded-pool-composite-still-null.md) — possibly the same claim (merge candidate)
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
+- [Pre-test scores for perceived competence were lower among the intervention group than among the comparison groups, suggesting self-selection](lq-self-selection-lower-pretest-competence.md) — related

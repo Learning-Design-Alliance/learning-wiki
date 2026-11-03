@@ -49,3 +49,5 @@ One-group pretest-posttest study of 31 middle school students in a summer camp; 
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
+- [Students in the gamified course reported significantly higher statistical competency after the gamified activities](gamification-increased-statistical-competency.md) — related
+- [Gamified activities did not significantly change students' perceived engagement in the online course](gamification-no-engagement-change.md) — related

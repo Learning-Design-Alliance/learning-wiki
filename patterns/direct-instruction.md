@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (31 for, 24 mixed, 4 against) · 57 studies (25 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 52 claims rest on one study
+> **Evidence** · 60 claims (32 for, 24 mixed, 4 against) · 58 studies (26 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 58 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](../claims/explicit-instruction-increases-reading-strategy-use.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](../claims/direct-instruction-improves-math-achievement-learning-difficulties.md) [+W] — attached 2026-11-02 from Ahmad Abdulhameed Aufan Al-Makahleh (2011), which proposed "Eight-step direct instruction lesson sequence for skill mastery"; tests this page's relationship.
 - [Kindergarten teachers new to the ELM program significantly increased rates of all four evidence-based teaching practices in Year-2 relative to their Year-1 standard instruction](../claims/con-elm-teachers-increase-explicit-practices-year2.md) [+W] — attached 2026-11-03 from Doabler et al. (2018), which proposed "Embed explicit teaching practices within core mathematics programs to increase teachers' use of evidence-based practices".
+- [A 10-minute-per-lesson Direct Instruction music literacy program significantly improves Year 7 students' music literacy over one trimester](../claims/di-music-literacy-significant-improvement-year7.md) [+W] — attached 2026-11-03 from Lowe et al. (2012), which proposed "Ten-minute Direct Instruction bursts at the start of regular lessons"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

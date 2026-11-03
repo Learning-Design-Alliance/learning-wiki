@@ -66,3 +66,4 @@ Main effect from the 2 (clicker type) × 2 (exam question type) × 2 (semester) 
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — related
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related
 - [After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) — possibly the same claim (merge candidate)
+- [CBL improved performance at the knowledge level of Bloom's taxonomy, with no differences at comprehension or application levels](cbl-improves-knowledge-level-bloom-performance.md) — related

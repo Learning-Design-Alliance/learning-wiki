@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 74 claims (46 for, 26 mixed, 2 against) · 53 studies (21 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 53 report an effect size · 72 claims rest on one study
+> **Evidence** · 75 claims (47 for, 26 mixed, 2 against) · 54 studies (22 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 54 report an effect size · 73 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Hybrid students significantly outperformed online students on weekly assignments](../claims/hybrid-outperform-weekly-assignments.md) [+W]
 - [No significant difference in final examination scores between online and hybrid students](../claims/no-significant-difference-final-examination.md) [~W]
 - [Online students were as successful as hybrid students in overall course performance](../claims/online-as-successful-as-hybrid-overall-performance.md) [~W]
+- [Supplementing classroom instruction with e-learning raises post-test achievement more than classroom-only instruction](../claims/blended-elearning-raises-esp-posttest-scores.md) [+W]
 
 ## Examples
 

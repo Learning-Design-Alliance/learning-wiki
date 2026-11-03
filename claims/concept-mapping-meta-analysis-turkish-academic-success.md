@@ -55,3 +55,4 @@ Meta-analysis combining 71 experimental studies with control groups conducted in
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — related
 - [Brain-based learning has a large positive effect on academic achievement in science education in Turkey (ES = 1.382)](bbl-large-positive-effect-achievement-turkey.md) — related
+- [IBL is a new and weak research area in Turkey, with interest increasing only since 2006](ibl-new-weak-research-area-turkey.md) — related

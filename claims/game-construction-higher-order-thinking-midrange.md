@@ -52,3 +52,4 @@ Two raters evaluated 50 student-authored game adventures using Rice's (2007) rub
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
+- [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related

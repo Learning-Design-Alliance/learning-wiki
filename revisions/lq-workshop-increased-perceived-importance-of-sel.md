@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/lq-workshop-increased-perceived-importance-of-sel.md
+---
+
+# Revision history: [claims/lq-workshop-increased-perceived-importance-of-sel](../claims/lq-workshop-increased-perceived-importance-of-sel.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1072170 (Progress in Teachers' Readiness to Promote Positive Youth Development among Students during the Lions Quest Teaching Workshop) via eval_harness.py + ingest_extractions.py

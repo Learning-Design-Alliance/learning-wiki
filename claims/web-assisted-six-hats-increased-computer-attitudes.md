@@ -50,3 +50,4 @@ Independent samples t-test comparing post-test Computer Attitude Scale scores of
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
+- [A Six Hats Model training program significantly improves creative thinking scores of gifted seventh-grade students](six-hats-training-improves-creative-thinking-gifted.md) — related

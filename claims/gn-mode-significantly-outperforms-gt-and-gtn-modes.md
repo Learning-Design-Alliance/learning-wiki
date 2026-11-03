@@ -49,3 +49,4 @@ Quasi-experimental study of 291 Secondary Two students in three Malaysian second
 - [Students exposed to the GT mode obtained significantly higher mean posttest scores than students exposed to the GTN mode.](gt-mode-outperforms-gtn-mode.md) — related
 - [The interaction effect between students' learning approaches and the three treatment modes on posttest scores was not significant.](no-interaction-learning-approach-treatment-mode.md) — related
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — related
+- [Graphic novel instruction increased EFL students' motivation and engagement with reading literature](graphic-novels-increase-reading-motivation.md) — related

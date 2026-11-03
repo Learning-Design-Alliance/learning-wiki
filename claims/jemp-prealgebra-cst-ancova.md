@@ -53,3 +53,4 @@ Quasi-experimental comparison of JEMP participants (n = 234) with non-participan
 - [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](jemp-mdtp-readiness-growth.md) — related
 - [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](jemp-two-summer-longitudinal-advantage.md) — related
 - [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](mdtp-topic-scores-predict-algebra-proficiency.md) — related
+- [Students receiving a computational thinking intervention significantly outperform control students on intervened mathematics topics in primary school](ct-intervention-improves-intervened-math-topics.md) — related

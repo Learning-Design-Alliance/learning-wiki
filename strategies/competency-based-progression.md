@@ -67,6 +67,7 @@ CBP operationalizes [Mastery Learning](../patterns/competency-based-learning.md)
 - [Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models](external-consulting-ta-for-cbe-adaptation.md)
 - [Shift attendance measurement from seat time to engagement, participation, and student outcomes in distance and hybrid learning](shift-attendance-from-seat-time-to-engagement.md)
 - [Sequence CBPS problems from easy to complex and monitor individual progress](cbps-problem-difficulty-sequencing-strategy.md)
+- [Design gamified activities with progressive sequenced levels through which learners advance at their own pace](progressive-sequenced-levels-own-pace-gamification.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — course mastery tracks gate progression on demonstrated proficiency per skill, with spaced retakes

@@ -57,8 +57,10 @@ The rationale is environmental and affective rather than instructional: physical
 5. Monitor engagement, behavior, and any equity or hygiene issues, and be prepared to zone or reverse the policy.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — informal spaces change sound behavior; noise management is a necessary companion
 - Flexible seating and classroom redesign strategies — shoelessness is usually one element of a broader comfort-oriented environment design
+- [Create a relaxed, worry-free discussion environment with student-chosen topics and rotating team leadership](relaxed-environment-student-chosen-topics-strategy.md)
 
 ## Examples
 - **Heppell's "shoeless learning" work** — Stephen Heppell documented schools across Scandinavia, Iceland, and the UK adopting shoeless policies alongside redesigned, home-like learning spaces, reporting improved calm and engagement (practitioner case studies, not controlled trials).

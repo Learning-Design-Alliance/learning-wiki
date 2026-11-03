@@ -38,6 +38,7 @@ The report specifies an implementable dosage and support package for schools ado
 ## Related Strategies
 
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
+- [Deliver an 8-week music and movement program of twice-weekly 50-minute sessions with tempo-structured phases](eight-week-ras-session-structure-strategy.md)
 
 ## Examples
 -

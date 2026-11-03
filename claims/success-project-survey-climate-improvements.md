@@ -52,3 +52,4 @@ Analysis of CPS My Voice, My School survey measures the program might influence,
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes — related
 - [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](community-schools-implementation-strength-related-to-outcomes.md) — related
+- [After-school basketball program improved student behavior and teacher perceptions of students](after-school-basketball-behavior-improvement.md) — related

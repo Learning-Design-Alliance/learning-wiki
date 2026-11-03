@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (23 for, 21 mixed, 1 against) · 34 studies (16 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 34 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (23 for, 23 mixed, 1 against) · 35 studies (16 causal, 8 review, 4 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 5 of 35 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,8 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 - [Most Omani EFL students report receiving and preferring direct written corrective feedback over indirect](../claims/students-prefer-direct-wcf.md) [+W]
 - [Students overwhelmingly prefer focused written corrective feedback targeting specific errors at a time](../claims/students-prefer-focused-wcf.md) [~W]
 - [Self-correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](../claims/self-correction-improves-efl-pronunciation.md) [+W]
+- [Direct correction produces a large positive effect on learners' accurate use of English articles in delayed post-tests](../claims/direct-correction-large-delayed-effect-english-articles.md) [~W]
+- [Focused feedback targeted at a specified error type has a large beneficial effect on long-term learning, contrary to Truscott's conclusion](../claims/focused-feedback-large-beneficial-long-term-effect.md) [~W]
 
 ## Related Principles
 

@@ -51,3 +51,5 @@ The project questionnaire found that pupils "feel safe when working in groups" a
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
 - [The CLIL group rated the mathematics teaching climate significantly better than the control group.](clil-maths-climate-significantly-better.md) — a broader claim this one bears on
 - [Pupils found CLIL mathematics activities interesting, challenging and enjoyable.](clil-maths-activities-interesting-challenging.md) — related
+- [Observations showed most students worked very well in groups during project-based CLIL](clil-group-work-observation.md) — related
+- [Students responded very positively to project-based CLIL learning](clil-positive-student-perceptions.md) — related

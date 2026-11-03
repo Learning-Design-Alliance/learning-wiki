@@ -50,3 +50,4 @@ Social validity form with 12 closed items and two open-ended questions administe
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [Students expressed positive opinions about the SQ3R intervention, while reporting that summarizing was difficult](student-positive-opinions-sq3r-intervention.md) — related
 - [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — related
+- [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related

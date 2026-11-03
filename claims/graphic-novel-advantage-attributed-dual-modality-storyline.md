@@ -47,3 +47,4 @@ Authors' interpretation (type e) offered in the Results and Discussion section t
 ## Related Claims
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](graphic-novels-improve-vocabulary-learning.md) — related

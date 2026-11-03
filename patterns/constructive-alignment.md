@@ -246,6 +246,10 @@ The article's central design recommendation is that practice should be built int
 - [Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)](../claims/objective-assessment-alignment-theory-advantage.md) [~W]
 - [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](../claims/task-demand-mapping-specificity-ai-use.md) [+W]
 
+## Examples
+
+- [Reduce discrete learning objectives and replace multiple-choice tests with rubric-based assessments in introductory computer courses](../strategies/reduce-objectives-rubric-assessment-strategy.md)
+
 ## Key Sources
 - Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 - Deborah K. Anderson, Michelle Schoenleber, and Stuart Korshavn. (2023). Higher-Order Clicker Questions Engage Students and Prepare Them for Higher-Order Thinking Activities. Journal of Microbiology and Biology Education. https://doi.org/10.1128/jmbe.00151-22

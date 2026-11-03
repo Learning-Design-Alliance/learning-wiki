@@ -49,3 +49,4 @@ Nonparametric Mann-Whitney tests on school-level in-school and out-of-school sus
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — reports the opposite
 - [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related
 - [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
+- [No statistically significant differences were found between HIPPY and comparison children on discipline referrals](hippy-no-significant-discipline-referral-differences.md) — related

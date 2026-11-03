@@ -49,3 +49,4 @@ Quasi-experiment with 48 first-year EFL students split into experimental and con
 - [Lexical chunks instruction significantly improved the speaking fluency of Iranian EFL intermediate learners compared with a control group](lexical-chunks-instruction-improves-efl-speaking-fluency.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related
+- [Text-to-speech website self-study improved oral achievement scores in fluency, pronunciation and total grades among EFL teacher trainees](tts-self-study-improved-pronunciation-scores.md) — related

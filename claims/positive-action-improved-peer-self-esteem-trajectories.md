@@ -49,3 +49,4 @@ Growth-curve analysis of a matched-pair cluster-randomized trial in 14 Chicago s
 - [The Positive Action program increased students' use of adaptive self-esteem formation and maintenance strategies](positive-action-increased-adaptive-self-esteem-processes.md) — related
 - [The Positive Action program showed no significant effects on global, family, appearance, or sports self-esteem](positive-action-no-effect-global-family-appearance-sports-self-esteem.md) — related
 - [In the Chicago trial, Positive Action improved a range of social-emotional, mental health and health-related outcomes](positive-action-improves-social-emotional-health-outcomes.md) — related
+- [Psychosocial interventions for low-income urban youth are more effective when delivered in community-based settings than within schools.](community-based-interventions-more-effective-than-school-based-in-urban-poverty.md) — related

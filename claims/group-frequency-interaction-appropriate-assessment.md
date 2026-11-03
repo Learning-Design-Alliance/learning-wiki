@@ -46,3 +46,4 @@ Two-way MANOVA on the 42-participant quasi-experiment found a significant group 
 
 ## Related Claims
 - [Frequency of internet use significantly affects good teaching, generic skills, and e-learning subscale scores](internet-use-frequency-affects-effective-teaching-subscales.md) — related
+- [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](cbl-improves-perceived-assessment-appropriateness.md) — related

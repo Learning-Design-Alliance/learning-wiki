@@ -52,3 +52,4 @@ Quasi-experimental nonequivalent intact-groups study at the University of Bojnor
 - [Exposure to TV-series video clips did not produce a statistically significant advantage in immediate learning of formulaic sequences](tv-clips-no-significant-fs-learning-difference.md) — related
 - [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related
 - [EFL students who watched YouTube clips during reading activities scored significantly higher on a vocabulary post-test than students not exposed to the videos](youtube-vocabulary-posttest-outperformed.md) — related
+- [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related

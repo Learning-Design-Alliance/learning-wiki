@@ -60,6 +60,7 @@ The review recommends that future research prioritize standardized and validated
 - [Evaluate interactive, simulation-based, spaced and mobile forms of digital education for guideline adoption, reporting skills, behaviour, patient and cost outcomes](strategy-future-digital-education-guidelines-research.md)
 - [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
+- [Use structural equation modeling and standardized assessments to test the SVR with deaf learners](sem-standardized-assessments-svr-deaf-research.md)
 
 ## Examples
 -

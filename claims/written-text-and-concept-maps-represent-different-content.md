@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-03
 sources:
   - id: ifenthaler-2010
     resource: "https://doi.org/10.1080/15391523.2010.10782564"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Written texts and concept maps produced by the same learners on the same topic represent different structure and content, with low similarity across most HIMATT measures. [→ Ifenthaler 2010](#ifenthaler-2010)

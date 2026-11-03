@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: fettahlıoğlu-2018
     resource: "https://doi.org/10.11114/jets.v6i3.2904"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Limitations (computer problems, internet problems, time) accounted for about 31% of coded opinions, and candidates supported eliminating internet connection problems. [→ Fettahlıoğlu 2018](#fettahloglu-2018)
@@ -59,3 +60,5 @@ Descriptive analysis of interview responses; Table 6 lists the limitations theme
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related
 - [Most sampled MA TEFL students had sufficient computer and internet access for online learning](sample-computer-internet-access-sufficient.md) — related
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related
+- [89% of teachers believe digital materials should be visible, open and free on the Internet, and 77.6% believe public administration should create and publish more online materials.](escuela2-digital-materials-open-free.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related

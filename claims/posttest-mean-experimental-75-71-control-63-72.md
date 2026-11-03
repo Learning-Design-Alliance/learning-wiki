@@ -48,3 +48,4 @@ Descriptive comparison of posttest means in the quasi-experiment: the experiment
 - [Both groups improved from pretest to posttest, with most experimental students passing the KKM threshold of 60](pretest-posttest-gains-and-kkm-passing.md) — possibly the same claim (merge candidate)
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](2010-posttest-means-experimental-vs-control.md) — related
 - [The experimental group's RCT mean-score increment exceeded the control group's increment (53.26 to 59.63 versus 54.14 to 55.34)](elbrcs-larger-mean-increment-than-control.md) — related
+- [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](pbl-post-test-means-exceed-control.md) — related

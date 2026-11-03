@@ -47,3 +47,4 @@ ANOVA on pre-test MAT scores across all four groups (N=327) yielded F = 0.678, b
 ## Related Claims
 - [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
 - [Students taught with BOB, PICT or BO-PICT significantly outperform conventionally taught students on a mathematics achievement test](bob-pict-outperform-conventional-math-achievement.md) — related
+- [Pre-test scores showed no significant difference between experimental and control groups, confirming group comparability](pbl-pre-test-groups-comparable.md) — related

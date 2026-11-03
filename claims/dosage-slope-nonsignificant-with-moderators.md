@@ -87,3 +87,4 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [Locomotor skill gains plateau after about 4 weeks of the high-dosage intervention, while object control gains continue between weeks 4 and 8](motor-intervention-dosage-plateau-pattern.md) — related
 - [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related
 - [Each year of City Connects dosage predicts small significant increases in grade 5 math, reading, writing, and effort scores](city-connects-dosage-predicts-grade-5-skill-gains.md) — related
+- [Additional time with comparison materials particularly improved students' conceptual and flexibility knowledge, not procedural knowledge](dosage-improves-conceptual-flexibility-knowledge.md) — a narrower finding that bears on this claim

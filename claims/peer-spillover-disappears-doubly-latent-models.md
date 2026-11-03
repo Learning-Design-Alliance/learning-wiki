@@ -58,3 +58,4 @@ Re-analysis of SIMS80 longitudinal data (13,656 students in the USA, Canada, New
 - [Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level](doubly-latent-multilevel-sem-discipline-effects.md) — related
 - [Class mean mathematics achievement composition effects were smaller and less often statistically significant than in the original Flemish study, underscoring the value of conceptual replications](math-composition-effects-smaller-in-german-replication.md) — related
 - [No significant spillover effects to reading, and no significant effects on personality or school well-being measures](no-spillover-reading-no-wellbeing-effects.md) — related
+- [K1 bilingualism was mostly produced in European universities while K1 age was produced across Korea, New Zealand, Spain, the UK, and the USA](bilingualism-european-age-global-institutions.md) — related

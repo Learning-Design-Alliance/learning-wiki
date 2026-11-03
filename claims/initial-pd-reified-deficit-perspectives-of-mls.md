@@ -50,3 +50,4 @@ Interaction analysis of the Academic Year 1 student work analysis episode, in a 
 - [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](coach-wright-topics-track-asset-deficit-mindsets.md) — related
 - [An immersive storybook taught entirely in French was designed to help teachers recognize multilingual learners' assets](french-storybook-immersive-multilingual-experience.md) — related
 - [Ignoring the emotion strategy neither recognizes nor explores the displayed emotion, closing the discursive space](ignoring-emotion-closes-discursive-space.md) — related
+- [SL placements shift PSTs away from deficit-model thinking about ELLs](sl-shifts-psts-away-from-deficit-thinking.md) — related

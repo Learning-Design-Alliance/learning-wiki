@@ -189,6 +189,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](../strategies/fade-embodied-support-as-schemas-develop.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](../strategies/adaptive-agent-roles-by-prior-knowledge.md)
 - [Use AR as targeted early-training scaffolding with progressive withdrawal as competency develops](../strategies/progressive-withdrawal-ar-guidance.md)
+- [Gradually withdraw teacher authority and provide detailed step-by-step guidelines in cooperative writing](../strategies/gradual-teacher-withdrawal-detailed-guidelines.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

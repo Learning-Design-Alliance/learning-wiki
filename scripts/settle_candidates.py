@@ -611,6 +611,28 @@ def _section_add(text: str, heading: str, lines: list, before: tuple) -> str:
     return text.rstrip("\n") + f"\n\n{heading}\n" + "\n".join(lines) + "\n"
 
 
+_MOVED: "dict | None" = None
+
+
+def moved_to(kind: str, slug: str) -> "str | None":
+    """The page (folder/slug.md) a retired `<kind>/<slug>` now lives on, from wiki-index.json's
+    `moved` map, or None."""
+    global _MOVED
+    if _MOVED is None:
+        try:
+            _MOVED = json.loads((WIKI_ROOT / "wiki-index.json").read_text(encoding="utf-8")).get("moved", {})
+        except (OSError, ValueError):
+            _MOVED = {}
+    new = _MOVED.get(kind, {}).get(slug)
+    if not new or "/" not in new:
+        return None
+    new_kind, new_slug = new.split("/", 1)
+    folder = okf_lib.KIND_TO_FOLDER.get(new_kind) if hasattr(okf_lib, "KIND_TO_FOLDER") else None
+    folder = folder or {"strategy": "strategies", "theory": "theories", "research-method": "research-methods",
+                        "learner-variable": "learner-variables", "process": "processes"}.get(new_kind, new_kind + "s")
+    return f"{folder}/{new_slug}.md"
+
+
 def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
     """Write a `product` or `research-method` decision to its page: the page for that
     name if one exists (name_key), else a new draft page. The candidate is listed as a
@@ -622,6 +644,18 @@ def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
     if not name_key(name):
         return None
     path = find_named_page(folder, name)
+    if path is None:
+        # A slug retired into another page (`moved_from`) is not recreated: j-screric-27 wrote
+        # research-methods/action-research a second time after it had been folded into the
+        # strategy. Write to the page that took it if that page has the section, else nowhere.
+        ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+        moved = moved_to(dec["outcome"], okf_lib.slugify(ascii_name)[:90].strip("-"))
+        if moved:
+            target = WIKI_ROOT / moved
+            section = "## Components" if folder == "products" else "## Accounts"
+            if not (target.exists() and section in target.read_text(encoding="utf-8")):
+                return None
+            path = target
     citation = cand.get("citation") or ""
     claims = []
     for c in cited_claims(cand):
@@ -663,7 +697,7 @@ def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
     if citation:
         text = _section_add(text, "## Key Sources", [f"- {citation}"], ())
     path.write_text(text, encoding="utf-8")
-    return f"{folder}/{path.name}"
+    return path.relative_to(WIKI_ROOT).as_posix()
 
 
 _LINK = re.compile(r"\[([^\]]*)\]\(((?:\.\./[a-z-]+/)?([^)/#\s]+)\.md)(#[^)]*)?\)")

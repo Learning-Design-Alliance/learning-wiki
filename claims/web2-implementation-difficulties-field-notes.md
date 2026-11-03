@@ -48,3 +48,4 @@ Researcher field notes taken throughout the twelve-week treatment recorded three
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
 - [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related
 - [Students in the Facebook-integrated course used the platform heavily for course-related commenting, with females spending more daily time on Facebook than males](facebook-usage-patterns-course-integrated.md) — related
+- [Permanent group membership over a six-week course may cause students to lose motivation, and rotating group members is recommended.](permanent-groups-reduce-motivation-rotation-recommended.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 496 claims (238 for, 231 mixed, 27 against) · 265 studies (131 causal, 52 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 87 of 265 report an effect size · 489 claims rest on one study
+> **Evidence** · 497 claims (239 for, 231 mixed, 27 against) · 266 studies (132 causal, 52 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 88 of 266 report an effect size · 490 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -540,6 +540,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive instruction showed no statistically significant post-test advantage for third graders, whose groups differed at pre-test](../claims/metacognitive-instruction-third-grade-null-result.md) [-W]
 - [Metacognitive strategies show a high effect size of ES = 0.69 on student achievement](../claims/metacognitive-strategies-high-effect-size.md) [+W]
 - [DA makes learners aware of word-guessing strategies of identifying, evaluating, and monitoring.](../claims/da-promotes-vocabulary-strategy-awareness.md) [+W]
+- [At follow-up, prior posttest summarizing was the strongest predictor in both groups, and metacognitive knowledge additionally predicted achievement in the experimental group](../claims/mkr-predicts-followup-eg-only.md) [+W]
 
 ## The evidence by question
 

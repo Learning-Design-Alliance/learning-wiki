@@ -78,3 +78,5 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Instruction with visual materials rectified more global warming misconceptions than traditional instruction (about 40% versus about 12% success)](visual-materials-rectify-global-warming-misconceptions.md) — related
 - [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related
+- [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — related
+- [There was no difference between groups in the change in deep learning approach across time](no-difference-deep-approach-change-cbl.md) — related

@@ -65,3 +65,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Data-driven clustering of struggling learners identifies behavioral subgroups distinguished by structural brain connectivity](clustering-subgroups-struggling-learners.md) — related
 - [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related
+- [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (69 show a difference, 35 mixed, 17 no difference) · 51 studies (18 causal, 18 associational, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 51 report an effect size · 119 claims rest on one study
+> **Evidence** · 122 claims (70 show a difference, 35 mixed, 17 no difference) · 52 studies (19 causal, 18 associational, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 52 report an effect size · 120 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -156,6 +156,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](../claims/ssc-motivation-changes-test-anxiety-self-efficacy.md) [+M] — instruction changes it
 - [A three-way interaction of the goal difficulty intervention, mastery-approach goals, and prior GPA on interest-based studying benefited low-mastery, low-achieving students, contrary to hypotheses](../claims/gd-three-way-interaction-low-mastery.md) [~W] — an instructional effect differs with it
 - [The interest-based studying intervention significantly reduced students' mastery-approach goals from pre-test to post-test](../claims/ibs-intervention-reduced-mastery-goals.md) [+W] — instruction changes it
+- [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](../claims/intervention-increases-complex-task-intention-and-learning-goals.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

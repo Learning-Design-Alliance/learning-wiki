@@ -70,3 +70,4 @@ Paired-sample t-test comparing pre-test and post-test within each group; experim
 - [A teacher-led sourcing intervention increased upper secondary students' use of source features in search queries during online inquiry](sourcing-intervention-improves-search-queries.md) — related
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related

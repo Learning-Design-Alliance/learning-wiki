@@ -70,3 +70,5 @@ Same ratings analysis comparing the 10 fully-supported Direct Instruction school
 - SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
 - [Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year](dlp-principal-leadership-confidence-growth.md) — related
+- [A 10-minute-per-lesson Direct Instruction music literacy program significantly improves Year 7 students' music literacy over one trimester](di-music-literacy-significant-improvement-year7.md) — related
+- [Direct Instruction music literacy program significantly improves Year 7 students' tonal literacy](di-tonal-literacy-significant-improvement.md) — related

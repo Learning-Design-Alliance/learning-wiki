@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 112 claims (60 for, 42 mixed, 10 against) · 112 studies (33 review, 27 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 112 report an effect size · 107 claims rest on one study
+> **Evidence** · 114 claims (62 for, 42 mixed, 10 against) · 114 studies (33 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 9 of 114 report an effect size · 109 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](../claims/differentiated-math-program-increases-gifted-attitude.md) [+W] — attached 2026-11-02 from Deringöl et al. (2020), which proposed "Theme-based interdisciplinary differentiation pattern combining content, process and product differentiation with interest-driven activities"; tests this page's relationship.
 - [Learners did not gain more vocabulary from favored-context (sport) passages than from disfavored-context (geography) passages; the favored-context hypothesis was rejected](../claims/favored-context-hypothesis-rejected-sport-vs-geography.md) [~W] — attached 2026-11-02 from Omid Rezaei (2011), which proposed "Identify learners' needs, preferences and interest areas before designing reading materials for vocabulary learning"; tests this page's relationship.
 - [Tiered differentiated teaching in sixth-grade algebra raises corrected posttest achievement more than existing teaching](../claims/tiered-differentiated-teaching-algebra-posttest-advantage.md) [+W] — attached 2026-11-02 from Bal (2016), which proposed "Tiered teaching by learning style and readiness level"; tests this page's relationship.
+- [Tutors described ongoing progress monitoring, guided practice, and multiple explanations and representations as core practices in synchronous online mathematics tutoring sessions](../claims/tutor-practices-progress-monitoring-guided-practice.md) [+W] — attached 2026-11-03 from Chappell et al. (2015), which proposed "Embed systematic progress monitoring and individualized learning plans in online tutoring programs serving struggling mathematics students".
 
 ## Objective and learner-valued goal
 
@@ -222,6 +223,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
 - [Teacher-participants differed considerably in their preferred lesson structure, with one teacher conceptualising structure as best fit for a given student rather than best practice](../claims/teacher-preferences-differ-lesson-structure.md) [+W]
 - [Learning-styles-based adaptive tutoring did not increase academic achievement relative to conventional computer-based tutoring in EFL](../claims/learning-styles-tutoring-no-achievement-gain-efl.md) [-W]
+- [Over a third of learning-outcome studies show a mismatch between task difficulty and learner proficiency](../claims/over-third-studies-task-proficiency-mismatch.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

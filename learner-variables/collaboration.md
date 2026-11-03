@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (100 show a difference, 18 mixed, 8 no difference) · 105 studies (37 causal, 25 review, 13 qualitative, 11 quant-synthesis, 9 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 105 report an effect size · 126 claims rest on one study
+> **Evidence** · 127 claims (101 show a difference, 18 mixed, 8 no difference) · 106 studies (38 causal, 25 review, 13 qualitative, 11 quant-synthesis, 9 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 106 report an effect size · 127 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -168,6 +168,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Group form of orthoepic practicum work is reported as better than frontal form for trainees' individual recording and collective activity](../claims/group-practicum-better-than-frontal-for-speech-training.md) [+W] — instruction changes it
 - [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](../claims/cooperative-group-work-develops-social-skills-preschoolers.md) [+M] — instruction changes it
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](../claims/synectics-improves-teamwork-skills-retained.md) [+M] — instruction changes it
+- [Observations showed most students worked very well in groups during project-based CLIL](../claims/clil-group-work-observation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

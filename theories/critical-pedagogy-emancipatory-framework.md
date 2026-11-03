@@ -43,7 +43,8 @@ The article presents critical pedagogy, developed from Freire, Gramsci, Apple, G
 - [Giroux's critical pedagogy is a program of rhetorical education in which pedagogy is a form of cultural production](critical-pedagogy-as-rhetorical-education.md)
 
 ## Examples
--
+
+- [Action research](../strategies/action-research.md)
 
 ## Key Sources
 - Mahmoodarabi, M., & Khodabakhsh, M. R. (2015). Critical Pedagogy: EFL Teachers' Views, Experience and Academic Degrees. English Language Teaching, 8(6). https://doi.org/10.5539/elt.v8n6p100

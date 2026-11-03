@@ -52,3 +52,4 @@ Quasi-experimental non-equivalent control group study with 33 experimental and 3
 - [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — reports the opposite
 - [CLIL groups started with higher marks before CLIL introduction, making the later convergence likely coincidental](clil-group-higher-baseline-marks.md) — related
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
+- [Project-based CLIL significantly improved written English competence of mathematics students over one semester](project-based-clil-improves-written-english-competence.md) — related

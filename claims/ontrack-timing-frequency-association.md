@@ -50,3 +50,4 @@ Chi-square test of independence across 56 school-based sites comparing timing of
 - Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming — related
 - [Among students who started the year most at risk for reading difficulties, none of the three implementation features (timing, frequency, tutor qualifications) was associated with end-of-year literacy progress](ontrack-no-implementation-feature-progress-association.md) — related
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
+- [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](low-implementation-fidelity-comparison-materials.md) — related

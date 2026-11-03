@@ -64,6 +64,7 @@ Praise works as a reinforcer only when learners perceive it as informative and s
 - [Check-in](../elements/check-in.md) — a low-stakes structure for delivering contingent, private reinforcement during work
 - [Achievable micro-goals](achievable_micro-goals.md) — creates the frequent, attainable success moments that make contingent reinforcement possible
 - [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
+- [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 
 ## Examples
 - **ClassDojo (https://www.classdojo.com)** — a points-based reinforcement system for classroom behaviors; effective when points are tied to specific, explained behaviors and faded over time, counterproductive when used as public standing comparison.

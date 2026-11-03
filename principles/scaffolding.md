@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 93 claims (28 for, 54 mixed, 11 against) · 67 studies (34 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 20 of 67 report an effect size · 86 claims rest on one study
+> **Evidence** · 94 claims (29 for, 54 mixed, 11 against) · 68 studies (35 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 21 of 68 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](../claims/structuring-supports-argumentation-decision-making-stage.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
 - [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — attached 2026-11-01 from Sutiarso et al. (2018), which proposed "Teachers should prepare a variety of media scaffolding, attending to students' ability level and gender"; tests this page's relationship.
 - [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Use extended teacher guidance rather than minimal guidance to lead middle level students in high-level cognitive tasks in large-class settings"; tests this page's relationship.
+- [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](../claims/direct-scaffolding-outperforms-indirect-inquiry.md) [+W] — attached 2026-11-03 from Wu et al. (2016), which proposed "Provide direct instructional scaffolding in web-based scientific inquiry to support hypothesis generation and conclusion drawing".
 
 ## Objective and learner-valued goal
 

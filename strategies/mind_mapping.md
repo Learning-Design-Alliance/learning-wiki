@@ -67,6 +67,7 @@ Mind mapping's learning benefit comes primarily from the *generative processing*
 - [Teachers present and summarize chemistry topics with concept maps and teach students to construct their own maps](teach-students-to-construct-concept-maps.md)
 - [Teach whole-text translation by having students build concept maps instead of word-by-word translation](concept-map-whole-text-translation-strategy.md)
 - [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
+- [Concept mapping instruction for reading comprehension](concept-mapping-reading-comprehension-instruction.md)
 
 ## Examples
 - **[MindMeister](https://www.mindmeister.com)** — collaborative web-based mind mapping with real-time co-editing and export to text outlines; used for team planning and lecture note structuring.

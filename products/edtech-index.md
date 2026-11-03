@@ -31,7 +31,8 @@ Digital Promise's EdTech Index is a searchable directory of educational technolo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Searchable database of mathematics educational technology studies 1968-2010](searchable-database-of-mathematics-educational-technology-studies-1968-2010.md)
 
 ## Key Sources
 - Digital Promise. (2026). EdTech Quality Indicators Guide: Leveraging the Five EdTech Quality Indicators to save time and money, reduce risk, and improve student outcomes. https://digitalpromise.dspacedirect.org/items/f1e0fd08-9047-42e7-9a2d-190ccb4d10dd

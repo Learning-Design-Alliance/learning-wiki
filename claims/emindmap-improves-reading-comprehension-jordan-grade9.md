@@ -70,3 +70,4 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Explicit instruction of metacognitive reading strategies produced significantly higher post-test reading comprehension scores than traditional instruction among low-proficiency Jordanian EFL university students](metacognitive-strategy-instruction-raises-efl-reading-posttest.md) — related
 - [Sharing mind map mobile learning with digital archive information improves sixth graders' learning performance compared with traditional learning](smm-mobile-learning-improves-achievement.md) — related
 - [CMMCALL program improved low-achievers' academic performance in grammar and reading comprehension](cmmcall-improved-low-achievers-performance.md) — related
+- [Concept mapping and paraphrasing instruction produced no significant difference in EFL learners' reading comprehension post-test scores](concept-mapping-paraphrasing-no-significant-difference.md) — related

@@ -39,7 +39,8 @@ The investigators developed and standardized a Computer Assisted Instruction pac
 - [Cai Gain Exceeds Cim Voice Grammar](../claims/cai-gain-exceeds-cim-voice-grammar.md) [+M]
 
 ## Related Designs
-- 
+
+- [Flash-based instructional software program for teaching English grammar items](flash-instructional-software-english-grammar.md)
 
 ## Examples
 -

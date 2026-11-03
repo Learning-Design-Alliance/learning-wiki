@@ -71,6 +71,7 @@ Process praise works because it makes the *causal attribution* for success or fa
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
 - [Phrase praise modestly and focus on strategies rather than effort to prevent ability-denigrating inferences](modest-strategy-focused-praise-older-children.md)
+- [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the delivery mechanism for process praise

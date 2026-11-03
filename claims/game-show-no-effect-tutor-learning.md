@@ -50,3 +50,4 @@ ANCOVA on post-test procedural scores with pre-test as covariate in the randomiz
 - [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses](prior-knowledge-does-not-predict-kbr.md) — related
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related
+- [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related

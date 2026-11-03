@@ -48,3 +48,4 @@ Between-subject MANOVA on 12 participants randomly assigned to three groups of f
 - [Playing TBG in moderation (once weekly) yields better resilience improvement than playing more frequently (twice weekly)](tbg-moderate-frequency-better-resilience.md) — possibly the same claim (merge candidate)
 - [Frequency of playing TBG did not significantly affect self-esteem improvement over three weeks](tbg-no-significant-self-esteem-effect.md) — related
 - [Control group resilience decreased over the three-week period, suggesting TBG protects against resilience decline](tbg-protects-against-resilience-decline.md) — related
+- [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](low-implementation-fidelity-comparison-materials.md) — related

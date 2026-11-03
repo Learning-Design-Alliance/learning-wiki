@@ -19,7 +19,7 @@ sources:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (34 for, 5 mixed, 1 against) · 29 studies (8 review, 6 associational, 5 theoretical, 4 quant-synthesis, 3 causal, 3 qualitative), `q1`–`q3` · 3 of 29 report an effect size · 38 claims rest on one study
+> **Evidence** · 41 claims (35 for, 5 mixed, 1 against) · 30 studies (9 review, 6 associational, 5 theoretical, 4 quant-synthesis, 3 causal, 3 qualitative), `q1`–`q3` · 3 of 30 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 - [Review-reported study: translanguaging and effective integration of L1 suggested as effective core practices for teaching English in Chile](../claims/review-reported-translanguaging-l1-core-practice.md) [+W]
 - [In the ToTAL trial, instruction in the mother tongue of Haitian Creole was associated with gains in French on skills that were not explicitly taught.](../claims/haitian-creole-instruction-french-gains.md) [+W]
 - [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](../claims/mother-tongue-fundamental-years-detrimental-impact.md) [+W]
+- [Linguistically relevant teaching, including L1 as a springboard for L2 acquisition, is necessary for ELL success](../claims/linguistically-relevant-teaching-l1-springboard.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

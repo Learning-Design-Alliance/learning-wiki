@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (34 for, 34 mixed, 1 against) · 52 studies (19 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 52 report an effect size · 64 claims rest on one study
+> **Evidence** · 72 claims (37 for, 34 mixed, 1 against) · 53 studies (20 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 53 report an effect size · 67 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Within the experimental group, environmental attitudes improved significantly from pre-test to post-test after case-study instruction](../claims/experimental-group-pre-post-attitude-gain.md) [~W] — attached 2026-11-02 from Hamza AKENGİN (2012), which proposed "Use the case-study method in social studies to develop positive environmental attitudes and raise knowledge, values and skills".
 - [Case-based learning groups achieved significantly higher post-test acquisition scores than control groups in an Introduction to Educational Science course](../claims/cbl-higher-posttest-than-control-teacher-education.md) [+W] — attached 2026-11-02 from Dilek İlhan-Beyaztaş (2018), which proposed "Case-based curriculum implemented in two sequences: presentation-then-cases (CBL1) and cases-then-presentation (CBL2)"; tests this page's relationship.
 - [CBL1 and CBL2 implementations did not differ significantly from each other in post-test acquisition scores](../claims/cbl1-cbl2-no-significant-difference.md) [~W] — attached 2026-11-02 from Dilek İlhan-Beyaztaş (2018), which proposed "Case-based curriculum implemented in two sequences: presentation-then-cases (CBL1) and cases-then-presentation (CBL2)".
+- [The CBL group performed significantly better on the final exam than the non-CBL group](../claims/cbl-improves-final-exam-performance-biochemistry.md) [+W] — attached 2026-11-03 from Kulak et al. (2015), which proposed "Use directed CBL as a low-resource active learning technique suitable for content-heavy courses"; tests this page's relationship.
+- [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](../claims/cbl-prevents-surface-approach-increase-biochemistry.md) [+W] — attached 2026-11-03 from Kulak et al. (2015), which proposed "Use directed CBL as a low-resource active learning technique suitable for content-heavy courses"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -183,6 +185,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [A case-based workshop without an experiential patient-care component increased medical students' reported independence in conducting medication reconciliation](../claims/workshop-independence-medication-reconciliation-students.md) [~W]
 - [Video cases increase the number of design patterns from the pattern language 'Teaching' that pre-service teachers mention in written advice.](../claims/video-cases-increase-pattern-language-teaching.md) [+W]
 - [Video cases stimulate more development of the design pattern 'Dealing with disorder' than a course without video cases.](../claims/video-cases-increase-design-pattern-dealing-with-disorder.md) [+W]
+- [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](../claims/cbl-improves-perceived-assessment-appropriateness.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

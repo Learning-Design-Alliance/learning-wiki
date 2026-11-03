@@ -51,3 +51,5 @@ Null result from the prespecified ordinal regression models (n=79); the article 
 - Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
 - [Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations](proactive-agent-dialogues-integrated-epistemic-reasoning.md) — related
 - [Socratic GenAI dialogue leaves faith and trust in technology largely unchanged](socratic-genai-no-change-trust-in-technology.md) — related
+- [The regression slopes for the Education Management Model and control conditions were not parallel, with a significant interaction between trial conditions and pre-test scores.](emm-slope-interaction-significant.md) — related
+- [The regression slopes for the lesson study and control conditions were not parallel, with a significant interaction between trial conditions and pre-test scores.](lesson-study-slope-interaction-significant.md) — related

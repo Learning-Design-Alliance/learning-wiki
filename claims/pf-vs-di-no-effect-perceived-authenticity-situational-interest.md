@@ -51,3 +51,4 @@ Quasi-experimental study of 152 10th graders (PF n=80, DI n=72, whole classes as
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — related
 - [Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)](individual-interest-correlates-situational-interest-osl.md) — related
 - [High school students perceived interest-driven data exploration activities in a data science curriculum as personally authentic, though not uniformly](interest-driven-datasets-perceived-personally-authentic.md) — related
+- [Students in the mixed condition expressed higher situational interest than those working individually only](mixed-condition-higher-situational-interest-than-individual-only.md) — related

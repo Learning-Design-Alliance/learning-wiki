@@ -53,3 +53,4 @@ Case-study finding from written reflections, subsequent lesson plans and researc
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — a broader claim this one bears on
 - [Student journal reflections surfaced comprehension difficulties that the teacher then addressed in instruction](journal-reflections-reveal-comprehension-difficulties.md) — related
+- [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](interviews-attribute-gains-to-relaxed-small-group-format.md) — related

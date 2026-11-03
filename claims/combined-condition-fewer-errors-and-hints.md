@@ -55,3 +55,4 @@ Process-data analysis of hints and errors over time in the fractions ITS study; 
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related
 - [Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity](uncontrolled-hint-use-reduces-learning.md) — related
 - [Hints in multiple-try feedback reduce the likelihood of making errors during the learning phase](hints-in-multiple-try-feedback-reduce-learning-phase-errors.md) — related
+- [Students in the mixed condition had higher learning gains than those in the collaborative-only or individual-only conditions](mixed-condition-higher-learning-gains-than-either-alone.md) — related

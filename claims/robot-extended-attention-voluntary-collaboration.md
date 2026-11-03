@@ -74,3 +74,4 @@ An unexpected pattern in Study One: although activities were designed for one ch
 - [The robot's bodily movement triggered children to reposition themselves, producing a fluid, mobile learning space](robot-fluid-learning-space.md) — related
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](videogame-peer-collaboration-attention.md) — related
 - [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](robotics-social-skills-interpretation.md) — related
+- [Playfulness can be induced through a variety of contextual play cues without requiring engagement](playfulness-induced-through-variety-of-play-cues.md) — related

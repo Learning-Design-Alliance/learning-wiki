@@ -46,7 +46,8 @@ Cloud technology is a core component of the model, serving a dual role in the in
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 
 ## Examples
--
+
+- [Use mobile devices and cloud-based technologies to support extensive task-based activities in real-world contexts](../strategies/mobile-cloud-task-based-real-world-activities.md)
 
 ## Key Sources
 - Jirasatjanukul, K., Pakprod, N., Dokkulab, P., Changkwanyeun, A., Jantakoon, T., & Laoha, R. (2023). Creation of Educational Innovations through Cloud-based Constructivism and Connectivism Learning for Undergraduates. Higher Education Studies, 13(4). https://doi.org/10.5539/hes.v13n4p119

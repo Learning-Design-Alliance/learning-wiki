@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (25 for, 19 mixed, 5 against) · 57 studies (26 causal, 12 quant-synthesis, 10 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 57 report an effect size · 40 claims rest on one study
+> **Evidence** · 50 claims (26 for, 19 mixed, 5 against) · 58 studies (27 causal, 12 quant-synthesis, 10 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 58 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](../claims/strategy-instruction-improves-grade11-esl-reading-comprehension.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Teach reading strategies through explicit instruction rather than leaving learners to acquire them implicitly"; tests this page's relationship.
 - [Explicit instruction outperforms implicit instruction in boosting Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-outperforms-implicit-refusal-instruction.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
 - [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-refusal-instruction-improves-pragmatic-performance.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
+- [Explicit instruction of English consonant clusters outperformed implicit instruction for Iranian intermediate EFL learners on a read-aloud post-test](../claims/explicit-beats-implicit-consonant-cluster-instruction.md) [+W] — attached 2026-11-03 from Ruhollah Khanbeiki; Seyed Jalal Abdolmanafi-Rokni (2015), which proposed "Direct learners' attention explicitly to pronunciation features through rule explanation, examples, and cross-language comparison"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

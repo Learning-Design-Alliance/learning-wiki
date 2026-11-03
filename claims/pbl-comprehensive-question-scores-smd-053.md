@@ -55,3 +55,4 @@ Random-effects pooling of the 3 included studies that reported comprehensive que
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — related
 - [PBL and LBL show no significant difference in comprehensive scores in surgical education](pbl-lbl-no-difference-comprehensive-scores-surgery.md) — reports the opposite
+- [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related

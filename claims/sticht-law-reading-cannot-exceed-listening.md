@@ -55,3 +55,4 @@ The article reports, citing Sticht's work with native language learners in readi
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related
+- [81% of AL2 studies focus on written language, with only 16% targeting aural-oral skills](eighty-one-percent-written-language-focus.md) — related

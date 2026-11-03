@@ -48,3 +48,4 @@ Expert judgment stage: Teguh Suharto summarised questionnaire and interview resu
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning](agency-student-perceived-fun-element-primary.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
+- [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related

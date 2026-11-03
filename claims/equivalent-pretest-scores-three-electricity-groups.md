@@ -92,3 +92,4 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
 - [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related
 - [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related
+- [Pre-test scores showed no significant difference between experimental and control groups, confirming group comparability](pbl-pre-test-groups-comparable.md) — related

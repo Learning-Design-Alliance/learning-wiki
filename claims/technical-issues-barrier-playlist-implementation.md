@@ -94,3 +94,6 @@ Observational and interview study of four after-school sites; educators reported
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related
 - [Students' critical remarks identified pedagogical shortcomings and technological challenges, and the authors suggest implementation problems may explain the limited quantitative differences](implementation-problems-explain-limited-interest-differences.md) — related
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related
+- [Technology in digital tutoring was reliable and accessible but rarely used for higher-order thinking](digital-tutoring-reliable-but-low-higher-order-use.md) — related
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related

@@ -54,3 +54,4 @@ Multiple regression analysis (Table 3) with the different intensity thresholds o
 - [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](mvpa-correlates-creativity-dimensions.md) — related
 - [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
+- [C-K theory teaching, creative role identity, and creative self-efficacy together explain 56.076% of variance in creativity scores](ck-theory-multilevel-variance-creativity.md) — related

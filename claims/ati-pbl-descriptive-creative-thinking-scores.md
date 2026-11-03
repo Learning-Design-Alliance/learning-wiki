@@ -55,3 +55,4 @@ Descriptive analysis of posttest scores in Table 1 from the two experimental cla
 - [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — related
 - [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](expertise-reversal-fits-ati-patterns.md) — a broader claim this one bears on
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — a broader claim this one bears on
+- [Students' mathematical creative thinking ability is lowest on complex tasks requiring idea extension and linking facts to mathematical models](creative-thinking-lowest-on-complex-tasks.md) — related

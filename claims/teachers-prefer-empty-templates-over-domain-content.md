@@ -48,3 +48,4 @@ Analysis of 2414 implemented ILSs created during the reference period July 2015 
 - [Most created ILSs are not implemented in classrooms, with implementation increasing over time](ils-implementation-gap-narrowing-over-time.md) — related
 - [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) — reports the opposite
 - [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](ils-reuse-appropriation-proxy-higher-adoption.md) — reports the opposite
+- [89% of teachers believe digital materials should be visible, open and free on the Internet, and 77.6% believe public administration should create and publish more online materials.](escuela2-digital-materials-open-free.md) — related

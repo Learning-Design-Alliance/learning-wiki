@@ -55,3 +55,4 @@ Analysis of 4 years of CTC program completer survey data (6,812 completers, Sept
 - [Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement](induction-impacts-knowledge-resilience-advancement.md) — related
 - [Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching](direct-instruction-gains-depend-on-implementation-support.md) — related
 - [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](perry-beeches-coaching-delivery-variation-across-schools.md) — related
+- [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](low-implementation-fidelity-comparison-materials.md) — related

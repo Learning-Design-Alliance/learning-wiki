@@ -60,6 +60,7 @@ The article describes a support model in which interventionists attended two fiv
 - [Train teachers in direct instruction and in differentiated and scaffolded instruction for tiered RTI interventions](direct-instruction-and-scaffolded-instruction-rti-training.md)
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
 - [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
+- [Integrate CT activities into weekly mathematics lessons with teacher workshops and reflective cycles](ct-math-integration-workshop-reflection-strategy.md)
 
 ## Examples
 -

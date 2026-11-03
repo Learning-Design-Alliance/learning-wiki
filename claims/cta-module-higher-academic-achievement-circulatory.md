@@ -53,3 +53,5 @@ Quasi-experimental pre-test/post-test non-equivalent control group study at SMP 
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — a broader claim this one bears on
 - [A critical thinking module produced significantly higher post-test achievement in health education than control among Malaysian nursing students](critical-thinking-module-improves-nursing-health-education-achievement.md) — related
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](blended-teaching-higher-academic-achievement-medical-students.md) — related
+- [Teaching method had no impact on learning outcomes for the organs of the circulatory system](no-method-effect-circulatory-organs-es3.md) — reports the opposite
+- [Tablets with an AR application within a modified 5E model yielded better learning outcomes than conventional teaching for the human respiratory and circulatory systems](tablets-ar-5e-outperform-conventional-teaching-body-systems.md) — related

@@ -52,3 +52,4 @@ Hierarchical regression models entering SES, home literacy environment, family s
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
 - [Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself](family-risk-dyslexia-poorer-arithmetic-foundations.md) — related
 - [A single reading behaviour with a common proximal cause may have multiple different distal causes](multiple-distal-causes-one-reading-behaviour.md) — related
+- [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — related

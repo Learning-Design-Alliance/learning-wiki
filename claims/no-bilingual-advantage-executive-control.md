@@ -51,3 +51,4 @@ Experiment 2 measured inhibitory control (Number Stroop), set shifting (Plus-Min
 - [The bilingual advantage on hard Symbol Math items replicated in Experiment 2 with executive control and SES measures](bilingual-advantage-hard-symbol-math-exp2.md) — related
 - [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — reports the opposite
 - [Bilingual and monolingual 8-year-olds do not differ in response suppression costs](no-bilingual-advantage-response-suppression-children.md) — related
+- [Bilingual children show advantages on EF measures compared to monolingual peers](bilingual-advantage-ef-preschoolers.md) — reports the opposite

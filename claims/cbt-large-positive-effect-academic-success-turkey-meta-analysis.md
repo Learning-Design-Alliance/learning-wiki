@@ -60,3 +60,4 @@ Meta-analysis of 78 studies (experimental group 2,648 students, control group 2,
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
 - [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](reviewed-studies-favor-computer-assisted-math-teaching.md) — related
 - [Brain-based learning has a large positive effect on academic achievement in science education in Turkey (ES = 1.382)](bbl-large-positive-effect-achievement-turkey.md) — related
+- [IBL is a new and weak research area in Turkey, with interest increasing only since 2006](ibl-new-weak-research-area-turkey.md) — related

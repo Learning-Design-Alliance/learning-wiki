@@ -48,3 +48,5 @@ FS/S ratio (formulaic syllables over total syllables) was coded by the two autho
 - [FS treatment group significantly increased mean length of run while the control group decreased (between-group d = 1.4)](fs-instruction-increases-mean-length-of-run.md) — related
 - [Explicitly taught FS treatment group significantly increased speech rate over 5 weeks while the control group did not (d = 1.3)](fs-instruction-increases-speech-rate.md) — related
 - [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — related
+- [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related
+- [Explicit FS instruction increased learners' spontaneous use of taught FSs in writing, with 60% of taught FSs appearing in participants' writing.](explicit-fs-instruction-increases-spontaneous-fs-use.md) — related

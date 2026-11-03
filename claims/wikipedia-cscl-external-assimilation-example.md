@@ -51,3 +51,4 @@ Qualitative analysis of the Wikipedia article "Computer-supported collaborative 
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
 - Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — a broader claim this one bears on
 - [The highest page revision and discussion levels were observed in a small wiki reserved to a closed community, suggesting strong user commitment can overcome volunteering limitations](closed-community-high-revision-levels.md) — related
+- [Experimental group students showed a higher degree of assimilation of history teaching methods after the implementation stage](experimental-group-higher-assimilation-teaching-methods.md) — related

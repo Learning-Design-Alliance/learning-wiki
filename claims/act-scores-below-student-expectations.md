@@ -54,3 +54,4 @@ Qualitative longitudinal interviews with 105 CPS juniors conducted before and af
 - [Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains](below-20-students-treading-water.md) — related
 - [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
+- [Most first-year students expect a lower degree grade than they hope for, and few cite ability as key to success](student-grade-expectations-and-success-attributions.md) — related

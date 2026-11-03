@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 169 claims (89 for, 69 mixed, 11 against) · 145 studies (70 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 18 of 145 report an effect size · 168 claims rest on one study
+> **Evidence** · 173 claims (91 for, 69 mixed, 13 against) · 148 studies (71 causal, 24 review, 15 quant-synthesis, 15 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 18 of 148 report an effect size · 172 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -204,6 +204,10 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Students in the cloud-platform group reported significantly positive learning satisfaction across all measured domains](../claims/cloud-platform-learning-satisfaction-domains.md) [~W]
 - [Comprehension scores do not differ significantly between iPad and paper](../claims/comprehension-no-difference-ipad-paper.md) [~W]
 - [Literal-level comprehension is lower on iPad, especially for university students](../claims/literal-comprehension-lower-ipad.md) [-W]
+- [Text-to-speech website self-study improved oral achievement scores in fluency, pronunciation and total grades among EFL teacher trainees](../claims/tts-self-study-improved-pronunciation-scores.md) [+W] — attached 2026-11-03 from Gonca Yangın Ekşi et al. (2016), which proposed "Online text-to-speech websites (imtranslator, ivona, naturalreader) as self-study pronunciation tools"; tests this page's relationship.
+- [Trainees found text-to-speech websites user-friendly and useful and expressed intent to use them again](../claims/tts-reflections-user-friendly-useful.md) [+W] — attached 2026-11-03 from Gonca Yangın Ekşi et al. (2016), which proposed "Online text-to-speech websites (imtranslator, ivona, naturalreader) as self-study pronunciation tools".
+- [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](../claims/escuela2-students-deficiencies-higher-order.md) [-W]
+- [English-language learners and students with disabilities were less likely to receive synchronous (live) digital tutoring](../claims/ell-disabilities-less-synchronous-tutoring.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

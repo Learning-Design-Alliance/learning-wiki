@@ -80,3 +80,4 @@ Exploratory two-level repeated-measures model of PPS data across pretest, postte
 - [SBI significantly improves seventh-grade students' general mathematical problem solving (GMADE) relative to business-as-usual instruction, contrary to prior SBI studies](sbi-improves-gmade-general-problem-solving.md) — related
 - [SBI significantly improves seventh-grade students' proportional problem solving at immediate posttest and at 11-week delayed posttest relative to business-as-usual instruction](sbi-improves-pps-post-and-delayed-full-sample.md) — related
 - [SBI students with mathematics difficulties improve at a faster rate over time on proportional problem solving than control students with MD](sbi-md-faster-growth.md) — a narrower finding that bears on this claim
+- [Cohort (teacher experience with SBI) was not a significant predictor of proportional problem-solving posttest or delayed posttest scores](sbi-cohort-no-pps-effect.md) — related

@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (40 for, 48 mixed, 7 against) · 104 studies (27 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 104 report an effect size · 84 claims rest on one study
+> **Evidence** · 96 claims (41 for, 48 mixed, 7 against) · 105 studies (27 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 105 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](../claims/ipad-social-studies-educational-software-element.md) [~W]
 - [The mere presence of computers in schools is insufficient to improve mathematics grades without adequate utilisation](../claims/computer-presence-insufficient-without-utilisation.md) [~W]
 - [Textbook-based learning with teacher-assisted consolidation (TAL) produced significantly higher immediate post-test knowledge scores than computer-aided learning with teacher-assisted consolidation (CALT).](../claims/tal-higher-immediate-post-test-than-calt.md) [-W]
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](../claims/escuela2-material-resources-insufficient.md) [+W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

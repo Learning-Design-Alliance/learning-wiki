@@ -54,3 +54,4 @@ One-way ANOVA on post-test SADQ attitude scores of all 300 students in the four 
 - [Students taught graph functions with Geometer's Sketchpad showed significantly more positive attitude at post-test than the control group](gsp-attitude-post-test-significant.md) — related
 - [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](structured-inquiry-favourable-student-attitudes-perceptions.md) — related
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
+- [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — related

@@ -66,3 +66,4 @@ Open questions include how much structure (sentence starters, rubrics) is optima
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
 - [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
+- [Learning a new writing style plays a significant role in learning a new research paradigm, as students struggle to include themselves and be true to participants](qualitative-research-writing-style-significant-role.md) — a narrower finding that bears on this claim

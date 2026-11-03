@@ -54,3 +54,4 @@ Open-ended Jigsaw Opinion Scale given only to the 32-student jigsaw group at the
 - [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [EFL students who used peer review report high acceptance of collaborative work, with 80% preferring group work and enjoying the process](peer-review-collaborative-work-perception-efl.md) — related
+- [Students' positive attitudes toward jigsaw learning depend on the teacher being good, with no difference in teacher skills rated between conditions.](positive-attitudes-contingent-on-good-teaching.md) — related

@@ -184,6 +184,7 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 ## Examples
 
 - [Digalo](../products/digalo.md)
+- [Assign students to two-person study groups with twice their share of pages to extract and cross-check conceptual indexes.](../strategies/two-person-groups-double-page-assignment.md)
 
 ### Illustrative
 

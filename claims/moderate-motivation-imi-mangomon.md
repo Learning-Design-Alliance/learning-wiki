@@ -56,3 +56,4 @@ Descriptive analysis of a 22-item IMI questionnaire completed by the 21 particip
 - [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related
 - [Both groups ranked the motivational contributions of the studied factors as interestingness below challenge below interactivity](motivational-factor-ordering-interestingness-challenge-interactivity.md) — related
 - Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale — related
+- [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related

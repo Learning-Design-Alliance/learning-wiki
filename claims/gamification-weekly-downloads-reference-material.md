@@ -47,3 +47,4 @@ Analysis of weekly download logs of lecture notes and further-reading files uplo
 ## Related Claims
 - [The gamified class attended more sessions and arrived late less often than the control class (78% vs 65% average attendance)](gamification-higher-attendance-programming-course.md) — related
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
+- [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](low-implementation-fidelity-comparison-materials.md) — related

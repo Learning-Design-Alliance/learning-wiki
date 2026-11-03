@@ -51,3 +51,4 @@ Descriptive results from the post-test of the same 20-respondent single-group st
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
 - [Both groups improved their speaking scores from pre-test to post-test, but the Small Group Activity group's mean gain (25.35) was larger than the Individual Activity group's (11.64)](both-groups-improved-speaking-video-clips.md) — related
 - [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — possibly the same claim (merge candidate)
+- [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related

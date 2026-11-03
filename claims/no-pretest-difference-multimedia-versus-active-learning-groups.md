@@ -50,3 +50,4 @@ Pre-test comparison in the randomized pre-test post-test experiment: control mea
 - [The control group's pre-test to post-test difference in Mathematics achievement was not statistically significant](control-group-no-significant-pre-post-difference-mathematics.md) — related
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related
 - [Pre-test scores showed no difference between IWB and traditional groups](iwb-pretest-no-difference.md) — related
+- [The Education Management Model group showed a considerable increase in average mathematics score from pre-test to post-test, while lesson study and control groups did not.](emm-pre-post-gain-descriptive.md) — related

@@ -84,3 +84,5 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — a narrower finding that bears on this claim
 - [LMS and firewall restrictions prevent academic integrity content from being available to students before the first day of classes](lms-firewall-barriers-prearrival-ai-content.md) — a narrower finding that bears on this claim
+- [Technology in digital tutoring was reliable and accessible but rarely used for higher-order thinking](digital-tutoring-reliable-but-low-higher-order-use.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — a narrower finding that bears on this claim

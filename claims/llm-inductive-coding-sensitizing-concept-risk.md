@@ -59,3 +59,4 @@ Theoretical argument, not a tested result: the authors reason from prior work th
 - [Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts](teachers-mixed-conceptions-misconceptions-dyslexia.md) — related
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
 - [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — related
+- [Overemphasis of C-K theory without complete understanding can interrupt and block thinking rather than enhance it](ck-theory-overemphasis-risk.md) — related

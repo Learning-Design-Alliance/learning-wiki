@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 183 claims (78 for, 94 mixed, 11 against) · 124 studies (45 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 124 report an effect size · 172 claims rest on one study
+> **Evidence** · 184 claims (78 for, 95 mixed, 11 against) · 124 studies (45 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 124 report an effect size · 173 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Explicit instruction of metacognitive reading strategies produced significantly higher post-test reading comprehension scores than traditional instruction among low-proficiency Jordanian EFL university students](../claims/metacognitive-strategy-instruction-raises-efl-reading-posttest.md) [+W] — attached 2026-11-03 from ABEER AL-GHAZO (2016), which proposed "Strategy training should teach language learning strategies together with feelings, beliefs, responsibility and trust, and encourage collaborative work"; tests this page's relationship.
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](../claims/learners-perceive-strategy-instruction-as-useful.md) [+W] — attached 2026-11-03 from Yang et al. (2015), which proposed "Explicit strategy instruction should be integrated into language learning curricula to promote learner autonomy and strategy application.".
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](../claims/metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) [+W] — attached 2026-11-03 from Habibian (2015), which proposed "Teach metacognitive reading strategies explicitly to help ESL learners control their comprehension process".
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](../claims/metacognitive-instruction-increases-monitoring-assessment-not-planning.md) [~W] — attached 2026-11-03 from Habibian (2015), which proposed "Three-phase metacognitive knowledge framework for strategy instruction design"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

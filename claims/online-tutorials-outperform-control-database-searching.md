@@ -49,3 +49,4 @@ Randomized post-test-only control group experiment with 90 undergraduates inexpe
 - [There is no statistically significant difference in post-test scores between students who complete the GotS tutorial and students who view an equivalent screencast](gots-vs-screencast-no-significant-difference.md) — related
 - [Undergraduate students who have not received library instruction generally lack basic database research skills, scoring about 51% on the post-test](uninstructed-students-lack-database-skills.md) — related
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
+- [Post-test ANOVA showed a significant difference among the three instruction groups after ten sessions](anova-posttest-significant-group-differences.md) — related

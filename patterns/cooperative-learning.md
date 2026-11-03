@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 90 claims (57 for, 32 mixed, 1 against) · 74 studies (36 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 22 of 74 report an effect size · 82 claims rest on one study
+> **Evidence** · 92 claims (59 for, 32 mixed, 1 against) · 75 studies (37 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 22 of 75 report an effect size · 84 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](../claims/cooperative-group-work-improves-preschool-pattern-recognition.md) [+W] — attached 2026-11-03 from Kamuran Tarım (2015), which proposed "Establish social skill standards — active listening, happy talk and participation of each child — before cooperative group work with young children"; tests this page's relationship.
 - [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](../claims/teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) [+W] — attached 2026-11-03 from Kamuran Tarım (2015), which proposed "Establish social skill standards — active listening, happy talk and participation of each child — before cooperative group work with young children".
 - [Students taught with the TGT cooperative learning model achieve higher physics learning outcomes overall than students taught with conventional learning models](../claims/tgt-higher-physics-outcomes-than-conventional.md) [+W] — attached 2026-11-03 from Nadrah et al. (2017), which proposed "Teams Games Tournament five-stage structure"; tests this page's relationship.
+- [Students taught with the Numbered Heads Together model show greater improvement in mathematical creative thinking ability than students taught with conventional learning](../claims/nht-improves-mathematical-creative-thinking.md) [+W] — attached 2026-11-03 from Lince (2016), which proposed "Numbered Heads Together cooperative learning structure with numbered group members and random caller".
+- [NHT learning yields a higher normalized gain in mathematical creative thinking ability than conventional learning](../claims/nht-higher-normalized-gain-than-conventional.md) [+W] — attached 2026-11-03 from Lince (2016), which proposed "Use NHT cooperative learning as an alternative model to enhance mathematical creative thinking ability"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

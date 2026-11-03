@@ -55,6 +55,7 @@ The ONE programme delivered four weekly 30-minute face-to-face workshop-style pr
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
 - [Implement simulation-based education with targeted interventions, high-intensity low-dose high-frequency training, and strong integration and support](three-features-effective-sbe-programs.md)
+- [Integrate CT activities into weekly mathematics lessons with teacher workshops and reflective cycles](ct-math-integration-workshop-reflection-strategy.md)
 
 ## Examples
 -

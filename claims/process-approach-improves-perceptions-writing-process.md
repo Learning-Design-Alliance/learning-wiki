@@ -70,3 +70,4 @@ Between-group ANOVA on post-questionnaire scores; the article reports significan
 - [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
 - [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related
 - [The experimental group showed increased motivation and improved communication skills after citation-based lessons, while the control group remained virtually unchanged](citation-lessons-motivation-communication-gains.md) — related
+- [Both peer-assisted mediation and tutor-intervention significantly improved learners' attitudes toward writing, with no significant difference between the two conditions.](both-conditions-improve-writing-attitude.md) — related

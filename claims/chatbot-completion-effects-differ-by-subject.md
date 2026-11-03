@@ -52,3 +52,4 @@ ITT analysis of course completion outcomes (Table 2, panels B and C). Government
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
 - [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
 - [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](chatbot-quantile-effects-middle-distribution.md) — related
+- [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related

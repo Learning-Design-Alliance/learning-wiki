@@ -70,3 +70,5 @@ Material Evaluation Form responses from two teachers. "Both of the teachers who 
 - [Teachers reported positive opinions about the TMPT Program's age-appropriateness and application](teacher-positive-opinions-tmpt.md) — related
 - [Teacher candidates expressed mostly positive opinions of place-based lessons, citing retention of information most often, with time and cost as main drawbacks](student-opinions-place-based-retention-time-cost.md) — related
 - [Most integrated-course participants reported the format maximized learning time, inspired interest, enhanced understanding of key concepts, and allotted theory-practice time appropriately](integrated-histology-student-feedback.md) — related
+- [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related
+- [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — related

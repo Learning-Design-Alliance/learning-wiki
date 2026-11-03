@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (38 show a difference, 5 mixed, 3 no difference) · 24 studies (11 review, 6 associational, 3 theoretical, 2 quant-synthesis, 1 causal, 1 design), `q1`–`q3` · 3 of 24 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (39 show a difference, 6 mixed, 3 no difference) · 26 studies (12 review, 6 associational, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 3 of 26 report an effect size · 48 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -82,6 +82,8 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Moderation of ACE-school outcome associations is sparse, mixed, and outcome-specific](../claims/aces-moderation-sparse-mixed-outcome-specific.md) [~M] — learners who differ on it differ in outcomes
 - [Socioeconomic disadvantage and contextual stressors are negatively associated with academic performance in medical students](../claims/socioeconomic-disadvantage-negative-association-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](../claims/stress-complexity-primary-barriers-decision-making.md) [+M] — learners who differ on it differ in outcomes
+- [Individually based protective strategies such as active coping are ineffective for youth facing the most severe and chronic stressors unless broader interpersonal and setting supports are in place.](../claims/active-coping-ineffective-without-supports-severely-stressed-youth.md) [~M] — an instructional effect differs with it
+- [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](../claims/poverty-stress-correlated-ef-deficits.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

@@ -64,3 +64,4 @@ Interview and log data across cases; teachers described the adaptive prompting s
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](vle-learners-need-metacognitive-scaffolding.md) — related
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
+- [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related

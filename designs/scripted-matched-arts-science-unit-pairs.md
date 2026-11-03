@@ -46,6 +46,7 @@ The research team developed four pairs of matched science units (Astronomy, Life
 ## Related Designs
 
 - [Matched-pairs crossover design pattern: equal content, dosage, order, and activity type across treatment and control units](matched-unit-pairs-crossover-design-pattern.md)
+- [A 5-day active learning based science camp curriculum organized around 15 nature-based activity titles](five-day-science-camp-15-activity-titles.md)
 
 ## Examples
 -

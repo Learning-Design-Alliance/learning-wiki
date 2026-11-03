@@ -65,3 +65,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](task-process-prompts-alter-argumentation-style.md) — related
 - [Pupils taught with prior knowledge questions showed greater involvement and participation in lessons](prior-knowledge-questions-increase-engagement.md) — a narrower finding that bears on this claim
 - [Prior research indicates argumentative scripts improve argumentation skill development but not participation and interactivity](argumentative-scripts-improve-skills-not-participation.md) — related
+- [Only a third of observed teachers showed an alternative construction of the learning process with a creative approach](third-teachers-alternative-learning-process.md) — related

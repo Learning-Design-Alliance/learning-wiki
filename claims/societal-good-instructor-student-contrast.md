@@ -76,3 +76,4 @@ Study 2 Global Theme 3 held that "The sense of fulfillment through positive expe
 - [Students valued experiential learning most about how they learned, citing community interviews and intercultural teamwork as powerful learning moments](experiential-learning-valued-most-sis.md) — related
 - [Teachers rated the experiential training package positively, describing it as effective, accountable, and revealing of actual versus perceived performance](teacher-reflection-journals-social-validity.md) — related
 - [Reflection across synthesized studies revealed student self-awareness, confidence growth, and perceptions of learning conditions](reflection-reveals-self-awareness-confidence-perceptions.md) — related
+- [Students' primary objective in studying qualitative research is learning how to do it, and instructors are recommended to respect this motivation and focus on skills first](skills-first-respect-student-motivation-qualitative-research.md) — related

@@ -71,3 +71,4 @@ Meta-regression pooling all 75 effect sizes (best model F = 8.62, p = 0.000, 95%
 - [Repeated practice and blended learning showed no advantage in RCR course effectiveness, failing to replicate prior review findings](rcr-repetition-blended-null-results.md) — related
 - [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related
 - [Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics](knowledge-outcomes-benefit-more-than-skills-ethics-attitudes.md) — related
+- [A blend of learning activities works best: students find learning by doing essential but not exclusively experiential learning](blend-of-learning-activities-works-best-qualitative-research.md) — related

@@ -49,6 +49,7 @@ A concrete instructional recipe: introduce a topic, have learners brainstorm rel
 - [Brainstorming (Pre-Reading)](brainstorming-pre-reading.md)
 - [Prewriting Activities](prewriting_activities.md)
 - [Graphic Organizers](graphic-organizers.md)
+- [Concept mapping instruction for reading comprehension](concept-mapping-reading-comprehension-instruction.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The editorial reports, citing Nokes-Malach et al. (2015), that despite the popul
 - [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](knowledge-asymmetry-prior-experience-harm-collaboration.md) — a narrower finding that bears on this claim
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
 - [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](static-feedback-detrimental-dyads.md) — a narrower finding that bears on this claim
+- [Students in the mixed condition expressed higher situational interest than those working individually only](mixed-condition-higher-situational-interest-than-individual-only.md) — a narrower finding that bears on this claim

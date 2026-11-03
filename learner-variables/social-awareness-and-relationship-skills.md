@@ -251,6 +251,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The program significantly improved personal and social life skills versus control](../claims/childrens-literature-program-improves-personal-social-skills.md) [+M] — instruction changes it
 - [A decrease in aggressive interpersonal strategies predicts a reduction in child-reported aggressive behavior in the spring, controlling for fall aggression](../claims/decrease-aggressive-strategies-reduces-child-reported-aggression.md) [+M] — learners who differ on it differ in outcomes
 - [Students in WHS classrooms are rated higher on social skills at posttest than control students](../claims/whs-student-social-skills-improvement.md) [+M] — instruction changes it
+- Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

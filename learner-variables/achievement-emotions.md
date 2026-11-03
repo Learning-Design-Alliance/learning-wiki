@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (139 show a difference, 53 mixed, 17 no difference) · 126 studies (42 associational, 40 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 126 report an effect size · 206 claims rest on one study
+> **Evidence** · 211 claims (140 show a difference, 54 mixed, 17 no difference) · 128 studies (42 associational, 41 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 128 report an effect size · 208 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -244,6 +244,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Students' perceived enjoyment of learning was positively related to their perceived knowledgeability](../claims/enjoyment-positively-related-knowledgeability.md) [+M] — learners who differ on it differ in outcomes
 - [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](../claims/gamified-courses-majority-enjoyable-stress-relief.md) [+W] — instruction changes it
 - [Imagining the Ideal L2 self evoked pride and other positive emotions that participants reported as motivating their study of English](../claims/magid-2014-pride-ideal-l2-self-motivation.md) [+M] — instruction changes it
+- [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](../claims/students-perceive-gamification-useful-motivating-enjoyable.md) [+M] — measured as an outcome of the instruction studied
+- [Learning qualitative research initially involves considerable anxiety, frustration, and confusion for students, alongside positive emotions such as excitement, surprise, and humility](../claims/affective-dimension-anxiety-frustration-excitement-qualitative-research.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

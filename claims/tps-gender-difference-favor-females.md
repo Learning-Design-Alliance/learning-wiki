@@ -73,3 +73,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
 - [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
 - [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — reports the opposite
+- [Female gifted students slightly outperformed males on creative thinking posttests in both groups, with no group-by-gender interaction](six-hats-gender-difference-females-creative-thinking.md) — related

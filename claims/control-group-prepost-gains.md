@@ -47,3 +47,4 @@ Within-group pre-post analysis of the control group (n=14), instructed by lectur
 ## Related Claims
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — a broader claim this one bears on
 - [The WebQuest experimental group improved significantly from pretest to posttest in planning, implementation and evaluation teaching skills](webquest-group-prepost-gains.md) — related
+- [Significant pre-post differences favoring the posttest appeared in all three measured skill domains: planning, learning strategies and classroom management, and evaluation](blended-learning-gains-all-three-domains.md) — related

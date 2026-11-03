@@ -13,7 +13,7 @@ generated:
 # Create a Relaxed Learning Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 5 studies (3 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Create a relaxed learning environment is the element of arranging social and physical conditions that support safety, calm, and participation.
@@ -27,6 +27,7 @@ Create a relaxed learning environment is the element of arranging social and phy
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](../claims/safety-measures-cause-harm-black-brown-youth.md) [+W]
 - [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
 - [Support conditions did not differ from control in learning scores within the environment](../claims/no-condition-differences-learning-scores-swlep.md) [~W]
+- [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](../claims/lq-no-change-importance-safe-environment-ceiling.md) [~W]
 
 ## Related Elements
 - [Create a Low-Stress Environment](create-a-low-stress-environment.md)

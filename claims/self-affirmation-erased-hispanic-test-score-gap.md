@@ -54,3 +54,4 @@ Multilevel ITT models show a Hispanic main effect of -10.887 (reading) and -8.95
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
+- [Hispanic origin predicted lower spring NWEA mathematics and reading scores](barr-rct-hispanic-origin-achievement-gap.md) — related

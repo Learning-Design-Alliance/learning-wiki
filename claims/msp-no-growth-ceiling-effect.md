@@ -48,3 +48,4 @@ Paired t-test on the human-graded sample (N=50) found no growth in MSP, with a p
 - [Students in a computationally intensive introductory physics course show large-magnitude growth in Data Practices and moderate growth in Computational Problem-Solving and Systems Thinking on written CT assessments](ct-growth-data-practices-intro-physics.md) — related
 - [Applied to the full dataset of 936 students, the LLM reproduced the human-observed growth trends, detecting significant growth on Q25 and Q26 but none on Q27](llm-scales-ct-growth-detection.md) — related
 - Correlations between estimated and true scores diminish over time mainly with easy items, especially with a true slope of .5 and only four items, likely due to ceiling effects — related
+- [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related

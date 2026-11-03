@@ -61,3 +61,4 @@ Discussion-section finding from an interview study of 10 Jordanian secondary-sch
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
 - [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related
 - [Reflection deepens over time as students move from describing observations to intuitive evaluation](reflection-deepens-over-time-schmidt-brown.md) — related
+- [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related

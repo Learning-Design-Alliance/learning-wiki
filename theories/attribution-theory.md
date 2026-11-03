@@ -73,6 +73,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 
 - [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../products/causal-dimension-scale-cds-and-revised-cdsii.md)
 - [Direct future attribution research at which causal elements apply most often to which sport situations](../strategies/match-causal-elements-to-sport-situations.md)
+- [Top up intelligence interventions with process feedback when students receive grades](../strategies/process-feedback-top-up-strategy.md)
 
 ## Key Sources
 - Weiner, B. (1986). *An attributional theory of motivation and emotion*. Springer-Verlag.

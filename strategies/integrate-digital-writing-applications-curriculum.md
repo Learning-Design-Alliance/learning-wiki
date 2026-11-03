@@ -52,6 +52,7 @@ The article recommends that "The importance of digital writing applications, whi
 ## Related Strategies
 
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
+- [Integrate writing across the curriculum and maintain portfolios to reposition writing as integral to classroom culture](integrate-writing-across-curriculum-portfolios.md)
 
 ## Examples
 -

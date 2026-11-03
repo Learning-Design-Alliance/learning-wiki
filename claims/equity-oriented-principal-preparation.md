@@ -54,3 +54,4 @@ The report's review of recent literature on equity-oriented principal preparatio
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
 - [Societal agency roots in early socialization and disorienting dilemmas, and drives design choices toward access, equity and social justice](societal-agency-disorienting-dilemmas.md) — related
+- [Principal's shift to giving public addresses in Spanish indexed a radical shift in stance toward Latino parents](principal-language-shift-latino-parents.md) — a narrower finding that bears on this claim

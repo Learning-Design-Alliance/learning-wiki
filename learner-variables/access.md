@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (72 show a difference, 22 mixed, 7 no difference) · 76 studies (29 associational, 13 causal, 12 review, 7 qualitative, 6 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 6 of 76 report an effect size · 97 claims rest on one study
+> **Evidence** · 102 claims (73 show a difference, 22 mixed, 7 no difference) · 77 studies (29 associational, 13 causal, 13 review, 7 qualitative, 6 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 6 of 77 report an effect size · 98 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -145,6 +145,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Twenty-one of 30 deaf students correctly marked where the Sun rises and sets after observation-based activities](../claims/sun-rise-set-drawing-21-of-30-correct.md) [+M] — learners who differ on it differ in outcomes
 - [Auditory training uses electronically modified music and language to stimulate auditory pathways and enhance auditory processing ability.](../claims/auditory-training-definition-asha.md) [+W] — instruction changes it
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](../claims/internet-and-time-barriers-online-comics.md) [+M] — learners who differ on it differ in outcomes
+- [Median reading comprehension of deaf students never exceeded fourth-grade level across 11 cohorts from 1974 to 2003](../claims/deaf-students-median-reading-never-exceeded-fourth-grade.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

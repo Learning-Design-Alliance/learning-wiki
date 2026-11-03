@@ -74,3 +74,4 @@ Reflective journal excerpt (RJ-P23) from the intervention, illustrating particip
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
 - [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](hands-on-collaboration-becoming-experts.md) — related
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
+- [Permanent group membership over a six-week course may cause students to lose motivation, and rotating group members is recommended.](permanent-groups-reduce-motivation-rotation-recommended.md) — related

@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (20 for, 18 mixed, 2 against) · 54 studies (28 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 1 associational), `q1`–`q4` · 10 of 54 report an effect size · 32 claims rest on one study
+> **Evidence** · 41 claims (20 for, 18 mixed, 3 against) · 55 studies (28 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 2 associational), `q1`–`q4` · 10 of 55 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](../claims/teachers-fail-to-activate-prior-knowledge.md) [~W]
 - [Instruction with the explanation assisted REACT strategy significantly eliminated some alternative conceptions about impulse, momentum and collisions](../claims/react-explanation-eliminates-some-conceptions.md) [+W]
+- [Only a quarter of observed subject teachers clearly distinguished the main ideas and basic concepts during lessons](../claims/quarter-teachers-clearly-distinguished-main-ideas.md) [-W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

@@ -69,3 +69,4 @@ Interview analysis of the mechanics category: students gave it the least attenti
 - [Learners' greatest self-reported writing difficulties before the experiment were content or idea and rhetorical organization, not vocabulary or fluency](efl-writing-difficulties-content-organization.md) — related
 - [Virtual and face-to-face collaborative writers differ in discourse: control groups use cohesive devices and paragraphing more, virtual groups add more new relevant ideas](discourse-differences-telecollaborative-vs-face-to-face-essays.md) — related
 - [Time management is the most overwhelming writing difficulty reported by the EFL students, alongside spelling and grammatical mistakes](time-management-overwhelming-efl-writing-difficulty.md) — related
+- [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](writers-workshop-writing-attitudes-ell.md) — related

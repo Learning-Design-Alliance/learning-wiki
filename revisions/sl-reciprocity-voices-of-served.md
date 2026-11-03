@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/sl-reciprocity-voices-of-served.md
+---
+
+# Revision history: [claims/sl-reciprocity-voices-of-served](../claims/sl-reciprocity-voices-of-served.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1267630 (Preservice Teachers Working with English Language Learners: A Meta-Synthesis of Service-Learning as an Effective Pedagogical Tool) via eval_harness.py + ingest_extractions.py

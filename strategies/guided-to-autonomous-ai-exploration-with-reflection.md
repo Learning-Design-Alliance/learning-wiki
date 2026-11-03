@@ -44,6 +44,7 @@ The review found training generally comprised a preparatory phase followed by a 
 ## Related Strategies
 
 - [A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly](growth-goal-roadmap-collaborate-activities-check-ins.md)
+- [Three-phase challenge-understanding-reflection technology for forming critical thinking](challenge-understanding-reflection-technology.md)
 
 ## Examples
 -

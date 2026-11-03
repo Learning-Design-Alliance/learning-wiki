@@ -47,6 +47,7 @@ In the discussion the author proposes a future research agenda: "various studies
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 - [Extend co-operative grammar learning to other levels, subjects and languages](extend-cooperative-learning-other-levels-languages.md)
 - [Extend cooperative learning research to male students, other subjects, and affective outcomes](extend-cooperative-learning-research-strategy.md)
+- [Future gamification research should target the four English language skills individually and collectively.](gamification-elt-four-skills-research-strategy.md)
 
 ## Examples
 -

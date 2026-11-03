@@ -51,3 +51,4 @@ Independent-samples t-test on the posttest of 20 experimental and 20 control par
 - [Instructional video clips improved macroeconomics test scores relative to control](instructional-video-clips-improve-macroeconomics-test-scores.md) — related
 - [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — related
 - [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — related
+- [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related

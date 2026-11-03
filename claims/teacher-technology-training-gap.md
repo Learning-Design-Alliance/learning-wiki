@@ -56,3 +56,4 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — possibly the same claim (merge candidate)
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related
 - [Teachers face substantial obstacles implementing thematic and character education curricula, with many reporting unreadiness](teacher-obstacles-thematic-character-implementation.md) — related
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related

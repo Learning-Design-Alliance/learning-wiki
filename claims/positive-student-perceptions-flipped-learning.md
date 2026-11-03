@@ -71,3 +71,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](pre-service-teacher-aversion-to-flipped-learning.md) — reports the opposite
 - [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
 - [Iranian EFL learners in the flipped group held mostly positive attitudes toward flipped instruction](positive-efl-attitudes-toward-flipped-instruction.md) — related
+- [Students hold favorable attitudes toward e-learning as a supplement to in-class teaching](favorable-attitudes-toward-elearning-supplement.md) — related
