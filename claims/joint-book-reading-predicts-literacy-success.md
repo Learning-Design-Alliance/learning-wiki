@@ -151,4 +151,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](summer-parent-book-reading-improves-receptive-vocabulary.md) — a narrower finding that bears on this claim
 - [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — a narrower finding that bears on this claim
 - [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — a broader claim this one bears on
-- [Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites](hle-positively-associated-baseline-reading-scores.md) — related
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](hle-positively-associated-baseline-reading-scores.md) — related

@@ -24808,6 +24808,7 @@
 "id":"alternating-simulation-bedside-patient-safety",
 "newest_evidence":"2018",
 "path":"claims/alternating-simulation-bedside-patient-safety.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety",
 "type":"claim"
@@ -27821,6 +27822,7 @@
 "id":"anticipatory-reading-guides-improve-third-grade-comprehension",
 "newest_evidence":"2013",
 "path":"claims/anticipatory-reading-guides-improve-third-grade-comprehension.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.",
 "type":"claim"
@@ -65841,6 +65843,7 @@
 "id":"cl-pretest-cross-level-interaction-posttest",
 "newest_evidence":"2018",
 "path":"claims/cl-pretest-cross-level-interaction-posttest.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Cooperative learning showed a significant cross-level interaction with pretest computation competence at posttest, with higher-pretest students benefiting more from CL than control peers",
 "type":"claim"
@@ -96728,6 +96731,7 @@
 "id":"ctbl-contradicts-ab-raza-islamic-countries-claim",
 "newest_evidence":"2014",
 "path":"claims/ctbl-contradicts-ab-raza-islamic-countries-claim.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning",
 "type":"claim"
@@ -163212,6 +163216,7 @@
 "id":"fourteen-weeks-contract-work-warrants-b",
 "newest_evidence":"2009",
 "path":"claims/fourteen-weeks-contract-work-warrants-b.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B",
 "type":"claim"
@@ -194308,13 +194313,14 @@
 "type":"claim"
 },
 {
-"description":"Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites",
+"description":"Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site",
 "evidence_strength":"moderate",
 "id":"hle-positively-associated-baseline-reading-scores",
 "newest_evidence":"2016",
 "path":"claims/hle-positively-associated-baseline-reading-scores.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites",
+"title":"Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site",
 "type":"claim"
 },
 {
@@ -210352,6 +210358,7 @@
 "id":"integrated-dynamic-standardized-assessment-improves-post-cra",
 "newest_evidence":"2015",
 "path":"claims/integrated-dynamic-standardized-assessment-improves-post-cra.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance",
 "type":"claim"
@@ -210575,6 +210582,7 @@
 "id":"integrated-simulation-clinical-practice-no-score-difference",
 "newest_evidence":"2018",
 "path":"claims/integrated-simulation-clinical-practice-no-score-difference.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching",
 "type":"claim"
@@ -271910,6 +271918,7 @@
 "id":"mtp-past-trial-improvements",
 "newest_evidence":"2013",
 "path":"claims/mtp-past-trial-improvements.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices",
 "type":"claim"
@@ -366410,6 +366419,7 @@
 "id":"rmep-middle-school-higher-video-completion",
 "newest_evidence":"2016",
 "path":"claims/rmep-middle-school-higher-video-completion.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Middle school students completed a larger percentage of assigned videos than high school students",
 "type":"claim"
@@ -472091,6 +472101,7 @@
 "id":"web-assisted-instruction-reduced-writing-errors-business-communication",
 "newest_evidence":"2017",
 "path":"claims/web-assisted-instruction-reduced-writing-errors-business-communication.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone",
 "type":"claim"

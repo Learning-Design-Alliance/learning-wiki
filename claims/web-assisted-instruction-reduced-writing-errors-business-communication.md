@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: austin-2017
     resource: "https://eric.ed.gov/?id=EJ1178728"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students who completed LSA modules outside class produced persuasive messages with significantly lower average error counts than students receiving only teacher-led grammar and mechanics instruction. [→ Austin 2017](#austin-2017)
+`q3 i?` Students who completed LSA modules outside class produced persuasive messages with lower average error counts in most error categories (run-on sentences, misspelled words, comma errors) than the previous year's students who received only teacher-led grammar and mechanics instruction; sentence fragments were only marginally lower (p = .055), and capitalization of proper nouns got worse. [→ Austin 2017](#austin-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Austin, T. L., Sigmar, L. S., Mehta, G. B., & Shirk, J. L. (2017). The impact of
 
 `q3 · i?` · `causal · r1`
 
-Quasi-experimental comparison of 172 persuasive messages: 85 pre-LSA (2015) and 87 post-LSA (2016) from six junior-level business communication courses. The authors report that "In virtually every category, the average number of errors was lower in the post-LSA group" with statistically significant differences.
+Quasi-experimental comparison of two successive cohorts in six junior-level business communication courses: one persuasive message each from 85 pre-LSA students (2015) and 87 post-LSA students (2016), 172 in all, scored by an independent grader. The authors report that "In virtually every category, the average number of errors was lower in the post-LSA group": run-on sentences, misspelled words and comma errors were significantly lower (p < .01), while sentence fragments were only marginally lower (p = .055, reported as p < .10). Non-capitalization of proper nouns increased markedly in the post-LSA group, which the authors attribute to the second year's assignment requiring more product and company names, so the two cohorts did not write to the same prompt. The article's Table 2 labels the groups inconsistently with its text.
 
 > "When comparing the average number of errors in the pre-LSA and post-LSA groups, the authors noted significant differences. In virtually every category, the average number of errors was lower in the post-LSA group."
 

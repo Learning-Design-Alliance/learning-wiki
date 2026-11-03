@@ -46,4 +46,4 @@ When using a modular intelligent tutoring system for a task it was not originall
 -
 
 ## Key Sources
-- Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education.
+- Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0127-7

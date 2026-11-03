@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: hosseini-2014
     resource: "https://eric.ed.gov/?id=EJ1085235"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The finding that Iranian students benefited from cooperative learning contradicts Ab-Raza's (2007) claim that students in Islamic countries do not value diversity of ideas and cannot be taught through modern CL methods. [→ Hosseini 2014](#hosseini-2014)

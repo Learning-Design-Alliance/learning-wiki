@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: yang-et-al-2018
     resource: "https://doi.org/10.5430/ijhe.v7n1p10"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Third-year medical students taught with an integrated simulation and clinical practice mode scored similarly to traditionally taught students on practical tests of PE, internal punctures and case analysis and on theory-based examinations of diagnostics and internal medicine. [→ Yang et al. 2018](#yang-et-al-2018)

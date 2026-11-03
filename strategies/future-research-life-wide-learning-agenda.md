@@ -40,7 +40,7 @@ The article's conclusions lay out a research agenda: "future research should aim
 
 - [Participation in community reading activities is positively associated with reading gains](../claims/community-reading-activities-associated-reading-gains.md) [+W]
 - [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](../claims/hle-correlated-reading-growth-background.md) [+W]
-- [Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites](../claims/hle-positively-associated-baseline-reading-scores.md) [+W]
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](../claims/hle-positively-associated-baseline-reading-scores.md) [+W]
 
 ## Related Strategies
 

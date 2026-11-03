@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: opitz-et-al-2018
     resource: "https://eric.ed.gov/?id=EJ1179942"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the CL condition, posttest computation performance was influenced to a significantly higher degree by the pretest score than in the CG condition (b = 0.63, p = .003). [→ Opitz et al. 2018](#opitz-et-al-2018)

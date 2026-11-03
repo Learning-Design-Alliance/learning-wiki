@@ -53,4 +53,4 @@ The article cites Park (2008) and the National Early Literacy Panel (2008) as ba
 - [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — a narrower finding that bears on this claim
 - [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](home-literacy-vocabulary-not-reading-fluency.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
-- [Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites](hle-positively-associated-baseline-reading-scores.md) — a narrower finding that bears on this claim
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](hle-positively-associated-baseline-reading-scores.md) — a narrower finding that bears on this claim

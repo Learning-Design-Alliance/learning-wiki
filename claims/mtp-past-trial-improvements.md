@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-03
 sources:
   - id: downer-2013
     resource: "https://eric.ed.gov/?id=ED563032"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In past trials with a variety of curricula across prek and secondary classrooms, MTP yielded improvements on teacher implementation and teaching practices that were moderate to large. [→ Downer 2013](#downer-2013)

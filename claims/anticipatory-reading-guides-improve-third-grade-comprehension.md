@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-03
 sources:
   - id: ortlieb-2013
     resource: "https://eric.ed.gov/?id=EJ1085407"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The treatment group using anticipatory reading guides scored significantly higher than the control group on reading comprehension measures. [→ Ortlieb 2013](#ortlieb-2013)
@@ -37,7 +38,7 @@ Ortlieb, E. (2013). Using Anticipatory Reading Guides to Improve Elementary Stud
 
 `q2 · i2` · `causal · r1`
 
-In this quasi-experimental study of 24 third-grade struggling readers, the treatment group (n=14) using anticipatory reading guides gained 13.5 points versus 6.8 for controls (n=10), with the difference reaching statistical significance ("p = 0.04, CI 95 = 0.31, 29.51"). Cohen's d = .43 indicated moderate practical significance.
+In this quasi-experimental study of 24 third-grade struggling readers, the treatment group (n=14) using anticipatory reading guides gained 13.5 points versus 6.8 for controls (n=10), with the difference reaching statistical significance ("p = 0.04, CI 95 = 0.31, 29.51"). The author reports that Cohen's d = .43 "suggested a moderate to low practical significance". Treatment was not randomly assigned.
 
 > "A comparison of mean gains for both control and treatment groups revealed that the treatment group scores ( M = 63.71, SD = 14.21), which increased by 13.5 points were statistically significant to mean scores in the control group ( M = 48.8, SD = 20.38), an increase of 6.8 points (p = 0.04, CI 95 = 0.31, 29.51)"
 

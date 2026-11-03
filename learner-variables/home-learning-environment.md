@@ -126,7 +126,7 @@ The home learning environment is what families, caregivers and communities provi
 - [Parents in the dialogic reading group show significantly stronger overall skills in promoting interactive reading and using literacy strategies](../claims/dialogic-reading-parents-stronger-interactive-reading-literacy-strategies.md) [+M] — instruction changes it
 - [Parental environmental interest has a positive but weak relationship with students’ environmental literacy](../claims/parental-interest-weakly-related-to-environmental-literacy.md) [+W] — learners who differ on it differ in outcomes
 - [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](../claims/hle-correlated-reading-growth-background.md) [+M] — learners who differ on it differ in outcomes
-- [Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites](../claims/hle-positively-associated-baseline-reading-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](../claims/hle-positively-associated-baseline-reading-scores.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Reading Pattern Survey** ([Rodrigo et al., 2014](http://nflrc.hawaii.edu/rfl)): self-report of reading attitude, habits and print exposure, including books read and library visits.

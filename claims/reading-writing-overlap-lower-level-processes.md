@@ -11,7 +11,8 @@ evidence_strength: weak
 newest_evidence: 2016
 sources:
   - id: weston-sementelli-2016
-    title: "Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education."
+    resource: "https://doi.org/10.1007/s40593-016-0127-7"
+    title: "Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0127-7"
     author: "Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S."
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Weston-Sementelli 2016
 
-Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education.
+Weston-Sementelli, J. L., Allen, L. K., & McNamara, D. S. (2016). Comprehension and Writing Strategy Training Improves Performance on Content-Specific Source-Based Writing Tasks. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0127-7
 
 `q2 · i?` · `causal · r2`
 

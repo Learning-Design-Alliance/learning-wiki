@@ -45,5 +45,5 @@ Cross-country multilevel regression (Model 2) fit separately per site, relating 
 
 
 ## Related Claims
-- [Home literacy environment is positively associated with baseline reading scores across 12 low-resource sites](hle-positively-associated-baseline-reading-scores.md) — related
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](hle-positively-associated-baseline-reading-scores.md) — related
 - [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
