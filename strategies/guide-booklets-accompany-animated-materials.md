@@ -44,6 +44,7 @@ The article recommends that support documentation ship with any animated instruc
 ## Related Strategies
 
 - [Modality](modality.md)
+- [Include convergent writing tasks in textbooks with accompanying teacher guidebooks](textbook-convergent-writing-tasks-with-guidebooks.md)
 
 ## Examples
 -

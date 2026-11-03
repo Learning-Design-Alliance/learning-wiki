@@ -5,6 +5,15 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · a screened-queue entry that cannot be fetched is recorded, not taken again
+
+`run_scrape_batch.py` recorded a fetch failure in `eval/runs/queues/fetch-failed.ndjson` only for
+entries carrying `list_key` (the curated hub and AIED lists). The screened ERIC, PMC and arXiv
+queues carry none, so a dead entry was taken again by every batch: the ERIC queue ended in batches
+of 15, 3 and 1 article, each paying the full post-ingest cost, and the last (a scanned PDF with no
+text layer) stopped its batch at ingest with nothing fetched. Any entry taken from `--queue` is now
+recorded, which the queue reader already skips.
+
 ## 2026-11-03 · settling no longer recreates a page that was folded into another kind
 
 j-screric-27 wrote `research-methods/action-research` again, although j-screric-14 had folded it into

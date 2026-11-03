@@ -64,3 +64,4 @@ Pre-specified exploratory subgroup analyses added interaction terms (Pre-test ×
 - [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
 - [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — a narrower finding that bears on this claim
+- [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](no-gender-ses-interaction-gst-learning-gains.md) — related

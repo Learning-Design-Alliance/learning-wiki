@@ -70,6 +70,7 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 - [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](self-regulated-collaborative-environments-higher-education.md)
 - [Alternate student work forms: small groups, brainstorming, and oral presentation in project work](alternate-work-forms-small-groups-brainstorming.md)
 - [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
+- [Inquiry-based student research projects following Intel ISEF Science Fair guidelines using geospatial technologies](inquiry-projects-intel-isef-gst-strategy.md)
 
 ## Examples
 - **Project Citizen** (Center for Civic Education, https://www.civic-ed.org) — class teams identify a community problem, research policy alternatives, and present a portfolio and hearing before civic panels.

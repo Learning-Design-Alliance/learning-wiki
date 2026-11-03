@@ -48,6 +48,7 @@ The article recommends offering learners multiple assessment choices — multipl
 - [Use a three-stage model to help learners identify and apply their learning-style characteristics](three-stage-learning-style-awareness-model.md)
 - [Use children's portfolios as alternative assessment of young learners' multiliteracies](portfolio-alternative-assessment-young-learners-multiliteracies.md)
 - [Project-based assessment with community exhibition for WRD learning](wrd-project-based-community-exhibition-assessment.md)
+- [Inquiry-based student research projects following Intel ISEF Science Fair guidelines using geospatial technologies](inquiry-projects-intel-isef-gst-strategy.md)
 
 ## Examples
 -

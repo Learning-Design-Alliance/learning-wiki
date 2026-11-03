@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 132 claims (72 for, 58 mixed, 2 against) · 86 studies (38 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 21 of 86 report an effect size · 129 claims rest on one study
+> **Evidence** · 133 claims (73 for, 58 mixed, 2 against) · 87 studies (39 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 21 of 87 report an effect size · 130 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -195,6 +195,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Memory-driven attentional guidance compensates for age-related declines in cognitive control and sensory processing](../claims/memory-driven-attentional-control-compensates-aging.md) [+W]
 - [Working memory and verbal ability mediate between SVA user behaviors and academic performance in the younger cohort only](../claims/cognitive-functioning-mediation-sva-academic-younger-only.md) [~W]
 - [Highly activated negative emotions will influence WM during gaming](../claims/highly-activated-negative-emotions-influence-wm.md) [+W]
+- [Senior high school students taught the same new words in semantically-unrelated sets score significantly higher than students taught the words in semantically-related sets on a delayed L2-L1 translation test two weeks later](../claims/su-sets-beat-sr-sets-delayed-vocabulary-test.md) [+W] — attached 2026-11-03 from Wang (2015), which proposed "Interference theory: words learned at the same time that are too similar interfere with each other and impair retention".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
