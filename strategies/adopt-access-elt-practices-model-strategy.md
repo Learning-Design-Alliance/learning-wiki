@@ -38,7 +38,7 @@ The authors recommend that the ELT practices used in the Access Program be resea
 
 ## Claims
 
-- [After one year, Access Program students significantly outperform matched public school students on a diagnostic English test](../claims/access-program-outperforms-public-schools-elt-posttest.md) [+W]
+- [After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test](../claims/access-program-outperforms-public-schools-elt-posttest.md) [+W]
 - [Access and public school students showed no significant difference in English scores before treatment](../claims/access-public-schools-no-pretest-difference.md) [+W]
 - [Access Program students improved by about 24 points on the diagnostic test over one year](../claims/access-students-significant-prepost-gain.md) [+W]
 - [The complete sample showed a significant overall pre-to-post gain of about 16 points](../claims/overall-sample-significant-prepost-gain.md) [+W]

@@ -17,7 +17,7 @@ sources:
 # WhatsApp-based instructional treatment combining the process approach with mobile mediation for EFL writing
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A researcher-designed instructional treatment that computerized Modules 1–3 (Starting Out, Celebrations, Sport) of the prescribed textbook Action Pack 11 for WhatsApp mediation. As printed, "The treatment consisted of writing texts, lesson plans and writing worksheets, a self/peer editing checklist, and a self/peer revision checklist." Students worked in two WhatsApp groups (Amazing Writers and Smart Writers), collaborating and exchanging experiences with peers while the teacher monitored, revised, reviewed and evaluated student work.
@@ -39,7 +39,7 @@ A researcher-designed instructional treatment that computerized Modules 1–3 (S
 - EFL writing performance across content and ideas, organization and mechanics, vocabulary, and language use
 
 ### Claims
-- [Whatsapp Instruction Improves Efl Writing Performance](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [+M]
+- [After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [~W]
 
 ## Related Designs
 - 

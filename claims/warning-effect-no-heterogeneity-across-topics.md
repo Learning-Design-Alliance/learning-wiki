@@ -37,7 +37,7 @@ Reed Orchinik, David Rand. (2026). A light-touch AI literacy intervention helps 
 
 `q3 · i?` · `causal · r3`
 
-Heterogeneity test within the multilevel random-effects meta-analysis of warning effects across each randomized factor in each experiment (32 estimates). The printed test is Q(31) = 17.71, p= 0.97; no effect-size heterogeneity statistic is printed, so impact is null.
+Heterogeneity test within the multilevel random-effects meta-analysis of warning effects across each randomized factor in each experiment (32 estimates). The printed test is Q(31) = 17.71, p= 0.97; no effect-size heterogeneity statistic is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We find no significant heterogeneity in warning effect size across topics/studies (Q(31) = 17.71,p= 0.97)"
 

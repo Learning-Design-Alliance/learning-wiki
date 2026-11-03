@@ -46,7 +46,7 @@ Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of 
 
 `q3 · i?` · `causal · r2`
 
-ECLS-K difference-in-differences heterogeneity analysis for low-income students (family income below $40,000, about 185 percent of poverty guidelines). The study reports these estimates "are larger than the corresponding estimate for all students in Table 5"; no standardised effect size (d, g, r) is printed, so impact is null.
+ECLS-K difference-in-differences heterogeneity analysis for low-income students (family income below $40,000, about 185 percent of poverty guidelines). The study reports these estimates "are larger than the corresponding estimate for all students in Table 5"; no standardised effect size (d, g, r) is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "A binding state mandate increases math achievement by 8.079 points (with a standard error of 2.869) or 37.2 percent of a standard deviation, reading achievement by 9.679 points (with a standard error of 3.827) or 40.9 percent of a standard deviation, and science achievement by 7.148 points (with a standard error of 2.175) or 52.5 percent of a standard deviation"
 
@@ -56,7 +56,7 @@ Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of 
 
 `q3 · i?` · `causal · r2`
 
-ECLS-K heterogeneity test interacting the above-threshold indicator with the mean-centered threshold value. The study reports "none of these interaction terms are statistically significant"; no effect size is printed, so no magnitude is claimed and impact is null.
+ECLS-K heterogeneity test interacting the above-threshold indicator with the mean-centered threshold value. The study reports "none of these interaction terms are statistically significant"; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "As shown in Table 7, none of these interaction terms are statistically significant, which suggests that the influence of a binding mandate is constant for threshold values ranging from 10 to 40 percent"
 

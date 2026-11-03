@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q3 · i?` · `associational · r2`
 
-Interaction analysis from the same longitudinal regression models with inverse probability weighting, graphed in Figure 1 with simple slopes tested. The article reports the interaction between residential mobility and baseline neighborhood poverty was significantly related to Hearts and Flowers performance. The high-poverty simple slope was "only marginally statistically significant" (t(288) = −1.86, p = .06). No standardized effect size is printed, so impact is null.
+Interaction analysis from the same longitudinal regression models with inverse probability weighting, graphed in Figure 1 with simple slopes tested. The article reports the interaction between residential mobility and baseline neighborhood poverty was significantly related to Hearts and Flowers performance. The high-poverty simple slope was "only marginally statistically significant" (t(288) = −1.86, p = .06). No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Moving out of a low poverty neighborhood was associated with a 189-ms (or a 1.17–standard deviation) increase in response time on the Hearts and Flowers task (A to B slope; t(288) = 2.59, p = .01)."
 

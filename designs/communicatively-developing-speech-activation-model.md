@@ -39,7 +39,7 @@ The article presents a model of communicatively developing technology of learnin
 - Oral activity activation
 
 ### Claims
-- [Communicatively Developing Methods Improve Teacher Coherent Speech](../claims/communicatively-developing-methods-improve-teacher-coherent-speech.md) [+M]
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](../claims/communicatively-developing-methods-improve-teacher-coherent-speech.md) [+W]
 
 ## Related Designs
 - 

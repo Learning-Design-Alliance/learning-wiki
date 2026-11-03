@@ -46,6 +46,6 @@ Paired samples t test (Table 5) on 200 public school students tested at Access e
 
 
 ## Related Claims
-- [After one year, Access Program students significantly outperform matched public school students on a diagnostic English test](access-program-outperforms-public-schools-elt-posttest.md) — related
+- [After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test](access-program-outperforms-public-schools-elt-posttest.md) — related
 - [Access Program students improved by about 24 points on the diagnostic test over one year](access-students-significant-prepost-gain.md) — related
 - [The complete sample showed a significant overall pre-to-post gain of about 16 points](overall-sample-significant-prepost-gain.md) — related

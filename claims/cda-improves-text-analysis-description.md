@@ -47,5 +47,5 @@ Quasi-experimental pre-post study of a class of 43 male EFL Preparatory Year stu
 
 ## Related Claims
 - [CDA instruction significantly improved EFL students' discourse analysis (interpretation) practice, the smallest gain of the three practices](cda-improves-discourse-analysis-interpretation.md) — related
-- [CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated](cda-improves-explanation-practice.md) — related
+- [After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly](cda-improves-explanation-practice.md) — related
 - [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](cda-overall-analytical-reading-gain.md) — a broader claim this one bears on

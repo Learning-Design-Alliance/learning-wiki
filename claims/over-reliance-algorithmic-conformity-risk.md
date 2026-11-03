@@ -46,7 +46,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q1 · i?` · `causal · r2`
 
-Qualitative finding from the student-perspectives thematic analysis of interviews and reflection journals in the experimental group; the article prints no effect size, so impact is null, and flags that the scaffold-withdrawal design may not have succeeded for these students.
+Qualitative finding from the student-perspectives thematic analysis of interviews and reflection journals in the experimental group; the article prints no effect size, so impact is coded i? (no magnitude reported; not a null effect), and flags that the scaffold-withdrawal design may not have succeeded for these students.
 
 > "Third, a distinct over-reliance pat- tern was observed among students who consulted the platform before attempting independ- ent analysis rather than after. This raises questions about whether the intervention success- fully positioned GenAI as a scaffold to be progressively withdrawn."
 
@@ -56,7 +56,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q1 · i?` · `causal · r2`
 
-Usage-log and reflection-journal analysis in the same qualitative corpus; the 18% figure is a proportion of journal entries, not an effect size, so impact is null. The article names this pattern algorithmic conformity in its discussion.
+Usage-log and reflection-journal analysis in the same qualitative corpus; the 18% figure is a proportion of journal entries, not an effect size, so impact is coded i? (no magnitude reported; not a null effect). The article names this pattern algorithmic conformity in its discussion.
 
 > "Approximately 18% of reflection journal entries contained statements sugges- tive of conformity-oriented revision behavior, such as adjusting answers until the platform provided a more positive response."
 

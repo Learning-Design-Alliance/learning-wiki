@@ -37,7 +37,7 @@ Linn Damsgaard, Anne-Mette Veber Nielsen, Anne Kær Gejl, Anne Sofie Bøgh Malli
 
 `q3 · i?` · `causal · r2`
 
-Null result from the RCT's word reading measures (standardized test, reading with and without pictures); the results section also states "No significant differences were seen in Reading Test with Pictures." No effect sizes printed, so impact is null.
+Null result from the RCT's word reading measures (standardized test, reading with and without pictures); the results section also states "No significant differences were seen in Reading Test with Pictures." No effect sizes printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, no transfer effects were observed, and our hypothesis was not supported."
 

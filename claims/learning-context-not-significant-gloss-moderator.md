@@ -37,7 +37,7 @@ Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary 
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analysis comparing second language (ESL) and foreign language (EFL) learning contexts in the meta-analysis. Both confidence intervals were statistically significant, but the between-context Q-test was not. No effect size for the moderator contrast is printed, so impact is null.
+Moderator analysis comparing second language (ESL) and foreign language (EFL) learning contexts in the meta-analysis. Both confidence intervals were statistically significant, but the between-context Q-test was not. No effect size for the moderator contrast is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The analysis of the Q-value (Q= 0.40, p=0.52) also showed that even though learners receiving the treatment in an EFL context performed slightly better than their counterparts in an ESL context, the difference between effect sizes in two conditions was not statistically significant."
 

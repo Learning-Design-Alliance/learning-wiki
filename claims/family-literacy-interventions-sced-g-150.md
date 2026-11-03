@@ -37,7 +37,7 @@ Dahl-Leonard, K., Hall, C., Cho, E., Capin, P., Roberts, G. J., Kehoe, K. F., Ha
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of 10 single-case experimental design studies using between-case standardized mean difference effect sizes estimated with the scdhlm package. The pooled BC-SMD was "g = 1.50; SE = 0.38; df = 7.46; p < 0.01". No standardized effect-size benchmark applies; impact is null as only g and test statistics are printed.
+Meta-analysis of 10 single-case experimental design studies using between-case standardized mean difference effect sizes estimated with the scdhlm package. The pooled BC-SMD was "g = 1.50; SE = 0.38; df = 7.46; p < 0.01". No standardized effect-size benchmark applies;, so impact is coded i? (no magnitude reported; not a null effect) as only g and test statistics are printed.
 
 > "The weighted mean effect on combined literacy outcomes was also positive and significant at an alpha of 0.05 (g = 1.50; SE = 0.38; df = 7.46; p < 0.01; 95% CI [0.62–2.38])."
 

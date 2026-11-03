@@ -46,7 +46,7 @@ Franco Londra, Magalí Martínez, Gaston Saux. (2025). Sources within sources: T
 
 `q2 · i?` · `causal · r2`
 
-Wilcoxon-style contrast of ES trustworthiness scores against the DS manipulation check, reported in the Discussion. The article prints "HT-ES Mdn = 5, HT-DS Mdn = 8, W = 1385, p <.001, rpb =.736"; no standardized effect size in d-type units is printed, so impact is null.
+Wilcoxon-style contrast of ES trustworthiness scores against the DS manipulation check, reported in the Discussion. The article prints "HT-ES Mdn = 5, HT-DS Mdn = 8, W = 1385, p <.001, rpb =.736"; no standardized effect size in d-type units is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "HT-ES Mdn = 5, HT-DS Mdn = 8, W = 1385, p <.001,  rpb =.736"
 

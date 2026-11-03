@@ -47,4 +47,4 @@ Diagnostic analysis of teachers' utterances on different themes, conducted on th
 
 ## Related Claims
 - [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](six-dialogic-attributes-significant-gains.md) — related
-- [Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related

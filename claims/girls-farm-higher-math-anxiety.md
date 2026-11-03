@@ -37,7 +37,7 @@ McLean, L., Janssen, J., Espinoza, P., Lindstrom Johnson, S., & Jimenez, M. (202
 
 `q3 · i?` · `associational · r2`
 
-Covariates-only regression model for mathematics from the aim-specific analyses of 463 fourth-grade students. Unstandardized coefficients are printed (B = 0.24 sex; B = 0.26 FARM; B = 0.61 stability); no standardized effect sizes are reported, so impact is null.
+Covariates-only regression model for mathematics from the aim-specific analyses of 463 fourth-grade students. Unstandardized coefficients are printed (B = 0.24 sex; B = 0.26 FARM; B = 0.61 stability); no standardized effect sizes are reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "girls and students enrolled in FARM had higher Time 2 mathematics anxiety (B = 0.24, p < .01 for sex; B = 0.26, p < .01 for FARM) and higher Time 1 mathematics anxiety was associated with higher Time 2 mathematics anxiety (B = 0.61, p < .01)."
 

@@ -37,7 +37,7 @@ Chrysi Rapanta & Mark K. Felton. (2022). Learning to Argue Through Dialogue: a R
 
 `q2 · i?` · `review · r3`
 
-The review's descriptive comparison of fostering-method distributions across the four study patterns. The authors observe that "the more we move from low-structured sensemaking to high-structured deliberation, the more concrete the teacher 's role becomes", describing a shift from facilitator to challenger. No effect size is printed, so impact is null.
+The review's descriptive comparison of fostering-method distributions across the four study patterns. The authors observe that "the more we move from low-structured sensemaking to high-structured deliberation, the more concrete the teacher 's role becomes", describing a shift from facilitator to challenger. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the more we move from low-structured sensemaking to high-structured deliberation, the more concrete the teacher 's role becomes, from being a dialogue facilitator to an encourager of transactive reasoning, and from being a thinking guide to a challenger and a critical thinker."
 

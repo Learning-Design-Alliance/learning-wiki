@@ -38,7 +38,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q2 · i?` · `causal · r2`
 
-Structural model paths from the same PLS-SEM analysis of 180 participants; the article prints β and t values for each path but no standardized effect sizes, so impact is null. Perceived ease of use also predicted perceived usefulness (β = .32, t = 2.91, p = .004).
+Structural model paths from the same PLS-SEM analysis of 180 participants; the article prints β and t values for each path but no standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect). Perceived ease of use also predicted perceived usefulness (β = .32, t = 2.91, p = .004).
 
 > "instructor guidance moderated learning outcomes (H5: β = .23, t = 2.38, p = .018), prior technology experience affected ease of use perceptions (H6: β = .19, t = 2.05, p = .042), and instructor endorsement contributed to perceived usefulness (H7: β = .21, t = 2.17, p = .031). This pattern of differential significance suggests that student-centered perceptual factors exert stronger influence than external contextual variables in GenAI acceptance"
 

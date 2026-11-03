@@ -37,7 +37,7 @@ Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of 
 
 `q3 · i?` · `causal · r2`
 
-Fuzzy RD using local linear regression with a triangle kernel and bandwidth of 5 (optimal per Imbens and Kalyanaraman), comparing schools just above and just below state FRP thresholds in the 2003 NAEP sample. The study reports "exceeding the state threshold increases math achievement by 2.6 points" and reading by 4.4 points; no standardised effect size (d, g, r) is printed, so impact is null.
+Fuzzy RD using local linear regression with a triangle kernel and bandwidth of 5 (optimal per Imbens and Kalyanaraman), comparing schools just above and just below state FRP thresholds in the 2003 NAEP sample. The study reports "exceeding the state threshold increases math achievement by 2.6 points" and reading by 4.4 points; no standardised effect size (d, g, r) is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "exceeding the state threshold increases math achievement by 2.6 points (with a standard error of 1.242) or 9.1 percent of a standard deviation and reading achievement by 4.4 points (with a standard error of 1.820) or 12.2 percent of a standard deviation"
 

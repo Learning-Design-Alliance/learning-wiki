@@ -37,7 +37,7 @@ Fekete, I. (2026). Between Promise and Practice: Bridging Ethical Artificial Int
 
 `q3 · i?` · `associational · r1`
 
-Correlation analyses on the instructor questionnaire sample (n = 256) indicated that "instructors’ moral awareness and intention grow parallel with institutional and social support". No correlation coefficients are printed, so impact is null.
+Correlation analyses on the instructor questionnaire sample (n = 256) indicated that "instructors’ moral awareness and intention grow parallel with institutional and social support". No correlation coefficients are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Correlation analyses indicated that instructors’ moral awareness and intention grow parallel with institutional and social support"
 

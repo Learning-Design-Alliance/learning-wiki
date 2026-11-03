@@ -39,7 +39,7 @@ Byun, C.H.C. (2014). The Prisoner's Dilemma and economics 101: Do active learnin
 
 `q2 · i?`
 
-Bivariate OLS regression (N = 71) of overall course score on the Grade Game choice dummy, reported in Table 2 with coefficient -9.31 (SE 3.70, *p < .05). The article prints no standardized effect size, so impact is null.
+Bivariate OLS regression (N = 71) of overall course score on the Grade Game choice dummy, reported in Table 2 with coefficient -9.31 (SE 3.70, *p < .05). The article prints no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Based on the fitted line, we predict that a student will score 9.3 points lower overall if he chooses to Cooperate in the Grade Game (significant at the 5% level)."
 

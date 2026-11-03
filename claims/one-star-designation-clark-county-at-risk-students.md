@@ -38,7 +38,7 @@ Tanner, S., Krausen, K., Garcia, B., & Brown, A. (2025). Understanding the At-ri
 
 `q2 · i?` · `causal · r2`
 
-RDD analysis of Clark County students designated At-risk, using spring 2024 grade-standardized math and ELA scores against 2022/23 school index scores centered at the One-Star threshold. "Figure 8 shows the effect for math scores: a 0.2 standard deviation increase due to One-Star status," significant; the 0.08 ELA effect was not statistically significant. The report prints threshold jumps, not standardized effect-size statistics, so impact is null.
+RDD analysis of Clark County students designated At-risk, using spring 2024 grade-standardized math and ELA scores against 2022/23 school index scores centered at the One-Star threshold. "Figure 8 shows the effect for math scores: a 0.2 standard deviation increase due to One-Star status," significant; the 0.08 ELA effect was not statistically significant. The report prints threshold jumps, not standardized effect-size statistics, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Figure 8 shows the effect for math scores: a 0.2 standard deviation increase due to One-Star status. This is smaller than the effect for students overall, but it is still large enough to be statistically significant."
 

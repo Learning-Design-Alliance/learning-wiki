@@ -37,7 +37,7 @@ J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowi
 
 `q3 · i?` · `causal · r2`
 
-Null result from experiment 2's cognitive battery: the randomized three-group trial found no group × session interaction on a stimulus detection task or the digit symbol substitution task; no effect size printed, so impact is null. Equivalence was not tested.
+Null result from experiment 2's cognitive battery: the randomized three-group trial found no group × session interaction on a stimulus detection task or the digit symbol substitution task; no effect size printed, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "as no group X session interactions were found on two processing speed tasks (a stimulus detection task and the digit symbol substitution task; see Supplementary Table 2)"
 

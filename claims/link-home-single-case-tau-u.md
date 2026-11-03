@@ -46,7 +46,7 @@ Baker, D. L., Mogna, V., Rodriguez, S., Farmer, D., & Yovanoff, P. (2016). Build
 
 `q2 · i?` · `causal · r1`
 
-Replicated single-case design with four mother-child dyads; visual analysis plus Tau-U statistics computed with a web-based calculator. The article reports Tau-U ranged from 0.82 to 1, p , .01 for three children and Tau-U = 0.40 (ns) then 0.76 (p , .05) for Roberto; no standardised effect size is printed, so impact is null.
+Replicated single-case design with four mother-child dyads; visual analysis plus Tau-U statistics computed with a web-based calculator. The article reports Tau-U ranged from 0.82 to 1, p , .01 for three children and Tau-U = 0.40 (ns) then 0.76 (p , .05) for Roberto; no standardised effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The overall effect size taking all the data between baseline and intervention for the four young ELs was 0.76 and between baseline and maintenance was 0.87. The larger effect size between baseline and maintenance than between baseline and intervention suggests that young ELs continued to increase their expressive vocabulary even after the intervention ended."
 

@@ -244,7 +244,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+M] — instruction changes it
 - [In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)](../claims/link-home-single-case-tau-u.md) [+M] — instruction changes it
 - [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [-M] — an instructional effect differs with it
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — instruction changes it
+- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

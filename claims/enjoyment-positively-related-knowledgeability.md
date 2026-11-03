@@ -37,7 +37,7 @@ Nitaya Wongpinunwatana. (2013). Enhancing Information Systems Auditing Knowledge
 
 `q2 · i?` · `causal · r1`
 
-Simple regression on the 75-participant sample (Table 3: F=7.692, p=0.007, R2=0.095); the article states "the relationship between perceived enjoyment and perceived knowlegeability was positive". R2 is variance explained, not an effect size, so impact is null.
+Simple regression on the 75-participant sample (Table 3: F=7.692, p=0.007, R2=0.095); the article states "the relationship between perceived enjoyment and perceived knowlegeability was positive". R2 is variance explained, not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Statistical significant support was obtained for the effects of perceived enjoyment of learning on perceived knowledgeability with a p-value of 0. 007 (see Table 3)"
 

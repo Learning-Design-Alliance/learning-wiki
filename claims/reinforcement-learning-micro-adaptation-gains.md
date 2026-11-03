@@ -37,7 +37,7 @@ Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED i
 
 `q2 · i?` · `theoretical · r3`
 
-The article reports, citing Chi et al. (2014), that reinforcement learning was used to optimize dialog-based ITS interactions in the Cordillera Physics system, with "potential gains of up to 1 σ" over poorly-optimized dialog or no dialog. The article does not print an effect size statistic beyond the 1 σ figure, so impact is null.
+The article reports, citing Chi et al. (2014), that reinforcement learning was used to optimize dialog-based ITS interactions in the Cordillera Physics system, with "potential gains of up to 1 σ" over poorly-optimized dialog or no dialog. The article does not print an effect size statistic beyond the 1 σ figure, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Chi et al. (2014)u s e d reinforcement learning to optimize dialog-based ITS interactions in the Cordillera system for Physics, which showed potential gains of up to 1 σ over poorly-optimized dialog or no dialog."
 

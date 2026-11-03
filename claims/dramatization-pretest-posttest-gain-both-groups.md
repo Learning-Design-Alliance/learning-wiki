@@ -37,7 +37,7 @@ Dowlati, E., Musick, D. W., Zhang, L., Thornton, K., & Carvalho, H. (2016). Use 
 
 `q3 · i?` · `causal · r1`
 
-Within-group comparison on the 13-item cardiac cycle assessment administered immediately before and after the dramatization activity. The article reports the increase as "signifi cantly" higher with "p<0.0001" but prints no effect size, so impact is null.
+Within-group comparison on the 13-item cardiac cycle assessment administered immediately before and after the dramatization activity. The article reports the increase as "signifi cantly" higher with "p<0.0001" but prints no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Scores for both groups increased signifi cantly on the immediate posttest compared to pretest (p<0.0001)."
 

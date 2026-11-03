@@ -37,7 +37,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r2`
 
-The review's ability-beliefs section reports Jacob et al. (2020b), a study after a photosynthesis learning unit in which secondary students engaged in written/oral non-interactive teaching or restudy; no main effect of teaching was obtained, only the moderation. No effect size in this quote, so impact is null.
+The review's ability-beliefs section reports Jacob et al. (2020b), a study after a photosynthesis learning unit in which secondary students engaged in written/oral non-interactive teaching or restudy; no main effect of teaching was obtained, only the moderation. No effect size in this quote, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Students with low levels of self-concept profited from non-interactive teaching as compared to restudy, while those with high self-concept did not."
 

@@ -76,7 +76,7 @@ Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H.
 
 `q2 · i?` · `causal · r2`
 
-Post hoc model comparison: the best prediction combined neural and traditional measures, indicating neural change should bolster rather than replace traditional assessments. Adjusted R2 is not a standardized effect size, so impact is null.
+Post hoc model comparison: the best prediction combined neural and traditional measures, indicating neural change should bolster rather than replace traditional assessments. Adjusted R2 is not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the strongest fit among all models was achieved by a model combining the two neural change variables (ΔaIPS_EFT and ΔIPL_EFT) with three performance-based assessments (ΔEFT, ΔMRT, and PSAT; adjusted R2 = 0.39; table S53)."
 

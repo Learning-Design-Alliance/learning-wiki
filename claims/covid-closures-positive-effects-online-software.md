@@ -45,7 +45,7 @@ Hammerstein Svenja, König Christoph, Dreisörner Thomas, Frey Andreas. (2021). 
 
 `q2 · i?` · `review · r2`
 
-Review synthesis of the three positive-effect studies (Meeter, +0.20 SD mathematics; Spitzer and Musslick, −2.43% error rate; van der Velde, +0.25 SD French). No standardized effect size is printed for the pooled positive pattern, so impact is null.
+Review synthesis of the three positive-effect studies (Meeter, +0.20 SD mathematics; Spitzer and Musslick, −2.43% error rate; van der Velde, +0.25 SD French). No standardized effect size is printed for the pooled positive pattern, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Three studies reported positive effects of COVID-19 related school closures on student achievement."
 

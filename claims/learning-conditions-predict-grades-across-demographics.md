@@ -56,7 +56,7 @@ Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N.,
 
 `q2 · i?` · `associational · r2`
 
-Moderation test reported in the results text for the same sample; the report prints no test statistic or effect size for the moderation, so impact is null.
+Moderation test reported in the results text for the same sample; the report prints no test statistic or effect size for the moderation, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The relationship between learning conditions and math grades was not moderated by race or by qualifying for FRPL vs. not qualifying."
 

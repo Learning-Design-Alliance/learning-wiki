@@ -37,7 +37,7 @@ Julie Sarno Owens, Erika K. Coles, Steven W. Evans, Lina K. Himawan, Erin Girio-
 
 `q2 · i?` · `causal · r2`
 
-Aim 2 slope analyses comparing consultation conditions within latent class and high/low baseline skill groups (median split) in the 58-teacher pilot. The article states these comments "are based on effect sizes not statistical tests"; the Results text prints no effect size values for this contrast, so impact is null.
+Aim 2 slope analyses comparing consultation conditions within latent class and high/low baseline skill groups (median split) in the 58-teacher pilot. The article states these comments "are based on effect sizes not statistical tests"; the Results text prints no effect size values for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "teachers who had lower knowledge and intervention-supportive beliefs (Latent Class 2), who started below the median on a given skill (Low Baseline) demonstrated greater change in the multi-component condition relative to the comparison condition"
 

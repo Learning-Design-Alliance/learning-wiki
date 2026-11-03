@@ -37,7 +37,7 @@ Angela Oates · Donna Johnson. (2025). ChatGPT in the Classroom: Evaluating its 
 
 `q2 · i?` · `design · r2`
 
-Paired t-test on marks of ten master's participants for their critical evaluations versus overall course averages. The article reports a significant improvement with "mean difference of 9%"; no standardized effect size is printed, so impact is null.
+Paired t-test on marks of ten master's participants for their critical evaluations versus overall course averages. The article reports a significant improvement with "mean difference of 9%"; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There was, however, a significant improve- ment in the outcomes for the critical evaluations when compared to the overall aver- age course marks (paired t test, p = 0.04, mean difference of 9%)."
 

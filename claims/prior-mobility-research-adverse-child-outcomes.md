@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q2 · i?` · `associational · r2`
 
-Background literature cited in the article's introduction, reported as the article attributes it (citing Adam, 2004; Adam & Chase-Lansdale, 2002; Astone & McLanahan, 1994). The article notes moves often occur in response to parental transitions that can be positive or negative for children. No effect sizes are printed, so impact is null.
+Background literature cited in the article's introduction, reported as the article attributes it (citing Adam, 2004; Adam & Chase-Lansdale, 2002; Astone & McLanahan, 1994). The article notes moves often occur in response to parental transitions that can be positive or negative for children. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The disruptive nature of moving (e.g., interference with activities and routines) is often cited as the factor underlying its influence on children (Adam, 2004)."
 

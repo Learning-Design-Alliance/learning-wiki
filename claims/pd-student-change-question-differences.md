@@ -38,7 +38,7 @@ Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). P
 
 `q2 · i?` · `causal · r2`
 
-Chi-square analysis of student CQ responses in three groups (N = 239). Of the co-designers 86.8% noticed improvement versus 64.1% of the rest of the class and 8.8% of the control group. Only the test statistic is printed; no effect size, so impact is null.
+Chi-square analysis of student CQ responses in three groups (N = 239). Of the co-designers 86.8% noticed improvement versus 64.1% of the rest of the class and 8.8% of the control group. Only the test statistic is printed; no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The results of the analyses of the student responses to the CQ revealed significant differences between the responses of the co-designing students, the rest of the class, and the control group, v2(8, N = 239) = 107.29, p\ 0.01. Of the co-designers 86.8% noticed improvement in educational practice, 13.2% noticed no changes, and nobody noticed worsening."
 

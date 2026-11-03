@@ -46,7 +46,7 @@ Anil Kamat, Basiel Makled, Jack Norfleet, Steven D. Schwaitzberg, Xavier Intes, 
 
 `q3 · i?` · `associational · r1`
 
-Multiple regression (with backward elimination) on the coefficient of variation measures from seven experts and six novices across five trials; the article reports the significant model with F(2,22)=3.912, p=0.035, "R2 = 0.262". R-squared is not an effect size, so impact is null.
+Multiple regression (with backward elimination) on the coefficient of variation measures from seven experts and six novices across five trials; the article reports the significant model with F(2,22)=3.912, p=0.035, "R2 = 0.262". R-squared is not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the CoV of the FLS score was statistically signi ﬁcantly related to the CoV of the interregional directed functional connectivity from RPMC to LPMC and LPMC to LPFC with F (2, 22) = 3.912, p = 0.035, and R2 = 0.262"
 
@@ -56,7 +56,7 @@ Anil Kamat, Basiel Makled, Jack Norfleet, Steven D. Schwaitzberg, Xavier Intes, 
 
 `q3 · i?` · `associational · r1`
 
-Path analysis (Table 2, Supplementary Fig. 4) for the CoV brain-behavior relation; the article prints regression weights of 0.21 (RPMC-to-LPMC) and −0.30 (LPMC-to-LPFC), both "statistically signiﬁcant" after FDR control. Unstandardised weights are not effect sizes, so impact is null.
+Path analysis (Table 2, Supplementary Fig. 4) for the CoV brain-behavior relation; the article prints regression weights of 0.21 (RPMC-to-LPMC) and −0.30 (LPMC-to-LPFC), both "statistically signiﬁcant" after FDR control. Unstandardised weights are not effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the regression weight estimates for the CoV of the RPMC to LPMC was 0.21, and that for t h eC o Vo ft h eL P M Ct oL P F Cw a s −0.30. Both values were statistically signiﬁcant"
 

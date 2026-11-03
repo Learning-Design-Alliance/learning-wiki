@@ -37,7 +37,7 @@ Philip Parker, Kelly-Ann Allen, Rhiannon Parker, Jiesi Guo, Herbert W Marsh, Gee
 
 `q3 · i?` · `associational · r3`
 
-Marginal-effects analysis from the NEET models; the article notes about 10% of Australian youth aged 15-24 are NEET, making this a notable effect. No standardized effect size is printed, so impact is null.
+Marginal-effects analysis from the NEET models; the article notes about 10% of Australian youth aged 15-24 are NEET, making this a notable effect. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Indeed, for youth who did not complete high-school, those who strongly felt like they belonged (+2 SD above the mean) were five percentage points less likely to be NEET than those who strongly felt like they did not belong at school (-2 SD below the mean)."
 

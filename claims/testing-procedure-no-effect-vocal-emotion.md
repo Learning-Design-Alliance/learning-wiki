@@ -37,7 +37,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r3`
 
-Mixed-model comparison in the children-adolescents sample (133 paper-tested, 92 computer-tested). The article reports non-significant tests only, with no effect size printed, so impact is null; equivalence was not formally tested.
+Mixed-model comparison in the children-adolescents sample (133 paper-tested, 92 computer-tested). The article reports non-significant tests only, with no effect size printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not formally tested.
 
 > "There was no effect of testing proce- dure [Z-Wald = 0.2334; p = 0.81) nor interaction with the other factors (with age, Z = −0.179, p = 0.85; with sex: z = −0.19, p = 0.85)."
 

@@ -37,7 +37,7 @@ Xiaoyun Chen, Katherine E. Twomey, Miranda Hayes, Gert Westermann. (2024). The l
 
 `q3 · i?` · `associational · r1`
 
-Binomial GLMM on 4010 incorrect-guess trials from 100 adults; the article reports "curiosity did not have a significant effect on recall accuracy ( β(logit) = 0.07, SE = 0.05, z = 1.38, p =.17)". No effect size was printed, so impact is null; equivalence was not tested.
+Binomial GLMM on 4010 incorrect-guess trials from 100 adults; the article reports "curiosity did not have a significant effect on recall accuracy ( β(logit) = 0.07, SE = 0.05, z = 1.38, p =.17)". No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "curiosity did not have a significant effect on recall accuracy ( β(logit) = 0.07, SE = 0.05, z = 1.38, p =.17)"
 

@@ -37,7 +37,7 @@ Tacoma, S., Heeren, B., Jeuring, J., & Drijvers, P. (2020). Intelligent Feedback
 
 `q3 · i?` · `causal · r2`
 
-Comparison of follow-up task performance between groups in the randomized experiment, on 31 follow-up sub-tasks without intelligent feedback. No significant difference was reported and no effect size was printed, so impact is null; equivalence was not tested.
+Comparison of follow-up task performance between groups in the randomized experiment, on 31 follow-up sub-tasks without intelligent feedback. No significant difference was reported and no effect size was printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "the mean ratio of correct answers was 0.72 (SD = 0.07) in the experimental group and 0.71 (SD =0 . 0 8 ) in the control group"
 

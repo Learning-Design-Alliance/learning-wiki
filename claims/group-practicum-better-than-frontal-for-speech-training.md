@@ -48,6 +48,6 @@ The authors' interpretive assertion (type e) offered in the methods discussion, 
 - [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on

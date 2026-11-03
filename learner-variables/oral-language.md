@@ -253,7 +253,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+M] — instruction changes it
 - [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](../claims/oral-language-supports-early-writing-development.md) [+M] — learners who differ on it differ in outcomes
 - [Students with trained teachers scored significantly higher on spoken English, listening, reading and words-memory subtests](../claims/phonics-trained-teachers-students-better-subskills.md) [+M] — instruction changes it
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — instruction changes it
+- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

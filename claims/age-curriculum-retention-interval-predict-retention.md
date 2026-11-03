@@ -56,7 +56,7 @@ Albert Francis A., Seidu Abdul-Aziz, Mason Hannah M., Anderson Emma, Alele Faith
 
 `q3 · i?` · `review · r3`
 
-Review synthesis across four disciplines; Table 2 prints retention interval β = −0.31, p < 0.01 for the doctors' study. The quoted sentence itself prints no effect size, so impact is null.
+Review synthesis across four disciplines; Table 2 prints retention interval β = −0.31, p < 0.01 for the doctors' study. The quoted sentence itself prints no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Retention interval was inversely related to scores and predicted knowledge recall/ performance in four basic science disciplines (anatomy, physiology, biochemistry, and pharmacology)."
 

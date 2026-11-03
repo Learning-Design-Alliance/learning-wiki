@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-03
 evidence_strength: moderate
-newest_evidence: 2017
+newest_evidence: 2018
 sources:
-  - id: bataineh-et-al-2017
+  - id: bataineh-et-al-2018
     resource: "https://eric.ed.gov/?id=EJ1177754"
-    title: "Ruba Fahmi Bataineh, Raghda Fayez Al-Hamad and Dina Abdulhameed Al-Jamal. (2017). GENDER AND EFL WRITING: DOES WHATSAPP MAKE A DIFFERENCE? Teaching English with Technology, 18(2), 21-33. https://eric.ed.gov/?id=EJ1177754"
+    title: "Ruba Fahmi Bataineh, Raghda Fayez Al-Hamad and Dina Abdulhameed Al-Jamal. (2018). GENDER AND EFL WRITING: DOES WHATSAPP MAKE A DIFFERENCE? Teaching English with Technology, 18(2), 21-33. https://eric.ed.gov/?id=EJ1177754"
     author: Ruba Fahmi Bataineh, Raghda Fayez Al-Hamad and Dina Abdulhameed Al-Jamal
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Independent-samples t-tests on the pre-test showed no statistically significant differences at α=0.05 between the male and female groups on any writing aspect or the total score. [→ Bataineh et al. 2017](#bataineh-et-al-2017)
+`q2 i?` Independent-samples t-tests on the pre-test showed no statistically significant differences at α=0.05 between the male and female groups on any writing aspect or the total score. [→ Bataineh et al. 2018](#bataineh-et-al-2018)
 
 ## Evidence
 
-### Bataineh et al. 2017
+### Bataineh et al. 2018
 
-Ruba Fahmi Bataineh, Raghda Fayez Al-Hamad and Dina Abdulhameed Al-Jamal. (2017). GENDER AND EFL WRITING: DOES WHATSAPP MAKE A DIFFERENCE? Teaching English with Technology, 18(2), 21-33. https://eric.ed.gov/?id=EJ1177754
+Ruba Fahmi Bataineh, Raghda Fayez Al-Hamad and Dina Abdulhameed Al-Jamal. (2018). GENDER AND EFL WRITING: DOES WHATSAPP MAKE A DIFFERENCE? Teaching English with Technology, 18(2), 21-33. https://eric.ed.gov/?id=EJ1177754
 
 `q2 · i?` · `causal · r1`
 
@@ -45,5 +45,5 @@ Pre-test comparison of the two intact sections (37 male and female students per 
 
 
 ## Related Claims
-- [Female participants significantly outperformed male participants on all four writing aspects of the post-test following WhatsApp-based instruction](females-outperform-males-whatsapp-writing-posttest.md) — related
-- [WhatsApp-based instruction improved Jordanian eleventh-graders' EFL writing performance on all four writing aspects after an eight-week treatment](whatsapp-instruction-improves-efl-writing-performance.md) — related
+- [The female class section scored significantly higher than the male section on all four writing aspects of the post-test after WhatsApp-based instruction, though not on the total score; sex and class section coincide, so the difference cannot be attributed to gender](females-outperform-males-whatsapp-writing-posttest.md) — related
+- [After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported](whatsapp-instruction-improves-efl-writing-performance.md) — related

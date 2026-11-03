@@ -37,7 +37,7 @@ Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention
 
 `q3 · i?` · `causal · r3`
 
-Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 offered admission, 432 not offered) across 16 oversubscribed KIPP middle schools in 12 states and DC. Table A1 reports mathematics +7 (455 students) and English language arts +6 (458 students), both statistically significant. Meets WWC standards without reservations. No standardized effect size is printed, so impact is null.
+Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 offered admission, 432 not offered) across 16 oversubscribed KIPP middle schools in 12 states and DC. Table A1 reports mathematics +7 (455 students) and English language arts +6 (458 students), both statistically significant. Meets WWC standards without reservations. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The authors reported, and the WWC confirmed, a positive and statistically significant difference between KIPP students and the comparison students for the middle school lottery sample measured in the third follow-up year after KIPP entry."
 

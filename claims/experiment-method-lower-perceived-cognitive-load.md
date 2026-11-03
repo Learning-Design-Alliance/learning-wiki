@@ -37,7 +37,7 @@ Branka Radulović, Maja Stojanović. (2015). Determination Instructions Efficien
 
 `q2 · i?` · `causal · r1`
 
-One-way analysis of variance on subjective cognitive-load ratings (Likert scale 1 very easy to 5 very difficult) filled after the knowledge test. The article reports "a statistically significant difference at the level of p <  0.05" with "coefficient fi = 0.82"; no standardised effect size is printed, so impact is null.
+One-way analysis of variance on subjective cognitive-load ratings (Likert scale 1 very easy to 5 very difficult) filled after the knowledge test. The article reports "a statistically significant difference at the level of p <  0.05" with "coefficient fi = 0.82"; no standardised effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "It was found a statistically significant difference at the level of p <  0.05 perceived cognitive load two teaching methods. The coefficient fi = 0.82 shows a large impact on te aching methods perceived cognitive load."
 

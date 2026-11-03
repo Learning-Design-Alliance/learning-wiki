@@ -38,7 +38,7 @@ Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education polic
 
 `q2 · i?` · `associational · r2`
 
-CP model analysis comparing within-year Z-scores to grades 2–6 growth Z-scores for the same schools, using a consistent student sample. Correlations were "highest for third grade with estimates of roughly .095" in both math and reading; no effect size beyond the correlation is printed, so impact is null.
+CP model analysis comparing within-year Z-scores to grades 2–6 growth Z-scores for the same schools, using a consistent student sample. Correlations were "highest for third grade with estimates of roughly .095" in both math and reading; no effect size beyond the correlation is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In math and reading, the correlations between Z scores for short- and long-term growth are highest for third grade with estimates of roughly .095. These results indicate that the gains attributable to schools within a single year are only tenuously associated with growth produced during elementary school."
 

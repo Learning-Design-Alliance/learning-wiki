@@ -37,7 +37,7 @@ Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: T
 
 `q2 · i?` · `causal · r1`
 
-Efficacy verification section reports pre-post questionnaire scores for the robot group in a quasi-experiment with eight students per modality. The article reports a "statistically significant improvement, p<.05" with a +27.06% gain; no effect size is printed, so impact is null.
+Efficacy verification section reports pre-post questionnaire scores for the robot group in a quasi-experiment with eight students per modality. The article reports a "statistically significant improvement, p<.05" with a +27.06% gain; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The robot group exhibited a statistically significant improvement, p<.05 (pre-test: M,= 70.83, σ = 18.15; post-test: M,= 90.00, σ = 9.43; +27.06%)."
 

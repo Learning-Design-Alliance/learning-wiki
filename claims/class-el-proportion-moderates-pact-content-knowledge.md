@@ -46,7 +46,7 @@ Vaughn, S., Martinez, L. R., Wanzek, J., Roberts, G., Swanson, E., & Fall, A.-M.
 
 `q3 · i?` · `causal · r2`
 
-Three-level regression on ASK posttest scores in the class-randomized RCT; the three-way interaction coefficient was −.08, p < .01. No effect size is printed for the interaction, so impact is null.
+Three-level regression on ASK posttest scores in the class-randomized RCT; the three-way interaction coefficient was −.08, p < .01. No effect size is printed for the interaction, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The significant three-way interaction ( /H9253500 /H11005/H11002.08, p /H11021.01) means that the regression coefficient for the interaction of Intervention and EL, /H9253300 /H110052.35, is conditional on values of Class % of ELs ."
 

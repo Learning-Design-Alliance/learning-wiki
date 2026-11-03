@@ -47,7 +47,7 @@ Wen Wu, Li Chen, Qingchang Yang, You Li. (2019). Inferring Students' Personality
 
 `q3 · i?` · `associational · r2`
 
-Two independent-sample t-tests on the 164-student cohort comparing personality trait scores by gender; only test statistics are printed, no effect size, so impact is null.
+Two independent-sample t-tests on the 164-student cohort comparing personality trait scores by gender; only test statistics are printed, no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "through two independent sample t-test, we find that males scored significantly higher on Openness to Expe- rience (t(162)=2.899, p< 0.05) and Extraversion (t(162)=3.046, p< 0.05) than females"
 

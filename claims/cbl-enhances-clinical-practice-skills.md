@@ -37,7 +37,7 @@ Chen Min, Li Xinyao, Liu Qingming, Zhou Jing, Fan Xiaofang, Liu Yantao, Lin Yunz
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of two of six questionnaire-survey studies (659 students assessed overall) with quantitative data. High heterogeneity (I2 = 75%); no standardized effect size printed, so impact is null.
+Meta-analysis of two of six questionnaire-survey studies (659 students assessed overall) with quantitative data. High heterogeneity (I2 = 75%); no standardized effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Meta-analysis of the two studies [22, 23] with quantitative data showed that CBL significantly enhanced clinical practice skills compared to LBL (RR = 2.39, 95% CI [1.46–3.92], I2 = 75%, P < 0.05)"
 

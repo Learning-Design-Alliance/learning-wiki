@@ -39,7 +39,7 @@ Coogan P, Schon K, Li S, Cozier Y, Bethea T, Rosenberg L. (2020). Experiences of
 
 `q3 · i?` · `associational · r3`
 
-Mediation analysis using the difference method with the %Mediate macro in the BWHS cohort. The proportion of excess poor SCF attributable to depression was "31% (95% CI 23% to 39%)" and to insomnia "41% (95% CI 33% to 50%)". For institutional racism, the proportions were 23% and 43% respectively. No standardized effect size is printed for the mediation proportions, so impact is null.
+Mediation analysis using the difference method with the %Mediate macro in the BWHS cohort. The proportion of excess poor SCF attributable to depression was "31% (95% CI 23% to 39%)" and to insomnia "41% (95% CI 33% to 50%)". For institutional racism, the proportions were 23% and 43% respectively. No standardized effect size is printed for the mediation proportions, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The proportion of excess poor SCF in women in the highest compared to the lowest quartile of daily racism attributable to depression (CES‐D ≥16) was 31% (95% CI 23% to 39%). The equivalent proportion of poor SCF attributable to moderate or severe insomnia (ISI ≥15) was 41% (95% CI 33% to 50%)"
 

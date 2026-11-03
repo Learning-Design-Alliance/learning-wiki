@@ -37,7 +37,7 @@ Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive vers
 
 `q3 · i?` · `causal · r3`
 
-Exploratory latent profile analysis (BIC-supported five-profile solution) followed by regression of posttest performance on condition and profile in the N = 132 experiment. The article reports the printed β, p, and η²p values; no standardized effect size for the interactions is printed, so impact is null.
+Exploratory latent profile analysis (BIC-supported five-profile solution) followed by regression of posttest performance on condition and profile in the N = 132 experiment. The article reports the printed β, p, and η²p values; no standardized effect size for the interactions is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The main effect of condition was not significant (β = −0.22, p = .511, η²p = .00), and no significant interaction effects between condition and profile were observed (ps ≥ .198, η²p = .02), indicating that the profiles did not moderate the effectiveness of the adaptive ITS system."
 

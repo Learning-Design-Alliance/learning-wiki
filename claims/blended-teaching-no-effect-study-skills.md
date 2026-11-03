@@ -37,7 +37,7 @@ Wadha H. Al-Otaibi. (2017). The Effectiveness of Blackboard-Based Blended Teachi
 
 `q2 · i?` · `causal · r1`
 
-ANOVA on the post-scale of university study skills (52 items, reliability 0.94) in the same quasi-experiment; the second null hypothesis was accepted. No effect size is printed, so impact is null; equivalence was not tested.
+ANOVA on the post-scale of university study skills (52 items, reliability 0.94) in the same quasi-experiment; the second null hypothesis was accepted. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "Table 12 shows no statistically significant differences in the university study skills. (F) Value for university study skills scale and its sub-levels rated (0.001, 1.09, 0.02, 0.70, 0.08, 0.91 and 0.42), respectively, at the level of (α ≤ 0.05)."
 

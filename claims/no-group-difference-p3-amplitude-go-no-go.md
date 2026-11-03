@@ -38,7 +38,7 @@ Bruce, J., & Kim, H. K. (2022). Behavioral and Electrophysiological Indices of I
 
 `q3 · i?` · `associational · r2`
 
-Repeated measures ANOVA of P3 peak amplitude in 212 adolescents: the group main effect was not significant (partial η2 = .00 in Table 3), while the trial-type main effect was large (partial η2 = .74). No effect size for the null group contrast is printed, so impact is null.
+Repeated measures ANOVA of P3 peak amplitude in 212 adolescents: the group main effect was not significant (partial η2 = .00 in Table 3), while the trial-type main effect was large (partial η2 = .74). No effect size for the null group contrast is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The main effects of electrode site and group were not significant. However, the main effect of trial was significant, with a more positive amplitude of the P3 during the no go trials (M = 15.60 μV) than during the go trials (M = 6.80 μV)."
 

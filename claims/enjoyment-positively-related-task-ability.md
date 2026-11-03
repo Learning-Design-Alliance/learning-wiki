@@ -37,7 +37,7 @@ Nitaya Wongpinunwatana. (2013). Enhancing Information Systems Auditing Knowledge
 
 `q2 · i?` · `causal · r1`
 
-Simple regression on the same sample (Table 4: F=17.281, p=0.000, R2=0.191); the article states "the relationship between perceived enjoyment and perceived ability to perform tasks was positive". R2 is variance explained, not an effect size, so impact is null.
+Simple regression on the same sample (Table 4: F=17.281, p=0.000, R2=0.191); the article states "the relationship between perceived enjoyment and perceived ability to perform tasks was positive". R2 is variance explained, not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Statistical significant support was obtained for the effects of perceived enjoyment of learning on perceived ability to perform tasks with a p-value of 0.000 (see Table 4)"
 

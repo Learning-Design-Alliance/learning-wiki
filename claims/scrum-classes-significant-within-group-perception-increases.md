@@ -37,7 +37,7 @@ Vogelzang, J., Admiraal, W. F., van Driel, J. H. (2021). Scrum methodology in co
 
 `q3 · i?` · `causal · r2`
 
-Paired t-tests within each experimental group on QAM scales: significant increases for top-teachers (self-regulation, collaboration), for growth-teachers (self-efficacy, classroom climate), and for the combined group (classroom climate, collaboration). The article states in the comparison group "we did not find significant increases or decreases"; no effect sizes are printed, so impact is null.
+Paired t-tests within each experimental group on QAM scales: significant increases for top-teachers (self-regulation, collaboration), for growth-teachers (self-efficacy, classroom climate), and for the combined group (classroom climate, collaboration). The article states in the comparison group "we did not find significant increases or decreases"; no effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In addition, for students taught by top-teachers we found significant increases for self-regulation (t(99) = − 2.509, p = 0.014) and collaboration (t(99) = − 5.085, p = 0.017)."
 

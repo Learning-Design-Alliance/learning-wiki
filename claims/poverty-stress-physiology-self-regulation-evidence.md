@@ -38,7 +38,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q2 · i?` · `associational · r2`
 
-Background literature cited in the article's introduction to support the experiential canalization framework, reported as the article attributes it (citing Zalewski et al., 2012; Blair & Raver, 2012; Raver et al., 2013). The article also notes children's exposure to additional family and neighborhood stressors has direct effects on self-regulatory outcomes. No effect sizes are printed, so impact is null.
+Background literature cited in the article's introduction to support the experiential canalization framework, reported as the article attributes it (citing Zalewski et al., 2012; Blair & Raver, 2012; Raver et al., 2013). The article also notes children's exposure to additional family and neighborhood stressors has direct effects on self-regulatory outcomes. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "preschoolers living in poverty are almost five times as likely to demonstrate disrupted patterns of diurnal cortisol as their nonpoor counterparts (Zalewski et al., 2012), and increased exposure to economic hardship is associated with significantly lower levels of cognitive self-regulation (Blair & Raver, 2012; Raver et al., 2013)."
 

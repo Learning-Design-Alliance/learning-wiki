@@ -39,7 +39,7 @@ The article prescribes a concrete procedure for realizing the communicatively de
 
 ## Claims
 
-- [Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics](../claims/communicatively-developing-methods-improve-teacher-coherent-speech.md) [+M]
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](../claims/communicatively-developing-methods-improve-teacher-coherent-speech.md) [+W]
 - [Baseline analysis of 600 teacher monologue utterances found most trainees made few mistakes, pointing to need for systematic work on oral text](../claims/baseline-600-utterances-teacher-speech-mistakes.md) [+M]
 - [Group form of orthoepic practicum work is reported as better than frontal form for trainees' individual recording and collective activity](../claims/group-practicum-better-than-frontal-for-speech-training.md) [+W]
 - [Early realization of a shared object/motive bonds adult course participants into a quasi-community](../claims/quasi-community-shared-object-motive.md) [+W]

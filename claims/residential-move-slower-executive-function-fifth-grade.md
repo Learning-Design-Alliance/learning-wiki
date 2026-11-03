@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q3 · i?` · `associational · r2`
 
-Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers responded "36.20 ms (or 0.22 standard deviations) slower" than nonmovers. No standardized effect size beyond the 0.22 SD descriptive difference is printed, so impact is null.
+Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers responded "36.20 ms (or 0.22 standard deviations) slower" than nonmovers. No standardized effect size beyond the 0.22 SD descriptive difference is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "children who experienced a move had slower response latencies (indicating greater dysregulation) on the Hearts and Flowers task than children who did not move (b = 36.20, SE = 16.84, p = .03)"
 

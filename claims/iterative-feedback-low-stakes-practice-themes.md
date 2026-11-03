@@ -47,7 +47,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q1 · i?` · `causal · r2`
 
-Thematic analysis (NVivo 14, intercoder κ = .83) of interviews with 30 purposively sampled students and bi-weekly reflection journals; percentages are proportions of coded citations, not effect sizes, so impact is null.
+Thematic analysis (NVivo 14, intercoder κ = .83) of interviews with 30 purposively sampled students and bi-weekly reflection journals; percentages are proportions of coded citations, not effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The dominant theme, enhanced legal understanding through AI-driven education, comprised 42% of all coded citations. Students emphasized how iFlytek Spark's immediate feedback enabled iterative learning. They could test hypotheses, receive instant responses, and refine their analyses through multiple rounds"
 
@@ -57,7 +57,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q1 · i?` · `causal · r2`
 
-The article reports, immediately after a student's account of iterative re-testing, that students "who engaged most actively in this iterative process tended to" perform better on post-test evaluations; it is an observational tendency with no statistic printed, so impact is null.
+The article reports, immediately after a student's account of iterative re-testing, that students "who engaged most actively in this iterative process tended to" perform better on post-test evaluations; it is an observational tendency with no statistic printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "If my reasoning was faulty, I simply revisit it, make new determinations, and test again, all without needing days for professors’ input." Students who engaged most actively in this iterative process tended to"
 

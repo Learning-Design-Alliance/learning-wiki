@@ -46,7 +46,7 @@ Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI
 
 `q3 · i?` · `associational · r2`
 
-Model-fit comparison in the Results section of the 432-participant regression study; the quadratic model's ΔR2 = .012 and both terms were significant. No standardized effect size is printed, so impact is null.
+Model-fit comparison in the Results section of the 432-participant regression study; the quadratic model's ΔR2 = .012 and both terms were significant. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "For appropriate reliance, the quadratic model explained more variance than the linear model (R2 =.185vs.R 2 =.173;∆R 2 =.012). Both the linear trust term (b=−3.18,SE= 0.43,t(429) =−7.45,p < .001) and the squared term (b= 0.56,SE= 0.22,t(429) = 2.55,p=.011) were statistically significant."
 

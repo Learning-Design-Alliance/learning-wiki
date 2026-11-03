@@ -38,7 +38,7 @@ Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education polic
 
 `q2 · i?` · `associational · r2`
 
-Fixed-effects estimates from the CP growth model fit to MAP Growth data, math centered at Grade 2 (Table 3). Estimates are model-based with printed standard errors; descriptive parameters only, so impact is null.
+Fixed-effects estimates from the CP growth model fit to MAP Growth data, math centered at Grade 2 (Table 3). Estimates are model-based with printed standard errors; descriptive parameters only, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "students increase their test scores between fall and spring of second grade by an estimated 13.4 RIT. However, that within-year growth from year one slows as students move through school at a rate of roughly 1.4 RIT per year."
 

@@ -17,7 +17,7 @@ sources:
 # POWER: the process approach strategies of planning, organizing, writing, editing, revising and rewriting delivered through WhatsApp
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study operationalizes the process approach to writing instruction as a six-strategy sequence the article names POWER: "planning, organizing, writing, editing, revising and rewriting." The researcher demonstrated each strategy in specific writing tasks, after which participants started writing according to POWER while the researcher and class teacher observed and facilitated their WhatsApp utilization for learning to write over eight weeks. The pattern combines explicit strategy demonstration with collaborative mobile-mediated practice.
@@ -38,7 +38,7 @@ The study operationalizes the process approach to writing instruction as a six-s
 - EFL writing performance through process-based planning, drafting and revision
 
 ### Claims
-- [Whatsapp Instruction Improves Efl Writing Performance](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [+M]
+- [After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [~W]
 
 ## Related Designs
 - [Whatsapp Based Efl Writing Treatment](whatsapp-based-efl-writing-treatment.md)

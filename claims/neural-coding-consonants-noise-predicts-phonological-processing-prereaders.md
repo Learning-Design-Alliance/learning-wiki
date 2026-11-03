@@ -35,7 +35,7 @@ White-Schwoch T, Woodruff Carr K, Thompson EC, Anderson S, Nicol T, Bradlow AR, 
 
 `q3 · i?` · `associational · r2`
 
-Hierarchical regression in a cohort of 37 4-y-olds (mean age 54.41 months) who had not yet learned to read; the model combined neural timing, trial-by-trial stability, and spectral-feature measures from a single FFR recording. The neural step added "ΔR2 = 0.488" over demographics, with total R2 = 0.684; no standardized effect size is printed, so impact is null.
+Hierarchical regression in a cohort of 37 4-y-olds (mean age 54.41 months) who had not yet learned to read; the model combined neural timing, trial-by-trial stability, and spectral-feature measures from a single FFR recording. The neural step added "ΔR2 = 0.488" over demographics, with total R2 = 0.684; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We found that neural coding of consonants in noise strongly predicted phonological processing in pre-readers over and above demographic factors (CELF P-2 Phonological Awareness; ΔR2 = 0.488, F[9,24] = 4.121, p = 0.003; total R2 = 0.684, F[12,36] = 4.328, p = 0.001"
 

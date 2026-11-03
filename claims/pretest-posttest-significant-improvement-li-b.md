@@ -37,7 +37,7 @@ Luksanaporn K, Naruporn K, Sasikarnt L. (2025). Global disparities in ophthalmol
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Single pretest-post-test study included in the review (Canada, n = 134); Table 1 reports "Significant improvement in pretest and post-test scores (p < 0.01)". Only a p-value is printed, so impact is null.
+Single pretest-post-test study included in the review (Canada, n = 134); Table 1 reports "Significant improvement in pretest and post-test scores (p < 0.01)". Only a p-value is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Significant improvement in pretest and post-test scores (p < 0.01). Most students felt they had minimal ophthalmology exposure (2.11/5) but expressed interest in additional lectures (4.02/5)."
 

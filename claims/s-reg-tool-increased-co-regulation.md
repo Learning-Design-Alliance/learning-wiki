@@ -37,7 +37,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r2`
 
-The review reports the S-Reg tool study attributed to Järvenoja et al. (2017), in which students were prompted to anticipate challenges and adapt regulation. It states "The S-Reg tool increased co-regulation" with hedging and no effect size, so impact is null.
+The review reports the S-Reg tool study attributed to Järvenoja et al. (2017), in which students were prompted to anticipate challenges and adapt regulation. It states "The S-Reg tool increased co-regulation" with hedging and no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The S-Reg tool increased co-regulation, which may indicate that it supported awareness of individual students' situational motivations and emotions and became concrete in shifting support with a peer (Järvenoja et al. 2017)."
 

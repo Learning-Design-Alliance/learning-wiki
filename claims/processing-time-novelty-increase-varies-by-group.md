@@ -46,7 +46,7 @@ Kucinkas, A., Retsa, C., Meijer, P. B. L., Wallace, M. T., Gori, M. & Murray, M.
 
 `q3 · i?` · `causal · r2`
 
-Evaluation-phase mixed ANOVA on processing time (seconds from response-option presentation to answer selection) with 60 sighted adults; "the Reversed group showed the largest increase in processing time for novel stimuli (+3.05 seconds)"; no effect size printed for this contrast, so impact is null.
+Evaluation-phase mixed ANOVA on processing time (seconds from response-option presentation to answer selection) with 60 sighted adults; "the Reversed group showed the largest increase in processing time for novel stimuli (+3.05 seconds)"; no effect size printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the Reversed group showed the largest increase in processing time for novel stimuli (+3.05 seconds), followed by the Traditional group (+2.53 seconds). In contrast, the Control group exhibited a smaller, though still statistically significant, increase (+0.83 seconds)."
 

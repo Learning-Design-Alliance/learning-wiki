@@ -99,6 +99,17 @@ def _impact_code(obj: dict, key: str) -> str | None:
         return "i?"
     return f"i{value}" if isinstance(value, int) and not isinstance(value, bool) else None
 
+_NULL_IMPACT = re.compile(r"(?:,\s*|\s+)(?:so\s+)?(?:no magnitude is claimed and\s+)?impact is null\b", re.I)
+
+
+def _no_null_impact(desc: str) -> str:
+    """The extraction model explains an i? entry as "no effect size is printed, so impact is null",
+    which says the opposite of the impact rule: i? means no magnitude was reported and is never read
+    as 0 (CLAUDE.md, impact magnitude). 329 entries carried it by 2026-11-03, and the load-bearing
+    judge kept failing them."""
+    return _NULL_IMPACT.sub(", so impact is coded i? (no magnitude reported; not a null effect)", desc)
+
+
 def _one_sentence(text: str, fallback: str) -> str:
     text = (text or "").strip()
     if not text:
@@ -300,6 +311,8 @@ def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
             _impact_code(ev, "impact"),
         ) if x)
         desc = (ev.get("description") or "").strip()
+        if _impact_code(ev, "impact") == "i?":
+            desc = _no_null_impact(desc)
         quote = (ev.get("source_quote") or "").strip()
         quote_block = f'\n\n> "{quote}"' if quote else ""
         ev_blocks.append(f"### {label}\n\n{citation}\n\n`{codes}`\n\n{desc}{quote_block}\n")

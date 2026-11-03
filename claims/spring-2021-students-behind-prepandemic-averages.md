@@ -39,7 +39,7 @@ Megan Kuhfeld, James Soland, Karyn Lewis, Erik Ruzek, Angela Johnson. (2022). Th
 
 `q3 · i?` · `associational · r2`
 
-Achievement-trend modeling of test scores from 4.9 million U.S. students in Grades 3 through 8 compared 2020-2021 growth against prepandemic averages. The study reports students were "still behind typical (prepandemic) averages by spring 2021," with math deficits of 0.16 to 0.26 standard deviations and reading deficits of 0.06 to 0.11 standard deviations. These are descriptive standardized gaps, not printed effect sizes such as d or g, so impact is null.
+Achievement-trend modeling of test scores from 4.9 million U.S. students in Grades 3 through 8 compared 2020-2021 growth against prepandemic averages. The study reports students were "still behind typical (prepandemic) averages by spring 2021," with math deficits of 0.16 to 0.26 standard deviations and reading deficits of 0.06 to 0.11 standard deviations. These are descriptive standardized gaps, not printed effect sizes such as d or g, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "students were still behind typical (prepandemic) averages by spring 2021 (0.16 to 0.26 standard deviations behind in math and 0.06 to 0.11 standard deviations behind in reading)"
 

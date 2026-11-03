@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `associational · r1`
 
-Main 13-item questionnaire completed by 145 second-year Engineering students (58% of the class) taught Mathematics with handsets. Descriptive percentages only; no effect size is printed, so impact is null. "80.7% or 4 out of 5 students found the handsets generally useful".
+Main 13-item questionnaire completed by 145 second-year Engineering students (58% of the class) taught Mathematics with handsets. Descriptive percentages only; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect). "80.7% or 4 out of 5 students found the handsets generally useful".
 
 > "In response to a question on how useful students found the handsets, 57.9% of students said they found handsets 'useful' while 22.8% found them 'very useful'. So 80.7% or 4 out of 5 students found the handsets generally useful"
 

@@ -38,7 +38,7 @@ sources:
 
 `q2 · i?` · `associational · r2`
 
-Frequency analysis of 1376 WAT response tokens from 436 undergraduates at four Turkish public universities, coded into 65 canonical codes (κ = 0.87). The article reports Convenience (f = 145) and Speed (f = 110) as "the primary cognitive anchors for AI in this sample"; no standardised effect size is printed, so impact is null.
+Frequency analysis of 1376 WAT response tokens from 436 undergraduates at four Turkish public universities, coded into 65 canonical codes (κ = 0.87). The article reports Convenience (f = 145) and Speed (f = 110) as "the primary cognitive anchors for AI in this sample"; no standardised effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Together these two codes account for 255 of the 1376 total responses (18.5%) - a disproportionate share that confirms their role as the primary cognitive anchors for AI in this sample."
 

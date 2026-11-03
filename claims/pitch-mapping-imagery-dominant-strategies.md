@@ -37,7 +37,7 @@ Kucinkas, A., Retsa, C., Meijer, P. B. L., Wallace, M. T., Gori, M. & Murray, M.
 
 `q3 · i?` · `causal · r2`
 
-Qualitative analysis of open-ended debrief responses from the 60 sighted adults; "pitch-based mapping and mental imagery emerging as the dominant approaches", with pitch-based mapping reported by 6 Traditional, 5 Reversed, and 8 Control participants; no effect sizes, so impact is null.
+Qualitative analysis of open-ended debrief responses from the 60 sighted adults; "pitch-based mapping and mental imagery emerging as the dominant approaches", with pitch-based mapping reported by 6 Traditional, 5 Reversed, and 8 Control participants; no effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Overall, participants combined multiple perceptual and mnemonic strategies, with pitch-based mapping and mental imagery emerging as the dominant approaches."
 

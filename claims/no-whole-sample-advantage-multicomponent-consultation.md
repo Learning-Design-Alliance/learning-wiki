@@ -37,7 +37,7 @@ Julie Sarno Owens, Erika K. Coles, Steven W. Evans, Lina K. Himawan, Erin Girio-
 
 `q3 · i?` · `causal · r2`
 
-Whole-sample HLM analysis (Aim 1) of the same four observational outcomes in the 58-teacher randomized pilot. The article reports the condition effect was "not significant"; no effect size is printed, so impact is null rather than zero.
+Whole-sample HLM analysis (Aim 1) of the same four observational outcomes in the 58-teacher randomized pilot. The article reports the condition effect was "not significant"; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect) rather than zero.
 
 > "However, the effect of consultation condition was not significant, indicating that, on average, teachers in the multi-component condition did not demonstrate significantly more improvement in these targeted behaviors than teachers in the comparison condition."
 

@@ -38,7 +38,7 @@ Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype d
 
 `q3 · i?` · `causal · r?`
 
-This is a controlled experimental comparison reported in the study of 27 children with ADHD-I, 70 children with ADHD-C, and 40 typically developing controls aged 9-12. The article states that "In children with ADHD-C, both STM and the CE seem impaired, and together with motivational impairments, give rise to their deficits in visuospatial WM." In contrast, for ADHD-I the article reports that "STM performance of children with ADHD-I was, in contrast to that of children with ADHD-C, not different from controls." No effect sizes are printed in the supplied text, so impact is null.
+This is a controlled experimental comparison reported in the study of 27 children with ADHD-I, 70 children with ADHD-C, and 40 typically developing controls aged 9-12. The article states that "In children with ADHD-C, both STM and the CE seem impaired, and together with motivational impairments, give rise to their deficits in visuospatial WM." In contrast, for ADHD-I the article reports that "STM performance of children with ADHD-I was, in contrast to that of children with ADHD-C, not different from controls." No effect sizes are printed in the supplied text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In children with ADHD-C, both STM and the CE seem impaired, and together with motivational impairments, give rise to their deficits in visuospatial WM."
 

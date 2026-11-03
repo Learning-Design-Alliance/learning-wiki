@@ -37,7 +37,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-The same linear mixed model on log-transformed post-test fractions knowledge reported a significant school-type effect favoring academic-track students; no standardized effect size is printed, so impact is null.
+The same linear mixed model on log-transformed post-test fractions knowledge reported a significant school-type effect favoring academic-track students; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Moreover, we found a signiﬁcantly negative effect of the academic- track school, indicating a better performance for students attending this type of school."
 

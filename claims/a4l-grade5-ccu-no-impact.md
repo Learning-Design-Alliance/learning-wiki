@@ -37,7 +37,7 @@ Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton Sc
 
 `q3 · i?` · `causal · r2`
 
-Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 5 effect sizes of -0.03, -0.06, and 0.09, none statistically significant. No per-contrast effect size beyond these printed values is reported, so impact is null.
+Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 5 effect sizes of -0.03, -0.06, and 0.09, none statistically significant. No per-contrast effect size beyond these printed values is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Finally, the differences between the treatment and control students in grade 5 were very small and not statistically significant, indicating the A4L Lessons Project did not have a reliable positive impact for students at this grade level."
 

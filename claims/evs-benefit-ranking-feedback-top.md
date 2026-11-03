@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `associational · r1`
 
-Ranking exercise on the main questionnaire with points assigned 3/2/1/0 across first, second and third placements; results shown in Table 1. Descriptive ranking only; no effect size is printed, so impact is null.
+Ranking exercise on the main questionnaire with points assigned 3/2/1/0 across first, second and third placements; results shown in Table 1. Descriptive ranking only; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "To determine which attributes of handset use students found the most beneficial, students were given a list of seven benefits on the main questionnaire and asked to rank the three benefits that they considered the most important in the order: 1 st, 2nd and 3 rd"
 

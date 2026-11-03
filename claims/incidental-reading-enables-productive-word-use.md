@@ -37,7 +37,7 @@ Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Revi
 
 `q2 · i?` · `review · r1`
 
-Ponniah (2011) experiment reported in the review: adult ESL experimental subjects read an edited short story ('The Chinese Statue'); comparisons learned dictionary meanings of 51 unfamiliar and 16 difficult words. Pre/post tests of word meaning and sentence use. Experimental gain 6.73 (33.65%) vs. comparison 0.57 (2.82%); t = 4.48, df = 50, p < .000. No standardized effect size is printed, so impact is null.
+Ponniah (2011) experiment reported in the review: adult ESL experimental subjects read an edited short story ('The Chinese Statue'); comparisons learned dictionary meanings of 51 unfamiliar and 16 difficult words. Pre/post tests of word meaning and sentence use. Experimental gain 6.73 (33.65%) vs. comparison 0.57 (2.82%); t = 4.48, df = 50, p < .000. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The gain for the comparison subjects is 0.57 (2.82%); for the experimental 6.73(33.65%). The differences were statistically significant (t = 4.48, df = 50, p < .000)"
 

@@ -37,7 +37,7 @@ J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowi
 
 `q3 · i?` · `causal · r2`
 
-Experiment 2 transfer testing on untrained cognitive control tasks (delayed-recognition working memory with and without distraction; TOVA sustained attention) in the randomized three-group trial. For each test the interaction exceeded F(2,43) = 3.39, P < 0.04, with "Cohen's d . 0.73" reported only as a lower bound, so no exact effect size is printed and impact is null.
+Experiment 2 transfer testing on untrained cognitive control tasks (delayed-recognition working memory with and without distraction; TOVA sustained attention) in the randomized three-group trial. For each test the interaction exceeded F(2,43) = 3.39, P < 0.04, with "Cohen's d . 0.73" reported only as a lower bound, so no exact effect size is printed and, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "a group X session ANOVA revealed a significant interaction (F(2,43). 3.39, P , 0.04, Cohen's d . 0.73), with follow-up analyses demonstrating improvement only for MTT (n 5 15)"
 

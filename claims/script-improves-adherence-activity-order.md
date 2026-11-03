@@ -57,7 +57,7 @@ Judith Schoonenboom. (2008). The effect of a script and a structured interface i
 
 `q2 · i?` · `causal · r1`
 
-Descriptive phase-pattern analysis per group displayed in Table 1 (I, G, C patterns). The article reports the printed start-of-discussion counts; these are descriptive counts, not effect sizes, so impact is null.
+Descriptive phase-pattern analysis per group displayed in Table 1 (I, G, C patterns). The article reports the printed start-of-discussion counts; these are descriptive counts, not effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "it is only the scripted conditions in which groups started with individual issues: five out of seven scripted groups started with individual issues and none of the unscripted groups."
 

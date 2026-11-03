@@ -37,7 +37,7 @@ Wanner, P., Frisch, N., Rikus, S., Roig, M. & Steib, S. (2025). Cardiovascular e
 
 `q3 · i?` · `causal · r2`
 
-Descriptive comparison of absolute and relative time-in-balance improvements across six sessions in the randomized pilot trial, as reported in the primary-analysis Results subsection. Reported values are descriptive means and SDs; no standardized effect size accompanies this contrast, so impact is null.
+Descriptive comparison of absolute and relative time-in-balance improvements across six sessions in the randomized pilot trial, as reported in the primary-analysis Results subsection. Reported values are descriptive means and SDs; no standardized effect size accompanies this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The EXE group showed larger improvements from the first to the last session (4.1 ± 3.1 sec; 48.9 ± 44.5 %) compared to the REST group (2.2 ± 1.7 sec; 28.9 ± 16.4 %)."
 

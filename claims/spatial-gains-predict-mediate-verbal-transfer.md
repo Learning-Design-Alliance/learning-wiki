@@ -65,7 +65,7 @@ Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H.
 
 `q3 · i?` · `causal · r2`
 
-Mediation analysis in the main sample: the indirect effect of curriculum group on reasoning change through ΔEFT was significant (P = 0.028; 12% of variance; 10% for nonspatial trials). Percent variance mediated is not a standardized effect size, so impact is null.
+Mediation analysis in the main sample: the indirect effect of curriculum group on reasoning change through ΔEFT was significant (P = 0.028; 12% of variance; 10% for nonspatial trials). Percent variance mediated is not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Furthermore, ΔEFT mediated the transfer association of the spatial curriculum to improved reasoning for all Reasoning trials [12% of total variance explained by mediator (36–38); indirect effect: P = 0.028; Fig. 2] and nonspatial relation trials separately (10% of total variance; P = 0.036; fig. S6), further suggesting that improvement in spatial scanning may have been a cognitive mechanism by which spatial education improved verbal reasoning."
 

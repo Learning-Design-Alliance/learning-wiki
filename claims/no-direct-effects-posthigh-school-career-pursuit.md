@@ -37,7 +37,7 @@ Rozek, Svoboda, Harackiewicz, Hulleman, & Hyde. (2016). Utility-value interventi
 
 `q3 · i?` · `causal · r2`
 
-Secondary SEM identical to the main model but excluding high-school STEM course-taking and ACT scores tested direct intervention paths to 5-y outcomes; all were non-significant with Ps > 0.36. No effect sizes printed, so impact is null.
+Secondary SEM identical to the main model but excluding high-school STEM course-taking and ACT scores tested direct intervention paths to 5-y outcomes; all were non-significant with Ps > 0.36. No effect sizes printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There were no significant direct intervention effects on posthigh-school STEM career pursuit variables ( Ps > 0.36) ( Table S4 )."
 

@@ -37,7 +37,7 @@ Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gil
 
 `q3 · i?` · `causal · r3`
 
-Exploratory mixed-effects models on Experiment 2 reminder bias scores with random participant intercepts: adding internal metacognitive bias improved fit (χ2(1) = 9.29, p = 0.002), adding framing improved fit further, χ2(1) = 23.51, p < 0.001, and the interaction did not (χ2(1) = 0.09, p = 0.761). The article concludes "framing adds an additive predictive value to the reminder bias" beyond metacognitive miscalibration. No standardized effect size is printed, so impact is null.
+Exploratory mixed-effects models on Experiment 2 reminder bias scores with random participant intercepts: adding internal metacognitive bias improved fit (χ2(1) = 9.29, p = 0.002), adding framing improved fit further, χ2(1) = 23.51, p < 0.001, and the interaction did not (χ2(1) = 0.09, p = 0.761). The article concludes "framing adds an additive predictive value to the reminder bias" beyond metacognitive miscalibration. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Again, a likelihood-ratio test revealed significant differences, χ 2(1) = 23.51, p < 0.001. We thus selected the model with the two fixed factors and compared it with a model including the interaction of internal metacognitive bias and framing as the third fixed effect (AIC: 2603.60), with no significant differences between the models"
 

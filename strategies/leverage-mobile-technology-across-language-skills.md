@@ -17,7 +17,7 @@ sources:
 # Language educators should leverage technology capabilities for teaching writing and other language skills, without overstating technology's role
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's pedagogical recommendation is that "Language educators should take advantage of the capabilities afforded by technology for teaching not only writing but also listening, speaking and reading." It pairs this with the caution that mobile technologies' role "should not be overstated," since technology is not a fix-it-all for all learning dilemmas and contexts. Success is stated to be contingent upon a conducive learning environment and a diligent teacher willing to take risks beyond traditional instruction.
@@ -39,8 +39,8 @@ The article's pedagogical recommendation is that "Language educators should take
 
 ## Claims
 
-- [Female participants significantly outperformed male participants on all four writing aspects of the post-test following WhatsApp-based instruction](../claims/females-outperform-males-whatsapp-writing-posttest.md) [+W]
-- [WhatsApp-based instruction improved Jordanian eleventh-graders' EFL writing performance on all four writing aspects after an eight-week treatment](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [+W]
+- [The female class section scored significantly higher than the male section on all four writing aspects of the post-test after WhatsApp-based instruction, though not on the total score; sex and class section coincide, so the difference cannot be attributed to gender](../claims/females-outperform-males-whatsapp-writing-posttest.md) [+W]
+- [After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported](../claims/whatsapp-instruction-improves-efl-writing-performance.md) [~W]
 
 ## Related Strategies
 

@@ -46,7 +46,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-SES (HISEI from parental occupation, ISEI scale) was added as a predictor to the three-profile LPA with the favorable profile as baseline. The estimates are unstandardized logistic coefficients, not effect sizes, so impact is null. The inattentive unfavorable profile averaged M = 47.5 (SD = 16.7) on SES.
+SES (HISEI from parental occupation, ISEI scale) was added as a predictor to the three-profile LPA with the favorable profile as baseline. The estimates are unstandardized logistic coefficients, not effect sizes, so impact is coded i? (no magnitude reported; not a null effect). The inattentive unfavorable profile averaged M = 47.5 (SD = 16.7) on SES.
 
 > "SES had a signiﬁcant negative inﬂuence on the inattentive unfavorable pro ﬁle with an estimate of −0.07 ( SE = 0.01, p < .001) and the attentive unfavorable pro ﬁle with an estimate of −0.05 (SE = 0.01, p < .001)"
 
@@ -56,7 +56,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-The same LPA sample's exploratory ANOVA on SES by profile printed F(2, 198) = 41.2, p < .001; the article reports significance without an effect size, so impact is null.
+The same LPA sample's exploratory ANOVA on SES by profile printed F(2, 198) = 41.2, p < .001; the article reports significance without an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "An exploratory ANOVA supported this ﬁnding by revealing a signi ﬁcant effect of SES on pro ﬁle (F(2, 198) = 41.2, p < .001), indicating signiﬁcant SES mean differences between the three pro ﬁles."
 

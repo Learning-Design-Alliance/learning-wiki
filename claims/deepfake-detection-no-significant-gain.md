@@ -37,7 +37,7 @@ Randi Williams, Safinah Ali, Nisha Devasia, Daniella DiPaola, Jenna Hong, Stephe
 
 `q2 · i?` · `design · r2`
 
-Spotting Deepfakes activity assessment in the Creative AI workshop: students took a deepfake quiz, learned detection strategies, and retook the quiz. "There was no significant change between the pre-quiz (M = 53.44, sd = 14.73) and post-quiz (M = 53.55, sd = 15.18)"; no effect size is printed, so impact is null.
+Spotting Deepfakes activity assessment in the Creative AI workshop: students took a deepfake quiz, learned detection strategies, and retook the quiz. "There was no significant change between the pre-quiz (M = 53.44, sd = 14.73) and post-quiz (M = 53.55, sd = 15.18)"; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There was no significant change between the pre-quiz (M = 53.44, sd = 14.73) and post-quiz (M = 53.55, sd = 15.18), t(30) = -0.03, p = 0.98."
 

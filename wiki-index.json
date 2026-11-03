@@ -5936,13 +5936,14 @@
 "type":"claim"
 },
 {
-"description":"After one year, Access Program students significantly outperform matched public school students on a diagnostic English test",
+"description":"After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test",
 "evidence_strength":"moderate",
 "id":"access-program-outperforms-public-schools-elt-posttest",
 "newest_evidence":"2018",
 "path":"claims/access-program-outperforms-public-schools-elt-posttest.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"After one year, Access Program students significantly outperform matched public school students on a diagnostic English test",
+"title":"After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test",
 "type":"claim"
 },
 {
@@ -20759,7 +20760,6 @@
 "newest_evidence":"2026",
 "path":"claims/ai-systems-misinterpret-stem-diagrams.md",
 "recheck_by":"2029",
-"source_checked":"2026-10-27",
 "status":"review",
 "title":"Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies",
 "type":"claim"
@@ -33027,6 +33027,7 @@
 "id":"at-cai-not-significant-vs-lecture",
 "newest_evidence":"2014",
 "path":"claims/at-cai-not-significant-vs-lecture.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement",
 "type":"claim"
@@ -55210,13 +55211,14 @@
 "type":"claim"
 },
 {
-"description":"CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated",
+"description":"After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly",
 "evidence_strength":"moderate",
 "id":"cda-improves-explanation-practice",
 "newest_evidence":"2017",
 "path":"claims/cda-improves-explanation-practice.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated",
+"title":"After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly",
 "type":"claim"
 },
 {
@@ -74394,13 +74396,14 @@
 "type":"claim"
 },
 {
-"description":"Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics",
-"evidence_strength":"moderate",
+"description":"Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported",
+"evidence_strength":"weak",
 "id":"communicatively-developing-methods-improve-teacher-coherent-speech",
 "newest_evidence":"2016",
 "path":"claims/communicatively-developing-methods-improve-teacher-coherent-speech.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics",
+"title":"Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported",
 "type":"claim"
 },
 {
@@ -125576,7 +125579,6 @@
 "newest_evidence":"2019",
 "path":"claims/ell-lower-start-faster-reading-growth-only.md",
 "recheck_by":"2024",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth",
 "type":"claim"
@@ -146845,6 +146847,7 @@
 "id":"feedback-plus-modified-output-question-development",
 "newest_evidence":"2014",
 "path":"claims/feedback-plus-modified-output-question-development.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Negative feedback combined with opportunities to modify output improved Thai learners' English question development",
 "type":"claim"
@@ -147748,13 +147751,13 @@
 "type":"claim"
 },
 {
-"description":"Female participants significantly outperformed male participants on all four writing aspects of the post-test following WhatsApp-based instruction",
+"description":"The female class section scored significantly higher than the male section on all four writing aspects of the post-test after WhatsApp-based instruction, though not on the total score; sex and class section coincide, so the difference cannot be attributed to gender",
 "evidence_strength":"moderate",
 "id":"females-outperform-males-whatsapp-writing-posttest",
-"newest_evidence":"2017",
+"newest_evidence":"2018",
 "path":"claims/females-outperform-males-whatsapp-writing-posttest.md",
 "status":"review",
-"title":"Female participants significantly outperformed male participants on all four writing aspects of the post-test following WhatsApp-based instruction",
+"title":"The female class section scored significantly higher than the male section on all four writing aspects of the post-test after WhatsApp-based instruction, though not on the total score; sex and class section coincide, so the difference cannot be attributed to gender",
 "type":"claim"
 },
 {
@@ -168114,7 +168117,7 @@
 "description":"Male and female experimental groups were equivalent on all writing aspects before the WhatsApp treatment",
 "evidence_strength":"moderate",
 "id":"gender-groups-equivalent-pretest-writing",
-"newest_evidence":"2017",
+"newest_evidence":"2018",
 "path":"claims/gender-groups-equivalent-pretest-writing.md",
 "status":"review",
 "title":"Male and female experimental groups were equivalent on all writing aspects before the WhatsApp treatment",
@@ -211565,7 +211568,6 @@
 "id":"its-meta-analytic-positive-outcomes",
 "newest_evidence":"2026",
 "path":"claims/its-meta-analytic-positive-outcomes.md",
-"source_checked":"2026-10-28",
 "status":"review",
 "title":"Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions",
 "type":"claim"
@@ -228779,6 +228781,7 @@
 "id":"link-prepost-vocabulary-gains-spanish-english",
 "newest_evidence":"2016",
 "path":"claims/link-prepost-vocabulary-gains-spanish-english.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes",
 "type":"claim"
@@ -229137,7 +229140,6 @@
 "id":"listening-comprehension-predicts-vocabulary",
 "newest_evidence":"2017",
 "path":"claims/listening-comprehension-predicts-vocabulary.md",
-"source_checked":"2026-11-01",
 "status":"review",
 "title":"Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance",
 "type":"claim"
@@ -320340,6 +320342,7 @@
 "id":"ppt-vocabulary-retention-outperforms-traditional",
 "newest_evidence":"2012",
 "path":"claims/ppt-vocabulary-retention-outperforms-traditional.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons",
 "type":"claim"
@@ -348614,7 +348617,6 @@
 "id":"repeated-reading-potentially-positive-comprehension-learning-disabilities",
 "newest_evidence":"2014",
 "path":"claims/repeated-reading-potentially-positive-comprehension-learning-disabilities.md",
-"source_checked":"2026-10-10",
 "status":"review",
 "title":"Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence",
 "type":"claim"
@@ -412734,7 +412736,6 @@
 "newest_evidence":"2021",
 "path":"claims/talladega-disparities-persisted-despite-pathway.md",
 "recheck_by":"2024",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.",
 "type":"claim"
@@ -457742,13 +457743,14 @@
 "type":"claim"
 },
 {
-"description":"WhatsApp-based instruction improved Jordanian eleventh-graders' EFL writing performance on all four writing aspects after an eight-week treatment",
-"evidence_strength":"moderate",
+"description":"After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported",
+"evidence_strength":"weak",
 "id":"whatsapp-instruction-improves-efl-writing-performance",
-"newest_evidence":"2017",
+"newest_evidence":"2018",
 "path":"claims/whatsapp-instruction-improves-efl-writing-performance.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"WhatsApp-based instruction improved Jordanian eleventh-graders' EFL writing performance on all four writing aspects after an eight-week treatment",
+"title":"After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported",
 "type":"claim"
 },
 {

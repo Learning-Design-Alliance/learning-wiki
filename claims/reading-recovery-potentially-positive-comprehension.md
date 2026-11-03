@@ -45,7 +45,7 @@ Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginn
 
 `q3 · i?` · `review · r3`
 
-In the vocabulary development construct, the 1988 RCT showed a positive and statistically significant effect on the Reading Vocabulary subtest of the CTBS. Table 1 reports an average comprehension improvement index of "+14" (range +6 to +26) across two studies (145 students); no standardized effect size is printed, so impact is null.
+In the vocabulary development construct, the 1988 RCT showed a positive and statistically significant effect on the Reading Vocabulary subtest of the CTBS. Table 1 reports an average comprehension improvement index of "+14" (range +6 to +26) across two studies (145 students); no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Pinnell, DeFord, & Lyons (1988) found, and the WWC confirmed, a positive and statistically significant effect of Reading Recovery® on the Reading Vocabulary subtest of the CTBS."
 

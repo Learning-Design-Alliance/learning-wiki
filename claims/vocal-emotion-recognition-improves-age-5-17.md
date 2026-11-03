@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r2`
 
-Cross-sectional mixed-model logistic regression on 225 participants aged 5–17 labeling affect bursts. The article reports the age effect as highly significant (Z = 5.52, p = 3.4 × 10−8); no effect size is printed, so impact is null.
+Cross-sectional mixed-model logistic regression on 225 participants aged 5–17 labeling affect bursts. The article reports the age effect as highly significant (Z = 5.52, p = 3.4 × 10−8); no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The effect of age was highly significant (Z = 5.52, p = 3.4 × 10−8). Adding a quadratic term (age2) improved the model fit: Chi-sq(1) = 5.14, p < 0.023"
 

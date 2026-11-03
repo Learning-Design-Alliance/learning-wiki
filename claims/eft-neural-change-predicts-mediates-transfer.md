@@ -56,7 +56,7 @@ Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H.
 
 `q2 · i?` · `causal · r2`
 
-Neural changes during the spatial scanning task predicted far transfer to the separate Reasoning task. Mediation analyses showed ΔaIPS_EFT mediated 41% of total variance (P < 0.001) and ΔIPL_EFT 49% (P < 0.001) of the curriculum-to-reasoning association. Only regression coefficients are printed, so impact is null.
+Neural changes during the spatial scanning task predicted far transfer to the separate Reasoning task. Mediation analyses showed ΔaIPS_EFT mediated 41% of total variance (P < 0.001) and ΔIPL_EFT 49% (P < 0.001) of the curriculum-to-reasoning association. Only regression coefficients are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Consistent with MMT, both of the spatial curriculum–related longitudinal changes in PPC activity identified for EFT (ΔaIPS_EFT and ΔIPL_EFT) were strongly associated with change in Reasoning performance (ΔReasoning; All β ≥ 0.492, all P < 0.001; tables S28 to S29)."
 

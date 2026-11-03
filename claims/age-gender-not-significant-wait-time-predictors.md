@@ -37,7 +37,7 @@ Kidd, C., Palmeri, H., & Aslin, R. N. (2013). Rational snacking: Young children'
 
 `q3 · i?` · `causal · r2`
 
-Secondary regression analysis of the 28-child experiment testing age and gender as predictors of wait-time while controlling for condition. Age: β = 8.57, t = 1.29, p > 0.20; gender: β = −11.63, t = −0.10, p > 0.92. No standardized effect size is printed, so impact is null.
+Secondary regression analysis of the 28-child experiment testing age and gender as predictors of wait-time while controlling for condition. Age: β = 8.57, t = 1.29, p > 0.20; gender: β = −11.63, t = −0.10, p > 0.92. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Additionally, we performed a linear regression with age and gender as predictors, controlling for condition. Neither factor—age (β = 8.57, t = 1.29, p > 0.20) nor gender (β = −11.63, t = −0.10, p > 0.92)—was significant in our sample."
 

@@ -35,7 +35,7 @@ Tabares-Cruz YB, Cevallos-Sánchez HA, Arteaga-Pita IG, Rodriguez-Alava LA, Carr
 
 `q2 · i?` · `associational · r2`
 
-Cross-sectional CB-SEM analysis of survey data from 980 students at the State University of Milagro. The confirmatory model showed "excellent fit (CFI = 0.998; SRMR = 0.021; RMSEA = 0.008)" and R2 = 0.440; no effect size per predictor was printed, so impact is null.
+Cross-sectional CB-SEM analysis of survey data from 980 students at the State University of Milagro. The confirmatory model showed "excellent fit (CFI = 0.998; SRMR = 0.021; RMSEA = 0.008)" and R2 = 0.440; no effect size per predictor was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The proposed model demonstrated an excellent fit (CFI = 0.998; SRMR = 0.021; RMSEA = 0.008). The six predictor constructs jointly explained 44.0% of the variance in ethical GenAI use (R2 = 0.440), and all structural paths were positive and statistically significant."
 

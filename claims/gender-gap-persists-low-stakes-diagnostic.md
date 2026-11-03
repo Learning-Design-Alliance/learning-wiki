@@ -37,7 +37,7 @@ Ilana Ram, Adam Shwartz, Ido Roll. (2025). Minding the gender gap in advanced ST
 
 `q3 · i?` · `associational · r2`
 
-A 15-item multiple-choice diagnostic assessment (Cronbach's alpha = 0.724) with no impact on grades was administered at the start of Course IV to all 315 participants. The study reports "A gap was also present on the low-stakes diagnostic assessment" of about 9 points; the article prints no standardized effect size statistic for this contrast, so impact is null.
+A 15-item multiple-choice diagnostic assessment (Cronbach's alpha = 0.724) with no impact on grades was administered at the start of Course IV to all 315 participants. The study reports "A gap was also present on the low-stakes diagnostic assessment" of about 9 points; the article prints no standardized effect size statistic for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "A gap was also present on the low-stakes diagnostic assessment (~ 9 points; 0.45 SD)."
 

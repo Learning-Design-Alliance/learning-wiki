@@ -38,7 +38,7 @@ Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education polic
 
 `q2 · i?` · `associational · r2`
 
-CP-model comparison of two-year versus five-year between-year growth Z-scores for the same schools. The article reports correlations of .584 (math) and .556 (reading), no effect size, so impact is null; the .90 practical-significance cutoff comes from Koedel and Betts (2010) as cited by the authors.
+CP-model comparison of two-year versus five-year between-year growth Z-scores for the same schools. The article reports correlations of .584 (math) and .556 (reading), no effect size, so impact is coded i? (no magnitude reported; not a null effect); the .90 practical-significance cutoff comes from Koedel and Betts (2010) as cited by the authors.
 
 > "Here, the correlations are .584 in math and .556 in reading. While these correlations are by no means small, they also likely have consequences for which schools would be deemed low-performing under ESSA."
 

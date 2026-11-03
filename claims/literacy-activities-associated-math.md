@@ -37,7 +37,7 @@ Silver, A. M., Elliott, L., & Libertus, M. E. (2022). Parental math input is not
 
 `q2 · i?` · `associational · r2`
 
-Covariate-adjusted regressions found a positive relation between parent-reported home literacy activities and children's TEMA-3 math achievement, described as a "somewhat surprising finding". No effect size is printed, so impact is null.
+Covariate-adjusted regressions found a positive relation between parent-reported home literacy activities and children's TEMA-3 math achievement, described as a "somewhat surprising finding". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Parents who reported engaging in more frequent literacy activities had children who performed better in math, even when controlling for other covariates and including the frequency of home math activities in analyses."
 

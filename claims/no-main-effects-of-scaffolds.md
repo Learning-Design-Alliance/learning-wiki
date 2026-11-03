@@ -37,7 +37,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-In the linear mixed model on log-transformed post-test fractions knowledge (N = 321), all three scaffold main effects were non-significant; the article prints no effect size for these null tests, so impact is null. Equivalence was not tested.
+In the linear mixed model on log-transformed post-test fractions knowledge (N = 321), all three scaffold main effects were non-significant; the article prints no effect size for these null tests, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "The effects for neither of theinterventions (explanatory feedback, adaptive task difﬁculty, dynamic visualizations) were signiﬁcant."
 

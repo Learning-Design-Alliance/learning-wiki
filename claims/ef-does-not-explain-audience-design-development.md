@@ -46,7 +46,7 @@ Arvidsson C., Pagmar D., Uddén J. (2022). When did you stop speaking to yoursel
 
 `q3 · i?` · `associational · r2`
 
-Frequentist GLM (Model 1a) on AD score with age group, WCST perseverative and non-perseverative errors, and KAS as predictors; only AGE GROUP was significant (T53 = 3.72, p < 0.001). No effect sizes printed, so impact is null.
+Frequentist GLM (Model 1a) on AD score with age group, WCST perseverative and non-perseverative errors, and KAS as predictors; only AGE GROUP was significant (T53 = 3.72, p < 0.001). No effect sizes printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In Model 1a, AGE GROUP was significant T53 = 3.72, p < 0.001. No other terms were significant (perseverative errors: T53 = 1.16, p = 0.25; non-perseverative errors: T53 = 0.39, p = 0.70; KAS: 0.69, p = 0.49)."
 

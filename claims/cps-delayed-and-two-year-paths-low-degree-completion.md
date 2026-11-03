@@ -37,7 +37,7 @@ Nagaoka, J., & Healey, K. (2016). The educational attainment of Chicago Public S
 
 `q2 · i?` · `associational · r1`
 
-Observational comparison of CPS graduation cohorts' outcomes six years after high school, by immediate postsecondary pathway. The brief reports large descriptive gaps between the named groups; these are pathway-group percentages with no standardized effect size printed, so impact is null.
+Observational comparison of CPS graduation cohorts' outcomes six years after high school, by immediate postsecondary pathway. The brief reports large descriptive gaps between the named groups; these are pathway-group percentages with no standardized effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "just 8 percent of students who immediately en- rolled in a two-year college and just 4 percent of students who did not immediately enroll in college have earned a four-year college degree, compared to 50 percent of students who enrolled in a four-year college immediately after high school graduation."
 

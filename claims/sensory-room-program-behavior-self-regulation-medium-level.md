@@ -37,7 +37,7 @@ Aydar M. Kalimullin, Elena A. Kuvaldina & Julia Koinova-Zoellner. (2016). Adoles
 
 `q2 · i?` · `causal · r1`
 
-Control-stage diagnostics of the same 50-pupil pedagogical experiment using the check-list "Behavior self-regulation style". Table 4 reports φ emp. = 2.59 at low and medium levels for the experimental group; no effect size is printed, so impact is null.
+Control-stage diagnostics of the same 50-pupil pedagogical experiment using the check-list "Behavior self-regulation style". Table 4 reports φ emp. = 2.59 at low and medium levels for the experimental group; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "According to the check-list by V. I. Morosanova, 100% of adolescents from experimental group show medium level of behavior self-regulation."
 

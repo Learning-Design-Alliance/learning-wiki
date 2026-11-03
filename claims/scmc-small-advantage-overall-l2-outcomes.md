@@ -37,7 +37,7 @@ Nicole Ziegler. (2016). SYNCHRONOUS COMPUTER-MEDIATED COMMUNICATION AND INTERACT
 
 `q3 · i?` · `quant-synthesis · r?`
 
-Meta-analysis (k = 14) of comparative SCMC–FTF studies. The review reports "a small advantage for interaction in SCMC on measures of overall L2 learning outcomes." The advantage is characterized only as small; no numeric effect size is printed in the available text, so impact is null.
+Meta-analysis (k = 14) of comparative SCMC–FTF studies. The review reports "a small advantage for interaction in SCMC on measures of overall L2 learning outcomes." The advantage is characterized only as small; no numeric effect size is printed in the available text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There was also a small advantage for interaction in SCMC on measures of overall L2 learning outcomes"
 

@@ -37,7 +37,7 @@ Robinson, C.; Finefter-Rosenblum, I.; Benshoof, C.; Gehlbach, H. (2016). Getting
 
 `q3 · i?` · `causal · r2`
 
-Pre-registered randomized split-ballot online survey (Qualtrics); 279 of 407 K-12 teachers completed the full survey. OLS regression with NNSTOY covariate showed the treatment effect: "𝛽 = 0.14; 𝑝 = 0.018" with 95% CI 0.04–0.42. The article reports no standardized effect size (d or r) for this contrast, so impact is null.
+Pre-registered randomized split-ballot online survey (Qualtrics); 279 of 407 K-12 teachers completed the full survey. OLS regression with NNSTOY covariate showed the treatment effect: "𝛽 = 0.14; 𝑝 = 0.018" with 95% CI 0.04–0.42. The article reports no standardized effect size (d or r) for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "On average, teachers in the treatment condition report greater support for student perception surveys than teachers in the control condition when controlling for whether teachers have received national recognition for their teaching (𝐵 = 0.23, 𝑆𝑆 = 0.10, 𝐶𝐶: 0.04, 0.42; 𝛽 = 0.14; 𝑝 = 0.018)."
 

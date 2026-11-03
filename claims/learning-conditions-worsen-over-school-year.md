@@ -38,7 +38,7 @@ Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N.,
 
 `q2 · i?` · `associational · r2`
 
-Repeated-measures comparison of October vs. February condition ratings from the same students in the 2019–20 sample; paired t statistics are printed but no standardized effect size, so impact is null.
+Repeated-measures comparison of October vs. February condition ratings from the same students in the 2019–20 sample; paired t statistics are printed but no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Meaningful Work, Teacher Caring, and Feedback for Growth all worsened by .07 to .15 points on a seven-point Likert scale between October and February—and the decrease was statistically significant (paired t’s ≥ 3, p’s ≤ .001)."
 

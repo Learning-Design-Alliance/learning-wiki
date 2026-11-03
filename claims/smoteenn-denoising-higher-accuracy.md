@@ -47,7 +47,7 @@ Dornauer, V., Netzer, M., Kaczkó, É., Norz, L.-M., & Ammenwerth, E. (2024). Au
 
 `q2 · i?` · `design · r2`
 
-Statistical comparison reported in the discussion comparing the denoised scenarios 3 and 4 against scenarios 1 and 2; only a p-value is printed, no effect size, so impact is null.
+Statistical comparison reported in the discussion comparing the denoised scenarios 3 and 4 against scenarios 1 and 2; only a p-value is printed, no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Compared to scenarios 1 and 2, this resulted in significantly higher accuracy values (p < 0.01) using a Mann–Whitney U test."
 

@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `associational · r1`
 
-Correlational analysis of main questionnaire responses cross-tabulating reported drawbacks against usefulness ratings. Percentages are descriptive; no effect size is printed, so impact is null.
+Correlational analysis of main questionnaire responses cross-tabulating reported drawbacks against usefulness ratings. Percentages are descriptive; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The results show that 35 students or 83% o f those 42 students who said handset s "take time to set up" also said that they are 'useful or very useful", while 65 students or 83% of those 78 students who complained that handsets sometimes 'don't work' also said they found handsets 'useful or very useful'"
 

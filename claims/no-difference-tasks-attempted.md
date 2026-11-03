@@ -37,7 +37,7 @@ Tacoma, S., Heeren, B., Jeuring, J., & Drijvers, P. (2020). Intelligent Feedback
 
 `q3 · i?` · `causal · r2`
 
-In the randomized experiment, Table 3 reports tasks worked on (experimental M=4.8, SD=1.5; control M=4.9, SD=1.5, p=.391) and tasks with step construction attempted (M=3.8 vs 3.9, p=.537). No effect size was printed, so impact is null; equivalence was not tested.
+In the randomized experiment, Table 3 reports tasks worked on (experimental M=4.8, SD=1.5; control M=4.9, SD=1.5, p=.391) and tasks with step construction attempted (M=3.8 vs 3.9, p=.537). No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "The numbers of tasks students worked on and attempted step construction for did not differ significantly between groups"
 

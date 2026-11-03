@@ -57,7 +57,7 @@ Wanli Xing, Nia Nixon, Scott Crossley, Paul Denny, Andrew Lan, John Stamper, Zho
 
 `q2 · i?` · `review · r1`
 
-The editorial reports, citing the same study, that "Experience with generative AI" contributed significantly to graders' detection accuracy; significance is reported without a printed statistic, so impact is null.
+The editorial reports, citing the same study, that "Experience with generative AI" contributed significantly to graders' detection accuracy; significance is reported without a printed statistic, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Experience with generative AI significantly contributes to the graders' accuracy in detection"
 

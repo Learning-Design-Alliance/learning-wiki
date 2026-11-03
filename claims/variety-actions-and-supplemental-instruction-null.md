@@ -46,7 +46,7 @@ Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games,
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Meta-regression moderator analysis of variety of player actions in media comparisons (Table 3: small g = 0.35, medium g = 0.43, large g = 0.40). The review reports "no evidence that the mean effect sizes across these three categories were different from each other"; no effect size is printed for the difference, so impact is null.
+Meta-regression moderator analysis of variety of player actions in media comparisons (Table 3: small g = 0.35, medium g = 0.43, large g = 0.40). The review reports "no evidence that the mean effect sizes across these three categories were different from each other"; no effect size is printed for the difference, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Overall, effects on learning were strongest for game conditions with medium or large varieties of game actions. Effects were somewhat smaller for those games with a small variety of actions, but there was no evidence that the mean effect sizes across these three categories were different from each other."
 
@@ -56,7 +56,7 @@ Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games,
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Null moderator result from the media-comparison meta-regression models for supplemental nongame instruction, contrary to Moderator Hypothesis 1b and to the findings of prior meta-analyses the article cites. Only the regression coefficient is printed, so impact is null.
+Null moderator result from the media-comparison meta-regression models for supplemental nongame instruction, contrary to Moderator Hypothesis 1b and to the findings of prior meta-analyses the article cites. Only the regression coefficient is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "As shown in Table 3, there was no evidence that effects were different depending on whether or not the game conditions included additional nongame instruction (b = 0.04, 95% CI [−0.23, 0.31])."
 

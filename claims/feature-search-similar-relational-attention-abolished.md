@@ -37,7 +37,7 @@ Oudeng Jia, Qingsong Tan, Sihan Zhang, Ke Jia & Mengyuan Gong. (2025). The preci
 
 `q3 · i?` · `causal · r2`
 
-Two-day training/test experiment (N = 40) with feature search among target-similar distractors. The relation-match reward effect was "abolished" (p = 0.122, non-significant; printed d = -0.250 is a non-significant descriptive value), and the reward × experiment interaction was significant, "F(1, 78) = 7.92, p = 0.006", ηp2 = 0.092. The null effect itself carries no effect size, so impact is null.
+Two-day training/test experiment (N = 40) with feature search among target-similar distractors. The relation-match reward effect was "abolished" (p = 0.122, non-significant; printed d = -0.250 is a non-significant descriptive value), and the reward × experiment interaction was significant, "F(1, 78) = 7.92, p = 0.006", ηp2 = 0.092. The null effect itself carries no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, when the target was similar to the distractors during training (Experiment 2c), this attentional bias was abolished during the test session (paired t-test: t(39) = -1.58, p = 0.122, Cohen’s d = -0.250, 95% CI = [-0.563, 0.066]). A two-way mixed ANOVA (reward history: high- vs. low-reward × experiment: 2a vs. 2c) on RTs revealed a signi ﬁcant interaction effect (F(1, 78) = 7.92, p = 0.006, ηp 2 = 0.092)."
 

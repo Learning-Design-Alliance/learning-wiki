@@ -37,7 +37,7 @@ Stevenson, C. E. (2017). Role of Working Memory and Strategy-Use in Feedback Eff
 
 `q3 · i?` · `causal · r2`
 
-Model M3 of the explanatory IRT analysis, comparing the two latent strategy groups with age and WM controlled. The article prints z = −4.95, p < .001 with .33 lower odds; no standardized effect size is reported, so impact is null.
+Model M3 of the explanatory IRT analysis, comparing the two latent strategy groups with age and WM controlled. The article prints z = −4.95, p < .001 with .33 lower odds; no standardized effect size is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Non-analogical reasoners had greater learning gains, i.e. improvement from pretest to posttest, than analogical reasoners in the MTF condition (z = −4.95, p < .001, .33 lower odds)."
 

@@ -37,7 +37,7 @@ Luksanaporn K, Naruporn K, Sasikarnt L. (2025). Global disparities in ophthalmol
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Null result from the same multiple regression analysis reported in Table 2; the article states "Curriculum Alignment showed the weakest relationship (β = 0.21, p = 0.08, CI: -0.02–0.45)". No effect size is printed, so impact is null.
+Null result from the same multiple regression analysis reported in Table 2; the article states "Curriculum Alignment showed the weakest relationship (β = 0.21, p = 0.08, CI: -0.02–0.45)". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Non-Significant Predictor: Curriculum Alignment showed the weakest relationship (β = 0.21, p = 0.08, CI: -0.02–0.45) as shown in Table 2."
 

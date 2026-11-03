@@ -37,7 +37,7 @@ Melody Wilson & Jamaal Sharif Matthews. (2024). Black adolescents' motivation to
 
 `q2 · i?` · `associational · r2`
 
-Null result from the multinomial logistic regression of auxiliary variables on profile membership at T1 and T2: the authors "did not ﬁnd student perceptions of racial stereotyping in school to be directly associated with proﬁle membership". No effect size is printed, so impact is null. Equivalence was not tested.
+Null result from the multinomial logistic regression of auxiliary variables on profile membership at T1 and T2: the authors "did not ﬁnd student perceptions of racial stereotyping in school to be directly associated with proﬁle membership". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "We did not ﬁnd student perceptions of racial stereotyping in school to be directly associated with proﬁle membership."
 

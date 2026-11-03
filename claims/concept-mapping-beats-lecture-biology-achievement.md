@@ -37,7 +37,7 @@ Sakiyo, J. & Waziri, K. (2015). Concept mapping strategy: An effective tool for 
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental pre-test post-test non-equivalent control group study of 122 SSII students (52 male, 70 female) from two schools; experimental group taught Nutrition, Habitat and Nutrient cycle with concept mapping, control with lecture, six weeks, analyzed by one-way ANCOVA. The article reports "significant difference of students' academic achievement between experimental and control group in favour of concept mapping group." No standardized effect size is printed for this contrast in the quoted result, so impact is null.
+Quasi-experimental pre-test post-test non-equivalent control group study of 122 SSII students (52 male, 70 female) from two schools; experimental group taught Nutrition, Habitat and Nutrient cycle with concept mapping, control with lecture, six weeks, analyzed by one-way ANCOVA. The article reports "significant difference of students' academic achievement between experimental and control group in favour of concept mapping group." No standardized effect size is printed for this contrast in the quoted result, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "From the Table 1, there is significant mean difference between the experimental and  control group. Since the computed p-value (0.00) is less than the f -value (2.567) at 0.05 level of significant, the null hypothesis of no significant effect is rejected."
 

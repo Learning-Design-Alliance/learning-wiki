@@ -46,7 +46,7 @@ Vaughn, S., Martinez, L. R., Wanzek, J., Roberts, G., Swanson, E., & Fall, A.-M.
 
 `q3 · i?` · `causal · r2`
 
-Main effect of Class % of ELs from the multilevel model on MASK posttest scores in the class-randomized RCT: coefficient −.06, p < .001. No standardized effect size is printed for this coefficient, so impact is null.
+Main effect of Class % of ELs from the multilevel model on MASK posttest scores in the class-randomized RCT: coefficient −.06, p < .001. No standardized effect size is printed for this coefficient, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the significant effect for Class % of ELs (/H9253020 /H11005/H11002.06, p /H11021.001) indicates that MASK scores for non-ELs in comparison classes decrease by .06 points for each additional percentage point on Class % of ELs ."
 
@@ -56,7 +56,7 @@ Vaughn, S., Martinez, L. R., Wanzek, J., Roberts, G., Swanson, E., & Fall, A.-M.
 
 `q3 · i?` · `causal · r2`
 
-Main effect of Class % of ELs from the multilevel model on the Gates–MacGinitie subtest in the same RCT: coefficient −.10, p < .01, described as significant and negative. No standardized effect size is printed, so impact is null.
+Main effect of Class % of ELs from the multilevel model on the Gates–MacGinitie subtest in the same RCT: coefficient −.10, p < .01, described as significant and negative. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "On the Gates–MacGinitie test, only the main effect of Class % of ELs (/H9253020 /H11005/H11002.10, p /H11021.01) is significant and negative, similar to the trend on the MASK."
 

@@ -38,7 +38,7 @@ Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMers
 
 `q2 · i?` · `design · r1`
 
-The article reports official national survey figures from Statistics Korea and the Ministry of Education, citing them as an anchor for household spending on shadow education. Figures are descriptive expenditures; no effect size is printed, so impact is null.
+The article reports official national survey figures from Statistics Korea and the Ministry of Education, citing them as an anchor for household spending on shadow education. Figures are descriptive expenditures; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "private supplementary education at 29.2 trillion won in 2024, with 80% of students participating and English the single largest subject at 248,000 won per month per participating student in 2023"
 

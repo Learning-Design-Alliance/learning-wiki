@@ -94,7 +94,7 @@ Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H.
 
 `q2 · i?` · `causal · r2`
 
-Regression in the fMRI subsample controlling for PSAT, GPA, and gender: connectivity change predicted reasoning improvement. Subsequent mediation indicated a medium indirect effect (14% of total variance) that was not significant (indirect effect, P = 0.088); only regression coefficients are printed, so impact is null.
+Regression in the fMRI subsample controlling for PSAT, GPA, and gender: connectivity change predicted reasoning improvement. Subsequent mediation indicated a medium indirect effect (14% of total variance) that was not significant (indirect effect, P = 0.088); only regression coefficients are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Increased connectivity of SpatialMap to DLPFC showed a medium effect on ΔReasoning (β = 0.309), and this association was significant (P = 0.016; table S30)."
 

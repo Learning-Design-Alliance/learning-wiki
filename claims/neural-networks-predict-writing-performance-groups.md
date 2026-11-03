@@ -38,7 +38,7 @@ Panadero E. (2017). A Review of Self-regulated Learning: Six Models and Four Dir
 
 `q2 · i?` · `review · r2`
 
-Statistical learning analysis reviewed by the article: neural networks predicted writing performance group membership from 56 OMQ-based predictors "with high accuracy (ranging 94 and 100%)." Accuracy is not a standardized effect size, so impact is null.
+Statistical learning analysis reviewed by the article: neural networks predicted writing performance group membership from 56 OMQ-based predictors "with high accuracy (ranging 94 and 100%)." Accuracy is not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "It was found that neural networks could predict with high accuracy (ranging 94 and 100%) which students would be in the poor, mid, or high performance groups, based on 56 predictors."
 

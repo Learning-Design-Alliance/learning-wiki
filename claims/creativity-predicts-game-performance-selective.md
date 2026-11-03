@@ -37,7 +37,7 @@ Shute, V. J., & Rahimi, S. (2020). Stealth Assessment of Creativity in a Physics
 
 `q3 · i?` · `associational · r2`
 
-Three separate multiple regressions with 167 students tested whether the creativity estimate predicted game performance controlling for pretest. The estimate "significantly predicted silver coins earned" and levels solved (βcreativity = .39); gold coins was not significant (β = .11, p = .17). No standardized effect size was printed, so impact is null.
+Three separate multiple regressions with 167 students tested whether the creativity estimate predicted game performance controlling for pretest. The estimate "significantly predicted silver coins earned" and levels solved (βcreativity = .39); gold coins was not significant (β = .11, p = .17). No standardized effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "our creativity estimate significantly predicted silver coins earned (βcreativity =.27, t = 3.29, p =.001; βpretest = -.09, t = -1.04, p = .30; F(2, 163) = 5.44, p = .005, R2 = .05), and total number of levels solved (βcreativity =.39, t = 5.20, p <.001"
 

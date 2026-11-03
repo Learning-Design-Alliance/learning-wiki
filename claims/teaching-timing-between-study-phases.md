@@ -37,7 +37,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r2`
 
-The review's timing boundary-condition section describes Lachner et al. (2020), two experiments in which university students taught between two study phases or after both, with no overall teaching-versus-retrieval effect. Table 1 reports η²p = .06 for the timing contrast on recall; the quoted prose carries no effect size, so impact is null.
+The review's timing boundary-condition section describes Lachner et al. (2020), two experiments in which university students taught between two study phases or after both, with no overall teaching-versus-retrieval effect. Table 1 reports η²p = .06 for the timing contrast on recall; the quoted prose carries no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, teaching between the study phase contributed to students' comprehension more than teaching after the study phase. Analyses of the generated explanations showed that the effect of early explaining was mediated by an increase in students' metacognitive monitoring."
 

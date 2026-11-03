@@ -37,7 +37,7 @@ Nicole Ziegler. (2016). SYNCHRONOUS COMPUTER-MEDIATED COMMUNICATION AND INTERACT
 
 `q3 · i?` · `quant-synthesis · r1`
 
-Omnibus comparison across the meta-analyzed studies (k = 14). The review reports "no significant differences between SCMC and FTF" for L2 developmental benefits. Only significance is reported, with no printed effect size, so impact is null; equivalence was not formally tested.
+Omnibus comparison across the meta-analyzed studies (k = 14). The review reports "no significant differences between SCMC and FTF" for L2 developmental benefits. Only significance is reported, with no printed effect size, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not formally tested.
 
 > "there were no significant differences between SCMC and FTF, suggesting the mode of communication has no statistically significant impact on the positive developmental benefits associated with interaction"
 

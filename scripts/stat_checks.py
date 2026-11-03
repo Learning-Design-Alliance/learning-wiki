@@ -185,6 +185,9 @@ def _other_reading_fits(nums, ss, df, ms):
             return True
     if re.fullmatch(r"\d{1,3}\.\d{3}", nums[2]) and abs(ss / df - ms * 1000) / (ms * 1000) <= 0.005:
         return True
+    # SS printed without its decimal point ("2734623 117 233.728" is SS 27346.23)
+    if re.fullmatch(r"\d{5,}", nums[0]) and any(abs(ss / 10 ** k / df - ms) / ms <= 0.005 for k in (1, 2, 3)):
+        return True
     return False
 
 
@@ -213,6 +216,10 @@ def anova_rows(text):
             # a pairwise row labelled by group numbers ("Groups 3 & 2", "Group 1 vs 2") is not an
             # ANOVA source row: its first numbers are the groups, not SS and df
             if re.match(r"\s*[A-Za-z][A-Za-z ]*\d+\s*(?:&|vs\.?|versus|-|–)\s*\d+\b", row):
+                continue
+            # a row labelled "Group 5", "Group 2 (Control)" is one group's descriptives, not a source of
+            # variation (those read "Between Groups", "Within Groups")
+            if re.match(r"\s*Groups?\s*\d+\b", row, re.I):
                 continue
             # df written as arithmetic ("2-1=1", "200 - 2 = 198"): keep only the result
             row = re.sub(r"(?<![\w.])\d+\s*[-−–]\s*\d+\s*=\s*(\d+)(?![\w.])", r"\1", row)

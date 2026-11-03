@@ -37,7 +37,7 @@ Chen Min, Li Xinyao, Liu Qingming, Zhou Jing, Fan Xiaofang, Liu Yantao, Lin Yunz
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of three of nine questionnaire-survey studies (1,181 students evaluated overall) with quantitative satisfaction data. High heterogeneity (I2 = 70%); no standardized effect size printed, so impact is null.
+Meta-analysis of three of nine questionnaire-survey studies (1,181 students evaluated overall) with quantitative satisfaction data. High heterogeneity (I2 = 70%); no standardized effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Meta-analysis of the three studies [21, 23, 29] with quantitative data on class satisfaction revealed that students in the CBL group reported significantly higher class satisfaction than those in the LBL group (RR = 1.63, 95% CI [1.22–2.18], I2 = 70%, P < 0.05)"
 

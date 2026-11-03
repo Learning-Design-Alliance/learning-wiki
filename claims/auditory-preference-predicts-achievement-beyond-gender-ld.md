@@ -46,7 +46,7 @@ Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dyn
 
 `q2 · i?` · `associational · r2`
 
-Stepwise hierarchical regression on the 305-student sample entered gender and LD status first; together they explained "6.4%" of achievement variance, with gender contributing 4.8% (positive β) and LD status 1.6% (negative β). No standardized effect size beyond variance percentages is printed, so impact is null.
+Stepwise hierarchical regression on the 305-student sample entered gender and LD status first; together they explained "6.4%" of achievement variance, with gender contributing 4.8% (positive β) and LD status 1.6% (negative β). No standardized effect size beyond variance percentages is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "gender and with/without LD contributed significantly (6.4%) to the students' science achievements. Gender contributed 4.8% with positive β coefficients, while with/without LD contributed 1.6%, beyond the contribution of gender, with negative β coefficients."
 
@@ -56,7 +56,7 @@ Oshra Aloni, Michal Zion, Ornit Spektor-Levy. (2024). Students' voices—the dyn
 
 `q2 · i?` · `associational · r2`
 
-In the second step of the same hierarchical regression, auditory preference was entered beyond gender and LD status and "contributed significantly (3.1%)" to achievement variance, with positive β coefficients; no standardized effect size is printed, so impact is null.
+In the second step of the same hierarchical regression, auditory preference was entered beyond gender and LD status and "contributed significantly (3.1%)" to achievement variance, with positive β coefficients; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "preference levels for learning science through auditory means contributed significantly (3.1%) to the students' science achievements beyond other student characteristics. The positive β coefficients indicated that as the preference level for learning science through auditory means increased, the science achievements (i.e., the scientific knowledge and skills scores) increased, respectively."
 

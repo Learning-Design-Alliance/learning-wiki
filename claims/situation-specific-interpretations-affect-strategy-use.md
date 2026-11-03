@@ -37,7 +37,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r?`
 
-Narrative review attributing this finding to Malmberg et al. (2013), a gStudy trace study of high- and low-achieving students. The review states students' "situation-specific interpretations did affect their SRL and strategy use"; it prints no effect size, so impact is null.
+Narrative review attributing this finding to Malmberg et al. (2013), a gStudy trace study of high- and low-achieving students. The review states students' "situation-specific interpretations did affect their SRL and strategy use"; it prints no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The study evidenced that students' situation-specific interpretations did affect their SRL and strategy use depending on whether the situation was considered either challenging or favorable."
 

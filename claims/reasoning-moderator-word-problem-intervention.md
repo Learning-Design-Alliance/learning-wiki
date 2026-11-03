@@ -37,7 +37,7 @@ Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan
 
 `q3 · i?` · `causal · r2`
 
-Moderation analysis on the word-problem outcome; reasoning was the only significant moderator (R2 = .51, F(7,134) = 20.20, p < .001). No effect size printed, so impact is null.
+Moderation analysis on the word-problem outcome; reasoning was the only significant moderator (R2 = .51, F(7,134) = 20.20, p < .001). No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The effect favoring WP transitioned to nonsignificance at 1.81 SDs below the at-risk sample mean on reasoning. Thus, the intervention did not adequately compensate for the word-problem demands."
 

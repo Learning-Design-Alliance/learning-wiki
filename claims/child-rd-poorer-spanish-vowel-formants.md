@@ -37,7 +37,7 @@ Yang Fu, Xiaohui Yan, Jiaqi Mao, Haibin Su & Fan Cao. (2024). Abnormal brain act
 
 `q3 · i?` · `associational · r2`
 
-Acoustic analysis (Praat-extracted, Lobanov-normalized F1-F2 Euclidean distance to a native model speaker) of Spanish words produced during fNIRS scanning. The quote reports the child-group contrast, "t(40) = −4.69, p < 0.001", and the null adult contrast; no standardized effect size is printed, so impact is null.
+Acoustic analysis (Praat-extracted, Lobanov-normalized F1-F2 Euclidean distance to a native model speaker) of Spanish words produced during fNIRS scanning. The quote reports the child-group contrast, "t(40) = −4.69, p < 0.001", and the null adult contrast; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "children without RD had a greater similarity to the native speaker than children with RD in the vowels ’ frequency formants across all ﬁve vowels ( t(40) = −4.69, p < 0.001, Fig. 2a), and no signi ﬁcant difference was found between adults with RD and adults without RD (t(40) = −0.29, p = 0.77)."
 

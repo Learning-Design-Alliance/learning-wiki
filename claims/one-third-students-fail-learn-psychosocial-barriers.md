@@ -38,7 +38,7 @@ Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reduci
 
 `q2 · i?` · `review · r2`
 
-The guide's overview states this estimate as motivation for addressing behavior barriers, citing Adelman and Taylor (2005). It is an attributed estimate with no effect size printed, so impact is null.
+The guide's overview states this estimate as motivation for addressing behavior barriers, citing Adelman and Taylor (2005). It is an attributed estimate with no effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "An esti-mated one-third of students fail to learn because of psychosocial problems that inter-fere with their ability to fully attend to and engage in instructional activities"
 

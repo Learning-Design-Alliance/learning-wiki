@@ -37,7 +37,7 @@ Matthew P. Steinberg and Lauren Sartain. (2015). Does Teacher Evaluation Improve
 
 `q3 · i?` · `causal · r2`
 
-Table 11 of the randomized comparison reports Pilot × % Minority interaction coefficients across years and subjects, none carrying a significance star; the article presents no significant race-based heterogeneity. Reported as descriptive interaction estimates without printed standardized effect sizes, so impact is null.
+Table 11 of the randomized comparison reports Pilot × % Minority interaction coefficients across years and subjects, none carrying a significance star; the article presents no significant race-based heterogeneity. Reported as descriptive interaction estimates without printed standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Pilot∗ % Minority −0.062 −0.061 −0.105 −0.048 −0.067 −0.088"
 

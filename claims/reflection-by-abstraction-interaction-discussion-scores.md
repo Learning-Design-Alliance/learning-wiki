@@ -37,7 +37,7 @@ DiBenedetto, C. A., Blythe, J. M., & Myers, B. E. (2017). Effects of the Order o
 
 `q3 · i?` · `causal · r1`
 
-A 2 x 2 randomized experimental design with 26 secondary agriscience students in a biofuels lesson; ANOVA on discussion scores showed the interaction was "determined to be significant". No effect size was printed, so impact is null.
+A 2 x 2 randomized experimental design with 26 secondary agriscience students in a biofuels lesson; ANOVA on discussion scores showed the interaction was "determined to be significant". No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The interaction effect of reflection and abstraction yielded an F (1, 22) = 12.17, p = .002, and was determined to be significant. Accordingly, the seventh null hypothesis was rejected."
 

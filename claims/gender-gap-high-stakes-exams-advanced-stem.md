@@ -37,7 +37,7 @@ Ilana Ram, Adam Shwartz, Ido Roll. (2025). Minding the gender gap in advanced ST
 
 `q3 · i?` · `associational · r2`
 
-Analysis of a single cohort of 315 undergraduate electrical engineering students at a leading technological university in Israel, using final exam grades from four advanced STEM courses. The study reports women scored lower than men in all four courses, with mean differences of "2.5 to ~ 7 points on a 100-point scale"; no standardized effect size statistic is printed, so impact is null.
+Analysis of a single cohort of 315 undergraduate electrical engineering students at a leading technological university in Israel, using final exam grades from four advanced STEM courses. The study reports women scored lower than men in all four courses, with mean differences of "2.5 to ~ 7 points on a 100-point scale"; no standardized effect size statistic is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "women scored lower than men in all four courses, with mean differences ranging from 2.5 to ~ 7 points on a 100-point scale (~ 0.18–0.49 SD)."
 

@@ -46,7 +46,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r2`
 
-The review's prior-knowledge section reports Hoogerheide et al. (2019a), where teaching worked examples on electric circuits improved retention and transfer relative to restudy, with the transfer effect moderated by prior conceptual knowledge. No effect size appears in this quote, so impact is null.
+The review's prior-knowledge section reports Hoogerheide et al. (2019a), where teaching worked examples on electric circuits improved retention and transfer relative to restudy, with the transfer effect moderated by prior conceptual knowledge. No effect size appears in this quote, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Students who initially had low knowledge of the conceptual information required to understand the problem-solving task (e.g., the relationships among resistance, current, and voltage) profited more from non-interactive teaching than studying, while those with higher prior conceptual knowledge performed comparable regardless of experimental condition."
 
@@ -56,7 +56,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r2`
 
-The review cites Lachner et al. (2020, Experiment 1), Lachner et al. (2021), and Wassenburg et al. (2020) as evidence that learners with too little conceptual prior knowledge do not benefit much, likely because they lack knowledge for generating elaborations and inferences. No effect size in this quote, so impact is null.
+The review cites Lachner et al. (2020, Experiment 1), Lachner et al. (2021), and Wassenburg et al. (2020) as evidence that learners with too little conceptual prior knowledge do not benefit much, likely because they lack knowledge for generating elaborations and inferences. No effect size in this quote, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "recent studies with rather low-prior knowledge learners found that non-interactive teaching was comparably or even less effective relative to simple learning strategies such as restudying the learning materials or free recall"
 

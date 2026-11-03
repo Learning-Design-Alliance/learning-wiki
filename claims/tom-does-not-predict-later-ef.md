@@ -37,7 +37,7 @@ Marcovitch S., O'Brien M., Calkins S. D., Leerkes E. M., Weaver J. M., Levine D.
 
 `q3 · i?` · `associational · r3`
 
-Latent variable cross predictions in the same 226-child longitudinal model: neither ToM-to-EF path was significant. No effect size was printed, so impact is null; equivalence was not tested.
+Latent variable cross predictions in the same 226-child longitudinal model: neither ToM-to-EF path was significant. No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "In contrast, earlier ToM abilities did not uniquely predict later EF (from age 3 to age 4: β = −.10, p = .60; from age 4 to age 5: β = −.12, p = .58)."
 

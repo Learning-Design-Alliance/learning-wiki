@@ -37,7 +37,7 @@ Adán José-García, Alison Sneyd, Ana Melro, Anaïs Ollagnier, Georgina Tarling
 
 `q2 · i?` · `design · r3`
 
-Usefulness analysis (Q3) from the same N = 64 online trial, using Spearman correlations between 15 sub-questions. The article reports "two very strong correlations (rs > 0.7)" between career exploration and skill development, and career and personal development value; only a threshold is printed, so impact is null.
+Usefulness analysis (Q3) from the same N = 64 online trial, using Spearman correlations between 15 sub-questions. The article reports "two very strong correlations (rs > 0.7)" between career exploration and skill development, and career and personal development value; only a threshold is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "there were two very strong correlations (rs > 0.7) between the following pairs of sub-questions: 'I would use it to explore my career options' versus 'It could help me identify learning opportunities to develop my skill' and 'I can see its value in my career' versus 'I can see its value in my personal development'."
 

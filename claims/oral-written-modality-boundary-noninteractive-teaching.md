@@ -37,7 +37,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r2`
 
-The review's boundary-condition section on modality reports Lachner et al. (2018), a 2 × 1 between-subjects experiment with university students learning about combustion engines, where audio teaching beat written teaching on transfer (d = 0.67 per Table 1), mediated by elaborations. No effect size appears in this quote, so impact is null.
+The review's boundary-condition section on modality reports Lachner et al. (2018), a 2 × 1 between-subjects experiment with university students learning about combustion engines, where audio teaching beat written teaching on transfer (d = 0.67 per Table 1), mediated by elaborations. No effect size appears in this quote, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In a related study with more complex materials (i.e., texts about combustion engines), Lachner et al. (2018) even found that oral non-interactive teaching enhanced learning more than written teaching (see also Jacob et al., 2020a)."
 

@@ -46,7 +46,7 @@ Anil Kamat, Basiel Makled, Jack Norfleet, Steven D. Schwaitzberg, Xavier Intes, 
 
 `q3 · i?` · `associational · r1`
 
-Multiple regression with backward elimination (SPSS Amos) linked fNIRS directed connectivity to FLS scores; the article reports the significant RPFC-to-SMA predictor with F(2,114)=9, p<0.001, "R2 = 0.136" after Benjamini-Hochberg FDR control. R-squared is not an effect size, so impact is null.
+Multiple regression with backward elimination (SPSS Amos) linked fNIRS directed connectivity to FLS scores; the article reports the significant RPFC-to-SMA predictor with F(2,114)=9, p<0.001, "R2 = 0.136" after Benjamini-Hochberg FDR control. R-squared is not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the FLS score was statistically signi ﬁcantly related to the interregional directed functional connectivity from the RPFC to SMA with F (2, 114) = 9, p < 0.001, and R2 = 0.136"
 
@@ -56,7 +56,7 @@ Anil Kamat, Basiel Makled, Jack Norfleet, Steven D. Schwaitzberg, Xavier Intes, 
 
 `q3 · i?` · `associational · r1`
 
-Path analysis regression-weight table (Table 1) shows the significant path from RPFC-to-SMA connectivity to FLS score; the printed row reads "FLS score <--- RPFC to SMA 21.01 8.43 2.49 0.01", significant after FDR control. The unstandardised weight is not an effect size, so impact is null.
+Path analysis regression-weight table (Table 1) shows the significant path from RPFC-to-SMA connectivity to FLS score; the printed row reads "FLS score <--- RPFC to SMA 21.01 8.43 2.49 0.01", significant after FDR control. The unstandardised weight is not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "FLS score <--- RPFC to SMA 21.01 8.43 2.49 0.01"
 

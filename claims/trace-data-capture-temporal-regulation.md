@@ -38,7 +38,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r2`
 
-Narrative review of trace-methodology work following Winne's idea of trace as data reflecting learners' engagements over time, where "Traces capture students' immediate learning activities without interrupting the learning process". No effect size is printed, so impact is null.
+Narrative review of trace-methodology work following Winne's idea of trace as data reflecting learners' engagements over time, where "Traces capture students' immediate learning activities without interrupting the learning process". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Traces capture students' immediate learning activities without interrupting the learning process, thus making it possible to follow the students' use of different studying techniques in the learning context."
 

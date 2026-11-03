@@ -44,7 +44,7 @@ The article's forward-looking recommendations: "Teachers of EFL reading need to 
 ## Claims
 
 - [CDA instruction significantly improved EFL students' discourse analysis (interpretation) practice, the smallest gain of the three practices](../claims/cda-improves-discourse-analysis-interpretation.md) [+W]
-- [CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated](../claims/cda-improves-explanation-practice.md) [+W]
+- [After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly](../claims/cda-improves-explanation-practice.md) [+W]
 - [CDA instruction significantly improved EFL students' text analysis (description) practice in both questionnaire and test measures](../claims/cda-improves-text-analysis-description.md) [+W]
 - [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](../claims/cda-overall-analytical-reading-gain.md) [+W]
 - [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](../claims/cda-instruction-increases-student-motivation.md) [+W]

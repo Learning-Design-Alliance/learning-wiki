@@ -50,7 +50,7 @@ Wadha H. Al-Otaibi. (2017). The Effectiveness of Blackboard-Based Blended Teachi
 
 `q2 · i?`
 
-Effect-size estimation reported in the Results and Discussion section of the same quasi-experiment; the article states η² = 0.75 and calls it "a very high rate (Abo Hatab & Sadiq, 1996)". No standardized d is printed, so impact is null.
+Effect-size estimation reported in the Results and Discussion section of the same quasi-experiment; the article states η² = 0.75 and calls it "a very high rate (Abo Hatab & Sadiq, 1996)". No standardized d is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "To evaluate the effectiveness of the proposed design in the development of the academic achievement, eta squared (η2) was estimated; it rated (0.75). It is the rate which the independent variable (blended teaching) represents the total variance of the dependent variable (academic achievement)."
 -->

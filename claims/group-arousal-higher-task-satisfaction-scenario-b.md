@@ -37,7 +37,7 @@ Lixiang Yan · Dragan Gašević · Vanessa Echeverria · Linxuan Zhao · Yueqiao
 
 `q2 · i?` · `associational · r2`
 
-Group-level LMM on Scenario B heart-rate and survey data, controlling for pre-simulation responses. The model with PAgrp beat the null model; adding the interaction term did not improve fit further. Only a p-value is printed, so impact is null.
+Group-level LMM on Scenario B heart-rate and survey data, controlling for pre-simulation responses. The model with PAgrp beat the null model; adding the interaction term did not improve fit further. Only a p-value is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "For task performance satisfaction, Model 2.2 demonstrated a signiﬁcant positive association between PAgrp and task satisfaction (AIC = 236.53, BIC = 248.44, /Delta1χ2 = 5.09, p = .024), with higher PA grp scores linked to greater satisfaction."
 

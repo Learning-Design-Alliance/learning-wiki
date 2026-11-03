@@ -37,7 +37,7 @@ Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated M
 
 `q2 · i?` · `associational · r2`
 
-Descriptive comparison of exposed versus non-exposure-flagged problems in the 79-problem sample; no effect size or significance test is printed, so impact is null. The authors relate this to exposed problems of Class 8 being concentrated in a single class, inseparable from the class effect.
+Descriptive comparison of exposed versus non-exposure-flagged problems in the 79-problem sample; no effect size or significance test is printed, so impact is coded i? (no magnitude reported; not a null effect). The authors relate this to exposed problems of Class 8 being concentrated in a single class, inseparable from the class effect.
 
 > "The mean raw AI diﬃculty of the 12 item-bank original problems is 2.667, slightly higher than the 2.582 of the 67 non-exposure-flagged problems; their student mean pass rate is 36.6%, lower than the 42.8% of the non-exposure-flagged problems, and their mean non-attempt rate is 49.6%, higher than the 35.4% of the non-exposure-flagged problems."
 

@@ -37,7 +37,7 @@ Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary 
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analysis classifying the 34 studies into randomized experiments (N=9) and matched studies (N=25). Both subgroup mean effect sizes were statistically significant by their confidence intervals, but the difference between them was not. No effect size for the moderator contrast is printed, so impact is null.
+Moderator analysis classifying the 34 studies into randomized experiments (N=9) and matched studies (N=25). Both subgroup mean effect sizes were statistically significant by their confidence intervals, but the difference between them was not. No effect size for the moderator contrast is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, based on the Q value (Q= 0.92, p>0.05) reported in Table 2, the difference between the two effect sizes of subcategories of research design was not statistically significant."
 

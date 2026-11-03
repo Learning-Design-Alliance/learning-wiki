@@ -38,7 +38,7 @@ Kiili, C., Kiili, K., Räikkönen, E., & Coiro, J. (2025). Explicit Video-Based 
 
 `q2 · i?` · `causal · r2`
 
-Poisson regression on the justifying count outcome in the quasi-experiment, controlling for pre-test, reading comprehension, topic order, and home language. Intervention students presented "1.79 times [CI 1.55; 2.08]" (non-storified) and "1.83 times [CI 1.58; 2.12]" more relevant justifications than control; no standardized effect size was printed, so impact is null.
+Poisson regression on the justifying count outcome in the quasi-experiment, controlling for pre-test, reading comprehension, topic order, and home language. Intervention students presented "1.79 times [CI 1.55; 2.08]" (non-storified) and "1.83 times [CI 1.58; 2.12]" more relevant justifications than control; no standardized effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Poisson regression analysis showed that students in the non-storified condition presented 1.79 times [CI 1.55; 2.08] and in the storified condition 1.83 times [CI 1.58; 2.12] more relevant justifications than students in the control condition after controlling for the covariates"
 

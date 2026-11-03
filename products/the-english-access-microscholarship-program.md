@@ -22,7 +22,7 @@ A U.S. Department of State-funded two-year after-school English-language program
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [After one year, Access Program students significantly outperform matched public school students on a diagnostic English test](../claims/access-program-outperforms-public-schools-elt-posttest.md) [+M]
+- [After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test](../claims/access-program-outperforms-public-schools-elt-posttest.md) [+M]
 
 ## Related Products and Programmes
 -

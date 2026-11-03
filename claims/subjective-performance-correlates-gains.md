@@ -37,7 +37,7 @@ Wanner, P., Frisch, N., Rikus, S., Roig, M. & Steib, S. (2025). Cardiovascular e
 
 `q2 · i?` · `causal · r2`
 
-Exploratory analysis linking NASA-TLX self-perceived performance ratings to objective gains in the randomized pilot trial. The article reports a significant association with no printed effect size or test statistic, so impact is null.
+Exploratory analysis linking NASA-TLX self-perceived performance ratings to objective gains in the randomized pilot trial. The article reports a significant association with no printed effect size or test statistic, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Participants who reported higher subjective performance  showed significantly greater performance gains (Supplementary Figure 7 & Supplementary Figure 9)."
 

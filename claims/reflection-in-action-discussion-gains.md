@@ -37,7 +37,7 @@ DiBenedetto, C. A., Blythe, J. M., & Myers, B. E. (2017). Effects of the Order o
 
 `q3 · i?` · `causal · r2`
 
-In the 2 x 2 randomized agriscience experiment (n = 26), the main effect of reflection type on discussion scores was reported as significant at p = .002; only the p-value is printed, so impact is null.
+In the 2 x 2 randomized agriscience experiment (n = 26), the main effect of reflection type on discussion scores was reported as significant at p = .002; only the p-value is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In terms of students' discussion assessment scores, participants who were asked to reflect-in-action demonstrated significant statistical gains (p=.002). These results from the students in this study indicate that the mode of reflecting is important if discussion abilities are the primary learning objective."
 

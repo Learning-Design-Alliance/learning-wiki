@@ -37,7 +37,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r2`
 
-Narrative review attributing to Hadwin et al. (2018) a comparison of collaborating groups with versus without planning-phase visualization support. The review reports greater reported effectiveness for the supported groups and no effect size, so impact is null.
+Narrative review attributing to Hadwin et al. (2018) a comparison of collaborating groups with versus without planning-phase visualization support. The review reports greater reported effectiveness for the supported groups and no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The groups who received visualization support at the planning phase reported effectiveness in terms of planning and teamwork strategies, and these groups were more successful in their strategy than groups without visualization support."
 

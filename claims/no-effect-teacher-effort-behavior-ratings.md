@@ -37,7 +37,7 @@ Matthew A. Kraft and Todd Rogers. (2013). Teacher-to-Parent Communication: Exper
 
 `q2 · i?` · `causal · r2`
 
-Null result from teacher surveys (three Likert-scale questions on effort, behavior, and teacher-student relationship) collected for 534 of 576 student-class combinations, a 92.7% response rate. No effect size is printed, so impact is null.
+Null result from teacher surveys (three Likert-scale questions on effort, behavior, and teacher-student relationship) collected for 534 of 576 student-class combinations, a 92.7% response rate. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We find no compelling evidence that the treatment affected either of these measures."
 

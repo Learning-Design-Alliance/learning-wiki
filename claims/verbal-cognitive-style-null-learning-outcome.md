@@ -37,7 +37,7 @@ Marta M. Koć-Januchta, Tim N. Höffler, Helmut Prechtl, Detlev Leutner. (2020).
 
 `q3 · i?` · `causal · r2`
 
-GLM analysis of learning outcome with verbal cognitive style as covariate (N = 235) found only the visualization main effect; Table 4 shows the triple interaction at F(1,227) = 1.56, p = .214. No effect size was reported for this null finding, so impact is null.
+GLM analysis of learning outcome with verbal cognitive style as covariate (N = 235) found only the visualization main effect; Table 4 shows the triple interaction at F(1,227) = 1.56, p = .214. No effect size was reported for this null finding, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, we did not obtain any other significant effects (all p ≥ .10; Table 4), so the second hypothesis (a triple interaction effect) was not confirmed with verbal cognitive style."
 

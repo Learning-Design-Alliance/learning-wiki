@@ -37,7 +37,7 @@ Nikolai Maurer, Mathea Brückner, Christoph Thyssen, Sebastian Becker-Genschow, 
 
 `q3 · i?` · `associational · r1`
 
-Chi-square/Fisher analysis at subject level found one significant association (Cramer's V = 0.437, pFisher =<0.001); this reason was mentioned most frequently (n = 12) for chemistry. No standardized effect size in the code table is printed, so impact is null.
+Chi-square/Fisher analysis at subject level found one significant association (Cramer's V = 0.437, pFisher =<0.001); this reason was mentioned most frequently (n = 12) for chemistry. No standardized effect size in the code table is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The only significant correlation was found in the item "I have never used AI for lesson preparation and follow-up because there is no subject-specific relevance" (n = 106, Cramer's V = 0.437, pFisher =<0.001)."
 

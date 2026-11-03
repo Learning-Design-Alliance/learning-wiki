@@ -66,7 +66,7 @@ Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMers
 
 `q1 · i?` · `design · r1`
 
-The article reports attributed community throughput measurements, explicitly noting no peer-reviewed benchmark exists for LLM inference on the cheapest CPUs. It benchmarks against "silent reading averages 238 words per minute, about four words per second". Throughput figures are descriptive; impact is null.
+The article reports attributed community throughput measurements, explicitly noting no peer-reviewed benchmark exists for LLM inference on the cheapest CPUs. It benchmarks against "silent reading averages 238 words per minute, about four words per second". Throughput figures are descriptive;, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "reproducible community tables report a 3B model at roughly 4–9 tokens per second on an $80 single- board computer and 5–15 tokens per second on the entry laptop CPU class"
 

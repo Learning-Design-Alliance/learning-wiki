@@ -56,7 +56,7 @@ Nye, B. D., Graesser, A. C., & Hu, X. (2014). AutoTutor and Family: A Review of 
 
 `q2 · i?` · `review · r2`
 
-Review reports the bystander Turing test evaluation in which outsiders judged individual conversational turns from transcripts; no effect size is printed, so impact is null.
+Review reports the bystander Turing test evaluation in which outsiders judged individual conversational turns from transcripts; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "a bystander Turing test was conducted to determine whether outsiders could discriminate if a specific tutoring turn was produced by AutoTutor or a human tutor. Bystanders could not differentiate between AutoTutor and the human tutor"
 

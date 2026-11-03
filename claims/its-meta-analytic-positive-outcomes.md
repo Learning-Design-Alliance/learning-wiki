@@ -10,7 +10,6 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-28
 sources:
   - id: dahal-n-2026
     resource: "https://doi.org/10.3389/feduc.2026.1948064"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r2`, 1 qualitative `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -60,7 +59,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q2 · i?` · `qualitative · r1`
 
-This is the interviewer's summary statement in the interview, attributing the confirmation to named meta-reviews; the article reports no pooled effect size itself, so impact is null and the claim is attributed exactly as the source attributes it.
+This is the interviewer's summary statement in the interview, attributing the confirmation to named meta-reviews; the article reports no pooled effect size itself, so impact is coded i? (no magnitude reported; not a null effect) and the claim is attributed exactly as the source attributes it.
 
 > "by now, many high-quality studies and meta-reviews (Steenbergen-Hu and Cooper 2013, 2014; Ma et al. 2014; VanLehn 2011; Pane et al. 2014; Kulik and Fletcher 2015) confirm the value of intelligent tutoring systems, perhaps with smaller effects than we might hope to see or that we have seen in some earlier studies."
 

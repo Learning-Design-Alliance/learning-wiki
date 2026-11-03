@@ -46,7 +46,7 @@ Paired-samples t-test on the total scale in the 43-student quasi-experiment: ove
 
 ## Related Claims
 - [CDA instruction significantly improved EFL students' discourse analysis (interpretation) practice, the smallest gain of the three practices](cda-improves-discourse-analysis-interpretation.md) — a narrower finding that bears on this claim
-- [CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated](cda-improves-explanation-practice.md) — related
+- [After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly](cda-improves-explanation-practice.md) — related
 - [CDA instruction significantly improved EFL students' text analysis (description) practice in both questionnaire and test measures](cda-improves-text-analysis-description.md) — a narrower finding that bears on this claim
 - [Critical discourse-based instruction significantly improves EFL learners' reading comprehension compared with conventional instruction](cda-instruction-improves-efl-reading-comprehension.md) — related
 - [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related

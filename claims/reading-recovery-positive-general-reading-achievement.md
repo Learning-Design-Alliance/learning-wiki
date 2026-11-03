@@ -45,7 +45,7 @@ Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginn
 
 `q3 · i?` · `quant-synthesis · r2`
 
-WWC synthesis of three randomized controlled trials (Pinnell, DeFord, & Lyons 1988; Pinnell et al. 1994; Schwartz 2005) including 227 first-grade students. Table 1 reports a "Positive effects" rating with improvement index "+27" (range +19 to +38) and a small extent of evidence; no standardized effect size is printed, so impact is null.
+WWC synthesis of three randomized controlled trials (Pinnell, DeFord, & Lyons 1988; Pinnell et al. 1994; Schwartz 2005) including 227 first-grade students. Table 1 reports a "Positive effects" rating with improvement index "+27" (range +19 to +38) and a small extent of evidence; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "General reading achievement Positive effects +27 +19 to +38 3 227 Small"
 

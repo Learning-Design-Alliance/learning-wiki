@@ -56,7 +56,7 @@ Qian Liu & Zunwei Fu. (2011). The Combined Effect of Instruction and Monitor in 
 
 `q2 · i?` · `causal · r2`
 
-Independent samples tests comparing the experimental and control groups on T2 and T3; Table 5 prints t = 13.309 (T2) and t = 10.747 (T3), df = 58, sig. .000. No effect size is printed, so impact is null.
+Independent samples tests comparing the experimental and control groups on T2 and T3; Table 5 prints t = 13.309 (T2) and t = 10.747 (T3), df = 58, sig. .000. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Though the performances of these two groups were judged to be similar in T1, the differences between them proved to be significant in both T2 and T3."
 

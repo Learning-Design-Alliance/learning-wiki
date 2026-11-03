@@ -46,7 +46,7 @@ Vaughn, S., Martinez, L. R., Wanzek, J., Roberts, G., Swanson, E., & Fall, A.-M.
 
 `q3 · i?` · `causal · r3`
 
-Fidelity coding of audio recordings from the 18 teachers' randomly selected treatment class periods across the three 10-day units, rated on a 1–4 scale; interrater reliability was κ = .87 (p < .001). No effect size applies, so impact is null.
+Fidelity coding of audio recordings from the 18 teachers' randomly selected treatment class periods across the three 10-day units, rated on a 1–4 scale; interrater reliability was κ = .87 (p < .001). No effect size applies, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In treatment classes, PACT components were implemented with generally high levels of fidel- ity. Teachers struggled the most with implementing the knowledge acquisition through text reading component, with about 25% of the component implemented with a low or mid-low rating."
 
@@ -56,7 +56,7 @@ Vaughn, S., Martinez, L. R., Wanzek, J., Roberts, G., Swanson, E., & Fall, A.-M.
 
 `q3 · i?` · `causal · r3`
 
-Coders rated BAU comparison audio recordings with the same protocol; elements of warm-up, knowledge acquisition, and essential words appeared at low rates, and TBL comprehension check elements were almost never observed. No effect size is printed, so impact is null.
+Coders rated BAU comparison audio recordings with the same protocol; elements of warm-up, knowledge acquisition, and essential words appeared at low rates, and TBL comprehension check elements were almost never observed. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Research support personnel frequently stressed the importance of avoiding PACT spillover into BAU class sections with participating teachers, and coders identified limited evidence of PACT in the BAU sections."
 

@@ -47,5 +47,5 @@ Paired-samples t-test on the 14-item interpretation subscale in the same 43-stud
 
 ## Related Claims
 - [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](cda-overall-analytical-reading-gain.md) — a broader claim this one bears on
-- [CDA instruction significantly improved critical discourse analysis (explanation) practice, the largest test gain, and was the only practice where post questionnaire and test scores correlated](cda-improves-explanation-practice.md) — related
+- [After CDA instruction, one EFL class's critical discourse analysis (explanation) scores rose significantly, the largest test gain of the three practices, and explanation was the only practice whose post questionnaire and posttest scores differed significantly](cda-improves-explanation-practice.md) — related
 - [CDA instruction significantly improved EFL students' text analysis (description) practice in both questionnaire and test measures](cda-improves-text-analysis-description.md) — related

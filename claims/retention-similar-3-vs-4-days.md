@@ -37,7 +37,7 @@ Thiago Cabral, Natália B. Mota, Lucia Fraga, Mauro Copelli, Mark A. McDaniel an
 
 `q3 · i?` · `causal · r2`
 
-Secondary analysis of the weekly retention tests by retention interval (3 vs 4 days), reported as a supplementary null across all conditions. No effect size printed, so impact is null.
+Secondary analysis of the weekly retention tests by retention interval (3 vs 4 days), reported as a supplementary null across all conditions. No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There was no signi ﬁcant performance difference when contents where presented 3 or 4 days before the test, neither for contents A/C followed by nap, nor for contents A/C followed by another class, nor for content B followed by the break (Supplementary Table S1)."
 

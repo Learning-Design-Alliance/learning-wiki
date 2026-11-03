@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: dixon-and-wu-2014
     resource: "https://eric.ed.gov/?id=EJ1137251"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thai learners of English improved in English question development when allowed to modify their own output after receiving negative feedback from native English-speaking lecturers. [→ Dixon and Wu 2014](#dixon-and-wu-2014)

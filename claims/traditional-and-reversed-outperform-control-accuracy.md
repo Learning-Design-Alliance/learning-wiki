@@ -56,7 +56,7 @@ Kucinkas, A., Retsa, C., Meijer, P. B. L., Wallace, M. T., Gori, M. & Murray, M.
 
 `q3 · i?` · `causal · r2`
 
-Bonferroni-corrected post-hoc unpaired t-tests from the same evaluation-phase ANOVA; the Traditional group showed "significantly higher accuracy than the Control group" (M₍diff₎= 33.63%) and Reversed vs Control M₍diff₎= 24.79%; no effect sizes printed, so impact is null.
+Bonferroni-corrected post-hoc unpaired t-tests from the same evaluation-phase ANOVA; the Traditional group showed "significantly higher accuracy than the Control group" (M₍diff₎= 33.63%) and Reversed vs Control M₍diff₎= 24.79%; no effect sizes printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Post-hoc comparisons (2-sided unpaired t-tests) using Bonferroni correction indicated that the Traditional group showed significantly higher accuracy than the Control group (p < 0.001, M₍diff₎= 33.63%), as did the Reversed group compared to the Control group (p < 0.001, M₍diff₎= 24.79%)."
 

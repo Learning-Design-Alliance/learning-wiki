@@ -37,7 +37,7 @@ Zolfaghari Zahra, Karimian Zahra, Zarifsanaiey Nahid, Farahmandi Amir Yousef. (2
 
 `q2 · i?` · `review · r2`
 
-The review's own synthesis of the 33 included studies reports that "Increase in the motivation was the most frequently reported outcome (21 articles)", followed by knowledge and engagement. No pooled effect size is printed, so impact is null.
+The review's own synthesis of the 33 included studies reports that "Increase in the motivation was the most frequently reported outcome (21 articles)", followed by knowledge and engagement. No pooled effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "As shown in Table 4, all included papers reported some outcomes. Increase in the motivation was the most frequently reported outcome (21 articles)"
 

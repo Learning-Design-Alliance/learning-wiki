@@ -37,7 +37,7 @@ Kucinkas, A., Retsa, C., Meijer, P. B. L., Wallace, M. T., Gori, M. & Murray, M.
 
 `q3 · i?` · `causal · r2`
 
-One-sample t-tests per group and stimulus type in the evaluation phase (20 participants per group); "accuracy was significantly above chance in the Traditional group" and the Reversed group for novel stimuli, but not the Control group; only test statistics printed, so impact is null.
+One-sample t-tests per group and stimulus type in the evaluation phase (20 participants per group); "accuracy was significantly above chance in the Traditional group" and the Reversed group for novel stimuli, but not the Control group; only test statistics printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "For novel stimuli, accuracy was significantly above chance in the Traditional group (t(19) = 4.61, p < 0.001) and the Reversed group (t(19) = 2.19, p = 0.041), but not in the Control group (t(19) = -5.65, p < 0.001)."
 

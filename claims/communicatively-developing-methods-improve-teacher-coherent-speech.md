@@ -1,14 +1,15 @@
 ---
 type: claim
-title: "Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics"
-description: "Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics"
+title: "Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported"
+description: "Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported"
 id: communicatively-developing-methods-improve-teacher-coherent-speech
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-11-03
-evidence_strength: moderate
+evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: khairova-and-egamberdieva-2016
     resource: "https://eric.ed.gov/?id=EJ1094593"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics
+# Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After 2-3 weeks of intensive influence on IAT course trainees' oral activity, the quality of their speech improved greatly on pronunciation norms, inter phrase connection, notional structure, syntactic complexity and information intensity. [→ Khairova and Egamberdieva 2016](#khairova-and-egamberdieva-2016)
+`q2 i?` After 2-3 weeks of intensive course work, experimental groups of IAT course trainees showed higher percentages than control groups on eight oral-activity characteristics (from 48% vs 46% for information concentration to 82% vs 26% for logic connection of sentences); the authors read this as their speech having "improved greatly", but report no sample size, no pre-test and no statistical test. [→ Khairova and Egamberdieva 2016](#khairova-and-egamberdieva-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Irina V. Khairova & Nodira M. Egamberdieva. (2016). Communicatively Developing T
 
 `q2 · i?` · `causal · r1`
 
-A forming pedagogic experiment with control and experimental groups of IAT course trainees; Table 1 reports percentage results on eight oral-activity characteristics, e.g. logic connection of sentences rising from 26% to 82%, showing "the quality of their speech improved greatly".
+A forming pedagogic experiment with control and experimental groups of IAT (advanced-training) course trainees in Tatarstan. Table 1 reports, for each of eight oral-activity characteristics, a percentage for the control groups and one for the experimental groups, e.g. logic connection of sentences 26% (control) against 82% (experimental), and sufficient information concentration 46% against 48%. These are between-group figures, not before-and-after measurements of the same group; the article gives no number of participants, says nothing of how groups were formed, and reports no statistical test. The authors conclude that "the quality of their speech improved greatly".
 
 > "As we can see the result of intensive influence (during 2 -3 weeks) on the IAT courses trainees` oral activity the quality of their speech improved greatly: pronunciation norms, as well as inter phrase connection, notional structure, syntactic complexity, information intensity, etc."
 

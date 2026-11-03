@@ -46,7 +46,7 @@ Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence 
 
 `q2 · i?` · `associational · r2`
 
-Moderation effect parameter estimate differences from Table 3b of the probit model; the contrast names White versus Black and Hispanic children. No standardized effect size is printed, so impact is null.
+Moderation effect parameter estimate differences from Table 3b of the probit model; the contrast names White versus Black and Hispanic children. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, White children experienced signiﬁcantly greater decrements in ﬂourishing compared to Black and Hispanic children as ACEs increased. For example, speciﬁc ﬂourishing outcomes showed that White children experienced a steeper decline in interest and curiosity in learning compared to Black and Hispanic children."
 

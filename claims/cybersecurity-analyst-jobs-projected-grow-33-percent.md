@@ -38,7 +38,7 @@ Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K.
 
 `q2 · i?` · `design · r2`
 
-The report cites U.S. Bureau of Labor Statistics projections, stating "information security analyst positions projected to grow 33% from 2023 to 2033"; no effect size is reported, so impact is null.
+The report cites U.S. Bureau of Labor Statistics projections, stating "information security analyst positions projected to grow 33% from 2023 to 2033"; no effect size is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "information security analyst positions projected to grow 33% from 2023 to 2033 (U.S. Bureau of Labor Statistics, 2025)"
 

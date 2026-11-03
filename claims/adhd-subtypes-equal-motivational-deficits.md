@@ -38,7 +38,7 @@ Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype d
 
 `q3 · i?` · `causal · r?`
 
-This is the study's motivational-deficit conclusion, drawn from the experiment in which high reinforcement improved STM and WM performance in both ADHD subtypes but not in typically developing controls. The article states that "Both subtypes have equally pronounced motivational deficits, which have detrimental effects on their visuospatial STM and WM performance." The equal benefit of high reinforcement across subtypes is the basis for the claim of equally pronounced motivational deficits. No effect sizes are printed in the supplied text, so impact is null.
+This is the study's motivational-deficit conclusion, drawn from the experiment in which high reinforcement improved STM and WM performance in both ADHD subtypes but not in typically developing controls. The article states that "Both subtypes have equally pronounced motivational deficits, which have detrimental effects on their visuospatial STM and WM performance." The equal benefit of high reinforcement across subtypes is the basis for the claim of equally pronounced motivational deficits. No effect sizes are printed in the supplied text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Both subtypes have equally pronounced motivational deficits, which have detrimental effects on their visuospatial STM and WM performance."
 

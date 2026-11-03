@@ -45,5 +45,5 @@ Semi-structured interviews with 15 EFL teachers after the four-month training, r
 
 
 ## Related Claims
-- [Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
 - [The trial group improved a shortened FCE-style interview overall (p = 0.024), with significant gains in pronunciation, discourse and lexis but not grammar](phonics-prosody-course-improves-interview-skills.md) — related

@@ -47,7 +47,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q1 · i?` · `causal · r2`
 
-Analysis of iFlytek Spark usage logs recording interaction frequency, duration, and query types for the experimental group; frequencies are percentages of usage, not effect sizes, so impact is null. The article notes several usage types may occur simultaneously for the same students.
+Analysis of iFlytek Spark usage logs recording interaction frequency, duration, and query types for the experimental group; frequencies are percentages of usage, not effect sizes, so impact is coded i? (no magnitude reported; not a null effect). The article notes several usage types may occur simultaneously for the same students.
 
 > "case analysis help usage dominates with a usage rate of 42%, with students submitting case scenario queries asking for appropriate issues, rules, and framework applications. Socratic dialogue simulation usage follows with 38%"
 

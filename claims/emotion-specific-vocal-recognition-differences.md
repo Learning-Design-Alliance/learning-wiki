@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r2`
 
-Pairwise post-hoc comparisons of the four emotions in five age groups (children, pre-, early-, late-adolescents, adults) with Holm-Bonferroni correction, reported in Table 2 and Fig. 3. No standardized effect size is printed, so impact is null.
+Pairwise post-hoc comparisons of the four emotions in five age groups (children, pre-, early-, late-adolescents, adults) with Holm-Bonferroni correction, reported in Table 2 and Fig. 3. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Across the whole age range, happiness was the emotion recognized with the highest accuracy, followed by sadness and fear at around the same level while anger was the least well recognized"
 

@@ -37,7 +37,7 @@ Ishihara, T., Nakajima, T., Yamatsu, K., Okita, K., Sagawa, M. & Morita, N. (202
 
 `q3 · i?` · `associational · r2`
 
-Moderation analysis adding sex interactions to the regression model in the 2-year study; the three-way term was not significant, and simple slopes showed "consistent patterns" in both boys and girls. No effect size printed, so impact is null.
+Moderation analysis adding sex interactions to the regression model in the 2-year study; the three-way term was not significant, and simple slopes showed "consistent patterns" in both boys and girls. No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We found no signi ﬁcant effects of sex × BMI × ΔBMI ( B = 0.02, SE B = 0.06, β = 0.03, t = 0.37, p = 0.71). Simple slope analyses showed consistent patterns of main analysis in both boys and girls (Fig. 2)."
 

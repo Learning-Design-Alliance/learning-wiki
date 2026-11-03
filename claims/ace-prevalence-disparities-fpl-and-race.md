@@ -47,7 +47,7 @@ Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence 
 
 `q2 · i?` · `associational · r2`
 
-Descriptive prevalence from the 2016-17 NSCH analytic sample (n = 44,686); the printed proportions are descriptive percentages, not effect sizes, so impact is null.
+Descriptive prevalence from the 2016-17 NSCH analytic sample (n = 44,686); the printed proportions are descriptive percentages, not effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Furthermore, 30.16% of children living below FPL experienced ≥2 ACEs compared to 11.07% of children living above FPL."
 

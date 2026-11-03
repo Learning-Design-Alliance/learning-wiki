@@ -37,7 +37,7 @@ Currie, N. K., & Cain, K. (2015). Children's inference generation: The role of v
 
 `q3 · i?` · `associational · r2`
 
-Paired comparisons of unprompted versus prompted scores across the 130-child sample listening to short narratives showed significant improvement after prompts for both inference types, "local, t(129) = 15.72; global, t(129) = 12.08; ps < .001". No effect size is printed, so impact is null.
+Paired comparisons of unprompted versus prompted scores across the 130-child sample listening to short narratives showed significant improvement after prompts for both inference types, "local, t(129) = 15.72; global, t(129) = 12.08; ps < .001". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The difference between unprompted and prompted scores (collapsed across age group) was signiﬁcant for both types of inference: local, t(129) = 15.72; global, t(129) = 12.08; ps < .001."
 

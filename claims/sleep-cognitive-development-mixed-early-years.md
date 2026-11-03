@@ -46,7 +46,7 @@ Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Auber
 
 `q3 · i?` · `review · r3`
 
-Randomized cross-over trial (n = 23) in the review's cognitive development section; GRADE quality "high". Only significance is printed, no effect size, so impact is null.
+Randomized cross-over trial (n = 23) in the review's cognitive development section; GRADE quality "high". Only significance is printed, no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The number of correct answers in an explicit recognition task was significantly higher in the nap (control) compared to the wake (sleep-restricted) condition, whereas implicit memory (priming task) did not differ between conditions [ 65]."
 

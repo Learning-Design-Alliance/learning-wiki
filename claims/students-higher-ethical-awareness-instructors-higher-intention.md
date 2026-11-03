@@ -39,7 +39,7 @@ Fekete, I. (2026). Between Promise and Practice: Bridging Ethical Artificial Int
 
 `q3 · i?` · `associational · r?`
 
-Questionnaire study of students (n = 226) and instructors (n = 256) in European higher education using parallel five-point scales; independent-samples t-tests showed "students rated their ethical awareness higher than instructors" while instructors reported higher intention. No effect sizes are printed, so impact is null.
+Questionnaire study of students (n = 226) and instructors (n = 256) in European higher education using parallel five-point scales; independent-samples t-tests showed "students rated their ethical awareness higher than instructors" while instructors reported higher intention. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Independent-samples t-tests revealed significant group differences: students rated their ethical awareness higher than instructors, while instructors reported stronger willingness to experiment with AI tools and reported higher behavioural intention"
 

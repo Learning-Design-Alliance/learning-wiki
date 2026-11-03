@@ -37,7 +37,7 @@ Ajitoni Sunday Olukayode & Salako, Ekima Tina. (2014). Effect of Jigsaw Techniqu
 
 `q2 · i?` · `causal · r1`
 
-ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed to reject H02; the article reports descriptive means only, with no effect size printed, so impact is null.
+ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed to reject H02; the article reports descriptive means only, with no effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Based on table 3, there is no significant main effect of treatment on students' gender. There is not much observed difference between the mean score of the female and male students in the experimental group (24.67 and 25.33)."
 

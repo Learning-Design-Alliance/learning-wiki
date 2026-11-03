@@ -56,7 +56,7 @@ Joey Ka-Yee Essoe, Nicco Reggente, Ai Aileen Ohno, Younji Hera Baek, John Dell'I
 
 `q2 · i?` · `causal · r2`
 
-Follow-up analyses in the fMRI experiment showed that "After incongruent mental reinstatement" high-fidelity T4 recall yielded a 10.1% one-week advantage (0.45 ± 0.19 vs 0.35 ± 0.20); no standardised effect size was printed for this contrast, so impact is null.
+Follow-up analyses in the fMRI experiment showed that "After incongruent mental reinstatement" high-fidelity T4 recall yielded a 10.1% one-week advantage (0.45 ± 0.19 vs 0.35 ± 0.20); no standardised effect size was printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "After incongruent mental reinstatement, if representational ﬁdelity had been high during T4 recall, partici- pants enjoyed a 10.1% advantage one week later (0.45 ± 0.19) as compared to if representational ﬁdelity had been low (0.35 ± 0.20)."
 

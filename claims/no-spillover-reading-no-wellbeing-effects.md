@@ -37,7 +37,7 @@ Rosholm, M., Tonnesen, P. B., Rasmussen, K., Overgaard, S., Færch, J. V., Malm,
 
 `q3 · i?` · `causal · r2`
 
-Secondary-outcome analyses of the two randomized trials using national Danish-language tests and well-being survey constructs; only significance is reported, no effect sizes, so impact is null. Equivalence was not tested.
+Secondary-outcome analyses of the two randomized trials using national Danish-language tests and well-being survey constructs; only significance is reported, no effect sizes, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "We ﬁnd no signiﬁcant spillover effects on outcomes in reading, neither for grade 2 nor grade 8 participants, see Supplementary Fig. 2. Neither do we ﬁnd any signiﬁcant effects on various measures of personality and well-being in school"
 

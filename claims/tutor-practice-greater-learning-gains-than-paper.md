@@ -37,7 +37,7 @@ Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. 
 
 `q2 · i?` · `causal · r2`
 
-Linear mixed-effects analysis of learning gains from a counterbalanced within-subject classroom study (analytic sample 54 ninth-graders) with matched problem sets. The tutor main effect was significant: "t(62.30) = 2.38,p=.020". No effect size was printed, so impact is null.
+Linear mixed-effects analysis of learning gains from a counterbalanced within-subject classroom study (analytic sample 54 ninth-graders) with matched problem sets. The tutor main effect was significant: "t(62.30) = 2.38,p=.020". No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The main effect of the practice condition (tutor vs. paper) on learning gain was statistically significant,t(62.30) = 2.38,p=.020, indicating that students in the tutor-based condition showed greater learning gains than those in the paper-based condition."
 

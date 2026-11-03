@@ -37,7 +37,7 @@ McLean, L., Janssen, J., Espinoza, P., Lindstrom Johnson, S., & Jimenez, M. (202
 
 `q3 · i?` · `associational · r2`
 
-Interactions model from the multiple regression analysis of 463 students in 33 classrooms, with cluster-robust standard errors, controlling for students' Time 1 mathematics anxiety. The printed interaction coefficient is B = 0.39, p < .01; no standardized effect size is reported, so impact is null.
+Interactions model from the multiple regression analysis of 463 students in 33 classrooms, with cluster-robust standard errors, controlling for students' Time 1 mathematics anxiety. The printed interaction coefficient is B = 0.39, p < .01; no standardized effect size is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The interactions model revealed a significant teacher mathematics-anxiety-by-student FARM interaction effect (B = 0.39, p < .01) on students' Time 2 mathematics anxiety."
 

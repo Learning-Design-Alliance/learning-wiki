@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `qualitative · r2`
 
-Main questionnaire item on appropriateness of handsets for Mathematics, answered by the 145-student cohort. Descriptive percentage only; no effect size is printed, so impact is null.
+Main questionnaire item on appropriateness of handsets for Mathematics, answered by the 145-student cohort. Descriptive percentage only; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, the overwhelmingly positive response – 88% of students indicated that they consider EVS 'appropriate' for teaching Mathematics in response  to a main questionnaire item –  seems a clear verdict that students welcome the use of handsets to teach Mathematics"
 

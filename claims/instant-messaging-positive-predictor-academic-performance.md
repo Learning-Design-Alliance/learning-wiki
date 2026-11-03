@@ -37,7 +37,7 @@ le Roux, D.B., Parry, D.A., Totolo, A., Iyawa, G., Holloway, J., Prenter, A., Bo
 
 `q2 · i?` · `associational · r2`
 
-Cross-sectional survey regression on the full sample (N = 1445). The article reports instant messaging "has a positive eﬀect on academic performance (β =.13,p<. 001)"; no effect size beyond the coefficient is printed, so impact is null.
+Cross-sectional survey regression on the full sample (N = 1445). The article reports instant messaging "has a positive eﬀect on academic performance (β =.13,p<. 001)"; no effect size beyond the coefficient is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The second strongest predictor is instant messaging which has a positive eﬀect on academic performance (β =.13,p<. 001)."
 

@@ -57,7 +57,7 @@ Christopher, M. E., Miyake, A., Keenan, J. M., Pennington, B., DeFries, J. C., W
 
 `q3 · i?` · `associational · r2`
 
-Same constrained SEM across age groups. The article reports null paths: "Inhibition and naming speed did not independently predict comprehension or word reading" with p values ranging from .12 to .72. No effect sizes were printed, so impact is null.
+Same constrained SEM across age groups. The article reports null paths: "Inhibition and naming speed did not independently predict comprehension or word reading" with p values ranging from .12 to .72. No effect sizes were printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Inhibition and naming speed did not independently predict comprehension or word reading (p = .52 for inhibition to comprehension, p = .72 for naming speed to comprehension, p = .12 for inhibition to word reading, and p = .25 for naming speed and word reading)."
 

@@ -37,7 +37,7 @@ Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-C
 
 `q2 · i?` · `design · r2`
 
-Study 1, a within-subjects benchmark with four RSC development-team members comparing v4 and v4.1 across full assembly and disassembly cycles, reports this SUS change. The article reports "jumping from 59.4 (v4,Poor) to 89.4 (v4.1,Excellent)"; no effect size or test statistic is printed, so impact is null.
+Study 1, a within-subjects benchmark with four RSC development-team members comparing v4 and v4.1 across full assembly and disassembly cycles, reports this SUS change. The article reports "jumping from 59.4 (v4,Poor) to 89.4 (v4.1,Excellent)"; no effect size or test statistic is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The v4.1 redesign resulted in a rise in perceived usability with SUS scores (Fig. 5a) jumping from 59.4 (v4,Poor) to 89.4 (v4.1,Excellent)."
 

@@ -36,7 +36,7 @@ Tabares-Cruz YB, Cevallos-Sánchez HA, Arteaga-Pita IG, Rodriguez-Alava LA, Carr
 
 `q2 · i?` · `associational · r2`
 
-Descriptive profile of the 980-participant sample (Table 1); the printed percentages show training and policy-awareness gaps. These are descriptive frequencies with no effect size, so impact is null.
+Descriptive profile of the 980-participant sample (Table 1); the printed percentages show training and policy-awareness gaps. These are descriptive frequencies with no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Concerning AI training, 25.0% of participants had completed institutional training courses, 22.6% had relied on self-directed learning, whereas 17.1% had received no formal AI training. A similar pattern emerged regarding institutional policy awareness: only 24.2% reported being clearly familiar with institutional AI policies, whereas 38.9% indicated only partial knowledge."
 

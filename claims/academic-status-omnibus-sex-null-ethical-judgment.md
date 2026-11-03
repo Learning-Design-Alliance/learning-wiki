@@ -57,7 +57,7 @@ Reed, J. M., Ferdig, R. E., Dodson, T. M., Gunstad, J., & Hughes, J. W. (2026). 
 
 `q3 · i?` · `associational · r2`
 
-Null sex effect from the same RQ3 binomial model; males had comparable modeled odds to females (OR = 0.88, 95% CI [0.64, 1.21]). No effect size was printed, so impact is null.
+Null sex effect from the same RQ3 binomial model; males had comparable modeled odds to females (OR = 0.88, 95% CI [0.64, 1.21]). No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Sex was not significantly associated with classification accuracy, Wald χ²(1) = 0.65, p = .420."
 
