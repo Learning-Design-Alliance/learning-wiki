@@ -166,6 +166,12 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   (canonical, then other curated pages, `tier` filter, re-ranked by title and alias coverage)
   above the full results, turns off Pagefind's long-page penalty, and every page has a header
   search box.
+- **The long tail is published compressed** (maintainer, 2026-11-03). With `COMPRESS_LONGTAIL=1` (set in
+  docs.yml and pr-preview.yml) each long-tail page is a ~1.9 KB stub (title, description, a GitHub link) and its
+  article is stored in gzipped JSON shards the browser renders (`build_longtail.py --compress`,
+  `assets/javascripts/lt-page.js`); Pagefind indexes the full pages first, so search is unchanged. Measured
+  745 MB -> 481 MB. A reader without JavaScript, and a crawler that runs none, sees only the stub. The repo is
+  untouched by it: the rule above (shrink by rendering, never by removing) still holds.
 - **Deploys replace the published tree** (`keep_files: false`), carrying open PR previews over,
   so renamed and deleted pages do not accumulate. Measured in bytes on 2026-10-27, the site was 625 MB
   at 44,700 pages (long tail 371 MB, Pagefind 113 MB; about 12 KB a long-tail page), so the 1 GB
