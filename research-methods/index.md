@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**972 entries** · 0 stable · 972 in review · 0 drafts
+**973 entries** · 0 stable · 973 in review · 0 drafts
 
 ---
 
@@ -46,6 +46,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Agent-characteristic moderator taxonomy: appearance, gender, nonverbal communication, motion, and voice](agent-characteristic-moderator-taxonomy-appearance-gender-nonverbal-communication-motion-a.md) - The article organizes its meta-analytic tests around a set of agent characteristics that \"may moderate their instructional effectiveness, including appearance, gender, nonverbal communication, motion, and voice.\" This five-branch taxonomy structures which agent design features were hypothesized (by 
 * [Agnostic multilevel gene-environment interaction framework for testing latent environmental moderation](agnostic-multilevel-gene-environment-interaction-framework-for-testing-latent-environmenta.md) - The article advances a social-genetic research strategy that estimates total interactions between polygenic indices and environmental levels (schools, neighbourhoods, districts, municipalities) using multilevel random-slope models, \"thus remaining agnostic to specific features of environments\".
 * [All-inclusive machine learning approach to modeling achievement predictors](all-inclusive-machine-learning-approach-to-modeling-achievement-predictors.md) - The article coins an \"all-inclusive approach\": modeling the entire set of potential predictors, including their nonlinear and complex interactions, at once, rather than testing a small subset of predictors.
+* [Alternating renewal process model for simulating behavioral observation data](alternating-renewal-process-model-for-simulating-behavioral-observation-data.md) - The alternating renewal process is a statistical model for the stream of behavior as perceived during an observation session, used to simulate realistic direct-observation data.
 * [Ambulatory assessment with intensive longitudinal data](ambulatory-assessment-with-intensive-longitudinal-data.md) - Ambulatory assessment is a measurement approach in which intensive longitudinal data are captured in real-life settings with repeated within-subject assessments of physical activity (e.g., via accelerometry) and cognitive performance (e.g., via a smartphone app) at high measurement density, such as 
 * [AMOVA (Accumulative Manifold Validation Analysis)](amova-accumulative-manifold-validation-analysis.md) - AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments.
 * [An affordance framework for electronic collaborative learning environments](an-affordance-framework-for-electronic-collaborative-learning-environments.md) - The article presents what it calls an affordance framework for electronic collaborative learning environments for learning and working.

@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (80 show a difference, 26 mixed, 32 no difference) · 86 studies (31 associational, 23 causal, 14 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 86 report an effect size · 136 claims rest on one study
+> **Evidence** · 139 claims (81 show a difference, 26 mixed, 32 no difference) · 87 studies (31 associational, 24 causal, 14 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 87 report an effect size · 137 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -175,6 +175,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [No interaction between treatment and effortful control on mathematics anxiety](../claims/no-treatment-effortful-control-interaction-math-anxiety.md) [-M] — an instructional effect differs with it
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](../claims/after-school-intervention-improves-executive-function.md) [+W] — instruction changes it
 - [Language, attention/executive function, and reading skills did not significantly moderate response to the PAL writing intervention](../claims/no-cognitive-reading-moderators-writing-rti.md) [-W] — an instructional effect differs with it
+- [Lower inhibitory control scores predicted significantly higher post-test scores specifically for the self-explanation game, with a Johnson-Neyman threshold of 46.72ms](../claims/inhibitory-control-threshold-self-explanation-benefit.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

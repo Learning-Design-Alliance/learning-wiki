@@ -90,3 +90,5 @@ Interview question on effects on success in social studies; permanent learning w
 - [Treatment students evaluated the lessons positively, reporting that the classes helped them master the second conditional](positive-student-evaluations-virtual-world-lessons.md) — related
 - [Scientific argumentation based learning improves student attitudes toward the science and technology course on the positive attitude and interest dimensions, but not on negative attitude or importance.](argumentation-improves-attitudes-partially.md) — related
 - [Students in the situated learning environment reported mostly positive perceptions, including improved communication, pronunciation, learning, and motivation](positive-student-perceptions-situated-learning-vocational-english.md) — related
+- [The reviewed studies conclude that the quantum learning model increases academic achievement, ensures meaningful learning, and increases permanence in learning.](qlm-positive-effect-academic-achievement.md) — related
+- [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related

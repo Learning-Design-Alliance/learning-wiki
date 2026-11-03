@@ -71,6 +71,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - [Use data collaboratively through a structured data analysis process among educators](collaborative-structured-data-analysis.md)
 - [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 - [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
+- [Identify resistant students through observations, teacher interviews, and follow-up forms before intervening](identify-resistance-via-observation-interviews.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

@@ -59,3 +59,4 @@ The brief's headline summary of the study states that MCAS scores "predict colle
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md)
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — related
+- [School Redesign Grants in Massachusetts showed positive, statistically significant effects on math and English language arts achievement](school-redesign-grants-significant-achievement-effects.md) — related

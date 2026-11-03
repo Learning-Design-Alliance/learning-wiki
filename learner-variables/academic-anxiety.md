@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 216 claims (145 show a difference, 43 mixed, 28 no difference) · 137 studies (46 causal, 43 associational, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 31 of 137 report an effect size · 209 claims rest on one study
+> **Evidence** · 221 claims (147 show a difference, 44 mixed, 30 no difference) · 138 studies (46 causal, 44 associational, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 32 of 138 report an effect size · 214 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -252,6 +252,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Research shows a significant negative correlation between foreign language listening anxiety and listening proficiency](../claims/listening-anxiety-negative-correlation-proficiency.md) [+W] — learners who differ on it differ in outcomes
 - [Despite the statistical increase in FLRA, experiment-group interviewees reported positive perceptions of reading strategy instruction, while criticizing text difficulty and instructor style](../claims/interviews-positive-despite-flra-increase.md) [+W] — instruction changes it
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](../claims/afl-positive-student-attitudes-esp.md) [+M] — instruction changes it
+- [FLCA is a statistically significant predictor of English exam performance in the immersion group but not the whole sample](../claims/flca-predicts-english-immersion-regression.md) [~M] — learners who differ on it differ in outcomes
+- [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](../claims/flca-negative-correlation-english-performance-thai-secondary.md) [+M] — learners who differ on it differ in outcomes
+- [No correlation found between foreign language classroom anxiety and maths performance](../claims/flca-no-correlation-maths-performance.md) [-M] — learners who differ on it differ in outcomes
+- [No difference in FLCA levels between immersion and non-immersion program students](../claims/flca-no-difference-immersion-non-immersion.md) [-M] — instruction changes it
+- [Students who failed the question-and-answer oral exam had higher FLCA than those who passed](../claims/flca-higher-failed-oral-qa.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

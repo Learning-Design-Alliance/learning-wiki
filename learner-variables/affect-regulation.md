@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (182 show a difference, 46 mixed, 25 no difference) · 160 studies (52 associational, 40 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 38 of 160 report an effect size · 247 claims rest on one study
+> **Evidence** · 254 claims (183 show a difference, 46 mixed, 25 no difference) · 161 studies (52 associational, 41 causal, 31 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 39 of 161 report an effect size · 248 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -293,6 +293,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](../claims/mbsr-improves-self-regulation-competences.md) [+W] — instruction changes it
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](../claims/sss-reduced-test-anxiety-growth-fifth-grade.md) [+W] — instruction changes it
 - [In Study 1 the treatment group reported a significant decrease in stress while the control group reported no change](../claims/stress-decrease-time-management-intervention.md) [+W] — instruction changes it
+- [CALM improved positive affect and distress tolerance](../claims/calm-improves-positive-affect-distress-tolerance.md) [+M] — instruction changes it
 
 ## The evidence by question
 

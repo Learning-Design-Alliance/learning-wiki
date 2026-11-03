@@ -56,3 +56,6 @@ Paired sample t-test on the keyword-captions group's PET listening pre- and post
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related
+- [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](captions-improve-language-proficiency-efl.md) — related
+- [Viewing captioned instructional videos does not significantly improve EFL learners' content comprehension compared to viewing without captions.](captions-no-effect-content-comprehension-efl.md) — related
+- [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related

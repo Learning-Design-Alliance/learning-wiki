@@ -50,3 +50,4 @@ In the same 36-participant three-group experiment, the process-knowledge measure
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — reports the opposite
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related
+- [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — related

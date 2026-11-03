@@ -48,3 +48,4 @@ Author's concluding interpretation of the two-spell study with 20 third-year B.T
 - [Students reported feeling more comfortable giving technical seminars before peers than before teachers](students-more-comfortable-presenting-to-peers.md) — related
 - [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](unstructured-peer-feedback-vague-negative.md) — reports the opposite
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
+- [Student teachers viewed delayed video-based feedback favorably, citing reduced anxiety and comfort, but noted technical and observational limitations](social-validity-delayed-video-feedback.md) — related

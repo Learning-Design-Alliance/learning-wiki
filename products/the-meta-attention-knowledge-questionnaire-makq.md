@@ -31,7 +31,8 @@ A self-report and open-ended questionnaire developed by Mulvihill et al. to meas
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](../claims/makq-three-meta-attention-profiles.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Self-regulated Learning Perception Scale (Turan, 2009)](self-regulated-learning-perception-scale-turan-2009.md)
 
 ## Key Sources
 - Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherlock, D., Dux, P. E., & Carroll, A. (2025). The meta-attention knowledge questionnaire (MAKQ): a new instrument for investigating meta-attention in a young adolescent sample. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09433-1

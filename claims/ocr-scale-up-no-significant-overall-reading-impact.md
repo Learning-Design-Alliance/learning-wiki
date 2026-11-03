@@ -50,3 +50,4 @@ Intent-to-treat analysis of the multi-site cluster randomized trial (49 schools,
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — related
 - [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](intervention-gains-decoding-fluency-not-comprehension.md) — related
 - [School-mean pretest scores predict posttest reading achievement in the OCR trial](ocr-trial-school-pretest-predicts-posttest.md) — related
+- [Research-based curriculum materials with curriculum-based PD produce a modest positive effect on high school science achievement relative to business-as-usual](inquiry-approach-modest-positive-achievement-effect.md) — related

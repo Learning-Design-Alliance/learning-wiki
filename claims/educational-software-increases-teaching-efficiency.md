@@ -47,3 +47,4 @@ Authors' concluding interpretation (type e) drawn from their quasi-experiment, n
 ## Related Claims
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](specialized-software-increased-cae-effect.md) — related
 - [The article concludes that computer-assisted education produced more permanent and more associable learning of seasons concepts than traditional teaching methods](cae-permanent-associable-learning-seasons.md) — related
+- [The reviewed studies conclude that the quantum learning model increases academic achievement, ensures meaningful learning, and increases permanence in learning.](qlm-positive-effect-academic-achievement.md) — related

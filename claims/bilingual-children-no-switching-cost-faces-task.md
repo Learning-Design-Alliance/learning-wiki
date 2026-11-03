@@ -55,3 +55,4 @@ Cost analysis of the faces task in ninety 8-year-olds across three language grou
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
 - [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md) — related
 - [Target-alone RT is approximately 30 msec faster in blocked no-noise trials than in trials intermixed with noise conditions, indicating a preparatory inhibitory set](eriksen-1974-blocked-vs-mixed-control-30-msec.md) — reports the opposite
+- [Evidence on bilingual cognitive advantages is mixed, so no definitive conclusion on whether bilingualism confers cognitive advantages is currently possible](bilingual-cognitive-advantage-mixed-evidence.md) — related

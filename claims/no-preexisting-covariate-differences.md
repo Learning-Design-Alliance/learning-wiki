@@ -50,3 +50,4 @@ Covariate check in the quasi-experimental study: t-tests on college GPA (p=.61),
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
+- [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — related

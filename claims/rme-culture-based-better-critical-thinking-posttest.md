@@ -51,3 +51,4 @@ Quasi-experimental pretest-posttest study with control class of 106 grade 7 stud
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](innovative-models-large-effect-critical-thinking-math-stat.md) — a broader claim this one bears on
 - [Grade-ten students taught with problem-based learning achieved higher mathematics critical thinking scores than students taught with conventional learning](pbl-higher-critical-thinking-than-conventional.md) — related
 - [Culture-based RME outperforms school level: low-school RME students outperformed medium-school conventional students in achievement and gain](rme-effect-exceeds-school-level-effect.md) — related
+- [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related

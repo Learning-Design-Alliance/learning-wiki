@@ -96,3 +96,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
 - [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related
+- [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — reports the opposite

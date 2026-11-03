@@ -51,6 +51,7 @@ The article recommends that since the e-classroom promotes self learning, "teach
 - [Recruit ICT-trained teachers and outline computer-based demonstration approaches for the agricultural science curriculum](ict-teacher-recruitment-and-cbd-curriculum-strategy.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 - [Increase teacher training to include technology in classrooms and recommend computers and interactive teaching software for Latino-ethnic students](teacher-technology-training-and-software-recommendations.md)
+- [Provide institutional support for educational technology in schools: ministry provision, expert training, and a utilization manual](institutional-support-edtech-utilization.md)
 
 ## Examples
 -

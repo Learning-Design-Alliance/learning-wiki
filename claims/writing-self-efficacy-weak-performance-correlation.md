@@ -47,3 +47,4 @@ The review's synthesis of the 35 studies (70%) measuring writing performance rep
 ## Related Claims
 - [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](writing-apprehension-negative-correlation-self-efficacy.md) — related
 - [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — a broader claim this one bears on
+- [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](reading-efficacy-weak-moderate-correlation-blended.md) — related

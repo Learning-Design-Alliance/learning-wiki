@@ -58,3 +58,4 @@ Authors' synthesis of the equity and cost function findings: spending is progres
 - California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related
 - [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — a narrower finding that bears on this claim
+- [Schools that improved under state intervention used funding and action plans differently from schools that did not improve](improved-schools-funding-action-plan-use.md) — related

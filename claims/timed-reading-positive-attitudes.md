@@ -50,3 +50,5 @@ Qualitative analysis of an open-ended questionnaire completed by all 20 experime
 - [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
+- [A scripted-imagery and goal-setting intervention increased motivation, confidence, and positive attitudes toward English in 90% of the experimental group versus 50%, 75%, and 90% respectively in the control group](magid-2014-ideal-l2-self-intervention-motivation-gains.md) — related
+- [Teachers independently reported increased motivation, confidence, and positive attitudes in program participants](magid-2014-teacher-corroboration.md) — related

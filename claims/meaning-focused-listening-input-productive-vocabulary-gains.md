@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: noughabi-2017
     resource: "https://eric.ed.gov/?id=EJ1143810"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After 12 treatment sessions, the experimental group receiving vocabulary through meaning-focused listening input outperformed the control group on Lex30 productive vocabulary size (p=0.00<0.05, T(61)= -16.90). [→ Noughabi 2017](#noughabi-2017)
@@ -75,3 +76,4 @@ Pretest equivalence check in the same randomized experiment: control mean 30.38 
 - [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related
 - [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related
+- [Form-focused dictogloss tasks improve collocation knowledge more than meaning-focused discussion tasks or conventional instruction among intermediate EFL learners](dictogloss-outperforms-discussion-collocation.md) — related

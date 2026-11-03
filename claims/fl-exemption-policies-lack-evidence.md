@@ -52,3 +52,4 @@ Theoretical argument in the introduction: the review reports, citing Wight (2015
 - [Language pairing, onset age of instruction, and age of assessment showed no significant impact on foreign language word reading group differences](no-moderator-effects-fl-word-reading.md) — related
 - [Poor readers/spellers vary significantly more than controls in foreign language phonological awareness performance](poor-literacy-more-variable-fl-phonological-awareness.md) — related
 - No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis — related
+- [The most convincing wider benefit of FL learning is enhanced metalinguistic awareness, which underpins developing literacy skills](fl-learning-metalinguistic-awareness-benefit.md) — related

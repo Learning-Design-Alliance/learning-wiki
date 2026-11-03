@@ -83,3 +83,4 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 - [No significant sex differences in reading scores emerged in any of the three strategy groups](no-sex-differences-reading-scores.md) — related
 - [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — related
 - [No significant gender difference in math word problem performance was observed after the intervention in either grade](no-gender-difference-posttest-math-word-problems.md) — related
+- [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related

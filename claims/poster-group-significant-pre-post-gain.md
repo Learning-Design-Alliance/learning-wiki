@@ -51,3 +51,4 @@ Paired comparison of the experimental group's pre-test (mean 9.63, SS = 4.38) an
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related
+- [The experimental group showed a statistically significant pre-test to post-test gain in academic achievement.](experimental-group-significant-achievement-gain.md) — related

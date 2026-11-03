@@ -57,3 +57,4 @@ Pre-test-post-test control group quasi-experiment with 60 experimental and 60 co
 - [When pre-test scores were controlled, the software had a significant effect on academic achievement, with the model explaining 44% of variance](ancova-software-achievement-effect.md) — related
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related
+- [The web-assisted six thinking hats intervention significantly increased students' attitudes towards computers compared to the control group.](web-assisted-six-hats-increased-computer-attitudes.md) — related

@@ -75,3 +75,4 @@ ANCOVA on post-test scores of male and female students taught using field trip, 
 - [Gender was not a significant factor in students' attitudes toward entrepreneurial skills acquisition after gardening instruction](gender-not-significant-in-entrepreneurial-attitudes.md) — related
 - [Gender was a statistically significant source of variance in passive-voice post-test achievement](gender-significant-grammar-achievement.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
+- [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — related

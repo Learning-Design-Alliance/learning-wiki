@@ -68,6 +68,7 @@ SSR rests on the premise that reading volume drives vocabulary growth, fluency, 
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
 - [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
+- [Readerthon: combining extensive and intensive reading over a short weekend period](readerthon-extensive-intensive-reading-strategy.md)
 
 ## Examples
 - **DEAR (Drop Everything and Read)** — a widely adopted school-wide variant in which the entire school pauses for scheduled silent reading; see [https://www.readingrockets.org](https://www.readingrockets.org/topics/assessment-and-evaluation/articles/sustained-silent-reading)

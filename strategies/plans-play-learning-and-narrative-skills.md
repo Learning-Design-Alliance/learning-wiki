@@ -66,6 +66,7 @@ Guided play combines children's self-direction with intentional adult scaffoldin
 - [Acting/Role-Play](acting-role-play.md) — dramatization as a bridge between play and composition
 - [Collaborative Writing](collaborative-writing.md) — the written-product counterpart; collaborative composition improves text quality [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
+- [Use a scaffolded sequence of collaborative improv story-telling and story-writing games transitioning to individual writing to develop writing fluency](improv-story-sequence-strategy.md)
 
 ## Related Elements
 - [Act It Out](../elements/act-it-out.md) — dramatizing story events consolidates narrative sequence before writing

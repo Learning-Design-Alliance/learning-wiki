@@ -52,3 +52,4 @@ In the mixed ANOVA comparing the video-enhanced (n = 51) and text-based (n = 57)
 - [Experimental and control groups differed only in use of instructional videos](experimental-control-groups-differed-only-in-video-use.md) — related
 - [The authors report that measured achievement differences between the experimental and reference groups were marginal](achievement-differences-between-groups-marginal.md) — related
 - [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](single-video-exposure-marginal-advantage-esp-comprehension.md) — related
+- [Experimental group outperformed control group on oral presentation of text](sct-tblt-oral-presentation-outperformed.md) — related

@@ -52,3 +52,4 @@ Multiple-group analysis by child gender with Wald tests of eight paths; only the
 - [Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period](parent-growth-mindset-declines-longitudinally.md)
 - [The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change](maternal-mindset-change-predicts-child-trajectory.md) — related
 - [Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development](paternal-mindset-no-significant-prediction.md) — reports the opposite
+- [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — reports the opposite

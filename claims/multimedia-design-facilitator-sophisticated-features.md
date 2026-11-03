@@ -72,3 +72,4 @@ The review reports, citing one included study, that "e-modules with more sophist
 - [Interactive online modules and videos are the most commonly used enabling technologies in asynchronous e-learning for clinical nurses](interactive-modules-videos-most-common-enabling-technologies-nurses.md) — related
 - [CD-group learners perceived the interactive multimedia CD module as a whole as more effective than face-to-face teaching, print, and online learning](cd-group-perceived-cd-module-more-effective.md) — related
 - [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](interactivity-hands-on-required-attitude-change.md) — related
+- [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — related

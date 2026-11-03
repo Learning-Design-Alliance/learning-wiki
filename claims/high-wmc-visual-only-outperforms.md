@@ -49,3 +49,7 @@ Post-hoc comparison of adjusted posttest means at the high pretest WMC level (z 
 - [At low pretest WMC, control children outperformed the strategy conditions on solution accuracy](low-wmc-control-beats-strategy-conditions.md) — related
 - [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](verbal-strategies-improve-calculation-transfer.md) — reports the opposite
 - [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related
+- [At high WMC, children without math difficulties performed better under verbal + visual conditions compared to control](verbal-visual-advantage-high-wmc-nmd.md) — a narrower finding that bears on this claim
+- [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](visual-only-disadvantage-low-wmc-md.md) — related
+- [At high WMC, children with math difficulties performed significantly better under visual-only strategy conditions relative to other conditions at Wave 4](visual-only-strategy-advantage-high-wmc-md.md) — possibly the same claim (merge candidate)
+- [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](wmc-moderates-strategy-instruction-md-word-problems.md) — a broader claim this one bears on

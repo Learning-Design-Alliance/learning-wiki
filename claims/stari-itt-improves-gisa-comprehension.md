@@ -46,3 +46,4 @@ Intention-to-treat OLS regression with fall GISA pretest, grade, and school fixe
 
 ## Related Claims
 - [Prior work found positive intention-to-treat STARI effects on word reading, morphological awareness, and efficiency of basic reading](stari-prior-positive-effects-reading-domains.md) — related
+- [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related

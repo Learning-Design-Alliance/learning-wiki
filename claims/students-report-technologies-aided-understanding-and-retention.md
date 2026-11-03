@@ -47,3 +47,4 @@ Descriptive analysis of the same 10-student interviews (Table 10): categories in
 ## Related Claims
 - [Interviewed experimental students reported feeling themselves in thinking friendly classrooms and generally scientifically accurate understanding, with misconceptions persisting in Work, Simple Machines, and Frictional Force topics](interview-students-thinking-friendly-classroom-persistent-misconceptions.md) — related
 - [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related
+- [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — a narrower finding that bears on this claim

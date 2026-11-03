@@ -44,6 +44,7 @@ The article recommends that, because knowledge is the social construction of ind
 - [Team-Building Through Problem-Based Learning](team-building_through_problem-based_learning.md)
 - [Learning Communities](learning-communities.md)
 - [Encourage Cooperation](encourage_cooperation.md)
+- [Use cooperative group discussion with constructive problems to train critical thinking in mathematics](cooperative-discussion-constructive-problems-critical-thinking.md)
 
 ## Examples
 -

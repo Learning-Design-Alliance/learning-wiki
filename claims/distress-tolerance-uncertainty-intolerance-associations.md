@@ -59,3 +59,4 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
+- [CALM improved positive affect and distress tolerance](calm-improves-positive-affect-distress-tolerance.md) — related

@@ -52,3 +52,4 @@ Meta-analytic review (Scammacca et al., 2007) of word study interventions for ol
 - [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — related
 - [Computer-assisted word reading interventions transfer to reading comprehension with an average effect size of 0.21](word-reading-intervention-transfer-comprehension-021.md) — related
+- [Academic vocabulary instruction improves morphological awareness skills](alias-academic-vocabulary-improves-morphological-awareness.md) — related

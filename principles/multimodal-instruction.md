@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (32 for, 26 mixed, 4 against) · 57 studies (30 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 57 report an effect size · 56 claims rest on one study
+> **Evidence** · 63 claims (33 for, 26 mixed, 4 against) · 58 studies (31 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 58 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Translation among modes of representation improved with low normalized gains and large effect sizes on both topics](../claims/translation-among-modes-low-gain-large-effect.md) [+W]
 - [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](../claims/translation-difficulty-depends-on-concept-understanding.md) [~W]
 - [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](../claims/multiple-representation-mixed-gains-by-topic.md) [~W]
+- [Multimodal theme-sets increase the proportion of students earning exceptional final portfolio ratings](../claims/theme-sets-increase-exceptional-portfolio-ratings.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

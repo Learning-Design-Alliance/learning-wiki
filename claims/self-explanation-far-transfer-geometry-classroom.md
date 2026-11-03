@@ -53,3 +53,4 @@ Classroom study by R. M. F. Wong et al. (2002) reported in the monograph's educa
 - [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related
 - [Students' ability to understand and explain geometric phenomena improved in all conditions, with no difference between MACE and regular geometry lessons](mace-no-gat-advantage.md) — related
 - [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](galperin-geometry-concept-teaching-experiment.md) — related
+- [Students across all conditions demonstrated significant pre-post learning gains on near-transfer physics questions, but not on far-transfer questions](significant-near-transfer-learning-gains-all-conditions.md) — related

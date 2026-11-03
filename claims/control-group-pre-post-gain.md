@@ -48,3 +48,4 @@ Paired samples t-test within the control group (128 children) receiving traditio
 - [The ICT-taught experimental group improved significantly from pre-test to post-test](ict-group-pre-post-gain.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — a broader claim this one bears on
 - [Preschool pupils taught science and mathematics with ICT scored significantly higher than traditionally taught pupils at post-test](ict-preschool-post-test-advantage.md) — related
+- [Control group also improved significantly from pre-test to post-test in both courses](control-group-significant-pre-post-gains.md) — related

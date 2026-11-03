@@ -69,3 +69,4 @@ Within the same mixed ANOVA, significant differences over time were found betwee
 - [Video-enhanced analytic rubrics did not significantly outperform text-based analytic rubrics on oral presentation performance, though a marginal trend favored video-enhanced rubrics](video-enhanced-no-significant-advantage-over-text-rubrics.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics](practice-frequency-predicts-posttest-performance.md) — related
+- [Experimental group outperformed control group on oral presentation of text](sct-tblt-oral-presentation-outperformed.md) — related

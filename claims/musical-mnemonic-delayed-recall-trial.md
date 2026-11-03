@@ -50,5 +50,5 @@ Procedural description of the post-test in the same experiment: recall was teste
 ## Related Claims
 - [Musical mnemonic instruction improves vocabulary comprehension of new words in young EFL learners](musical-mnemonic-improves-vocabulary-comprehension.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related

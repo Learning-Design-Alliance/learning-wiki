@@ -53,3 +53,4 @@ Non-parametric Mann-Whitney test (SPSS 18) on N-gain scores from a nonrandomized
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — a broader claim this one bears on
 - [PBLCCS yields greater gains in mathematical critical thinking skill than Explicit Direct Instruction in a Number Theory course](pblccs-improves-mct-more-than-edi.md) — related
 - [The integrated approach produced significantly greater critical thinking skill improvement than the conventional method at both universities](integrated-approach-critical-thinking-improvement.md) — related
+- [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related

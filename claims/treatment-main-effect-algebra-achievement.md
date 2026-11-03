@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest non-equivalent control group study of 388 se
 - [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](bl-largest-descriptive-gain-algebra.md) — related
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — related
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — related
+- [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related

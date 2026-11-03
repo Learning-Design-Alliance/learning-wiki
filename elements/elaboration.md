@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (18 for, 11 mixed, 6 against) · 38 studies (23 causal, 6 quant-synthesis, 5 review, 4 associational), `q1`–`q4` · 14 of 38 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (19 for, 11 mixed, 6 against) · 39 studies (24 causal, 6 quant-synthesis, 5 review, 4 associational), `q1`–`q4` · 14 of 39 report an effect size · 30 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -80,6 +80,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](../claims/self-generated-examples-better-retention-transfer.md) [+W]
 - [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](../claims/schema-related-facts-better-remembered.md) [+W]
 - [Students created their own analogies after being introduced to analogies, and in-group activities increased](../claims/students-generate-own-analogies-after-exposure.md) [+W]
+- [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](../claims/self-explanation-advantage-near-transfer-controlling-levels.md) [+W]
 
 ## The evidence by question
 

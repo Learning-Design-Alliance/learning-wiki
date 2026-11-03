@@ -52,3 +52,5 @@ Qualitative, interpretive analysis of written responses to a researcher-made thr
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](journal-writing-self-assessment-increased-intrinsic-motivation.md) — related
 - [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](cda-overall-analytical-reading-gain.md) — related
+- [A scripted-imagery and goal-setting intervention increased motivation, confidence, and positive attitudes toward English in 90% of the experimental group versus 50%, 75%, and 90% respectively in the control group](magid-2014-ideal-l2-self-intervention-motivation-gains.md) — related
+- [Teachers independently reported increased motivation, confidence, and positive attitudes in program participants](magid-2014-teacher-corroboration.md) — related

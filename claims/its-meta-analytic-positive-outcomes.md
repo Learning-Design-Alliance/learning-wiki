@@ -10,6 +10,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-03
 sources:
   - id: dahal-n-2026
     resource: "https://doi.org/10.3389/feduc.2026.1948064"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r2`, 1 qualitative `r1` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

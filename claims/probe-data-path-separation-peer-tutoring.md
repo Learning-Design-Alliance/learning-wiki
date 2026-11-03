@@ -48,3 +48,4 @@ Results section of the simultaneous treatments design: four participants showed 
 
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md)
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
+- [Tutor-read instruction produces greater learning gains than self-read instruction for children learning from a multimedia science lesson](tutor-read-greater-gains-than-self-read.md) — related

@@ -48,3 +48,4 @@ Within-group pre-post analysis of the experimental WebQuest group (n=14), whose 
 - [The conventionally instructed control group also improved significantly from pretest to posttest in all three teaching-skill domains](control-group-prepost-gains.md) — related
 - [PE teacher candidates taught via a WebQuest significantly outperformed lectured-and-modeled peers on posttest teaching performance in planning, implementation and evaluation skills](webquest-outperforms-lecture-pe-teaching-performance.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — a broader claim this one bears on
+- [All three instructional groups showed higher academic achievement scores from pretest to posttest](all-groups-improved-academic-achievement-pre-to-post.md) — related

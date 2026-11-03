@@ -47,3 +47,4 @@ Authors' qualitative interpretation of the discussion and evaluation-meeting dat
 ## Related Claims
 - [Pre-service teachers reported that focus group discussions enabled progress in lesson planning, classroom management, and teaching strategies](pst-interviews-report-progress-planning-management-strategies.md) — related
 - [Pre-service teachers' teaching-practice problems cluster into planning, student participation, teaching strategies, and classroom management themes](pst-practice-problems-four-themes.md) — related
+- [Pre-service teachers identify key implementation factors for peer tutoring in primary classrooms after experiencing it](pt-implementation-factors-identified.md) — related

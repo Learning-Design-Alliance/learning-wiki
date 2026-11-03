@@ -78,3 +78,4 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](ict-teaching-higher-scientific-literacy-scores.md) — related
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
 - [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related
+- [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](inquiry-greater-achievement-gains-than-traditional.md) — related

@@ -25,7 +25,8 @@ A 33-item Turkish adaptation of the Students' Motivation toward Mathematics Lear
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Effective Teaching Scale (Ginns & Ellis 2009) adapted to Turkish](effective-teaching-scale-ginns-ellis-2009-adapted-to-turkish.md)
 
 ## Key Sources
 - Akçakın, V. (2018). Teaching Mathematical Functions Using Geometric Functions Approach and Its Effect on Ninth Grade Students’ Motivation. International Journal of Instruction, 11(1), 17-32. https://doi.org/10.12973/iji.2018.1112a

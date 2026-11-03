@@ -49,3 +49,4 @@ In Study 1's propensity-weighted two-level regression models predicting standard
 - [City Connects shows strong positive impacts on middle school MCAS ELA, Math, and GPA in almost every grade](city-connects-middle-school-mcas-gpa-impacts.md) — related
 - [Comparative regression discontinuity finds positive City Connects effects on Grade 3 and 5 math and reading, with Cohen's effect sizes of approximately .20 to .28](city-connects-regression-discontinuity-effects.md) — reports the opposite
 - [Figure 1 shows an upward intercept shift in post-implementation proficiency for City Connects students relative to comparison students](city-connects-rd-intercept-shift-figure1.md) — reports the opposite
+- [City Connects exposure during elementary school is associated with higher middle school report card and standardized test scores](city-connects-higher-middle-school-scores.md) — related

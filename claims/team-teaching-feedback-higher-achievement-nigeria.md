@@ -66,3 +66,4 @@ The article reports a statistically significant difference in achievement betwee
 ## Related Claims
 - [A majority of students in the team-teaching experimental class preferred team teaching to traditional teaching](students-prefer-team-teaching-nigeria.md) — related
 - [Six weeks of Joint Productive Activity instruction significantly improved Nigerian Junior Secondary II students' reading comprehension performance from pre-test to post-test](jpa-improves-reading-comprehension-pre-post.md) — related
+- [No significant difference between groups on final reading comprehension test](sct-tblt-final-test-no-difference.md) — related

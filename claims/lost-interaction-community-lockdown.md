@@ -55,3 +55,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
+- [Large study group size prevented the learning process in both communication settings](large-group-size-prevented-learning.md) — related

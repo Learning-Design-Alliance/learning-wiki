@@ -54,3 +54,4 @@ Homogenization check on 49 female learners aged 11-13 using the Cambridge Young 
 - [The experimental and control groups were homogeneous in English proficiency before the intervention](celt-homogeneity-portfolio-writing-study.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
+- [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related

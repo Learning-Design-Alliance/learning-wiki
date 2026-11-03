@@ -54,3 +54,4 @@ Observation stage section of the qualitative study: in the web-mediated CSI coac
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Judgments of learning are often inaccurate](fluent-illusions-mislead-self-assessment.md) — related
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related
+- [Video-based professional development positively affects classroom interactions and assessment practices](vbpd-positive-effects-classroom-interactions.md) — a broader claim this one bears on

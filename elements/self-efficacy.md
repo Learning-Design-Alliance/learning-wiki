@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 108 claims (62 for, 39 mixed, 7 against) · 94 studies (37 associational, 28 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 94 report an effect size · 103 claims rest on one study
+> **Evidence** · 109 claims (63 for, 39 mixed, 7 against) · 95 studies (37 associational, 29 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 95 report an effect size · 104 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -156,6 +156,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Writing self-efficacy increased significantly in both the Facebook experimental group and the control group](../claims/writing-self-efficacy-increased-both-groups.md) [+W]
 - [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](../claims/peg-cat-parent-confidence-and-attitude-gains.md) [+W]
 - [Teaching practice itself raises pre-service teachers' self-efficacy perceptions in both experimental and control groups](../claims/teaching-practice-raises-pst-self-efficacy-both-groups.md) [+W]
+- [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](../claims/reading-efficacy-weak-moderate-correlation-blended.md) [+W]
 
 ## The evidence by question
 

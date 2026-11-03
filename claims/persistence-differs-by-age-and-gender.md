@@ -48,3 +48,4 @@ Game learning analytics over 15 months showed that "significantly different beha
 - [Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students](social-cues-shape-teacher-persistence.md) — related
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
 - [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related
+- [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — reports the opposite

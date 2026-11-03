@@ -66,3 +66,4 @@ Group randomized controlled effectiveness trial in 37 Maryland elementary school
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](rwsa-hong-kong-less-bullying-empathy-gains.md) — related
 - [Poorer school climate is associated with greater self-reported bullying behaviour, independently of child- and school-level demographics](school-climate-predicts-bullying.md) — related
 - [School-based programs do not significantly reduce dating violence perpetration at posttest (g = −0.01)](tdv-programs-no-perpetration-effect-posttest.md) — related
+- [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on

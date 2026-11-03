@@ -114,3 +114,5 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](afl-positive-student-attitudes-esp.md) — related
+- [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
+- [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related

@@ -51,3 +51,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [Maze-task reading performance from 1,258 first and second graders yields a reliable Rasch text-complexity scale](maze-task-student-rasch-scale.md) — related
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
 - [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](cat-instrument-kr20-0-78.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

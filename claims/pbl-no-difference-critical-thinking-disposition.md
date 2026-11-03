@@ -61,3 +61,4 @@ True experimental pre-test–post-test control group study; 49 pre-service teach
 - [PBL teaching did not significantly improve students' CET4 English scores compared with traditional teaching](pbl-no-effect-english-scores.md) — related
 - [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — related
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](pbl-improves-analysis-interpretation-skills.md) — related
+- [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — a broader claim this one bears on

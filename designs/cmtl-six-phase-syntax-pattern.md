@@ -42,7 +42,8 @@ A lesson-level instructional pattern with six ordered syntax steps: (1) presenta
 - [Cmtl Model Higher Gain Than Control](../claims/cmtl-model-higher-gain-than-control.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase lesson structure for ILSC mathematics learning](ilsc-five-phase-lesson-structure.md)
 
 ## Examples
 -

@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (30 for, 24 mixed, 4 against) · 55 studies (23 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 55 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (31 for, 24 mixed, 4 against) · 57 studies (25 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -207,6 +207,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Explicitly instructed learners deployed almost all compliment and compliment-response strategies, with 79.93% using at least 9 of 11 strategies](../claims/explicit-group-nine-of-eleven-strategies.md) [+W]
 - [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](../claims/instruction-type-comparison-inconclusive-implicit-slight-edge.md) [~W]
 - [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](../claims/second-year-elm-moderate-nonsignificant-effects.md) [~W]
+- [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](../claims/early-explicit-intervention-math-disabilities-review.md) [+W]
 
 ## Examples
 

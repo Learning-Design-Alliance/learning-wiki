@@ -79,3 +79,4 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
 - [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
 - [Diary keeping significantly increases intrinsic motivation and task value of pre-service science teachers](diaries-increase-intrinsic-motivation-task-value.md) — related
+- [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](reflective-diary-comparable-overall-scores.md) — related

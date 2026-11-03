@@ -66,3 +66,4 @@ Repeated measures ANOVAs on the other User Engagement Scale subscales found no s
 ## Related Claims
 - [A significant gender-by-time interaction characterized perceived usability, with marginally significant male-female differences at Lessons 1 and 3](gbl-gender-time-interaction-perceived-usability.md) — related
 - [Usability and interface improvements in NNG 2 significantly improved students' game experiences compared with NNG 1 in all dimensions except Competence](nng2-usability-improvements-improved-game-experience.md) — related
+- [A significant Administration Time × School interaction emerged, with one blended school showing no decline while the other and the comparison school declined](blended-school-interaction-time-decline-pattern.md) — related

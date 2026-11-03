@@ -52,3 +52,4 @@ Unsupervised EM clustering (MClust in R) of n-gram features from flip sequences,
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md)
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md)
 - [In the studied game quest, three GLA approaches yield insights into different ways students complete genetics tasks](three-gla-approaches-reveal-different-genetics-task-methods.md) — related
+- [Higher physics pre-test scores predicted more actions per trial, and more actions per trial predicted more level completions, across game types](actions-per-trial-predicts-level-completions.md) — related

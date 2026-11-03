@@ -47,3 +47,4 @@ Quantitative synthesis (inverse variance random-effects model) of 24 studies of 
 
 - [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
+- [CALM participants improved in mindful observation compared to controls](calm-improves-mindful-observation.md) — a narrower finding that bears on this claim

@@ -70,3 +70,4 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 - [Blended learning produced higher post-achievement in third-grade science than traditional teaching, explaining 16.9% of variance](blended-learning-beats-traditional-third-grade-science-achievement.md) — related
 - [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](blended-teaching-third-grade-maths-achievement.md) — related
 - [Second graders learning multiplication with the JCLS rated constructivist learning significantly higher than the blackboard control group](jcls-higher-constructivist-learning-than-blackboard.md) — related
+- [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related

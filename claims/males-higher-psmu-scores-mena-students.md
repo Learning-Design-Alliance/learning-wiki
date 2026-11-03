@@ -50,3 +50,4 @@ Narrative synthesis of five studies examining gender differences in PSMU. The re
 
 ## Related Claims
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
+- [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (150 show a difference, 27 mixed, 27 no difference) · 136 studies (78 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 27 of 136 report an effect size · 201 claims rest on one study
+> **Evidence** · 206 claims (152 show a difference, 27 mixed, 27 no difference) · 137 studies (79 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 28 of 137 report an effect size · 203 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -245,6 +245,8 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)](../claims/link-home-single-case-tau-u.md) [+M] — instruction changes it
 - [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [-M] — an instructional effect differs with it
 - [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
+- [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+M] — instruction changes it
+- [Students with underdeveloped initial vocabulary knowledge show greater response to the intervention](../claims/alias-greater-response-for-low-initial-vocabulary.md) [+M] — an instructional effect differs with it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

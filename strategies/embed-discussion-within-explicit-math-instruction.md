@@ -44,6 +44,7 @@ The article recommends combining explicit instruction with opportunities for pro
 - [High-quality math instruction: conceptual emphasis, productive struggle, collaboration, multiple solution paths, culturally relevant tasks, and timely intervention](high-quality-math-instruction-practices.md)
 - [Deliver examples with fading (completion strategy) and random (interleaved) sequencing, and promote active processing via self-explanation, subgoal labeling, and comparison](fade-interleave-and-activate-examples-delivery.md)
 - [Guide and time generative learning activities to overcome barriers to sense-making](guide-and-time-glas-strategy.md)
+- [Deliver remedial instruction through blackboard work, group work, visual explanations and hands-on experiences](multimodal-remedial-instruction-dyscalculics.md)
 
 ## Examples
 -

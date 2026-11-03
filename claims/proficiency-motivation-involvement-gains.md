@@ -78,3 +78,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
 - [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related
+- [Meaning-oriented approaches providing rich, authentic input with high involvement load tend to be more successful in FL learning](meaning-oriented-rich-input-involvement-load.md) — a broader claim this one bears on

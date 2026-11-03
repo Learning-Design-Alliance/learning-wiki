@@ -49,3 +49,4 @@ Process evaluation combining TA and trainer interviews, six school case studies,
 - [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — related
 - [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Delivery of NELI deviated from the prescribed model in some schools, and teaching assistants reported difficulty devoting enough time to the programme](neli-delivery-deviations-and-time-burden.md) — related
+- [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related

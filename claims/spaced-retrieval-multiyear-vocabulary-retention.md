@@ -56,7 +56,7 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 - [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — related
 - [Individual differences were not associated with the retention benefit of relearning over restudying](individual-differences-null-relearning-retention-benefit.md) — related
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](recall-no-superiority-vocabulary-learning-thorndike.md) — reports the opposite

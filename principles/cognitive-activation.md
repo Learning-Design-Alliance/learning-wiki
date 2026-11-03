@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (17 for, 15 mixed, 2 against) · 41 studies (21 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 26 claims rest on one study
+> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 42 studies (22 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 11 of 42 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [~W]
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
 - [Restudy fostered surface-level knowledge compared to learning by digital explaining](../claims/restudy-fosters-surface-level-knowledge.md) [+W]
+- [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](../claims/self-explanation-advantage-near-transfer-controlling-levels.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

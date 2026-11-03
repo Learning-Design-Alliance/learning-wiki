@@ -73,3 +73,4 @@ Scheffe post-hoc analysis of group mean scores in the same ANCOVA study. The art
 - [Teaching strategy has a significant main effect on Nigerian senior secondary students' transfer of knowledge in physics](teaching-strategy-significant-effect-physics-transfer.md) — related
 - [Secondary students exposed to CAI in either individualised or cooperative settings outperformed students taught biology by conventional classroom instruction](cai-beats-conventional-biology-nigeria.md) — related
 - [Students using cooperative CAI outperformed students using individualised CAI in biology post-test scores](cooperative-cai-beats-individualised-cai.md) — related
+- [Computer-assisted Jigsaw II cooperative learning produced significantly higher physics post-test achievement than individualized computer instruction.](caj2-achievement-gains-over-ici.md) — related

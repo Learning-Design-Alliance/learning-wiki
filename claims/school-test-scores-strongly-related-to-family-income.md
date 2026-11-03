@@ -95,3 +95,4 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - [All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving](berea-pn-schools-persistently-low-achieving.md) — a narrower finding that bears on this claim
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related
 - [Children reporting top grades come from systematically more advantaged socioeconomic circumstances than children reporting weaker grades, a pattern the authors relate to the Matthew effect](higher-grades-socioeconomically-better-off-matthew-effect.md) — related
+- [A negative correlation exists between PARCC growth and teacher discrepancy scores in high-poverty schools](parcc-growth-negative-correlation-discrepancy-scores.md) — related

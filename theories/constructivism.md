@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 39 studies (15 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 39 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (18 for, 16 mixed, 2 against) · 40 studies (16 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 40 report an effect size · 32 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -71,6 +71,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Descriptively, the high constructivist group showed the largest gain over the posttest grand mean and the low transmissive group the largest deficit](../claims/gains-over-grand-mean-ordering-ability-environment.md) [+W]
 - [The Constructivist Learning Model improved eighth-grade science achievement more than traditional teaching](../claims/clm-improves-8th-grade-science-achievement.md) [+W] — attached 2026-11-03 from Qarareh (2016), which proposed "Constructivist Learning Model: four-stage teaching framework".
 - [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](../claims/clm-improves-scientific-thinking.md) [+W] — attached 2026-11-03 from Qarareh (2016), which proposed "Constructivist Learning Model: four-stage teaching framework".
+- [Teacher-centered thinking may persist among candidates despite constructivist curriculum](../claims/teacher-centered-thinking-persists-candidates.md) [~W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

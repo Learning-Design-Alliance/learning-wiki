@@ -49,3 +49,4 @@ Study 1's two-level weighted regression models predicted standardized MCAS score
 - [City Connects shows positive impacts on some Grade 4 and most Grade 5 report card measures in Boston elementary schools](city-connects-elementary-report-card-impacts.md) — related
 - [City Connects shows no impact on MCAS measures in elementary school](city-connects-no-elementary-mcas-impact.md) — related
 - [Comparative regression discontinuity finds positive City Connects effects on Grade 3 and 5 math and reading, with Cohen's effect sizes of approximately .20 to .28](city-connects-regression-discontinuity-effects.md) — related
+- [City Connects exposure during elementary school is associated with higher middle school report card and standardized test scores](city-connects-higher-middle-school-scores.md) — possibly the same claim (merge candidate)

@@ -72,3 +72,4 @@ Post-hoc pairwise contrasts from the same experiment: both guided groups scored 
 - [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](stepwise-conflict-guidance-reduces-idea-addition.md) — related
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
 - [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related
+- [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — related

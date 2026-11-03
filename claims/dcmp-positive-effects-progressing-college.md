@@ -50,3 +50,4 @@ WWC synthesis of two studies (Rutschow et al., 2019; Schudde & Keisler, 2019) re
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
 - [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related
 - [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — related
+- [Students in structured transfer pathways accumulate fewer excess credits by graduation](structured-transfer-pathways-fewer-excess-credits.md) — related

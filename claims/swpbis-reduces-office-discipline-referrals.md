@@ -75,3 +75,4 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related
 - [Total recorded incidents decreased 47.76% over the intervention, with significant decreases in behavior, teacher-sent, self-sent, and aggression incidents but not group incidents](incident-frequency-decrease-paired-t-tests.md) — related
+- [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on

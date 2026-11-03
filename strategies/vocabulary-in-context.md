@@ -77,3 +77,4 @@ Incidental word learning from context is real but low-yield per exposure: meta-a
 
 - [Teach vocabulary by varying contexts rather than repeating words within the same context](vary-contexts-for-vocabulary-teaching.md)
 - [Implement multiple intelligences activities within a content-based framework to teach target grammar and vocabulary in context](mi-activities-content-based-efl-strategy.md)
+- [Teach vocabulary through contextual-clue inference strategies rather than mechanical grammar questions](contextual-clue-vocabulary-inference-strategy.md)

@@ -54,3 +54,4 @@ Mediation models rerun with fraction magnitude comparison accuracy as the sole m
 - [Spatial ability does not account for the predictive relation between early whole number magnitude knowledge and later fraction magnitude knowledge](spatial-ability-does-not-explain-magnitude-continuity.md) — related
 - [First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables](wn-magnitude-grade1-predicts-fraction-magnitude-middle-school.md) — related
 - [Neither first-grade whole number magnitude nor arithmetic knowledge uniquely predicted eighth-grade reading achievement](early-wn-knowledge-does-not-predict-middle-school-reading.md) — related
+- [Improvement in measurement interpretation of fractions mediates intervention effects](measurement-interpretation-improvement-mediates-fraction-intervention-effects.md) — related

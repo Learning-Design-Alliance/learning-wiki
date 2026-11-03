@@ -49,3 +49,4 @@ Teaching-program moderator analysis within the meta-analysis; the article report
 - [Robotics education has a significant positive above-moderate effect on student creativity (SMD = 0.576)](robotics-education-above-moderate-creativity-effect.md) — a broader claim this one bears on
 - [Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching](robotics-creativity-teaching-method-moderator.md) — related
 - [Laboratory environments produce a larger creativity effect than ordinary classrooms in robotics education](robotics-creativity-laboratory-vs-classroom.md) — related
+- [Gamified educational robots increase creativity in a STEM curriculum](gamified-robots-increase-stem-creativity.md) — a narrower finding that bears on this claim

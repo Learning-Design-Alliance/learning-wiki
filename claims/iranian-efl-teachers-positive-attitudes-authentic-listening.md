@@ -55,3 +55,5 @@ Teacher questionnaire (30 teachers) on attitudes toward authentic listening mate
 - [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](teacher-criteria-selecting-authentic-listening-materials.md) — related
 - [Advanced EFL learners reported positive perceptions of learning formulaic sequences through TV series, valuing visual context](positive-learner-perceptions-fs-tv-series.md) — related
 - [Iranian EFL teachers consider vocabulary instruction through meaning-focused listening input beneficial but not feasible](teachers-view-listening-vocabulary-instruction-infeasible.md) — related
+- [Most interviewed teachers held negative attitudes towards teaching listening comprehension](karak-teachers-negative-attitudes-listening.md) — related
+- [Teachers believe varied teaching methods and authentic materials increase their desire to teach listening comprehension](varied-methods-authentic-materials-boost-teacher-motivation.md) — related

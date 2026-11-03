@@ -41,6 +41,7 @@ The review's conclusions propose four directions for advancing AI–metacognitio
 - [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 - [Propose a research agenda for the near future in character-enhanced learning](virtual-character-research-agenda.md)
 - [Combine individual adaptive reinforcement with collaborative approaches in a hybrid model for future development](hybrid-individual-reinforcement-collaborative-scripts.md)
+- [Use large-scale surveys to evaluate ethical components of professional development in assessment](large-scale-surveys-ethical-pdp-evaluation.md)
 
 ## Examples
 -

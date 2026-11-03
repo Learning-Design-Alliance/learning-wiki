@@ -46,3 +46,4 @@ The article describes the study design as pre-post test experimental, comparing 
 
 ## Related Claims
 - [A combined intervention of positive information about peers with disabilities plus imagined contact improved all measured outcomes in elementary school children](combined-information-imagined-contact-improves-attitudes-toward-peers-with-disabilities.md) — related
+- [Imagination training improved the ability to use imagination in 63% of participants in both groups](magid-2014-imagination-training-improvement.md) — related

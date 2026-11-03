@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (7 for, 18 mixed) · 14 studies (4 qualitative, 3 causal, 2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 14 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (7 for, 19 mixed) · 15 studies (4 causal, 4 qualitative, 2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 15 report an effect size · 26 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -60,6 +60,7 @@ Communication channels are the element in which learners use designated tools or
 - [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](../claims/ofd-learner-perceptions-seven-themes.md) [~W]
 - [Synchronous online forum discussion produces no statistically significant difference in lexical density compared with asynchronous blog writing](../claims/ofd-blog-no-difference-lexical-density.md) [~W]
 - [Students in the Facebook-integrated course used the platform heavily for course-related commenting, with females spending more daily time on Facebook than males](../claims/facebook-usage-patterns-course-integrated.md) [~W]
+- [No statistically significant difference in effective teaching perceptions between Facebook and Adobe Connect groups](../claims/facebook-vs-connect-no-significant-difference-effective-teaching.md) [~W]
 
 ## The evidence by question
 - *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]

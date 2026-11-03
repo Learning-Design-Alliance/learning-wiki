@@ -50,3 +50,4 @@ Prior observational analysis of group formation strategies in the CmC course (ci
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — a broader claim this one bears on
+- [The heterogeneous group ranks second on individual achievement gains, behind the high homogeneous group](heterogeneous-group-second-rank-gains.md) — related

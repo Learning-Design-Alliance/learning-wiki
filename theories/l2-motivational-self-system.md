@@ -12,7 +12,7 @@ generated:
 # L2 Motivational Self System
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (3 associational, 1 qualitative), `q2` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (3 associational, 1 causal, 1 qualitative), `q2` · 1 of 5 report an effect size · 5 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1165192, eric-ej1288838, eric-ej1508788. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -46,6 +46,7 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 - [Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models](../claims/effort-predicts-proficiency-modestly.md) [+M]
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](../claims/ideal-l2-self-predicts-self-efficacy.md) [+M]
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](../claims/ten-motivation-subfactors-correlate-self-efficacy.md) [+M]
+- [A scripted-imagery and goal-setting intervention increased motivation, confidence, and positive attitudes toward English in 90% of the experimental group versus 50%, 75%, and 90% respectively in the control group](../claims/magid-2014-ideal-l2-self-intervention-motivation-gains.md) [+W] — attached 2026-11-03 from Michael Magid (2014), which proposed "The L2 Motivational Self System as a framework for designing motivational interventions".
 
 ## The evidence by question
 
@@ -65,6 +66,7 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 
 - [Foster learners' enjoyment and accumulated L2 learning experience to motivate effort](../principles/motivation.md)
 - [Teachers should identify students' motivating factors and design interesting, challenging activities to build L2 self-efficacy](../strategies/teachers-identify-motivating-factors-design-challenging-activities.md)
+- [Use scripted imagery of the Ideal L2 self combined with goal-setting and action plans to motivate language learners](../strategies/magid-2014-scripted-imagery-goal-setting-strategy.md)
 
 ## Key Sources
 

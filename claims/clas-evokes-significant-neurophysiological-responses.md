@@ -51,3 +51,4 @@ In a randomized between-subjects nap study with 102 healthy young adults, stimul
 - [Slow oscillation and spindle stimulation did not differentially affect motor sequence learning improvement compared to control conditions.](no-condition-effect-procedural-memory-msl.md) — related
 - [Auditory cueing during NREM sleep elevates slow wave and spindle power relative to no stimulation, with effects concentrated in frontal and central regions](tmr-elevates-sw-spindle-power-nrem.md) — a narrower finding that bears on this claim
 - [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related
+- [Auditory training uses electronically modified music and language to stimulate auditory pathways and enhance auditory processing ability.](auditory-training-definition-asha.md) — related

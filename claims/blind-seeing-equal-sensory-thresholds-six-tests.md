@@ -50,3 +50,4 @@ Controlled comparison by Tsoerum Ling of fifteen blind pupils at the Iowa School
 
 ## Related Claims
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [The Ling Six Sounds Test was used to ascertain children's ability to discriminate speech sounds.](ling-six-sounds-test-procedure.md) — related

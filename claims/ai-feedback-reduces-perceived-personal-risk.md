@@ -54,3 +54,4 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — possibly the same claim (merge candidate)
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](online-feedback-relational-role-introverted-learners.md) — related
+- [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related

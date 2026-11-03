@@ -71,3 +71,4 @@ The Discussion section contradicts the Results section's characterization of the
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](cai-stad-ltm-outperform-ici-physics-achievement.md) — related
 - [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](gender-no-effect-stad-physics-retention.md) — related
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](stad-highest-mean-gain-achievement.md) — related
+- [Computer-assisted Jigsaw II students retained physics concepts significantly better than ICI students on a delayed test.](caj2-retention-gains-over-ici.md) — related

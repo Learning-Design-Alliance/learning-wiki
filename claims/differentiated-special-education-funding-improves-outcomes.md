@@ -72,3 +72,4 @@ The report describes the Maryland adequacy study's new metric — "progress towa
 - [Educating a student with disabilities costs approximately twice as much, on average, as educating a student without a disability](special-education-cost-twice-average.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — a broader claim this one bears on
 - [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — a broader claim this one bears on
+- [Schools that improved under state intervention used funding and action plans differently from schools that did not improve](improved-schools-funding-action-plan-use.md) — related

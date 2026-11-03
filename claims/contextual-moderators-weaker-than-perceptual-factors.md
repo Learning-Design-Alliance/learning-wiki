@@ -25,7 +25,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Haifang Liu 2026: no comparison group (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q2 i?` Instructor guidance moderated learning outcomes (β = .23, t = 2.38, p = .018), prior experience affected ease of use (β = .19, t = 2.05, p = .042), and instructor endorsement contributed to perceived usefulness (β = .21, t = 2.17, p = .031). [→ Haifang Liu 2026](#haifang-liu-2026)

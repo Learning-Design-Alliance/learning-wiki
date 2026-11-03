@@ -50,3 +50,4 @@ The report's key findings summarize its impact analysis of the Strategy in targe
 - [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
 - [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related
+- [Turnaround partner interventions showed mixed results for student achievement across comparison-group studies](turnaround-partner-interventions-mixed-achievement-results.md) — related

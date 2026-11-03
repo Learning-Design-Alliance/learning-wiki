@@ -48,3 +48,4 @@ HLM impact models for grades 2–3 that added fall pretest scores and a baseline
 ## Related Claims
 - [A2i showed no significant intent-to-treat effect on Gates-MacGinitie reading scores in grades 2–3, though an EL classroom interaction was marginally significant](a2i-null-gm-effect-grades-2-3.md) — related
 - [Students in English Learner classrooms showed a greater treatment effect on the A2i L2M assessment than students in general education classrooms](a2i-el-classroom-interaction-l2m.md) — related
+- [Students with underdeveloped initial vocabulary knowledge show greater response to the intervention](alias-greater-response-for-low-initial-vocabulary.md) — related

@@ -68,3 +68,4 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [High game interactivity hinders vocabulary acquisition: players recalled significantly less vocabulary than watchers](high-interactivity-hinders-vocabulary-acquisition.md) — related
 - [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related
 - [Students gained more productive than receptive vocabulary knowledge, a disparity the authors attribute to the design and format of the tests](productive-exceeds-receptive-test-format.md) — related
+- [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](captions-improve-vocabulary-acquisition-efl.md) — related

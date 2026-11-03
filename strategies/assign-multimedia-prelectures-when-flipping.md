@@ -53,6 +53,7 @@ The article recommends that instructors moving lectures outside the classroom as
 - [Demonstration-Based Flipped Classroom](demonstration-based_flipped_classroom.md)
 - [Assigned Readings](assigned_readings.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
+- [Replace traditional textbook reading and lecture with multimedia learning modules as pre-class preparation for lecture-based tutorials](mlm-replace-lecture-for-tutorial-preparation.md)
 
 ## Examples
 -

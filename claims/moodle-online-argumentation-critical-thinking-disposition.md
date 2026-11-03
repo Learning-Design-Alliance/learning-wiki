@@ -56,3 +56,4 @@ Quasi-experimental pre-test/post-test non-equivalent control group study with 22
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [Post-test comparison shows the PBL group significantly outperformed the control group on analysis, openness and justice temperaments and analysis and interpretation skills](pbl-posttest-group-differences.md) — related
+- [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — reports the opposite

@@ -41,7 +41,8 @@ The article's PBL implementation organised each lesson around a flowchart of pro
 - [Pbl Beats Traditional Method Tmt Further Mathematics](../claims/pbl-beats-traditional-method-tmt-further-mathematics.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase lesson structure for ILSC mathematics learning](ilsc-five-phase-lesson-structure.md)
 
 ## Examples
 -

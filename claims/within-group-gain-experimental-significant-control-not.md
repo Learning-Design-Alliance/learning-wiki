@@ -71,3 +71,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related
 - [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related
 - [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — reports the opposite
+- [The experimental group showed a statistically significant pre-test to post-test gain in academic achievement.](experimental-group-significant-achievement-gain.md) — related

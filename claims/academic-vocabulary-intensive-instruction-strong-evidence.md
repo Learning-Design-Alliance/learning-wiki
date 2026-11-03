@@ -53,3 +53,4 @@ The guide's evidence summary for Recommendation 1 reports the underlying study b
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
 - [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related
 - [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](word-generation-boston-quasi-experiment-gains.md) — a narrower finding that bears on this claim
+- [Academic vocabulary instruction improves standardized written expression](alias-vocabulary-improves-written-expression.md) — related

@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (17 for, 3 mixed) · 17 studies (11 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (21 for, 3 mixed) · 19 studies (12 causal, 5 review, 1 associational, 1 qualitative), `q1`–`q3` · 1 of 19 report an effect size · 24 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -45,6 +45,10 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-03 from Mathukorn Jingjit (2015), which proposed "Mayer's cognitive theory of multimedia learning: dual channels and three cognitive processes"; tests this page's relationship.
 - [Visualisation strategies significantly improve L2 students' spelling skills compared to traditional memorisation methods.](../claims/visualisation-strategies-improve-l2-spelling-skills.md) [+W] — attached 2026-11-03 from Nahari et al. (2016), which proposed "Visual memory for word images as a mechanism underlying successful spelling.".
 - [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](../claims/verbal-strategies-improve-calculation-transfer.md) [+W]
+- [Multi-modal representation coherence scores strongly correlate with argument quality scores](../claims/multimodal-coherence-correlates-argument-quality.md) [+W] — attached 2026-11-03 from Demirbag et al. (2014), which proposed "Multi-modal representations as essential elements of meaningful science learning".
+- [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](../claims/captions-improve-vocabulary-acquisition-efl.md) [+W] — attached 2026-11-03 from BavaHarji et al. (2014), which proposed "Dual coding theory and multiple-channel theory explain how captioned videos enhance language learning through simultaneous visual and verbal coding.".
+- [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](../claims/captions-improve-language-proficiency-efl.md) [+W] — attached 2026-11-03 from BavaHarji et al. (2014), which proposed "Dual coding theory and multiple-channel theory explain how captioned videos enhance language learning through simultaneous visual and verbal coding.".
+- [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
 
 ## Related Theories
 

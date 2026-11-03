@@ -51,3 +51,4 @@ Cluster-randomized trial with schools randomly assigned within municipality; mul
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
 - [ECE PDI participation showed positive but statistically non-significant effects on PreK CLASS Emotional Support, Classroom Organization, and Instructional Support](ece-pdi-class-impacts-non-significant.md) — related
+- [Professional development workshops and instructional support interventions positively impact teachers' performance in standard assessments](pdp-workshops-isi-positive-impact-standard-assessments.md) — related

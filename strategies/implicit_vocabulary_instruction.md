@@ -58,8 +58,10 @@ Incidental word learning from context is real but modest: learners pick up only 
 5. Arrange later re-encounters with the word in new contexts or [Practice](../elements/practice.md) activities so learning consolidates over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — background knowledge is what makes contextual inference possible
 - [Wide Reading](../strategies/wide-reading.md) — the volume-of-reading engine that supplies the repeated encounters implicit learning depends on *(if unavailable, see Nagy et al., 1985 on volume of reading and incidental learning)*
+- [Teach vocabulary through contextual-clue inference strategies rather than mechanical grammar questions](contextual-clue-vocabulary-inference-strategy.md)
 
 ## Examples
 - A science teacher reading a passage aloud pauses at *sediment*, says "bits of rock and soil that settle to the bottom," and moves on — a two-second gloss that preserves comprehension

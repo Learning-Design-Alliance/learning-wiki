@@ -66,7 +66,7 @@ The same behavioural experiment found that among low-presence participants "did 
 ## Related Claims
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Learning each language in its own distinctive VR context reduced cross-language intrusions relative to learning both languages in a single context](dual-context-vr-reduced-language-intrusions.md) — related
 - [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related

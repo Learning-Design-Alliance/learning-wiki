@@ -41,7 +41,8 @@ Drawing on first-language and bilingual programs in Peru, Bolivia, and the Unite
 - [The review reports that students acquire literacy most efficiently in their native language and that expecting literacy in a foreign language hampers academic achievement](../claims/literacy-most-efficient-native-language.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Allow EFL students to discuss texts in their mother tongue alongside English](allow-l1-in-efl-text-discussion.md)
 
 ## Examples
 -

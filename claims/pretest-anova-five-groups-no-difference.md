@@ -53,3 +53,4 @@ One-way ANOVA on writing pre-test scores reported in Table 2 (Between Groups F=1
 - [The three intact classes were equivalent in general proficiency before treatment, supporting comparability of groups](pretest-homogeneity-three-intact-classes.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related

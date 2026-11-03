@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 255 claims (119 for, 118 mixed, 18 against) · 191 studies (78 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 48 of 191 report an effect size · 231 claims rest on one study
+> **Evidence** · 258 claims (120 for, 119 mixed, 19 against) · 193 studies (80 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 48 of 193 report an effect size · 234 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -303,6 +303,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [The amount of corrective feedback an individual learner received correlated positively with that learner's post-test performance](../claims/learner-feedback-amount-correlates-posttest-performance.md) [+W]
 - [The amount of feedback given for a specific word correlated positively with the number of correct responses to its post-test item](../claims/word-level-feedback-correlates-item-correct-responses.md) [+W]
 - [Overall post-hoc analyses found no significant difference between giver and receiver groups on either test](../claims/no-significant-giver-receiver-difference-overall.md) [~W]
+- [Student teachers viewed delayed video-based feedback favorably, citing reduced anxiety and comfort, but noted technical and observational limitations](../claims/social-validity-delayed-video-feedback.md) [+W]
+- [There were no overall differences between embedded self-explanation and explanatory feedback conditions on pre-post learning gains](../claims/no-overall-differences-self-explanation-vs-explanatory-feedback.md) [~W]
+- [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](../claims/self-explanation-advantage-near-transfer-controlling-levels.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

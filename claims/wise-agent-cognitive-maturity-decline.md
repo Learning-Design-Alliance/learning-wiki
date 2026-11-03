@@ -56,3 +56,4 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 - [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](critical-thinking-individual-intervention-unimpressive-track-record.md) — related
 - [Absolute epistemic beliefs increase over the study period among computer science undergraduates](cs-absolute-epistemic-beliefs-increase-longitudinally.md) — related
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
+- [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related

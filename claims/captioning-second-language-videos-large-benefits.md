@@ -61,3 +61,5 @@ Synthesis of the Montero Perez et al. (2013) meta-analysis, which the authors ra
 - [Students perceived AI as helping their text comprehension in Greek language class](students-perceived-ai-text-comprehension-help.md) — related
 - [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](captions-any-type-effective-listening.md) — a narrower finding that bears on this claim
 - [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — a narrower finding that bears on this claim
+- [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](captions-improve-vocabulary-acquisition-efl.md) — a narrower finding that bears on this claim
+- [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](captions-perceived-as-vocabulary-aid-not-distraction.md) — related

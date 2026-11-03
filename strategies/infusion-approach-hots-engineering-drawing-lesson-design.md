@@ -47,6 +47,7 @@ The Infusion Approach embeds named higher-order thinking skills (analytical and 
 ## Related Strategies
 
 - [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](hots-lesson-design-five-components-strategy.md)
+- [Include both LOTS and HOTS practice in communicative FL lessons](lots-and-hots-in-communicative-fl-lessons.md)
 
 ## Examples
 -

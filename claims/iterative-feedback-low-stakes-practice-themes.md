@@ -33,7 +33,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Haifang Liu 2026: no comparison group; the intervention came bundled with another change; groups were assigned but students were analysed as independent · Haifang Liu 2026 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q1 i?` Enhanced legal understanding through AI-driven iterative feedback comprised 42% of coded citations; confidence building and self-regulated learning comprised 31%. [→ Haifang Liu 2026](#haifang-liu-2026)

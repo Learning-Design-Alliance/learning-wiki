@@ -43,7 +43,8 @@ The FNT method, developed by Saroj Boasri, applies Buddhist principles for instr
 - [Fnt Metacognitive Outperforms Traditional Global Warming](../claims/fnt-metacognitive-outperforms-traditional-global-warming.md) [+M]
 
 ## Related Designs
-- 
+
+- [Cognitive acceleration stages (concrete preparation, cognitive conflict, metacognition, bridging) as the LC's structure for developing critical thinking](cognitive-acceleration-stages-lc-structure.md)
 
 ## Examples
 -

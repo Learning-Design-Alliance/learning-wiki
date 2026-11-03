@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (19 for, 19 mixed, 3 against) · 46 studies (13 causal, 11 quant-synthesis, 9 review, 4 qualitative, 3 associational, 3 design, 3 theoretical), `q1`–`q4` · 9 of 46 report an effect size · 30 claims rest on one study
+> **Evidence** · 43 claims (20 for, 20 mixed, 3 against) · 47 studies (14 causal, 11 quant-synthesis, 9 review, 4 qualitative, 3 associational, 3 design, 3 theoretical), `q1`–`q4` · 9 of 47 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ Claims bearing on group work that this page did not cite before, read only for t
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
 - [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](../claims/prior-achievement-null-self-efficacy.md) [~W]
 - [Across 11 modules of one ALEKS Algebra 1 class, the within-module grouping method obtained more favorable outer-fringe overlap metrics than random grouping and grouping by course score, on average](../claims/within-module-grouping-beats-random-and-score-metrics.md) [+W] — attached 2026-10-27 from Lechuga et al. (2023), which proposed "Use multidimensional learning data from personalized tutoring systems to form student groups with content recommendations, bridging personalized instruction and classroom pedagogy".
+- [Ability-grouping composition in reciprocal teaching of collaborative learning significantly affects individual achievement, with the high homogeneous group showing the largest mean gain (19.5) and the low homogeneous group the smallest (11.75)](../claims/ability-grouping-affects-individual-achievement-rt.md) [+W] — attached 2026-11-03 from Sumadi et al. (2017), which proposed "Form collaborative-learning groups deliberately, considering ability composition, because grouping type significantly shapes both achievement and social-skill outcomes".
 
 ## Objective and learner-valued goal
 
@@ -188,6 +189,7 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](../claims/group-composition-productivity-effects.md) [~W]
 - [The process evaluation suggested both interventions may be best delivered in groups of similar rather than mixed ability](../claims/abra-similar-ability-grouping-suggestion.md) [~W]
 - [Homogeneous readiness-based grouping is problematic: research warns it may decrease student self-efficacy and teacher expectations](../claims/homogeneous-grouping-readiness-problematic.md) [~W]
+- [The heterogeneous group ranks second on individual achievement gains, behind the high homogeneous group](../claims/heterogeneous-group-second-rank-gains.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — flexible grouping often structures when and how peer talk happens

@@ -52,6 +52,6 @@ The review reports Bygate's (2001) larger study of practicing a type of task on 
 
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](carousel-task-immediate-repetition-benefits.md) — related

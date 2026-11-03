@@ -51,3 +51,4 @@ Narrative synthesis statement in the Epistemological section, attributed by the 
 - [Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs](evaluativist-beliefs-two-sided-reports.md) — related
 - [Analogical reasoning and perspective taking are the strongest predictors of knowledge integration, followed by tolerance of ambiguity and uncertainty and reflexivity](analogical-reasoning-perspective-taking-strongest-predictors.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
+- [Lack of tolerance of ambiguity impedes textual and situational context analysis](ambiguity-intolerance-impedes-context-analysis.md) — related

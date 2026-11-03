@@ -53,3 +53,4 @@ Quasi-experimental intervention study with 240 fifth graders, 49% Spanish–Engl
 - [The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth](intervention-vocabulary-depth-significant-breadth-not.md) — related
 - [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](world-of-words-inductive-reasoning-significant.md) — related
+- [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](alias-academic-vocabulary-improves-word-level-vocabulary.md) — related

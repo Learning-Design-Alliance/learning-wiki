@@ -67,3 +67,4 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Content-Based Instruction was more effective than Problem-Based Learning for teaching EFL writing in a quasi-experimental comparison](cbi-more-effective-than-pbl-efl-writing.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related
+- [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](edtech-innovations-increase-academic-achievement-practicum.md) — related

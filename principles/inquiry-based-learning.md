@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (51 for, 31 mixed, 10 against) · 95 studies (37 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 24 of 95 report an effect size · 78 claims rest on one study
+> **Evidence** · 94 claims (52 for, 32 mixed, 10 against) · 96 studies (38 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 24 of 96 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -223,6 +223,8 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](../claims/structured-inquiry-favourable-student-attitudes-perceptions.md) [+W]
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](../claims/animation-5e-attitude-change-experimental-only.md) [~W]
 - [Inquiry-based interventions show no detectable difference from control teaching on students' school science and technology self-concept](../claims/inquiry-interventions-no-self-concept-difference.md) [~W]
+- [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](../claims/inquiry-greater-achievement-gains-than-traditional.md) [+W]
+- [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](../claims/students-enjoyed-conducting-experiments-most.md) [~W]
 
 ## Related Principles
 

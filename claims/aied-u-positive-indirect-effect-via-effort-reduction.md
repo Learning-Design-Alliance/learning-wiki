@@ -53,3 +53,4 @@ Robust mediation analysis tested whether the experimental condition (relative to
 - [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](guiding-dashboard-performance-frustration-subscales-drop.md) — related
 - [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related
 - [The intervention's advantage on total-score gain was reduced and became non-significant after adjusting for interest in science, which did not formally mediate the effect](science-interest-attenuates-intervention-effect.md) — related
+- [Tests of mediation suggest a large treatment effect on teacher practice and a strong effect of teacher practice on student achievement](teacher-practice-mediation-treatment-effect.md) — related

@@ -50,3 +50,4 @@ The article's theoretical framework holds that schemas are "an abstract knowledg
 
 ## Key Sources
 - Mosher, D. M., Burkhauser, M. A., & Kim, J. S. (2024). Improving second-grade reading comprehension through a sustained content literacy intervention: A mixed-methods study examining the mediating role of domain-specific vocabulary. Journal of Educational Psychology, 116(4), 550–568. https://doi.org/10.1037/edu0000868
+- Taylor, J. A., Getty, S. R., Kowalski, S. M., Wilson, C. D., Carlson, J., & Van Scotter, P. (2015). An Efficacy Trial of Research-Based Curriculum Materials With Curriculum-Based Professional Development. American Educational Research Journal. https://doi.org/10.3102/0002831215585962

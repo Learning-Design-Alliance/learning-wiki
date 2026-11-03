@@ -49,3 +49,5 @@ Exploratory multivariate linear regression of fidelity on outcomes, run separate
 - [CW-FIT improves teacher-rated academic competence on SSBS-2 and CPS-E but not on the SSIS Academic Competence scale](cw-fit-improves-academic-competence-ratings.md) — related
 - [CW-FIT shows no significant effect on teacher ratings of problem behaviors at post-test](cw-fit-no-effect-teacher-rated-problem-behaviors.md) — related
 - [Teachers and students report high social validity for CW-FIT](cw-fit-high-social-validity-ratings.md) — related
+- [Teachers implement CW-FIT with high procedural fidelity when supported by coaching](cw-fit-high-fidelity-implementation.md) — related
+- [CW-FIT improves general classroom management practices from about 50% to 84%](cw-fit-improves-classroom-management-practices.md) — related

@@ -27,7 +27,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 7 mixed, 1 against) · 25 studies (10 quant-synthesis, 9 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 26 studies (10 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 26 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims this page cited before it was rewritten, and other claims bearing on jour
 - [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](../claims/guided-reflection-produces-longer-reflections.md) [+W] — the same service-learning study: guided journals yielded 926 paragraphs against 478 for free ones. Length, not quality or learning.
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W] — a theoretical argument with no data; used in the second-language row.
 - [Expressive Writing Improves Health Outcomes](../claims/expressive-writing-improves-health-outcomes.md) [~M] and [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~M] — emotional disclosure writing: a very small average effect on health across 146 randomized studies, and a medium effect on exam scores for test-anxious ninth graders that a later meta-analysis did not support as general. They bear on affective journals, not on learning content.
+- [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](../claims/reflective-diary-comparable-overall-scores.md) [+W] — attached 2026-11-03 from Hsieh et al. (2012), which proposed "Reflective thinking via weekly weblogs can aid lower achieving students to reach learning performance comparable with higher achieving students in a software design course."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

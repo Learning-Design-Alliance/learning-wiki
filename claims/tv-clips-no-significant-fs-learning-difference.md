@@ -50,3 +50,4 @@ Independent-samples t-test on the posttest of 20 experimental and 20 control par
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](humorous-video-clips-improve-efl-idiom-achievement.md) — related
 - [Instructional video clips improved macroeconomics test scores relative to control](instructional-video-clips-improve-macroeconomics-test-scores.md) — related
 - [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — related
+- [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — related

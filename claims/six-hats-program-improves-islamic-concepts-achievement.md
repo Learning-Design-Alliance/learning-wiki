@@ -51,3 +51,4 @@ Quasi-experimental covariance analysis of 216 randomly divided university studen
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
 - [K.W.L instruction produces significantly higher acquisition of religious concepts than traditional teaching among 8th-grade Jordanian students](kwl-improves-religious-concept-acquisition.md) — related
+- [The web-assisted six thinking hats intervention significantly increased students' attitudes towards computers compared to the control group.](web-assisted-six-hats-increased-computer-attitudes.md) — related

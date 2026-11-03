@@ -53,3 +53,4 @@ Same structural equation model as the whole-number outcome: latent fraction calc
 - [Processing speed, attentive behavior, and incoming calculation skill significantly predict whole-number calculations in at-risk fourth graders, with the model accounting for 51% of variance](predictors-whole-number-calculations-at-risk-fourth-graders.md) — related
 - [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — related
 - [Whole-number and fraction calculations fit a two-factor structure significantly better than a one-factor model](two-factor-calculation-structure-better-fit.md) — related
+- [Domain-general abilities moderate fraction intervention effects but whole-number calculation skill does not](domain-general-abilities-moderate-fraction-intervention-effects.md) — related

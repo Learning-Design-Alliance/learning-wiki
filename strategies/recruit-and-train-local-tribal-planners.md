@@ -41,6 +41,7 @@ For building local planning capability, the report recommends that "Emphasis sho
 
 - [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
 - [Build local capacity by recruiting and training staff from the schools' rural zones](recruit-train-local-rural-zone-staff.md)
+- [Provide institutional support for educational technology in schools: ministry provision, expert training, and a utilization manual](institutional-support-edtech-utilization.md)
 
 ## Examples
 -

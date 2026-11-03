@@ -3,6 +3,7 @@ type: claim
 title: Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature
 description: Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature
 id: explicit-l2-grammar-instruction-superior-to-implicit
+aliases: [explicit-instruction-more-effective-than-implicit]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -45,19 +46,30 @@ sources:
     n: 41 studies
     kind: quant-synthesis
     rigour: "?"
+  - id: ansari-2016
+    resource: "https://doi.org/10.7575/aiac.alls.v.7n.1p.185"
+    title: "Mohammad Javad Ansari. (2016). The Acquisition of Phrasal Verbs through Cognitive Linguistic Approach: The Case of Iranian EFL Learners. Advances in Language and Literary Studies, 7(1). https://doi.org/10.7575/aiac.alls.v.7n.1p.185"
+    author: Mohammad Javad Ansari
+    q: 1
+    i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3`
-> **Currency** · newest study 2022 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 5 studies · 3 quant-synthesis `r2`, 1 causal `r1`, 1 review `r2` · `q1`–`q3`
+> **Currency** · newest study 2022 · 4 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` Instruction incorporating explicit techniques leads to more substantial effects than implicit instruction in L2 learning. [→ Aydinbek C 2022](#aydinbek-c-2022)
 `q3 i?` A research synthesis and meta-analysis of 49 experimental and quasi-experimental L2 instruction studies published 1980–1998 found explicit types of instruction more effective than implicit types; the abstract prints no effect size. [→ Norris & Ortega 2000](#norris-ortega-2000)
 `q3 i?` A meta-analytic update of Norris and Ortega (2000), pooling 34 studies that directly compared explicit and implicit instructional treatments (11 from the original and 23 published 1999–2011), found explicit instruction more effective overall; the abstract prints no effect size. [→ Goo et al. 2015](#goo-et-al-2015)
 `q3 i?` A meta-analysis of 41 studies of English grammatical features found larger effect sizes for explicit than implicit instruction for both simple and complex features; the abstract prints no effect size. [→ Spada & Tomita 2010](#spada-tomita-2010)
+
+`q1 i?` In the discussion of a phrasal-verb study that compared cognitive-linguistic explanation with translation and had no implicit-instruction condition, the author asserts, citing Ellis (2012), that explicit instruction is more effective than implicit instruction; the study itself did not test that contrast. [→ Ansari 2016](#ansari-2016)
 
 ## Evidence
 
@@ -101,10 +113,20 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 
 > "The results indicate larger effect sizes for explicit over implicit instruction for simple and complex features."
 
+### Ansari 2016
+
+Mohammad Javad Ansari. (2016). The Acquisition of Phrasal Verbs through Cognitive Linguistic Approach: The Case of Iranian EFL Learners. Advances in Language and Literary Studies, 7(1). https://doi.org/10.7575/aiac.alls.v.7n.1p.185
+
+`q1 · i?` · `causal · r1`
+
+A quasi-experiment with Iranian intermediate EFL learners compared two ways of teaching orientational phrasal verbs: a cognitive-linguistic explanation of the particles' meanings with visual aids (experimental group) against translation of the phrasal verbs (control group). It found the cognitive-linguistic group scored higher on both taught and untaught phrasal verbs. The study had no implicit-instruction condition and did not compare explicit with implicit instruction. The quotation below is the author's discussion-section assertion, which rests on Ellis (2012)'s review as cited in the article rather than on a contrast this study measured, so this entry adds no independent evidence for the claim; no effect size is reported for the explicit–implicit contrast.
+
+> "Regarding the matter of explicitness or implicitness, based on the findings of this paper, explicitness is more effective than the opposite one; and Ellis (2012) postulates this notion by reviewing the experimental and quasi-experimental investigation into the L2 instruction effectiveness and comes to this conclusion that the explicit instruction is more effective that the implicit type."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **19 distinct studies** (6 review, 5 causal, 4 quant-synthesis, 4 theoretical), `q1`–`q3`, 0 of 19 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **20 distinct studies** (6 review, 5 causal, 4 quant-synthesis, 4 theoretical, 1 kind not coded), `q1`–`q3`, 0 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -112,6 +134,7 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 | [Norris & Ortega 2000](https://doi.org/10.1111/0023-8333.00136) | q3 · quant-synthesis · r2 | i? | this claim |
 | [Goo et al. 2015](https://doi.org/10.1075/sibil.48.18goo) | q3 · quant-synthesis · r? | i? | this claim |
 | [Spada & Tomita 2010](https://doi.org/10.1111/j.1467-9922.2010.00562.x) | q3 · quant-synthesis · r? | i? | this claim; [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports) |
+| [Ansari 2016](https://doi.org/10.7575/aiac.alls.v.7n.1p.185) | q1 | i? | this claim |
 | Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports); [Explicit teaching is more effective for EFL copular be learning but its effect is not dura](explicit-teaching-effective-but-not-durable.md) (qualifies); [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruc](rule-oriented-explicit-outperforms-implicit.md) (supports) |
 | Calderon 1982 | q2 · theoretical · r1 | i? | [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitiv](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) (counts against) |
 | [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 / q2 · theoretical · r3 | i? | [Mental representation is not amenable to direct explicit instruction because UG and parser](mental-representation-not-directly-instructable.md) (counts against); [Learners acquired untaught syntactic properties but failed to show sensitivity to agreemen](untaught-syntax-acquired-taught-agreement-not.md) (counts against); [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exis](grammar-as-skill-is-a-conflation.md) (counts against) |
@@ -132,10 +155,13 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — a broader claim this one bears on
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — a narrower finding that bears on this claim
@@ -163,3 +189,7 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [Earlier writing-instruction theories (frequency, grammatical, error correction, building blocks) failed to establish improvement in students' writing](earlier-writing-theories-failed-improvement.md) — reports the opposite
 - [Form-focused instruction, whether via focused communication tasks or contextualized practice activities, significantly improves learners' explicit knowledge of past unreal conditionals relative to a control group, with gains durable for ten weeks](form-focused-instruction-explicit-knowledge-conditionals.md) — a narrower finding that bears on this claim
 - [Tertiary EFL students taught advanced grammar via task-based instruction outperformed peers taught with explicit form-focused instruction on negotiated written-production scores](tblt-outperforms-form-focused-grammar-tertiary-writing.md) — reports the opposite
+- [Cognitive-linguistic approach fosters learner autonomy and motivation in phrasal-verb learning](cognitive-linguistics-fosters-autonomy-motivation.md) — related
+- [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — related
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — related
